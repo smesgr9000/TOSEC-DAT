@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "3DO Multi Game Sampler Number 3, The (1995)(3DO Company)(EU)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

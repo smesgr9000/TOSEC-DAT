@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "AMOS PD CD - The Official AMOS PD Library on CD (1994)(Weird Science)[!][Amiga-CD32-CDTV].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

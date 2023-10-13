@@ -1,0 +1,64 @@
+CATALOG 5028587080999
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 01 of 16)[!][NOD].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 02 of 16)[!][NOD].wav" WAVE
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 00:00:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 03 of 16)[!][NOD].wav" WAVE
+  TRACK 03 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 04 of 16)[!][NOD].wav" WAVE
+  TRACK 04 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 05 of 16)[!][NOD].wav" WAVE
+  TRACK 05 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 06 of 16)[!][NOD].wav" WAVE
+  TRACK 06 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 07 of 16)[!][NOD].wav" WAVE
+  TRACK 07 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 08 of 16)[!][NOD].wav" WAVE
+  TRACK 08 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 09 of 16)[!][NOD].wav" WAVE
+  TRACK 09 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 10 of 16)[!][NOD].wav" WAVE
+  TRACK 10 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 11 of 16)[!][NOD].wav" WAVE
+  TRACK 11 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 12 of 16)[!][NOD].wav" WAVE
+  TRACK 12 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 13 of 16)[!][NOD].wav" WAVE
+  TRACK 13 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 14 of 16)[!][NOD].wav" WAVE
+  TRACK 14 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 15 of 16)[!][NOD].wav" WAVE
+  TRACK 15 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Command & Conquer - Teil 1 - Der Tiberiumkonflikt v1.000 (1996)(Virgin)(PAL)(DE)(Disc 2 of 2)(Track 16 of 16)[!][NOD].wav" WAVE
+  TRACK 16 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00

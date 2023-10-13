@@ -1,0 +1,4 @@
+CATALOG 5028587010378
+FILE "Blade Runner (1997)(Virgin)(Disc 4 of 4)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

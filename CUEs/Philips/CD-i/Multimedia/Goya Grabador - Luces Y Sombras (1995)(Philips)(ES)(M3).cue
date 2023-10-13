@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Goya Grabador - Luces Y Sombras (1995)(Philips)(ES)(M3).iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

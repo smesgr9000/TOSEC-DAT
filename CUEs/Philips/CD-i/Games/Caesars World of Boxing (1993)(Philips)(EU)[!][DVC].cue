@@ -1,0 +1,4 @@
+CATALOG 8712581001438
+FILE "Caesars World of Boxing (1993)(Philips)(EU)[!][DVC].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

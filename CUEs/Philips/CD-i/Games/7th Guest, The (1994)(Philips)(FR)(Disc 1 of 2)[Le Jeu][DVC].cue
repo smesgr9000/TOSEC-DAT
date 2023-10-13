@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "7th Guest, The (1994)(Philips)(FR)(Disc 1 of 2)[Le Jeu][DVC].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

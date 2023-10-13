@@ -1,0 +1,3 @@
+FILE "Bow & Arrow PSX v0.1 (2021-10-21)(Schnappy).bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

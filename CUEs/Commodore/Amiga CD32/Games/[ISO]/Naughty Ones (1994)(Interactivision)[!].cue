@@ -1,0 +1,4 @@
+CATALOG 5709382000282
+FILE "Naughty Ones (1994)(Interactivision)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

@@ -1,0 +1,4 @@
+CATALOG 9788448049508
+FILE "Tolkien - Enciclopedia en CD-ROM (1993)(Timun Mas)(ES).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

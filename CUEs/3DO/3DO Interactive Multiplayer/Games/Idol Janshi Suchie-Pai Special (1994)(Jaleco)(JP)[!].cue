@@ -1,0 +1,4 @@
+CATALOG 4907859107019
+FILE "Idol Janshi Suchie-Pai Special (1994)(Jaleco)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

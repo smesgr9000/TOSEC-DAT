@@ -1,0 +1,3 @@
+FILE "Top of the Pops Mix Factory (1996)(BBC)(GB).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

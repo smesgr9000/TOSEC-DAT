@@ -1,0 +1,4 @@
+CATALOG 4907940401255
+FILE "Game no Tatsujin (1995)(Sunsoft)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

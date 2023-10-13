@@ -1,0 +1,4 @@
+CATALOG 5015839988226
+FILE "Super Wing Commander (1994)(Origin)(EU)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

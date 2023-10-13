@@ -1,0 +1,4 @@
+CATALOG 4984824061460
+FILE "Strahl (1994)(Media Entertainment)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Gateshead 1900 - A Guide to Tyneside 100 Years Ago (1995)(Xdra)(EU).iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

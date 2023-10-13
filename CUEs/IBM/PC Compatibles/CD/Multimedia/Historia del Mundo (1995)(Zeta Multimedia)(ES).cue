@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Historia del Mundo (1995)(Zeta Multimedia)(ES).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

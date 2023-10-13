@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Tele-Info Vol. 2 (1997)(Tele-Info Verlag)(DE)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

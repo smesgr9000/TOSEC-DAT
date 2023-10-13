@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Apple Internet Connection Kit v1.1.5 (1996)(Apple).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

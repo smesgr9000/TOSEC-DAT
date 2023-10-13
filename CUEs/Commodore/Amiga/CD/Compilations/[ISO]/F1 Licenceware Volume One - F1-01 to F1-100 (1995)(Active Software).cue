@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "F1 Licenceware Volume One - F1-01 to F1-100 (1995)(Active Software).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

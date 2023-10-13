@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Richard Scarry's Busiest Neighborhood Disc Ever! (1992)(Philips)(US)[3106900382 50257 831 01].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

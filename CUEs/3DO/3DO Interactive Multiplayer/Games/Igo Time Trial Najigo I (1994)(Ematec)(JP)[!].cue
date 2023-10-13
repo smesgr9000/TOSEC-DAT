@@ -1,0 +1,4 @@
+CATALOG 4984824047488
+FILE "Igo Time Trial Najigo I (1994)(Ematec)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

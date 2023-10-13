@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "King's Quest VII - The Princeless Bride (1994)(Sierra)(DE).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

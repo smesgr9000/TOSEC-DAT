@@ -1,0 +1,7 @@
+FILE "Iaquo (2000)(Yodel)(PD).iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+FILE "Iaquo (2000)(Yodel)(PD).wav" WAVE
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 00:00:00

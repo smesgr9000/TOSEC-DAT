@@ -1,0 +1,3 @@
+FILE "Rest Home (2000-04-15)(Paradox)(PD).bin" BINARY
+  TRACK 01 MODE2/2336
+    INDEX 01 00:00:00

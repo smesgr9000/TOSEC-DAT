@@ -1,0 +1,4 @@
+CATALOG 8712581200909
+FILE "Video Grand Prix Speedway (1993)(Philips)(FR).iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

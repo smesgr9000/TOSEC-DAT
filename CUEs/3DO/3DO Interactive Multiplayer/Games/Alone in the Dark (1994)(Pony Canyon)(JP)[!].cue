@@ -1,0 +1,4 @@
+CATALOG 4984824053243
+FILE "Alone in the Dark (1994)(Pony Canyon)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

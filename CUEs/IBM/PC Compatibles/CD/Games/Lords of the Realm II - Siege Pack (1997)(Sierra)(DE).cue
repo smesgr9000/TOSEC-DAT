@@ -1,0 +1,4 @@
+CATALOG 3348542025233
+FILE "Lords of the Realm II - Siege Pack (1997)(Sierra)(DE).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

@@ -1,0 +1,3 @@
+FILE "Virtual Karting 1&2 (2016-08-24)(OTM)[Cobe].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

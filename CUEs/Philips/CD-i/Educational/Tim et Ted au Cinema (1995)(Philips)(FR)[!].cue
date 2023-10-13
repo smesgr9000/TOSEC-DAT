@@ -1,0 +1,4 @@
+CATALOG 8712581201357
+FILE "Tim et Ted au Cinema (1995)(Philips)(FR)[!].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

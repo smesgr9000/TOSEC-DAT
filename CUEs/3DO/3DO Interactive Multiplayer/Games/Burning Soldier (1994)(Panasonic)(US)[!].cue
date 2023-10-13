@@ -1,0 +1,4 @@
+CATALOG 0379880830091
+FILE "Burning Soldier (1994)(Panasonic)(US)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

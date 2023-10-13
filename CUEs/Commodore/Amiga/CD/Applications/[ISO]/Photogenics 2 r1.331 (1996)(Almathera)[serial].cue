@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Photogenics 2 r1.331 (1996)(Almathera)[serial].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

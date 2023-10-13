@@ -1,0 +1,3 @@
+FILE "Nolibgs Demo v0.11 (2021-11-14)(Schnappy).bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

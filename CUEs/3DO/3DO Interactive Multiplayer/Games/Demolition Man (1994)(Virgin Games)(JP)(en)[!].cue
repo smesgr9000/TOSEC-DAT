@@ -1,0 +1,4 @@
+CATALOG 4984824061446
+FILE "Demolition Man (1994)(Virgin Games)(JP)(en)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

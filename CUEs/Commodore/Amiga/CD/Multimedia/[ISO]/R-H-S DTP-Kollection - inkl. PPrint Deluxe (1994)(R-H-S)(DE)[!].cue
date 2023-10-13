@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "R-H-S DTP-Kollection - inkl. PPrint Deluxe (1994)(R-H-S)(DE)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

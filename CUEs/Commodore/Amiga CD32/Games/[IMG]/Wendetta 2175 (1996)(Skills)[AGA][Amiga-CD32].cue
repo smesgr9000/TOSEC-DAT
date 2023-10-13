@@ -1,0 +1,3 @@
+FILE "Wendetta 2175 (1996)(Skills)[AGA][Amiga-CD32].img" BINARY
+   TRACK 1 MODE1/2352
+   INDEX 1 00:00:00

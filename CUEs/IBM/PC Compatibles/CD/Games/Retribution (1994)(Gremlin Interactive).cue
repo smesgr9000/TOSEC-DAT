@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Retribution (1994)(Gremlin Interactive).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

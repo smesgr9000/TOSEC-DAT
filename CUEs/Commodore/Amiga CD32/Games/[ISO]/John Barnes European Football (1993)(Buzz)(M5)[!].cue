@@ -1,0 +1,4 @@
+CATALOG 5017898901536
+FILE "John Barnes European Football (1993)(Buzz)(M5)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

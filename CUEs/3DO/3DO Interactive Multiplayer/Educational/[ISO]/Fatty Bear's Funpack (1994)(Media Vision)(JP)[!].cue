@@ -1,0 +1,4 @@
+CATALOG 4984824047471
+FILE "Fatty Bear's Funpack (1994)(Media Vision)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

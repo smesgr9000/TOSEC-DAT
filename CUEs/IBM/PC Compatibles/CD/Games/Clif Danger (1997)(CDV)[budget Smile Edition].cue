@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Clif Danger (1997)(CDV)[budget Smile Edition].iso" BINARY
+  TRACK 01 MODE2/2336
+    INDEX 01 00:00:00

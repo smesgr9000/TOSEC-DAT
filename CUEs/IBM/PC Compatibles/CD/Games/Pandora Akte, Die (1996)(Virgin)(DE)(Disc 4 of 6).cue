@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Pandora Akte, Die (1996)(Virgin)(DE)(Disc 4 of 6).iso" BINARY
+  TRACK 01 MODE2/2336
+    INDEX 01 00:00:00

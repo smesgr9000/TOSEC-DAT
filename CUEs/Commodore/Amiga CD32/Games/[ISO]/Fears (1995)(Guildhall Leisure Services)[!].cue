@@ -1,0 +1,4 @@
+CATALOG 5012323060024
+FILE "Fears (1995)(Guildhall Leisure Services)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

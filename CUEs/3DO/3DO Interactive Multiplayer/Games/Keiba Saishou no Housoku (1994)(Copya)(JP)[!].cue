@@ -1,0 +1,4 @@
+CATALOG 4984824055292
+FILE "Keiba Saishou no Housoku (1994)(Copya)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

@@ -1,0 +1,4 @@
+CATALOG 5026555100052
+FILE "Star Crusader (1994)(Gametek - Take 2)[!][Amiga-CD32].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

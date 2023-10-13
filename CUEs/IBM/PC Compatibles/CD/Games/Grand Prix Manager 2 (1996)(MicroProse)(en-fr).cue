@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Grand Prix Manager 2 (1996)(MicroProse)(en-fr).iso" BINARY
+  TRACK 01 MODE2/2336
+    INDEX 01 00:00:00

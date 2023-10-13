@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Power-Games (1994)(Media Team)(en-de)[!][Amiga-CD32-CDTV].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

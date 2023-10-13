@@ -1,0 +1,4 @@
+CATALOG 3348542025295
+FILE "Red Baron with Mission Builder (1997)(Sierra).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

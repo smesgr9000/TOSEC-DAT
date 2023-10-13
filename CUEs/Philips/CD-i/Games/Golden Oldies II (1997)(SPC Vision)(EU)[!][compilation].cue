@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Golden Oldies II (1997)(SPC Vision)(EU)[!][compilation].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

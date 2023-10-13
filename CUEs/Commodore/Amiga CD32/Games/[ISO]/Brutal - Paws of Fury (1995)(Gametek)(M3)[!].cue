@@ -1,0 +1,4 @@
+CATALOG 5026555100144
+FILE "Brutal - Paws of Fury (1995)(Gametek)(M3)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

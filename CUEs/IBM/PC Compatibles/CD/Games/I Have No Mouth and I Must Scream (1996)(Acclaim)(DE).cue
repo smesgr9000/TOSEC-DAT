@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "I Have No Mouth and I Must Scream (1996)(Acclaim)(DE).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

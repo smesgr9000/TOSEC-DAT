@@ -1,0 +1,3 @@
+FILE "Mode 7 Demo (2008-01-06)(RasterSoft)" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

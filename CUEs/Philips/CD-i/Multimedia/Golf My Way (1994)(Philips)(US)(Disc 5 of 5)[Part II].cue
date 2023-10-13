@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Golf My Way (1994)(Philips)(US)(Disc 5 of 5)[Part II].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "FIFA 98 - Die WM-Qualifikation (1997)(Electronic Arts)(DE)(M6).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

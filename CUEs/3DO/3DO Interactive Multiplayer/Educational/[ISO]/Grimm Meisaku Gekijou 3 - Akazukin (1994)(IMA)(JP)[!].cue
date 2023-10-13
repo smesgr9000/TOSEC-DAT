@@ -1,0 +1,4 @@
+CATALOG 4984824053281
+FILE "Grimm Meisaku Gekijou 3 - Akazukin (1994)(IMA)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

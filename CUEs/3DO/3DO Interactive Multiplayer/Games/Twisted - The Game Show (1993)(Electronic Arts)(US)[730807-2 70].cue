@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Twisted - The Game Show (1993)(Electronic Arts)(US)[730807-2 70].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

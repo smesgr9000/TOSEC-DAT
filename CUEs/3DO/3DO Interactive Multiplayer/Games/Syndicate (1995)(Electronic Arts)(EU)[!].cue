@@ -1,0 +1,4 @@
+CATALOG 5015839236228
+FILE "Syndicate (1995)(Electronic Arts)(EU)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

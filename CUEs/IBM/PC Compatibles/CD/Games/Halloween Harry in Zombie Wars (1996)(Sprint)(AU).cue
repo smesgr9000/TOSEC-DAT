@@ -1,0 +1,4 @@
+CATALOG 9319191002016
+FILE "Halloween Harry in Zombie Wars (1996)(Sprint)(AU).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

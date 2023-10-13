@@ -1,0 +1,6 @@
+FILE "AmigaOS 3.9 (2000)(Haage & Partner)[Install 45.0 (2000-11-24)].img" BINARY
+   TRACK 1 MODE1/2352
+   INDEX 1 00:00:00
+   TRACK 2 AUDIO
+   INDEX 0 53:15:50
+   INDEX 1 53:16:50

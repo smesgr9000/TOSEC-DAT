@@ -1,0 +1,4 @@
+CATALOG 4984824043473
+FILE "Night Trap (1994)(Virgin Games)(JP)(Disc 1 of 2)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

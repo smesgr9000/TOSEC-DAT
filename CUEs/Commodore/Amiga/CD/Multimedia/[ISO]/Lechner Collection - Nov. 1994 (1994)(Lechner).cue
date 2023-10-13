@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Lechner Collection - Nov. 1994 (1994)(Lechner).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

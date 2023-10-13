@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Project-X & F17 Challenge v2.0 (1993)(Team 17)[!][compilation][CDD3499].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

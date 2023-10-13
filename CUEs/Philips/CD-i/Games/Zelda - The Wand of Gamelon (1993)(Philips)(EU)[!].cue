@@ -1,0 +1,4 @@
+CATALOG 8712581000967
+FILE "Zelda - The Wand of Gamelon (1993)(Philips)(EU)[!].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

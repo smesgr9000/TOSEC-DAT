@@ -1,0 +1,4 @@
+CATALOG 4988681000372
+FILE "Galaxy Wars - Regional Power II (1992)(Cosmos)(JP).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

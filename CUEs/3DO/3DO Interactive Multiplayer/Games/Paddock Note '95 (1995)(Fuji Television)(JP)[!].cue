@@ -1,0 +1,4 @@
+CATALOG 4984824070943
+FILE "Paddock Note '95 (1995)(Fuji Television)(JP)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

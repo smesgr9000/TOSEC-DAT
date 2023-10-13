@@ -1,0 +1,4 @@
+CATALOG 5013248004537
+FILE "Seven Gates of Jambala, The (1993)(Unique)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

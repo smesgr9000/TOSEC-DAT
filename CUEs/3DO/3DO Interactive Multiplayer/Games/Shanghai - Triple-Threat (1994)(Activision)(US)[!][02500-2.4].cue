@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Shanghai - Triple-Threat (1994)(Activision)(US)[!][02500-2.4].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

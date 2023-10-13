@@ -1,0 +1,4 @@
+CATALOG 4984824087408
+FILE "Igo Time Trial Shikatsudai Hyakka (1995)(Ematec)(JP).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

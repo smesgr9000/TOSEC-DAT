@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Crystal Borg in Hyperspace (2017)(Optimus6128).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

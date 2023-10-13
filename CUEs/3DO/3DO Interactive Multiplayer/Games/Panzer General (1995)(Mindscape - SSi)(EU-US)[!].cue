@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Panzer General (1995)(Mindscape - SSi)(EU-US)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

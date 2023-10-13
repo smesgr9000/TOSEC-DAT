@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Hit Karaoke Volume 5 - Top Club (1996)(Philips)(FR).iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

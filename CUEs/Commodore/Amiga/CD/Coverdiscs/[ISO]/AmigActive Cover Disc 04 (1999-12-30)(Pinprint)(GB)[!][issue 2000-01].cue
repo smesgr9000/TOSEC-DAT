@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "AmigActive Cover Disc 04 (1999-12-30)(Pinprint)(GB)[!][issue 2000-01].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

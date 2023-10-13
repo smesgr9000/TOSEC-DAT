@@ -1,0 +1,4 @@
+CATALOG 9004406439427
+FILE "Best Of Manfred Deix Vol. 1, The (1994)(Philips)(AT)[DVC].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

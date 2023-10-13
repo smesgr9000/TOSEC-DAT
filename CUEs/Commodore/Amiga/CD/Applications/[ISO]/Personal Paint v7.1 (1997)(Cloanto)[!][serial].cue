@@ -1,0 +1,4 @@
+CATALOG 8008868886806
+FILE "Personal Paint v7.1 (1997)(Cloanto)[!][serial].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

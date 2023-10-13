@@ -1,0 +1,4 @@
+CATALOG 5013248004544
+FILE "Chambers of Shaolin (1993)(Unique)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

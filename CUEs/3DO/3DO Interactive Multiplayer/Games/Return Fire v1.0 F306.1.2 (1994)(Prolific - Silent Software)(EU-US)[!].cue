@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Return Fire v1.0 F306.1.2 (1994)(Prolific - Silent Software)(EU-US)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

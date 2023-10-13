@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Motorhead (1998)(Gremlin)[OEM Matrox Millennium G200].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

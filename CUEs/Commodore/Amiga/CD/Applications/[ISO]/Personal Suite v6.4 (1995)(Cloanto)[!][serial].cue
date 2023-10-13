@@ -1,0 +1,4 @@
+CATALOG 8008868088880
+FILE "Personal Suite v6.4 (1995)(Cloanto)[!][serial].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

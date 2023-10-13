@@ -1,0 +1,4 @@
+CATALOG 5015839286223
+FILE "Theme Park (1994)(Electronic Arts)(EU)(en-fr)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

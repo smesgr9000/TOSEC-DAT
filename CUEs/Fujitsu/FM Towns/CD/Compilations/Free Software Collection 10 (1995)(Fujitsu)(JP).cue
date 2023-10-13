@@ -1,0 +1,4 @@
+CATALOG 4988618095228
+FILE "Free Software Collection 10 (1995)(Fujitsu)(JP).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

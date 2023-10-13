@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Powder (1998)(Verkosoft Publishing)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

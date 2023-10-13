@@ -1,0 +1,4 @@
+CATALOG 8712581500191
+FILE "Time-Life - La Fotografia In 35 mm (1992)(Philips)(IT).iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

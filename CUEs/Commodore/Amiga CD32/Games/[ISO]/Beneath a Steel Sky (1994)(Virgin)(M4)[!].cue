@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Beneath a Steel Sky (1994)(Virgin)(M4)[!].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

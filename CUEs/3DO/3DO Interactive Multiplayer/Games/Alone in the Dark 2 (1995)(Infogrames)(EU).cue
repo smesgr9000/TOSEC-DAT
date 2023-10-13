@@ -1,0 +1,4 @@
+CATALOG 3329720009405
+FILE "Alone in the Dark 2 (1995)(Infogrames)(EU).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

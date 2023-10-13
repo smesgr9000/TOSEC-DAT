@@ -1,0 +1,4 @@
+CATALOG 5030930014773
+FILE "Deadlock II- Shrine Wars (1997)(Electronic Arts).iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

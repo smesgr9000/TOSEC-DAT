@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Amiga Format CD51 (2000-03-10)(Future Publishing)(GB)[!][issue 2000-04].iso" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00

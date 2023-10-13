@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Harvest of the Sun - Vincent Van Gogh Revisited (1992)(Philips)(US)[310690028-2 50239 148 02].iso" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
