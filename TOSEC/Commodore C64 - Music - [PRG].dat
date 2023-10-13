@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Music - [PRG]</name>
-		<description>Commodore C64 - Music - [PRG] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Music - [PRG] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -460,6 +460,10 @@
 		<description>Ability (1995-12-28)(X-Vector)</description>
 		<rom name="Ability (1995-12-28)(X-Vector).prg" size="4501" crc="151e4d93" md5="0d21f947aba024dce61c17e0575aae80" sha1="d59b3c3c80bd240b6623bf4280cf6fc636e1dc36"/>
 	</game>
+	<game name="Abra Cadaver (2012-07-28)(Pievspie)">
+		<description>Abra Cadaver (2012-07-28)(Pievspie)</description>
+		<rom name="Abra Cadaver (2012-07-28)(Pievspie).prg" size="5740" crc="457b6d96" md5="44e07c933eb8f29ee6bf23341c3976b1" sha1="f6b43803e7bd80d85cb0482d2ef155ad9435f8b5"/>
+	</game>
 	<game name="Absolution #13 (2018-08-18)(Hokuto Force)">
 		<description>Absolution #13 (2018-08-18)(Hokuto Force)</description>
 		<rom name="Absolution #13 (2018-08-18)(Hokuto Force).prg" size="8165" crc="e2c12dd0" md5="5fd841e30b2cbbc05e98b558ec6a0d88" sha1="0437f0bbbec5261b5ee5ca8fcfb44da5f160ea51"/>
@@ -723,6 +727,10 @@
 	<game name="Alcohol vs. Deadline (2009-07-19)(Sys5)">
 		<description>Alcohol vs. Deadline (2009-07-19)(Sys5)</description>
 		<rom name="Alcohol vs. Deadline (2009-07-19)(Sys5).prg" size="10668" crc="8dc21c59" md5="042163346d9c408ef6b54473bfcdc2b9" sha1="92250d2b5e516bdd44c5c37943c9e67bbb96d9c1"/>
+	</game>
+	<game name="Alcoholics Digi (19xx)(Alcoholics)">
+		<description>Alcoholics Digi (19xx)(Alcoholics)</description>
+		<rom name="Alcoholics Digi (19xx)(Alcoholics).prg" size="18184" crc="2aa6b276" md5="b14a9dee0ba595258f7ea4d074ade259" sha1="6800a20259a4bc8c0e69bb24634f53414da49bd3"/>
 	</game>
 	<game name="Alf Mix 1 (1988-01-08)(Dutch Swapping Team)">
 		<description>Alf Mix 1 (1988-01-08)(Dutch Swapping Team)</description>
@@ -1143,6 +1151,10 @@
 	<game name="Another Hero Has Died (2014-09-30)(Scarzix)">
 		<description>Another Hero Has Died (2014-09-30)(Scarzix)</description>
 		<rom name="Another Hero Has Died (2014-09-30)(Scarzix).prg" size="4835" crc="d42cded4" md5="3b9c28acb6ac13a91ea13704809b75e5" sha1="5de2231f6684f83de2b73898e521a6a7830780e5"/>
+	</game>
+	<game name="Another One Bites The Dust (2023-04-29)(Finnish Gold)">
+		<description>Another One Bites The Dust (2023-04-29)(Finnish Gold)</description>
+		<rom name="Another One Bites The Dust (2023-04-29)(Finnish Gold).prg" size="15300" crc="85ca9bc7" md5="0bd8a797f58f0b0930d1c38bc8f4aa6a" sha1="1f4c2ac7ae264b94e078c13b9965b5e358d9710d"/>
 	</game>
 	<game name="Another Piece (1990)(Oxygen)">
 		<description>Another Piece (1990)(Oxygen)</description>
@@ -2060,9 +2072,9 @@
 		<description>Bazza on the Chicken Farm (1986)(We Music)</description>
 		<rom name="Bazza on the Chicken Farm (1986)(We Music).prg" size="8854" crc="1900461c" md5="f7c2ac9f72aa933cf1f68a581e7462cf" sha1="c40b3faf50e748c82476f58552c33b03ab9cc8d3"/>
 	</game>
-	<game name="Bazza on the Chicken Farm (1986)(We Music)[a]">
-		<description>Bazza on the Chicken Farm (1986)(We Music)[a]</description>
-		<rom name="Bazza on the Chicken Farm (1986)(We Music)[a].prg" size="8855" crc="a7714c57" md5="0a441ef9d3c76e571726226c078609dd" sha1="904db8f10c21cce1f3ba1c23426118dbb7789e65"/>
+	<game name="Bazza on the Chicken Farm (1986)(We Music)[o]">
+		<description>Bazza on the Chicken Farm (1986)(We Music)[o]</description>
+		<rom name="Bazza on the Chicken Farm (1986)(We Music)[o].prg" size="8855" crc="a7714c57" md5="0a441ef9d3c76e571726226c078609dd" sha1="904db8f10c21cce1f3ba1c23426118dbb7789e65"/>
 	</game>
 	<game name="B-Bobs Music (19xx)(X-Ample Architectures)">
 		<description>B-Bobs Music (19xx)(X-Ample Architectures)</description>
@@ -2154,19 +2166,19 @@
 	</game>
 	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)">
 		<description>Been Done Mix &apos;X&apos; (1994)(Storm)</description>
-		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm).prg" size="4352" crc="c6cc7766" md5="b4e25cb3fec79ae77217ea5788cad4c9" sha1="4ded3e9051156662fce359d6aa3b6b2ed5086564"/>
+		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm).prg" size="4264" crc="52b89983" md5="bf10bfc94ae189651c5980c9e5501c26" sha1="32d0ae4805fc63b1952ad510ff2e3e9abf736b16"/>
 	</game>
-	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)[a]">
-		<description>Been Done Mix &apos;X&apos; (1994)(Storm)[a]</description>
-		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm)[a].prg" size="4480" crc="ff3335fc" md5="a01852184b1baabc4cfe77aba8100a4a" sha1="22ff64403922b517fc6f97fae4d6a6f3a4ff059e"/>
+	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)[o]">
+		<description>Been Done Mix &apos;X&apos; (1994)(Storm)[o]</description>
+		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm)[o].prg" size="4352" crc="c6cc7766" md5="b4e25cb3fec79ae77217ea5788cad4c9" sha1="4ded3e9051156662fce359d6aa3b6b2ed5086564"/>
 	</game>
-	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)[a2]">
-		<description>Been Done Mix &apos;X&apos; (1994)(Storm)[a2]</description>
-		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm)[a2].prg" size="4352" crc="e6838d67" md5="5c6de68cf3059f674db971e46fcae63a" sha1="18ab067c11843e0e9bd41c6cabe0bfbb74e4ab96"/>
+	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)[o2]">
+		<description>Been Done Mix &apos;X&apos; (1994)(Storm)[o2]</description>
+		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm)[o2].prg" size="4480" crc="ff3335fc" md5="a01852184b1baabc4cfe77aba8100a4a" sha1="22ff64403922b517fc6f97fae4d6a6f3a4ff059e"/>
 	</game>
-	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)[a3]">
-		<description>Been Done Mix &apos;X&apos; (1994)(Storm)[a3]</description>
-		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm)[a3].prg" size="4264" crc="52b89983" md5="bf10bfc94ae189651c5980c9e5501c26" sha1="32d0ae4805fc63b1952ad510ff2e3e9abf736b16"/>
+	<game name="Been Done Mix &apos;X&apos; (1994)(Storm)[o3]">
+		<description>Been Done Mix &apos;X&apos; (1994)(Storm)[o3]</description>
+		<rom name="Been Done Mix &apos;X&apos; (1994)(Storm)[o3].prg" size="4352" crc="e6838d67" md5="5c6de68cf3059f674db971e46fcae63a" sha1="18ab067c11843e0e9bd41c6cabe0bfbb74e4ab96"/>
 	</game>
 	<game name="BEEP&apos;n&apos;BURP (2012-03-17)(Boased)">
 		<description>BEEP&apos;n&apos;BURP (2012-03-17)(Boased)</description>
@@ -2444,9 +2456,9 @@
 		<description>Big in Japan (1985)(Bogg)</description>
 		<rom name="Big in Japan (1985)(Bogg).prg" size="9300" crc="9366f44c" md5="9ea4b8314fec083ec6ba72e71f97a717" sha1="0eb7d027532dcc29608f6988e12f13d9cb0e5987"/>
 	</game>
-	<game name="Big in Japan (1985)(Bogg)[a]">
-		<description>Big in Japan (1985)(Bogg)[a]</description>
-		<rom name="Big in Japan (1985)(Bogg)[a].prg" size="9301" crc="adfb84c2" md5="59e32eb7c2d3ec238f99dc32380ca04b" sha1="88556d100f7292367a2bf296b97d5e1ea5231fd1"/>
+	<game name="Big in Japan (1985)(Bogg)[o]">
+		<description>Big in Japan (1985)(Bogg)[o]</description>
+		<rom name="Big in Japan (1985)(Bogg)[o].prg" size="9301" crc="adfb84c2" md5="59e32eb7c2d3ec238f99dc32380ca04b" sha1="88556d100f7292367a2bf296b97d5e1ea5231fd1"/>
 	</game>
 	<game name="Big Mac V1 Digi (19xx)(Vic)">
 		<description>Big Mac V1 Digi (19xx)(Vic)</description>
@@ -2508,6 +2520,10 @@
 		<description>Billie Jean (1984)(Cleveland Software-Society)</description>
 		<rom name="Billie Jean (1984)(Cleveland Software-Society).prg" size="11145" crc="8056fb10" md5="8d11334acc2a1fa3bab953d7767f6af6" sha1="464935f0e9096b76bee9990ca203eb72c2c985fb"/>
 	</game>
+	<game name="Billie Jean (2023-02-24)(Excess)">
+		<description>Billie Jean (2023-02-24)(Excess)</description>
+		<rom name="Billie Jean (2023-02-24)(Excess).prg" size="8754" crc="7cf75d64" md5="be2900f2dfe8d7315cb11df953681b4c" sha1="4232a11c28a8c3278f982617f2f269710d17fd99"/>
+	</game>
 	<game name="Billie Jean 8bit Style (2013-03-03)(SIDWAVE)">
 		<description>Billie Jean 8bit Style (2013-03-03)(SIDWAVE)</description>
 		<rom name="Billie Jean 8bit Style (2013-03-03)(SIDWAVE).prg" size="6669" crc="537d7e3b" md5="a2661e2ccda3a5d83540fb2d814770be" sha1="8a612f20dba4c630beda8d4cb9590c988c25c10a"/>
@@ -2567,6 +2583,10 @@
 	<game name="Bit Shit (1990-03)(Union)[a]">
 		<description>Bit Shit (1990-03)(Union)[a]</description>
 		<rom name="Bit Shit (1990-03)(Union)[a].prg" size="4343" crc="5a7a62b5" md5="c3824a6f04fa8cc7eb244e8bd4ee8644" sha1="c01e488bebbe5631cc7884d8e6fd1c8ee66e6cf8"/>
+	</game>
+	<game name="Bitch Switch (2012-04-17)(Pievspie)">
+		<description>Bitch Switch (2012-04-17)(Pievspie)</description>
+		<rom name="Bitch Switch (2012-04-17)(Pievspie).prg" size="10436" crc="a7edb1ad" md5="85d4d0bdaf3b8bb77f72011630004ce4" sha1="7b372e99c712f5ef34bde73f4453f04c42939702"/>
 	</game>
 	<game name="Bizzmo&apos;s Music #1 (1988)(Bizzmo)">
 		<description>Bizzmo&apos;s Music #1 (1988)(Bizzmo)</description>
@@ -2635,6 +2655,10 @@
 	<game name="Bladerunner Theme (19xx)(Equinoxe)">
 		<description>Bladerunner Theme (19xx)(Equinoxe)</description>
 		<rom name="Bladerunner Theme (19xx)(Equinoxe).prg" size="47695" crc="26a2ffa5" md5="19f2e74a2342d1bafc0f7af006925a50" sha1="871953536fdaef0d57a6ebbc0c3e37da6a15e26d"/>
+	</game>
+	<game name="Blades (2012-01-25)(Pievspie)">
+		<description>Blades (2012-01-25)(Pievspie)</description>
+		<rom name="Blades (2012-01-25)(Pievspie).prg" size="10436" crc="51fad7c9" md5="a685fb76ed7dab3abeabd988cc81744a" sha1="6c78a4dd9b06e77461e43ad7a1b31de3a9761df8"/>
 	</game>
 	<game name="Blah, Blah, Trance (2015-08-28)(Saul Cross)">
 		<description>Blah, Blah, Trance (2015-08-28)(Saul Cross)</description>
@@ -2828,6 +2852,10 @@
 		<description>BMX Simulator Sounds (1986)(AEK Crackware)</description>
 		<rom name="BMX Simulator Sounds (1986)(AEK Crackware).prg" size="12277" crc="4865c7af" md5="5a0685f9797ccedfb70cd760dd2bf8c2" sha1="0b7421b1007edb3a7708d1da9dbf069f569e12b8"/>
 	</game>
+	<game name="Bo Mi Kazali (2022-08-01)(Raf)">
+		<description>Bo Mi Kazali (2022-08-01)(Raf)</description>
+		<rom name="Bo Mi Kazali (2022-08-01)(Raf).prg" size="4093" crc="055540ed" md5="ed5efbb1fdc179bff53a0ca5bb58159a" sha1="2a0d3d0bde678e6d00ad7b29015de85ee06bff01"/>
+	</game>
 	<game name="Bob&apos;s Your Uncle (2016-07-02)(Panda Design)">
 		<description>Bob&apos;s Your Uncle (2016-07-02)(Panda Design)</description>
 		<rom name="Bob&apos;s Your Uncle (2016-07-02)(Panda Design).prg" size="2913" crc="6c097cc5" md5="ccc0db32cc85c1751b4059faac96b526" sha1="ecacbff23261bef4755f045304dfadea72993fda"/>
@@ -2959,6 +2987,10 @@
 	<game name="Boombox Alley (2015-09-18)(MultiStyle Labs)">
 		<description>Boombox Alley (2015-09-18)(MultiStyle Labs)</description>
 		<rom name="Boombox Alley (2015-09-18)(MultiStyle Labs).prg" size="7915" crc="c11ae0d5" md5="b02bc9c8f7b747628978bf03f76da8a9" sha1="d35a4165e290bdd84367db92a260e9b7105e44b0"/>
+	</game>
+	<game name="Boomshackalack (2022-11-19)(Ancients)">
+		<description>Boomshackalack (2022-11-19)(Ancients)</description>
+		<rom name="Boomshackalack (2022-11-19)(Ancients).prg" size="5060" crc="b8a574eb" md5="e621e84edb5cc8d5269c1faede4d1c0b" sha1="ffeef71078f137dbf08084692f153313c9fe87be"/>
 	</game>
 	<game name="Borderline Jitterbug (2017-07-02)(Sys5)">
 		<description>Borderline Jitterbug (2017-07-02)(Sys5)</description>
@@ -3400,6 +3432,10 @@
 		<description>Burbujas (2018-11-11)(Rock - Zardax)</description>
 		<rom name="Burbujas (2018-11-11)(Rock - Zardax).prg" size="4864" crc="61f0b50c" md5="8e2aaf217879ae035aafe7e85cf0ec5c" sha1="85777d5dc773742ca00a5ae0e0faac127a589e7c"/>
 	</game>
+	<game name="Burger Ninja Music, The (2022-10-29)(Aleksi Eeben)">
+		<description>Burger Ninja Music, The (2022-10-29)(Aleksi Eeben)</description>
+		<rom name="Burger Ninja Music, The (2022-10-29)(Aleksi Eeben).prg" size="3877" crc="87044765" md5="f144d2feea33ec8e64c0015e2ed53118" sha1="dc27f0e35ddc88f88e5bf8be201e14b5cab30439"/>
+	</game>
 	<game name="Burn (2011-08-09)(Slimex)">
 		<description>Burn (2011-08-09)(Slimex)</description>
 		<rom name="Burn (2011-08-09)(Slimex).prg" size="5740" crc="6b2e71e9" md5="d7e9533173b416c88813db115ef34145" sha1="2e3616f6b8077fb0a27110be90ca98856f8e9cb8"/>
@@ -3494,11 +3530,11 @@
 	</game>
 	<game name="Bydgoszcz Music (1995-07-29)(Medium)">
 		<description>Bydgoszcz Music (1995-07-29)(Medium)</description>
-		<rom name="Bydgoszcz Music (1995-07-29)(Medium).prg" size="26166" crc="2eb4da55" md5="92010cc70528e6f4dc8ba6db5eba3f68" sha1="916cbc48a8b556945bec999e04b2d6dbd8f6c818"/>
+		<rom name="Bydgoszcz Music (1995-07-29)(Medium).prg" size="26165" crc="0fbda419" md5="bfa452f159ff1836bf569d3e363ee6ab" sha1="87e553b0cab2c1900f849d0df4ed15b75ec047d2"/>
 	</game>
-	<game name="Bydgoszcz Music (1995-07-29)(Medium)[a]">
-		<description>Bydgoszcz Music (1995-07-29)(Medium)[a]</description>
-		<rom name="Bydgoszcz Music (1995-07-29)(Medium)[a].prg" size="26165" crc="0fbda419" md5="bfa452f159ff1836bf569d3e363ee6ab" sha1="87e553b0cab2c1900f849d0df4ed15b75ec047d2"/>
+	<game name="Bydgoszcz Music (1995-07-29)(Medium)[o]">
+		<description>Bydgoszcz Music (1995-07-29)(Medium)[o]</description>
+		<rom name="Bydgoszcz Music (1995-07-29)(Medium)[o].prg" size="26166" crc="2eb4da55" md5="92010cc70528e6f4dc8ba6db5eba3f68" sha1="916cbc48a8b556945bec999e04b2d6dbd8f6c818"/>
 	</game>
 	<game name="Bye Bye Satellite (2019-06-09)(Finnish Gold)">
 		<description>Bye Bye Satellite (2019-06-09)(Finnish Gold)</description>
@@ -3560,6 +3596,10 @@
 		<description>Call Me Please (2007-03-17)(Unreal)</description>
 		<rom name="Call Me Please (2007-03-17)(Unreal).prg" size="5703" crc="57642505" md5="0c777a3908fe576ec4a717f8c3bea142" sha1="95b10c8d685b1a3820b9d8e60efa2f27a55d20b0"/>
 	</game>
+	<game name="Call of Magic (2023-04-29)(Hokuto Force)">
+		<description>Call of Magic (2023-04-29)(Hokuto Force)</description>
+		<rom name="Call of Magic (2023-04-29)(Hokuto Force).prg" size="9913" crc="37cf6650" md5="17be9fe0437263e07029d3f5d8d98095" sha1="e47442b356ce08fa50c13b717fdb11dae6ce492f"/>
+	</game>
 	<game name="Calling Lars (2014-03-28)(Pal)">
 		<description>Calling Lars (2014-03-28)(Pal)</description>
 		<rom name="Calling Lars (2014-03-28)(Pal).prg" size="2833" crc="7644671f" md5="062cc72bd9d469a7e6d8308416f1cf2d" sha1="22835b08d524631b6b4279aa432eb39c3f7ed9c0"/>
@@ -3619,6 +3659,10 @@
 	<game name="Captain Dynamo Music Hack (1996)(Hackersoft)">
 		<description>Captain Dynamo Music Hack (1996)(Hackersoft)</description>
 		<rom name="Captain Dynamo Music Hack (1996)(Hackersoft).prg" size="12358" crc="671efa38" md5="8a3a48de8f53b9f685d11392b66925b3" sha1="9ddbfaa95edb7cf68796c7d8cf9639a21b7edc3a"/>
+	</game>
+	<game name="Captain Future (2023-02-13)(Excess)[2sid]">
+		<description>Captain Future (2023-02-13)(Excess)[2sid]</description>
+		<rom name="Captain Future (2023-02-13)(Excess)[2sid].prg" size="8642" crc="7a212d08" md5="1bca76d79d6ef47d604ddf4b703d341b" sha1="8cbb31c8de29cc6930569f8ed4610b809f7d5fc3"/>
 	</game>
 	<game name="Captured Theme (1986)(The Works)">
 		<description>Captured Theme (1986)(The Works)</description>
@@ -3744,9 +3788,9 @@
 		<description>Chalk (1986)(Choroid)</description>
 		<rom name="Chalk (1986)(Choroid).prg" size="7868" crc="c80888d3" md5="5baffc24da8aaa619b1e6135a6875d5a" sha1="a4e93beb9f12d3e404fe9ee9f36ab82803b5e929"/>
 	</game>
-	<game name="Chalk (1986)(Choroid)[a]">
-		<description>Chalk (1986)(Choroid)[a]</description>
-		<rom name="Chalk (1986)(Choroid)[a].prg" size="7869" crc="78c0ab5a" md5="129742d345c40969078bfcac6e07cf3f" sha1="5857a23e9f3a65bff2cc8597efa6229f4795a6ea"/>
+	<game name="Chalk (1986)(Choroid)[o]">
+		<description>Chalk (1986)(Choroid)[o]</description>
+		<rom name="Chalk (1986)(Choroid)[o].prg" size="7869" crc="78c0ab5a" md5="129742d345c40969078bfcac6e07cf3f" sha1="5857a23e9f3a65bff2cc8597efa6229f4795a6ea"/>
 	</game>
 	<game name="Challenge of the Gobots Tune (1987)(Danish Gold)">
 		<description>Challenge of the Gobots Tune (1987)(Danish Gold)</description>
@@ -4944,6 +4988,10 @@
 		<description>Crackwhore (2017-10-17)(Artline Designs)</description>
 		<rom name="Crackwhore (2017-10-17)(Artline Designs).prg" size="2593" crc="580a60b9" md5="10c8886adf530234b8d73b7ca194f249" sha1="59b25b3a42a48f7663bdc803fe5b2ebece5ae1a5"/>
 	</game>
+	<game name="Craft #2 (1992-01)(PDB)">
+		<description>Craft #2 (1992-01)(PDB)</description>
+		<rom name="Craft #2 (1992-01)(PDB).prg" size="2857" crc="29fdfff3" md5="3ee425de45bc388e3cd11a7b139eb5d6" sha1="6cbfc093a6d83e41dc48496d2f8db7ac7e021e26"/>
+	</game>
 	<game name="Crank Powered Async Loader (2015-01-07)(EXclusive ON - MultiStyle Labs - Samar Productions)">
 		<description>Crank Powered Async Loader (2015-01-07)(EXclusive ON - MultiStyle Labs - Samar Productions)</description>
 		<rom name="Crank Powered Async Loader (2015-01-07)(EXclusive ON - MultiStyle Labs - Samar Productions).prg" size="4164" crc="f8927381" md5="fffebbc00bf5cd1f23bc30806e5d271f" sha1="94fad6b97b3858316cf8cf19308cc8458c682deb"/>
@@ -4964,9 +5012,9 @@
 		<description>Crapno Tune (1994)(Megmyx)</description>
 		<rom name="Crapno Tune (1994)(Megmyx).prg" size="3811" crc="ca5db194" md5="12fb0b6089b36d07399a6e137f4af629" sha1="5ae85e457982eee994007381c54884f34bfe3b1b"/>
 	</game>
-	<game name="Crapno Tune (1994)(Megmyx)[a]">
-		<description>Crapno Tune (1994)(Megmyx)[a]</description>
-		<rom name="Crapno Tune (1994)(Megmyx)[a].prg" size="3840" crc="13b1e455" md5="fdff488fbf7050bdb55825328edb050e" sha1="65c422c9e82517efc644b1002fa95b3cf99ad637"/>
+	<game name="Crapno Tune (1994)(Megmyx)[o]">
+		<description>Crapno Tune (1994)(Megmyx)[o]</description>
+		<rom name="Crapno Tune (1994)(Megmyx)[o].prg" size="3840" crc="13b1e455" md5="fdff488fbf7050bdb55825328edb050e" sha1="65c422c9e82517efc644b1002fa95b3cf99ad637"/>
 	</game>
 	<game name="Crash &amp; Burn (2015-06-07)(Funkentstort)">
 		<description>Crash &amp; Burn (2015-06-07)(Funkentstort)</description>
@@ -5063,6 +5111,10 @@
 	<game name="Crockett&apos;s Theme (1987)(The Electronic Knights)">
 		<description>Crockett&apos;s Theme (1987)(The Electronic Knights)</description>
 		<rom name="Crockett&apos;s Theme (1987)(The Electronic Knights).prg" size="9666" crc="29ff59f3" md5="64e36d1c4ea6ef1843f06130099faace" sha1="144d958a6043421fad70e829a9cc5654c9764b1d"/>
+	</game>
+	<game name="Crockett&apos;s Theme (2023-01-28)(Hokuto Force)">
+		<description>Crockett&apos;s Theme (2023-01-28)(Hokuto Force)</description>
+		<rom name="Crockett&apos;s Theme (2023-01-28)(Hokuto Force).prg" size="9004" crc="32d101a9" md5="dbe121734bfb92a62f1efb2cf8b99e72" sha1="d4df287ed4b96d1f28f82d2f0c6c8778f6a7e618"/>
 	</game>
 	<game name="Cross, The (1989)(Lazer)">
 		<description>Cross, The (1989)(Lazer)</description>
@@ -5390,11 +5442,11 @@
 	</game>
 	<game name="Dark Beauty (1994)(Megmyx)">
 		<description>Dark Beauty (1994)(Megmyx)</description>
-		<rom name="Dark Beauty (1994)(Megmyx).prg" size="4608" crc="9abcf5f3" md5="70388b9e467d2404a3b92318651e5e11" sha1="cd731ca0508240685eb8098bba821544043751f2"/>
+		<rom name="Dark Beauty (1994)(Megmyx).prg" size="4562" crc="066ce143" md5="be4f9bd223c2b48666a505d9c5d6cb6a" sha1="8642043a95dc926d61876363db63165013ca25fa"/>
 	</game>
-	<game name="Dark Beauty (1994)(Megmyx)[a]">
-		<description>Dark Beauty (1994)(Megmyx)[a]</description>
-		<rom name="Dark Beauty (1994)(Megmyx)[a].prg" size="4562" crc="066ce143" md5="be4f9bd223c2b48666a505d9c5d6cb6a" sha1="8642043a95dc926d61876363db63165013ca25fa"/>
+	<game name="Dark Beauty (1994)(Megmyx)[o]">
+		<description>Dark Beauty (1994)(Megmyx)[o]</description>
+		<rom name="Dark Beauty (1994)(Megmyx)[o].prg" size="4608" crc="9abcf5f3" md5="70388b9e467d2404a3b92318651e5e11" sha1="cd731ca0508240685eb8098bba821544043751f2"/>
 	</game>
 	<game name="Dark Eagle (2003-11-08)(Tds)">
 		<description>Dark Eagle (2003-11-08)(Tds)</description>
@@ -6372,6 +6424,10 @@
 		<description>Disco Inferno (2017-10-07)(Artline Designs)</description>
 		<rom name="Disco Inferno (2017-10-07)(Artline Designs).prg" size="9146" crc="d1a5c87b" md5="e6fc233e82035c2efbe9699984b7dfa7" sha1="e68a4057543444a30d4223255605e7044200261b"/>
 	</game>
+	<game name="Disco n&apos; Derlando (2023-06-02)(BOOM!)">
+		<description>Disco n&apos; Derlando (2023-06-02)(BOOM!)</description>
+		<rom name="Disco n&apos; Derlando (2023-06-02)(BOOM!).prg" size="3608" crc="330b05ec" md5="6560196a9901c3a39d9c58eb91f4ed18" sha1="e1c25368d1c077972d1ff1b6de75be8df81f8340"/>
+	</game>
 	<game name="Disco Rap #1 (1988)(EGA - The Dark Science)">
 		<description>Disco Rap #1 (1988)(EGA - The Dark Science)</description>
 		<rom name="Disco Rap #1 (1988)(EGA - The Dark Science).prg" size="3895" crc="03d60378" md5="df9054400be29418f5b97f48d7aba83f" sha1="4381ad20b51f7dc1701ed977b3172b5c84d94fac"/>
@@ -6536,9 +6592,9 @@
 		<description>Domination Rip (1990)(Century)</description>
 		<rom name="Domination Rip (1990)(Century).prg" size="7612" crc="387fdf5b" md5="c0b8049731a29e46efd27d6a6bc90d90" sha1="c65d1c0df116709479fe5d7a125bb8535c750c63"/>
 	</game>
-	<game name="Domination Rip (1990)(Century)[a]">
-		<description>Domination Rip (1990)(Century)[a]</description>
-		<rom name="Domination Rip (1990)(Century)[a].prg" size="32768" crc="b0d70673" md5="be787778535e9849d05f3221721d6a45" sha1="7f7b3ce4eb30e54700df42f78784393ea05d7887"/>
+	<game name="Domination Rip (1990)(Century)[o]">
+		<description>Domination Rip (1990)(Century)[o]</description>
+		<rom name="Domination Rip (1990)(Century)[o].prg" size="32768" crc="b0d70673" md5="be787778535e9849d05f3221721d6a45" sha1="7f7b3ce4eb30e54700df42f78784393ea05d7887"/>
 	</game>
 	<game name="Dominator (1995)(System)">
 		<description>Dominator (1995)(System)</description>
@@ -6640,9 +6696,9 @@
 		<description>Double Speed Tune #1 (1990)(20th Century Composers)</description>
 		<rom name="Double Speed Tune #1 (1990)(20th Century Composers).prg" size="6053" crc="109ef259" md5="8bef09d2216740742d1b9371a13f6196" sha1="3cc8cef89265d6859b04cccb33056e7891b8ff05"/>
 	</game>
-	<game name="Double Speed Tune #1 (1990)(20th Century Composers)[a]">
-		<description>Double Speed Tune #1 (1990)(20th Century Composers)[a]</description>
-		<rom name="Double Speed Tune #1 (1990)(20th Century Composers)[a].prg" size="6144" crc="d67178ea" md5="6812ce6e13711edb08177c72513f1824" sha1="7b6642e82bd94278c5e5bb25fb8f547a841d0c4a"/>
+	<game name="Double Speed Tune #1 (1990)(20th Century Composers)[o]">
+		<description>Double Speed Tune #1 (1990)(20th Century Composers)[o]</description>
+		<rom name="Double Speed Tune #1 (1990)(20th Century Composers)[o].prg" size="6144" crc="d67178ea" md5="6812ce6e13711edb08177c72513f1824" sha1="7b6642e82bd94278c5e5bb25fb8f547a841d0c4a"/>
 	</game>
 	<game name="Double Sphere Music (1991)(Ikari - Talent)">
 		<description>Double Sphere Music (1991)(Ikari - Talent)</description>
@@ -6912,6 +6968,10 @@
 		<description>Drunken R2D2 (2009-09-19)(Randy)</description>
 		<rom name="Drunken R2D2 (2009-09-19)(Randy).prg" size="6321" crc="1598961f" md5="ee659db4ad6ac9fa6373aea5affbd113" sha1="7889c9cdb2c9bee559052f9166cd34b6edb8c3a7"/>
 	</game>
+	<game name="Drunken Sailor (2023-04-29)(Mayday!)">
+		<description>Drunken Sailor (2023-04-29)(Mayday!)</description>
+		<rom name="Drunken Sailor (2023-04-29)(Mayday!).prg" size="2810" crc="446b92cb" md5="81a5f728941023322a7663f57592f447" sha1="8d1dd6b9dd1f4a2ea75f1f993398faa1b92a663f"/>
+	</game>
 	<game name="Du&apos; Det Dejligste (2015-03-07)(Psylicium)">
 		<description>Du&apos; Det Dejligste (2015-03-07)(Psylicium)</description>
 		<rom name="Du&apos; Det Dejligste (2015-03-07)(Psylicium).prg" size="6834" crc="6032233d" md5="342ca7ea45230e3bbb2160ee60c9a2e2" sha1="d262c1ff91229de27d520ab4c58306869caf6d7b"/>
@@ -7016,9 +7076,9 @@
 		<description>Dynamix Music Rip (1989)(Hotline)</description>
 		<rom name="Dynamix Music Rip (1989)(Hotline).prg" size="5311" crc="f8797007" md5="be525b94bd5e0e3e531f42b07d435ca7" sha1="1698756cfd6ce399945526a08441df1602d5a2e2"/>
 	</game>
-	<game name="Dynamix Music Rip (1989)(Hotline)[a]">
-		<description>Dynamix Music Rip (1989)(Hotline)[a]</description>
-		<rom name="Dynamix Music Rip (1989)(Hotline)[a].prg" size="5376" crc="6a36b391" md5="3260f00fd8f72dccba01af04fbdca742" sha1="b7bf872a49ea7e0560fb21f8cb46d5348216c824"/>
+	<game name="Dynamix Music Rip (1989)(Hotline)[o]">
+		<description>Dynamix Music Rip (1989)(Hotline)[o]</description>
+		<rom name="Dynamix Music Rip (1989)(Hotline)[o].prg" size="5376" crc="6a36b391" md5="3260f00fd8f72dccba01af04fbdca742" sha1="b7bf872a49ea7e0560fb21f8cb46d5348216c824"/>
 	</game>
 	<game name="Dynamoid Music (19xx)(X-Ample Architectures)">
 		<description>Dynamoid Music (19xx)(X-Ample Architectures)</description>
@@ -7074,11 +7134,11 @@
 	</game>
 	<game name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a]">
 		<description>Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a]</description>
-		<rom name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a].prg" size="26368" crc="a5f0c166" md5="accefa1c72916c21c06470c5c75ddedf" sha1="d590dc50360708247bab90ed25267dbd6915d416"/>
+		<rom name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a].prg" size="26353" crc="c3bede0a" md5="bbf2efa8f672a1b927db73fa37d0c541" sha1="b9ab6d69c89607557a2e9dad49802119ec4f51e7"/>
 	</game>
-	<game name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a2]">
-		<description>Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a2]</description>
-		<rom name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[a2].prg" size="26353" crc="c3bede0a" md5="bbf2efa8f672a1b927db73fa37d0c541" sha1="b9ab6d69c89607557a2e9dad49802119ec4f51e7"/>
+	<game name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[o]">
+		<description>Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[o]</description>
+		<rom name="Earwax Pack (1994-03)(Blues Muz&apos; - Regina)[o].prg" size="26368" crc="a5f0c166" md5="accefa1c72916c21c06470c5c75ddedf" sha1="d590dc50360708247bab90ed25267dbd6915d416"/>
 	</game>
 	<game name="Easy (1993-06-05)(Hell Parrago)">
 		<description>Easy (1993-06-05)(Hell Parrago)</description>
@@ -7352,6 +7412,10 @@
 		<description>Ellipsis (2016-03-04)(Saul Cross)</description>
 		<rom name="Ellipsis (2016-03-04)(Saul Cross).prg" size="4042" crc="e0e07a80" md5="a8dd9e882e8c1752a85107edb17b4c69" sha1="85b227da8ae621f1711dd3c45ef05f009110ab76"/>
 	</game>
+	<game name="Elon Mush (2022-10-29)(Extend)">
+		<description>Elon Mush (2022-10-29)(Extend)</description>
+		<rom name="Elon Mush (2022-10-29)(Extend).prg" size="4731" crc="40209003" md5="0b3d4776a35edc25c960ec54f23b6205" sha1="99e9874f655847f790e96af09e89c13170a71a4e"/>
+	</game>
 	<game name="Elovena (2016-11-12)(Deizi)">
 		<description>Elovena (2016-11-12)(Deizi)</description>
 		<rom name="Elovena (2016-11-12)(Deizi).prg" size="4118" crc="db320fd5" md5="91b5a6c9ca35c4ece9fb55f44dff79ac" sha1="d834d652444ac426140cedb37ab5b2f67353fa3d"/>
@@ -7375,6 +7439,10 @@
 	<game name="Emil Bardh is always hard! (2009-06-14)(Panda Design)">
 		<description>Emil Bardh is always hard! (2009-06-14)(Panda Design)</description>
 		<rom name="Emil Bardh is always hard! (2009-06-14)(Panda Design).prg" size="2939" crc="f82260b3" md5="fb80aa36d4b5f297db0aec0ca4f2cd90" sha1="523f6c4422dc24b049352a4b993c8e35008988c5"/>
+	</game>
+	<game name="EmoKakFuu (2022-09-17)(Mayday!)">
+		<description>EmoKakFuu (2022-09-17)(Mayday!)</description>
+		<rom name="EmoKakFuu (2022-09-17)(Mayday!).prg" size="44675" crc="4fb7a9f3" md5="bfd2c2656d8e7b7c0d893d76d3bc3890" sha1="ad56ae186140962abcb32ec7d9cd3b5d10d5fc66"/>
 	</game>
 	<game name="Empty Spaces (1995-07-11)(-)">
 		<description>Empty Spaces (1995-07-11)(-)</description>
@@ -7656,6 +7724,10 @@
 		<description>Even Uneven (2016-03-03)(Artstate - EXclusive ON - MultiStyle Labs - Samar Productions)</description>
 		<rom name="Even Uneven (2016-03-03)(Artstate - EXclusive ON - MultiStyle Labs - Samar Productions).prg" size="6396" crc="f8d67280" md5="0b44df3fa4fcf4787d10ad0cb00f2b91" sha1="692076a8a063d32e394eff3dbd3a4254fce91b5a"/>
 	</game>
+	<game name="Evening Primrose Oil (2023-04-29)(Mayday!)">
+		<description>Evening Primrose Oil (2023-04-29)(Mayday!)</description>
+		<rom name="Evening Primrose Oil (2023-04-29)(Mayday!).prg" size="3192" crc="e4dda11a" md5="8bd2d44373cc7454b2a3a1e1be709fdc" sha1="556c6e0f34e037b824f3226900547196ca9634d4"/>
+	</game>
 	<game name="Evergreen Party Screen (2013-04-27)(Arsenic)">
 		<description>Evergreen Party Screen (2013-04-27)(Arsenic)</description>
 		<rom name="Evergreen Party Screen (2013-04-27)(Arsenic).prg" size="50626" crc="64deb295" md5="795a22c0a339da48e8c23d3096fcbfc0" sha1="8250532851a6cc7a0ad7dbac13829a8841413e2c"/>
@@ -7916,9 +7988,9 @@
 		<description>Fabbo Ripp #0014 (19xx)(The Tiger Team 2003)</description>
 		<rom name="Fabbo Ripp #0014 (19xx)(The Tiger Team 2003).prg" size="3367" crc="09606065" md5="089369898e9a5b637ce1ce6bd883929f" sha1="4f6ef694f9cf63989ca9b35e7bdc84860c254ca7"/>
 	</game>
-	<game name="Fabeltjes Krant (19xx)(The Spy)">
-		<description>Fabeltjes Krant (19xx)(The Spy)</description>
-		<rom name="Fabeltjes Krant (19xx)(The Spy).prg" size="42193" crc="a05efea3" md5="7f75eacac4b8d94f1ca0b69f27315a3e" sha1="88c7ca0aaa6ab2819952c6a89d0dce2b743dee80"/>
+	<game name="Fabeltjeskrant (19xx)(The Spy)">
+		<description>Fabeltjeskrant (19xx)(The Spy)</description>
+		<rom name="Fabeltjeskrant (19xx)(The Spy).prg" size="42193" crc="a05efea3" md5="7f75eacac4b8d94f1ca0b69f27315a3e" sha1="88c7ca0aaa6ab2819952c6a89d0dce2b743dee80"/>
 	</game>
 	<game name="Fabioooooooooooohhhh (2019-03-16)(IGP)">
 		<description>Fabioooooooooooohhhh (2019-03-16)(IGP)</description>
@@ -7963,6 +8035,10 @@
 	<game name="Faclaug Musak #5 (1989)(Yankees)(FR)">
 		<description>Faclaug Musak #5 (1989)(Yankees)(FR)</description>
 		<rom name="Faclaug Musak #5 (1989)(Yankees)(FR).prg" size="12033" crc="89ebc8f7" md5="9a0adbeb0881680fd08c837095d554b6" sha1="aa0f27d940a144dcd4ead02b34fac5ece8415202"/>
+	</game>
+	<game name="Faded (2023-02-08)(Nordischsound)">
+		<description>Faded (2023-02-08)(Nordischsound)</description>
+		<rom name="Faded (2023-02-08)(Nordischsound).prg" size="6180" crc="714edca2" md5="ca7700f4383a812a5016ab094d49e351" sha1="2e09f9d78d2775e1224f040a54a45b7543fe27b6"/>
 	</game>
 	<game name="Failure (1995-12-28)(Faith Design)">
 		<description>Failure (1995-12-28)(Faith Design)</description>
@@ -8732,6 +8808,14 @@
 		<description>Foxbat Theme (1990)(Collision - Kraftverk)</description>
 		<rom name="Foxbat Theme (1990)(Collision - Kraftverk).prg" size="7851" crc="015153be" md5="5a1dba89735a8177e45dae4a6d8b6d30" sha1="88ab94fd8d13b7656eddae36c86a49d7ced58f79"/>
 	</game>
+	<game name="Fra K0benhavn til Lund (2022-11-29)(Artline Designs)">
+		<description>Fra K0benhavn til Lund (2022-11-29)(Artline Designs)</description>
+		<rom name="Fra K0benhavn til Lund (2022-11-29)(Artline Designs).prg" size="13831" crc="452dd9f2" md5="12a1f8e364da17fd2779db093ce03ef2" sha1="cc2063eb93d71f4100e609ae892779b49e452f76"/>
+	</game>
+	<game name="Frames (2022-11-19)(Martin Demsky)">
+		<description>Frames (2022-11-19)(Martin Demsky)</description>
+		<rom name="Frames (2022-11-19)(Martin Demsky).prg" size="7091" crc="87c7d005" md5="db6aa9d1eb047c294842d0f164fbfb6a" sha1="fa182ece0744600ee4083659dc3a8b1a8dd3ce7e"/>
+	</game>
 	<game name="Frankie Music Selector (1986-04-22)(Razor 1911 - Star One)">
 		<description>Frankie Music Selector (1986-04-22)(Razor 1911 - Star One)</description>
 		<rom name="Frankie Music Selector (1986-04-22)(Razor 1911 - Star One).prg" size="6729" crc="2ce1b666" md5="3a45eb6c4dd23464f8536c257762fc04" sha1="b9f336a1dc99e2c68a1919ed3dbba63fbeade8b8"/>
@@ -8988,6 +9072,10 @@
 		<description>Funeral Thoughts (2014-01-29)(Hitmen)</description>
 		<rom name="Funeral Thoughts (2014-01-29)(Hitmen).prg" size="12033" crc="a70ef5fc" md5="7b5d775e1e74f04808266087ae8e1ede" sha1="81a0cdd11d9f831554a3584c91a8bfb8bbf2f070"/>
 	</game>
+	<game name="Funfair Night (2022-10-29)(Greippi)">
+		<description>Funfair Night (2022-10-29)(Greippi)</description>
+		<rom name="Funfair Night (2022-10-29)(Greippi).prg" size="22529" crc="ea000a6a" md5="5b19c4b36f553e6981f9befc0cb5af09" sha1="48c7b382bace2ccf8c605c12b16cee2b9d889aca"/>
+	</game>
 	<game name="Fungus Intro (2007-02-25)(Jeff - Viruz)">
 		<description>Fungus Intro (2007-02-25)(Jeff - Viruz)</description>
 		<rom name="Fungus Intro (2007-02-25)(Jeff - Viruz).prg" size="4525" crc="61903d9b" md5="386bb4aed9ad0effdd9899c0fadb96f3" sha1="32ad81aefbb8871320330c6c4c39fbd7c79d4a81"/>
@@ -9071,6 +9159,10 @@
 	<game name="Funky Sheep Never Sleep (1988-05)(NATO)">
 		<description>Funky Sheep Never Sleep (1988-05)(NATO)</description>
 		<rom name="Funky Sheep Never Sleep (1988-05)(NATO).prg" size="14831" crc="b8efa9cf" md5="a255583a9125ba86207f1e0174a24a84" sha1="2eedf673c1d03c0b40ed6cb8a519dcccdf084703"/>
+	</game>
+	<game name="Funky Thing (2022-09-11)(Genesis Project)">
+		<description>Funky Thing (2022-09-11)(Genesis Project)</description>
+		<rom name="Funky Thing (2022-09-11)(Genesis Project).prg" size="7960" crc="785ff8d2" md5="0248798504dd87462f582b1141fa0719" sha1="10a96a863c335916eda4ccecb5898c0362bfef47"/>
 	</game>
 	<game name="Funky Tune (1990-01-20)(Tropic)">
 		<description>Funky Tune (1990-01-20)(Tropic)</description>
@@ -9447,6 +9539,14 @@
 	<game name="Game Sound I (1986)(Bitstoppers)">
 		<description>Game Sound I (1986)(Bitstoppers)</description>
 		<rom name="Game Sound I (1986)(Bitstoppers).prg" size="12677" crc="0101b28b" md5="5f83986f81506a299a203144360402e3" sha1="0bc1bc96d690d796702d4636f52931e2406aced4"/>
+	</game>
+	<game name="Game Sound IX (19xx)(AEK Crackware)">
+		<description>Game Sound IX (19xx)(AEK Crackware)</description>
+		<rom name="Game Sound IX (19xx)(AEK Crackware).prg" size="27709" crc="39d8b97d" md5="4d2e6f022b9915010f2576af0bf315bb" sha1="a30b03c7f34f6b5f91103dc6316e6c1398861dbc"/>
+	</game>
+	<game name="Game Sound VII (19xx)(AEK Crackware Essen 2099)">
+		<description>Game Sound VII (19xx)(AEK Crackware Essen 2099)</description>
+		<rom name="Game Sound VII (19xx)(AEK Crackware Essen 2099).prg" size="28217" crc="528f3705" md5="02280ee4ab4805e356a782f77786544b" sha1="f8e2cf2ce1e044f4c442bd38b41b8d5e2e5092fb"/>
 	</game>
 	<game name="Game Sounds III (1987-02)(Fantastic Cracking Company)">
 		<description>Game Sounds III (1987-02)(Fantastic Cracking Company)</description>
@@ -9862,15 +9962,15 @@
 	</game>
 	<game name="Go Up! (1992-05)(Action)">
 		<description>Go Up! (1992-05)(Action)</description>
-		<rom name="Go Up! (1992-05)(Action).prg" size="7457" crc="3c797a57" md5="022f674fea232270397f5cf7a5a033f1" sha1="5e5c932af3be95060a80747148445ee2d8b3bb37"/>
+		<rom name="Go Up! (1992-05)(Action).prg" size="7457" crc="2db0e281" md5="a1accc51722dc312fb35f285bcd16227" sha1="a17e00dc2e757d98c29419c844464e83a4c435b2"/>
 	</game>
 	<game name="Go Up! (1992-05)(Action)[a]">
 		<description>Go Up! (1992-05)(Action)[a]</description>
 		<rom name="Go Up! (1992-05)(Action)[a].prg" size="7456" crc="75f4f622" md5="7165aae8c35f405759adafb3b9442315" sha1="8b5098aa849fa9b8311dcbeea8557907c9f4286c"/>
 	</game>
-	<game name="Go Up! (1992-05)(Action)[a2]">
-		<description>Go Up! (1992-05)(Action)[a2]</description>
-		<rom name="Go Up! (1992-05)(Action)[a2].prg" size="7457" crc="2db0e281" md5="a1accc51722dc312fb35f285bcd16227" sha1="a17e00dc2e757d98c29419c844464e83a4c435b2"/>
+	<game name="Go Up! (1992-05)(Action)[o]">
+		<description>Go Up! (1992-05)(Action)[o]</description>
+		<rom name="Go Up! (1992-05)(Action)[o].prg" size="7457" crc="3c797a57" md5="022f674fea232270397f5cf7a5a033f1" sha1="5e5c932af3be95060a80747148445ee2d8b3bb37"/>
 	</game>
 	<game name="Go!Go!Go! (2008-12-16)(Xentax)">
 		<description>Go!Go!Go! (2008-12-16)(Xentax)</description>
@@ -9951,6 +10051,10 @@
 	<game name="Good Music (19xx)(Computerbrains Cracking Service)">
 		<description>Good Music (19xx)(Computerbrains Cracking Service)</description>
 		<rom name="Good Music (19xx)(Computerbrains Cracking Service).prg" size="19597" crc="3c12cd01" md5="944fc7dd0bbafdd4f77e9e0889d18f96" sha1="bb6230c4c6741f2d6c42007f57d205a8911e43c4"/>
+	</game>
+	<game name="Good Night (2022-12-03)(MoonShine)">
+		<description>Good Night (2022-12-03)(MoonShine)</description>
+		<rom name="Good Night (2022-12-03)(MoonShine).prg" size="7431" crc="0433b522" md5="58dc9b28dd6f40f524b231268119f043" sha1="e3c11bb8f241b0fc14f86c5b1e0907aaacbb82cc"/>
 	</game>
 	<game name="good ol&apos; days, The (2018-04-27)(Hokuto Force)">
 		<description>good ol&apos; days, The (2018-04-27)(Hokuto Force)</description>
@@ -10176,9 +10280,9 @@
 		<description>Greystorm Musix (19xx)(Collision)</description>
 		<rom name="Greystorm Musix (19xx)(Collision).prg" size="4865" crc="4f975829" md5="cc38af1f54567d08c0f25d05d4680ba5" sha1="0880da543a0508eb60721c556b65dd5332e53da6"/>
 	</game>
-	<game name="Greystorm Musix (19xx)(Collision)[a]">
-		<description>Greystorm Musix (19xx)(Collision)[a]</description>
-		<rom name="Greystorm Musix (19xx)(Collision)[a].prg" size="4992" crc="6bb3a8b7" md5="26751f885aeada7c372a49c0668d57eb" sha1="51ce7d2af0169e4de9d9d24b5f6ac8d952f7d12b"/>
+	<game name="Greystorm Musix (19xx)(Collision)[o]">
+		<description>Greystorm Musix (19xx)(Collision)[o]</description>
+		<rom name="Greystorm Musix (19xx)(Collision)[o].prg" size="4992" crc="6bb3a8b7" md5="26751f885aeada7c372a49c0668d57eb" sha1="51ce7d2af0169e4de9d9d24b5f6ac8d952f7d12b"/>
 	</game>
 	<game name="GRG Gamescom 2018 Tribute Demo to Chris Huelsbeck (2018-12-30)(German Remix Group)">
 		<description>GRG Gamescom 2018 Tribute Demo to Chris Huelsbeck (2018-12-30)(German Remix Group)</description>
@@ -10634,11 +10738,11 @@
 	</game>
 	<game name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz)">
 		<description>Heavy-Beat (1993-08-13)(Collision - Electric Boyz)</description>
-		<rom name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz).prg" size="5504" crc="bb10cf27" md5="8044ff873e847a368268187fdc3c095c" sha1="9ef153b79543f6d1d0481a89539a0ea7f2f1c3b5"/>
+		<rom name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz).prg" size="5388" crc="c2e3165f" md5="be395d9a0095053928877d0b8baab27b" sha1="35dbacbdc520ec99fc8643062ee93ba61999dba5"/>
 	</game>
-	<game name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz)[a]">
-		<description>Heavy-Beat (1993-08-13)(Collision - Electric Boyz)[a]</description>
-		<rom name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz)[a].prg" size="5388" crc="c2e3165f" md5="be395d9a0095053928877d0b8baab27b" sha1="35dbacbdc520ec99fc8643062ee93ba61999dba5"/>
+	<game name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz)[o]">
+		<description>Heavy-Beat (1993-08-13)(Collision - Electric Boyz)[o]</description>
+		<rom name="Heavy-Beat (1993-08-13)(Collision - Electric Boyz)[o].prg" size="5504" crc="bb10cf27" md5="8044ff873e847a368268187fdc3c095c" sha1="9ef153b79543f6d1d0481a89539a0ea7f2f1c3b5"/>
 	</game>
 	<game name="Hec-Tic (2011-02-03)(Slimex)">
 		<description>Hec-Tic (2011-02-03)(Slimex)</description>
@@ -10686,11 +10790,11 @@
 	</game>
 	<game name="Helloween - I Want Out (1995)(Palace)">
 		<description>Helloween - I Want Out (1995)(Palace)</description>
-		<rom name="Helloween - I Want Out (1995)(Palace).prg" size="34816" crc="f73e9df8" md5="78e1c5ed055bb633b6969c14b990d071" sha1="d1d6a9d8d6bdb2268d0e1dbdd1de99d8a3de7149"/>
+		<rom name="Helloween - I Want Out (1995)(Palace).prg" size="34781" crc="5de2edc0" md5="0b003a6a84e166e3ee2008f4455346b8" sha1="52c54c4c0ac70a98887501266ed8eeb9dd90a0ec"/>
 	</game>
-	<game name="Helloween - I Want Out (1995)(Palace)[a]">
-		<description>Helloween - I Want Out (1995)(Palace)[a]</description>
-		<rom name="Helloween - I Want Out (1995)(Palace)[a].prg" size="34781" crc="5de2edc0" md5="0b003a6a84e166e3ee2008f4455346b8" sha1="52c54c4c0ac70a98887501266ed8eeb9dd90a0ec"/>
+	<game name="Helloween - I Want Out (1995)(Palace)[o]">
+		<description>Helloween - I Want Out (1995)(Palace)[o]</description>
+		<rom name="Helloween - I Want Out (1995)(Palace)[o].prg" size="34816" crc="f73e9df8" md5="78e1c5ed055bb633b6969c14b990d071" sha1="d1d6a9d8d6bdb2268d0e1dbdd1de99d8a3de7149"/>
 	</game>
 	<game name="Heman and the Masters of the Universe Sound (1987-03-10)(The Danish Circle)">
 		<description>Heman and the Masters of the Universe Sound (1987-03-10)(The Danish Circle)</description>
@@ -11128,9 +11232,9 @@
 		<description>Holiday Rap (1986)(Chuck Laboratories)</description>
 		<rom name="Holiday Rap (1986)(Chuck Laboratories).prg" size="40988" crc="00183e7d" md5="ac351ba4a72877a949727656b110653f" sha1="42ddbe44dac5630b817d0ed7fda6b524d75c61ef"/>
 	</game>
-	<game name="Holiday Rap (1986)(Chuck Laboratories)[a]">
-		<description>Holiday Rap (1986)(Chuck Laboratories)[a]</description>
-		<rom name="Holiday Rap (1986)(Chuck Laboratories)[a].prg" size="40989" crc="d1b415bf" md5="80242473f47d67aae488e7b0c939338f" sha1="9d486d4fc8419f123bcb8a6263168758d20f120f"/>
+	<game name="Holiday Rap (1986)(Chuck Laboratories)[o]">
+		<description>Holiday Rap (1986)(Chuck Laboratories)[o]</description>
+		<rom name="Holiday Rap (1986)(Chuck Laboratories)[o].prg" size="40989" crc="d1b415bf" md5="80242473f47d67aae488e7b0c939338f" sha1="9d486d4fc8419f123bcb8a6263168758d20f120f"/>
 	</game>
 	<game name="Holiday Rap (1986)(Software Team)">
 		<description>Holiday Rap (1986)(Software Team)</description>
@@ -11374,35 +11478,35 @@
 	</game>
 	<game name="Hotripp 20 (1989)(Hotline)">
 		<description>Hotripp 20 (1989)(Hotline)</description>
-		<rom name="Hotripp 20 (1989)(Hotline).prg" size="5632" crc="754e9373" md5="2c78cc1dadb2b5e10862107db367ce41" sha1="dfdd61366ce1570488129f4e2df1089cb5300b7b"/>
+		<rom name="Hotripp 20 (1989)(Hotline).prg" size="5535" crc="5d3e9ca0" md5="4f251ee4b5e18a40d49c91daccb06fa9" sha1="62438c49ba98fa760af1f0345702364b575848cb"/>
 	</game>
-	<game name="Hotripp 20 (1989)(Hotline)[a]">
-		<description>Hotripp 20 (1989)(Hotline)[a]</description>
-		<rom name="Hotripp 20 (1989)(Hotline)[a].prg" size="5535" crc="5d3e9ca0" md5="4f251ee4b5e18a40d49c91daccb06fa9" sha1="62438c49ba98fa760af1f0345702364b575848cb"/>
+	<game name="Hotripp 20 (1989)(Hotline)[o]">
+		<description>Hotripp 20 (1989)(Hotline)[o]</description>
+		<rom name="Hotripp 20 (1989)(Hotline)[o].prg" size="5632" crc="754e9373" md5="2c78cc1dadb2b5e10862107db367ce41" sha1="dfdd61366ce1570488129f4e2df1089cb5300b7b"/>
 	</game>
 	<game name="Hotripp 21 (1989)(Hotline)">
 		<description>Hotripp 21 (1989)(Hotline)</description>
 		<rom name="Hotripp 21 (1989)(Hotline).prg" size="5110" crc="abd5e696" md5="014dc747be1e35ffb5c0011ed1233dac" sha1="44d38a9ac3539b132f88f0bf94c16cf1232d945d"/>
 	</game>
-	<game name="Hotripp 21 (1989)(Hotline)[a]">
-		<description>Hotripp 21 (1989)(Hotline)[a]</description>
-		<rom name="Hotripp 21 (1989)(Hotline)[a].prg" size="5120" crc="a1b29cda" md5="cfe818d8abe071477e682ddb4d33bfbb" sha1="80e98085704220939e566fe7e1faa289326299ac"/>
+	<game name="Hotripp 21 (1989)(Hotline)[o]">
+		<description>Hotripp 21 (1989)(Hotline)[o]</description>
+		<rom name="Hotripp 21 (1989)(Hotline)[o].prg" size="5120" crc="a1b29cda" md5="cfe818d8abe071477e682ddb4d33bfbb" sha1="80e98085704220939e566fe7e1faa289326299ac"/>
 	</game>
 	<game name="Hotripp 22 (1989)(Hotline)">
 		<description>Hotripp 22 (1989)(Hotline)</description>
 		<rom name="Hotripp 22 (1989)(Hotline).prg" size="5514" crc="da3fc7e6" md5="b5432d9cf6333a39235271d74cf7dfda" sha1="33ed1930fa935de32d6c6099ea5939805e69d282"/>
 	</game>
-	<game name="Hotripp 22 (1989)(Hotline)[a]">
-		<description>Hotripp 22 (1989)(Hotline)[a]</description>
-		<rom name="Hotripp 22 (1989)(Hotline)[a].prg" size="5632" crc="fc18eca2" md5="5333485d5d4e5e7bd8fc7ae3d42d0d5f" sha1="ca4d27e37cc6eb808c7091ed45c620d32629a61c"/>
+	<game name="Hotripp 22 (1989)(Hotline)[o]">
+		<description>Hotripp 22 (1989)(Hotline)[o]</description>
+		<rom name="Hotripp 22 (1989)(Hotline)[o].prg" size="5632" crc="fc18eca2" md5="5333485d5d4e5e7bd8fc7ae3d42d0d5f" sha1="ca4d27e37cc6eb808c7091ed45c620d32629a61c"/>
 	</game>
 	<game name="Hotripp 23 (1989)(Hotline)">
 		<description>Hotripp 23 (1989)(Hotline)</description>
 		<rom name="Hotripp 23 (1989)(Hotline).prg" size="5405" crc="9c966419" md5="bb8fd12aeecc82c5a837f8f5135c2e41" sha1="d563f0d6df07d37a81c89fce18b5322006b1312b"/>
 	</game>
-	<game name="Hotripp 23 (1989)(Hotline)[a]">
-		<description>Hotripp 23 (1989)(Hotline)[a]</description>
-		<rom name="Hotripp 23 (1989)(Hotline)[a].prg" size="5504" crc="ee5c5598" md5="dd20e04f5dce4d1f676ad286433843b4" sha1="3f8741ce204c8f63acd1d9c3a7f9e5eaa71c545b"/>
+	<game name="Hotripp 23 (1989)(Hotline)[o]">
+		<description>Hotripp 23 (1989)(Hotline)[o]</description>
+		<rom name="Hotripp 23 (1989)(Hotline)[o].prg" size="5504" crc="ee5c5598" md5="dd20e04f5dce4d1f676ad286433843b4" sha1="3f8741ce204c8f63acd1d9c3a7f9e5eaa71c545b"/>
 	</game>
 	<game name="Hotshot Ripp (19xx)(The Dominators)">
 		<description>Hotshot Ripp (19xx)(The Dominators)</description>
@@ -11451,6 +11555,10 @@
 	<game name="How I&apos;ve Missed This Party- (2006-10-15)(psych858o)">
 		<description>How I&apos;ve Missed This Party- (2006-10-15)(psych858o)</description>
 		<rom name="How I&apos;ve Missed This Party- (2006-10-15)(psych858o).prg" size="7079" crc="ee4773f4" md5="bd4221c6893e4db12997edb6893c2c37" sha1="81d6735d1b49d89f651aa3f9c989e818aea8e1be"/>
+	</game>
+	<game name="How up Do High Knee (2022-09-03)(Desire)">
+		<description>How up Do High Knee (2022-09-03)(Desire)</description>
+		<rom name="How up Do High Knee (2022-09-03)(Desire).prg" size="5027" crc="fffb63ea" md5="cea56317da66a1162fcc0c49f4397ad1" sha1="801da6be92ff09a95975b8a02a230e5b8282a80a"/>
 	</game>
 	<game name="HTG-Sonics 0001 (1989-01-30)(Hostages)">
 		<description>HTG-Sonics 0001 (1989-01-30)(Hostages)</description>
@@ -11707,6 +11815,10 @@
 	<game name="I Dug Some Graves You Will Never Find (2017-07-01)(MultiStyle Labs)">
 		<description>I Dug Some Graves You Will Never Find (2017-07-01)(MultiStyle Labs)</description>
 		<rom name="I Dug Some Graves You Will Never Find (2017-07-01)(MultiStyle Labs).prg" size="2561" crc="d0372abb" md5="833abd6595a918f0b729d5b3f01033a5" sha1="56487ae5e90197de7a4c321e37cc198852b2ae56"/>
+	</game>
+	<game name="I Feel the Beat (2022-08-01)(Desire)">
+		<description>I Feel the Beat (2022-08-01)(Desire)</description>
+		<rom name="I Feel the Beat (2022-08-01)(Desire).prg" size="5823" crc="688cff71" md5="300635c084ff6c55184fe6dec5f49505" sha1="04617ec702623a0256cfbfdcb1da4b049fd144ec"/>
 	</game>
 	<game name="I H8 Lyf (2016-04-16)(Fritske)">
 		<description>I H8 Lyf (2016-04-16)(Fritske)</description>
@@ -12272,6 +12384,10 @@
 		<description>Inside (2007-08-26)(V-12)</description>
 		<rom name="Inside (2007-08-26)(V-12).prg" size="6383" crc="f68a38ae" md5="ba88c45c9a77f13c821a131cfefae838" sha1="c6b382672bcba95e1b4f72771d92a4fe420b2b0b"/>
 	</game>
+	<game name="Inside (2023-04-29)(Triad)">
+		<description>Inside (2023-04-29)(Triad)</description>
+		<rom name="Inside (2023-04-29)(Triad).prg" size="5489" crc="b923c60e" md5="2c53a6847d0e6664dbe21318d006b049" sha1="66b80b87fe57a7ff3148a029d2b54b16102a557b"/>
+	</game>
 	<game name="Inside Outing Music Hack (19xx)(South East Cracking Group)">
 		<description>Inside Outing Music Hack (19xx)(South East Cracking Group)</description>
 		<rom name="Inside Outing Music Hack (19xx)(South East Cracking Group).prg" size="3141" crc="bb502d1d" md5="9641c163253d6f8fcf534904b7375c87" sha1="fb08b2bc753263ec13ac619ca6ee9c6cf5d3ac6d"/>
@@ -12510,11 +12626,11 @@
 	</game>
 	<game name="Iron Maiden - The Number of Da Beast (1995)(Palace)">
 		<description>Iron Maiden - The Number of Da Beast (1995)(Palace)</description>
-		<rom name="Iron Maiden - The Number of Da Beast (1995)(Palace).prg" size="32896" crc="a1b5ae19" md5="da99f64690d64f9833e3967d7a70e655" sha1="39a3361a5a6c1bd68743930e6c663b3802e9cf85"/>
+		<rom name="Iron Maiden - The Number of Da Beast (1995)(Palace).prg" size="32858" crc="d1579fab" md5="539a7ca75fe285b153e33a3ee236926e" sha1="9a21be6b4354f455fe6666e97171c315a192fd4b"/>
 	</game>
-	<game name="Iron Maiden - The Number of Da Beast (1995)(Palace)[a]">
-		<description>Iron Maiden - The Number of Da Beast (1995)(Palace)[a]</description>
-		<rom name="Iron Maiden - The Number of Da Beast (1995)(Palace)[a].prg" size="32858" crc="d1579fab" md5="539a7ca75fe285b153e33a3ee236926e" sha1="9a21be6b4354f455fe6666e97171c315a192fd4b"/>
+	<game name="Iron Maiden - The Number of Da Beast (1995)(Palace)[o]">
+		<description>Iron Maiden - The Number of Da Beast (1995)(Palace)[o]</description>
+		<rom name="Iron Maiden - The Number of Da Beast (1995)(Palace)[o].prg" size="32896" crc="a1b5ae19" md5="da99f64690d64f9833e3967d7a70e655" sha1="39a3361a5a6c1bd68743930e6c663b3802e9cf85"/>
 	</game>
 	<game name="Iron Maiden 1.1 (19xx)(Kisiel)">
 		<description>Iron Maiden 1.1 (19xx)(Kisiel)</description>
@@ -12896,6 +13012,10 @@
 		<description>Joels Intro (2013-07-25)(PoloBreath)</description>
 		<rom name="Joels Intro (2013-07-25)(PoloBreath).prg" size="5650" crc="1b8891c7" md5="1d06410f3f198c6244f59737b184f165" sha1="c2c60e26e95f0999b6869cf72968f8dd33dc5ec7"/>
 	</game>
+	<game name="Johannes Bjerregaard Tribute (2022-11-20)(Dr.J - Freeze - Rock)">
+		<description>Johannes Bjerregaard Tribute (2022-11-20)(Dr.J - Freeze - Rock)</description>
+		<rom name="Johannes Bjerregaard Tribute (2022-11-20)(Dr.J - Freeze - Rock).prg" size="4945" crc="d89bbb03" md5="185545eb2b21947a376d6de1f75f2ca0" sha1="18cacb551454bb66808cc57d9840e677c59570ad"/>
+	</game>
 	<game name="John Motherfuckin&apos; Rambo (2014-09-09)(EXclusive ON - MultiStyle Labs - Samar Productions)">
 		<description>John Motherfuckin&apos; Rambo (2014-09-09)(EXclusive ON - MultiStyle Labs - Samar Productions)</description>
 		<rom name="John Motherfuckin&apos; Rambo (2014-09-09)(EXclusive ON - MultiStyle Labs - Samar Productions).prg" size="4276" crc="21c6d9c1" md5="0d86538428f904b9403d4cee42206a06" sha1="5db1d41fa2ab1781f3741eab539b77ac006f7ae2"/>
@@ -13095,6 +13215,10 @@
 	<game name="Just One Life (2017-04-15)(Unreal)">
 		<description>Just One Life (2017-04-15)(Unreal)</description>
 		<rom name="Just One Life (2017-04-15)(Unreal).prg" size="6140" crc="f25a6eae" md5="be7828064392311858b6ceb228b782d4" sha1="9291817335a08a18d05ddef32d76211f9fa94415"/>
+	</game>
+	<game name="Just Rel (2023-02-04)(Extend)">
+		<description>Just Rel (2023-02-04)(Extend)</description>
+		<rom name="Just Rel (2023-02-04)(Extend).prg" size="16491" crc="52b25549" md5="453636f5b1eb4c0693c4b1a71c3f58be" sha1="19a71c615814c2d5f16a4ee07c7460c7255647c4"/>
 	</game>
 	<game name="Just Say Cool (1989)(Array)">
 		<description>Just Say Cool (1989)(Array)</description>
@@ -13740,6 +13864,10 @@
 		<description>Landscape (1994-07-29)(Gamma Studio)</description>
 		<rom name="Landscape (1994-07-29)(Gamma Studio).prg" size="2535" crc="1f9cba46" md5="50e21ddde42bff19580d96756f956d05" sha1="b1cf48f104ee08466e86f062104d3a4a679f1ceb"/>
 	</game>
+	<game name="Lángoló Delfineken Lovagolunk át a Boldogság Kráterein (2023-04-29)(Triad)">
+		<description>Lángoló Delfineken Lovagolunk át a Boldogság Kráterein (2023-04-29)(Triad)</description>
+		<rom name="Lángoló Delfineken Lovagolunk át a Boldogság Kráterein (2023-04-29)(Triad).prg" size="5749" crc="f2c2f0c2" md5="d9da2857f08b0122086e34ab0e50a121" sha1="421d4bf1d8c7b0ea43ee299f7dba5287c383519c"/>
+	</game>
 	<game name="Laser Missio (1994)(Agnus)">
 		<description>Laser Missio (1994)(Agnus)</description>
 		<rom name="Laser Missio (1994)(Agnus).prg" size="4184" crc="660425f7" md5="a14b23bf3d865d6eef5f5d72fdc1c567" sha1="e6bc4717911ea94ad4e4f7d99ea0a3dfedc153a3"/>
@@ -13812,9 +13940,9 @@
 		<description>Last Ninja 2 Music (1995-01-02)(XL.C.US)</description>
 		<rom name="Last Ninja 2 Music (1995-01-02)(XL.C.US).prg" size="26115" crc="9d3e5681" md5="36ee680000ecc0454311ce91df7b844c" sha1="de60e5b519d02d96439115308517ae9fd86b4463"/>
 	</game>
-	<game name="Last Ninja 2 Music (1995-01-02)(XL.C.US)[a]">
-		<description>Last Ninja 2 Music (1995-01-02)(XL.C.US)[a]</description>
-		<rom name="Last Ninja 2 Music (1995-01-02)(XL.C.US)[a].prg" size="26116" crc="4820626d" md5="d34fef3377fbbc3280b1d6f164ad23d1" sha1="784cf8957d31aa1ea6746badcff6b8bca85d1d47"/>
+	<game name="Last Ninja 2 Music (1995-01-02)(XL.C.US)[o]">
+		<description>Last Ninja 2 Music (1995-01-02)(XL.C.US)[o]</description>
+		<rom name="Last Ninja 2 Music (1995-01-02)(XL.C.US)[o].prg" size="26116" crc="4820626d" md5="d34fef3377fbbc3280b1d6f164ad23d1" sha1="784cf8957d31aa1ea6746badcff6b8bca85d1d47"/>
 	</game>
 	<game name="Last Ninja 2 Muz, The (1993-09-07)(Digital Designs)">
 		<description>Last Ninja 2 Muz, The (1993-09-07)(Digital Designs)</description>
@@ -13983,6 +14111,10 @@
 	<game name="Lawn Tennis Music Ripp (1988-06)(The Unreliable Rebels)">
 		<description>Lawn Tennis Music Ripp (1988-06)(The Unreliable Rebels)</description>
 		<rom name="Lawn Tennis Music Ripp (1988-06)(The Unreliable Rebels).prg" size="3267" crc="6c7f5536" md5="fe05ed194a5c88807b4e5b14651a40c7" sha1="736b02c85685092a12c1de57129950fbd95f65d1"/>
+	</game>
+	<game name="Laxity First (2023-04-09)(Padua)">
+		<description>Laxity First (2023-04-09)(Padua)</description>
+		<rom name="Laxity First (2023-04-09)(Padua).prg" size="7845" crc="2a2122f5" md5="f6265782a57425b0fa2c9bb672b5c55a" sha1="3d43352e3368a80c9d0476e081d8c498e0bc9113"/>
 	</game>
 	<game name="Layla (1991-01)(Anzac)">
 		<description>Layla (1991-01)(Anzac)</description>
@@ -14291,6 +14423,10 @@
 	<game name="Lifecycle (2014-02-14)(Panda Design)">
 		<description>Lifecycle (2014-02-14)(Panda Design)</description>
 		<rom name="Lifecycle (2014-02-14)(Panda Design).prg" size="16384" crc="ef686842" md5="75d6babb4f1d6848238bc29ef7ff0089" sha1="0a0d83f9aba36b5ae315a5428d5c3a2f8b2fe5d2"/>
+	</game>
+	<game name="Light from Above (2023-06-02)(The Supply Team)">
+		<description>Light from Above (2023-06-02)(The Supply Team)</description>
+		<rom name="Light from Above (2023-06-02)(The Supply Team).prg" size="5214" crc="9380bbee" md5="2ecfafab63c562c05e5f8d1973ae5321" sha1="5cbbf3d83fbe7501b72674fa4cfc09be5cc3a37f"/>
 	</game>
 	<game name="Light SID of the Moon (2017-06-24)(MotionRide)">
 		<description>Light SID of the Moon (2017-06-24)(MotionRide)</description>
@@ -14635,6 +14771,10 @@
 	<game name="Losing Light (2021-03-31)(Genesis Project - Prosonix)">
 		<description>Losing Light (2021-03-31)(Genesis Project - Prosonix)</description>
 		<rom name="Losing Light (2021-03-31)(Genesis Project - Prosonix).prg" size="7325" crc="c39b7fe3" md5="1eff4cc830ed73836171a03d515ff487" sha1="768ccd1a2073e2d14e5e6cac5bd133e9d89e2dbb"/>
+	</game>
+	<game name="Lost &amp; Found (2023-03-08)(Vision)">
+		<description>Lost &amp; Found (2023-03-08)(Vision)</description>
+		<rom name="Lost &amp; Found (2023-03-08)(Vision).prg" size="8599" crc="51a96753" md5="45f86202a8344e9aef57ccdcfd6b3967" sha1="3f4d8a3a8bfd073f9cb7ed5702929ec9027ec83c"/>
 	</game>
 	<game name="Lost Friend (2008-03-16)(-)">
 		<description>Lost Friend (2008-03-16)(-)</description>
@@ -15088,6 +15228,10 @@
 		<description>Maniac Fred (1996-08-18)(Reflex)</description>
 		<rom name="Maniac Fred (1996-08-18)(Reflex).prg" size="5909" crc="89c735c4" md5="9616d97ed216578ba7c22a54113c5a35" sha1="1caff1c1d317273f5d16a737ec0ee88886a7336c"/>
 	</game>
+	<game name="Mankeli (2022-10-19)(Gorbat Soft)">
+		<description>Mankeli (2022-10-19)(Gorbat Soft)</description>
+		<rom name="Mankeli (2022-10-19)(Gorbat Soft).prg" size="3231" crc="0576f1ba" md5="c5a296ff4dc637ee08c1c11972627ebd" sha1="8e52710dd1ef710c0dc00065ba7c4fd8af6b1caa"/>
+	</game>
 	<game name="Manoripp #1 (1988-10)(Manowar)">
 		<description>Manoripp #1 (1988-10)(Manowar)</description>
 		<rom name="Manoripp #1 (1988-10)(Manowar).prg" size="7119" crc="b91af267" md5="e0a9e6e2bc831143481a2cadf86ac8fd" sha1="94a091afd21e792f18e6e799139f7f95c4ae81ad"/>
@@ -15147,6 +15291,10 @@
 	<game name="Mars Lander 2048 (2017-06-03)(Mikko Miettinen)">
 		<description>Mars Lander 2048 (2017-06-03)(Mikko Miettinen)</description>
 		<rom name="Mars Lander 2048 (2017-06-03)(Mikko Miettinen).prg" size="27618" crc="93cd9704" md5="16b6bdc3b83c14f76ef7a7aaecb51c26" sha1="0da9f579acfec5da94a2351f29448f19bc66c749"/>
+	</game>
+	<game name="Martin Ljungs Pung (2023-02-11)(Triad)">
+		<description>Martin Ljungs Pung (2023-02-11)(Triad)</description>
+		<rom name="Martin Ljungs Pung (2023-02-11)(Triad).prg" size="4251" crc="52c26be5" md5="5d734fb3c1ae346f7667fac83fc67fd0" sha1="734208ca2e34814ce48cdbebda28d3b1c75f18ca"/>
 	</game>
 	<game name="Martin Walker Music Demonstration Selection (1989-01-05)(Walker, Martin)">
 		<description>Martin Walker Music Demonstration Selection (1989-01-05)(Walker, Martin)</description>
@@ -15636,6 +15784,10 @@
 		<description>Menuet Visee (1983)(-)</description>
 		<rom name="Menuet Visee (1983)(-).prg" size="3205" crc="dea5086c" md5="676f6e7070a8479ab88ef465cf860172" sha1="846034c85eaa913c605542c2455c03d915a1cd17"/>
 	</game>
+	<game name="Mera Brännvin (2023-02-11)(Megastyle)">
+		<description>Mera Brännvin (2023-02-11)(Megastyle)</description>
+		<rom name="Mera Brännvin (2023-02-11)(Megastyle).prg" size="6582" crc="65b6e5e6" md5="79fff6e0527eb1f187278c9ff6415500" sha1="781951b06f503fd4b9ebca617e79f44db2ab47f6"/>
+	</game>
 	<game name="Mercury M. (19xx)(Mr.Big)">
 		<description>Mercury M. (19xx)(Mr.Big)</description>
 		<rom name="Mercury M. (19xx)(Mr.Big).prg" size="5054" crc="bf4f3b9b" md5="b87e78f5740851d8f14946d9190674fa" sha1="5203286914349cfa5f3a0e15e8ca665f739052c3"/>
@@ -15767,6 +15919,10 @@
 	<game name="Midnight Monday (1989)(-)">
 		<description>Midnight Monday (1989)(-)</description>
 		<rom name="Midnight Monday (1989)(-).prg" size="8828" crc="e4434a80" md5="0c3751522fa31f0a5a97ee64826024cb" sha1="1280c9564c1474ca0aee001a360ca10df6113ac6"/>
+	</game>
+	<game name="Midnight Strobes in the Sky (2023-04-29)(Pretzel Logic)">
+		<description>Midnight Strobes in the Sky (2023-04-29)(Pretzel Logic)</description>
+		<rom name="Midnight Strobes in the Sky (2023-04-29)(Pretzel Logic).prg" size="3837" crc="7494fb41" md5="acef620d5a52647422d6de0dc7dc1b3e" sha1="0dbe3c21a5530c47e5216ae3cf8dd82b3830a032"/>
 	</game>
 	<game name="Midnight Upon Us (2015-12-20)(MultiStyle Labs)">
 		<description>Midnight Upon Us (2015-12-20)(MultiStyle Labs)</description>
@@ -15911,6 +16067,10 @@
 	<game name="Misfits - Where Eagles Dare (2009-06-16)(Fredrik)">
 		<description>Misfits - Where Eagles Dare (2009-06-16)(Fredrik)</description>
 		<rom name="Misfits - Where Eagles Dare (2009-06-16)(Fredrik).prg" size="7593" crc="192ddd6c" md5="21d0a82aff8e84f657d8eccbe05deda6" sha1="7ddcab656e7b7e38220ccd8cfb11578b6065b43a"/>
+	</game>
+	<game name="Misfortunes (2023-02-11)(Genesis Project)">
+		<description>Misfortunes (2023-02-11)(Genesis Project)</description>
+		<rom name="Misfortunes (2023-02-11)(Genesis Project).prg" size="8073" crc="1384f9c6" md5="91a9b463a141853ab928febb55af5562" sha1="9759fbb2d24c85d207a06e3b76f0208458fe2fc0"/>
 	</game>
 	<game name="Missed Call (2019-03-06)(Artline Designs)[Final]">
 		<description>Missed Call (2019-03-06)(Artline Designs)[Final]</description>
@@ -16324,6 +16484,10 @@
 		<description>Move on Baby (1994-07-29)(Gamma Studio)</description>
 		<rom name="Move on Baby (1994-07-29)(Gamma Studio).prg" size="2627" crc="daed22ba" md5="a50fb187bd644f94c0dc2d04e40b7ad0" sha1="6a6304ba0a5d696f76999798f70329f8ab943247"/>
 	</game>
+	<game name="Movement (2023-02-11)(Finnish Gold)">
+		<description>Movement (2023-02-11)(Finnish Gold)</description>
+		<rom name="Movement (2023-02-11)(Finnish Gold).prg" size="14441" crc="735c6b45" md5="dd02b77530f0dd504fa4dd9caa73697a" sha1="f24a64f2ee1cc64a51cc05909d2b289ed226b4cf"/>
+	</game>
 	<game name="Moving Cars + Cityscape (2009-07-19)(Panda Design)">
 		<description>Moving Cars + Cityscape (2009-07-19)(Panda Design)</description>
 		<rom name="Moving Cars + Cityscape (2009-07-19)(Panda Design).prg" size="2599" crc="81555174" md5="a4d9dbbeba84c9316e229a5a1fcbcb37" sha1="7d581d919a616064499614b734c6cea2112f99d7"/>
@@ -16514,11 +16678,11 @@
 	</game>
 	<game name="Music Collection (1991)(Ikari - Talent)">
 		<description>Music Collection (1991)(Ikari - Talent)</description>
-		<rom name="Music Collection (1991)(Ikari - Talent).prg" size="13056" crc="09e202b9" md5="1bdc41290f749477dda7c7b567f49ce7" sha1="5787ba98ae3b04c068c9669ec196acfb461ade94"/>
+		<rom name="Music Collection (1991)(Ikari - Talent).prg" size="13020" crc="2c64be5c" md5="3066c12a642e64ec555eca398b9fb856" sha1="862293a1b211c75afbd5f5ad19fe3ac6b1e11886"/>
 	</game>
-	<game name="Music Collection (1991)(Ikari - Talent)[a]">
-		<description>Music Collection (1991)(Ikari - Talent)[a]</description>
-		<rom name="Music Collection (1991)(Ikari - Talent)[a].prg" size="13020" crc="2c64be5c" md5="3066c12a642e64ec555eca398b9fb856" sha1="862293a1b211c75afbd5f5ad19fe3ac6b1e11886"/>
+	<game name="Music Collection (1991)(Ikari - Talent)[o]">
+		<description>Music Collection (1991)(Ikari - Talent)[o]</description>
+		<rom name="Music Collection (1991)(Ikari - Talent)[o].prg" size="13056" crc="09e202b9" md5="1bdc41290f749477dda7c7b567f49ce7" sha1="5787ba98ae3b04c068c9669ec196acfb461ade94"/>
 	</game>
 	<game name="Music Collection (1991)(Rizing)">
 		<description>Music Collection (1991)(Rizing)</description>
@@ -17404,6 +17568,10 @@
 		<description>My First own Composed Song (2009-06-19)(Fredrik)</description>
 		<rom name="My First own Composed Song (2009-06-19)(Fredrik).prg" size="25806" crc="22ba5f78" md5="5708c48b2de0aab76a7fed3c22a3ac90" sha1="2185246e063f6d0b57d0549d5ec747ad4a747d16"/>
 	</game>
+	<game name="My First SID WAT (2022-07-23)(Noice)">
+		<description>My First SID WAT (2022-07-23)(Noice)</description>
+		<rom name="My First SID WAT (2022-07-23)(Noice).prg" size="6600" crc="f2c184f6" md5="b297c3a1b567ee7d80a1341a9ce6544a" sha1="f07bcd9560e897e2a33c4ef0f0a522f7c9406c93"/>
+	</game>
 	<game name="My Glamorous Life (1994-12-29)(booker)">
 		<description>My Glamorous Life (1994-12-29)(booker)</description>
 		<rom name="My Glamorous Life (1994-12-29)(booker).prg" size="5578" crc="3b895496" md5="e7f4d5ade3519f58bbbd7e0e895b6dab" sha1="5defdba34e300637fb65fe6fa5d853e1361601f0"/>
@@ -17479,10 +17647,6 @@
 	<game name="Mystic-Minds (1990)(Audial Arts)">
 		<description>Mystic-Minds (1990)(Audial Arts)</description>
 		<rom name="Mystic-Minds (1990)(Audial Arts).prg" size="9277" crc="b2c4d5b2" md5="a4f75016bf61aedbcf1087a3513bfe2c" sha1="d04f0f632c48206c25c495211a0399b3bfe39174"/>
-	</game>
-	<game name="Myth Preview Music (1989-08-10)(Maniacs of Noise)">
-		<description>Myth Preview Music (1989-08-10)(Maniacs of Noise)</description>
-		<rom name="Myth Preview Music (1989-08-10)(Maniacs of Noise).prg" size="16112" crc="a938d75d" md5="630a6f5deeb68702e423527fd2343646" sha1="e0ecdf05ddd8cdda4e05530ce1478152ff64d27c"/>
 	</game>
 	<game name="Myth Preview Music ASM File (2012-08-22)(Yogibear)">
 		<description>Myth Preview Music ASM File (2012-08-22)(Yogibear)</description>
@@ -17632,6 +17796,10 @@
 		<description>Network (1994-05-22)(Vermes)</description>
 		<rom name="Network (1994-05-22)(Vermes).prg" size="3286" crc="90506688" md5="0da01521737c35c7d4ad23cf38bd29e1" sha1="54f3f705fba5ffa08c0a8b4604f6a00100bc905b"/>
 	</game>
+	<game name="Neushait 3 (2023-02-04)(-)">
+		<description>Neushait 3 (2023-02-04)(-)</description>
+		<rom name="Neushait 3 (2023-02-04)(-).prg" size="16491" crc="da493fc3" md5="0736c8cb0a37b1280c377c72f8bf8157" sha1="69c62ed682fdd7a15bd69dce12921ee8d0dbd578"/>
+	</game>
 	<game name="Neutron Bouncer (2019-08-02)(Genesis Project - Insane)">
 		<description>Neutron Bouncer (2019-08-02)(Genesis Project - Insane)</description>
 		<rom name="Neutron Bouncer (2019-08-02)(Genesis Project - Insane).prg" size="4766" crc="35b0ed49" md5="29bca9e00a3dc567adfd8503614c32fb" sha1="326bf51ef83bcb33a70e531450b42e2342e76e02"/>
@@ -17640,13 +17808,9 @@
 		<description>Never Die (1994-08)(Dye Namik Artwerks)</description>
 		<rom name="Never Die (1994-08)(Dye Namik Artwerks).prg" size="7785" crc="96a23bba" md5="d41b1e682201cabb0c8941a8f749bf15" sha1="957b14663ca02125ab3361bc03d9dc8288c03de9"/>
 	</game>
-	<game name="Never Die (1994-08)(Dye Namik Artwerks)[a]">
-		<description>Never Die (1994-08)(Dye Namik Artwerks)[a]</description>
-		<rom name="Never Die (1994-08)(Dye Namik Artwerks)[a].prg" size="7808" crc="8d621fe9" md5="df0008845f44110340cd6c4c8b3f4f94" sha1="acbbbbe7ce43d04e2e4e70cd612514a44efaf4b9"/>
-	</game>
-	<game name="Never Ending Muzak (1986-01-05)(Flying Crackers)">
-		<description>Never Ending Muzak (1986-01-05)(Flying Crackers)</description>
-		<rom name="Never Ending Muzak (1986-01-05)(Flying Crackers).prg" size="7192" crc="ceae72f9" md5="7eda066bd321731876b929a51f97b730" sha1="78bf8b19644b72bdc0b12a8f4f938b61b0dd358b"/>
+	<game name="Never Die (1994-08)(Dye Namik Artwerks)[o]">
+		<description>Never Die (1994-08)(Dye Namik Artwerks)[o]</description>
+		<rom name="Never Die (1994-08)(Dye Namik Artwerks)[o].prg" size="7808" crc="8d621fe9" md5="df0008845f44110340cd6c4c8b3f4f94" sha1="acbbbbe7ce43d04e2e4e70cd612514a44efaf4b9"/>
 	</game>
 	<game name="Never Ending TechLoop (2015-02-06)(Commodore Is Awesome)">
 		<description>Never Ending TechLoop (2015-02-06)(Commodore Is Awesome)</description>
@@ -17667,6 +17831,10 @@
 	<game name="Neverending Muzak (1986-01-05)(Flying Crackers)">
 		<description>Neverending Muzak (1986-01-05)(Flying Crackers)</description>
 		<rom name="Neverending Muzak (1986-01-05)(Flying Crackers).prg" size="7192" crc="13963195" md5="d3841473ee668ce883649350e21a875f" sha1="f7f8d211be9cc43b6623b911b4e74afd7592e25d"/>
+	</game>
+	<game name="Neverending Muzak (1986-01-05)(Flying Crackers)[a]">
+		<description>Neverending Muzak (1986-01-05)(Flying Crackers)[a]</description>
+		<rom name="Neverending Muzak (1986-01-05)(Flying Crackers)[a].prg" size="7192" crc="ceae72f9" md5="7eda066bd321731876b929a51f97b730" sha1="78bf8b19644b72bdc0b12a8f4f938b61b0dd358b"/>
 	</game>
 	<game name="Neverending Story Music, The (19xx)(The Nutcrackers)">
 		<description>Neverending Story Music, The (19xx)(The Nutcrackers)</description>
@@ -17859,6 +18027,10 @@
 	<game name="Night Finds You (2016-10-29)(MultiStyle Labs)">
 		<description>Night Finds You (2016-10-29)(MultiStyle Labs)</description>
 		<rom name="Night Finds You (2016-10-29)(MultiStyle Labs).prg" size="25083" crc="cb1561a1" md5="deaec79dbde2a786db46e15f6b9dc0be" sha1="ab96280e55db7aa05a969022223ba09f51f7176a"/>
+	</game>
+	<game name="Night is Always Too Short, The (2023-02-11)(Fairlight)">
+		<description>Night is Always Too Short, The (2023-02-11)(Fairlight)</description>
+		<rom name="Night is Always Too Short, The (2023-02-11)(Fairlight).prg" size="2883" crc="a671b943" md5="85c7eca7e4d78fbd23fa1b9b2932f18b" sha1="69adb534b52374adfec1c9d42e22f8d946609665"/>
 	</game>
 	<game name="Night Ride (2017-10-07)(Artline Designs)">
 		<description>Night Ride (2017-10-07)(Artline Designs)</description>
@@ -18183,6 +18355,10 @@
 	<game name="No-Skip Mix (2021-08-01)(Mayday!)[2018 Edition]">
 		<description>No-Skip Mix (2021-08-01)(Mayday!)[2018 Edition]</description>
 		<rom name="No-Skip Mix (2021-08-01)(Mayday!)[2018 Edition].prg" size="43391" crc="467aa09f" md5="3ce32e594a150b5227eaae4298be6547" sha1="af194c3b0fc7e797474a09349a531b3cc2bd7eb0"/>
+	</game>
+	<game name="No-Skip Mix (2023-06-03)(Mayday!)[2022 Edition]">
+		<description>No-Skip Mix (2023-06-03)(Mayday!)[2022 Edition]</description>
+		<rom name="No-Skip Mix (2023-06-03)(Mayday!)[2022 Edition].prg" size="36295" crc="c988c7dc" md5="c6a0ccb7783da23fe67962008893fbcf" sha1="56e1a7fcc007bb45851d090fa610b35db36528df"/>
 	</game>
 	<game name="Nostalgisk (2011-10-27)(Fredrik)">
 		<description>Nostalgisk (2011-10-27)(Fredrik)</description>
@@ -18588,6 +18764,26 @@
 		<description>Olli + Lizza Muzak (1987)(Raw Deal Inc.)</description>
 		<rom name="Olli + Lizza Muzak (1987)(Raw Deal Inc.).prg" size="5731" crc="f346dffc" md5="f63dab0be0b726593a81f88b3f010b39" sha1="c1b9e42a8110a5a3c5d109bc4a07bbdba6a39d7e"/>
 	</game>
+	<game name="Olorin Tune 1 (1991)(Asgard)">
+		<description>Olorin Tune 1 (1991)(Asgard)</description>
+		<rom name="Olorin Tune 1 (1991)(Asgard).prg" size="2811" crc="b7e69f69" md5="fb6717069810c898f8f32aa407f34134" sha1="e41e79be208730fec69b0ab650f4b2738345a9c8"/>
+	</game>
+	<game name="Olorin Tune 2 (1991)(Asgard)">
+		<description>Olorin Tune 2 (1991)(Asgard)</description>
+		<rom name="Olorin Tune 2 (1991)(Asgard).prg" size="2960" crc="fc7ea1c6" md5="d12dd50bddf2859e602f14d10384ebfa" sha1="1c7c4eeb66ca64f2a42a7dbd2b13159b18eee819"/>
+	</game>
+	<game name="Olorin Tune 3 (1991)(Asgard)">
+		<description>Olorin Tune 3 (1991)(Asgard)</description>
+		<rom name="Olorin Tune 3 (1991)(Asgard).prg" size="2937" crc="b6c6aefb" md5="ccc8cf0039b4019491be0e2de3f4b582" sha1="8ae28ee21b1c672e3823abeebd6377cb68a01532"/>
+	</game>
+	<game name="Olorin Tune 4 (1991)(Asgard)">
+		<description>Olorin Tune 4 (1991)(Asgard)</description>
+		<rom name="Olorin Tune 4 (1991)(Asgard).prg" size="2788" crc="df4fcc8a" md5="dce230b066889c6ae42e7cedc3c8f05e" sha1="38ec7e6b8914ef081c3d62cebea6501e16635c1a"/>
+	</game>
+	<game name="Olorin Tune 5 (1991)(Asgard)">
+		<description>Olorin Tune 5 (1991)(Asgard)</description>
+		<rom name="Olorin Tune 5 (1991)(Asgard).prg" size="3266" crc="ea774a8e" md5="f86445d917aeae9cabf7d6e5b62792a2" sha1="2826e5b4bbf196bebe5bb1d9351c823e5bd5d4f7"/>
+	</game>
 	<game name="Olsen Banden (2013-03-20)(X-Stayle)">
 		<description>Olsen Banden (2013-03-20)(X-Stayle)</description>
 		<rom name="Olsen Banden (2013-03-20)(X-Stayle).prg" size="5717" crc="a1726ab6" md5="7b1bb53eaaf8afa283c367e127798f1b" sha1="f70f19b2cc310ce4a6c7041a17b6404739ba4dbb"/>
@@ -18919,6 +19115,10 @@
 	<game name="Over the Rainbow (2008-01-29)(Deizi)">
 		<description>Over the Rainbow (2008-01-29)(Deizi)</description>
 		<rom name="Over the Rainbow (2008-01-29)(Deizi).prg" size="4934" crc="8559adfa" md5="2c222bd2991b36c4c92d29b1bd340a84" sha1="0d50599e38956349ffcb4af8dcdb16162653c4a7"/>
+	</game>
+	<game name="Overflow (2023-04-08)(Lft)[2sid]">
+		<description>Overflow (2023-04-08)(Lft)[2sid]</description>
+		<rom name="Overflow (2023-04-08)(Lft)[2sid].prg" size="1071" crc="a811ef0b" md5="ffddaae94dd86158dfa9fc558cb42642" sha1="db037932ffd733d6d4832afb7ec8a841d7a093d2"/>
 	</game>
 	<game name="Overlord Up-Tempo Rock Remix (2022-02-26)(Mayday!)">
 		<description>Overlord Up-Tempo Rock Remix (2022-02-26)(Mayday!)</description>
@@ -19272,6 +19472,10 @@
 		<description>Pebble (1994-05-22)(Agnus)</description>
 		<rom name="Pebble (1994-05-22)(Agnus).prg" size="5020" crc="2c8f2a20" md5="73c1bb8e313b67c694ed9c8836ac9726" sha1="26cb188f542b4130f4cffba46bbd9f409a00a77e"/>
 	</game>
+	<game name="Pelarus-Verkuson (2022-02-12)(Artline Designs)">
+		<description>Pelarus-Verkuson (2022-02-12)(Artline Designs)</description>
+		<rom name="Pelarus-Verkuson (2022-02-12)(Artline Designs).prg" size="48554" crc="bf14c2a2" md5="1f65b4144a8bdae3b75d2907753c86df" sha1="c64287f3b3164ed40367331bc2b6f3b8fdeffd8b"/>
+	</game>
 	<game name="Penetrator Music (1986)(The Mercenary Cracker)">
 		<description>Penetrator Music (1986)(The Mercenary Cracker)</description>
 		<rom name="Penetrator Music (1986)(The Mercenary Cracker).prg" size="7767" crc="c8a4ece1" md5="5092bf469f0043694ae4507ff75ea530" sha1="9de4399919b9dcd238cfa2c258a54266abfb275e"/>
@@ -19468,9 +19672,9 @@
 		<description>Pink Panther (1984)(Cleveland Software-Society)</description>
 		<rom name="Pink Panther (1984)(Cleveland Software-Society).prg" size="6329" crc="96eadf6a" md5="e42c4dba4a8ddd323867d922e39aa43c" sha1="706979d2636b87a80023a026591ddf7d025c39bd"/>
 	</game>
-	<game name="Pink Panther (1984)(Cleveland Software-Society)[a]">
-		<description>Pink Panther (1984)(Cleveland Software-Society)[a]</description>
-		<rom name="Pink Panther (1984)(Cleveland Software-Society)[a].prg" size="6330" crc="789e490d" md5="5c76ad9ce70cdb1a5ed5520ad192d49f" sha1="0df05eb2e84626b7a042947ca4ba1cc7f7ca6d0f"/>
+	<game name="Pink Panther (1984)(Cleveland Software-Society)[o]">
+		<description>Pink Panther (1984)(Cleveland Software-Society)[o]</description>
+		<rom name="Pink Panther (1984)(Cleveland Software-Society)[o].prg" size="6330" crc="789e490d" md5="5c76ad9ce70cdb1a5ed5520ad192d49f" sha1="0df05eb2e84626b7a042947ca4ba1cc7f7ca6d0f"/>
 	</game>
 	<game name="Pinokio (1993-12-29)(Elysium)">
 		<description>Pinokio (1993-12-29)(Elysium)</description>
@@ -19540,9 +19744,13 @@
 		<description>Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)</description>
 		<rom name="Plastic Rules (1988-05-07)(2000 A.D. - The System 2010).prg" size="19014" crc="cc8aee29" md5="cf58e90a566b3d2fa66af4eb474d7691" sha1="12919cd463df4a642ef1218b23c44bf6cb22b744"/>
 	</game>
-	<game name="Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)[a]">
-		<description>Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)[a]</description>
-		<rom name="Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)[a].prg" size="19072" crc="7b9e7fc5" md5="54c1facfe7265d3108e8bc5c7278f955" sha1="82997a6bab4c075e98f37acb66f9121d45196884"/>
+	<game name="Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)[o]">
+		<description>Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)[o]</description>
+		<rom name="Plastic Rules (1988-05-07)(2000 A.D. - The System 2010)[o].prg" size="19072" crc="7b9e7fc5" md5="54c1facfe7265d3108e8bc5c7278f955" sha1="82997a6bab4c075e98f37acb66f9121d45196884"/>
+	</game>
+	<game name="Platform Hopping (2023-06-02)(Lft)">
+		<description>Platform Hopping (2023-06-02)(Lft)</description>
+		<rom name="Platform Hopping (2023-06-02)(Lft).prg" size="8495" crc="cefe4af8" md5="1f0b6090ce43d4dee9f7e12e2e2cdf2e" sha1="ad3eeb4730ba93cc1d40c8c6ca67b8d4fa017b5d"/>
 	</game>
 	<game name="Platman Music (2016-04-01)(Saul Cross)">
 		<description>Platman Music (2016-04-01)(Saul Cross)</description>
@@ -19583,6 +19791,10 @@
 	<game name="Pleasant Evening Bird Disco (2013-08)(Hack n&apos; Trade)">
 		<description>Pleasant Evening Bird Disco (2013-08)(Hack n&apos; Trade)</description>
 		<rom name="Pleasant Evening Bird Disco (2013-08)(Hack n&apos; Trade).prg" size="32530" crc="be685fd3" md5="2a52115f1345d4e8c1b66344c691e153" sha1="eae7b8e4629d010c5113f9c2b5cd362914b7d1d1"/>
+	</game>
+	<game name="Plok&apos;s House (2023-02-17)(Hokuto Force)[2sid]">
+		<description>Plok&apos;s House (2023-02-17)(Hokuto Force)[2sid]</description>
+		<rom name="Plok&apos;s House (2023-02-17)(Hokuto Force)[2sid].prg" size="12898" crc="6efbc65d" md5="bf1eb1419b9676af55309f8b31916545" sha1="3b937dcbab442416a6c5b337c72b1b896c0c3f66"/>
 	</game>
 	<game name="PMS (2005)(Vision)">
 		<description>PMS (2005)(Vision)</description>
@@ -19744,6 +19956,10 @@
 		<description>Pops 4- Ski Dance (19xx)(Woodstock &apos;69)</description>
 		<rom name="Pops 4- Ski Dance (19xx)(Woodstock &apos;69).prg" size="7225" crc="3e850851" md5="fee47156999301b8734cd0618bcd9f2f" sha1="66392ed5623dafaaa50230f7559052b952896b95"/>
 	</game>
+	<game name="Pops! (2023-06-02)(Censor Design)">
+		<description>Pops! (2023-06-02)(Censor Design)</description>
+		<rom name="Pops! (2023-06-02)(Censor Design).prg" size="11661" crc="3aa9246a" md5="4ae8439ecf15fc3442d5b59c82c3143a" sha1="b2095956ae78ea095b13444d1b2c5f0ae6c02928"/>
+	</game>
 	<game name="Popstar (2003-08-09)(Britelite)">
 		<description>Popstar (2003-08-09)(Britelite)</description>
 		<rom name="Popstar (2003-08-09)(Britelite).prg" size="2759" crc="520f4e49" md5="b2a6389d86d925b016cbf574810ebc0c" sha1="a4607dc427784c57ed75a0a1640a453314a58571"/>
@@ -19772,9 +19988,9 @@
 		<description>Positive (1995)(Chromance)</description>
 		<rom name="Positive (1995)(Chromance).prg" size="10323" crc="d477fbd6" md5="5fd0108981dfeb39f337b2dfeff5ebe0" sha1="01fca4c033e1c87d7e0ffa6c06ceeef033456f05"/>
 	</game>
-	<game name="Positive (1995)(Chromance)[a]">
-		<description>Positive (1995)(Chromance)[a]</description>
-		<rom name="Positive (1995)(Chromance)[a].prg" size="10370" crc="0c8bbee8" md5="0c5f998dab145a82e72b3a3943dbd0d8" sha1="aee78ef08416bcb63638ca8c4c96b02ca900c7e4"/>
+	<game name="Positive (1995)(Chromance)[o]">
+		<description>Positive (1995)(Chromance)[o]</description>
+		<rom name="Positive (1995)(Chromance)[o].prg" size="10370" crc="0c8bbee8" md5="0c5f998dab145a82e72b3a3943dbd0d8" sha1="aee78ef08416bcb63638ca8c4c96b02ca900c7e4"/>
 	</game>
 	<game name="Postcard from Ibiza (2007-02-25)(-)">
 		<description>Postcard from Ibiza (2007-02-25)(-)</description>
@@ -20143,6 +20359,10 @@
 	<game name="Push-It SFX V1.0 (1990-02)(Vibrants)">
 		<description>Push-It SFX V1.0 (1990-02)(Vibrants)</description>
 		<rom name="Push-It SFX V1.0 (1990-02)(Vibrants).prg" size="4367" crc="27642580" md5="322f6d496485ed87b27216aa96486724" sha1="c1b456dd578dfd70ca2076cf63fec808c27f4c98"/>
+	</game>
+	<game name="Pusztito (2023-03-18)(-)">
+		<description>Pusztito (2023-03-18)(-)</description>
+		<rom name="Pusztito (2023-03-18)(-).prg" size="7756" crc="3fecb59f" md5="5d05484ee12161baf0ec8c0ca7b08365" sha1="87c6ca01c2f546ad06b7ff15d94ff78c8feef5a9"/>
 	</game>
 	<game name="Puterman in Here (19xx)(Puterman)">
 		<description>Puterman in Here (19xx)(Puterman)</description>
@@ -20703,6 +20923,10 @@
 	<game name="Ready (2007-11-23)(-)">
 		<description>Ready (2007-11-23)(-)</description>
 		<rom name="Ready (2007-11-23)(-).prg" size="7566" crc="0aef28a9" md5="50bd22d4c8a672070b3ee6841f062d20" sha1="8bb85186ffc251a3ffbf242324f184e21aead253"/>
+	</game>
+	<game name="Real Ghostbusters, The (2023-01-31)(Excess)">
+		<description>Real Ghostbusters, The (2023-01-31)(Excess)</description>
+		<rom name="Real Ghostbusters, The (2023-01-31)(Excess).prg" size="8123" crc="0d2ffc8f" md5="57d3bb9c85644b27aee24a27c8a64789" sha1="b295d9b16ed17ba624fba8eed34b168fa22ade33"/>
 	</game>
 	<game name="Real Message, The (1988)(The Chip Crunchers)">
 		<description>Real Message, The (1988)(The Chip Crunchers)</description>
@@ -22392,6 +22616,10 @@
 		<description>Samba Funk (2022-07-01)(STARZ)</description>
 		<rom name="Samba Funk (2022-07-01)(STARZ).prg" size="4601" crc="9a4c2a4f" md5="76f9d1ae3b3f1f8a72c82b51a133478f" sha1="b079c2f8d82219d8ce0b4d2ec1b352ea31dd6b5b"/>
 	</game>
+	<game name="Same Old, Same Old (2023-02-25)(Vision)">
+		<description>Same Old, Same Old (2023-02-25)(Vision)</description>
+		<rom name="Same Old, Same Old (2023-02-25)(Vision).prg" size="8341" crc="2139fcc0" md5="1248070b5702dde25ffb0359ab0e8a50" sha1="adb2c1f95d36c3f45a24f14ec6c5887b39385675"/>
+	</game>
 	<game name="Samhalls Finest (2013-06-29)(Panda Design)">
 		<description>Samhalls Finest (2013-06-29)(Panda Design)</description>
 		<rom name="Samhalls Finest (2013-06-29)(Panda Design).prg" size="6645" crc="b620c235" md5="70f1b0fec90bddffd8fd53de0003bd74" sha1="aa078be49cd9027a22f0928f49b9f0cf6e8868ea"/>
@@ -22400,9 +22628,9 @@
 		<description>Sammy Fox Muzak (1986)(Stoat &amp; Tim)</description>
 		<rom name="Sammy Fox Muzak (1986)(Stoat &amp; Tim).prg" size="10393" crc="eec018dd" md5="13630bceedda7e746297484524925fad" sha1="0e3f225ef468f5e9bf8a39677654fea00bc611c4"/>
 	</game>
-	<game name="Sammy Fox Muzak (1986)(Stoat &amp; Tim)[a]">
-		<description>Sammy Fox Muzak (1986)(Stoat &amp; Tim)[a]</description>
-		<rom name="Sammy Fox Muzak (1986)(Stoat &amp; Tim)[a].prg" size="10496" crc="6f6e62e5" md5="62f935b615533874c25625189a91972f" sha1="7b594609f2ffd2ca4edc04773833ae4343fe5576"/>
+	<game name="Sammy Fox Muzak (1986)(Stoat &amp; Tim)[o]">
+		<description>Sammy Fox Muzak (1986)(Stoat &amp; Tim)[o]</description>
+		<rom name="Sammy Fox Muzak (1986)(Stoat &amp; Tim)[o].prg" size="10496" crc="6f6e62e5" md5="62f935b615533874c25625189a91972f" sha1="7b594609f2ffd2ca4edc04773833ae4343fe5576"/>
 	</game>
 	<game name="Sample (1997)(Tengu)">
 		<description>Sample (1997)(Tengu)</description>
@@ -22824,6 +23052,10 @@
 		<description>Servant (1993)(Triad - Xentax)</description>
 		<rom name="Servant (1993)(Triad - Xentax).prg" size="3702" crc="83e5a5be" md5="fdcb5697bfa3eac87d42186548ed9bc6" sha1="77f4e09927d2b7f9f7408e45856e69e1ec8ce376"/>
 	</game>
+	<game name="Seulement un jour (2023-04-20)(Pretzel Logic)">
+		<description>Seulement un jour (2023-04-20)(Pretzel Logic)</description>
+		<rom name="Seulement un jour (2023-04-20)(Pretzel Logic).prg" size="5882" crc="148df932" md5="a39c5cc1459b06dfd90b84a314b42749" sha1="3699227461f4f636bea40994b4d8e4d87febb32f"/>
+	</game>
 	<game name="Seved Skweeeeee (2009-07-19)(-)">
 		<description>Seved Skweeeeee (2009-07-19)(-)</description>
 		<rom name="Seved Skweeeeee (2009-07-19)(-).prg" size="5334" crc="7c454ad1" md5="840aa46d45d2bea5211e1f6e54d90f0c" sha1="68cc87569d43f04f2e9783cd1c554507018b54a2"/>
@@ -22854,15 +23086,15 @@
 	</game>
 	<game name="Shade Music Collection 2 (1992)(Flash)">
 		<description>Shade Music Collection 2 (1992)(Flash)</description>
-		<rom name="Shade Music Collection 2 (1992)(Flash).prg" size="17792" crc="17195ce7" md5="638092f1f21c6c25eecffb205b4ac6f5" sha1="861ef4302a3d6eac4bda6279d60034b5d92f394a"/>
+		<rom name="Shade Music Collection 2 (1992)(Flash).prg" size="17763" crc="3504f99a" md5="42a883430d3f07a706f3bfc6385e6498" sha1="a5f08d0190d3f2210cf7736729d468843d12869b"/>
 	</game>
-	<game name="Shade Music Collection 2 (1992)(Flash)[a]">
-		<description>Shade Music Collection 2 (1992)(Flash)[a]</description>
-		<rom name="Shade Music Collection 2 (1992)(Flash)[a].prg" size="17763" crc="3504f99a" md5="42a883430d3f07a706f3bfc6385e6498" sha1="a5f08d0190d3f2210cf7736729d468843d12869b"/>
+	<game name="Shade Music Collection 2 (1992)(Flash)[o]">
+		<description>Shade Music Collection 2 (1992)(Flash)[o]</description>
+		<rom name="Shade Music Collection 2 (1992)(Flash)[o].prg" size="17792" crc="17195ce7" md5="638092f1f21c6c25eecffb205b4ac6f5" sha1="861ef4302a3d6eac4bda6279d60034b5d92f394a"/>
 	</game>
-	<game name="Shade Music Collection 2 (1992)(Flash)[a2]">
-		<description>Shade Music Collection 2 (1992)(Flash)[a2]</description>
-		<rom name="Shade Music Collection 2 (1992)(Flash)[a2].prg" size="17792" crc="2277813a" md5="830ae7fcc317a039ebca69c84746956e" sha1="4977c37bf0ecb167a97214d92b32a3c3616267b4"/>
+	<game name="Shade Music Collection 2 (1992)(Flash)[o2]">
+		<description>Shade Music Collection 2 (1992)(Flash)[o2]</description>
+		<rom name="Shade Music Collection 2 (1992)(Flash)[o2].prg" size="17792" crc="2277813a" md5="830ae7fcc317a039ebca69c84746956e" sha1="4977c37bf0ecb167a97214d92b32a3c3616267b4"/>
 	</game>
 	<game name="Shadow FX, The (1986)(Choroid)">
 		<description>Shadow FX, The (1986)(Choroid)</description>
@@ -22927,6 +23159,10 @@
 	<game name="Sham Glam (2016-03-08)(Saul Cross)">
 		<description>Sham Glam (2016-03-08)(Saul Cross)</description>
 		<rom name="Sham Glam (2016-03-08)(Saul Cross).prg" size="4901" crc="0d87347a" md5="1da99767ad167844bf0edb7cac48a4aa" sha1="46b6989dd5492927a727dbd4891bda3cc625470b"/>
+	</game>
+	<game name="Shantae&apos;s Burning Town (2023-02-11)(SHAPE)">
+		<description>Shantae&apos;s Burning Town (2023-02-11)(SHAPE)</description>
+		<rom name="Shantae&apos;s Burning Town (2023-02-11)(SHAPE).prg" size="7182" crc="5df9de5a" md5="106b458cceea5a86538172075d46d97e" sha1="43859cbf2f66ce7fc6a44dd7441f1de4746c201e"/>
 	</game>
 	<game name="Shape Music 1 (1990)(Megastyle)">
 		<description>Shape Music 1 (1990)(Megastyle)</description>
@@ -23016,9 +23252,9 @@
 		<description>Shocker (19xx)(Matrix)</description>
 		<rom name="Shocker (19xx)(Matrix).prg" size="33395" crc="92ac25dd" md5="9b9861084be6824cbe9da3e960cd12ba" sha1="54b05512afcaa070ba244127f1feec8129034739"/>
 	</game>
-	<game name="Shocker (19xx)(Matrix)[a]">
-		<description>Shocker (19xx)(Matrix)[a]</description>
-		<rom name="Shocker (19xx)(Matrix)[a].prg" size="33396" crc="2af2edc1" md5="9b6f33bfd82975b9bfc831e5458cc5b6" sha1="aabf8505d9dc8def8c67e4fc24689b3f596489c6"/>
+	<game name="Shocker (19xx)(Matrix)[o]">
+		<description>Shocker (19xx)(Matrix)[o]</description>
+		<rom name="Shocker (19xx)(Matrix)[o].prg" size="33396" crc="2af2edc1" md5="9b6f33bfd82975b9bfc831e5458cc5b6" sha1="aabf8505d9dc8def8c67e4fc24689b3f596489c6"/>
 	</game>
 	<game name="Shockway Music (1987)(The Shadows)">
 		<description>Shockway Music (1987)(The Shadows)</description>
@@ -23168,9 +23404,17 @@
 		<description>Shume (2017-07-01)(Artline Designs)</description>
 		<rom name="Shume (2017-07-01)(Artline Designs).prg" size="8215" crc="1010e6a2" md5="726f7f06af621ae12c4b90c7f82f37a5" sha1="815ee4821e96f5be816d0126921c973f7f40a17d"/>
 	</game>
+	<game name="Shush Job (2023-04-09)(Padua)">
+		<description>Shush Job (2023-04-09)(Padua)</description>
+		<rom name="Shush Job (2023-04-09)(Padua).prg" size="7714" crc="d8438c22" md5="050327a657097d1b57231e66a1a1fb6d" sha1="7d158dfae42a1f0120d05dffb179bbc3068bebb0"/>
+	</game>
 	<game name="SID Case of Overbombing, A (2018-08-23)(The Solution)">
 		<description>SID Case of Overbombing, A (2018-08-23)(The Solution)</description>
 		<rom name="SID Case of Overbombing, A (2018-08-23)(The Solution).prg" size="20656" crc="03b6f927" md5="38dcbb6e206b595d41bda47e1fc5c572" sha1="8dd3b34e4055b1e0b9941e62fb0759c592d0a00b"/>
+	</game>
+	<game name="SID Covers Collection II (2022-10-29)(Finnish Gold)">
+		<description>SID Covers Collection II (2022-10-29)(Finnish Gold)</description>
+		<rom name="SID Covers Collection II (2022-10-29)(Finnish Gold).prg" size="27748" crc="74e77bdf" md5="9fa0ca10909f9cc479acf86fbb049339" sha1="ba8391117a1ab2dad41e1a714588b1b342830192"/>
 	</game>
 	<game name="SID Dualux (2012-04-28)(Samar Productions)">
 		<description>SID Dualux (2012-04-28)(Samar Productions)</description>
@@ -23515,6 +23759,10 @@
 	<game name="Skogstrollet (2016-08-29)(Deizi)">
 		<description>Skogstrollet (2016-08-29)(Deizi)</description>
 		<rom name="Skogstrollet (2016-08-29)(Deizi).prg" size="3223" crc="fb892641" md5="68ac5192c731f4b50b2f68ed370b2ce0" sha1="4067a3cf24cdc5951c60b2dd1bca389be8b9761c"/>
+	</game>
+	<game name="Skull &amp; Crossbones Level 2 (1992-04)(PDB)">
+		<description>Skull &amp; Crossbones Level 2 (1992-04)(PDB)</description>
+		<rom name="Skull &amp; Crossbones Level 2 (1992-04)(PDB).prg" size="2977" crc="371b284f" md5="e9c19bcd6ea706ecadaf9622446d171f" sha1="1310d0ede410a4bc17022a627b325086aa43f4de"/>
 	</game>
 	<game name="Skurwy_FF (2011-08-04)(Monk)">
 		<description>Skurwy_FF (2011-08-04)(Monk)</description>
@@ -24119,6 +24367,10 @@
 	<game name="Soppa (2003-04-02)(hukka)">
 		<description>Soppa (2003-04-02)(hukka)</description>
 		<rom name="Soppa (2003-04-02)(hukka).prg" size="5315" crc="47c8f973" md5="7330af5569ad5d66c6a35a077eb76d7c" sha1="f90112904800c1ce8cd64c6e258bfab277f16503"/>
+	</game>
+	<game name="Sorcerors Battle 64 (2023-06-07)(SHAPE)">
+		<description>Sorcerors Battle 64 (2023-06-07)(SHAPE)</description>
+		<rom name="Sorcerors Battle 64 (2023-06-07)(SHAPE).prg" size="10936" crc="49d4d6cf" md5="d8ba9636b8a22ec85c8074ba2e7defe1" sha1="cc272f339aee7ba57244bd07a6bfe1763efd4c7b"/>
 	</game>
 	<game name="Sorrow (1994-11-20)(Noice)">
 		<description>Sorrow (1994-11-20)(Noice)</description>
@@ -25340,6 +25592,10 @@
 		<description>Strolling Cats (2010-11-23)(Shiru)</description>
 		<rom name="Strolling Cats (2010-11-23)(Shiru).prg" size="6271" crc="218b2294" md5="f77b075d9e51122dbb5c88daa5109b37" sha1="3d9f9152f7c4eaee4aa7fd0146961aadd53408a0"/>
 	</game>
+	<game name="Strolling Towards Kozmos (2023-02-04)(Yleisradio)">
+		<description>Strolling Towards Kozmos (2023-02-04)(Yleisradio)</description>
+		<rom name="Strolling Towards Kozmos (2023-02-04)(Yleisradio).prg" size="4176" crc="bdf04c5e" md5="f00d715d39b558e738666ef4b5b852c6" sha1="944e2b66fb030e75ce4e68b616ea14be8f23a2ef"/>
+	</game>
 	<game name="Strong Headache (2003-11)(Samar Productions)">
 		<description>Strong Headache (2003-11)(Samar Productions)</description>
 		<rom name="Strong Headache (2003-11)(Samar Productions).prg" size="6428" crc="aad63327" md5="bab84de0ad0ceb35f11275dad454c28f" sha1="7ddc4393ea38fcd54b0a3a4fcf797919c36e357e"/>
@@ -25968,6 +26224,10 @@
 		<description>SYS64738 Days (2018-11-03)(MultiStyle Labs)</description>
 		<rom name="SYS64738 Days (2018-11-03)(MultiStyle Labs).prg" size="35079" crc="8c10f8cd" md5="0eb514cb244fe4fdbf23a829e0019186" sha1="64d7a4cc761f790758bcd7e8ebca26b3bb4ecbb9"/>
 	</game>
+	<game name="System Failure (2022-11-19)(Ancients)">
+		<description>System Failure (2022-11-19)(Ancients)</description>
+		<rom name="System Failure (2022-11-19)(Ancients).prg" size="4952" crc="6e7aa204" md5="f38bc1ebace4a09a8df13642e75631ae" sha1="6a6b258ac25465f017a8148bd87c65867b6753d7"/>
+	</game>
 	<game name="Szamokafakajebanokasrakala (1997-08-30)(Expect)">
 		<description>Szamokafakajebanokasrakala (1997-08-30)(Expect)</description>
 		<rom name="Szamokafakajebanokasrakala (1997-08-30)(Expect).prg" size="5038" crc="4298cc50" md5="cb2ad448aa7f51876599454fd17c0286" sha1="869befcd225ae7866048ef0a0e88e4d0fff82144"/>
@@ -26248,6 +26508,10 @@
 		<description>Technop (1992)(Crest)</description>
 		<rom name="Technop (1992)(Crest).prg" size="3861" crc="efc28fb4" md5="fa4fc45b0193dd83885178b86027cf76" sha1="6a0f9d156ff16abf7fbd60e4d972eaa114b65c53"/>
 	</game>
+	<game name="Techno-TECHNO (2023-05-27)(Lethargy)">
+		<description>Techno-TECHNO (2023-05-27)(Lethargy)</description>
+		<rom name="Techno-TECHNO (2023-05-27)(Lethargy).prg" size="2437" crc="8484a05c" md5="2908ee9aafd57f2590c9fd94e03596da" sha1="388d5fcb96c2ac8a436939ad7c0017524b88962f"/>
+	</game>
 	<game name="Technowata 33 (2012-03-14)(Cleve)">
 		<description>Technowata 33 (2012-03-14)(Cleve)</description>
 		<rom name="Technowata 33 (2012-03-14)(Cleve).prg" size="2504" crc="a02c4d5c" md5="a2cb1e4848fb3b69d801cfa569d0595e" sha1="ef49fd2a5a81caef6eab401046e606c30d11b32e"/>
@@ -26263,6 +26527,10 @@
 	<game name="Tecno Music (1985)(Danish Elite)">
 		<description>Tecno Music (1985)(Danish Elite)</description>
 		<rom name="Tecno Music (1985)(Danish Elite).prg" size="8913" crc="b709f341" md5="2c286132b03fad14446640b2f8809736" sha1="b110fe7045fe98f5a6cc1d99c997287a215baec9"/>
+	</game>
+	<game name="Teeth2grind (2023-06-02)(Mayday!)">
+		<description>Teeth2grind (2023-06-02)(Mayday!)</description>
+		<rom name="Teeth2grind (2023-06-02)(Mayday!).prg" size="5368" crc="4aa0709f" md5="fc43e1c9a260c9202b198ee594183b5f" sha1="665033bb85ecff098c53991fc51f7b0fb7c70a2a"/>
 	</game>
 	<game name="Teh Disco (2006-12-26)(EXclusive ON - MultiStyle Labs - Samar Productions)">
 		<description>Teh Disco (2006-12-26)(EXclusive ON - MultiStyle Labs - Samar Productions)</description>
@@ -26656,6 +26924,10 @@
 		<description>These Greys (2013-01-06)(Dane)</description>
 		<rom name="These Greys (2013-01-06)(Dane).prg" size="2280" crc="7ed44336" md5="ef198976d8a1e3c07d3fea3fe84ab6e1" sha1="a6eb2b75d22e89fff3cd588141f5a4dd529a93d0"/>
 	</game>
+	<game name="They Call It Scene Funk (2023-06-02)(svenonacid)">
+		<description>They Call It Scene Funk (2023-06-02)(svenonacid)</description>
+		<rom name="They Call It Scene Funk (2023-06-02)(svenonacid).prg" size="11844" crc="56621d5d" md5="f66f9896fa12cb40282406bead324466" sha1="4d637bfb3b79f0dc851debcd6f292f8ffb8591fe"/>
+	</game>
 	<game name="They Cut the Grass Again (2015-06-07)(MultiStyle Labs - Toondichters)">
 		<description>They Cut the Grass Again (2015-06-07)(MultiStyle Labs - Toondichters)</description>
 		<rom name="They Cut the Grass Again (2015-06-07)(MultiStyle Labs - Toondichters).prg" size="9557" crc="114258be" md5="97776e9e567beac37e351a72df872f0d" sha1="58018182e23dde53b9b9ce58c9544f3cb8d46f55"/>
@@ -26835,6 +27107,14 @@
 	<game name="Tik Tok (2013-03-20)(Inversion)">
 		<description>Tik Tok (2013-03-20)(Inversion)</description>
 		<rom name="Tik Tok (2013-03-20)(Inversion).prg" size="2293" crc="01ce4a95" md5="59ee93799ab9bb03e1f8d8a165b13660" sha1="2116840e814b35ea7b217ff56a0f73e9974b10e7"/>
+	</game>
+	<game name="Tiktaalik University (2023-04-14)(Onslaught)">
+		<description>Tiktaalik University (2023-04-14)(Onslaught)</description>
+		<rom name="Tiktaalik University (2023-04-14)(Onslaught).prg" size="5736" crc="a25676ae" md5="0a8ff93b6c509c21f5d14980dfef3fbc" sha1="5761e4fb281204140ed771ac7bbfc6559f531f53"/>
+	</game>
+	<game name="Tiktaalik University (2023-04-16)(Onslaught)[f]">
+		<description>Tiktaalik University (2023-04-16)(Onslaught)[f]</description>
+		<rom name="Tiktaalik University (2023-04-16)(Onslaught)[f].prg" size="5742" crc="1a0777a1" md5="0cb22deab79c32db24b8a67139fdcfcd" sha1="c80ec73e8bf689e45f0d512b34927b1c7fd931e4"/>
 	</game>
 	<game name="Til Death Do Us Part (1999-08-07)(Crest)">
 		<description>Til Death Do Us Part (1999-08-07)(Crest)</description>
@@ -27076,6 +27356,10 @@
 		<description>Too Little Time (2017-02-11)(Panda Design)</description>
 		<rom name="Too Little Time (2017-02-11)(Panda Design).prg" size="3870" crc="6a4c0507" md5="d452e1232ad0b4eb163172b7556413bd" sha1="236452ac71b699a98f7ff8e2708efbe19e07d433"/>
 	</game>
+	<game name="Too Little Too Much (2023-02-11)(Genesis Project)">
+		<description>Too Little Too Much (2023-02-11)(Genesis Project)</description>
+		<rom name="Too Little Too Much (2023-02-11)(Genesis Project).prg" size="10808" crc="a8eaf7d0" md5="b33c737fc4754a3379a236d9b7af69e2" sha1="161f23e38fd3bedcd6ba0243c773d592fa275f06"/>
+	</game>
 	<game name="Too Little, Too Late (2013-03-24)(Genesis Project)">
 		<description>Too Little, Too Late (2013-03-24)(Genesis Project)</description>
 		<rom name="Too Little, Too Late (2013-03-24)(Genesis Project).prg" size="5217" crc="c8391056" md5="956de7b31ec2e302472410bb15d07269" sha1="780347569b01de67836fa9e9f6bc7ea0d6218e8f"/>
@@ -27239,6 +27523,10 @@
 	<game name="Trap Music (1986-09-23)(The Outsiders 2005)">
 		<description>Trap Music (1986-09-23)(The Outsiders 2005)</description>
 		<rom name="Trap Music (1986-09-23)(The Outsiders 2005).prg" size="7561" crc="dcb07b34" md5="1d5ea5b5bfc7521a5c9644b0e7280813" sha1="c13a916eee32bd8bcb3e5154ac9280346bc2716b"/>
+	</game>
+	<game name="Trapped! (2023-04-29)(Finnish Gold)">
+		<description>Trapped! (2023-04-29)(Finnish Gold)</description>
+		<rom name="Trapped! (2023-04-29)(Finnish Gold).prg" size="14891" crc="51fc0432" md5="0e5a5cbed6385037b159e2ae681bb996" sha1="4e79ded8d9fb9084b0c0ce3e8e2c456d70bc003e"/>
 	</game>
 	<game name="Trax #17 (1989)(Absence of Mind)">
 		<description>Trax #17 (1989)(Absence of Mind)</description>
@@ -27612,9 +27900,9 @@
 		<description>Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)</description>
 		<rom name="Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite).prg" size="8994" crc="735a2481" md5="f198a52b2d77e201dc62408c6c34ae01" sha1="29d7301f94cbf2d92f7afe7d419137ad65ba88f2"/>
 	</game>
-	<game name="Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)[a]">
-		<description>Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)[a]</description>
-		<rom name="Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)[a].prg" size="8995" crc="83afb593" md5="78efafd33c011074c965bdd046b5b97e" sha1="54ce73b0bc3cc8826eed250b0860ff475b463d80"/>
+	<game name="Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)[o]">
+		<description>Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)[o]</description>
+		<rom name="Tunes from Yie-Ar Kung Fu, The (1986)(Danish Elite)[o].prg" size="8995" crc="83afb593" md5="78efafd33c011074c965bdd046b5b97e" sha1="54ce73b0bc3cc8826eed250b0860ff475b463d80"/>
 	</game>
 	<game name="Turbans vs Cardans (2015-09-05)(Ninja Gefilus)">
 		<description>Turbans vs Cardans (2015-09-05)(Ninja Gefilus)</description>
@@ -27764,9 +28052,9 @@
 		<description>Ultimate Music Collection, The #1 (19xx)(Yip)</description>
 		<rom name="Ultimate Music Collection, The #1 (19xx)(Yip).prg" size="12825" crc="92d5d3bb" md5="d7d6b4b8618d52fdf10775ba65ba44a9" sha1="7ae490c3a73c7017107a4df6645198429f452998"/>
 	</game>
-	<game name="Ultimate Music Collection, The #1 (19xx)(Yip)[a]">
-		<description>Ultimate Music Collection, The #1 (19xx)(Yip)[a]</description>
-		<rom name="Ultimate Music Collection, The #1 (19xx)(Yip)[a].prg" size="12928" crc="5ee607b7" md5="b1ba7e8cf9d931f22aa9b34f48a5448c" sha1="aa441621a06fa4bf125fed9ed2e0d4e147ea5944"/>
+	<game name="Ultimate Music Collection, The #1 (19xx)(Yip)[o]">
+		<description>Ultimate Music Collection, The #1 (19xx)(Yip)[o]</description>
+		<rom name="Ultimate Music Collection, The #1 (19xx)(Yip)[o].prg" size="12928" crc="5ee607b7" md5="b1ba7e8cf9d931f22aa9b34f48a5448c" sha1="aa441621a06fa4bf125fed9ed2e0d4e147ea5944"/>
 	</game>
 	<game name="Ultra Zax 3 (1992-12-06)(Ultra Pampers Boys)">
 		<description>Ultra Zax 3 (1992-12-06)(Ultra Pampers Boys)</description>
@@ -27831,6 +28119,10 @@
 	<game name="Unbelivable Inzane (1994-11-20)(Terric)">
 		<description>Unbelivable Inzane (1994-11-20)(Terric)</description>
 		<rom name="Unbelivable Inzane (1994-11-20)(Terric).prg" size="9831" crc="f721c386" md5="b212e6945d09b2b79f26cd2f0847f624" sha1="e49aad1796f7057824ad356f76ae522077ad8f19"/>
+	</game>
+	<game name="Undecided (2023-04-29)(Mayday!)">
+		<description>Undecided (2023-04-29)(Mayday!)</description>
+		<rom name="Undecided (2023-04-29)(Mayday!).prg" size="3383" crc="e93efcac" md5="03fe7726193aa0dfaf9e3142b4076baf" sha1="3786290be60171a3d71a8c3f5bfaec2e286b0f5d"/>
 	</game>
 	<game name="Under a Blood Red Sky 2007 (2007-11-04)(Froyd)">
 		<description>Under a Blood Red Sky 2007 (2007-11-04)(Froyd)</description>
@@ -28560,6 +28852,10 @@
 		<description>Vexine (2011-08-04)(Monk)</description>
 		<rom name="Vexine (2011-08-04)(Monk).prg" size="3426" crc="c69888b1" md5="f2f996475ebf9845b45efbc007a3bbf8" sha1="3b916c00fae754261d3dc6a24eb8d0d1d12a6e38"/>
 	</game>
+	<game name="Vi drar till fjallen (2023-02-11)(Fairlight)">
+		<description>Vi drar till fjallen (2023-02-11)(Fairlight)</description>
+		<rom name="Vi drar till fjallen (2023-02-11)(Fairlight).prg" size="5380" crc="661a1597" md5="efdd4d953fc41d08bd927c49835facba" sha1="f919875e8268f41208a8ef274e29708cfde1a34d"/>
+	</game>
 	<game name="Vi salde vara hemman (2010-05-22)(Fredrik)">
 		<description>Vi salde vara hemman (2010-05-22)(Fredrik)</description>
 		<rom name="Vi salde vara hemman (2010-05-22)(Fredrik).prg" size="6093" crc="ff578854" md5="e85e33bc3583cadf662ea2dbcbb1d847" sha1="98cd0e851f207a6a7f1f1b9f646cdfc9f5899b1f"/>
@@ -28892,6 +29188,10 @@
 		<description>Wave (1999-08-07)(Oxygen64)</description>
 		<rom name="Wave (1999-08-07)(Oxygen64).prg" size="2617" crc="27e3ae9e" md5="981a2e003dc3fa5ef0de831a00b1f598" sha1="eab9618cd9df0baf662867d15edb96124f49fd59"/>
 	</game>
+	<game name="Wavefrontline (2022-10-29)(Artline Designs)">
+		<description>Wavefrontline (2022-10-29)(Artline Designs)</description>
+		<rom name="Wavefrontline (2022-10-29)(Artline Designs).prg" size="14039" crc="decf6128" md5="88b5ffc8b7f2a66328d2d92be4173219" sha1="00f1001d30ae2969f6f45dbf2294b57099ca9953"/>
+	</game>
 	<game name="Wave-Goodbye (1990)(Audial Arts)">
 		<description>Wave-Goodbye (1990)(Audial Arts)</description>
 		<rom name="Wave-Goodbye (1990)(Audial Arts).prg" size="9283" crc="357a5ce5" md5="8faa842c384fdf44dd37a5fa5b377c50" sha1="ad7fedb33966ec9c0d592eb8d4665aad7777f144"/>
@@ -28982,15 +29282,15 @@
 	</game>
 	<game name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a3]">
 		<description>We M.U.S.I.C. 06 - YMO (1986)(We Music)[a3]</description>
-		<rom name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a3].prg" size="9856" crc="09c1374e" md5="de3cbc24c5e743a81184632b0aff6cc5" sha1="ac0513a0901c0b5c41ce53df2e062e582453ee9d"/>
+		<rom name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a3].prg" size="9779" crc="8e493d8b" md5="836b7640a8f6e80561b082c487c3d20b" sha1="c404bc5fbab884c8a2ece5534207d6da9ef51e76"/>
 	</game>
 	<game name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a4]">
 		<description>We M.U.S.I.C. 06 - YMO (1986)(We Music)[a4]</description>
 		<rom name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a4].prg" size="9984" crc="b22ce035" md5="d953d0712e226567f23c98c88cec832e" sha1="cafe2c30a0cdecfff2018e6f7c1ca1e7e083ca4e"/>
 	</game>
-	<game name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a5]">
-		<description>We M.U.S.I.C. 06 - YMO (1986)(We Music)[a5]</description>
-		<rom name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[a5].prg" size="9779" crc="8e493d8b" md5="836b7640a8f6e80561b082c487c3d20b" sha1="c404bc5fbab884c8a2ece5534207d6da9ef51e76"/>
+	<game name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[o]">
+		<description>We M.U.S.I.C. 06 - YMO (1986)(We Music)[o]</description>
+		<rom name="We M.U.S.I.C. 06 - YMO (1986)(We Music)[o].prg" size="9856" crc="09c1374e" md5="de3cbc24c5e743a81184632b0aff6cc5" sha1="ac0513a0901c0b5c41ce53df2e062e582453ee9d"/>
 	</game>
 	<game name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)">
 		<description>We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)</description>
@@ -29006,15 +29306,15 @@
 	</game>
 	<game name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a3]">
 		<description>We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a3]</description>
-		<rom name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a3].prg" size="12672" crc="ec795763" md5="0673b4dcbe779ba6fd232f01452e2523" sha1="feeb91661efc65de81c12c07fff4b772ad667c46"/>
+		<rom name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a3].prg" size="12288" crc="d66c6884" md5="a1d20d632ab1c21844c1ee98d2b5c6c4" sha1="d046967323b8439fac44c5db226584699d2a543f"/>
 	</game>
 	<game name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a4]">
 		<description>We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a4]</description>
 		<rom name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a4].prg" size="12611" crc="2a6d07f5" md5="eaa8c2d29e55dcecb126a54f4b47dd33" sha1="b36113545da911b67fc50ab187574d80492da71b"/>
 	</game>
-	<game name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a5]">
-		<description>We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a5]</description>
-		<rom name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[a5].prg" size="12288" crc="d66c6884" md5="a1d20d632ab1c21844c1ee98d2b5c6c4" sha1="d046967323b8439fac44c5db226584699d2a543f"/>
+	<game name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[o]">
+		<description>We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[o]</description>
+		<rom name="We M.U.S.I.C. 09 - Biggles (19xx)(Ratt &amp; Benn)[o].prg" size="12672" crc="ec795763" md5="0673b4dcbe779ba6fd232f01452e2523" sha1="feeb91661efc65de81c12c07fff4b772ad667c46"/>
 	</game>
 	<game name="We M.U.S.I.C. Demo (1986-10-18)(Ratt &amp; Benn)">
 		<description>We M.U.S.I.C. Demo (1986-10-18)(Ratt &amp; Benn)</description>
@@ -29256,6 +29556,10 @@
 		<description>Wild West Story (1995-07-29)(Medium)</description>
 		<rom name="Wild West Story (1995-07-29)(Medium).prg" size="3217" crc="651dffb1" md5="0ad1afa0b41c9485f1bda6ad56c44783" sha1="220e4efae95de36bb25038c2e92a42a043101db9"/>
 	</game>
+	<game name="Wildberry Lillet (2023-04-29)(Excess)">
+		<description>Wildberry Lillet (2023-04-29)(Excess)</description>
+		<rom name="Wildberry Lillet (2023-04-29)(Excess).prg" size="6114" crc="1c48cd9a" md5="70045f3c06ac678a957ba64a190d0af4" sha1="c39993a233490c96576382a8811eddb19fa2ffb1"/>
+	</game>
 	<game name="Wildcop (1989)(Yankees)">
 		<description>Wildcop (1989)(Yankees)</description>
 		<rom name="Wildcop (1989)(Yankees).prg" size="5391" crc="6eb8e978" md5="ea48ca8b4a2e3c6b642fcad269cb0fd5" sha1="a9db0febf84418660d8b12974e1237e414b25001"/>
@@ -29286,11 +29590,11 @@
 	</game>
 	<game name="Winger - Easy Come Easy Go (1995)(Palace)">
 		<description>Winger - Easy Come Easy Go (1995)(Palace)</description>
-		<rom name="Winger - Easy Come Easy Go (1995)(Palace).prg" size="26112" crc="855a5ada" md5="49884056c47f0f2c8d47d2de2ebe9214" sha1="6289ac51ce8229024a6fc4ccb95f30cb52ecb4b5"/>
+		<rom name="Winger - Easy Come Easy Go (1995)(Palace).prg" size="26058" crc="dd05f5c5" md5="51e535be9d889d48a90f604782068b66" sha1="f45e319dcf43f1979b6fef240d419808d49a379a"/>
 	</game>
-	<game name="Winger - Easy Come Easy Go (1995)(Palace)[a]">
-		<description>Winger - Easy Come Easy Go (1995)(Palace)[a]</description>
-		<rom name="Winger - Easy Come Easy Go (1995)(Palace)[a].prg" size="26058" crc="dd05f5c5" md5="51e535be9d889d48a90f604782068b66" sha1="f45e319dcf43f1979b6fef240d419808d49a379a"/>
+	<game name="Winger - Easy Come Easy Go (1995)(Palace)[o]">
+		<description>Winger - Easy Come Easy Go (1995)(Palace)[o]</description>
+		<rom name="Winger - Easy Come Easy Go (1995)(Palace)[o].prg" size="26112" crc="855a5ada" md5="49884056c47f0f2c8d47d2de2ebe9214" sha1="6289ac51ce8229024a6fc4ccb95f30cb52ecb4b5"/>
 	</game>
 	<game name="Winning Tune (1993-01-17)(Fairlight)">
 		<description>Winning Tune (1993-01-17)(Fairlight)</description>
@@ -29684,6 +29988,10 @@
 		<description>X Music Remix (1996)(Commodore Zone)</description>
 		<rom name="X Music Remix (1996)(Commodore Zone).prg" size="11389" crc="ba54c3c2" md5="b95decd7f8b2fae1e6629a705e71fa4f" sha1="70cfb4c251d5fadf2fe68ca908131c5eda05908e"/>
 	</game>
+	<game name="X2023 (2023-06-02)(Padua)">
+		<description>X2023 (2023-06-02)(Padua)</description>
+		<rom name="X2023 (2023-06-02)(Padua).prg" size="5028" crc="6ea06dc1" md5="9114dfa864d661b8328aeed95b43fc7c" sha1="0442810d2ec050aaafd686d8e22cf544dfe0e8b9"/>
+	</game>
 	<game name="X&apos;98 Compo Entry (1998)(Ouwehand, Reyn)">
 		<description>X&apos;98 Compo Entry (1998)(Ouwehand, Reyn)</description>
 		<rom name="X&apos;98 Compo Entry (1998)(Ouwehand, Reyn).prg" size="3075" crc="c271a4ce" md5="8fff47ec785fb2250d69e08a4a4d786f" sha1="4bd676371fb607cc98d72fddea6b93ee79050c59"/>
@@ -29752,9 +30060,9 @@
 		<description>Y&apos;all Ready For This (1994)(Megmyx)</description>
 		<rom name="Y&apos;all Ready For This (1994)(Megmyx).prg" size="4098" crc="8d927c82" md5="49ef68b9076318fc5ee905be5137005f" sha1="c6219a84fccafe32f3a3d58237e3360345bad1d8"/>
 	</game>
-	<game name="Y&apos;all Ready For This (1994)(Megmyx)[a]">
-		<description>Y&apos;all Ready For This (1994)(Megmyx)[a]</description>
-		<rom name="Y&apos;all Ready For This (1994)(Megmyx)[a].prg" size="4224" crc="b846f3b6" md5="f153f81bed11963eb1bce79146b2b52d" sha1="dba0a6c26e884be355a51d49987a5413c611c8e9"/>
+	<game name="Y&apos;all Ready For This (1994)(Megmyx)[o]">
+		<description>Y&apos;all Ready For This (1994)(Megmyx)[o]</description>
+		<rom name="Y&apos;all Ready For This (1994)(Megmyx)[o].prg" size="4224" crc="b846f3b6" md5="f153f81bed11963eb1bce79146b2b52d" sha1="dba0a6c26e884be355a51d49987a5413c611c8e9"/>
 	</game>
 	<game name="Yasashisa Ni Tsutsumareta Nara (2016-05-22)(PVM)">
 		<description>Yasashisa Ni Tsutsumareta Nara (2016-05-22)(PVM)</description>
@@ -29767,6 +30075,10 @@
 	<game name="Yawn Ripp (1990)(Trans-X)">
 		<description>Yawn Ripp (1990)(Trans-X)</description>
 		<rom name="Yawn Ripp (1990)(Trans-X).prg" size="3754" crc="7c36ea68" md5="7db5c2d6b882e41c00395bef3bc5de28" sha1="99c808295149663f37b222525c66e813f9dca0af"/>
+	</game>
+	<game name="Ye Olde Forest (2023-06-02)(Mayday!)">
+		<description>Ye Olde Forest (2023-06-02)(Mayday!)</description>
+		<rom name="Ye Olde Forest (2023-06-02)(Mayday!).prg" size="3196" crc="a18b2fd7" md5="ebf83e222b979b4dcad4ae222d64e350" sha1="b370cb4542bda630b2bb4e113c66fdb48af268d8"/>
 	</game>
 	<game name="Yeah! (2019-11-03)(DF0-BAD)">
 		<description>Yeah! (2019-11-03)(DF0-BAD)</description>
@@ -29799,6 +30111,10 @@
 	<game name="Yie Ar Muzak (1986)(Stoat &amp; Tim)">
 		<description>Yie Ar Muzak (1986)(Stoat &amp; Tim)</description>
 		<rom name="Yie Ar Muzak (1986)(Stoat &amp; Tim).prg" size="9870" crc="a6a7a38a" md5="163680d407298ec1b5207a4e7138ee6f" sha1="34ab299a625425b3616a9affb1e352d87461d0dc"/>
+	</game>
+	<game name="Yildizlarin Cennet (2023-06-02)(Onslaught)">
+		<description>Yildizlarin Cennet (2023-06-02)(Onslaught)</description>
+		<rom name="Yildizlarin Cennet (2023-06-02)(Onslaught).prg" size="3958" crc="1e6bdbd0" md5="a0615c9f07c5c2300b939b04176e3fd3" sha1="f689e93b86321c6d7645e5450d79ceaea81bcf77"/>
 	</game>
 	<game name="Y-Lax-It (2013-01-10)(celticdesign)">
 		<description>Y-Lax-It (2013-01-10)(celticdesign)</description>
@@ -29879,6 +30195,10 @@
 	<game name="Yummy Pizza (2003-04-21)(-)">
 		<description>Yummy Pizza (2003-04-21)(-)</description>
 		<rom name="Yummy Pizza (2003-04-21)(-).prg" size="5766" crc="faf14bfb" md5="d093c2c1005747fdcd67fe2940c2e0e3" sha1="b69b4025b805ee90c6293da87c59284e69473b93"/>
+	</game>
+	<game name="Zadoksen Aamukahvit (2022-10-29)(Finnish Gold)">
+		<description>Zadoksen Aamukahvit (2022-10-29)(Finnish Gold)</description>
+		<rom name="Zadoksen Aamukahvit (2022-10-29)(Finnish Gold).prg" size="6720" crc="e46268dc" md5="210c5f1a4afa48953a4f17a9c84c94f7" sha1="60d79b2f1762466d8770750075ba8e0cf615b828"/>
 	</game>
 	<game name="Zakazany Owoc (2013-07-07)(Vulture Design)">
 		<description>Zakazany Owoc (2013-07-07)(Vulture Design)</description>
@@ -30103,6 +30423,10 @@
 	<game name="Zeitmaschine V0.86 (2017-08-12)(Nigaz)">
 		<description>Zeitmaschine V0.86 (2017-08-12)(Nigaz)</description>
 		<rom name="Zeitmaschine V0.86 (2017-08-12)(Nigaz).prg" size="5316" crc="9ccfca97" md5="f54bbc1dcc750b2777b1d2c92db09503" sha1="86767230ea308b3ee0144318b539f89eaf64fc5a"/>
+	</game>
+	<game name="Zelda Wind Waker - Great Sea (2023-02-06)(Hokuto Force)">
+		<description>Zelda Wind Waker - Great Sea (2023-02-06)(Hokuto Force)</description>
+		<rom name="Zelda Wind Waker - Great Sea (2023-02-06)(Hokuto Force).prg" size="6726" crc="a9d38295" md5="99968334bdf62cdf2950a450fc049627" sha1="629f4a5fca2e66e15a92e756f6bd1c8a24c51fba"/>
 	</game>
 	<game name="Zero Hour (1994-05-22)(Nipson)">
 		<description>Zero Hour (1994-05-22)(Nipson)</description>

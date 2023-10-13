@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Arcade - [Z64]</name>
-		<description>Commodore C64 - Games - Arcade - [Z64] (TOSEC-v2022-12-25)</description>
+		<description>Commodore C64 - Games - Arcade - [Z64] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-25</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -423,11 +423,11 @@
 		<rom name="3!Bouncy Balls (1996)(Cherry)(Side B)[cr F4CG][t +5 F4CG].z64" size="39576" crc="1d968016" md5="d16208477cd04328244be91fc4de7906" sha1="8ec2e9ac8708308d7669f3a33c9f409b5f0edaad"/>
 		<rom name="4!Bouncy Balls (1996)(Cherry)(Side B)[cr F4CG][t +5 F4CG].z64" size="41707" crc="a2de080b" md5="11739751e5d5dbd364761d8779f84d8a" sha1="e4d30e1b7e4b4925e9406551e9ac8da728bfcce7"/>
 	</game>
-	<game name="Bouncy Balls (demo) (19xx)(Cherry)">
-		<description>Bouncy Balls (demo) (19xx)(Cherry)</description>
-		<rom name="a!Bouncy Balls (demo) (19xx)(Cherry).z64" size="41160" crc="9cf6a673" md5="46e6ecd1a499bbfefd9a2c1336f53276" sha1="7fe6eb204c26ec64085f5346615a476b86dac15c"/>
-		<rom name="b!Bouncy Balls (demo) (19xx)(Cherry).z64" size="21300" crc="c5da02b7" md5="a3d79b91ffdd1db6833b3dfbc5665a92" sha1="a4479d4d81c6cc6b2c5440303292739f5ef1ae38"/>
-		<rom name="x!Bouncy Balls (demo) (19xx)(Cherry).z64" size="597" crc="283568de" md5="5fac8a334379373f3b9c572e5f9839fb" sha1="7462f1ae6882d11e2b4017d7fd3c26b7c29fa6ce"/>
+	<game name="Bouncy Balls (demo) (1996)(Cherry)">
+		<description>Bouncy Balls (demo) (1996)(Cherry)</description>
+		<rom name="a!Bouncy Balls (demo) (1996)(Cherry).z64" size="41160" crc="9cf6a673" md5="46e6ecd1a499bbfefd9a2c1336f53276" sha1="7fe6eb204c26ec64085f5346615a476b86dac15c"/>
+		<rom name="b!Bouncy Balls (demo) (1996)(Cherry).z64" size="21300" crc="c5da02b7" md5="a3d79b91ffdd1db6833b3dfbc5665a92" sha1="a4479d4d81c6cc6b2c5440303292739f5ef1ae38"/>
+		<rom name="x!Bouncy Balls (demo) (1996)(Cherry).z64" size="597" crc="283568de" md5="5fac8a334379373f3b9c572e5f9839fb" sha1="7462f1ae6882d11e2b4017d7fd3c26b7c29fa6ce"/>
 	</game>
 	<game name="Brave (1996)(Magna Media)[cr AFL][t +3 AFL]">
 		<description>Brave (1996)(Magna Media)[cr AFL][t +3 AFL]</description>
@@ -738,10 +738,10 @@
 		<rom name="3!Cube Magik (1994)(Magna Media)[cr SCS+TRC][t +3].z64" size="40074" crc="27559afc" md5="1edd3e891467af54970a182f9ce16f09" sha1="ba8ee4eca317827104b4efb05ea7c086827880ad"/>
 		<rom name="4!Cube Magik (1994)(Magna Media)[cr SCS+TRC][t +3].z64" size="4902" crc="4f583fcc" md5="8361e0c1b3f71771b29c9ff92b5cb326" sha1="ca8cc5454d981a0880e4faf54ac3d13061922f7e"/>
 	</game>
-	<game name="Danger Ball (demo) (1995)(Tuominen, Jari)[cr AFL]">
-		<description>Danger Ball (demo) (1995)(Tuominen, Jari)[cr AFL]</description>
-		<rom name="a!Danger Ball (demo) (1995)(Tuominen, Jari)[cr AFL].z64" size="25442" crc="a4840d54" md5="f9fab00cc3440a60aba4c4b47737c0f1" sha1="e31431cba5523a597db2fa1865475bacb0c397be"/>
-		<rom name="x!Danger Ball (demo) (1995)(Tuominen, Jari)[cr AFL].z64" size="639" crc="43dd896d" md5="284f8f39dbfaf5d9ebd6390a0e36d239" sha1="6fd060650e7048d43f17479dad8d072304660473"/>
+	<game name="Danger Ball (demo) (1995)(Tuominen, Jari)(PD)[cr AFL]">
+		<description>Danger Ball (demo) (1995)(Tuominen, Jari)(PD)[cr AFL]</description>
+		<rom name="a!Danger Ball (demo) (1995)(Tuominen, Jari)(PD)[cr AFL].z64" size="25442" crc="a4840d54" md5="f9fab00cc3440a60aba4c4b47737c0f1" sha1="e31431cba5523a597db2fa1865475bacb0c397be"/>
+		<rom name="x!Danger Ball (demo) (1995)(Tuominen, Jari)(PD)[cr AFL].z64" size="639" crc="43dd896d" md5="284f8f39dbfaf5d9ebd6390a0e36d239" sha1="6fd060650e7048d43f17479dad8d072304660473"/>
 	</game>
 	<game name="Darkman (1991)(Ocean)[cr MNX][t +3 MNX]">
 		<description>Darkman (1991)(Ocean)[cr MNX][t +3 MNX]</description>
@@ -1197,19 +1197,19 @@
 		<rom name="3!Haegar the Horrible (1992)(Kingsoft)[cr SCS][t +8 SCS].z64" size="40390" crc="61cb72ee" md5="bc0ef385dcabcf46a5fdc9c523bf9ffb" sha1="c210e4e8086cc6a9e0b8f6ea4e254c1a71b897ef"/>
 		<rom name="4!Haegar the Horrible (1992)(Kingsoft)[cr SCS][t +8 SCS].z64" size="44989" crc="481aaa3a" md5="4220741bf19d5019aebc1fee9b4c373c" sha1="2c2682cde0864036e45bd33c5895e6c43082cff7"/>
 	</game>
-	<game name="Hammerfist (1990)(Activision)[cr TCOM][t +4 TCOM]">
-		<description>Hammerfist (1990)(Activision)[cr TCOM][t +4 TCOM]</description>
-		<rom name="1!Hammerfist (1990)(Activision)[cr TCOM][t +4 TCOM].z64" size="43225" crc="c7f09203" md5="b60afcca2a47a15fa7382da21ba1cd72" sha1="8df6f05482a7b1b6bbb5b141e7c43b061647b8be"/>
-		<rom name="2!Hammerfist (1990)(Activision)[cr TCOM][t +4 TCOM].z64" size="43346" crc="08edd148" md5="a9b102baec0c17cfedd6e548725e9743" sha1="07960ed2558a821deed45c3e33eda76f8fb535b3"/>
-		<rom name="3!Hammerfist (1990)(Activision)[cr TCOM][t +4 TCOM].z64" size="40844" crc="86ce7ca6" md5="ac9ccdd6c20af277b9c76b344806903c" sha1="9c9946a25aa2e2f85d9726d2b725bf18ea789db0"/>
-		<rom name="4!Hammerfist (1990)(Activision)[cr TCOM][t +4 TCOM].z64" size="45152" crc="3896af53" md5="4a71027a6c0d8d5687b7b1848edf58ed" sha1="b8ee534293840b8b114d0d5558073b7bc2634e49"/>
+	<game name="Hammerfist (1990)(Activision - Vivid Image)[cr TCOM][t +4 TCOM]">
+		<description>Hammerfist (1990)(Activision - Vivid Image)[cr TCOM][t +4 TCOM]</description>
+		<rom name="1!Hammerfist (1990)(Activision - Vivid Image)[cr TCOM][t +4 TCOM].z64" size="43225" crc="c7f09203" md5="b60afcca2a47a15fa7382da21ba1cd72" sha1="8df6f05482a7b1b6bbb5b141e7c43b061647b8be"/>
+		<rom name="2!Hammerfist (1990)(Activision - Vivid Image)[cr TCOM][t +4 TCOM].z64" size="43346" crc="08edd148" md5="a9b102baec0c17cfedd6e548725e9743" sha1="07960ed2558a821deed45c3e33eda76f8fb535b3"/>
+		<rom name="3!Hammerfist (1990)(Activision - Vivid Image)[cr TCOM][t +4 TCOM].z64" size="40844" crc="86ce7ca6" md5="ac9ccdd6c20af277b9c76b344806903c" sha1="9c9946a25aa2e2f85d9726d2b725bf18ea789db0"/>
+		<rom name="4!Hammerfist (1990)(Activision - Vivid Image)[cr TCOM][t +4 TCOM].z64" size="45152" crc="3896af53" md5="4a71027a6c0d8d5687b7b1848edf58ed" sha1="b8ee534293840b8b114d0d5558073b7bc2634e49"/>
 	</game>
-	<game name="Hammerfist (1990)(Activision)[cr Triangle][t +3 Triangle]">
-		<description>Hammerfist (1990)(Activision)[cr Triangle][t +3 Triangle]</description>
-		<rom name="1!Hammerfist (1990)(Activision)[cr Triangle][t +3 Triangle].z64" size="43348" crc="3c1baa0b" md5="07ad80829cd1bda0c7d07b4066b0166d" sha1="607e46019e645801b052bf9e3549dc516b66faaf"/>
-		<rom name="2!Hammerfist (1990)(Activision)[cr Triangle][t +3 Triangle].z64" size="43346" crc="a307dc08" md5="fb708c1e36aa8a0c73ed9d674515a9a9" sha1="8ff7bc7c75e1ed1ec2dfe62a12ef9b944ed4a1b6"/>
-		<rom name="3!Hammerfist (1990)(Activision)[cr Triangle][t +3 Triangle].z64" size="39761" crc="7dc3d89c" md5="ad4b4834ce275a9cce0ae5af7bd18b21" sha1="7ad0b71e4ddca298bf6846e0e2a193e0bd009244"/>
-		<rom name="4!Hammerfist (1990)(Activision)[cr Triangle][t +3 Triangle].z64" size="45152" crc="f3fea681" md5="e00f6218cd70c678878f710e9930b20d" sha1="1c77a79a0aef357af11ed7d2fefecb5f1bc7106b"/>
+	<game name="Hammerfist (1990)(Activision - Vivid Image)[cr Triangle][t +3 Triangle]">
+		<description>Hammerfist (1990)(Activision - Vivid Image)[cr Triangle][t +3 Triangle]</description>
+		<rom name="1!Hammerfist (1990)(Activision - Vivid Image)[cr Triangle][t +3 Triangle].z64" size="43348" crc="3c1baa0b" md5="07ad80829cd1bda0c7d07b4066b0166d" sha1="607e46019e645801b052bf9e3549dc516b66faaf"/>
+		<rom name="2!Hammerfist (1990)(Activision - Vivid Image)[cr Triangle][t +3 Triangle].z64" size="43346" crc="a307dc08" md5="fb708c1e36aa8a0c73ed9d674515a9a9" sha1="8ff7bc7c75e1ed1ec2dfe62a12ef9b944ed4a1b6"/>
+		<rom name="3!Hammerfist (1990)(Activision - Vivid Image)[cr Triangle][t +3 Triangle].z64" size="39761" crc="7dc3d89c" md5="ad4b4834ce275a9cce0ae5af7bd18b21" sha1="7ad0b71e4ddca298bf6846e0e2a193e0bd009244"/>
+		<rom name="4!Hammerfist (1990)(Activision - Vivid Image)[cr Triangle][t +3 Triangle].z64" size="45152" crc="f3fea681" md5="e00f6218cd70c678878f710e9930b20d" sha1="1c77a79a0aef357af11ed7d2fefecb5f1bc7106b"/>
 	</game>
 	<game name="Harald Haardtand - Kampen om de Rene Taender (1992)(Colgate-Palmolive)(DK)[cr NEI - Legend]">
 		<description>Harald Haardtand - Kampen om de Rene Taender (1992)(Colgate-Palmolive)(DK)[cr NEI - Legend]</description>
@@ -1872,26 +1872,26 @@
 		<rom name="3!Metal Warrior 4 - Agents of Metal (demo) (2002)(Covert Bitops)[cr EXC].z64" size="26353" crc="c49045b8" md5="6a309c624ad33c6281548dd9c0dacf21" sha1="6f0ad0ccbc598aee3ef6e13693771ca74407155f"/>
 		<rom name="4!Metal Warrior 4 - Agents of Metal (demo) (2002)(Covert Bitops)[cr EXC].z64" size="640" crc="0d41d1a9" md5="279e1b01b025984460522c974386c70f" sha1="eb170d212df721eb97223c1772b527bd1106ce20"/>
 	</game>
-	<game name="Metal Warrior III (2001)(Electric Harem)[cr LXT][t +1 LXT]">
-		<description>Metal Warrior III (2001)(Electric Harem)[cr LXT][t +1 LXT]</description>
-		<rom name="1!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +1 LXT].z64" size="38555" crc="ead6862c" md5="0c7f977cb3cbd9f4eeabf74f11042d85" sha1="9e56e5f65b7d7f952377eb4ce0220cf1192ab119"/>
-		<rom name="2!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +1 LXT].z64" size="41882" crc="933f343b" md5="73022ce2636b5a4585fc18053c737470" sha1="2f21202a5ec3cdbe073eebebe13dcb2495504d88"/>
-		<rom name="3!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +1 LXT].z64" size="40091" crc="87647193" md5="911720f606868a3de48f1b9f75d456cb" sha1="070fa69c63639b919388f1012d4f24e9c19c3958"/>
-		<rom name="4!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +1 LXT].z64" size="37717" crc="f1ab5fb1" md5="a2536dce3ee8871dcc6119378303bd0c" sha1="281d063631cae89a827863963aa5b0b36009e483"/>
+	<game name="Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +1 LXT]">
+		<description>Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +1 LXT]</description>
+		<rom name="1!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +1 LXT].z64" size="38555" crc="ead6862c" md5="0c7f977cb3cbd9f4eeabf74f11042d85" sha1="9e56e5f65b7d7f952377eb4ce0220cf1192ab119"/>
+		<rom name="2!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +1 LXT].z64" size="41882" crc="933f343b" md5="73022ce2636b5a4585fc18053c737470" sha1="2f21202a5ec3cdbe073eebebe13dcb2495504d88"/>
+		<rom name="3!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +1 LXT].z64" size="40091" crc="87647193" md5="911720f606868a3de48f1b9f75d456cb" sha1="070fa69c63639b919388f1012d4f24e9c19c3958"/>
+		<rom name="4!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +1 LXT].z64" size="37717" crc="f1ab5fb1" md5="a2536dce3ee8871dcc6119378303bd0c" sha1="281d063631cae89a827863963aa5b0b36009e483"/>
 	</game>
-	<game name="Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT]">
-		<description>Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT]</description>
-		<rom name="1!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT].z64" size="38805" crc="7375ca36" md5="3f2fd76595153ad4052e9d5c5450341e" sha1="c044a782b992a2a597dd2309b525b4ae63c5816e"/>
-		<rom name="2!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT].z64" size="41877" crc="e3fedc27" md5="2c231c5432e85b96d92e35b786443fbb" sha1="06c7b31e55f13f181020562e0501c6416c3b3b91"/>
-		<rom name="3!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT].z64" size="40124" crc="cb85b8fe" md5="4f461d8472d7ea69e136ff0b3fd3c8dc" sha1="1bfd48109bf5d7a5dbc29dde866cd348ed43a93b"/>
-		<rom name="4!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT].z64" size="37557" crc="07d0e244" md5="7f04c2110f2d15f633952c0b061a475c" sha1="e2edd2a78356ce8cdea3a20d20cbca1d42e61d7b"/>
+	<game name="Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT]">
+		<description>Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT]</description>
+		<rom name="1!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT].z64" size="38805" crc="7375ca36" md5="3f2fd76595153ad4052e9d5c5450341e" sha1="c044a782b992a2a597dd2309b525b4ae63c5816e"/>
+		<rom name="2!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT].z64" size="41877" crc="e3fedc27" md5="2c231c5432e85b96d92e35b786443fbb" sha1="06c7b31e55f13f181020562e0501c6416c3b3b91"/>
+		<rom name="3!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT].z64" size="40124" crc="cb85b8fe" md5="4f461d8472d7ea69e136ff0b3fd3c8dc" sha1="1bfd48109bf5d7a5dbc29dde866cd348ed43a93b"/>
+		<rom name="4!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT].z64" size="37557" crc="07d0e244" md5="7f04c2110f2d15f633952c0b061a475c" sha1="e2edd2a78356ce8cdea3a20d20cbca1d42e61d7b"/>
 	</game>
-	<game name="Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT][a]">
-		<description>Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT][a]</description>
-		<rom name="1!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT][a].z64" size="38556" crc="d18432cd" md5="3949bcafd5b3b6a5d7b022c60a55149c" sha1="c1103e0336e956e90003ff302078df71c274bf9c"/>
-		<rom name="2!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT][a].z64" size="41880" crc="b50d3dba" md5="3b419dafc43d275e2d2eed6f2c9bced3" sha1="c9f4e3b5dafac487488710f6122b6ae2173f12ba"/>
-		<rom name="3!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT][a].z64" size="40102" crc="32fb7ab2" md5="265dab3faa81b9ed173ca0d50b894b95" sha1="5f74f4c087013efc1ba1c7dd6c9b44fbd8aeb094"/>
-		<rom name="4!Metal Warrior III (2001)(Electric Harem)[cr LXT][t +2 LXT][a].z64" size="37568" crc="7064e488" md5="86b08c9471628004422dbc4c799b65e0" sha1="2d1b96f9ea4a23a58f69a0e6a6a0d86a32259832"/>
+	<game name="Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT][a]">
+		<description>Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT][a]</description>
+		<rom name="1!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT][a].z64" size="38556" crc="d18432cd" md5="3949bcafd5b3b6a5d7b022c60a55149c" sha1="c1103e0336e956e90003ff302078df71c274bf9c"/>
+		<rom name="2!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT][a].z64" size="41880" crc="b50d3dba" md5="3b419dafc43d275e2d2eed6f2c9bced3" sha1="c9f4e3b5dafac487488710f6122b6ae2173f12ba"/>
+		<rom name="3!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT][a].z64" size="40102" crc="32fb7ab2" md5="265dab3faa81b9ed173ca0d50b894b95" sha1="5f74f4c087013efc1ba1c7dd6c9b44fbd8aeb094"/>
+		<rom name="4!Metal Warrior III (2001)(Electric Harem)(PD)[cr LXT][t +2 LXT][a].z64" size="37568" crc="7064e488" md5="86b08c9471628004422dbc4c799b65e0" sha1="2d1b96f9ea4a23a58f69a0e6a6a0d86a32259832"/>
 	</game>
 	<game name="Metal Warrior III (demo) (19xx)(Covert Bitops)[cr Triad]">
 		<description>Metal Warrior III (demo) (19xx)(Covert Bitops)[cr Triad]</description>
@@ -1900,19 +1900,19 @@
 		<rom name="3!Metal Warrior III (demo) (19xx)(Covert Bitops)[cr Triad].z64" size="32073" crc="ec82c194" md5="5da974c2585ea0f50a424d364c7c3902" sha1="7c33cb19591e933eba40a480481ad0b968eb4bd5"/>
 		<rom name="4!Metal Warrior III (demo) (19xx)(Covert Bitops)[cr Triad].z64" size="1577" crc="48a155aa" md5="54f0c27c1571123e630a9a1b7107efc8" sha1="533d8a1a40b950ed0aa4071e0d96ebafed9652cc"/>
 	</game>
-	<game name="Metal Warrior III (demo) (2001)(Electric Harem)[cr LXT]">
-		<description>Metal Warrior III (demo) (2001)(Electric Harem)[cr LXT]</description>
-		<rom name="1!Metal Warrior III (demo) (2001)(Electric Harem)[cr LXT].z64" size="1243" crc="5fdad75b" md5="3d0fe5c9607613e923f5f375109fb5fa" sha1="34a733e433740ef16d04903e084b3b297567a214"/>
-		<rom name="2!Metal Warrior III (demo) (2001)(Electric Harem)[cr LXT].z64" size="28577" crc="648a1fa4" md5="cb361ae44d9682d835b1def70cfbfac0" sha1="498d80542b4bc5a9f81fb66f533560ce7efde78d"/>
-		<rom name="3!Metal Warrior III (demo) (2001)(Electric Harem)[cr LXT].z64" size="32164" crc="66e2222c" md5="576af8d378b6dd00c338ae4e9d277440" sha1="fa9f8e3fd66236422cd9201341fb61050e3aa185"/>
-		<rom name="4!Metal Warrior III (demo) (2001)(Electric Harem)[cr LXT].z64" size="1408" crc="7e15aa30" md5="46460aaf4c278a4cd035ac01e01d61be" sha1="22a23de63198dabdf31fd2ee91922c1b6cf2619f"/>
+	<game name="Metal Warrior III (demo) (2001)(Electric Harem)(PD)[cr LXT]">
+		<description>Metal Warrior III (demo) (2001)(Electric Harem)(PD)[cr LXT]</description>
+		<rom name="1!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[cr LXT].z64" size="1243" crc="5fdad75b" md5="3d0fe5c9607613e923f5f375109fb5fa" sha1="34a733e433740ef16d04903e084b3b297567a214"/>
+		<rom name="2!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[cr LXT].z64" size="28577" crc="648a1fa4" md5="cb361ae44d9682d835b1def70cfbfac0" sha1="498d80542b4bc5a9f81fb66f533560ce7efde78d"/>
+		<rom name="3!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[cr LXT].z64" size="32164" crc="66e2222c" md5="576af8d378b6dd00c338ae4e9d277440" sha1="fa9f8e3fd66236422cd9201341fb61050e3aa185"/>
+		<rom name="4!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[cr LXT].z64" size="1408" crc="7e15aa30" md5="46460aaf4c278a4cd035ac01e01d61be" sha1="22a23de63198dabdf31fd2ee91922c1b6cf2619f"/>
 	</game>
-	<game name="Metal Warrior III (demo) (2001)(Electric Harem)[h ONS][Preview v2]">
-		<description>Metal Warrior III (demo) (2001)(Electric Harem)[h ONS][Preview v2]</description>
-		<rom name="1!Metal Warrior III (demo) (2001)(Electric Harem)[h ONS][Preview v2].z64" size="508" crc="b966b1ad" md5="f1aa373c1880429233403c8385140d61" sha1="35777bcd5af085aa7f7a53c6fbb5423b9929f3b8"/>
-		<rom name="2!Metal Warrior III (demo) (2001)(Electric Harem)[h ONS][Preview v2].z64" size="30902" crc="c6544110" md5="549f4de941a0cc4daa6c253f1b7771fa" sha1="1db39f40c5f3b4ea2a555168df76779325ec84ef"/>
-		<rom name="3!Metal Warrior III (demo) (2001)(Electric Harem)[h ONS][Preview v2].z64" size="29526" crc="beeae706" md5="ea344532338d04a147fbab721a59a822" sha1="2b3512fe5f5120e6c79f8263065e90bceb723fef"/>
-		<rom name="4!Metal Warrior III (demo) (2001)(Electric Harem)[h ONS][Preview v2].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
+	<game name="Metal Warrior III (demo) (2001)(Electric Harem)(PD)[h ONS][Preview v2]">
+		<description>Metal Warrior III (demo) (2001)(Electric Harem)(PD)[h ONS][Preview v2]</description>
+		<rom name="1!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[h ONS][Preview v2].z64" size="508" crc="b966b1ad" md5="f1aa373c1880429233403c8385140d61" sha1="35777bcd5af085aa7f7a53c6fbb5423b9929f3b8"/>
+		<rom name="2!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[h ONS][Preview v2].z64" size="30902" crc="c6544110" md5="549f4de941a0cc4daa6c253f1b7771fa" sha1="1db39f40c5f3b4ea2a555168df76779325ec84ef"/>
+		<rom name="3!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[h ONS][Preview v2].z64" size="29526" crc="beeae706" md5="ea344532338d04a147fbab721a59a822" sha1="2b3512fe5f5120e6c79f8263065e90bceb723fef"/>
+		<rom name="4!Metal Warrior III (demo) (2001)(Electric Harem)(PD)[h ONS][Preview v2].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
 	</game>
 	<game name="Mickey Mouse (1988)(Gremlin)[b]">
 		<description>Mickey Mouse (1988)(Gremlin)[b]</description>
@@ -2735,18 +2735,18 @@
 		<rom name="3!Stonophobe (1991)(Peter &amp; Michael Kuesters)[cr F4CG].z64" size="27008" crc="1cfd9cc5" md5="319e98a16caec27e7c1108bcbae8e537" sha1="0928319327681ae13c929e178406182809f04c1e"/>
 		<rom name="4!Stonophobe (1991)(Peter &amp; Michael Kuesters)[cr F4CG].z64" size="640" crc="6b395ea3" md5="dcccbc98ce7dd4ad6bf3e91bf575a98f" sha1="663b580b8b5159ffb906e546f86581cd4380f2cd"/>
 	</game>
-	<game name="Strider (1989)(US Gold)">
-		<description>Strider (1989)(US Gold)</description>
-		<rom name="1!Strider (1989)(US Gold).z64" size="28609" crc="fe577fc5" md5="4960346e846c9c37200e32bcc9954dfe" sha1="4ced3cdb8a248de6ee1b60e7f54ab56836761a47"/>
-		<rom name="2!Strider (1989)(US Gold).z64" size="25981" crc="bc890af4" md5="79c46903ce63c59d723be80340e2fae6" sha1="62f4122e02b10348aa1703ad8f7951cfe022b9c5"/>
-		<rom name="3!Strider (1989)(US Gold).z64" size="26049" crc="74c45a9e" md5="deff026be8d869cfc068670e430a12ab" sha1="70e12653cffec781786b5c3bb4070e7dc7beb86c"/>
-		<rom name="4!Strider (1989)(US Gold).z64" size="23649" crc="a65c11e6" md5="b5da57be08f2b6743862a5108be4920e" sha1="d7d4f0ea20b5e8662810edc81d8555ac4ff4a6f4"/>
+	<game name="Strider (1989)(Capcom - US Gold)">
+		<description>Strider (1989)(Capcom - US Gold)</description>
+		<rom name="1!Strider (1989)(Capcom - US Gold).z64" size="28609" crc="fe577fc5" md5="4960346e846c9c37200e32bcc9954dfe" sha1="4ced3cdb8a248de6ee1b60e7f54ab56836761a47"/>
+		<rom name="2!Strider (1989)(Capcom - US Gold).z64" size="25981" crc="bc890af4" md5="79c46903ce63c59d723be80340e2fae6" sha1="62f4122e02b10348aa1703ad8f7951cfe022b9c5"/>
+		<rom name="3!Strider (1989)(Capcom - US Gold).z64" size="26049" crc="74c45a9e" md5="deff026be8d869cfc068670e430a12ab" sha1="70e12653cffec781786b5c3bb4070e7dc7beb86c"/>
+		<rom name="4!Strider (1989)(Capcom - US Gold).z64" size="23649" crc="a65c11e6" md5="b5da57be08f2b6743862a5108be4920e" sha1="d7d4f0ea20b5e8662810edc81d8555ac4ff4a6f4"/>
 	</game>
-	<game name="Strider (1989)(US Gold)[cr Paramount][t +5 Paramount]">
-		<description>Strider (1989)(US Gold)[cr Paramount][t +5 Paramount]</description>
-		<rom name="a!Strider (1989)(US Gold)[cr Paramount][t +5 Paramount].z64" size="42488" crc="2730d166" md5="27d85689a9b0feb8a25c9f9c397d6289" sha1="45148c61a8c3a1348d13a6e03317a44f75b3f338"/>
-		<rom name="b!Strider (1989)(US Gold)[cr Paramount][t +5 Paramount].z64" size="24393" crc="1639850a" md5="f089da65c263424a5b6861981ab892a0" sha1="d8a0c23e49ab09b6333df989d6f43759eb1ad955"/>
-		<rom name="x!Strider (1989)(US Gold)[cr Paramount][t +5 Paramount].z64" size="975" crc="1a25eaf9" md5="5a0267174bd6811aef710eb125eed9b0" sha1="fc77a5047691b465cf39b66c815d8956d6310334"/>
+	<game name="Strider (1989)(Capcom - US Gold)[cr Paramount][t +5 Paramount]">
+		<description>Strider (1989)(Capcom - US Gold)[cr Paramount][t +5 Paramount]</description>
+		<rom name="a!Strider (1989)(Capcom - US Gold)[cr Paramount][t +5 Paramount].z64" size="42488" crc="2730d166" md5="27d85689a9b0feb8a25c9f9c397d6289" sha1="45148c61a8c3a1348d13a6e03317a44f75b3f338"/>
+		<rom name="b!Strider (1989)(Capcom - US Gold)[cr Paramount][t +5 Paramount].z64" size="24393" crc="1639850a" md5="f089da65c263424a5b6861981ab892a0" sha1="d8a0c23e49ab09b6333df989d6f43759eb1ad955"/>
+		<rom name="x!Strider (1989)(Capcom - US Gold)[cr Paramount][t +5 Paramount].z64" size="975" crc="1a25eaf9" md5="5a0267174bd6811aef710eb125eed9b0" sha1="fc77a5047691b465cf39b66c815d8956d6310334"/>
 	</game>
 	<game name="Strider II (1990)(US Gold)[cr GP]">
 		<description>Strider II (1990)(US Gold)[cr GP]</description>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Cards - [PRG]</name>
-		<description>Commodore C64 - Games - Cards - [PRG] (TOSEC-v2022-12-21)</description>
+		<description>Commodore C64 - Games - Cards - [PRG] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
+		<version>2023-06-10</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -60,9 +60,9 @@
 		<description>5 Card Draw Poker (1985)(Binary Zone)(PD)</description>
 		<rom name="5 Card Draw Poker (1985)(Binary Zone)(PD).prg" size="9867" crc="7645b7e1" md5="86f5014f622e88cdf67895a84224543c" sha1="469919ecc8ad8cce67147e4727124186128a741c"/>
 	</game>
-	<game name="5 Card Draw Poker (1985)(Binary Zone)(PD)[a]">
-		<description>5 Card Draw Poker (1985)(Binary Zone)(PD)[a]</description>
-		<rom name="5 Card Draw Poker (1985)(Binary Zone)(PD)[a].prg" size="10240" crc="f1cc905c" md5="f4f2091503d27603c1f6f2daf2b9ee55" sha1="c75d47b3add138cc463fe0baa29faae4e80eac84"/>
+	<game name="5 Card Draw Poker (1985)(Binary Zone)(PD)[o]">
+		<description>5 Card Draw Poker (1985)(Binary Zone)(PD)[o]</description>
+		<rom name="5 Card Draw Poker (1985)(Binary Zone)(PD)[o].prg" size="10240" crc="f1cc905c" md5="f4f2091503d27603c1f6f2daf2b9ee55" sha1="c75d47b3add138cc463fe0baa29faae4e80eac84"/>
 	</game>
 	<game name="5 Karten Poker (1983)(Adams, G.)(de)">
 		<description>5 Karten Poker (1983)(Adams, G.)(de)</description>
@@ -135,6 +135,14 @@
 	<game name="Bill Britton Blackjack (19xx)(-)[a]">
 		<description>Bill Britton Blackjack (19xx)(-)[a]</description>
 		<rom name="Bill Britton Blackjack (19xx)(-)[a].prg" size="11136" crc="dc235999" md5="73d77422aee85d5ae3bf7c418f6ac3bb" sha1="c942f26330f766f72169049af594a90ec373df7c"/>
+	</game>
+	<game name="Black Jack (1983)(Brookfield Software)(nl)">
+		<description>Black Jack (1983)(Brookfield Software)(nl)</description>
+		<rom name="Black Jack (1983)(Brookfield Software)(nl).prg" size="5957" crc="2b1170a6" md5="531da014daffba9b3afc66b0b527d763" sha1="0e1c8c25567e83e74d01d4fbb764cdfa2cbc8d38"/>
+	</game>
+	<game name="Black Jack (1983)(Brookfield Software)(nl)[a]">
+		<description>Black Jack (1983)(Brookfield Software)(nl)[a]</description>
+		<rom name="Black Jack (1983)(Brookfield Software)(nl)[a].prg" size="5733" crc="c76cf5e5" md5="29bbef821ef50e07d05c5b4f17f7ee8f" sha1="8cc20fb062cedbeaba68be25ddae78f9cef84cf2"/>
 	</game>
 	<game name="Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM]">
 		<description>Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM]</description>
@@ -332,9 +340,9 @@
 		<description>Concentration - Solitaire (1984)(Elcomp Publishing)</description>
 		<rom name="Concentration - Solitaire (1984)(Elcomp Publishing).prg" size="1674" crc="5419260e" md5="fd57baba3ea776fe27655bd36c47983b" sha1="9b6e030d3ad9aafea5e92abe03130a83db34c927"/>
 	</game>
-	<game name="Crazy 8&apos;s (1980)(John O&apos;Hare)">
-		<description>Crazy 8&apos;s (1980)(John O&apos;Hare)</description>
-		<rom name="Crazy 8&apos;s (1980)(John O&apos;Hare).prg" size="3972" crc="fd1b34ef" md5="f02880433783acf2d13bf2dcf7c76e25" sha1="b91c79dacf2af0180eb5b52e08f3fa8985d55e5c"/>
+	<game name="Crazy 8&apos;s (1980)(O&apos;Hare, John)">
+		<description>Crazy 8&apos;s (1980)(O&apos;Hare, John)</description>
+		<rom name="Crazy 8&apos;s (1980)(O&apos;Hare, John).prg" size="3972" crc="fd1b34ef" md5="f02880433783acf2d13bf2dcf7c76e25" sha1="b91c79dacf2af0180eb5b52e08f3fa8985d55e5c"/>
 	</game>
 	<game name="Cribbage (1982)(Charles Sharp Jr.)">
 		<description>Cribbage (1982)(Charles Sharp Jr.)</description>
@@ -384,6 +392,10 @@
 		<description>Draw Poker (1982)(Avalon Hill)</description>
 		<rom name="Draw Poker (1982)(Avalon Hill).prg" size="13771" crc="dbf4c565" md5="2f3153477d925131d64ee913d4a4ad11" sha1="9ae4285b0eeaadac21753b0a45a41d12684f2026"/>
 	</game>
+	<game name="Draw Poker (1982)(Elizer, Ben)">
+		<description>Draw Poker (1982)(Elizer, Ben)</description>
+		<rom name="Draw Poker (1982)(Elizer, Ben).prg" size="4647" crc="569c48cb" md5="f5f5571e5d9fc1bb392d03324f29d310" sha1="ac30436fe194710b27a687273d6cdf28a0d62520"/>
+	</game>
 	<game name="Draw Poker (1983)(Comptor Software)">
 		<description>Draw Poker (1983)(Comptor Software)</description>
 		<rom name="Draw Poker (1983)(Comptor Software).prg" size="8155" crc="af287be0" md5="3366aed27ab1fca1f56e43213607ddac" sha1="3de4964c5b9029e0cc29fb168861fe2704bc5e60"/>
@@ -431,6 +443,10 @@
 	<game name="Een-En-Twintigen (19xx)(Hans Brugman)(nl)">
 		<description>Een-En-Twintigen (19xx)(Hans Brugman)(nl)</description>
 		<rom name="Een-En-Twintigen (19xx)(Hans Brugman)(nl).prg" size="4458" crc="84d9c91e" md5="91bd4f8d46a4f88f16f93b0500432963" sha1="45f983a674912e336f543b37f8efec0738e219e5"/>
+	</game>
+	<game name="Euchre (1985)(Gold Disk)">
+		<description>Euchre (1985)(Gold Disk)</description>
+		<rom name="Euchre (1985)(Gold Disk).prg" size="26611" crc="7f3b96c3" md5="37a4564b8c0584549ef4e35f1bd4cba6" sha1="5b8c0c291f72c8bc1f7abbadb9c67f46026b699c"/>
 	</game>
 	<game name="Euchre (1987)(Compute!)">
 		<description>Euchre (1987)(Compute!)</description>
@@ -556,6 +572,10 @@
 		<description>Kasino Poker (19xx)(Hoins Software)</description>
 		<rom name="Kasino Poker (19xx)(Hoins Software).prg" size="10374" crc="86276ee7" md5="63d547f5969480484b2580629e683901" sha1="ce61c73c24a45c76233e4009ae34d2f2880e5612"/>
 	</game>
+	<game name="King Cribbage (1983)(Hayden Book Company)">
+		<description>King Cribbage (1983)(Hayden Book Company)</description>
+		<rom name="King Cribbage (1983)(Hayden Book Company).prg" size="18082" crc="b39bd5b9" md5="59a169033be748518e67e2369eca0b90" sha1="6443b3972c9efdd3940337cc969bddd133170a23"/>
+	</game>
 	<game name="Kings Korner Solitaire (19xx)(Flynn, Terry L.)">
 		<description>Kings Korner Solitaire (19xx)(Flynn, Terry L.)</description>
 		<rom name="Kings Korner Solitaire (19xx)(Flynn, Terry L.).prg" size="7325" crc="82006b77" md5="65d4918d737afe2fc7e69174a81d6ae1" sha1="aa534007066aa98895d3ac51067fc07039d0690b"/>
@@ -620,13 +640,17 @@
 		<description>Montana (1983)(Ponzo-Waterloo)[cr TBT]</description>
 		<rom name="Montana (1983)(Ponzo-Waterloo)[cr TBT].prg" size="9366" crc="6d77f9a5" md5="499319e7fd7e024aef07cdeb29aadeb6" sha1="ab17b60abbb0417608f6f61e6e9d654b0c25e461"/>
 	</game>
-	<game name="Montana (1983)(Ponzo-Waterloo)[cr TBT][a]">
-		<description>Montana (1983)(Ponzo-Waterloo)[cr TBT][a]</description>
-		<rom name="Montana (1983)(Ponzo-Waterloo)[cr TBT][a].prg" size="9472" crc="590cae1d" md5="0ef430958c79b68f76ff422a7324a3c7" sha1="34f287e57164a87faffa8828e04c80707f92c9ac"/>
+	<game name="Montana (1983)(Ponzo-Waterloo)[cr TBT][o]">
+		<description>Montana (1983)(Ponzo-Waterloo)[cr TBT][o]</description>
+		<rom name="Montana (1983)(Ponzo-Waterloo)[cr TBT][o].prg" size="9472" crc="590cae1d" md5="0ef430958c79b68f76ff422a7324a3c7" sha1="34f287e57164a87faffa8828e04c80707f92c9ac"/>
 	</game>
 	<game name="Monte Carlo (1987)(Compute!)">
 		<description>Monte Carlo (1987)(Compute!)</description>
 		<rom name="Monte Carlo (1987)(Compute!).prg" size="2347" crc="dc0ed452" md5="abc0d5d0f124c2b7f3cb243bbde4efdf" sha1="b17990b26fa903806131aaec4a1c79607d05c70f"/>
+	</game>
+	<game name="Patience - The Game of 7&apos;s (1987)(Wicked Software)">
+		<description>Patience - The Game of 7&apos;s (1987)(Wicked Software)</description>
+		<rom name="Patience - The Game of 7&apos;s (1987)(Wicked Software).prg" size="7715" crc="d9b64160" md5="1c84069e5c3fca510cbfd05be71fa6e1" sha1="edb7633ff2f71477ab112d7b5eef10639d6f8fe3"/>
 	</game>
 	<game name="Patience (1983)(M.J. Line)">
 		<description>Patience (1983)(M.J. Line)</description>
@@ -675,6 +699,10 @@
 	<game name="Poker 256 (1984)(Compute!)">
 		<description>Poker 256 (1984)(Compute!)</description>
 		<rom name="Poker 256 (1984)(Compute!).prg" size="5632" crc="6d7fae33" md5="4504259779e98d7ae862f5cfb5a2dafe" sha1="7301f8bd8fc175186a4cb548105b4a0f3bea29e0"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic]">
+		<description>Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic].prg" size="26124" crc="448ddb90" md5="73c458c4f63b2c30ca7160cdc19587e3" sha1="a28ee986ff18d4c9225e92d084d3f5e7ca4e05a5"/>
 	</game>
 	<game name="Poker d&apos;Assi (1984)(Armando Curcio Editore)(it)">
 		<description>Poker d&apos;Assi (1984)(Armando Curcio Editore)(it)</description>
@@ -868,6 +896,10 @@
 		<description>Tri-Solitaire (1987)(RUN-CW Communications)[BASIC]</description>
 		<rom name="Tri-Solitaire (1987)(RUN-CW Communications)[BASIC].prg" size="6324" crc="1a0d52e0" md5="d1a3cdff21807a2b524463d6c67c3c27" sha1="fc0ac473afb03aee0c53daa899169198188a2cd3"/>
 	</game>
+	<game name="Turbo Poker (1992)(Compute!)">
+		<description>Turbo Poker (1992)(Compute!)</description>
+		<rom name="Turbo Poker (1992)(Compute!).prg" size="1627" crc="607b28ce" md5="66be7010623edcd1e676ec6f71debe41" sha1="038a3c23e7fd9e139a902f75f1833195991649e5"/>
+	</game>
 	<game name="Twenty One (1984)(Budge-It-Disk)">
 		<description>Twenty One (1984)(Budge-It-Disk)</description>
 		<rom name="Twenty One (1984)(Budge-It-Disk).prg" size="5645" crc="853496ba" md5="ad057b7e43b7334d762e49218106a811" sha1="6eacd22cd7f109934ba37165b455a83a2d333703"/>
@@ -888,9 +920,9 @@
 		<description>Video Poker (1988)(Loadstar)</description>
 		<rom name="Video Poker (1988)(Loadstar).prg" size="15162" crc="9cec55bf" md5="91216b7634234dcd2545aaa3f770e30b" sha1="068eac0e494ac652a66c1e64b6e39b026ba01c5c"/>
 	</game>
-	<game name="Video Poker (1988)(Loadstar)[h FLT]">
-		<description>Video Poker (1988)(Loadstar)[h FLT]</description>
-		<rom name="Video Poker (1988)(Loadstar)[h FLT].prg" size="15163" crc="ff9cec55" md5="4ebbeec9d63100367fbbcba15a134893" sha1="a2f1ccfad1c04b618844d927af894f3aa42041db"/>
+	<game name="Video Poker (1988)(Loadstar)[h FLT][o]">
+		<description>Video Poker (1988)(Loadstar)[h FLT][o]</description>
+		<rom name="Video Poker (1988)(Loadstar)[h FLT][o].prg" size="15163" crc="ff9cec55" md5="4ebbeec9d63100367fbbcba15a134893" sha1="a2f1ccfad1c04b618844d927af894f3aa42041db"/>
 	</game>
 	<game name="Winner Poker (1985)(Hebdogiciel)(fr)">
 		<description>Winner Poker (1985)(Hebdogiciel)(fr)</description>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Diskmags - Commercial - [D64]</name>
-		<description>Commodore C64 - Diskmags - Commercial - [D64] (TOSEC-v2022-12-03)</description>
+		<description>Commodore C64 - Diskmags - Commercial - [D64] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-03</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -4772,10 +4772,6 @@
 		<description>64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a13]</description>
 		<rom name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a13].d64" size="174848" crc="d101b616" md5="c4f4a4e115c34b242a54b77b0ccf727e" sha1="7bbd9482b67f5e2a8f019260f4e071d89793c93f"/>
 	</game>
-	<game name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a14]">
-		<description>64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a14]</description>
-		<rom name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a14].d64" size="196608" crc="757e6bad" md5="4885578453779b36797e3d74990dd282" sha1="e098ddac55e26bd12d932cd95c6ba291b7f3374d"/>
-	</game>
 	<game name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a2]">
 		<description>64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a2]</description>
 		<rom name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a2].d64" size="174848" crc="be051cfe" md5="12cf9d62634d159c877c3899c0021c99" sha1="04d91b3fc171540a386b92c0f79f6df446fd272d"/>
@@ -4807,6 +4803,10 @@
 	<game name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a9]">
 		<description>64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a9]</description>
 		<rom name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[a9].d64" size="174848" crc="1dead486" md5="9aed4b008ea53750e7ca168b986247ef" sha1="08e48657c91dafe9f415c0bc8d4ba325ecbeab7b"/>
+	</game>
+	<game name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[o]">
+		<description>64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[o]</description>
+		<rom name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side A)[o].d64" size="196608" crc="757e6bad" md5="4885578453779b36797e3d74990dd282" sha1="e098ddac55e26bd12d932cd95c6ba291b7f3374d"/>
 	</game>
 	<game name="64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side B)">
 		<description>64&apos;er Magazin Sonderheft #42 (19xx)(Markt &amp; Technik)(de)(Side B)</description>
@@ -8526,11 +8526,11 @@
 	</game>
 	<game name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a]">
 		<description>Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a].d64" size="175531" crc="8b9fc459" md5="9dfc3253d2f1ee657cc23b3d44226a24" sha1="e135a3d1a7b2824735ec3d37364e5109058dd8e2"/>
+		<rom name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a].d64" size="174848" crc="1ad4ddba" md5="c91b04af3a7da6160ce2d3835e08ebb2" sha1="16212e0453900259ffb02fe15aa3e102690ce58b"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a2]">
-		<description>Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a2]</description>
-		<rom name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[a2].d64" size="174848" crc="1ad4ddba" md5="c91b04af3a7da6160ce2d3835e08ebb2" sha1="16212e0453900259ffb02fe15aa3e102690ce58b"/>
+	<game name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 86-06 (1986)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 86-06 (1986)(Compute!)[o].d64" size="175531" crc="8b9fc459" md5="9dfc3253d2f1ee657cc23b3d44226a24" sha1="e135a3d1a7b2824735ec3d37364e5109058dd8e2"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 86-07 (1986)(Compute!)">
 		<description>Compute!&apos;s Gazette 86-07 (1986)(Compute!)</description>
@@ -8584,9 +8584,9 @@
 		<description>Compute!&apos;s Gazette 86-11 (1986)(Compute!)</description>
 		<rom name="Compute!&apos;s Gazette 86-11 (1986)(Compute!).d64" size="174848" crc="34d8ee65" md5="7cd7b584407356b79b22fd7f45f3ff31" sha1="d36f2d40488ddcb9d8b0a499ecf1b4f3ad24388a"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 86-11 (1986)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 86-11 (1986)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 86-11 (1986)(Compute!)[a].d64" size="175531" crc="5a20b4a3" md5="e708305c34c5d13651b47b7762782481" sha1="457db265f9bfcbe5956034bf6189f35a2c30d30c"/>
+	<game name="Compute!&apos;s Gazette 86-11 (1986)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 86-11 (1986)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 86-11 (1986)(Compute!)[o].d64" size="175531" crc="5a20b4a3" md5="e708305c34c5d13651b47b7762782481" sha1="457db265f9bfcbe5956034bf6189f35a2c30d30c"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 86-11 Type-In (1986)(Compute!)">
 		<description>Compute!&apos;s Gazette 86-11 Type-In (1986)(Compute!)</description>
@@ -8604,9 +8604,9 @@
 		<description>Compute!&apos;s Gazette 87-01 (1987)(Compute!)</description>
 		<rom name="Compute!&apos;s Gazette 87-01 (1987)(Compute!).d64" size="174848" crc="400d27ef" md5="2d2dc24bda6ba92bfc9a43818176dfd5" sha1="760e93a577c3313e57e9a3838b513842a7543ffb"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 87-01 (1987)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 87-01 (1987)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 87-01 (1987)(Compute!)[a].d64" size="175531" crc="c38b43bc" md5="4c17d9cbdd0aa1f613d81d2a80dac4fc" sha1="e9b02fb5795e870ce1fd7ba8d85936bbcede13ad"/>
+	<game name="Compute!&apos;s Gazette 87-01 (1987)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 87-01 (1987)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 87-01 (1987)(Compute!)[o].d64" size="175531" crc="c38b43bc" md5="4c17d9cbdd0aa1f613d81d2a80dac4fc" sha1="e9b02fb5795e870ce1fd7ba8d85936bbcede13ad"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 87-01 Type-In (1987)(Compute!)">
 		<description>Compute!&apos;s Gazette 87-01 Type-In (1987)(Compute!)</description>
@@ -9464,9 +9464,9 @@
 		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[a]</description>
 		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[a].d64" size="174848" crc="10e18089" md5="32a7aa72cdbf88b0964d194e1604a448" sha1="068fb2f6f8cb2d3f0ab39e0c7c929eb838a21a04"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[a2]">
-		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[a2]</description>
-		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[a2].d64" size="174976" crc="dd0510f2" md5="70d3edc0818a69fde76d694394735a91" sha1="0a4272798feacfcedea0206eb5285704850faa3c"/>
+	<game name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[o]">
+		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side A)[o].d64" size="174976" crc="dd0510f2" md5="70d3edc0818a69fde76d694394735a91" sha1="0a4272798feacfcedea0206eb5285704850faa3c"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)">
 		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)</description>
@@ -9474,11 +9474,11 @@
 	</game>
 	<game name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a]">
 		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="85cf25f0" md5="b848c3395259e7af8a834546357c3d21" sha1="84ac955194126883ccb3bffbd08d53e2cbcaabac"/>
+		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a].d64" size="174848" crc="18e9ee36" md5="e17a3408e39084480fa51afe2fba6600" sha1="fc6cbe796037440bc2e12801c5f8cc63dac20bf0"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a2]">
-		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a2]</description>
-		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[a2].d64" size="174848" crc="18e9ee36" md5="e17a3408e39084480fa51afe2fba6600" sha1="fc6cbe796037440bc2e12801c5f8cc63dac20bf0"/>
+	<game name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-01 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="85cf25f0" md5="b848c3395259e7af8a834546357c3d21" sha1="84ac955194126883ccb3bffbd08d53e2cbcaabac"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)">
 		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)</description>
@@ -9488,9 +9488,9 @@
 		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[a]</description>
 		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[a].d64" size="174848" crc="308062a3" md5="ac8059d57522bfa2cb00b6c6dac2230c" sha1="120f058b9e8ff953d3469b9fbd969e502b982894"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[a2]">
-		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[a2]</description>
-		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[a2].d64" size="174976" crc="d94feb16" md5="616e32714776d6da82e9442626c9ba79" sha1="18832e2c87841fb9649df29277fd04b2cf34a1f1"/>
+	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[o]">
+		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side A)[o].d64" size="174976" crc="d94feb16" md5="616e32714776d6da82e9442626c9ba79" sha1="18832e2c87841fb9649df29277fd04b2cf34a1f1"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)">
 		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)</description>
@@ -9498,11 +9498,11 @@
 	</game>
 	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a]">
 		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="4ceb621f" md5="d01efa0eb4c1fc921de00760c34d30df" sha1="3c524ea50179c42ed556a584c6e8b99d2e589e4a"/>
+		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a].d64" size="174848" crc="b4c26d35" md5="0a149f77a02a95102949f03c39fe16ff" sha1="b2ef1150ef982bf599abf4dee7b9f1635ddc6c04"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a2]">
-		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a2]</description>
-		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[a2].d64" size="174848" crc="b4c26d35" md5="0a149f77a02a95102949f03c39fe16ff" sha1="b2ef1150ef982bf599abf4dee7b9f1635ddc6c04"/>
+	<game name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-02 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="4ceb621f" md5="d01efa0eb4c1fc921de00760c34d30df" sha1="3c524ea50179c42ed556a584c6e8b99d2e589e4a"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)">
 		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)</description>
@@ -9512,17 +9512,17 @@
 		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[a]</description>
 		<rom name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[a].d64" size="174848" crc="db3bcb06" md5="84ee159f8e1ffac907b17c00b09722dc" sha1="c33dc45dc8bc714305b716225b52e13510c34e73"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[a2]">
-		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[a2]</description>
-		<rom name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[a2].d64" size="174976" crc="90ef49a7" md5="be622be93fac1e2ea75a7374d344c0fa" sha1="19457f0a36d20ec60d5485ee69df0b3479ad2060"/>
+	<game name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[o]">
+		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side A)[o].d64" size="174976" crc="90ef49a7" md5="be622be93fac1e2ea75a7374d344c0fa" sha1="19457f0a36d20ec60d5485ee69df0b3479ad2060"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)">
 		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B).d64" size="174848" crc="d2ce86b2" md5="e212b7c5070936d32fb226358e57a284" sha1="7ee9fcb23f6e4c33921b1dc5d74c53497a6e5197"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="61cbf38f" md5="791803042de2bc5828ec8e50ad8007aa" sha1="c7d89d1c64d6d400306740fb087ff85e657df550"/>
+	<game name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-03 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="61cbf38f" md5="791803042de2bc5828ec8e50ad8007aa" sha1="c7d89d1c64d6d400306740fb087ff85e657df550"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-04 (1994)(Compute!)(Side A)">
 		<description>Compute!&apos;s Gazette 94-04 (1994)(Compute!)(Side A)</description>
@@ -9544,9 +9544,9 @@
 		<description>Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B).d64" size="174848" crc="a49a40d3" md5="2c4376fc4086990dc4d411062341da5e" sha1="64e2a9027184d8d6064002b0547e7a42e11c8d20"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="4b1e5224" md5="4a868086b8453c82a3c8a617e937aa1d" sha1="267a36e44ea972fa265676f17ed0cc91fa7c6a7d"/>
+	<game name="Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-05 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="4b1e5224" md5="4a868086b8453c82a3c8a617e937aa1d" sha1="267a36e44ea972fa265676f17ed0cc91fa7c6a7d"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)">
 		<description>Compute!&apos;s Gazette 94-06 (1994)(Compute!)</description>
@@ -9556,13 +9556,13 @@
 		<description>Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B).d64" size="174848" crc="0f19e3d5" md5="709fd9e4b838671074431fb287597011" sha1="cdfbf888db8f584e4b4f2a17d7b424c94283779b"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="6e88031f" md5="f461a450bd6d3f94503975c8745b858a" sha1="04162b8345cede4ece910c1747aaf834158a8715"/>
+	<game name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="6e88031f" md5="f461a450bd6d3f94503975c8745b858a" sha1="04162b8345cede4ece910c1747aaf834158a8715"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 94-06 (1994)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)[a].d64" size="174976" crc="675dda07" md5="a64d161885697349db1b9398273557a7" sha1="c3c048c03c875c803e69171cc21541cda4e1192e"/>
+	<game name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 94-06 (1994)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-06 (1994)(Compute!)[o].d64" size="174976" crc="675dda07" md5="a64d161885697349db1b9398273557a7" sha1="c3c048c03c875c803e69171cc21541cda4e1192e"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-07 (1994)(Compute!)">
 		<description>Compute!&apos;s Gazette 94-07 (1994)(Compute!)</description>
@@ -9580,13 +9580,13 @@
 		<description>Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B).d64" size="174848" crc="bd92e6e3" md5="d5cae5d098ed3fff8a34c897bcab81dc" sha1="bdb683ced76804d1d962a4f7c7f7e27e53066ab7"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="3ed3a099" md5="aeba0dcfaf55eea64ce81f0c9a26c890" sha1="5dc37b98a8c8b20b172ed50bfcbfe4c957e8d442"/>
+	<game name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="3ed3a099" md5="aeba0dcfaf55eea64ce81f0c9a26c890" sha1="5dc37b98a8c8b20b172ed50bfcbfe4c957e8d442"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 94-08 (1994)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)[a].d64" size="174976" crc="536cb019" md5="894b8b78b6cabc7e5cc4dc0e5861159a" sha1="eaa91048c6829f8deaab684096cc313ecb6a506e"/>
+	<game name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 94-08 (1994)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-08 (1994)(Compute!)[o].d64" size="174976" crc="536cb019" md5="894b8b78b6cabc7e5cc4dc0e5861159a" sha1="eaa91048c6829f8deaab684096cc313ecb6a506e"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)">
 		<description>Compute!&apos;s Gazette 94-09 (1994)(Compute!)</description>
@@ -9596,13 +9596,13 @@
 		<description>Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B).d64" size="174848" crc="4832f90c" md5="384205e6210846f967ddcf372a512146" sha1="0a3d0c6638b06e95541e0865d002f78e47061c11"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="4e3ca30c" md5="85700a1bfce65710fee17e3532d851d0" sha1="53d7f3c58ba30bfeaa69a342899e6d78f54b3a30"/>
+	<game name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="4e3ca30c" md5="85700a1bfce65710fee17e3532d851d0" sha1="53d7f3c58ba30bfeaa69a342899e6d78f54b3a30"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 94-09 (1994)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)[a].d64" size="174976" crc="42dec2f3" md5="026d889fc890bb25fb0fa1bc1d07229e" sha1="8980901619651528eaa92b8e4ba78bbc5a3eb3d3"/>
+	<game name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 94-09 (1994)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-09 (1994)(Compute!)[o].d64" size="174976" crc="42dec2f3" md5="026d889fc890bb25fb0fa1bc1d07229e" sha1="8980901619651528eaa92b8e4ba78bbc5a3eb3d3"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)">
 		<description>Compute!&apos;s Gazette 94-10 (1994)(Compute!)</description>
@@ -9612,13 +9612,13 @@
 		<description>Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B).d64" size="174848" crc="52c7a38a" md5="4d1eecbdebf3460a08cddcb06ab101c0" sha1="abcc8cbbd2d959366a2fbd17d2d3543731ae3a4e"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="faa5f5c3" md5="77c61e374fba8533968d0e10663703e2" sha1="7c114e80d66b10513ea0b060818f7248762c03c8"/>
+	<game name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="faa5f5c3" md5="77c61e374fba8533968d0e10663703e2" sha1="7c114e80d66b10513ea0b060818f7248762c03c8"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 94-10 (1994)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)[a].d64" size="174976" crc="3a11066b" md5="8dd38db2575c81ce5a81a9e2f03f0ab6" sha1="56abc0543436f1e4e697cc83fa1d9191cc7e2fbb"/>
+	<game name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 94-10 (1994)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-10 (1994)(Compute!)[o].d64" size="174976" crc="3a11066b" md5="8dd38db2575c81ce5a81a9e2f03f0ab6" sha1="56abc0543436f1e4e697cc83fa1d9191cc7e2fbb"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)">
 		<description>Compute!&apos;s Gazette 94-11 (1994)(Compute!)</description>
@@ -9632,13 +9632,13 @@
 		<description>Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B).d64" size="174848" crc="53745dbf" md5="86bd221339f68f11272529a3de443924" sha1="9f97cfe7aff4cd031c3b88e9e49cfb7101727b7e"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="88c03016" md5="f3f7dd3d91fd92e4c45fda03d3f820a1" sha1="357125ecb65d5e9e51acac6d0847f4d89525683d"/>
+	<game name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="88c03016" md5="f3f7dd3d91fd92e4c45fda03d3f820a1" sha1="357125ecb65d5e9e51acac6d0847f4d89525683d"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 94-11 (1994)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)[a].d64" size="174976" crc="c2fc38aa" md5="f7879eb7e8dcee0bb6313e6acbd44a5a" sha1="b4df942d1ac258fca374d4e9712e215b93a3b57c"/>
+	<game name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 94-11 (1994)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-11 (1994)(Compute!)[o].d64" size="174976" crc="c2fc38aa" md5="f7879eb7e8dcee0bb6313e6acbd44a5a" sha1="b4df942d1ac258fca374d4e9712e215b93a3b57c"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)">
 		<description>Compute!&apos;s Gazette 94-12 (1994)(Compute!)</description>
@@ -9652,29 +9652,29 @@
 		<description>Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B).d64" size="174848" crc="cae8ae8f" md5="0d37911ed0ba4953cfe75c41926a7095" sha1="d55030dbd64f46cf56e394717692db0199d529cc"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)[a].d64" size="174976" crc="f457dd07" md5="1468cb5aee05551155c47ee9e571d25c" sha1="31d9aeda566039641b8a0ffc9ea8ddedd38c7074"/>
+	<game name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)(Side B)[o].d64" size="174976" crc="f457dd07" md5="1468cb5aee05551155c47ee9e571d25c" sha1="31d9aeda566039641b8a0ffc9ea8ddedd38c7074"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 94-12 (1994)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)[a].d64" size="174976" crc="dde3d644" md5="dc30eb427215fd7af116294dc5b89d84" sha1="fe2a7042507142f2ff3617e19e983b8182771880"/>
+	<game name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 94-12 (1994)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 94-12 (1994)(Compute!)[o].d64" size="174976" crc="dde3d644" md5="dc30eb427215fd7af116294dc5b89d84" sha1="fe2a7042507142f2ff3617e19e983b8182771880"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)">
 		<description>Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)</description>
 		<rom name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A).d64" size="174848" crc="d94a8acc" md5="33d8532d329546a24f9684a196272a0c" sha1="a503a2a1f6d22b7d3377c0c57d7bae008bf30659"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)[a]">
-		<description>Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)[a]</description>
-		<rom name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)[a].d64" size="174976" crc="f860c6b3" md5="babf71f98cd6bbc4b15cfb189e8bc35c" sha1="0a6154caefeec1445ff9822b4ae1dcbd19c395f2"/>
+	<game name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)[o]">
+		<description>Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)[o]</description>
+		<rom name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side A)[o].d64" size="174976" crc="f860c6b3" md5="babf71f98cd6bbc4b15cfb189e8bc35c" sha1="0a6154caefeec1445ff9822b4ae1dcbd19c395f2"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)">
 		<description>Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B).d64" size="174848" crc="407f5f34" md5="aa0bbbd228cecbf0741f65e61167f53a" sha1="b1b8c4b6d215453a5d265e06e891aa65ba6cb866"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)[a].d64" size="174976" crc="0acaeaae" md5="79cc4747982469fa869ab1e4fe77d79b" sha1="63c63962876e315dce750d26b07ae16c1b64e8e7"/>
+	<game name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 95-01 (1995)(Compute!)(Side B)[o].d64" size="174976" crc="0acaeaae" md5="79cc4747982469fa869ab1e4fe77d79b" sha1="63c63962876e315dce750d26b07ae16c1b64e8e7"/>
 	</game>
 	<game name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)">
 		<description>Compute!&apos;s Gazette 95-02 (1995)(Compute!)</description>
@@ -9688,13 +9688,13 @@
 		<description>Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)</description>
 		<rom name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B).d64" size="174848" crc="49b51cb5" md5="ac88e95b8219c5273508be0a19f6cfb3" sha1="5694c59f4296140ab9837c4bf118b6c5f18a45cc"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)[a]">
-		<description>Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)[a]</description>
-		<rom name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)[a].d64" size="174976" crc="1e89386d" md5="fa151389b941a868dad82393e55da29f" sha1="b78d665b00458aefa978aaa3a1b08c3102064a17"/>
+	<game name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)[o]">
+		<description>Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)[o]</description>
+		<rom name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)(Side B)[o].d64" size="174976" crc="1e89386d" md5="fa151389b941a868dad82393e55da29f" sha1="b78d665b00458aefa978aaa3a1b08c3102064a17"/>
 	</game>
-	<game name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)[a]">
-		<description>Compute!&apos;s Gazette 95-02 (1995)(Compute!)[a]</description>
-		<rom name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)[a].d64" size="174976" crc="97dad464" md5="c2e84f216025e30b86fd5e5fe710b7ae" sha1="394a3a73f23a7390131153f3a5419929ad62cc1b"/>
+	<game name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)[o]">
+		<description>Compute!&apos;s Gazette 95-02 (1995)(Compute!)[o]</description>
+		<rom name="Compute!&apos;s Gazette 95-02 (1995)(Compute!)[o].d64" size="174976" crc="97dad464" md5="c2e84f216025e30b86fd5e5fe710b7ae" sha1="394a3a73f23a7390131153f3a5419929ad62cc1b"/>
 	</game>
 	<game name="Compute!&apos;s Gazette Best of 88 (1988)(Compute!)">
 		<description>Compute!&apos;s Gazette Best of 88 (1988)(Compute!)</description>
@@ -13110,15 +13110,15 @@
 	</game>
 	<game name="Go64! 2000-02 (2000)(CSW)(Side A)[a]">
 		<description>Go64! 2000-02 (2000)(CSW)(Side A)[a]</description>
-		<rom name="Go64! 2000-02 (2000)(CSW)(Side A)[a].d64" size="175531" crc="b82e4b03" md5="d58986482ba42f9faf7612d6b94ca080" sha1="e1a65ff69ffc4457b9df0e3823603bf68562cab5"/>
+		<rom name="Go64! 2000-02 (2000)(CSW)(Side A)[a].d64" size="174848" crc="e73650b2" md5="ab41eb221ad35d293ee6d147fc6f2f15" sha1="d4a4d66b21317b46a537943d15c9cd561ea36d8f"/>
 	</game>
 	<game name="Go64! 2000-02 (2000)(CSW)(Side A)[a2]">
 		<description>Go64! 2000-02 (2000)(CSW)(Side A)[a2]</description>
 		<rom name="Go64! 2000-02 (2000)(CSW)(Side A)[a2].d64" size="174848" crc="4ea7c803" md5="375b96c64d6ac1e9934ff12333293343" sha1="c3abf04119192df5c6bccc7d02836a3242c22d93"/>
 	</game>
-	<game name="Go64! 2000-02 (2000)(CSW)(Side A)[a3]">
-		<description>Go64! 2000-02 (2000)(CSW)(Side A)[a3]</description>
-		<rom name="Go64! 2000-02 (2000)(CSW)(Side A)[a3].d64" size="174848" crc="e73650b2" md5="ab41eb221ad35d293ee6d147fc6f2f15" sha1="d4a4d66b21317b46a537943d15c9cd561ea36d8f"/>
+	<game name="Go64! 2000-02 (2000)(CSW)(Side A)[o]">
+		<description>Go64! 2000-02 (2000)(CSW)(Side A)[o]</description>
+		<rom name="Go64! 2000-02 (2000)(CSW)(Side A)[o].d64" size="175531" crc="b82e4b03" md5="d58986482ba42f9faf7612d6b94ca080" sha1="e1a65ff69ffc4457b9df0e3823603bf68562cab5"/>
 	</game>
 	<game name="Go64! 2000-02 (2000)(CSW)(Side B)">
 		<description>Go64! 2000-02 (2000)(CSW)(Side B)</description>
@@ -13132,9 +13132,9 @@
 		<description>Go64! 2000-02 (2000)(CSW)(Side B)[a2]</description>
 		<rom name="Go64! 2000-02 (2000)(CSW)(Side B)[a2].d64" size="174848" crc="31e6f9c9" md5="b48217e407ba3bb435dedc30e07fc272" sha1="422eeb92c76e4f9ce8d39aead8712125db6362d1"/>
 	</game>
-	<game name="Go64! 2000-02 (2000)(CSW)(Side B)[a3]">
-		<description>Go64! 2000-02 (2000)(CSW)(Side B)[a3]</description>
-		<rom name="Go64! 2000-02 (2000)(CSW)(Side B)[a3].d64" size="175531" crc="41d27656" md5="06cb4c72dea59885db8e3a07552be8fb" sha1="08fef16df4a7e6068645095e473be6b860aca3e5"/>
+	<game name="Go64! 2000-02 (2000)(CSW)(Side B)[o]">
+		<description>Go64! 2000-02 (2000)(CSW)(Side B)[o]</description>
+		<rom name="Go64! 2000-02 (2000)(CSW)(Side B)[o].d64" size="175531" crc="41d27656" md5="06cb4c72dea59885db8e3a07552be8fb" sha1="08fef16df4a7e6068645095e473be6b860aca3e5"/>
 	</game>
 	<game name="Go64! 2000-03 (2000)(CSW)(Side A)">
 		<description>Go64! 2000-03 (2000)(CSW)(Side A)</description>
@@ -13142,11 +13142,11 @@
 	</game>
 	<game name="Go64! 2000-03 (2000)(CSW)(Side A)[a]">
 		<description>Go64! 2000-03 (2000)(CSW)(Side A)[a]</description>
-		<rom name="Go64! 2000-03 (2000)(CSW)(Side A)[a].d64" size="175531" crc="ba21e6c0" md5="f391225cea7a7580565b4f242c87ac25" sha1="d21288de9a48bc1114ebe79d4f4fc45b9d5a8863"/>
+		<rom name="Go64! 2000-03 (2000)(CSW)(Side A)[a].d64" size="174848" crc="8859d26e" md5="49f8ecb35a1ffd365d87f161b1b26353" sha1="6566db0f4c085ed45ebd1f4821b9981a11b15ae2"/>
 	</game>
-	<game name="Go64! 2000-03 (2000)(CSW)(Side A)[a2]">
-		<description>Go64! 2000-03 (2000)(CSW)(Side A)[a2]</description>
-		<rom name="Go64! 2000-03 (2000)(CSW)(Side A)[a2].d64" size="174848" crc="8859d26e" md5="49f8ecb35a1ffd365d87f161b1b26353" sha1="6566db0f4c085ed45ebd1f4821b9981a11b15ae2"/>
+	<game name="Go64! 2000-03 (2000)(CSW)(Side A)[o]">
+		<description>Go64! 2000-03 (2000)(CSW)(Side A)[o]</description>
+		<rom name="Go64! 2000-03 (2000)(CSW)(Side A)[o].d64" size="175531" crc="ba21e6c0" md5="f391225cea7a7580565b4f242c87ac25" sha1="d21288de9a48bc1114ebe79d4f4fc45b9d5a8863"/>
 	</game>
 	<game name="Go64! 2000-03 (2000)(CSW)(Side B)">
 		<description>Go64! 2000-03 (2000)(CSW)(Side B)</description>
@@ -13156,9 +13156,9 @@
 		<description>Go64! 2000-03 (2000)(CSW)(Side B)[a]</description>
 		<rom name="Go64! 2000-03 (2000)(CSW)(Side B)[a].d64" size="174848" crc="188a9525" md5="3fb8af0ccca03c132776d56c401dba98" sha1="c8b25d5171023816b14acabfcb513a2ec7ca37b4"/>
 	</game>
-	<game name="Go64! 2000-03 (2000)(CSW)(Side B)[a2]">
-		<description>Go64! 2000-03 (2000)(CSW)(Side B)[a2]</description>
-		<rom name="Go64! 2000-03 (2000)(CSW)(Side B)[a2].d64" size="175531" crc="ee6cd728" md5="7546627fea52f3e4e3c2045ba87bbbed" sha1="383ca0bc0b31a25f475f36830930b1697374e090"/>
+	<game name="Go64! 2000-03 (2000)(CSW)(Side B)[o]">
+		<description>Go64! 2000-03 (2000)(CSW)(Side B)[o]</description>
+		<rom name="Go64! 2000-03 (2000)(CSW)(Side B)[o].d64" size="175531" crc="ee6cd728" md5="7546627fea52f3e4e3c2045ba87bbbed" sha1="383ca0bc0b31a25f475f36830930b1697374e090"/>
 	</game>
 	<game name="Go64! 2000-04 (2000)(CSW)(Side A)">
 		<description>Go64! 2000-04 (2000)(CSW)(Side A)</description>
@@ -13168,9 +13168,9 @@
 		<description>Go64! 2000-04 (2000)(CSW)(Side A)[a]</description>
 		<rom name="Go64! 2000-04 (2000)(CSW)(Side A)[a].d64" size="174848" crc="86a4173c" md5="fc0b0c1f7187b45316e49f6e9dcc155a" sha1="0e98dd0c5e48d7b5bf1c4b3745b91a44fb679a16"/>
 	</game>
-	<game name="Go64! 2000-04 (2000)(CSW)(Side A)[a2]">
-		<description>Go64! 2000-04 (2000)(CSW)(Side A)[a2]</description>
-		<rom name="Go64! 2000-04 (2000)(CSW)(Side A)[a2].d64" size="175531" crc="209b94ac" md5="7829c820a5ebdb79edfd31a87597b70b" sha1="ea5ed7708cafd107fdfd6b42005f2743a4019f0c"/>
+	<game name="Go64! 2000-04 (2000)(CSW)(Side A)[o]">
+		<description>Go64! 2000-04 (2000)(CSW)(Side A)[o]</description>
+		<rom name="Go64! 2000-04 (2000)(CSW)(Side A)[o].d64" size="175531" crc="209b94ac" md5="7829c820a5ebdb79edfd31a87597b70b" sha1="ea5ed7708cafd107fdfd6b42005f2743a4019f0c"/>
 	</game>
 	<game name="Go64! 2000-04 (2000)(CSW)(Side B)">
 		<description>Go64! 2000-04 (2000)(CSW)(Side B)</description>
@@ -13180,9 +13180,9 @@
 		<description>Go64! 2000-04 (2000)(CSW)(Side B)[a]</description>
 		<rom name="Go64! 2000-04 (2000)(CSW)(Side B)[a].d64" size="174848" crc="b1519952" md5="6f51c877480a414ec690ae2cf18bbeeb" sha1="062db47b491c1d52b60e33794fde5c86b7279f0a"/>
 	</game>
-	<game name="Go64! 2000-04 (2000)(CSW)(Side B)[a2]">
-		<description>Go64! 2000-04 (2000)(CSW)(Side B)[a2]</description>
-		<rom name="Go64! 2000-04 (2000)(CSW)(Side B)[a2].d64" size="175531" crc="c9dc6eac" md5="7d84708a6364e92a55ee5b6ad6abc825" sha1="c3e3012fe3ed934d2f97bf0eb5c700db28488bf4"/>
+	<game name="Go64! 2000-04 (2000)(CSW)(Side B)[o]">
+		<description>Go64! 2000-04 (2000)(CSW)(Side B)[o]</description>
+		<rom name="Go64! 2000-04 (2000)(CSW)(Side B)[o].d64" size="175531" crc="c9dc6eac" md5="7d84708a6364e92a55ee5b6ad6abc825" sha1="c3e3012fe3ed934d2f97bf0eb5c700db28488bf4"/>
 	</game>
 	<game name="Go64! 2000-05 (2000)(CSW)(Side A)">
 		<description>Go64! 2000-05 (2000)(CSW)(Side A)</description>
@@ -13192,9 +13192,9 @@
 		<description>Go64! 2000-05 (2000)(CSW)(Side A)[a]</description>
 		<rom name="Go64! 2000-05 (2000)(CSW)(Side A)[a].d64" size="174848" crc="ac37a143" md5="dc1ae4575be41275e7d9c7a89c49e2b0" sha1="b0e015e4032159a961dc5e19d39e767448981110"/>
 	</game>
-	<game name="Go64! 2000-05 (2000)(CSW)(Side A)[a2]">
-		<description>Go64! 2000-05 (2000)(CSW)(Side A)[a2]</description>
-		<rom name="Go64! 2000-05 (2000)(CSW)(Side A)[a2].d64" size="175531" crc="7b7b0dc8" md5="49b02b492b36a14425dc638c74e16080" sha1="e7942fd9ab8e8f795cbb8be393dd3890dc331483"/>
+	<game name="Go64! 2000-05 (2000)(CSW)(Side A)[o]">
+		<description>Go64! 2000-05 (2000)(CSW)(Side A)[o]</description>
+		<rom name="Go64! 2000-05 (2000)(CSW)(Side A)[o].d64" size="175531" crc="7b7b0dc8" md5="49b02b492b36a14425dc638c74e16080" sha1="e7942fd9ab8e8f795cbb8be393dd3890dc331483"/>
 	</game>
 	<game name="Go64! 2000-05 (2000)(CSW)(Side B)">
 		<description>Go64! 2000-05 (2000)(CSW)(Side B)</description>
@@ -13206,15 +13206,15 @@
 	</game>
 	<game name="Go64! 2000-05 (2000)(CSW)(Side B)[a2]">
 		<description>Go64! 2000-05 (2000)(CSW)(Side B)[a2]</description>
-		<rom name="Go64! 2000-05 (2000)(CSW)(Side B)[a2].d64" size="175531" crc="633044b9" md5="ec39b739cca5e707470691226c90dca5" sha1="3572e5820ea81a8a18bd541aff2f65eeac617efd"/>
+		<rom name="Go64! 2000-05 (2000)(CSW)(Side B)[a2].d64" size="175531" crc="ed3091cd" md5="af027cbd92cadad7f019a4ae0f6f3a73" sha1="604a5768304b37d3159732b7c71cba4765e7b805"/>
 	</game>
 	<game name="Go64! 2000-05 (2000)(CSW)(Side B)[a3]">
 		<description>Go64! 2000-05 (2000)(CSW)(Side B)[a3]</description>
 		<rom name="Go64! 2000-05 (2000)(CSW)(Side B)[a3].d64" size="174848" crc="7d08a4f5" md5="26019a3e530e38fd6ef330924c059177" sha1="0cfbc84d65c1348bcd7a24056dbf9c1b09c95eb2"/>
 	</game>
-	<game name="Go64! 2000-05 (2000)(CSW)(Side B)[a4]">
-		<description>Go64! 2000-05 (2000)(CSW)(Side B)[a4]</description>
-		<rom name="Go64! 2000-05 (2000)(CSW)(Side B)[a4].d64" size="175531" crc="ed3091cd" md5="af027cbd92cadad7f019a4ae0f6f3a73" sha1="604a5768304b37d3159732b7c71cba4765e7b805"/>
+	<game name="Go64! 2000-05 (2000)(CSW)(Side B)[o]">
+		<description>Go64! 2000-05 (2000)(CSW)(Side B)[o]</description>
+		<rom name="Go64! 2000-05 (2000)(CSW)(Side B)[o].d64" size="175531" crc="633044b9" md5="ec39b739cca5e707470691226c90dca5" sha1="3572e5820ea81a8a18bd541aff2f65eeac617efd"/>
 	</game>
 	<game name="Go64! 2000-06 (2000)(CSW)(Side A)">
 		<description>Go64! 2000-06 (2000)(CSW)(Side A)</description>
@@ -13224,9 +13224,9 @@
 		<description>Go64! 2000-06 (2000)(CSW)(Side A)[a]</description>
 		<rom name="Go64! 2000-06 (2000)(CSW)(Side A)[a].d64" size="174848" crc="25d66931" md5="d73393e46488f87963d856873ddecc7b" sha1="a55906424e5955d217d84b5718371578150cc35d"/>
 	</game>
-	<game name="Go64! 2000-06 (2000)(CSW)(Side A)[a2]">
-		<description>Go64! 2000-06 (2000)(CSW)(Side A)[a2]</description>
-		<rom name="Go64! 2000-06 (2000)(CSW)(Side A)[a2].d64" size="175531" crc="b24cbe5d" md5="995d11e92db810f7d0986e9805fdbae7" sha1="4a092345d273cffb035d1061b8a956298a3decef"/>
+	<game name="Go64! 2000-06 (2000)(CSW)(Side A)[o]">
+		<description>Go64! 2000-06 (2000)(CSW)(Side A)[o]</description>
+		<rom name="Go64! 2000-06 (2000)(CSW)(Side A)[o].d64" size="175531" crc="b24cbe5d" md5="995d11e92db810f7d0986e9805fdbae7" sha1="4a092345d273cffb035d1061b8a956298a3decef"/>
 	</game>
 	<game name="Go64! 2000-06 (2000)(CSW)(Side B)">
 		<description>Go64! 2000-06 (2000)(CSW)(Side B)</description>
@@ -13236,9 +13236,9 @@
 		<description>Go64! 2000-06 (2000)(CSW)(Side B)[a]</description>
 		<rom name="Go64! 2000-06 (2000)(CSW)(Side B)[a].d64" size="174848" crc="d7f03787" md5="a40a4bb4a645339eb3013407c454bb02" sha1="554c51bd66179dfc5226183172eb3eb3900d9ea9"/>
 	</game>
-	<game name="Go64! 2000-06 (2000)(CSW)(Side B)[a2]">
-		<description>Go64! 2000-06 (2000)(CSW)(Side B)[a2]</description>
-		<rom name="Go64! 2000-06 (2000)(CSW)(Side B)[a2].d64" size="175531" crc="659888d5" md5="2c5c28d4afa98f079c97ba06d8d94090" sha1="f5816f98919508562842a9c78d3aa0c3bf59cc9c"/>
+	<game name="Go64! 2000-06 (2000)(CSW)(Side B)[o]">
+		<description>Go64! 2000-06 (2000)(CSW)(Side B)[o]</description>
+		<rom name="Go64! 2000-06 (2000)(CSW)(Side B)[o].d64" size="175531" crc="659888d5" md5="2c5c28d4afa98f079c97ba06d8d94090" sha1="f5816f98919508562842a9c78d3aa0c3bf59cc9c"/>
 	</game>
 	<game name="Go64! 2000-07 (2000)(CSW)(Side A)">
 		<description>Go64! 2000-07 (2000)(CSW)(Side A)</description>
@@ -13294,7 +13294,7 @@
 	</game>
 	<game name="Go64! 2000-09 (2000)(CSW)(Side B)[a]">
 		<description>Go64! 2000-09 (2000)(CSW)(Side B)[a]</description>
-		<rom name="Go64! 2000-09 (2000)(CSW)(Side B)[a].d64" size="196608" crc="d9b102c3" md5="edc2977a2ef835fdef6e4bf53aac64c5" sha1="2864d7c619d702972c72d3990923e02ea3660079"/>
+		<rom name="Go64! 2000-09 (2000)(CSW)(Side B)[a].d64" size="174848" crc="bf314442" md5="a2ae310034ef629650ecc3a132d40ebb" sha1="d5efd64dc7998feb7ca4d7450576b70013e861bc"/>
 	</game>
 	<game name="Go64! 2000-09 (2000)(CSW)(Side B)[a2]">
 		<description>Go64! 2000-09 (2000)(CSW)(Side B)[a2]</description>
@@ -13304,9 +13304,9 @@
 		<description>Go64! 2000-09 (2000)(CSW)(Side B)[a3]</description>
 		<rom name="Go64! 2000-09 (2000)(CSW)(Side B)[a3].d64" size="174848" crc="1f869386" md5="bd9c71d02e49a8ed5794150021e4ca4b" sha1="88da9e4d9b3554eafbb3dea2590583df1635b76c"/>
 	</game>
-	<game name="Go64! 2000-09 (2000)(CSW)(Side B)[a4]">
-		<description>Go64! 2000-09 (2000)(CSW)(Side B)[a4]</description>
-		<rom name="Go64! 2000-09 (2000)(CSW)(Side B)[a4].d64" size="174848" crc="bf314442" md5="a2ae310034ef629650ecc3a132d40ebb" sha1="d5efd64dc7998feb7ca4d7450576b70013e861bc"/>
+	<game name="Go64! 2000-09 (2000)(CSW)(Side B)[o]">
+		<description>Go64! 2000-09 (2000)(CSW)(Side B)[o]</description>
+		<rom name="Go64! 2000-09 (2000)(CSW)(Side B)[o].d64" size="196608" crc="d9b102c3" md5="edc2977a2ef835fdef6e4bf53aac64c5" sha1="2864d7c619d702972c72d3990923e02ea3660079"/>
 	</game>
 	<game name="Go64! 2000-10 (2000)(CSW)(Side A)">
 		<description>Go64! 2000-10 (2000)(CSW)(Side A)</description>
@@ -14832,9 +14832,9 @@
 		<description>Golden Disk 95-06 (1995)(-)(de)(Side A)</description>
 		<rom name="Golden Disk 95-06 (1995)(-)(de)(Side A).d64" size="174848" crc="22624a3b" md5="d485cc3e37866ae923c847a88f62cfb3" sha1="378f44ca97584dee62af4dc204f84d060e7d775c"/>
 	</game>
-	<game name="Golden Disk 95-06 (1995)(-)(de)(Side A)[a]">
-		<description>Golden Disk 95-06 (1995)(-)(de)(Side A)[a]</description>
-		<rom name="Golden Disk 95-06 (1995)(-)(de)(Side A)[a].d64" size="175531" crc="10b75a29" md5="80a4e14fecb7af0f8431a2fc39e020e6" sha1="753e6a78bf746486927dc61ad40de123b47dad5a"/>
+	<game name="Golden Disk 95-06 (1995)(-)(de)(Side A)[o]">
+		<description>Golden Disk 95-06 (1995)(-)(de)(Side A)[o]</description>
+		<rom name="Golden Disk 95-06 (1995)(-)(de)(Side A)[o].d64" size="175531" crc="10b75a29" md5="80a4e14fecb7af0f8431a2fc39e020e6" sha1="753e6a78bf746486927dc61ad40de123b47dad5a"/>
 	</game>
 	<game name="Golden Disk 95-06 (1995)(-)(de)(Side B)">
 		<description>Golden Disk 95-06 (1995)(-)(de)(Side B)</description>
@@ -15490,11 +15490,11 @@
 	</game>
 	<game name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a]">
 		<description>Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a]</description>
-		<rom name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a].d64" size="175531" crc="5663cc37" md5="ff1f36c8571252e44c0f7a7dd579a431" sha1="f163d1153df5eb56dc28850358b89df6a7cceac8"/>
+		<rom name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a].d64" size="174848" crc="d9700647" md5="fb3277150cf6213484a8842126bb3eef" sha1="28765e9be460a9190ae0d4fb7498aaa9a9fcc23c"/>
 	</game>
-	<game name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2]">
-		<description>Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2]</description>
-		<rom name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2].d64" size="174848" crc="d9700647" md5="fb3277150cf6213484a8842126bb3eef" sha1="28765e9be460a9190ae0d4fb7498aaa9a9fcc23c"/>
+	<game name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[o]">
+		<description>Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[o]</description>
+		<rom name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[o].d64" size="175531" crc="5663cc37" md5="ff1f36c8571252e44c0f7a7dd579a431" sha1="f163d1153df5eb56dc28850358b89df6a7cceac8"/>
 	</game>
 	<game name="Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side B)">
 		<description>Light - Vol.1 - July (1992)(Datasphere Publications)(Disk 2 of 2 Side B)</description>
@@ -15550,11 +15550,11 @@
 	</game>
 	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a2]">
 		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a2]</description>
-		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a2].d64" size="175531" crc="3dbb29cd" md5="363c2a124edbce5d91860b7715e76474" sha1="3124a191e0078f093829c21969d5bc5877e0acf0"/>
+		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a2].d64" size="174848" crc="fe006c52" md5="620742596c072735624e6174c93d6696" sha1="a3e55781169129747e4352c8290d4b764331c4d1"/>
 	</game>
-	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a3]">
-		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a3]</description>
-		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[a3].d64" size="174848" crc="fe006c52" md5="620742596c072735624e6174c93d6696" sha1="a3e55781169129747e4352c8290d4b764331c4d1"/>
+	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[o]">
+		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[o]</description>
+		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side A)[o].d64" size="175531" crc="3dbb29cd" md5="363c2a124edbce5d91860b7715e76474" sha1="3124a191e0078f093829c21969d5bc5877e0acf0"/>
 	</game>
 	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side B)">
 		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 1 of 2 Side B)</description>
@@ -15570,11 +15570,11 @@
 	</game>
 	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2]">
 		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2]</description>
-		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2].d64" size="175531" crc="df65da45" md5="677750a209c2a6b6edc77fa186895da3" sha1="e503cc84903655e4ca53dea96f98816ade274743"/>
+		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a2].d64" size="174848" crc="08e97dab" md5="e5395b43a038c911229fb303ef03b175" sha1="18574a039cebadf8cacef6b5aa7d2e2482babef4"/>
 	</game>
-	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a3]">
-		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a3]</description>
-		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[a3].d64" size="174848" crc="08e97dab" md5="e5395b43a038c911229fb303ef03b175" sha1="18574a039cebadf8cacef6b5aa7d2e2482babef4"/>
+	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[o]">
+		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[o]</description>
+		<rom name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side A)[o].d64" size="175531" crc="df65da45" md5="677750a209c2a6b6edc77fa186895da3" sha1="e503cc84903655e4ca53dea96f98816ade274743"/>
 	</game>
 	<game name="Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side B)">
 		<description>Light - Vol.1 - May (1992)(Datasphere Publications)(Disk 2 of 2 Side B)</description>
@@ -15590,11 +15590,11 @@
 	</game>
 	<game name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a]">
 		<description>Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a]</description>
-		<rom name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a].d64" size="175531" crc="33c5c697" md5="6d444a262b5a1d559f7786acf2d6a805" sha1="4cf1391d5021a8cc1c760f67e744ca294628597d"/>
+		<rom name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a].d64" size="174848" crc="6b9539fd" md5="c32967f8cb844c108b74091bbb5e342a" sha1="f6bbe685207fb13c41bdf97b42edc9214f605cb8"/>
 	</game>
-	<game name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a2]">
-		<description>Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a2]</description>
-		<rom name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[a2].d64" size="174848" crc="6b9539fd" md5="c32967f8cb844c108b74091bbb5e342a" sha1="f6bbe685207fb13c41bdf97b42edc9214f605cb8"/>
+	<game name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[o]">
+		<description>Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[o]</description>
+		<rom name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side A)[o].d64" size="175531" crc="33c5c697" md5="6d444a262b5a1d559f7786acf2d6a805" sha1="4cf1391d5021a8cc1c760f67e744ca294628597d"/>
 	</game>
 	<game name="Light - Vol.1 - November (1992)(Datasphere Publications)(Side B)">
 		<description>Light - Vol.1 - November (1992)(Datasphere Publications)(Side B)</description>
@@ -15622,11 +15622,11 @@
 	</game>
 	<game name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a2]">
 		<description>Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a2]</description>
-		<rom name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a2].d64" size="175531" crc="64db5002" md5="0e0de80640ac5e81f2520c06bac49bcc" sha1="09b7ca32a5654de6eca74cad8cef2243c4550942"/>
+		<rom name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a2].d64" size="174848" crc="eacfd476" md5="fcb649bc598915eac87104acf120d63c" sha1="e45141ca0fd5882755496c50805d46927c05e915"/>
 	</game>
-	<game name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a3]">
-		<description>Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a3]</description>
-		<rom name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[a3].d64" size="174848" crc="eacfd476" md5="fcb649bc598915eac87104acf120d63c" sha1="e45141ca0fd5882755496c50805d46927c05e915"/>
+	<game name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[o]">
+		<description>Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[o]</description>
+		<rom name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side A)[o].d64" size="175531" crc="64db5002" md5="0e0de80640ac5e81f2520c06bac49bcc" sha1="09b7ca32a5654de6eca74cad8cef2243c4550942"/>
 	</game>
 	<game name="Light - Vol.1 - September (1992)(Datasphere Publications)(Side B)">
 		<description>Light - Vol.1 - September (1992)(Datasphere Publications)(Side B)</description>
@@ -16222,11 +16222,11 @@
 	</game>
 	<game name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a]">
 		<description>Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a]</description>
-		<rom name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a].d64" size="175531" crc="774dfda4" md5="9921ff4ff7879619bfa34de7079e4a17" sha1="624a49cda9b4c3274db0022c3a247a42632e497b"/>
+		<rom name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a].d64" size="174848" crc="c30d8868" md5="f0260321b5e7195178111cb25e87570b" sha1="c9b6d70c23d1dd21004d1a09d6ecb2b6e9e31583"/>
 	</game>
-	<game name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a2]">
-		<description>Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a2]</description>
-		<rom name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[a2].d64" size="174848" crc="c30d8868" md5="f0260321b5e7195178111cb25e87570b" sha1="c9b6d70c23d1dd21004d1a09d6ecb2b6e9e31583"/>
+	<game name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[o]">
+		<description>Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[o]</description>
+		<rom name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[o].d64" size="175531" crc="774dfda4" md5="9921ff4ff7879619bfa34de7079e4a17" sha1="624a49cda9b4c3274db0022c3a247a42632e497b"/>
 	</game>
 	<game name="Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[Z64 Part 1-4]">
 		<description>Loadstar Issue #029 (199x)(Softdisk)(Disk 1 of 2 Side A)[Z64 Part 1-4]</description>
@@ -16378,11 +16378,11 @@
 	</game>
 	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[a]">
 		<description>Loadstar Issue #034 (199x)(Softdisk)(Side A)[a]</description>
-		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[a].d64" size="175531" crc="a3e6d4f0" md5="2f9cfd5d58d0d8c5bb1af69bf4d3ad38" sha1="7d1eba65fcd7b60668a805a940320d7a6ebd17f1"/>
+		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[a].d64" size="174848" crc="8c9ee431" md5="34d7ff2cfb9f996b091ca1d80a348c38" sha1="37c0743b80282437afb644472de7a27959753014"/>
 	</game>
-	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[a2]">
-		<description>Loadstar Issue #034 (199x)(Softdisk)(Side A)[a2]</description>
-		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[a2].d64" size="174848" crc="8c9ee431" md5="34d7ff2cfb9f996b091ca1d80a348c38" sha1="37c0743b80282437afb644472de7a27959753014"/>
+	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[o]">
+		<description>Loadstar Issue #034 (199x)(Softdisk)(Side A)[o]</description>
+		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[o].d64" size="175531" crc="a3e6d4f0" md5="2f9cfd5d58d0d8c5bb1af69bf4d3ad38" sha1="7d1eba65fcd7b60668a805a940320d7a6ebd17f1"/>
 	</game>
 	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side A)[Z64 Part 1-4]">
 		<description>Loadstar Issue #034 (199x)(Softdisk)(Side A)[Z64 Part 1-4]</description>
@@ -16394,11 +16394,11 @@
 	</game>
 	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[a]">
 		<description>Loadstar Issue #034 (199x)(Softdisk)(Side B)[a]</description>
-		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[a].d64" size="175531" crc="c2b60532" md5="458876abab468fa2db0ceb10fe216cdc" sha1="aac659d9a25f1eed9fb133b6f47ae119e9243e9f"/>
+		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[a].d64" size="174848" crc="f65575f5" md5="2d8c23eb3f0db49c4183a0ddb40fdc46" sha1="0e546f69349eafcf739d10223fab0d72b6ae1066"/>
 	</game>
-	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[a2]">
-		<description>Loadstar Issue #034 (199x)(Softdisk)(Side B)[a2]</description>
-		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[a2].d64" size="174848" crc="f65575f5" md5="2d8c23eb3f0db49c4183a0ddb40fdc46" sha1="0e546f69349eafcf739d10223fab0d72b6ae1066"/>
+	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[o]">
+		<description>Loadstar Issue #034 (199x)(Softdisk)(Side B)[o]</description>
+		<rom name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[o].d64" size="175531" crc="c2b60532" md5="458876abab468fa2db0ceb10fe216cdc" sha1="aac659d9a25f1eed9fb133b6f47ae119e9243e9f"/>
 	</game>
 	<game name="Loadstar Issue #034 (199x)(Softdisk)(Side B)[Z64 Part 1-4]">
 		<description>Loadstar Issue #034 (199x)(Softdisk)(Side B)[Z64 Part 1-4]</description>
@@ -17074,15 +17074,15 @@
 	</game>
 	<game name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a]">
 		<description>Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a]</description>
-		<rom name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a].d64" size="175531" crc="6d81ca6b" md5="5570cbf54f1bfd76d1b36b65555bee30" sha1="db0f04250bbecd9930b91e87b1f319bde847442b"/>
+		<rom name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a].d64" size="175531" crc="067d8a8a" md5="2f910467cdd1e370fca82cca1d39454b" sha1="9a4cfdbe9fce27f7acbb7d2b3eaec9bf4e73183f"/>
 	</game>
 	<game name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a2]">
 		<description>Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a2]</description>
 		<rom name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a2].d64" size="175531" crc="01248f94" md5="bed455826322e8815d6a449e23235480" sha1="9ba1d4d06536a59e1350846db790c3ddd57c0bff"/>
 	</game>
-	<game name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a3]">
-		<description>Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a3]</description>
-		<rom name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[a3].d64" size="175531" crc="067d8a8a" md5="2f910467cdd1e370fca82cca1d39454b" sha1="9a4cfdbe9fce27f7acbb7d2b3eaec9bf4e73183f"/>
+	<game name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[o]">
+		<description>Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[o]</description>
+		<rom name="Loadstar Issue #052 (1988)(Softdisk)(Disk 2 of 2 Side B)[o].d64" size="175531" crc="6d81ca6b" md5="5570cbf54f1bfd76d1b36b65555bee30" sha1="db0f04250bbecd9930b91e87b1f319bde847442b"/>
 	</game>
 	<game name="Loadstar Issue #053 (199x)(Softdisk)(Disk 1 of 2 Side A)">
 		<description>Loadstar Issue #053 (199x)(Softdisk)(Disk 1 of 2 Side A)</description>
@@ -19508,9 +19508,9 @@
 		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)</description>
 		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A).d64" size="174848" crc="81e2b6da" md5="edde8b390c5a01d8c84346f799e03720" sha1="a5b219d71336cae07102dc03f96a9b26b6257e41"/>
 	</game>
-	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)[a]">
-		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)[a]</description>
-		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)[a].d64" size="175531" crc="27285976" md5="5a21244ef6b0637c931565e294c7e19a" sha1="24e7099a3948bf76fc4cddc8374d1a80b2dcedfe"/>
+	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)[o]">
+		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)[o]</description>
+		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side A)[o].d64" size="175531" crc="27285976" md5="5a21244ef6b0637c931565e294c7e19a" sha1="24e7099a3948bf76fc4cddc8374d1a80b2dcedfe"/>
 	</game>
 	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)">
 		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)</description>
@@ -19520,25 +19520,25 @@
 		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[a]</description>
 		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[a].d64" size="174848" crc="c38ed635" md5="fbb98198d1a64dcdca954e844bd4acaf" sha1="324e1b06924cf1f43a7f2db02f7ecfe658e7dff2"/>
 	</game>
-	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[a2]">
-		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[a2]</description>
-		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[a2].d64" size="175531" crc="3eef1fc1" md5="6945180c8ac80e2f26761c709ba76452" sha1="e9c13d436f1eb1206a1e644cc94c4b8061dcff89"/>
+	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[o]">
+		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[o]</description>
+		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 1 of 2 Side B)[o].d64" size="175531" crc="3eef1fc1" md5="6945180c8ac80e2f26761c709ba76452" sha1="e9c13d436f1eb1206a1e644cc94c4b8061dcff89"/>
 	</game>
 	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)">
 		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)</description>
 		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A).d64" size="174848" crc="920ee10a" md5="702cc020f225da52cbcdd2df65edd0e7" sha1="70abbccfc1b21b062dfc44f9259b9f5c9ef7f258"/>
 	</game>
-	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)[a]">
-		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)[a]</description>
-		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)[a].d64" size="175531" crc="88760f65" md5="b5514ac95be0102f96615997f38f4878" sha1="fe8180efb1a8918cc8037c4fdd681b178f7de7b9"/>
+	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)[o]">
+		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)[o]</description>
+		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side A)[o].d64" size="175531" crc="88760f65" md5="b5514ac95be0102f96615997f38f4878" sha1="fe8180efb1a8918cc8037c4fdd681b178f7de7b9"/>
 	</game>
 	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)">
 		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)</description>
 		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B).d64" size="174848" crc="18faf067" md5="c28cd99a4f368a7a56752b9076c2a7d2" sha1="0a077234af0cb96f3654c9199e5d61f96e5721c8"/>
 	</game>
-	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)[a]">
-		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)[a]</description>
-		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)[a].d64" size="175531" crc="76403b68" md5="f8c4edaaa12b8b63f277ab55f961d5a2" sha1="7ceea38bcc34f3b6b695a8fe2b3dd1962990a0b9"/>
+	<game name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)[o]">
+		<description>Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)[o]</description>
+		<rom name="Loadstar Issue #148 (199x)(Softdisk)(Disk 2 of 2 Side B)[o].d64" size="175531" crc="76403b68" md5="f8c4edaaa12b8b63f277ab55f961d5a2" sha1="7ceea38bcc34f3b6b695a8fe2b3dd1962990a0b9"/>
 	</game>
 	<game name="Loadstar Issue #149 (199x)(Softdisk)(Disk 1 of 2 Side A)">
 		<description>Loadstar Issue #149 (199x)(Softdisk)(Disk 1 of 2 Side A)</description>
@@ -23790,11 +23790,11 @@
 	</game>
 	<game name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a3]">
 		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a3]</description>
-		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a3].d64" size="175531" crc="5f8fc3bb" md5="f574584d80b9593614ed8c7f83310b8c" sha1="a2f84c28987f2549e926983ec7e0c5244351c827"/>
+		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a3].d64" size="175531" crc="7c046977" md5="4bcfb97c3c150213bab64f7eb46e8c60" sha1="f145324205ef7f9eeee1c0e940c7cfee4a129265"/>
 	</game>
-	<game name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a4]">
-		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a4]</description>
-		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[a4].d64" size="175531" crc="7c046977" md5="4bcfb97c3c150213bab64f7eb46e8c60" sha1="f145324205ef7f9eeee1c0e940c7cfee4a129265"/>
+	<game name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[o]">
+		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[o]</description>
+		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side A)[o].d64" size="175531" crc="5f8fc3bb" md5="f574584d80b9593614ed8c7f83310b8c" sha1="a2f84c28987f2549e926983ec7e0c5244351c827"/>
 	</game>
 	<game name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)">
 		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)</description>
@@ -23804,9 +23804,9 @@
 		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[a]</description>
 		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[a].d64" size="174848" crc="20cc37f2" md5="123e7ba458e52477d00463321f0af1e7" sha1="28dc6c7d411b516d00cde89f0d956a8e2137437e"/>
 	</game>
-	<game name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[a2]">
-		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[a2]</description>
-		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[a2].d64" size="175531" crc="2920e1d4" md5="45d76072db457c8496c9a4eb6feed798" sha1="2ca4a07a8e7ed8e0e941601c17587ac4601d87b6"/>
+	<game name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[o]">
+		<description>Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[o]</description>
+		<rom name="Magic Disk 64 95-12 (1995)(CP Verlag)(de)(Side B)[o].d64" size="175531" crc="2920e1d4" md5="45d76072db457c8496c9a4eb6feed798" sha1="2ca4a07a8e7ed8e0e941601c17587ac4601d87b6"/>
 	</game>
 	<game name="Magic Disk 64 96-01 (1996)(CP Verlag)(de)(Side A)">
 		<description>Magic Disk 64 96-01 (1996)(CP Verlag)(de)(Side A)</description>
@@ -24400,17 +24400,17 @@
 		<description>Re-run 85-1 (1985)(Run Magazine Staff)</description>
 		<rom name="Re-run 85-1 (1985)(Run Magazine Staff).d64" size="174848" crc="4ebcd7ab" md5="58b40fb6eeb400c0a89d517862c9b483" sha1="5df91cefb78c70dd40aa66847ef486af50f618f4"/>
 	</game>
-	<game name="Re-run 85-1 (1985)(Run Magazine Staff)[a]">
-		<description>Re-run 85-1 (1985)(Run Magazine Staff)[a]</description>
-		<rom name="Re-run 85-1 (1985)(Run Magazine Staff)[a].d64" size="175531" crc="297174de" md5="9f2629a9d2c11b1363aff09874398ba0" sha1="08d7f127dd45ace0133b1d2948f1bebbf48e70e9"/>
+	<game name="Re-run 85-1 (1985)(Run Magazine Staff)[o]">
+		<description>Re-run 85-1 (1985)(Run Magazine Staff)[o]</description>
+		<rom name="Re-run 85-1 (1985)(Run Magazine Staff)[o].d64" size="175531" crc="297174de" md5="9f2629a9d2c11b1363aff09874398ba0" sha1="08d7f127dd45ace0133b1d2948f1bebbf48e70e9"/>
 	</game>
 	<game name="Re-run 85-2 (1985)(Run Magazine Staff)(Side A)">
 		<description>Re-run 85-2 (1985)(Run Magazine Staff)(Side A)</description>
 		<rom name="Re-run 85-2 (1985)(Run Magazine Staff)(Side A).d64" size="174848" crc="8333f334" md5="d3f9b63af0f371e74836aa4f191aad0a" sha1="104abac97b3713e325d5e008482b61d786bef6cc"/>
 	</game>
-	<game name="Re-run 85-2 (1985)(Run Magazine Staff)(Side A)[a]">
-		<description>Re-run 85-2 (1985)(Run Magazine Staff)(Side A)[a]</description>
-		<rom name="Re-run 85-2 (1985)(Run Magazine Staff)(Side A)[a].d64" size="175531" crc="1dc0582f" md5="187e21f52f27f285ef98e4041d4d3160" sha1="4048bc653bf50d428bd6bf57215e1c2298eb926a"/>
+	<game name="Re-run 85-2 (1985)(Run Magazine Staff)(Side A)[o]">
+		<description>Re-run 85-2 (1985)(Run Magazine Staff)(Side A)[o]</description>
+		<rom name="Re-run 85-2 (1985)(Run Magazine Staff)(Side A)[o].d64" size="175531" crc="1dc0582f" md5="187e21f52f27f285ef98e4041d4d3160" sha1="4048bc653bf50d428bd6bf57215e1c2298eb926a"/>
 	</game>
 	<game name="Re-run 85-2 (1985)(Run Magazine Staff)(Side B)">
 		<description>Re-run 85-2 (1985)(Run Magazine Staff)(Side B)</description>
@@ -24434,15 +24434,15 @@
 	</game>
 	<game name="Re-run 86-1 (1986)(Run Magazine Staff)[a]">
 		<description>Re-run 86-1 (1986)(Run Magazine Staff)[a]</description>
-		<rom name="Re-run 86-1 (1986)(Run Magazine Staff)[a].d64" size="175531" crc="b33cb355" md5="ee69e818b221385ea54be92c8a7c206e" sha1="39052e373d545c5455801c09e9bc04410ad5f04e"/>
+		<rom name="Re-run 86-1 (1986)(Run Magazine Staff)[a].d64" size="174848" crc="82ba2391" md5="f9af30bfb1dad7cb6ae142b146527e9e" sha1="92272485461a50b91d75f81f9ed1185d9021ece8"/>
 	</game>
 	<game name="Re-run 86-1 (1986)(Run Magazine Staff)[a2]">
 		<description>Re-run 86-1 (1986)(Run Magazine Staff)[a2]</description>
 		<rom name="Re-run 86-1 (1986)(Run Magazine Staff)[a2].d64" size="174848" crc="b905a8c0" md5="d121cc045955d72669185d30f9607daa" sha1="f000dc883af4c9656c1b1a756d3683d1980fe215"/>
 	</game>
-	<game name="Re-run 86-1 (1986)(Run Magazine Staff)[a3]">
-		<description>Re-run 86-1 (1986)(Run Magazine Staff)[a3]</description>
-		<rom name="Re-run 86-1 (1986)(Run Magazine Staff)[a3].d64" size="174848" crc="82ba2391" md5="f9af30bfb1dad7cb6ae142b146527e9e" sha1="92272485461a50b91d75f81f9ed1185d9021ece8"/>
+	<game name="Re-run 86-1 (1986)(Run Magazine Staff)[o]">
+		<description>Re-run 86-1 (1986)(Run Magazine Staff)[o]</description>
+		<rom name="Re-run 86-1 (1986)(Run Magazine Staff)[o].d64" size="175531" crc="b33cb355" md5="ee69e818b221385ea54be92c8a7c206e" sha1="39052e373d545c5455801c09e9bc04410ad5f04e"/>
 	</game>
 	<game name="Re-run 86-2 (1986)(Run Magazine Staff)">
 		<description>Re-run 86-2 (1986)(Run Magazine Staff)</description>
@@ -24482,15 +24482,15 @@
 	</game>
 	<game name="Re-run 86-5 (1986)(Run Magazine Staff)[a]">
 		<description>Re-run 86-5 (1986)(Run Magazine Staff)[a]</description>
-		<rom name="Re-run 86-5 (1986)(Run Magazine Staff)[a].d64" size="175531" crc="d23642b1" md5="17191fae8c905c680d201597065d2b36" sha1="1ab5006463003e4ca60dcc62b5c0bddc1d39546d"/>
+		<rom name="Re-run 86-5 (1986)(Run Magazine Staff)[a].d64" size="174848" crc="f9b4d7ee" md5="55016d41655da4bc82b4bcf803a31443" sha1="72bcc86103d26161e58c4388216ec696ad476002"/>
 	</game>
 	<game name="Re-run 86-5 (1986)(Run Magazine Staff)[a2]">
 		<description>Re-run 86-5 (1986)(Run Magazine Staff)[a2]</description>
 		<rom name="Re-run 86-5 (1986)(Run Magazine Staff)[a2].d64" size="174848" crc="a7b3a6e7" md5="165decf9fc0d116b002229621414251c" sha1="057c5cee1ca7f5268415407a43e7c88497ca4d2e"/>
 	</game>
-	<game name="Re-run 86-5 (1986)(Run Magazine Staff)[a3]">
-		<description>Re-run 86-5 (1986)(Run Magazine Staff)[a3]</description>
-		<rom name="Re-run 86-5 (1986)(Run Magazine Staff)[a3].d64" size="174848" crc="f9b4d7ee" md5="55016d41655da4bc82b4bcf803a31443" sha1="72bcc86103d26161e58c4388216ec696ad476002"/>
+	<game name="Re-run 86-5 (1986)(Run Magazine Staff)[o]">
+		<description>Re-run 86-5 (1986)(Run Magazine Staff)[o]</description>
+		<rom name="Re-run 86-5 (1986)(Run Magazine Staff)[o].d64" size="175531" crc="d23642b1" md5="17191fae8c905c680d201597065d2b36" sha1="1ab5006463003e4ca60dcc62b5c0bddc1d39546d"/>
 	</game>
 	<game name="Re-run 86-6 (1986)(Run Magazine Staff)">
 		<description>Re-run 86-6 (1986)(Run Magazine Staff)</description>
@@ -24548,9 +24548,9 @@
 		<description>Re-run 87-5 (1987)(Run Magazine Staff)[a]</description>
 		<rom name="Re-run 87-5 (1987)(Run Magazine Staff)[a].d64" size="174848" crc="b9f5da26" md5="26552b4ff6b8e5590ec4dc56600cb2d7" sha1="a84b42d9dfb49740f0a764b3fe1ce0bc97991d4f"/>
 	</game>
-	<game name="Re-run 87-5 (1987)(Run Magazine Staff)[a2]">
-		<description>Re-run 87-5 (1987)(Run Magazine Staff)[a2]</description>
-		<rom name="Re-run 87-5 (1987)(Run Magazine Staff)[a2].d64" size="175531" crc="60259172" md5="b3d2ec187533209df5ec6689f0f856bf" sha1="57295e099631c0025532b39c5b442ecdc1f168dc"/>
+	<game name="Re-run 87-5 (1987)(Run Magazine Staff)[o]">
+		<description>Re-run 87-5 (1987)(Run Magazine Staff)[o]</description>
+		<rom name="Re-run 87-5 (1987)(Run Magazine Staff)[o].d64" size="175531" crc="60259172" md5="b3d2ec187533209df5ec6689f0f856bf" sha1="57295e099631c0025532b39c5b442ecdc1f168dc"/>
 	</game>
 	<game name="Re-run 87-6 (1987)(Run Magazine Staff)">
 		<description>Re-run 87-6 (1987)(Run Magazine Staff)</description>
@@ -24700,41 +24700,41 @@
 		<description>Re-run 92-1 (1992)(Run Magazine Staff)(Side A)</description>
 		<rom name="Re-run 92-1 (1992)(Run Magazine Staff)(Side A).d64" size="174848" crc="e9efab67" md5="67b08980c140f1a64052cf8b1c4ae231" sha1="8923b9371782017d2b476c8a08ee998e73782cee"/>
 	</game>
-	<game name="Re-run 92-1 (1992)(Run Magazine Staff)(Side A)[a]">
-		<description>Re-run 92-1 (1992)(Run Magazine Staff)(Side A)[a]</description>
-		<rom name="Re-run 92-1 (1992)(Run Magazine Staff)(Side A)[a].d64" size="175531" crc="24409f70" md5="a9e072f7852086a69cb4ce459d3ffbca" sha1="f5416b1077ce1f55b831467fb5c7ac0e551b5cbb"/>
+	<game name="Re-run 92-1 (1992)(Run Magazine Staff)(Side A)[o]">
+		<description>Re-run 92-1 (1992)(Run Magazine Staff)(Side A)[o]</description>
+		<rom name="Re-run 92-1 (1992)(Run Magazine Staff)(Side A)[o].d64" size="175531" crc="24409f70" md5="a9e072f7852086a69cb4ce459d3ffbca" sha1="f5416b1077ce1f55b831467fb5c7ac0e551b5cbb"/>
 	</game>
 	<game name="Re-run 92-1 (1992)(Run Magazine Staff)(Side B)">
 		<description>Re-run 92-1 (1992)(Run Magazine Staff)(Side B)</description>
 		<rom name="Re-run 92-1 (1992)(Run Magazine Staff)(Side B).d64" size="174848" crc="9711306d" md5="0eb00309243a06bdb029cfea9f864c33" sha1="03d15a288dd9ef5f191f27bde65e81d53292eb2f"/>
 	</game>
-	<game name="Re-run 92-1 (1992)(Run Magazine Staff)(Side B)[a]">
-		<description>Re-run 92-1 (1992)(Run Magazine Staff)(Side B)[a]</description>
-		<rom name="Re-run 92-1 (1992)(Run Magazine Staff)(Side B)[a].d64" size="175531" crc="34034fe4" md5="0f8113e0ab01ad487ddfee26d8842db3" sha1="bcff0afdc06f01b79c620db0b519974c3ab06caa"/>
+	<game name="Re-run 92-1 (1992)(Run Magazine Staff)(Side B)[o]">
+		<description>Re-run 92-1 (1992)(Run Magazine Staff)(Side B)[o]</description>
+		<rom name="Re-run 92-1 (1992)(Run Magazine Staff)(Side B)[o].d64" size="175531" crc="34034fe4" md5="0f8113e0ab01ad487ddfee26d8842db3" sha1="bcff0afdc06f01b79c620db0b519974c3ab06caa"/>
 	</game>
 	<game name="Re-run 92-2 (1992)(Run Magazine Staff)(Side A)">
 		<description>Re-run 92-2 (1992)(Run Magazine Staff)(Side A)</description>
 		<rom name="Re-run 92-2 (1992)(Run Magazine Staff)(Side A).d64" size="174848" crc="fd27bca7" md5="66f1483605549cb91a6b5ab062959c4b" sha1="9898ccdd508bc7424d367ec1e27ac7856f4b8eb4"/>
 	</game>
-	<game name="Re-run 92-2 (1992)(Run Magazine Staff)(Side A)[a]">
-		<description>Re-run 92-2 (1992)(Run Magazine Staff)(Side A)[a]</description>
-		<rom name="Re-run 92-2 (1992)(Run Magazine Staff)(Side A)[a].d64" size="175531" crc="27970663" md5="823e0fe38d834bca8c2ffb5a134c13e4" sha1="6b81925fd2b8575242269f6c12923c3c87acd130"/>
+	<game name="Re-run 92-2 (1992)(Run Magazine Staff)(Side A)[o]">
+		<description>Re-run 92-2 (1992)(Run Magazine Staff)(Side A)[o]</description>
+		<rom name="Re-run 92-2 (1992)(Run Magazine Staff)(Side A)[o].d64" size="175531" crc="27970663" md5="823e0fe38d834bca8c2ffb5a134c13e4" sha1="6b81925fd2b8575242269f6c12923c3c87acd130"/>
 	</game>
 	<game name="Re-run 92-2 (1992)(Run Magazine Staff)(Side B)">
 		<description>Re-run 92-2 (1992)(Run Magazine Staff)(Side B)</description>
 		<rom name="Re-run 92-2 (1992)(Run Magazine Staff)(Side B).d64" size="174848" crc="f677e45e" md5="c896141c1d562196e695a6457a04d19b" sha1="8cff2881e6e7e8dcf6102db43d6254bb94737718"/>
 	</game>
-	<game name="Re-run 92-2 (1992)(Run Magazine Staff)(Side B)[a]">
-		<description>Re-run 92-2 (1992)(Run Magazine Staff)(Side B)[a]</description>
-		<rom name="Re-run 92-2 (1992)(Run Magazine Staff)(Side B)[a].d64" size="175531" crc="021436a8" md5="0cd01f03b02f826b7f0cb231841a69b0" sha1="d8b1d38fea83f91d9c8b713fab7e1dc1901240da"/>
+	<game name="Re-run 92-2 (1992)(Run Magazine Staff)(Side B)[o]">
+		<description>Re-run 92-2 (1992)(Run Magazine Staff)(Side B)[o]</description>
+		<rom name="Re-run 92-2 (1992)(Run Magazine Staff)(Side B)[o].d64" size="175531" crc="021436a8" md5="0cd01f03b02f826b7f0cb231841a69b0" sha1="d8b1d38fea83f91d9c8b713fab7e1dc1901240da"/>
 	</game>
 	<game name="Re-run 92-3 (1992)(Run Magazine Staff)">
 		<description>Re-run 92-3 (1992)(Run Magazine Staff)</description>
 		<rom name="Re-run 92-3 (1992)(Run Magazine Staff).d64" size="174848" crc="0af8c825" md5="02fffa59639c13bab4b9ddbbca44c4c4" sha1="220c36bdfce111c9bb972ba62574aded3fc308e2"/>
 	</game>
-	<game name="Re-run 92-3 (1992)(Run Magazine Staff)[a]">
-		<description>Re-run 92-3 (1992)(Run Magazine Staff)[a]</description>
-		<rom name="Re-run 92-3 (1992)(Run Magazine Staff)[a].d64" size="175531" crc="d8a43824" md5="feadd53cd9c606799a1eda42327b2fa2" sha1="24cae9f20e4552e458f68962ae5576212889e090"/>
+	<game name="Re-run 92-3 (1992)(Run Magazine Staff)[o]">
+		<description>Re-run 92-3 (1992)(Run Magazine Staff)[o]</description>
+		<rom name="Re-run 92-3 (1992)(Run Magazine Staff)[o].d64" size="175531" crc="d8a43824" md5="feadd53cd9c606799a1eda42327b2fa2" sha1="24cae9f20e4552e458f68962ae5576212889e090"/>
 	</game>
 	<game name="Re-run 92-4 (1992)(Run Magazine Staff)(Side A)">
 		<description>Re-run 92-4 (1992)(Run Magazine Staff)(Side A)</description>
@@ -24764,9 +24764,9 @@
 		<description>Re-run 92-5 (1992)(Run Magazine Staff)(Side B)</description>
 		<rom name="Re-run 92-5 (1992)(Run Magazine Staff)(Side B).d64" size="174848" crc="33251e47" md5="bbda5e7a4632fe8b4b1a44452c65dccf" sha1="7e732d355fc24ef6f0736961cdec69689b2377c6"/>
 	</game>
-	<game name="Re-run 92-5 (1992)(Run Magazine Staff)(Side B)[a]">
-		<description>Re-run 92-5 (1992)(Run Magazine Staff)(Side B)[a]</description>
-		<rom name="Re-run 92-5 (1992)(Run Magazine Staff)(Side B)[a].d64" size="175531" crc="76db036b" md5="34d5d77904e47605addd0607cb82abee" sha1="d690f4d19d28d2d065fb94008e2d910aa245c71e"/>
+	<game name="Re-run 92-5 (1992)(Run Magazine Staff)(Side B)[o]">
+		<description>Re-run 92-5 (1992)(Run Magazine Staff)(Side B)[o]</description>
+		<rom name="Re-run 92-5 (1992)(Run Magazine Staff)(Side B)[o].d64" size="175531" crc="76db036b" md5="34d5d77904e47605addd0607cb82abee" sha1="d690f4d19d28d2d065fb94008e2d910aa245c71e"/>
 	</game>
 	<game name="Re-run 92-6 (1992)(Run Magazine Staff)">
 		<description>Re-run 92-6 (1992)(Run Magazine Staff)</description>

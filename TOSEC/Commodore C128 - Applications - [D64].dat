@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C128 - Applications - [D64]</name>
-		<description>Commodore C128 - Applications - [D64] (TOSEC-v2021-07-14)</description>
+		<description>Commodore C128 - Applications - [D64] (TOSEC-v2023-03-18)</description>
 		<category>TOSEC</category>
-		<version>2021-07-14</version>
+		<version>2023-03-18</version>
 		<author>Duncan Twain - Tomse - DesertWolf - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -187,6 +187,10 @@
 	<game name="BobsTerm Pro-128 v2.3 (1986)(RML Labs)[80 column][autoboot]">
 		<description>BobsTerm Pro-128 v2.3 (1986)(RML Labs)[80 column][autoboot]</description>
 		<rom name="BobsTerm Pro-128 v2.3 (1986)(RML Labs)[80 column][autoboot].d64" size="174848" crc="9aeee3a9" md5="76030ccc397bba80bfc7f252fb7c2386" sha1="d7f194f67e41c34bb9c2ce5f82860df1bbfdff34"/>
+	</game>
+	<game name="Brainstorm 128 (1989)(Softdisk)">
+		<description>Brainstorm 128 (1989)(Softdisk)</description>
+		<rom name="Brainstorm 128 (1989)(Softdisk).d64" size="174848" crc="514d6b44" md5="bab34ef2299356e47fceb0ad7530f1b0" sha1="09fd138edd44b2393aad44e7116f1260e5aec0cb"/>
 	</game>
 	<game name="Burst Copier 1571 (19xx)(-)[80 column]">
 		<description>Burst Copier 1571 (19xx)(-)[80 column]</description>
@@ -444,6 +448,10 @@
 		<description>Disk Noser 128 v1.5 (1987-03-09)(Parry, Ed)[80 column]</description>
 		<rom name="Disk Noser 128 v1.5 (1987-03-09)(Parry, Ed)[80 column].d64" size="174848" crc="749ee684" md5="945110d6c066d659a9debad8c7c561c6" sha1="c831043cf5dbfd384b6c614c016109429888cd4d"/>
 	</game>
+	<game name="Disk Whiz 128 v1.0 (1987-07-21)(Hisel, Kevin)(SW)[80 column]">
+		<description>Disk Whiz 128 v1.0 (1987-07-21)(Hisel, Kevin)(SW)[80 column]</description>
+		<rom name="Disk Whiz 128 v1.0 (1987-07-21)(Hisel, Kevin)(SW)[80 column].d64" size="174848" crc="0b9da315" md5="d9d2ea9bcf0bf949d6cc5160ad59087e" sha1="9bf8dba02777a902f7c0edb8701dc3e5793fb187"/>
+	</game>
 	<game name="Disk Whiz 128 v1.1 (1987-07-30)(Hisel, Kevin)(SW)[80 column]">
 		<description>Disk Whiz 128 v1.1 (1987-07-30)(Hisel, Kevin)(SW)[80 column]</description>
 		<rom name="Disk Whiz 128 v1.1 (1987-07-30)(Hisel, Kevin)(SW)[80 column].d64" size="174848" crc="4b45455a" md5="e3a3ca0ea30763113cae17672077bf18" sha1="4d08852356247d9da13fef5bf348d7a8a255bfb3"/>
@@ -503,6 +511,10 @@
 	<game name="FontMaster 128 Rev 1.3 (1987)(Xetec)(Disk 3 of 3)(Supplement)[80 column]">
 		<description>FontMaster 128 Rev 1.3 (1987)(Xetec)(Disk 3 of 3)(Supplement)[80 column]</description>
 		<rom name="FontMaster 128 Rev 1.3 (1987)(Xetec)(Disk 3 of 3)(Supplement)[80 column].d64" size="174848" crc="d91fc16d" md5="fa98cf1f05ada1ed9511eeff7dbbdb69" sha1="c2159ed0cda644d84ae5fc5c5e23f7257209be61"/>
+	</game>
+	<game name="Ghostwriter 128 (19xx)(-)">
+		<description>Ghostwriter 128 (19xx)(-)</description>
+		<rom name="Ghostwriter 128 (19xx)(-).d64" size="174848" crc="d52451c6" md5="705f85b913146879f4b9eeebd48b8fa0" sha1="fe91762063ec02d9599dfedf9ad184292bfeccbe"/>
 	</game>
 	<game name="GO65 - C65 Startup-Screen on C128 (2011-09-13)(Gehtjanx)[80 column mode]">
 		<description>GO65 - C65 Startup-Screen on C128 (2011-09-13)(Gehtjanx)[80 column mode]</description>
@@ -595,6 +607,10 @@
 	<game name="Multiplan v1.07 (1987)(Microsoft)(Disk 1 of 2)[40-80 column]">
 		<description>Multiplan v1.07 (1987)(Microsoft)(Disk 1 of 2)[40-80 column]</description>
 		<rom name="Multiplan v1.07 (1987)(Microsoft)(Disk 1 of 2)[40-80 column].d64" size="174848" crc="b7683b93" md5="6daf2b4682d29a7152ade211aa4b9bc9" sha1="5e05944577a6253ec4fd977981053548f31867fb"/>
+	</game>
+	<game name="Multiplan v1.07 (1987)(Microsoft)(Disk 1 of 2)[a][40-80 column]">
+		<description>Multiplan v1.07 (1987)(Microsoft)(Disk 1 of 2)[a][40-80 column]</description>
+		<rom name="Multiplan v1.07 (1987)(Microsoft)(Disk 1 of 2)[a][40-80 column].d64" size="175531" crc="8a976746" md5="0316067d7497625efd33329245cae0b8" sha1="ee64208830bdb4360324a9b822461e1f9def4340"/>
 	</game>
 	<game name="Multiplan v1.07 (1987)(Microsoft)(Disk 2 of 2)">
 		<description>Multiplan v1.07 (1987)(Microsoft)(Disk 2 of 2)</description>

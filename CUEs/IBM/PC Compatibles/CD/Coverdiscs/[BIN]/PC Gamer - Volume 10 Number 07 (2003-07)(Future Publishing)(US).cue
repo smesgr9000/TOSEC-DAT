@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "PC Gamer - Volume 10 Number 07 (2003-07)(Future Publishing)(US).bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

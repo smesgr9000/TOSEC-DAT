@@ -4,14 +4,22 @@
 <datafile>
 	<header>
 		<name>Apple II - Operating Systems - [WOZ]</name>
-		<description>Apple II - Operating Systems - [WOZ] (TOSEC-v2022-12-21)</description>
+		<description>Apple II - Operating Systems - [WOZ] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
+		<version>2023-06-14</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="Apple II CP-M v2.20 (1980)(Microsoft)[13-sector][req Z80 Softcard]">
+		<description>Apple II CP-M v2.20 (1980)(Microsoft)[13-sector][req Z80 Softcard]</description>
+		<rom name="Apple II CP-M v2.20 (1980)(Microsoft)[13-sector][req Z80 Softcard].woz" size="234861" crc="b3cb4b2e" md5="d036b96f1646fe62736f98501f6c1a6e" sha1="0458132ceed6f81ffaed81f88d3c906aa439d644"/>
+	</game>
+	<game name="Apple II CP-M v2.20 (1980)(Microsoft)[13-sector][req Z80 Softcard][inc demo]">
+		<description>Apple II CP-M v2.20 (1980)(Microsoft)[13-sector][req Z80 Softcard][inc demo]</description>
+		<rom name="Apple II CP-M v2.20 (1980)(Microsoft)[13-sector][req Z80 Softcard][inc demo].woz" size="540672" crc="0618e4db" md5="0540b70a0da09748982e3f6b9c168cbe" sha1="d83748c7fb28648f52ee1697400c42b3bf6a086f"/>
+	</game>
 	<game name="Diversi-DOS v2C (1982)(DSR)(Master Disk)">
 		<description>Diversi-DOS v2C (1982)(DSR)(Master Disk)</description>
 		<rom name="Diversi-DOS v2C (1982)(DSR)(Master Disk).woz" size="233216" crc="f3577c66" md5="ffa7ef7cf29c1d1d38cd9aabca084c1d" sha1="5b3f5b23c5452f8ceed358e764d1ff1c237def22"/>

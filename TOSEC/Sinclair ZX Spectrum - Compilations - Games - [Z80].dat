@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Compilations - Games - [Z80]</name>
-		<description>Sinclair ZX Spectrum - Compilations - Games - [Z80] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Compilations - Games - [Z80] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:08</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:47</date>
 		<author>Lady Eklipse - jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -53,6 +53,14 @@
 	<game name="4 Soccer Simulators - Street Soccer (1988)(Code Masters Gold)(48K-128K)[a2][aka Four Soccer Simulators][aka Pro Soccer Simulator]">
 		<description>4 Soccer Simulators - Street Soccer (1988)(Code Masters Gold)(48K-128K)[a2][aka Four Soccer Simulators][aka Pro Soccer Simulator]</description>
 		<rom name="4 Soccer Simulators - Street Soccer (1988)(Code Masters Gold)(48K-128K)[a2][aka Four Soccer Simulators][aka Pro Soccer Simulator].z80" size="49182" crc="ba5216e5" md5="961f15bee1330b27ba3e5365cdb95724" sha1="2c4af16eada97d219fbbf1611e39103929045b3c"/>
+	</game>
+	<game name="Adding &amp; Subtracting (1983)(Widgit)(16K)[aka Adding and Subtracting]">
+		<description>Adding &amp; Subtracting (1983)(Widgit)(16K)[aka Adding and Subtracting]</description>
+		<rom name="Adding &amp; Subtracting (1983)(Widgit)(16K)[aka Adding and Subtracting].z80" size="9242" crc="2f8ed0d2" md5="3769882c02cea37a5125214794b813c1" sha1="b7500020ef2efa18ae46bb2f9a26a2750627d6e0"/>
+	</game>
+	<game name="Adding &amp; Subtracting (1983)(Widgit)(16K)[a][aka Adding and Subtracting]">
+		<description>Adding &amp; Subtracting (1983)(Widgit)(16K)[a][aka Adding and Subtracting]</description>
+		<rom name="Adding &amp; Subtracting (1983)(Widgit)(16K)[a][aka Adding and Subtracting].z80" size="9242" crc="d56a3682" md5="cfd88dfd192f5a94942e89bd8ba0e3a0" sha1="60c209b8696eb32cc2946d64885ad7119bfb9587"/>
 	</game>
 	<game name="Casino Royal (1985)(Oxford Computer Publishing)[aka Ca$ino Royal]">
 		<description>Casino Royal (1985)(Oxford Computer Publishing)[aka Ca$ino Royal]</description>
@@ -114,9 +122,9 @@
 		<description>Enchanted Cottage, The + Jack and the Beanstalk (1987)(River)</description>
 		<rom name="Enchanted Cottage, The + Jack and the Beanstalk (1987)(River).z80" size="38630" crc="9c804049" md5="0d4de7cce1b9a64bd3b637da98f935b2" sha1="0c373794ad94ef864a5b7d6bb921efdaedd34c58"/>
 	</game>
-	<game name="Gnasher + Spectipede (1984)(Mastertronic)">
-		<description>Gnasher + Spectipede (1984)(Mastertronic)</description>
-		<rom name="Gnasher + Spectipede (1984)(Mastertronic).z80" size="11101" crc="ec3c8fd0" md5="182fbd0be5473d61ab146bfc5854735a" sha1="ce26f387d67508f0ec70d75101d9ceaeab606a8b"/>
+	<game name="Gnasher + Spectipede (1985)(Mastertronic)">
+		<description>Gnasher + Spectipede (1985)(Mastertronic)</description>
+		<rom name="Gnasher + Spectipede (1985)(Mastertronic).z80" size="11101" crc="ec3c8fd0" md5="182fbd0be5473d61ab146bfc5854735a" sha1="ce26f387d67508f0ec70d75101d9ceaeab606a8b"/>
 	</game>
 	<game name="Gyron - Intro (1985)(Firebird)">
 		<description>Gyron - Intro (1985)(Firebird)</description>
@@ -194,61 +202,53 @@
 		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)(128K)</description>
 		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(128K).z80" size="53206" crc="6dac655e" md5="33ece4d381a037271faeeebced398c8c" sha1="e4596acc1e5b9228dd44976ab8c4c64e468f272f"/>
 	</game>
-	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)">
-		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)</description>
-		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird).z80" size="45487" crc="827ae3a0" md5="0a8d803c0bfccac3044949fe8d2e7eca" sha1="790766dda773af4e92a1094638fdb8ba1a92d18a"/>
+	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)">
+		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)</description>
+		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K).z80" size="45487" crc="827ae3a0" md5="0a8d803c0bfccac3044949fe8d2e7eca" sha1="790766dda773af4e92a1094638fdb8ba1a92d18a"/>
 	</game>
 	<game name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(128K)">
 		<description>Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(128K)</description>
 		<rom name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(128K).z80" size="54953" crc="4a1f9710" md5="256cbe72a8e01998472590441125c375" sha1="d4fd5734a8a0e6e865aafc3be140fe7f3cba4472"/>
 	</game>
-	<game name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)">
-		<description>Jewels of Darkness - Colossal Adventure (1986)(Rainbird)</description>
-		<rom name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird).z80" size="45797" crc="53d080c3" md5="611318a7c0486af92565cd8a4b3ae928" sha1="4194bbce8c6cb49432a704664a301042ed264520"/>
+	<game name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(48K-128K)">
+		<description>Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(48K-128K)</description>
+		<rom name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(48K-128K).z80" size="45797" crc="53d080c3" md5="611318a7c0486af92565cd8a4b3ae928" sha1="4194bbce8c6cb49432a704664a301042ed264520"/>
 	</game>
 	<game name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(128K)">
 		<description>Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(128K)</description>
 		<rom name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(128K).z80" size="76768" crc="5a607acb" md5="79472955a8f17196e0d7f5e6e9957563" sha1="e4f5445cce80aea9ef3b42ce6497b06b8d6d1ea8"/>
 	</game>
-	<game name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)">
-		<description>Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)</description>
-		<rom name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird).z80" size="44135" crc="bf7aeeb4" md5="058d095b6178b1c2432e7241d464ffc8" sha1="bfc0a5503bf150c42723d67cba196ace2afe3ac1"/>
+	<game name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(48K-128K)">
+		<description>Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(48K-128K)</description>
+		<rom name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(48K-128K).z80" size="44135" crc="bf7aeeb4" md5="058d095b6178b1c2432e7241d464ffc8" sha1="bfc0a5503bf150c42723d67cba196ace2afe3ac1"/>
 	</game>
 	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(128K)[a]">
 		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)(128K)[a]</description>
 		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(128K)[a].z80" size="53268" crc="86cd7085" md5="776627962caa112796e14763479cff5a" sha1="2674848f59241eeb853ed8cae2557689f6ec505a"/>
 	</game>
-	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)[a]">
-		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)[a]</description>
-		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)[a].z80" size="45457" crc="62608aea" md5="ada658d14fadb55014304a8892940e1d" sha1="2e132f26a23fcec7f2812a6a8c8589d0cd6efb5c"/>
+	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)[a]">
+		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)[a]</description>
+		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)[a].z80" size="45457" crc="62608aea" md5="ada658d14fadb55014304a8892940e1d" sha1="2e132f26a23fcec7f2812a6a8c8589d0cd6efb5c"/>
 	</game>
-	<game name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)[a]">
-		<description>Jewels of Darkness - Colossal Adventure (1986)(Rainbird)[a]</description>
-		<rom name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)[a].z80" size="45767" crc="60ce6580" md5="77d1218b24f6ccadc47697c9f2b4a9b9" sha1="e6ec292a15a35db3a93f50214bbfc444401f50ca"/>
+	<game name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(48K-128K)[a]">
+		<description>Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(48K-128K)[a]</description>
+		<rom name="Jewels of Darkness - Colossal Adventure (1986)(Rainbird)(48K-128K)[a].z80" size="45767" crc="60ce6580" md5="77d1218b24f6ccadc47697c9f2b4a9b9" sha1="e6ec292a15a35db3a93f50214bbfc444401f50ca"/>
 	</game>
 	<game name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(128K)[a]">
 		<description>Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(128K)[a]</description>
 		<rom name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(128K)[a].z80" size="76748" crc="c8cfcf9c" md5="d7be2f3cb39cba5e8652a1992aaeacaf" sha1="496486186427780e22e7390386725b6350569d6c"/>
 	</game>
-	<game name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)[a]">
-		<description>Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)[a]</description>
-		<rom name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)[a].z80" size="44105" crc="d479e7c0" md5="b21bc992bc6e8cb4eb5c3994c44cfc3a" sha1="8a6a939ceadfe6093e4861add3fa162c05028253"/>
+	<game name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(48K-128K)[a]">
+		<description>Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(48K-128K)[a]</description>
+		<rom name="Jewels of Darkness - Dungeon Adventure (1986)(Rainbird)(48K-128K)[a].z80" size="44105" crc="d479e7c0" md5="b21bc992bc6e8cb4eb5c3994c44cfc3a" sha1="8a6a939ceadfe6093e4861add3fa162c05028253"/>
 	</game>
-	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)[a2]">
-		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)[a2]</description>
-		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)[a2].z80" size="45698" crc="1d4c6c04" md5="9ae0929df6e26db4536da60b81cd9149" sha1="eb66b9a72ecbb1dde0302508fe3e3fb1ca7503d0"/>
+	<game name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)[a2]">
+		<description>Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)[a2]</description>
+		<rom name="Jewels of Darkness - Adventure Quest (1986)(Rainbird)(48K-128K)[a2].z80" size="45698" crc="1d4c6c04" md5="9ae0929df6e26db4536da60b81cd9149" sha1="eb66b9a72ecbb1dde0302508fe3e3fb1ca7503d0"/>
 	</game>
 	<game name="L-Game, Mastermind and Pontoon (1982)(Quicksilva)(16K)">
 		<description>L-Game, Mastermind and Pontoon (1982)(Quicksilva)(16K)</description>
 		<rom name="L-Game, Mastermind and Pontoon (1982)(Quicksilva)(16K).z80" size="10796" crc="52f8413c" md5="6e5b743392b1486e255536140552823b" sha1="77ec7d674cb8342d4664267aaf11848153f66f71"/>
-	</game>
-	<game name="Letris Compilation (1991)(Proxima)(128K)(CZ)">
-		<description>Letris Compilation (1991)(Proxima)(128K)(CZ)</description>
-		<rom name="Letris Compilation (1991)(Proxima)(128K)(CZ).z80" size="33676" crc="0d18b5c2" md5="ecf7453c11a83ef6c799ebd1827cccbb" sha1="2c4c51bfff270eb3bdde42e1b1b5285c6544eb62"/>
-	</game>
-	<game name="Letris Compilation (1991)(Proxima)(128K)(CZ)[aka Beerland]">
-		<description>Letris Compilation (1991)(Proxima)(128K)(CZ)[aka Beerland]</description>
-		<rom name="Letris Compilation (1991)(Proxima)(128K)(CZ)[aka Beerland].z80" size="33364" crc="9064bc46" md5="fdbc925720fc9346bde4c82608b7be7d" sha1="330ed34c1e880c03567761d6443ad59a06ea08b8"/>
 	</game>
 	<game name="Merlock the Mede Pilgrimage - Ashes of Alucard (1985)(Terminal)">
 		<description>Merlock the Mede Pilgrimage - Ashes of Alucard (1985)(Terminal)</description>
@@ -294,49 +294,53 @@
 		<description>Realm of Darkness + Matchmaker (1987)(River)</description>
 		<rom name="Realm of Darkness + Matchmaker (1987)(River).z80" size="39187" crc="062c58da" md5="2e97e8e097862c7373429d614868bd11" sha1="ee507d5031e05a19005785acb01a83033022ea73"/>
 	</game>
+	<game name="Shape Sorter (1983)(Widgit)(16K)">
+		<description>Shape Sorter (1983)(Widgit)(16K)</description>
+		<rom name="Shape Sorter (1983)(Widgit)(16K).z80" size="9367" crc="487ec237" md5="ff174685f8dcbf7e5fc1a44b3d55e793" sha1="1f538f562074a85cccc10107d6730bbaa47b3e89"/>
+	</game>
 	<game name="Silicon Dreams - Return to Eden (1986)(Rainbird)(128K)">
 		<description>Silicon Dreams - Return to Eden (1986)(Rainbird)(128K)</description>
 		<rom name="Silicon Dreams - Return to Eden (1986)(Rainbird)(128K).z80" size="54967" crc="d25f35a1" md5="12a2e393f9238a129b5483529865fd02" sha1="39756844d9aeb54f83ff50f3cabf02f5a6466f6a"/>
 	</game>
-	<game name="Silicon Dreams - Return to Eden (1986)(Rainbird)">
-		<description>Silicon Dreams - Return to Eden (1986)(Rainbird)</description>
-		<rom name="Silicon Dreams - Return to Eden (1986)(Rainbird).z80" size="45540" crc="91ca2691" md5="eb9e39df60c5bb293bf5f399e333ceec" sha1="632d3c5460c77721e774eb2a1b130e097f91b244"/>
+	<game name="Silicon Dreams - Return to Eden (1986)(Rainbird)(48K-128K)">
+		<description>Silicon Dreams - Return to Eden (1986)(Rainbird)(48K-128K)</description>
+		<rom name="Silicon Dreams - Return to Eden (1986)(Rainbird)(48K-128K).z80" size="45540" crc="91ca2691" md5="eb9e39df60c5bb293bf5f399e333ceec" sha1="632d3c5460c77721e774eb2a1b130e097f91b244"/>
 	</game>
 	<game name="Silicon Dreams - Snowball (1986)(Rainbird)(128K)">
 		<description>Silicon Dreams - Snowball (1986)(Rainbird)(128K)</description>
 		<rom name="Silicon Dreams - Snowball (1986)(Rainbird)(128K).z80" size="54301" crc="44c37424" md5="0ce82c82497e5de47090fc334a4a6498" sha1="5803edbb21bff2705ae8b940cac32d8c00c5fd0d"/>
 	</game>
-	<game name="Silicon Dreams - Snowball (1986)(Rainbird)">
-		<description>Silicon Dreams - Snowball (1986)(Rainbird)</description>
-		<rom name="Silicon Dreams - Snowball (1986)(Rainbird).z80" size="42963" crc="27378589" md5="0d6f98c6f281e97d0d3cd1adf3fec24c" sha1="9246fe1acd7f3681c5cff17611b209cf3c6f0cc5"/>
+	<game name="Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)">
+		<description>Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)</description>
+		<rom name="Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K).z80" size="42963" crc="27378589" md5="0d6f98c6f281e97d0d3cd1adf3fec24c" sha1="9246fe1acd7f3681c5cff17611b209cf3c6f0cc5"/>
 	</game>
 	<game name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(128K)">
 		<description>Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(128K)</description>
 		<rom name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(128K).z80" size="56031" crc="3f8b25ad" md5="f4016e74a0d7ea51e49fbb9e3c8981c6" sha1="fa8652525adff6f28dcfcb88ca60843bf840663f"/>
 	</game>
-	<game name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)">
-		<description>Silicon Dreams - The Worm in Paradise (1986)(Rainbird)</description>
-		<rom name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird).z80" size="43244" crc="8d240ea9" md5="841d6a337d8b24e482f3a0187304a333" sha1="1cacc700d4fb37d1d58245ffb61b3dd4ea3dca35"/>
+	<game name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(48K-128K)">
+		<description>Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(48K-128K)</description>
+		<rom name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(48K-128K).z80" size="43244" crc="8d240ea9" md5="841d6a337d8b24e482f3a0187304a333" sha1="1cacc700d4fb37d1d58245ffb61b3dd4ea3dca35"/>
 	</game>
 	<game name="Silicon Dreams - Return to Eden (1986)(Rainbird)(128K)[a]">
 		<description>Silicon Dreams - Return to Eden (1986)(Rainbird)(128K)[a]</description>
 		<rom name="Silicon Dreams - Return to Eden (1986)(Rainbird)(128K)[a].z80" size="54965" crc="6d15632f" md5="88058843fdc86fa7da5d0498b7f2e112" sha1="a048357df684a013a42adce3d80cce98d6622a15"/>
 	</game>
-	<game name="Silicon Dreams - Return to Eden (1986)(Rainbird)[a]">
-		<description>Silicon Dreams - Return to Eden (1986)(Rainbird)[a]</description>
-		<rom name="Silicon Dreams - Return to Eden (1986)(Rainbird)[a].z80" size="45510" crc="cdca8f33" md5="18b9b65b10a4e7ce150c732a29bb3685" sha1="8f7930856b0285dc0b6c2c11d7df90b26afcce13"/>
+	<game name="Silicon Dreams - Return to Eden (1986)(Rainbird)(48K-128K)[a]">
+		<description>Silicon Dreams - Return to Eden (1986)(Rainbird)(48K-128K)[a]</description>
+		<rom name="Silicon Dreams - Return to Eden (1986)(Rainbird)(48K-128K)[a].z80" size="45510" crc="cdca8f33" md5="18b9b65b10a4e7ce150c732a29bb3685" sha1="8f7930856b0285dc0b6c2c11d7df90b26afcce13"/>
 	</game>
-	<game name="Silicon Dreams - Snowball (1986)(Rainbird)[a]">
-		<description>Silicon Dreams - Snowball (1986)(Rainbird)[a]</description>
-		<rom name="Silicon Dreams - Snowball (1986)(Rainbird)[a].z80" size="42963" crc="1cd5433b" md5="ae1f3b4fdce937fa8dd32e986ddca62b" sha1="11f4348c91244aa9f25e52cf19f82a67056df8ed"/>
+	<game name="Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)[a]">
+		<description>Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)[a]</description>
+		<rom name="Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)[a].z80" size="42963" crc="1cd5433b" md5="ae1f3b4fdce937fa8dd32e986ddca62b" sha1="11f4348c91244aa9f25e52cf19f82a67056df8ed"/>
 	</game>
-	<game name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)[a]">
-		<description>Silicon Dreams - The Worm in Paradise (1986)(Rainbird)[a]</description>
-		<rom name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)[a].z80" size="43214" crc="ab470a20" md5="9ebf74696a02869f4ef25bf6f2790d97" sha1="6a5b48dcfd36968133a928a989ce26d79b4d0892"/>
+	<game name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(48K-128K)[a]">
+		<description>Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(48K-128K)[a]</description>
+		<rom name="Silicon Dreams - The Worm in Paradise (1986)(Rainbird)(48K-128K)[a].z80" size="43214" crc="ab470a20" md5="9ebf74696a02869f4ef25bf6f2790d97" sha1="6a5b48dcfd36968133a928a989ce26d79b4d0892"/>
 	</game>
-	<game name="Silicon Dreams - Snowball (1986)(Rainbird)[a2]">
-		<description>Silicon Dreams - Snowball (1986)(Rainbird)[a2]</description>
-		<rom name="Silicon Dreams - Snowball (1986)(Rainbird)[a2].z80" size="42933" crc="abecef2d" md5="f5527f803e17a2a65476cadaaf07e605" sha1="e8df59078118402463cf4bcd0c1fdeb4344d6375"/>
+	<game name="Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)[a2]">
+		<description>Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)[a2]</description>
+		<rom name="Silicon Dreams - Snowball (1986)(Rainbird)(48K-128K)[a2].z80" size="42933" crc="abecef2d" md5="f5527f803e17a2a65476cadaaf07e605" sha1="e8df59078118402463cf4bcd0c1fdeb4344d6375"/>
 	</game>
 	<game name="Soccer Mania (1990)(Addictive Games)(128K)[aka Microprose Soccer]">
 		<description>Soccer Mania (1990)(Addictive Games)(128K)[aka Microprose Soccer]</description>

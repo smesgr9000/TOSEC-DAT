@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Games - Save Disks</name>
-		<description>Commodore Amiga - Games - Save Disks (TOSEC-v2022-12-11)</description>
+		<description>Commodore Amiga - Games - Save Disks (TOSEC-v2023-05-19)</description>
 		<category>TOSEC</category>
-		<version>2022-12-11</version>
+		<version>2023-05-19</version>
 		<author>idoru - Adderly - mai - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -34,7 +34,7 @@
 	</game>
 	<game name="Ambermoon (1993)(Thalion)(DE)(J)[a2][save disk]">
 		<description>Ambermoon (1993)(Thalion)(DE)(J)[a2][save disk]</description>
-		<rom name="Ambermoon (1993)(Thalion)(DE)(J)[a2][save disk].adf" size="901120" crc="efd2aebf" md5="33d20b021c10ffa8515a5dbceae252e3" sha1="644c8d9f7f3115ee694d0c737d687ba94354a092"/>
+		<rom name="Ambermoon (1993)(Thalion)(DE)(J)[a2][save disk].adf" size="901120" crc="30fccad1" md5="ef6f5338979ec2695d07842e0183ab84" sha1="eec9d4374981f58772e3bbee4bc6fa6867294ad9"/>
 	</game>
 	<game name="Ambermoon (1993)(Thalion)(DE)(J)[a3][save disk]">
 		<description>Ambermoon (1993)(Thalion)(DE)(J)[a3][save disk]</description>
@@ -43,10 +43,6 @@
 	<game name="Ambermoon (1993)(Thalion)(DE)(J)[a4][save disk]">
 		<description>Ambermoon (1993)(Thalion)(DE)(J)[a4][save disk]</description>
 		<rom name="Ambermoon (1993)(Thalion)(DE)(J)[a4][save disk].adf" size="901120" crc="9738b57c" md5="b4bd1a28f9f707a7b5791c7ceac36fb0" sha1="7128a784aed5da22ced67e1f8c802ab9865066c1"/>
-	</game>
-	<game name="Ambermoon (1993)(Thalion)(DE)(J)[a5][save disk]">
-		<description>Ambermoon (1993)(Thalion)(DE)(J)[a5][save disk]</description>
-		<rom name="Ambermoon (1993)(Thalion)(DE)(J)[a5][save disk].adf" size="901120" crc="30fccad1" md5="ef6f5338979ec2695d07842e0183ab84" sha1="eec9d4374981f58772e3bbee4bc6fa6867294ad9"/>
 	</game>
 	<game name="Ambermoon (1993)(Thalion)(DE)(J)[a][save disk]">
 		<description>Ambermoon (1993)(Thalion)(DE)(J)[a][save disk]</description>
@@ -344,9 +340,13 @@
 		<description>Drakkhen v1.1 (1990)(Infogrames)(IT)[save disk]</description>
 		<rom name="Drakkhen v1.1 (1990)(Infogrames)(IT)[save disk].adf" size="901120" crc="1e489a16" md5="f799c90d648db2bfa64ce5e658c25933" sha1="fdff427c97fd65906e57805189ea0899329f1679"/>
 	</game>
-	<game name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)[a2][save disk]">
-		<description>Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)[a2][save disk]</description>
-		<rom name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)[a2][save disk].adf" size="901120" crc="ebce485c" md5="6b5f87a1a494b9bc2a6a523fbae51206" sha1="addcbc706dc094af64dbc6b32db4cb6c2e541adf"/>
+	<game name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)(pre-release)[m bamcopy][save disk]">
+		<description>Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)(pre-release)[m bamcopy][save disk]</description>
+		<rom name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)(pre-release)[m bamcopy][save disk].adf" size="901120" crc="ebce485c" md5="6b5f87a1a494b9bc2a6a523fbae51206" sha1="addcbc706dc094af64dbc6b32db4cb6c2e541adf"/>
+	</game>
+	<game name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)(pre-release)[save disk]">
+		<description>Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)(pre-release)[save disk]</description>
+		<rom name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)(pre-release)[save disk].adf" size="901120" crc="66497bac" md5="72591ce03bbcb939bc39e813bc6ea76c" sha1="ed689cad8136c7b56a5c6a48e27e65481c01ec28"/>
 	</game>
 	<game name="Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)[a][save disk]">
 		<description>Dune II - The Battle for Arrakis v1.0 (1993)(Virgin)(M3)[a][save disk]</description>
@@ -423,6 +423,10 @@
 	<game name="Goal! (1993)(Virgin)[save disk][ekstraklasa]">
 		<description>Goal! (1993)(Virgin)[save disk][ekstraklasa]</description>
 		<rom name="Goal! (1993)(Virgin)[save disk][ekstraklasa].adf" size="901120" crc="a51cac5b" md5="5cefcddde64de7b4e298377224f70c68" sha1="04b2e7929b42a2d8137119bcaeb67e1c739201b4"/>
+	</game>
+	<game name="HeroQuest II - Legacy of Sorasil (1994-03-07)(Gremlin)(M3)[h Universe][save disk]">
+		<description>HeroQuest II - Legacy of Sorasil (1994-03-07)(Gremlin)(M3)[h Universe][save disk]</description>
+		<rom name="HeroQuest II - Legacy of Sorasil (1994-03-07)(Gremlin)(M3)[h Universe][save disk].adf" size="901120" crc="ccf10993" md5="cdeba62d40dd592f0f3aaa95f8434848" sha1="bf22ae90fd40c5982c6b3a4800773dba4da47231"/>
 	</game>
 	<game name="High Seas Trader (1995)(Impressions)(AGA)[h Dracs][save disk]">
 		<description>High Seas Trader (1995)(Impressions)(AGA)[h Dracs][save disk]</description>
@@ -556,9 +560,17 @@
 		<description>Settlers, The (1993)(Blue Byte)[save disk]</description>
 		<rom name="Settlers, The (1993)(Blue Byte)[save disk].adf" size="901120" crc="e6aa19d4" md5="2e6a845b338f0e565b755f80cb40c248" sha1="5d64361c5c3b1a966968e03b9c28e4fb995b486e"/>
 	</game>
+	<game name="Seven Cities of Gold (1985)(Electronic Arts)(Map Disk)[save disk]">
+		<description>Seven Cities of Gold (1985)(Electronic Arts)(Map Disk)[save disk]</description>
+		<rom name="Seven Cities of Gold (1985)(Electronic Arts)(Map Disk)[save disk].adf" size="901120" crc="d5d1f72b" md5="52be0ae685e9ab39c0f7d1132b0af3d7" sha1="0443ed0d52ac90451870f09e1cadeefb1c6fbe92"/>
+	</game>
 	<game name="Shadows of Sergoth, The (demo-playable) (2020-09-16)(Double Sided Games)[save disk]">
 		<description>Shadows of Sergoth, The (demo-playable) (2020-09-16)(Double Sided Games)[save disk]</description>
 		<rom name="Shadows of Sergoth, The (demo-playable) (2020-09-16)(Double Sided Games)[save disk].adf" size="901120" crc="6dbc9982" md5="567c24ebf66d5c2eafcf8fa3412d367a" sha1="842e511fe401934c155e2b47bcea4e1680d54976"/>
+	</game>
+	<game name="Special Forces (1992-02-10)(MicroProse)[h Venture][save disk]">
+		<description>Special Forces (1992-02-10)(MicroProse)[h Venture][save disk]</description>
+		<rom name="Special Forces (1992-02-10)(MicroProse)[h Venture][save disk].adf" size="901120" crc="73428406" md5="91c3c646d34f9de08c22be22309cbbe9" sha1="82de61793cfd25365c9feba3338bb4520589b811"/>
 	</game>
 	<game name="Stable Masters II v3.4 - 96 Season Update (1996)(ESP)[save disk]">
 		<description>Stable Masters II v3.4 - 96 Season Update (1996)(ESP)[save disk]</description>

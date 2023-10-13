@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Simulation - [P00]</name>
-		<description>Commodore C64 - Games - Simulation - [P00] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Simulation - [P00] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -115,6 +115,10 @@
 	<game name="Blindflug-Training (19xx)(Jahnke, Frank)(de)">
 		<description>Blindflug-Training (19xx)(Jahnke, Frank)(de)</description>
 		<rom name="Blindflug-Training (19xx)(Jahnke, Frank)(de).p00" size="11009" crc="be68c287" md5="13b135f8f54615553b007c4ddeecad38" sha1="6b798cc54e6ee3ba96e0735a2b22e6bd9a223e03"/>
+	</game>
+	<game name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)">
+		<description>Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)</description>
+		<rom name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD).p00" size="9614" crc="31bf4ed4" md5="7530fa0579f1b56c4250c434d44e500e" sha1="d129c0ef594dbd1f9b4281c66658353a693c78b2"/>
 	</game>
 	<game name="Carrier Command (1988)(Rainbird)[cr CTX]">
 		<description>Carrier Command (1988)(Rainbird)[cr CTX]</description>
@@ -248,9 +252,9 @@
 		<description>Game of Life (1985)(RUN-CW-Publikationen)(de-en)[cr CHR]</description>
 		<rom name="Game of Life (1985)(RUN-CW-Publikationen)(de-en)[cr CHR].p00" size="6950" crc="ef7f1495" md5="59d4659a29dff4b2f316b4fa6128390d" sha1="74bd8dd51512a79a02e99604e43b101a61ac29fa"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr UCS][t +3 UCS]">
-		<description>G-Loc R360 (1992)(US Gold)[cr UCS][t +3 UCS]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr UCS][t +3 UCS].p00" size="37502" crc="780e4ee7" md5="23fc17492c760a7ec15d0645c2b39d5e" sha1="7bd40bf178b0a8dc7299804ec886771a29b28d62"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr UCS][t +3 UCS]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr UCS][t +3 UCS]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr UCS][t +3 UCS].p00" size="37502" crc="780e4ee7" md5="23fc17492c760a7ec15d0645c2b39d5e" sha1="7bd40bf178b0a8dc7299804ec886771a29b28d62"/>
 	</game>
 	<game name="Halley Mission, The - A Shuttle Simulation (1986)(Americana Software)[cr Byterapers]">
 		<description>Halley Mission, The - A Shuttle Simulation (1986)(Americana Software)[cr Byterapers]</description>
@@ -287,6 +291,14 @@
 	<game name="Interdictor Pilot (1984)(Supersoft)[a]">
 		<description>Interdictor Pilot (1984)(Supersoft)[a]</description>
 		<rom name="Interdictor Pilot (1984)(Supersoft)[a].p00" size="25596" crc="792711ad" md5="6e5449bdb5ba612e9d49623bebc9e755" sha1="c9f884339d76459fe1f8aee10b1c90a1239a8c97"/>
+	</game>
+	<game name="IQ (1987)(CRL)[cr HTL]">
+		<description>IQ (1987)(CRL)[cr HTL]</description>
+		<rom name="IQ (1987)(CRL)[cr HTL].p00" size="17262" crc="6dd72fe4" md5="7bf6c2cca4eb5127e6187637aaf236dd" sha1="39cbac9bbff42792f1516bda773e5c6940c76b48"/>
+	</game>
+	<game name="IQ (1987)(CRL)[cr HTL][a]">
+		<description>IQ (1987)(CRL)[cr HTL][a]</description>
+		<rom name="IQ (1987)(CRL)[cr HTL][a].p00" size="17262" crc="b9e13814" md5="d0ded0317c542b0ffa4efae69eec3309" sha1="c67bf5b2bad31d2d68b8562c76ae0afd90dd02d6"/>
 	</game>
 	<game name="Jagd auf Roter Oktober (1987)(Grandslam Entertainment)(de)[cr Panzerknacker]">
 		<description>Jagd auf Roter Oktober (1987)(Grandslam Entertainment)(de)[cr Panzerknacker]</description>
@@ -392,6 +404,14 @@
 		<description>Microdeal Shuttle (1983)(Microdeal)</description>
 		<rom name="Microdeal Shuttle (1983)(Microdeal).p00" size="18462" crc="c0b8c113" md5="dd806fb8816faeba196c6f51f71a922f" sha1="2a557d2f71295d3940c4713818f30f9f9a63499f"/>
 	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson).p00" size="38975" crc="10735743" md5="27fb2b95eb4f4deb981300a400aa18f0" sha1="902ce17a0b6fd7b74a08a2ecf2f9f0452ff0c80d"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Acrise]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Acrise]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Acrise].p00" size="42885" crc="afe773a2" md5="25e20fb06bea8ca260544e5139398f5b" sha1="49be5be280611c02dfc16b339dab8e0ef6cce8dc"/>
+	</game>
 	<game name="NASA Simulator - Space Shuttle (19xx)(Köhl, Uli)(de)">
 		<description>NASA Simulator - Space Shuttle (19xx)(Köhl, Uli)(de)</description>
 		<rom name="NASA Simulator - Space Shuttle (19xx)(Köhl, Uli)(de).p00" size="10471" crc="9ed48803" md5="25bfea0c83aafd7112069b9647206d22" sha1="76e663ab6f04a53c766808349a67b053e5b3e5ea"/>
@@ -464,6 +484,10 @@
 		<description>Rail Traffic Control - Buxton (1987)(Dee-Kay Systems)</description>
 		<rom name="Rail Traffic Control - Buxton (1987)(Dee-Kay Systems).p00" size="18500" crc="3e964645" md5="eb3751e7317ec9831ff4827e11db8cdc" sha1="7931e86a6558f074ad65761715f32f2fcc869d6e"/>
 	</game>
+	<game name="Rail Traffic Control - Carlisle (1991)(Ashley Greenup)[cr DR]">
+		<description>Rail Traffic Control - Carlisle (1991)(Ashley Greenup)[cr DR]</description>
+		<rom name="Rail Traffic Control - Carlisle (1991)(Ashley Greenup)[cr DR].p00" size="16615" crc="e824a3e1" md5="973da19a5184048a839d9e1d50178aae" sha1="8b93e8e9a314f9fe7f15277536f3f2d53d53704c"/>
+	</game>
 	<game name="Rail Traffic Control - Crewe (1987)(Dee-Kay Systems)">
 		<description>Rail Traffic Control - Crewe (1987)(Dee-Kay Systems)</description>
 		<rom name="Rail Traffic Control - Crewe (1987)(Dee-Kay Systems).p00" size="18604" crc="59382f5b" md5="85351ab1423b04f16341384049b36004" sha1="dcf71407a95351255a3f684fe56884dfdef0b504"/>
@@ -499,6 +523,10 @@
 	<game name="Rail Traffic Control - Peterborough (1992)(-)[cr DR]">
 		<description>Rail Traffic Control - Peterborough (1992)(-)[cr DR]</description>
 		<rom name="Rail Traffic Control - Peterborough (1992)(-)[cr DR].p00" size="11938" crc="4c79c7e2" md5="efbd659c44d8b1bc96dbd630304dcdf2" sha1="8435a2968c819aeb9babe00afdaea01018dc5d20"/>
+	</game>
+	<game name="Rail Traffic Control - Reading (1988)(-)[cr DR]">
+		<description>Rail Traffic Control - Reading (1988)(-)[cr DR]</description>
+		<rom name="Rail Traffic Control - Reading (1988)(-)[cr DR].p00" size="12336" crc="3d2fecfd" md5="5abff11c87528631c73af941326eaa83" sha1="8504adbc584cdf81dbc2d07343d3ace32d620e37"/>
 	</game>
 	<game name="Red Arrows (1985)(Database Software)">
 		<description>Red Arrows (1985)(Database Software)</description>
@@ -579,6 +607,10 @@
 	<game name="Spitfire Ace (1985)(MicroProse)">
 		<description>Spitfire Ace (1985)(MicroProse)</description>
 		<rom name="Spitfire Ace (1985)(MicroProse).p00" size="26632" crc="1a3275fd" md5="d36d2c3c1db5e2b334798631ed1a6246" sha1="9f719ca6f3681e82db894dfeb2ed09aeeb791ef9"/>
+	</game>
+	<game name="Sprinter (1984)(Clubosoft)">
+		<description>Sprinter (1984)(Clubosoft)</description>
+		<rom name="Sprinter (1984)(Clubosoft).p00" size="13913" crc="a279bc82" md5="33bef8b58a70871055eccc942c8ab537" sha1="cbbaa72f5424b3338155156e42f1894f7e70e5a0"/>
 	</game>
 	<game name="Strike Force Harrier (1986)(Mirrorsoft)">
 		<description>Strike Force Harrier (1986)(Mirrorsoft)</description>

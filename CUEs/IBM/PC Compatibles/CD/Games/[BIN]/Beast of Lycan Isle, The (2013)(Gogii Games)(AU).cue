@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Beast of Lycan Isle, The (2013)(Gogii Games)(AU).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

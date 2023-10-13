@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - [T64]</name>
-		<description>Commodore C64 - Applications - [T64] (TOSEC-v2022-12-03)</description>
+		<description>Commodore C64 - Applications - [T64] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-03</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -108,17 +108,17 @@
 		<description>2x2 Char-Editor v1.1 (1990)(Genesis Project)[a]</description>
 		<rom name="2x2 Char-Editor v1.1 (1990)(Genesis Project)[a].t64" size="13852" crc="34ede9ea" md5="98544cf28270e5183622945e56db9c31" sha1="5905fdb614b395bf8c56c9d39f1f79aae629d057"/>
 	</game>
-	<game name="2x2 Patternfill Editor (1989)(Killers)">
-		<description>2x2 Patternfill Editor (1989)(Killers)</description>
-		<rom name="2x2 Patternfill Editor (1989)(Killers).t64" size="18066" crc="89a4820d" md5="2047f24e40f609335f93fea2afee2f05" sha1="2c5c174ea2e76eaa26ade0b153f1c5541bd7d8e8"/>
+	<game name="2x2 Patternfill Editor (1989-10)(Killers)">
+		<description>2x2 Patternfill Editor (1989-10)(Killers)</description>
+		<rom name="2x2 Patternfill Editor (1989-10)(Killers).t64" size="18066" crc="89a4820d" md5="2047f24e40f609335f93fea2afee2f05" sha1="2c5c174ea2e76eaa26ade0b153f1c5541bd7d8e8"/>
 	</game>
-	<game name="2x2 Patternfill Editor (1989)(Killers)[a]">
-		<description>2x2 Patternfill Editor (1989)(Killers)[a]</description>
-		<rom name="2x2 Patternfill Editor (1989)(Killers)[a].t64" size="17138" crc="a0e7477f" md5="193fab3407931b4312a0ca97cc15489b" sha1="7606dc526a695d7287f88c8791ebc987aa22adfa"/>
+	<game name="2x2 Patternfill Editor (1989-10)(Killers)[a]">
+		<description>2x2 Patternfill Editor (1989-10)(Killers)[a]</description>
+		<rom name="2x2 Patternfill Editor (1989-10)(Killers)[a].t64" size="17138" crc="a0e7477f" md5="193fab3407931b4312a0ca97cc15489b" sha1="7606dc526a695d7287f88c8791ebc987aa22adfa"/>
 	</game>
-	<game name="2x2 Patternfill Editor (1989)(Killers)[a2]">
-		<description>2x2 Patternfill Editor (1989)(Killers)[a2]</description>
-		<rom name="2x2 Patternfill Editor (1989)(Killers)[a2].t64" size="17138" crc="987c02a5" md5="e60206144181eb6aa487ee11a4ce6823" sha1="154e1c82900df4ec0be042f26008fda859d603e8"/>
+	<game name="2x2 Patternfill Editor (1989-10)(Killers)[a2]">
+		<description>2x2 Patternfill Editor (1989-10)(Killers)[a2]</description>
+		<rom name="2x2 Patternfill Editor (1989-10)(Killers)[a2].t64" size="17138" crc="987c02a5" md5="e60206144181eb6aa487ee11a4ce6823" sha1="154e1c82900df4ec0be042f26008fda859d603e8"/>
 	</game>
 	<game name="2x2 Weird Colour Editor (1993)(-)">
 		<description>2x2 Weird Colour Editor (1993)(-)</description>
@@ -336,9 +336,9 @@
 		<description>Advanced Art Studio v1.2b (1987)(EEC)[a3]</description>
 		<rom name="Advanced Art Studio v1.2b (1987)(EEC)[a3].t64" size="25982" crc="e24fb265" md5="2c355c9a108d5e94ca7b938cd190d75f" sha1="b70f2b3da220bce1de4db11fdf3f2d419991f418"/>
 	</game>
-	<game name="Advanced Art Studio v1.2b (1987)(EEC)[a4]">
-		<description>Advanced Art Studio v1.2b (1987)(EEC)[a4]</description>
-		<rom name="Advanced Art Studio v1.2b (1987)(EEC)[a4].t64" size="25982" crc="7f2d4bca" md5="551eb9ad84ff3cdf35badd63001574a2" sha1="db2c349f7140316b941786498953219bf9eec62c"/>
+	<game name="Advanced Art Studio v1.2b (1987)(EEC)[o]">
+		<description>Advanced Art Studio v1.2b (1987)(EEC)[o]</description>
+		<rom name="Advanced Art Studio v1.2b (1987)(EEC)[o].t64" size="25982" crc="7f2d4bca" md5="551eb9ad84ff3cdf35badd63001574a2" sha1="db2c349f7140316b941786498953219bf9eec62c"/>
 	</game>
 	<game name="Advanced Bonzai Note Maker V1.3 (1991)(Bonzai - Dream)">
 		<description>Advanced Bonzai Note Maker V1.3 (1991)(Bonzai - Dream)</description>
@@ -584,10 +584,6 @@
 		<description>Art Bouncer (demo) (1990)(Visage Studios)</description>
 		<rom name="Art Bouncer (demo) (1990)(Visage Studios).t64" size="8926" crc="2d79a1f0" md5="489bf1599f04f86391050f6a240c740f" sha1="ef1865d452d23c9a421ac056f736d3577da4f493"/>
 	</game>
-	<game name="Art Bouncer V1.0 (19xx)(Crypt)">
-		<description>Art Bouncer V1.0 (19xx)(Crypt)</description>
-		<rom name="Art Bouncer V1.0 (19xx)(Crypt).t64" size="18405" crc="a20a181d" md5="9240d140c89cfed82ba87fd7c06f5254" sha1="cb1ee4bc30f49964ccb1eab55386927b807e9284"/>
-	</game>
 	<game name="Art Studio 2 Level Impact System (19xx)(Impact)">
 		<description>Art Studio 2 Level Impact System (19xx)(Impact)</description>
 		<rom name="Art Studio 2 Level Impact System (19xx)(Impact).t64" size="7055" crc="76362d42" md5="b5847c13653ec73a8282e58bbde8b65b" sha1="894bcbe6215f5cdd633e97ffd0ef9d0b145092bd"/>
@@ -603,6 +599,14 @@
 	<game name="Art Studio, The v1.1 (1986)(OCP)[cr CCS][a]">
 		<description>Art Studio, The v1.1 (1986)(OCP)[cr CCS][a]</description>
 		<rom name="Art Studio, The v1.1 (1986)(OCP)[cr CCS][a].t64" size="42376" crc="0885a123" md5="cea407cc9edafb54e53915ea4cefad2e" sha1="6b8255dd13cab79312ee6416a2936349781a84c1"/>
+	</game>
+	<game name="Art-Bouncer V1.0 (19xx)(Crypt)">
+		<description>Art-Bouncer V1.0 (19xx)(Crypt)</description>
+		<rom name="Art-Bouncer V1.0 (19xx)(Crypt).t64" size="6738" crc="543240d6" md5="590cd6be82277f5812965dba339ee107" sha1="402dced49530fb119ce05f03ae0db497790922aa"/>
+	</game>
+	<game name="Art-Bouncer V1.0 (19xx)(Crypt)[a]">
+		<description>Art-Bouncer V1.0 (19xx)(Crypt)[a]</description>
+		<rom name="Art-Bouncer V1.0 (19xx)(Crypt)[a].t64" size="18405" crc="a20a181d" md5="9240d140c89cfed82ba87fd7c06f5254" sha1="cb1ee4bc30f49964ccb1eab55386927b807e9284"/>
 	</game>
 	<game name="Artwriter (19xx)(B-Art)">
 		<description>Artwriter (19xx)(B-Art)</description>
@@ -1368,9 +1372,9 @@
 		<description>Compounder, The v1.0 (1986)(1001 Crew)</description>
 		<rom name="Compounder, The v1.0 (1986)(1001 Crew).t64" size="4078" crc="bd45ad85" md5="1e49d5f717622fba946a384d70f92d48" sha1="78c3c4dfbe923caa09c98d0048a90dc25cb28b74"/>
 	</game>
-	<game name="Compounder, The v2.0 (19xx)(1001 Crew)">
-		<description>Compounder, The v2.0 (19xx)(1001 Crew)</description>
-		<rom name="Compounder, The v2.0 (19xx)(1001 Crew).t64" size="2758" crc="e6abf795" md5="3b4c50223cb622518c635ef7a9a75a0c" sha1="f19c4ac7f38821016daac733bd67378215e4c9a6"/>
+	<game name="Compounder, The v2.0 (1986)(1001 Crew)">
+		<description>Compounder, The v2.0 (1986)(1001 Crew)</description>
+		<rom name="Compounder, The v2.0 (1986)(1001 Crew).t64" size="2758" crc="e6abf795" md5="3b4c50223cb622518c635ef7a9a75a0c" sha1="f19c4ac7f38821016daac733bd67378215e4c9a6"/>
 	</game>
 	<game name="Compressor V1 (19xx)(Alpha Flight)">
 		<description>Compressor V1 (19xx)(Alpha Flight)</description>
@@ -3508,9 +3512,9 @@
 		<description>Krejzi Packer $005E-$FFFF (1991)(Science 451)</description>
 		<rom name="Krejzi Packer $005E-$FFFF (1991)(Science 451).t64" size="2136" crc="5a47d4bc" md5="b1a993b3eadb0db6a72dd88d36a48544" sha1="f9f988c507443f62e539fd1f70553d85b2bf98fc"/>
 	</game>
-	<game name="Kwik Load (1984)(Diskmasters)">
-		<description>Kwik Load (1984)(Diskmasters)</description>
-		<rom name="Kwik Load (1984)(Diskmasters).t64" size="10254" crc="acd51112" md5="e9d56b1f6c08286915959c19cc5306de" sha1="6105c3c48fb474046c64d3d41b992d158baa4791"/>
+	<game name="Kwik Load! (1984)(Diskmasters)">
+		<description>Kwik Load! (1984)(Diskmasters)</description>
+		<rom name="Kwik Load! (1984)(Diskmasters).t64" size="10254" crc="acd51112" md5="e9d56b1f6c08286915959c19cc5306de" sha1="6105c3c48fb474046c64d3d41b992d158baa4791"/>
 	</game>
 	<game name="Lambada Writer (1990)(Pet Shop Boys)">
 		<description>Lambada Writer (1990)(Pet Shop Boys)</description>
@@ -4408,13 +4412,13 @@
 		<description>Notemaker (19xx)(Censor Design)[a]</description>
 		<rom name="Notemaker (19xx)(Censor Design)[a].t64" size="10145" crc="3107b9c5" md5="370ebd4b448c3462a291f87ae47c0104" sha1="6383cb612fc3797917860aca442d8f4887db4217"/>
 	</game>
+	<game name="Note-Maker v1.0 (1988)(Tour de Future)">
+		<description>Note-Maker v1.0 (1988)(Tour de Future)</description>
+		<rom name="Note-Maker v1.0 (1988)(Tour de Future).t64" size="7902" crc="4d31aceb" md5="7d9cb25de38ff3b72e39a12c4790965e" sha1="4c21598d5fffaa079d433532d2d9c64e254b376e"/>
+	</game>
 	<game name="Notemaker V1.0 (1991)(Chrome)">
 		<description>Notemaker V1.0 (1991)(Chrome)</description>
 		<rom name="Notemaker V1.0 (1991)(Chrome).t64" size="9538" crc="733dac15" md5="1a6da4c54529070697b716922e596116" sha1="2d525d8edfc958c6fb4511780ef2cf982c9c1513"/>
-	</game>
-	<game name="Note-Maker v1.0 (19xx)(Tour de Future)">
-		<description>Note-Maker v1.0 (19xx)(Tour de Future)</description>
-		<rom name="Note-Maker v1.0 (19xx)(Tour de Future).t64" size="7902" crc="4d31aceb" md5="7d9cb25de38ff3b72e39a12c4790965e" sha1="4c21598d5fffaa079d433532d2d9c64e254b376e"/>
 	</game>
 	<game name="Notemaker V3 (1990)(Century)">
 		<description>Notemaker V3 (1990)(Century)</description>
@@ -4472,9 +4476,9 @@
 		<description>Ocean-Cracker (19xx)(Yeti Factories)</description>
 		<rom name="Ocean-Cracker (19xx)(Yeti Factories).t64" size="3158" crc="9fd9c554" md5="f59cdd3f182bfa776c7c009a748e7bb0" sha1="9eda005c33ca3a38acfec63cc674e90c1f70de9d"/>
 	</game>
-	<game name="Octanoter v0.9 (1993)(Extacy)">
-		<description>Octanoter v0.9 (1993)(Extacy)</description>
-		<rom name="Octanoter v0.9 (1993)(Extacy).t64" size="13807" crc="c22882df" md5="1c19fb3a339a526317e62c1a1fe131b5" sha1="423b0e96bbdd1398f894f01d7a2122c9dd173461"/>
+	<game name="Octanoter v0.9 (1993-10-03)(Extacy)">
+		<description>Octanoter v0.9 (1993-10-03)(Extacy)</description>
+		<rom name="Octanoter v0.9 (1993-10-03)(Extacy).t64" size="13807" crc="c22882df" md5="1c19fb3a339a526317e62c1a1fe131b5" sha1="423b0e96bbdd1398f894f01d7a2122c9dd173461"/>
 	</game>
 	<game name="Octanoter v2.2 (1994-01-03)(Extacy)">
 		<description>Octanoter v2.2 (1994-01-03)(Extacy)</description>
@@ -4772,9 +4776,9 @@
 		<description>Power Cruncher v2.0 (1988)(Tetragon)</description>
 		<rom name="Power Cruncher v2.0 (1988)(Tetragon).t64" size="9187" crc="644a1c3e" md5="81c24f1ac5b4d3ed1d173afb3e0ce240" sha1="9405e22f140cca82eab73a226e56ce021611c337"/>
 	</game>
-	<game name="Power Cruncher v7.1 (19xx)(X-Rated)">
-		<description>Power Cruncher v7.1 (19xx)(X-Rated)</description>
-		<rom name="Power Cruncher v7.1 (19xx)(X-Rated).t64" size="9890" crc="5b956b57" md5="b9181cda06062a9a1aae39ed0415e872" sha1="a724c18dec37a6e803c86a89bf1644e2f922b625"/>
+	<game name="Power Cruncher v7.1 (1991)(X-Rated)">
+		<description>Power Cruncher v7.1 (1991)(X-Rated)</description>
+		<rom name="Power Cruncher v7.1 (1991)(X-Rated).t64" size="9890" crc="5b956b57" md5="b9181cda06062a9a1aae39ed0415e872" sha1="a724c18dec37a6e803c86a89bf1644e2f922b625"/>
 	</game>
 	<game name="Power Cruncher v7.4 (1993-11-12)(X-Rated)[h F4CG]">
 		<description>Power Cruncher v7.4 (1993-11-12)(X-Rated)[h F4CG]</description>
@@ -6216,9 +6220,9 @@
 		<description>Toolpak I (1992)(Illusion)</description>
 		<rom name="Toolpak I (1992)(Illusion).t64" size="32678" crc="f05b7b55" md5="b5d721a131b7789c1cadae981c0c8cb0" sha1="af8677274c55be1edb5f5209933c97480b07dca3"/>
 	</game>
-	<game name="T&apos;Pau Crapnoter (1990)(T&apos;Pau)">
-		<description>T&apos;Pau Crapnoter (1990)(T&apos;Pau)</description>
-		<rom name="T&apos;Pau Crapnoter (1990)(T&apos;Pau).t64" size="2282" crc="792a6302" md5="02aa119216ace9675650022dd9798b67" sha1="37df80839a851bc64f2cdba0c2a3b36c48ee2407"/>
+	<game name="T&apos;Pau Crapnoter (1990-12-02)(T&apos;Pau)">
+		<description>T&apos;Pau Crapnoter (1990-12-02)(T&apos;Pau)</description>
+		<rom name="T&apos;Pau Crapnoter (1990-12-02)(T&apos;Pau).t64" size="2282" crc="792a6302" md5="02aa119216ace9675650022dd9798b67" sha1="37df80839a851bc64f2cdba0c2a3b36c48ee2407"/>
 	</game>
 	<game name="Trackplayer v0.3c (19xx)(Motiv8)">
 		<description>Trackplayer v0.3c (19xx)(Motiv8)</description>
@@ -6464,9 +6468,9 @@
 		<description>Ultrafont 2 (1989-07-27)(Escape)</description>
 		<rom name="Ultrafont 2 (1989-07-27)(Escape).t64" size="16096" crc="e520ca4a" md5="41f6152a8cd98e5d99f63608eb7c835d" sha1="a35f7672b512a93ed15440ab89ae85d11c5db3e6"/>
 	</game>
-	<game name="Ultraload Plus Aktiv (1985)(Martin Pfost)">
-		<description>Ultraload Plus Aktiv (1985)(Martin Pfost)</description>
-		<rom name="Ultraload Plus Aktiv (1985)(Martin Pfost).t64" size="2134" crc="2e242fe5" md5="96e70568c0e40f13a9df013544cdfe1b" sha1="13d6f63e377275402f580cc3ff3adc7a6f26db0f"/>
+	<game name="Ultraload Plus Aktiv (1985)(Pfost, Martin)">
+		<description>Ultraload Plus Aktiv (1985)(Pfost, Martin)</description>
+		<rom name="Ultraload Plus Aktiv (1985)(Pfost, Martin).t64" size="2134" crc="2e242fe5" md5="96e70568c0e40f13a9df013544cdfe1b" sha1="13d6f63e377275402f580cc3ff3adc7a6f26db0f"/>
 	</game>
 	<game name="Ultravote V2.0 (1993-08-12)(Gothic Design - Proxyon)">
 		<description>Ultravote V2.0 (1993-08-12)(Gothic Design - Proxyon)</description>

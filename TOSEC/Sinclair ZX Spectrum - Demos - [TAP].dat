@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Demos - [TAP]</name>
-		<description>Sinclair ZX Spectrum - Demos - [TAP] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Demos - [TAP] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:08</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:48</date>
 		<author>Lady Eklipse - jugaor - Vaxalon - Zxyo - Dziuber - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -42,6 +42,10 @@
 		<description>1-BIT ATTACK (2008-11)(MISTER BEEP)</description>
 		<rom name="1-BIT ATTACK (2008-11)(MISTER BEEP).tap" size="81603" crc="365d07a9" md5="01f327d979bc5b84b52f82f71d7f9ed1" sha1="fddada736bb909561e8b1885a5ba7b692d3eb7d9"/>
 	</game>
+	<game name="100 Editions of Home Computing Weekly (1985)(Home Computing Weekly)(16K)">
+		<description>100 Editions of Home Computing Weekly (1985)(Home Computing Weekly)(16K)</description>
+		<rom name="100 Editions of Home Computing Weekly (1985)(Home Computing Weekly)(16K).tap" size="2259" crc="0cda4c0a" md5="c59e0301f47e4482f7c488fae96127ec" sha1="28ddc5dea4f562e0bca35f623047a291fc856b50"/>
+	</game>
 	<game name="128 Demo (1987-06)(Castor Cracking Group)(128K)(SE)(en)">
 		<description>128 Demo (1987-06)(Castor Cracking Group)(128K)(SE)(en)</description>
 		<rom name="128 Demo (1987-06)(Castor Cracking Group)(128K)(SE)(en).tap" size="38395" crc="69821bd5" md5="61506bef3b5ba21f0b077577d6df24f8" sha1="b8cc13be29706382c8c967e09d5d379eed50cd92"/>
@@ -54,9 +58,17 @@
 		<description>128 Music 2 (1987)(Castor Cracking Group)(128K)(SE)(en)</description>
 		<rom name="128 Music 2 (1987)(Castor Cracking Group)(128K)(SE)(en).tap" size="12200" crc="aa673d0b" md5="b297d080788bd054fb12d9f9acc81729" sha1="3bf1a464b8dcf9ea642f2ed34df97b62a3f847f9"/>
 	</game>
+	<game name="1490bpm (2021-07)(RMDA)[Lost Party]">
+		<description>1490bpm (2021-07)(RMDA)[Lost Party]</description>
+		<rom name="1490bpm (2021-07)(RMDA)[Lost Party].tap" size="655360" crc="c455d98f" md5="bbade2ddcaa93f918841365b89052fec" sha1="80c4f44e53cfb255af7a2415ce568956f286c4ba"/>
+	</game>
 	<game name="17 Minutes (1999-12)(ZeroTeam)">
 		<description>17 Minutes (1999-12)(ZeroTeam)</description>
 		<rom name="17 Minutes (1999-12)(ZeroTeam).tap" size="1497" crc="3717b845" md5="07be67d9a8e126c96cda181b5b19a839" sha1="90eb1ff3be64d4acd384db4016154348d7e0ee28"/>
+	</game>
+	<game name="1982 (2021-11)(RMDA)[Demodulation]">
+		<description>1982 (2021-11)(RMDA)[Demodulation]</description>
+		<rom name="1982 (2021-11)(RMDA)[Demodulation].tap" size="655360" crc="2359bc41" md5="849c0e2b90db8a7c6ebd30b542354fda" sha1="17642b112694bd40e14e685f7d5fbef96df9ffb6"/>
 	</game>
 	<game name="1998 DEMO (19xx)(HOOY-PROGRAM)">
 		<description>1998 DEMO (19xx)(HOOY-PROGRAM)</description>
@@ -66,9 +78,9 @@
 		<description>1998 Demo 2 (1998)(HOOY-PROGRAM)(128K)(PL)(en)</description>
 		<rom name="1998 Demo 2 (1998)(HOOY-PROGRAM)(128K)(PL)(en).tap" size="56919" crc="a4c8e69b" md5="515f85d1b16ad2f3d39041aa449dcce1" sha1="9456d3d0251e82a9afa5c299b411ab8d0f65269b"/>
 	</game>
-	<game name="1k_is_pretty_n!ce (2018)(bfox)">
-		<description>1k_is_pretty_n!ce (2018)(bfox)</description>
-		<rom name="1k_is_pretty_n!ce (2018)(bfox).tap" size="1024" crc="8dbe3e3f" md5="d256262a31fbf2a976c1d2d43051aa41" sha1="74e959f0531915a2fdefea282c2d608bc0b41f8e"/>
+	<game name="1k_is_pretty_n!ce (2018)(bfox)(RU)(en)">
+		<description>1k_is_pretty_n!ce (2018)(bfox)(RU)(en)</description>
+		<rom name="1k_is_pretty_n!ce (2018)(bfox)(RU)(en).tap" size="1024" crc="8dbe3e3f" md5="d256262a31fbf2a976c1d2d43051aa41" sha1="74e959f0531915a2fdefea282c2d608bc0b41f8e"/>
 	</game>
 	<game name="1st Demo (1993)(Adriano)(DE)(en)">
 		<description>1st Demo (1993)(Adriano)(DE)(en)</description>
@@ -82,6 +94,10 @@
 		<description>2 Unlimited (1994)(ESA)</description>
 		<rom name="2 Unlimited (1994)(ESA).tap" size="12395" crc="920e3bd4" md5="c45be220edc6045a69581b940de731cc" sha1="be2c18108b216c518867f1019868ff8b1542b7c2"/>
 	</game>
+	<game name="2033 (2021-01)(Serzhsoft)[DiHALT]">
+		<description>2033 (2021-01)(Serzhsoft)[DiHALT]</description>
+		<rom name="2033 (2021-01)(Serzhsoft)[DiHALT].tap" size="655360" crc="2c3c06e0" md5="c544746a3156e065c51fbae986a5414b" sha1="f874b32d205ec5a24d2fc990ed26ddd0dfe0dae2"/>
+	</game>
 	<game name="2X2 (2017-03)(3SC)[Forever]">
 		<description>2X2 (2017-03)(3SC)[Forever]</description>
 		<rom name="2X2 (2017-03)(3SC)[Forever].tap" size="1193" crc="966b5051" md5="9829380dbd1037c1872e625206e7a038" sha1="6c75429ce9ab423668dff14e7cc004247826191f"/>
@@ -94,9 +110,9 @@
 		<description>3 Smash (2006-10)(Icabod)(128K)[Sundown]</description>
 		<rom name="3 Smash (2006-10)(Icabod)(128K)[Sundown].tap" size="16020" crc="cc686a48" md5="4031af0e950fe77e1fa6c4a6e9741401" sha1="7bff2ad089942db6dff4863e1bbb3e8e47f4fe20"/>
 	</game>
-	<game name="30 Pripadov Majora Zemana (2012-03)(Gemba Boys)(SK)(cz-en)[Forever]">
-		<description>30 Pripadov Majora Zemana (2012-03)(Gemba Boys)(SK)(cz-en)[Forever]</description>
-		<rom name="30 Pripadov Majora Zemana (2012-03)(Gemba Boys)(SK)(cz-en)[Forever].tap" size="40593" crc="c87d79d1" md5="d18c1bc07e71839504aca55d565785ce" sha1="f69a2dabedc58cbf40e589d058e980397be3758f"/>
+	<game name="30 Pripadov Majora Zemana (2012-03)(Gemba Boys)(SK)(cs-en)[Forever]">
+		<description>30 Pripadov Majora Zemana (2012-03)(Gemba Boys)(SK)(cs-en)[Forever]</description>
+		<rom name="30 Pripadov Majora Zemana (2012-03)(Gemba Boys)(SK)(cs-en)[Forever].tap" size="40593" crc="c87d79d1" md5="d18c1bc07e71839504aca55d565785ce" sha1="f69a2dabedc58cbf40e589d058e980397be3758f"/>
 	</game>
 	<game name="32b SiGNAL (2016-05)(Serzhsoft)[Outline]">
 		<description>32b SiGNAL (2016-05)(Serzhsoft)[Outline]</description>
@@ -109,6 +125,10 @@
 	<game name="3BM 2013 Minidemo (2013-07)(ZeroTeam)[3BM Openair]">
 		<description>3BM 2013 Minidemo (2013-07)(ZeroTeam)[3BM Openair]</description>
 		<rom name="3BM 2013 Minidemo (2013-07)(ZeroTeam)[3BM Openair].tap" size="23345" crc="15d8f522" md5="685c9654631e12d97b1372fcdfb1ccc3" sha1="3b31d4e1ece610d1dfcb73c74e720ade240362d3"/>
+	</game>
+	<game name="3D Chess 2019 (2019)(Arkannoyed)(16K)">
+		<description>3D Chess 2019 (2019)(Arkannoyed)(16K)</description>
+		<rom name="3D Chess 2019 (2019)(Arkannoyed)(16K).tap" size="627" crc="c36ceaa4" md5="934ebce1484716cf2179b0850166166b" sha1="f7cbb4e8a64a881fa02719a5542e37d98bd35118"/>
 	</game>
 	<game name="3D Show (19xx)(Michalak, Jacek)(128K)(PL)(en)">
 		<description>3D Show (19xx)(Michalak, Jacek)(128K)(PL)(en)</description>
@@ -202,6 +222,26 @@
 		<description>9 CHANNELS (2011-08)(MISTER BEEP)[International Vodka Party]</description>
 		<rom name="9 CHANNELS (2011-08)(MISTER BEEP)[International Vodka Party].tap" size="262155" crc="436c4647" md5="18e3852e728c1773c800b16861d1619d" sha1="b28ea4bf2603e363d5485ad1bd374dbf6086efaf"/>
 	</game>
+	<game name="9 may (2016)(Goblin)(128K)(RU)">
+		<description>9 may (2016)(Goblin)(128K)(RU)</description>
+		<rom name="9 may (2016)(Goblin)(128K)(RU).tap" size="86108" crc="36b90e46" md5="d92c9701b6d03d5f1b818f46ff1c35f4" sha1="1db85f38d7345cb1385a8b4c7002216572525d99"/>
+	</game>
+	<game name="9 may (2016)(Goblin)(128K)(RU)[a]">
+		<description>9 may (2016)(Goblin)(128K)(RU)[a]</description>
+		<rom name="9 may (2016)(Goblin)(128K)(RU)[a].tap" size="90046" crc="1a60367c" md5="6ca084c3f88bb5dca01cf65b3a790ac5" sha1="6cb8c835490626f89f70393a7927771523d61210"/>
+	</game>
+	<game name="AMD - AY Music Demo (1992)(Tom's Cracking Service)(48K-128K)(CZ)(en)">
+		<description>AMD - AY Music Demo (1992)(Tom's Cracking Service)(48K-128K)(CZ)(en)</description>
+		<rom name="AMD - AY Music Demo (1992)(Tom's Cracking Service)(48K-128K)(CZ)(en).tap" size="38029" crc="2258f5f9" md5="7602f77459b42376ac2e8e88d35572fd" sha1="1cfc29cd3b560da06853b256124ea48aa52b3c5b"/>
+	</game>
+	<game name="AMD - Second Nail into Coffin (1992)(Tom's Cracking Service)(48K-128K)(CZ)(en)">
+		<description>AMD - Second Nail into Coffin (1992)(Tom's Cracking Service)(48K-128K)(CZ)(en)</description>
+		<rom name="AMD - Second Nail into Coffin (1992)(Tom's Cracking Service)(48K-128K)(CZ)(en).tap" size="18395" crc="edeb81a4" md5="89ac9dd1f6adbac1a0cba6a15274ea53" sha1="b0eb0b282486c02c6dd1ae8be81900dc23afde43"/>
+	</game>
+	<game name="AND it CONTINUEd TO RaIN (2015)(Prince, Lee)[CSSCGC]">
+		<description>AND it CONTINUEd TO RaIN (2015)(Prince, Lee)[CSSCGC]</description>
+		<rom name="AND it CONTINUEd TO RaIN (2015)(Prince, Lee)[CSSCGC].tap" size="1238" crc="bce21f03" md5="eeb7e0f6d1c011eaff32d34958eb7dd0" sha1="1036cede978a0db114b637da29c34079a11d6446"/>
+	</game>
 	<game name="ASC (1996)(Tiger's Claw)(128K)(AT)(en)">
 		<description>ASC (1996)(Tiger's Claw)(128K)(AT)(en)</description>
 		<rom name="ASC (1996)(Tiger's Claw)(128K)(AT)(en).tap" size="22925" crc="90ffbbe6" md5="21e751c2a90abe920e6dbfe67f28436f" sha1="162c176350cf3783c8374db61045818ce81bc07f"/>
@@ -230,17 +270,21 @@
 		<description>Abstraction (1995-09)(Enigma Group)</description>
 		<rom name="Abstraction (1995-09)(Enigma Group).tap" size="170896" crc="785fd82e" md5="27ea982400b7cf25e23ee17342fa9b9a" sha1="9e0d6c1bebca57238bc5cd89995023fb1aadeecb"/>
 	</game>
+	<game name="Accidentally Interactive Transborder Glitch Rights 128b Intro (2022-11)(-)[inerciaDemoparty]">
+		<description>Accidentally Interactive Transborder Glitch Rights 128b Intro (2022-11)(-)[inerciaDemoparty]</description>
+		<rom name="Accidentally Interactive Transborder Glitch Rights 128b Intro (2022-11)(-)[inerciaDemoparty].tap" size="126" crc="9c6b341e" md5="a96c81d06e2a70f1179657d852d158d5" sha1="7d322a54b1f2f8c8d3969818db2e772b93c9bfb3"/>
+	</game>
 	<game name="Acheron (1995-06)(exodus)">
 		<description>Acheron (1995-06)(exodus)</description>
 		<rom name="Acheron (1995-06)(exodus).tap" size="37369" crc="cf4d7945" md5="b0c6c6a136389576b8ee0b719d2b2966" sha1="c38f4c274c01e68c0b735298010eb603c42cd47e"/>
 	</game>
 	<game name="Acid Andy (1994)(United Minds, The)(128K)">
 		<description>Acid Andy (1994)(United Minds, The)(128K)</description>
-		<rom name="Acid Andy (1994)(United Minds, The)(128K).tap" size="14520" crc="5b347b6f" md5="f908447ecfda58edd1644d0b8d335d4d" sha1="469de643b5e8c325d7d373848bf0b3d2373ce18d"/>
+		<rom name="Acid Andy (1994)(United Minds, The)(128K).tap" size="14520" crc="b9a448a1" md5="8ea93e7d4534d72959e7f6860bd324af" sha1="51ff152703f2d076e4aef6a1b596eafd5d253963"/>
 	</game>
 	<game name="Acid Andy (1994)(United Minds, The)(128K)[a]">
 		<description>Acid Andy (1994)(United Minds, The)(128K)[a]</description>
-		<rom name="Acid Andy (1994)(United Minds, The)(128K)[a].tap" size="14520" crc="b9a448a1" md5="8ea93e7d4534d72959e7f6860bd324af" sha1="51ff152703f2d076e4aef6a1b596eafd5d253963"/>
+		<rom name="Acid Andy (1994)(United Minds, The)(128K)[a].tap" size="14520" crc="5b347b6f" md5="f908447ecfda58edd1644d0b8d335d4d" sha1="469de643b5e8c325d7d373848bf0b3d2373ce18d"/>
 	</game>
 	<game name="Acoustic Dreams (1997)(Gasman)(48K-128K)">
 		<description>Acoustic Dreams (1997)(Gasman)(48K-128K)</description>
@@ -254,9 +298,21 @@
 		<description>Actual Sized cow (2009-03)(HOOY-PROGRAM)[Forever]</description>
 		<rom name="Actual Sized cow (2009-03)(HOOY-PROGRAM)[Forever].tap" size="57047" crc="23cbeb0e" md5="47c28bfd3652978d89b354d2a1bcefeb" sha1="3ad8f9fe3bfce488fe5a53c8b9d727bbcd7c663c"/>
 	</game>
+	<game name="Advanced Chuntey Simulator (2003)(Dave the Lurker)[m tzxtools][CSSCGC]">
+		<description>Advanced Chuntey Simulator (2003)(Dave the Lurker)[m tzxtools][CSSCGC]</description>
+		<rom name="Advanced Chuntey Simulator (2003)(Dave the Lurker)[m tzxtools][CSSCGC].tap" size="98324" crc="634853e0" md5="5c67f0f1e5b43d77b1b94f4440764acc" sha1="cd27ea9820c4ad161db11414763ea0fe8feb299b"/>
+	</game>
+	<game name="Advanced Chuntey Simulator (2003)(Dave the Lurker)[m tzxtools][b][CSSCGC]">
+		<description>Advanced Chuntey Simulator (2003)(Dave the Lurker)[m tzxtools][b][CSSCGC]</description>
+		<rom name="Advanced Chuntey Simulator (2003)(Dave the Lurker)[m tzxtools][b][CSSCGC].tap" size="6978" crc="c778cb0d" md5="1d3ec94776cca42e9ec080012d6d01e5" sha1="027655aae5f6ef636d8c496ccbbde01fcab88c5b"/>
+	</game>
 	<game name="Advanced Sex Simulator (1993)(Nikitin, Paul)(RU)(en)[h Pavel Nikitin][adult]">
 		<description>Advanced Sex Simulator (1993)(Nikitin, Paul)(RU)(en)[h Pavel Nikitin][adult]</description>
 		<rom name="Advanced Sex Simulator (1993)(Nikitin, Paul)(RU)(en)[h Pavel Nikitin][adult].tap" size="84884" crc="6f9da4eb" md5="ee03e6de2278c2094f8fee827b7b58ed" sha1="a9bb4ab176ad4f60426a1eac85aa6469d9455976"/>
+	</game>
+	<game name="Advanced ZX81 Simulator (2015)(Prince, Lee)(16K)[CSSCGC]">
+		<description>Advanced ZX81 Simulator (2015)(Prince, Lee)(16K)[CSSCGC]</description>
+		<rom name="Advanced ZX81 Simulator (2015)(Prince, Lee)(16K)[CSSCGC].tap" size="7491" crc="6eb64d8e" md5="9ba0c36207177803c6a06c44b3cb933a" sha1="5bcdefdd569e49ca70e450b2fa3c2f8a7a986afd"/>
 	</game>
 	<game name="Agonia AY Demo (1999-03)(K3L Corp)(128K)(CZ)">
 		<description>Agonia AY Demo (1999-03)(K3L Corp)(128K)(CZ)</description>
@@ -338,9 +394,9 @@
 		<description>Alweer Knudde (19xx)(Knudde)(128K)(NL)[m tzxtools][adult]</description>
 		<rom name="Alweer Knudde (19xx)(Knudde)(128K)(NL)[m tzxtools][adult].tap" size="134064" crc="32a0aa47" md5="6a1f2fc4fef3bbc12d3ff85c80912f3b" sha1="5e5842b9422c6304a6becbe86ada8047eb25ba53"/>
 	</game>
-	<game name="Amiga V1.3 (1991)(Scorpion)(CZ)(en)">
-		<description>Amiga V1.3 (1991)(Scorpion)(CZ)(en)</description>
-		<rom name="Amiga V1.3 (1991)(Scorpion)(CZ)(en).tap" size="4990" crc="4075833e" md5="9e4d0c5e467d28dbb6491cfac3d4ea9c" sha1="cbff321bf2b1c7fa6b97b72675e56379cc9f1b29"/>
+	<game name="Amiga V1.3 Emulator (1991)(Scorpion)(CZ)(en)">
+		<description>Amiga V1.3 Emulator (1991)(Scorpion)(CZ)(en)</description>
+		<rom name="Amiga V1.3 Emulator (1991)(Scorpion)(CZ)(en).tap" size="4990" crc="4075833e" md5="9e4d0c5e467d28dbb6491cfac3d4ea9c" sha1="cbff321bf2b1c7fa6b97b72675e56379cc9f1b29"/>
 	</game>
 	<game name="Amigball (19xx)(-)">
 		<description>Amigball (19xx)(-)</description>
@@ -354,17 +410,13 @@
 		<description>And Don't Say Anything (2010-02)(Olly)[raww.orgy]</description>
 		<rom name="And Don't Say Anything (2010-02)(Olly)[raww.orgy].tap" size="500" crc="9a1a22ec" md5="3c50b7ba858f3235917c03396c585f68" sha1="89cb77312cae53409db4d367935ed1e8f89d1706"/>
 	</game>
-	<game name="And It Continued To Rain (2015)(Prince, Lee)[CSSCGC]">
-		<description>And It Continued To Rain (2015)(Prince, Lee)[CSSCGC]</description>
-		<rom name="And It Continued To Rain (2015)(Prince, Lee)[CSSCGC].tap" size="1238" crc="bce21f03" md5="eeb7e0f6d1c011eaff32d34958eb7dd0" sha1="1036cede978a0db114b637da29c34079a11d6446"/>
-	</game>
 	<game name="Animaniacs (19xx)(Koutsoudis, Anestis)">
 		<description>Animaniacs (19xx)(Koutsoudis, Anestis)</description>
 		<rom name="Animaniacs (19xx)(Koutsoudis, Anestis).tap" size="41865" crc="bb2aa386" md5="be5b8fafb167f0d2b2ff37d42c4350d6" sha1="fae45187fc0cc8cd585edfecb80749ad5a8e956f"/>
 	</game>
-	<game name="Animotor (1995)(Outlet)">
-		<description>Animotor (1995)(Outlet)</description>
-		<rom name="Animotor (1995)(Outlet).tap" size="19378" crc="fbbafdea" md5="b30ba4a8fcc49dd5055825285bf6f13f" sha1="bc694600a0730bbc999b91a7ef7b0e5895228ea2"/>
+	<game name="Animotor (1995)(Chezron)">
+		<description>Animotor (1995)(Chezron)</description>
+		<rom name="Animotor (1995)(Chezron).tap" size="19378" crc="fbbafdea" md5="b30ba4a8fcc49dd5055825285bf6f13f" sha1="bc694600a0730bbc999b91a7ef7b0e5895228ea2"/>
 	</game>
 	<game name="Aniversario (1985)(Oliveira, Henrique de)(pt)[m tzxtools]">
 		<description>Aniversario (1985)(Oliveira, Henrique de)(pt)[m tzxtools]</description>
@@ -397,6 +449,10 @@
 	<game name="Apple Movie, The (1989)(Lords, The)(128K)(NL)(en)">
 		<description>Apple Movie, The (1989)(Lords, The)(128K)(NL)(en)</description>
 		<rom name="Apple Movie, The (1989)(Lords, The)(128K)(NL)(en).tap" size="60325" crc="fe78a965" md5="e1c232066ba622d37f8c343aecd35c1a" sha1="427a5059c58b69a47f2001af91f99cca9e82f27f"/>
+	</game>
+	<game name="Appu (2021-03)(Joker)[Lovebyte]">
+		<description>Appu (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Appu (2021-03)(Joker)[Lovebyte].tap" size="185" crc="233f7980" md5="a855812c0d5c6cf034585e0e3f2862d9" sha1="7c82a1c469e233b11b23430dbe6b02c7afdad668"/>
 	</game>
 	<game name="Aquatic (2014-07)(Gemba Boys)[DiHALT]">
 		<description>Aquatic (2014-07)(Gemba Boys)[DiHALT]</description>
@@ -438,9 +494,9 @@
 		<description>Atari Player (2012)(AAA Band)[Forever]</description>
 		<rom name="Atari Player (2012)(AAA Band)[Forever].tap" size="647585" crc="91c0c1ef" md5="8d70d7ee852792fa5c273c69c6285517" sha1="d45508ffc5231cafbc948255eb0ddde9b4a5fd46"/>
 	</game>
-	<game name="Attribute 2 You (2018)(Carrier, Matthew - Yerzmyey)(48K-128K)">
-		<description>Attribute 2 You (2018)(Carrier, Matthew - Yerzmyey)(48K-128K)</description>
-		<rom name="Attribute 2 You (2018)(Carrier, Matthew - Yerzmyey)(48K-128K).tap" size="15790" crc="39481ff8" md5="4527e6fb274cd70f59551829c65201a5" sha1="7bc483a83554a4f839a4bdd605bf880ae708599f"/>
+	<game name="Attribute 2 You (2018)(Carrier, Matthew)(48K-128K)">
+		<description>Attribute 2 You (2018)(Carrier, Matthew)(48K-128K)</description>
+		<rom name="Attribute 2 You (2018)(Carrier, Matthew)(48K-128K).tap" size="15790" crc="39481ff8" md5="4527e6fb274cd70f59551829c65201a5" sha1="7bc483a83554a4f839a4bdd605bf880ae708599f"/>
 	</game>
 	<game name="Auf Wiedersehen Monty (19xx)(Creative Technology Institute, The)(128K)">
 		<description>Auf Wiedersehen Monty (19xx)(Creative Technology Institute, The)(128K)</description>
@@ -514,6 +570,10 @@
 		<description>Ball, The (19xx)(Semancik, J.)</description>
 		<rom name="Ball, The (19xx)(Semancik, J.).tap" size="5071" crc="281c7934" md5="966345f616b38d7a84903dc7033d50b9" sha1="a5b0aad9a62381a53654a7efb938e706786e9329"/>
 	</game>
+	<game name="Ballad of Lost Happiness (2023-03)(-)">
+		<description>Ballad of Lost Happiness (2023-03)(-)</description>
+		<rom name="Ballad of Lost Happiness (2023-03)(-).tap" size="9000" crc="807ee23a" md5="c852f6fb11512cbddd1794a0fa088be6" sha1="7f50ac6521aeca73fb21b2054932603c1f41618d"/>
+	</game>
 	<game name="Ballagan (2002-04)(Brutal Creators)[Ascii]">
 		<description>Ballagan (2002-04)(Brutal Creators)[Ascii]</description>
 		<rom name="Ballagan (2002-04)(Brutal Creators)[Ascii].tap" size="3386" crc="bfd0c966" md5="344a956c050c8212e9d00732ef959501" sha1="e285cfc1d7488560a7373e74e98147c7f704b6b2"/>
@@ -529,6 +589,10 @@
 	<game name="Bandersnatch Extra (2018)(Westcott, Matthew)[m tzxtools]">
 		<description>Bandersnatch Extra (2018)(Westcott, Matthew)[m tzxtools]</description>
 		<rom name="Bandersnatch Extra (2018)(Westcott, Matthew)[m tzxtools].tap" size="1781" crc="7d752f06" md5="7e0fa7edc47686bb3473f0b60d5b7318" sha1="e28b2920ea6e5f6a51909605159b59fe1bcb5052"/>
+	</game>
+	<game name="Bars (2021-02)(g0blinish)[Chaos Constructions Winter]">
+		<description>Bars (2021-02)(g0blinish)[Chaos Constructions Winter]</description>
+		<rom name="Bars (2021-02)(g0blinish)[Chaos Constructions Winter].tap" size="553" crc="09226bf2" md5="b350e50011ccd1478d11aceef18fdb54" sha1="adedb55b326ef8e875c59857df69d299aea6832d"/>
 	</game>
 	<game name="Base Bord Beep (2015-11)(Pertsovsky, Misha)[BASE-X]">
 		<description>Base Bord Beep (2015-11)(Pertsovsky, Misha)[BASE-X]</description>
@@ -549,6 +613,10 @@
 	<game name="Beatles Mix - The C.G.L. '89 Mega Mix, The (1989)(Coolguys)">
 		<description>Beatles Mix - The C.G.L. '89 Mega Mix, The (1989)(Coolguys)</description>
 		<rom name="Beatles Mix - The C.G.L. '89 Mega Mix, The (1989)(Coolguys).tap" size="49652" crc="8352cd08" md5="dd3c42bed0ed133939c018f8d8cab368" sha1="c8640f225b2fe44868e9229c1d6f5af8f8ca0e05"/>
+	</game>
+	<game name="Beauty In 15b (2021-03)(Joker)[Lovebyte]">
+		<description>Beauty In 15b (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Beauty In 15b (2021-03)(Joker)[Lovebyte].tap" size="116" crc="bc347da8" md5="103fe8d26e77aebaa069ec438c3a0c6a" sha1="fbca49ebca0ac3e00a7de00ac87b909b56a5c70d"/>
 	</game>
 	<game name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)[m tzxtools]">
 		<description>Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)[m tzxtools]</description>
@@ -582,17 +650,17 @@
 		<description>Big Fish 5 (1992)(DMJ)(128K)(PL)(en)</description>
 		<rom name="Big Fish 5 (1992)(DMJ)(128K)(PL)(en).tap" size="36773" crc="02ba9e65" md5="876902dc7a8a0ef5bbcaf8f1715acc21" sha1="29f847eb72afb727fc2f759e8a6e187a7afd6c58"/>
 	</game>
-	<game name="Big Shit (1987)(Hacker Chris)(PL)(en)">
-		<description>Big Shit (1987)(Hacker Chris)(PL)(en)</description>
-		<rom name="Big Shit (1987)(Hacker Chris)(PL)(en).tap" size="22677" crc="d1e9e95e" md5="14c21fbca6859578af8aa7fc1413c460" sha1="f1825f837cd23b9d87b2de95a72172d13937f991"/>
+	<game name="Big Shit 3 (1987)(Hacker Chris)(PL)(en)">
+		<description>Big Shit 3 (1987)(Hacker Chris)(PL)(en)</description>
+		<rom name="Big Shit 3 (1987)(Hacker Chris)(PL)(en).tap" size="22677" crc="d1e9e95e" md5="14c21fbca6859578af8aa7fc1413c460" sha1="f1825f837cd23b9d87b2de95a72172d13937f991"/>
 	</game>
 	<game name="Big Things LITE (2015-09)(speccy.pl)[Riverwash]">
 		<description>Big Things LITE (2015-09)(speccy.pl)[Riverwash]</description>
 		<rom name="Big Things LITE (2015-09)(speccy.pl)[Riverwash].tap" size="12522" crc="350701ad" md5="1253d6e7bb2abf2408c4adc4adc53c3f" sha1="d980047a68c7724b4cb010e192cd7659933d6c54"/>
 	</game>
-	<game name="Bim-Bam (1992)(Outlet)(128K)(GB)(en-pl)">
-		<description>Bim-Bam (1992)(Outlet)(128K)(GB)(en-pl)</description>
-		<rom name="Bim-Bam (1992)(Outlet)(128K)(GB)(en-pl).tap" size="17242" crc="1dca01e8" md5="36d014b9058cb9370a3aefc1e19ddb19" sha1="f79de57c1a71adbd96a5ede952cb6db30f5b619b"/>
+	<game name="Bim-Bam (1992)(Chezron)(128K)(GB)(en-pl)">
+		<description>Bim-Bam (1992)(Chezron)(128K)(GB)(en-pl)</description>
+		<rom name="Bim-Bam (1992)(Chezron)(128K)(GB)(en-pl).tap" size="17242" crc="1dca01e8" md5="36d014b9058cb9370a3aefc1e19ddb19" sha1="f79de57c1a71adbd96a5ede952cb6db30f5b619b"/>
 	</game>
 	<game name="Binary Counter Defense (2008-06)(gasman)">
 		<description>Binary Counter Defense (2008-06)(gasman)</description>
@@ -605,6 +673,10 @@
 	<game name="BitStreams 01 (2013-07)(ZeroTeam)">
 		<description>BitStreams 01 (2013-07)(ZeroTeam)</description>
 		<rom name="BitStreams 01 (2013-07)(ZeroTeam).tap" size="9263" crc="06363c1f" md5="56e37c6685262b8db5ee1801d90dd0c6" sha1="70bcc03fe67c7f27221ed8e536c714671b9e3e56"/>
+	</game>
+	<game name="Bitplane Revolution (2022-05)(bitshifters collective)[Outline]">
+		<description>Bitplane Revolution (2022-05)(bitshifters collective)[Outline]</description>
+		<rom name="Bitplane Revolution (2022-05)(bitshifters collective)[Outline].tap" size="395" crc="1d1ed11e" md5="df493537033e5bac9ae9dd3ea1da53ad" sha1="9cc0fd05e78867a0501292c62c0bb9ec24b3e560"/>
 	</game>
 	<game name="Bizarre Construction (1997-07)(Extreme)(128K)(RU)(en)[Enlight]">
 		<description>Bizarre Construction (1997-07)(Extreme)(128K)(RU)(en)[Enlight]</description>
@@ -637,6 +709,10 @@
 	<game name="Bloomerang (2014-05)(HOOY-PROGRAM)[Outline]">
 		<description>Bloomerang (2014-05)(HOOY-PROGRAM)[Outline]</description>
 		<rom name="Bloomerang (2014-05)(HOOY-PROGRAM)[Outline].tap" size="249" crc="6de9003b" md5="187480322b3d4a1fb85c9c234243bbb2" sha1="e7d94dcf1d466892dea4db1b4c7393c804e045e7"/>
+	</game>
+	<game name="Blueprint (2021-05)(Marquee Design)[Outline]">
+		<description>Blueprint (2021-05)(Marquee Design)[Outline]</description>
+		<rom name="Blueprint (2021-05)(Marquee Design)[Outline].tap" size="273" crc="7dc7b4a4" md5="93a3f941132e90f2a93e3b8aec254e6e" sha1="7046cb32c46a1249450ba49d2cbd054a0f7a4f0b"/>
 	</game>
 	<game name="Boas Festas (19xx)(Oliveira, Henrique de)(pt)[m tzxtools]">
 		<description>Boas Festas (19xx)(Oliveira, Henrique de)(pt)[m tzxtools]</description>
@@ -673,6 +749,10 @@
 	<game name="Bottles (2007-02)(ZeroTeam)[raww.orgy]">
 		<description>Bottles (2007-02)(ZeroTeam)[raww.orgy]</description>
 		<rom name="Bottles (2007-02)(ZeroTeam)[raww.orgy].tap" size="351" crc="f9b6965c" md5="b2747dc193dc4cadb1198282d6a77fbb" sha1="69bd3a56ba94dfdd5a04d4d045cae2488f91a5c2"/>
+	</game>
+	<game name="Bouncing Dot (2022-11)(-)[inerciaDemoparty]">
+		<description>Bouncing Dot (2022-11)(-)[inerciaDemoparty]</description>
+		<rom name="Bouncing Dot (2022-11)(-)[inerciaDemoparty].tap" size="733" crc="dcee7d8a" md5="fb4d7749dc97da216ba8517a4b575b60" sha1="5f34ca7fd5b22c0ebbaf37e16cbedb856b02720f"/>
 	</game>
 	<game name="Brag (1994)(Dream Makers)(128K)(BY)(en)">
 		<description>Brag (1994)(Dream Makers)(128K)(BY)(en)</description>
@@ -748,11 +828,11 @@
 	</game>
 	<game name="Bunch of Arse (1999-09)(Icabod)(128K)[PHAT][aka BoA]">
 		<description>Bunch of Arse (1999-09)(Icabod)(128K)[PHAT][aka BoA]</description>
-		<rom name="Bunch of Arse (1999-09)(Icabod)(128K)[PHAT][aka BoA].tap" size="23553" crc="e4c7f481" md5="1a0ed91cb3e75ade1d14ae6a4866b0f8" sha1="27a5e98224abd2ddf0f448c0c43cebc52196cd79"/>
+		<rom name="Bunch of Arse (1999-09)(Icabod)(128K)[PHAT][aka BoA].tap" size="18901" crc="4cbd2a65" md5="98b244b34adb79c4e5c838d24404c9b6" sha1="25b028999fbed917a9682c7e93476e718454085e"/>
 	</game>
 	<game name="Bunch of Arse (1999-09)(Icabod)(128K)[a][PHAT][aka BoA]">
 		<description>Bunch of Arse (1999-09)(Icabod)(128K)[a][PHAT][aka BoA]</description>
-		<rom name="Bunch of Arse (1999-09)(Icabod)(128K)[a][PHAT][aka BoA].tap" size="18901" crc="4cbd2a65" md5="98b244b34adb79c4e5c838d24404c9b6" sha1="25b028999fbed917a9682c7e93476e718454085e"/>
+		<rom name="Bunch of Arse (1999-09)(Icabod)(128K)[a][PHAT][aka BoA].tap" size="23553" crc="e4c7f481" md5="1a0ed91cb3e75ade1d14ae6a4866b0f8" sha1="27a5e98224abd2ddf0f448c0c43cebc52196cd79"/>
 	</game>
 	<game name="Bura - Hokus Pokes Megademo - Hocus Pokus (19xx)(Flash)(128K)(RU)(en)">
 		<description>Bura - Hokus Pokes Megademo - Hocus Pokus (19xx)(Flash)(128K)(RU)(en)</description>
@@ -765,6 +845,10 @@
 	<game name="Busygift (1996-03)(phantasy)">
 		<description>Busygift (1996-03)(phantasy)</description>
 		<rom name="Busygift (1996-03)(phantasy).tap" size="17460" crc="cad26bcd" md5="698f5f2a423baa5c0425851258902f93" sha1="7683aa7d3cf8336b67aecebac95ffe113f20aee1"/>
+	</game>
+	<game name="Buttfast (2022-02)(Serzhsoft)">
+		<description>Buttfast (2022-02)(Serzhsoft)</description>
+		<rom name="Buttfast (2022-02)(Serzhsoft).tap" size="610" crc="cb536e0f" md5="9057ee8691ed8421b46b49418f36a832" sha1="389adea7e18dd87efe9fbd9d82c1d27f1454d0eb"/>
 	</game>
 	<game name="Bye Bye (1996)(Mr. Incognito)(128K)">
 		<description>Bye Bye (1996)(Mr. Incognito)(128K)</description>
@@ -781,6 +865,14 @@
 	<game name="C2H5OH (1999-08)(Serzhsoft)[Cafe]">
 		<description>C2H5OH (1999-08)(Serzhsoft)[Cafe]</description>
 		<rom name="C2H5OH (1999-08)(Serzhsoft)[Cafe].tap" size="4363" crc="34a28b91" md5="50e5350fe4569c6f79f212696982d0aa" sha1="78449b4faf2f62a0b798c752d0056a9e4d40770a"/>
+	</game>
+	<game name="CAFE X.O. (2022-10)(Mayhem)[CAFe]">
+		<description>CAFE X.O. (2022-10)(Mayhem)[CAFe]</description>
+		<rom name="CAFE X.O. (2022-10)(Mayhem)[CAFe].tap" size="655360" crc="10c4d835" md5="cc153ef2909dc2e8321de27cefeaf077" sha1="7a9d6677dc7d979a092d5fa0bf807a01cb54d306"/>
+	</game>
+	<game name="CAFe GFX (2022-11)(RMDA)[inerciaDemoparty]">
+		<description>CAFe GFX (2022-11)(RMDA)[inerciaDemoparty]</description>
+		<rom name="CAFe GFX (2022-11)(RMDA)[inerciaDemoparty].tap" size="46262" crc="07ad5cd1" md5="22516c32a114691814a76b4b740c08a4" sha1="e414999421eeabff57df0c42d2640deb1261e40b"/>
 	</game>
 	<game name="CANNON BALL (19xx)(HOOY-PROGRAM)(128K)">
 		<description>CANNON BALL (19xx)(HOOY-PROGRAM)(128K)</description>
@@ -910,6 +1002,10 @@
 		<description>Cells (2015-08)(g0blinish)[Chaos Constructions]</description>
 		<rom name="Cells (2015-08)(g0blinish)[Chaos Constructions].tap" size="1061" crc="2d573398" md5="989fd00638f0c4888147321666621057" sha1="9f633b9fc5acbd1a57233fa0ef48d0d9b903628d"/>
 	</game>
+	<game name="Celtic Knots (2022)(Dunn, Paul)">
+		<description>Celtic Knots (2022)(Dunn, Paul)</description>
+		<rom name="Celtic Knots (2022)(Dunn, Paul).tap" size="4709" crc="76d8e14b" md5="f0e2bdf1d958baab7c0de2676842758a" sha1="d8105b0d8c71c7490f3194df335f4be91f54c614"/>
+	</game>
 	<game name="Cerebral (1995)(United Minds, The)(128K)">
 		<description>Cerebral (1995)(United Minds, The)(128K)</description>
 		<rom name="Cerebral (1995)(United Minds, The)(128K).tap" size="88352" crc="22243e00" md5="f719a8b7565e02e532d7d458b820c8f1" sha1="0fd075d63bcfb7667cf124c5b7586fd95b2d15b6"/>
@@ -930,9 +1026,17 @@
 		<description>Chaos Constructions 999 Dentro (1999-04)(Digital Reality)</description>
 		<rom name="Chaos Constructions 999 Dentro (1999-04)(Digital Reality).tap" size="60101" crc="becae4b9" md5="0fdad1d6650fa79ad4817139d169a2ef" sha1="301210ef2cb78bc3ea63fdbb5f4604448da7bbb0"/>
 	</game>
+	<game name="Chaos In My Mind (2022-10)(g0blinish)[CAFe]">
+		<description>Chaos In My Mind (2022-10)(g0blinish)[CAFe]</description>
+		<rom name="Chaos In My Mind (2022-10)(g0blinish)[CAFe].tap" size="1321" crc="0a33ef6f" md5="f4fa82ec1f8543ea9b25dd95d6a91c24" sha1="aeed49d43e19784456a30b8f797631a92e2f3a98"/>
+	</game>
 	<game name="Chaosscr (1985)(Pera Putnik)(YU)(en)[m tzxtools]">
 		<description>Chaosscr (1985)(Pera Putnik)(YU)(en)[m tzxtools]</description>
 		<rom name="Chaosscr (1985)(Pera Putnik)(YU)(en)[m tzxtools].tap" size="9590" crc="bf0e076d" md5="cfdbc6d59ec0b5d964203ba5ff6bd92c" sha1="f1bcba56cfbcb1b03e273ad9b6a5c91a6b164377"/>
+	</game>
+	<game name="Cheeeese (2021-03)(Joker)[Lovebyte]">
+		<description>Cheeeese (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Cheeeese (2021-03)(Joker)[Lovebyte].tap" size="373" crc="177e2de9" md5="6f616f811cc74df795fa9906aff1651d" sha1="46e7cd93a4cd613c6b805db63d1e407e22761f8e"/>
 	</game>
 	<game name="Chess-Board of Madness (2008-02)(Debris)[raww.orgy]">
 		<description>Chess-Board of Madness (2008-02)(Debris)[raww.orgy]</description>
@@ -978,6 +1082,10 @@
 		<description>Christmas Demo 2010 (2010)(HOOY-PROGRAM)</description>
 		<rom name="Christmas Demo 2010 (2010)(HOOY-PROGRAM).tap" size="26358" crc="18744b5b" md5="4ebe6b62b0d2a146f1f054623ef41225" sha1="dbbfc1d798b1f31a70e222507670bed0040bef45"/>
 	</game>
+	<game name="Chunk (2021-03)(Joker)[Lovebyte]">
+		<description>Chunk (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Chunk (2021-03)(Joker)[Lovebyte].tap" size="249" crc="0a9d5237" md5="16a136547735e50d3af810382bcfcb60" sha1="513c2ec5aa66d8d62c1e37bda5dc39647f8613e5"/>
+	</game>
 	<game name="Circlelusions (1998-08)(Speccy Boyz)(128K)(SK)(en)[Doxycon]">
 		<description>Circlelusions (1998-08)(Speccy Boyz)(128K)(SK)(en)[Doxycon]</description>
 		<rom name="Circlelusions (1998-08)(Speccy Boyz)(128K)(SK)(en)[Doxycon].tap" size="14860" crc="cb0fac4b" md5="da7debcc764cbdfd587d2c2a3d6744c6" sha1="2d90ecf6ade64944015bf06c956e2bb1c0468e74"/>
@@ -1014,9 +1122,9 @@
 		<description>Clot 4K (1998)(Image Crew)(128K)(RU)(en)</description>
 		<rom name="Clot 4K (1998)(Image Crew)(128K)(RU)(en).tap" size="4310" crc="32fbb906" md5="3b214248e7528d150876a56bc3707f42" sha1="9ad3cff7efc5f69dbab4979b31dd98cf1f64d0fd"/>
 	</game>
-	<game name="Cls32b (2018)(g0blinish)">
-		<description>Cls32b (2018)(g0blinish)</description>
-		<rom name="Cls32b (2018)(g0blinish).tap" size="135" crc="78d5a899" md5="b110050ca9c8d2b845d00ad8fcda4118" sha1="2e1b32cace48be9a3d709f5270412a8dc251b7b3"/>
+	<game name="Cls32b (2018)(g0blinish)(RU)(en)">
+		<description>Cls32b (2018)(g0blinish)(RU)(en)</description>
+		<rom name="Cls32b (2018)(g0blinish)(RU)(en).tap" size="135" crc="78d5a899" md5="b110050ca9c8d2b845d00ad8fcda4118" sha1="2e1b32cace48be9a3d709f5270412a8dc251b7b3"/>
 	</game>
 	<game name="Cockshow (19xx)(-)[adult]">
 		<description>Cockshow (19xx)(-)[adult]</description>
@@ -1026,6 +1134,10 @@
 		<description>Cockshow Demo (19xx)(Theo Devil)(128K)(GR)(en)[adult]</description>
 		<rom name="Cockshow Demo (19xx)(Theo Devil)(128K)(GR)(en)[adult].tap" size="36480" crc="1516ab96" md5="9e688cdc6c3ab6882236780e94b8c366" sha1="1a21d2a518b9a24d801826b3ef5970b969ca1c56"/>
 	</game>
+	<game name="Code Not War (2022-07)(-)[Edison]">
+		<description>Code Not War (2022-07)(-)[Edison]</description>
+		<rom name="Code Not War (2022-07)(-)[Edison].tap" size="137" crc="ce2692b2" md5="70e55ac1f56be93a2227638f2787fc5d" sha1="66f36503bce312eb0de3a68ab8bdf7b1b23595cc"/>
+	</game>
 	<game name="Codephobia (2002-04)(ZeroTeam)[Forever]">
 		<description>Codephobia (2002-04)(ZeroTeam)[Forever]</description>
 		<rom name="Codephobia (2002-04)(ZeroTeam)[Forever].tap" size="19402" crc="615ef3e3" md5="8dc524b77c1c636d4ae3e33c214c249f" sha1="ac6a0719f510d21bc4d3d8226b99b626acaff066"/>
@@ -1034,9 +1146,17 @@
 		<description>Collected Works (1989)(Lords, The)(48K-128K)(NL)(en)</description>
 		<rom name="Collected Works (1989)(Lords, The)(48K-128K)(NL)(en).tap" size="75621" crc="7e34033c" md5="374a9dd714c01f11432d003b4fc1ebc5" sha1="86a47415f23b6d43f890f6a105e9a510fc403695"/>
 	</game>
+	<game name="Collected Works (1989)(Lords, The)(48K-128K)(NL)(en)[a]">
+		<description>Collected Works (1989)(Lords, The)(48K-128K)(NL)(en)[a]</description>
+		<rom name="Collected Works (1989)(Lords, The)(48K-128K)(NL)(en)[a].tap" size="33818" crc="26065637" md5="942e226e7cf09690a2886d64bafbf97b" sha1="403ed8c85973b0dc4c8994d4b41348b3b7629736"/>
+	</game>
 	<game name="Color Waves (2015-04)(kotsoft)[Multimatograf]">
 		<description>Color Waves (2015-04)(kotsoft)[Multimatograf]</description>
 		<rom name="Color Waves (2015-04)(kotsoft)[Multimatograf].tap" size="563" crc="8bcd9c9e" md5="f77f954dfda59d5969e16d7ed009b275" sha1="19d16d084bf66527af1abe36873a88581838fbe2"/>
+	</game>
+	<game name="Color en Alta Resolucion (1987)(MicroHobby)(ES)">
+		<description>Color en Alta Resolucion (1987)(MicroHobby)(ES)</description>
+		<rom name="Color en Alta Resolucion (1987)(MicroHobby)(ES).tap" size="1193" crc="e77e39db" md5="c79b83734893a5aeb7bb7524355ba8b6" sha1="878cef3809f8b16a1dc9be058a756ecd4ebf9730"/>
 	</game>
 	<game name="Colorbepp 2 (2015-05)(Irrlicht Project)[Outline]">
 		<description>Colorbepp 2 (2015-05)(Irrlicht Project)[Outline]</description>
@@ -1045,6 +1165,10 @@
 	<game name="Colormesh (2019)(speccy.pl)">
 		<description>Colormesh (2019)(speccy.pl)</description>
 		<rom name="Colormesh (2019)(speccy.pl).tap" size="336" crc="4a73c6b7" md5="3215f953d2a19352af4a9fa7ba98bf26" sha1="a4410d6f39b86f5fbc15856e12915ed9c20fb9fc"/>
+	</game>
+	<game name="Colour rain (2022-04)(ZeroTeam)[speccy.pl party]">
+		<description>Colour rain (2022-04)(ZeroTeam)[speccy.pl party]</description>
+		<rom name="Colour rain (2022-04)(ZeroTeam)[speccy.pl party].tap" size="335" crc="c726075b" md5="e89c9b021b7aa45e548fbc8d98a75584" sha1="6216ee9fced2b71420f3768f2eae151b4cbe2a11"/>
 	</game>
 	<game name="Columix (2014-11)(ZeroTeam)[JHCon]">
 		<description>Columix (2014-11)(ZeroTeam)[JHCon]</description>
@@ -1062,6 +1186,10 @@
 		<description>Confusion (1998-04)(ETC Group)</description>
 		<rom name="Confusion (1998-04)(ETC Group).tap" size="158133" crc="1aac3a5d" md5="e723b01760de5e5862b7117045a5cfc5" sha1="320a668efb70fff64cd76043530f6623f5e82234"/>
 	</game>
+	<game name="Contention Colours (2021)(CrisiSofT)(16K)(NL)(en)">
+		<description>Contention Colours (2021)(CrisiSofT)(16K)(NL)(en)</description>
+		<rom name="Contention Colours (2021)(CrisiSofT)(16K)(NL)(en).tap" size="3460" crc="9d3013d4" md5="b852687e96dad504f86e7cb061ff8cce" sha1="6ffa2330b8562db43420c2399327bfe4ea12b09e"/>
+	</game>
 	<game name="Cool Cliff (1995)(Cliffy T)(48K-128K)">
 		<description>Cool Cliff (1995)(Cliffy T)(48K-128K)</description>
 		<rom name="Cool Cliff (1995)(Cliffy T)(48K-128K).tap" size="20380" crc="3a4ff66f" md5="a8134db01ca454e89af50059368e8a06" sha1="2bd8401bce964f321074544ec52ea6889e677190"/>
@@ -1078,9 +1206,9 @@
 		<description>Copper L!nes (2008-02)(Debris)[raww.orgy]</description>
 		<rom name="Copper L!nes (2008-02)(Debris)[raww.orgy].tap" size="325" crc="85f09d24" md5="d73e4aa111b5131bcdf9390921799823" sha1="213daf04a2f3e1feb96ae71dd0bbfc9f6a667241"/>
 	</game>
-	<game name="Corona-Chan's Existential Christmas Crisis (2020)(Waterman, Jim)[m tzxtools]">
-		<description>Corona-Chan's Existential Christmas Crisis (2020)(Waterman, Jim)[m tzxtools]</description>
-		<rom name="Corona-Chan's Existential Christmas Crisis (2020)(Waterman, Jim)[m tzxtools].tap" size="20198" crc="69b3d0bc" md5="7e4e16c0128ecc02887f438c29839471" sha1="01d289851fb5fc9de8d85713949a833421b61862"/>
+	<game name="Corona-Chan's Existential Christmas Crisis (2020)(Stonechat Productions)[m tzxtools]">
+		<description>Corona-Chan's Existential Christmas Crisis (2020)(Stonechat Productions)[m tzxtools]</description>
+		<rom name="Corona-Chan's Existential Christmas Crisis (2020)(Stonechat Productions)[m tzxtools].tap" size="20198" crc="69b3d0bc" md5="7e4e16c0128ecc02887f438c29839471" sha1="01d289851fb5fc9de8d85713949a833421b61862"/>
 	</game>
 	<game name="Cowina (2014-11)(Busy - Equinox)[JHCon]">
 		<description>Cowina (2014-11)(Busy - Equinox)[JHCon]</description>
@@ -1130,13 +1258,17 @@
 		<description>Cube, The (1997-08)(TGM Crew)(128K)(CZ)(en)</description>
 		<rom name="Cube, The (1997-08)(TGM Crew)(128K)(CZ)(en).tap" size="79330" crc="b898b054" md5="4160cf962451a041d500478270b21aeb" sha1="6f50ae3893ad55c8a484b091878a1e981af08ee8"/>
 	</game>
-	<game name="Cubeish Preview (2018)(John Dalthon)">
-		<description>Cubeish Preview (2018)(John Dalthon)</description>
-		<rom name="Cubeish Preview (2018)(John Dalthon).tap" size="596" crc="49ada281" md5="3b3888e57038dffc9c5e46d897409a76" sha1="4a7f1885981577617eb32ac9d051d6512c64124b"/>
+	<game name="Cubeish Preview (2018)(John Dalthon)(PL)(en)">
+		<description>Cubeish Preview (2018)(John Dalthon)(PL)(en)</description>
+		<rom name="Cubeish Preview (2018)(John Dalthon)(PL)(en).tap" size="596" crc="49ada281" md5="3b3888e57038dffc9c5e46d897409a76" sha1="4a7f1885981577617eb32ac9d051d6512c64124b"/>
 	</game>
-	<game name="DJ Television (19xx)(Load 'n' Run)(IT)(en)">
-		<description>DJ Television (19xx)(Load 'n' Run)(IT)(en)</description>
-		<rom name="DJ Television (19xx)(Load 'n' Run)(IT)(en).tap" size="46973" crc="a3c7a78c" md5="18577f573bd48f468b6172783e3e0b74" sha1="b0ea356fb02a5acc3931e8bfb8c6152e17e76630"/>
+	<game name="Cubelon (2022-07)(Darklite)[Black Valley]">
+		<description>Cubelon (2022-07)(Darklite)[Black Valley]</description>
+		<rom name="Cubelon (2022-07)(Darklite)[Black Valley].tap" size="49277" crc="140e44ec" md5="b4e5a94456b65656616d29ed0693c93f" sha1="cec9469becf689e5e6414a3d8803cd01089bed71"/>
+	</game>
+	<game name="DJ Television (1986)(Load 'n' Run)(IT)(en)">
+		<description>DJ Television (1986)(Load 'n' Run)(IT)(en)</description>
+		<rom name="DJ Television (1986)(Load 'n' Run)(IT)(en).tap" size="46973" crc="a3c7a78c" md5="18577f573bd48f468b6172783e3e0b74" sha1="b0ea356fb02a5acc3931e8bfb8c6152e17e76630"/>
 	</game>
 	<game name="DMC Demo 07 (1990)(Mad Guys, The)">
 		<description>DMC Demo 07 (1990)(Mad Guys, The)</description>
@@ -1158,6 +1290,10 @@
 		<description>Dada Demo (19xx)(Busy)(128K)(SK)(en)</description>
 		<rom name="Dada Demo (19xx)(Busy)(128K)(SK)(en).tap" size="14903" crc="fa9be055" md5="6f3c7096ebdd05bc7ac6e4765adc8fdc" sha1="289ef351f38e78d13db97eaa54225e17fa26fca8"/>
 	</game>
+	<game name="Dalthonizm (2021-08)(Joker)[Xenium]">
+		<description>Dalthonizm (2021-08)(Joker)[Xenium]</description>
+		<rom name="Dalthonizm (2021-08)(Joker)[Xenium].tap" size="16842" crc="8a882328" md5="568d2e3a279ed0b78be7bf9a757e4be1" sha1="eedbcfe13666e0a67ec3f58596d4af8a989cd102"/>
+	</game>
 	<game name="Daningy (1999-03)(Razzlers !)[Chaos Constructions]">
 		<description>Daningy (1999-03)(Razzlers !)[Chaos Constructions]</description>
 		<rom name="Daningy (1999-03)(Razzlers !)[Chaos Constructions].tap" size="626" crc="3b289e20" md5="51b6f52199d44ab8e51e237d2cd98840" sha1="3701c5ae21e3261fce9d7154e266cce23cd757fc"/>
@@ -1177,6 +1313,10 @@
 	<game name="De-Jarre-Vu (1995)(Icabod)(128K)">
 		<description>De-Jarre-Vu (1995)(Icabod)(128K)</description>
 		<rom name="De-Jarre-Vu (1995)(Icabod)(128K).tap" size="50005" crc="b41f09a9" md5="cc528711b690a10cba4fed4ed873d992" sha1="607b5b50a92fc21b94eff57b3806025264e7dab0"/>
+	</game>
+	<game name="Dead Face of Black Dalia (2022-02)(Joker)[Lovebyte]">
+		<description>Dead Face of Black Dalia (2022-02)(Joker)[Lovebyte]</description>
+		<rom name="Dead Face of Black Dalia (2022-02)(Joker)[Lovebyte].tap" size="363" crc="b044a154" md5="7f1ce7a7705b3337cb17699f6504b563" sha1="e786c6ba73140a8fdf7245d77f9bcc029121e7bd"/>
 	</game>
 	<game name="Debut (1993)(Convention)(128K)">
 		<description>Debut (1993)(Convention)(128K)</description>
@@ -1270,13 +1410,13 @@
 		<description>Destiny Sounds (1992)(KVM)</description>
 		<rom name="Destiny Sounds (1992)(KVM).tap" size="21788" crc="0ba8afe1" md5="d7d33e513381d12f1534a04b2f79bf64" sha1="ad6b13af2b4ab956fdf0d172dfb3474db2ab8e67"/>
 	</game>
-	<game name="Destructor Mortal (1994)(OSG)(128K)">
-		<description>Destructor Mortal (1994)(OSG)(128K)</description>
-		<rom name="Destructor Mortal (1994)(OSG)(128K).tap" size="68656" crc="dac620b7" md5="eacb8af1e14bd3d552005b157cbe5f19" sha1="5c7b58cf20f4d1ab8c4b8136c2238ddd9dade163"/>
+	<game name="Destructor Mortal (1994)(-)(128K)">
+		<description>Destructor Mortal (1994)(-)(128K)</description>
+		<rom name="Destructor Mortal (1994)(-)(128K).tap" size="68656" crc="dac620b7" md5="eacb8af1e14bd3d552005b157cbe5f19" sha1="5c7b58cf20f4d1ab8c4b8136c2238ddd9dade163"/>
 	</game>
-	<game name="Destructor Mortal (1994)(OSG)">
-		<description>Destructor Mortal (1994)(OSG)</description>
-		<rom name="Destructor Mortal (1994)(OSG).tap" size="8519" crc="9ac9fa3a" md5="cb59112cccae99693968fa23e3be257f" sha1="2d6d68fa5fd991613711bf649ab3b6edee1544e3"/>
+	<game name="Destructor Mortal (1994)(-)">
+		<description>Destructor Mortal (1994)(-)</description>
+		<rom name="Destructor Mortal (1994)(-).tap" size="8519" crc="9ac9fa3a" md5="cb59112cccae99693968fa23e3be257f" sha1="2d6d68fa5fd991613711bf649ab3b6edee1544e3"/>
 	</game>
 	<game name="Devil's Curse (19xx)(HCS)">
 		<description>Devil's Curse (19xx)(HCS)</description>
@@ -1298,13 +1438,17 @@
 		<description>Dice (1994)(ESA)</description>
 		<rom name="Dice (1994)(ESA).tap" size="14420" crc="1ca338dd" md5="a1d1f55fc39c4460b394f119514788fe" sha1="e9000f897b33b65d2074610f51099bd970e6e1d5"/>
 	</game>
+	<game name="Dice Legends Prototype (2022-10)(RetroSouls)[CAFe]">
+		<description>Dice Legends Prototype (2022-10)(RetroSouls)[CAFe]</description>
+		<rom name="Dice Legends Prototype (2022-10)(RetroSouls)[CAFe].tap" size="65247" crc="7398ca28" md5="0403c88bb78b6eb88b8dcbca3c2f300a" sha1="39196e9c6c3d463b923072fb620c321e3a6cb8b8"/>
+	</game>
 	<game name="Dies Irae (1996-08)(Exodus)(128K)(PL)(en)">
 		<description>Dies Irae (1996-08)(Exodus)(128K)(PL)(en)</description>
-		<rom name="Dies Irae (1996-08)(Exodus)(128K)(PL)(en).tap" size="91011" crc="8b1504b0" md5="61b06b1d7810aab1c52c97838d96dd42" sha1="068e5ff2ab79c7fbe556059f0c30465d2ece92c3"/>
+		<rom name="Dies Irae (1996-08)(Exodus)(128K)(PL)(en).tap" size="91008" crc="774ea621" md5="42d174657ab9d87567170570ce0907ba" sha1="a85fbde29f1623450e896d27ac825fe1be7330ff"/>
 	</game>
 	<game name="Dies Irae (1996-08)(Exodus)(128K)(PL)(en)[a]">
 		<description>Dies Irae (1996-08)(Exodus)(128K)(PL)(en)[a]</description>
-		<rom name="Dies Irae (1996-08)(Exodus)(128K)(PL)(en)[a].tap" size="91008" crc="774ea621" md5="42d174657ab9d87567170570ce0907ba" sha1="a85fbde29f1623450e896d27ac825fe1be7330ff"/>
+		<rom name="Dies Irae (1996-08)(Exodus)(128K)(PL)(en)[a].tap" size="91011" crc="8b1504b0" md5="61b06b1d7810aab1c52c97838d96dd42" sha1="068e5ff2ab79c7fbe556059f0c30465d2ece92c3"/>
 	</game>
 	<game name="Dig-it (2000-08)(3SC)[ZX Party]">
 		<description>Dig-it (2000-08)(3SC)[ZX Party]</description>
@@ -1414,9 +1558,9 @@
 		<description>Dotage (1999-03)(Accept Corp)[Paradox]</description>
 		<rom name="Dotage (1999-03)(Accept Corp)[Paradox].tap" size="4152" crc="7c2bf822" md5="5cfe2d72fe2cf1fd5297b88c334a5db7" sha1="82235d6e53c0d113ffb9ad14f4cfba9aa8d253e3"/>
 	</game>
-	<game name="Double Letter (1995)(Omega Software Gfx)">
-		<description>Double Letter (1995)(Omega Software Gfx)</description>
-		<rom name="Double Letter (1995)(Omega Software Gfx).tap" size="22795" crc="906b0e70" md5="5c7050688511343019aa03b74843f5a9" sha1="9b0f73a1a90e0d6c42a25dc264b900e0a67e29e4"/>
+	<game name="Double Letter (1995)(-)">
+		<description>Double Letter (1995)(-)</description>
+		<rom name="Double Letter (1995)(-).tap" size="22795" crc="906b0e70" md5="5c7050688511343019aa03b74843f5a9" sha1="9b0f73a1a90e0d6c42a25dc264b900e0a67e29e4"/>
 	</game>
 	<game name="Dough-NUTS (2005-03)(3SC)[Forever]">
 		<description>Dough-NUTS (2005-03)(3SC)[Forever]</description>
@@ -1458,9 +1602,13 @@
 		<description>Drink 'Em All (1994-01)(RST7)(48K-128K)(RU)(en)</description>
 		<rom name="Drink 'Em All (1994-01)(RST7)(48K-128K)(RU)(en).tap" size="7940" crc="419056df" md5="6afa2ffecc7c037901195e14f347b900" sha1="57e3b4d9cff67b7826bbf45bcf89162ee5a4f053"/>
 	</game>
-	<game name="Duckmania (1993)(Depeche Code)(128K)(CZ)(en)">
-		<description>Duckmania (1993)(Depeche Code)(128K)(CZ)(en)</description>
-		<rom name="Duckmania (1993)(Depeche Code)(128K)(CZ)(en).tap" size="14858" crc="35908de0" md5="0c742c5411bf75e1286fd0c519b45936" sha1="a462334936c2cd06a003705329f72511d76aaee3"/>
+	<game name="Duckmania (1993)(Depeche Code)(48K-128K)(CZ)(en)">
+		<description>Duckmania (1993)(Depeche Code)(48K-128K)(CZ)(en)</description>
+		<rom name="Duckmania (1993)(Depeche Code)(48K-128K)(CZ)(en).tap" size="14858" crc="35908de0" md5="0c742c5411bf75e1286fd0c519b45936" sha1="a462334936c2cd06a003705329f72511d76aaee3"/>
+	</game>
+	<game name="Dungeon Demo (1993)(Khazad Team)(48K-128K)(CZ)(en)">
+		<description>Dungeon Demo (1993)(Khazad Team)(48K-128K)(CZ)(en)</description>
+		<rom name="Dungeon Demo (1993)(Khazad Team)(48K-128K)(CZ)(en).tap" size="25791" crc="76727366" md5="49707c2e9cb9055eed439f480f45d7fc" sha1="d8cc7160c862ebaceca20bcbd82c9eb9664f03c8"/>
 	</game>
 	<game name="Dupa Biskupa (2002-03)(HOOY-PROGRAM)[Forever]">
 		<description>Dupa Biskupa (2002-03)(HOOY-PROGRAM)[Forever]</description>
@@ -1486,9 +1634,9 @@
 		<description>E.S.P. - Emitting Sexual Pleasure (1995)(Convention - Extacy-3)(128K)[adult]</description>
 		<rom name="E.S.P. - Emitting Sexual Pleasure (1995)(Convention - Extacy-3)(128K)[adult].tap" size="22010" crc="02901357" md5="4442bf81d56368ab98ae7f9f23c7c5af" sha1="408e4dfcbf929774aafed4ee083e836135b12a25"/>
 	</game>
-	<game name="EMS Christmas Card Demo (2016)(EquinoxeZX - Parsons, Neil)(128K)(ES)(en)">
-		<description>EMS Christmas Card Demo (2016)(EquinoxeZX - Parsons, Neil)(128K)(ES)(en)</description>
-		<rom name="EMS Christmas Card Demo (2016)(EquinoxeZX - Parsons, Neil)(128K)(ES)(en).tap" size="42304" crc="c98f6fa6" md5="67fe7f8d36e0ddb90a242aa0a7dab68c" sha1="a05ebb3339027780e91f16c42ef62cbab9d0662c"/>
+	<game name="EMS Christmas Card Demo (2016)(EquinoxeZX)(128K)(ES)(en)">
+		<description>EMS Christmas Card Demo (2016)(EquinoxeZX)(128K)(ES)(en)</description>
+		<rom name="EMS Christmas Card Demo (2016)(EquinoxeZX)(128K)(ES)(en).tap" size="42304" crc="c98f6fa6" md5="67fe7f8d36e0ddb90a242aa0a7dab68c" sha1="a05ebb3339027780e91f16c42ef62cbab9d0662c"/>
 	</game>
 	<game name="ERZAC (2019)(speccy.pl)(48K-128K)">
 		<description>ERZAC (2019)(speccy.pl)(48K-128K)</description>
@@ -1538,9 +1686,17 @@
 		<description>Egal (1993-05)(Mad Guys, The)(48K-128K)(DE)(en)</description>
 		<rom name="Egal (1993-05)(Mad Guys, The)(48K-128K)(DE)(en).tap" size="32123" crc="b4994240" md5="3e2f684021a6858da390037de6d33511" sha1="d7c635e1e10c71700784e60049d26bd303b54ced"/>
 	</game>
+	<game name="Electric Dreams (2022-03)(ate Bit)">
+		<description>Electric Dreams (2022-03)(ate Bit)</description>
+		<rom name="Electric Dreams (2022-03)(ate Bit).tap" size="46641" crc="a8ea6c40" md5="e19c278d6d420d7d2a61eaffbbd761d0" sha1="cbe168065a5e1fc58b3bc816d2c96e2a92e4b13c"/>
+	</game>
 	<game name="Electric Reindeer Maniacs (1996)(Gasman)(48K-128K)">
 		<description>Electric Reindeer Maniacs (1996)(Gasman)(48K-128K)</description>
 		<rom name="Electric Reindeer Maniacs (1996)(Gasman)(48K-128K).tap" size="80869" crc="b1ffd584" md5="3d333df8dc8258d1d7e65fc529c48f8f" sha1="780cf8a91a84b38aa3699fbd2620a9c0c56830f2"/>
+	</game>
+	<game name="ElementZX, The (2021)(Stonechat Productions)(128K)">
+		<description>ElementZX, The (2021)(Stonechat Productions)(128K)</description>
+		<rom name="ElementZX, The (2021)(Stonechat Productions)(128K).tap" size="33392" crc="443aac4f" md5="b5c503deb452f0225a388640db2d9338" sha1="95a11155877686c4aba5ff0278f3b4ee647a5aee"/>
 	</game>
 	<game name="Embroidery (1992)(Your Sinclair)">
 		<description>Embroidery (1992)(Your Sinclair)</description>
@@ -1642,9 +1798,9 @@
 		<description>Everlast (2006-03)(UVS)[Forever]</description>
 		<rom name="Everlast (2006-03)(UVS)[Forever].tap" size="20004" crc="5f24b125" md5="38907d21e6b08ef90104366a8a4fd7ae" sha1="9f53c598e2cf2ffadc47de18e38620752e963382"/>
 	</game>
-	<game name="Evil Demo (1995)(United Minds, The)(128K)">
-		<description>Evil Demo (1995)(United Minds, The)(128K)</description>
-		<rom name="Evil Demo (1995)(United Minds, The)(128K).tap" size="57863" crc="cc516abd" md5="068ddf781c058832701812ef9d8294dd" sha1="8eb4cbe72f4b56afbadcffa3f83f502a56d0acc1"/>
+	<game name="Evil Demo (1995-01)(United Minds, The)(128K)">
+		<description>Evil Demo (1995-01)(United Minds, The)(128K)</description>
+		<rom name="Evil Demo (1995-01)(United Minds, The)(128K).tap" size="57863" crc="cc516abd" md5="068ddf781c058832701812ef9d8294dd" sha1="8eb4cbe72f4b56afbadcffa3f83f502a56d0acc1"/>
 	</game>
 	<game name="Ex-Alf (1996)(Gasman)(48K-128K)">
 		<description>Ex-Alf (1996)(Gasman)(48K-128K)</description>
@@ -1672,11 +1828,11 @@
 	</game>
 	<game name="Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en)">
 		<description>Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en)</description>
-		<rom name="Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en).tap" size="131570" crc="6af439cf" md5="4c3a58f891a7b6c034a6f0e0a105a4b1" sha1="634d6e64b9522969720f2e2e78d5d34f8a1998ff"/>
+		<rom name="Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en).tap" size="124519" crc="5a60e117" md5="5e9f8b420db5360117161e0a0901cd77" sha1="c11e3dd701e4a030d379ee66d7de36246fb8a954"/>
 	</game>
 	<game name="Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en)[a]">
 		<description>Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en)[a]</description>
-		<rom name="Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en)[a].tap" size="124519" crc="5a60e117" md5="5e9f8b420db5360117161e0a0901cd77" sha1="c11e3dd701e4a030d379ee66d7de36246fb8a954"/>
+		<rom name="Exodus Megademo (1993-06)(Exodus)(128K)(PL)(en)[a].tap" size="131570" crc="6af439cf" md5="4c3a58f891a7b6c034a6f0e0a105a4b1" sha1="634d6e64b9522969720f2e2e78d5d34f8a1998ff"/>
 	</game>
 	<game name="Eye Ache (1996-08)(Code Busters)(128K)(RU)(en)">
 		<description>Eye Ache (1996-08)(Code Busters)(128K)(RU)(en)</description>
@@ -1692,11 +1848,11 @@
 	</game>
 	<game name="F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en)">
 		<description>F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en)</description>
-		<rom name="F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en).tap" size="11153" crc="a3d57bd7" md5="a276ed3f9696cba30d8329d301a1c455" sha1="3e9360fd0c192dba518409b74c387f687fc70a6f"/>
+		<rom name="F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en).tap" size="11151" crc="b0e37849" md5="9b6833b0ccbb85f48abe3de94310d25d" sha1="5419b3eef9ef57fb06b0fa79cf19f9fa17501d75"/>
 	</game>
 	<game name="F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en)[a]">
 		<description>F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en)[a]</description>
-		<rom name="F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en)[a].tap" size="11151" crc="b0e37849" md5="9b6833b0ccbb85f48abe3de94310d25d" sha1="5419b3eef9ef57fb06b0fa79cf19f9fa17501d75"/>
+		<rom name="F.B.I. Demo (1996)(Omega Software GFX)(128K)(CZ)(en)[a].tap" size="11153" crc="a3d57bd7" md5="a276ed3f9696cba30d8329d301a1c455" sha1="3e9360fd0c192dba518409b74c387f687fc70a6f"/>
 	</game>
 	<game name="F.S.R.D. Preview (1995-05)(7 Gods)[Demobit]">
 		<description>F.S.R.D. Preview (1995-05)(7 Gods)[Demobit]</description>
@@ -1762,13 +1918,13 @@
 		<description>Final Shoque 2000 gfx Viewer (2001-02)(triumph)[Final Shoque ]</description>
 		<rom name="Final Shoque 2000 gfx Viewer (2001-02)(triumph)[Final Shoque ].tap" size="144135" crc="5548b6eb" md5="64329b28f28f17ba0a66a0e280c0e774" sha1="85e89fe36896f27d21e36abe6cc8c7043b1317ad"/>
 	</game>
-	<game name="Final Strike 1 (19xx)(Unbelievables, The)(DE)(en)">
-		<description>Final Strike 1 (19xx)(Unbelievables, The)(DE)(en)</description>
-		<rom name="Final Strike 1 (19xx)(Unbelievables, The)(DE)(en).tap" size="5554" crc="6b74678b" md5="95778f8c13bcee431f28ff9723043f99" sha1="9882ad9b006f010ecc42f9b32317ec9875ae76a0"/>
+	<game name="Final Strike 1 (19xx)(Mad Guys, The)(DE)(en)">
+		<description>Final Strike 1 (19xx)(Mad Guys, The)(DE)(en)</description>
+		<rom name="Final Strike 1 (19xx)(Mad Guys, The)(DE)(en).tap" size="5554" crc="6b74678b" md5="95778f8c13bcee431f28ff9723043f99" sha1="9882ad9b006f010ecc42f9b32317ec9875ae76a0"/>
 	</game>
-	<game name="Final Strike 2 (19xx)(Unbelievables, The)(DE)(en)">
-		<description>Final Strike 2 (19xx)(Unbelievables, The)(DE)(en)</description>
-		<rom name="Final Strike 2 (19xx)(Unbelievables, The)(DE)(en).tap" size="18441" crc="ef3ef665" md5="c66ea4768c0da606ebfe499664765a6f" sha1="339997d8b9cb6642aa881ae4bf4ac4a8fdb0d2cd"/>
+	<game name="Final Strike 2 (19xx)(Mad Guys, The)(DE)(en)">
+		<description>Final Strike 2 (19xx)(Mad Guys, The)(DE)(en)</description>
+		<rom name="Final Strike 2 (19xx)(Mad Guys, The)(DE)(en).tap" size="18441" crc="ef3ef665" md5="c66ea4768c0da606ebfe499664765a6f" sha1="339997d8b9cb6642aa881ae4bf4ac4a8fdb0d2cd"/>
 	</game>
 	<game name="Fire104b (2009-10)(nf)[Syntax]">
 		<description>Fire104b (2009-10)(nf)[Syntax]</description>
@@ -1810,6 +1966,10 @@
 		<description>First Slovak Real Demo (1995)(7 Gods)(128K)(SK)(en)</description>
 		<rom name="First Slovak Real Demo (1995)(7 Gods)(128K)(SK)(en).tap" size="116769" crc="5367aa27" md5="ee7c0317dd56c099f82743a4f3678fca" sha1="82272aaa2a9513479114de5acb896ff4785c21a5"/>
 	</game>
+	<game name="Fischinger (2022-10)(-)[CAFe]">
+		<description>Fischinger (2022-10)(-)[CAFe]</description>
+		<rom name="Fischinger (2022-10)(-)[CAFe].tap" size="15384" crc="7ecce297" md5="62caf22cea7725294db2e0ab8be1b2cf" sha1="3b44049605f3d8533f183c5358b5406e4ef1c8ea"/>
+	</game>
 	<game name="Flag256 (2016-08)(-)[Chaos Constructions]">
 		<description>Flag256 (2016-08)(-)[Chaos Constructions]</description>
 		<rom name="Flag256 (2016-08)(-)[Chaos Constructions].tap" size="372" crc="11332c8a" md5="2c5c4bf632a46222b3f1a5e922f2e44e" sha1="ec8fa864593c027bc24f6980b6cd4802e59accc3"/>
@@ -1834,6 +1994,10 @@
 		<description>Font Finder (1994)(ESA)</description>
 		<rom name="Font Finder (1994)(ESA).tap" size="516" crc="c22559d6" md5="fba2fc82f5269d0daa7a1ef148a1252c" sha1="6e655dd206b9b6f63356bdb145dbc8291689a7f3"/>
 	</game>
+	<game name="Fool's Mask (2022-01)(Joker)[DiHALT]">
+		<description>Fool's Mask (2022-01)(Joker)[DiHALT]</description>
+		<rom name="Fool's Mask (2022-01)(Joker)[DiHALT].tap" size="365" crc="02a601b4" md5="b8d504a7aac97390df0cd4f0875bb029" sha1="89b48b74977348c8ead3833a63aaed4fe4a8c636"/>
+	</game>
 	<game name="For Alex (19xx)(Flash)(128K)(RU)(en)">
 		<description>For Alex (19xx)(Flash)(128K)(RU)(en)</description>
 		<rom name="For Alex (19xx)(Flash)(128K)(RU)(en).tap" size="9556" crc="a0927676" md5="21c1fa7c4606b0b496bf811caf57bdb4" sha1="95f7dee26a789bda1a18a3b0f6a36cf7d8c92c6c"/>
@@ -1846,9 +2010,9 @@
 		<description>For the United Minds (1995)(Yolpa Brothers Productions)(128K)</description>
 		<rom name="For the United Minds (1995)(Yolpa Brothers Productions)(128K).tap" size="68725" crc="2069a1ad" md5="2d13b7fa2ba5bce4818ace3ef0199567" sha1="966d0eb4f51564d6634017f9406fc4416d9a9428"/>
 	</game>
-	<game name="Forever 20 Invitation (2018)(Logout - MmcM - Noby)">
-		<description>Forever 20 Invitation (2018)(Logout - MmcM - Noby)</description>
-		<rom name="Forever 20 Invitation (2018)(Logout - MmcM - Noby).tap" size="7562" crc="6ca5948d" md5="a7b0135b1f1272ccfc8cdc24a31f74bb" sha1="f41380bb7f2bf557f5ad4cbf789e7f28b082011e"/>
+	<game name="Forever 20 Invitation (2018)(Noby)(CZ)(en)">
+		<description>Forever 20 Invitation (2018)(Noby)(CZ)(en)</description>
+		<rom name="Forever 20 Invitation (2018)(Noby)(CZ)(en).tap" size="7562" crc="6ca5948d" md5="a7b0135b1f1272ccfc8cdc24a31f74bb" sha1="f41380bb7f2bf557f5ad4cbf789e7f28b082011e"/>
 	</game>
 	<game name="Forever 20 Invitation (2018)(Gemba Boys)(48K-128K)(SK)(en)">
 		<description>Forever 20 Invitation (2018)(Gemba Boys)(48K-128K)(SK)(en)</description>
@@ -1865,6 +2029,10 @@
 	<game name="Forever 2017 Invitation (2016-12)(Gemba Boys)">
 		<description>Forever 2017 Invitation (2016-12)(Gemba Boys)</description>
 		<rom name="Forever 2017 Invitation (2016-12)(Gemba Boys).tap" size="17078" crc="1d3b200c" md5="c0adce6e6953e0638a7b555b2c0dea9f" sha1="0b92bf5c2b7bb1c5078b38e4051153923e14064f"/>
+	</game>
+	<game name="Forever 21 invitation (2023-02)(CI5 The Amaters)">
+		<description>Forever 21 invitation (2023-02)(CI5 The Amaters)</description>
+		<rom name="Forever 21 invitation (2023-02)(CI5 The Amaters).tap" size="27203" crc="32db9bce" md5="a42a2ea11e13caa2213487511233102e" sha1="ace0792be7d96fce560ff34af5b78b1351c92c23"/>
 	</game>
 	<game name="Forever 2e3+1 se Graphics Pack (2001-03)(phantasy)[Forever]">
 		<description>Forever 2e3+1 se Graphics Pack (2001-03)(phantasy)[Forever]</description>
@@ -1930,6 +2098,10 @@
 		<description>Fuxoft Soundtrack III (1989)(Fuxoft)(128K)(CZ)[m tzxtools]</description>
 		<rom name="Fuxoft Soundtrack III (1989)(Fuxoft)(128K)(CZ)[m tzxtools].tap" size="33897" crc="bb49dd58" md5="a60676cc7f1ab6a3e8cd3302016569c3" sha1="a854d23a3d1dfb2c77c9b671bc9901f1d82874ed"/>
 	</game>
+	<game name="Fuxoft Soundtrack IV (1989)(Fuxoft)(128K)(CZ)(en)">
+		<description>Fuxoft Soundtrack IV (1989)(Fuxoft)(128K)(CZ)(en)</description>
+		<rom name="Fuxoft Soundtrack IV (1989)(Fuxoft)(128K)(CZ)(en).tap" size="39701" crc="e67f5531" md5="f3f6e6839e44408e4daa975619b59d54" sha1="4adf763788e083da3b734fe00740c0d71aa8c139"/>
+	</game>
 	<game name="Fuxoft Soundtrack IV (1989)(Fuxoft)(128K)(CZ)">
 		<description>Fuxoft Soundtrack IV (1989)(Fuxoft)(128K)(CZ)</description>
 		<rom name="Fuxoft Soundtrack IV (1989)(Fuxoft)(128K)(CZ).tap" size="37257" crc="1b588694" md5="da31db9497eccd417f55f01d5b69110f" sha1="1e979e99128c8744be258fe6fbee339db3d30edf"/>
@@ -1946,6 +2118,10 @@
 		<description>Fyrtro (2005-02)(mayhem)[conversion]</description>
 		<rom name="Fyrtro (2005-02)(mayhem)[conversion].tap" size="30798" crc="c31e2b5c" md5="36ee4b8a0d2340ed7911ba117b131202" sha1="6ef51b5618a8f08b996e255d0518e58908883a30"/>
 	</game>
+	<game name="G4G40 (2021-07)(CI5 The Amaters)">
+		<description>G4G40 (2021-07)(CI5 The Amaters)</description>
+		<rom name="G4G40 (2021-07)(CI5 The Amaters).tap" size="8362" crc="79c45876" md5="852360e85705952918b86cb9eb7493c5" sha1="6f68ef9f3775916a9e69962098fa781ee8c0505a"/>
+	</game>
 	<game name="GD Birthsday Party (2001-08)(triebkraft)">
 		<description>GD Birthsday Party (2001-08)(triebkraft)</description>
 		<rom name="GD Birthsday Party (2001-08)(triebkraft).tap" size="29122" crc="89925d54" md5="f1062d32585aeca977eb286da6a7f913" sha1="f6d0fa0386ab47437aad78e9b7d10e2e4bda56a2"/>
@@ -1953,6 +2129,10 @@
 	<game name="GEMINI (1994-04)(exodus)">
 		<description>GEMINI (1994-04)(exodus)</description>
 		<rom name="GEMINI (1994-04)(exodus).tap" size="54753" crc="9b58de10" md5="babe6483556ec064260f4d304dc18d05" sha1="45e62de2a0d2444fe15724ec57b5f58588fc8031"/>
+	</game>
+	<game name="GOA 3000 (2021-08)(Serzhsoft)[Chaos Constructions]">
+		<description>GOA 3000 (2021-08)(Serzhsoft)[Chaos Constructions]</description>
+		<rom name="GOA 3000 (2021-08)(Serzhsoft)[Chaos Constructions].tap" size="655360" crc="64a66a72" md5="1eae196a16a0f8ae05a8e9cb09f95166" sha1="d9e99b681f69789733b3c5afbf9532cf491c51ec"/>
 	</game>
 	<game name="Galatrax (2002-03)(Serzhsoft)[Forever]">
 		<description>Galatrax (2002-03)(Serzhsoft)[Forever]</description>
@@ -1998,6 +2178,10 @@
 		<description>Ghaza's Super Soldier 2 (19xx)(Theo Devil)</description>
 		<rom name="Ghaza's Super Soldier 2 (19xx)(Theo Devil).tap" size="26250" crc="8d675065" md5="3be8b565aab0e7238456fb1995741ed3" sha1="9df46cccac7cc3cd187d585cdacad2ade92eb2c2"/>
 	</game>
+	<game name="Ghost of LEGOshima (2021-03)(Joker)[Lovebyte]">
+		<description>Ghost of LEGOshima (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Ghost of LEGOshima (2021-03)(Joker)[Lovebyte].tap" size="377" crc="b9986de0" md5="55418009db930bc6b22e5625e8164ad6" sha1="31384a76e40bcbdc7dfdc9585e29ac75da5f9bb1"/>
+	</game>
 	<game name="Gift for Alex (1995)(Flash)(128K)(RU)(en)">
 		<description>Gift for Alex (1995)(Flash)(128K)(RU)(en)</description>
 		<rom name="Gift for Alex (1995)(Flash)(128K)(RU)(en).tap" size="147237" crc="893670de" md5="76ecd28db23f5d198dca8027ea53867e" sha1="45a5072e368fa30c5e98c8b6c84563284b17b9ee"/>
@@ -2014,9 +2198,21 @@
 		<description>Gift for Schiva+Bonny B (1998)(ESA)</description>
 		<rom name="Gift for Schiva+Bonny B (1998)(ESA).tap" size="12788" crc="164c902e" md5="fa363255c98127d4aabf34ccccb45bb0" sha1="3b720e6aa15830f7b8236800f7f0d9014595f0bc"/>
 	</game>
+	<game name="GleEst (2021-01)(bfox)[DiHALT]">
+		<description>GleEst (2021-01)(bfox)[DiHALT]</description>
+		<rom name="GleEst (2021-01)(bfox)[DiHALT].tap" size="655360" crc="e05189b5" md5="b83b327b13d24eadf515dce4736cb397" sha1="a345032fc723273887160ee99397acf60c161184"/>
+	</game>
+	<game name="Glitch Towers (2021-12)(Joker)[Silly Venture]">
+		<description>Glitch Towers (2021-12)(Joker)[Silly Venture]</description>
+		<rom name="Glitch Towers (2021-12)(Joker)[Silly Venture].tap" size="366" crc="dd46173d" md5="ade45741277395ed7f451cdaabf81217" sha1="31d5a7cb319da260b1282b33f73bb7ae395b6e2b"/>
+	</game>
 	<game name="Goa 4K (1998-04)(VAV)(128K)[Funtop]">
 		<description>Goa 4K (1998-04)(VAV)(128K)[Funtop]</description>
 		<rom name="Goa 4K (1998-04)(VAV)(128K)[Funtop].tap" size="4314" crc="c18d3140" md5="b9adcf59b381f885fba2224fb25d04c9" sha1="9e70081ea989c4531a9b95211789b68f12e55d97"/>
+	</game>
+	<game name="God Save The Queen (2022-05)(skrumpy)">
+		<description>God Save The Queen (2022-05)(skrumpy)</description>
+		<rom name="God Save The Queen (2022-05)(skrumpy).tap" size="39001" crc="dd5f9d4b" md5="755d8cd0b067a880d4deaeb974080142" sha1="c813c04b61c1a465f76b05da4573d87183ead922"/>
 	</game>
 	<game name="Gold Girl (2010)(AER)">
 		<description>Gold Girl (2010)(AER)</description>
@@ -2062,9 +2258,9 @@
 		<description>Greensquares (2015-03)(Hades)[7DX]</description>
 		<rom name="Greensquares (2015-03)(Hades)[7DX].tap" size="377" crc="2beff737" md5="3f1a03887aa031ee9231f1448ee7b49e" sha1="106c23f434341ba7c2e71dc3b3a2f32cbcdf6d59"/>
 	</game>
-	<game name="Gubscroll (2017)(Carrier, Matthew)">
-		<description>Gubscroll (2017)(Carrier, Matthew)</description>
-		<rom name="Gubscroll (2017)(Carrier, Matthew).tap" size="4308" crc="16188b7c" md5="6020e3de69522fbad154514467709e25" sha1="01c94a5ef7015daefe5994ca494f589654a1bcd0"/>
+	<game name="Gubscroll (2017)(Stonechat Productions)">
+		<description>Gubscroll (2017)(Stonechat Productions)</description>
+		<rom name="Gubscroll (2017)(Stonechat Productions).tap" size="4308" crc="16188b7c" md5="6020e3de69522fbad154514467709e25" sha1="01c94a5ef7015daefe5994ca494f589654a1bcd0"/>
 	</game>
 	<game name="Gun Bars (2016-02)(-)">
 		<description>Gun Bars (2016-02)(-)</description>
@@ -2138,6 +2334,10 @@
 		<description>Happy New Year 2015! (2014-12)(Gemba Boys)</description>
 		<rom name="Happy New Year 2015! (2014-12)(Gemba Boys).tap" size="13885" crc="ddf981fd" md5="b3df4f5d594460163911d721a5959c17" sha1="387ad0b95ba2c3c8a234b54a33fe49fea0927a2a"/>
 	</game>
+	<game name="Happy New Year 2023 (2022-12)(-)">
+		<description>Happy New Year 2023 (2022-12)(-)</description>
+		<rom name="Happy New Year 2023 (2022-12)(-).tap" size="9158" crc="8d8b8010" md5="b5e3c5c80d87fb61f6ece1ae14609791" sha1="b358fec62aa07880e09d3199e16c444108f5fd15"/>
+	</game>
 	<game name="Happy new Year 1997 (1996-12)(phantasy)">
 		<description>Happy new Year 1997 (1996-12)(phantasy)</description>
 		<rom name="Happy new Year 1997 (1996-12)(phantasy).tap" size="7749" crc="02423afd" md5="74a1e98c651dfccdcd9bea7d3b777709" sha1="a3005c426b34fefb3c40ed71f9e017bb8c4f4729"/>
@@ -2149,6 +2349,10 @@
 	<game name="Harder, Better, Manic, Miner (2016-03)(HOOY-PROGRAM)[Revision]">
 		<description>Harder, Better, Manic, Miner (2016-03)(HOOY-PROGRAM)[Revision]</description>
 		<rom name="Harder, Better, Manic, Miner (2016-03)(HOOY-PROGRAM)[Revision].tap" size="2405" crc="b36f9be5" md5="ff84e0580374e94bfb98b57eea97eeff" sha1="2133162b4830db50ed822fe788a4ee6389819b41"/>
+	</game>
+	<game name="Harmonix (2022-02)(Invaders)[Lovebyte]">
+		<description>Harmonix (2022-02)(Invaders)[Lovebyte]</description>
+		<rom name="Harmonix (2022-02)(Invaders)[Lovebyte].tap" size="348" crc="941d4c69" md5="42e49584b7f4d188d84ae26b505198db" sha1="d3e0645df9075233e0bd889b119c56bd9d014346"/>
 	</game>
 	<game name="Heart Beat (2001-03)(-)[AY][Forever]">
 		<description>Heart Beat (2001-03)(-)[AY][Forever]</description>
@@ -2162,6 +2366,10 @@
 		<description>Hello (1994)(Power Soft)(RO)[m tzxtools]</description>
 		<rom name="Hello (1994)(Power Soft)(RO)[m tzxtools].tap" size="18617" crc="21eefa61" md5="50b012e7fbfa34d245e339923a63fa3b" sha1="c070ec308044ab869a809092965b068cbc60e6b9"/>
 	</game>
+	<game name="Hello World! (2022-10)(-)[CAFe]">
+		<description>Hello World! (2022-10)(-)[CAFe]</description>
+		<rom name="Hello World! (2022-10)(-)[CAFe].tap" size="255" crc="a81a4b2a" md5="ffccaf96f8d40fc12471085317869b79" sha1="96aaaac65df354c0eb0a1da56bb9f3ede6a7beb2"/>
+	</game>
 	<game name="Hello, Outline! (2019)(g0blinish)(16K)(RU)(en)">
 		<description>Hello, Outline! (2019)(g0blinish)(16K)(RU)(en)</description>
 		<rom name="Hello, Outline! (2019)(g0blinish)(16K)(RU)(en).tap" size="252" crc="d05d0e1e" md5="0abf6eaa8c719a80e68f0c5555952bc5" sha1="7094c63ec224067c2f0aac2c64223bb7c5e4f06e"/>
@@ -2170,9 +2378,21 @@
 		<description>Hercules (19xx)(Busy)(128K)(SK)(en)</description>
 		<rom name="Hercules (19xx)(Busy)(128K)(SK)(en).tap" size="10157" crc="448eb60c" md5="fb5e7d1726c145d14bb91b3cc5075c01" sha1="1b9d94726ee5e4defb4119abd426fa10556ac23e"/>
 	</game>
+	<game name="Hero to Crap (2003)(Dave the Lurker)(16K)[m tzxtools][CSSCGC][adult]">
+		<description>Hero to Crap (2003)(Dave the Lurker)(16K)[m tzxtools][CSSCGC][adult]</description>
+		<rom name="Hero to Crap (2003)(Dave the Lurker)(16K)[m tzxtools][CSSCGC][adult].tap" size="192978" crc="8ddd24e3" md5="d726b1cd58c03d4496d2a64d810adb56" sha1="10093ebee4589abb0d1c5cfdf418cdad5e5de77b"/>
+	</game>
 	<game name="Higher State (1998-03)(3SC)(128K)(SK)(en)[Doxycon]">
 		<description>Higher State (1998-03)(3SC)(128K)(SK)(en)[Doxycon]</description>
 		<rom name="Higher State (1998-03)(3SC)(128K)(SK)(en)[Doxycon].tap" size="77429" crc="44450196" md5="36092028900df845de7bc172c33f36be" sha1="8801f051d04515de94c9fac513c962980c608db6"/>
+	</game>
+	<game name="Hole #23 enigma (2022-07)(RMDA)[Arok Party]">
+		<description>Hole #23 enigma (2022-07)(RMDA)[Arok Party]</description>
+		<rom name="Hole #23 enigma (2022-07)(RMDA)[Arok Party].tap" size="655360" crc="907d26d1" md5="3dded1f0adc7ad95d73004c5e431be25" sha1="2419a058ac3222f86ca02d02a51e63d9045ade5e"/>
+	</game>
+	<game name="Hole 17 (2021-03)(RMDA)[Lovebyte]">
+		<description>Hole 17 (2021-03)(RMDA)[Lovebyte]</description>
+		<rom name="Hole 17 (2021-03)(RMDA)[Lovebyte].tap" size="655360" crc="615a2cc0" md5="99b911779409945eae350d5a4d294011" sha1="429a09b5f8717678d3a98f57f836bd45189a3288"/>
 	</game>
 	<game name="Hollis Busters (19xx)(Unbelievables, The)(128K)(DE)(en)">
 		<description>Hollis Busters (19xx)(Unbelievables, The)(128K)(DE)(en)</description>
@@ -2185,6 +2405,10 @@
 	<game name="Horse, a Horse, my Kingdom for a Horse or a Scotsman on a Horse, A (2008-08)(HOOY-PROGRAM)[International Vodka Party]">
 		<description>Horse, a Horse, my Kingdom for a Horse or a Scotsman on a Horse, A (2008-08)(HOOY-PROGRAM)[International Vodka Party]</description>
 		<rom name="Horse, a Horse, my Kingdom for a Horse or a Scotsman on a Horse, A (2008-08)(HOOY-PROGRAM)[International Vodka Party].tap" size="31177" crc="4382b2f0" md5="2c5ab0a9f49fbbc37c4241262e614eab" sha1="eec6fb44838c0c751a85e664a55087de7d083920"/>
+	</game>
+	<game name="Horses (2021)(Guesser)(48K-128K)">
+		<description>Horses (2021)(Guesser)(48K-128K)</description>
+		<rom name="Horses (2021)(Guesser)(48K-128K).tap" size="29541" crc="35f79291" md5="c472da4308aff2480a9f3fe643860e97" sha1="ccde39195fa9f1d21db55c1461ff47bf00e60347"/>
 	</game>
 	<game name="Hot Joystick (19xx)(Digital Design)(DK)(en)[adult]">
 		<description>Hot Joystick (19xx)(Digital Design)(DK)(en)[adult]</description>
@@ -2262,6 +2486,10 @@
 		<description>IVP 2009 SLIDESHOW (2009-11)(HOOY-PROGRAM)[International Vodka Party]</description>
 		<rom name="IVP 2009 SLIDESHOW (2009-11)(HOOY-PROGRAM)[International Vodka Party].tap" size="15513" crc="3af62f61" md5="878c0e8985522387a247174e8dab9808" sha1="8cff0ea555a3a87f14bc5e79bae1110a7c406c07"/>
 	</game>
+	<game name="Ibzed (2022-07)(RMDA)">
+		<description>Ibzed (2022-07)(RMDA)</description>
+		<rom name="Ibzed (2022-07)(RMDA).tap" size="655360" crc="eb28e715" md5="25bb062c6ccbfe449264290099950fbc" sha1="e128c509153a762c75ec6f50891c735e09811fc5"/>
+	</game>
 	<game name="Icabodlovessheep (2008-02)(ZeroTeam)[raww.orgy]">
 		<description>Icabodlovessheep (2008-02)(ZeroTeam)[raww.orgy]</description>
 		<rom name="Icabodlovessheep (2008-02)(ZeroTeam)[raww.orgy].tap" size="410" crc="e2fbeb1b" md5="1865051ec9edb6c4824b31bc1d50eb77" sha1="ee408a9ba1c5bfffd46941236925ebf54744c76f"/>
@@ -2293,6 +2521,10 @@
 	<game name="In Concert (1989)(D.V.B.)(128K)(NL)(en)[m tzxtools]">
 		<description>In Concert (1989)(D.V.B.)(128K)(NL)(en)[m tzxtools]</description>
 		<rom name="In Concert (1989)(D.V.B.)(128K)(NL)(en)[m tzxtools].tap" size="23133" crc="19a3174d" md5="442d1061a9f2002d366fc54e70df5d8b" sha1="18a1f1a7df5b0fb911f602dbe346d8c0ecd78b02"/>
+	</game>
+	<game name="In Motion (2021-03)(Joker)[Lovebyte]">
+		<description>In Motion (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="In Motion (2021-03)(Joker)[Lovebyte].tap" size="350" crc="1c9ae887" md5="a26b094e0da3c731a9f1b721205af2b8" sha1="72ea9074abe41faa412e00ea761cbd10f0f4ac90"/>
 	</game>
 	<game name="In The Army Now Demo (1994)(Unbelievables, The)(128K)(DE)(en)">
 		<description>In The Army Now Demo (1994)(Unbelievables, The)(128K)(DE)(en)</description>
@@ -2326,9 +2558,9 @@
 		<description>Inner Universe (1994)(Extacy-3)(128K)</description>
 		<rom name="Inner Universe (1994)(Extacy-3)(128K).tap" size="199440" crc="f0593364" md5="88a33c10071b7a345fbbdec61720eb23" sha1="a2801a3dd745ed985abd6dcd0111cb122d28ff41"/>
 	</game>
-	<game name="Inner Universe (1994-06)(Extacy-3)(128K (load in USR0 mode))">
-		<description>Inner Universe (1994-06)(Extacy-3)(128K (load in USR0 mode))</description>
-		<rom name="Inner Universe (1994-06)(Extacy-3)(128K (load in USR0 mode)).tap" size="199440" crc="c5bb5331" md5="c8e28f3b23d15dd9bcb6669f94d22b4f" sha1="1221cbfc13d0af668bbebfab5365021ad4f50710"/>
+	<game name="Inner Universe (1994-06)(Extacy-3)(128K)">
+		<description>Inner Universe (1994-06)(Extacy-3)(128K)</description>
+		<rom name="Inner Universe (1994-06)(Extacy-3)(128K).tap" size="199440" crc="c5bb5331" md5="c8e28f3b23d15dd9bcb6669f94d22b4f" sha1="1221cbfc13d0af668bbebfab5365021ad4f50710"/>
 	</game>
 	<game name="Insane (1996)(Phantasy)(128K)(LV)(en)[h Phantasy]">
 		<description>Insane (1996)(Phantasy)(128K)(LV)(en)[h Phantasy]</description>
@@ -2382,6 +2614,10 @@
 		<description>Ishar Demo (1995)(Spirit)(CZ)</description>
 		<rom name="Ishar Demo (1995)(Spirit)(CZ).tap" size="7163" crc="c242362e" md5="0ab6a255debf57e30d71dc774d2cf374" sha1="68d7af85102e798b8889aaa731817b42faad754c"/>
 	</game>
+	<game name="Isometric Ray Cast (2021)(Harte, Thomas)">
+		<description>Isometric Ray Cast (2021)(Harte, Thomas)</description>
+		<rom name="Isometric Ray Cast (2021)(Harte, Thomas).tap" size="32889" crc="35cc9c2c" md5="1f2496812e6d7bd14b9327e9c4cb8c98" sha1="29c34380b90f484b571e1c33d9bcfeda44711f65"/>
+	</game>
 	<game name="Israeli Team Demo 2, The (1989)(Israeli Team, The)(IL)(en)">
 		<description>Israeli Team Demo 2, The (1989)(Israeli Team, The)(IL)(en)</description>
 		<rom name="Israeli Team Demo 2, The (1989)(Israeli Team, The)(IL)(en).tap" size="27326" crc="7d388668" md5="e43317ce0f7280662c954b0ddb6ef8e7" sha1="7fd0d7845f77fa4dae6b6a4db053a5097b6c9aa4"/>
@@ -2422,6 +2658,10 @@
 		<description>Jesus On-E's (1996)(Technium 220)</description>
 		<rom name="Jesus On-E's (1996)(Technium 220).tap" size="27857" crc="6ac50390" md5="70c8d5cc24bf8b2da31b101e350c8747" sha1="c127974e96ffa10f7306994c33f2c6db72d63e14"/>
 	</game>
+	<game name="JetPac #5800 (2021-06)(RMDA)[Forndata]">
+		<description>JetPac #5800 (2021-06)(RMDA)[Forndata]</description>
+		<rom name="JetPac #5800 (2021-06)(RMDA)[Forndata].tap" size="655360" crc="6e7e15d1" md5="c5073fa63b1d49e4c17262de6706f27d" sha1="8cfc73c732b80e1446c874bc98834dbdf23817c4"/>
+	</game>
 	<game name="Jezisek (2008-12)(AY-Riders - Factor6)">
 		<description>Jezisek (2008-12)(AY-Riders - Factor6)</description>
 		<rom name="Jezisek (2008-12)(AY-Riders - Factor6).tap" size="8252" crc="86fc633d" md5="fe7cd3621d0587ffcd5cdd692fcff231" sha1="8ac0b726c2acf1bb3467777efa1cd0830a9583a7"/>
@@ -2453,6 +2693,10 @@
 	<game name="Just Another Grass (2004-08)(triumph)[Chaos Constructions]">
 		<description>Just Another Grass (2004-08)(triumph)[Chaos Constructions]</description>
 		<rom name="Just Another Grass (2004-08)(triumph)[Chaos Constructions].tap" size="650" crc="fdced6f8" md5="46e4b788367e49385b0e4fb8b5da5dfe" sha1="fcc4557fcc420d568cace5189170f99ad0fa337f"/>
+	</game>
+	<game name="Just Snow (2021-01)(Errorsoft)[DiHALT]">
+		<description>Just Snow (2021-01)(Errorsoft)[DiHALT]</description>
+		<rom name="Just Snow (2021-01)(Errorsoft)[DiHALT].tap" size="655360" crc="c1cba440" md5="92fc698184489f0a340df5f3eac0b4f7" sha1="cc98792c7de43611e63c1f3348782c53a71d0640"/>
 	</game>
 	<game name="Justin Beeper (2011-09)(HOOY-PROGRAM)[Sunrise]">
 		<description>Justin Beeper (2011-09)(HOOY-PROGRAM)[Sunrise]</description>
@@ -2518,6 +2762,10 @@
 		<description>Koroptef's Eklhaft Kentus Professional (2004-07)(OSG)[Shucon]</description>
 		<rom name="Koroptef's Eklhaft Kentus Professional (2004-07)(OSG)[Shucon].tap" size="14535" crc="a33631bc" md5="bd61971836de6e447d47976caf763141" sha1="191beeeae5e73fee9d95d837fe365a8fe79753ef"/>
 	</game>
+	<game name="Kover TV (2021-05)(RMDA)[Shadow Party]">
+		<description>Kover TV (2021-05)(RMDA)[Shadow Party]</description>
+		<rom name="Kover TV (2021-05)(RMDA)[Shadow Party].tap" size="743" crc="73acb3b5" md5="25e0a40de17067f37f66deb23f86c2af" sha1="1e88a623727fb4adf0cf69137aafd9f86aa67d88"/>
+	</game>
 	<game name="Kraft Megademo (1993-05)(Extacy-3)(128K)">
 		<description>Kraft Megademo (1993-05)(Extacy-3)(128K)</description>
 		<rom name="Kraft Megademo (1993-05)(Extacy-3)(128K).tap" size="78985" crc="50d81027" md5="774ca9a18034fdfabd27bc6de7199df9" sha1="0fa7ccfd7024c8388d6adbd373c7065879e49ac8"/>
@@ -2541,6 +2789,10 @@
 	<game name="Kyrpa (2003-04)(EhD)[Anal Party]">
 		<description>Kyrpa (2003-04)(EhD)[Anal Party]</description>
 		<rom name="Kyrpa (2003-04)(EhD)[Anal Party].tap" size="11249" crc="9d42d4d0" md5="7dbb97f3d0d186a8ce32fcb70351d3b8" sha1="603ce370ac0a420cc120fdc7de730f841115ef4b"/>
+	</game>
+	<game name="LD HL,CAFE (2021-11)(RMDA)[Demodulation]">
+		<description>LD HL,CAFE (2021-11)(RMDA)[Demodulation]</description>
+		<rom name="LD HL,CAFE (2021-11)(RMDA)[Demodulation].tap" size="655360" crc="d5677ae6" md5="0620be8a73a1ff333e1eaa510118bd52" sha1="b2d049d55994f1c014779efa4503b9264e307065"/>
 	</game>
 	<game name="LSD (1992-06)(pentagram)">
 		<description>LSD (1992-06)(pentagram)</description>
@@ -2598,9 +2850,9 @@
 		<description>Less Than Three Squared (2015-08)(kowalski)[Chaos Constructions]</description>
 		<rom name="Less Than Three Squared (2015-08)(kowalski)[Chaos Constructions].tap" size="1014" crc="61bd22b1" md5="05c67979cddb9995f3eeff419a6077a0" sha1="4635ad03f9f51b8ccde5fb15d254b3602fe013d0"/>
 	</game>
-	<game name="Let It Three Letter Abbreviations In 6-8 time (2020)(Jenkinson, Andy)">
-		<description>Let It Three Letter Abbreviations In 6-8 time (2020)(Jenkinson, Andy)</description>
-		<rom name="Let It Three Letter Abbreviations In 6-8 time (2020)(Jenkinson, Andy).tap" size="18374" crc="66a60ad6" md5="47381181d0061e0d5156155950d97f10" sha1="a6354844b33b245272584e4e62984695ae37bd92"/>
+	<game name="Let It Three Letter Abbreviations In 6-8 time (2020)(Stonechat Productions)">
+		<description>Let It Three Letter Abbreviations In 6-8 time (2020)(Stonechat Productions)</description>
+		<rom name="Let It Three Letter Abbreviations In 6-8 time (2020)(Stonechat Productions).tap" size="18374" crc="66a60ad6" md5="47381181d0061e0d5156155950d97f10" sha1="a6354844b33b245272584e4e62984695ae37bd92"/>
 	</game>
 	<game name="Let There Be Drums (1996)(Fudgepacker)(128K)">
 		<description>Let There Be Drums (1996)(Fudgepacker)(128K)</description>
@@ -2625,6 +2877,10 @@
 	<game name="Letter to Tuleby (1997)(OSG)">
 		<description>Letter to Tuleby (1997)(OSG)</description>
 		<rom name="Letter to Tuleby (1997)(OSG).tap" size="13455" crc="bb60fa5d" md5="ba4715e6090b2e0a27f80e5365381c3e" sha1="c9a3fb20f84c6700d7b2786776ea44188f2a84d0"/>
+	</game>
+	<game name="Libuse (2021-07)(-)">
+		<description>Libuse (2021-07)(-)</description>
+		<rom name="Libuse (2021-07)(-).tap" size="36682" crc="d83a640a" md5="6284b354410d87e7d66eee3708eebb47" sha1="47da250337b10bd71711e0ccda8083eb9e0ee054"/>
 	</game>
 	<game name="Life (2019)(speccy.pl)">
 		<description>Life (2019)(speccy.pl)</description>
@@ -2714,6 +2970,10 @@
 		<description>Living Shit, The (19xx)(Kassoft)(128K)(PL)(en)[h Plomba Soft]</description>
 		<rom name="Living Shit, The (19xx)(Kassoft)(128K)(PL)(en)[h Plomba Soft].tap" size="14206" crc="7f2eceb4" md5="016b36f37bce7d1a5ad38568cf7587af" sha1="008f27614647349308c3af3b7d14fd7d04c35171"/>
 	</game>
+	<game name="Loading Inercia (2022-11)(bitshifters collective)[inerciaDemoparty]">
+		<description>Loading Inercia (2022-11)(bitshifters collective)[inerciaDemoparty]</description>
+		<rom name="Loading Inercia (2022-11)(bitshifters collective)[inerciaDemoparty].tap" size="1008" crc="94288229" md5="06fb3cb4b9399bed3b87f14968255538" sha1="bca7e5f1ffa24740ccab04db251b54d4a3105e25"/>
+	</game>
 	<game name="Loco, El (1990)(Lords, The)(128K)(NL)(en)">
 		<description>Loco, El (1990)(Lords, The)(128K)(NL)(en)</description>
 		<rom name="Loco, El (1990)(Lords, The)(128K)(NL)(en).tap" size="13376" crc="6195859b" md5="53ee5585ddaac574ff8a7085d779e79d" sha1="9308c6e60c8983fa86419b522ca81d184076e936"/>
@@ -2742,6 +3002,10 @@
 		<description>Lollipop - The Second Spunker (1995)(Knuckle Girls, The)(128K)[adult]</description>
 		<rom name="Lollipop - The Second Spunker (1995)(Knuckle Girls, The)(128K)[adult].tap" size="31388" crc="c076f045" md5="57612bcf60a0a2509c4af8dc013f2968" sha1="d58b4e6912ac941041a3a51da9316e077e4551bb"/>
 	</game>
+	<game name="Long Journey (2021-09)(-)">
+		<description>Long Journey (2021-09)(-)</description>
+		<rom name="Long Journey (2021-09)(-).tap" size="1394" crc="90b0b53c" md5="bf0d293cbe618f16e1d24592fd0ae0a6" sha1="cd8f7ae0000aed1c36826f6ccd1ae7a7c5031200"/>
+	</game>
 	<game name="Loop, The (2001-03)(3SC)[Forever]">
 		<description>Loop, The (2001-03)(3SC)[Forever]</description>
 		<rom name="Loop, The (2001-03)(3SC)[Forever].tap" size="98741" crc="1d310456" md5="f34880c328ebe8cee4164c08e86252c2" sha1="4e96540f40c376a17f3d879be55f75c1ad5b2e27"/>
@@ -2766,17 +3030,25 @@
 		<description>Lost Party Invitation (2019)(Hellboj)(48K-128K)(PL)(en)</description>
 		<rom name="Lost Party Invitation (2019)(Hellboj)(48K-128K)(PL)(en).tap" size="32975" crc="ff8c83f5" md5="861fd6bc039ab05a97f56ca05dff60de" sha1="e0035b971b53fa4f01bb6a6630f595e8ba2141f7"/>
 	</game>
+	<game name="Lost bleep (2022-07)(speccy.pl)[Lost Party]">
+		<description>Lost bleep (2022-07)(speccy.pl)[Lost Party]</description>
+		<rom name="Lost bleep (2022-07)(speccy.pl)[Lost Party].tap" size="395" crc="cc1670ce" md5="afd65f950a194e43985b401d632cffe8" sha1="4326e2776499cb5647a0989558d4012d06ccd2c6"/>
+	</game>
 	<game name="Love Me Baby (1985)(Phil Hard Productions)(GB)(fr)[aka Rhaaaaa Lovely!!!][adult]">
 		<description>Love Me Baby (1985)(Phil Hard Productions)(GB)(fr)[aka Rhaaaaa Lovely!!!][adult]</description>
 		<rom name="Love Me Baby (1985)(Phil Hard Productions)(GB)(fr)[aka Rhaaaaa Lovely!!!][adult].tap" size="49451" crc="0eb70801" md5="4f4ebc2780d1e04dc29a574846d1a5f8" sha1="838e3b01fc988566a393a2e4c02940c2b0a800ca"/>
 	</game>
-	<game name="Love Tokens (2020)(Jenkinson, Andy)(48K-128K)">
-		<description>Love Tokens (2020)(Jenkinson, Andy)(48K-128K)</description>
-		<rom name="Love Tokens (2020)(Jenkinson, Andy)(48K-128K).tap" size="21957" crc="c22cc3e3" md5="306572759b9b77e2e71ce964ed7a5fd2" sha1="2a96bde9d72d01b2cbc106f31d66427b61527390"/>
+	<game name="Love Tokens (2020)(Stonechat Productions)(48K-128K)">
+		<description>Love Tokens (2020)(Stonechat Productions)(48K-128K)</description>
+		<rom name="Love Tokens (2020)(Stonechat Productions)(48K-128K).tap" size="21957" crc="c22cc3e3" md5="306572759b9b77e2e71ce964ed7a5fd2" sha1="2a96bde9d72d01b2cbc106f31d66427b61527390"/>
 	</game>
-	<game name="Love Tokens (2020)(Jenkinson, Andy)(48K-128K)[a]">
-		<description>Love Tokens (2020)(Jenkinson, Andy)(48K-128K)[a]</description>
-		<rom name="Love Tokens (2020)(Jenkinson, Andy)(48K-128K)[a].tap" size="22011" crc="f43beb16" md5="667f151565a75b8582e171b40ed13a9f" sha1="3172f970c5ae66186b498fd637cec698bf8acfe1"/>
+	<game name="Love Tokens (2020)(Stonechat Productions)(48K-128K)[a]">
+		<description>Love Tokens (2020)(Stonechat Productions)(48K-128K)[a]</description>
+		<rom name="Love Tokens (2020)(Stonechat Productions)(48K-128K)[a].tap" size="22011" crc="f43beb16" md5="667f151565a75b8582e171b40ed13a9f" sha1="3172f970c5ae66186b498fd637cec698bf8acfe1"/>
+	</game>
+	<game name="Love-Evil (2022-02)(Joker)[Lovebyte]">
+		<description>Love-Evil (2022-02)(Joker)[Lovebyte]</description>
+		<rom name="Love-Evil (2022-02)(Joker)[Lovebyte].tap" size="377" crc="25ce92a4" md5="5ce227daf280683a321c21a85d323b5a" sha1="6bee2e0135178d7d866688f6b6019684b225e745"/>
 	</game>
 	<game name="Luke (1995)(Spirit)(CZ)">
 		<description>Luke (1995)(Spirit)(CZ)</description>
@@ -2830,6 +3102,10 @@
 		<description>MJ Demo (1988)(Jones, Mark R.)(Side B)[m tzxtools]</description>
 		<rom name="MJ Demo (1988)(Jones, Mark R.)(Side B)[m tzxtools].tap" size="41622" crc="985bf1d7" md5="5de67076189ba4f0b806cbf4bda388c2" sha1="95b0e6247237de766909e4ee3a79fc374b916e37"/>
 	</game>
+	<game name="MOCKBA (2022-04)(-)[speccy.pl party]">
+		<description>MOCKBA (2022-04)(-)[speccy.pl party]</description>
+		<rom name="MOCKBA (2022-04)(-)[speccy.pl party].tap" size="374" crc="bf0fb0e2" md5="3cb02460900cdea5c01ace6471af7203" sha1="94ffe74a05a61765fde3fdd3034fb539e277c0da"/>
+	</game>
 	<game name="MQM 4 (1993)(MQM Team)(48K-128K)(CZ)(en)">
 		<description>MQM 4 (1993)(MQM Team)(48K-128K)(CZ)(en)</description>
 		<rom name="MQM 4 (1993)(MQM Team)(48K-128K)(CZ)(en).tap" size="70683" crc="088dc1ae" md5="bda03e0af11eeeb1788cca62f50951b8" sha1="55e9cb199d6989ce918c0e527ef8f6915dbf044b"/>
@@ -2838,13 +3114,13 @@
 		<description>MQM 5 (1993)(MQM Team)(128K)(CZ)(en)</description>
 		<rom name="MQM 5 (1993)(MQM Team)(128K)(CZ)(en).tap" size="651919" crc="1d9aa041" md5="a75b68c2e8f82d02481a33eeed680369" sha1="3ef9ede8d325fa4c9ecaac5d530cd79055c67683"/>
 	</game>
-	<game name="MQM 6 (1994)(MQM Team)">
-		<description>MQM 6 (1994)(MQM Team)</description>
-		<rom name="MQM 6 (1994)(MQM Team).tap" size="326950" crc="12033223" md5="090e75ea7a77b6916e0cf38592d5aa83" sha1="8f55d35e2e94c7fe2429eb6c644e5e0c90248832"/>
+	<game name="MQM 6 (1994)(-)">
+		<description>MQM 6 (1994)(-)</description>
+		<rom name="MQM 6 (1994)(-).tap" size="326950" crc="12033223" md5="090e75ea7a77b6916e0cf38592d5aa83" sha1="8f55d35e2e94c7fe2429eb6c644e5e0c90248832"/>
 	</game>
-	<game name="MQM 6 (1994)(MQM Team)[a]">
-		<description>MQM 6 (1994)(MQM Team)[a]</description>
-		<rom name="MQM 6 (1994)(MQM Team)[a].tap" size="252153" crc="5402cf2b" md5="e0524ce422f80c3df95e0c4439c151eb" sha1="2adf784c1f20ada5154e749a3e2051107eb6a28a"/>
+	<game name="MQM 6 (1994)(-)[a]">
+		<description>MQM 6 (1994)(-)[a]</description>
+		<rom name="MQM 6 (1994)(-)[a].tap" size="252153" crc="5402cf2b" md5="e0524ce422f80c3df95e0c4439c151eb" sha1="2adf784c1f20ada5154e749a3e2051107eb6a28a"/>
 	</game>
 	<game name="MQM Demo (1992)(MQM Team)(128K)(CZ)(en)">
 		<description>MQM Demo (1992)(MQM Team)(128K)(CZ)(en)</description>
@@ -2898,9 +3174,9 @@
 		<description>Magic Ball Trilogy - Part III (1993)(Spectec)(128K)(AT)(en)</description>
 		<rom name="Magic Ball Trilogy - Part III (1993)(Spectec)(128K)(AT)(en).tap" size="26325" crc="4765ad41" md5="2b732ed3d4c6711f0da940d0643d4412" sha1="d3f39b669be567eac52291fb4cb2ad4cb0802f82"/>
 	</game>
-	<game name="Magic Nights (2017)(utz)">
-		<description>Magic Nights (2017)(utz)</description>
-		<rom name="Magic Nights (2017)(utz).tap" size="7135" crc="7a823cf0" md5="d339e9df2b30f9800174f01261994430" sha1="a81b0722867f390634155f4105bcbf3e685db6f2"/>
+	<game name="Magic Nights (2017)(Stonechat Productions)">
+		<description>Magic Nights (2017)(Stonechat Productions)</description>
+		<rom name="Magic Nights (2017)(Stonechat Productions).tap" size="7135" crc="7a823cf0" md5="d339e9df2b30f9800174f01261994430" sha1="a81b0722867f390634155f4105bcbf3e685db6f2"/>
 	</game>
 	<game name="Magic Show (1996)(Speccy Boyz)">
 		<description>Magic Show (1996)(Speccy Boyz)</description>
@@ -2970,6 +3246,10 @@
 		<description>Mathricks (2000-03)(3SC)[Forever]</description>
 		<rom name="Mathricks (2000-03)(3SC)[Forever].tap" size="1169" crc="831be542" md5="dc1a4695ee5e3caac44a80372662dba1" sha1="88b94d301c173ac90c567342b0117ffbe1b844f0"/>
 	</game>
+	<game name="Matrix Digital Rain (2021)(Marco's Retrobits)">
+		<description>Matrix Digital Rain (2021)(Marco's Retrobits)</description>
+		<rom name="Matrix Digital Rain (2021)(Marco's Retrobits).tap" size="21563" crc="fdd950fa" md5="3a81e76832b63e24d4a0154733672b81" sha1="6d3b64071cd9fa02a5f506f14a9135b09e945336"/>
+	</game>
 	<game name="Mednonogovs Broth Demo (1994)(Compact Studio)(RU)">
 		<description>Mednonogovs Broth Demo (1994)(Compact Studio)(RU)</description>
 		<rom name="Mednonogovs Broth Demo (1994)(Compact Studio)(RU).tap" size="1366" crc="f9fa965e" md5="03823a4a6f2f310ac4f4edc11cac8190" sha1="a5112d840ac5a1ccd7fd1d4e5ae052a3631756f2"/>
@@ -3034,6 +3314,14 @@
 		<description>Mescaline Synesthesia (2009-12)(deMarche)(128K)[the Ultimate Meeting]</description>
 		<rom name="Mescaline Synesthesia (2009-12)(deMarche)(128K)[the Ultimate Meeting].tap" size="129675" crc="4dc4a449" md5="7f11eed294d66f6095d338fa40cdaa98" sha1="b6f83874cd66c9c937b65e61ce620e2072b8202a"/>
 	</game>
+	<game name="Metamorf - Alien Spore Metamorphosis (2022-02)(Invaders)[Lovebyte]">
+		<description>Metamorf - Alien Spore Metamorphosis (2022-02)(Invaders)[Lovebyte]</description>
+		<rom name="Metamorf - Alien Spore Metamorphosis (2022-02)(Invaders)[Lovebyte].tap" size="419" crc="c322bc62" md5="c7702e4a6a8b795010ca6cb75f621c98" sha1="18b2a0e7aaff9599acd18399e2cad2bb9d8f1a70"/>
+	</game>
+	<game name="MiaFASS (2022-11)(Kaszi75)[Experience]">
+		<description>MiaFASS (2022-11)(Kaszi75)[Experience]</description>
+		<rom name="MiaFASS (2022-11)(Kaszi75)[Experience].tap" size="4090" crc="a96b0e15" md5="d9931ec2e267692bc7a7263f674eb146" sha1="d5b50498dafd2d058acb886fbd354130d032f21c"/>
+	</game>
 	<game name="Mic (1996)(Progress Software Makers Team)(128K)(RU)(en)">
 		<description>Mic (1996)(Progress Software Makers Team)(128K)(RU)(en)</description>
 		<rom name="Mic (1996)(Progress Software Makers Team)(128K)(RU)(en).tap" size="5553" crc="886bd1b1" md5="3ad9294b5c44ecf19db82bf7ef915745" sha1="85451e737f642e2b37474fbeda2ca42a86985007"/>
@@ -3066,6 +3354,10 @@
 		<description>Mind Control (1999-07)(Crazytronic)[Doxycon]</description>
 		<rom name="Mind Control (1999-07)(Crazytronic)[Doxycon].tap" size="149085" crc="7fcf71db" md5="41274764e9b17a5e631c0bdbf7740f16" sha1="4af3837b7fb7138f25b3753286d956fdd3ef85da"/>
 	</game>
+	<game name="Mind Popping (2022)(Pringles)">
+		<description>Mind Popping (2022)(Pringles)</description>
+		<rom name="Mind Popping (2022)(Pringles).tap" size="8741" crc="2e19c679" md5="55a4416a8daaae54d3ae7482847848cd" sha1="aa689aee7d27d9e4f6658b6124fe0cc4c525e8a7"/>
+	</game>
 	<game name="Mind-Warp (1993)(Extacy-3)(128K)">
 		<description>Mind-Warp (1993)(Extacy-3)(128K)</description>
 		<rom name="Mind-Warp (1993)(Extacy-3)(128K).tap" size="28370" crc="043dad13" md5="3a1559165079204579ef1e6b1a3cd4ec" sha1="515003049372aeb6fcfdab6059b46bbc1cdc8e24"/>
@@ -3090,6 +3382,10 @@
 		<description>Miras TV (19xx)(Oliveira, Henrique de)(pt)[m tzxtools]</description>
 		<rom name="Miras TV (19xx)(Oliveira, Henrique de)(pt)[m tzxtools].tap" size="12001" crc="5585e51f" md5="9d3ac347976da389035bc6f855bf3d31" sha1="786d941ab693be6542f9e71d8edbcea358add6dd"/>
 	</game>
+	<game name="Misalliance (2021-12)(Joker)[Silly Venture]">
+		<description>Misalliance (2021-12)(Joker)[Silly Venture]</description>
+		<rom name="Misalliance (2021-12)(Joker)[Silly Venture].tap" size="355" crc="2852f5cd" md5="1ecbcdb8e6dcde147b0888f1eea2529b" sha1="fc98d75f9f6a938de46da344f6da91ac2b6f488f"/>
+	</game>
 	<game name="Misha Megademo, The (1993-09)(Resoft)">
 		<description>Misha Megademo, The (1993-09)(Resoft)</description>
 		<rom name="Misha Megademo, The (1993-09)(Resoft).tap" size="79484" crc="caafdbd7" md5="4f4e9fe36cdf0c02a33708db6bcd58d2" sha1="6b2b29511408ce273328cbf58bfd26d980c5030c"/>
@@ -3113,6 +3409,10 @@
 	<game name="Monochrome Gift for Factor6 (2000)(OSG)">
 		<description>Monochrome Gift for Factor6 (2000)(OSG)</description>
 		<rom name="Monochrome Gift for Factor6 (2000)(OSG).tap" size="18688" crc="c5688b94" md5="a87279733e828b9c259ef75b94c52a24" sha1="76eb60bc78900f20b7be58d015e4a7ff24b2c85d"/>
+	</game>
+	<game name="Monoroll (2021-03)(Joker)[Lovebyte]">
+		<description>Monoroll (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Monoroll (2021-03)(Joker)[Lovebyte].tap" size="377" crc="9480349c" md5="587cecfcd7dbca79c46aa4500d063d06" sha1="ac8d7ff4dce4e5c72b53689843c9b125f43c8452"/>
 	</game>
 	<game name="Moozik (19xx)(-)">
 		<description>Moozik (19xx)(-)</description>
@@ -3146,9 +3446,9 @@
 		<description>Muco1k - Multicolor Shadevision (2014-03)(Busysoft)[Forever]</description>
 		<rom name="Muco1k - Multicolor Shadevision (2014-03)(Busysoft)[Forever].tap" size="2484" crc="f56584a4" md5="2c1c5e0cb6b238c9c04fbbd7240df545" sha1="544452e936a46a8a97447f66bc051a0da15b50ff"/>
 	</game>
-	<game name="Multigift for Schiva (19xx)(1999)">
-		<description>Multigift for Schiva (19xx)(1999)</description>
-		<rom name="Multigift for Schiva (19xx)(1999).tap" size="125394" crc="94f2d7e6" md5="5e85badb5cfa63796b67d8ef18ecb07c" sha1="b057b3d820bfd0ff55749d85b9e5a44c923aea9c"/>
+	<game name="Multigift for Schiva (1999)(-)">
+		<description>Multigift for Schiva (1999)(-)</description>
+		<rom name="Multigift for Schiva (1999)(-).tap" size="125394" crc="94f2d7e6" md5="5e85badb5cfa63796b67d8ef18ecb07c" sha1="b057b3d820bfd0ff55749d85b9e5a44c923aea9c"/>
 	</game>
 	<game name="Muncher Crack Intro (1996-01)(flash)">
 		<description>Muncher Crack Intro (1996-01)(flash)</description>
@@ -3196,15 +3496,15 @@
 	</game>
 	<game name="Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en)">
 		<description>Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en)</description>
-		<rom name="Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en).tap" size="44551" crc="a9112936" md5="96797661d75344083a71aeb191188ae8" sha1="f9b68c2e998e2358febc9c867fa62a998784f066"/>
+		<rom name="Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en).tap" size="44632" crc="99dda884" md5="968f1528d030f8dfa13f2dab979afbf7" sha1="6e1a057c456e2ff558c967f29505f498bc2fb6d3"/>
 	</game>
 	<game name="Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en)[a]">
 		<description>Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en)[a]</description>
-		<rom name="Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en)[a].tap" size="44632" crc="99dda884" md5="968f1528d030f8dfa13f2dab979afbf7" sha1="6e1a057c456e2ff558c967f29505f498bc2fb6d3"/>
+		<rom name="Music on Interrupt (1996)(Hacker Chris)(128K)(PL)(en)[a].tap" size="44551" crc="a9112936" md5="96797661d75344083a71aeb191188ae8" sha1="f9b68c2e998e2358febc9c867fa62a998784f066"/>
 	</game>
-	<game name="Musical Explosion, The (1990)(Nightman, The)(128K)(CZ)(en)">
-		<description>Musical Explosion, The (1990)(Nightman, The)(128K)(CZ)(en)</description>
-		<rom name="Musical Explosion, The (1990)(Nightman, The)(128K)(CZ)(en).tap" size="130731" crc="5c3faa7e" md5="d798c1af896674e7cf0ae5c33d4b7643" sha1="b5c7157c729ac369ea385c6501ec94f82d269905"/>
+	<game name="Musical Explosion, The (1990)(The Nightman)(128K)(IL)(en)">
+		<description>Musical Explosion, The (1990)(The Nightman)(128K)(IL)(en)</description>
+		<rom name="Musical Explosion, The (1990)(The Nightman)(128K)(IL)(en).tap" size="130731" crc="5c3faa7e" md5="d798c1af896674e7cf0ae5c33d4b7643" sha1="b5c7157c729ac369ea385c6501ec94f82d269905"/>
 	</game>
 	<game name="Musical Megademo 1, The (1988)(Octopus, The)(128K)[m tzxtools]">
 		<description>Musical Megademo 1, The (1988)(Octopus, The)(128K)[m tzxtools]</description>
@@ -3294,6 +3594,10 @@
 		<description>Nightmares (2012-09)(noice)[Sundown]</description>
 		<rom name="Nightmares (2012-09)(noice)[Sundown].tap" size="130315" crc="90d44c7d" md5="7645d3fde2055bd53b5b8dd4edcc67ec" sha1="62a54398aaf14062300071b60426e3ba04b4dec1"/>
 	</game>
+	<game name="Nightswimming (2022-08)(Joker)[Xenium]">
+		<description>Nightswimming (2022-08)(Joker)[Xenium]</description>
+		<rom name="Nightswimming (2022-08)(Joker)[Xenium].tap" size="376" crc="963a116e" md5="d0f58f309f34fd3410c79c6f136700e5" sha1="b1821344f623392c0b3ba1be46ecb0dca544e03c"/>
+	</game>
 	<game name="Ninja Milkman Conspiracy, The (2008-08)(HOOY-PROGRAM)[International Vodka Party]">
 		<description>Ninja Milkman Conspiracy, The (2008-08)(HOOY-PROGRAM)[International Vodka Party]</description>
 		<rom name="Ninja Milkman Conspiracy, The (2008-08)(HOOY-PROGRAM)[International Vodka Party].tap" size="10036" crc="a60e4c01" md5="f9cc974d452c4dddacef216722cffc6b" sha1="73958ad5151443623e337f578f2e21cd666b081e"/>
@@ -3358,6 +3662,10 @@
 		<description>Noboru1k (2012-12)(Factor 6)[JHCon]</description>
 		<rom name="Noboru1k (2012-12)(Factor 6)[JHCon].tap" size="1110" crc="304ecbcc" md5="4ed9a7a5f72d9901802fdfee6ad6b36d" sha1="5f50a498428ec63df02fe41ccd298708d79d2038"/>
 	</game>
+	<game name="Noire Moire (2022-02)(Invaders)[Lovebyte]">
+		<description>Noire Moire (2022-02)(Invaders)[Lovebyte]</description>
+		<rom name="Noire Moire (2022-02)(Invaders)[Lovebyte].tap" size="442" crc="9eae52b3" md5="d2a741de0b04c28069dea9e972cd3d67" sha1="5731d3428a15418d96b03570dbaad3aced0cc19b"/>
+	</game>
 	<game name="Noname 2 (1991)(DSA Computer Graphics)(SK)(en)">
 		<description>Noname 2 (1991)(DSA Computer Graphics)(SK)(en)</description>
 		<rom name="Noname 2 (1991)(DSA Computer Graphics)(SK)(en).tap" size="19387" crc="b1539750" md5="5cbce0572de902ad431af376194d2ab0" sha1="96693c8da7ce37534815056d7665a52e97419a4a"/>
@@ -3382,9 +3690,13 @@
 		<description>Not For Children (1996)(Tiger's Claw)(128K)(AT)(en)[adult]</description>
 		<rom name="Not For Children (1996)(Tiger's Claw)(128K)(AT)(en)[adult].tap" size="36618" crc="8544fb7e" md5="a1db2f503659b746ec54771cfeefdc05" sha1="9e252150c7fbbff615b1f9ff6d4f4261a626f57a"/>
 	</game>
-	<game name="Note - Letter for Busy and Sapo (19xx)(19xx)">
-		<description>Note - Letter for Busy and Sapo (19xx)(19xx)</description>
-		<rom name="Note - Letter for Busy and Sapo (19xx)(19xx).tap" size="16250" crc="728897f3" md5="7e22dab3b9e7ab121b6e9269925ac645" sha1="49c2687a59f0f48387efa4be4bf271cb0a368c29"/>
+	<game name="Note - Letter for Busy and Sapo (19xx)(-)">
+		<description>Note - Letter for Busy and Sapo (19xx)(-)</description>
+		<rom name="Note - Letter for Busy and Sapo (19xx)(-).tap" size="16250" crc="728897f3" md5="7e22dab3b9e7ab121b6e9269925ac645" sha1="49c2687a59f0f48387efa4be4bf271cb0a368c29"/>
+	</game>
+	<game name="Nothing More Than Logo (2021-10)(Joker)[Deadline (Berlin)]">
+		<description>Nothing More Than Logo (2021-10)(Joker)[Deadline (Berlin)]</description>
+		<rom name="Nothing More Than Logo (2021-10)(Joker)[Deadline (Berlin)].tap" size="365" crc="b12ec811" md5="d11d1cdbdd62f5e99e42db5da31fdea6" sha1="29adb0694a4581c2794fbd662b3ce8081a2e8ec6"/>
 	</game>
 	<game name="Noumenon (1997-07)(Noumenon Team)(128K)[Enlight]">
 		<description>Noumenon (1997-07)(Noumenon Team)(128K)[Enlight]</description>
@@ -3433,6 +3745,10 @@
 	<game name="Oei (19xx)(Eros)[adult]">
 		<description>Oei (19xx)(Eros)[adult]</description>
 		<rom name="Oei (19xx)(Eros)[adult].tap" size="6965" crc="68936921" md5="4e8861413645b0e4d1a075e5c0e3b381" sha1="b0002cb1689962b720d79f24490531f955827002"/>
+	</game>
+	<game name="Of Cats, Men and Abstract Figures (2022-04)(Stardust)[speccy.pl party]">
+		<description>Of Cats, Men and Abstract Figures (2022-04)(Stardust)[speccy.pl party]</description>
+		<rom name="Of Cats, Men and Abstract Figures (2022-04)(Stardust)[speccy.pl party].tap" size="116641" crc="07bb7f4a" md5="46f9385f561eb794949d5995ab59a261" sha1="397cd61f8b20c1a63eac8e500f1b93682e056e95"/>
 	</game>
 	<game name="Off Topic (1997-06)(Hacker Olav - Igoval)(128K)">
 		<description>Off Topic (1997-06)(Hacker Olav - Igoval)(128K)</description>
@@ -3490,6 +3806,14 @@
 		<description>Out of ZSL (1992)(TAD)(128K)(PL)(en)</description>
 		<rom name="Out of ZSL (1992)(TAD)(128K)(PL)(en).tap" size="82197" crc="e09f5cc0" md5="55399d8e2d60bcff896ae5dbc3db952c" sha1="1d5c76ef96db5ef0a5da67f30d4557286353b665"/>
 	</game>
+	<game name="OverShaman (2022-10)(-)[CAFe]">
+		<description>OverShaman (2022-10)(-)[CAFe]</description>
+		<rom name="OverShaman (2022-10)(-)[CAFe].tap" size="12398" crc="2bcbfc2a" md5="38080edb0845f39010f1cb4ee3886110" sha1="697a8b57375cd0c3444faed8941d35ad9a374662"/>
+	</game>
+	<game name="OverSpecSCII (2022-10)(-)[CAFe]">
+		<description>OverSpecSCII (2022-10)(-)[CAFe]</description>
+		<rom name="OverSpecSCII (2022-10)(-)[CAFe].tap" size="17084" crc="3537e233" md5="65a119e4de6358b136f7cc1f6b72c4b7" sha1="ed9222868daf93b7c140cd76016d9241cf6e3a1e"/>
+	</game>
 	<game name="Overscan (19xx)(Busysoft)">
 		<description>Overscan (19xx)(Busysoft)</description>
 		<rom name="Overscan (19xx)(Busysoft).tap" size="9552" crc="7affcff0" md5="bc8c77a9a6f44a4afd5c7a1d17553558" sha1="e134de2e6e8aff333a923eaec2825f466b250671"/>
@@ -3537,6 +3861,10 @@
 	<game name="PIXEL MEGADEMO (2015-11)(XXX)[BASE-X]">
 		<description>PIXEL MEGADEMO (2015-11)(XXX)[BASE-X]</description>
 		<rom name="PIXEL MEGADEMO (2015-11)(XXX)[BASE-X].tap" size="996" crc="42d34ae7" md5="e70af53fdf2cc7bd36b6f9b7da33e0fe" sha1="b93e91daf3910cb850eb3172c5e94465353c9892"/>
+	</game>
+	<game name="PLOT-Love (2023-02)(ZeroTeam)[Lovebyte]">
+		<description>PLOT-Love (2023-02)(ZeroTeam)[Lovebyte]</description>
+		<rom name="PLOT-Love (2023-02)(ZeroTeam)[Lovebyte].tap" size="200" crc="99fb76e8" md5="017c22d2ad280c34bd41b8bfefb93ff4" sha1="10c29ab114affbeb088fb0ccc94aabe6cb964833"/>
 	</game>
 	<game name="PPAP (2016-12)(-)">
 		<description>PPAP (2016-12)(-)</description>
@@ -3638,6 +3966,14 @@
 		<description>Pivot (2001-09)(Global Corporation)[PHAT]</description>
 		<rom name="Pivot (2001-09)(Global Corporation)[PHAT].tap" size="1157" crc="060aad75" md5="4d1bd8430356f77d582236317f41258b" sha1="fb8a6ee70a218e87fbdca324b5246a071ccb8e63"/>
 	</game>
+	<game name="Plan 9 From Outer Space (2022-02)(Joker)[Lovebyte]">
+		<description>Plan 9 From Outer Space (2022-02)(Joker)[Lovebyte]</description>
+		<rom name="Plan 9 From Outer Space (2022-02)(Joker)[Lovebyte].tap" size="141" crc="9c615e75" md5="2e850404b1aa87a13f6b229fa8bb8548" sha1="17598522c6d103cf787bc0b94dfcba8cd318fd70"/>
+	</game>
+	<game name="Planet of Pyramid Monsters (2023-02)(ZeroTeam)[Lovebyte]">
+		<description>Planet of Pyramid Monsters (2023-02)(ZeroTeam)[Lovebyte]</description>
+		<rom name="Planet of Pyramid Monsters (2023-02)(ZeroTeam)[Lovebyte].tap" size="329" crc="7a5a4668" md5="3b62a522eb5b75f0fe86935087347851" sha1="5f0817e7a0f172dbb7df3f77a32d54c3c4f32d2f"/>
+	</game>
 	<game name="Plankton (2010-02)(tiboh)[raww.orgy]">
 		<description>Plankton (2010-02)(tiboh)[raww.orgy]</description>
 		<rom name="Plankton (2010-02)(tiboh)[raww.orgy].tap" size="335" crc="44e64ded" md5="2e8bddf6040b1c4e32ed4a389cfc6e55" sha1="d8c50f8e21208da6f62741f8e8ed5f5050dbf6b7"/>
@@ -3686,9 +4022,9 @@
 		<description>Polish (2002)(ESA)[International Vodka Party]</description>
 		<rom name="Polish (2002)(ESA)[International Vodka Party].tap" size="3415" crc="44acbf8f" md5="cd1399641b418974edadec5b81913e97" sha1="f3163445184d0229fccf9571e8ddafecb321541d"/>
 	</game>
-	<game name="Pondlife (2001-03)(HOOY-PROGRAM)[Forever]">
-		<description>Pondlife (2001-03)(HOOY-PROGRAM)[Forever]</description>
-		<rom name="Pondlife (2001-03)(HOOY-PROGRAM)[Forever].tap" size="153663" crc="4311d5e9" md5="7627a774d258f717a83113397ba9d7aa" sha1="afd7bbbb674bafbbcd561fc4a643a1348a19b4d5"/>
+	<game name="Pondlife Megademo (2001-03)(Hooy-Program - Raww Arse)(48K-128K)[Forever]">
+		<description>Pondlife Megademo (2001-03)(Hooy-Program - Raww Arse)(48K-128K)[Forever]</description>
+		<rom name="Pondlife Megademo (2001-03)(Hooy-Program - Raww Arse)(48K-128K)[Forever].tap" size="153663" crc="4311d5e9" md5="7627a774d258f717a83113397ba9d7aa" sha1="afd7bbbb674bafbbcd561fc4a643a1348a19b4d5"/>
 	</game>
 	<game name="Pondlife Preview (1997)(Gasman)(128K)">
 		<description>Pondlife Preview (1997)(Gasman)(128K)</description>
@@ -3782,6 +4118,10 @@
 		<description>RASTRBRS (2015-04)(bay 6)[Multimatograf]</description>
 		<rom name="RASTRBRS (2015-04)(bay 6)[Multimatograf].tap" size="274" crc="0ea4525a" md5="f7c2a94948d36ea9209e48d68ef07cea" sha1="5b24f66a0c3a9dcf10141a308658c7ec7ed7a02a"/>
 	</game>
+	<game name="RIP Clive (19xx)(g0blinish)(48K-128K)(RU)(en)">
+		<description>RIP Clive (19xx)(g0blinish)(48K-128K)(RU)(en)</description>
+		<rom name="RIP Clive (19xx)(g0blinish)(48K-128K)(RU)(en).tap" size="25805" crc="5d4eccdd" md5="478136d49e6c76909183b3e2133bae51" sha1="51434ded2726eec70b945753a1304473606a85e6"/>
+	</game>
 	<game name="ROBOCOP4 DEMO (2003-08)(HOOY-PROGRAM)[International Vodka Party]">
 		<description>ROBOCOP4 DEMO (2003-08)(HOOY-PROGRAM)[International Vodka Party]</description>
 		<rom name="ROBOCOP4 DEMO (2003-08)(HOOY-PROGRAM)[International Vodka Party].tap" size="30235" crc="ab37db79" md5="4991d25bb78e95cb2e769a0670615514" sha1="9219c9d35d672030ce3164e186dca68f8e14a610"/>
@@ -3830,10 +4170,6 @@
 		<description>Rainbow Beer Megademo (2009-12)(AAA Band)(128K)(RU)</description>
 		<rom name="Rainbow Beer Megademo (2009-12)(AAA Band)(128K)(RU).tap" size="495610" crc="bd521803" md5="92a2306393bd5ed02d478cab7dc70e40" sha1="ddb8434e8953609fdc7aa068d4787f0271fbd4dc"/>
 	</game>
-	<game name="Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize (2015)(Prince, Lee)[m tzxtools][CSSCGC]">
-		<description>Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize (2015)(Prince, Lee)[m tzxtools][CSSCGC]</description>
-		<rom name="Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize (2015)(Prince, Lee)[m tzxtools][CSSCGC].tap" size="1609" crc="e0f51e58" md5="df24e7ba7eea9714fdd5aa3b4f949747" sha1="088634d58910bbad7f5a1c400f15e1d4518d667f"/>
-	</game>
 	<game name="Rapper (19xx)(-)[adult]">
 		<description>Rapper (19xx)(-)[adult]</description>
 		<rom name="Rapper (19xx)(-)[adult].tap" size="45118" crc="6ea2ec26" md5="1cc56ad5b9ee5d2358e625cd323bdb1b" sha1="a2aa7c05dbb9d97365cc2ff357c8eec148aa2f5c"/>
@@ -3878,6 +4214,10 @@
 		<description>Reddemo (2012-07)(Resistance)</description>
 		<rom name="Reddemo (2012-07)(Resistance).tap" size="10851" crc="1420fb98" md5="e418953a8507b66a7f0d1a6e2576d4b0" sha1="eb199e00dc45b836786e1c44ff80709871b94c2e"/>
 	</game>
+	<game name="Regression (2019)(Borik, Martin)(128K)">
+		<description>Regression (2019)(Borik, Martin)(128K)</description>
+		<rom name="Regression (2019)(Borik, Martin)(128K).tap" size="190196" crc="f0dffb22" md5="a715e903aacbb3f7cd4b0ddf42a59f5a" sha1="d5e96c94e7b49047f40fb7132d0e6f43ace4d90c"/>
+	</game>
 	<game name="Reklama Mim (19xx)(Mim)(RU)">
 		<description>Reklama Mim (19xx)(Mim)(RU)</description>
 		<rom name="Reklama Mim (19xx)(Mim)(RU).tap" size="11691" crc="9d6886f7" md5="517275479ad0c40f2342e69d86225b96" sha1="e275ffb78b913d91b9c6fdec3d4f857fa22d904e"/>
@@ -3889,6 +4229,10 @@
 	<game name="Reklama Mim (19xx)(Mim)(RU)[a2]">
 		<description>Reklama Mim (19xx)(Mim)(RU)[a2]</description>
 		<rom name="Reklama Mim (19xx)(Mim)(RU)[a2].tap" size="11767" crc="45a4fd9f" md5="0f4db1f948059023dc461ee8813811b0" sha1="066ad751af79b670dbe3571e733aa273d78797f8"/>
+	</game>
+	<game name="Reko7 (2022-08)(Joker)[Xenium]">
+		<description>Reko7 (2022-08)(Joker)[Xenium]</description>
+		<rom name="Reko7 (2022-08)(Joker)[Xenium].tap" size="8281" crc="ba1cd81b" md5="071d74f0a58e236975bf60c2a5ecf050" sha1="2d3aa27f7c67dc0752595c9f314307aefcaa30bb"/>
 	</game>
 	<game name="Reliable Fraud (2011-09)(Zoo)[Riverwash]">
 		<description>Reliable Fraud (2011-09)(Zoo)[Riverwash]</description>
@@ -3930,6 +4274,10 @@
 		<description>RiZC (2000-06)(Extreme)(RU)(en)[Chaos Constructions]</description>
 		<rom name="RiZC (2000-06)(Extreme)(RU)(en)[Chaos Constructions].tap" size="53036" crc="b5e91534" md5="490483aff043bf2f8a34cf801d84c97e" sha1="7fca4448862a51d25b900ecaa16c751e65c66048"/>
 	</game>
+	<game name="Rickroll (2021)(PROSM)">
+		<description>Rickroll (2021)(PROSM)</description>
+		<rom name="Rickroll (2021)(PROSM).tap" size="19342" crc="d9f9ed44" md5="614ecb5af1f53d77cd90bae4548b3e37" sha1="e26cc448f2e25413e1c8dcf23dc5c298dd546d22"/>
+	</game>
 	<game name="Rider Demo (1993)(Moskalenko, Oleg)(128K)(UA)(en)">
 		<description>Rider Demo (1993)(Moskalenko, Oleg)(128K)(UA)(en)</description>
 		<rom name="Rider Demo (1993)(Moskalenko, Oleg)(128K)(UA)(en).tap" size="33200" crc="d93cd184" md5="dbfcf416f1537786dbb398e078fa2dbb" sha1="24f8866c93a9630ecdfad5124fdbefb5f695c151"/>
@@ -3957,6 +4305,10 @@
 	<game name="Robotanz (2003-03)(triebkraft)[Forever]">
 		<description>Robotanz (2003-03)(triebkraft)[Forever]</description>
 		<rom name="Robotanz (2003-03)(triebkraft)[Forever].tap" size="1229" crc="e847fe6e" md5="e8277e6a4a9e596f45ba97aa6a8a62fe" sha1="3893709988538434fd2d65e73b521ad245c5ec77"/>
+	</game>
+	<game name="Rock Animation (1987)(MicroHobby)(ES)">
+		<description>Rock Animation (1987)(MicroHobby)(ES)</description>
+		<rom name="Rock Animation (1987)(MicroHobby)(ES).tap" size="20261" crc="d24ef54d" md5="5fee55dd0d01323e9d11de5ca8450d96" sha1="9ead7c6612574d421b7f807ee56b8299aa814ad6"/>
 	</game>
 	<game name="Rotation (1991)(Michalak, Jacek)(128K)(PL)(en)">
 		<description>Rotation (1991)(Michalak, Jacek)(128K)(PL)(en)</description>
@@ -4030,13 +4382,17 @@
 		<description>SILAbbA (2009-07)(Target Team)[Hackers Top]</description>
 		<rom name="SILAbbA (2009-07)(Target Team)[Hackers Top].tap" size="26973" crc="3495520b" md5="e7e5943197a5c54dcdeb39c1d502f5a2" sha1="88779690257ee379c50df8f89a64b4843b0d60d4"/>
 	</game>
-	<game name="SOL NEGRO (2006-01)(triumph)">
-		<description>SOL NEGRO (2006-01)(triumph)</description>
-		<rom name="SOL NEGRO (2006-01)(triumph).tap" size="78233" crc="1e22b776" md5="51c3d0a709fd58f08c4b6c81474d3164" sha1="e7ca3d619097611b5424ea80f8090e9a97e70a0e"/>
+	<game name="SINCLAIR 1 - The trail Begins (2021)(Sequentia Soft)(ES)(en)">
+		<description>SINCLAIR 1 - The trail Begins (2021)(Sequentia Soft)(ES)(en)</description>
+		<rom name="SINCLAIR 1 - The trail Begins (2021)(Sequentia Soft)(ES)(en).tap" size="37597" crc="eacd03d5" md5="e75290ad6ecc1d099940e1e3f274b943" sha1="ecd38515e317934c28d29f09c233eaa55e0f2fc4"/>
 	</game>
-	<game name="SProject (2018)(g0blinish)">
-		<description>SProject (2018)(g0blinish)</description>
-		<rom name="SProject (2018)(g0blinish).tap" size="384" crc="49d41234" md5="0836fa97cde3e5a46e9f194453877471" sha1="2d240b2a3ce0f6a386a83e8afa68fa99af1e82d9"/>
+	<game name="SPUTNIK V (2021-02)(Serzhsoft)">
+		<description>SPUTNIK V (2021-02)(Serzhsoft)</description>
+		<rom name="SPUTNIK V (2021-02)(Serzhsoft).tap" size="655360" crc="0eda69fe" md5="1cc0d0544d98b1e239a71a59206bb6df" sha1="e60b2fb2298e57367befef77e2a6f215eba1dfd6"/>
+	</game>
+	<game name="SProject (2018)(g0blinish)(RU)(en)">
+		<description>SProject (2018)(g0blinish)(RU)(en)</description>
+		<rom name="SProject (2018)(g0blinish)(RU)(en).tap" size="384" crc="49d41234" md5="0836fa97cde3e5a46e9f194453877471" sha1="2d240b2a3ce0f6a386a83e8afa68fa99af1e82d9"/>
 	</game>
 	<game name="SQ Cracker (1994)(ESA)">
 		<description>SQ Cracker (1994)(ESA)</description>
@@ -4074,9 +4430,9 @@
 		<description>Salute 44b (2016-05)(g0blinish)[Outline]</description>
 		<rom name="Salute 44b (2016-05)(g0blinish)[Outline].tap" size="254" crc="a23038c4" md5="700f5ecaa2bd158b31006f156f048193" sha1="09d659c0c6508d868ce192d91dc1bd3a225e692a"/>
 	</game>
-	<game name="Salvador (2018)(John Dalthon)">
-		<description>Salvador (2018)(John Dalthon)</description>
-		<rom name="Salvador (2018)(John Dalthon).tap" size="968" crc="0b7ab0ae" md5="8b8c373328bd811f7f1a346953664b82" sha1="62d965e40b1ccbe4333e35abb8a8fcf56c678885"/>
+	<game name="Salvador (2018)(John Dalthon)(PL)(en)">
+		<description>Salvador (2018)(John Dalthon)(PL)(en)</description>
+		<rom name="Salvador (2018)(John Dalthon)(PL)(en).tap" size="968" crc="0b7ab0ae" md5="8b8c373328bd811f7f1a346953664b82" sha1="62d965e40b1ccbe4333e35abb8a8fcf56c678885"/>
 	</game>
 	<game name="Sam Coupe - A Total Piss Take (1995)(Extacy-3 - United Minds, The)(128K)">
 		<description>Sam Coupe - A Total Piss Take (1995)(Extacy-3 - United Minds, The)(128K)</description>
@@ -4105,6 +4461,14 @@
 	<game name="Santov (1997)(Naughty Crew)">
 		<description>Santov (1997)(Naughty Crew)</description>
 		<rom name="Santov (1997)(Naughty Crew).tap" size="14037" crc="02720286" md5="47ef791021411b5d115de70a4d8b990a" sha1="916fe7765aad7c868c52d9d5915dd8a2d90cef22"/>
+	</game>
+	<game name="Satanas aneb co v bibli neni (1991)(Zimmermann, Jara da)(CZ)[adult]">
+		<description>Satanas aneb co v bibli neni (1991)(Zimmermann, Jara da)(CZ)[adult]</description>
+		<rom name="Satanas aneb co v bibli neni (1991)(Zimmermann, Jara da)(CZ)[adult].tap" size="34791" crc="eaff9ddd" md5="e968fe2ff0a22e506acd8af10f6e35e2" sha1="eb84a9cac5b9fbf2284aaa2fb5fe296511c4ba7b"/>
+	</game>
+	<game name="Satellite View Of Flower Fields (2022-02)(Joker)[Lovebyte]">
+		<description>Satellite View Of Flower Fields (2022-02)(Joker)[Lovebyte]</description>
+		<rom name="Satellite View Of Flower Fields (2022-02)(Joker)[Lovebyte].tap" size="173" crc="58b4625f" md5="d98f0194d178ef6767d34b506539b9b1" sha1="adc9e6d6cc7f01fed19ec6cd1cb43947e1e42a98"/>
 	</game>
 	<game name="Satisfaction (1994-06)(Code Busters)">
 		<description>Satisfaction (1994-06)(Code Busters)</description>
@@ -4138,6 +4502,10 @@
 		<description>Scoria Sonic 2 Preview (1993)(Jackson Hollis)(128K)(CZ)(en)</description>
 		<rom name="Scoria Sonic 2 Preview (1993)(Jackson Hollis)(128K)(CZ)(en).tap" size="58389" crc="9336ec00" md5="edf0674b4439f34139eb70435c5e109e" sha1="78f22ea2018012ecc3db52942f3abae66238d90b"/>
 	</game>
+	<game name="Scroller (2022-01)(-)">
+		<description>Scroller (2022-01)(-)</description>
+		<rom name="Scroller (2022-01)(-).tap" size="655360" crc="c26d9719" md5="2c6ce715cf8dc5f6952d8f1719c8eef7" sha1="34bf14f240358768419873fc9372e70b9156c8d1"/>
+	</game>
 	<game name="Scrollours (2011-10)(Villena, Antonio)">
 		<description>Scrollours (2011-10)(Villena, Antonio)</description>
 		<rom name="Scrollours (2011-10)(Villena, Antonio).tap" size="40" crc="30e42abd" md5="08184969699a54d2afca3f03446e572a" sha1="1091dcac24fea361fc0a8ef56864168ee460eb9f"/>
@@ -4150,9 +4518,9 @@
 		<description>Second Reality (1995)(Westcott, Matthew)(128K)</description>
 		<rom name="Second Reality (1995)(Westcott, Matthew)(128K).tap" size="29549" crc="a7fe1387" md5="29dbb662522a9f311ca99a47283512cb" sha1="ec7d5c0341408b0d89430bca488bfe52b78fb1e9"/>
 	</game>
-	<game name="Second Skin Demo (2018)(Pimenta, Pedro)(128K)">
-		<description>Second Skin Demo (2018)(Pimenta, Pedro)(128K)</description>
-		<rom name="Second Skin Demo (2018)(Pimenta, Pedro)(128K).tap" size="27747" crc="bf191358" md5="b2301a59e23a1892e09b4a8fbf53b406" sha1="b6f40b7daa9afda711f1f1b9bdd6833bd27a7e7e"/>
+	<game name="Second Skin Demo (2018)(Stonechat Productions)(128K)">
+		<description>Second Skin Demo (2018)(Stonechat Productions)(128K)</description>
+		<rom name="Second Skin Demo (2018)(Stonechat Productions)(128K).tap" size="27747" crc="bf191358" md5="b2301a59e23a1892e09b4a8fbf53b406" sha1="b6f40b7daa9afda711f1f1b9bdd6833bd27a7e7e"/>
 	</game>
 	<game name="Secrets of Love (1993)(Mad Guys, The)(128K)(DE)(en)">
 		<description>Secrets of Love (1993)(Mad Guys, The)(128K)(DE)(en)</description>
@@ -4161,6 +4529,10 @@
 	<game name="Self Printing Greets (2015-09)(Alone Coder)">
 		<description>Self Printing Greets (2015-09)(Alone Coder)</description>
 		<rom name="Self Printing Greets (2015-09)(Alone Coder).tap" size="104" crc="88a31478" md5="2ce0246ef1ef676361618d458ad9cd37" sha1="be50ba502f7c0a8255df1ab7f526fb583dc2745e"/>
+	</game>
+	<game name="Sense of Balance, A (2023)(uglifruit)">
+		<description>Sense of Balance, A (2023)(uglifruit)</description>
+		<rom name="Sense of Balance, A (2023)(uglifruit).tap" size="7623" crc="f1cb264c" md5="96d976690f786927419c7aa0c9a15776" sha1="2d481d7937ce40b429ba9b6da13b395afc42f7f7"/>
 	</game>
 	<game name="Servis-2 - Intro (19xx)(Veremeenko)(RU)">
 		<description>Servis-2 - Intro (19xx)(Veremeenko)(RU)</description>
@@ -4278,6 +4650,10 @@
 		<description>Shucontro - 1k Intro for Shucon 2010 Party (2010-07)(Busy - Noro Hard&amp;Soft)(SK)(en)[Shucon]</description>
 		<rom name="Shucontro - 1k Intro for Shucon 2010 Party (2010-07)(Busy - Noro Hard&amp;Soft)(SK)(en)[Shucon].tap" size="1122" crc="ec3dda22" md5="f66f45293ad66456db5f2d62fb7fb867" sha1="11a34009dad2f45cc8c5887c3ec5120999d0e6eb"/>
 	</game>
+	<game name="Sierpinski's Mayhem (2021-03)(Joker)[Lovebyte]">
+		<description>Sierpinski's Mayhem (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Sierpinski's Mayhem (2021-03)(Joker)[Lovebyte].tap" size="164" crc="bb8c013e" md5="411c6f1e50c4da4272315da1bfe8fb60" sha1="4d13455a533488c39821c5131ef3673bd4cbbf35"/>
+	</game>
 	<game name="Signal Part 1 (1989)(Mikropol)(128K)(PL)(en)">
 		<description>Signal Part 1 (1989)(Mikropol)(128K)(PL)(en)</description>
 		<rom name="Signal Part 1 (1989)(Mikropol)(128K)(PL)(en).tap" size="39249" crc="808ef56f" md5="064dd5841fd2a1ec6b5b9d1f96688eb1" sha1="5b4cede60cb603dbaa321729f13badf8657ba2fa"/>
@@ -4309,6 +4685,14 @@
 	<game name="Sixth Demo (1990)(Kaz)">
 		<description>Sixth Demo (1990)(Kaz)</description>
 		<rom name="Sixth Demo (1990)(Kaz).tap" size="23258" crc="a0f33968" md5="eef0606e7c2b10fb36bd5434615e69e7" sha1="ece75fa458213fa7be0605d2edffde831723e597"/>
+	</game>
+	<game name="Sketchbook (2021-03)(Joker)[Lovebyte]">
+		<description>Sketchbook (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Sketchbook (2021-03)(Joker)[Lovebyte].tap" size="157" crc="7e5e7067" md5="a1bcea86b602d469e315372f2d01d308" sha1="7a7bff11884c8ae84319269645a34037a7b0f504"/>
+	</game>
+	<game name="Skew (2021-03)(Joker)[Lovebyte]">
+		<description>Skew (2021-03)(Joker)[Lovebyte]</description>
+		<rom name="Skew (2021-03)(Joker)[Lovebyte].tap" size="152" crc="36007962" md5="1d8fdea49669f4ae959e9d0ec9718280" sha1="d76715dc52346e6dd084b5446f08a0d0646d628d"/>
 	</game>
 	<game name="Sky 128K (1988)(Hacker Chris)(128K)(PL)(en)[h Hacker Chris]">
 		<description>Sky 128K (1988)(Hacker Chris)(128K)(PL)(en)[h Hacker Chris]</description>
@@ -4349,6 +4733,10 @@
 	<game name="Software Crimes of Bill Gilbert, The (1991)(Double 27)(128K)">
 		<description>Software Crimes of Bill Gilbert, The (1991)(Double 27)(128K)</description>
 		<rom name="Software Crimes of Bill Gilbert, The (1991)(Double 27)(128K).tap" size="48787" crc="9ca3e821" md5="03ec77b87e287a3e3793494823333a70" sha1="d6cf2f79914633e81aacc1070f0d619d0d16c139"/>
+	</game>
+	<game name="Sonar (2023-02)(Joker)[Lovebyte]">
+		<description>Sonar (2023-02)(Joker)[Lovebyte]</description>
+		<rom name="Sonar (2023-02)(Joker)[Lovebyte].tap" size="377" crc="1a68e730" md5="20c3a751dde85ae152709a126621b9f1" sha1="b947ceb7b70e03b6c1142313da8aa78b68c7e645"/>
 	</game>
 	<game name="Song in Lines (2012-08)(Busysoft)[Chaos Constructions]">
 		<description>Song in Lines (2012-08)(Busysoft)[Chaos Constructions]</description>
@@ -4426,21 +4814,21 @@
 		<description>Soundrive Info v1.5 Info (1996)(Flash)(128K)(RU)</description>
 		<rom name="Soundrive Info v1.5 Info (1996)(Flash)(128K)(RU).tap" size="41139" crc="ce2188c1" md5="65c08bb0cb6dcd00d8021e700b35bfd4" sha1="4895cb7e49a692103063cb120ae6255b0e0b415f"/>
 	</game>
-	<game name="Soundtrack IV (1991)(Sinclair User)(128K)">
-		<description>Soundtrack IV (1991)(Sinclair User)(128K)</description>
-		<rom name="Soundtrack IV (1991)(Sinclair User)(128K).tap" size="39701" crc="e67f5531" md5="f3f6e6839e44408e4daa975619b59d54" sha1="4adf763788e083da3b734fe00740c0d71aa8c139"/>
-	</game>
 	<game name="Source, The (2003-08)(inward)[Cafe]">
 		<description>Source, The (2003-08)(inward)[Cafe]</description>
 		<rom name="Source, The (2003-08)(inward)[Cafe].tap" size="15451" crc="f46fd813" md5="ec32c1474c60af5182d9a6ce3da911e2" sha1="21ebbd7d3f002928e6041b9f1e387ee72f59e48a"/>
 	</game>
-	<game name="Space Crusaders Demo (1991)(Scorpion)(CZ)">
-		<description>Space Crusaders Demo (1991)(Scorpion)(CZ)</description>
-		<rom name="Space Crusaders Demo (1991)(Scorpion)(CZ).tap" size="11592" crc="f4c8e803" md5="dd35c187f04415734f0d862f66640bf3" sha1="fa69146522d53e6307e4a1a9824a2275b35ffa65"/>
-	</game>
 	<game name="Space Letter for Dron-k3l (1996)(ESA)">
 		<description>Space Letter for Dron-k3l (1996)(ESA)</description>
 		<rom name="Space Letter for Dron-k3l (1996)(ESA).tap" size="18558" crc="8a25e7f1" md5="82fec388146ddc8a442006693740d371" sha1="0a258a8adc1d10b25a229c3c809dc10261fc7aa6"/>
+	</game>
+	<game name="Speccy Greetro (2022-11)(-)[inerciaDemoparty]">
+		<description>Speccy Greetro (2022-11)(-)[inerciaDemoparty]</description>
+		<rom name="Speccy Greetro (2022-11)(-)[inerciaDemoparty].tap" size="350" crc="352e799a" md5="82ae40f5aaa8b46f3a164fb0985e8f62" sha1="b83075ef6918918f33df4d55eb39b0889c01d0f4"/>
+	</game>
+	<game name="Speccy Meets Piano (2021-03)(bfox)[Lovebyte]">
+		<description>Speccy Meets Piano (2021-03)(bfox)[Lovebyte]</description>
+		<rom name="Speccy Meets Piano (2021-03)(bfox)[Lovebyte].tap" size="378" crc="473ab31c" md5="81b1aa7270edc621204cf22f0ece3e11" sha1="d70a24041d73eaaf68e80a0c949ec80c1219aa65"/>
 	</game>
 	<game name="Speccy.pl Party 2018 Slideshow (2018)(speccy.pl)(128K)">
 		<description>Speccy.pl Party 2018 Slideshow (2018)(speccy.pl)(128K)</description>
@@ -4498,6 +4886,10 @@
 		<description>Sputnik (2013-12)(lvdPukanRaspidorasilo)[JHCon]</description>
 		<rom name="Sputnik (2013-12)(lvdPukanRaspidorasilo)[JHCon].tap" size="1026" crc="8131bcf2" md5="f6652a1a3bb80f27dd2873d7ee7bfcef" sha1="395d9fc6b999ae99d8c342650d62cb5c21458ab8"/>
 	</game>
+	<game name="Star (1983)(Sinclair Programs)(16K)">
+		<description>Star (1983)(Sinclair Programs)(16K)</description>
+		<rom name="Star (1983)(Sinclair Programs)(16K).tap" size="1092" crc="1145dff3" md5="f6be38bd16a9d630a025aad95251cf2c" sha1="b6dd5188a4fddb107bb6f3166ca82f396cd20c44"/>
+	</game>
 	<game name="Star Heaven (1990)(Johnny Hazzard)(128K)">
 		<description>Star Heaven (1990)(Johnny Hazzard)(128K)</description>
 		<rom name="Star Heaven (1990)(Johnny Hazzard)(128K).tap" size="14840" crc="87ee1c4f" md5="83b6c5f13094b811cabc58c1cb03baea" sha1="70941a04112993dae091b8d3d23594e0335094e8"/>
@@ -4510,9 +4902,9 @@
 		<description>Ste Nichol's Tunes 2016 (2016)(Stonechat Productions)</description>
 		<rom name="Ste Nichol's Tunes 2016 (2016)(Stonechat Productions).tap" size="19252" crc="fdaafb5d" md5="c245e963055e5074bbfa593e2bfcc294" sha1="b75958f00fbf932dbee28db4f6c2abf1ed93d269"/>
 	</game>
-	<game name="Ste Nichol's Tunes 2017 (2017)(Nichol, Stephen)">
-		<description>Ste Nichol's Tunes 2017 (2017)(Nichol, Stephen)</description>
-		<rom name="Ste Nichol's Tunes 2017 (2017)(Nichol, Stephen).tap" size="37901" crc="20bb294e" md5="8724ee1f520b690cfba95cfa07bf2bb1" sha1="a96126fc5d9aeb25794bd298bb61b965b07d8df2"/>
+	<game name="Ste Nichol's Tunes 2017 (2017)(Stonechat Productions)">
+		<description>Ste Nichol's Tunes 2017 (2017)(Stonechat Productions)</description>
+		<rom name="Ste Nichol's Tunes 2017 (2017)(Stonechat Productions).tap" size="37901" crc="20bb294e" md5="8724ee1f520b690cfba95cfa07bf2bb1" sha1="a96126fc5d9aeb25794bd298bb61b965b07d8df2"/>
 	</game>
 	<game name="Steve's Toxic Elephant Vol 1 (1992)(Your Sinclair)(128K)[m tzxtools]">
 		<description>Steve's Toxic Elephant Vol 1 (1992)(Your Sinclair)(128K)[m tzxtools]</description>
@@ -4525,6 +4917,10 @@
 	<game name="Stolen Data (1994)(Extacy-3)(128K)">
 		<description>Stolen Data (1994)(Extacy-3)(128K)</description>
 		<rom name="Stolen Data (1994)(Extacy-3)(128K).tap" size="72715" crc="fe3865c2" md5="68911788b3222f9ac21b39f466ef6951" sha1="71adc87e2d786eacef8e874049e6cc7ac1e7f522"/>
+	</game>
+	<game name="Stone Man On The Day Of Glory (2022-02)(Joker)[Lovebyte]">
+		<description>Stone Man On The Day Of Glory (2022-02)(Joker)[Lovebyte]</description>
+		<rom name="Stone Man On The Day Of Glory (2022-02)(Joker)[Lovebyte].tap" size="621" crc="8807a870" md5="97c7db542676fe6a2c48587e9eaa88fd" sha1="34b223956142b485195f58cde0268c80bd7ac8a1"/>
 	</game>
 	<game name="Stoned on Bananas (1995)(United Minds, The)(128K)">
 		<description>Stoned on Bananas (1995)(United Minds, The)(128K)</description>
@@ -4610,9 +5006,17 @@
 		<description>Super Sex Sound 2 (1989)(Stovring, Henrik)(128K)(DK)(en)[m tzxtools][adult]</description>
 		<rom name="Super Sex Sound 2 (1989)(Stovring, Henrik)(128K)(DK)(en)[m tzxtools][adult].tap" size="114195" crc="c3fca3d1" md5="2688669ab65ed5a76f6b337f8f2dd82c" sha1="5a8757680cea23d685e01cab61f2d3f5b768c0b8"/>
 	</game>
+	<game name="Superform (2021-01)(Marquee Design)[DiHALT]">
+		<description>Superform (2021-01)(Marquee Design)[DiHALT]</description>
+		<rom name="Superform (2021-01)(Marquee Design)[DiHALT].tap" size="406" crc="80605a3b" md5="735848df20d6b07e7404e671656ff5b9" sha1="b9eb257dca6b97a6d125bfa75c878c27a1b89565"/>
+	</game>
 	<game name="Suprematism Loop (2013-07)(introspec)[3BM Openair]">
 		<description>Suprematism Loop (2013-07)(introspec)[3BM Openair]</description>
 		<rom name="Suprematism Loop (2013-07)(introspec)[3BM Openair].tap" size="10978" crc="d71ce2d6" md5="0fd16c566c04c21b8a862ba674a23bbf" sha1="c75a99fa25af03167620c23c7c2da5aaefae44f4"/>
+	</game>
+	<game name="Sure Xing (2022-10)(Mayhem)[CAFe]">
+		<description>Sure Xing (2022-10)(Mayhem)[CAFe]</description>
+		<rom name="Sure Xing (2022-10)(Mayhem)[CAFe].tap" size="655360" crc="6088a7fd" md5="cc872ad46cbe0cdf869aec1073475cd8" sha1="1239b436bedcf2efe7d1721e92fca4eaf7456ade"/>
 	</game>
 	<game name="Surfcity (2012)(ALKO)">
 		<description>Surfcity (2012)(ALKO)</description>
@@ -4662,9 +5066,9 @@
 		<description>Tailwind (2016-03)(Gemba Boys)[Forever]</description>
 		<rom name="Tailwind (2016-03)(Gemba Boys)[Forever].tap" size="73481" crc="639c8f75" md5="fd35645257b892f8a764c04d158ba286" sha1="afc683ab5f6e67eb0144479260373c529ef02a3c"/>
 	</game>
-	<game name="Tap Music (2007)(Halloween - Triumph)(RU)(en)">
-		<description>Tap Music (2007)(Halloween - Triumph)(RU)(en)</description>
-		<rom name="Tap Music (2007)(Halloween - Triumph)(RU)(en).tap" size="3241" crc="466b662b" md5="0ab7653995474fec6dfe95ec719652b3" sha1="79c16ad3fcb02236b282f24482cfcf25c280faf3"/>
+	<game name="Tap Music (2007)(Halloween)(RU)(en)">
+		<description>Tap Music (2007)(Halloween)(RU)(en)</description>
+		<rom name="Tap Music (2007)(Halloween)(RU)(en).tap" size="3241" crc="466b662b" md5="0ab7653995474fec6dfe95ec719652b3" sha1="79c16ad3fcb02236b282f24482cfcf25c280faf3"/>
 	</game>
 	<game name="Target Earth (1994)(United Minds, The)(128K)">
 		<description>Target Earth (1994)(United Minds, The)(128K)</description>
@@ -4710,6 +5114,14 @@
 		<description>Thank You (2000)(Oni Records)[m tzxtools]</description>
 		<rom name="Thank You (2000)(Oni Records)[m tzxtools].tap" size="1147" crc="6aabf18d" md5="2d5bf95f3c026693d510e47bc4082b0c" sha1="3f7bc5187823718f59e92da321c8273fc69907aa"/>
 	</game>
+	<game name="The Most Beautiful Thing (2022-02)(Joker)[Lovebyte]">
+		<description>The Most Beautiful Thing (2022-02)(Joker)[Lovebyte]</description>
+		<rom name="The Most Beautiful Thing (2022-02)(Joker)[Lovebyte].tap" size="629" crc="6397aa2d" md5="1e7da8634ee0c5ccad2e2d6f51363e24" sha1="b87ced4faa39a0d6962e64b2326840f10c03052b"/>
+	</game>
+	<game name="The World's Hardest Game in Attributes (2021-03)(Debris)[Lovebyte]">
+		<description>The World's Hardest Game in Attributes (2021-03)(Debris)[Lovebyte]</description>
+		<rom name="The World's Hardest Game in Attributes (2021-03)(Debris)[Lovebyte].tap" size="350" crc="9ecd8a3c" md5="33c3ca774d8930522c2c4a0834da782f" sha1="d5365368cc9eb2ce5069df18b3d684af5ff6d8b6"/>
+	</game>
 	<game name="Theo's Music Demo 1 (1992)(Sinclair User)[m tzxtools]">
 		<description>Theo's Music Demo 1 (1992)(Sinclair User)[m tzxtools]</description>
 		<rom name="Theo's Music Demo 1 (1992)(Sinclair User)[m tzxtools].tap" size="14446" crc="dd9bd0e4" md5="4647d760965ed48d7021099456da8a1b" sha1="3720e45cd2658ab478d4be64feb494d081ed3b3c"/>
@@ -4750,6 +5162,10 @@
 		<description>Throw up (2005-09)(ate Bit)[Sundown]</description>
 		<rom name="Throw up (2005-09)(ate Bit)[Sundown].tap" size="59956" crc="ad7aa5ee" md5="7def15d15404a852c6e8e94d75e819ca" sha1="1faef613515f45a7bb9b1ad6f89440a8b5b7151f"/>
 	</game>
+	<game name="Throwing Up (2021-12)(Joker)[Silly Venture]">
+		<description>Throwing Up (2021-12)(Joker)[Silly Venture]</description>
+		<rom name="Throwing Up (2021-12)(Joker)[Silly Venture].tap" size="371" crc="b5962805" md5="8fce30c88815bf83b8b78f6f2b84a83a" sha1="047fd03b322cde908b920bdc7a13248fe641b95e"/>
+	</game>
 	<game name="Tic Toc Intro (2019)(Nagy)">
 		<description>Tic Toc Intro (2019)(Nagy)</description>
 		<rom name="Tic Toc Intro (2019)(Nagy).tap" size="25943" crc="1a785c72" md5="386a698979dffd306a724f51e472dfd0" sha1="45c35759b259f76c5979298ec7624751ed6ffca7"/>
@@ -4766,9 +5182,9 @@
 		<description>Tim Follin's Music (1997)(TDM)(128K)(CZ)(en)</description>
 		<rom name="Tim Follin's Music (1997)(TDM)(128K)(CZ)(en).tap" size="66985" crc="439d0840" md5="04eeee5f2f26b7a1248c5d60b5e168ab" sha1="d816a0bbb06941d1b098d8aa39cbf292015348ea"/>
 	</game>
-	<game name="Timewaster (2002-12)(2002-12)">
-		<description>Timewaster (2002-12)(2002-12)</description>
-		<rom name="Timewaster (2002-12)(2002-12).tap" size="7139" crc="265585fa" md5="a670558c645004f971d545ce2d2782f3" sha1="1d4c5b35e40b360a8d30af857c1f615098ead06f"/>
+	<game name="Timewaster (2002-12)(-)">
+		<description>Timewaster (2002-12)(-)</description>
+		<rom name="Timewaster (2002-12)(-).tap" size="7139" crc="265585fa" md5="a670558c645004f971d545ce2d2782f3" sha1="1d4c5b35e40b360a8d30af857c1f615098ead06f"/>
 	</game>
 	<game name="Timex TC2048 Hi-Colour Demo (2002)(Grok Developments)(TC2048-TS2068)">
 		<description>Timex TC2048 Hi-Colour Demo (2002)(Grok Developments)(TC2048-TS2068)</description>
@@ -4798,9 +5214,9 @@
 		<description>Total Eclipse's Talisman Demo (1991)(Total Eclipse)(128K)</description>
 		<rom name="Total Eclipse's Talisman Demo (1991)(Total Eclipse)(128K).tap" size="18340" crc="22e5a4a1" md5="51c42447cbe91647f0ae377293d22c26" sha1="f615f0be4700406fd29b932f6be877e444c6b581"/>
 	</game>
-	<game name="Total Recall Animation Demo (1991)(Outlet)">
-		<description>Total Recall Animation Demo (1991)(Outlet)</description>
-		<rom name="Total Recall Animation Demo (1991)(Outlet).tap" size="36186" crc="69f90f30" md5="5464fa550d914623ce06a41195b7a0c0" sha1="f366aaeb58eb1cea8ecfbe887b1e95f0aea0b1d9"/>
+	<game name="Total Recall Animation Demo (1991)(Chezron)">
+		<description>Total Recall Animation Demo (1991)(Chezron)</description>
+		<rom name="Total Recall Animation Demo (1991)(Chezron).tap" size="36186" crc="69f90f30" md5="5464fa550d914623ce06a41195b7a0c0" sha1="f366aaeb58eb1cea8ecfbe887b1e95f0aea0b1d9"/>
 	</game>
 	<game name="Touch Me (19xx)(Lords, The)(128K)(NL)(en)[m tzxtools][adult]">
 		<description>Touch Me (19xx)(Lords, The)(128K)(NL)(en)[m tzxtools][adult]</description>
@@ -4810,6 +5226,22 @@
 		<description>Toxi 15 (1996)(Busy)(SK)(en)</description>
 		<rom name="Toxi 15 (1996)(Busy)(SK)(en).tap" size="1165" crc="9b33cc3e" md5="60d86f313b091af8712d3b2867a39f74" sha1="62d6d4a4f61402b33375649125dea85fb25a8a08"/>
 	</game>
+	<game name="Tracery (2021-03)(Debris)[Lovebyte]">
+		<description>Tracery (2021-03)(Debris)[Lovebyte]</description>
+		<rom name="Tracery (2021-03)(Debris)[Lovebyte].tap" size="130" crc="7b2fa769" md5="97f3f9bfe083c5c8bcb438dac4e4e136" sha1="96f05f10ea3869413307c6f724ecaac9f5d284e7"/>
+	</game>
+	<game name="Tracery128b (2021-03)(Debris)[Lovebyte]">
+		<description>Tracery128b (2021-03)(Debris)[Lovebyte]</description>
+		<rom name="Tracery128b (2021-03)(Debris)[Lovebyte].tap" size="226" crc="59195c61" md5="89cc8cb3fcf65616c0898380e8028948" sha1="8faf2873d1d86d9d41d9e1b470d69d015f8e21d7"/>
+	</game>
+	<game name="Tracery64b v1 (2021-03)(Debris)[Lovebyte]">
+		<description>Tracery64b v1 (2021-03)(Debris)[Lovebyte]</description>
+		<rom name="Tracery64b v1 (2021-03)(Debris)[Lovebyte].tap" size="162" crc="eb624519" md5="b2d5c22b61d949898e83af9c32bebe40" sha1="8761d148c9dd7793ece3e5d8bbd33b06c652be5a"/>
+	</game>
+	<game name="Tracery64b v2 (2021-03)(Debris)[Lovebyte]">
+		<description>Tracery64b v2 (2021-03)(Debris)[Lovebyte]</description>
+		<rom name="Tracery64b v2 (2021-03)(Debris)[Lovebyte].tap" size="159" crc="261d8ac5" md5="4d430a212ef403fa24e12633356b48eb" sha1="413e4063d9c52540f1a8c520071a9c1cef9d4976"/>
+	</game>
 	<game name="Tranfered From Amiga (1994)(Mr Incognito)">
 		<description>Tranfered From Amiga (1994)(Mr Incognito)</description>
 		<rom name="Tranfered From Amiga (1994)(Mr Incognito).tap" size="19099" crc="338fb25b" md5="593caa8f2b1e3ba7f86120f1d59619d5" sha1="88cb886dd98bd469947790674a8e2e2c338cfa0b"/>
@@ -4818,25 +5250,29 @@
 		<description>Trash-E (1996-06)(E-Mage)(128K)(BY)(en)</description>
 		<rom name="Trash-E (1996-06)(E-Mage)(128K)(BY)(en).tap" size="72052" crc="8e3e18c7" md5="4e549f405ea3057422f3e4c1620c0fb7" sha1="4a3c8dc67ade08d58062b8e6aba699bba432cb81"/>
 	</game>
-	<game name="TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)">
-		<description>TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)</description>
-		<rom name="TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en).tap" size="114852" crc="00069fb9" md5="2d37ff88340231cd1eb7236bf80fbb89" sha1="8bb683fc2783d15f3c34cb7617c087eb9bbe4709"/>
-	</game>
 	<game name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)">
 		<description>TriNitroToluene (1992)(President, The)(128K)(NO)(en)</description>
 		<rom name="TriNitroToluene (1992)(President, The)(128K)(NO)(en).tap" size="121278" crc="7b6c2e1a" md5="717ee9d6a5999f776b118c977bd3db34" sha1="6e480533bdff3b62057a282958abd94c01c280ee"/>
 	</game>
-	<game name="TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)[a]">
-		<description>TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)[a]</description>
-		<rom name="TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)[a].tap" size="120934" crc="215e6462" md5="1f5d0a9e2e0ab4f5ff18d7fbd3167b30" sha1="bfe0b4d8ce5bb8b5ef3295f6ee62843c6fec2889"/>
+	<game name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a]">
+		<description>TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a]</description>
+		<rom name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a].tap" size="114852" crc="00069fb9" md5="2d37ff88340231cd1eb7236bf80fbb89" sha1="8bb683fc2783d15f3c34cb7617c087eb9bbe4709"/>
 	</game>
-	<game name="TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)[a2]">
-		<description>TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)[a2]</description>
-		<rom name="TriNitroToluene (1992)(President, The)(128K (load in USR0 mode))(NO)(en)[a2].tap" size="130196" crc="43947093" md5="42ae19250473e4a20ef4251149e0bb16" sha1="6c56b93a1e938d598d2bdf19a543136da0d262d5"/>
+	<game name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a2]">
+		<description>TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a2]</description>
+		<rom name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a2].tap" size="120934" crc="215e6462" md5="1f5d0a9e2e0ab4f5ff18d7fbd3167b30" sha1="bfe0b4d8ce5bb8b5ef3295f6ee62843c6fec2889"/>
+	</game>
+	<game name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a3]">
+		<description>TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a3]</description>
+		<rom name="TriNitroToluene (1992)(President, The)(128K)(NO)(en)[a3].tap" size="130196" crc="43947093" md5="42ae19250473e4a20ef4251149e0bb16" sha1="6c56b93a1e938d598d2bdf19a543136da0d262d5"/>
 	</game>
 	<game name="Tribe (2008-09)(raww Arse)[Sundown]">
 		<description>Tribe (2008-09)(raww Arse)[Sundown]</description>
 		<rom name="Tribe (2008-09)(raww Arse)[Sundown].tap" size="14123" crc="54223ecc" md5="74869cbea2ec242b3055e52ab34468a6" sha1="1aea335d7427e063b7e354c21d738bb1d3661a23"/>
+	</game>
+	<game name="Trip To A Party (2022-04)(Agenda)[speccy.pl party]">
+		<description>Trip To A Party (2022-04)(Agenda)[speccy.pl party]</description>
+		<rom name="Trip To A Party (2022-04)(Agenda)[speccy.pl party].tap" size="374" crc="aa7941ab" md5="2b537a7eb22da4fa0649e63a4ea07356" sha1="497ff23f16936cdad9769a33f26ba5fa626091ec"/>
 	</game>
 	<game name="Triton Mix (1995)(Spectravision)(128K)">
 		<description>Triton Mix (1995)(Spectravision)(128K)</description>
@@ -4922,13 +5358,17 @@
 		<description>Uncle Ben's Bordello Beauties (1989)(Spermasoft Masturbatories)(GR)(en)[adult]</description>
 		<rom name="Uncle Ben's Bordello Beauties (1989)(Spermasoft Masturbatories)(GR)(en)[adult].tap" size="33739" crc="8f9d28a0" md5="78f141f880af5fd0659fadbbcd261917" sha1="5e9876030dc2ed63d2b6f62b179b0d7c95432ffc"/>
 	</game>
+	<game name="Undefined Dancing Letters (2022-07)(-)">
+		<description>Undefined Dancing Letters (2022-07)(-)</description>
+		<rom name="Undefined Dancing Letters (2022-07)(-).tap" size="11384" crc="01b371bb" md5="f2d40f016ffb10e6883012d4aebcea83" sha1="cad289e552be4e5c9f3434a76bc0cb0d2ce7612d"/>
+	</game>
 	<game name="Unhanged, The (2014-07)(Fit)">
 		<description>Unhanged, The (2014-07)(Fit)</description>
 		<rom name="Unhanged, The (2014-07)(Fit).tap" size="22859" crc="e92f5b79" md5="05cc9c6af47ca26adddc5a3ba5f7585e" sha1="4b897e4f0d9e21714d3d80bcd56496efcd03ec59"/>
 	</game>
-	<game name="Union Flag (1982)(Sinclair Research)(16K)">
-		<description>Union Flag (1982)(Sinclair Research)(16K)</description>
-		<rom name="Union Flag (1982)(Sinclair Research)(16K).tap" size="2202" crc="546e82a4" md5="9b2a76a4a313073cb81e7d7277402a75" sha1="1d7510bad74fc3050361e99e66664cf215d86b0b"/>
+	<game name="Union Flag (1982)(ZX Spectrum BASIC Programming)(16K)">
+		<description>Union Flag (1982)(ZX Spectrum BASIC Programming)(16K)</description>
+		<rom name="Union Flag (1982)(ZX Spectrum BASIC Programming)(16K).tap" size="2202" crc="546e82a4" md5="9b2a76a4a313073cb81e7d7277402a75" sha1="1d7510bad74fc3050361e99e66664cf215d86b0b"/>
 	</game>
 	<game name="Unlimited Spirits (1992)(Mad Guys, The)(48K-128K)(DE)(en)">
 		<description>Unlimited Spirits (1992)(Mad Guys, The)(48K-128K)(DE)(en)</description>
@@ -4938,13 +5378,13 @@
 		<description>Unlimited Sprites 1k Intro (2012-03)(Busy - Noro Hard&amp;Soft)(SK)(en)[Forever]</description>
 		<rom name="Unlimited Sprites 1k Intro (2012-03)(Busy - Noro Hard&amp;Soft)(SK)(en)[Forever].tap" size="2481" crc="39317692" md5="e6baceecca3a36713228d2c200ef779c" sha1="c0f9f0bed32225b7002353e2857344e8d87d0223"/>
 	</game>
-	<game name="Unused (1994)(OSG)">
-		<description>Unused (1994)(OSG)</description>
-		<rom name="Unused (1994)(OSG).tap" size="27908" crc="80ba9c7a" md5="8d0bc802b87da0c64d409076cc326bf5" sha1="b7f400b318c3743e18a661f11ca9735b14e7ad6a"/>
+	<game name="Unused (1994)(-)">
+		<description>Unused (1994)(-)</description>
+		<rom name="Unused (1994)(-).tap" size="27908" crc="80ba9c7a" md5="8d0bc802b87da0c64d409076cc326bf5" sha1="b7f400b318c3743e18a661f11ca9735b14e7ad6a"/>
 	</game>
-	<game name="Unused - Remix (19xx)(1994)">
-		<description>Unused - Remix (19xx)(1994)</description>
-		<rom name="Unused - Remix (19xx)(1994).tap" size="27821" crc="887c87d9" md5="d5cf4239418bde5b00f5bcc9d92b4337" sha1="e79c81054eb535c597ae271a09a8983f6ed81881"/>
+	<game name="Unused - Remix (1994)(-)">
+		<description>Unused - Remix (1994)(-)</description>
+		<rom name="Unused - Remix (1994)(-).tap" size="27821" crc="887c87d9" md5="d5cf4239418bde5b00f5bcc9d92b4337" sha1="e79c81054eb535c597ae271a09a8983f6ed81881"/>
 	</game>
 	<game name="Utztape #1 (2011)(Irrlicht Project)">
 		<description>Utztape #1 (2011)(Irrlicht Project)</description>
@@ -5018,6 +5458,14 @@
 		<description>Vodkemon (2006-04)(exin - gasman - Mr. Beep)[International Vodka Party]</description>
 		<rom name="Vodkemon (2006-04)(exin - gasman - Mr. Beep)[International Vodka Party].tap" size="17846" crc="2dc79d72" md5="8715874fcf847773e92250fe37112c3d" sha1="3847a00d4b7bb6e8805ff5519c96f02e8f9e83b1"/>
 	</game>
+	<game name="Void (2021)(Invaders)(128K)">
+		<description>Void (2021)(Invaders)(128K)</description>
+		<rom name="Void (2021)(Invaders)(128K).tap" size="80143" crc="a1fdfe03" md5="d6c5746fa56e0260bbc7eeada89f4fa8" sha1="54365604da70b9b0aa93ec8fccffa7fb13d8a944"/>
+	</game>
+	<game name="Void (2021)(Invaders)(128K)[a]">
+		<description>Void (2021)(Invaders)(128K)[a]</description>
+		<rom name="Void (2021)(Invaders)(128K)[a].tap" size="80144" crc="5248e325" md5="076400679bf3c5f4e0cba95ae644ea9b" sha1="955f683ed3ff326b5dcc98363c7ec082cecd2b43"/>
+	</game>
 	<game name="Vologda Through 256 Years (2015-04)(Pertsovsky, Misha)[Multimatograf]">
 		<description>Vologda Through 256 Years (2015-04)(Pertsovsky, Misha)[Multimatograf]</description>
 		<rom name="Vologda Through 256 Years (2015-04)(Pertsovsky, Misha)[Multimatograf].tap" size="27127" crc="c17f65eb" md5="c52e0ed321d37afb322a5788a5357835" sha1="c8e28a173a52af2df51a9d5fa855c4db50511579"/>
@@ -5041,6 +5489,10 @@
 	<game name="WOOT! ZXMas 2020 Slideshow (2020)(Stonechat Productions)(48K-128K)">
 		<description>WOOT! ZXMas 2020 Slideshow (2020)(Stonechat Productions)(48K-128K)</description>
 		<rom name="WOOT! ZXMas 2020 Slideshow (2020)(Stonechat Productions)(48K-128K).tap" size="52379" crc="79f2281f" md5="13e201c6645979fb5d8f3863d8dcef92" sha1="5781a52443225c8360488028c98e487423977e7f"/>
+	</game>
+	<game name="Waiting For Another LoveByte (2023-02)(Joker)[Lovebyte]">
+		<description>Waiting For Another LoveByte (2023-02)(Joker)[Lovebyte]</description>
+		<rom name="Waiting For Another LoveByte (2023-02)(Joker)[Lovebyte].tap" size="1122" crc="995f5c5b" md5="470773905a4a46b4e21f5180868fc4d2" sha1="f567b6b8e31a1c185827dacf5cad827e70a22986"/>
 	</game>
 	<game name="Waka Waka (2019)(speccy.pl)">
 		<description>Waka Waka (2019)(speccy.pl)</description>
@@ -5166,6 +5618,10 @@
 		<description>XmasPF (2008-12)(Mandala Breakers)</description>
 		<rom name="XmasPF (2008-12)(Mandala Breakers).tap" size="23715" crc="317c832b" md5="933de13a8272ed5e78e07cd2ef4e5c17" sha1="cb113f8e11f09690bc29720fad9513d5b250fa7e"/>
 	</game>
+	<game name="Xtree (2022-01)(Joker)[DiHALT]">
+		<description>Xtree (2022-01)(Joker)[DiHALT]</description>
+		<rom name="Xtree (2022-01)(Joker)[DiHALT].tap" size="377" crc="dff0626c" md5="60507ce5d7b76870c0192d5048aa56ee" sha1="96da26cfa0603714e98019739b2cc62dff005fdd"/>
+	</game>
 	<game name="Xtro (2000-07)(Johny X)[Kaplicon]">
 		<description>Xtro (2000-07)(Johny X)[Kaplicon]</description>
 		<rom name="Xtro (2000-07)(Johny X)[Kaplicon].tap" size="3755" crc="6a21231d" md5="3d623eb2b8e15603e51f94c214dbfe24" sha1="3280b808796851851f847eda464a7a4e0e16f6f3"/>
@@ -5218,6 +5674,10 @@
 		<description>Yolka 98 (1998)(Dream Makers)(128K)(BY)(en)</description>
 		<rom name="Yolka 98 (1998)(Dream Makers)(128K)(BY)(en).tap" size="13176" crc="e72638f7" md5="d621ac96accc75b1465b57e86468409b" sha1="cbb108b07d3c228799e0391bcae09b353df41c04"/>
 	</game>
+	<game name="You Wouldn't (2022-06)(Chapterhouse)[Field-FX]">
+		<description>You Wouldn't (2022-06)(Chapterhouse)[Field-FX]</description>
+		<rom name="You Wouldn't (2022-06)(Chapterhouse)[Field-FX].tap" size="24672" crc="77815151" md5="3e5ed7e2df43a0400835cb0099b9ba44" sha1="925c49ff145555190b53be968ed7f2b5b13ca7c1"/>
+	</game>
 	<game name="Your Song is Quiet (2007-04)(inward)[Breakpoint]">
 		<description>Your Song is Quiet (2007-04)(inward)[Breakpoint]</description>
 		<rom name="Your Song is Quiet (2007-04)(inward)[Breakpoint].tap" size="30793" crc="dce90d66" md5="6e3e6368f58188d4eb85bb48642f9d90" sha1="0c788a7adf2916140261c3b036c486d81686f57d"/>
@@ -5234,9 +5694,17 @@
 		<description>ZX Debut (2012-03)(noice)[Forever]</description>
 		<rom name="ZX Debut (2012-03)(noice)[Forever].tap" size="29452" crc="3af08bf4" md5="ad68e541bc561c397a34620a20598670" sha1="e5f5356d7a2e27c7aae7e7958f59ef310c872270"/>
 	</game>
+	<game name="ZX Nano-Tetris (2021-03)(-)[Lovebyte]">
+		<description>ZX Nano-Tetris (2021-03)(-)[Lovebyte]</description>
+		<rom name="ZX Nano-Tetris (2021-03)(-)[Lovebyte].tap" size="975" crc="47212ab5" md5="13d99fb2595622ac32e739bee3ae89b9" sha1="ffa53e996708a69548f617df9dde46a8a1259314"/>
+	</game>
 	<game name="ZX Spectrum Orchestra (2003)(Half Eaten - Warm Circuit)(Side B)[m tzxtools]">
 		<description>ZX Spectrum Orchestra (2003)(Half Eaten - Warm Circuit)(Side B)[m tzxtools]</description>
 		<rom name="ZX Spectrum Orchestra (2003)(Half Eaten - Warm Circuit)(Side B)[m tzxtools].tap" size="11853" crc="16b091e7" md5="333a27fc1ad31edcc9954a2ac4a7451c" sha1="6c0e58665d35879ab0b6b602de83296bc30a6ab0"/>
+	</game>
+	<game name="ZX Tribute - 40th Anniversary (2022-02)(.koval)">
+		<description>ZX Tribute - 40th Anniversary (2022-02)(.koval)</description>
+		<rom name="ZX Tribute - 40th Anniversary (2022-02)(.koval).tap" size="52505" crc="852df0e4" md5="397d59529ebacc30166c898f0a6f493a" sha1="9425eb174c0cd30640d26733ac0f440c11aa7c9d"/>
 	</game>
 	<game name="ZX Wedding (2005-07)(HOOY-PROGRAM)">
 		<description>ZX Wedding (2005-07)(HOOY-PROGRAM)</description>
@@ -5249,6 +5717,14 @@
 	<game name="ZX Zen Tree (2011-12)(-)[JHCon]">
 		<description>ZX Zen Tree (2011-12)(-)[JHCon]</description>
 		<rom name="ZX Zen Tree (2011-12)(-)[JHCon].tap" size="718" crc="3ca8f708" md5="d037055d9456e88c47c6565ee64dfbb8" sha1="ac5e32f3a8fbb3370baa34d3dcfab5d9e5573ac9"/>
+	</game>
+	<game name="ZXMas Carol (2022)(uglifruit)">
+		<description>ZXMas Carol (2022)(uglifruit)</description>
+		<rom name="ZXMas Carol (2022)(uglifruit).tap" size="1696" crc="903b989c" md5="6e8873210b1e1f34c94f674916be620f" sha1="b4eec140dbc23e5b4f9b380a498bc2d95ae2a9e5"/>
+	</game>
+	<game name="ZXN.RU promotion (2021-07)(RMDA)[Lost Party]">
+		<description>ZXN.RU promotion (2021-07)(RMDA)[Lost Party]</description>
+		<rom name="ZXN.RU promotion (2021-07)(RMDA)[Lost Party].tap" size="655360" crc="1eb7ba8f" md5="dda2d6461cfa7e750278e6efc406b2c0" sha1="816db70e9137b569ef5ffe49a71584e8dc4874bb"/>
 	</game>
 	<game name="Zabhmo (2000-08)(Plonba)[ZX Party]">
 		<description>Zabhmo (2000-08)(Plonba)[ZX Party]</description>
@@ -5298,6 +5774,10 @@
 		<description>Zool (2000-05)(Delta Hackers Group)[Paradox]</description>
 		<rom name="Zool (2000-05)(Delta Hackers Group)[Paradox].tap" size="4177" crc="90289bc5" md5="5a2188afbe5bd7e02516d0f59ae5a943" sha1="baeedcaf83b9e71f73cf9e91183124daeca8c223"/>
 	</game>
+	<game name="Zoom and Rotate (2022-08)(Agenda)[Xenium]">
+		<description>Zoom and Rotate (2022-08)(Agenda)[Xenium]</description>
+		<rom name="Zoom and Rotate (2022-08)(Agenda)[Xenium].tap" size="373" crc="e7294231" md5="4641690c4828b6cdd9615a78be7a1a29" sha1="20129268eb72698684d3d16709cd1e76a20e5f4b"/>
+	</game>
 	<game name="Zoon Jhc2011 (2011-12)(-)[JHCon]">
 		<description>Zoon Jhc2011 (2011-12)(-)[JHCon]</description>
 		<rom name="Zoon Jhc2011 (2011-12)(-)[JHCon].tap" size="521" crc="85bcd65b" md5="cfb41b96c1cf3a545961c85c1acfd7d2" sha1="615a1acb1e007c0b865b0a3b1d8d15e5648c74dd"/>
@@ -5330,25 +5810,73 @@
 		<description>Zywiec (2011-08)(HOOY-PROGRAM)[International Vodka Party]</description>
 		<rom name="Zywiec (2011-08)(HOOY-PROGRAM)[International Vodka Party].tap" size="13048" crc="965063dc" md5="91f5c2d34d40b110c5871bc37bd776e7" sha1="f41c450b0973e987af1699dec1d01b0715718489"/>
 	</game>
+	<game name="an Unexpected Blizzard (2018-12)(RET)[RAAT]">
+		<description>an Unexpected Blizzard (2018-12)(RET)[RAAT]</description>
+		<rom name="an Unexpected Blizzard (2018-12)(RET)[RAAT].tap" size="9905" crc="bc3cbc32" md5="54286d251807bd978933d518d554dea1" sha1="0f0eda544a626346b7ebcc32cdb8ba9e4dc4c2ca"/>
+	</game>
 	<game name="be Quick as Your Dick (2002-03)(HOOY-PROGRAM)[Forever]">
 		<description>be Quick as Your Dick (2002-03)(HOOY-PROGRAM)[Forever]</description>
 		<rom name="be Quick as Your Dick (2002-03)(HOOY-PROGRAM)[Forever].tap" size="76318" crc="9a92f07d" md5="17ae3631ae8e85a5c7b811b74da33c13" sha1="4cf6c665bddaa3e582ab89766529c217827a25cb"/>
 	</game>
-	<game name="beeperstack (2018)(AER - Sand)">
-		<description>beeperstack (2018)(AER - Sand)</description>
-		<rom name="beeperstack (2018)(AER - Sand).tap" size="14255" crc="bd779611" md5="b9629b9b014c06a45463f9ce3d7b755d" sha1="98b4046f65655337b51ec77f985aea76446d0c60"/>
+	<game name="beeperstack (2018)(AER)(RU)(en)">
+		<description>beeperstack (2018)(AER)(RU)(en)</description>
+		<rom name="beeperstack (2018)(AER)(RU)(en).tap" size="14255" crc="bd779611" md5="b9629b9b014c06a45463f9ce3d7b755d" sha1="98b4046f65655337b51ec77f985aea76446d0c60"/>
 	</game>
 	<game name="ded Smirnoff Memory (2002-04)(-)[Ascii]">
 		<description>ded Smirnoff Memory (2002-04)(-)[Ascii]</description>
 		<rom name="ded Smirnoff Memory (2002-04)(-)[Ascii].tap" size="13322" crc="d3b963bc" md5="3875128f6c4cbd4b488987951498f34e" sha1="8173835190fa18645ef51f277f651a6af59b1f65"/>
 	</game>
+	<game name="delightful attributes (2021-04)(Darklite)[Revision]">
+		<description>delightful attributes (2021-04)(Darklite)[Revision]</description>
+		<rom name="delightful attributes (2021-04)(Darklite)[Revision].tap" size="4121" crc="ade8733d" md5="6a8e76a3912f2b73db7756f9f5804b29" sha1="7f56031629cb8f4a84c09db972d6a77f2285f2b1"/>
+	</game>
 	<game name="e n m n m (2016-08)(Noby)[Chaos Constructions]">
 		<description>e n m n m (2016-08)(Noby)[Chaos Constructions]</description>
 		<rom name="e n m n m (2016-08)(Noby)[Chaos Constructions].tap" size="6419" crc="7225a0ff" md5="674e52d84d2b5a2f76977f3c5e87d9e4" sha1="eefdbbd925ebe0b91b1b07e3284e49a9c9d08db1"/>
 	</game>
+	<game name="entangler (2023-02)(3SC)[Lovebyte]">
+		<description>entangler (2023-02)(3SC)[Lovebyte]</description>
+		<rom name="entangler (2023-02)(3SC)[Lovebyte].tap" size="334" crc="34c990a8" md5="2fb0e3fd73d127677dc665dcca1e8614" sha1="1f17c99acba2b497e7d4edd3061063c1edfaddcb"/>
+	</game>
+	<game name="eye (2023-01)(RMDA)[DiHALT]">
+		<description>eye (2023-01)(RMDA)[DiHALT]</description>
+		<rom name="eye (2023-01)(RMDA)[DiHALT].tap" size="655360" crc="1249c1d8" md5="a406c2c5f549de80629e07d88e93b87d" sha1="afcfb8ce4e7828b1918cb7b91100da3b1c5677d8"/>
+	</game>
+	<game name="happy party three demo (2021-06)(LZW)">
+		<description>happy party three demo (2021-06)(LZW)</description>
+		<rom name="happy party three demo (2021-06)(LZW).tap" size="58469" crc="ace7f6bd" md5="fe21b615d44fc5264ba6a8f43bfd7e3b" sha1="afaa5fc04b8a801fd4473f01357a8ee207cecaab"/>
+	</game>
+	<game name="hu15b (2022-02)(g0blinish)[Lovebyte]">
+		<description>hu15b (2022-02)(g0blinish)[Lovebyte]</description>
+		<rom name="hu15b (2022-02)(g0blinish)[Lovebyte].tap" size="111" crc="d38d01d6" md5="2d8d088f3a17a87cac93e53bfc7a26fd" sha1="ad1e57738557e4ab595e5cd17da62ec06fcd2bde"/>
+	</game>
+	<game name="intro01 (2023-02)(-)">
+		<description>intro01 (2023-02)(-)</description>
+		<rom name="intro01 (2023-02)(-).tap" size="9574" crc="d723f5c6" md5="0c7f099a9e9697dcec1265b73d8d5729" sha1="523d0f65016abeff379dec70efe21da224f0572c"/>
+	</game>
+	<game name="less8b (2021-03)(g0blinish)[Lovebyte]">
+		<description>less8b (2021-03)(g0blinish)[Lovebyte]</description>
+		<rom name="less8b (2021-03)(g0blinish)[Lovebyte].tap" size="129" crc="2ea8640f" md5="cae04cafba5862768315991cc8248224" sha1="814fd77d9bbd2d281aa1adb82eed4823b98b6501"/>
+	</game>
+	<game name="lovebyte'2021 inv!tation (2021-01)(bfox)">
+		<description>lovebyte'2021 inv!tation (2021-01)(bfox)</description>
+		<rom name="lovebyte'2021 inv!tation (2021-01)(bfox).tap" size="704512" crc="b9a3573d" md5="9be336e310d61e480e8e0fd00ba3d5cb" sha1="39231a7b237114f89c8ba7ed120170fe28087469"/>
+	</game>
+	<game name="nanoposts (2023-02)(3SC)[Lovebyte]">
+		<description>nanoposts (2023-02)(3SC)[Lovebyte]</description>
+		<rom name="nanoposts (2023-02)(3SC)[Lovebyte].tap" size="94" crc="8d0f13d2" md5="288ae6b0fd346f4edf6a16dbd41eb62c" sha1="d1b21a6cedf95733bcbb549fc936ba48cd4bb568"/>
+	</game>
 	<game name="nc Logo (2000-07)(Naughty Crew)[Kaplicon]">
 		<description>nc Logo (2000-07)(Naughty Crew)[Kaplicon]</description>
 		<rom name="nc Logo (2000-07)(Naughty Crew)[Kaplicon].tap" size="3712" crc="157ac849" md5="2841d16d146962699df3bdc413ba2ccc" sha1="e316d7ef242cd0d62260688f34e9217c3f5633bf"/>
+	</game>
+	<game name="neneirodoroga (2022-10)(-)[CAFe]">
+		<description>neneirodoroga (2022-10)(-)[CAFe]</description>
+		<rom name="neneirodoroga (2022-10)(-)[CAFe].tap" size="21212" crc="70bec059" md5="f74a1626542b14a178d71552887b5386" sha1="8a70ff6d68d7f424e3d498ebf2a3c977edcf9968"/>
+	</game>
+	<game name="nexgen-texgen (2022-02)(3SC)[Lovebyte]">
+		<description>nexgen-texgen (2022-02)(3SC)[Lovebyte]</description>
+		<rom name="nexgen-texgen (2022-02)(3SC)[Lovebyte].tap" size="148" crc="17e71571" md5="94de1a5c134928098884687256bec63a" sha1="a0c72d8c0e842bfc68e2d3837d06d63d04f7f4c5"/>
 	</game>
 	<game name="nnn (2005-07)(CPU)[Assembly]">
 		<description>nnn (2005-07)(CPU)[Assembly]</description>
@@ -5370,6 +5898,10 @@
 		<description>old Skool Invitro Maker - Sundown 06 Invite (2006-08)(ate Bit)</description>
 		<rom name="old Skool Invitro Maker - Sundown 06 Invite (2006-08)(ate Bit).tap" size="59293" crc="2a996bed" md5="26ef15342b595df03849724dec784f7c" sha1="3da611bc380880b26c2f1a139a490eddf6c52db5"/>
 	</game>
+	<game name="one day - one love (2021-03)(bfox)[Lovebyte]">
+		<description>one day - one love (2021-03)(bfox)[Lovebyte]</description>
+		<rom name="one day - one love (2021-03)(bfox)[Lovebyte].tap" size="249" crc="6bdc479f" md5="c0f683b4a805cdde9381875a2bca2879" sha1="fc7994b328495c58e9b8466ad918fb94c4265a54"/>
+	</game>
 	<game name="one too Many (19xx)(Extacy-3)">
 		<description>one too Many (19xx)(Extacy-3)</description>
 		<rom name="one too Many (19xx)(Extacy-3).tap" size="72125" crc="73fdb47c" md5="93f99164cc00915a238adf3b873d743c" sha1="6fe403d894f599e1810c3301e6db43e4d9ab5c82"/>
@@ -5377,6 +5909,14 @@
 	<game name="one too Many 2 (19xx)(Extacy-3)">
 		<description>one too Many 2 (19xx)(Extacy-3)</description>
 		<rom name="one too Many 2 (19xx)(Extacy-3).tap" size="36379" crc="b69b2f44" md5="fd7e91a9df6892d47ad71bb85548a6bf" sha1="2c08e1f415778b5336ecb288e76401775aab5caf"/>
+	</game>
+	<game name="quadpusher (2022-02)(3SC)[Lovebyte]">
+		<description>quadpusher (2022-02)(3SC)[Lovebyte]</description>
+		<rom name="quadpusher (2022-02)(3SC)[Lovebyte].tap" size="340" crc="901ebd10" md5="67c787bdcddd0d5a1097debbd11c1c5d" sha1="64056bb8d5f6b4cf0b4a5fbae37ec3741610a9e7"/>
+	</game>
+	<game name="radar (2023-01)(RMDA)[DiHALT]">
+		<description>radar (2023-01)(RMDA)[DiHALT]</description>
+		<rom name="radar (2023-01)(RMDA)[DiHALT].tap" size="655360" crc="02eae020" md5="e4e68103a01a51b923e60007aafeb6df" sha1="177b1de1185055f142f715bc534f1f4d0ae0fa3d"/>
 	</game>
 	<game name="raww.orgy 2006 Graphics Player (2006-02)(raww arse)[raww.orgy]">
 		<description>raww.orgy 2006 Graphics Player (2006-02)(raww arse)[raww.orgy]</description>
@@ -5386,9 +5926,29 @@
 		<description>raww.orgy 2006 Music Player (2006-02)(raww arse)[raww.orgy]</description>
 		<rom name="raww.orgy 2006 Music Player (2006-02)(raww arse)[raww.orgy].tap" size="29808" crc="cb78b2ec" md5="2ed86d1f621872f4136d77c9301b83e8" sha1="7f6d057c39966e7db79e74d17582db42cbb6506a"/>
 	</game>
+	<game name="saqqara (2023-02)(3SC)[Lovebyte]">
+		<description>saqqara (2023-02)(3SC)[Lovebyte]</description>
+		<rom name="saqqara (2023-02)(3SC)[Lovebyte].tap" size="110" crc="daf42eda" md5="6a107a7a25307fb47f199076eb39ec08" sha1="1283d38c85ab635abe277b9482436b46b462abb5"/>
+	</game>
+	<game name="spacedots (2022-02)(3SC)[Lovebyte]">
+		<description>spacedots (2022-02)(3SC)[Lovebyte]</description>
+		<rom name="spacedots (2022-02)(3SC)[Lovebyte].tap" size="334" crc="9f843ec6" md5="317e4de54ce1bdd2f6404aaa702ece97" sha1="128ea7ade5343d17117f45f7d95b078b1bfab3f0"/>
+	</game>
+	<game name="undefined plasma (2022-08)(g0blinish)[Undefined]">
+		<description>undefined plasma (2022-08)(g0blinish)[Undefined]</description>
+		<rom name="undefined plasma (2022-08)(g0blinish)[Undefined].tap" size="655360" crc="62909b6f" md5="aed2005f294a1d3a05449d37107900c4" sha1="df835fd6668793d59cd44510e42d7b2ea2b8b190"/>
+	</game>
+	<game name="upside down (2021-03)(bfox)[Lovebyte]">
+		<description>upside down (2021-03)(bfox)[Lovebyte]</description>
+		<rom name="upside down (2021-03)(bfox)[Lovebyte].tap" size="185" crc="f47aabf0" md5="1a8f2870ed1db77b1a890e5e9df2ecf7" sha1="4d309eee3e5c26d08d5e0ce21462815eeef727c5"/>
+	</game>
 	<game name="va (2019)(g0blinish)(48K-128K)(RU)(en)">
 		<description>va (2019)(g0blinish)(48K-128K)(RU)(en)</description>
 		<rom name="va (2019)(g0blinish)(48K-128K)(RU)(en).tap" size="1116" crc="f0587730" md5="c2a8019322a4cb4ebd8639fb71894650" sha1="c3a6e55aad1ffef5c800070ea224cb5056f790d0"/>
+	</game>
+	<game name="waferfall (2022-02)(3SC)[Lovebyte]">
+		<description>waferfall (2022-02)(3SC)[Lovebyte]</description>
+		<rom name="waferfall (2022-02)(3SC)[Lovebyte].tap" size="116" crc="f2eabe08" md5="9cc42061cf26acaec815d8c7f46a5376" sha1="bfe686e41face5e6d105bbcf8279b864b1bf32a3"/>
 	</game>
 	<game name="we all Shivering at Night (2007-02)(CPU)[raww.orgy]">
 		<description>we all Shivering at Night (2007-02)(CPU)[raww.orgy]</description>

@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 
 <datafile>
 	<header>
-		<name>Commodore Amiga - Magazines - Amiga Format</name>
-		<description>Commodore Amiga - Magazines - Amiga Format (TOSEC-v2017-07-27)</description>
+		<name>Commodore Amiga - Magazines - Amiga Format (GB)</name>
+		<description>Commodore Amiga - Magazines - Amiga Format (GB) (TOSEC-v2023-06-13)</description>
 		<category>TOSEC-PIX</category>
-		<version>2017-07-27</version>
+		<version>2023-06-13</version>
 		<author>TOSEC-PIX</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -64,13 +64,13 @@
 		<description>Amiga CD Format (1993)(Future Publishing)(GB)[supplement, issue 051]</description>
 		<rom name="Amiga CD Format (1993)(Future Publishing)(GB)[supplement, issue 051].pdf" size="39358325" crc="b7c0cf02" md5="bff24e4a9c1adbd792704d491e42c096" sha1="613fdb1f1eed76cd30fbec1cbba09971626346ac"/>
 	</game>
-	<game name="Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[supplement, issue 54]">
-		<description>Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[supplement, issue 54]</description>
-		<rom name="Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[supplement, issue 54].pdf" size="20825132" crc="1a421797" md5="6daf79645c6b587fc4636b04efbf12a4" sha1="9cd5a3d87619ce0778276bf254b94f988d219bf7"/>
-	</game>
 	<game name="Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[a][supplement, issue 54]">
 		<description>Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[a][supplement, issue 54]</description>
 		<rom name="Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[a][supplement, issue 54].pdf" size="74512044" crc="f285f909" md5="8ea71df2a7b2bdc3e0f8c238e6886e1f" sha1="565f7be2a856873dc3b275a2f0da61ff65ae87d3"/>
+	</game>
+	<game name="Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[supplement, issue 54]">
+		<description>Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[supplement, issue 54]</description>
+		<rom name="Amiga Format - 1994 Buyers' Guide (1994)(Future Publishing)(GB)[supplement, issue 54].pdf" size="20825132" crc="1a421797" md5="6daf79645c6b587fc4636b04efbf12a4" sha1="9cd5a3d87619ce0778276bf254b94f988d219bf7"/>
 	</game>
 	<game name="Amiga Format - Comic Relief (1993)(Future Publishing)(GB)[supplement, issue 043]">
 		<description>Amiga Format - Comic Relief (1993)(Future Publishing)(GB)[supplement, issue 043]</description>
@@ -80,6 +80,10 @@
 		<description>Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB).pdf" size="134748641" crc="026765ec" md5="8f09562cfee52a2595c6982f06aae871" sha1="c2f7c17637e3025cd9be922db0b36f02d61af2e0"/>
 	</game>
+	<game name="Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)[a2]">
+		<description>Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)[a2]</description>
+		<rom name="Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)[a2].pdf" size="53054630" crc="1acd5b65" md5="bea1f310a0033f1d422d52503f6995db" sha1="1c09203a732865584fe15ca04e3071a5964fdbfc"/>
+	</game>
 	<game name="Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)[a]">
 		<description>Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)[a]</description>
 		<rom name="Amiga Format - Issue 001 (1989-08)(Future Publishing)(GB)[a].pdf" size="24235498" crc="73e95e87" md5="80ee018f43c89af4a4de9e6461732725" sha1="a5c7f163f19291a372f69a893360c1dbe7f090ae"/>
@@ -88,9 +92,17 @@
 		<description>Amiga Format - Issue 002 (1989-09)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 002 (1989-09)(Future Publishing)(GB).pdf" size="124052907" crc="11da7c50" md5="58e29cedeaeae91119d498f1b3289946" sha1="e149cb8c4dddbd29cf047bb48ae94bc99c5a5094"/>
 	</game>
+	<game name="Amiga Format - Issue 002 (1989-09)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 002 (1989-09)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 002 (1989-09)(Future Publishing)(GB)[a].pdf" size="60838149" crc="a194c95c" md5="842976b102e29390edd29f4283feafb8" sha1="1ce64c2aeae666155e16f72fb5113a990a3c2c9e"/>
+	</game>
 	<game name="Amiga Format - Issue 003 (1989-10)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 003 (1989-10)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 003 (1989-10)(Future Publishing)(GB).pdf" size="93254938" crc="0e49dbd7" md5="7a82b2abca4c103e3f68849f1ca1e1b0" sha1="71588ec960bb05d188095aec84371e5d36878605"/>
+	</game>
+	<game name="Amiga Format - Issue 003 (1989-10)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 003 (1989-10)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 003 (1989-10)(Future Publishing)(GB)[a].pdf" size="74637449" crc="71922022" md5="36d278fdbdc14f5ff740367b108a7a43" sha1="93cf119a3fb937351101f877ebe9825494490e9c"/>
 	</game>
 	<game name="Amiga Format - Issue 004 (1989-11)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 004 (1989-11)(Future Publishing)(GB)</description>
@@ -99,6 +111,10 @@
 	<game name="Amiga Format - Issue 005 (1989-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 005 (1989-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 005 (1989-12)(Future Publishing)(GB).pdf" size="98538458" crc="f3559122" md5="975fea59a13dda50d8a656138bb6a9b1" sha1="9e7231e86e8b79ce23a6c1e912e11e06738a667f"/>
+	</game>
+	<game name="Amiga Format - Issue 006 (1990-01)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 006 (1990-01)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 006 (1990-01)(Future Publishing)(GB).pdf" size="164140190" crc="6a44c88d" md5="75e494bb204aa4109aca317ca19873e8" sha1="a3366250fac4608862cac4117e25b388bf2c7470"/>
 	</game>
 	<game name="Amiga Format - Issue 007 (1990-02)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 007 (1990-02)(Future Publishing)(GB)</description>
@@ -112,13 +128,37 @@
 		<description>Amiga Format - Issue 009 (1990-04)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 009 (1990-04)(Future Publishing)(GB).pdf" size="179442556" crc="f998da36" md5="d308123d2b6ec1a360449d9da853e9af" sha1="cc962e9c9a6499ca2c4afbaf896339a789fac77d"/>
 	</game>
+	<game name="Amiga Format - Issue 009 (1990-04)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 009 (1990-04)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 009 (1990-04)(Future Publishing)(GB)[a].pdf" size="352733124" crc="d8c479d4" md5="6bc6a3fb3098a0b806fc4c67d2c35d63" sha1="82b9cb6756df1c12518045421fb04bfaa2b191ea"/>
+	</game>
 	<game name="Amiga Format - Issue 010 (1990-05)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 010 (1990-05)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 010 (1990-05)(Future Publishing)(GB).pdf" size="208253495" crc="3dfc981a" md5="0ae802dfc1a12f6009380b7cf45f6d41" sha1="ecfff95bb4885e9f182d9b386377dfd884d6e5a1"/>
 	</game>
+	<game name="Amiga Format - Issue 011 (1990-06)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 011 (1990-06)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 011 (1990-06)(Future Publishing)(GB).pdf" size="325824366" crc="f3fe7e16" md5="cbca361cbaec2ba87002006bf566f0a0" sha1="f1ab3d744db119828298c143a2342a6397529e28"/>
+	</game>
 	<game name="Amiga Format - Issue 012 (1990-07)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 012 (1990-07)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 012 (1990-07)(Future Publishing)(GB).pdf" size="107174467" crc="0976c631" md5="af8486fac7783b8881e887d2b7329aca" sha1="09e7713aec269f63f8af614d61412bad6365caa2"/>
+	</game>
+	<game name="Amiga Format - Issue 013 (1990-08)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 013 (1990-08)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 013 (1990-08)(Future Publishing)(GB).pdf" size="144653562" crc="4c836d34" md5="a319fd5982ce813c765ee7db4fedefb8" sha1="299beb8f06db6597df8270894534a9040662f39c"/>
+	</game>
+	<game name="Amiga Format - Issue 014 (1990-09)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 014 (1990-09)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 014 (1990-09)(Future Publishing)(GB).pdf" size="151495325" crc="e1aa9874" md5="3b730fc549997d64cc94eb43172b5462" sha1="41c663f14bf60f8e37d0462f5368755908dd5836"/>
+	</game>
+	<game name="Amiga Format - Issue 015 (1990-10)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 015 (1990-10)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 015 (1990-10)(Future Publishing)(GB).pdf" size="211333600" crc="19ca43b3" md5="1681217bd2b389a0f9d4f08be6355133" sha1="088d133c6a6aafd4092f13f6c4707e1b12e576fa"/>
+	</game>
+	<game name="Amiga Format - Issue 016 (1990-11)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 016 (1990-11)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 016 (1990-11)(Future Publishing)(GB).pdf" size="259046414" crc="3f6dcca0" md5="ac0615d0472c0efef17de35f4b59c993" sha1="e35da8767c0b74a1a710f50db2a9b478fb927c9e"/>
 	</game>
 	<game name="Amiga Format - Issue 017 (1990-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 017 (1990-12)(Future Publishing)(GB)</description>
@@ -140,9 +180,21 @@
 		<description>Amiga Format - Issue 021 (1991-04)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 021 (1991-04)(Future Publishing)(GB).pdf" size="130210857" crc="aff4aba6" md5="ad606c241582fbb4c9c919307b8a6f96" sha1="e980b981af5df7a5107adee9e1ac33c706db2a74"/>
 	</game>
+	<game name="Amiga Format - Issue 022 (1991-05)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 022 (1991-05)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 022 (1991-05)(Future Publishing)(GB).pdf" size="320496283" crc="bc0206d3" md5="1237a3407aee5f46b6fcdbd8e9ceb7a5" sha1="2949a00412fbebd19f06e508dc3be9d1ed44086c"/>
+	</game>
+	<game name="Amiga Format - Issue 022 (1991-05)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 022 (1991-05)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 022 (1991-05)(Future Publishing)(GB)[a].pdf" size="195330269" crc="667bf77f" md5="4080ab4511ad87c1843c957d95a7c344" sha1="a058dba4b32d635a3db85c4a56e924c551119e10"/>
+	</game>
 	<game name="Amiga Format - Issue 023 (1991-06)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 023 (1991-06)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 023 (1991-06)(Future Publishing)(GB).pdf" size="134170050" crc="9e8c2995" md5="85fc1a9b2422332e117d49ade011310d" sha1="79682e7dcfe260e6fa2c392e8013732408cb6115"/>
+	</game>
+	<game name="Amiga Format - Issue 024 (1991-07)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 024 (1991-07)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 024 (1991-07)(Future Publishing)(GB).pdf" size="405574265" crc="432bba1e" md5="5f930b87473797000240a67e06258b9a" sha1="3fb7f0331a2cf1023a81132b5913e4f46b93b595"/>
 	</game>
 	<game name="Amiga Format - Issue 025 (1991-08)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 025 (1991-08)(Future Publishing)(GB)</description>
@@ -155,6 +207,10 @@
 	<game name="Amiga Format - Issue 027 (1991-10)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 027 (1991-10)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 027 (1991-10)(Future Publishing)(GB).pdf" size="130954793" crc="f085eec2" md5="0ea0acd07be27d7acfaa258b3c901620" sha1="663d61b34959a57eeca358f4e4e1ce1cb9482ecf"/>
+	</game>
+	<game name="Amiga Format - Issue 028 (1991-11)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 028 (1991-11)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 028 (1991-11)(Future Publishing)(GB).pdf" size="176557243" crc="b1ead2ae" md5="a1346c434f53cff656fda517026e232b" sha1="ad5f00d55a8d1346e8c0428defeb4fe9f19194d7"/>
 	</game>
 	<game name="Amiga Format - Issue 029 (1991-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 029 (1991-12)(Future Publishing)(GB)</description>
@@ -204,6 +260,14 @@
 		<description>Amiga Format - Issue 038 (1992-09)(Future Publishing)(GB)[a]</description>
 		<rom name="Amiga Format - Issue 038 (1992-09)(Future Publishing)(GB)[a].pdf" size="97506067" crc="3c0d0526" md5="10583f5b15d5ebfac5718213589ee314" sha1="2e5875055e4e3102e4dbd40bd200e55a12d6137b"/>
 	</game>
+	<game name="Amiga Format - Issue 039 (1992-10)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 039 (1992-10)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 039 (1992-10)(Future Publishing)(GB).pdf" size="567683772" crc="d05d210c" md5="fefe01019cb9d8b5795af7dcd1306ac7" sha1="ff9ddceaefb5eda5a7e9391a7272136a2d508fc6"/>
+	</game>
+	<game name="Amiga Format - Issue 039 (1992-10)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 039 (1992-10)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 039 (1992-10)(Future Publishing)(GB)[a].pdf" size="258666047" crc="49304446" md5="430ef901e87f54cc64ade5abf7ea5abf" sha1="bbd8fd37f0cb885177aa85fd893853aca554cb0c"/>
+	</game>
 	<game name="Amiga Format - Issue 040 (1992-11)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 040 (1992-11)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 040 (1992-11)(Future Publishing)(GB).pdf" size="152963507" crc="3a78c829" md5="7da872cc21e680173beeeaae9be30d0c" sha1="189f7bc5758e9b78b26b754f18eb0c9553032d77"/>
@@ -211,6 +275,14 @@
 	<game name="Amiga Format - Issue 041 (1992-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 041 (1992-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 041 (1992-12)(Future Publishing)(GB).pdf" size="78740242" crc="d7ac994f" md5="1fcaf33c5170af5fde97d1389d8fc6e8" sha1="e1d3e7f0bf5d78a70c777a8945a027acb3263918"/>
+	</game>
+	<game name="Amiga Format - Issue 042 (1993-01)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 042 (1993-01)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 042 (1993-01)(Future Publishing)(GB).pdf" size="344859715" crc="bf50d1d2" md5="6580f9a19a645c788a95208da640a108" sha1="07ea6880884851c3cac0550a48ff407883e38930"/>
+	</game>
+	<game name="Amiga Format - Issue 042 (1993-01)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 042 (1993-01)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 042 (1993-01)(Future Publishing)(GB)[a].pdf" size="247612192" crc="f5950b53" md5="6cf8808e6ea5d439763903a25c908a10" sha1="226508585f1c3ad6eac753f63671e62c9bd8b889"/>
 	</game>
 	<game name="Amiga Format - Issue 043 (1993-02)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 043 (1993-02)(Future Publishing)(GB)</description>
@@ -256,6 +328,14 @@
 		<description>Amiga Format - Issue 053 (1993-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 053 (1993-12)(Future Publishing)(GB).pdf" size="139976077" crc="5b58dc42" md5="901ee8cfc020947a2bd670786a91e47a" sha1="bc61d7874a555bcd54c1b633ab04071ed9fdd0ce"/>
 	</game>
+	<game name="Amiga Format - Issue 053 (1993-12)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 053 (1993-12)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 053 (1993-12)(Future Publishing)(GB)[a].pdf" size="385664010" crc="6114c894" md5="99483e76963b0c1b6e52768cd41eb650" sha1="7940b9c35050606d5796d3d9844a662c3d09c852"/>
+	</game>
+	<game name="Amiga Format - Issue 054 (1993)(Future Publishing)(GB)[a][christmas edition]">
+		<description>Amiga Format - Issue 054 (1993)(Future Publishing)(GB)[a][christmas edition]</description>
+		<rom name="Amiga Format - Issue 054 (1993)(Future Publishing)(GB)[a][christmas edition].pdf" size="598804742" crc="f6eaa83c" md5="f25ac64767f3e841c70b340a6ff7b96b" sha1="3f57faaec4953b06aae8015a7118c87f0e82af1c"/>
+	</game>
 	<game name="Amiga Format - Issue 054 (1993)(Future Publishing)(GB)[christmas edition]">
 		<description>Amiga Format - Issue 054 (1993)(Future Publishing)(GB)[christmas edition]</description>
 		<rom name="Amiga Format - Issue 054 (1993)(Future Publishing)(GB)[christmas edition].pdf" size="174549154" crc="1b8600a3" md5="8178935e6814298152c0388a53bb556b" sha1="062906dea9b6833d704c91ce6f24e1880a2b1d75"/>
@@ -264,9 +344,17 @@
 		<description>Amiga Format - Issue 055 (1994-01)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 055 (1994-01)(Future Publishing)(GB).pdf" size="321114972" crc="bb069f76" md5="bcc7ad8308d967f133fd63359000237c" sha1="3efd8463a028f16e08b474cd251049982a3cca2a"/>
 	</game>
+	<game name="Amiga Format - Issue 055 (1994-01)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 055 (1994-01)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 055 (1994-01)(Future Publishing)(GB)[a].pdf" size="392994507" crc="576df58c" md5="facf729627dc8cd67b211be8974f28af" sha1="d6d6c5308a06140cfced61895d02fa43dfab9b04"/>
+	</game>
 	<game name="Amiga Format - Issue 056 (1994-02)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 056 (1994-02)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 056 (1994-02)(Future Publishing)(GB).pdf" size="270289259" crc="3f315bb9" md5="f36ad320f91f0ff57f13db1103110dae" sha1="a86ede72369269e1cf881548dab83986493e2b1f"/>
+	</game>
+	<game name="Amiga Format - Issue 056 (1994-02)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 056 (1994-02)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 056 (1994-02)(Future Publishing)(GB)[a].pdf" size="358145078" crc="1670e6cf" md5="2deb5fc0ada04a56b032377de0d8cfb1" sha1="5d9966f4249983c5bb59997fb8526697364b11ec"/>
 	</game>
 	<game name="Amiga Format - Issue 057 (1994-03)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 057 (1994-03)(Future Publishing)(GB)</description>
@@ -280,6 +368,10 @@
 		<description>Amiga Format - Issue 059 (1994-05)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 059 (1994-05)(Future Publishing)(GB).pdf" size="116250304" crc="95836f40" md5="f07ef99a7c5b95f2088a1abbd73672b2" sha1="6f33d1493288c1fce943a679260cfad4ca7ac2e8"/>
 	</game>
+	<game name="Amiga Format - Issue 059 (1994-05)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 059 (1994-05)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 059 (1994-05)(Future Publishing)(GB)[a].pdf" size="397671454" crc="cef4b64c" md5="76e879b9825cd6efeb9626257535f6fd" sha1="f8abc4599f9c1fccdf9ae0719ae78619dd27441d"/>
+	</game>
 	<game name="Amiga Format - Issue 060 (1994-06)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 060 (1994-06)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 060 (1994-06)(Future Publishing)(GB).pdf" size="276474657" crc="4fdc4306" md5="e782d96a002c1844f8ff382a327dc5ab" sha1="f5836f97f443dae1c8e01369e0e243c967ce5103"/>
@@ -287,6 +379,10 @@
 	<game name="Amiga Format - Issue 061 (1994-07)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 061 (1994-07)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 061 (1994-07)(Future Publishing)(GB).pdf" size="643231123" crc="907029f3" md5="946e5b1112b158592631494d0d89f89f" sha1="35a72bcfb3c213220a24afe08d5d5777ce1fe28d"/>
+	</game>
+	<game name="Amiga Format - Issue 061 (1994-07)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 061 (1994-07)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 061 (1994-07)(Future Publishing)(GB)[a].pdf" size="390090843" crc="1c24ed65" md5="c552e346835376ed9f0420136f848b04" sha1="0174caaf98568d754f14b00f6128af33bdfd92c8"/>
 	</game>
 	<game name="Amiga Format - Issue 062 (1994-08)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 062 (1994-08)(Future Publishing)(GB)</description>
@@ -307,6 +403,10 @@
 	<game name="Amiga Format - Issue 066 (1994-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 066 (1994-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 066 (1994-12)(Future Publishing)(GB).pdf" size="207376127" crc="7775a463" md5="7cfb61d9392f0e0999fefe5f733edff7" sha1="2adb81e83774d6e9f53e2f20188dbe64008de71c"/>
+	</game>
+	<game name="Amiga Format - Issue 066 (1994-12)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 066 (1994-12)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 066 (1994-12)(Future Publishing)(GB)[a].pdf" size="214886576" crc="4a4396dd" md5="37269a5f2aad6f7b48879af405d81c6b" sha1="0ff0d9256510569dc4370ee87045e2e7fb41ee9c"/>
 	</game>
 	<game name="Amiga Format - Issue 067 (1995-01)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 067 (1995-01)(Future Publishing)(GB)</description>
@@ -332,6 +432,10 @@
 		<description>Amiga Format - Issue 071 (1995-05)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 071 (1995-05)(Future Publishing)(GB).pdf" size="212769301" crc="15ce669b" md5="6a3e06d3555a2fbde93702259d82c3db" sha1="4b7d3657f678f819f7c8fa6f7885765083522203"/>
 	</game>
+	<game name="Amiga Format - Issue 071 (1995-05)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 071 (1995-05)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 071 (1995-05)(Future Publishing)(GB)[a].pdf" size="32587004" crc="9d9238ee" md5="89ebd209724a4811a7c5972044e4527d" sha1="40ee4e5e31d30ff87cb1ea6904fb6a17105b2931"/>
+	</game>
 	<game name="Amiga Format - Issue 072 (1995-06)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 072 (1995-06)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 072 (1995-06)(Future Publishing)(GB).pdf" size="217482887" crc="3c3518d5" md5="8117a734348158792e0324950324cb1d" sha1="3ff2bec0c9f1ed0046b303aa7d884312de55e003"/>
@@ -356,9 +460,17 @@
 		<description>Amiga Format - Issue 077 (1995-11)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 077 (1995-11)(Future Publishing)(GB).pdf" size="208698662" crc="807cd925" md5="3cc7f938b2352f452067a0eee552ad3d" sha1="a0315fbe1d7e2d9ed534fa6bd5140e841c9d1ac1"/>
 	</game>
+	<game name="Amiga Format - Issue 077 (1995-11)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 077 (1995-11)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 077 (1995-11)(Future Publishing)(GB)[a].pdf" size="347902147" crc="2175bbf6" md5="84be9e4b55e485065754d40cf1728317" sha1="6c20d1cb2cc67abf4703baadbd010ab0f0279a37"/>
+	</game>
 	<game name="Amiga Format - Issue 078 (1995-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 078 (1995-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 078 (1995-12)(Future Publishing)(GB).pdf" size="205609020" crc="518489c1" md5="133687946f7f918f1d386d03918d6d3d" sha1="883d8fa5777a2f08568b6ccdde8ea44049581f81"/>
+	</game>
+	<game name="Amiga Format - Issue 079 (1995)(Future Publishing)(GB)[a][christmas edition]">
+		<description>Amiga Format - Issue 079 (1995)(Future Publishing)(GB)[a][christmas edition]</description>
+		<rom name="Amiga Format - Issue 079 (1995)(Future Publishing)(GB)[a][christmas edition].pdf" size="329661691" crc="5fafb2c1" md5="3dda8aac3b1b77c1e8e70ca7adbbc274" sha1="ef029b0e7657bd59c83c61d20738ca6c0e199526"/>
 	</game>
 	<game name="Amiga Format - Issue 079 (1995)(Future Publishing)(GB)[christmas edition]">
 		<description>Amiga Format - Issue 079 (1995)(Future Publishing)(GB)[christmas edition]</description>
@@ -452,9 +564,17 @@
 		<description>Amiga Format - Issue 100 (1997-08)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 100 (1997-08)(Future Publishing)(GB).pdf" size="254613683" crc="ed457ef4" md5="9b9e0e24fe41e6777359fe1bec6e03da" sha1="9f7f58c2dbb6e0099baef9da5556bfd991eaec09"/>
 	</game>
+	<game name="Amiga Format - Issue 100 (1997-08)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 100 (1997-08)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 100 (1997-08)(Future Publishing)(GB)[a].pdf" size="254967564" crc="e8b238a7" md5="752d7b177b60bcdd2a6369fd8b5dc705" sha1="28ad76f2c84fed00022548389201b6f63be54d8c"/>
+	</game>
 	<game name="Amiga Format - Issue 101 (1997-09)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 101 (1997-09)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 101 (1997-09)(Future Publishing)(GB).pdf" size="254933570" crc="d910544f" md5="6054b1922c96f8d1611b34fc7baf306b" sha1="04919964c16e6080ea1ecc335978443f280f0068"/>
+	</game>
+	<game name="Amiga Format - Issue 101 (1997-09)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 101 (1997-09)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 101 (1997-09)(Future Publishing)(GB)[a].pdf" size="249200671" crc="c07c8d3c" md5="0ff82df5fff74130b5f941b7c6210f95" sha1="0ab60bb1a4bb9f75437f60926fb1b80e8b26c512"/>
 	</game>
 	<game name="Amiga Format - Issue 102 (1997-10)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 102 (1997-10)(Future Publishing)(GB)</description>
@@ -467,6 +587,10 @@
 	<game name="Amiga Format - Issue 104 (1997-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 104 (1997-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 104 (1997-12)(Future Publishing)(GB).pdf" size="134795594" crc="89919f1b" md5="c992636fbd4f32125c13dec0d25528c1" sha1="592bf1c736f6cffe5203050d7b51aec19bfecbad"/>
+	</game>
+	<game name="Amiga Format - Issue 104 (1997-12)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 104 (1997-12)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 104 (1997-12)(Future Publishing)(GB)[a].pdf" size="406128432" crc="b17ae4b6" md5="ab04fdf5bfe3136ec44a9e48cc7fe701" sha1="f138b0d2b054b26af8eaf34fec52c24e9773ee90"/>
 	</game>
 	<game name="Amiga Format - Issue 105 (1997)(Future Publishing)(GB)[christmas edition]">
 		<description>Amiga Format - Issue 105 (1997)(Future Publishing)(GB)[christmas edition]</description>
@@ -484,9 +608,21 @@
 		<description>Amiga Format - Issue 108 (1998-03)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 108 (1998-03)(Future Publishing)(GB).pdf" size="28084643" crc="f8e85c47" md5="6569f0e87b96c1494f6435ee9ed24313" sha1="c784f0e76b0ee13115c06194457b9e666fcc2d9d"/>
 	</game>
+	<game name="Amiga Format - Issue 109 (1998-04)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 109 (1998-04)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 109 (1998-04)(Future Publishing)(GB).pdf" size="460249801" crc="787fa06b" md5="ed035fc51b9602fa07456808b3df11e3" sha1="0dab7ce1f24622565295f54d9d74a4e68d708ad9"/>
+	</game>
+	<game name="Amiga Format - Issue 109 (1998-04)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 109 (1998-04)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 109 (1998-04)(Future Publishing)(GB)[a].pdf" size="113439700" crc="22a5db29" md5="50a156530fcc20e1774107826f62dd3b" sha1="cc7a8b39daa96bb0e3c6e8128b5c5507532c0e5b"/>
+	</game>
 	<game name="Amiga Format - Issue 111 (1998-06)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 111 (1998-06)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 111 (1998-06)(Future Publishing)(GB).pdf" size="135347917" crc="29a59ef5" md5="c5202f104c2bf01b6918547e0f66d48f" sha1="3ecf8a176582f7616aebccda5f69095ac9dbf7aa"/>
+	</game>
+	<game name="Amiga Format - Issue 111 (1998-06)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 111 (1998-06)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 111 (1998-06)(Future Publishing)(GB)[a].pdf" size="209321965" crc="e8370ef0" md5="953f287e35bf27711ced1edb6dd830be" sha1="6224882b342833ee7e44ab4891ac9175a75a43ac"/>
 	</game>
 	<game name="Amiga Format - Issue 112 (1998-07)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 112 (1998-07)(Future Publishing)(GB)</description>
@@ -496,13 +632,25 @@
 		<description>Amiga Format - Issue 113 (1998-08)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 113 (1998-08)(Future Publishing)(GB).pdf" size="136072953" crc="90fdacbe" md5="6e6f896d014557cfad092c69561cd405" sha1="15ca7a3236403fb171685af1812eb7fa2eb238c8"/>
 	</game>
+	<game name="Amiga Format - Issue 113 (1998-08)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 113 (1998-08)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 113 (1998-08)(Future Publishing)(GB)[a].pdf" size="230868581" crc="4918abfd" md5="3bf71410030225f9e40d128e431ac9d2" sha1="d57fb5c6864ad704daff059b9eda0e0b6cd0a8b4"/>
+	</game>
 	<game name="Amiga Format - Issue 114 (1998-09)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 114 (1998-09)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 114 (1998-09)(Future Publishing)(GB).pdf" size="134288622" crc="1eec66ec" md5="cb8efcf2453940cf18c51250c7f86848" sha1="cfa593dd6acf9aa0ca2775b399feb7e26bd1664e"/>
 	</game>
+	<game name="Amiga Format - Issue 114 (1998-09)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 114 (1998-09)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 114 (1998-09)(Future Publishing)(GB)[a].pdf" size="454949132" crc="9691fe56" md5="0141497587e82b252110d19d0a8003bf" sha1="44ac9a0555e010a1372160f28acb06cfddcf04ba"/>
+	</game>
 	<game name="Amiga Format - Issue 115 (1998-10)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 115 (1998-10)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 115 (1998-10)(Future Publishing)(GB).pdf" size="315132425" crc="1a185b8d" md5="d8afa703f8edad139b2ad3ef215e2716" sha1="bcba9949820abd87ab9e848c415233fa289abb45"/>
+	</game>
+	<game name="Amiga Format - Issue 115 (1998-10)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 115 (1998-10)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 115 (1998-10)(Future Publishing)(GB)[a].pdf" size="315134943" crc="e9713ad9" md5="87664b144435e27ed89455936ab0c7df" sha1="77731217a6c0b3c94e86837267475cfbc6635260"/>
 	</game>
 	<game name="Amiga Format - Issue 116 (1998-11)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 116 (1998-11)(Future Publishing)(GB)</description>
@@ -511,6 +659,10 @@
 	<game name="Amiga Format - Issue 117 (1998-12)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 117 (1998-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 117 (1998-12)(Future Publishing)(GB).pdf" size="230309300" crc="450a4132" md5="db7c4c6daf25574900368cb3cb66bb54" sha1="06a42a2c9a674f08f64dcd3440962930f4baa9bf"/>
+	</game>
+	<game name="Amiga Format - Issue 117 (1998-12)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 117 (1998-12)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 117 (1998-12)(Future Publishing)(GB)[a].pdf" size="223020376" crc="573751a1" md5="d63a8606e1fc07473c3bc93fbd87fc6f" sha1="d26df8be7d17d718967835a7e3e85bff597d3253"/>
 	</game>
 	<game name="Amiga Format - Issue 118 (1998)(Future Publishing)(GB)[christmas edition]">
 		<description>Amiga Format - Issue 118 (1998)(Future Publishing)(GB)[christmas edition]</description>
@@ -564,9 +716,41 @@
 		<description>Amiga Format - Issue 130 (1999-12)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 130 (1999-12)(Future Publishing)(GB).pdf" size="307980264" crc="d266e0a6" md5="f902176c300300a1e191cc2ab32ac686" sha1="c6ea11a5569b8d408c0a2cb312ff40e067c38c32"/>
 	</game>
+	<game name="Amiga Format - Issue 131 (1999)(Future Publishing)(GB)[christmas edition]">
+		<description>Amiga Format - Issue 131 (1999)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Amiga Format - Issue 131 (1999)(Future Publishing)(GB)[christmas edition].pdf" size="183523494" crc="791dbe04" md5="9ca9a83f02f4ff3315e6a381bcff07cd" sha1="1350cb56cd8d9661c0786032142d57b19bf6f97a"/>
+	</game>
+	<game name="Amiga Format - Issue 132 (2000-01)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 132 (2000-01)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 132 (2000-01)(Future Publishing)(GB).pdf" size="174924103" crc="416459fb" md5="29f9b10ee66217336bb450c47df63677" sha1="e1dc91212ce436c9dd66c46e14a9fe66cc766952"/>
+	</game>
+	<game name="Amiga Format - Issue 133 (2000-02)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 133 (2000-02)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 133 (2000-02)(Future Publishing)(GB).pdf" size="172849228" crc="7911cae4" md5="e8a7d54f83ce11e0a935669e46c443a9" sha1="2170817204656a796224bad3e8e73977001dc7f2"/>
+	</game>
+	<game name="Amiga Format - Issue 134 (2000-03)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 134 (2000-03)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 134 (2000-03)(Future Publishing)(GB).pdf" size="159401589" crc="cf9c41c5" md5="5ee457dc39749e44e848cac1c18c46ac" sha1="ed3bb7a6d72ee7b960910aed5c3344944b2ff72d"/>
+	</game>
+	<game name="Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)">
+		<description>Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB).pdf" size="178951886" crc="f57854f4" md5="92b805f7189cbda9d021c61041eee880" sha1="d9c1941535c77694be2d28f339679d8c341b18dc"/>
+	</game>
+	<game name="Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)[a2]">
+		<description>Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)[a2]</description>
+		<rom name="Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)[a2].pdf" size="80497843" crc="6002ed3d" md5="ff4b932816ff33ca0000fd4e7fea6d49" sha1="57bf4844eda139df82147c99139d2699cbd6c50f"/>
+	</game>
+	<game name="Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 135 (2000-04)(Future Publishing)(GB)[a].pdf" size="265175358" crc="d1ea41bb" md5="b4d6e4fe22ab4391ae2ea48acdb08cfe" sha1="9fdac2f19c7a7385ab90121572bf78f9977cec63"/>
+	</game>
 	<game name="Amiga Format - Issue 136 (2000-05)(Future Publishing)(GB)">
 		<description>Amiga Format - Issue 136 (2000-05)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Issue 136 (2000-05)(Future Publishing)(GB).pdf" size="318248558" crc="40027faf" md5="c1c75d0d912da57eff5a7f6a493c06e5" sha1="57cb28dec38ba86edbb01ff5ace9c7b944a41c18"/>
+	</game>
+	<game name="Amiga Format - Issue 136 (2000-05)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Issue 136 (2000-05)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Issue 136 (2000-05)(Future Publishing)(GB)[a].pdf" size="119203059" crc="5dc201cf" md5="e07bdbbc203587529c7381fea7a31865" sha1="21e2354ac098740d23834121502616c51e950a9c"/>
 	</game>
 	<game name="Amiga Format - Screenplay (1990)(Future Publishing)(GB)">
 		<description>Amiga Format - Screenplay (1990)(Future Publishing)(GB)</description>
@@ -576,6 +760,22 @@
 		<description>Amiga Format - Screenplay 2 (1991)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Screenplay 2 (1991)(Future Publishing)(GB).pdf" size="307177046" crc="59a1ea4b" md5="4a71b1337e97b7c8d6123db7f9ed5fe9" sha1="5dd484720b212007818c472cd9cb223ad07f148f"/>
 	</game>
+	<game name="Amiga Format - Special (1993)(Future Publishing)(GB)[free with Comic Relief Bundle]">
+		<description>Amiga Format - Special (1993)(Future Publishing)(GB)[free with Comic Relief Bundle]</description>
+		<rom name="Amiga Format - Special (1993)(Future Publishing)(GB)[free with Comic Relief Bundle].pdf" size="39785687" crc="f1e342fc" md5="565fac42dd723d7788787ce2643e9c89" sha1="92f2ae7dc9d54985e253ebb65bd75c8149f9bf73"/>
+	</game>
+	<game name="Amiga Format - Special Edition One (1992)(Future Publishing)[free with Amiga 600 packs]">
+		<description>Amiga Format - Special Edition One (1992)(Future Publishing)[free with Amiga 600 packs]</description>
+		<rom name="Amiga Format - Special Edition One (1992)(Future Publishing)[free with Amiga 600 packs].pdf" size="310444903" crc="b3f3b54e" md5="8f325ac0016639af1c063eb4a3c764bb" sha1="81f9a9a5641a8334b4b30c52be5a1c1ef101faf2"/>
+	</game>
+	<game name="Amiga Format - Special Edition Two (1991)(Future Publishing)[free with Cartoon Classics packs]">
+		<description>Amiga Format - Special Edition Two (1991)(Future Publishing)[free with Cartoon Classics packs]</description>
+		<rom name="Amiga Format - Special Edition Two (1991)(Future Publishing)[free with Cartoon Classics packs].pdf" size="74312594" crc="fdd0eaad" md5="51bce57b47fd795874cb5b39b117e5d3" sha1="b4fccf45659f012df38a6abad204bac954019b86"/>
+	</game>
+	<game name="Amiga Format - Special Edition Two (1993)(Future Publishing)[a][free with Cartoon Classics Bundle]">
+		<description>Amiga Format - Special Edition Two (1993)(Future Publishing)[a][free with Cartoon Classics Bundle]</description>
+		<rom name="Amiga Format - Special Edition Two (1993)(Future Publishing)[a][free with Cartoon Classics Bundle].pdf" size="45902258" crc="aba56609" md5="04b6f089f8fba837bcdda05c5cd34ad2" sha1="2a7d9374d58698208c456e114f75df5f9cb293bb"/>
+	</game>
 	<game name="Amiga Format - Special Issue 1 (1992)(Future Publishing)(GB)">
 		<description>Amiga Format - Special Issue 1 (1992)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Special Issue 1 (1992)(Future Publishing)(GB).pdf" size="106336082" crc="4175de49" md5="6a6d644bddea0d9b6cd3257429dfb47c" sha1="626bc92da3c386b1600d931d7a6f14d05fd81a79"/>
@@ -583,6 +783,14 @@
 	<game name="Amiga Format - Special Issue 2 (1992)(Future Publishing)(GB)">
 		<description>Amiga Format - Special Issue 2 (1992)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Special Issue 2 (1992)(Future Publishing)(GB).pdf" size="341221437" crc="ba43f27c" md5="784ada83b8be8e41be58456aad4af4eb" sha1="e95de97461ee8d358021c9fffd187b93d3c4847d"/>
+	</game>
+	<game name="Amiga Format - Special Issue 3 (1992)(Future Publishing)(GB)">
+		<description>Amiga Format - Special Issue 3 (1992)(Future Publishing)(GB)</description>
+		<rom name="Amiga Format - Special Issue 3 (1992)(Future Publishing)(GB).pdf" size="304599624" crc="9ce2b085" md5="0785fde3d0a1fa2fb5e39b898cbdc2ca" sha1="2ecf579e4391abc24fbc3021ceb1dff970210d6b"/>
+	</game>
+	<game name="Amiga Format - Special Issue 3 (1992)(Future Publishing)(GB)[a]">
+		<description>Amiga Format - Special Issue 3 (1992)(Future Publishing)(GB)[a]</description>
+		<rom name="Amiga Format - Special Issue 3 (1992)(Future Publishing)(GB)[a].pdf" size="149195736" crc="e20fa08d" md5="02b1d20333333acd06b62cf3ea291db8" sha1="cc077fcbbb126dee19af5612d1579ebc3748bc0c"/>
 	</game>
 	<game name="Amiga Format - Special Issue 4 (1992)(Future Publishing)(GB)">
 		<description>Amiga Format - Special Issue 4 (1992)(Future Publishing)(GB)</description>
@@ -596,9 +804,25 @@
 		<description>Amiga Format - Special Issue 7 (1993)(Future Publishing)(GB)</description>
 		<rom name="Amiga Format - Special Issue 7 (1993)(Future Publishing)(GB).pdf" size="48898464" crc="32c5973f" md5="27ea971bec69e3c1d127392bdafeec5b" sha1="910cda034f3d0664c763f3954582e051dc9157a1"/>
 	</game>
-	<game name="Amiga Format - Special Edition One (1992)(Future Publishing)[free with Amiga 600 packs]">
-		<description>Amiga Format - Special Edition One (1992)(Future Publishing)[free with Amiga 600 packs]</description>
-		<rom name="Amiga Format - Special Edition One (1992)(Future Publishing)[free with Amiga 600 packs].pdf" size="310444903" crc="b3f3b54e" md5="8f325ac0016639af1c063eb4a3c764bb" sha1="81f9a9a5641a8334b4b30c52be5a1c1ef101faf2"/>
+	<game name="Amiga Format Bumper Book of Hints and Tips (1993-12)(Future Publishing)(GB)[supplement, issue 054]">
+		<description>Amiga Format Bumper Book of Hints and Tips (1993-12)(Future Publishing)(GB)[supplement, issue 054]</description>
+		<rom name="Amiga Format Bumper Book of Hints and Tips (1993-12)(Future Publishing)(GB)[supplement, issue 054].pdf" size="39664561" crc="8e34afb3" md5="73293446d47674430dbd6866bd7db8b9" sha1="8ac0098a914b10bec59a92b24c0e21c18d6c7b6d"/>
+	</game>
+	<game name="Amiga Format Guide to Amiga Desktop Video (1994)(Future Publishing)">
+		<description>Amiga Format Guide to Amiga Desktop Video (1994)(Future Publishing)</description>
+		<rom name="Amiga Format Guide to Amiga Desktop Video (1994)(Future Publishing).pdf" size="42889671" crc="1223ae0c" md5="e03f94de4645ac7582c0c3d98856c476" sha1="3bc4c4ada36c8ab829e8fe02fb40cfb4338ba695"/>
+	</game>
+	<game name="Amiga Power - Free Taster Issue (1993-01)(Future Publishing)(GB)[supplement, issue 042]">
+		<description>Amiga Power - Free Taster Issue (1993-01)(Future Publishing)(GB)[supplement, issue 042]</description>
+		<rom name="Amiga Power - Free Taster Issue (1993-01)(Future Publishing)(GB)[supplement, issue 042].pdf" size="54568170" crc="092d49e7" md5="3e7119930b05935cb0f61d6c2f52f8e4" sha1="c3021fdea5e7717e9cfa50036a572fc553b27edd"/>
+	</game>
+	<game name="Amiga Shopper - Sneak Preview (1991-04)(Future Publishing)(GB)[supplement, issue 021]">
+		<description>Amiga Shopper - Sneak Preview (1991-04)(Future Publishing)(GB)[supplement, issue 021]</description>
+		<rom name="Amiga Shopper - Sneak Preview (1991-04)(Future Publishing)(GB)[supplement, issue 021].pdf" size="31816599" crc="8a780753" md5="b95b0f9496370aa263aefca5bb9d8f0c" sha1="93e099efe58d7ffbae51b6cd68e0613328ae0b3a"/>
+	</game>
+	<game name="Beneath a Steel Sky (1994-01)(Future Publishing)(GB)[supplement, issue 055]">
+		<description>Beneath a Steel Sky (1994-01)(Future Publishing)(GB)[supplement, issue 055]</description>
+		<rom name="Beneath a Steel Sky (1994-01)(Future Publishing)(GB)[supplement, issue 055].pdf" size="2912696" crc="561a4c83" md5="e7ba39d2b444433a0573a8dfbe843d5f" sha1="d71a11139b4b4f9e5d4b93008bded242746ad119"/>
 	</game>
 	<game name="Best Of The Amiga, The (1991)(Future Publishing)(GB)[supplement, issue 027]">
 		<description>Best Of The Amiga, The (1991)(Future Publishing)(GB)[supplement, issue 027]</description>

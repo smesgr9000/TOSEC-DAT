@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [LNX]</name>
-		<description>Commodore C64 - Games - Racing - [LNX] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Racing - [LNX] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -208,6 +208,14 @@
 		<description>Enduro Racer (1987)(Sega - Activision)[cr TLC][t +2 TLC]</description>
 		<rom name="Enduro Racer (1987)(Sega - Activision)[cr TLC][t +2 TLC].lnx" size="45865" crc="4b148724" md5="194b43880e0998630f067f898b871d8c" sha1="62608d8e0ad2d7cd9877d52ae7cfe183db4f7168"/>
 	</game>
+	<game name="Fast (1992)(Future Publishing)[cr Unity]">
+		<description>Fast (1992)(Future Publishing)[cr Unity]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr Unity].lnx" size="29859" crc="581d36a9" md5="c275f0dfb73298ea187646d08ebed4d9" sha1="239f909bc825e57861e7d78530523b510b4857dd"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr Varsity]">
+		<description>Fast (1992)(Future Publishing)[cr Varsity]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr Varsity].lnx" size="32290" crc="29fd4a0f" md5="5c81a3cbb200c525c46c34c4fb1cfc47" sha1="d88bc8f137a9ea645932c000be18592216a61429"/>
+	</game>
 	<game name="Ghost-Driver (199x)(Pollmeier, Johannes)(PD)[cr ORI][t +2 ORI]">
 		<description>Ghost-Driver (199x)(Pollmeier, Johannes)(PD)[cr ORI][t +2 ORI]</description>
 		<rom name="Ghost-Driver (199x)(Pollmeier, Johannes)(PD)[cr ORI][t +2 ORI].lnx" size="4572" crc="b1b8f6c3" md5="20bdcbc423172b87800a1ab1539a1f7f" sha1="a7a1b771caf2d2ef8ca5df95c5e6b601612df219"/>
@@ -227,6 +235,14 @@
 	<game name="Grand Prix (1991)(D&amp;H Games)[cr Triangle]">
 		<description>Grand Prix (1991)(D&amp;H Games)[cr Triangle]</description>
 		<rom name="Grand Prix (1991)(D&amp;H Games)[cr Triangle].lnx" size="22052" crc="4ed7eb4f" md5="3bde79e6e643d3356f9e86e863b607d5" sha1="2e0d9f0ac4cc752c507a9de0daaadde40bcd95e4"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ].lnx" size="46663" crc="909ad67f" md5="90850d4bab51cb8c1ee1a052650bf047" sha1="8c2239e112095ded09c0ede4bdd43a97eafda621"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG].lnx" size="44301" crc="146b2683" md5="f380fc95f0a22f1d6de06f8c0680eb1e" sha1="314d85277acc78a74f2faea8cb3cc3a7fad31e77"/>
 	</game>
 	<game name="Hot Rod (1990)(Activision - Sega)(Side A)[cr REM][t +8 REM]">
 		<description>Hot Rod (1990)(Activision - Sega)(Side A)[cr REM][t +8 REM]</description>
@@ -252,21 +268,21 @@
 		<description>Hyper Cars (1995)(Threshold Productions)(FW)</description>
 		<rom name="Hyper Cars (1995)(Threshold Productions)(FW).lnx" size="57565" crc="4f9d8d29" md5="72d998eb11d11b11c102de1980432350" sha1="051e24935c89f30719082bb64b7aac8b57c3a31d"/>
 	</game>
-	<game name="Hyper Cars (1995)(Threshold Productions)(FW)[a]">
-		<description>Hyper Cars (1995)(Threshold Productions)(FW)[a]</description>
-		<rom name="Hyper Cars (1995)(Threshold Productions)(FW)[a].lnx" size="57600" crc="ef3ad9be" md5="06b19781c0b12a51de4a13fa2d187559" sha1="b7833eefb674216022440df837a29f27af967391"/>
+	<game name="Hyper Cars (1995)(Threshold Productions)(FW)[cr Armageddon]">
+		<description>Hyper Cars (1995)(Threshold Productions)(FW)[cr Armageddon]</description>
+		<rom name="Hyper Cars (1995)(Threshold Productions)(FW)[cr Armageddon].lnx" size="48384" crc="6c6a0b02" md5="e3c1d3ed1c71bf552c12333bc0c62274" sha1="a0de0d7e858ee5c6103247fed5d8c2d520732fe7"/>
 	</game>
 	<game name="Hyper Cars (1995)(Threshold Productions)(FW)[cr SCS+TRC]">
 		<description>Hyper Cars (1995)(Threshold Productions)(FW)[cr SCS+TRC]</description>
 		<rom name="Hyper Cars (1995)(Threshold Productions)(FW)[cr SCS+TRC].lnx" size="50052" crc="c133486c" md5="8545153d7eb84a6eecd0473a8077ba89" sha1="13da74b6478b68574bbc9859c6f869970d292677"/>
 	</game>
-	<game name="Hyper Cars (1995)(Threshold Productions)[cr Armageddon]">
-		<description>Hyper Cars (1995)(Threshold Productions)[cr Armageddon]</description>
-		<rom name="Hyper Cars (1995)(Threshold Productions)[cr Armageddon].lnx" size="48384" crc="6c6a0b02" md5="e3c1d3ed1c71bf552c12333bc0c62274" sha1="a0de0d7e858ee5c6103247fed5d8c2d520732fe7"/>
+	<game name="Hyper Cars (1995)(Threshold Productions)(FW)[o]">
+		<description>Hyper Cars (1995)(Threshold Productions)(FW)[o]</description>
+		<rom name="Hyper Cars (1995)(Threshold Productions)(FW)[o].lnx" size="57600" crc="ef3ad9be" md5="06b19781c0b12a51de4a13fa2d187559" sha1="b7833eefb674216022440df837a29f27af967391"/>
 	</game>
-	<game name="Hyper Cars (demo) (1995)(Threshold Productions)[h F4CG]">
-		<description>Hyper Cars (demo) (1995)(Threshold Productions)[h F4CG]</description>
-		<rom name="Hyper Cars (demo) (1995)(Threshold Productions)[h F4CG].lnx" size="21374" crc="5b8dd2b8" md5="6b97e175e3f792d5b3f773ac29c5c15f" sha1="0990635e5d952552e40b90f1ef4bfdb619bfe46e"/>
+	<game name="Hyper Cars (demo) (1995)(Threshold Productions)(FW)[h F4CG]">
+		<description>Hyper Cars (demo) (1995)(Threshold Productions)(FW)[h F4CG]</description>
+		<rom name="Hyper Cars (demo) (1995)(Threshold Productions)(FW)[h F4CG].lnx" size="21374" crc="5b8dd2b8" md5="6b97e175e3f792d5b3f773ac29c5c15f" sha1="0990635e5d952552e40b90f1ef4bfdb619bfe46e"/>
 	</game>
 	<game name="Indy Heat (demo) (1991)(Storm)[h TAL]">
 		<description>Indy Heat (demo) (1991)(Storm)[h TAL]</description>

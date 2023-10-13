@@ -1,46 +1,65 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 
 <datafile>
 	<header>
 		<name>Sony PlayStation - Games - [BIN]</name>
-		<description>Sony PlayStation - Games - [BIN] (TOSEC-v2012-09-08)</description>
+		<description>Sony PlayStation - Games - [BIN] (TOSEC-v2023-06-13)</description>
 		<category>TOSEC-ISO</category>
-		<version>2012-09-08</version>
+		<version>2023-06-13</version>
 		<author>TOSEC-ISO</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-	<game name="Deuce (2000)(Midway)(proto)">
-		<description>Deuce (2000)(Midway)(proto)</description>
-		<rom name="Deuce (2000)(Midway)(proto).bin" size="28336896" crc="db149c5e" md5="36a4101bf970d490bb548dba7e2f977f" sha1="e25c80c45e9443476fb4425c7753c96ac4737793"/>
-		<rom name="Deuce (2000)(Midway)(proto).cue" size="90" crc="6e2c10af" md5="f6ef7bb9bc32cb6bf5abb1270b5a4083" sha1="4e9b77085657fe763199813257dee6ec4cfe425d"/>
+	<game name="007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300]">
+		<description>007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300]</description>
+		<rom name="007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300].bin" size="565011552" crc="06cba6c0" md5="8e2d29b82648fc2037c6447c401be9dd" sha1="0678850cdb36a06b06833861a19429b43e18852c"/>
+		<rom name="007 Racing (2000)(Electronic Arts)(US)[cr PDX][t +6 PDX][SLUS-01300].cue" size="134" crc="8dc7ab03" md5="db1798e061dbb9cf393eb1c6aa2ba9ca" sha1="7a9953fd1175b0a1795e30fb02aa49ccaaa3fab3"/>
 	</game>
-	<game name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta)">
-		<description>Rockman X6 (2001-09-28)(Capcom)(JP)(beta)</description>
-		<rom name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta).bin" size="396577776" crc="b1442c95" md5="b65b13e3a1583b479ead3cb956468f14" sha1="51ec61dbb32c8144a48649309e9464a44672d654"/>
-		<rom name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta).cue" size="107" crc="d7636a3b" md5="fadec1a8e061f31f17ec2c0c991cc4c5" sha1="6bbdcd4307afd7661d67fa60198799b8240a0cf1"/>
+	<game name="3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120]">
+		<description>3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120]</description>
+		<rom name="3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120].bin" size="250916064" crc="d45572e7" md5="5361b324d905682b75477e988cdc457c" sha1="0edc3b38a23a1a7e2668aabc236384166ca367a3"/>
+		<rom name="3, 2, 1, Smurf! My First Racing Game (2000)(Infogrames)(M6)[h STC][SLES-03120].cue" size="144" crc="94fcd678" md5="33fe3a618cc4306d9698c16c8c2e4b36" sha1="17b980e5a0b9dfc319c0a1fa0dd1549589acca0a"/>
 	</game>
-	<game name="Silent Hill (1999-01-22)(Capcom)(US)(beta)">
-		<description>Silent Hill (1999-01-22)(Capcom)(US)(beta)</description>
-		<rom name="Silent Hill (1999-01-22)(Capcom)(US)(beta).bin" size="616518000" crc="8326dd8f" md5="a8455226efc982cbbe9452dddda62726" sha1="97c7d476c9e821b3d932139a0644c0c7593e1955"/>
-		<rom name="Silent Hill (1999-01-22)(Capcom)(US)(beta).cue" size="112" crc="c0e08916" md5="31810f9fb267002a0a1f99917ab05ccf" sha1="4b87f2e27e4942d3bd0b14fd029dab1d067f58aa"/>
+	<game name="4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017]">
+		<description>4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017]</description>
+		<rom name="4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017].bin" size="510800304" crc="3c9f1050" md5="c7d832274adee90a4bad8fef778eb071" sha1="76ecb73bc5b32f86297e9b9e4a84996aad112524"/>
+		<rom name="4x4 World Trophy (1999)(Infogrames)(M5)[cr PDX][t +7 PDX][SLES-02017].cue" size="135" crc="df29997d" md5="24891378beb46c44852bcb63769f8e1b" sha1="67207b0196d3e8e379a910e33482032e66f13047"/>
 	</game>
-	<game name="Spirit Master (1997)(Acclaim)(proto)">
-		<description>Spirit Master (1997)(Acclaim)(proto)</description>
-		<rom name="Spirit Master (1997)(Acclaim)(proto).bin" size="13547520" crc="7bdf8ac0" md5="05863daa57346b27b83a078a548e1569" sha1="cfd1d39a2fe96cba10573500950c1c48c37e3cef"/>
-		<rom name="Spirit Master (1997)(Acclaim)(proto).cue" size="102" crc="ab7e0b41" md5="272bce202b15fc4fc0168233a7653d48" sha1="1b9ef702691b7e07258d0e09448babbcee06015b"/>
+	<game name="Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564]">
+		<description>Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564]</description>
+		<rom name="Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564].bin" size="427198464" crc="72b14bac" md5="5bb013cd6f9c29125749f6bb3d70d6cd" sha1="f96a42a46630ee2e431db087a9d79dfc3a5b2400"/>
+		<rom name="Ape Escape (1999)(SCEE)(GB)[cr PDX][SCES-01564].cue" size="113" crc="c1a6c9d6" md5="c59fccd4783857d563ea4053e895b05c" sha1="fbd8a8b6054ffa2a114be46d64eafac2fbd37caf"/>
 	</game>
-	<game name="StarCon (1998)(Accolade)(proto)">
-		<description>StarCon (1998)(Accolade)(proto)</description>
-		<rom name="StarCon (1998)(Accolade)(proto).bin" size="138532800" crc="78ccec24" md5="f78f22b24d134ec3f697becb5e24f789" sha1="d9a8b5b968b5fda1d1bd59915872705f2d124dbc"/>
-		<rom name="StarCon (1998)(Accolade)(proto).cue" size="208" crc="bbd5e79d" md5="5b6ab66dea37a1fd700fa8cc35333246" sha1="a16b623dec6bc2e768d69a38cc96690dd8261419"/>
-		<rom name="StarCon (1998)(Accolade)(proto).wav" size="44763308" crc="14cd232a" md5="934daa6987475adad96305a15e5a7bcb" sha1="c5095ba5eb1eb3b4757f6d86764a6d1ccd4971b4"/>
+	<game name="Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219]">
+		<description>Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219]</description>
+		<rom name="Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219].bin" size="259787808" crc="bf932008" md5="0b35a74f0b7de134ed29e13451140955" sha1="c4a08fd9302ae7b595e34afaf33ca36839694311"/>
+		<rom name="Block Wars (2001)(Pony Canyon)(JP)[h LFC][SLPS-03219].cue" size="119" crc="e1509536" md5="d408c67a784046fc94cb82fd99c26735" sha1="64e1c01a72c5b80a5c7ef2e02de2fc85ace0dd1f"/>
 	</game>
-	<game name="Thrill Kill (1998-10-13)(Virgin)(proto)">
-		<description>Thrill Kill (1998-10-13)(Virgin)(proto)</description>
-		<rom name="Thrill Kill (1998-10-13)(Virgin)(proto).bin" size="625629648" crc="ab7aa9a2" md5="108091f11a5760ad666d2a56320a967e" sha1="8a0a68c4fa1d5d6e68acd878ea4e22c1cbcf5d24"/>
-		<rom name="Thrill Kill (1998-10-13)(Virgin)(proto).cue" size="659" crc="5019995a" md5="29060b8a33c0e5baccd01c76a2fb7090" sha1="5bef30573cb549b9f7bfa8174d945637386c9fa3"/>
+	<game name="Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191]">
+		<description>Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191]</description>
+		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191].bin" size="510120576" crc="1e2a4227" md5="a4c2663990f522d8e04bccb89bdcab9a" sha1="17f24a29e7449a5d238e2a51e6618376fa95e69e"/>
+		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (2000)(Eidos)(M5)[cr PDX][SLES-03191].cue" size="151" crc="2485a323" md5="7908cb78c9df410f4cb7eefdff85423a" sha1="849c4c3515e857e44013ec24754be248fd7827f2"/>
+	</game>
+	<game name="Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336]">
+		<description>Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336]</description>
+		<rom name="Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336].bin" size="642429984" crc="69f56354" md5="e51e224534ae172b721c93cfc7438872" sha1="66f6dec677b7358fdb70b88945f60b3da8241215"/>
+		<rom name="Mr. Driller G (2001)(Namco)(JP)[h PDX][SLPS-03336].cue" size="116" crc="dee6065f" md5="f9d94c3dce589f5a6fa952863f9ba957" sha1="905e3091985c24aad67fc34924b168104f998fe4"/>
+	</game>
+	<game name="RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168]">
+		<description>RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168]</description>
+		<rom name="RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168].bin" size="515866512" crc="7298ae83" md5="ea2f0048daa311321dbd837797391493" sha1="ea43ce13603dfd5cfd592b31372b3fd7f35fd38e"/>
+		<rom name="RC Revenge (2000)(Acclaim)(US)[h BAD][SLUS-01168].cue" size="177" crc="4d33bcf9" md5="0a3df740c309d7f7e0b00b54ad57dd30" sha1="6f50a680707f4f0528620d86d05557431548e03c"/>
+	</game>
+	<game name="Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177]">
+		<description>Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177]</description>
+		<rom name="Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177].bin" size="582072960" crc="5cb01cd8" md5="fce0ed476aab2e2b38b496def48b9363" sha1="77e56c34db63d527766249fc0cce675fec8bfcda"/>
+		<rom name="Sydney 2000 (1999)(Eidos)(US)[cr PDX][SLUS-01177].cue" size="625" crc="64e2d59a" md5="2c6779ffcd287bb8d3b2c561e21ecb65" sha1="44a79de7a2ab4d37da1308af6b4959e7526ac619"/>
+	</game>
+	<game name="V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907]">
+		<description>V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907]</description>
+		<rom name="V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907].bin" size="701552208" crc="a012fcfb" md5="06d6f806a03a1c6777ba84bb147fc91d" sha1="98059c012f6241eaa63ee7fb085c39f4fa95c9f9"/>
+		<rom name="V-Rally Championship Edition 2 (1999)(Infogrames)(M3)[cr PDX][SLES-01907].cue" size="585" crc="1b9a3f46" md5="8fb9adde9e2e7334eff4282e421c9401" sha1="fea1652e397d7aa19761e9cd718844ea999248de"/>
 	</game>
 </datafile>

@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Computer Arts - Issue 175 (2010-06)(Future Publishing)(GB).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

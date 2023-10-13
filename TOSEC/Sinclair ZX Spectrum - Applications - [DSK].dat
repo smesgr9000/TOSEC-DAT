@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Applications - [DSK]</name>
-		<description>Sinclair ZX Spectrum - Applications - [DSK] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Applications - [DSK] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:05</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:44</date>
 		<author>Lady Eklipse - jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -57,6 +57,10 @@
 	<game name="3D Game Maker (1987)(CRL Group)(+3)[a2]">
 		<description>3D Game Maker (1987)(CRL Group)(+3)[a2]</description>
 		<rom name="3D Game Maker (1987)(CRL Group)(+3)[a2].dsk" size="194816" crc="0c34a517" md5="d33c21833544c5c140700fc5359a699d" sha1="268bdbf5004cd2d475147a3c4523cc264c8da844"/>
+	</game>
+	<game name="Agenda 128 (1987)(MicroHobby)(+3)(ES)">
+		<description>Agenda 128 (1987)(MicroHobby)(+3)(ES)</description>
+		<rom name="Agenda 128 (1987)(MicroHobby)(+3)(ES).dsk" size="194816" crc="ba61e88b" md5="ae2a39a5500b05b37d4bd578521fbb8c" sha1="d1f656d84887d4b57e555bc993dd8f5226dd6efd"/>
 	</game>
 	<game name="Alkatraz Development Disks - Bedturn Project Backup (19xx)(-)(+3)(Side A)">
 		<description>Alkatraz Development Disks - Bedturn Project Backup (19xx)(-)(+3)(Side A)</description>
@@ -154,13 +158,21 @@
 		<description>Alkatraz Development Disks - Tape System Text Backup (19xx)(-)(+3)(Side B)</description>
 		<rom name="Alkatraz Development Disks - Tape System Text Backup (19xx)(-)(+3)(Side B).dsk" size="195840" crc="bd77584a" md5="6820d41f1a6f357df305af1b0762a104" sha1="8e50a3c6187b84a1c96b8009e7e14eac821ac613"/>
 	</game>
+	<game name="Apple I Emulator (2007)(Owen, Simon)(+3)">
+		<description>Apple I Emulator (2007)(Owen, Simon)(+3)</description>
+		<rom name="Apple I Emulator (2007)(Owen, Simon)(+3).dsk" size="819200" crc="16edccad" md5="6fc58a86540c4674fc7027dbadac1a7e" sha1="3f7fd06d161cce27d648489f60b67917d6bfb952"/>
+	</game>
 	<game name="Artist II, The (1986)(Softechnics)(+3)">
 		<description>Artist II, The (1986)(Softechnics)(+3)</description>
-		<rom name="Artist II, The (1986)(Softechnics)(+3).dsk" size="194816" crc="a752bb2a" md5="588464e16ecd98453de455a429757755" sha1="e8ffd0e4e8ae696065bf5c3db2a9337cf2c387ea"/>
+		<rom name="Artist II, The (1986)(Softechnics)(+3).dsk" size="194816" crc="82e620b7" md5="be45cbdb61519a109595b4513caf5379" sha1="bf9adceb3fd8e524edca6ca24c6b87bf39574c54"/>
 	</game>
 	<game name="Artist II, The (1986)(Softechnics)(+3)[a]">
 		<description>Artist II, The (1986)(Softechnics)(+3)[a]</description>
-		<rom name="Artist II, The (1986)(Softechnics)(+3)[a].dsk" size="194816" crc="82e620b7" md5="be45cbdb61519a109595b4513caf5379" sha1="bf9adceb3fd8e524edca6ca24c6b87bf39574c54"/>
+		<rom name="Artist II, The (1986)(Softechnics)(+3)[a].dsk" size="194816" crc="a752bb2a" md5="588464e16ecd98453de455a429757755" sha1="e8ffd0e4e8ae696065bf5c3db2a9337cf2c387ea"/>
+	</game>
+	<game name="Boil An Egg (2015)(Prince, Lee)(+3)[CSSCGC]">
+		<description>Boil An Egg (2015)(Prince, Lee)(+3)[CSSCGC]</description>
+		<rom name="Boil An Egg (2015)(Prince, Lee)(+3)[CSSCGC].dsk" size="778496" crc="de4a8ebe" md5="93bee02e2463eabf0ad7c77041a39e46" sha1="d62d185a931bb04ce8f11a35c2ca0756c55ef699"/>
 	</game>
 	<game name="CAD-Master - Light Pen &amp; Graphics Software (1985)(Trojan Products)(+3)">
 		<description>CAD-Master - Light Pen &amp; Graphics Software (1985)(Trojan Products)(+3)</description>
@@ -174,13 +186,57 @@
 		<description>CP-M Plus v1.0 (1988)(Locomotive)(+3)(Side B)</description>
 		<rom name="CP-M Plus v1.0 (1988)(Locomotive)(+3)(Side B).dsk" size="194816" crc="ddd0943f" md5="65beccf8372b45801b822983f9f82760" sha1="9e34e27167d8f9544d73104390de59bc91cf029d"/>
 	</game>
+	<game name="Carga Automatica de Programas (1990)(MicroHobby)(+3)(ES)">
+		<description>Carga Automatica de Programas (1990)(MicroHobby)(+3)(ES)</description>
+		<rom name="Carga Automatica de Programas (1990)(MicroHobby)(+3)(ES).dsk" size="194816" crc="e260882d" md5="cfd03bacc825372083bc180267d10180" sha1="2af1c3f7a95ba675518045e9077104aa05d34a0c"/>
+	</game>
+	<game name="Cargador Universal de Codigo Maquina +3 (1987)(MicroHobby)(+3)(ES)">
+		<description>Cargador Universal de Codigo Maquina +3 (1987)(MicroHobby)(+3)(ES)</description>
+		<rom name="Cargador Universal de Codigo Maquina +3 (1987)(MicroHobby)(+3)(ES).dsk" size="194816" crc="d506f9d4" md5="534d842f4a0e8a2178472849fe1c860c" sha1="124e4b92072f1847bce7176854b605ab5b43aa4c"/>
+	</game>
+	<game name="Clipart Collection (2021)(Tomato Girl Services)(+3)">
+		<description>Clipart Collection (2021)(Tomato Girl Services)(+3)</description>
+		<rom name="Clipart Collection (2021)(Tomato Girl Services)(+3).dsk" size="194816" crc="51020609" md5="c05480e175b5bda5ec7ef45ac6d38f0e" sha1="e922cfa15ce32eeeaafdda22902a58223244a67b"/>
+	</game>
+	<game name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a]">
+		<description>Clipart Collection (2021)(Tomato Girl Services)(+3)[a]</description>
+		<rom name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a].dsk" size="194816" crc="2beab068" md5="72f240295f8842c3b81f2f90b161ed5b" sha1="77136a27ecdaf50da2d583a6216e58990962f6b0"/>
+	</game>
+	<game name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a2]">
+		<description>Clipart Collection (2021)(Tomato Girl Services)(+3)[a2]</description>
+		<rom name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a2].dsk" size="194816" crc="a11271f0" md5="0498899d9574e76e3058db4749c4ecd5" sha1="aec4b19747be18d8391554c7811d038bf31ce419"/>
+	</game>
+	<game name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a3]">
+		<description>Clipart Collection (2021)(Tomato Girl Services)(+3)[a3]</description>
+		<rom name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a3].dsk" size="194816" crc="06bdba30" md5="6780bc9f41e8c39eab0894a53ae73ca7" sha1="0a4f01da585d6208ee2d760b03eecc3fb03a8937"/>
+	</game>
+	<game name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a4]">
+		<description>Clipart Collection (2021)(Tomato Girl Services)(+3)[a4]</description>
+		<rom name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a4].dsk" size="194816" crc="bebccec1" md5="a584ac70759ed29b470effae0e5aa88c" sha1="82ae29c4d11629dee2a4cfa3ef182514452ca964"/>
+	</game>
+	<game name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a5]">
+		<description>Clipart Collection (2021)(Tomato Girl Services)(+3)[a5]</description>
+		<rom name="Clipart Collection (2021)(Tomato Girl Services)(+3)[a5].dsk" size="194816" crc="cfa10e83" md5="1be29d9f9ecd5026057f47bd9dc493c0" sha1="3f8370dad73d152361e16efc483bfd7916f2da1a"/>
+	</game>
 	<game name="Complete Machine Code Package (1987)(Roybot)(+3)">
 		<description>Complete Machine Code Package (1987)(Roybot)(+3)</description>
 		<rom name="Complete Machine Code Package (1987)(Roybot)(+3).dsk" size="194816" crc="07ebb241" md5="9cb37483c451b22806578ea25681460f" sha1="bce17b0972ea3196028f10820cfb7b224fb4ae16"/>
 	</game>
+	<game name="Compresor de Ficheros para Discos (1988)(MicroHobby)(+3)(ES)">
+		<description>Compresor de Ficheros para Discos (1988)(MicroHobby)(+3)(ES)</description>
+		<rom name="Compresor de Ficheros para Discos (1988)(MicroHobby)(+3)(ES).dsk" size="194816" crc="83416387" md5="0cb10dc8ba7bb7ea126ea06d2bd0e461" sha1="672d2adec803b8c11b6f473184cbbf8028998488"/>
+	</game>
+	<game name="Compresor de Pantallas para Plus-3 (1988)(MicroHobby)(+3)(ES)">
+		<description>Compresor de Pantallas para Plus-3 (1988)(MicroHobby)(+3)(ES)</description>
+		<rom name="Compresor de Pantallas para Plus-3 (1988)(MicroHobby)(+3)(ES).dsk" size="194816" crc="7a626c2e" md5="0b77977902f0b38d0f3ea91f243700c5" sha1="becc183017282453554d80df20f538057aca1b72"/>
+	</game>
 	<game name="Contas Correntes (1987)(Triudus - S.E.M.)(+3)(PT)">
 		<description>Contas Correntes (1987)(Triudus - S.E.M.)(+3)(PT)</description>
 		<rom name="Contas Correntes (1987)(Triudus - S.E.M.)(+3)(PT).dsk" size="195635" crc="07881420" md5="74c5682fdde5a40d945d90e8a8650178" sha1="24cd964235e3fe4d07a20297db99b9da9b48768e"/>
+	</game>
+	<game name="Conversor Disk-Tape +3 (1988)(MicroHobby)(+3)(ES)(Disk 3 of 3)">
+		<description>Conversor Disk-Tape +3 (1988)(MicroHobby)(+3)(ES)(Disk 3 of 3)</description>
+		<rom name="Conversor Disk-Tape +3 (1988)(MicroHobby)(+3)(ES)(Disk 3 of 3).dsk" size="194816" crc="589536b3" md5="f9c1c5f228529ae52046a61fa59b83c6" sha1="df6c8addf63ba063ee5104a163c8e51bbec348fa"/>
 	</game>
 	<game name="Coursemaster v3.88 (1988)(Intraset)(+3)(Side A)">
 		<description>Coursemaster v3.88 (1988)(Intraset)(+3)(Side A)</description>
@@ -222,6 +278,10 @@
 		<description>Disk Doctor (1990)(Supersoft)(+3)</description>
 		<rom name="Disk Doctor (1990)(Supersoft)(+3).dsk" size="194816" crc="b773bcbd" md5="584493bd93cc54cb00f418bb084efe63" sha1="8eb18a2bc5a94632bea142a9fe42941e3605c976"/>
 	</game>
+	<game name="Dvorak Alphabet Timer (2023)(Jbizzel)(+3)">
+		<description>Dvorak Alphabet Timer (2023)(Jbizzel)(+3)</description>
+		<rom name="Dvorak Alphabet Timer (2023)(Jbizzel)(+3).dsk" size="194816" crc="737686b0" md5="c0b6a5e48a8aa317c0765c9472571849" sha1="9a6e59f5a9183e03e75b3fb8fa6907081d6d6006"/>
+	</game>
 	<game name="Edd the Duck Editor (1990)(Zeppelin Games)(+3)(Side A)[master disk]">
 		<description>Edd the Duck Editor (1990)(Zeppelin Games)(+3)(Side A)[master disk]</description>
 		<rom name="Edd the Duck Editor (1990)(Zeppelin Games)(+3)(Side A)[master disk].dsk" size="194816" crc="80f3d962" md5="7b2873c0670fc32a5d33fc87bb9ae78f" sha1="f411b24c9798678eeff7adb99e8f1f23700dd34b"/>
@@ -229,6 +289,18 @@
 	<game name="Edd the Duck Editor (1990)(Zeppelin Games)(+3)(Side B)[master disk]">
 		<description>Edd the Duck Editor (1990)(Zeppelin Games)(+3)(Side B)[master disk]</description>
 		<rom name="Edd the Duck Editor (1990)(Zeppelin Games)(+3)(Side B)[master disk].dsk" size="194816" crc="d589b8cd" md5="2d13cbb20d3a5b55ea68c4ed8f2b8296" sha1="8fa913c63e1a4e94e92a00c4e86398258acbbedb"/>
+	</game>
+	<game name="EdiPro (1995)(Krivos, Marian)(+3)(SK)(en)">
+		<description>EdiPro (1995)(Krivos, Marian)(+3)(SK)(en)</description>
+		<rom name="EdiPro (1995)(Krivos, Marian)(+3)(SK)(en).dsk" size="819200" crc="3f728acc" md5="af5f6fa9313de50380d3313c47f24dd4" sha1="4998b509ccd8af79c46756cbe86731a80adcaf4d"/>
+	</game>
+	<game name="Editor de Directorios (1988)(MicroHobby)(+3)(ES)">
+		<description>Editor de Directorios (1988)(MicroHobby)(+3)(ES)</description>
+		<rom name="Editor de Directorios (1988)(MicroHobby)(+3)(ES).dsk" size="194816" crc="91121d2a" md5="c7e2e999dee395a5a55190c2ebfee08f" sha1="d595b8e388b7c188d2d68363a5c53c2298005c96"/>
+	</game>
+	<game name="Ficheros Secuenciales (1989)(MicroHobby)(+3)(ES)">
+		<description>Ficheros Secuenciales (1989)(MicroHobby)(+3)(ES)</description>
+		<rom name="Ficheros Secuenciales (1989)(MicroHobby)(+3)(ES).dsk" size="194816" crc="9a708b1b" md5="3b63c615f31e4766125092d6c08abadb" sha1="56d34ed4aea25a4b68abda5adeb4dc2a6f335976"/>
 	</game>
 	<game name="Flexipage Viewdata Author (1986)(Flexibase)(+3)(Side A)[aka Flexibase 8][aka Flexipage 200][aka Flexipage Author]">
 		<description>Flexipage Viewdata Author (1986)(Flexibase)(+3)(Side A)[aka Flexibase 8][aka Flexipage 200][aka Flexipage Author]</description>
@@ -241,6 +313,10 @@
 	<game name="Football Boxform (1988)(Boxoft)(+3)">
 		<description>Football Boxform (1988)(Boxoft)(+3)</description>
 		<rom name="Football Boxform (1988)(Boxoft)(+3).dsk" size="194816" crc="72d70f4d" md5="ad00977c1b0d7718f30ee716e1da7860" sha1="1fd4833e1e779f43b722ee1bd82102f782a7e036"/>
+	</game>
+	<game name="Formateador de Discos (1988)(MicroHobby)(+3)(ES)">
+		<description>Formateador de Discos (1988)(MicroHobby)(+3)(ES)</description>
+		<rom name="Formateador de Discos (1988)(MicroHobby)(+3)(ES).dsk" size="194816" crc="14ee6d94" md5="fd1ba4e49b6579bf9c4c465459038b04" sha1="59f9f9b2e35308c278dc0bd21bd699b5220a6bce"/>
 	</game>
 	<game name="GENS3P to GENS80 Source Files Converter (1995)(Useless Soft)(+3)">
 		<description>GENS3P to GENS80 Source Files Converter (1995)(Useless Soft)(+3)</description>
@@ -278,6 +354,14 @@
 		<description>Lifeguard (1987)(Romantic Robot UK)(+3)[aka Unlimited Lives Finder][needs Multiface]</description>
 		<rom name="Lifeguard (1987)(Romantic Robot UK)(+3)[aka Unlimited Lives Finder][needs Multiface].dsk" size="193792" crc="b749526e" md5="3125b6166e0e596e9cb9273c4c65c123" sha1="2eeff796a6b545366daf3226325404ec0d2d3b7d"/>
 	</game>
+	<game name="M3 Unlock (1990)(TNYsoft)(+3)">
+		<description>M3 Unlock (1990)(TNYsoft)(+3)</description>
+		<rom name="M3 Unlock (1990)(TNYsoft)(+3).dsk" size="195635" crc="e9bffac3" md5="c12ff1e1bba2da92443c09704aebb19b" sha1="a85f6742097632bb3eb13dd35d6dce3cf69e6d04"/>
+	</game>
+	<game name="M3 Unlock (1990)(TNYsoft)(+3)[a]">
+		<description>M3 Unlock (1990)(TNYsoft)(+3)[a]</description>
+		<rom name="M3 Unlock (1990)(TNYsoft)(+3)[a].dsk" size="195635" crc="092b957a" md5="eca13d6d7230cf9653a0c2effbabaeb9" sha1="2409ec2a17662f9c70fe9e79a6f8a70e0362daf4"/>
+	</game>
 	<game name="Masterfile +3 (1987)(Campbell Systems)(+3)[aka Masterfile Plus 3][aka Masterfile Plus Three]">
 		<description>Masterfile +3 (1987)(Campbell Systems)(+3)[aka Masterfile Plus 3][aka Masterfile Plus Three]</description>
 		<rom name="Masterfile +3 (1987)(Campbell Systems)(+3)[aka Masterfile Plus 3][aka Masterfile Plus Three].dsk" size="194816" crc="0c19b526" md5="3e7ba0c8b7d04bfdce3b63d1d6086f27" sha1="012ffcaa92fb8edb2b7a6df816d6317dfa041165"/>
@@ -293,6 +377,10 @@
 	<game name="Music Maestro (1989)(Torchraven)(+3)(Side B)">
 		<description>Music Maestro (1989)(Torchraven)(+3)(Side B)</description>
 		<rom name="Music Maestro (1989)(Torchraven)(+3)(Side B).dsk" size="194816" crc="f7dd2726" md5="eecc09a678c870ead81a7692345d7357" sha1="55ab5a3c12e6fd5afed49fb5365af3a8ec494b76"/>
+	</game>
+	<game name="Nuevo Compresor de Ficheros (1992)(MicroHobby)(+3)(ES)">
+		<description>Nuevo Compresor de Ficheros (1992)(MicroHobby)(+3)(ES)</description>
+		<rom name="Nuevo Compresor de Ficheros (1992)(MicroHobby)(+3)(ES).dsk" size="194816" crc="27c83fd6" md5="ebdfbc709648239ab9b35b3f21e57e7a" sha1="a66e5938cae33ae02b6646bd3f382cd7669a9057"/>
 	</game>
 	<game name="OCP Art Studio, The (1985)(Rainbird)(+3)[m Useless Soft]">
 		<description>OCP Art Studio, The (1985)(Rainbird)(+3)[m Useless Soft]</description>
@@ -310,17 +398,29 @@
 		<description>Plus 3 Diary &amp; Filing System (1989)(Kobrahsoft)(+3)[aka Plus 3 Diary &amp; Database]</description>
 		<rom name="Plus 3 Diary &amp; Filing System (1989)(Kobrahsoft)(+3)[aka Plus 3 Diary &amp; Database].dsk" size="194816" crc="4ee5ffec" md5="1e93a1fb1b78d2a9c28d6e9c2524b8df" sha1="d8d687a5e7ededbda35804509373282de9e44f48"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Aventuras AD)(+3)(ES)[re-release]">
-		<description>Professional Adventure Writer (1986)(Aventuras AD)(+3)(ES)[re-release]</description>
-		<rom name="Professional Adventure Writer (1986)(Aventuras AD)(+3)(ES)[re-release].dsk" size="194816" crc="9faccc2f" md5="f980bed71885b3ee0444a7baabb53bc1" sha1="30452eb8b15082f9eb3c37538276d2238dfdc8fd"/>
+	<game name="Plus-3-Mate (1989)(LERM)(+3)">
+		<description>Plus-3-Mate (1989)(LERM)(+3)</description>
+		<rom name="Plus-3-Mate (1989)(LERM)(+3).dsk" size="106240" crc="60f8c02c" md5="60079c4ced8f74c185f68b207580b6e7" sha1="2258b0ddc1de9324a91e5fbf1ca56cc0b512f87d"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Gilsoft International)(+3)(Side A)[aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer (1986)(Gilsoft International)(+3)(Side A)[aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer (1986)(Gilsoft International)(+3)(Side A)[aka PAW][aka Professional Adventure Writing System, The].dsk" size="194816" crc="fcf1e861" md5="9f75194547bc87d1625e1e024b02ef0c" sha1="017a2ac8487ac8999141f6008b9e31b12c9c5197"/>
+	<game name="Plus-3-Mate (1989)(LERM)(+3)[a]">
+		<description>Plus-3-Mate (1989)(LERM)(+3)[a]</description>
+		<rom name="Plus-3-Mate (1989)(LERM)(+3)[a].dsk" size="106735" crc="0ea6bb10" md5="ed9b27f99a550fad9943fc84c14d71b5" sha1="e9063510df72342ad00f6377cf8f873d9bd38995"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Gilsoft International)(+3)(Side B)[aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer (1986)(Gilsoft International)(+3)(Side B)[aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer (1986)(Gilsoft International)(+3)(Side B)[aka PAW][aka Professional Adventure Writing System, The].dsk" size="194816" crc="41b52f47" md5="ab49f44a7a69705af42555f438e26379" sha1="1502b0027a4a3937744af410d6d773ac7c826c36"/>
+	<game name="Professional Adventure Writer (1987)(Aventuras AD)(+3)(ES)[re-release]">
+		<description>Professional Adventure Writer (1987)(Aventuras AD)(+3)(ES)[re-release]</description>
+		<rom name="Professional Adventure Writer (1987)(Aventuras AD)(+3)(ES)[re-release].dsk" size="194816" crc="9faccc2f" md5="f980bed71885b3ee0444a7baabb53bc1" sha1="30452eb8b15082f9eb3c37538276d2238dfdc8fd"/>
+	</game>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(+3)(Side A)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(+3)(Side A)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(+3)(Side A)[aka PAW][aka Professional Adventure Writing System, The].dsk" size="194816" crc="fcf1e861" md5="9f75194547bc87d1625e1e024b02ef0c" sha1="017a2ac8487ac8999141f6008b9e31b12c9c5197"/>
+	</game>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(+3)(Side B)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(+3)(Side B)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(+3)(Side B)[aka PAW][aka Professional Adventure Writing System, The].dsk" size="194816" crc="41b52f47" md5="ab49f44a7a69705af42555f438e26379" sha1="1502b0027a4a3937744af410d6d773ac7c826c36"/>
+	</game>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(+3)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(+3)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(+3)[aka PAW][aka Professional Adventure Writing System, The].dsk" size="194816" crc="213dd2de" md5="7e2d3f3c79a779d8dbbae4c0cd1f438b" sha1="445fdd9d296bf7307e63863e9bf489c28e0c7500"/>
 	</game>
 	<game name="Revelados (2006)(Compiler)(+3)(ES)">
 		<description>Revelados (2006)(Compiler)(+3)(ES)</description>
@@ -349,6 +449,18 @@
 	<game name="SQ-Tracker +3 (1998)(T.D.M.)(+3)">
 		<description>SQ-Tracker +3 (1998)(T.D.M.)(+3)</description>
 		<rom name="SQ-Tracker +3 (1998)(T.D.M.)(+3).dsk" size="194816" crc="2f06ec84" md5="b5e483a7aba2f91e23eeba64ca7e8542" sha1="00ad89d4ad50119e3aa685579fbe12fe8d7d7191"/>
+	</game>
+	<game name="SlowDOS (1997)(Morris, Dominic J.)(+3)">
+		<description>SlowDOS (1997)(Morris, Dominic J.)(+3)</description>
+		<rom name="SlowDOS (1997)(Morris, Dominic J.)(+3).dsk" size="194816" crc="bba2baf4" md5="d938cf6da191a4530f4489d29adee94a" sha1="304c30916fe26b1b413a583fce2917253436ac4c"/>
+	</game>
+	<game name="Specfile+ (1991)(S.D.)(+3)">
+		<description>Specfile+ (1991)(S.D.)(+3)</description>
+		<rom name="Specfile+ (1991)(S.D.)(+3).dsk" size="194816" crc="2e9267ff" md5="31a2b0f63d04ca1b22f8f8b0af77dcd8" sha1="fc72058b6d71f4d59c8ba02f63278b51e36465c0"/>
+	</game>
+	<game name="Superformat (1988)(MicroHobby)(+3)(ES)">
+		<description>Superformat (1988)(MicroHobby)(+3)(ES)</description>
+		<rom name="Superformat (1988)(MicroHobby)(+3)(ES).dsk" size="194816" crc="88a10f04" md5="721801d6840947b7cf300b54f40e27ca" sha1="89105292ecf70a19ce0aeebb845398ba9d9d3570"/>
 	</game>
 	<game name="Tapedisc (1988)(MicroHobby)(+3)(ES)">
 		<description>Tapedisc (1988)(MicroHobby)(+3)(ES)</description>
@@ -466,6 +578,10 @@
 		<description>Word-Master (1987)(Cardex)(+3)(Side B)</description>
 		<rom name="Word-Master (1987)(Cardex)(+3)(Side B).dsk" size="195635" crc="388ca5a7" md5="96793243801825f5134c1e1569ef69af" sha1="0ce7c6c799f74c43d4f206610e71d3ab8151ae3c"/>
 	</game>
+	<game name="YM-Player (2017)(Javorcek, Anton)(+3)(SK)(en)">
+		<description>YM-Player (2017)(Javorcek, Anton)(+3)(SK)(en)</description>
+		<rom name="YM-Player (2017)(Javorcek, Anton)(+3)(SK)(en).dsk" size="323043" crc="a412f245" md5="cb4abb06dbefe7ae3a1541616d5ac4ad" sha1="2de0fb3304f9496c19f7fe283fd311e2ff2f3fa3"/>
+	</game>
 	<game name="ZX CP-M 2.2 (2009)(Williams, M.)(+3)">
 		<description>ZX CP-M 2.2 (2009)(Williams, M.)(+3)</description>
 		<rom name="ZX CP-M 2.2 (2009)(Williams, M.)(+3).dsk" size="194816" crc="26fc1fc5" md5="2d5bdc76810ae9e63cc834141b7a6bf9" sha1="ea79fec488af3a0189af0f724d27f1ec0afc010b"/>
@@ -477,5 +593,9 @@
 	<game name="ZXZVM v1.03 +3 (1999)(Elliott, John)(+3)">
 		<description>ZXZVM v1.03 +3 (1999)(Elliott, John)(+3)</description>
 		<rom name="ZXZVM v1.03 +3 (1999)(Elliott, John)(+3).dsk" size="194816" crc="fb594d52" md5="8dba0f85d71931585d58c6e159d2ab61" sha1="37491b545bc311f793998a6a1a8c1bc4477b4896"/>
+	</game>
+	<game name="dsForth (2020)(Ketmar Dark)(+3)">
+		<description>dsForth (2020)(Ketmar Dark)(+3)</description>
+		<rom name="dsForth (2020)(Ketmar Dark)(+3).dsk" size="194816" crc="7b7a5b9d" md5="0549622cbaf1c7a26d5d0dba3ff96a13" sha1="d0acb9fb09490f8bae8b44e11aef80fe5861e4dc"/>
 	</game>
 </datafile>

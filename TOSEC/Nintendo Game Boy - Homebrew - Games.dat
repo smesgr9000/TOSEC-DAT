@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Homebrew - Games</name>
-		<description>Nintendo Game Boy - Homebrew - Games (TOSEC-v2022-12-21)</description>
+		<description>Nintendo Game Boy - Homebrew - Games (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
-		<author>mictlantecuhtle</author>
+		<version>2023-06-14</version>
+		<author>mictlantecuhtle - newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -904,6 +904,10 @@
 		<description>Cris Quest (demo-playable) (2021)(Team Coin)[Town Demo v2]</description>
 		<rom name="Cris Quest (demo-playable) (2021)(Team Coin)[Town Demo v2].gb" size="131072" crc="84f185a0" md5="7be1690b93a4aeb3f070be66ba5420d4" sha1="04c976fc68033ebc5f5b6b93420366c5b3a0a30b"/>
 	</game>
+	<game name="Cross Verbix (2022-12-16)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2022-12-16)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2022-12-16)(Caruso, Fabrizio).gb" size="32768" crc="13781cf6" md5="8cfb1abe5a28e5c4be184f270d50aedb" sha1="195d06ad1b9afabeea748a0b423f2dc3dd239a79"/>
+	</game>
 	<game name="Crush Landing (2020-08-05)(anilanil - gocivici)">
 		<description>Crush Landing (2020-08-05)(anilanil - gocivici)</description>
 		<rom name="Crush Landing (2020-08-05)(anilanil - gocivici).gb" size="1048576" crc="9b903c11" md5="c0e4c2abce115a8189f3a1cdd184b54e" sha1="9ac255ae04d10d8871345a97bd2a2effaaf34fc8"/>
@@ -1015,6 +1019,10 @@
 	<game name="Delia - The Travelling Witch v4a (2022-04-16)(Kaimatten)">
 		<description>Delia - The Travelling Witch v4a (2022-04-16)(Kaimatten)</description>
 		<rom name="Delia - The Travelling Witch v4a (2022-04-16)(Kaimatten).gb" size="1048576" crc="8b6bfb3e" md5="8457a69bcd4471a801cb535de345cc98" sha1="3869c8a61594869b035584c32c952ed0b67f8b1d"/>
+	</game>
+	<game name="Delivery, The (2021-07-14)(GalloCode)">
+		<description>Delivery, The (2021-07-14)(GalloCode)</description>
+		<rom name="Delivery, The (2021-07-14)(GalloCode).gb" size="262144" crc="bb48723f" md5="f4257d5a0a8e59262499d7d88ef5351c" sha1="a819e76d5e561356f2e803544893d9804ae20207"/>
 	</game>
 	<game name="Delivery Boy (2021-01-29)(Fusion Interactive)">
 		<description>Delivery Boy (2021-01-29)(Fusion Interactive)</description>
@@ -1231,6 +1239,18 @@
 	<game name="DULL ACHE (2021-02-06)(Garcia, Diego)">
 		<description>DULL ACHE (2021-02-06)(Garcia, Diego)</description>
 		<rom name="DULL ACHE (2021-02-06)(Garcia, Diego).gb" size="1048576" crc="0c14aa04" md5="b434de9a66e47556ce0d081012c633c3" sha1="845c1125446d61decf68af36d4a035cc68979225"/>
+	</game>
+	<game name="Dungeon Escape (1997)(Granlund, Anders)(PD)">
+		<description>Dungeon Escape (1997)(Granlund, Anders)(PD)</description>
+		<rom name="Dungeon Escape (1997)(Granlund, Anders)(PD).gb" size="32768" crc="cc8686e0" md5="402783a0438f9f0902ae0b0b60a4848d" sha1="0bfcd861e9a0f737f2c362bdb8f31ba66e6c46b1"/>
+	</game>
+	<game name="Dungeon Escape (1997)(Granlund, Anders)(PD)[a]">
+		<description>Dungeon Escape (1997)(Granlund, Anders)(PD)[a]</description>
+		<rom name="Dungeon Escape (1997)(Granlund, Anders)(PD)[a].gb" size="32768" crc="7e350676" md5="0b9e0ef77e8e9b09233b9dd60cb5a507" sha1="188432c688b3c72ae4b43d8ea6cd22499ee77ec3"/>
+	</game>
+	<game name="Dungeon Escape (1997)(Granlund, Anders)(PD)[b]">
+		<description>Dungeon Escape (1997)(Granlund, Anders)(PD)[b]</description>
+		<rom name="Dungeon Escape (1997)(Granlund, Anders)(PD)[b].gb" size="32768" crc="857f4396" md5="c86eb4004dfe3be210884d03f80922f7" sha1="513a9e2b983386fc1107c0178c6cd8ea19e907ec"/>
 	</game>
 	<game name="Eep! A Game of Lost Sheep (2020-10-29)(Felix, Zachary)(US)">
 		<description>Eep! A Game of Lost Sheep (2020-10-29)(Felix, Zachary)(US)</description>
@@ -1459,6 +1479,138 @@
 	<game name="FortBoy (2022-03-27)(Kersjes, Tijn)">
 		<description>FortBoy (2022-03-27)(Kersjes, Tijn)</description>
 		<rom name="FortBoy (2022-03-27)(Kersjes, Tijn).gb" size="32768" crc="364b7cf9" md5="e8dafe4cc6b88be90b7f7fe206d7e422" sha1="2ef99a4e8f4e4c68c2c6bcc0e0a4585a83e36e67"/>
+	</game>
+	<game name="Frank the Fruit Fly v1 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v1 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v1 (20xx)(Read, Chris)(PD).gb" size="32768" crc="570ec098" md5="7109594a73b127d222475ffd6e5a546d" sha1="777dccf26e0fc2706675210ab3f8755776f94975"/>
+	</game>
+	<game name="Frank the Fruit Fly v10 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v10 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v10 (20xx)(Read, Chris)(PD).gb" size="32768" crc="669aebd7" md5="2113ae4e065a68fa6ebd491d1260cc8c" sha1="2c277e01e3f7660e2b2b8e7ba7db17b48bc381ae"/>
+	</game>
+	<game name="Frank the Fruit Fly v11 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v11 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v11 (20xx)(Read, Chris)(PD).gb" size="32768" crc="ea2e4ec3" md5="d3b0b77c7bcdd53a049dfbb6b88ba793" sha1="18f679c1d354329c20db3d603be794164d7c99ac"/>
+	</game>
+	<game name="Frank the Fruit Fly v12 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v12 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v12 (20xx)(Read, Chris)(PD).gb" size="32768" crc="feba033f" md5="86d9cd6262eafc49b48f3ea7b33007cf" sha1="1c4110de0d1e4eba4c84418542ba712a36eef4f0"/>
+	</game>
+	<game name="Frank the Fruit Fly v13 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v13 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v13 (20xx)(Read, Chris)(PD).gb" size="32768" crc="aecc8520" md5="67b86d50a6b5502a79a5884ee4d84612" sha1="904aa380089c9e59876694afb64ef3a4b1a910bd"/>
+	</game>
+	<game name="Frank the Fruit Fly v14 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v14 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v14 (20xx)(Read, Chris)(PD).gb" size="32768" crc="825e2e68" md5="a4fdc0dae0a3083d01f9b7f771f2ffc8" sha1="e4ad97c2a669f3e3077c1b8ee4c8e21f523de52e"/>
+	</game>
+	<game name="Frank the Fruit Fly v15 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v15 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v15 (20xx)(Read, Chris)(PD).gb" size="32768" crc="dc94dbb1" md5="9691418d26e9bebbd2ff52bb58bc459d" sha1="f88df09f9d89bb877ccc7dda7a7770cf8e9ef386"/>
+	</game>
+	<game name="Frank the Fruit Fly v16 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v16 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v16 (20xx)(Read, Chris)(PD).gb" size="32768" crc="8c766ca8" md5="c42652d5a54d2142111bad94fe5c82bc" sha1="6afab11368505a6f7a19e6b02821d96fe3768d4f"/>
+	</game>
+	<game name="Frank the Fruit Fly v17 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v17 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v17 (20xx)(Read, Chris)(PD).gb" size="32768" crc="ed106c2e" md5="3f67663388bc5a4020e39940177a0167" sha1="94e2abff5546e82455ae012a076ca3f546da7258"/>
+	</game>
+	<game name="Frank the Fruit Fly v18 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v18 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v18 (20xx)(Read, Chris)(PD).gb" size="32768" crc="29cf42c2" md5="0625d8778d55a9f2d6e89e84e2743689" sha1="0a77b350c6a7928a145ebf69f9250880cfddc0a3"/>
+	</game>
+	<game name="Frank the Fruit Fly v19 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v19 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v19 (20xx)(Read, Chris)(PD).gb" size="32768" crc="3830ca1c" md5="acbe4530ef45022d4a444a9522676438" sha1="e8358fb81eba8f8d2b78efe1c25021e0aa619d5d"/>
+	</game>
+	<game name="Frank the Fruit Fly v2 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v2 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v2 (20xx)(Read, Chris)(PD).gb" size="32768" crc="c4d42f09" md5="e45f7c06927d73c311cb601452df687b" sha1="46d509d762b9198aa21853fccd538b211e3d9deb"/>
+	</game>
+	<game name="Frank the Fruit Fly v20 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v20 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v20 (20xx)(Read, Chris)(PD).gb" size="65536" crc="5119b9ec" md5="69b369ee45c3148d8e4b9361e62df2ec" sha1="791a61a0580ae66a4113980377d156d0b0fd7669"/>
+	</game>
+	<game name="Frank the Fruit Fly v21 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v21 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v21 (20xx)(Read, Chris)(PD).gb" size="131072" crc="d5008d19" md5="5f4de10b3ca435aad599d12694a51359" sha1="706f2372171d3537253bc8cb7bcdd94be61b5f5d"/>
+	</game>
+	<game name="Frank the Fruit Fly v22 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v22 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v22 (20xx)(Read, Chris)(PD).gb" size="131072" crc="fce60f2a" md5="b898ccb0b08bee3141a2c12f9b83b10e" sha1="30d193c3991bc16b85b9c096a6284d57e355d361"/>
+	</game>
+	<game name="Frank the Fruit Fly v23 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v23 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v23 (20xx)(Read, Chris)(PD).gb" size="131072" crc="684658c9" md5="0be4de3be29656d8b65fa1f53bb76d0a" sha1="f2895111e4be55423a09e64d462e576d388316c6"/>
+	</game>
+	<game name="Frank the Fruit Fly v24 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v24 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v24 (20xx)(Read, Chris)(PD).gb" size="131072" crc="c1092597" md5="6d1238770f3e10b519f4fd32cf01f4e0" sha1="680e64aaee92a27e27948c4a0fceec4bd9b2a1f5"/>
+	</game>
+	<game name="Frank the Fruit Fly v25 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v25 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v25 (20xx)(Read, Chris)(PD).gb" size="131072" crc="1b5d8eb1" md5="18164915d8729f83f4a819f3d4540670" sha1="c747a572aa9665613339875e468c81dc1a37d0df"/>
+	</game>
+	<game name="Frank the Fruit Fly v26 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v26 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v26 (20xx)(Read, Chris)(PD).gb" size="131072" crc="15f7f32f" md5="ae6c4cfcd4e59adbf38c810d7f3df59e" sha1="dd3867099680526ca085426435e06114b4af950d"/>
+	</game>
+	<game name="Frank the Fruit Fly v27 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v27 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v27 (20xx)(Read, Chris)(PD).gb" size="131072" crc="1b6ba59d" md5="2d4faa75ff72c4e64e29a60bb04783d3" sha1="91741c5f1c2e3e4116a7f754888bb8fba6370ce8"/>
+	</game>
+	<game name="Frank the Fruit Fly v28 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v28 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v28 (20xx)(Read, Chris)(PD).gb" size="131072" crc="3bfa648e" md5="58e6ed4646a50f41dd5846c6a4fc158f" sha1="58d198cfa67a67441fb6da3dbfe78d07ecb8e6dc"/>
+	</game>
+	<game name="Frank the Fruit Fly v29 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v29 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v29 (20xx)(Read, Chris)(PD).gb" size="131072" crc="e89c7910" md5="7c5f80b57108fbbb3586331b28471175" sha1="77c737f9294642bd32ff88ec19d8215543200087"/>
+	</game>
+	<game name="Frank the Fruit Fly v3 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v3 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v3 (20xx)(Read, Chris)(PD).gb" size="32768" crc="b457064c" md5="7d8fa047de411b9c12da9c0d99eff6d8" sha1="2eb983ff88667f3c6ef6ac5ca451465e42f485ea"/>
+	</game>
+	<game name="Frank the Fruit Fly v30 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v30 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v30 (20xx)(Read, Chris)(PD).gb" size="131072" crc="3dbe9ec5" md5="9031e84a25f95d1ff56031a0211623dc" sha1="a26dcdff3cbed1f9a906abf53aed410ca483d72a"/>
+	</game>
+	<game name="Frank the Fruit Fly v30a (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v30a (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v30a (20xx)(Read, Chris)(PD).gb" size="131072" crc="e127dbd0" md5="fb5b1ed5000b2d231ab88311f4e58128" sha1="5f7bf6efdbf0c5d4da00501b805bf5b84759e15e"/>
+	</game>
+	<game name="Frank the Fruit Fly v4 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v4 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v4 (20xx)(Read, Chris)(PD).gb" size="32768" crc="02d30010" md5="3e45289f3856b65257d3612d215b527b" sha1="9a6a8d0c6585d0ae3679f0bd70adbf851f9a792f"/>
+	</game>
+	<game name="Frank the Fruit Fly v5 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v5 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v5 (20xx)(Read, Chris)(PD).gb" size="32768" crc="5f02ef04" md5="c0edea750cce56729934b2e36772895b" sha1="da8b1b1b5cc90634e4b8af144bd2b886d556c8d7"/>
+	</game>
+	<game name="Frank the Fruit Fly v6 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v6 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v6 (20xx)(Read, Chris)(PD).gb" size="32768" crc="c87933d9" md5="17dbdf14c34d695a564e252f840b1fea" sha1="d87504f94af82d4431da76df7ae19b666079e93b"/>
+	</game>
+	<game name="Frank the Fruit Fly v7 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v7 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v7 (20xx)(Read, Chris)(PD).gb" size="32768" crc="ce62d971" md5="a8676192133b96c8e87e9c4a17434e21" sha1="0ac3eea4c6af7a3f079550c1273eb832a4200145"/>
+	</game>
+	<game name="Frank the Fruit Fly v8 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v8 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v8 (20xx)(Read, Chris)(PD).gb" size="32768" crc="f8610f2a" md5="f8b84d09010fb0ad1a5d02ad85c63736" sha1="e819ad245d3664ea98a4100ec750cb7aebc76fca"/>
+	</game>
+	<game name="Frank the Fruit Fly v8a (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v8a (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v8a (20xx)(Read, Chris)(PD).gb" size="32768" crc="6e5fc18d" md5="e8cdfb3941a16993896fb123afb126e8" sha1="2d1ebd31a243eea69323efb7e303a6c621ea3c84"/>
+	</game>
+	<game name="Frank the Fruit Fly v9 (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v9 (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v9 (20xx)(Read, Chris)(PD).gb" size="32768" crc="13838242" md5="472b95ab516a9bfe602137e714c14d80" sha1="466f519cd46395c9a59c59d5f511cad4a20e7a6b"/>
+	</game>
+	<game name="Frank the Fruit Fly v9a (20xx)(Read, Chris)(PD)">
+		<description>Frank the Fruit Fly v9a (20xx)(Read, Chris)(PD)</description>
+		<rom name="Frank the Fruit Fly v9a (20xx)(Read, Chris)(PD).gb" size="32768" crc="2ce00bad" md5="d6a6454cbfc9239c9b20d327d4b061f4" sha1="5ec621459c8003b92dbddf198910396a8e60679e"/>
 	</game>
 	<game name="Freeway (demo-playable) (2021-05-03)(StudioVermin)">
 		<description>Freeway (demo-playable) (2021-05-03)(StudioVermin)</description>
@@ -2040,9 +2192,9 @@
 		<description>I Want to Be the Demake (2021-08-24)(TheShoeBurglar)</description>
 		<rom name="I Want to Be the Demake (2021-08-24)(TheShoeBurglar).gb" size="262144" crc="7219a220" md5="131ea9420fb186ca9a26258e6d095c56" sha1="c0c3dca4205d557186f143b08aa92d886a180326"/>
 	</game>
-	<game name="Impossible Game(boy) (2021-09-26)(shadowsora)">
-		<description>Impossible Game(boy) (2021-09-26)(shadowsora)</description>
-		<rom name="Impossible Game(boy) (2021-09-26)(shadowsora).gb" size="131072" crc="ab65b738" md5="dd83f27a43bc5d571c86f979aac2e1dd" sha1="d31cedd6227b23cf3d8ef81c73f133ab0b57e4f4"/>
+	<game name="Impossible Game-boy- (2021-09-26)(shadowsora)">
+		<description>Impossible Game-boy- (2021-09-26)(shadowsora)</description>
+		<rom name="Impossible Game-boy- (2021-09-26)(shadowsora).gb" size="131072" crc="ab65b738" md5="dd83f27a43bc5d571c86f979aac2e1dd" sha1="d31cedd6227b23cf3d8ef81c73f133ab0b57e4f4"/>
 	</game>
 	<game name="Impsie Daisy (2021-07-10)(ohfivethirty)">
 		<description>Impsie Daisy (2021-07-10)(ohfivethirty)</description>
@@ -2483,6 +2635,10 @@
 	<game name="Master's Quest, The - An Awful RPG (2020-08-22)(PowerUpT)">
 		<description>Master's Quest, The - An Awful RPG (2020-08-22)(PowerUpT)</description>
 		<rom name="Master's Quest, The - An Awful RPG (2020-08-22)(PowerUpT).gb" size="1048576" crc="92709660" md5="3a2cd691688836f2d658ad265d823c03" sha1="b3a629ece388ee7e0c4b0e754de5211ce34ff786"/>
+	</game>
+	<game name="Mathlock (2022-09-01)(kattrali)">
+		<description>Mathlock (2022-09-01)(kattrali)</description>
+		<rom name="Mathlock (2022-09-01)(kattrali).gb" size="32768" crc="16f37272" md5="9b74cd9f8d36163d8123c8d6080f652a" sha1="f1ebf6bdbf830604e07111e6454643b5349f085a"/>
 	</game>
 	<game name="May Day - Day One (demo-playable) (2020-11-06)(Valorz, Nate)">
 		<description>May Day - Day One (demo-playable) (2020-11-06)(Valorz, Nate)</description>
@@ -3004,6 +3160,10 @@
 		<description>Pie! Pie! Pie! v0.0.3 (2021-01-28)(Spirit Bow Studios)(proto)</description>
 		<rom name="Pie! Pie! Pie! v0.0.3 (2021-01-28)(Spirit Bow Studios)(proto).gb" size="262144" crc="0ce7f34f" md5="b95f5522708fcd0f782369d330ea99d8" sha1="1f484c085c2f3e5aa799a6c95f8b85d247c6b9dd"/>
 	</game>
+	<game name="PillaDream (2022-09-23)(Nova Noodle)">
+		<description>PillaDream (2022-09-23)(Nova Noodle)</description>
+		<rom name="PillaDream (2022-09-23)(Nova Noodle).gb" size="262144" crc="3972cd69" md5="ffd1c222faac017c1f8c255b51f6d1d1" sha1="23352ee26669e759fe09b7ed73174513aa99012d"/>
+	</game>
 	<game name="Pin City - Intro (2021-06-11)(HuitreMagique)(proto)">
 		<description>Pin City - Intro (2021-06-11)(HuitreMagique)(proto)</description>
 		<rom name="Pin City - Intro (2021-06-11)(HuitreMagique)(proto).gb" size="262144" crc="4d2b72fc" md5="497f81519209edab8ce15b63a24d1ac7" sha1="0d19a05b29eda0f27cbd9bba14b275660a2077e4"/>
@@ -3103,6 +3263,10 @@
 	<game name="Pocket Dungeon - Concept Demo (demo-playable) (2022-01-26)(godai)(PL)(en)">
 		<description>Pocket Dungeon - Concept Demo (demo-playable) (2022-01-26)(godai)(PL)(en)</description>
 		<rom name="Pocket Dungeon - Concept Demo (demo-playable) (2022-01-26)(godai)(PL)(en).gb" size="262144" crc="647a2db1" md5="f4ed58498b3c37627f5045494140f973" sha1="50da9ce932bd9ecbd4b8b5a183783a913d114621"/>
+	</game>
+	<game name="Pocket Pong (2022-07-01)(Boniato82)">
+		<description>Pocket Pong (2022-07-01)(Boniato82)</description>
+		<rom name="Pocket Pong (2022-07-01)(Boniato82).gb" size="32768" crc="82e10c60" md5="e90d542ea6f039ab4059ed54da97d723" sha1="690ff2d6b34b1f9b78314690c5fe0d1091238da4"/>
 	</game>
 	<game name="Pocket Space (2021-07-24)(Feeline0)">
 		<description>Pocket Space (2021-07-24)(Feeline0)</description>
@@ -3292,6 +3456,14 @@
 		<description>Repugnant Bounty (demo-playable) (2021-04-23)(Repugnant Bounty)[GB-Studio Jam Version]</description>
 		<rom name="Repugnant Bounty (demo-playable) (2021-04-23)(Repugnant Bounty)[GB-Studio Jam Version].gb" size="4194304" crc="e52b871d" md5="6c418118fc68f21518604488201a5a35" sha1="6107fe17467df905317d5399d1240525b95860d2"/>
 	</game>
+	<game name="Resident Evil - GB (2022-12-02)(Jayjay-1992)">
+		<description>Resident Evil - GB (2022-12-02)(Jayjay-1992)</description>
+		<rom name="Resident Evil - GB (2022-12-02)(Jayjay-1992).gb" size="1048576" crc="90adeee5" md5="31ec772586614cc233332fba9fbd3824" sha1="7c76489ff1b804b57fd884eac0973d3e4cefb4e7"/>
+	</game>
+	<game name="Resident Evil - Grim Beginnings v0.9 (2021)(Diabolic Hunt)">
+		<description>Resident Evil - Grim Beginnings v0.9 (2021)(Diabolic Hunt)</description>
+		<rom name="Resident Evil - Grim Beginnings v0.9 (2021)(Diabolic Hunt).gb" size="1048576" crc="305bd222" md5="14350807b70be97842d25bed17e41550" sha1="ed5746ed92d9727d50631bf08ed1387d466a0046"/>
+	</game>
 	<game name="Retention (2021-06-12)(ExEm)">
 		<description>Retention (2021-06-12)(ExEm)</description>
 		<rom name="Retention (2021-06-12)(ExEm).gb" size="262144" crc="b6b989d0" md5="f65d7cfa2da31bde4a05e1608061e2bc" sha1="30a263bd0a3cb543712fba3689ceb861702c09a4"/>
@@ -3399,6 +3571,10 @@
 	<game name="RumBoy (2021-01-26)(entozoon)">
 		<description>RumBoy (2021-01-26)(entozoon)</description>
 		<rom name="RumBoy (2021-01-26)(entozoon).gb" size="262144" crc="fd92b596" md5="6770dc3df13c847f35818e5b2b4e7c46" sha1="27ff530cc5309cfe166bf8e40b4716ae532cfccb"/>
+	</game>
+	<game name="Run for Your Life! (2021-02-20)(Dewbone3)">
+		<description>Run for Your Life! (2021-02-20)(Dewbone3)</description>
+		<rom name="Run for Your Life! (2021-02-20)(Dewbone3).gb" size="32768" crc="b379a245" md5="ac7a9bb8517cd459a3c2b1a97c715c85" sha1="8cbf5e8e05b6107965011a370eea6429b4accb64"/>
 	</game>
 	<game name="Run to Databay (2015-08-16)(Momeka)">
 		<description>Run to Databay (2015-08-16)(Momeka)</description>
@@ -3927,6 +4103,10 @@
 	<game name="Ted &amp; Pals' Hide and Seek (2021-04-29)(Enophano)">
 		<description>Ted &amp; Pals' Hide and Seek (2021-04-29)(Enophano)</description>
 		<rom name="Ted &amp; Pals' Hide and Seek (2021-04-29)(Enophano).gb" size="262144" crc="8f986591" md5="47f83f66610e8d8101a54f2f3dd46b65" sha1="c108b36b436d2cbb8cdbedffc42cb49c4b523129"/>
+	</game>
+	<game name="Teri-Fried GB (2021-03-12)(Dewbone3)(proto)">
+		<description>Teri-Fried GB (2021-03-12)(Dewbone3)(proto)</description>
+		<rom name="Teri-Fried GB (2021-03-12)(Dewbone3)(proto).gb" size="32768" crc="19762d18" md5="177894365b00836c8bdf4a1dff9fd665" sha1="149ad1793fe13a96a276322ba022a72155cd92de"/>
 	</game>
 	<game name="Test GBStudio Game (2020-09-02)(Oretal)">
 		<description>Test GBStudio Game (2020-09-02)(Oretal)</description>

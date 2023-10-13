@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Coverdisks - [ADF]</name>
-		<description>Commodore Amiga - Coverdisks - [ADF] (TOSEC-v2022-12-18)</description>
+		<description>Commodore Amiga - Coverdisks - [ADF] (TOSEC-v2023-06-06)</description>
 		<category>TOSEC</category>
-		<version>2022-12-18</version>
+		<version>2023-06-06</version>
 		<author>idoru - BippyM - CRSV - Duke - mai - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -680,6 +680,10 @@
 		<description>Amiga Action #57 (1994-04)(Europress Publications)(GB)(Disk 2 of 2)[May 1994]</description>
 		<rom name="Amiga Action #57 (1994-04)(Europress Publications)(GB)(Disk 2 of 2)[May 1994].adf" size="901120" crc="fc3b13ef" md5="9da1a7553503fbc7d101d8740afe774f" sha1="d4cf6a61057547304376b53cb143959b7a6802b2"/>
 	</game>
+	<game name="Amiga Action #58 (1994-05)(Europress Publications)(GB)(Disk 2 of 2)[June 1994]">
+		<description>Amiga Action #58 (1994-05)(Europress Publications)(GB)(Disk 2 of 2)[June 1994]</description>
+		<rom name="Amiga Action #58 (1994-05)(Europress Publications)(GB)(Disk 2 of 2)[June 1994].adf" size="901120" crc="e92297f3" md5="2313fa2e958f8a3ad622679ff0cd3c09" sha1="3952b36182653acf7b9af2a0828f6318b788c02c"/>
+	</game>
 	<game name="Amiga Action #59 (1994-06)(Europress Publications)(GB)(Disk 1 of 2)[Jul 1994]">
 		<description>Amiga Action #59 (1994-06)(Europress Publications)(GB)(Disk 1 of 2)[Jul 1994]</description>
 		<rom name="Amiga Action #59 (1994-06)(Europress Publications)(GB)(Disk 1 of 2)[Jul 1994].adf" size="901120" crc="138218ab" md5="388a04ee0cd684ba7c1aa69132dc38e5" sha1="451ab0ff62f2eb077c896ed77e72c27bb34f87ff"/>
@@ -771,10 +775,6 @@
 	<game name="Amiga Action #66 (1994-12)(IDG Media)(GB)(Disk 1 of 3)[Jan 1995]">
 		<description>Amiga Action #66 (1994-12)(IDG Media)(GB)(Disk 1 of 3)[Jan 1995]</description>
 		<rom name="Amiga Action #66 (1994-12)(IDG Media)(GB)(Disk 1 of 3)[Jan 1995].adf" size="901120" crc="cd71c445" md5="8aaf5c4c487cd92ebff69b9ba1076933" sha1="1174a80d8764834a86a23e5eb1883629c20dee11"/>
-	</game>
-	<game name="Amiga Action #66 (1994-12)(IDG Media)(GB)(Disk 2 of 3)[Jan 1995]">
-		<description>Amiga Action #66 (1994-12)(IDG Media)(GB)(Disk 2 of 3)[Jan 1995]</description>
-		<rom name="Amiga Action #66 (1994-12)(IDG Media)(GB)(Disk 2 of 3)[Jan 1995].adf" size="901120" crc="2103d496" md5="05aa9df5de6ca20d5085db262c704fb7" sha1="a5731b9f5e784c2d932b6d5b0536e559f9c6239f"/>
 	</game>
 	<game name="Amiga Action #67 (1995-01-19)(IDG Media)(GB)(Disk 1 of 2)[Feb 1995]">
 		<description>Amiga Action #67 (1995-01-19)(IDG Media)(GB)(Disk 1 of 2)[Feb 1995]</description>
@@ -1320,269 +1320,685 @@
 		<description>Amiga Computing Issue 044 (1992)(Europress Publications)(GB)[o][Jan 1992]</description>
 		<rom name="Amiga Computing Issue 044 (1992)(Europress Publications)(GB)[o][Jan 1992].adf" size="923648" crc="8e9292dd" md5="7eea28dbdbdf52ebed8f2edb480e6aed" sha1="12d5ddc8b904203b22fb995acbc26e63238173bd"/>
 	</game>
-	<game name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[Feb 1992]">
-		<description>Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[Feb 1992]</description>
-		<rom name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[Feb 1992].adf" size="901120" crc="945d5542" md5="22317824673f907a70dff0c1f51585c7" sha1="51b85e6b660e0fdb71be9f9bb5bc2ecad358bdef"/>
+	<game name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[Feb 1992][CoverDisk 28]">
+		<description>Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[Feb 1992][CoverDisk 28]</description>
+		<rom name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[Feb 1992][CoverDisk 28].adf" size="901120" crc="945d5542" md5="22317824673f907a70dff0c1f51585c7" sha1="51b85e6b660e0fdb71be9f9bb5bc2ecad358bdef"/>
 	</game>
-	<game name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[o][Feb 1992]">
-		<description>Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[o][Feb 1992]</description>
-		<rom name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[o][Feb 1992].adf" size="923648" crc="4d3c8dd9" md5="2d99e89f0c8c8874794f6931627bea6a" sha1="4879ee6199e4f459cfa04a62848a1e9159dbbccc"/>
+	<game name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[o][Feb 1992][CoverDisk 28]">
+		<description>Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[o][Feb 1992][CoverDisk 28]</description>
+		<rom name="Amiga Computing Issue 045 (1992)(Europress Publications)(GB)[o][Feb 1992][CoverDisk 28].adf" size="923648" crc="4d3c8dd9" md5="2d99e89f0c8c8874794f6931627bea6a" sha1="4879ee6199e4f459cfa04a62848a1e9159dbbccc"/>
 	</game>
-	<game name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[Mar 1992]">
-		<description>Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[Mar 1992]</description>
-		<rom name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[Mar 1992].adf" size="901120" crc="895f3770" md5="d81857083472d5767cb2032ca52ad8ce" sha1="9fde3480726ea3cd621f3d8505eb4d716272ee12"/>
+	<game name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[Mar 1992][CoverDisk 29]">
+		<description>Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[Mar 1992][CoverDisk 29]</description>
+		<rom name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[Mar 1992][CoverDisk 29].adf" size="901120" crc="895f3770" md5="d81857083472d5767cb2032ca52ad8ce" sha1="9fde3480726ea3cd621f3d8505eb4d716272ee12"/>
 	</game>
-	<game name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[o][Mar 1992]">
-		<description>Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[o][Mar 1992]</description>
-		<rom name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[o][Mar 1992].adf" size="923648" crc="1e56ee40" md5="41e2886149ebd1fad9ca777551f94cd7" sha1="59fbb43e7b5cbd383fac16d7d38d2a3c1bf713f1"/>
+	<game name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[o][Mar 1992][CoverDisk 29]">
+		<description>Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[o][Mar 1992][CoverDisk 29]</description>
+		<rom name="Amiga Computing Issue 046 (1992)(Europress Publications)(GB)[o][Mar 1992][CoverDisk 29].adf" size="923648" crc="1e56ee40" md5="41e2886149ebd1fad9ca777551f94cd7" sha1="59fbb43e7b5cbd383fac16d7d38d2a3c1bf713f1"/>
 	</game>
-	<game name="Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[o][CoverDisk 30, Apr 1992]">
-		<description>Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[o][CoverDisk 30, Apr 1992]</description>
-		<rom name="Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[o][CoverDisk 30, Apr 1992].adf" size="923648" crc="cdba8c04" md5="bd490b59ff7714b8fdc053605260133c" sha1="530f4f8e1b04652e4af679c0b8b0fe4350067c42"/>
+	<game name="Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[Apr 1992][CoverDisk 30]">
+		<description>Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[Apr 1992][CoverDisk 30]</description>
+		<rom name="Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[Apr 1992][CoverDisk 30].adf" size="901120" crc="77b12f34" md5="5f37ae8bd1d1c2611badd94f83e3d220" sha1="95e3432f7e6a26e2df833f0f371fddbe9b17a8d2"/>
 	</game>
-	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[CoverDisk 31, May 1992]">
-		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[CoverDisk 31, May 1992]</description>
-		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[CoverDisk 31, May 1992].adf" size="901120" crc="bde651dc" md5="84adb53d61179f1dc6e8df0d7e88908c" sha1="0d4ca82f7cc6211c3d1ae8a313375dff0518cad0"/>
+	<game name="Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[o][Apr 1992][CoverDisk 30]">
+		<description>Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[o][Apr 1992][CoverDisk 30]</description>
+		<rom name="Amiga Computing Issue 047 (1992)(Europress Publications)(GB)[o][Apr 1992][CoverDisk 30].adf" size="923648" crc="cdba8c04" md5="bd490b59ff7714b8fdc053605260133c" sha1="530f4f8e1b04652e4af679c0b8b0fe4350067c42"/>
 	</game>
-	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[o][CoverDisk 31, May 1992]">
-		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[o][CoverDisk 31, May 1992]</description>
-		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[o][CoverDisk 31, May 1992].adf" size="923648" crc="a9f36347" md5="fafd6144fcfd93ff1ae4c882c623b428" sha1="a89b3ecbb2073efd5a4a28c123179dfd71a11ef6"/>
+	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[m bamcopy][May 1992][CoverDisk 31]">
+		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[m bamcopy][May 1992][CoverDisk 31]</description>
+		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[m bamcopy][May 1992][CoverDisk 31].adf" size="901120" crc="bde651dc" md5="84adb53d61179f1dc6e8df0d7e88908c" sha1="0d4ca82f7cc6211c3d1ae8a313375dff0518cad0"/>
 	</game>
-	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[Superbase Personal, May 1992]">
-		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[Superbase Personal, May 1992]</description>
-		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[Superbase Personal, May 1992].adf" size="901120" crc="fcf541cf" md5="07033916c7fcacbede0bdf03e406837a" sha1="3f86ce3e0628c0cc85ce1af74d55c338aba0b6b5"/>
+	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[May 1992][CoverDisk 31]">
+		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[May 1992][CoverDisk 31]</description>
+		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[May 1992][CoverDisk 31].adf" size="901120" crc="8608afb2" md5="0f47fbae4bd829c1b2f6493dc1044bcb" sha1="b1a71ee0eaa204a8081ce0cda470e416a6022a45"/>
 	</game>
-	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[a][CoverDisk 32, Jun 1992]">
-		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[a][CoverDisk 32, Jun 1992]</description>
-		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[a][CoverDisk 32, Jun 1992].adf" size="901120" crc="e4336ebc" md5="eb0fff8e1f8c70f325f50c7ddfe85d0a" sha1="6862a8daf8843274e5e840fe5c63fc236252943f"/>
+	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[o][May 1992][CoverDisk 31]">
+		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[o][May 1992][CoverDisk 31]</description>
+		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 1 of 2)[o][May 1992][CoverDisk 31].adf" size="923648" crc="a9f36347" md5="fafd6144fcfd93ff1ae4c882c623b428" sha1="a89b3ecbb2073efd5a4a28c123179dfd71a11ef6"/>
 	</game>
-	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[CoverDisk 32, Jun 1992]">
-		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[CoverDisk 32, Jun 1992]</description>
-		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[CoverDisk 32, Jun 1992].adf" size="901120" crc="d5754f13" md5="010d4a009dddb782e1b2d13e24401292" sha1="eeb3483b127aa7db5a2e4482ab7375ecbb962da0"/>
+	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[m bamcopy][May 1992][Superbase Personal]">
+		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[m bamcopy][May 1992][Superbase Personal]</description>
+		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[m bamcopy][May 1992][Superbase Personal].adf" size="901120" crc="fcf541cf" md5="07033916c7fcacbede0bdf03e406837a" sha1="3f86ce3e0628c0cc85ce1af74d55c338aba0b6b5"/>
 	</game>
-	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[o][CoverDisk 32, Jun 1992]">
-		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[o][CoverDisk 32, Jun 1992]</description>
-		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[o][CoverDisk 32, Jun 1992].adf" size="923648" crc="be426fc0" md5="5c4481e60c51699baa3423c675ec2cab" sha1="62ad14fec0f546e22c83175bc0c5bf50c334137a"/>
+	<game name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[May 1992][Superbase Personal]">
+		<description>Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[May 1992][Superbase Personal]</description>
+		<rom name="Amiga Computing Issue 048 (1992)(Europress Publications)(GB)(Disk 2 of 2)[May 1992][Superbase Personal].adf" size="901120" crc="f91fe049" md5="1785c6008495417f804969cc08522d8b" sha1="c4a20e49f1cc0900f490c121c6922fe2884abae3"/>
 	</game>
-	<game name="Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[o][CoverDisk 33, Jul 1992]">
-		<description>Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[o][CoverDisk 33, Jul 1992]</description>
-		<rom name="Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[o][CoverDisk 33, Jul 1992].adf" size="923648" crc="48e643ff" md5="3d172f5a80bafdd02d0fcf53b370893a" sha1="1c1098e2802666b20cf75396f57104286080f7a3"/>
+	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[Jun 1992][CoverDisk 32]">
+		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[Jun 1992][CoverDisk 32]</description>
+		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[Jun 1992][CoverDisk 32].adf" size="901120" crc="79a66337" md5="70fd5c381bc0d897464d42870592e461" sha1="9b5c49910ab7b24fc77b7ab7c6ea37ef6e38815d"/>
 	</game>
-	<game name="Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[o][CoverDisk 34, Aug 1992]">
-		<description>Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[o][CoverDisk 34, Aug 1992]</description>
-		<rom name="Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[o][CoverDisk 34, Aug 1992].adf" size="923648" crc="1f1b7fa7" md5="0c1cc0546622afd67873b8bad69628bc" sha1="9f676d9fa8b23c35533f019f8b5a624b81b27fea"/>
+	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[m bamcopy][Jun 1992][CoverDisk 32]">
+		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[m bamcopy][Jun 1992][CoverDisk 32]</description>
+		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[m bamcopy][Jun 1992][CoverDisk 32].adf" size="901120" crc="d5754f13" md5="010d4a009dddb782e1b2d13e24401292" sha1="eeb3483b127aa7db5a2e4482ab7375ecbb962da0"/>
 	</game>
-	<game name="Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[o][CoverDisk 35, Sep 1992]">
-		<description>Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[o][CoverDisk 35, Sep 1992]</description>
-		<rom name="Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[o][CoverDisk 35, Sep 1992].adf" size="923648" crc="5ca8e131" md5="d9510499c1750e04ef55073897cbe428" sha1="11c809c9461f46afe4d6ad6738a8d5d905db3749"/>
+	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[m][Jun 1992][CoverDisk 32]">
+		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[m][Jun 1992][CoverDisk 32]</description>
+		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[m][Jun 1992][CoverDisk 32].adf" size="901120" crc="e4336ebc" md5="eb0fff8e1f8c70f325f50c7ddfe85d0a" sha1="6862a8daf8843274e5e840fe5c63fc236252943f"/>
 	</game>
-	<game name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[CoverDisk 36, Oct 1992]">
-		<description>Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[CoverDisk 36, Oct 1992]</description>
-		<rom name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[CoverDisk 36, Oct 1992].adf" size="901120" crc="fc5e3135" md5="03683263fb4f44aafcbbc34d02b493f6" sha1="7efd6f9b6ded5ae1ced30e20a833715e5e8e8814"/>
+	<game name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[o][Jun 1992][CoverDisk 32]">
+		<description>Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[o][Jun 1992][CoverDisk 32]</description>
+		<rom name="Amiga Computing Issue 049 (1992)(Europress Publications)(GB)[o][Jun 1992][CoverDisk 32].adf" size="923648" crc="be426fc0" md5="5c4481e60c51699baa3423c675ec2cab" sha1="62ad14fec0f546e22c83175bc0c5bf50c334137a"/>
 	</game>
-	<game name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[o][CoverDisk 36, Oct 1992]">
-		<description>Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[o][CoverDisk 36, Oct 1992]</description>
-		<rom name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[o][CoverDisk 36, Oct 1992].adf" size="923648" crc="b9e255c8" md5="9f0445954adce0ad00f1364743931665" sha1="498d5113a2cb579271b04f21f8416c6a8583f99d"/>
+	<game name="Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[Jul 1992][CoverDisk 33]">
+		<description>Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[Jul 1992][CoverDisk 33]</description>
+		<rom name="Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[Jul 1992][CoverDisk 33].adf" size="901120" crc="30e004c4" md5="7565e9e6db0143f9f8d58c0c8d17b270" sha1="8407a318b6ec021079c4c0f09f5070af91efd7ea"/>
 	</game>
-	<game name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[m bamcopy][CoverDisk 37, Nov 1992]">
-		<description>Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[m bamcopy][CoverDisk 37, Nov 1992]</description>
-		<rom name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[m bamcopy][CoverDisk 37, Nov 1992].adf" size="901120" crc="092265df" md5="7d28f8800c46ef651a3dcc8e7e16186d" sha1="1191b8b164affcb3eec01fe7031fa85524f51cec"/>
+	<game name="Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[o][Jul 1992][CoverDisk 33]">
+		<description>Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[o][Jul 1992][CoverDisk 33]</description>
+		<rom name="Amiga Computing Issue 050 (1992)(Europress Interactive)(GB)[o][Jul 1992][CoverDisk 33].adf" size="923648" crc="48e643ff" md5="3d172f5a80bafdd02d0fcf53b370893a" sha1="1c1098e2802666b20cf75396f57104286080f7a3"/>
 	</game>
-	<game name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[o][CoverDisk 37, Nov 1992]">
-		<description>Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[o][CoverDisk 37, Nov 1992]</description>
-		<rom name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[o][CoverDisk 37, Nov 1992].adf" size="923648" crc="7897f425" md5="b7916d1a2f2eed39fcae77de158ce6ec" sha1="d63960da7529ca82663ad8000c43315bedae492d"/>
+	<game name="Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[Aug 1992][CoverDisk 34]">
+		<description>Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[Aug 1992][CoverDisk 34]</description>
+		<rom name="Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[Aug 1992][CoverDisk 34].adf" size="901120" crc="5fdb69af" md5="96d7a5b398aac5f692b1aa64e30100c9" sha1="91015827c858ba2a8ea612e74eb887bd5ddf31e3"/>
 	</game>
-	<game name="Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[CoverDisk 38, Dec 1992]">
-		<description>Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[CoverDisk 38, Dec 1992]</description>
-		<rom name="Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[CoverDisk 38, Dec 1992].adf" size="901120" crc="d40a13d6" md5="d7ae036d722a16c446780d396ef52083" sha1="610bececc45bedf1c1c39b4368d22b5392eb8a52"/>
+	<game name="Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[m][o][Aug 1992][CoverDisk 34]">
+		<description>Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[m][o][Aug 1992][CoverDisk 34]</description>
+		<rom name="Amiga Computing Issue 051 (1992)(Europress Interactive)(GB)[m][o][Aug 1992][CoverDisk 34].adf" size="923648" crc="1f1b7fa7" md5="0c1cc0546622afd67873b8bad69628bc" sha1="9f676d9fa8b23c35533f019f8b5a624b81b27fea"/>
 	</game>
-	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][CoverDisk 39, Jan 1993]">
-		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][CoverDisk 39, Jan 1993]</description>
-		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][CoverDisk 39, Jan 1993].adf" size="923648" crc="013bc0a1" md5="029a6be29e65d333b023ef928f0cb466" sha1="a1f1f148db78c1ecfee6437fd856fefd5bd06097"/>
+	<game name="Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[o][Sep 1992][CoverDisk 35]">
+		<description>Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[o][Sep 1992][CoverDisk 35]</description>
+		<rom name="Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[o][Sep 1992][CoverDisk 35].adf" size="923648" crc="5ca8e131" md5="d9510499c1750e04ef55073897cbe428" sha1="11c809c9461f46afe4d6ad6738a8d5d905db3749"/>
 	</game>
-	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Protext, Jan 1993]">
-		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Protext, Jan 1993]</description>
-		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Protext, Jan 1993].adf" size="923648" crc="bb0ffa79" md5="96812efadb03d17b8f621b697c6efa58" sha1="c1c22b46870a9f047b58cd65f9e406fe3679808d"/>
+	<game name="Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[Sep 1992][CoverDisk 35]">
+		<description>Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[Sep 1992][CoverDisk 35]</description>
+		<rom name="Amiga Computing Issue 052 (1992)(Europress Interactive)(GB)[Sep 1992][CoverDisk 35].adf" size="901120" crc="7bccd8bc" md5="57101a6a115a6a3efa5a396e386b729d" sha1="c13319583029f90ce074f5b72b2752af574d40e4"/>
 	</game>
-	<game name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[CoverDisk 40, Feb 1993]">
-		<description>Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[CoverDisk 40, Feb 1993]</description>
-		<rom name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[CoverDisk 40, Feb 1993].adf" size="901120" crc="3660729b" md5="fc61d4f797e29d2a0525711bccba6afe" sha1="1a2a230a6a559af2e0125e2fa481fd88f0ba0c6e"/>
+	<game name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[m][Oct 1992][CoverDisk 36]">
+		<description>Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[m][Oct 1992][CoverDisk 36]</description>
+		<rom name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[m][Oct 1992][CoverDisk 36].adf" size="901120" crc="fc5e3135" md5="03683263fb4f44aafcbbc34d02b493f6" sha1="7efd6f9b6ded5ae1ced30e20a833715e5e8e8814"/>
 	</game>
-	<game name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[HiSoft BASIC, Feb 1993]">
-		<description>Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[HiSoft BASIC, Feb 1993]</description>
-		<rom name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[HiSoft BASIC, Feb 1993].adf" size="901120" crc="fd19ca47" md5="a21bac83957234ce01bd3a3e9d304fbc" sha1="9b7fde4b15e5453c7dc4e2c3cd81c705e8df8b41"/>
+	<game name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[o][Oct 1992][CoverDisk 36]">
+		<description>Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[o][Oct 1992][CoverDisk 36]</description>
+		<rom name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[o][Oct 1992][CoverDisk 36].adf" size="923648" crc="b9e255c8" md5="9f0445954adce0ad00f1364743931665" sha1="498d5113a2cb579271b04f21f8416c6a8583f99d"/>
 	</game>
-	<game name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[CoverDisk 41, Mar 1993]">
-		<description>Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[CoverDisk 41, Mar 1993]</description>
-		<rom name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[CoverDisk 41, Mar 1993].adf" size="901120" crc="c8f7e592" md5="68426626c7636c4f696916908e5aba20" sha1="460957639552bf74257c48a47ee6383322cde7aa"/>
+	<game name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[Oct 1992][CoverDisk 36]">
+		<description>Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[Oct 1992][CoverDisk 36]</description>
+		<rom name="Amiga Computing Issue 053 (1992)(Europress Interactive)(GB)[Oct 1992][CoverDisk 36].adf" size="901120" crc="a30df374" md5="fb931b7394306a77b0012421a8e360f0" sha1="6fea7451d1631d61a622920bcf4518fc7643dd7c"/>
 	</game>
-	<game name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Maxiplan 4, Mar 11993]">
-		<description>Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Maxiplan 4, Mar 11993]</description>
-		<rom name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Maxiplan 4, Mar 11993].adf" size="901120" crc="18ccea2b" md5="de0bb068623e4116caefdb4c8bf81367" sha1="bf1b74d2d74f4a06c4f7a6bf84ddab6356c923fc"/>
+	<game name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[m bamcopy][Nov 1992][CoverDisk 37]">
+		<description>Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[m bamcopy][Nov 1992][CoverDisk 37]</description>
+		<rom name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[m bamcopy][Nov 1992][CoverDisk 37].adf" size="901120" crc="092265df" md5="7d28f8800c46ef651a3dcc8e7e16186d" sha1="1191b8b164affcb3eec01fe7031fa85524f51cec"/>
 	</game>
-	<game name="Amiga Computing Issue 059 (1993)(Europress Interactive)(GB)[CoverDisk 42, Apr 1993]">
-		<description>Amiga Computing Issue 059 (1993)(Europress Interactive)(GB)[CoverDisk 42, Apr 1993]</description>
-		<rom name="Amiga Computing Issue 059 (1993)(Europress Interactive)(GB)[CoverDisk 42, Apr 1993].adf" size="901120" crc="5e77397b" md5="b1cf01a3bba6d1eaef5799fd5d765dac" sha1="dbb17f2b872bf5066de7a84e30afc1a80d1124da"/>
+	<game name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[Nov 1992][CoverDisk 37]">
+		<description>Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[Nov 1992][CoverDisk 37]</description>
+		<rom name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[Nov 1992][CoverDisk 37].adf" size="901120" crc="35f296b0" md5="cb73cfc8edd59d8db7249f6cc4dd6d34" sha1="f2b2fd05803743257602c73d44617096be8e9065"/>
 	</game>
-	<game name="Amiga Computing Issue 060 (1993)(Europress Interactive)(GB)[CoverDisk 43, May 1993]">
-		<description>Amiga Computing Issue 060 (1993)(Europress Interactive)(GB)[CoverDisk 43, May 1993]</description>
-		<rom name="Amiga Computing Issue 060 (1993)(Europress Interactive)(GB)[CoverDisk 43, May 1993].adf" size="901120" crc="55ef9d0a" md5="75086cd48fbd7e794f5cb9e7e6c0754f" sha1="de0309ad500829c82927f8723854d5ef90e5d25b"/>
+	<game name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[o][Nov 1992][CoverDisk 37]">
+		<description>Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[o][Nov 1992][CoverDisk 37]</description>
+		<rom name="Amiga Computing Issue 054 (1992)(Europress Interactive)(GB)[o][Nov 1992][CoverDisk 37].adf" size="923648" crc="7897f425" md5="b7916d1a2f2eed39fcae77de158ce6ec" sha1="d63960da7529ca82663ad8000c43315bedae492d"/>
 	</game>
-	<game name="Amiga Computing Issue 061 (1993)(Europress Interactive)(GB)[Infofile, Jun 1993]">
-		<description>Amiga Computing Issue 061 (1993)(Europress Interactive)(GB)[Infofile, Jun 1993]</description>
-		<rom name="Amiga Computing Issue 061 (1993)(Europress Interactive)(GB)[Infofile, Jun 1993].adf" size="901120" crc="5e3db2ba" md5="a9f7837d24c5a12e871e714b3718dbf0" sha1="e429733f76b2b63e4fbe1064031682ddf804a70f"/>
+	<game name="Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[a][Dec 1992][CoverDisk 38]">
+		<description>Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[a][Dec 1992][CoverDisk 38]</description>
+		<rom name="Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[a][Dec 1992][CoverDisk 38].adf" size="901120" crc="e13df0b3" md5="3ec76b221d83bf6f3bc8557eb98d0e47" sha1="40657227c46a63674c2ef367494215c6808274e6"/>
 	</game>
-	<game name="Amiga Computing Issue 062 (1993)(Europress Interactive)(GB)[Bars &amp; Pipes Pro 2 Jr, Jul 1993]">
-		<description>Amiga Computing Issue 062 (1993)(Europress Interactive)(GB)[Bars &amp; Pipes Pro 2 Jr, Jul 1993]</description>
-		<rom name="Amiga Computing Issue 062 (1993)(Europress Interactive)(GB)[Bars &amp; Pipes Pro 2 Jr, Jul 1993].adf" size="901120" crc="5312c2bc" md5="fcbc9101662d9b763e23912f8ef42806" sha1="691a652ffc967b1397aa88a50dd6fe0b0848a4a2"/>
+	<game name="Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[Dec 1992][CoverDisk 38]">
+		<description>Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[Dec 1992][CoverDisk 38]</description>
+		<rom name="Amiga Computing Issue 055 (1992)(Europress Interactive)(GB)[Dec 1992][CoverDisk 38].adf" size="901120" crc="d40a13d6" md5="d7ae036d722a16c446780d396ef52083" sha1="610bececc45bedf1c1c39b4368d22b5392eb8a52"/>
 	</game>
-	<game name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[a][Cinemorph Junior, Aug 1993]">
-		<description>Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[a][Cinemorph Junior, Aug 1993]</description>
-		<rom name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[a][Cinemorph Junior, Aug 1993].adf" size="901120" crc="058d7e63" md5="7495984836cd7f2351cb8bf36f17b68c" sha1="ae44ff94ab52dfa39116f254a695703baa5de676"/>
+	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1993][CoverDisk 39]">
+		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1993][CoverDisk 39]</description>
+		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1993][CoverDisk 39].adf" size="901120" crc="ff769bb5" md5="b8fa49494cd18169cc135f75a092d623" sha1="0458b13998fda7626caa0317eb4527605ae27444"/>
 	</game>
-	<game name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[Cinemorph Junior, Aug 1993]">
-		<description>Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[Cinemorph Junior, Aug 1993]</description>
-		<rom name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[Cinemorph Junior, Aug 1993].adf" size="901120" crc="ea968b17" md5="227a92c6bcf91eb120d4f61a7655164d" sha1="db35b87c90550933054595727d04ae26da079d39"/>
+	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][Jan 1993][CoverDisk 39]">
+		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][Jan 1993][CoverDisk 39]</description>
+		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][Jan 1993][CoverDisk 39].adf" size="923648" crc="013bc0a1" md5="029a6be29e65d333b023ef928f0cb466" sha1="a1f1f148db78c1ecfee6437fd856fefd5bd06097"/>
 	</game>
-	<game name="Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[ImageFX, Sep 1993]">
-		<description>Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[ImageFX, Sep 1993]</description>
-		<rom name="Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[ImageFX, Sep 1993].adf" size="901120" crc="aea35aed" md5="abea189cd574adac18529d6d618757af" sha1="1463d2e08db7d3921e086dab63a9a844480539db"/>
+	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[h Real Soft Team][Jan 1993][ProText v4.3]">
+		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[h Real Soft Team][Jan 1993][ProText v4.3]</description>
+		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[h Real Soft Team][Jan 1993][ProText v4.3].adf" size="901120" crc="fc3c7704" md5="2893827a1d7b7cbf95b52fadfda8761f" sha1="ad9c4e350c813cbf8110a1e02a6e9f6a845f0c56"/>
 	</game>
-	<game name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][Quarterback Tools, Dec 1993]">
-		<description>Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][Quarterback Tools, Dec 1993]</description>
-		<rom name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[o][Quarterback Tools, Dec 1993].adf" size="923648" crc="1739b576" md5="1fbad285c9486c8f7649b7869537d916" sha1="77a94c19e031c2a4b80e46dbc49a2a83eeba4952"/>
+	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1993][ProText v4.3]">
+		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1993][ProText v4.3]</description>
+		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1993][ProText v4.3].adf" size="901120" crc="7025c6ec" md5="e1dda261d019649210e5a8d0e46393ee" sha1="e570bba509ba89f98f472d41f617ee3ea3300322"/>
 	</game>
-	<game name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Harmoni MIDI-Sequencer, Dec 1993]">
-		<description>Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Harmoni MIDI-Sequencer, Dec 1993]</description>
-		<rom name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Harmoni MIDI-Sequencer, Dec 1993].adf" size="923648" crc="00bdac80" md5="17e8cf03795d0cba4cf15aa40d930970" sha1="722189a7f0ebcd686c927a61a603d41bdf385aeb"/>
+	<game name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Jan 1993][ProText v4.3]">
+		<description>Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Jan 1993][ProText v4.3]</description>
+		<rom name="Amiga Computing Issue 056 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[o][Jan 1993][ProText v4.3].adf" size="923648" crc="bb0ffa79" md5="96812efadb03d17b8f621b697c6efa58" sha1="c1c22b46870a9f047b58cd65f9e406fe3679808d"/>
 	</game>
-	<game name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Take 2, Christmas 1993]">
-		<description>Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Take 2, Christmas 1993]</description>
-		<rom name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Take 2, Christmas 1993].adf" size="901120" crc="29d244f0" md5="243c5b344ecc335acf0ed7599346871c" sha1="e9b3c6c9cf871035b3a62261e0c57462e21d4357"/>
+	<game name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1993][CoverDisk 40]">
+		<description>Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1993][CoverDisk 40]</description>
+		<rom name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1993][CoverDisk 40].adf" size="901120" crc="678b1b10" md5="ee4d54ae6a3a1e409a5c7124595676d0" sha1="afa39cfed9a02411f427b57f762a6cd3d05d3bde"/>
 	</game>
-	<game name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Fusion Paint, Christmas 1993]">
-		<description>Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Fusion Paint, Christmas 1993]</description>
-		<rom name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Fusion Paint, Christmas 1993].adf" size="901120" crc="5f0d2255" md5="77bf2d20e31aeb05aa116729a5e6b066" sha1="200f3911decc814f669176229c1682836e083720"/>
+	<game name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[m][Feb 1993][CoverDisk 40]">
+		<description>Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[m][Feb 1993][CoverDisk 40]</description>
+		<rom name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[m][Feb 1993][CoverDisk 40].adf" size="901120" crc="3660729b" md5="fc61d4f797e29d2a0525711bccba6afe" sha1="1a2a230a6a559af2e0125e2fa481fd88f0ba0c6e"/>
 	</game>
-	<game name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Vidi Amiga 12, Jan 1994]">
-		<description>Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Vidi Amiga 12, Jan 1994]</description>
-		<rom name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Vidi Amiga 12, Jan 1994].adf" size="901120" crc="967f4397" md5="1e1b2f7f7b0435e2f9b0e6e1e0380087" sha1="27f06b244231fd91647aace6ce999645771cbf1e"/>
+	<game name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1993][HiSoft BASIC v1.05]">
+		<description>Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1993][HiSoft BASIC v1.05]</description>
+		<rom name="Amiga Computing Issue 057 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1993][HiSoft BASIC v1.05].adf" size="901120" crc="fd19ca47" md5="a21bac83957234ce01bd3a3e9d304fbc" sha1="9b7fde4b15e5453c7dc4e2c3cd81c705e8df8b41"/>
 	</game>
-	<game name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Design Works, Jan 1994]">
-		<description>Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Design Works, Jan 1994]</description>
-		<rom name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Design Works, Jan 1994].adf" size="901120" crc="8d89d564" md5="ded2d43cc7018ad70a9a95c12cbd5568" sha1="c72d6e675f3ccf7d98cbb8306f3d136c0ede58ce"/>
+	<game name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[f KS1.x][Mar 1993][CoverDisk 41]">
+		<description>Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[f KS1.x][Mar 1993][CoverDisk 41]</description>
+		<rom name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[f KS1.x][Mar 1993][CoverDisk 41].adf" size="901120" crc="6ce5017a" md5="2ce15e04a6d4f42e8d751b0d4d5beaa0" sha1="8414d7f6894aea16cda46b5eb21a0458212ba2f4"/>
+	</game>
+	<game name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1993][CoverDisk 41]">
+		<description>Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1993][CoverDisk 41]</description>
+		<rom name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1993][CoverDisk 41].adf" size="901120" crc="c8f7e592" md5="68426626c7636c4f696916908e5aba20" sha1="460957639552bf74257c48a47ee6383322cde7aa"/>
+	</game>
+	<game name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1993][MaxiPlan IV v4.09]">
+		<description>Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1993][MaxiPlan IV v4.09]</description>
+		<rom name="Amiga Computing Issue 058 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1993][MaxiPlan IV v4.09].adf" size="901120" crc="18ccea2b" md5="de0bb068623e4116caefdb4c8bf81367" sha1="bf1b74d2d74f4a06c4f7a6bf84ddab6356c923fc"/>
+	</game>
+	<game name="Amiga Computing Issue 059 (1993)(Europress Interactive)(GB)[Apr 1993][CoverDisk 42]">
+		<description>Amiga Computing Issue 059 (1993)(Europress Interactive)(GB)[Apr 1993][CoverDisk 42]</description>
+		<rom name="Amiga Computing Issue 059 (1993)(Europress Interactive)(GB)[Apr 1993][CoverDisk 42].adf" size="901120" crc="5e77397b" md5="b1cf01a3bba6d1eaef5799fd5d765dac" sha1="dbb17f2b872bf5066de7a84e30afc1a80d1124da"/>
+	</game>
+	<game name="Amiga Computing Issue 060 (1993)(Europress Interactive)(GB)[May 1993][CoverDisk 43]">
+		<description>Amiga Computing Issue 060 (1993)(Europress Interactive)(GB)[May 1993][CoverDisk 43]</description>
+		<rom name="Amiga Computing Issue 060 (1993)(Europress Interactive)(GB)[May 1993][CoverDisk 43].adf" size="901120" crc="55ef9d0a" md5="75086cd48fbd7e794f5cb9e7e6c0754f" sha1="de0309ad500829c82927f8723854d5ef90e5d25b"/>
+	</game>
+	<game name="Amiga Computing Issue 061 (1993)(Europress Interactive)(GB)[Jun 1993][Infofile v1.0]">
+		<description>Amiga Computing Issue 061 (1993)(Europress Interactive)(GB)[Jun 1993][Infofile v1.0]</description>
+		<rom name="Amiga Computing Issue 061 (1993)(Europress Interactive)(GB)[Jun 1993][Infofile v1.0].adf" size="901120" crc="5e3db2ba" md5="a9f7837d24c5a12e871e714b3718dbf0" sha1="e429733f76b2b63e4fbe1064031682ddf804a70f"/>
+	</game>
+	<game name="Amiga Computing Issue 062 (1993)(Europress Interactive)(GB)[Jul 1993][Bars and Pipes Pro 2 Jr v1.0j]">
+		<description>Amiga Computing Issue 062 (1993)(Europress Interactive)(GB)[Jul 1993][Bars and Pipes Pro 2 Jr v1.0j]</description>
+		<rom name="Amiga Computing Issue 062 (1993)(Europress Interactive)(GB)[Jul 1993][Bars and Pipes Pro 2 Jr v1.0j].adf" size="901120" crc="5312c2bc" md5="fcbc9101662d9b763e23912f8ef42806" sha1="691a652ffc967b1397aa88a50dd6fe0b0848a4a2"/>
+	</game>
+	<game name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[Aug 1993][CineMorph Junior v1.03]">
+		<description>Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[Aug 1993][CineMorph Junior v1.03]</description>
+		<rom name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[Aug 1993][CineMorph Junior v1.03].adf" size="901120" crc="058d7e63" md5="7495984836cd7f2351cb8bf36f17b68c" sha1="ae44ff94ab52dfa39116f254a695703baa5de676"/>
+	</game>
+	<game name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[b corrupt file][Aug 1993][CineMorph Junior v1.03]">
+		<description>Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[b corrupt file][Aug 1993][CineMorph Junior v1.03]</description>
+		<rom name="Amiga Computing Issue 063 (1993)(Europress Interactive)(GB)[b corrupt file][Aug 1993][CineMorph Junior v1.03].adf" size="901120" crc="ea968b17" md5="227a92c6bcf91eb120d4f61a7655164d" sha1="db35b87c90550933054595727d04ae26da079d39"/>
+	</game>
+	<game name="Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[a][Sep 1993]">
+		<description>Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[a][Sep 1993]</description>
+		<rom name="Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[a][Sep 1993].adf" size="901120" crc="aea35aed" md5="abea189cd574adac18529d6d618757af" sha1="1463d2e08db7d3921e086dab63a9a844480539db"/>
+	</game>
+	<game name="Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[Sep 1993]">
+		<description>Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[Sep 1993]</description>
+		<rom name="Amiga Computing Issue 064 (1993)(Europress Interactive)(GB)[Sep 1993].adf" size="901120" crc="ca6b448d" md5="29fd002e220d105fdaa301e8eb1f25bd" sha1="8643139335c052e44fe24ce3502ffb918342f804"/>
+	</game>
+	<game name="Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[h Software 2000][Oct 1993]">
+		<description>Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[h Software 2000][Oct 1993]</description>
+		<rom name="Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[h Software 2000][Oct 1993].adf" size="901120" crc="c964889e" md5="1f4562ee28b0c28398c0108df7231ef1" sha1="8c1bb88bfda7736d6daa1476fb301b6663c4c371"/>
+	</game>
+	<game name="Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1993]">
+		<description>Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1993]</description>
+		<rom name="Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1993].adf" size="901120" crc="cee3a60e" md5="6c11d350743147897587c7eb96664cb1" sha1="c9ec50ba5161a7bbcfc7a542ecf295aa6bfa95bf"/>
+	</game>
+	<game name="Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1993][Caligari]">
+		<description>Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1993][Caligari]</description>
+		<rom name="Amiga Computing Issue 065 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1993][Caligari].adf" size="901120" crc="3273dd8a" md5="bca01af00b88b22acd5d49105fee74a7" sha1="e6f52dd1406ab46a4620f5f03daded4e1b5f334f"/>
+	</game>
+	<game name="Amiga Computing Issue 066 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1993]">
+		<description>Amiga Computing Issue 066 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1993]</description>
+		<rom name="Amiga Computing Issue 066 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1993].adf" size="901120" crc="00cfcb18" md5="17ac5deb654909687906976e055d3ad1" sha1="eee053f989482b18f502a8fb743d082726b57398"/>
+	</game>
+	<game name="Amiga Computing Issue 066 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1993][AMOS 3D]">
+		<description>Amiga Computing Issue 066 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1993][AMOS 3D]</description>
+		<rom name="Amiga Computing Issue 066 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1993][AMOS 3D].adf" size="901120" crc="50e09809" md5="9a99dcd706c682dd7ab77211a111c50a" sha1="da45a51036f3760769b16f517e28b309dcbcc3f9"/>
+	</game>
+	<game name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1993][Quarterback Tools]">
+		<description>Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1993][Quarterback Tools]</description>
+		<rom name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1993][Quarterback Tools].adf" size="901120" crc="8de8fa99" md5="4254e334eb56722a7ebf224027a8321b" sha1="3b71838d24715f764e210779d0965c71fec0b2b7"/>
+	</game>
+	<game name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[m][o][Dec 1993][Quarterback Tools]">
+		<description>Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[m][o][Dec 1993][Quarterback Tools]</description>
+		<rom name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[m][o][Dec 1993][Quarterback Tools].adf" size="923648" crc="1739b576" md5="1fbad285c9486c8f7649b7869537d916" sha1="77a94c19e031c2a4b80e46dbc49a2a83eeba4952"/>
+	</game>
+	<game name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1993][Harmoni]">
+		<description>Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1993][Harmoni]</description>
+		<rom name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1993][Harmoni].adf" size="901120" crc="1f59e6e5" md5="b7accdd913ea7baa1b545f083d4ae2bb" sha1="372762f916f240ad15ce3df055f982ba7cbc67de"/>
+	</game>
+	<game name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[m][o][Dec 1993][Harmoni]">
+		<description>Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[m][o][Dec 1993][Harmoni]</description>
+		<rom name="Amiga Computing Issue 067 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[m][o][Dec 1993][Harmoni].adf" size="923648" crc="00bdac80" md5="17e8cf03795d0cba4cf15aa40d930970" sha1="722189a7f0ebcd686c927a61a603d41bdf385aeb"/>
+	</game>
+	<game name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1993][Take 2]">
+		<description>Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1993][Take 2]</description>
+		<rom name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1993][Take 2].adf" size="901120" crc="29d244f0" md5="243c5b344ecc335acf0ed7599346871c" sha1="e9b3c6c9cf871035b3a62261e0c57462e21d4357"/>
+	</game>
+	<game name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1993][Fusion Paint]">
+		<description>Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1993][Fusion Paint]</description>
+		<rom name="Amiga Computing Issue 068 (1993)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1993][Fusion Paint].adf" size="901120" crc="5f0d2255" md5="77bf2d20e31aeb05aa116729a5e6b066" sha1="200f3911decc814f669176229c1682836e083720"/>
+	</game>
+	<game name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1994][Design Works v1.0]">
+		<description>Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1994][Design Works v1.0]</description>
+		<rom name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1994][Design Works v1.0].adf" size="901120" crc="8d89d564" md5="ded2d43cc7018ad70a9a95c12cbd5568" sha1="c72d6e675f3ccf7d98cbb8306f3d136c0ede58ce"/>
+	</game>
+	<game name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1994][Vidi Amiga 12]">
+		<description>Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1994][Vidi Amiga 12]</description>
+		<rom name="Amiga Computing Issue 069 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1994][Vidi Amiga 12].adf" size="901120" crc="967f4397" md5="1e1b2f7f7b0435e2f9b0e6e1e0380087" sha1="27f06b244231fd91647aace6ce999645771cbf1e"/>
+	</game>
+	<game name="Amiga Computing Issue 070 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1994][The Publisher v1.00]">
+		<description>Amiga Computing Issue 070 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1994][The Publisher v1.00]</description>
+		<rom name="Amiga Computing Issue 070 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1994][The Publisher v1.00].adf" size="901120" crc="661db039" md5="838ea0b057f9a4e77d6c625306d76616" sha1="15dadb698b827b4c9968da49c96c7c9073ca7e5c"/>
+	</game>
+	<game name="Amiga Computing Issue 070 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1994]">
+		<description>Amiga Computing Issue 070 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1994]</description>
+		<rom name="Amiga Computing Issue 070 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1994].adf" size="901120" crc="de7233af" md5="5068140295aefd8854330a20224765a3" sha1="0a0a3f2df1f76188f779526dd4d79c85bbb420de"/>
+	</game>
+	<game name="Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[m][Mar 1994]">
+		<description>Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[m][Mar 1994]</description>
+		<rom name="Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[m][Mar 1994].adf" size="901120" crc="0af1c6bc" md5="37a5053ed13018ff3bf72fde77a8f388" sha1="82b1f234cf535bfaa963205f98937c562e4e715f"/>
 	</game>
 	<game name="Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[Mar 1994]">
 		<description>Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[Mar 1994]</description>
-		<rom name="Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[Mar 1994].adf" size="901120" crc="0af1c6bc" md5="37a5053ed13018ff3bf72fde77a8f388" sha1="82b1f234cf535bfaa963205f98937c562e4e715f"/>
+		<rom name="Amiga Computing Issue 071 (1994)(Europress Interactive)(GB)[Mar 1994].adf" size="901120" crc="5111aa83" md5="3434eb88ead4a79dfa92d4a000932fff" sha1="af030da3f267594db6f602f908b3a4d198c224ba"/>
 	</game>
-	<game name="Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[KSpread 2, Jun 1994]">
-		<description>Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[KSpread 2, Jun 1994]</description>
-		<rom name="Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[KSpread 2, Jun 1994].adf" size="901120" crc="ddf9a411" md5="0edb2db7aba31b6db786e1cee826913d" sha1="99f1baddd84a4310f7d8b810603cff539fa460c7"/>
+	<game name="Amiga Computing Issue 072 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1994][KindWords 3]">
+		<description>Amiga Computing Issue 072 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1994][KindWords 3]</description>
+		<rom name="Amiga Computing Issue 072 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1994][KindWords 3].adf" size="901120" crc="c287ade8" md5="f5972fd95bea4e7d6d0d627d0c266ac4" sha1="d6a7e4baaf0a6bbc69603e6e372566a699891cf8"/>
+	</game>
+	<game name="Amiga Computing Issue 072 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1994][KindWords 3]">
+		<description>Amiga Computing Issue 072 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1994][KindWords 3]</description>
+		<rom name="Amiga Computing Issue 072 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1994][KindWords 3].adf" size="901120" crc="1bed4c7a" md5="fe0b8f95b93a7b30e2bea6c3e69eed8a" sha1="749a405db3ec84beb53e8df16421a9e78af1cd54"/>
+	</game>
+	<game name="Amiga Computing Issue 073 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[May 1994][Personal Fonts Maker]">
+		<description>Amiga Computing Issue 073 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[May 1994][Personal Fonts Maker]</description>
+		<rom name="Amiga Computing Issue 073 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[May 1994][Personal Fonts Maker].adf" size="901120" crc="f0d8bd59" md5="40eea17d51fe14f2c05e0dc9c2532f8e" sha1="623edff1c09080120183b176b0bb340da8753ef4"/>
+	</game>
+	<game name="Amiga Computing Issue 073 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[May 1994]">
+		<description>Amiga Computing Issue 073 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[May 1994]</description>
+		<rom name="Amiga Computing Issue 073 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[May 1994].adf" size="901120" crc="07213708" md5="9bf8f97d3cc9b906d07e93e9f2e2caf7" sha1="48676df9037e49367ba319c7f65870cc7d889a43"/>
+	</game>
+	<game name="Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1994][KSpread 2]">
+		<description>Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1994][KSpread 2]</description>
+		<rom name="Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1994][KSpread 2].adf" size="901120" crc="ddf9a411" md5="0edb2db7aba31b6db786e1cee826913d" sha1="99f1baddd84a4310f7d8b810603cff539fa460c7"/>
 	</game>
 	<game name="Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1994]">
 		<description>Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1994]</description>
 		<rom name="Amiga Computing Issue 074 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1994].adf" size="901120" crc="6a9efc75" md5="64421880b6ce8575d24f95a19299f89c" sha1="1b511fb0b54662ddbe12f14e33cbe62f644587b9"/>
 	</game>
-	<game name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Helm Lite, Jul 1994]">
-		<description>Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Helm Lite, Jul 1994]</description>
-		<rom name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Helm Lite, Jul 1994].adf" size="923648" crc="7bfa93c8" md5="89ee320603b2e4f9b568e0b681f8e6d5" sha1="5162a09125df4137e5824c427e298554588291fa"/>
+	<game name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1994][Helm Lite]">
+		<description>Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1994][Helm Lite]</description>
+		<rom name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1994][Helm Lite].adf" size="901120" crc="ff44f2ac" md5="49bed38fb9715c1939e43064aad73e4a" sha1="cbcc55c7c8a114a344ee5fe0a5ecef5660f34a85"/>
+	</game>
+	<game name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[m][o][Jul 1994][Helm Lite]">
+		<description>Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[m][o][Jul 1994][Helm Lite]</description>
+		<rom name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[m][o][Jul 1994][Helm Lite].adf" size="923648" crc="7bfa93c8" md5="89ee320603b2e4f9b568e0b681f8e6d5" sha1="5162a09125df4137e5824c427e298554588291fa"/>
 	</game>
 	<game name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1994]">
 		<description>Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1994]</description>
 		<rom name="Amiga Computing Issue 075 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1994].adf" size="901120" crc="f88d47f9" md5="22c6ae7c2c994fe9bf014f7e576e98b8" sha1="04b28a983cadeb417b307f331b5d338d16c598fd"/>
 	</game>
-	<game name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Devpac, Aug 1994]">
-		<description>Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Devpac, Aug 1994]</description>
-		<rom name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Devpac, Aug 1994].adf" size="923648" crc="9a56f8ba" md5="a11c9988230920e8a2d16bd5d69db2ef" sha1="167afa6aeaaf41711dcaef9914d65a3ba061e59c"/>
+	<game name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1994][Devpac 2 v2.15]">
+		<description>Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1994][Devpac 2 v2.15]</description>
+		<rom name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1994][Devpac 2 v2.15].adf" size="901120" crc="b2797bb1" md5="4e9ea8d82d3926e86944c8267ed4410d" sha1="f3d824f8a3017d32262fadc5c93f8ba4f12d06c0"/>
+	</game>
+	<game name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Aug 1994][Devpac 2 v2.15]">
+		<description>Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Aug 1994][Devpac 2 v2.15]</description>
+		<rom name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[o][Aug 1994][Devpac 2 v2.15].adf" size="923648" crc="d273aa49" md5="abe7d4628d290dc149049201b903ae35" sha1="054c4a1f285e71127aa1d2b35bd74eacd4168676"/>
+	</game>
+	<game name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1994]">
+		<description>Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1994]</description>
+		<rom name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1994].adf" size="901120" crc="324b7136" md5="50448194abb7540f08a51421a1499b24" sha1="15dc2af2ec7d0db12eaeb8dd4ac167055809ee9d"/>
 	</game>
 	<game name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[o][Aug 1994]">
 		<description>Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[o][Aug 1994]</description>
-		<rom name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[o][Aug 1994].adf" size="923648" crc="d273aa49" md5="abe7d4628d290dc149049201b903ae35" sha1="054c4a1f285e71127aa1d2b35bd74eacd4168676"/>
+		<rom name="Amiga Computing Issue 076 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[o][Aug 1994].adf" size="923648" crc="9a56f8ba" md5="a11c9988230920e8a2d16bd5d69db2ef" sha1="167afa6aeaaf41711dcaef9914d65a3ba061e59c"/>
 	</game>
 	<game name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[b errdms][Sep 1994]">
 		<description>Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[b errdms][Sep 1994]</description>
 		<rom name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[b errdms][Sep 1994].adf" size="901120" crc="a87bca25" md5="7482faefb970f6473b2492f68146e392" sha1="a58f4860c5828f5ea398a8416fcf42f66839c4bd"/>
 	</game>
+	<game name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1994]">
+		<description>Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1994]</description>
+		<rom name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1994].adf" size="901120" crc="7d16c88e" md5="dacfc78b20290228acb7af27711972d2" sha1="2f160b1bafc4d5010921a29eca9a59e7244a9e1b"/>
+	</game>
+	<game name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Sep 1994]">
+		<description>Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Sep 1994]</description>
+		<rom name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Sep 1994].adf" size="901120" crc="f9cde0fd" md5="d93e5983ba5dc95039be5021104bd1b6" sha1="45173fff1a4d9557779d88b06016c1f5d91030e4"/>
+	</game>
 	<game name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1994]">
 		<description>Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1994]</description>
-		<rom name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1994].adf" size="901120" crc="f9cde0fd" md5="d93e5983ba5dc95039be5021104bd1b6" sha1="45173fff1a4d9557779d88b06016c1f5d91030e4"/>
+		<rom name="Amiga Computing Issue 077 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1994].adf" size="901120" crc="0bedcd2d" md5="28448bf3577c9382b3341a16b6939a96" sha1="8b8aa0ca20ca255f1bece071e326318b51cb1155"/>
 	</game>
 	<game name="Amiga Computing Issue 078 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1994]">
 		<description>Amiga Computing Issue 078 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1994]</description>
 		<rom name="Amiga Computing Issue 078 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1994].adf" size="901120" crc="1243cd3b" md5="f5177ef0b57e3081152f456466263cf9" sha1="d561871f7a5a34b779618837be9b59dd5f0e0977"/>
 	</game>
+	<game name="Amiga Computing Issue 078 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1994]">
+		<description>Amiga Computing Issue 078 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1994]</description>
+		<rom name="Amiga Computing Issue 078 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1994].adf" size="901120" crc="0c1354aa" md5="6be55159d9ead9828460cdd42303b074" sha1="6bbe2363a6000eec3724f25e5673970c53568091"/>
+	</game>
 	<game name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[m bamcopy][Nov 1994]">
 		<description>Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[m bamcopy][Nov 1994]</description>
-		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[m bamcopy][Nov 1994].adf" size="901120" crc="5d348054" md5="ba29aa4ba67a24473cca9f17c733b117" sha1="d667e5e0e45b8922689725029185d59873b6a411"/>
+		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[m bamcopy][Nov 1994].adf" size="901120" crc="0b2acdeb" md5="efa619313f8e1fef70cf185e7a31d459" sha1="5a7d472d4682ab09fb79b0aefa54af097bad9943"/>
 	</game>
 	<game name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[Nov 1994]">
 		<description>Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[Nov 1994]</description>
-		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[Nov 1994].adf" size="901120" crc="c6f1ce46" md5="49b63c3cfe7d059bd439d0f9f9a3e7e3" sha1="6873f0bff498f251fd78992515aed1c990ca57dc"/>
+		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 1 of 3)[Nov 1994].adf" size="901120" crc="205b3172" md5="eff0bf108efddd4e30db7e2e9467eef1" sha1="d2fbad3f3076516e15a86942940e92cbefa57575"/>
 	</game>
 	<game name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 2 of 3)[Nov 1994]">
 		<description>Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 2 of 3)[Nov 1994]</description>
-		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 2 of 3)[Nov 1994].adf" size="901120" crc="0b2acdeb" md5="efa619313f8e1fef70cf185e7a31d459" sha1="5a7d472d4682ab09fb79b0aefa54af097bad9943"/>
+		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 2 of 3)[Nov 1994].adf" size="901120" crc="2a08827b" md5="c9547d6b0601e1ca0c0d903caf2ecf31" sha1="50c0ab00bdad5509253a5e43674e67e55bcd3eaf"/>
 	</game>
-	<game name="Amiga Computing Issue 086 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[SmartyPaints, May 1995]">
-		<description>Amiga Computing Issue 086 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[SmartyPaints, May 1995]</description>
-		<rom name="Amiga Computing Issue 086 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[SmartyPaints, May 1995].adf" size="901120" crc="5bca8057" md5="64ba7dfb670ce70e9bad8cdd03bd79ea" sha1="febc35d551fddfb57eade10c1e274152a5605a1e"/>
+	<game name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 3 of 3)[m bamcopy][Nov 1994]">
+		<description>Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 3 of 3)[m bamcopy][Nov 1994]</description>
+		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 3 of 3)[m bamcopy][Nov 1994].adf" size="901120" crc="5d348054" md5="ba29aa4ba67a24473cca9f17c733b117" sha1="d667e5e0e45b8922689725029185d59873b6a411"/>
+	</game>
+	<game name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 3 of 3)[Nov 1994]">
+		<description>Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 3 of 3)[Nov 1994]</description>
+		<rom name="Amiga Computing Issue 079 (1994)(Europress Interactive)(GB)(Disk 3 of 3)[Nov 1994].adf" size="901120" crc="c6f1ce46" md5="49b63c3cfe7d059bd439d0f9f9a3e7e3" sha1="6873f0bff498f251fd78992515aed1c990ca57dc"/>
+	</game>
+	<game name="Amiga Computing Issue 080 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1994][TechnoSound Turbo v3.2]">
+		<description>Amiga Computing Issue 080 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1994][TechnoSound Turbo v3.2]</description>
+		<rom name="Amiga Computing Issue 080 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1994][TechnoSound Turbo v3.2].adf" size="901120" crc="e85d2301" md5="7485c23d0da0f2e1c0c4425c32fd5c4d" sha1="60c7c51c2dde9d92438f374c79c7790924453c58"/>
+	</game>
+	<game name="Amiga Computing Issue 080 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1994]">
+		<description>Amiga Computing Issue 080 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1994]</description>
+		<rom name="Amiga Computing Issue 080 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1994].adf" size="901120" crc="e44d7362" md5="0c2520d551fe87139263872dcca48837" sha1="afae7459736f86bf2fa51f33086ab8b21ba189a9"/>
+	</game>
+	<game name="Amiga Computing Issue 081 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1994][Easy AMOS]">
+		<description>Amiga Computing Issue 081 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1994][Easy AMOS]</description>
+		<rom name="Amiga Computing Issue 081 (1994)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1994][Easy AMOS].adf" size="901120" crc="a9bc978c" md5="0af673773f353296b2f905d5452bcd58" sha1="849864c80a8bba2e6a5488b56396f3cb617d8344"/>
+	</game>
+	<game name="Amiga Computing Issue 081 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1994][Easy AMOS]">
+		<description>Amiga Computing Issue 081 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1994][Easy AMOS]</description>
+		<rom name="Amiga Computing Issue 081 (1994)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1994][Easy AMOS].adf" size="901120" crc="0d4b5684" md5="da140b15fb84cfe3513124166ce26f87" sha1="1b2ad7caf94ad60d218276b781225a2d01f78fb3"/>
+	</game>
+	<game name="Amiga Computing Issue 082 (1995)(Europress Interactive)(GB)(Disk 1 of 3)[Jan 1995][CanDo 2]">
+		<description>Amiga Computing Issue 082 (1995)(Europress Interactive)(GB)(Disk 1 of 3)[Jan 1995][CanDo 2]</description>
+		<rom name="Amiga Computing Issue 082 (1995)(Europress Interactive)(GB)(Disk 1 of 3)[Jan 1995][CanDo 2].adf" size="901120" crc="c0def6f9" md5="b453f6607d1ce7966f1360e32b0eff42" sha1="47330f82558befda9c5cabba2da94220035b13a8"/>
+	</game>
+	<game name="Amiga Computing Issue 082 (1995)(Europress Interactive)(GB)(Disk 2 of 3)[Jan 1995][CanDo 2]">
+		<description>Amiga Computing Issue 082 (1995)(Europress Interactive)(GB)(Disk 2 of 3)[Jan 1995][CanDo 2]</description>
+		<rom name="Amiga Computing Issue 082 (1995)(Europress Interactive)(GB)(Disk 2 of 3)[Jan 1995][CanDo 2].adf" size="901120" crc="8ceff30b" md5="853835b93b4bc005ee712ecfc6b1734d" sha1="021019b84eecdbe350c9e54f1eaff7d2c7d134a2"/>
+	</game>
+	<game name="Amiga Computing Issue 083 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1995][AnimWorkshop v1.02]">
+		<description>Amiga Computing Issue 083 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1995][AnimWorkshop v1.02]</description>
+		<rom name="Amiga Computing Issue 083 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1995][AnimWorkshop v1.02].adf" size="901120" crc="baf11212" md5="8767058e5b3e26231358138139dca6ca" sha1="a7c29ec20ba3aa567602811110b968195da9c2b5"/>
+	</game>
+	<game name="Amiga Computing Issue 083 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1995]">
+		<description>Amiga Computing Issue 083 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1995]</description>
+		<rom name="Amiga Computing Issue 083 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1995].adf" size="901120" crc="b164787e" md5="05495beb602120ec2909633dacc84bd7" sha1="efbd33608c296b6de9389c64923d846c71f1f6ac"/>
+	</game>
+	<game name="Amiga Computing Issue 084 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1995]">
+		<description>Amiga Computing Issue 084 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1995]</description>
+		<rom name="Amiga Computing Issue 084 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1995].adf" size="901120" crc="f71f0cc1" md5="f18119796b61ed066618ad79cffa075f" sha1="c7bc819f368a76f8cf0958480569c9d27d09a166"/>
+	</game>
+	<game name="Amiga Computing Issue 084 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1995]">
+		<description>Amiga Computing Issue 084 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1995]</description>
+		<rom name="Amiga Computing Issue 084 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1995].adf" size="901120" crc="a6c313c5" md5="fcbd27807d3f1930e849a39465dd3ab2" sha1="167d032e5cb39c5b16a8231ffbe309bac58db421"/>
+	</game>
+	<game name="Amiga Computing Issue 085 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1995]">
+		<description>Amiga Computing Issue 085 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1995]</description>
+		<rom name="Amiga Computing Issue 085 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1995].adf" size="901120" crc="e564acf9" md5="3a4796991a60ec195275750aebd3e3b7" sha1="80de0451d6d7f8f4efc631ed33ca8f0a8e5e492f"/>
+	</game>
+	<game name="Amiga Computing Issue 085 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1995]">
+		<description>Amiga Computing Issue 085 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1995]</description>
+		<rom name="Amiga Computing Issue 085 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1995].adf" size="901120" crc="d9c745c5" md5="49e2dda44033062194b0c49822601453" sha1="476f50a7aa21dc0d10e1943896cc70e500b9c931"/>
+	</game>
+	<game name="Amiga Computing Issue 086 (1995)(Europress Interactive)(GB)[May 1995][SmartyPaints]">
+		<description>Amiga Computing Issue 086 (1995)(Europress Interactive)(GB)[May 1995][SmartyPaints]</description>
+		<rom name="Amiga Computing Issue 086 (1995)(Europress Interactive)(GB)[May 1995][SmartyPaints].adf" size="901120" crc="5bca8057" md5="64ba7dfb670ce70e9bad8cdd03bd79ea" sha1="febc35d551fddfb57eade10c1e274152a5605a1e"/>
+	</game>
+	<game name="Amiga Computing Issue 087 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1995]">
+		<description>Amiga Computing Issue 087 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1995]</description>
+		<rom name="Amiga Computing Issue 087 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1995].adf" size="901120" crc="8dac55c5" md5="6ac4e699e9a3a4b9a252cc30060ab4eb" sha1="1b54c514aacfe794f781c6c2124b937b52f33121"/>
+	</game>
+	<game name="Amiga Computing Issue 087 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1995]">
+		<description>Amiga Computing Issue 087 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1995]</description>
+		<rom name="Amiga Computing Issue 087 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1995].adf" size="901120" crc="d3918224" md5="7409cf890feb1096585014ac61c6f99f" sha1="7cc86a79085c5934254b7627ead9f9a91195df40"/>
+	</game>
+	<game name="Amiga Computing Issue 088 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1995][MUI v2.3]">
+		<description>Amiga Computing Issue 088 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1995][MUI v2.3]</description>
+		<rom name="Amiga Computing Issue 088 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1995][MUI v2.3].adf" size="901120" crc="cd14370a" md5="77616b0119f7dcd93d7cdb90967b5e85" sha1="4ec30559fd0a722bc084b906563f14e67065eb2e"/>
 	</game>
 	<game name="Amiga Computing Issue 088 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1995]">
 		<description>Amiga Computing Issue 088 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1995]</description>
 		<rom name="Amiga Computing Issue 088 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1995].adf" size="901120" crc="1efcc529" md5="7e3f0b9e73f5221b687cb29094498498" sha1="8bff4049e1b5ee9d1c7159232e8af4bf3ce8123c"/>
 	</game>
-	<game name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[PPaint, Aug 1995]">
-		<description>Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[PPaint, Aug 1995]</description>
-		<rom name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[PPaint, Aug 1995].adf" size="901120" crc="75b3a600" md5="1c5cff97801eaa41435685aa4759412c" sha1="6bb295af26cc936cd250c5ce0f6f51d4f54ec913"/>
+	<game name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1995][Personal Paint v4.0]">
+		<description>Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1995][Personal Paint v4.0]</description>
+		<rom name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1995][Personal Paint v4.0].adf" size="901120" crc="75b3a600" md5="1c5cff97801eaa41435685aa4759412c" sha1="6bb295af26cc936cd250c5ce0f6f51d4f54ec913"/>
 	</game>
 	<game name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1995]">
 		<description>Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1995]</description>
-		<rom name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1995].adf" size="901120" crc="cbce5790" md5="d77ca44a2b39c782408b6661ea018712" sha1="a8e9b4e8d0f3a4c573b9318c1666a196b080a62b"/>
+		<rom name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1995].adf" size="901120" crc="bddcc2c3" md5="ca26f1270e27491f13b18eea225e2eb6" sha1="dde55d8f2b6d246ef310c9f1c67fa0d7923299c7"/>
+	</game>
+	<game name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Aug 1995]">
+		<description>Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Aug 1995]</description>
+		<rom name="Amiga Computing Issue 089 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Aug 1995].adf" size="901120" crc="cbce5790" md5="d77ca44a2b39c782408b6661ea018712" sha1="a8e9b4e8d0f3a4c573b9318c1666a196b080a62b"/>
+	</game>
+	<game name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[m bamcopy][Sep 1995]">
+		<description>Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[m bamcopy][Sep 1995]</description>
+		<rom name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[m bamcopy][Sep 1995].adf" size="901120" crc="c3133917" md5="4d23ff89031231e8f231e4f9b3852a57" sha1="478be9892a2af05629df355263b699a7bd4ea432"/>
 	</game>
 	<game name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1995]">
 		<description>Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1995]</description>
-		<rom name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1995].adf" size="901120" crc="c3133917" md5="4d23ff89031231e8f231e4f9b3852a57" sha1="478be9892a2af05629df355263b699a7bd4ea432"/>
+		<rom name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1995].adf" size="901120" crc="51263e62" md5="294be841154550aca67bb1efa69e7ffe" sha1="e287cea6d7fd572249924d89693f07f5ed403e43"/>
+	</game>
+	<game name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Sep 1995]">
+		<description>Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Sep 1995]</description>
+		<rom name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Sep 1995].adf" size="901120" crc="0a015cc5" md5="0fd5542201fbfbeb19a626d05fe8fdcd" sha1="9f4d1d1fc78c0619508e89140f68f1800e97cec1"/>
 	</game>
 	<game name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1995]">
 		<description>Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1995]</description>
-		<rom name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1995].adf" size="901120" crc="0a015cc5" md5="0fd5542201fbfbeb19a626d05fe8fdcd" sha1="9f4d1d1fc78c0619508e89140f68f1800e97cec1"/>
+		<rom name="Amiga Computing Issue 090 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1995].adf" size="901120" crc="bd586600" md5="64167e49e2cba9cc4268c7e342d9c7dc" sha1="923a72e19d88fa2e8a2c37573622ef7c97982e57"/>
+	</game>
+	<game name="Amiga Computing Issue 091 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1995][DFA v2.25]">
+		<description>Amiga Computing Issue 091 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1995][DFA v2.25]</description>
+		<rom name="Amiga Computing Issue 091 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1995][DFA v2.25].adf" size="901120" crc="c7624ae8" md5="0ecd5286ffd1d0bc19d66bf1d29cf321" sha1="59c4012631912a4896c0ea4820fb78c61ac59b9d"/>
+	</game>
+	<game name="Amiga Computing Issue 091 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1995]">
+		<description>Amiga Computing Issue 091 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1995]</description>
+		<rom name="Amiga Computing Issue 091 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1995].adf" size="901120" crc="d6f93c7f" md5="5468369bde26a2fe4d2e448a093d506a" sha1="3ada33440d76667641abd788d488473718cf24a5"/>
+	</game>
+	<game name="Amiga Computing Issue 092 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1995][CygnusEd]">
+		<description>Amiga Computing Issue 092 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1995][CygnusEd]</description>
+		<rom name="Amiga Computing Issue 092 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1995][CygnusEd].adf" size="901120" crc="9c904a05" md5="0db3cb640639701f86a54465bcd9d0d1" sha1="1c39534901532ddef3dcb5d86d533231fd9b1a34"/>
+	</game>
+	<game name="Amiga Computing Issue 092 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1995]">
+		<description>Amiga Computing Issue 092 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1995]</description>
+		<rom name="Amiga Computing Issue 092 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1995].adf" size="901120" crc="7f8ea7a8" md5="03ba103ded0fd28d44b18634881857e3" sha1="88a6dc1d502d6c1a253ed839d5f7389512977f84"/>
+	</game>
+	<game name="Amiga Computing Issue 093 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1995]">
+		<description>Amiga Computing Issue 093 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1995]</description>
+		<rom name="Amiga Computing Issue 093 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1995].adf" size="901120" crc="dbc94e96" md5="c0c6c134e28dea1d1c60c15e159ead99" sha1="ea12dc69b006c49935f8707b84ac413ed81d0e1c"/>
+	</game>
+	<game name="Amiga Computing Issue 093 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1995]">
+		<description>Amiga Computing Issue 093 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1995]</description>
+		<rom name="Amiga Computing Issue 093 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1995].adf" size="901120" crc="036026d1" md5="a0707a64dd7fe5260ea441d67b15c43a" sha1="95c03b3bee707e1f72f50f5b2d0d5595cb0706f8"/>
+	</game>
+	<game name="Amiga Computing Issue 094 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1995]">
+		<description>Amiga Computing Issue 094 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1995]</description>
+		<rom name="Amiga Computing Issue 094 (1995)(Europress Interactive)(GB)(Disk 1 of 2)[Christmas 1995].adf" size="901120" crc="f437e7c8" md5="ec41ab8190d4a138e24ecc23fc43c591" sha1="acd95992ad595df0cc4e7294cdf8a861a1d3f25f"/>
+	</game>
+	<game name="Amiga Computing Issue 094 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1995]">
+		<description>Amiga Computing Issue 094 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1995]</description>
+		<rom name="Amiga Computing Issue 094 (1995)(Europress Interactive)(GB)(Disk 2 of 2)[Christmas 1995].adf" size="901120" crc="70bd44f1" md5="86ce63e57fa0ff16144a32c38fd6bfb6" sha1="909fb38235d1a1968150c4363390ba680ec0b753"/>
 	</game>
 	<game name="Amiga Computing Issue 095 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1996]">
 		<description>Amiga Computing Issue 095 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1996]</description>
 		<rom name="Amiga Computing Issue 095 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jan 1996].adf" size="901120" crc="c8956289" md5="9b603c9a4d72eb88e86168f1e89c14d4" sha1="16469cc7acb00b4b3c821fec77001fe31df9c9ea"/>
 	</game>
+	<game name="Amiga Computing Issue 095 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1996]">
+		<description>Amiga Computing Issue 095 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1996]</description>
+		<rom name="Amiga Computing Issue 095 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jan 1996].adf" size="901120" crc="46a514f5" md5="356d75f97e76082a79275d138ba6b0bb" sha1="2153a6fa9fe1568f2d8dbf0546c2ddf6822f52aa"/>
+	</game>
+	<game name="Amiga Computing Issue 096 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1996]">
+		<description>Amiga Computing Issue 096 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1996]</description>
+		<rom name="Amiga Computing Issue 096 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Feb 1996].adf" size="901120" crc="67d331e3" md5="26f05aa6772c253cd2d3125f2f2d0292" sha1="b9768453d7cc51cc7db5778ee1b1c37be0e742d7"/>
+	</game>
+	<game name="Amiga Computing Issue 096 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1996]">
+		<description>Amiga Computing Issue 096 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1996]</description>
+		<rom name="Amiga Computing Issue 096 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Feb 1996].adf" size="901120" crc="2d9da5f6" md5="8b16869d355ec2edf292e5efdd7ed3db" sha1="fbf473a9bc3fdb90efeaf7bbb9e275a6e1595294"/>
+	</game>
 	<game name="Amiga Computing Issue 097 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1996]">
 		<description>Amiga Computing Issue 097 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1996]</description>
 		<rom name="Amiga Computing Issue 097 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1996].adf" size="901120" crc="c74fcd3d" md5="8fb5dd5fec0e14eff46116f6185c1cc1" sha1="b3a181b3e713c1892926831a3c4b36757f3d82d6"/>
 	</game>
-	<game name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Capital Punishment, Apr 1996]">
-		<description>Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Capital Punishment, Apr 1996]</description>
-		<rom name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Capital Punishment, Apr 1996].adf" size="901120" crc="786c870f" md5="df5f0013a077fede20957ed033895fac" sha1="d7da59bcbc3ecbd509a6e3e233c2ff47bc12b62f"/>
+	<game name="Amiga Computing Issue 097 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1996]">
+		<description>Amiga Computing Issue 097 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1996]</description>
+		<rom name="Amiga Computing Issue 097 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1996].adf" size="901120" crc="fc6e029b" md5="ba4072aacc59c11dbe060401c73a94d7" sha1="a14b5c2ae76822646049d9869a7610a3421e085e"/>
 	</game>
-	<game name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[h CB4][Capital Punishment, Apr 1996]">
-		<description>Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[h CB4][Capital Punishment, Apr 1996]</description>
-		<rom name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[h CB4][Capital Punishment, Apr 1996].adf" size="901120" crc="40ebbada" md5="ba35f3c4ddf17b07a2a7a2e46f9b64d1" sha1="f5969c71d10daf54a859869945842732710de3d2"/>
+	<game name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1996][Capital Punishment]">
+		<description>Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1996][Capital Punishment]</description>
+		<rom name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1996][Capital Punishment].adf" size="901120" crc="786c870f" md5="df5f0013a077fede20957ed033895fac" sha1="d7da59bcbc3ecbd509a6e3e233c2ff47bc12b62f"/>
+	</game>
+	<game name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[h CB4][Apr 1996][Capital Punishment]">
+		<description>Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[h CB4][Apr 1996][Capital Punishment]</description>
+		<rom name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[h CB4][Apr 1996][Capital Punishment].adf" size="901120" crc="40ebbada" md5="ba35f3c4ddf17b07a2a7a2e46f9b64d1" sha1="f5969c71d10daf54a859869945842732710de3d2"/>
+	</game>
+	<game name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1996]">
+		<description>Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1996]</description>
+		<rom name="Amiga Computing Issue 098 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1996].adf" size="901120" crc="414e60a7" md5="ed2a50e2bb3fe2ee914888c2d36e512b" sha1="a270a3c16e7d46600ac276cc26585d66cecb0025"/>
+	</game>
+	<game name="Amiga Computing Issue 099 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[May 1996]">
+		<description>Amiga Computing Issue 099 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[May 1996]</description>
+		<rom name="Amiga Computing Issue 099 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[May 1996].adf" size="901120" crc="2d3e5726" md5="f33fa92b18e895b539bc7560554ab30f" sha1="0e38b6df065e0b99a424e6081ecb802393eb9703"/>
+	</game>
+	<game name="Amiga Computing Issue 099 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[May 1996]">
+		<description>Amiga Computing Issue 099 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[May 1996]</description>
+		<rom name="Amiga Computing Issue 099 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[May 1996].adf" size="901120" crc="5a15971a" md5="6f4a5511b35929926c08dad32a2ec3b1" sha1="781aae70b26bf87eec5601d86cc86ead699256de"/>
+	</game>
+	<game name="Amiga Computing Issue 100 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1996]">
+		<description>Amiga Computing Issue 100 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1996]</description>
+		<rom name="Amiga Computing Issue 100 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1996].adf" size="901120" crc="957d27dd" md5="332d8d6cfc9ce4337e913528fd62221d" sha1="9511b6bfdd71353b61238534921fa867731c1b57"/>
+	</game>
+	<game name="Amiga Computing Issue 100 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1996]">
+		<description>Amiga Computing Issue 100 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1996]</description>
+		<rom name="Amiga Computing Issue 100 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1996].adf" size="901120" crc="61e82711" md5="771ae9cecfd15336fcdf683b4d462e83" sha1="5464724ed824e5cd62e1effa057365ed7d148b19"/>
 	</game>
 	<game name="Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1996]">
 		<description>Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1996]</description>
-		<rom name="Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1996].adf" size="901120" crc="e06e5284" md5="4784d5cf1c230285d46f1fb93bcf077f" sha1="7818774c3876459bfb6340ecbe4a1226b1e83245"/>
+		<rom name="Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Jul 1996].adf" size="901120" crc="20bb3d08" md5="ad966e6451a6a6f75e2eb72ca0fdf0ff" sha1="1c8fd9c25bf469b531791690fcdf923d4dbe3d1d"/>
 	</game>
 	<game name="Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1996]">
 		<description>Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1996]</description>
-		<rom name="Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1996].adf" size="901120" crc="20bb3d08" md5="ad966e6451a6a6f75e2eb72ca0fdf0ff" sha1="1c8fd9c25bf469b531791690fcdf923d4dbe3d1d"/>
+		<rom name="Amiga Computing Issue 101 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Jul 1996].adf" size="901120" crc="e06e5284" md5="4784d5cf1c230285d46f1fb93bcf077f" sha1="7818774c3876459bfb6340ecbe4a1226b1e83245"/>
+	</game>
+	<game name="Amiga Computing Issue 102 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1996]">
+		<description>Amiga Computing Issue 102 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1996]</description>
+		<rom name="Amiga Computing Issue 102 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Aug 1996].adf" size="901120" crc="615f37de" md5="b6238a537267d6a71e09326782f17a3a" sha1="91afc9aaddfed1f22bb32bccba8aaa4d47025896"/>
+	</game>
+	<game name="Amiga Computing Issue 102 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1996]">
+		<description>Amiga Computing Issue 102 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1996]</description>
+		<rom name="Amiga Computing Issue 102 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Aug 1996].adf" size="901120" crc="fc31c4f4" md5="71864fe5cc35c7567b1fb041d475a5cc" sha1="7a569a864226f096437fd06140881a22239543e9"/>
+	</game>
+	<game name="Amiga Computing Issue 103 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1996]">
+		<description>Amiga Computing Issue 103 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1996]</description>
+		<rom name="Amiga Computing Issue 103 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Sep 1996].adf" size="901120" crc="7040cd4d" md5="5e15422b1d5bf73cc9a9e3a6317c188b" sha1="a264b81e7085e3bfdece55a6c1429582c0072f17"/>
+	</game>
+	<game name="Amiga Computing Issue 103 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1996]">
+		<description>Amiga Computing Issue 103 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1996]</description>
+		<rom name="Amiga Computing Issue 103 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Sep 1996].adf" size="901120" crc="dc8a9f70" md5="7ea6d92f0dbbf7f80806653b0ef9f5f4" sha1="f4fce9dcfbd0d2a9a7dffadeb84bcada0fcab88c"/>
+	</game>
+	<game name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1996]">
+		<description>Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1996]</description>
+		<rom name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Oct 1996].adf" size="901120" crc="7444a84a" md5="fbd3888d054883c6f093cf7d3245689e" sha1="38e5c2c0bde5a1ec4fb6b0d6836a7bbbfb5ae0c9"/>
+	</game>
+	<game name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Oct 1996]">
+		<description>Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Oct 1996]</description>
+		<rom name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Oct 1996].adf" size="901120" crc="992b3668" md5="02be6635ab17bc4e07e2cd13db9382d0" sha1="8eb99cc741403b5618b7cd6058823d3781c49a17"/>
 	</game>
 	<game name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1996]">
 		<description>Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1996]</description>
-		<rom name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1996].adf" size="901120" crc="992b3668" md5="02be6635ab17bc4e07e2cd13db9382d0" sha1="8eb99cc741403b5618b7cd6058823d3781c49a17"/>
+		<rom name="Amiga Computing Issue 104 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Oct 1996].adf" size="901120" crc="5aed42f8" md5="47b70cfc06a3e3edf090bad78f6f80e6" sha1="f79b522c7850479a10cc9798a07cb4fbf7e223a3"/>
 	</game>
-	<game name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Photegenics, Dec 1996]">
-		<description>Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Photegenics, Dec 1996]</description>
-		<rom name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Photegenics, Dec 1996].adf" size="901120" crc="27ca2bf5" md5="e4ccf7718be9f94b080426161b8fac21" sha1="cbcd9a82f09aca49206fb5cec72684e8227267af"/>
+	<game name="Amiga Computing Issue 105 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1996]">
+		<description>Amiga Computing Issue 105 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1996]</description>
+		<rom name="Amiga Computing Issue 105 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Nov 1996].adf" size="901120" crc="488792d4" md5="7fece04794bb5b96ae737f293b169f2e" sha1="e37f8e508ab38e37520b8390ffea33b05a82fd7f"/>
 	</game>
-	<game name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Photegenics, Dec 1996]">
-		<description>Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Photegenics, Dec 1996]</description>
-		<rom name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Photegenics, Dec 1996].adf" size="901120" crc="a8192746" md5="126f6be7d600d73921f758e5acc60354" sha1="22be244263f8d620936b9ff743c74cee7b5eda75"/>
+	<game name="Amiga Computing Issue 105 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1996]">
+		<description>Amiga Computing Issue 105 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1996]</description>
+		<rom name="Amiga Computing Issue 105 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Nov 1996].adf" size="901120" crc="3e8434d3" md5="e1094e5557dabf75c2cd4d5595c9d83c" sha1="743a5a4163e1a898f1e7b6a82d559edb9e9c9d14"/>
+	</game>
+	<game name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1996][Photogenics]">
+		<description>Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1996][Photogenics]</description>
+		<rom name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[Dec 1996][Photogenics].adf" size="901120" crc="0a12bdca" md5="e8c73ad125e38c0799fd86305a390092" sha1="371ab1a73057cf4fee2083d338e91ef94e45d23f"/>
+	</game>
+	<game name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[m bamcopy][Dec 1996][Photogenics]">
+		<description>Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[m bamcopy][Dec 1996][Photogenics]</description>
+		<rom name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 1 of 2)[m bamcopy][Dec 1996][Photogenics].adf" size="901120" crc="27ca2bf5" md5="e4ccf7718be9f94b080426161b8fac21" sha1="cbcd9a82f09aca49206fb5cec72684e8227267af"/>
+	</game>
+	<game name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1996][Photogenics]">
+		<description>Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1996][Photogenics]</description>
+		<rom name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[Dec 1996][Photogenics].adf" size="901120" crc="f9a0b7f3" md5="5b7ba92959a21b8cee77a06ac9ee502e" sha1="88057b68c40e175983a277bea82db6c0bf5a4cba"/>
+	</game>
+	<game name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Dec 1996][Photogenics]">
+		<description>Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Dec 1996][Photogenics]</description>
+		<rom name="Amiga Computing Issue 106 (1996)(Europress Interactive)(GB)(Disk 2 of 2)[m bamcopy][Dec 1996][Photogenics].adf" size="901120" crc="a8192746" md5="126f6be7d600d73921f758e5acc60354" sha1="22be244263f8d620936b9ff743c74cee7b5eda75"/>
+	</game>
+	<game name="Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 1 of 3)[Christmas 1996]">
+		<description>Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 1 of 3)[Christmas 1996]</description>
+		<rom name="Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 1 of 3)[Christmas 1996].adf" size="901120" crc="273ee314" md5="53fa4c48214aa86f6be0ce075b2f6f16" sha1="303c7836e34ad398b1004e61ee6eaf72b8105f7d"/>
+	</game>
+	<game name="Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 2 of 3)[Christmas 1996]">
+		<description>Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 2 of 3)[Christmas 1996]</description>
+		<rom name="Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 2 of 3)[Christmas 1996].adf" size="901120" crc="935353c3" md5="0e3eb3b8d9e51af8f3087d60a9c0adc6" sha1="cbf78c4b19990fd998b25581418b65cc73147aae"/>
+	</game>
+	<game name="Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 3 of 3)[Christmas 1996]">
+		<description>Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 3 of 3)[Christmas 1996]</description>
+		<rom name="Amiga Computing Issue 107 (1996)(Europress Interactive)(GB)(Disk 3 of 3)[Christmas 1996].adf" size="901120" crc="2ff695a9" md5="31d9236d0223c52614ffc5c142d0dda4" sha1="f8b3aa9bce03a85b85cd66b789136a7ed538301d"/>
+	</game>
+	<game name="Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 1 of 3)[Jan 1997][Bubble and Squeak]">
+		<description>Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 1 of 3)[Jan 1997][Bubble and Squeak]</description>
+		<rom name="Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 1 of 3)[Jan 1997][Bubble and Squeak].adf" size="901120" crc="b3bf58f7" md5="fa2961844bcebc9b545beb3e58e53648" sha1="349db860e160baaa0a1473feb533a2c4aed6269a"/>
+	</game>
+	<game name="Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 2 of 3)[Jan 1997][Bubble and Squeak]">
+		<description>Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 2 of 3)[Jan 1997][Bubble and Squeak]</description>
+		<rom name="Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 2 of 3)[Jan 1997][Bubble and Squeak].adf" size="901120" crc="b66bca93" md5="682a414065dfdc9fc47475f0cab7a92b" sha1="ce1e9fd9defd553f2f5ca857b94fec61c371b6ce"/>
+	</game>
+	<game name="Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 3 of 3)[Jan 1997]">
+		<description>Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 3 of 3)[Jan 1997]</description>
+		<rom name="Amiga Computing Issue 108 (1997)(Europress Interactive)(GB)(Disk 3 of 3)[Jan 1997].adf" size="901120" crc="b1309f94" md5="63f0143bec9a402cb58439e3df262f60" sha1="c031a1990baf01a5a7fb7f08372023f0fb9c2ec3"/>
+	</game>
+	<game name="Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 1 of 3)[Feb 1997][XTreme Racing]">
+		<description>Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 1 of 3)[Feb 1997][XTreme Racing]</description>
+		<rom name="Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 1 of 3)[Feb 1997][XTreme Racing].adf" size="901120" crc="67f1fe38" md5="a73bfdd7399845e7db1840b64d054042" sha1="885561fb7dc5b7d9a5cc6c3930b410fdb87f859f"/>
+	</game>
+	<game name="Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 2 of 3)[Feb 1997][XTreme Racing]">
+		<description>Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 2 of 3)[Feb 1997][XTreme Racing]</description>
+		<rom name="Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 2 of 3)[Feb 1997][XTreme Racing].adf" size="901120" crc="fea8b9d1" md5="4ce771f1ba462369118754a1055afe90" sha1="27b74ddb0cac1045df92ed9652228df77d834131"/>
+	</game>
+	<game name="Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 3 of 3)[Feb 1997]">
+		<description>Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 3 of 3)[Feb 1997]</description>
+		<rom name="Amiga Computing Issue 109 (1997)(Europress Interactive)(GB)(Disk 3 of 3)[Feb 1997].adf" size="901120" crc="b72e7aa0" md5="79462a14efd45c816a79023d60a5bd2f" sha1="f0da21f33e4f45808ce0ffc7baad10ef90605ef4"/>
+	</game>
+	<game name="Amiga Computing Issue 110 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1997]">
+		<description>Amiga Computing Issue 110 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1997]</description>
+		<rom name="Amiga Computing Issue 110 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Mar 1997].adf" size="901120" crc="bbc01c2b" md5="db7cc7c89719b305ac4dd1b2b950f907" sha1="544258d11e3f125f92bc047612439287d1ee36b6"/>
+	</game>
+	<game name="Amiga Computing Issue 110 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1997]">
+		<description>Amiga Computing Issue 110 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1997]</description>
+		<rom name="Amiga Computing Issue 110 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Mar 1997].adf" size="901120" crc="a7b9d387" md5="d10f529d2f15337b7bfef6fde9a84df3" sha1="099c6deebda4cfc20eeb1eac44f68986a858e2fd"/>
+	</game>
+	<game name="Amiga Computing Issue 111 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1997]">
+		<description>Amiga Computing Issue 111 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1997]</description>
+		<rom name="Amiga Computing Issue 111 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Apr 1997].adf" size="901120" crc="01bb46f9" md5="776ae8ef0a17206f7e533b0ef4160340" sha1="4e1ba263834cb9d7d8a79128259109b7f5c3ac58"/>
+	</game>
+	<game name="Amiga Computing Issue 111 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1997]">
+		<description>Amiga Computing Issue 111 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1997]</description>
+		<rom name="Amiga Computing Issue 111 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Apr 1997].adf" size="901120" crc="d1057d18" md5="e8beab3931d86b729c046ab8e520a757" sha1="befa16e562c655f4e0cebc8683e3ccbe94772e4c"/>
+	</game>
+	<game name="Amiga Computing Issue 112 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[May 1997]">
+		<description>Amiga Computing Issue 112 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[May 1997]</description>
+		<rom name="Amiga Computing Issue 112 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[May 1997].adf" size="901120" crc="729d95c1" md5="c81bcbcc39a80ad00fba1f7dd93f25b2" sha1="82fdfe86250aa1bfa581f458f59d94e812d426e0"/>
+	</game>
+	<game name="Amiga Computing Issue 112 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[May 1997]">
+		<description>Amiga Computing Issue 112 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[May 1997]</description>
+		<rom name="Amiga Computing Issue 112 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[May 1997].adf" size="901120" crc="5fea09bb" md5="459077d7bdaa9c2538245108973620ab" sha1="b3e6f19d4b66b80b27845019a4209d98aa64b5db"/>
+	</game>
+	<game name="Amiga Computing Issue 113 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1997]">
+		<description>Amiga Computing Issue 113 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1997]</description>
+		<rom name="Amiga Computing Issue 113 (1997)(Europress Interactive)(GB)(Disk 1 of 2)[Jun 1997].adf" size="901120" crc="66762e69" md5="94e0f7ce796a1782183e6fce933922d0" sha1="18568a5fdf2424c5a4a36970b3bf46f1abc19180"/>
+	</game>
+	<game name="Amiga Computing Issue 113 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1997]">
+		<description>Amiga Computing Issue 113 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1997]</description>
+		<rom name="Amiga Computing Issue 113 (1997)(Europress Interactive)(GB)(Disk 2 of 2)[Jun 1997].adf" size="901120" crc="94f06e2e" md5="89bfefbd09b35737dcfdc8db0277dbab" sha1="42a0794fbf99ba4bdc71cf58dd7557127dfea600"/>
+	</game>
+	<game name="Amiga Computing Issue 114 (1997)(Europress Interactive)(GB)[Jul 1997]">
+		<description>Amiga Computing Issue 114 (1997)(Europress Interactive)(GB)[Jul 1997]</description>
+		<rom name="Amiga Computing Issue 114 (1997)(Europress Interactive)(GB)[Jul 1997].adf" size="901120" crc="02342024" md5="23ca63a31784d03042fb9a7e8fd479da" sha1="e33e54d058c214c98e83bc8565762a0847fe9eed"/>
+	</game>
+	<game name="Amiga Computing Issue 115 (1997)(Europress Interactive)(GB)[Aug 1997]">
+		<description>Amiga Computing Issue 115 (1997)(Europress Interactive)(GB)[Aug 1997]</description>
+		<rom name="Amiga Computing Issue 115 (1997)(Europress Interactive)(GB)[Aug 1997].adf" size="901120" crc="565b47da" md5="049d0a21df3b6f1f1dda9a1bb5a79d1c" sha1="37b5f0a1ef969dd1abe5ab2e3518b23a7b67956d"/>
+	</game>
+	<game name="Amiga Computing Issue 116 (1997)(Europress Interactive)(GB)[Sep 1997]">
+		<description>Amiga Computing Issue 116 (1997)(Europress Interactive)(GB)[Sep 1997]</description>
+		<rom name="Amiga Computing Issue 116 (1997)(Europress Interactive)(GB)[Sep 1997].adf" size="901120" crc="72f11293" md5="a60a448ccc58639ea18b12c835043d24" sha1="a073b77e98f6760ef34cbdbd9f14de41d81d4a2b"/>
+	</game>
+	<game name="Amiga Computing Issue 117 (1997)(Europress Interactive)(GB)[Oct 1997]">
+		<description>Amiga Computing Issue 117 (1997)(Europress Interactive)(GB)[Oct 1997]</description>
+		<rom name="Amiga Computing Issue 117 (1997)(Europress Interactive)(GB)[Oct 1997].adf" size="901120" crc="71e6f197" md5="9735c80d93f54110dd8fcf5bffa831f6" sha1="091d8af4f1af06bd71a33973ffdcf7828dfa5524"/>
 	</game>
 	<game name="Amiga Concept #03 (1994)(Delta Publishing Group)(FR)[!][Apr 1994]">
 		<description>Amiga Concept #03 (1994)(Delta Publishing Group)(FR)[!][Apr 1994]</description>
@@ -8008,6 +8424,10 @@
 		<description>AmigaWorld Tech Journal, The Vol 2 Issue 2 (1992)(IDG Communications)(US)[WB][Apr 1992]</description>
 		<rom name="AmigaWorld Tech Journal, The Vol 2 Issue 2 (1992)(IDG Communications)(US)[WB][Apr 1992].adf" size="901120" crc="68f5e11a" md5="c65afceda5ef9c048f8d4e697cd4afc4" sha1="76fbaf838d83cf85e34773085a2d41680e4ca613"/>
 	</game>
+	<game name="Amigo! 91-03 (1991-06-07)(CompuTec Verlag)(DE)[Crack]">
+		<description>Amigo! 91-03 (1991-06-07)(CompuTec Verlag)(DE)[Crack]</description>
+		<rom name="Amigo! 91-03 (1991-06-07)(CompuTec Verlag)(DE)[Crack].adf" size="901120" crc="a6b6f4b9" md5="63296754cc0b5e9169d76eff1f88b069" sha1="c18db43cb1780297ff5db78ea2d82a755f59135e"/>
+	</game>
 	<game name="Amigo! 91-04 (1991-08-02)(CompuTec Verlag)(DE)(Disk 1 of 2)">
 		<description>Amigo! 91-04 (1991-08-02)(CompuTec Verlag)(DE)(Disk 1 of 2)</description>
 		<rom name="Amigo! 91-04 (1991-08-02)(CompuTec Verlag)(DE)(Disk 1 of 2).adf" size="901120" crc="96ec139c" md5="47aaf5df0b7188a805afe324a3ae457c" sha1="91234e4b31c5e36c7222bf63c1c804a7b339f14e"/>
@@ -8096,21 +8516,29 @@
 		<description>Amigo! 93-06 (1993)(CompuTec Verlag)(DE)[t +7 DLT][Rackney's Island]</description>
 		<rom name="Amigo! 93-06 (1993)(CompuTec Verlag)(DE)[t +7 DLT][Rackney's Island].adf" size="901120" crc="46fe14d9" md5="b8b626d4563b01eef184ad40ab8b1746" sha1="228ec4dc081c911a150ee55790cc77fcbe6cab7c"/>
 	</game>
-	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)[h zany]">
-		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)[h zany]</description>
-		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)[h zany].adf" size="901120" crc="fa387347" md5="bc416bf91e6c8e2876d1ce38bfddc20f" sha1="e46442cb641dedb9ce32225dce151b3a71021c84"/>
+	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)">
+		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)</description>
+		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2).adf" size="901120" crc="3bdfdc43" md5="2ae61b62a025b12511913be2b52fba06" sha1="34d3e1f6e347f2fb8069ee1836cc4257d9345e84"/>
 	</game>
-	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)">
-		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)</description>
-		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2).adf" size="901120" crc="9ab0f15a" md5="b79adc8aadc88fb90cd103d1bc7f53c3" sha1="530b371fc37e86b5be2a8b350d5a2191821f669e"/>
+	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)[h 2KAD]">
+		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)[h 2KAD]</description>
+		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 1 of 2)[h 2KAD].adf" size="901120" crc="fa387347" md5="bc416bf91e6c8e2876d1ce38bfddc20f" sha1="e46442cb641dedb9ce32225dce151b3a71021c84"/>
 	</game>
-	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[h zany]">
-		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[h zany]</description>
-		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[h zany].adf" size="901120" crc="edf169cf" md5="bbcae5f1d638fd7d1a25de146e59590a" sha1="f95458bf64efff36c2ccd85b6b5d7947e25b534a"/>
+	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[h 2KAD][Kings]">
+		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[h 2KAD][Kings]</description>
+		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[h 2KAD][Kings].adf" size="901120" crc="edf169cf" md5="bbcae5f1d638fd7d1a25de146e59590a" sha1="f95458bf64efff36c2ccd85b6b5d7947e25b534a"/>
 	</game>
-	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[m bamcopy]">
-		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[m bamcopy]</description>
-		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[m bamcopy].adf" size="901120" crc="3ace1618" md5="dfc6b14e755db953000c71cad3c40f93" sha1="dab5e83e019c0154303e847f1a8935452af880cd"/>
+	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[Kings]">
+		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[Kings]</description>
+		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[Kings].adf" size="901120" crc="9ab0f15a" md5="b79adc8aadc88fb90cd103d1bc7f53c3" sha1="530b371fc37e86b5be2a8b350d5a2191821f669e"/>
+	</game>
+	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[m bamcopy][Kings]">
+		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[m bamcopy][Kings]</description>
+		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[m bamcopy][Kings].adf" size="901120" crc="3ace1618" md5="dfc6b14e755db953000c71cad3c40f93" sha1="dab5e83e019c0154303e847f1a8935452af880cd"/>
+	</game>
+	<game name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[tr fr Aladin][Kings]">
+		<description>Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[tr fr Aladin][Kings]</description>
+		<rom name="Amigo! 94-04 (1994-08)(CompuTec Verlag)(DE)(Disk 2 of 2)[tr fr Aladin][Kings].adf" size="901120" crc="06533fe9" md5="7873b0490dcead08ea0734416d2e1df9" sha1="90dfebcc6af9500d8045f2f26032288eedb577f9"/>
 	</game>
 	<game name="Amigo! 95-01 (1995-02)(CompuTec Verlag)(DE)(Disk 1 of 2)">
 		<description>Amigo! 95-01 (1995-02)(CompuTec Verlag)(DE)(Disk 1 of 2)</description>
@@ -10759,6 +11187,10 @@
 	<game name="Zero #12 (1990)(Dennis)(GB)[a][Oct 1990]">
 		<description>Zero #12 (1990)(Dennis)(GB)[a][Oct 1990]</description>
 		<rom name="Zero #12 (1990)(Dennis)(GB)[a][Oct 1990].adf" size="901120" crc="5bca265f" md5="e3691f567c521e282e779eb870cd91e2" sha1="6a3660d7a5845cd3d13b845da59830a9f768dd5c"/>
+	</game>
+	<game name="Zero #12 (1990)(Dennis)(GB)[h Nexus][Oct 1990]">
+		<description>Zero #12 (1990)(Dennis)(GB)[h Nexus][Oct 1990]</description>
+		<rom name="Zero #12 (1990)(Dennis)(GB)[h Nexus][Oct 1990].adf" size="901120" crc="0474e1c6" md5="acafa2fa22064649df8b465963859315" sha1="30d3bd013eec3c6d7dc0dc4b0ee20165befd7264"/>
 	</game>
 	<game name="Zero #12 (1990)(Dennis)(GB)[o][Oct 1990]">
 		<description>Zero #12 (1990)(Dennis)(GB)[o][Oct 1990]</description>

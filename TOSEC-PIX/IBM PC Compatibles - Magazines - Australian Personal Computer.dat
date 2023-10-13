@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>IBM PC Compatibles - Magazines - Australian Personal Computer (AU)</name>
-		<description>IBM PC Compatibles - Magazines - Australian Personal Computer (AU) (TOSEC-v2017-08-22)</description>
+		<description>IBM PC Compatibles - Magazines - Australian Personal Computer (AU) (TOSEC-v2023-06-13)</description>
 		<category>TOSEC-PIX</category>
-		<version>2017-08-22</version>
+		<version>2023-06-13</version>
 		<author>TOSEC-PIX</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -14,219 +14,1234 @@
 	</header>
 	<game name="APC (2007-10)(ACP Magazines)(AU)">
 		<description>APC (2007-10)(ACP Magazines)(AU)</description>
-		<rom name="APC (2007-10)(ACP Magazines)(AU).pdf" size="142166394" crc="ef57f44b" sha1="2779ad6ad3009396d7f82bd155bf87151b8323e9" md5="5b72cd80ef838b87c224c7dd77493b94"/>
+		<rom name="APC (2007-10)(ACP Magazines)(AU).pdf" size="142166394" crc="ef57f44b" md5="5b72cd80ef838b87c224c7dd77493b94" sha1="2779ad6ad3009396d7f82bd155bf87151b8323e9"/>
+	</game>
+	<game name="APC - Issue 394 (2013-10)(Future Publishing)(AU)">
+		<description>APC - Issue 394 (2013-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 394 (2013-10)(Future Publishing)(AU).pdf" size="199263841" crc="80ee6c6e" md5="55f4737bf3073089ae4e4b74e28d628b" sha1="73751747348eccb7d0b0e2119408e5817e9f332d"/>
+	</game>
+	<game name="APC - Issue 395 (2013-11)(Future Publishing)(AU)">
+		<description>APC - Issue 395 (2013-11)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 395 (2013-11)(Future Publishing)(AU).pdf" size="189306958" crc="b9f4ee5f" md5="6d7bd295d4ff085edd697a436ef7e531" sha1="d993321437757753416bdcd90fe0de54f4fdcdd2"/>
+	</game>
+	<game name="APC - Issue 396 (2013-12)(Future Publishing)(AU)">
+		<description>APC - Issue 396 (2013-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 396 (2013-12)(Future Publishing)(AU).pdf" size="185691361" crc="bc50ef04" md5="375bfb49773e94d9996acb36994b39dd" sha1="6ca93803bcf87c510c23efe21842958d0c6fb359"/>
+	</game>
+	<game name="APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition]">
+		<description>APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition]</description>
+		<rom name="APC - Issue 397 (2013)(Future Publishing)(AU)[christmas edition].pdf" size="187772563" crc="2e2bdfeb" md5="a7aa3f0bb49702d6476ee85a4f9a1f83" sha1="6e788baa27caee0c5fe062ba3f4a305f11f1c850"/>
+	</game>
+	<game name="APC - Issue 398 (2014-01)(Future Publishing)(AU)">
+		<description>APC - Issue 398 (2014-01)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 398 (2014-01)(Future Publishing)(AU).pdf" size="181616082" crc="dd218447" md5="aea990abb6127851220d19b9297e16e4" sha1="1b4fb70d5efed2672ae54ac9cbf7e1f1703a1a66"/>
+	</game>
+	<game name="APC - Issue 399 (2014-02)(Future Publishing)(AU)">
+		<description>APC - Issue 399 (2014-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 399 (2014-02)(Future Publishing)(AU).pdf" size="195884751" crc="039c35f5" md5="b2eee233a046db21f611f55ea89bafd4" sha1="522894c6cd9141cb2d5772f31a06e986f05432ba"/>
+	</game>
+	<game name="APC - Issue 400 (2014-03)(Future Publishing)(AU)">
+		<description>APC - Issue 400 (2014-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 400 (2014-03)(Future Publishing)(AU).pdf" size="199226954" crc="f383a76d" md5="1af4fc50fb8cf60d15c4bac52d47c317" sha1="c0c351fb7275139f73d47333116094975cf4b66d"/>
+	</game>
+	<game name="APC - Issue 401 (2014-04)(Future Publishing)(AU)">
+		<description>APC - Issue 401 (2014-04)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 401 (2014-04)(Future Publishing)(AU).pdf" size="192151562" crc="c04a69a4" md5="a9a2593267b453150f1ac4f691018fe2" sha1="03679dc10bc375b0c6b4b87cebec274e5711480c"/>
+	</game>
+	<game name="APC - Issue 403 (2014-06)(Future Publishing)(AU)">
+		<description>APC - Issue 403 (2014-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 403 (2014-06)(Future Publishing)(AU).pdf" size="201003809" crc="422137f2" md5="394961dbbf22762916b2326215017605" sha1="be322e4958473a3a89526732eaa2fee7ec179e99"/>
+	</game>
+	<game name="APC - Issue 404 (2014-07)(Future Publishing)(AU)">
+		<description>APC - Issue 404 (2014-07)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 404 (2014-07)(Future Publishing)(AU).pdf" size="196611271" crc="ca418a44" md5="e71a392766193cc32087f160155e081d" sha1="489b59a0fc469ef158b333f707ab1619d699a8a2"/>
+	</game>
+	<game name="APC - Issue 405 (2014-08)(Future Publishing)(AU)">
+		<description>APC - Issue 405 (2014-08)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 405 (2014-08)(Future Publishing)(AU).pdf" size="198786908" crc="dedfbb8d" md5="cfcd4db5a435950bc8791bc628e76e89" sha1="a0b89407de887c4503e856e12983ea3f68c062a5"/>
+	</game>
+	<game name="APC - Issue 407 (2014-10)(Future Publishing)(AU)">
+		<description>APC - Issue 407 (2014-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 407 (2014-10)(Future Publishing)(AU).pdf" size="234397910" crc="3dd5bd34" md5="86554f336127649ef663f06fe0d65cbf" sha1="75a7bd6f9218d85b12d373a30075a303d0d10d27"/>
+	</game>
+	<game name="APC - Issue 409 (2014-12)(Future Publishing)(AU)">
+		<description>APC - Issue 409 (2014-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 409 (2014-12)(Future Publishing)(AU).pdf" size="198920202" crc="f0270b28" md5="362ec15676c392c16591f9fa92675c14" sha1="4570eb78003b02c7e175781111aba3454d46cc70"/>
+	</game>
+	<game name="APC - Issue 415 (2015-05)(Future Publishing)(AU)">
+		<description>APC - Issue 415 (2015-05)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 415 (2015-05)(Future Publishing)(AU).pdf" size="250487781" crc="c7e01869" md5="d8c80b57a2b3d81a0ea76ec21986d45d" sha1="75d1c8b329e909076cb9ab84b5cba2b36cf0ce3e"/>
 	</game>
 	<game name="APC - Issue 416 (2015-06)(Future Publishing)(AU)">
 		<description>APC - Issue 416 (2015-06)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 416 (2015-06)(Future Publishing)(AU).pdf" size="33362833" crc="b8005d73" sha1="c778510f2b6b40cdfccb1d9dc9f2f0c8c6eab1c4" md5="dc09c6eaf7ae1de1d35a7ce91e4fef94"/>
+		<rom name="APC - Issue 416 (2015-06)(Future Publishing)(AU).pdf" size="33362833" crc="b8005d73" md5="dc09c6eaf7ae1de1d35a7ce91e4fef94" sha1="c778510f2b6b40cdfccb1d9dc9f2f0c8c6eab1c4"/>
 	</game>
 	<game name="APC - Issue 417 (2015-07)(Future Publishing)(AU)">
 		<description>APC - Issue 417 (2015-07)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 417 (2015-07)(Future Publishing)(AU).pdf" size="34226172" crc="3ff2bb56" sha1="c6b0450af68ed28140c3a2041fa35861111a95f0" md5="28338be13fef39c0111cb93ec277c259"/>
+		<rom name="APC - Issue 417 (2015-07)(Future Publishing)(AU).pdf" size="34226172" crc="3ff2bb56" md5="28338be13fef39c0111cb93ec277c259" sha1="c6b0450af68ed28140c3a2041fa35861111a95f0"/>
 	</game>
 	<game name="APC - Issue 418 (2015-08)(Future Publishing)(AU)">
 		<description>APC - Issue 418 (2015-08)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 418 (2015-08)(Future Publishing)(AU).pdf" size="17595198" crc="509af688" sha1="178bdb42139f471ec5ad8a0e3ce0556ebd077af8" md5="59878a3bde49f5cc632e0b5126b0a9dd"/>
+		<rom name="APC - Issue 418 (2015-08)(Future Publishing)(AU).pdf" size="17595198" crc="509af688" md5="59878a3bde49f5cc632e0b5126b0a9dd" sha1="178bdb42139f471ec5ad8a0e3ce0556ebd077af8"/>
+	</game>
+	<game name="APC - Issue 419 (2015-09)(Future Publishing)(AU)">
+		<description>APC - Issue 419 (2015-09)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 419 (2015-09)(Future Publishing)(AU).pdf" size="52308239" crc="929e2f5e" md5="34410e5dfd1b22242cc95c11b7a093b7" sha1="534cc0abc29b98afbc2cebacdecd925a66e7b237"/>
 	</game>
 	<game name="APC - Issue 420 (2015-10)(Future Publishing)(AU)">
 		<description>APC - Issue 420 (2015-10)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 420 (2015-10)(Future Publishing)(AU).pdf" size="43307396" crc="b7c48d23" sha1="cb8feab681b36762946117885e2feed257d8eca2" md5="ce2607c63a79eabbe694a1c258fcd01e"/>
+		<rom name="APC - Issue 420 (2015-10)(Future Publishing)(AU).pdf" size="43307396" crc="b7c48d23" md5="ce2607c63a79eabbe694a1c258fcd01e" sha1="cb8feab681b36762946117885e2feed257d8eca2"/>
 	</game>
 	<game name="APC - Issue 421 (2015-11)(Future Publishing)(AU)">
 		<description>APC - Issue 421 (2015-11)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 421 (2015-11)(Future Publishing)(AU).pdf" size="51587477" crc="07e22055" sha1="c36cada03752e51aa052aca28b79838000fc3bb8" md5="bf6978f2a8c2141525edd0c9d84fdd1a"/>
+		<rom name="APC - Issue 421 (2015-11)(Future Publishing)(AU).pdf" size="51587477" crc="07e22055" md5="bf6978f2a8c2141525edd0c9d84fdd1a" sha1="c36cada03752e51aa052aca28b79838000fc3bb8"/>
 	</game>
 	<game name="APC - Issue 422 (2015-12)(Future Publishing)(AU)">
 		<description>APC - Issue 422 (2015-12)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 422 (2015-12)(Future Publishing)(AU).pdf" size="37473620" crc="99755005" sha1="7dc2e02ab82f83a8fec72044b733e9e0615e2d7d" md5="6de9913a6f672e041b77fc953debd050"/>
+		<rom name="APC - Issue 422 (2015-12)(Future Publishing)(AU).pdf" size="37473620" crc="99755005" md5="6de9913a6f672e041b77fc953debd050" sha1="7dc2e02ab82f83a8fec72044b733e9e0615e2d7d"/>
 	</game>
 	<game name="APC - Issue 423 (2015)(Future Publishing)(AU)[xmas edition]">
 		<description>APC - Issue 423 (2015)(Future Publishing)(AU)[xmas edition]</description>
-		<rom name="APC - Issue 423 (2015)(Future Publishing)(AU)[xmas edition].pdf" size="46944958" crc="3491708a" sha1="85d52c9b979fa9414caf6179c2b278e6271dc41d" md5="6dee477646c07e52ff9c57d351b32b3b"/>
+		<rom name="APC - Issue 423 (2015)(Future Publishing)(AU)[xmas edition].pdf" size="46944958" crc="3491708a" md5="6dee477646c07e52ff9c57d351b32b3b" sha1="85d52c9b979fa9414caf6179c2b278e6271dc41d"/>
 	</game>
 	<game name="APC - Issue 424 (2016-01)(Future Publishing)(AU)">
 		<description>APC - Issue 424 (2016-01)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 424 (2016-01)(Future Publishing)(AU).pdf" size="47841697" crc="f41941eb" sha1="efa51517b38e3e09fc2aed57c7be18cca85eb947" md5="cdf64bc39113328c0ccb4d629fbc3b44"/>
+		<rom name="APC - Issue 424 (2016-01)(Future Publishing)(AU).pdf" size="47841697" crc="f41941eb" md5="cdf64bc39113328c0ccb4d629fbc3b44" sha1="efa51517b38e3e09fc2aed57c7be18cca85eb947"/>
+	</game>
+	<game name="APC - Issue 426 (2016-03)(Future Publishing)(AU)">
+		<description>APC - Issue 426 (2016-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 426 (2016-03)(Future Publishing)(AU).pdf" size="199685245" crc="6a044382" md5="00a0ffae5f47e235df9bcd94c0a7a91d" sha1="192588a125a0bbf5062f7246c94a3605759309aa"/>
+	</game>
+	<game name="APC - Issue 430 (2016-07)(Future Publishing)(AU)">
+		<description>APC - Issue 430 (2016-07)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 430 (2016-07)(Future Publishing)(AU).pdf" size="198146237" crc="feabeef2" md5="c8844e39db926a3565c79e01bf7c529a" sha1="cc770c75259344f3d05fdbc201c629b68f9defa8"/>
 	</game>
 	<game name="APC - Issue 431 (2016-08)(Future Publishing)(AU)">
 		<description>APC - Issue 431 (2016-08)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 431 (2016-08)(Future Publishing)(AU).pdf" size="33505215" crc="e9c03cc1" sha1="87b3b69d2a25a92bb9ec8e33c66df0babc552c17" md5="c33605ff773c94d6d5f4f89fa867b481"/>
+		<rom name="APC - Issue 431 (2016-08)(Future Publishing)(AU).pdf" size="33505215" crc="e9c03cc1" md5="c33605ff773c94d6d5f4f89fa867b481" sha1="87b3b69d2a25a92bb9ec8e33c66df0babc552c17"/>
+	</game>
+	<game name="APC - Issue 432 (2016-09)(Future Publishing)(AU)">
+		<description>APC - Issue 432 (2016-09)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 432 (2016-09)(Future Publishing)(AU).pdf" size="35963403" crc="cb3653f6" md5="051935dc4f520da1d2cf90b5cabca795" sha1="7dac9cc7ebc5dcb7c98884052d237c643ac39680"/>
 	</game>
 	<game name="APC - Issue 433 (2016-10)(Future Publishing)(AU)">
 		<description>APC - Issue 433 (2016-10)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 433 (2016-10)(Future Publishing)(AU).pdf" size="34373169" crc="070d9b7e" sha1="a50cbfda35c4e5ae6774d87879abfe963f6337a3" md5="2505826083bad37e80c8c4beec89fd07"/>
+		<rom name="APC - Issue 433 (2016-10)(Future Publishing)(AU).pdf" size="34373169" crc="070d9b7e" md5="2505826083bad37e80c8c4beec89fd07" sha1="a50cbfda35c4e5ae6774d87879abfe963f6337a3"/>
 	</game>
 	<game name="APC - Issue 434 (2016-11)(Future Publishing)(AU)">
 		<description>APC - Issue 434 (2016-11)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 434 (2016-11)(Future Publishing)(AU).pdf" size="96791361" crc="12978635" sha1="a1428c313408ff4e8575488a4dcd3f8bd481a6f1" md5="8cf7ab4114fef2dddec20e2e328f9423"/>
+		<rom name="APC - Issue 434 (2016-11)(Future Publishing)(AU).pdf" size="96791361" crc="12978635" md5="8cf7ab4114fef2dddec20e2e328f9423" sha1="a1428c313408ff4e8575488a4dcd3f8bd481a6f1"/>
 	</game>
 	<game name="APC - Issue 435 (2016-12)(Future Publishing)(AU)">
 		<description>APC - Issue 435 (2016-12)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 435 (2016-12)(Future Publishing)(AU).pdf" size="47634243" crc="119d8379" sha1="03ffa9dcdc2b3a39ba1b8506664f8825be2988c8" md5="40951bfb5d4635d6b0b0d4e171f59a6c"/>
+		<rom name="APC - Issue 435 (2016-12)(Future Publishing)(AU).pdf" size="47634243" crc="119d8379" md5="40951bfb5d4635d6b0b0d4e171f59a6c" sha1="03ffa9dcdc2b3a39ba1b8506664f8825be2988c8"/>
 	</game>
 	<game name="APC - Issue 436 (2016)(Future Publishing)(AU)[xmas edition]">
 		<description>APC - Issue 436 (2016)(Future Publishing)(AU)[xmas edition]</description>
-		<rom name="APC - Issue 436 (2016)(Future Publishing)(AU)[xmas edition].pdf" size="73119281" crc="e53f096c" sha1="e6bcb800b064ff5191022e84583e1946e9eb1dc9" md5="860e1f026f38176dff66d09ca9ab2be9"/>
+		<rom name="APC - Issue 436 (2016)(Future Publishing)(AU)[xmas edition].pdf" size="73119281" crc="e53f096c" md5="860e1f026f38176dff66d09ca9ab2be9" sha1="e6bcb800b064ff5191022e84583e1946e9eb1dc9"/>
 	</game>
 	<game name="APC - Issue 437 (2017-01)(Future Publishing)(AU)">
 		<description>APC - Issue 437 (2017-01)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 437 (2017-01)(Future Publishing)(AU).pdf" size="81870631" crc="ed1f15da" sha1="c82674ebd6557db0db06665d88bc205f64152e41" md5="6ba60d94f67a62da385414278862e08b"/>
+		<rom name="APC - Issue 437 (2017-01)(Future Publishing)(AU).pdf" size="81870631" crc="ed1f15da" md5="6ba60d94f67a62da385414278862e08b" sha1="c82674ebd6557db0db06665d88bc205f64152e41"/>
 	</game>
 	<game name="APC - Issue 438 (2017-02)(Future Publishing)(AU)">
 		<description>APC - Issue 438 (2017-02)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 438 (2017-02)(Future Publishing)(AU).pdf" size="57145865" crc="9b48b61b" sha1="ae92b696903449cd94fa7cd5888e6f1ae8cf0793" md5="f75e360ec22a0058ec455426a9003d8c"/>
+		<rom name="APC - Issue 438 (2017-02)(Future Publishing)(AU).pdf" size="57145865" crc="9b48b61b" md5="f75e360ec22a0058ec455426a9003d8c" sha1="ae92b696903449cd94fa7cd5888e6f1ae8cf0793"/>
 	</game>
 	<game name="APC - Issue 439 (2017-03)(Future Publishing)(AU)">
 		<description>APC - Issue 439 (2017-03)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 439 (2017-03)(Future Publishing)(AU).pdf" size="47558121" crc="730c3343" sha1="95f3e413dfad01946a4dce9b00393e572f05b86e" md5="7d87c4a0c78652e497edcf8a9efc6265"/>
+		<rom name="APC - Issue 439 (2017-03)(Future Publishing)(AU).pdf" size="47558121" crc="730c3343" md5="7d87c4a0c78652e497edcf8a9efc6265" sha1="95f3e413dfad01946a4dce9b00393e572f05b86e"/>
 	</game>
 	<game name="APC - Issue 440 (2017-04)(Future Publishing)(AU)">
 		<description>APC - Issue 440 (2017-04)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 440 (2017-04)(Future Publishing)(AU).pdf" size="58966289" crc="4ac19a22" sha1="7381ede0cd7c693ea025cdaf6819f6ed06fdd068" md5="40337916cf23728864518b79a4e136c0"/>
+		<rom name="APC - Issue 440 (2017-04)(Future Publishing)(AU).pdf" size="58966289" crc="4ac19a22" md5="40337916cf23728864518b79a4e136c0" sha1="7381ede0cd7c693ea025cdaf6819f6ed06fdd068"/>
 	</game>
 	<game name="APC - Issue 441 (2017-05)(Future Publishing)(AU)">
 		<description>APC - Issue 441 (2017-05)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 441 (2017-05)(Future Publishing)(AU).pdf" size="69772623" crc="24a5f1b1" sha1="59d3528c92aac1b1bb78dd80e24944f766eb9222" md5="0a8205226b2b612cee16d2d26fb0539b"/>
+		<rom name="APC - Issue 441 (2017-05)(Future Publishing)(AU).pdf" size="69772623" crc="24a5f1b1" md5="0a8205226b2b612cee16d2d26fb0539b" sha1="59d3528c92aac1b1bb78dd80e24944f766eb9222"/>
 	</game>
 	<game name="APC - Issue 442 (2017-06)(Future Publishing)(AU)">
 		<description>APC - Issue 442 (2017-06)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 442 (2017-06)(Future Publishing)(AU).pdf" size="57186873" crc="6387484a" sha1="a14b059b2ceaba5c1e68878dd741d4d0c195edfa" md5="0f06a28a3d039311b69f659351f688c0"/>
+		<rom name="APC - Issue 442 (2017-06)(Future Publishing)(AU).pdf" size="57186873" crc="6387484a" md5="0f06a28a3d039311b69f659351f688c0" sha1="a14b059b2ceaba5c1e68878dd741d4d0c195edfa"/>
 	</game>
 	<game name="APC - Issue 443 (2017-07)(Future Publishing)(AU)">
 		<description>APC - Issue 443 (2017-07)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 443 (2017-07)(Future Publishing)(AU).pdf" size="59549782" crc="6e69916d" sha1="c7509bd62f51d8e919e5c83dc272a7de685dde3e" md5="407e4901590a3e31d400353c35734c06"/>
+		<rom name="APC - Issue 443 (2017-07)(Future Publishing)(AU).pdf" size="59549782" crc="6e69916d" md5="407e4901590a3e31d400353c35734c06" sha1="c7509bd62f51d8e919e5c83dc272a7de685dde3e"/>
 	</game>
 	<game name="APC - Issue 444 (2017-08)(Future Publishing)(AU)">
 		<description>APC - Issue 444 (2017-08)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 444 (2017-08)(Future Publishing)(AU).pdf" size="35700206" crc="c452d1be" sha1="dff3fafec0efc148e36a19e4d191396ce7a5bc47" md5="cd7929736450dc5d47db35df55cca5cd"/>
+		<rom name="APC - Issue 444 (2017-08)(Future Publishing)(AU).pdf" size="35700206" crc="c452d1be" md5="cd7929736450dc5d47db35df55cca5cd" sha1="dff3fafec0efc148e36a19e4d191396ce7a5bc47"/>
 	</game>
 	<game name="APC - Issue 445 (2017-09)(Future Publishing)(AU)">
 		<description>APC - Issue 445 (2017-09)(Future Publishing)(AU)</description>
-		<rom name="APC - Issue 445 (2017-09)(Future Publishing)(AU).pdf" size="31488105" crc="9c6b0ba8" sha1="a000d1bf9122a93c928f86f6f07c0c93a1990844" md5="1c3edf2d6d09b5f8df20ebfb7b130675"/>
+		<rom name="APC - Issue 445 (2017-09)(Future Publishing)(AU).pdf" size="31488105" crc="9c6b0ba8" md5="1c3edf2d6d09b5f8df20ebfb7b130675" sha1="a000d1bf9122a93c928f86f6f07c0c93a1990844"/>
+	</game>
+	<game name="APC - Issue 446 (2017-10)(Future Publishing)(AU)">
+		<description>APC - Issue 446 (2017-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 446 (2017-10)(Future Publishing)(AU).pdf" size="51811729" crc="0c3fb33d" md5="917a7ee62918d1b93750f7da5e2b4477" sha1="fb8f465df1bc045b2105968c2f3cb4ef9095c6d9"/>
+	</game>
+	<game name="APC - Issue 447 (2017-11)(Future Publishing)(AU)">
+		<description>APC - Issue 447 (2017-11)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 447 (2017-11)(Future Publishing)(AU).pdf" size="28051152" crc="92f518ae" md5="532da013a64bf5159d16937a1fbe970d" sha1="f5122b5365a90fb643067c84e37e62557b9c3911"/>
+	</game>
+	<game name="APC - Issue 448 (2017-12)(Future Publishing)(AU)">
+		<description>APC - Issue 448 (2017-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 448 (2017-12)(Future Publishing)(AU).pdf" size="30267243" crc="5943a8f0" md5="d2f21dfdd18e79573ec74cb3ea9b2245" sha1="97a80d3065d6583a831effaa31761a57073e4fdb"/>
+	</game>
+	<game name="APC - Issue 450 (2018-01)(Future Publishing)(AU)">
+		<description>APC - Issue 450 (2018-01)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 450 (2018-01)(Future Publishing)(AU).pdf" size="28867163" crc="c6f98856" md5="3037151d0e8d6ad4099f64df6fb1d7c5" sha1="815a97c3458c5ebe587796f6e88fc2df00de306b"/>
+	</game>
+	<game name="APC - Issue 451 (2018-02)(Future Publishing)(AU)">
+		<description>APC - Issue 451 (2018-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 451 (2018-02)(Future Publishing)(AU).pdf" size="28247969" crc="d92fd681" md5="bf2d59faff9d9203ad42b1b117ec4aee" sha1="48cc4d1aa0ced111fc676cefded4a0ab54f56ff4"/>
+	</game>
+	<game name="APC - Issue 452 (2018-03)(Future Publishing)(AU)">
+		<description>APC - Issue 452 (2018-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 452 (2018-03)(Future Publishing)(AU).pdf" size="26699612" crc="01530c1b" md5="18e9d8919dfdf6b805f2d39e6251439d" sha1="baba24b8d34350e244f81b5ac700d2f91048b7e1"/>
+	</game>
+	<game name="APC - Issue 453 (2018-04)(Future Publishing)(AU)">
+		<description>APC - Issue 453 (2018-04)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 453 (2018-04)(Future Publishing)(AU).pdf" size="15552909" crc="5d59eca3" md5="82f91647038d9957c32dfaaf2a0cfa58" sha1="9d549945aab17cdef368f01052d10ab63d732697"/>
+	</game>
+	<game name="APC - Issue 454 (2018-05)(Future Publishing)(AU)">
+		<description>APC - Issue 454 (2018-05)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 454 (2018-05)(Future Publishing)(AU).pdf" size="15130047" crc="999b711d" md5="17da950fd455daa5ee6d254c84d8236d" sha1="7c833982e09f48b311240fd107fd1e4001141321"/>
+	</game>
+	<game name="APC - Issue 455 (2018-06)(Future Publishing)(AU)">
+		<description>APC - Issue 455 (2018-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 455 (2018-06)(Future Publishing)(AU).pdf" size="15416772" crc="c4dd1ba6" md5="5b940d5a0d5d1a09cde91a8af1b871aa" sha1="7f3e341cf92c795a45a44b46cef12ca4c0dea874"/>
+	</game>
+	<game name="APC - Issue 456 (2018-07)(Future Publishing)(AU)">
+		<description>APC - Issue 456 (2018-07)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 456 (2018-07)(Future Publishing)(AU).pdf" size="15094726" crc="a12d4a3a" md5="0902b9ee8900c7636dd6c66b9e68050c" sha1="b5fff3a15c6c038de590c3d9b374ba0b5a1d0b98"/>
+	</game>
+	<game name="APC - Issue 457 (2018-08)(Future Publishing)(AU)">
+		<description>APC - Issue 457 (2018-08)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 457 (2018-08)(Future Publishing)(AU).pdf" size="12575301" crc="38ebfa79" md5="a96c253a97abe771331df4dd3cc2397a" sha1="e5343f6ce9ef59cc9c2442832c55d47d844157b7"/>
+	</game>
+	<game name="APC - Issue 458 (2018-09)(Future Publishing)(AU)">
+		<description>APC - Issue 458 (2018-09)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 458 (2018-09)(Future Publishing)(AU).pdf" size="12378507" crc="f9676333" md5="13aeedc43877488c87b856807ca6ce12" sha1="64b1085ca705fef1cb4c5d1fb66c551ff4daddf8"/>
+	</game>
+	<game name="APC - Issue 459 (2018-10)(Future Publishing)(AU)">
+		<description>APC - Issue 459 (2018-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 459 (2018-10)(Future Publishing)(AU).pdf" size="12188401" crc="3bb9e0d5" md5="a3b86e9dae4d23f0db2f8c2223b480f4" sha1="f85817fa761b1e1c61602e85ffe1c18d98f6f125"/>
+	</game>
+	<game name="APC - Issue 460 (2018-11)(Future Publishing)(AU)">
+		<description>APC - Issue 460 (2018-11)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 460 (2018-11)(Future Publishing)(AU).pdf" size="15475533" crc="22f8e621" md5="272728ba52e6f85e95630d1216f3e7b9" sha1="0f1e3100e905737c20e29a24017ce7b39439c660"/>
+	</game>
+	<game name="APC - Issue 461 (2018-12)(Future Publishing)(AU)">
+		<description>APC - Issue 461 (2018-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 461 (2018-12)(Future Publishing)(AU).pdf" size="13914982" crc="ae99c3d9" md5="9a460bb0deb2118f4593107f4645ac4e" sha1="5565e46992558b02fe49067e623cde482ed2f2d1"/>
+	</game>
+	<game name="APC - Issue 463 (2019-01)(Future Publishing)(AU)">
+		<description>APC - Issue 463 (2019-01)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 463 (2019-01)(Future Publishing)(AU).pdf" size="43091015" crc="31275d79" md5="a4c625bdebd30a886101b1b7997c1db5" sha1="8773bc2225481de5e70c794499a41f40727cde54"/>
+	</game>
+	<game name="APC - Issue 464 (2019-02)(Future Publishing)(AU)">
+		<description>APC - Issue 464 (2019-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 464 (2019-02)(Future Publishing)(AU).pdf" size="43218473" crc="360a1780" md5="b5d1ec69d2b58716459cfe1820c5c63f" sha1="7d0cc09f31805608eb5156d33e127296f98140bf"/>
+	</game>
+	<game name="APC - Issue 465 (2019-03)(Future Publishing)(AU)">
+		<description>APC - Issue 465 (2019-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 465 (2019-03)(Future Publishing)(AU).pdf" size="42307642" crc="d2663447" md5="3a216460fd090ef92cf34df26c85bfc8" sha1="82555fe1afb6f172156bde9ef6fb40dfe475d74b"/>
+	</game>
+	<game name="APC - Issue 466 (2019-04)(Future Publishing)(AU)">
+		<description>APC - Issue 466 (2019-04)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 466 (2019-04)(Future Publishing)(AU).pdf" size="42348021" crc="183f998e" md5="27b580157d5929eb882e0f2a6442a3d8" sha1="71c2a70a918b88f12af4c03875e7eb602d578101"/>
+	</game>
+	<game name="APC - Issue 467 (2019-05)(Future Publishing)(AU)">
+		<description>APC - Issue 467 (2019-05)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 467 (2019-05)(Future Publishing)(AU).pdf" size="43466776" crc="45425696" md5="b856746c0ea22f2331daee034c8d0f5c" sha1="3b0282658f3c204df425b9fc8d3edaf061f42c2c"/>
+	</game>
+	<game name="APC - Issue 468 (2019-06)(Future Publishing)(AU)">
+		<description>APC - Issue 468 (2019-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 468 (2019-06)(Future Publishing)(AU).pdf" size="46607270" crc="2dd62bfb" md5="7a7daa8764a6392e3d93829c18295032" sha1="71f9beda8ca4b4394baa128ad62623fff0492272"/>
+	</game>
+	<game name="APC - Issue 469 (2019-07)(Future Publishing)(AU)">
+		<description>APC - Issue 469 (2019-07)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 469 (2019-07)(Future Publishing)(AU).pdf" size="45646087" crc="c64d91da" md5="9e87c1ded75649c7cdb8916a3c6078ee" sha1="a553663b4ab23012681e5212c577e3589eb7a37e"/>
+	</game>
+	<game name="APC - Issue 470 (2019-08)(Future Publishing)(AU)">
+		<description>APC - Issue 470 (2019-08)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 470 (2019-08)(Future Publishing)(AU).pdf" size="48444310" crc="19b2328e" md5="20f0ce7f6a39baad13fadb1031443531" sha1="42b267ad477f33b17b0a261bb11bf4bcdfdd2307"/>
+	</game>
+	<game name="APC - Issue 471 (2019-09)(Future Publishing)(AU)">
+		<description>APC - Issue 471 (2019-09)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 471 (2019-09)(Future Publishing)(AU).pdf" size="47889331" crc="0b88df54" md5="6e3240c35890a5c698d17d41fce05310" sha1="bcccb8063107529a12ae084c8132c637b40a629d"/>
+	</game>
+	<game name="APC - Issue 472 (2019-10)(Future Publishing)(AU)">
+		<description>APC - Issue 472 (2019-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 472 (2019-10)(Future Publishing)(AU).pdf" size="45597107" crc="bb62457d" md5="676eb21b0f739c5509b70677600c5a3b" sha1="d44687ed57158e223b8fe6adb16a1759d06d20fd"/>
+	</game>
+	<game name="APC - Issue 474 (2019-12)(Future Publishing)(AU)">
+		<description>APC - Issue 474 (2019-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 474 (2019-12)(Future Publishing)(AU).pdf" size="44504496" crc="976a006c" md5="1879af0ff7ef8bd0de777b7787b2f84b" sha1="f6623cc93acbc221b3f61741cd48c06d9fa4db9d"/>
+	</game>
+	<game name="APC - Issue 475 (2019)(Future Publishing)(AU)[xmas edition]">
+		<description>APC - Issue 475 (2019)(Future Publishing)(AU)[xmas edition]</description>
+		<rom name="APC - Issue 475 (2019)(Future Publishing)(AU)[xmas edition].pdf" size="128476953" crc="75885527" md5="a8e08cbaccfe4113de690418d2e04c25" sha1="cb8308ad8ff569d02f3d3dd6f24cb40c20cce2b0"/>
+	</game>
+	<game name="APC - Issue 477 (2020-02)(Future Publishing)(AU)">
+		<description>APC - Issue 477 (2020-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 477 (2020-02)(Future Publishing)(AU).pdf" size="57171466" crc="66fd046a" md5="4cb69c007da1d37041501a617b8707e9" sha1="be11cd3f9e2852ed0b1f3610f1df907c85a039e7"/>
+	</game>
+	<game name="APC - Issue 478 (2020-03)(Future Publishing)(AU)">
+		<description>APC - Issue 478 (2020-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 478 (2020-03)(Future Publishing)(AU).pdf" size="40892546" crc="1d512674" md5="0c2751551ec6aad16bf8854e756bea47" sha1="c94cb9ba34451ee22ee2c1f8109eb952d630ce43"/>
+	</game>
+	<game name="APC - Issue 479 (2020-04)(Future Publishing)(AU)">
+		<description>APC - Issue 479 (2020-04)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 479 (2020-04)(Future Publishing)(AU).pdf" size="43381016" crc="6629935d" md5="3756a133d8a54448cf3ba866c2ea9dae" sha1="5c7effbf61fa7f1379634192dbfc2d06f1d4f67c"/>
+	</game>
+	<game name="APC - Issue 480 (2020-05)(Future Publishing)(AU)">
+		<description>APC - Issue 480 (2020-05)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 480 (2020-05)(Future Publishing)(AU).pdf" size="41831295" crc="c6b5327b" md5="e7172b5c9e2e62691d920491c802ace0" sha1="eda47195bbaf87b14036aa86f90f3d0bf7296061"/>
+	</game>
+	<game name="APC - Issue 481 (2020-06)(Future Publishing)(AU)">
+		<description>APC - Issue 481 (2020-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 481 (2020-06)(Future Publishing)(AU).pdf" size="43706698" crc="00405af9" md5="253ec3143ccd2ac97784618a5b499762" sha1="2b02ed4fca65321f36e09e2716e88684a91c63fe"/>
+	</game>
+	<game name="APC - Issue 482 (2020-07)(Future Publishing)(AU)">
+		<description>APC - Issue 482 (2020-07)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 482 (2020-07)(Future Publishing)(AU).pdf" size="38273758" crc="b821b3b2" md5="3ba2400bcb6618c8b18d9dd2c71654c9" sha1="9ccd7a6b2c3a3a550a86e1cbfe10f5b717152b1f"/>
+	</game>
+	<game name="APC - Issue 483 (2020-08)(Future Publishing)(AU)">
+		<description>APC - Issue 483 (2020-08)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 483 (2020-08)(Future Publishing)(AU).pdf" size="37574382" crc="f34d372c" md5="63a4ec1eec786621f1c67314d5585972" sha1="e630d4ebe78dc06ea87a3940c3572beb44102b7d"/>
+	</game>
+	<game name="APC - Issue 484 (2020-09)(Future Publishing)(AU)">
+		<description>APC - Issue 484 (2020-09)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 484 (2020-09)(Future Publishing)(AU).pdf" size="41049856" crc="0cb41183" md5="fe2fe3d0e6c0ede4c0ccc11806b52067" sha1="629ed766a5839d5b42412743afc6340becc6cf55"/>
+	</game>
+	<game name="APC - Issue 485 (2020-10)(Future Publishing)(AU)">
+		<description>APC - Issue 485 (2020-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 485 (2020-10)(Future Publishing)(AU).pdf" size="28653680" crc="8f8e962c" md5="dc5df9b8b655d2d90474a0546510c931" sha1="214dccf4bacbc8ce7d8d4e9c6e75f8baecec5e0b"/>
+	</game>
+	<game name="APC - Issue 486 (2020-11)(Future Publishing)(AU)">
+		<description>APC - Issue 486 (2020-11)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 486 (2020-11)(Future Publishing)(AU).pdf" size="32981312" crc="ac8de435" md5="248b5ab2bab19dc4b97a485baaf5c62c" sha1="9f1dfc769db7fe3b4789b0095a65e8c3e36f0790"/>
+	</game>
+	<game name="APC - Issue 487 (2020-12)(Future Publishing)(AU)">
+		<description>APC - Issue 487 (2020-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 487 (2020-12)(Future Publishing)(AU).pdf" size="117429937" crc="0e7bf09c" md5="cefe08e4b5a3d10443b101f8bdb61d82" sha1="e3bb3bded28a27f1448479380c10e9674f4d5c48"/>
+	</game>
+	<game name="APC - Issue 489 (2021-01)(Future Publishing)(AU)">
+		<description>APC - Issue 489 (2021-01)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 489 (2021-01)(Future Publishing)(AU).pdf" size="30438491" crc="701e804b" md5="f9d9924c9cee8b78197e79d931a86102" sha1="870454b18ad85479854a14376d499dfaa9c5e6e1"/>
+	</game>
+	<game name="APC - Issue 490 (2021-02)(Future Publishing)(AU)">
+		<description>APC - Issue 490 (2021-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 490 (2021-02)(Future Publishing)(AU).pdf" size="52272457" crc="180eff5a" md5="5ecab9a6cf2f8646eb85cce2e857a7a4" sha1="2889ea154574fd72aad9cb46be65beec5da788aa"/>
+	</game>
+	<game name="APC - Issue 491 (2021-03)(Future Publishing)(AU)">
+		<description>APC - Issue 491 (2021-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 491 (2021-03)(Future Publishing)(AU).pdf" size="29905838" crc="fa2bfd2d" md5="389705605e99954ff75bec12c8f720ea" sha1="0e7a015cf61e696b30c8c4add25e00cb3249b196"/>
+	</game>
+	<game name="APC - Issue 494 (2021-06)(Future Publishing)(AU)">
+		<description>APC - Issue 494 (2021-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 494 (2021-06)(Future Publishing)(AU).pdf" size="127071432" crc="f865c3a2" md5="edf80c48f363cf48b04aeb76ec094f78" sha1="063ae902425b1f0df7f1943d8cc11d5f0b836f53"/>
+	</game>
+	<game name="APC - Issue 497 (2021-09)(Future Publishing)(AU)">
+		<description>APC - Issue 497 (2021-09)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 497 (2021-09)(Future Publishing)(AU).pdf" size="57923239" crc="6d88d984" md5="4af8716fd94d35c0bd439122d23fbc02" sha1="61f5936073a2d1873e21fa760c4ff344f2c26337"/>
+	</game>
+	<game name="APC - Issue 498 (2021-10)(Future Publishing)(AU)">
+		<description>APC - Issue 498 (2021-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 498 (2021-10)(Future Publishing)(AU).pdf" size="63976248" crc="b890d154" md5="b2c24c1dce43549b11addcb34060e69d" sha1="db9ff2cd766c7a04fcf41df8fbc14474ad502f85"/>
+	</game>
+	<game name="APC - Issue 499 (2021-11)(Future Publishing)(AU)">
+		<description>APC - Issue 499 (2021-11)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 499 (2021-11)(Future Publishing)(AU).pdf" size="61643650" crc="9fb63a29" md5="025bb72ded13a24fb858354933dea25c" sha1="9ca6e253f4d4da0812537a3ae7921aefbe34e00d"/>
+	</game>
+	<game name="APC - Issue 500 (2021-12)(Future Publishing)(AU)">
+		<description>APC - Issue 500 (2021-12)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 500 (2021-12)(Future Publishing)(AU).pdf" size="139357449" crc="8ccccd5c" md5="ea0370653fb8d37a9c2d03402da75aa5" sha1="75214f93b3dbffc36427b3570017d434af9649db"/>
+	</game>
+	<game name="APC - Issue 501 (2021)(Future Publishing)(AU)[christmas edition]">
+		<description>APC - Issue 501 (2021)(Future Publishing)(AU)[christmas edition]</description>
+		<rom name="APC - Issue 501 (2021)(Future Publishing)(AU)[christmas edition].pdf" size="60056325" crc="8a3d9d2b" md5="53bb4087edf2eec3b3317350f77c700a" sha1="588d0d245e0c0b78b99e43cdcd64cf2d16e4cc5c"/>
+	</game>
+	<game name="APC - Issue 502 (2022-01)(Future Publishing)(AU)">
+		<description>APC - Issue 502 (2022-01)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 502 (2022-01)(Future Publishing)(AU).pdf" size="128995900" crc="9c9201d1" md5="36d077822697ff15dc7ce6975360a650" sha1="aa04c589ec8883b89ee4fe28b0a9ad02b640d566"/>
+	</game>
+	<game name="APC - Issue 503 (2022-02)(Future Publishing)(AU)">
+		<description>APC - Issue 503 (2022-02)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 503 (2022-02)(Future Publishing)(AU).pdf" size="128293641" crc="93e9ccb7" md5="80b86f10ba91cc008259511f23663668" sha1="4e71eecd3b6471f6d61010e7190dc1977af1b1da"/>
+	</game>
+	<game name="APC - Issue 504 (2022-03)(Future Publishing)(AU)">
+		<description>APC - Issue 504 (2022-03)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 504 (2022-03)(Future Publishing)(AU).pdf" size="134271920" crc="9c942a33" md5="3f1ede83e4db5a213f3996a5e3c057e7" sha1="78f243841d61b07f9bd2e1ebcc9329b4abc7d008"/>
+	</game>
+	<game name="APC - Issue 505 (2022-04)(Future Publishing)(AU)">
+		<description>APC - Issue 505 (2022-04)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 505 (2022-04)(Future Publishing)(AU).pdf" size="47677755" crc="1b1f6206" md5="b89383de5a609e6043004dc860aad0cb" sha1="946c6babe7b0bff070994d8c9ab5c07d65ec241b"/>
+	</game>
+	<game name="APC - Issue 506 (2022-05)(Future Publishing)(AU)">
+		<description>APC - Issue 506 (2022-05)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 506 (2022-05)(Future Publishing)(AU).pdf" size="128393692" crc="c58672e4" md5="57d61369146b3a2f2147e5a464f1ae71" sha1="aeda51ad74bd9a3daa06b3b58f937251bb293ad4"/>
+	</game>
+	<game name="APC - Issue 507 (2022-06)(Future Publishing)(AU)">
+		<description>APC - Issue 507 (2022-06)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 507 (2022-06)(Future Publishing)(AU).pdf" size="125294624" crc="c7dfb594" md5="f1fa3ae3a405a85c2d7150e772713b32" sha1="2eecd0e9ad4b3b9983f62d679c996a65d373474a"/>
+	</game>
+	<game name="APC - Issue 509 (2022-08)(Future Publishing)(AU)">
+		<description>APC - Issue 509 (2022-08)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 509 (2022-08)(Future Publishing)(AU).pdf" size="74625460" crc="935fced3" md5="2e7ba39b68b6b7163d2ff1eecfbc2cac" sha1="2c2c371dca80aeeb88cd182233c5757f119f5e27"/>
+	</game>
+	<game name="APC - Issue 511 (2022-10)(Future Publishing)(AU)">
+		<description>APC - Issue 511 (2022-10)(Future Publishing)(AU)</description>
+		<rom name="APC - Issue 511 (2022-10)(Future Publishing)(AU).pdf" size="70999887" crc="600b169e" md5="89bbb58fb5a42ad74b46decd346b8053" sha1="aa19e4409c845d14a772cd6b9902709b7ebde541"/>
+	</game>
+	<game name="APC - Vol 25 No 05 (2005-05)(ACP Publishing)(AU)">
+		<description>APC - Vol 25 No 05 (2005-05)(ACP Publishing)(AU)</description>
+		<rom name="APC - Vol 25 No 05 (2005-05)(ACP Publishing)(AU).pdf" size="376818736" crc="9250052d" md5="f1096c33b48fca3cb92ab2e50fcd1a2c" sha1="28ae52f47cf8dad1c38fa630569a8247de3b0588"/>
+	</game>
+	<game name="APC - Vol 25 No 07 (2005-07)(ACP Publishing)(AU)">
+		<description>APC - Vol 25 No 07 (2005-07)(ACP Publishing)(AU)</description>
+		<rom name="APC - Vol 25 No 07 (2005-07)(ACP Publishing)(AU).pdf" size="363649041" crc="128ac050" md5="0761ae1bafdf8b428917f6610ac4b88b" sha1="7d6c75fdbce2f59156a4e396b27936ebd8ed33c4"/>
+	</game>
+	<game name="APC - Vol 25 No 08 (2005-08)(ACP Publishing)(AU)">
+		<description>APC - Vol 25 No 08 (2005-08)(ACP Publishing)(AU)</description>
+		<rom name="APC - Vol 25 No 08 (2005-08)(ACP Publishing)(AU).pdf" size="476218477" crc="df85aa24" md5="6c4a0d7a76df9ba858ef43b1294d88a5" sha1="b4f2256432ffff0b48d2001ddf05cef8867a95bc"/>
+	</game>
+	<game name="APC - Vol 25 No 10 (2005-10)(ACP Publishing)(AU)">
+		<description>APC - Vol 25 No 10 (2005-10)(ACP Publishing)(AU)</description>
+		<rom name="APC - Vol 25 No 10 (2005-10)(ACP Publishing)(AU).pdf" size="372411914" crc="dae0f916" md5="1d627785b880d1dd5c83c78f481f28a5" sha1="cd5455111afe7b10c6405815936509a6493031a1"/>
+	</game>
+	<game name="APC - Vol 25 No 11 (2005-11)(ACP Publishing)(AU)">
+		<description>APC - Vol 25 No 11 (2005-11)(ACP Publishing)(AU)</description>
+		<rom name="APC - Vol 25 No 11 (2005-11)(ACP Publishing)(AU).pdf" size="406714767" crc="63fe8073" md5="7114a3390bcde301f87c48aa093da54d" sha1="8b7b948f7e6fb9ae6c874f0fa81d5fb0b2813449"/>
+	</game>
+	<game name="APC - Vol 26 No 01 (2006-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 01 (2006-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 01 (2006-01)(ACP Magazines)(AU).pdf" size="405871148" crc="4eb6969b" md5="7a839381ef46f35ce15bc6bcfa2af08c" sha1="ed5ae51c3a931b6fba830f944010025ae061e1b7"/>
+	</game>
+	<game name="APC - Vol 26 No 02 (2006-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 02 (2006-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 02 (2006-02)(ACP Magazines)(AU).pdf" size="395934201" crc="68b34b57" md5="9ba54e3333d216302da0eb4872a47f25" sha1="ac13b27f34d6d6ffa27c715bdf8f4d8d5e81fc2e"/>
+	</game>
+	<game name="APC - Vol 26 No 03 (2006-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 03 (2006-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 03 (2006-03)(ACP Magazines)(AU).pdf" size="396799022" crc="0d3dde64" md5="4a7d3529425ace95221c6dcb8a8c094d" sha1="283552d50dc8b15429d15abddd664ebb83f93e2c"/>
+	</game>
+	<game name="APC - Vol 26 No 04 (2006-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 04 (2006-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 04 (2006-04)(ACP Magazines)(AU).pdf" size="474757558" crc="dfb8bef0" md5="3f925fd87fffed57d30947abe3b40bdf" sha1="93306f6795473e5fd8dcf37e6807392ddb783a87"/>
+	</game>
+	<game name="APC - Vol 26 No 05 (2006-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 05 (2006-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 05 (2006-05)(ACP Magazines)(AU).pdf" size="394502994" crc="b01c71a5" md5="04e6b1eab42a9a523764e35562e369e5" sha1="4553397edc61736b482ca9f47dade855edb5dba3"/>
+	</game>
+	<game name="APC - Vol 26 No 06 (2006-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 06 (2006-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 06 (2006-06)(ACP Magazines)(AU).pdf" size="509792117" crc="4fc84303" md5="3121bf41cd08dcb3ed1190a5197454ce" sha1="259390d79d7776d0b37800653dcc4d524ab69d1a"/>
+	</game>
+	<game name="APC - Vol 26 No 06 (2006-06)(ACP Magazines)(AU)[a]">
+		<description>APC - Vol 26 No 06 (2006-06)(ACP Magazines)(AU)[a]</description>
+		<rom name="APC - Vol 26 No 06 (2006-06)(ACP Magazines)(AU)[a].pdf" size="475271673" crc="bca11102" md5="03295c616a8e964f16cb2b835aea65a0" sha1="7f92f3085f49f549c7ada21b6b4e4b89fa9479ca"/>
+	</game>
+	<game name="APC - Vol 26 No 07 (2006-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 07 (2006-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 07 (2006-07)(ACP Magazines)(AU).pdf" size="375158398" crc="a20a0eb5" md5="1dc6130dc08efade45745f9416779f19" sha1="5f1eb37a15ed9c6fc31667acffa644f99c670bd3"/>
+	</game>
+	<game name="APC - Vol 26 No 08 (2006-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 08 (2006-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 08 (2006-08)(ACP Magazines)(AU).pdf" size="369313649" crc="e50ed95e" md5="0221e75518225682e6d47dfcbcea112c" sha1="a4d668c3c536340a058963d0b271304b4769d4b6"/>
+	</game>
+	<game name="APC - Vol 26 No 09 (2006-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 09 (2006-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 09 (2006-09)(ACP Magazines)(AU).pdf" size="364607913" crc="dac1097b" md5="cb8c46a91c0fdd9d5e1e9a62a8ffc09e" sha1="b337d514b1b5d43d48c41b2e4266a698844f5e88"/>
+	</game>
+	<game name="APC - Vol 26 No 10 (2006-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 10 (2006-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 10 (2006-10)(ACP Magazines)(AU).pdf" size="373596762" crc="fe348c17" md5="49849964767530c5b6a33d9001b04006" sha1="2bc71cb1a6e4578589b03a33b71c04aa27e59ab7"/>
+	</game>
+	<game name="APC - Vol 26 No 12 (2006-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 26 No 12 (2006-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 26 No 12 (2006-12)(ACP Magazines)(AU).pdf" size="377176766" crc="19da4d6f" md5="93e37b207681607d0252b241ebe2ce51" sha1="1b3c2341292e0dc75afea386ffed3f98dfc3673b"/>
+	</game>
+	<game name="APC - Vol 27 No 01 (2007-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 01 (2007-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 01 (2007-01)(ACP Magazines)(AU).pdf" size="366019956" crc="3445a6a7" md5="3d1a06430ab358e01656f8ab7a3f6939" sha1="7a32be7800dbb35635994c34744b987b5baff3ed"/>
+	</game>
+	<game name="APC - Vol 27 No 02 (2007-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 02 (2007-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 02 (2007-02)(ACP Magazines)(AU).pdf" size="238352975" crc="a406e0ac" md5="5e717713f4c204be9c19878699726e12" sha1="f556ea5fbb039d7d87708a77e11be7f3aab564d0"/>
+	</game>
+	<game name="APC - Vol 27 No 03 (2007-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 03 (2007-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 03 (2007-03)(ACP Magazines)(AU).pdf" size="341683585" crc="6f585a4d" md5="e8a89ee0f90189bc4b4f2c898ffa8526" sha1="5043ca648bf5156c93fcd0faa2ad6e56c336fab0"/>
+	</game>
+	<game name="APC - Vol 27 No 04 (2007-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 04 (2007-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 04 (2007-04)(ACP Magazines)(AU).pdf" size="364825371" crc="43d246e1" md5="133d8b0dad01b99a99baff2c6731ae84" sha1="1f766f68cece1f42c86fb85c033668ac95f5cbe8"/>
+	</game>
+	<game name="APC - Vol 27 No 05 (2007-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 05 (2007-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 05 (2007-05)(ACP Magazines)(AU).pdf" size="346242768" crc="edfc0bbe" md5="f51a80a6822c6d8bd740b01c46216601" sha1="de388414892e8462b08c371e497c9bbe09a6a898"/>
+	</game>
+	<game name="APC - Vol 27 No 06 (2007-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 06 (2007-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 06 (2007-06)(ACP Magazines)(AU).pdf" size="379105190" crc="6348ad6a" md5="9927b8efb3ccb8adc2d1c22f692af37b" sha1="a74731a1230acd097ed6072d02ea8affc7bf227b"/>
+	</game>
+	<game name="APC - Vol 27 No 07 (2007-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 07 (2007-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 07 (2007-07)(ACP Magazines)(AU).pdf" size="349993045" crc="15a5758f" md5="bdf07b0150476366d76e81d3e0af65e1" sha1="2dc70b7cc3a5079c6bd6c59752c53db6437e77e4"/>
+	</game>
+	<game name="APC - Vol 27 No 08 (2007-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 08 (2007-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 08 (2007-08)(ACP Magazines)(AU).pdf" size="232885285" crc="0ecffb0d" md5="da8bc8e0a50faf4ebc1ad3ee252634b0" sha1="777b1119ee13a9de86a663994c2be1de35d0d7b3"/>
+	</game>
+	<game name="APC - Vol 27 No 09 (2007-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 09 (2007-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 09 (2007-09)(ACP Magazines)(AU).pdf" size="274254769" crc="e4d724b8" md5="5111e51528d7d8229bec8961643ccaf3" sha1="4e90dffc2dc239e3babf41a24887e86be4015be7"/>
+	</game>
+	<game name="APC - Vol 27 No 10 (2007-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 10 (2007-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 10 (2007-10)(ACP Magazines)(AU).pdf" size="242865990" crc="a4880549" md5="23463d718318bcd9401621f3ed373370" sha1="e2c0799badce51f7acab0011c24e951a1e8fe555"/>
+	</game>
+	<game name="APC - Vol 27 No 11 (2007-11)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 11 (2007-11)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 11 (2007-11)(ACP Magazines)(AU).pdf" size="332999736" crc="2ac2acd2" md5="9e3ebd7afa9075b373dd353434ffb693" sha1="187ac2ee8824e0651241e9e295b02f02c774012c"/>
+	</game>
+	<game name="APC - Vol 27 No 12 (2007-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 27 No 12 (2007-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 27 No 12 (2007-12)(ACP Magazines)(AU).pdf" size="336413488" crc="a9689b42" md5="a283bf9cfe835d1e9cbb0d980bd23a44" sha1="452e5f8d93c3841d25730ee3fc0b95dac9285bc6"/>
+	</game>
+	<game name="APC - Vol 27 No 12 (2007-12)(ACP Magazines)(AU)[a]">
+		<description>APC - Vol 27 No 12 (2007-12)(ACP Magazines)(AU)[a]</description>
+		<rom name="APC - Vol 27 No 12 (2007-12)(ACP Magazines)(AU)[a].pdf" size="334596176" crc="c0055fb6" md5="799816c4b44d71d45c5f065ac115d74a" sha1="a8ce0a5cbb650f2ba0e4617dee23e0362db9b25e"/>
+	</game>
+	<game name="APC - Vol 28 No 01 (2008-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 01 (2008-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 01 (2008-01)(ACP Magazines)(AU).pdf" size="447253935" crc="8677fcc3" md5="ebf4edea8bcd79970c95e22b22b345e4" sha1="e0e97f53262da5adf80b732747b16c0bd58cc872"/>
+	</game>
+	<game name="APC - Vol 28 No 02 (2008-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 02 (2008-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 02 (2008-02)(ACP Magazines)(AU).pdf" size="235399406" crc="8e296aa4" md5="015341e4184885aea2fddc00a42fbcab" sha1="2be179ed8bb2671861fd345d19e0f695ca968b9c"/>
+	</game>
+	<game name="APC - Vol 28 No 03 (2008-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 03 (2008-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 03 (2008-03)(ACP Magazines)(AU).pdf" size="324842472" crc="a1ee7471" md5="2acf12be0dcf0b44c7e6b437c26b8a78" sha1="fce94e28f5c2c68dc20565a4dc354e0d97048942"/>
+	</game>
+	<game name="APC - Vol 28 No 04 (2008-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 04 (2008-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 04 (2008-04)(ACP Magazines)(AU).pdf" size="358357021" crc="a6b110ad" md5="59ae927c37118077ef20f9303c4f96d4" sha1="18c7746a9f4dfe1ca1c3a7490d98a9e4800836f9"/>
+	</game>
+	<game name="APC - Vol 28 No 05 (2008-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 05 (2008-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 05 (2008-05)(ACP Magazines)(AU).pdf" size="240036891" crc="a834e291" md5="2f6a335237df91088679416342da5762" sha1="aea715665be45dfb1c96a9f2621ab1dd5d9d9396"/>
+	</game>
+	<game name="APC - Vol 28 No 06 (2008-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 06 (2008-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 06 (2008-06)(ACP Magazines)(AU).pdf" size="335818493" crc="4393a278" md5="fe1fbd9d362f39a27804034164c4e022" sha1="67ac919be34f134cae8937b58168975b83b02299"/>
+	</game>
+	<game name="APC - Vol 28 No 07 (2008-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 07 (2008-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 07 (2008-07)(ACP Magazines)(AU).pdf" size="237541209" crc="ab9004d7" md5="9ed0ca31e4d35e724a2752eb42bfc77e" sha1="19b61f0590c8fcdc363306616cd79d600398208b"/>
+	</game>
+	<game name="APC - Vol 28 No 08 (2008-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 08 (2008-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 08 (2008-08)(ACP Magazines)(AU).pdf" size="334474020" crc="c5cf47c1" md5="e6e004d0bb83c9531be11c8778d10de5" sha1="cf13f4bab25a68f908459119c960246246671f29"/>
+	</game>
+	<game name="APC - Vol 28 No 09 (2008-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 09 (2008-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 09 (2008-09)(ACP Magazines)(AU).pdf" size="273347166" crc="4f296282" md5="c5c8bb1e0c4ed37d22343cdb31457660" sha1="4319df82f6fd82e78a8408e6c11e4ffcdd87da7f"/>
+	</game>
+	<game name="APC - Vol 28 No 10 (2008-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 10 (2008-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 10 (2008-10)(ACP Magazines)(AU).pdf" size="322216965" crc="0f537185" md5="cbc1aa2ba9dfeb61bdca475951c163ca" sha1="d2679cf886e6ff9fd24c9ed790f5cad1588f1402"/>
+	</game>
+	<game name="APC - Vol 28 No 11 (2008-11)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 11 (2008-11)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 11 (2008-11)(ACP Magazines)(AU).pdf" size="275092134" crc="93d7dcae" md5="cc1e73a366f0500238c59a38ceeeb588" sha1="0fe540fa55446c915f8ce757363f1c3e0529a242"/>
+	</game>
+	<game name="APC - Vol 28 No 12 (2008-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 28 No 12 (2008-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 28 No 12 (2008-12)(ACP Magazines)(AU).pdf" size="317955359" crc="da0ce1d8" md5="de7ca671e234b97e5ad0e2ab2674f4d7" sha1="ab79e8adba0cbcb8a806a5524eebeba3bfe87c81"/>
+	</game>
+	<game name="APC - Vol 29 No 01 (2009-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 01 (2009-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 01 (2009-01)(ACP Magazines)(AU).pdf" size="224320243" crc="8e4461f9" md5="1545f143db0460632505ca530dbbe82e" sha1="feb9735f2a069467a4b6d33757c535f2d594bfdc"/>
+	</game>
+	<game name="APC - Vol 29 No 02 (2009-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 02 (2009-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 02 (2009-02)(ACP Magazines)(AU).pdf" size="226961244" crc="92b95d1c" md5="0dcfbcf4c0f197a285d4cae2b4c2ca4c" sha1="7ca3da8e18e1216adaf0859fe0a6e1dc0f3481c4"/>
+	</game>
+	<game name="APC - Vol 29 No 03 (2009-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 03 (2009-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 03 (2009-03)(ACP Magazines)(AU).pdf" size="309987909" crc="89f2113f" md5="b28a1d8952b28991974d9890faf4d1fa" sha1="b144525ce8d8b2c3c23bf3aa7f0f4916499cc0e5"/>
+	</game>
+	<game name="APC - Vol 29 No 04 (2009-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 04 (2009-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 04 (2009-04)(ACP Magazines)(AU).pdf" size="260830366" crc="26af57e4" md5="c44349a7731e99e8cf0a5f1dae711387" sha1="9c469263046017a45342a01bd576fd872d29e38b"/>
+	</game>
+	<game name="APC - Vol 29 No 05 (2009-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 05 (2009-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 05 (2009-05)(ACP Magazines)(AU).pdf" size="227377335" crc="bc46682c" md5="ad7abea0bd4a51544204e6ac42cc6dd6" sha1="ff2fb6fd6a3880f32c6b5fde5473df89bec2c193"/>
+	</game>
+	<game name="APC - Vol 29 No 06 (2009-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 06 (2009-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 06 (2009-06)(ACP Magazines)(AU).pdf" size="257446274" crc="38d29fa6" md5="0831e14fa5cdef535a8995a8ddccb627" sha1="5b4cadb4bcbf3a9700753d06883522aa33156e83"/>
+	</game>
+	<game name="APC - Vol 29 No 07 (2009-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 07 (2009-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 07 (2009-07)(ACP Magazines)(AU).pdf" size="229029415" crc="ad862dcc" md5="81340b59b1c3a1e44ccab816cf6e60ca" sha1="d8e5f934ede3158c8432e0bc4a36344108e20fb2"/>
+	</game>
+	<game name="APC - Vol 29 No 08 (2009-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 08 (2009-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 08 (2009-08)(ACP Magazines)(AU).pdf" size="260451125" crc="e3fb34fb" md5="01becb34116429cc166b61760082f518" sha1="8fa165aaa4f6ce58211a17fb708785e27f942dff"/>
+	</game>
+	<game name="APC - Vol 29 No 09 (2009-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 09 (2009-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 09 (2009-09)(ACP Magazines)(AU).pdf" size="267593633" crc="05497b4f" md5="bafc710da29f28ba290ae09ee191cf6f" sha1="46d4d4e05236cb3d8200377be4fe590f6b76d48d"/>
+	</game>
+	<game name="APC - Vol 29 No 10 (2009-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 10 (2009-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 10 (2009-10)(ACP Magazines)(AU).pdf" size="232664780" crc="d19acf7c" md5="87700f64cac55a9590bb029979a94066" sha1="021f473e7056cdc75397b41dd8207e1b416c4e19"/>
+	</game>
+	<game name="APC - Vol 29 No 11 (2009-11)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 11 (2009-11)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 11 (2009-11)(ACP Magazines)(AU).pdf" size="258823643" crc="40f56fa4" md5="0eefdd0b6c2ac03b48c938bc4c7d38e5" sha1="c6085ca33cede9d8ccbc54613339a46a88e772e6"/>
+	</game>
+	<game name="APC - Vol 29 No 12 (2009-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 29 No 12 (2009-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 29 No 12 (2009-12)(ACP Magazines)(AU).pdf" size="228773192" crc="8a25bc5a" md5="ab5bdab1454eb58f09fa3de90c5b6693" sha1="0b7eb2b66b21bf710b87e596a522089adef0e093"/>
+	</game>
+	<game name="APC - Vol 30 No 01 (2010-01)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 01 (2010-01)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 01 (2010-01)(ACP Magazines)(AU).pdf" size="231413793" crc="c06bfd04" md5="f78a8d95a5e363b12300185127dbb1e8" sha1="c81adc08ec797129d1c1fc1e4779ecb973c937e8"/>
+	</game>
+	<game name="APC - Vol 30 No 02 (2010-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 02 (2010-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 02 (2010-02)(ACP Magazines)(AU).pdf" size="223708576" crc="b476f202" md5="20af3a1cd5691dca4414fc84e5e60c27" sha1="607ebda7ef32598fcf41945a8fc14a3ac1505259"/>
+	</game>
+	<game name="APC - Vol 30 No 02 (2010-02)(ACP Magazines)(AU)[a]">
+		<description>APC - Vol 30 No 02 (2010-02)(ACP Magazines)(AU)[a]</description>
+		<rom name="APC - Vol 30 No 02 (2010-02)(ACP Magazines)(AU)[a].pdf" size="224342324" crc="ec261943" md5="6ba07d6e2d5118d7af6873fedbb61b95" sha1="7432ae96eea16766a8fa037f628de114a3217619"/>
+	</game>
+	<game name="APC - Vol 30 No 03 (2010-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 03 (2010-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 03 (2010-03)(ACP Magazines)(AU).pdf" size="254560092" crc="83028c87" md5="c46e4dce096098ee858a313501d62ebf" sha1="c26eaaac59e4c7a846a1c8d7500b0a6bffc4cf06"/>
+	</game>
+	<game name="APC - Vol 30 No 04 (2010-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 04 (2010-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 04 (2010-04)(ACP Magazines)(AU).pdf" size="213715450" crc="c4d49b5f" md5="4856602837043636c81533deb6634c56" sha1="00defa68e7bedace2aeda858a6a354142b647f2d"/>
+	</game>
+	<game name="APC - Vol 30 No 05 (2010-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 05 (2010-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 05 (2010-05)(ACP Magazines)(AU).pdf" size="230330254" crc="10234a21" md5="439251a4411cf90569cf94f3421dd798" sha1="b2cec4203cb417cc29a951f49cbf74d5c7ac4c91"/>
+	</game>
+	<game name="APC - Vol 30 No 06 (2010-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 06 (2010-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 06 (2010-06)(ACP Magazines)(AU).pdf" size="261812491" crc="8d5b8577" md5="78dfb5e37d9da1a62dcd65644928f782" sha1="c992af09d59a41a18d237f9bbc2db01f5846f464"/>
+	</game>
+	<game name="APC - Vol 30 No 07 (2010-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 07 (2010-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 07 (2010-07)(ACP Magazines)(AU).pdf" size="224590191" crc="88dec32c" md5="c6a953af7a588a2f420c892749c0a1f2" sha1="a3fe500515e55636d649c7fe9e1071b476837579"/>
+	</game>
+	<game name="APC - Vol 30 No 08 (2010-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 08 (2010-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 08 (2010-08)(ACP Magazines)(AU).pdf" size="256435505" crc="79538c2f" md5="3f3a9986e4a88597360c91a9a9efc8e2" sha1="34c6fd2db548d7de3d059b7698d462bf2dcdc58a"/>
+	</game>
+	<game name="APC - Vol 30 No 09 (2010-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 09 (2010-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 09 (2010-09)(ACP Magazines)(AU).pdf" size="224401318" crc="805b77c3" md5="b3401d5f8b46e88f34d2064e4da7190e" sha1="86a52067391f18a1bed1e150edb2d919724bcd51"/>
+	</game>
+	<game name="APC - Vol 30 No 10 (2010-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 10 (2010-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 10 (2010-10)(ACP Magazines)(AU).pdf" size="257626951" crc="d45f3961" md5="93fefe93a800345cd45215a4b2aec5e3" sha1="36375bf707559c12a391eeb508b489d32ad79d46"/>
+	</game>
+	<game name="APC - Vol 30 No 11 (2010-11)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 11 (2010-11)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 11 (2010-11)(ACP Magazines)(AU).pdf" size="224969301" crc="3bd2266a" md5="c04a505965269f7cadd582fcef6aba15" sha1="b1f58d240a6bf30c407f4c2966257734bda8f552"/>
+	</game>
+	<game name="APC - Vol 30 No 12 (2010-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 30 No 12 (2010-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 30 No 12 (2010-12)(ACP Magazines)(AU).pdf" size="230491400" crc="dd5091b9" md5="d1c95a174d4ef56bd51e113a8842e260" sha1="5642989592c347c90b2280fe304ac6e6305d1e5f"/>
+	</game>
+	<game name="APC - Vol 30 No 12 (2010-12)(ACP Magazines)(AU)[a]">
+		<description>APC - Vol 30 No 12 (2010-12)(ACP Magazines)(AU)[a]</description>
+		<rom name="APC - Vol 30 No 12 (2010-12)(ACP Magazines)(AU)[a].pdf" size="230103090" crc="1995ffda" md5="f8e6804547763c46a4306ea701c95e5a" sha1="f52990de9f3657e4ea9a40b88261b378da72934d"/>
+	</game>
+	<game name="APC - Vol 31 No 02 (2011-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 02 (2011-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 02 (2011-02)(ACP Magazines)(AU).pdf" size="287794516" crc="9cfdbb31" md5="457a7d0d59ff7af513a0c3b130567c2d" sha1="73c9c1f56ad750dfb58eda0e0e604ba7cc82374d"/>
+	</game>
+	<game name="APC - Vol 31 No 03 (2011-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 03 (2011-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 03 (2011-03)(ACP Magazines)(AU).pdf" size="261853422" crc="27c17c47" md5="ac16863d4280e5efde9adfcf838ff679" sha1="74345cd68fc56ff39b3f9f9a9b1dc6ad7e6717bc"/>
+	</game>
+	<game name="APC - Vol 31 No 04 (2011-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 04 (2011-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 04 (2011-04)(ACP Magazines)(AU).pdf" size="230176719" crc="e75e2f49" md5="b50af2df336fdf393ebc31ca19c4567a" sha1="46a795a90a95473bc8b3d5544da83828ae55ea44"/>
+	</game>
+	<game name="APC - Vol 31 No 05 (2011-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 05 (2011-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 05 (2011-05)(ACP Magazines)(AU).pdf" size="259275213" crc="ffe3e352" md5="2452ab5c2355a43ab565103d887d3734" sha1="2e087e8398a134980e1f880ccc6bc8331dd61821"/>
+	</game>
+	<game name="APC - Vol 31 No 06 (2011-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 06 (2011-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 06 (2011-06)(ACP Magazines)(AU).pdf" size="225804601" crc="650b856d" md5="392f9f5742c7a8bd0dc370f7f8213fa0" sha1="73e0ac9e9675d5688597b36f658945a720b2e9d6"/>
+	</game>
+	<game name="APC - Vol 31 No 07 (2011-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 07 (2011-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 07 (2011-07)(ACP Magazines)(AU).pdf" size="261264898" crc="779a804a" md5="d99bbc4009eba5604838117bffcc7fbb" sha1="3ca27dbfc4b201de21e957ebe50cea552c6c9528"/>
+	</game>
+	<game name="APC - Vol 31 No 08 (2011-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 08 (2011-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 08 (2011-08)(ACP Magazines)(AU).pdf" size="219080106" crc="295f56b2" md5="8d6bdd7a8b851ffd859344179d6cc64a" sha1="3e861fbecd9dcdc05dd94e2649f7eba8f9f8f4c7"/>
+	</game>
+	<game name="APC - Vol 31 No 09 (2011-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 09 (2011-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 09 (2011-09)(ACP Magazines)(AU).pdf" size="255381532" crc="f161c68b" md5="4a60be9740db622d48585100cf59af9e" sha1="e397d7321bf201b38858a10a6fe21fa7e26a0968"/>
+	</game>
+	<game name="APC - Vol 31 No 10 (2011-10)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 10 (2011-10)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 10 (2011-10)(ACP Magazines)(AU).pdf" size="229218091" crc="460663f7" md5="a8c925ea67df37dce7c91eea5687f20f" sha1="b4d52de5685ddf535982be21751d23ed3f3f52a0"/>
+	</game>
+	<game name="APC - Vol 31 No 11 (2011-11)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 11 (2011-11)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 11 (2011-11)(ACP Magazines)(AU).pdf" size="255450325" crc="8c9bc074" md5="1920b39940d1a64cba3eeb6dceaffd49" sha1="47850afb730d8b20f046f917f01c9645ac779c2d"/>
+	</game>
+	<game name="APC - Vol 31 No 12 (2011-12)(ACP Magazines)(AU)">
+		<description>APC - Vol 31 No 12 (2011-12)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 31 No 12 (2011-12)(ACP Magazines)(AU).pdf" size="222864667" crc="9ae13c89" md5="535e0eb17a7c958c4ab266ca256f9e1d" sha1="629a4f3a8030932c6a587e851e534c7928ff9d72"/>
+	</game>
+	<game name="APC - Vol 32 No 02 (2012-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 02 (2012-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 02 (2012-02)(ACP Magazines)(AU).pdf" size="223171649" crc="cbd9a98d" md5="47ab67bdc8a3f916bdbcf29044cf97c0" sha1="a3c6c03cb7ff8201068a5cc17331ed011c10ba84"/>
+	</game>
+	<game name="APC - Vol 32 No 03 (2012-03)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 03 (2012-03)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 03 (2012-03)(ACP Magazines)(AU).pdf" size="221261941" crc="1e367e79" md5="add84c84850f555959093ac319ab0fb2" sha1="3105f5ff23f3d50cfd37e5d74ba335b3320fd6a9"/>
+	</game>
+	<game name="APC - Vol 32 No 04 (2012-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 04 (2012-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 04 (2012-04)(ACP Magazines)(AU).pdf" size="218752287" crc="b0d3d041" md5="95478514f9009ab9f44e1fb211233ade" sha1="5eb4a3e2aef52e6f8b2e00b7264281bf82ecdc5c"/>
+	</game>
+	<game name="APC - Vol 32 No 05 (2012-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 05 (2012-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 05 (2012-05)(ACP Magazines)(AU).pdf" size="229300216" crc="33953a4d" md5="4bcbff263d4df90454ea90b420c65b21" sha1="7f2ef607b3b6cfd25b0ee2114326c2d941fd301f"/>
+	</game>
+	<game name="APC - Vol 32 No 06 (2012-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 06 (2012-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 06 (2012-06)(ACP Magazines)(AU).pdf" size="222948184" crc="7414642c" md5="536e03f60e916ffd5b1f26b8fff2c2c7" sha1="e0a71600271eeb70af0e601bb4b357539d476ac6"/>
+	</game>
+	<game name="APC - Vol 32 No 07 (2012-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 07 (2012-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 07 (2012-07)(ACP Magazines)(AU).pdf" size="222154516" crc="cb3d0c52" md5="f8df8aa05c87ca23991a95f1ed34e677" sha1="2d95257f46afd5dba6a7dda36d9226c7ff85af53"/>
+	</game>
+	<game name="APC - Vol 32 No 08 (2012-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 32 No 08 (2012-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 32 No 08 (2012-08)(ACP Magazines)(AU).pdf" size="226670527" crc="9d191663" md5="8c350f445c93b71cf55ca86a40797972" sha1="81daf034302bbd0267c202d7ea4810ebe0600ab4"/>
+	</game>
+	<game name="APC - Vol 33 No 02 (2013-02)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 02 (2013-02)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 02 (2013-02)(ACP Magazines)(AU).pdf" size="201917466" crc="f7e78daa" md5="425cd2df8ef7b2ddc454f373ac411caf" sha1="6e856625595e6893f8d201b11f2617a7592ca307"/>
+	</game>
+	<game name="APC - Vol 33 No 04 (2013-04)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 04 (2013-04)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 04 (2013-04)(ACP Magazines)(AU).pdf" size="207466167" crc="788d4d6d" md5="de4acff52cf146739ddacbe8aeb146d4" sha1="d1ebc1c48e88aa1abf7fb269d4bfe0b16a4417b7"/>
+	</game>
+	<game name="APC - Vol 33 No 05 (2013-05)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 05 (2013-05)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 05 (2013-05)(ACP Magazines)(AU).pdf" size="214365976" crc="b9a69ac8" md5="acee489ae04739613b7ccdba2a88ddd4" sha1="a7a159e8f53e28eb860ce37cf132c3173dd35407"/>
+	</game>
+	<game name="APC - Vol 33 No 06 (2013-06)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 06 (2013-06)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 06 (2013-06)(ACP Magazines)(AU).pdf" size="196548785" crc="a96ddd03" md5="b16da226442f8e2970f25aaf992a59c2" sha1="9327d2eb4c7155590932290a3057cf2e25870cc3"/>
+	</game>
+	<game name="APC - Vol 33 No 07 (2013-07)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 07 (2013-07)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 07 (2013-07)(ACP Magazines)(AU).pdf" size="192688598" crc="4ec1cb27" md5="4d96f063130453aad8df194891807ce3" sha1="f824b0a32be4e389f95025a2a8b7a43d9baef62c"/>
+	</game>
+	<game name="APC - Vol 33 No 08 (2013-08)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 08 (2013-08)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 08 (2013-08)(ACP Magazines)(AU).pdf" size="191397175" crc="cb7a7565" md5="707d5c9067cf80c8ca6378b4f52a1b29" sha1="e870573f72087022e7249722792b37a47f68694c"/>
+	</game>
+	<game name="APC - Vol 33 No 09 (2013-09)(ACP Magazines)(AU)">
+		<description>APC - Vol 33 No 09 (2013-09)(ACP Magazines)(AU)</description>
+		<rom name="APC - Vol 33 No 09 (2013-09)(ACP Magazines)(AU).pdf" size="191420420" crc="8b6ef744" md5="d4378f95d1c34d04b64dfbc605b68a6e" sha1="46f55bde4fa8c47b992e1674f797ad24220f0c3c"/>
+	</game>
+	<game name="APC Buyers Guide to Hardware (1987)(Computer Publications)(AU)">
+		<description>APC Buyers Guide to Hardware (1987)(Computer Publications)(AU)</description>
+		<rom name="APC Buyers Guide to Hardware (1987)(Computer Publications)(AU).pdf" size="583214650" crc="9b562a42" md5="3770386811ccb8a97df6a143ff61023e" sha1="eb4b9888ba9fe210eb271a9227f2cc47315ee393"/>
+	</game>
+	<game name="APC Communications Special (1987)(Computer Publications)(AU)">
+		<description>APC Communications Special (1987)(Computer Publications)(AU)</description>
+		<rom name="APC Communications Special (1987)(Computer Publications)(AU).pdf" size="127627197" crc="8d024fa1" md5="900b077e648abd9a2bba3f45398e92eb" sha1="ca5b60746b0a34ab1f482de2cc44f94d9c0fabf8"/>
+	</game>
+	<game name="APC Tech Buyers Guide (2010)(ACP Magazines)(AU)[spring edition]">
+		<description>APC Tech Buyers Guide (2010)(ACP Magazines)(AU)[spring edition]</description>
+		<rom name="APC Tech Buyers Guide (2010)(ACP Magazines)(AU)[spring edition].pdf" size="214812989" crc="27ed0148" md5="2cf5ac35c88a44066ee986612ec7b58b" sha1="8a085df3f763620523e79129f0c513aca0bec078"/>
 	</game>
 	<game name="Australian Personal Computer (1999-09)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (1999-09)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (1999-09)(ACP Publishing)(AU).pdf" size="494530953" crc="55ee790a" sha1="d6f0c0805479ef33fadce41231df60161770efa3" md5="8cc50852fd0e5091fe5ba669618604ba"/>
+		<rom name="Australian Personal Computer (1999-09)(ACP Publishing)(AU).pdf" size="494530953" crc="55ee790a" md5="8cc50852fd0e5091fe5ba669618604ba" sha1="d6f0c0805479ef33fadce41231df60161770efa3"/>
 	</game>
 	<game name="Australian Personal Computer (2000-05)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2000-05)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2000-05)(ACP Publishing)(AU).pdf" size="508769574" crc="0b54cf6c" sha1="dda839947582160278afd500cd2fb11189a10d8a" md5="6f4ec6fe13cc9f1f952e91fc9fd8494a"/>
+		<rom name="Australian Personal Computer (2000-05)(ACP Publishing)(AU).pdf" size="508769574" crc="0b54cf6c" md5="6f4ec6fe13cc9f1f952e91fc9fd8494a" sha1="dda839947582160278afd500cd2fb11189a10d8a"/>
 	</game>
 	<game name="Australian Personal Computer (2000-09)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2000-09)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2000-09)(ACP Publishing)(AU).pdf" size="381969555" crc="bbe2bf24" sha1="f6684d1f4c61e1af0807e389d842ee9f08fd4b3d" md5="fb4412fe486a02233408881f643d39c2"/>
+		<rom name="Australian Personal Computer (2000-09)(ACP Publishing)(AU).pdf" size="381969555" crc="bbe2bf24" md5="fb4412fe486a02233408881f643d39c2" sha1="f6684d1f4c61e1af0807e389d842ee9f08fd4b3d"/>
 	</game>
 	<game name="Australian Personal Computer (2001-04)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2001-04)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2001-04)(ACP Publishing)(AU).pdf" size="427154548" crc="3b9d45ac" sha1="61b657ac94e2027100b76e4a0a835fbcf8221ba0" md5="5c06b4cc75f5898dba58369bd8f6805d"/>
+		<rom name="Australian Personal Computer (2001-04)(ACP Publishing)(AU).pdf" size="427154548" crc="3b9d45ac" md5="5c06b4cc75f5898dba58369bd8f6805d" sha1="61b657ac94e2027100b76e4a0a835fbcf8221ba0"/>
 	</game>
 	<game name="Australian Personal Computer (2001-05)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2001-05)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2001-05)(ACP Publishing)(AU).pdf" size="404179586" crc="a471cd01" sha1="ef8a14f1af6a281d08c68536bf8634faf344d6a9" md5="c8b38d838fff66772808be548b996f03"/>
+		<rom name="Australian Personal Computer (2001-05)(ACP Publishing)(AU).pdf" size="404179586" crc="a471cd01" md5="c8b38d838fff66772808be548b996f03" sha1="ef8a14f1af6a281d08c68536bf8634faf344d6a9"/>
 	</game>
 	<game name="Australian Personal Computer (2003-11)(ACP Magazines)(AU)">
 		<description>Australian Personal Computer (2003-11)(ACP Magazines)(AU)</description>
-		<rom name="Australian Personal Computer (2003-11)(ACP Magazines)(AU).pdf" size="408448534" crc="b4347452" sha1="c1574d4823869df41c911e33efb3601b451bc51c" md5="0de766adb0c911434afa0ff12661dfa2"/>
+		<rom name="Australian Personal Computer (2003-11)(ACP Magazines)(AU).pdf" size="408448534" crc="b4347452" md5="0de766adb0c911434afa0ff12661dfa2" sha1="c1574d4823869df41c911e33efb3601b451bc51c"/>
 	</game>
 	<game name="Australian Personal Computer (2004-01)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-01)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-01)(ACP Publishing)(AU).pdf" size="54642978" crc="8b0dbe77" sha1="61721b8f64b5addc009a7083906ec5337d0872ec" md5="3f3766f3fafde7a74124919e80201dc8"/>
+		<rom name="Australian Personal Computer (2004-01)(ACP Publishing)(AU).pdf" size="54642978" crc="8b0dbe77" md5="3f3766f3fafde7a74124919e80201dc8" sha1="61721b8f64b5addc009a7083906ec5337d0872ec"/>
 	</game>
 	<game name="Australian Personal Computer (2004-02)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-02)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-02)(ACP Publishing)(AU).pdf" size="34438317" crc="4f355b51" sha1="57cd6a024717ccc129ab5e818f2de321c1a46cff" md5="96f5d7b30d605047a6ecd62a605f8ec5"/>
+		<rom name="Australian Personal Computer (2004-02)(ACP Publishing)(AU).pdf" size="34438317" crc="4f355b51" md5="96f5d7b30d605047a6ecd62a605f8ec5" sha1="57cd6a024717ccc129ab5e818f2de321c1a46cff"/>
 	</game>
 	<game name="Australian Personal Computer (2004-03)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-03)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-03)(ACP Publishing)(AU).pdf" size="91464217" crc="192f7205" sha1="4d236a372ed4716912295255745ca2679d1b1d1c" md5="228403d03c1e4f98ef66b6060eb62b57"/>
+		<rom name="Australian Personal Computer (2004-03)(ACP Publishing)(AU).pdf" size="91464217" crc="192f7205" md5="228403d03c1e4f98ef66b6060eb62b57" sha1="4d236a372ed4716912295255745ca2679d1b1d1c"/>
 	</game>
 	<game name="Australian Personal Computer (2004-04)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-04)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-04)(ACP Publishing)(AU).pdf" size="28844995" crc="5a7466f1" sha1="f342a40bfa3a88a6f52985b79d0b0e71f836c67f" md5="f1571f308622734a8ea6062a6701f063"/>
+		<rom name="Australian Personal Computer (2004-04)(ACP Publishing)(AU).pdf" size="28844995" crc="5a7466f1" md5="f1571f308622734a8ea6062a6701f063" sha1="f342a40bfa3a88a6f52985b79d0b0e71f836c67f"/>
 	</game>
 	<game name="Australian Personal Computer (2004-05)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-05)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-05)(ACP Publishing)(AU).pdf" size="16165537" crc="f9f43d83" sha1="988497747e4c00628e2ebf288a6a5e5f78f7fa51" md5="774a9cb3e85c65c517052a457ef86bd4"/>
+		<rom name="Australian Personal Computer (2004-05)(ACP Publishing)(AU).pdf" size="16165537" crc="f9f43d83" md5="774a9cb3e85c65c517052a457ef86bd4" sha1="988497747e4c00628e2ebf288a6a5e5f78f7fa51"/>
 	</game>
 	<game name="Australian Personal Computer (2004-06)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-06)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-06)(ACP Publishing)(AU).pdf" size="17108927" crc="61464c0d" sha1="e22fc8a92a88f9c4caa00f4757b1c893169a0b7e" md5="b7c7fecdf2296e12012c2ec095dab687"/>
+		<rom name="Australian Personal Computer (2004-06)(ACP Publishing)(AU).pdf" size="17108927" crc="61464c0d" md5="b7c7fecdf2296e12012c2ec095dab687" sha1="e22fc8a92a88f9c4caa00f4757b1c893169a0b7e"/>
 	</game>
 	<game name="Australian Personal Computer (2004-07)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-07)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-07)(ACP Publishing)(AU).pdf" size="20194514" crc="701031e0" sha1="2d1cd57bdd5c992719eb420a9d7b3a6e9d0aa740" md5="6ca8c64b4970a1071f837805ec3e7222"/>
+		<rom name="Australian Personal Computer (2004-07)(ACP Publishing)(AU).pdf" size="20194514" crc="701031e0" md5="6ca8c64b4970a1071f837805ec3e7222" sha1="2d1cd57bdd5c992719eb420a9d7b3a6e9d0aa740"/>
 	</game>
 	<game name="Australian Personal Computer (2004-08)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-08)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-08)(ACP Publishing)(AU).pdf" size="26709031" crc="dd7a7b56" sha1="dd7be9d2f27802d8c3201dc3048aa9e863fbfaad" md5="2d7b7b981d6249a7066f08cecbb5fc37"/>
+		<rom name="Australian Personal Computer (2004-08)(ACP Publishing)(AU).pdf" size="26709031" crc="dd7a7b56" md5="2d7b7b981d6249a7066f08cecbb5fc37" sha1="dd7be9d2f27802d8c3201dc3048aa9e863fbfaad"/>
 	</game>
 	<game name="Australian Personal Computer (2004-09)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-09)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-09)(ACP Publishing)(AU).pdf" size="18146019" crc="f28ff194" sha1="0e486cc360c4ad23183c3b51d07e9b19ff7d1800" md5="b14e106a9d9f1a47df251cc5bb0e7634"/>
+		<rom name="Australian Personal Computer (2004-09)(ACP Publishing)(AU).pdf" size="18146019" crc="f28ff194" md5="b14e106a9d9f1a47df251cc5bb0e7634" sha1="0e486cc360c4ad23183c3b51d07e9b19ff7d1800"/>
 	</game>
 	<game name="Australian Personal Computer (2004-10)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-10)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-10)(ACP Publishing)(AU).pdf" size="17068983" crc="3dd2e3b2" sha1="eb7838ffd8a3b755237030c1c6b9e0e62858c3f3" md5="915b06f9fc4bfb3dbfe7880760cb9226"/>
+		<rom name="Australian Personal Computer (2004-10)(ACP Publishing)(AU).pdf" size="17068983" crc="3dd2e3b2" md5="915b06f9fc4bfb3dbfe7880760cb9226" sha1="eb7838ffd8a3b755237030c1c6b9e0e62858c3f3"/>
 	</game>
 	<game name="Australian Personal Computer (2004-11)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-11)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-11)(ACP Publishing)(AU).pdf" size="19430312" crc="91c15cba" sha1="ebcb21f37183f30f0858450f1f3095dbe0ddb2d3" md5="f103d0447bc9f0ac3abee1c6210d7c71"/>
+		<rom name="Australian Personal Computer (2004-11)(ACP Publishing)(AU).pdf" size="19430312" crc="91c15cba" md5="f103d0447bc9f0ac3abee1c6210d7c71" sha1="ebcb21f37183f30f0858450f1f3095dbe0ddb2d3"/>
 	</game>
 	<game name="Australian Personal Computer (2004-12)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer (2004-12)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer (2004-12)(ACP Publishing)(AU).pdf" size="14384731" crc="a6949f76" sha1="b2e4ab661fa567d023aaf042a5d5841433962bbd" md5="7357d95a1e977a9e28ffa6421c5c6ba2"/>
+		<rom name="Australian Personal Computer (2004-12)(ACP Publishing)(AU).pdf" size="14384731" crc="a6949f76" md5="7357d95a1e977a9e28ffa6421c5c6ba2" sha1="b2e4ab661fa567d023aaf042a5d5841433962bbd"/>
 	</game>
 	<game name="Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing)">
 		<description>Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing)</description>
-		<rom name="Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing).pdf" size="324164423" crc="45b9d29b" sha1="c1c562f354711028993e1e4af460d22322e64667" md5="f499710af5829af290ffb8502fe9539e"/>
+		<rom name="Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing).pdf" size="324164423" crc="45b9d29b" md5="f499710af5829af290ffb8502fe9539e" sha1="c1c562f354711028993e1e4af460d22322e64667"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 276 (2001-12)(ACP Publishing)(AU).pdf" size="401640010" crc="16146ac0" md5="39e112625dbc6c2efe6b6bfd678ba500" sha1="0e67bf17e7e462e52dce5de5fe9b7681edfe887c"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 277 (2002-01)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 277 (2002-01)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 277 (2002-01)(ACP Publishing)(AU).pdf" size="501975649" crc="7208bb38" md5="9b17be760369636270816a367433426d" sha1="a17518b29473d20ff65c716bfd4416500191573d"/>
 	</game>
 	<game name="Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing)">
 		<description>Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing)</description>
-		<rom name="Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing).pdf" size="461944562" crc="8fc8bce6" sha1="890df46119dbb2552b13a5284f6988e0a53bcb7b" md5="f0e6d50c5bb180c8591df7f24f632d97"/>
+		<rom name="Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing).pdf" size="461944562" crc="8fc8bce6" md5="f0e6d50c5bb180c8591df7f24f632d97" sha1="890df46119dbb2552b13a5284f6988e0a53bcb7b"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 278 (2002-02)(ACP Publishing)(AU).pdf" size="472570390" crc="f23109f0" md5="7eafcedb2f2b9bb3bac2ed1f4294306b" sha1="83c64d010b58e7bcc8db4fe3fa72344f257e7168"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 279 (2002-03)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 279 (2002-03)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 279 (2002-03)(ACP Publishing)(AU).pdf" size="483617808" crc="f0193e4f" md5="6b85596e6edeb4eb12066a191e7f7ac8" sha1="87dba3150590483d39f9f51a5f011d50bec72f9b"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 279 (2002-03)(ACP Publishing)(AU)[a]">
+		<description>Australian Personal Computer - Issue 279 (2002-03)(ACP Publishing)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Issue 279 (2002-03)(ACP Publishing)(AU)[a].pdf" size="438295149" crc="a9a7858b" md5="cd29fae7a73c5004d67c562980a04b8c" sha1="698bac5477c54663dc4b66e69a5cba8707dc079a"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 280 (2002-04)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 280 (2002-04)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 280 (2002-04)(ACP Publishing)(AU).pdf" size="445976966" crc="5a9fef9c" md5="285432461516c8485bdd1636101264f4" sha1="aa13dce80f655c1347309e2598ef9c20edad7462"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 281 (2002-05)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 281 (2002-05)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 281 (2002-05)(ACP Publishing)(AU).pdf" size="444765645" crc="2a0a3304" md5="0283fb81928b03fbfc0e4567d5d838e2" sha1="b80f00c887fc512e317c88ffff85a114b7b81a16"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 282 (2002-06)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 282 (2002-06)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 282 (2002-06)(ACP Publishing)(AU).pdf" size="437550512" crc="98fedee9" md5="f8a1d5427039e9501f1152a78c068a8e" sha1="4d0e9578c45b354cb6a4c72e8c6582c1634edca4"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 283 (2002-07)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 283 (2002-07)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 283 (2002-07)(ACP Publishing)(AU).pdf" size="444758498" crc="172caab8" md5="b03a50697dba02c24d0036adbef9ddd4" sha1="5570706b8744b5aa3c73bb5e10197cacacda75c5"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 284 (2002-08)(ACP Publishing)(AU).pdf" size="456084215" crc="9496d672" md5="d92ef83eeef74e58b96830a1806ce108" sha1="7180a72004e72d163bd0faa12c7699cdc0694de2"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 285 (2002-09)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 285 (2002-09)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 285 (2002-09)(ACP Publishing)(AU).pdf" size="434570624" crc="91a4a046" md5="d8d9689c958ac69f019fc1629aa02af3" sha1="b5209a549fc277592d421ceb603dd33075215d4d"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 286 (2002-10)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 286 (2002-10)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 286 (2002-10)(ACP Publishing)(AU).pdf" size="496687954" crc="0b264ac7" md5="4085cb9247bc69ead4c470c0d1f015e0" sha1="bb320ce98dc48356ba7ac14c1dfb09cdaaa1e54a"/>
+	</game>
+	<game name="Australian Personal Computer - Issue 287 (2002-11)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Issue 287 (2002-11)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Issue 287 (2002-11)(ACP Publishing)(AU).pdf" size="488766562" crc="2031586c" md5="f8053c1d054ea66bdc2adaff49a661d3" sha1="5a765871b0eb18a50a0da5797b753e41a00958a9"/>
 	</game>
 	<game name="Australian Personal Computer - Issue 299 (2003-11)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer - Issue 299 (2003-11)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer - Issue 299 (2003-11)(ACP Publishing)(AU).pdf" size="408443158" crc="c4eb290b" sha1="fc1cb3af853b257425455b1402b3a5f283751602" md5="b7376cfa068d66fe6bc461263404cebd"/>
+		<rom name="Australian Personal Computer - Issue 299 (2003-11)(ACP Publishing)(AU).pdf" size="408443158" crc="c4eb290b" md5="b7376cfa068d66fe6bc461263404cebd" sha1="fc1cb3af853b257425455b1402b3a5f283751602"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 02 (1998-02)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 02 (1998-02)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 02 (1998-02)(ACP Publishing)(AU).pdf" size="369822994" crc="64cc91f7" md5="bf5d4f1bc13e9e94ac5563775f4ccdfc" sha1="e5549ed9fd84b937b74510070a05bbb818e95962"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 03 (1998-03)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 03 (1998-03)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 03 (1998-03)(ACP Publishing)(AU).pdf" size="361625737" crc="7d010bdf" md5="a982aa4e5926a345e6eaf1ef95d6d6ae" sha1="3ac6579ade0bc18f55831f8b5bb43c03bd5970d0"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 04 (1998-04)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 04 (1998-04)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 04 (1998-04)(ACP Publishing)(AU).pdf" size="395839912" crc="71a7fe17" md5="c23b143a9c25f024e4e293747ddbe951" sha1="bee6cd3c2a7d567b32140bbf7cd3f2d9791adc18"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 05 (1998-05)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 05 (1998-05)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 05 (1998-05)(ACP Publishing)(AU).pdf" size="391432211" crc="16f01e58" md5="4b0ffd5d372c875e269d904358f413ea" sha1="adcc5625af4c2997dfaec5ee3b2053eafce35ebb"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 06 (1998-06)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 06 (1998-06)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 06 (1998-06)(ACP Publishing)(AU).pdf" size="396084082" crc="7685761d" md5="28b62fc061671743d4f533d40ecc5b95" sha1="9cf043000a77d1324b88cf97f946ef21681b67c3"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 07 (1998-07)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 07 (1998-07)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 07 (1998-07)(ACP Publishing)(AU).pdf" size="360974819" crc="00235978" md5="36c92c85c86ae7b9aca5ab7c9d668ba4" sha1="3a7436423871c22cacc345626838dcc627dc43ad"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 08 (1998-08)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 08 (1998-08)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 08 (1998-08)(ACP Publishing)(AU).pdf" size="410923452" crc="574cf09f" md5="028f1ca9ba260cd3f323ac60f1af1342" sha1="1a026ab433d314abb49ca3986bc4d980d7c817b4"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 19 No 12 (1998-12)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 19 No 12 (1998-12)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 19 No 12 (1998-12)(ACP Publishing)(AU).pdf" size="481716204" crc="c2a6f18d" md5="f651f2f62ccad224923ea8077212f5dd" sha1="b63b746db978ced93d6a7af3b7acdaa9cfbb117d"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 20 No 01 (1999-01)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 20 No 01 (1999-01)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 20 No 01 (1999-01)(ACP Publishing)(AU).pdf" size="365421519" crc="f766f963" md5="7181e0fcc98a939e284f88c40a494076" sha1="a581a419f13042336a6db8a137f723e36ce6a126"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 20 No 02 (1999-02)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 20 No 02 (1999-02)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 20 No 02 (1999-02)(ACP Publishing)(AU).pdf" size="410442320" crc="a3e52312" md5="053ed610d88a325f3b8e7d996123c88b" sha1="e0172b13fb106562311dad24fc31275271d12f95"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 20 No 04 (1999-04)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 20 No 04 (1999-04)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 20 No 04 (1999-04)(ACP Publishing)(AU).pdf" size="465636220" crc="2adbe2d8" md5="988b48cb6cd602e2b936fa63e65fc88f" sha1="5945c433c28bb33fdc8c81595b8e840d1f163cac"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 20 No 05 (1999-05)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 20 No 05 (1999-05)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 20 No 05 (1999-05)(ACP Publishing)(AU).pdf" size="633564204" crc="516b3df5" md5="3cb858322e3099d3aeebda240fc55627" sha1="b4e17cd528d8162051a05807a243d510721d2cb4"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 20 No 06 (1999-06)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 20 No 06 (1999-06)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 20 No 06 (1999-06)(ACP Publishing)(AU).pdf" size="406712954" crc="71d5961f" md5="09f8cf16684a8cc8b38fa6b1b04cef0b" sha1="47bfd05c241407eab4c122558888f4c2233e5b94"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 01 (2000-01)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 01 (2000-01)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 01 (2000-01)(ACP Publishing)(AU).pdf" size="531831095" crc="58b0a097" md5="a9d9507a11a570940f67feee3f89ef79" sha1="0b9b2a86e1c41db5541db503e5c2f2b524c0d934"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 02 (2000-02)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 02 (2000-02)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 02 (2000-02)(ACP Publishing)(AU).pdf" size="258468233" crc="66b2d436" md5="e060ea6a152685cc49bdfc77128fd113" sha1="c655a753b5c9d9f4235808b26ad84057756dedad"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 03 (2000-03)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 03 (2000-03)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 03 (2000-03)(ACP Publishing)(AU).pdf" size="467786787" crc="ae27db08" md5="9565e2271e569f98f39837155989d24d" sha1="101e8f3bcaac43711dbbd8f688f978596837ee10"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 04 (2000-04)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 04 (2000-04)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 04 (2000-04)(ACP Publishing)(AU).pdf" size="333123815" crc="38d09560" md5="e83ce8712dcabc22ded62806458b8770" sha1="fcc4df96f95ced66f8c49a8657370c6208c7af23"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 05 (2000-05)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 05 (2000-05)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 05 (2000-05)(ACP Publishing)(AU).pdf" size="625403706" crc="f5b4fa72" md5="d9b268a71bad68382566cde4bf9e8b4f" sha1="0869b9b868b239b89a2094768ac17e13ba0e746d"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 06 (2000-06)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 06 (2000-06)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 06 (2000-06)(ACP Publishing)(AU).pdf" size="346156767" crc="36a5ec57" md5="b3bd065ffe7984a243005f3a57d39af4" sha1="d82eed0ea4ab5c4dbf05140514d7392be0b16ef1"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 07 (2000-07)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 07 (2000-07)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 07 (2000-07)(ACP Publishing)(AU).pdf" size="331447521" crc="a3f92a8c" md5="fd01d66c6d887fd62600d7166467e79d" sha1="b14e7f76b7e62b60ef00f1334fe1d16fd4502df8"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 08 (2000-08)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 08 (2000-08)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 08 (2000-08)(ACP Publishing)(AU).pdf" size="324294008" crc="94c7cb9d" md5="e37747da08377c4fd36132c27bf2457e" sha1="e7ccad542a21993994eaca591b9bdc10331388dd"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 09 (2000-09)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 09 (2000-09)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 09 (2000-09)(ACP Publishing)(AU).pdf" size="469434215" crc="ccf3f63e" md5="7a821e04851be8b52516c127b53a952c" sha1="e625defc9a4aaf69b88a88cc81f598e17cb55f17"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 21 No 12 (2000-12)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 21 No 12 (2000-12)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 21 No 12 (2000-12)(ACP Publishing)(AU).pdf" size="660081536" crc="b850737a" md5="374278a91fde8a91984a0f78e39368ff" sha1="e75f32af3843aa609b307a07e0412e5af659f471"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 22 No 01 (2001-01)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 22 No 01 (2001-01)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 22 No 01 (2001-01)(ACP Publishing)(AU).pdf" size="344017780" crc="632b8ad0" md5="9be57342083e9a524cc256fef4132b49" sha1="e01f2019a70da408c9214a0bc5a640e1ee9024dc"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 22 No 05 (2001-05)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 22 No 05 (2001-05)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 22 No 05 (2001-05)(ACP Publishing)(AU).pdf" size="373503908" crc="bdabd388" md5="391505966803a2a2d913d827c9234fda" sha1="3507520b2042ee2d1afe2d0b408719af45113ebc"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 22 No 06 (2001-06)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 22 No 06 (2001-06)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 22 No 06 (2001-06)(ACP Publishing)(AU).pdf" size="494427047" crc="53b2eb72" md5="1eed00bbbe8923dee9325e6a279867d5" sha1="39f9922a2b08476b26f78f8da2132a0f7f316683"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 22 No 07 (2001-07)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 22 No 07 (2001-07)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 22 No 07 (2001-07)(ACP Publishing)(AU).pdf" size="391688763" crc="fa1e53c5" md5="40ed3799c00441396693e856c1b5265f" sha1="4b862db825deaa9e7d71bf273c0a003d8a7b5f73"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 23 No 10 (2003-10)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 23 No 10 (2003-10)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 23 No 10 (2003-10)(ACP Publishing)(AU).pdf" size="525706058" crc="e1c0e708" md5="ca0153fa8bf1e29a7ec0abbb41093def" sha1="96d1db836c45bd7ecc549a1632db2a9278fbf71f"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 23 No 11 (2003-11)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 23 No 11 (2003-11)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 23 No 11 (2003-11)(ACP Publishing)(AU).pdf" size="434461131" crc="6bd685bf" md5="acd499f120a8f8613a687fc3eb94bd53" sha1="327dfafecacd600eedaa53324077ed33535da7a9"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 23 No 12 (2003-12)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 23 No 12 (2003-12)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 23 No 12 (2003-12)(ACP Publishing)(AU).pdf" size="505710526" crc="8c6ad077" md5="26faa9bf4d78f388374cfba970eb98ce" sha1="20c3ee0d6dd3004bbf23af374f82c34318b1ad63"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 01 (2004-01)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 24 No 01 (2004-01)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 24 No 01 (2004-01)(ACP Publishing)(AU).pdf" size="282726829" crc="f8e988cf" md5="29b701212a053c4b50b5cccc833ab499" sha1="544445f779b16036f49e5324fe9de46493451206"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 02 (2004-02)(ACP Magazines)(AU)">
+		<description>Australian Personal Computer - Vol 24 No 02 (2004-02)(ACP Magazines)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 24 No 02 (2004-02)(ACP Magazines)(AU).pdf" size="413666269" crc="37e05de2" md5="867171da9a7c846fb89bb90c9d2a0eb3" sha1="19e2fa7411f696895afab403232bedd2a695f34a"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 03 (2004-03)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 24 No 03 (2004-03)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 24 No 03 (2004-03)(ACP Publishing)(AU).pdf" size="288137219" crc="6773b1e5" md5="d97b5f0ff2e414fe25315e4986e72558" sha1="de7d301eb05175cbdb11ec740cdda7e5e0be42b6"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 04 (2004-04)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 24 No 04 (2004-04)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 24 No 04 (2004-04)(ACP Publishing)(AU).pdf" size="392306568" crc="d53c502d" md5="4eac0ba48ed2b6e77f118ad697c1a1e0" sha1="a16c8764e3d01670874fe0251a92dc0c64dcf9c1"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 05 (2004-05)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 24 No 05 (2004-05)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 24 No 05 (2004-05)(ACP Publishing)(AU).pdf" size="362564414" crc="c68e52ea" md5="fde8a73a03dad7a12471c64d3f498e7f" sha1="cf0e31a2902006bdf460bb2251a0ab0df8ea777e"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 06 (2004-06)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Vol 24 No 06 (2004-06)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Vol 24 No 06 (2004-06)(ACP Publishing)(AU).pdf" size="430188538" crc="d4ed011c" md5="78d215e63ffd332cf6af36a78ca8592d" sha1="3d08b0a11b66f03a1d77a95b41e2fa61cf6e28ff"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 07 (2004-07)(ACP Publishing)(AU)[a]">
+		<description>Australian Personal Computer - Vol 24 No 07 (2004-07)(ACP Publishing)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Vol 24 No 07 (2004-07)(ACP Publishing)(AU)[a].pdf" size="327260877" crc="bb78e5c2" md5="745f4ff0093ff4d2f048ff381e7cd0cf" sha1="e049e706f8815c73ab176cb81b6f8638daef17a6"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 08 (2004-08)(ACP Publishing)(AU)[a]">
+		<description>Australian Personal Computer - Vol 24 No 08 (2004-08)(ACP Publishing)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Vol 24 No 08 (2004-08)(ACP Publishing)(AU)[a].pdf" size="419178349" crc="2f35fcfa" md5="6053588fbe03c85c551a95f7ca2a9f90" sha1="bbcd100e58a137aefdefd085ead0cf6ecf23f0e4"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 09 (2004-09)(ACP Publishing)(AU)[a]">
+		<description>Australian Personal Computer - Vol 24 No 09 (2004-09)(ACP Publishing)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Vol 24 No 09 (2004-09)(ACP Publishing)(AU)[a].pdf" size="327076422" crc="d1a7ffa4" md5="e463fee94e5f3f6502f9aa432eecc0f8" sha1="bb37e0acceb56d8f486dfeebe3d3ef1b36179d91"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 10 (2004-10)(ACP Publishing)(AU)[a]">
+		<description>Australian Personal Computer - Vol 24 No 10 (2004-10)(ACP Publishing)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Vol 24 No 10 (2004-10)(ACP Publishing)(AU)[a].pdf" size="480161370" crc="95b2a559" md5="2505c341c9c0f3815809c5cbe43bc28e" sha1="ad1e25985e941921c6c024e8add5c5b85ef87067"/>
+	</game>
+	<game name="Australian Personal Computer - Vol 24 No 11 (2004-11)(ACP Publishing)(AU)[a]">
+		<description>Australian Personal Computer - Vol 24 No 11 (2004-11)(ACP Publishing)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Vol 24 No 11 (2004-11)(ACP Publishing)(AU)[a].pdf" size="388202490" crc="3dc74e72" md5="c87718cf4b8f9d944f3c9198578c6b79" sha1="5e4e90e3b7c35c12dbf7cb73f094632a5d44acea"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 01 Number 01 (1980-05)(Australian Microcomputer Journal)(AU)">
 		<description>Australian Personal Computer - Volume 01 Number 01 (1980-05)(Australian Microcomputer Journal)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 1 Number 1 (1980-05)(Australian Microcomputer Journal)(AU).pdf" size="17315434" crc="5e18500d" sha1="0a6bda4c531d941dc2f3f789b31c2307142483ee" md5="4dfa40fe08d2882e8adf31934151b73c"/>
+		<rom name="Australian Personal Computer - Volume 1 Number 1 (1980-05)(Australian Microcomputer Journal)(AU).pdf" size="17315434" crc="5e18500d" md5="4dfa40fe08d2882e8adf31934151b73c" sha1="0a6bda4c531d941dc2f3f789b31c2307142483ee"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 01 Number 01 (1980-05)(Australian Microcomputer Journal)(AU)[a]">
 		<description>Australian Personal Computer - Volume 01 Number 01 (1980-05)(Australian Microcomputer Journal)(AU)[a]</description>
-		<rom name="Australian Personal Computer - Volume 01 Number 01 (1980-05)(Australian Microcomputer Journal)(AU)[a].pdf" size="11921462" crc="9e62ad80" sha1="2d4f8b6cb4dd4c7c5289ce38821e02ed2e0a9522" md5="0ad13449066df8aaa884e88cb0381eb5"/>
+		<rom name="Australian Personal Computer - Volume 01 Number 01 (1980-05)(Australian Microcomputer Journal)(AU)[a].pdf" size="11921462" crc="9e62ad80" md5="0ad13449066df8aaa884e88cb0381eb5" sha1="2d4f8b6cb4dd4c7c5289ce38821e02ed2e0a9522"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 01 Number 02 (1980-06)(Australian Microcomputer Journal)(AU)">
 		<description>Australian Personal Computer - Volume 01 Number 02 (1980-06)(Australian Microcomputer Journal)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 01 Number 02 (1980-06)(Australian Microcomputer Journal)(AU).pdf" size="10646194" crc="4aec305d" sha1="4c4da1d61837abef03920add0508525e68c8dd09" md5="49c0b5101f807cd73377fc86c0aca162"/>
+		<rom name="Australian Personal Computer - Volume 01 Number 02 (1980-06)(Australian Microcomputer Journal)(AU).pdf" size="10646194" crc="4aec305d" md5="49c0b5101f807cd73377fc86c0aca162" sha1="4c4da1d61837abef03920add0508525e68c8dd09"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 01 Number 03 (1980-07)(Australian Microcomputer Journal)(AU)">
 		<description>Australian Personal Computer - Volume 01 Number 03 (1980-07)(Australian Microcomputer Journal)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 01 Number 03 (1980-07)(Australian Microcomputer Journal)(AU).pdf" size="10957024" crc="924e8357" sha1="e035a2a00e2413bd84310c27380769dcdf886043" md5="962b3c887161897055cd0775b8c87b0f"/>
+		<rom name="Australian Personal Computer - Volume 01 Number 03 (1980-07)(Australian Microcomputer Journal)(AU).pdf" size="10957024" crc="924e8357" md5="962b3c887161897055cd0775b8c87b0f" sha1="e035a2a00e2413bd84310c27380769dcdf886043"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 03 Number 02 (1982-02)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 03 Number 02 (1982-02)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 03 Number 02 (1982-02)(Computer Publications)(AU).pdf" size="232521633" crc="f025376a" md5="184c72af5a7ec3f107431339c34fde08" sha1="62ab742502f7e759b3afa8fdbafc0af0dba148d7"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 03 Number 04 (1982-04)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 03 Number 04 (1982-04)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 03 Number 04 (1982-04)(Computer Publications)(AU).pdf" size="255635560" crc="1a95b277" md5="e1c1f249ca73c9c80405119ef3538a21" sha1="7289b94448bb4574ff2e7e815b5d811e03eee6f0"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 03 Number 07 (1982-07)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 03 Number 07 (1982-07)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 03 Number 07 (1982-07)(Computer Publications)(AU).pdf" size="267860418" crc="b9dfe0da" md5="813ccdfebec972b20e528204dcc4fffa" sha1="8beb98eb132b94ab06fa052c53c50ac633800016"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 03 Number 12 (1982-12)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 03 Number 12 (1982-12)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 03 Number 12 (1982-12)(Computer Publications)(AU).pdf" size="278499277" crc="378b4e4e" md5="ad96aa131292743ad549c8cb44eb5faf" sha1="0be220f4c566aec4998c0f76b2280bd64d7b793c"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 04 Number 08 (1983-08)(Computer Publications)(AU)">
 		<description>Australian Personal Computer - Volume 04 Number 08 (1983-08)(Computer Publications)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 04 Number 08 (1983-08)(Computer Publications)(AU).pdf" size="28133385" crc="c329f3ac" sha1="fc1bf714df04bee4d4600a8df2ef39d86be912c8" md5="58985fa3fb6de1f79f22a5be823c0803"/>
+		<rom name="Australian Personal Computer - Volume 04 Number 08 (1983-08)(Computer Publications)(AU).pdf" size="28133385" crc="c329f3ac" md5="58985fa3fb6de1f79f22a5be823c0803" sha1="fc1bf714df04bee4d4600a8df2ef39d86be912c8"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 04 Number 09 (1983-09)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 04 Number 09 (1983-09)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 04 Number 09 (1983-09)(Computer Publications)(AU).pdf" size="268722561" crc="164a8ace" md5="8977d8d93c78d571f6ad8252c31b8538" sha1="0a3e85949b5b6e811ec9dfa83c8c096ef104b9ff"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 05 Number 01 (1984-01)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 05 Number 01 (1984-01)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 05 Number 01 (1984-01)(Computer Publications)(AU).pdf" size="291856606" crc="29e1b215" md5="84306edbe4fcd2d2e7fdbc1aa784c8d6" sha1="7f81ed4da65fb22f1ecb2f85aa88c5b35c8f3963"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 05 Number 04 (1984-04)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 05 Number 04 (1984-04)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 05 Number 04 (1984-04)(Computer Publications)(AU).pdf" size="322154778" crc="0d522cdd" md5="a1b19982960467f13183b31bf7610c02" sha1="039f8791ecc4621a1dc90ff244f3f4648c1db25b"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 05 Number 04 (1984-04)(Computer Publications)(AU)[a]">
+		<description>Australian Personal Computer - Volume 05 Number 04 (1984-04)(Computer Publications)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Volume 05 Number 04 (1984-04)(Computer Publications)(AU)[a].pdf" size="189556395" crc="dfaf59bf" md5="6a707382a4088b1839e32898ed46d539" sha1="2bc3a5caee2f262c5c5568b8f02991698af245c6"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 05 Number 06 (1984-06)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 05 Number 06 (1984-06)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 05 Number 06 (1984-06)(Computer Publications)(AU).pdf" size="330700385" crc="b43f8c03" md5="aaba8b04e1a167e9b9b88bb0ca0c2d1e" sha1="1aaa6459659d24cf88a804f80bc28457c367f48c"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 05 Number 09 (1984-09)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 05 Number 09 (1984-09)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 05 Number 09 (1984-09)(Computer Publications)(AU).pdf" size="400014444" crc="fba3202a" md5="659b5d8705a032fad990a2e42f209e37" sha1="528389717152e60104a692dc06e8f764fc505860"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 06 Number 01 (1985-01)(Computer Publications)(AU)">
 		<description>Australian Personal Computer - Volume 06 Number 01 (1985-01)(Computer Publications)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 06 Number 01 (1985-01)(Computer Publications)(AU).pdf" size="41220173" crc="ef0f84c0" sha1="1903c362abc344d67723807a50f9e07e933d3bdb" md5="ed26f25b4a30f1159fe415d9f79562e2"/>
+		<rom name="Australian Personal Computer - Volume 06 Number 01 (1985-01)(Computer Publications)(AU).pdf" size="41220173" crc="ef0f84c0" md5="ed26f25b4a30f1159fe415d9f79562e2" sha1="1903c362abc344d67723807a50f9e07e933d3bdb"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 06 Number 02 (1985-02)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 06 Number 02 (1985-02)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 06 Number 02 (1985-02)(Computer Publications)(AU).pdf" size="405897138" crc="f6efc7be" md5="d8eb47974c6e7d055d84e5a698ddb758" sha1="8077c60b5c09fa0f52497ff42d8ea1b763dcb9c9"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 06 Number 08 (1985-08)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 06 Number 08 (1985-08)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 06 Number 08 (1985-08)(Computer Publications)(AU).pdf" size="388886358" crc="ef9b54a1" md5="838551706f09dcf5e88ac599a1801271" sha1="5e1546d24fb82fa3d48814c820baa10d18090bfe"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 06 Number 10 (1985-10)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 06 Number 10 (1985-10)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 06 Number 10 (1985-10)(Computer Publications)(AU).pdf" size="195109198" crc="bdd13211" md5="c5ddc766bcb5907aa3c099d594914b76" sha1="134beeca865ae7f46c6cfdeb971a5792f7404b06"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 06 Number 12 (1985-12)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 06 Number 12 (1985-12)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 06 Number 12 (1985-12)(Computer Publications)(AU).pdf" size="405442695" crc="557b61b2" md5="57a80301c3c69fea8be9c34fba52bd4e" sha1="3bb4ac16fba804711a0954660be26fee4a4f5a33"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 07 Number 01 (1986-01)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 07 Number 01 (1986-01)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 07 Number 01 (1986-01)(Computer Publications)(AU).pdf" size="94164873" crc="abd631e8" md5="4d209bf015639113a4d22490ef05966a" sha1="ecbbf137837985455d16e6c2fb7547a67843998d"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 07 Number 01 (1986-01)(Computer Publications)(AU)[a]">
+		<description>Australian Personal Computer - Volume 07 Number 01 (1986-01)(Computer Publications)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Volume 07 Number 01 (1986-01)(Computer Publications)(AU)[a].pdf" size="108665706" crc="984de17c" md5="1903c463310bfe5e62508bdab534a84e" sha1="c8d8f5306c014568c3eb6b1e56fd29499be83c25"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 07 Number 06 (1986-06)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 07 Number 06 (1986-06)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 07 Number 06 (1986-06)(Computer Publications)(AU).pdf" size="185372402" crc="e978b981" md5="276a656d0834d060a4e37122df8f3629" sha1="e173e053fcd579797e74d78dd2414a4650ab841e"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 07 Number 09 (1986-09)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 07 Number 09 (1986-09)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 07 Number 09 (1986-09)(Computer Publications)(AU).pdf" size="625671767" crc="4e76736f" md5="a5adaef72f1840545ba3db1a686da725" sha1="5a65872fe6016ba83e69687e385c10a0c8af6d93"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 07 Number 11 (1986-11)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 07 Number 11 (1986-11)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 07 Number 11 (1986-11)(Computer Publications)(AU).pdf" size="187641668" crc="8c1732ba" md5="2cb811c882b42a5b559ab180a2faad45" sha1="1433cc061e8d02fbae06957ad494b7c7fbac6b0c"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU)">
 		<description>Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU).pdf" size="57439953" crc="2d46546a" sha1="88c0a70ecf4ab51aba8400f6bf14138aba668667" md5="f23af67de0e54885c3320dc68ca779a8"/>
+		<rom name="Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU).pdf" size="57439953" crc="2d46546a" md5="f23af67de0e54885c3320dc68ca779a8" sha1="88c0a70ecf4ab51aba8400f6bf14138aba668667"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU)[a]">
+		<description>Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU)[a]</description>
+		<rom name="Australian Personal Computer - Volume 08 Number 03 (1987-03)(Computer Publications)(AU)[a].pdf" size="357131909" crc="ece7da4b" md5="9744b0f4bed3601cb51873ff2fa925ee" sha1="359a7e83422cfbdf28073c07f9512151538222df"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 08 Number 06 (1987-06)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 08 Number 06 (1987-06)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 08 Number 06 (1987-06)(Computer Publications)(AU).pdf" size="243557958" crc="bfd40a30" md5="bc9703aaf068a7cc1fe55598e0c2209a" sha1="abebfc3ec33d1851c0c249339650ca679da08052"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 08 Number 07 (1987-07)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 08 Number 07 (1987-07)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 08 Number 07 (1987-07)(Computer Publications)(AU).pdf" size="237264618" crc="d7ee9401" md5="14e9218e74bfa1dd084d576eb469ffa2" sha1="7645d3eab8827f51e08123b9b0434e5424d38b02"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 08 Number 08 (1987-08)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 08 Number 08 (1987-08)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 08 Number 08 (1987-08)(Computer Publications)(AU).pdf" size="476597270" crc="a85763f3" md5="881809fde42fe70d11a94b8c88ace339" sha1="f2a00783ec1a122892e92875f1f8e221f5960e8c"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 08 Number 09 (1987-09)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 08 Number 09 (1987-09)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 08 Number 09 (1987-09)(Computer Publications)(AU).pdf" size="531792914" crc="8a000f93" md5="a8341868aa421f282acd4516d74ee50f" sha1="195b6d07db09482b17f3dee67c6e2fdd18391f85"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 09 Number 07 (1988-07)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 09 Number 07 (1988-07)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 09 Number 07 (1988-07)(Computer Publications)(AU).pdf" size="190837620" crc="6a0bfeb0" md5="42a72c330d3f1917f27f169dee0e27a3" sha1="a3fe8177a5ceb54046b661287c64c8705aab13ea"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 09 Number 12 (1988-12)(Computer Publications)(AU)">
 		<description>Australian Personal Computer - Volume 09 Number 12 (1988-12)(Computer Publications)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 09 Number 12 (1988-12)(Computer Publications)(AU).pdf" size="76629018" crc="dc82f5b7" sha1="80a1d59d86938f29a749cf69cec4d315bf086179" md5="b22019d8dd5ba6d8364b3d28d9fb4382"/>
+		<rom name="Australian Personal Computer - Volume 09 Number 12 (1988-12)(Computer Publications)(AU).pdf" size="76629018" crc="dc82f5b7" md5="b22019d8dd5ba6d8364b3d28d9fb4382" sha1="80a1d59d86938f29a749cf69cec4d315bf086179"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 1 No 6 (1980-11)(Australian Microcomputer Journal)(AU)">
 		<description>Australian Personal Computer - Volume 1 No 6 (1980-11)(Australian Microcomputer Journal)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 1 No 6 (1980-11)(Australian Microcomputer Journal)(AU).pdf" size="128698134" crc="67a9db41" sha1="de4770db06ff69517c77c2bf172d201e914f1049" md5="5c88282ae9d6708516ec5dad2f979455"/>
+		<rom name="Australian Personal Computer - Volume 1 No 6 (1980-11)(Australian Microcomputer Journal)(AU).pdf" size="128698134" crc="67a9db41" md5="5c88282ae9d6708516ec5dad2f979455" sha1="de4770db06ff69517c77c2bf172d201e914f1049"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 11 Number 05 (1990-05)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 11 Number 05 (1990-05)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 11 Number 05 (1990-05)(Computer Publications)(AU).pdf" size="393307602" crc="e83f9050" md5="1e4d9edc4737a35f71c45d0d5ace2485" sha1="e958f7686c2918e83efad26a18b8bedb699e90ec"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 11 Number 07 (1990-07)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 11 Number 07 (1990-07)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 11 Number 07 (1990-07)(Computer Publications)(AU).pdf" size="439190790" crc="9727bc85" md5="432c736a562b4dbb0da2182f5348376a" sha1="eb3bfff82721155c0ddd39bfc95a15b23788c87d"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 11 Number 11 (1990-11)(Computer Publications)(AU)">
+		<description>Australian Personal Computer - Volume 11 Number 11 (1990-11)(Computer Publications)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 11 Number 11 (1990-11)(Computer Publications)(AU).pdf" size="198531866" crc="8c73c364" md5="850632c312aa580d2a9cce3f9e807dc3" sha1="bfa4622f974b7140e717a644b75f3ceaa7100379"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 14 Number 03 (1993-03)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Volume 14 Number 03 (1993-03)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 14 Number 03 (1993-03)(ACP Publishing)(AU).pdf" size="615531132" crc="0ab67677" md5="674e7f299d5933d7f47d98e2ebbe7053" sha1="0e67ec7bb5cd65939b2e2cd787ba0c92522b9d78"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 15 Number 08 (1994-08)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Volume 15 Number 08 (1994-08)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 15 Number 08 (1994-08)(ACP Publishing)(AU).pdf" size="577970323" crc="81a639aa" md5="979c9b660c0842f918a85fa7301e0762" sha1="424dfa3af6246d517bab8b7873e2ee28670dfdca"/>
+	</game>
+	<game name="Australian Personal Computer - Volume 18 Number 08 (1997-08)(ACP Publishing)(AU)">
+		<description>Australian Personal Computer - Volume 18 Number 08 (1997-08)(ACP Publishing)(AU)</description>
+		<rom name="Australian Personal Computer - Volume 18 Number 08 (1997-08)(ACP Publishing)(AU).pdf" size="485445408" crc="ab1cb52c" md5="19554ca1aa40905381b7caa2ab8c1162" sha1="fba257c1fc35044d20c430592a25d59a19e2fe1f"/>
 	</game>
 	<game name="Australian Personal Computer - Volume 19 Issue 12 (1998-12)(ACP Publishing)(AU)">
 		<description>Australian Personal Computer - Volume 19 Issue 12 (1998-12)(ACP Publishing)(AU)</description>
-		<rom name="Australian Personal Computer - Volume 19 Issue 12 (1998-12)(ACP Publishing)(AU).pdf" size="501638090" crc="f8a666c0" sha1="6cd6d0fce345f009a692eb08c590e1cddf1c0bcb" md5="87a1980635ba8f158d36e2c2f8cf04d7"/>
+		<rom name="Australian Personal Computer - Volume 19 Issue 12 (1998-12)(ACP Publishing)(AU).pdf" size="501638090" crc="f8a666c0" md5="87a1980635ba8f158d36e2c2f8cf04d7" sha1="6cd6d0fce345f009a692eb08c590e1cddf1c0bcb"/>
 	</game>
 </datafile>
-

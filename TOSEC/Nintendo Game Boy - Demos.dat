@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Demos</name>
-		<description>Nintendo Game Boy - Demos (TOSEC-v2022-12-21)</description>
+		<description>Nintendo Game Boy - Demos (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
-		<author>Cassiel - mictlantecuhtle</author>
+		<version>2023-06-14</version>
+		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="20y (2009)(Snorpung)">
+		<description>20y (2009)(Snorpung)</description>
+		<rom name="20y (2009)(Snorpung).gb" size="65536" crc="15cc838d" md5="56bfee2f437bd9dad7284c14c30eccc1" sha1="349e02f077213498f2361a404870aac3eb294f5f"/>
+	</game>
 	<game name="A_KANOID (2021-09-08)(Toxa)(MIT)">
 		<description>A_KANOID (2021-09-08)(Toxa)(MIT)</description>
 		<rom name="A_KANOID (2021-09-08)(Toxa)(MIT).gb" size="32768" crc="2ddbd50b" md5="c0f21af2f134b9c85c1aeb7b0842eacd" sha1="0ef37e10b566a93b9c9868fc271d991fa24c6e28"/>
@@ -24,6 +28,10 @@
 		<description>Aliens (2020-11-19)(2BitYou)</description>
 		<rom name="Aliens (2020-11-19)(2BitYou).gb" size="1048576" crc="ce3fa09f" md5="df9513101e79b11f6ff3678d74ff5022" sha1="d10795c2f836bd7d2778f271813bfe49c1c59c76"/>
 	</game>
+	<game name="Alt To (2002)(Carillon - Cyberiad)">
+		<description>Alt To (2002)(Carillon - Cyberiad)</description>
+		<rom name="Alt To (2002)(Carillon - Cyberiad).gb" size="32768" crc="39ae76d9" md5="510c93767190866af1820a59c4acac5b" sha1="62d483c1b1eaa4b699f572e0b92b7beac57729e6"/>
+	</game>
 	<game name="Ash Demo (19xx)(-)(PD)">
 		<description>Ash Demo (19xx)(-)(PD)</description>
 		<rom name="Ash Demo (19xx)(-)(PD).bin" size="32768" crc="7aba98d2" md5="5a40cbb06c6edb1358276c83e2ca83c2" sha1="8fdf019f426518cb40aacedb5ca1108a64ce955f"/>
@@ -31,6 +39,14 @@
 	<game name="Back to Space (2021-09-30)(Tronimal)">
 		<description>Back to Space (2021-09-30)(Tronimal)</description>
 		<rom name="Back to Space (2021-09-30)(Tronimal).gb" size="262144" crc="86c8b10f" md5="73eddcf6835d3206dafb835ce44cfbac" sha1="560cb4fef04229c96a53e31221dadeeae81ad577"/>
+	</game>
+	<game name="Bad Apple (2019)(el_seyf)[nosound]">
+		<description>Bad Apple (2019)(el_seyf)[nosound]</description>
+		<rom name="Bad Apple (2019)(el_seyf)[nosound].gb" size="6790766" crc="e1d73bbc" md5="d147997695e9d2fa5c5a3215557f9710" sha1="b5e00dd518cf8db37738337adecac42e92a3aac3"/>
+	</game>
+	<game name="Bad Apple (2020)(el_seyf)[nosound]">
+		<description>Bad Apple (2020)(el_seyf)[nosound]</description>
+		<rom name="Bad Apple (2020)(el_seyf)[nosound].gb" size="2097152" crc="0ba27345" md5="ae9729572649be7d8d0616846519464e" sha1="70669f66ea23251574bb345a02e8e0fbd0fd5f16"/>
 	</game>
 	<game name="Basic Text Input GB Studio 3.0.3 v1 (2022-04-11)(GrandpasGameBox)">
 		<description>Basic Text Input GB Studio 3.0.3 v1 (2022-04-11)(GrandpasGameBox)</description>
@@ -44,9 +60,25 @@
 		<description>bcd_test (2020-07-27)(Toxa)(MIT)</description>
 		<rom name="bcd_test (2020-07-27)(Toxa)(MIT).gb" size="32768" crc="f5263741" md5="6ea6b913533167c377e1ba251f8b7f77" sha1="e61fc923c74dce84d8ec78a7ccdce93234367d4c"/>
 	</game>
+	<game name="Big Scroller (1998)(Anders Granlund)">
+		<description>Big Scroller (1998)(Anders Granlund)</description>
+		<rom name="Big Scroller (1998)(Anders Granlund).gb" size="32768" crc="a729d9fc" md5="d6d839eaac2d01ff3db44caebeaa6882" sha1="1fda6359c483ce5e04b3db08cfaf2f3576a33179"/>
+	</game>
 	<game name="CyberBullying (2021-11-29)(S_TN)">
 		<description>CyberBullying (2021-11-29)(S_TN)</description>
 		<rom name="CyberBullying (2021-11-29)(S_TN).gb" size="262144" crc="e0cbf531" md5="5b98e14687e707a629f55854795020f8" sha1="a27bbc9831a09f7b0b308805ae79a84b799203b0"/>
+	</game>
+	<game name="Dawn (1998)(Icebird)">
+		<description>Dawn (1998)(Icebird)</description>
+		<rom name="Dawn (1998)(Icebird).gb" size="131072" crc="7656ed0c" md5="ba7689754e599bbd4e13bddb3be6f5d0" sha1="7538976a608cf5511618672ac988edc2217cf9fa"/>
+	</game>
+	<game name="Demon Blood (2012)(Youth Uprising)">
+		<description>Demon Blood (2012)(Youth Uprising)</description>
+		<rom name="Demon Blood (2012)(Youth Uprising).gb" size="524288" crc="1fc5ef6b" md5="5c8206604e72871760c48c5abdf3381d" sha1="c766085f6e7730f8681e7f7fd00d699d96dda9ae"/>
+	</game>
+	<game name="DMG P-01 (2013)(Genesis Project)">
+		<description>DMG P-01 (2013)(Genesis Project)</description>
+		<rom name="DMG P-01 (2013)(Genesis Project).gb" size="131072" crc="781b5e6e" md5="1465c42e7e0a066db56bfc9dff9836ab" sha1="0061ab0dd45c02e22511ba88338ec739b10d0d82"/>
 	</game>
 	<game name="dog (2022-01-07)(KINU06)">
 		<description>dog (2022-01-07)(KINU06)</description>
@@ -72,9 +104,17 @@
 		<description>Explosion Animation (2021-10-02)(Rattenb0y)</description>
 		<rom name="Explosion Animation (2021-10-02)(Rattenb0y).gb" size="65536" crc="d014bef7" md5="d589a757bfd5d23234f28c853f622766" sha1="95ff566fee3f39180decbce31e0d3728361c6312"/>
 	</game>
+	<game name="Fancy Dance Moves (2017)(Pasi Toska)">
+		<description>Fancy Dance Moves (2017)(Pasi Toska)</description>
+		<rom name="Fancy Dance Moves (2017)(Pasi Toska).gb" size="32768" crc="fa97e417" md5="34085affba0e4e500516e2347a51e025" sha1="c8e00b3aa5d3a89c8bb9bccf2d2d209f36d5f03d"/>
+	</game>
 	<game name="Game Boy Birthday (2021-11-02)(Bishop, Piers)">
 		<description>Game Boy Birthday (2021-11-02)(Bishop, Piers)</description>
 		<rom name="Game Boy Birthday (2021-11-02)(Bishop, Piers).gb" size="32768" crc="3b17e2bf" md5="26ff415a4b4b6c9c3bca8d23b16bb270" sha1="ff81899e30e46c27e64a99ca3d16e6de23486cbe"/>
+	</game>
+	<game name="Game Boy Demo (2020-09-07)(Maximilian II)">
+		<description>Game Boy Demo (2020-09-07)(Maximilian II)</description>
+		<rom name="Game Boy Demo (2020-09-07)(Maximilian II).gb" size="32768" crc="83ec40b6" md5="3d3850aaff5a35ce78695eed2966c634" sha1="104f4909f3f530069b7d702b205a1700dccd2ac3"/>
 	</game>
 	<game name="Game Boy Window as a Giant Sprite (2021-06-05)(bbbbbr)">
 		<description>Game Boy Window as a Giant Sprite (2021-06-05)(bbbbbr)</description>
@@ -104,6 +144,10 @@
 		<description>gbforth demo - Maze (2020-10-19)(Kersjes, Tijn)</description>
 		<rom name="gbforth demo - Maze (2020-10-19)(Kersjes, Tijn).gb" size="32768" crc="d33ddbc3" md5="3c8789f101704fddccc5f3121bddb3ac" sha1="a38a8548385123af10bd1d4224951b0123c840a6"/>
 	</game>
+	<game name="Gejmboj (2010)(Snorpung)">
+		<description>Gejmboj (2010)(Snorpung)</description>
+		<rom name="Gejmboj (2010)(Snorpung).gb" size="262144" crc="3e2b1979" md5="1f70b412f026a101d418efa3e227fe27" sha1="6681d964f4b7735ced930a0218bd51745593d472"/>
+	</game>
 	<game name="Generative Hurdy-Gurdy, A (2020-05-24)(Tambalaya)">
 		<description>Generative Hurdy-Gurdy, A (2020-05-24)(Tambalaya)</description>
 		<rom name="Generative Hurdy-Gurdy, A (2020-05-24)(Tambalaya).gb" size="32768" crc="2eaae7e2" md5="78407c8034d5feeaa9ed9ecde51d4170" sha1="566e93f54c204f7a8d4c9ff98abe87ff8556b26f"/>
@@ -116,6 +160,10 @@
 		<description>Hello World (2021-09-21)(S_TN)</description>
 		<rom name="Hello World (2021-09-21)(S_TN).gb" size="2097152" crc="81b92433" md5="2d070dde0e243648e483d2fc2b5de78c" sha1="9e38f65561dc142eb5a288f5adde70cc9eae6578"/>
 	</game>
+	<game name="Hot Gameboy (1998)(Icebird)[b]">
+		<description>Hot Gameboy (1998)(Icebird)[b]</description>
+		<rom name="Hot Gameboy (1998)(Icebird)[b].gb" size="32768" crc="a9cf15ac" md5="cd01645453242457f9585b0315f979c6" sha1="4148fd24fc0692e707870e2129486cf21b1a5ad0"/>
+	</game>
 	<game name="House (2021-03-10)(2BitYou)">
 		<description>House (2021-03-10)(2BitYou)</description>
 		<rom name="House (2021-03-10)(2BitYou).gb" size="262144" crc="3764642b" md5="cc9e7e58fec69e37afe76c156ee839e3" sha1="32bc5046f581067cd6ef939b7b9cca817e9b0d49"/>
@@ -124,13 +172,45 @@
 		<description>Inktober 2021 (2021-10-28)(Bishop, Piers)</description>
 		<rom name="Inktober 2021 (2021-10-28)(Bishop, Piers).gb" size="131072" crc="afb33370" md5="665893ceb8a7b7e5b1a16d5c974db25d" sha1="fd7835e0bfbb7f22795dd0fb03126866b29967fc"/>
 	</game>
+	<game name="Is That a Demo in Your Pocket (2015)(Snorpung)">
+		<description>Is That a Demo in Your Pocket (2015)(Snorpung)</description>
+		<rom name="Is That a Demo in Your Pocket (2015)(Snorpung).gb" size="131072" crc="57c4592a" md5="2518020d9c2ff903b3af2d07d2552438" sha1="aa27ee8d7e9f87ccaa4b1c2d4f4458a3e77c319c"/>
+	</game>
+	<game name="Jumalauta Christmas 2004 Musicdisk (2004)(Jumalauta)">
+		<description>Jumalauta Christmas 2004 Musicdisk (2004)(Jumalauta)</description>
+		<rom name="Jumalauta Christmas 2004 Musicdisk (2004)(Jumalauta).gb" size="32768" crc="b2ec1f14" md5="57cb38f59cf9ba9584e0adde129d0bb3" sha1="4bcb4ea4e4af302a0c4d25043e25b8f5d57e0995"/>
+	</game>
 	<game name="Jumping for Enemies in GB Studio (2020-12-26)(bumbiss)">
 		<description>Jumping for Enemies in GB Studio (2020-12-26)(bumbiss)</description>
 		<rom name="Jumping for Enemies in GB Studio (2020-12-26)(bumbiss).gb" size="131072" crc="9372e088" md5="0801a34ba22e06c749f165c63f95c1b7" sha1="d530104767512a345855dc62d3f297d0f7b56371"/>
 	</game>
+	<game name="Kirby XXL (1998)(H. Mulder)">
+		<description>Kirby XXL (1998)(H. Mulder)</description>
+		<rom name="Kirby XXL (1998)(H. Mulder).gb" size="32768" crc="47893b7f" md5="2b7f158b2e4569c8eab9bcac8ba36346" sha1="2ff1546dd30bc15ff9882730a00f9817c54eaaa5"/>
+	</game>
+	<game name="Landscape (1998)(Anders Granlund)">
+		<description>Landscape (1998)(Anders Granlund)</description>
+		<rom name="Landscape (1998)(Anders Granlund).gb" size="32768" crc="1371dd03" md5="16655d35e6c5a6b0b369ecbbbb211c33" sha1="2af3d108f6e865019c1da7a7ae8c2d07f1414990"/>
+	</game>
 	<game name="Lost &amp; found Punch-Out!! for GameBoy (2021-04-01)(Maxfilm Games)">
 		<description>Lost &amp; found Punch-Out!! for GameBoy (2021-04-01)(Maxfilm Games)</description>
 		<rom name="Lost &amp; found Punch-Out!! for GameBoy (2021-04-01)(Maxfilm Games).gb" size="262144" crc="f539656a" md5="ac81d2ab24a5ba2d933f6432145eeb1f" sha1="63758feded441fd99a6c89e873dd7ea8de2fc2f7"/>
+	</game>
+	<game name="Man meets machine - Alternative Party 2009 (2009)(Jumalauta)">
+		<description>Man meets machine - Alternative Party 2009 (2009)(Jumalauta)</description>
+		<rom name="Man meets machine - Alternative Party 2009 (2009)(Jumalauta).gb" size="131072" crc="f945605d" md5="0ae847ba47b9a4da5c932e689179ba89" sha1="9bfd13cd0fb0bedca57a4bf5e773fa2629e6348e"/>
+	</game>
+	<game name="Merken (2020)(Bitnenfer)">
+		<description>Merken (2020)(Bitnenfer)</description>
+		<rom name="Merken (2020)(Bitnenfer).gb" size="131072" crc="1aa43244" md5="a09ff40f538a572ba07cba1106745918" sha1="4d8cf28230c2b48d957cda829a51315cf6590002"/>
+	</game>
+	<game name="Monkey Cowboys Extreme (2006)(Jumalauta)">
+		<description>Monkey Cowboys Extreme (2006)(Jumalauta)</description>
+		<rom name="Monkey Cowboys Extreme (2006)(Jumalauta).gb" size="131072" crc="bcc9d387" md5="5bd45647c293ce8ccf01b0ef50c55231" sha1="712ce9ae073b031a645ea8eefd7541ad34cc2990"/>
+	</game>
+	<game name="Murdera (2006)(Matt Current)">
+		<description>Murdera (2006)(Matt Current)</description>
+		<rom name="Murdera (2006)(Matt Current).gb" size="131072" crc="c2889322" md5="520d4920b7d8c7d878165fb8c1db063c" sha1="0f338ac4d6909d9266265955bd778a5ea0d866b3"/>
 	</game>
 	<game name="Music for Marzipan Beef Reverser (2022-04-12)(sloopygoop)">
 		<description>Music for Marzipan Beef Reverser (2022-04-12)(sloopygoop)</description>
@@ -139,6 +219,10 @@
 	<game name="NextMind Dev Kit Interactive Review (2021-04-25)(Prans Lab)">
 		<description>NextMind Dev Kit Interactive Review (2021-04-25)(Prans Lab)</description>
 		<rom name="NextMind Dev Kit Interactive Review (2021-04-25)(Prans Lab).gb" size="262144" crc="42393cdb" md5="fc3941d6e038e0dfa697c81b37d5ae3a" sha1="4a5eb6f8295766bc5366e2ba2491672bf5fe30b6"/>
+	</game>
+	<game name="Oh (2009)(Snorpung)">
+		<description>Oh (2009)(Snorpung)</description>
+		<rom name="Oh (2009)(Snorpung).gb" size="131072" crc="33c59896" md5="1def62392742d2c7f878a7c9a8e6e92e" sha1="c98519edb4af7506fb7c78624a1ca80550319ad1"/>
 	</game>
 	<game name="Organic Barcode (2021-05-24)(Central Corridor)(US)">
 		<description>Organic Barcode (2021-05-24)(Central Corridor)(US)</description>
@@ -184,13 +268,25 @@
 		<description>Pre-Teen Wasteland v5 (2021-11-06)(sloopygoop)</description>
 		<rom name="Pre-Teen Wasteland v5 (2021-11-06)(sloopygoop).gbc" size="524288" crc="33c2f009" md5="a4a2229031550e04870c028b54775e13" sha1="01e1c4bf435ecc8db7e748663de238babdde42a7"/>
 	</game>
+	<game name="Punk (1998)(Anders Granlund)">
+		<description>Punk (1998)(Anders Granlund)</description>
+		<rom name="Punk (1998)(Anders Granlund).gb" size="524288" crc="3f20126e" md5="ce2798f4b8b9163b7850e88c8d07cc80" sha1="9f2857fe697fd76028c2d7bb56085547bb57527a"/>
+	</game>
 	<game name="Raiders of Cael Grand (2021-06-14)(therurik)">
 		<description>Raiders of Cael Grand (2021-06-14)(therurik)</description>
 		<rom name="Raiders of Cael Grand (2021-06-14)(therurik).gb" size="262144" crc="541787a3" md5="4904e079dc7b8dc038f8477572ce047a" sha1="4d34eaf8d56d2cd168a9cf1a28dd689866954041"/>
 	</game>
+	<game name="Renaissance Filler (2020)(Eimink)">
+		<description>Renaissance Filler (2020)(Eimink)</description>
+		<rom name="Renaissance Filler (2020)(Eimink).gb" size="131072" crc="a58fb76f" md5="b2c9821de55f03485ad16e71e820113e" sha1="3ef5192d352865ae2007b32f3d615cf01659a6b8"/>
+	</game>
 	<game name="Ro Tries Tracking (2022-04-15)(GameGrooves Studio)">
 		<description>Ro Tries Tracking (2022-04-15)(GameGrooves Studio)</description>
 		<rom name="Ro Tries Tracking (2022-04-15)(GameGrooves Studio).gb" size="131072" crc="451beae4" md5="47855ca0c28d4423398a322087f1e146" sha1="947599c1a082ff453d39f390a070a9f01b8b5d5c"/>
+	</game>
+	<game name="Roboto (2017)(Naavis)">
+		<description>Roboto (2017)(Naavis)</description>
+		<rom name="Roboto (2017)(Naavis).gb" size="32768" crc="16c82cf9" md5="aa4c8cc5d21145cc8f1d3a137c54d363" sha1="af509764deb7fd2ce28ed1f09f58abb4fea8645f"/>
 	</game>
 	<game name="Rose's Peanut Cutscene &amp; Title Screen (2021-06-16)(Oakland, Max)">
 		<description>Rose's Peanut Cutscene &amp; Title Screen (2021-06-16)(Oakland, Max)</description>
@@ -199,6 +295,14 @@
 	<game name="sample_player test (2021-03-10)(Toxa)(MIT)">
 		<description>sample_player test (2021-03-10)(Toxa)(MIT)</description>
 		<rom name="sample_player test (2021-03-10)(Toxa)(MIT).gb" size="65536" crc="ff7fcbf0" md5="d9812ecca8db15415022ec5390585d82" sha1="f34a0d497cecdd8f3d0bdb1a495d3e9448c7b8a4"/>
+	</game>
+	<game name="Samuel (2006)(Jumalauta)">
+		<description>Samuel (2006)(Jumalauta)</description>
+		<rom name="Samuel (2006)(Jumalauta).gb" size="131072" crc="9b339329" md5="6266d50fe37e6399534eeb0d52b26943" sha1="59517b01b27c9acfd4e8b7e21f11ad655d25dd35"/>
+	</game>
+	<game name="Saulin Penis Gameboy (2008)(Jumalauta)">
+		<description>Saulin Penis Gameboy (2008)(Jumalauta)</description>
+		<rom name="Saulin Penis Gameboy (2008)(Jumalauta).gb" size="65536" crc="1a66c18a" md5="09654b2d428d89cb821feeab69b46ee2" sha1="2b6d2bd3c20d13abaa3a8ac82b715ddb0fb0fff7"/>
 	</game>
 	<game name="Scroll Loop Example (2021-08-20)(Numeritos21)">
 		<description>Scroll Loop Example (2021-08-20)(Numeritos21)</description>
@@ -215,6 +319,10 @@
 	<game name="SGBorder test (2020-10-27)(Toxa)(MIT)">
 		<description>SGBorder test (2020-10-27)(Toxa)(MIT)</description>
 		<rom name="SGBorder test (2020-10-27)(Toxa)(MIT).gb" size="32768" crc="74e1a61b" md5="6ac98d5ff8a18bd456b09d15196606b8" sha1="165d15e5e23525543dec0f5d75c5da05cf17119f"/>
+	</game>
+	<game name="Skinke (2005)(Jumalauta)">
+		<description>Skinke (2005)(Jumalauta)</description>
+		<rom name="Skinke (2005)(Jumalauta).gb" size="32768" crc="694777a3" md5="e5ece3e0613c99f0af412f82cf6eb69b" sha1="acde484397956c17e15d05fdd6fc531dc4c8b32d"/>
 	</game>
 	<game name="SIERPINSKIBOY v1.0.0 (2021-04-04)(basxto)(MIT)">
 		<description>SIERPINSKIBOY v1.0.0 (2021-04-04)(basxto)(MIT)</description>
@@ -236,13 +344,33 @@
 		<description>Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en)</description>
 		<rom name="Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en).gb" size="262144" crc="f835a6cf" md5="0f9005e93abb71219544a68236f15f18" sha1="0ec5b736d9417353623556c6bb575ada28411c27"/>
 	</game>
+	<game name="Syntax Pocket Party, The (2020)(Beige)">
+		<description>Syntax Pocket Party, The (2020)(Beige)</description>
+		<rom name="Syntax Pocket Party, The (2020)(Beige).gb" size="131072" crc="eea2c5a1" md5="025cb706d4785818f355baae9adadb60" sha1="fb1c616dce92a280916801b02d2d2f8401ffa0ec"/>
+	</game>
 	<game name="Technical Demo - Vertical Scanlines-RayTracing (2021-10-12)(PSPiso)">
 		<description>Technical Demo - Vertical Scanlines-RayTracing (2021-10-12)(PSPiso)</description>
 		<rom name="Technical Demo - Vertical Scanlines-RayTracing (2021-10-12)(PSPiso).gb" size="32768" crc="7432a984" md5="ed9832bf0117155cefaaf733d97603fb" sha1="42a721826dc8f96a09edf9d8494156f098323454"/>
 	</game>
+	<game name="Tendonin (2022)(Rebels)">
+		<description>Tendonin (2022)(Rebels)</description>
+		<rom name="Tendonin (2022)(Rebels).gb" size="524288" crc="1990ff29" md5="9bfc8109412881baa6f7140703dde927" sha1="6970e7c98515692356d2967a1ca18bd4cf26d34d"/>
+	</game>
+	<game name="Terminator II - Jugement Day (1998)(MegaMan_X)">
+		<description>Terminator II - Jugement Day (1998)(MegaMan_X)</description>
+		<rom name="Terminator II - Jugement Day (1998)(MegaMan_X).gb" size="1048576" crc="ca9c9710" md5="8151853b8b0b0b610afe2c4c0dde7e7e" sha1="3f2909ce8b43955842a68779e0b9ae061385d09a"/>
+	</game>
+	<game name="This Side Up (2004)(amuQ Creations)">
+		<description>This Side Up (2004)(amuQ Creations)</description>
+		<rom name="This Side Up (2004)(amuQ Creations).gb" size="131072" crc="de998021" md5="d7be1cedf89c34b88e8f17cb93c329e6" sha1="b58b0f6ac05f2e506258a8085ff9f0a2a488e5e4"/>
+	</game>
 	<game name="Unearthed OST (2021-11-07)(GumpyFunction - Jelter, Ben)">
 		<description>Unearthed OST (2021-11-07)(GumpyFunction - Jelter, Ben)</description>
 		<rom name="Unearthed OST (2021-11-07)(GumpyFunction - Jelter, Ben).gb" size="262144" crc="4249e80c" md5="e66611e0d727f481f11b89cd5e6bc242" sha1="d602b612cee4b45b3d5b88a3f00d38bf8b6ad0c8"/>
+	</game>
+	<game name="Unofficial Alternative Stork Party 2006 Invitation (2006)(Jumalauta)">
+		<description>Unofficial Alternative Stork Party 2006 Invitation (2006)(Jumalauta)</description>
+		<rom name="Unofficial Alternative Stork Party 2006 Invitation (2006)(Jumalauta).gb" size="32768" crc="d6dd5b20" md5="2b0a0ea7ce38cbc9f30ddaa514544a1a" sha1="56af1e2def6c392c8c1e8930abca8af760ea6ad4"/>
 	</game>
 	<game name="Van Gogh Museum v1.0.0 (2020-10-20)(Pollorenzo)">
 		<description>Van Gogh Museum v1.0.0 (2020-10-20)(Pollorenzo)</description>
@@ -252,13 +380,25 @@
 		<description>Variable Width Font Demo (2021-09-30)(Toxa)(MIT)</description>
 		<rom name="Variable Width Font Demo (2021-09-30)(Toxa)(MIT).gb" size="65536" crc="a6fae49d" md5="e114f44d1ec32687c982db89ffd7f044" sha1="1bb440d07569fc9f92082c1696abbbe1463ab16a"/>
 	</game>
+	<game name="Versatility (1998)(Patriek Lesparre)">
+		<description>Versatility (1998)(Patriek Lesparre)</description>
+		<rom name="Versatility (1998)(Patriek Lesparre).gb" size="65536" crc="c9dca59c" md5="82fa64030450c93a0d8d9a483b5e09e9" sha1="7d8d77fddaaedee738a4fefb4e4a12e6f41912e5"/>
+	</game>
 	<game name="VGM2GBSFX libtest (2022-02-14)(Toxa)(MIT)">
 		<description>VGM2GBSFX libtest (2022-02-14)(Toxa)(MIT)</description>
 		<rom name="VGM2GBSFX libtest (2022-02-14)(Toxa)(MIT).gb" size="65536" crc="f2028ded" md5="d31849522dec85300fa018723330dd11" sha1="63265f657e5b909100e7e23f285f573557948bb5"/>
 	</game>
+	<game name="We (2009)(Jumalauta)">
+		<description>We (2009)(Jumalauta)</description>
+		<rom name="We (2009)(Jumalauta).gb" size="262144" crc="391ac241" md5="cf7869de5aa946c0908c68c25afe4a1e" sha1="40555f00f4a0bfea75ff80aae2aa81e1354a15b0"/>
+	</game>
 	<game name="Yiff Slideshow (2022-02-04)(Phoenix Adverdale)">
 		<description>Yiff Slideshow (2022-02-04)(Phoenix Adverdale)</description>
 		<rom name="Yiff Slideshow (2022-02-04)(Phoenix Adverdale).gb" size="524288" crc="7e8aed10" md5="cecde95ded660255568e3c1ba3f4692f" sha1="a3092581c20f00d321d59c80af32f1cec6be12d7"/>
+	</game>
+	<game name="Yo-grl Makes a Demo (2020)(Proxima)">
+		<description>Yo-grl Makes a Demo (2020)(Proxima)</description>
+		<rom name="Yo-grl Makes a Demo (2020)(Proxima).gb" size="262144" crc="c0838b00" md5="87733f881961b852471c361b126d2e62" sha1="6858bc2d36a850c1a1b6b77aa24b470e0566f50b"/>
 	</game>
 	<game name="Zilogized (2021)(Kabcorp)">
 		<description>Zilogized (2021)(Kabcorp)</description>

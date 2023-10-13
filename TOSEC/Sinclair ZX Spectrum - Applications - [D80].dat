@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Applications - [D80]</name>
-		<description>Sinclair ZX Spectrum - Applications - [D80] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Applications - [D80] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:11</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:51</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -17,6 +17,18 @@
 	<game name="Apollon (1992)(Proxima)(CZ)">
 		<description>Apollon (1992)(Proxima)(CZ)</description>
 		<rom name="Apollon (1992)(Proxima)(CZ).d80" size="737280" crc="3622aeca" md5="39ef014f47fd84d7f94189311c61e909" sha1="0842cd626b29070da77e34aed2e949e54181bf3a"/>
+	</game>
+	<game name="Art Disk (1991)(Proxima)(CZ)">
+		<description>Art Disk (1991)(Proxima)(CZ)</description>
+		<rom name="Art Disk (1991)(Proxima)(CZ).d80" size="55296" crc="fe8fb0a5" md5="b2a0e5eaf8cece07b4c99e6e01187161" sha1="b4a9b8266cac97feda3868642577049e44096fb0"/>
+	</game>
+	<game name="Booter (1995)(J.H.C.S.)(CZ)">
+		<description>Booter (1995)(J.H.C.S.)(CZ)</description>
+		<rom name="Booter (1995)(J.H.C.S.)(CZ).d80" size="230400" crc="5fd1de2d" md5="0596ae1532351f11405d907ace23727f" sha1="022b9f9575d044dcca79833001ada4919cd68084"/>
+	</game>
+	<game name="CBD (1987)(Veris, Jan)(CZ)">
+		<description>CBD (1987)(Veris, Jan)(CZ)</description>
+		<rom name="CBD (1987)(Veris, Jan)(CZ).d80" size="737280" crc="da386ccb" md5="f98c242dc5fcc3416d7023810dce3f39" sha1="830799acf9013c0fa32081a6364b1e2497d7c72e"/>
 	</game>
 	<game name="Calculus (1993)(Proxima)(CZ)">
 		<description>Calculus (1993)(Proxima)(CZ)</description>
@@ -30,9 +42,9 @@
 		<description>DTP Machine Utility (1992)(Ultrasoft)(SK)(cs)</description>
 		<rom name="DTP Machine Utility (1992)(Ultrasoft)(SK)(cs).d80" size="737280" crc="1da6bf66" md5="d2a6ad45ede83f7d19ae41455d66cf89" sha1="26b3734129967d7ed6e0ae14c097e0f25295264e"/>
 	</game>
-	<game name="Desktop (1991)(Proxima)(CZ)">
-		<description>Desktop (1991)(Proxima)(CZ)</description>
-		<rom name="Desktop (1991)(Proxima)(CZ).d80" size="737280" crc="79bf210d" md5="66de932b5269156a05b42e01e31aad92" sha1="fa66f1ea90e6589c2513d69790885cc4ac4ca398"/>
+	<game name="Desktop (1991)(Proxima)(CZ)(M3)">
+		<description>Desktop (1991)(Proxima)(CZ)(M3)</description>
+		<rom name="Desktop (1991)(Proxima)(CZ)(M3).d80" size="737280" crc="79bf210d" md5="66de932b5269156a05b42e01e31aad92" sha1="fa66f1ea90e6589c2513d69790885cc4ac4ca398"/>
 	</game>
 	<game name="Devast Ace II (1992)(Proxima)(CZ)(en)">
 		<description>Devast Ace II (1992)(Proxima)(CZ)(en)</description>
@@ -50,13 +62,65 @@
 		<description>Fotografie (1990)(J.H.C.S.)(CZ)</description>
 		<rom name="Fotografie (1990)(J.H.C.S.)(CZ).d80" size="737280" crc="455dbcb7" md5="a49840276359b4e94bca9542858e66b6" sha1="db5bc956f9c3000531daad227c6874f31b8f8ada"/>
 	</game>
-	<game name="Prometheus Z80 Turbo Assembler (1993)(Proxima)(48K-128K)(CZ)(en)">
-		<description>Prometheus Z80 Turbo Assembler (1993)(Proxima)(48K-128K)(CZ)(en)</description>
-		<rom name="Prometheus Z80 Turbo Assembler (1993)(Proxima)(48K-128K)(CZ)(en).d80" size="737280" crc="e6c25478" md5="a8ab9577144db2f72276106ce88ee5a3" sha1="13f922e461ad330c9f3baa931720a5cf8d81b9a5"/>
+	<game name="Hard Copy (1994)(J.H.C.S.)(CZ)">
+		<description>Hard Copy (1994)(J.H.C.S.)(CZ)</description>
+		<rom name="Hard Copy (1994)(J.H.C.S.)(CZ).d80" size="737280" crc="ea82a82e" md5="7191310e6c845eff70d1de6e01481611" sha1="5451f2d4ce3da6597054b3635cd3d4b2751b234b"/>
+	</game>
+	<game name="Klub uzivatelu Desktopu 1 (1992)(Proxima)(CZ)">
+		<description>Klub uzivatelu Desktopu 1 (1992)(Proxima)(CZ)</description>
+		<rom name="Klub uzivatelu Desktopu 1 (1992)(Proxima)(CZ).d80" size="737280" crc="cc543c15" md5="41381a6c09dc4f0022015aa96e4166f2" sha1="94b581433b5ca1a8148c815d6bc49b697b7d6c9c"/>
+	</game>
+	<game name="Klub uzivatelu Desktopu 3 (1993)(Proxima)(CZ)">
+		<description>Klub uzivatelu Desktopu 3 (1993)(Proxima)(CZ)</description>
+		<rom name="Klub uzivatelu Desktopu 3 (1993)(Proxima)(CZ).d80" size="737280" crc="4b84a986" md5="3a58afae3b7a0fb0fb46ab8632ee4879" sha1="543e6e8f8a5cb7c1fdbe62320855d942919ab49f"/>
+	</game>
+	<game name="Klub uzivatelu Desktopu 4 (1993)(Proxima)(CZ)">
+		<description>Klub uzivatelu Desktopu 4 (1993)(Proxima)(CZ)</description>
+		<rom name="Klub uzivatelu Desktopu 4 (1993)(Proxima)(CZ).d80" size="737280" crc="922f6f70" md5="a6ac1db130388be33b9c61dcb1517b0f" sha1="c0cf36715a2935ceb00937463528bf5106006b90"/>
+	</game>
+	<game name="Navrh plosnych spoju (1993)(Vobejda, Josef)(CZ)">
+		<description>Navrh plosnych spoju (1993)(Vobejda, Josef)(CZ)</description>
+		<rom name="Navrh plosnych spoju (1993)(Vobejda, Josef)(CZ).d80" size="737280" crc="db54dc90" md5="a0e73e36e46648bf5199c93563047b53" sha1="9d29bcec52df6ccac80317f1d7c6e1d8f71a456f"/>
+	</game>
+	<game name="Oradot 2 (1995)(J.H.C.S.)(CZ)">
+		<description>Oradot 2 (1995)(J.H.C.S.)(CZ)</description>
+		<rom name="Oradot 2 (1995)(J.H.C.S.)(CZ).d80" size="737280" crc="ef809780" md5="a59b10a1ab2bb5cd116e32412614b6f8" sha1="3c3e68d7487060414b5a92084baf81854d475e2e"/>
+	</game>
+	<game name="Penezni denik (1993)(Orion Ostrava - Proxima)(CZ)">
+		<description>Penezni denik (1993)(Orion Ostrava - Proxima)(CZ)</description>
+		<rom name="Penezni denik (1993)(Orion Ostrava - Proxima)(CZ).d80" size="368640" crc="976839c6" md5="af26e354629f54a8d37c7797c9a5dda0" sha1="b6121b28ff44bfac1b1fae0b1ff3b9e27c7f1867"/>
+	</game>
+	<game name="Poster Maker (1993)(Perpetum)(SK)(Part 1 of 2)">
+		<description>Poster Maker (1993)(Perpetum)(SK)(Part 1 of 2)</description>
+		<rom name="Poster Maker (1993)(Perpetum)(SK)(Part 1 of 2).d80" size="737280" crc="496b6b13" md5="ea4d605e860a8549a4197fddf75c3c2f" sha1="bb97c3a2314f5e7836e68cd58984335ced56e124"/>
+	</game>
+	<game name="Poster Maker (1993)(Perpetum)(SK)(Part 2 of 2)">
+		<description>Poster Maker (1993)(Perpetum)(SK)(Part 2 of 2)</description>
+		<rom name="Poster Maker (1993)(Perpetum)(SK)(Part 2 of 2).d80" size="718848" crc="52d049ba" md5="907ee8a65cc382a2e1188e6af6ef7b60" sha1="2c9cacfd4fb4adac63bca18ed88c22e87d3623fe"/>
+	</game>
+	<game name="Prometheus Z80 Turbo Assembler (1990)(Proxima)(48K-128K)(CZ)(en)">
+		<description>Prometheus Z80 Turbo Assembler (1990)(Proxima)(48K-128K)(CZ)(en)</description>
+		<rom name="Prometheus Z80 Turbo Assembler (1990)(Proxima)(48K-128K)(CZ)(en).d80" size="737280" crc="e6c25478" md5="a8ab9577144db2f72276106ce88ee5a3" sha1="13f922e461ad330c9f3baa931720a5cf8d81b9a5"/>
+	</game>
+	<game name="Public 23 (1995)(Proxima)(CZ)">
+		<description>Public 23 (1995)(Proxima)(CZ)</description>
+		<rom name="Public 23 (1995)(Proxima)(CZ).d80" size="737280" crc="ed9d70d3" md5="c7757c6cd2668b49ea3b1ee9e706075d" sha1="712a3e550e73cc5a22e0fd6049607555d1088491"/>
+	</game>
+	<game name="Public 26 (1996)(Proxima)(CZ)">
+		<description>Public 26 (1996)(Proxima)(CZ)</description>
+		<rom name="Public 26 (1996)(Proxima)(CZ).d80" size="368640" crc="ca5e5d30" md5="551bbdbce974b5edff54cbbf25ee3650" sha1="182b1b3755a3ebcf044e120e18bf6bcd972bc387"/>
+	</game>
+	<game name="Public 27 (1996)(Proxima)(CZ)">
+		<description>Public 27 (1996)(Proxima)(CZ)</description>
+		<rom name="Public 27 (1996)(Proxima)(CZ).d80" size="819200" crc="b64e66ec" md5="de56273311d8a71b245cfe2bd874ec7e" sha1="3c7d3e75a5909c68113f25a9fab701b1287139c8"/>
 	</game>
 	<game name="Screen Machine (1992)(Ultrasoft)(SK)(cs)">
 		<description>Screen Machine (1992)(Ultrasoft)(SK)(cs)</description>
 		<rom name="Screen Machine (1992)(Ultrasoft)(SK)(cs).d80" size="737280" crc="41aaa2d1" md5="60492ed9c521cd71fe02dfedb77e37d3" sha1="6b96dd4000794b8a60862e453a70ca144be5c289"/>
+	</game>
+	<game name="Screen Machine (1992)(Ultrasoft)(SK)(cs)[a]">
+		<description>Screen Machine (1992)(Ultrasoft)(SK)(cs)[a]</description>
+		<rom name="Screen Machine (1992)(Ultrasoft)(SK)(cs)[a].d80" size="737280" crc="c213df74" md5="3caa222e39c378451e80f6523fea109e" sha1="bea62ad99866f7c0409058db0b26c0e8afe87848"/>
 	</game>
 	<game name="Sprite Maker (1992)(J.H.C.S.)(CZ)">
 		<description>Sprite Maker (1992)(J.H.C.S.)(CZ)</description>
@@ -66,13 +130,17 @@
 		<description>Text Machine (1992)(Ultrasoft)(SK)(cs)</description>
 		<rom name="Text Machine (1992)(Ultrasoft)(SK)(cs).d80" size="737280" crc="df68aacd" md5="134c5fc756d521281aa7fa1814486d7f" sha1="4d37b0abb6f42d490d37e05569db7afb32e66095"/>
 	</game>
+	<game name="Text Machine (1992)(Ultrasoft)(SK)(cs)[a]">
+		<description>Text Machine (1992)(Ultrasoft)(SK)(cs)[a]</description>
+		<rom name="Text Machine (1992)(Ultrasoft)(SK)(cs)[a].d80" size="737280" crc="6ca9b6f9" md5="8f8d53b09371e869e172ca6b4e1c8950" sha1="f4e4ea3360b7a10471d104b37065cb07c65ac329"/>
+	</game>
 	<game name="Tolstoj (1993)(Proxima)(CZ)">
 		<description>Tolstoj (1993)(Proxima)(CZ)</description>
 		<rom name="Tolstoj (1993)(Proxima)(CZ).d80" size="737280" crc="15675316" md5="c332fd5368d2de2c021b28e82a592ea2" sha1="f41f204457f6c20ca2fccf35f1b77829ae5a0202"/>
 	</game>
-	<game name="Tools 80 (1992)(Proxima)(CZ)">
-		<description>Tools 80 (1992)(Proxima)(CZ)</description>
-		<rom name="Tools 80 (1992)(Proxima)(CZ).d80" size="36864" crc="35ab7e26" md5="442c4e76c41f75c5afbc413300c2c2c2" sha1="fbf9fe1d83c05a35c07a9e6915bb973b6e64fe7e"/>
+	<game name="Tools 80 (1992)(Proxima)(CZ)(en)">
+		<description>Tools 80 (1992)(Proxima)(CZ)(en)</description>
+		<rom name="Tools 80 (1992)(Proxima)(CZ)(en).d80" size="36864" crc="35ab7e26" md5="442c4e76c41f75c5afbc413300c2c2c2" sha1="fbf9fe1d83c05a35c07a9e6915bb973b6e64fe7e"/>
 	</game>
 	<game name="V-Base (1993)(Proxima)(CZ)">
 		<description>V-Base (1993)(Proxima)(CZ)</description>

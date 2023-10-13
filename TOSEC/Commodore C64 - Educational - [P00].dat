@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Educational - [P00]</name>
-		<description>Commodore C64 - Educational - [P00] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Educational - [P00] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -352,6 +352,18 @@
 		<description>Brickwall (demo) (1995)(-)[cr M8]</description>
 		<rom name="Brickwall (demo) (1995)(-)[cr M8].p00" size="18722" crc="317aeb3d" md5="bc9769b1f305542004fb6f7bd36104c0" sha1="04a3e5d2fda2be6527d0a8fbac47c891f68c0809"/>
 	</game>
+	<game name="Build It (1991)(Software 2000)[cr DTC][t DTC]">
+		<description>Build It (1991)(Software 2000)[cr DTC][t DTC]</description>
+		<rom name="Build It (1991)(Software 2000)[cr DTC][t DTC].p00" size="15004" crc="a763131c" md5="17918d65448d93cb1beab0796fad0c39" sha1="4312c43c9a4c81bfb7dbe738b4d7be4b8f363283"/>
+	</game>
+	<game name="Build It (1991)(Software 2000)[cr DTC][t DTC][a]">
+		<description>Build It (1991)(Software 2000)[cr DTC][t DTC][a]</description>
+		<rom name="Build It (1991)(Software 2000)[cr DTC][t DTC][a].p00" size="15004" crc="d84db17f" md5="8dbe31fa58623d79711beb9e01bcd2ae" sha1="01e4a4f925e0019d1192aa22b7eac3bcc5da1e45"/>
+	</game>
+	<game name="Build It (1991)(Software 2000)[cr DTC][t DTC][a2]">
+		<description>Build It (1991)(Software 2000)[cr DTC][t DTC][a2]</description>
+		<rom name="Build It (1991)(Software 2000)[cr DTC][t DTC][a2].p00" size="15004" crc="f6f88cad" md5="66a92a7c6ca77b18c89c35d3e56e6f2d" sha1="e7952eaab4a0731c2ba9a9cfaf168eb3f19b3fb0"/>
+	</game>
 	<game name="Bundesliga-Quiz (19xx)(-)(de)">
 		<description>Bundesliga-Quiz (19xx)(-)(de)</description>
 		<rom name="Bundesliga-Quiz (19xx)(-)(de).p00" size="20236" crc="c581a11e" md5="0cfba37ceec234e2c9a78da2400f1fca" sha1="cb60d3bb3ea2f6657427a3229ed99741c6d8d680"/>
@@ -523,14 +535,6 @@
 	<game name="Deep Void (1997)(Willow)[cr Crap Wares+Hitmen]">
 		<description>Deep Void (1997)(Willow)[cr Crap Wares+Hitmen]</description>
 		<rom name="Deep Void (1997)(Willow)[cr Crap Wares+Hitmen].p00" size="11874" crc="5f48be67" md5="d476bcd76c04c6adcd86f5227bb006c9" sha1="e7bc4043538d2c84f22bfb449725204807268c94"/>
-	</game>
-	<game name="Depth Charge (1983)(Commodore)">
-		<description>Depth Charge (1983)(Commodore)</description>
-		<rom name="Depth Charge (1983)(Commodore).p00" size="6083" crc="9ab32bec" md5="4376985e8066e04f8822a7e389c31569" sha1="da4e309305fdc086dd55e9327c4430daaf59a45a"/>
-	</game>
-	<game name="Depth Charge (1983)(Commodore)[a]">
-		<description>Depth Charge (1983)(Commodore)[a]</description>
-		<rom name="Depth Charge (1983)(Commodore)[a].p00" size="6083" crc="ef73161d" md5="b452433f53d57b8cebf2b8228aec0b38" sha1="d008f8cc00955cd99aac6046b2e4fc190bee75c1"/>
 	</game>
 	<game name="Deri Colour (1990)(CP Verlag)[cr Triad][t +2 Triad]">
 		<description>Deri Colour (1990)(CP Verlag)[cr Triad][t +2 Triad]</description>
@@ -900,9 +904,9 @@
 		<description>Galgen-Mann (1983)(Elke Saller)(de)</description>
 		<rom name="Galgen-Mann (1983)(Elke Saller)(de).p00" size="4924" crc="a66b98b3" md5="9edfb5c1dc0c2f46dd6b67ea462352f0" sha1="b67afb179153af42297460dd8a16070565278d0e"/>
 	</game>
-	<game name="Galgenmännchen (19xx)(-)(de)">
-		<description>Galgenmännchen (19xx)(-)(de)</description>
-		<rom name="Galgenmännchen (19xx)(-)(de).p00" size="3021" crc="c06f8660" md5="02c441a3154616e747873a49d567e726" sha1="09bb32c3beea24ad1854da3f0ffadf502e88b1a9"/>
+	<game name="Galgenmännchen (19xx)(-)(de)(PD)">
+		<description>Galgenmännchen (19xx)(-)(de)(PD)</description>
+		<rom name="Galgenmännchen (19xx)(-)(de)(PD).p00" size="3021" crc="c06f8660" md5="02c441a3154616e747873a49d567e726" sha1="09bb32c3beea24ad1854da3f0ffadf502e88b1a9"/>
 	</game>
 	<game name="Galgje (1984)(Dogsoft)(nl)">
 		<description>Galgje (1984)(Dogsoft)(nl)</description>
@@ -1236,13 +1240,13 @@
 		<description>Imparare Giocando (1987)(Topware)(it)</description>
 		<rom name="Imparare Giocando (1987)(Topware)(it).p00" size="14516" crc="f6775ef2" md5="2d8528733e2d64ad15cd1a307994931b" sha1="1ea2d588fc2f9fcc4e71ddc97a8f3f66bbe4f27a"/>
 	</game>
-	<game name="In Order (1983)(Commodore Educational)">
-		<description>In Order (1983)(Commodore Educational)</description>
-		<rom name="In Order (1983)(Commodore Educational).p00" size="8791" crc="9138a026" md5="638d6945c027ec197ebaed9c66195e0f" sha1="269b2f4b142d7073b9adf554754de061b4147090"/>
-	</game>
 	<game name="Injured Engine (1984)(Imagic)">
 		<description>Injured Engine (1984)(Imagic)</description>
 		<rom name="Injured Engine (1984)(Imagic).p00" size="36433" crc="771e48ad" md5="47dd5b0b0ed2d999d6d7a18fc0ac5207" sha1="30f0771220d1999f829cfefa1e116148c3a53faf"/>
+	</game>
+	<game name="In-Order (1983)(Commodore Educational)">
+		<description>In-Order (1983)(Commodore Educational)</description>
+		<rom name="In-Order (1983)(Commodore Educational).p00" size="8791" crc="9138a026" md5="638d6945c027ec197ebaed9c66195e0f" sha1="269b2f4b142d7073b9adf554754de061b4147090"/>
 	</game>
 	<game name="Insanity (1997)(Shinjitsu Software)[cr AVT][t +1 AVT]">
 		<description>Insanity (1997)(Shinjitsu Software)[cr AVT][t +1 AVT]</description>
@@ -1267,14 +1271,6 @@
 	<game name="Ions (1997)(Terga Minos)[cr FLT+LXT][t +5 FLT+LXT][Docs]">
 		<description>Ions (1997)(Terga Minos)[cr FLT+LXT][t +5 FLT+LXT][Docs]</description>
 		<rom name="Ions (1997)(Terga Minos)[cr FLT+LXT][t +5 FLT+LXT][Docs].p00" size="20006" crc="7e9d717a" md5="0f9c5f9b44fb7c28f2ad5c2ec9b1a214" sha1="c5b4fd5df29fa2f2f980a17d8b71d6beb903a8e7"/>
-	</game>
-	<game name="IQ (1987)(CRL)[cr HTL]">
-		<description>IQ (1987)(CRL)[cr HTL]</description>
-		<rom name="IQ (1987)(CRL)[cr HTL].p00" size="17262" crc="b9e13814" md5="d0ded0317c542b0ffa4efae69eec3309" sha1="c67bf5b2bad31d2d68b8562c76ae0afd90dd02d6"/>
-	</game>
-	<game name="IQ (1987)(CRL)[cr HTL][a]">
-		<description>IQ (1987)(CRL)[cr HTL][a]</description>
-		<rom name="IQ (1987)(CRL)[cr HTL][a].p00" size="17262" crc="6dd72fe4" md5="7bf6c2cca4eb5127e6187637aaf236dd" sha1="39cbac9bbff42792f1516bda773e5c6940c76b48"/>
 	</game>
 	<game name="IQ 64 (1983)(Sunsoft)">
 		<description>IQ 64 (1983)(Sunsoft)</description>
@@ -1552,9 +1548,9 @@
 		<description>Linear Systems (1982)(Commodore Educational)</description>
 		<rom name="Linear Systems (1982)(Commodore Educational).p00" size="11967" crc="05710243" md5="9b22aeb0f832204e765287feb142c1d8" sha1="0f4fa34ad16e197903b0bbb2c510642e54883837"/>
 	</game>
-	<game name="Lingo (1988)(Hermans, Roland)(nl)[cr Sphinx][t +2 Sphinx]">
-		<description>Lingo (1988)(Hermans, Roland)(nl)[cr Sphinx][t +2 Sphinx]</description>
-		<rom name="Lingo (1988)(Hermans, Roland)(nl)[cr Sphinx][t +2 Sphinx].p00" size="27396" crc="5e029d80" md5="8b8154e4bbae68819bfe391cef4ee0ce" sha1="7992a4da696941e0ad39ddb24629ff5bd7319271"/>
+	<game name="Lingo (1988)(Hermans, Roland)(nl)(PD)[cr Sphinx][t +2 Sphinx]">
+		<description>Lingo (1988)(Hermans, Roland)(nl)(PD)[cr Sphinx][t +2 Sphinx]</description>
+		<rom name="Lingo (1988)(Hermans, Roland)(nl)(PD)[cr Sphinx][t +2 Sphinx].p00" size="27396" crc="5e029d80" md5="8b8154e4bbae68819bfe391cef4ee0ce" sha1="7992a4da696941e0ad39ddb24629ff5bd7319271"/>
 	</game>
 	<game name="Lingos (1994)(Marex)[cr F4CG]">
 		<description>Lingos (1994)(Marex)[cr F4CG]</description>
@@ -1912,9 +1908,9 @@
 		<description>Maxit (1983)(Courbois)(nl)</description>
 		<rom name="Maxit (1983)(Courbois)(nl).p00" size="4575" crc="82a6a2ac" md5="398655864a5f5a4945e7bdddabf5873c" sha1="6ab0c073a01fe1977c11b71593b48f99dd9f80f8"/>
 	</game>
-	<game name="MazezaM (2004)(Tzvetkov, Ventzislav)[cr Aldi][t +3 Aldi]">
-		<description>MazezaM (2004)(Tzvetkov, Ventzislav)[cr Aldi][t +3 Aldi]</description>
-		<rom name="MazezaM (2004)(Tzvetkov, Ventzislav)[cr Aldi][t +3 Aldi].p00" size="11556" crc="146171aa" md5="f37155b7d4654aed26475c60bb2ddb2b" sha1="276fcbbb2cb2a8b9948767639b4797535f1d5cd0"/>
+	<game name="MazezaM (2004)(Tzvetkov, Ventzislav)(PD)[cr Aldi][t +3 Aldi]">
+		<description>MazezaM (2004)(Tzvetkov, Ventzislav)(PD)[cr Aldi][t +3 Aldi]</description>
+		<rom name="MazezaM (2004)(Tzvetkov, Ventzislav)(PD)[cr Aldi][t +3 Aldi].p00" size="11556" crc="146171aa" md5="f37155b7d4654aed26475c60bb2ddb2b" sha1="276fcbbb2cb2a8b9948767639b4797535f1d5cd0"/>
 	</game>
 	<game name="Mega Letter (1988)(-)">
 		<description>Mega Letter (1988)(-)</description>
@@ -2880,13 +2876,13 @@
 		<description>Roll It (1990)(Markt &amp; Technik)[cr Rush]</description>
 		<rom name="Roll It (1990)(Markt &amp; Technik)[cr Rush].p00" size="16415" crc="f5412be8" md5="4dccfadd42dfb830ea7216ec45104d7e" sha1="8109f84547b52c09b55ea02f8ea968a388aafb07"/>
 	</game>
-	<game name="Roloid (1995)(Levente, Méhész)[cr SCS+TRC][t +2 SCS+TRC]">
-		<description>Roloid (1995)(Levente, Méhész)[cr SCS+TRC][t +2 SCS+TRC]</description>
-		<rom name="Roloid (1995)(Levente, Méhész)[cr SCS+TRC][t +2 SCS+TRC].p00" size="22509" crc="bd284e38" md5="df2d0235c0cce13774b5b6b189671d4b" sha1="70a4621bfb09a6876d2240f36c7eab683320997b"/>
+	<game name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC]">
+		<description>Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC]</description>
+		<rom name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC].p00" size="22509" crc="bd284e38" md5="df2d0235c0cce13774b5b6b189671d4b" sha1="70a4621bfb09a6876d2240f36c7eab683320997b"/>
 	</game>
-	<game name="Roloid (1995)(Levente, Méhész)[cr SCS+TRC][t +2 SCS+TRC][a]">
-		<description>Roloid (1995)(Levente, Méhész)[cr SCS+TRC][t +2 SCS+TRC][a]</description>
-		<rom name="Roloid (1995)(Levente, Méhész)[cr SCS+TRC][t +2 SCS+TRC][a].p00" size="22509" crc="4f80cb9c" md5="c5569894741d35f07535ebe8ef3aabbf" sha1="8d3b7d501b3937d1b4869b5179e6ede167aadb77"/>
+	<game name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC][a]">
+		<description>Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC][a]</description>
+		<rom name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC][a].p00" size="22509" crc="4f80cb9c" md5="c5569894741d35f07535ebe8ef3aabbf" sha1="8d3b7d501b3937d1b4869b5179e6ede167aadb77"/>
 	</game>
 	<game name="Roman Empire (1983)(Addison-Wesley Publishers)">
 		<description>Roman Empire (1983)(Addison-Wesley Publishers)</description>

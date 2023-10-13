@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [T64]</name>
-		<description>Commodore C64 - Games - Racing - [T64] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Racing - [T64] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -592,9 +592,9 @@
 		<description>Autorennen (1984)(iWT)(de)[cr Endurion]</description>
 		<rom name="Autorennen (1984)(iWT)(de)[cr Endurion].t64" size="2231" crc="c711cbf9" md5="1e7ea39182505cbf7bd6ea684770e77f" sha1="9ed35f5922ac11bd75e826266ce5d4cf3de73cba"/>
 	</game>
-	<game name="Autorijden (1984)(Courbois Software)(nl)">
-		<description>Autorijden (1984)(Courbois Software)(nl)</description>
-		<rom name="Autorijden (1984)(Courbois Software)(nl).t64" size="3491" crc="341d653a" md5="e84110ffd396849ab6294bfc868aa70c" sha1="c7bb4d9b331cae3c18d1c60ca082a78aa133218f"/>
+	<game name="Autorijden (1984)(Courbois)(nl)">
+		<description>Autorijden (1984)(Courbois)(nl)</description>
+		<rom name="Autorijden (1984)(Courbois)(nl).t64" size="3491" crc="341d653a" md5="e84110ffd396849ab6294bfc868aa70c" sha1="c7bb4d9b331cae3c18d1c60ca082a78aa133218f"/>
 	</game>
 	<game name="Autostrada (1985)(Editsi)(it)">
 		<description>Autostrada (1985)(Editsi)(it)</description>
@@ -1064,9 +1064,9 @@
 		<description>Car Race (1983)(Meiszl, Michael)(de)[a2]</description>
 		<rom name="Car Race (1983)(Meiszl, Michael)(de)[a2].t64" size="2790" crc="7f5bdbae" md5="ccca464b2072cf90037e2880a97f444f" sha1="9319d9884320d3fa77964a58a6cbcc03694536aa"/>
 	</game>
-	<game name="Car Race (1984)(Courbois Software)">
-		<description>Car Race (1984)(Courbois Software)</description>
-		<rom name="Car Race (1984)(Courbois Software).t64" size="1887" crc="84505e6d" md5="be358df131b731a57466e116069b3bff" sha1="5e8b9fc8e1c6ed6f38a570bb0f85054763c3f516"/>
+	<game name="Car Race (1984)(Courbois)">
+		<description>Car Race (1984)(Courbois)</description>
+		<rom name="Car Race (1984)(Courbois).t64" size="1887" crc="84505e6d" md5="be358df131b731a57466e116069b3bff" sha1="5e8b9fc8e1c6ed6f38a570bb0f85054763c3f516"/>
 	</game>
 	<game name="Car Race (19xx)(Fleischner, Mike)(PD)">
 		<description>Car Race (19xx)(Fleischner, Mike)(PD)</description>
@@ -1212,9 +1212,25 @@
 		<description>Carnage (1993)(Zeppelin Games)[cr Pride][t +8 Pride][a4]</description>
 		<rom name="Carnage (1993)(Zeppelin Games)[cr Pride][t +8 Pride][a4].t64" size="32635" crc="5d4c8a5f" md5="aba6db1b0979443712c8b6fb7d285d8d" sha1="f9211c135c992eac7b147fbfa0a251067b7be9d4"/>
 	</game>
-	<game name="Car-Race (1983)(Courbois Software)(nl)">
-		<description>Car-Race (1983)(Courbois Software)(nl)</description>
-		<rom name="Car-Race (1983)(Courbois Software)(nl).t64" size="4719" crc="e5f3d8b0" md5="4ddaad8d3177c434129bac70da8da208" sha1="ace1e1f8d4a794899eeca86953cff7d9f88fea2b"/>
+	<game name="Car-Race (1983)(Courbois)(nl)">
+		<description>Car-Race (1983)(Courbois)(nl)</description>
+		<rom name="Car-Race (1983)(Courbois)(nl).t64" size="4187" crc="186a3cc5" md5="0f232d33800b00564702aa19ebf8512e" sha1="eaf370541b22d602b5e0beb944db5421d532c580"/>
+	</game>
+	<game name="Car-Race (1983)(Courbois)(nl)[a]">
+		<description>Car-Race (1983)(Courbois)(nl)[a]</description>
+		<rom name="Car-Race (1983)(Courbois)(nl)[a].t64" size="4719" crc="e5f3d8b0" md5="4ddaad8d3177c434129bac70da8da208" sha1="ace1e1f8d4a794899eeca86953cff7d9f88fea2b"/>
+	</game>
+	<game name="Car-Race (1983)(Courbois)(nl)[a2]">
+		<description>Car-Race (1983)(Courbois)(nl)[a2]</description>
+		<rom name="Car-Race (1983)(Courbois)(nl)[a2].t64" size="3259" crc="bd6a1c6a" md5="9d27e419143ea249937cdaea1a74c72e" sha1="41f8a7fab3950690289a47a727ba5256881b3679"/>
+	</game>
+	<game name="Car-Race (1983)(Courbois)(nl)[a3]">
+		<description>Car-Race (1983)(Courbois)(nl)[a3]</description>
+		<rom name="Car-Race (1983)(Courbois)(nl)[a3].t64" size="4187" crc="f6adc701" md5="d2df26a2465783f87e34d605ab611fd4" sha1="5c8b141d3127add7a766778150ee64e521a13634"/>
+	</game>
+	<game name="Car-Race (1983)(Courbois)(nl)[a4]">
+		<description>Car-Race (1983)(Courbois)(nl)[a4]</description>
+		<rom name="Car-Race (1983)(Courbois)(nl)[a4].t64" size="3259" crc="550f3d4c" md5="daf0de12c723d0502e2ef8a8f988fa08" sha1="ecc57db65fc410ca8a7e79d2752b71aa75f52e02"/>
 	</game>
 	<game name="Carrera Loca (198x)(Grupo de Trabajo Software s.a - Commodore Computer Club)(es)">
 		<description>Carrera Loca (198x)(Grupo de Trabajo Software s.a - Commodore Computer Club)(es)</description>
@@ -1548,6 +1564,10 @@
 		<description>Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369]</description>
 		<rom name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369].t64" size="30270" crc="315ce21d" md5="058bb46f985dfbde1a905c9630cf598c" sha1="fae6e9fc332e02115af8dbd3140d3f3c7dbfe5ef"/>
 	</game>
+	<game name="Country Cab (1991)(Compute!)">
+		<description>Country Cab (1991)(Compute!)</description>
+		<rom name="Country Cab (1991)(Compute!).t64" size="5392" crc="f2788dad" md5="b1cd0993611652df4f11c4b9ce34b593" sha1="296424db6668002565dea56eefe2ca0b96b78521"/>
+	</game>
 	<game name="Course (1985)(SYBEX)(fr)[cr Rio Baan]">
 		<description>Course (1985)(SYBEX)(fr)[cr Rio Baan]</description>
 		<rom name="Course (1985)(SYBEX)(fr)[cr Rio Baan].t64" size="1949" crc="8bc00dea" md5="39d003f919992754ad3499c02f7d9b2d" sha1="672c3dc3536c253779864bc65d7e321606d0b041"/>
@@ -1580,9 +1600,9 @@
 		<description>Crash Race (1987)(Commodore Disc)[cr Troep]</description>
 		<rom name="Crash Race (1987)(Commodore Disc)[cr Troep].t64" size="11761" crc="5b58a6d5" md5="b2f6858ad81763e99499d09163208c62" sha1="337e6985d92ac218433fd908b0f686ef2fa0e4e9"/>
 	</game>
-	<game name="Crash Race (1987)(Courbois Software)(nl)">
-		<description>Crash Race (1987)(Courbois Software)(nl)</description>
-		<rom name="Crash Race (1987)(Courbois Software)(nl).t64" size="5735" crc="439c37b3" md5="d2a4de6a77cb676e48ee33bad269f9a2" sha1="b7576cd934bc2947e210be1ac27d7d0959df2562"/>
+	<game name="Crash Race (1987)(Courbois)(nl)">
+		<description>Crash Race (1987)(Courbois)(nl)</description>
+		<rom name="Crash Race (1987)(Courbois)(nl).t64" size="5735" crc="439c37b3" md5="d2a4de6a77cb676e48ee33bad269f9a2" sha1="b7576cd934bc2947e210be1ac27d7d0959df2562"/>
 	</game>
 	<game name="Crash Worms (1991)(Grandefors, Tommy)(sv)">
 		<description>Crash Worms (1991)(Grandefors, Tommy)(sv)</description>
@@ -1608,9 +1628,9 @@
 		<description>Crazy Driver (1986)(Ediciones Ingelek - Tu Micro Commodore)(es)[cr Rio Baan]</description>
 		<rom name="Crazy Driver (1986)(Ediciones Ingelek - Tu Micro Commodore)(es)[cr Rio Baan].t64" size="2932" crc="94da0a1a" md5="9f667b1401f8a641680d9e5bbcb37c20" sha1="907b0c563d0d0017eb11f8a3bf2b6fbec4a51917"/>
 	</game>
-	<game name="Crazy Joe (1986)(Ahoy! - Ion International)">
-		<description>Crazy Joe (1986)(Ahoy! - Ion International)</description>
-		<rom name="Crazy Joe (1986)(Ahoy! - Ion International).t64" size="2829" crc="f660a423" md5="9f97995e3194b197ebc08b2a0b0f5a12" sha1="d546edf34667ec0a8d8305278b9afd966aba6c1c"/>
+	<game name="Crazy Joe (1986)(Ahoy!-Ion International)">
+		<description>Crazy Joe (1986)(Ahoy!-Ion International)</description>
+		<rom name="Crazy Joe (1986)(Ahoy!-Ion International).t64" size="2829" crc="f660a423" md5="9f97995e3194b197ebc08b2a0b0f5a12" sha1="d546edf34667ec0a8d8305278b9afd966aba6c1c"/>
 	</game>
 	<game name="Crazy-Race (1985)(Hebdogiciel)(fr)[cr Rio Baan]">
 		<description>Crazy-Race (1985)(Hebdogiciel)(fr)[cr Rio Baan]</description>
@@ -2112,13 +2132,45 @@
 		<description>Fahr-Simulator (1984)(Markt &amp; Technik)(de)</description>
 		<rom name="Fahr-Simulator (1984)(Markt &amp; Technik)(de).t64" size="4834" crc="d136d8cf" md5="21abc80f4c76cd2e29232506378209db" sha1="bf803ac30484eac5e8c17396e834d8c7b5f8bf43"/>
 	</game>
-	<game name="Fast (1992)(Future Publishing - Commodore Format)[cr iAN CooG]">
-		<description>Fast (1992)(Future Publishing - Commodore Format)[cr iAN CooG]</description>
-		<rom name="Fast (1992)(Future Publishing - Commodore Format)[cr iAN CooG].t64" size="28226" crc="ce38aa41" md5="7d7f789b59e8b2bbdba9376fc153a09a" sha1="f12d4235ff26584a62d878200124fba7867d5c46"/>
+	<game name="Fast (1992)(Future Publishing)">
+		<description>Fast (1992)(Future Publishing)</description>
+		<rom name="Fast (1992)(Future Publishing).t64" size="30580" crc="2bf8f9f6" md5="8bd9a949e9c7161ffd2396a8c146d151" sha1="acdb7bc1dab5cd1b9f49d80feb62aa0874ad8b8f"/>
 	</game>
-	<game name="Fast (1992)(Future Publishing - Commodore Format)[cr iAN CooG][a]">
-		<description>Fast (1992)(Future Publishing - Commodore Format)[cr iAN CooG][a]</description>
-		<rom name="Fast (1992)(Future Publishing - Commodore Format)[cr iAN CooG][a].t64" size="29154" crc="6a873ccc" md5="226c93835f6db9da00dd8be13c052d40" sha1="972fe48d54072ff22bd227a743302624366362a5"/>
+	<game name="Fast (1992)(Future Publishing)[a]">
+		<description>Fast (1992)(Future Publishing)[a]</description>
+		<rom name="Fast (1992)(Future Publishing)[a].t64" size="53767" crc="c0506421" md5="9505e977fe6afa64a7e497124671b927" sha1="fb7134dc25bd2e05bb772f028e91197f680dcb92"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[a2]">
+		<description>Fast (1992)(Future Publishing)[a2]</description>
+		<rom name="Fast (1992)(Future Publishing)[a2].t64" size="34109" crc="f42c151f" md5="b22b6fd86bab23d2f686b66c65bd8ee4" sha1="0ab263602ee1977e376b8ef144261ae94d7e83b1"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr GLS]">
+		<description>Fast (1992)(Future Publishing)[cr GLS]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr GLS].t64" size="36176" crc="c28284b9" md5="098ca59837bfaba14e476246b3a44aed" sha1="1696948121e01f6cbf75028e041340d59cd9c687"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr GLS][a]">
+		<description>Fast (1992)(Future Publishing)[cr GLS][a]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr GLS][a].t64" size="35248" crc="4ee882f0" md5="1950dceeaa193bd5405e84624adc88d9" sha1="347a784c17f85e937f4885c6da3de5c633592467"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr iAN CooG]">
+		<description>Fast (1992)(Future Publishing)[cr iAN CooG]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr iAN CooG].t64" size="29154" crc="6a873ccc" md5="226c93835f6db9da00dd8be13c052d40" sha1="972fe48d54072ff22bd227a743302624366362a5"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr iAN CooG][a]">
+		<description>Fast (1992)(Future Publishing)[cr iAN CooG][a]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr iAN CooG][a].t64" size="28226" crc="ce38aa41" md5="7d7f789b59e8b2bbdba9376fc153a09a" sha1="f12d4235ff26584a62d878200124fba7867d5c46"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr Troep]">
+		<description>Fast (1992)(Future Publishing)[cr Troep]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr Troep].t64" size="30384" crc="4c400507" md5="a259b7346afde6d9e86d78de63d4e7a7" sha1="d5380623f5dd094b7903e59413206cb94db464f8"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr WOW]">
+		<description>Fast (1992)(Future Publishing)[cr WOW]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr WOW].t64" size="35565" crc="b26e3878" md5="9623b4066bd077326ee055936d335a63" sha1="0517034ffee8c460d48ae1af0bdfa8270619f952"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[cr WOW][a]">
+		<description>Fast (1992)(Future Publishing)[cr WOW][a]</description>
+		<rom name="Fast (1992)(Future Publishing)[cr WOW][a].t64" size="34637" crc="b71dbae5" md5="de70e8b4e18a0965da8423b5295a52b7" sha1="1ffc43ca149dc9b364a6d935c7c7769770b7393e"/>
 	</game>
 	<game name="Fast Tracks - RC Racers (1988)(Turmell, Mark)[cr AFL]">
 		<description>Fast Tracks - RC Racers (1988)(Turmell, Mark)[cr AFL]</description>
@@ -2660,6 +2712,74 @@
 		<description>GTI Simulator (1988)(Grand Slam)</description>
 		<rom name="GTI Simulator (1988)(Grand Slam).t64" size="31872" crc="f76e6d94" md5="9114b6d6137f70bd2c8d36a763ef3478" sha1="a488d10833ba4124d5a538f7fb5ea1e5bd53de18"/>
 	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen).t64" size="38729" crc="0ae7f289" md5="c071f1c22ea6c4b75247e1807550f43c" sha1="e7b8d543c7e73ca889bf53c02067f633b3657134"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[a]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[a]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[a].t64" size="39657" crc="e8aa7320" md5="e5b5708575380b2fb73d234c247d342d" sha1="2ebb7703fb2e50d7b46a90b47da1574a5ed47bac"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr Action]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr Action]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr Action].t64" size="44389" crc="c796d621" md5="718eb1715e3fe535426e99fdab101914" sha1="550b32bc7586601c484c3e3e737895748c580153"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ].t64" size="47463" crc="7ec75501" md5="0fca7a1252ad443b2b8bf9d761ecad4c" sha1="dfed56b6ff0b07d213fbe7a5004bbfa88a3f67c8"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a].t64" size="47431" crc="b5074403" md5="447a8a4a39717b73196b52762958b08b" sha1="1ba78f9f337931ebc826ce27754cb762edc245e7"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a2]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a2]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a2].t64" size="46503" crc="35aac50b" md5="ab85f5305bd49feb5e88e283bfc88be3" sha1="29f65f2216428646fe1e5905751905d8f87d5581"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a3]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a3]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a3].t64" size="47431" crc="202e5909" md5="bb776e6559084733426806eb0c52655b" sha1="f24f6b32b3cb14351b58df422b055ecce6705dfe"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a4]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a4]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ][a4].t64" size="46503" crc="7a583366" md5="d4622c87c24d1fff6b25abc9692ae2ae" sha1="11a28bd4f0d2bd3c79248e8cd44ed2e954facf0a"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ-F4CG]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ-F4CG]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr BZ-F4CG].t64" size="91476" crc="567160b2" md5="779b36837bec1ade6202618db516b025" sha1="659b8ab63fbb595db185e69a5e0fee4ae2490949"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr CEN]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr CEN]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr CEN].t64" size="45150" crc="11dbd246" md5="186806d2623f86a037b571249d183d05" sha1="66c05e63ea16109e53ece652103bd1f695f1fbff"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr CEN][a]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr CEN][a]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr CEN][a].t64" size="46078" crc="fa9394cb" md5="de4b2db0e2a07030db7cb7520e2d51b5" sha1="39e0d972246c721b06e0fa6e367271c0d1d3eef4"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG].t64" size="44141" crc="d89de2e6" md5="18a2d93e70363cb52e93f264ceeaef54" sha1="84c3d403eb4ce38c2cbe3b3d539fdf0a5cb1d493"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a].t64" size="45101" crc="1b4ea72c" md5="1e8277184a42c3ba2e5826ba1f93a0ac" sha1="2ba94be75c4562393daab212aa76439d5549d41a"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a2]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a2]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a2].t64" size="45069" crc="e31bccb8" md5="520eaf34f50d13a00908261199cb94d0" sha1="34de9bf242bb99683ef20c149f498ef6883799f2"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a3]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a3]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr F4CG][a3].t64" size="44141" crc="85046e86" md5="ded2a0d4ec3355f92d4f3c950cd43c00" sha1="0b8923a0d178292f8d2bd1fa3fddf07f732c4d25"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr GKG]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr GKG]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr GKG].t64" size="42845" crc="115cb5a0" md5="49a8cd3a81f553f9084f9b865e2222e0" sha1="7548d26eca80faa6123550913d0e104c74836d73"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr GKG][a]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr GKG][a]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr GKG][a].t64" size="42845" crc="3883925f" md5="f544fa20eb20b6244e7876c2dcdea042" sha1="8e2a1d4ab783dda2ada010be71ba20ec669e1796"/>
+	</game>
 	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr HF]">
 		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[cr HF]</description>
 		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[cr HF].t64" size="45592" crc="7f64d6b5" md5="82d5b1854ccba956477784d1fff340f7" sha1="0cf0c43551db102a1396735abe516b9af50da3d0"/>
@@ -2708,9 +2828,9 @@
 		<description>Horror Drive (demo) (1988)(-)[cr Zenith][a]</description>
 		<rom name="Horror Drive (demo) (1988)(-)[cr Zenith][a].t64" size="21244" crc="7f2e4847" md5="37584f057e0accb1bc4afe4454921cf2" sha1="c9270d6c66ef0c126487f18cf1dabb48f7f6a043"/>
 	</game>
-	<game name="Hot Wheels (1984)(Courbois Software)(nl)">
-		<description>Hot Wheels (1984)(Courbois Software)(nl)</description>
-		<rom name="Hot Wheels (1984)(Courbois Software)(nl).t64" size="6990" crc="7077bb37" md5="86f5d51b0c70c4e66d8d73369a19bd82" sha1="b561a27da331f43d5c9ef5f53315dee9cd343f8f"/>
+	<game name="Hot Wheels (1984)(Courbois)(nl)">
+		<description>Hot Wheels (1984)(Courbois)(nl)</description>
+		<rom name="Hot Wheels (1984)(Courbois)(nl).t64" size="6990" crc="7077bb37" md5="86f5d51b0c70c4e66d8d73369a19bd82" sha1="b561a27da331f43d5c9ef5f53315dee9cd343f8f"/>
 	</game>
 	<game name="Hot Wheels (1984)(Markt &amp; Technik)">
 		<description>Hot Wheels (1984)(Markt &amp; Technik)</description>
@@ -2748,9 +2868,9 @@
 		<description>Hyper Cars (1995)(Threshold Productions)(FW)[a]</description>
 		<rom name="Hyper Cars (1995)(Threshold Productions)(FW)[a].t64" size="57961" crc="2c96b3e9" md5="1041f13b5741433ceb4a277d626f3867" sha1="b3f5200ca5453a6782a532182ff82d9759448c35"/>
 	</game>
-	<game name="Hyper Cars (demo) (1995)(Threshold Productions)[h F4CG]">
-		<description>Hyper Cars (demo) (1995)(Threshold Productions)[h F4CG]</description>
-		<rom name="Hyper Cars (demo) (1995)(Threshold Productions)[h F4CG].t64" size="22142" crc="92562482" md5="011c4f4a30c0c3a217adc535a02fd668" sha1="5c710172fe89224281fd4e64c7dac0878c3f2541"/>
+	<game name="Hyper Cars (demo) (1995)(Threshold Productions)(FW)[h F4CG]">
+		<description>Hyper Cars (demo) (1995)(Threshold Productions)(FW)[h F4CG]</description>
+		<rom name="Hyper Cars (demo) (1995)(Threshold Productions)(FW)[h F4CG].t64" size="22142" crc="92562482" md5="011c4f4a30c0c3a217adc535a02fd668" sha1="5c710172fe89224281fd4e64c7dac0878c3f2541"/>
 	</game>
 	<game name="Indi 2000 (1984)(Addison-Wesley Publishers - Corgi)[cr Rio Baan]">
 		<description>Indi 2000 (1984)(Addison-Wesley Publishers - Corgi)[cr Rio Baan]</description>
@@ -3016,9 +3136,9 @@
 		<description>Krazy Kar (1984)(IJK Software)[h S8]</description>
 		<rom name="Krazy Kar (1984)(IJK Software)[h S8].t64" size="27540" crc="75bacc3b" md5="786ebeeb8dfc74654d344e1a0a02179a" sha1="6459fca05d9cdcb8bb667a29cf46bf3b0787ba64"/>
 	</game>
-	<game name="Laps (1987)(Ahoy! - Ion International)">
-		<description>Laps (1987)(Ahoy! - Ion International)</description>
-		<rom name="Laps (1987)(Ahoy! - Ion International).t64" size="8439" crc="2e068d5c" md5="1205cdf0a914d86f04232074d414b535" sha1="7cd1d7666c7ce41ed729343d0449cc3ed13b2d19"/>
+	<game name="Laps (1987)(Ahoy!-Ion International)">
+		<description>Laps (1987)(Ahoy!-Ion International)</description>
+		<rom name="Laps (1987)(Ahoy!-Ion International).t64" size="8439" crc="2e068d5c" md5="1205cdf0a914d86f04232074d414b535" sha1="7cd1d7666c7ce41ed729343d0449cc3ed13b2d19"/>
 	</game>
 	<game name="Last V8, The (1985)(MAD)[cr REM - UDI]">
 		<description>Last V8, The (1985)(MAD)[cr REM - UDI]</description>
@@ -3228,9 +3348,25 @@
 		<description>Macchinine (1985)(Pubblirome - Super Game 2000)(it)</description>
 		<rom name="Macchinine (1985)(Pubblirome - Super Game 2000)(it).t64" size="51295" crc="eb4ac08b" md5="77e94075c2f0818c7b104ce565b18a1a" sha1="09a79cebf50fd8e5167aa7902452504fbe4cfaf9"/>
 	</game>
-	<game name="Machine, The (1988)(Systems Editoriale s.r.l - Commodore Club)">
-		<description>Machine, The (1988)(Systems Editoriale s.r.l - Commodore Club)</description>
-		<rom name="Machine, The (1988)(Systems Editoriale s.r.l - Commodore Club).t64" size="15414" crc="cadc99ff" md5="8e5b368194a7b084855c43a7b1c0443f" sha1="b5ca580c531ca4c99252870df127b5f0a4af318c"/>
+	<game name="Machine, The (1988)(Systems Editoriale)">
+		<description>Machine, The (1988)(Systems Editoriale)</description>
+		<rom name="Machine, The (1988)(Systems Editoriale).t64" size="15414" crc="cadc99ff" md5="8e5b368194a7b084855c43a7b1c0443f" sha1="b5ca580c531ca4c99252870df127b5f0a4af318c"/>
+	</game>
+	<game name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx]">
+		<description>Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx]</description>
+		<rom name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx].t64" size="14664" crc="e0c73998" md5="2f22ccc52e701a77864e7556e636858e" sha1="7dfb5198177b1f3eb99e942c4c4d623bdc0afdc1"/>
+	</game>
+	<game name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a]">
+		<description>Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a]</description>
+		<rom name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a].t64" size="14972" crc="9eb96436" md5="4177bda5cb9c15ccfa82a6ae82a75620" sha1="c72e177c4e026b56a0b6cdf52f5407a1af080491"/>
+	</game>
+	<game name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a2]">
+		<description>Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a2]</description>
+		<rom name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a2].t64" size="14972" crc="31f254e7" md5="6f2178d547b75c4950504fe3e9a3118f" sha1="8769abd0e19e05766f833ddb1819e59631ce99f8"/>
+	</game>
+	<game name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a3]">
+		<description>Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a3]</description>
+		<rom name="Machine, The (1988)(Systems Editoriale)(it)[cr Sphinx][a3].t64" size="14044" crc="fb1c86ba" md5="bfa9bca05165ce6ed0a3a9cf9b0c2a9b" sha1="2f30ca2d7ceacebc606405cf8a7e034ce0b4e4f2"/>
 	</game>
 	<game name="Mad Crash Racing (demo) (2014)(-)[cr GP]">
 		<description>Mad Crash Racing (demo) (2014)(-)[cr GP]</description>
@@ -3712,9 +3848,13 @@
 		<description>Motospeed (1986)(Mantra Software)(it)</description>
 		<rom name="Motospeed (1986)(Mantra Software)(it).t64" size="55425" crc="ba2e96ef" md5="5a2db9ec0e89f34c392b7489d17098eb" sha1="e5c18de9b32fa2ad307b157f8e8ba204e8966ac4"/>
 	</game>
-	<game name="NetRacer (2008)(Bloomquist, Leif - VieBrooks, Oliver - Harbron, Robin - ÃÃ¶rni, Lasse)(PD)">
-		<description>NetRacer (2008)(Bloomquist, Leif - VieBrooks, Oliver - Harbron, Robin - ÃÃ¶rni, Lasse)(PD)</description>
-		<rom name="NetRacer (2008)(Bloomquist, Leif - VieBrooks, Oliver - Harbron, Robin - ÃÃ¶rni, Lasse)(PD).t64" size="11409" crc="48ae392f" md5="d96c4b6d6b71cfa40eb3f6df20f22593" sha1="3e21c4605ac91b805c19b4c6cfdacf5d6a796429"/>
+	<game name="NetRacer (2008)(Bloomquist, Leif - Harbron, Robin - Öörni, Lasse - Viebrooks, Oliver)(PD)">
+		<description>NetRacer (2008)(Bloomquist, Leif - Harbron, Robin - Öörni, Lasse - Viebrooks, Oliver)(PD)</description>
+		<rom name="NetRacer (2008)(Bloomquist, Leif - Harbron, Robin - Öörni, Lasse - Viebrooks, Oliver)(PD).t64" size="11363" crc="15845ff3" md5="86a17bf1f79b31b4b1650f5b971e13f1" sha1="473ddb0ee9802a2105474c506fda0732b543b4b3"/>
+	</game>
+	<game name="NetRacer (2008)(Bloomquist, Leif - Harbron, Robin - Öörni, Lasse - Viebrooks, Oliver)(PD)[a]">
+		<description>NetRacer (2008)(Bloomquist, Leif - Harbron, Robin - Öörni, Lasse - Viebrooks, Oliver)(PD)[a]</description>
+		<rom name="NetRacer (2008)(Bloomquist, Leif - Harbron, Robin - Öörni, Lasse - Viebrooks, Oliver)(PD)[a].t64" size="11409" crc="48ae392f" md5="d96c4b6d6b71cfa40eb3f6df20f22593" sha1="3e21c4605ac91b805c19b4c6cfdacf5d6a796429"/>
 	</game>
 	<game name="New York City (1984)(Synapse Software)">
 		<description>New York City (1984)(Synapse Software)</description>
@@ -4360,9 +4500,21 @@
 		<description>Race (2016)(González, Daniel)(PD)[cr RPL]</description>
 		<rom name="Race (2016)(González, Daniel)(PD)[cr RPL].t64" size="7191" crc="71180cd7" md5="7b458a1a00973fdf2daff7cd478e1157" sha1="28925aef3da0cb28e92a5bf48f26e69b1c9f0eff"/>
 	</game>
-	<game name="Race Ace (1990)(COMPUTE!&apos;s Gazette - COMPUTE! Publications)[cr Armageddon]">
-		<description>Race Ace (1990)(COMPUTE!&apos;s Gazette - COMPUTE! Publications)[cr Armageddon]</description>
-		<rom name="Race Ace (1990)(COMPUTE!&apos;s Gazette - COMPUTE! Publications)[cr Armageddon].t64" size="10981" crc="6d2b8ed3" md5="631560b75caf37fc07445ed547427ba1" sha1="9a0cc362a909384e23df474f3639859f4ef92696"/>
+	<game name="Race Ace (1990)(Compute!)">
+		<description>Race Ace (1990)(Compute!)</description>
+		<rom name="Race Ace (1990)(Compute!).t64" size="2890" crc="a5bc6fc8" md5="4e3b8731293ed3db82b2bd987b0680ee" sha1="997f13a8041f22f55d4728d23327daf8742f27ae"/>
+	</game>
+	<game name="Race Ace (1990)(Compute!)[a]">
+		<description>Race Ace (1990)(Compute!)[a]</description>
+		<rom name="Race Ace (1990)(Compute!)[a].t64" size="2890" crc="1be0c417" md5="d0fdf5a06839478492ad2ca7d8c5fe74" sha1="bc734a81adebcabdf6ea1fef5f17d00b4ee794ec"/>
+	</game>
+	<game name="Race Ace (1990)(Compute!)[a2]">
+		<description>Race Ace (1990)(Compute!)[a2]</description>
+		<rom name="Race Ace (1990)(Compute!)[a2].t64" size="4352" crc="c03a65cf" md5="dc026162446b4f9fbf14a6c338c119b7" sha1="228d74621b57af671b1e8840460f02306b916977"/>
+	</game>
+	<game name="Race Ace (1990)(Compute!)[cr Armageddon]">
+		<description>Race Ace (1990)(Compute!)[cr Armageddon]</description>
+		<rom name="Race Ace (1990)(Compute!)[cr Armageddon].t64" size="10981" crc="6d2b8ed3" md5="631560b75caf37fc07445ed547427ba1" sha1="9a0cc362a909384e23df474f3639859f4ef92696"/>
 	</game>
 	<game name="Race of Races, The (198x)(Persson, Anders)(PD)">
 		<description>Race of Races, The (198x)(Persson, Anders)(PD)</description>
@@ -5088,17 +5240,17 @@
 		<description>Speed Racer (1987)(Chris Warling + Finland Cracking Service)[a2]</description>
 		<rom name="Speed Racer (1987)(Chris Warling + Finland Cracking Service)[a2].t64" size="13075" crc="32e67087" md5="898c9568e0ef436d46675425127079ea" sha1="043bf13884ffcead1101c4cac353a69bae9516ae"/>
 	</game>
-	<game name="Speedway (1986)(Ahoy! - Ion International)">
-		<description>Speedway (1986)(Ahoy! - Ion International)</description>
-		<rom name="Speedway (1986)(Ahoy! - Ion International).t64" size="6577" crc="48b847f0" md5="55553aa9b67269c2f8fda05297010e24" sha1="82c14342b0c19edc91da9998a1b41264816d6445"/>
+	<game name="Speedway (1986)(Ahoy!-Ion International)">
+		<description>Speedway (1986)(Ahoy!-Ion International)</description>
+		<rom name="Speedway (1986)(Ahoy!-Ion International).t64" size="6577" crc="48b847f0" md5="55553aa9b67269c2f8fda05297010e24" sha1="82c14342b0c19edc91da9998a1b41264816d6445"/>
 	</game>
-	<game name="Speedway (1986)(Ahoy! - Ion International)[a]">
-		<description>Speedway (1986)(Ahoy! - Ion International)[a]</description>
-		<rom name="Speedway (1986)(Ahoy! - Ion International)[a].t64" size="2453" crc="10d19afb" md5="304389aec9a931f3b679d415f9d50748" sha1="f6496b0853d433de131bc7416c7bf286ae0023b4"/>
+	<game name="Speedway (1986)(Ahoy!-Ion International)[a]">
+		<description>Speedway (1986)(Ahoy!-Ion International)[a]</description>
+		<rom name="Speedway (1986)(Ahoy!-Ion International)[a].t64" size="2453" crc="10d19afb" md5="304389aec9a931f3b679d415f9d50748" sha1="f6496b0853d433de131bc7416c7bf286ae0023b4"/>
 	</game>
-	<game name="Speedway (1986)(Ahoy! - Ion International)[a2]">
-		<description>Speedway (1986)(Ahoy! - Ion International)[a2]</description>
-		<rom name="Speedway (1986)(Ahoy! - Ion International)[a2].t64" size="3381" crc="477cb1d0" md5="478e1c512605999155dc5343bc47e5f5" sha1="00dc37197cd9b9d56bd5f7e2e7c162aa6a38c06d"/>
+	<game name="Speedway (1986)(Ahoy!-Ion International)[a2]">
+		<description>Speedway (1986)(Ahoy!-Ion International)[a2]</description>
+		<rom name="Speedway (1986)(Ahoy!-Ion International)[a2].t64" size="3381" crc="477cb1d0" md5="478e1c512605999155dc5343bc47e5f5" sha1="00dc37197cd9b9d56bd5f7e2e7c162aa6a38c06d"/>
 	</game>
 	<game name="Speedway (1986)(Systems Editoriale)[cr Scientists]">
 		<description>Speedway (1986)(Systems Editoriale)[cr Scientists]</description>
@@ -5560,9 +5712,21 @@
 		<description>Super Monaco Grand Prix (1991)(US Gold)[cr HF]</description>
 		<rom name="Super Monaco Grand Prix (1991)(US Gold)[cr HF].t64" size="51771" crc="4faeb202" md5="9e7ed5699baa7fa3db34386180faeb92" sha1="937afbd9db56d8ae0a8fcbb8e5b777efa5238d4f"/>
 	</game>
-	<game name="Super Race (1983)(Courbois Software)(nl)">
-		<description>Super Race (1983)(Courbois Software)(nl)</description>
-		<rom name="Super Race (1983)(Courbois Software)(nl).t64" size="13857" crc="020c6d27" md5="dbfecd9bbf313abb6a0f5b842289d274" sha1="da7e389292a88b5fb99e3bf7b089038642deafd0"/>
+	<game name="Super Race (1983)(Courbois)">
+		<description>Super Race (1983)(Courbois)</description>
+		<rom name="Super Race (1983)(Courbois).t64" size="6382" crc="daafe50f" md5="2dd2631c6ea4d2741b66a7630887374d" sha1="43f4d75e785ada4f510adcacac3baec9bcfbb263"/>
+	</game>
+	<game name="Super Race (1983)(Courbois)(nl)">
+		<description>Super Race (1983)(Courbois)(nl)</description>
+		<rom name="Super Race (1983)(Courbois)(nl).t64" size="6382" crc="fc880873" md5="20eed695a0acbe72c16cb75c00c7f8b2" sha1="cf99fc1ddf2b0ced000c702f18305bd3d78ab0d0"/>
+	</game>
+	<game name="Super Race (1983)(Courbois)(nl)[a]">
+		<description>Super Race (1983)(Courbois)(nl)[a]</description>
+		<rom name="Super Race (1983)(Courbois)(nl)[a].t64" size="13857" crc="020c6d27" md5="dbfecd9bbf313abb6a0f5b842289d274" sha1="da7e389292a88b5fb99e3bf7b089038642deafd0"/>
+	</game>
+	<game name="Super Race (1983)(Courbois)[a]">
+		<description>Super Race (1983)(Courbois)[a]</description>
+		<rom name="Super Race (1983)(Courbois)[a].t64" size="7310" crc="f3b0b606" md5="8e7d014164a860e2aa6407b2289737aa" sha1="0b30faafcb1c42d118666493fc68da1a4d99832e"/>
 	</game>
 	<game name="Super Racer (1986)(CESE s.r.l - Amico Bit)(it)">
 		<description>Super Racer (1986)(CESE s.r.l - Amico Bit)(it)</description>
@@ -5936,9 +6100,9 @@
 		<description>Willowracer Mini (2002)(Bisitz, Stefan)(de)(PD)</description>
 		<rom name="Willowracer Mini (2002)(Bisitz, Stefan)(de)(PD).t64" size="3061" crc="94cae4b1" md5="c39e2686cb2e26d0661b9625c7d8f284" sha1="104379d00dc49f1c85132c7ceb4f25ab8aaa5c40"/>
 	</game>
-	<game name="Woestijn Ralley (1985)(Courbois Software)(nl)">
-		<description>Woestijn Ralley (1985)(Courbois Software)(nl)</description>
-		<rom name="Woestijn Ralley (1985)(Courbois Software)(nl).t64" size="3869" crc="68d095a4" md5="d27122e50f8310277874409e69d7c4d0" sha1="e47057121b515340982c94d8089d06f73de6c7ff"/>
+	<game name="Woestijn Ralley (1985)(Courbois)(nl)">
+		<description>Woestijn Ralley (1985)(Courbois)(nl)</description>
+		<rom name="Woestijn Ralley (1985)(Courbois)(nl).t64" size="3869" crc="68d095a4" md5="d27122e50f8310277874409e69d7c4d0" sha1="e47057121b515340982c94d8089d06f73de6c7ff"/>
 	</game>
 	<game name="Woestijnrace (1985)(Commodore Info)(nl)[cr Rio Baan]">
 		<description>Woestijnrace (1985)(Commodore Info)(nl)[cr Rio Baan]</description>
@@ -5964,8 +6128,8 @@
 		<description>Wüsten Ralley (1985)(Tronic Verlag - Computronic)(de)[cr Rio Baan]</description>
 		<rom name="Wüsten Ralley (1985)(Tronic Verlag - Computronic)(de)[cr Rio Baan].t64" size="4913" crc="e437cd97" md5="9aa242d75184b68d7d78698b4a0b4f7b" sha1="a91f43627feb83095ccb38688d2b34e42ec2b077"/>
 	</game>
-	<game name="Zandvoort (1983)(Courbois Software)(nl)">
-		<description>Zandvoort (1983)(Courbois Software)(nl)</description>
-		<rom name="Zandvoort (1983)(Courbois Software)(nl).t64" size="5983" crc="e30c7ac8" md5="55a024e0069235d136dcd3cbce35cdcc" sha1="0aaa8f7e8670b253772d9855859d183c08c00cfc"/>
+	<game name="Zandvoort (1983)(Courbois)(nl)">
+		<description>Zandvoort (1983)(Courbois)(nl)</description>
+		<rom name="Zandvoort (1983)(Courbois)(nl).t64" size="5983" crc="e30c7ac8" md5="55a024e0069235d136dcd3cbce35cdcc" sha1="0aaa8f7e8670b253772d9855859d183c08c00cfc"/>
 	</game>
 </datafile>

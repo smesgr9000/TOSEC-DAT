@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "OmniPage Pro v9.0 (1997)(Caere Corporation).bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

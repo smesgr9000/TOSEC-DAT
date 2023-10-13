@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Atari ST - Applications - [ST]</name>
-		<description>Atari ST - Applications - [ST] (TOSEC-v2018-09-02)</description>
+		<description>Atari ST - Applications - [ST] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2018-09-02</version>
-		<author>jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph - Diaboł - Cassiel</author>
+		<version>2023-06-14</version>
+		<author>jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph - Diaboł - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -2900,6 +2900,10 @@
 		<description>Modula 2 v3.00 (19xx)(-)[a]</description>
 		<rom name="Modula 2 v3.00 (19xx)(-)[a].st" size="737280" crc="f2472ee3" md5="d7f795ecb4466c8cd5341fbc92ff4c4e" sha1="07ced3edc7231ad7cecb08715ebbeae0058f85a8"/>
 	</game>
+	<game name="Mom and Me (1985)(ANTIC)(US)">
+		<description>Mom and Me (1985)(ANTIC)(US)</description>
+		<rom name="Mom and Me (1985)(ANTIC)(US).st" size="901120" crc="8e2c58d1" md5="c37b7dd6062daba8b6fc2a3d9ebbc268" sha1="34e0a125ee32dd41c55a52ae8e3b599f1eaac331"/>
+	</game>
 	<game name="Mono Emulator, The (1987)(West, Mick)(SW)">
 		<description>Mono Emulator, The (1987)(West, Mick)(SW)</description>
 		<rom name="Mono Emulator, The (1987)(West, Mick)(SW).st" size="746496" crc="e4cc8684" md5="4bd71226b12c5feb0d2954d5532f5966" sha1="3394dfa235f5b608f6c9afb2db7d8c10dbd517f8"/>
@@ -2947,6 +2951,14 @@
 	<game name="MultiTOS (1993)(Atari)(fr)[a]">
 		<description>MultiTOS (1993)(Atari)(fr)[a]</description>
 		<rom name="MultiTOS (1993)(Atari)(fr)[a].st" size="737280" crc="cb97dcb9" md5="3cb9f9c7fe8077c86dc3f5fa53e8f0ea" sha1="3a8ddb3572e380f3b136931259f83cd919ed34ae"/>
+	</game>
+	<game name="Murray and Me (1985)(ANTIC)(US)[color]">
+		<description>Murray and Me (1985)(ANTIC)(US)[color]</description>
+		<rom name="Murray and Me (1985)(ANTIC)(US)[color].st" size="368640" crc="0ee4897f" md5="1ace1920cb1255aaa73d8a8ee9c795e3" sha1="f42f64aa61556ff7fea8c97dbf2d02a6073ff200"/>
+	</game>
+	<game name="Murray and Me v1.5 (1985)(ANTIC)(US)[monochrome]">
+		<description>Murray and Me v1.5 (1985)(ANTIC)(US)[monochrome]</description>
+		<rom name="Murray and Me v1.5 (1985)(ANTIC)(US)[monochrome].st" size="368640" crc="369974bd" md5="719c312008f83e8c871c099e5f05cc25" sha1="ad0dc945da13f4a4f0e9b582881e85963646e523"/>
 	</game>
 	<game name="Music Studio '88, The (1988)(Activision)">
 		<description>Music Studio '88, The (1988)(Activision)</description>

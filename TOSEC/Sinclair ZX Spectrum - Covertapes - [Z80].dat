@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Covertapes - [Z80]</name>
-		<description>Sinclair ZX Spectrum - Covertapes - [Z80] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Covertapes - [Z80] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:11</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:51</date>
 		<author>Lady Eklipse - jugaor - Vaxalon - Zxyo - Dziuber - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -37,6 +37,10 @@
 	<game name="Averno (1986)(Load 'n' Run)(es)[a]">
 		<description>Averno (1986)(Load 'n' Run)(es)[a]</description>
 		<rom name="Averno (1986)(Load 'n' Run)(es)[a].z80" size="36473" crc="54943244" md5="d274ca81e49d94e91916fac89ed83e67" sha1="23b5f6c335ee0cec4804b6e6426691228456ff31"/>
+	</game>
+	<game name="Avior - Intro (1985)(16-48 Tape Magazine)">
+		<description>Avior - Intro (1985)(16-48 Tape Magazine)</description>
+		<rom name="Avior - Intro (1985)(16-48 Tape Magazine).z80" size="9250" crc="c9546acc" md5="d222b49bd42b174484267012de44c795" sha1="fd21f633ec9fc5df1e9569d6bd5d16e8adbf796b"/>
 	</game>
 	<game name="Babbo Natale (1984)(Special Playgames)(it)">
 		<description>Babbo Natale (1984)(Special Playgames)(it)</description>
@@ -206,18 +210,6 @@
 		<description>Lab 3D (1985)(Load 'n' Run)(es)</description>
 		<rom name="Lab 3D (1985)(Load 'n' Run)(es).z80" size="28844" crc="3a409afb" md5="09e85294403340f101ea7a08975c35ab" sha1="3296074279f3efece822d294d12506bcb52c1a87"/>
 	</game>
-	<game name="Lemmings (demo) (1991)(Psygnosis - Your Sinclair)(128K)[needs tape load]">
-		<description>Lemmings (demo) (1991)(Psygnosis - Your Sinclair)(128K)[needs tape load]</description>
-		<rom name="Lemmings (demo) (1991)(Psygnosis - Your Sinclair)(128K)[needs tape load].z80" size="13494" crc="2c00c2ff" md5="8a8c9373e170dd8406aa2893cb099882" sha1="c329433a0f38908a2dd4cb01c46cef1e19efb66b"/>
-	</game>
-	<game name="Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[needs tape load]">
-		<description>Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[needs tape load]</description>
-		<rom name="Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[needs tape load].z80" size="32231" crc="bc5bf92a" md5="4d7f90877001a7aa458ee0e2539098e2" sha1="745af973a3df1e72c05604556ee1f6cedf98b4ca"/>
-	</game>
-	<game name="Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[a][needs tape load]">
-		<description>Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[a][needs tape load]</description>
-		<rom name="Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[a][needs tape load].z80" size="32201" crc="4435436c" md5="2a92d730f11635003f59af10c6a0cc88" sha1="7afd64cc98ffa230de8dbe1b5662c28a4c9c0dc0"/>
-	</game>
 	<game name="Libreria de Software Spectrum issue 18 (1987)(Grupo de Trabajo)(ES)">
 		<description>Libreria de Software Spectrum issue 18 (1987)(Grupo de Trabajo)(ES)</description>
 		<rom name="Libreria de Software Spectrum issue 18 (1987)(Grupo de Trabajo)(ES).z80" size="13915" crc="8d80c3b7" md5="c0724401b760a29511acf7de960db6d0" sha1="a940b648ec4d45d06a5074584d53b38c6e6c3378"/>
@@ -253,6 +245,10 @@
 	<game name="Meccanico, Il (1984)(Load 'n' Run)(it)">
 		<description>Meccanico, Il (1984)(Load 'n' Run)(it)</description>
 		<rom name="Meccanico, Il (1984)(Load 'n' Run)(it).z80" size="31258" crc="123b86cc" md5="68f23dc00bf82d39355c56d0797a45aa" sha1="52197f45fd3d717b6e410a74327e8cc408770a11"/>
+	</game>
+	<game name="Moley Christmas (1987)(Gremlin Graphics Software - Your Sinclair)">
+		<description>Moley Christmas (1987)(Gremlin Graphics Software - Your Sinclair)</description>
+		<rom name="Moley Christmas (1987)(Gremlin Graphics Software - Your Sinclair).z80" size="32333" crc="90ebb472" md5="3a40c5f27fb88a7f36553d75e059d732" sha1="91a9191795a3acc75e378a6af3582a439083176f"/>
 	</game>
 	<game name="Monster Munch (1982)(Sinclair User)(16K)">
 		<description>Monster Munch (1982)(Sinclair User)(16K)</description>
@@ -326,14 +322,6 @@
 		<description>Sideral (1985)(Load 'n' Run)(es)</description>
 		<rom name="Sideral (1985)(Load 'n' Run)(es).z80" size="23216" crc="938ffae1" md5="eb6f5472aba78e0bcfb27f6bbac4b7e4" sha1="ca2966e2b573e78fd71e7b48de62965b889330b5"/>
 	</game>
-	<game name="Sinclair Classic - Issue 08 (1994)(Sinclair Classic)(128K)">
-		<description>Sinclair Classic - Issue 08 (1994)(Sinclair Classic)(128K)</description>
-		<rom name="Sinclair Classic - Issue 08 (1994)(Sinclair Classic)(128K).z80" size="46196" crc="af9455ff" md5="70206da6a22391b74e0e6f01f8931655" sha1="215c323be6a2f09421df849f9f777d62d99e6c44"/>
-	</game>
-	<game name="Sinclair Classic - Issue 08 (1994)(Sinclair Classic)(128K)[a]">
-		<description>Sinclair Classic - Issue 08 (1994)(Sinclair Classic)(128K)[a]</description>
-		<rom name="Sinclair Classic - Issue 08 (1994)(Sinclair Classic)(128K)[a].z80" size="44114" crc="6a5fd25d" md5="1d935c663db21d81f1902c3358734aec" sha1="23f4424570a2e278638505676f6767bde29531bf"/>
-	</game>
 	<game name="Sinclair User - Issue 078 - Megatape 07 - Poke City (1988)(Sinclair User)">
 		<description>Sinclair User - Issue 078 - Megatape 07 - Poke City (1988)(Sinclair User)</description>
 		<rom name="Sinclair User - Issue 078 - Megatape 07 - Poke City (1988)(Sinclair User).z80" size="17068" crc="124eeb4e" md5="02a0d463a57dbeb72c0bb9e910c79fe4" sha1="3c9fd6881dd53e317aa8e77f1e66b792dbb59758"/>
@@ -390,13 +378,13 @@
 		<description>Sinclair User issue 127 - Great Eight 16 (1992)(Sinclair User)[aka Spriter][needs Multiface]</description>
 		<rom name="Sinclair User issue 127 - Great Eight 16 (1992)(Sinclair User)[aka Spriter][needs Multiface].z80" size="3718" crc="a2349c18" md5="585d4af3a3d4c0470cc7ed88d6d62f72" sha1="eecc9a947dfacabc3dab6f517298278153ca25f6"/>
 	</game>
-	<game name="Sinclair User issue 133 - Fun Four 3 (1993)(Sinclair User)[aka A.T.A.C. - Air to Air Combat]">
-		<description>Sinclair User issue 133 - Fun Four 3 (1993)(Sinclair User)[aka A.T.A.C. - Air to Air Combat]</description>
-		<rom name="Sinclair User issue 133 - Fun Four 3 (1993)(Sinclair User)[aka A.T.A.C. - Air to Air Combat].z80" size="38673" crc="b6cedfe1" md5="0bed62ae9dcbcacf871334ba562b4c44" sha1="f69a366e04028087c6878d83e67384607da816de"/>
+	<game name="Sinclair User issue 133 - Fun Four 3 (1993)(Gadtek Games - Sinclair User)[Sinclair User Covertape][aka A.T.A.C. - Air to Air Combat]">
+		<description>Sinclair User issue 133 - Fun Four 3 (1993)(Gadtek Games - Sinclair User)[Sinclair User Covertape][aka A.T.A.C. - Air to Air Combat]</description>
+		<rom name="Sinclair User issue 133 - Fun Four 3 (1993)(Gadtek Games - Sinclair User)[Sinclair User Covertape][aka A.T.A.C. - Air to Air Combat].z80" size="38673" crc="b6cedfe1" md5="0bed62ae9dcbcacf871334ba562b4c44" sha1="f69a366e04028087c6878d83e67384607da816de"/>
 	</game>
-	<game name="Sinclair User issue 133 - Fun Four 3 (1993)(Sinclair User)[a][aka A.T.A.C. - Air to Air Combat]">
-		<description>Sinclair User issue 133 - Fun Four 3 (1993)(Sinclair User)[a][aka A.T.A.C. - Air to Air Combat]</description>
-		<rom name="Sinclair User issue 133 - Fun Four 3 (1993)(Sinclair User)[a][aka A.T.A.C. - Air to Air Combat].z80" size="39162" crc="4735fa2e" md5="65e58ba3171efd309ab72bf7d4f2f4b1" sha1="aace5adb6ab6fa560cca1b0a832b4ffa6eb75f9b"/>
+	<game name="Sinclair User issue 133 - Fun Four 3 (1993)(Gadtek Games - Sinclair User)[a][Sinclair User Covertape][aka A.T.A.C. - Air to Air Combat]">
+		<description>Sinclair User issue 133 - Fun Four 3 (1993)(Gadtek Games - Sinclair User)[a][Sinclair User Covertape][aka A.T.A.C. - Air to Air Combat]</description>
+		<rom name="Sinclair User issue 133 - Fun Four 3 (1993)(Gadtek Games - Sinclair User)[a][Sinclair User Covertape][aka A.T.A.C. - Air to Air Combat].z80" size="39162" crc="4735fa2e" md5="65e58ba3171efd309ab72bf7d4f2f4b1" sha1="aace5adb6ab6fa560cca1b0a832b4ffa6eb75f9b"/>
 	</game>
 	<game name="Snare (demo) (1992)(Beyond Belief - Sinclair User)">
 		<description>Snare (demo) (1992)(Beyond Belief - Sinclair User)</description>
@@ -510,16 +498,16 @@
 		<description>Your Sinclair issue 77 - Magnificent Seven (1992)(Your Sinclair)[a]</description>
 		<rom name="Your Sinclair issue 77 - Magnificent Seven (1992)(Your Sinclair)[a].z80" size="17165" crc="088e26a4" md5="de881dc4dac9e6c665e291fc8d74db0a" sha1="a58dd7459d57924a36ccc49453d04ef6e191bca1"/>
 	</game>
-	<game name="Your Sinclair issue 88 - Beaut Box 3 (1993)(Your Sinclair)">
-		<description>Your Sinclair issue 88 - Beaut Box 3 (1993)(Your Sinclair)</description>
-		<rom name="Your Sinclair issue 88 - Beaut Box 3 (1993)(Your Sinclair).z80" size="17489" crc="6db66fc1" md5="be4c22174996b65840fd59eb496650cf" sha1="d750937f226d452b9730d5a089878abf07491730"/>
+	<game name="Your Sinclair issue 88 - Beaut Box 3 (1993)(Firebird Software - Your Sinclair)">
+		<description>Your Sinclair issue 88 - Beaut Box 3 (1993)(Firebird Software - Your Sinclair)</description>
+		<rom name="Your Sinclair issue 88 - Beaut Box 3 (1993)(Firebird Software - Your Sinclair).z80" size="17489" crc="6db66fc1" md5="be4c22174996b65840fd59eb496650cf" sha1="d750937f226d452b9730d5a089878abf07491730"/>
 	</game>
-	<game name="Your Sinclair issue 92 - Beaut Box 7 (1993)(Your Sinclair)">
-		<description>Your Sinclair issue 92 - Beaut Box 7 (1993)(Your Sinclair)</description>
-		<rom name="Your Sinclair issue 92 - Beaut Box 7 (1993)(Your Sinclair).z80" size="16549" crc="3fa42813" md5="78522d922ec3e7064c31a090d5524e0a" sha1="aa63a3f3b5d5c96dc0d51aeceddf0340dfb198e5"/>
+	<game name="Your Sinclair issue 92 - Beaut Box 7 (1993)(CRL Group - Your Sinclair)">
+		<description>Your Sinclair issue 92 - Beaut Box 7 (1993)(CRL Group - Your Sinclair)</description>
+		<rom name="Your Sinclair issue 92 - Beaut Box 7 (1993)(CRL Group - Your Sinclair).z80" size="16549" crc="3fa42813" md5="78522d922ec3e7064c31a090d5524e0a" sha1="aa63a3f3b5d5c96dc0d51aeceddf0340dfb198e5"/>
 	</game>
-	<game name="Your Sinclair issue 92 - Beaut Box 7 (1993)(Your Sinclair)[aka YS2 Issue 3]">
-		<description>Your Sinclair issue 92 - Beaut Box 7 (1993)(Your Sinclair)[aka YS2 Issue 3]</description>
-		<rom name="Your Sinclair issue 92 - Beaut Box 7 (1993)(Your Sinclair)[aka YS2 Issue 3].z80" size="35843" crc="409bb169" md5="6c8582f951e1ed5a7ca47463f6a392b2" sha1="83994b650e24f6ef8bf8e8c730bb807c2a455789"/>
+	<game name="Your Sinclair issue 92 - Beaut Box 7 (1993)(CRL Group - Your Sinclair)[aka YS2 Issue 3]">
+		<description>Your Sinclair issue 92 - Beaut Box 7 (1993)(CRL Group - Your Sinclair)[aka YS2 Issue 3]</description>
+		<rom name="Your Sinclair issue 92 - Beaut Box 7 (1993)(CRL Group - Your Sinclair)[aka YS2 Issue 3].z80" size="35843" crc="409bb169" md5="6c8582f951e1ed5a7ca47463f6a392b2" sha1="83994b650e24f6ef8bf8e8c730bb807c2a455789"/>
 	</game>
 </datafile>

@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Applications - [MDR]</name>
-		<description>Sinclair ZX Spectrum - Applications - [MDR] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Applications - [MDR] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:09</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:49</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -17,6 +17,10 @@
 	<game name="AMX Art (1985)(Advanced Memory Systems)">
 		<description>AMX Art (1985)(Advanced Memory Systems)</description>
 		<rom name="AMX Art (1985)(Advanced Memory Systems).mdr" size="137923" crc="2820aae3" md5="9d9bd3e370c2e244f03393749cf50db3" sha1="84a0a0e128731da02217d44fd19e8e8729c89a47"/>
+	</game>
+	<game name="Alkatraz Development Cartridges (19xx)(Bayliffe, John - Dunmore, Antony - Wood, James)">
+		<description>Alkatraz Development Cartridges (19xx)(Bayliffe, John - Dunmore, Antony - Wood, James)</description>
+		<rom name="Alkatraz Development Cartridges (19xx)(Bayliffe, John - Dunmore, Antony - Wood, James).mdr" size="137923" crc="8d16a771" md5="6992deb2077aa04602bfa300206ca866" sha1="96f17a55f72149b3d546392ddf2c3d876dcaf349"/>
 	</game>
 	<game name="Alkatraz Development Cartridges - Alkatraz Utils (19xx)(Bayliffe, John - Dunmore, Antony - Wood, James)">
 		<description>Alkatraz Development Cartridges - Alkatraz Utils (19xx)(Bayliffe, John - Dunmore, Antony - Wood, James)</description>
@@ -154,9 +158,17 @@
 		<description>Durell Development Microdrive Cartridges - Westland 30 (19xx)(-)</description>
 		<rom name="Durell Development Microdrive Cartridges - Westland 30 (19xx)(-).mdr" size="137923" crc="23d6bc9c" md5="1e2e45ed085bca69e6e88daeccc3479f" sha1="e118d5a03bba4b79c3175211d2b60601667aa28c"/>
 	</game>
+	<game name="Dvorak Alphabet Timer (2023)(Jbizzel)">
+		<description>Dvorak Alphabet Timer (2023)(Jbizzel)</description>
+		<rom name="Dvorak Alphabet Timer (2023)(Jbizzel).mdr" size="137923" crc="92d902cf" md5="50d5932fb9ba721420a48e87900166c1" sha1="568d5f6b51d6a208c73d9d3eaa08c048c6d98b1f"/>
+	</game>
 	<game name="EXA-BASIC (1984)(Dunmore, Antony)">
 		<description>EXA-BASIC (1984)(Dunmore, Antony)</description>
 		<rom name="EXA-BASIC (1984)(Dunmore, Antony).mdr" size="137923" crc="e0c6f7b1" md5="309937fc08d0187d36832747cfd569cf" sha1="f8d3c191b5fcc03c2b9d223aeac112efb591e28b"/>
+	</game>
+	<game name="Extending BASIC (1984)(Popular Computing Weekly)">
+		<description>Extending BASIC (1984)(Popular Computing Weekly)</description>
+		<rom name="Extending BASIC (1984)(Popular Computing Weekly).mdr" size="97741" crc="535b1b15" md5="8af0d1b622ffb5a56e2b3c8a0ae5addc" sha1="e9010ca2630a4cd83f5f57c18e7d71fa66aa65d2"/>
 	</game>
 	<game name="Fastfile (1987)(ZX Computing)">
 		<description>Fastfile (1987)(ZX Computing)</description>
@@ -173,6 +185,10 @@
 	<game name="MicroMate (1988)(LERM)">
 		<description>MicroMate (1988)(LERM)</description>
 		<rom name="MicroMate (1988)(LERM).mdr" size="137923" crc="13602dbf" md5="9db66633bef90af180f11f7e66b42004" sha1="713dce6fc21468d147b2f3a42b6b618330f20288"/>
+	</game>
+	<game name="Microdrive Backup Utility (1985)(Hembrow, David)">
+		<description>Microdrive Backup Utility (1985)(Hembrow, David)</description>
+		<rom name="Microdrive Backup Utility (1985)(Hembrow, David).mdr" size="137923" crc="0b3400e9" md5="3d58da527e36b5f117ada68355072ff8" sha1="0156f427056f92ef49813f59d91bfbd9b6f65a58"/>
 	</game>
 	<game name="Microdrive Catalogue (1985)(Your Computer)(16K)">
 		<description>Microdrive Catalogue (1985)(Your Computer)(16K)</description>
@@ -206,17 +222,17 @@
 		<description>New ROM Entry Position (1984)(Your Computer)(16K)</description>
 		<rom name="New ROM Entry Position (1984)(Your Computer)(16K).mdr" size="137923" crc="0b347aa5" md5="78bdff3c104635e2b3a0db4beab6408b" sha1="3aa4efd0aacbeff9a58eb8dd6d36b648958c74e2"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].mdr" size="137923" crc="9baeec0d" md5="7be63a05c2693be69709120cc56b6f62" sha1="989eabe1325bc807a6725d419bd5153788b471b4"/>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].mdr" size="137923" crc="9baeec0d" md5="7be63a05c2693be69709120cc56b6f62" sha1="989eabe1325bc807a6725d419bd5153788b471b4"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The].mdr" size="137923" crc="fcce7c38" md5="861829557c924ba59612f62a03e53dac" sha1="fbca97ce16ccd50312c73e3f886eefec2887daac"/>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The].mdr" size="137923" crc="fcce7c38" md5="861829557c924ba59612f62a03e53dac" sha1="fbca97ce16ccd50312c73e3f886eefec2887daac"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[a2][aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[a2][aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[a2][aka PAW][aka Professional Adventure Writing System, The].mdr" size="137923" crc="d5eea734" md5="dd706dfb11f2c2a39c003e899e24f3e4" sha1="028ed3982c77c2c061c7f8e766adec84a7b9d09b"/>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[a2][aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[a2][aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[a2][aka PAW][aka Professional Adventure Writing System, The].mdr" size="137923" crc="d5eea734" md5="dd706dfb11f2c2a39c003e899e24f3e4" sha1="028ed3982c77c2c061c7f8e766adec84a7b9d09b"/>
 	</game>
 	<game name="RAMDOS (1986)(Roybot)">
 		<description>RAMDOS (1986)(Roybot)</description>
@@ -240,7 +256,11 @@
 	</game>
 	<game name="StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en)">
 		<description>StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en)</description>
-		<rom name="StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en).mdr" size="137923" crc="fa1a7490" md5="34d2c5c63429cb0f742a1c0256b0ec2a" sha1="41772303b03c5642e2ead01a603074d6afb53169"/>
+		<rom name="StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en).mdr" size="137923" crc="ad26f5ca" md5="51ef10608d90b54940bd2ea3439bcfe4" sha1="b6882f3863decb069f8a794948c43a2578529939"/>
+	</game>
+	<game name="StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en)[a]">
+		<description>StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en)[a]</description>
+		<rom name="StarFORMAT (2020)(Pass, Jim)(16K)(NZ)(en)[a].mdr" size="137923" crc="fa1a7490" md5="34d2c5c63429cb0f742a1c0256b0ec2a" sha1="41772303b03c5642e2ead01a603074d6afb53169"/>
 	</game>
 	<game name="Supadrive (1986)(Transform)">
 		<description>Supadrive (1986)(Transform)</description>
@@ -266,8 +286,8 @@
 		<description>Vino File (1985)(Dominic, Peter)[aka Oenofile]</description>
 		<rom name="Vino File (1985)(Dominic, Peter)[aka Oenofile].mdr" size="137923" crc="a95355d3" md5="2e706105c0c516a5397fd879417ab53b" sha1="533fa19d1432ef7224f2bc652a1b1d445c7afb5e"/>
 	</game>
-	<game name="Writer, The (1985)(Softechnics)(48K-128K)">
-		<description>Writer, The (1985)(Softechnics)(48K-128K)</description>
-		<rom name="Writer, The (1985)(Softechnics)(48K-128K).mdr" size="137923" crc="3e50771c" md5="4e3f56d9a3e3886f6d1c0895f31a2ac1" sha1="4e1866ac155087b1b5d7e20984d50045532ca07d"/>
+	<game name="Writer, The (1986)(Softechnics)(48K-128K)">
+		<description>Writer, The (1986)(Softechnics)(48K-128K)</description>
+		<rom name="Writer, The (1986)(Softechnics)(48K-128K).mdr" size="137923" crc="3e50771c" md5="4e3f56d9a3e3886f6d1c0895f31a2ac1" sha1="4e1866ac155087b1b5d7e20984d50045532ca07d"/>
 	</game>
 </datafile>

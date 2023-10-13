@@ -4,18 +4,14 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Shoot&apos;em Up - [G64]</name>
-		<description>Commodore C64 - Games - Shoot&apos;em Up - [G64] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [G64] (TOSEC-v2023-05-19)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-19</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org</url>
 	</header>
-	<game name="Afterburner - US Version (1989)(Sega)(Side B)[cr HTL+NEC]">
-		<description>Afterburner - US Version (1989)(Sega)(Side B)[cr HTL+NEC]</description>
-		<rom name="Afterburner - US Version (1989)(Sega)(Side B)[cr HTL+NEC].g64" size="317884" crc="60685cb8" md5="6c7b89bf9da443e38fff57c928a428cf" sha1="8da29ceed2ccbc6bd45de95eadeb9b76601b1332"/>
-	</game>
 	<game name="Afterburner (1989)(Sega)(Side A)[cr NEC]">
 		<description>Afterburner (1989)(Sega)(Side A)[cr NEC]</description>
 		<rom name="Afterburner (1989)(Sega)(Side A)[cr NEC].g64" size="333744" crc="175a3f26" md5="36ecf1371d3391c06c16f751431c932b" sha1="80353cb168dc5d7cc1dce57971f4ea2640a50ac4"/>
@@ -31,6 +27,10 @@
 	<game name="Afterburner (1989)(Sega)(Side B)[cr NEC][a]">
 		<description>Afterburner (1989)(Sega)(Side B)[cr NEC][a]</description>
 		<rom name="Afterburner (1989)(Sega)(Side B)[cr NEC][a].g64" size="333744" crc="4a300e7b" md5="b26dcb23b5be84042951d06ab64c3c59" sha1="7022b48d4318edf7bf16997721c2247210a004ec"/>
+	</game>
+	<game name="Afterburner (1989)(Sega)(US)(Side B)[cr HTL+NEC]">
+		<description>Afterburner (1989)(Sega)(US)(Side B)[cr HTL+NEC]</description>
+		<rom name="Afterburner (1989)(Sega)(US)(Side B)[cr HTL+NEC].g64" size="317884" crc="60685cb8" md5="6c7b89bf9da443e38fff57c928a428cf" sha1="8da29ceed2ccbc6bd45de95eadeb9b76601b1332"/>
 	</game>
 	<game name="Airborne Ranger (1987)(MicroProse)(Side B)[cr FAC+ESI]">
 		<description>Airborne Ranger (1987)(MicroProse)(Side B)[cr FAC+ESI]</description>
@@ -140,53 +140,53 @@
 		<description>Atomic Robo-Kid (1990)(Activision)[cr X-Ray][t Xray]</description>
 		<rom name="Atomic Robo-Kid (1990)(Activision)[cr X-Ray][t Xray].g64" size="278234" crc="9cde919a" md5="fc9ad20d7a83c567c6a787db489b1689" sha1="f80dff9663a8fb834472eebdb0e2e5252dc96e6d"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o].g64" size="333744" crc="c5ebb607" md5="cb6359e60f1b9ba0a82963f46faa1284" sha1="40c797c8498c6d04b6e27f78e1fce5844dbe1516"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software).g64" size="333744" crc="c5ebb607" md5="cb6359e60f1b9ba0a82963f46faa1284" sha1="40c797c8498c6d04b6e27f78e1fce5844dbe1516"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a].g64" size="333744" crc="ca40a11c" md5="0b09f79f59741f876638d0740f17dfde" sha1="87738779ba2071f0fd09f7cef16e098edcbdd538"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a].g64" size="333744" crc="f190759e" md5="27cf8854b6001c38696fc9ae6015c1c9" sha1="03fc53a6de09dacb2b3b3fa80d237ca17cf5d349"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a10]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a10]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a10].g64" size="333744" crc="f190759e" md5="27cf8854b6001c38696fc9ae6015c1c9" sha1="03fc53a6de09dacb2b3b3fa80d237ca17cf5d349"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a10]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a10]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a10].g64" size="286164" crc="3a5e65db" md5="42204140cb668d70babf31a01ad6b0fc" sha1="b7a6a2ecbf2c2d9f05a44fcd86a79077513e484c"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a11]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a11]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a11].g64" size="333744" crc="cbbecd93" md5="c0a0091923cdcf8ca2fee75eca9c2ca8" sha1="e7133ac7cd52b30ffecb2070ebb4c7411fd05c16"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a11]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a11]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a11].g64" size="333744" crc="ca40a11c" md5="0b09f79f59741f876638d0740f17dfde" sha1="87738779ba2071f0fd09f7cef16e098edcbdd538"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a2]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a2]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a2].g64" size="278234" crc="987192ba" md5="61e6f279ec66a32770c13eb611192708" sha1="b35707ece475055594ebbd4fe25f5c61b4fefb7f"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a2]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a2]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a2].g64" size="333744" crc="cbbecd93" md5="c0a0091923cdcf8ca2fee75eca9c2ca8" sha1="e7133ac7cd52b30ffecb2070ebb4c7411fd05c16"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a3]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a3]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a3].g64" size="302024" crc="877e3c61" md5="edf168bd00add2aa69c82d7597de948b" sha1="b3547f3f53a241f371d8cc702e423b965c16822e"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a3]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a3]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a3].g64" size="278234" crc="987192ba" md5="61e6f279ec66a32770c13eb611192708" sha1="b35707ece475055594ebbd4fe25f5c61b4fefb7f"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a4]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a4]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a4].g64" size="333744" crc="87ef19e0" md5="4d98937f1114f173e3d4e0947d061203" sha1="f84ea0a05f0c8e9916c55d24384304a48f69d48a"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a4]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a4]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a4].g64" size="302024" crc="877e3c61" md5="edf168bd00add2aa69c82d7597de948b" sha1="b3547f3f53a241f371d8cc702e423b965c16822e"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a5]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a5]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a5].g64" size="333744" crc="79880227" md5="709f7ca7b07b1cbc14f68210ed14cc4f" sha1="0fb479dbf51aa8601565f6a55e61830ce004ca69"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a5]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a5]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a5].g64" size="333744" crc="87ef19e0" md5="4d98937f1114f173e3d4e0947d061203" sha1="f84ea0a05f0c8e9916c55d24384304a48f69d48a"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a6]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a6]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a6].g64" size="333744" crc="c42d17f9" md5="429eda23f036a638bb5b4e42f79be83d" sha1="b910b5cd851e13ee27d425a6b1587dc69b98026d"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a6]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a6]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a6].g64" size="333744" crc="79880227" md5="709f7ca7b07b1cbc14f68210ed14cc4f" sha1="0fb479dbf51aa8601565f6a55e61830ce004ca69"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a7]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a7]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a7].g64" size="333744" crc="48d8bc10" md5="52c2c2fbd0e8d7861e47314ea2dd9627" sha1="e5439c95735e20bd647361b945e5dbe93635b0dc"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a7]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a7]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a7].g64" size="333744" crc="c42d17f9" md5="429eda23f036a638bb5b4e42f79be83d" sha1="b910b5cd851e13ee27d425a6b1587dc69b98026d"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a8]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a8]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a8].g64" size="333744" crc="0d461ec3" md5="82bf2fd36f5f492c0240b567f959df4a" sha1="134622283143c2ac3b061f00705d7094289181ab"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a8]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a8]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a8].g64" size="333744" crc="48d8bc10" md5="52c2c2fbd0e8d7861e47314ea2dd9627" sha1="e5439c95735e20bd647361b945e5dbe93635b0dc"/>
 	</game>
-	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a9]">
-		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a9]</description>
-		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[o][a9].g64" size="286164" crc="3a5e65db" md5="42204140cb668d70babf31a01ad6b0fc" sha1="b7a6a2ecbf2c2d9f05a44fcd86a79077513e484c"/>
+	<game name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a9]">
+		<description>Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a9]</description>
+		<rom name="Beach-Head II - The Dictator Strikes Back! (1985)(Access Software)[a9].g64" size="333744" crc="0d461ec3" md5="82bf2fd36f5f492c0240b567f959df4a" sha1="134622283143c2ac3b061f00705d7094289181ab"/>
 	</game>
 	<game name="Beyond the Forbidden Forest (1985)(Cosmi)">
 		<description>Beyond the Forbidden Forest (1985)(Cosmi)</description>
@@ -264,17 +264,17 @@
 		<description>Broadsides (1984)(SSI)[a]</description>
 		<rom name="Broadsides (1984)(SSI)[a].g64" size="286164" crc="96c2bd28" md5="d909e49ad21a9d9d518f111af9a1344d" sha1="9e3c07770ffe8fd18a15e61a48177d647a0f59d3"/>
 	</game>
-	<game name="Cabal - US Version (1990)(Capcom)[cr HTL][t +2 HTL]">
-		<description>Cabal - US Version (1990)(Capcom)[cr HTL][t +2 HTL]</description>
-		<rom name="Cabal - US Version (1990)(Capcom)[cr HTL][t +2 HTL].g64" size="333744" crc="8cb77700" md5="24fd919acd433f7bf0704d182c3c169d" sha1="d3e099675f40d471e8ea289de8ff68d9e4e4448d"/>
-	</game>
-	<game name="Cabal - US Version (1990)(Capcom)[cr HTL][t +2 HTL][a]">
-		<description>Cabal - US Version (1990)(Capcom)[cr HTL][t +2 HTL][a]</description>
-		<rom name="Cabal - US Version (1990)(Capcom)[cr HTL][t +2 HTL][a].g64" size="333744" crc="a532d569" md5="238b045f1e223ee6a2ce0962129acca3" sha1="2fbd4691e4b492d4bf3357c415cf157f070ffdf2"/>
-	</game>
 	<game name="Cabal (1989)(Ocean)[cr XDS][t +2]">
 		<description>Cabal (1989)(Ocean)[cr XDS][t +2]</description>
 		<rom name="Cabal (1989)(Ocean)[cr XDS][t +2].g64" size="333744" crc="9f3cfc41" md5="2eecf022198ba8d196b1a488541bdbea" sha1="2d86c40f1990ffc193f4fa8138b2912111a7a42e"/>
+	</game>
+	<game name="Cabal (1990)(Capcom)(US)[cr HTL][t +2 HTL]">
+		<description>Cabal (1990)(Capcom)(US)[cr HTL][t +2 HTL]</description>
+		<rom name="Cabal (1990)(Capcom)(US)[cr HTL][t +2 HTL].g64" size="333744" crc="8cb77700" md5="24fd919acd433f7bf0704d182c3c169d" sha1="d3e099675f40d471e8ea289de8ff68d9e4e4448d"/>
+	</game>
+	<game name="Cabal (1990)(Capcom)(US)[cr HTL][t +2 HTL][a]">
+		<description>Cabal (1990)(Capcom)(US)[cr HTL][t +2 HTL][a]</description>
+		<rom name="Cabal (1990)(Capcom)(US)[cr HTL][t +2 HTL][a].g64" size="333744" crc="a532d569" md5="238b045f1e223ee6a2ce0962129acca3" sha1="2fbd4691e4b492d4bf3357c415cf157f070ffdf2"/>
 	</game>
 	<game name="Cauldron (1985)(Palace)">
 		<description>Cauldron (1985)(Palace)</description>
@@ -1092,25 +1092,25 @@
 		<description>Rush&apos;n Attack (1986)(Konami)[a2]</description>
 		<rom name="Rush&apos;n Attack (1986)(Konami)[a2].g64" size="286164" crc="6828c4cc" md5="8e56d2807b1b8dd419787f9140d2b6f6" sha1="e0993c4f9d4c27e59a01232749c1c5c502907399"/>
 	</game>
-	<game name="Salamander (1988)(Imagine - Konami)[o]">
-		<description>Salamander (1988)(Imagine - Konami)[o]</description>
-		<rom name="Salamander (1988)(Imagine - Konami)[o].g64" size="317884" crc="49381568" md5="4e13c012469fe82d32acde9bf22759c5" sha1="912d30e786a8010d54cbdffac0d2058dc74e7825"/>
+	<game name="Salamander (1988)(Imagine - Konami)">
+		<description>Salamander (1988)(Imagine - Konami)</description>
+		<rom name="Salamander (1988)(Imagine - Konami).g64" size="317884" crc="49381568" md5="4e13c012469fe82d32acde9bf22759c5" sha1="912d30e786a8010d54cbdffac0d2058dc74e7825"/>
 	</game>
-	<game name="Salamander (1988)(Imagine - Konami)[o][a]">
-		<description>Salamander (1988)(Imagine - Konami)[o][a]</description>
-		<rom name="Salamander (1988)(Imagine - Konami)[o][a].g64" size="317884" crc="366b2326" md5="5236857b082711c5a7300a12fe36ee8f" sha1="f6513b82d5da4931fc20312d2350b746a3f79464"/>
+	<game name="Salamander (1988)(Imagine - Konami)[a]">
+		<description>Salamander (1988)(Imagine - Konami)[a]</description>
+		<rom name="Salamander (1988)(Imagine - Konami)[a].g64" size="333744" crc="33ae78b7" md5="ad954cfb642e912d53d26e8085c7ccfb" sha1="c5a4298623ca8e03a13e4acbd924f904b4db1569"/>
 	</game>
-	<game name="Salamander (1988)(Imagine - Konami)[o][a2]">
-		<description>Salamander (1988)(Imagine - Konami)[o][a2]</description>
-		<rom name="Salamander (1988)(Imagine - Konami)[o][a2].g64" size="333744" crc="33ae78b7" md5="ad954cfb642e912d53d26e8085c7ccfb" sha1="c5a4298623ca8e03a13e4acbd924f904b4db1569"/>
+	<game name="Salamander (1988)(Imagine - Konami)[a2]">
+		<description>Salamander (1988)(Imagine - Konami)[a2]</description>
+		<rom name="Salamander (1988)(Imagine - Konami)[a2].g64" size="333744" crc="fff3b795" md5="c8ead1b7ff077c0bab9c076cf08ef9c1" sha1="bda56a5873b4f59280af16af08603f9ffb5a83a3"/>
 	</game>
-	<game name="Salamander (1988)(Imagine - Konami)[o][a3]">
-		<description>Salamander (1988)(Imagine - Konami)[o][a3]</description>
-		<rom name="Salamander (1988)(Imagine - Konami)[o][a3].g64" size="333744" crc="fff3b795" md5="c8ead1b7ff077c0bab9c076cf08ef9c1" sha1="bda56a5873b4f59280af16af08603f9ffb5a83a3"/>
+	<game name="Salamander (1988)(Imagine - Konami)[a3]">
+		<description>Salamander (1988)(Imagine - Konami)[a3]</description>
+		<rom name="Salamander (1988)(Imagine - Konami)[a3].g64" size="333744" crc="5351e11b" md5="ff03233c3a653c4d8148736d50361356" sha1="c2c023b9095fd79bc18d93fff84dedcd31d0334b"/>
 	</game>
-	<game name="Salamander (1988)(Imagine - Konami)[o][a4]">
-		<description>Salamander (1988)(Imagine - Konami)[o][a4]</description>
-		<rom name="Salamander (1988)(Imagine - Konami)[o][a4].g64" size="333744" crc="5351e11b" md5="ff03233c3a653c4d8148736d50361356" sha1="c2c023b9095fd79bc18d93fff84dedcd31d0334b"/>
+	<game name="Salamander (1988)(Imagine - Konami)[a4]">
+		<description>Salamander (1988)(Imagine - Konami)[a4]</description>
+		<rom name="Salamander (1988)(Imagine - Konami)[a4].g64" size="317884" crc="366b2326" md5="5236857b082711c5a7300a12fe36ee8f" sha1="f6513b82d5da4931fc20312d2350b746a3f79464"/>
 	</game>
 	<game name="Sidearms, Hyper Dyne (1988)(Capcom)(Side A)[h V-Max]">
 		<description>Sidearms, Hyper Dyne (1988)(Capcom)(Side A)[h V-Max]</description>

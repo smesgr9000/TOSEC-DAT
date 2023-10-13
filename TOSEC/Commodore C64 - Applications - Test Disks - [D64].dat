@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - Test Disks - [D64]</name>
-		<description>Commodore C64 - Applications - Test Disks - [D64] (TOSEC-v2021-07-14)</description>
+		<description>Commodore C64 - Applications - Test Disks - [D64] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2021-07-14</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -34,7 +34,7 @@
 	</game>
 	<game name="1351 Mouse Demo Disk (19xx)(Commodore)[a13]">
 		<description>1351 Mouse Demo Disk (19xx)(Commodore)[a13]</description>
-		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[a13].d64" size="175531" crc="75faaa0b" md5="f14c0b063e4ca976756cfd3c8cf46ca1" sha1="078acce4a24c9c9032b7bd5395149d1a35a774de"/>
+		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[a13].d64" size="174848" crc="f53b0399" md5="4914489430dffedfa018f681f8a4aa3a" sha1="0432b3bc35f43c603aea3eaa8960bf2958c1b7ee"/>
 	</game>
 	<game name="1351 Mouse Demo Disk (19xx)(Commodore)[a14]">
 		<description>1351 Mouse Demo Disk (19xx)(Commodore)[a14]</description>
@@ -80,10 +80,6 @@
 		<description>1351 Mouse Demo Disk (19xx)(Commodore)[a23]</description>
 		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[a23].d64" size="174848" crc="ecbbd6da" md5="8a72915dc08c132461274edf9de43a54" sha1="c967a7afa898d86d4f1295396f3ffadf2512505d"/>
 	</game>
-	<game name="1351 Mouse Demo Disk (19xx)(Commodore)[a24]">
-		<description>1351 Mouse Demo Disk (19xx)(Commodore)[a24]</description>
-		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[a24].d64" size="174848" crc="f53b0399" md5="4914489430dffedfa018f681f8a4aa3a" sha1="0432b3bc35f43c603aea3eaa8960bf2958c1b7ee"/>
-	</game>
 	<game name="1351 Mouse Demo Disk (19xx)(Commodore)[a3]">
 		<description>1351 Mouse Demo Disk (19xx)(Commodore)[a3]</description>
 		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[a3].d64" size="174848" crc="19c12dfe" md5="696043abe91ece7b6673cd645e34cbc4" sha1="02172f4b5c5794067157326fd2fb152f7298c0c3"/>
@@ -112,6 +108,10 @@
 		<description>1351 Mouse Demo Disk (19xx)(Commodore)[a9]</description>
 		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[a9].d64" size="174848" crc="3fc7f593" md5="15282752f8ceda0dda8b6eee7bf114fa" sha1="fc588bbb7e85a2ecbaef2609db2a5ed3fab395d7"/>
 	</game>
+	<game name="1351 Mouse Demo Disk (19xx)(Commodore)[o]">
+		<description>1351 Mouse Demo Disk (19xx)(Commodore)[o]</description>
+		<rom name="1351 Mouse Demo Disk (19xx)(Commodore)[o].d64" size="175531" crc="75faaa0b" md5="f14c0b063e4ca976756cfd3c8cf46ca1" sha1="078acce4a24c9c9032b7bd5395149d1a35a774de"/>
+	</game>
 	<game name="1541 Demo Disk (19xx)(Commodore)">
 		<description>1541 Demo Disk (19xx)(Commodore)</description>
 		<rom name="1541 Demo Disk (19xx)(Commodore).d64" size="174848" crc="f2e1f736" md5="f45d8940d0996c6291881b08886449c4" sha1="2a19d35b332428696b18032511d8a272fceab400"/>
@@ -122,7 +122,7 @@
 	</game>
 	<game name="1541 Demo Disk (19xx)(Commodore)[a10]">
 		<description>1541 Demo Disk (19xx)(Commodore)[a10]</description>
-		<rom name="1541 Demo Disk (19xx)(Commodore)[a10].d64" size="175531" crc="dd04774f" md5="b97eefb369e01473be374440a30ab38e" sha1="2e1f40c7bad45ca97bbcd3f25a8f595d183d3df4"/>
+		<rom name="1541 Demo Disk (19xx)(Commodore)[a10].d64" size="174848" crc="c4297fd1" md5="5ec5485e68580b9d399c8b5c030876de" sha1="2fb1cf312fbc9f7165d2db520c340ed5954cee3a"/>
 	</game>
 	<game name="1541 Demo Disk (19xx)(Commodore)[a11]">
 		<description>1541 Demo Disk (19xx)(Commodore)[a11]</description>
@@ -168,14 +168,6 @@
 		<description>1541 Demo Disk (19xx)(Commodore)[a20]</description>
 		<rom name="1541 Demo Disk (19xx)(Commodore)[a20].d64" size="175531" crc="1e743774" md5="06a84e2a7b5685f35c8663880f9279b0" sha1="f6c373852801fe52dec143866ca9eccd55e3f328"/>
 	</game>
-	<game name="1541 Demo Disk (19xx)(Commodore)[a21]">
-		<description>1541 Demo Disk (19xx)(Commodore)[a21]</description>
-		<rom name="1541 Demo Disk (19xx)(Commodore)[a21].d64" size="174848" crc="c4297fd1" md5="5ec5485e68580b9d399c8b5c030876de" sha1="2fb1cf312fbc9f7165d2db520c340ed5954cee3a"/>
-	</game>
-	<game name="1541 Demo Disk (19xx)(Commodore)[a22]">
-		<description>1541 Demo Disk (19xx)(Commodore)[a22]</description>
-		<rom name="1541 Demo Disk (19xx)(Commodore)[a22].d64" size="175531" crc="110cdfef" md5="206fec694fb92dd137a0b5cbeb213ab2" sha1="e0137af061cfbb6f558af303ba3a5154b9dc4b37"/>
-	</game>
 	<game name="1541 Demo Disk (19xx)(Commodore)[a3]">
 		<description>1541 Demo Disk (19xx)(Commodore)[a3]</description>
 		<rom name="1541 Demo Disk (19xx)(Commodore)[a3].d64" size="174848" crc="bf6da2a0" md5="939469397f995302bb7a8ae7cc871c15" sha1="67b694cf6551991d6b87f7bdc03f8f58aa55dbce"/>
@@ -202,7 +194,15 @@
 	</game>
 	<game name="1541 Demo Disk (19xx)(Commodore)[a9]">
 		<description>1541 Demo Disk (19xx)(Commodore)[a9]</description>
-		<rom name="1541 Demo Disk (19xx)(Commodore)[a9].d64" size="175531" crc="e65a30bf" md5="471294f30cc165d9cd1cd569dcd22804" sha1="7e75f049fb808711b603603039236fbbe846b344"/>
+		<rom name="1541 Demo Disk (19xx)(Commodore)[a9].d64" size="175531" crc="110cdfef" md5="206fec694fb92dd137a0b5cbeb213ab2" sha1="e0137af061cfbb6f558af303ba3a5154b9dc4b37"/>
+	</game>
+	<game name="1541 Demo Disk (19xx)(Commodore)[o]">
+		<description>1541 Demo Disk (19xx)(Commodore)[o]</description>
+		<rom name="1541 Demo Disk (19xx)(Commodore)[o].d64" size="175531" crc="dd04774f" md5="b97eefb369e01473be374440a30ab38e" sha1="2e1f40c7bad45ca97bbcd3f25a8f595d183d3df4"/>
+	</game>
+	<game name="1541 Demo Disk (19xx)(Commodore)[o2]">
+		<description>1541 Demo Disk (19xx)(Commodore)[o2]</description>
+		<rom name="1541 Demo Disk (19xx)(Commodore)[o2].d64" size="175531" crc="e65a30bf" md5="471294f30cc165d9cd1cd569dcd22804" sha1="7e75f049fb808711b603603039236fbbe846b344"/>
 	</game>
 	<game name="1571 Demo Disk (19xx)(Commodore)">
 		<description>1571 Demo Disk (19xx)(Commodore)</description>
@@ -334,7 +334,7 @@
 	</game>
 	<game name="C64 Test Demo Disk (19xx)(Commodore)[a2]">
 		<description>C64 Test Demo Disk (19xx)(Commodore)[a2]</description>
-		<rom name="C64 Test Demo Disk (19xx)(Commodore)[a2].d64" size="175531" crc="ec53bce2" md5="d8975e337cd82b75f6fd8a784f5bd087" sha1="929862b9fb0ad968fdb12007b5092ac97ba5016e"/>
+		<rom name="C64 Test Demo Disk (19xx)(Commodore)[a2].d64" size="174848" crc="93f8a9d7" md5="fc19c01385d9d49bce6b90ffa6c36c4c" sha1="e2baff8bd1ffc7ba430b88dfb70817308c510ad4"/>
 	</game>
 	<game name="C64 Test Demo Disk (19xx)(Commodore)[a20]">
 		<description>C64 Test Demo Disk (19xx)(Commodore)[a20]</description>
@@ -436,10 +436,6 @@
 		<description>C64 Test Demo Disk (19xx)(Commodore)[a42]</description>
 		<rom name="C64 Test Demo Disk (19xx)(Commodore)[a42].d64" size="174848" crc="6a6754af" md5="8c12e12b4e98077be7ed23ca33c32588" sha1="49ff6591e4deff7fc4af211d4e5faeb95c97993a"/>
 	</game>
-	<game name="C64 Test Demo Disk (19xx)(Commodore)[a43]">
-		<description>C64 Test Demo Disk (19xx)(Commodore)[a43]</description>
-		<rom name="C64 Test Demo Disk (19xx)(Commodore)[a43].d64" size="174848" crc="93f8a9d7" md5="fc19c01385d9d49bce6b90ffa6c36c4c" sha1="e2baff8bd1ffc7ba430b88dfb70817308c510ad4"/>
-	</game>
 	<game name="C64 Test Demo Disk (19xx)(Commodore)[a5]">
 		<description>C64 Test Demo Disk (19xx)(Commodore)[a5]</description>
 		<rom name="C64 Test Demo Disk (19xx)(Commodore)[a5].d64" size="174848" crc="b5d3b5c2" md5="b714fd570711a3a669353ef6b168ce04" sha1="dd14810e359ceeae34056563eae0cf525a921538"/>
@@ -460,9 +456,13 @@
 		<description>C64 Test Demo Disk (19xx)(Commodore)[a9]</description>
 		<rom name="C64 Test Demo Disk (19xx)(Commodore)[a9].d64" size="174848" crc="2290e46e" md5="c7382e6221f3552e7733d01152cf1093" sha1="8462c52c4fd00fb6effa39e354f0637347466e12"/>
 	</game>
+	<game name="C64 Test Demo Disk (19xx)(Commodore)[o]">
+		<description>C64 Test Demo Disk (19xx)(Commodore)[o]</description>
+		<rom name="C64 Test Demo Disk (19xx)(Commodore)[o].d64" size="175531" crc="ec53bce2" md5="d8975e337cd82b75f6fd8a784f5bd087" sha1="929862b9fb0ad968fdb12007b5092ac97ba5016e"/>
+	</game>
 	<game name="Commodore 1541 (1983)(Commodore)[a][test demo-diskette]">
 		<description>Commodore 1541 (1983)(Commodore)[a][test demo-diskette]</description>
-		<rom name="Commodore 1541 (1983)(Commodore)[a][test demo-diskette].d64" size="175531" crc="8c78c7ae" md5="5f7f2f046c68a1f54f565f84bf5a530f" sha1="dd9fb9dff1c9cfba373e4c877586b986ca14150d"/>
+		<rom name="Commodore 1541 (1983)(Commodore)[a][test demo-diskette].d64" size="175531" crc="7e9105bb" md5="37319e25c361319deb7f7ba039428310" sha1="54dd4f61052c21fbc346fbed3c52484f61e43550"/>
 	</game>
 	<game name="Commodore 1541 (1983)(Commodore)[a10][test demo-diskette]">
 		<description>Commodore 1541 (1983)(Commodore)[a10][test demo-diskette]</description>
@@ -528,10 +528,6 @@
 		<description>Commodore 1541 (1983)(Commodore)[a24][test demo-diskette]</description>
 		<rom name="Commodore 1541 (1983)(Commodore)[a24][test demo-diskette].d64" size="174848" crc="b29b7c27" md5="252ad98f9c1a2e89b2e4fad8ceb47e90" sha1="72fc2f68a966cbf2890d8419a10087357facf8f0"/>
 	</game>
-	<game name="Commodore 1541 (1983)(Commodore)[a25][test demo-diskette]">
-		<description>Commodore 1541 (1983)(Commodore)[a25][test demo-diskette]</description>
-		<rom name="Commodore 1541 (1983)(Commodore)[a25][test demo-diskette].d64" size="175531" crc="7e9105bb" md5="37319e25c361319deb7f7ba039428310" sha1="54dd4f61052c21fbc346fbed3c52484f61e43550"/>
-	</game>
 	<game name="Commodore 1541 (1983)(Commodore)[a3][test demo-diskette]">
 		<description>Commodore 1541 (1983)(Commodore)[a3][test demo-diskette]</description>
 		<rom name="Commodore 1541 (1983)(Commodore)[a3][test demo-diskette].d64" size="174848" crc="d97dcfc9" md5="a71a291cf83e7c3048feed9e9683b382" sha1="19412d8be0847b9204054fe8b6f052e1c1a45b81"/>
@@ -560,6 +556,10 @@
 		<description>Commodore 1541 (1983)(Commodore)[a9][test demo-diskette]</description>
 		<rom name="Commodore 1541 (1983)(Commodore)[a9][test demo-diskette].d64" size="174848" crc="e984a23f" md5="387a7c5c390d6b68ffbc344f89022172" sha1="e1fd32c6e844a9c610da2adf3ff5f2e5c0aa1a24"/>
 	</game>
+	<game name="Commodore 1541 (1983)(Commodore)[o][test demo-diskette]">
+		<description>Commodore 1541 (1983)(Commodore)[o][test demo-diskette]</description>
+		<rom name="Commodore 1541 (1983)(Commodore)[o][test demo-diskette].d64" size="175531" crc="8c78c7ae" md5="5f7f2f046c68a1f54f565f84bf5a530f" sha1="dd9fb9dff1c9cfba373e4c877586b986ca14150d"/>
+	</game>
 	<game name="Commodore 1541 (1983)(Commodore)[test demo-diskette]">
 		<description>Commodore 1541 (1983)(Commodore)[test demo-diskette]</description>
 		<rom name="Commodore 1541 (1983)(Commodore)[test demo-diskette].d64" size="174848" crc="4833e51c" md5="c4023988ce25e931061be2846da7a3f4" sha1="6eeb59d5c500f4dc690aeb31eb2507973e89ee87"/>
@@ -586,15 +586,15 @@
 	</game>
 	<game name="RAMBOard Test Demo Disk (19xx)(Commodore)[a]">
 		<description>RAMBOard Test Demo Disk (19xx)(Commodore)[a]</description>
-		<rom name="RAMBOard Test Demo Disk (19xx)(Commodore)[a].d64" size="175531" crc="870fa405" md5="1522d757fcb82e27e807036ab67b6ddd" sha1="b5dc15bd509b20fc25974de87badaf3089b1278a"/>
+		<rom name="RAMBOard Test Demo Disk (19xx)(Commodore)[a].d64" size="174848" crc="b1a53b1b" md5="c357cb10c1ad1ebea2f6a970491d240d" sha1="28a368116bb238c7c7518fdc89aa3c4188a7e2a3"/>
 	</game>
 	<game name="RAMBOard Test Demo Disk (19xx)(Commodore)[a2]">
 		<description>RAMBOard Test Demo Disk (19xx)(Commodore)[a2]</description>
 		<rom name="RAMBOard Test Demo Disk (19xx)(Commodore)[a2].d64" size="174848" crc="a4f94a9c" md5="e0161146bfe0557484d0cdaa7bf6b472" sha1="ab0d0beac592bc4770fb609ac026c1adc9585bb0"/>
 	</game>
-	<game name="RAMBOard Test Demo Disk (19xx)(Commodore)[a3]">
-		<description>RAMBOard Test Demo Disk (19xx)(Commodore)[a3]</description>
-		<rom name="RAMBOard Test Demo Disk (19xx)(Commodore)[a3].d64" size="174848" crc="b1a53b1b" md5="c357cb10c1ad1ebea2f6a970491d240d" sha1="28a368116bb238c7c7518fdc89aa3c4188a7e2a3"/>
+	<game name="RAMBOard Test Demo Disk (19xx)(Commodore)[o]">
+		<description>RAMBOard Test Demo Disk (19xx)(Commodore)[o]</description>
+		<rom name="RAMBOard Test Demo Disk (19xx)(Commodore)[o].d64" size="175531" crc="870fa405" md5="1522d757fcb82e27e807036ab67b6ddd" sha1="b5dc15bd509b20fc25974de87badaf3089b1278a"/>
 	</game>
 	<game name="TD64Test (19xx)(-)">
 		<description>TD64Test (19xx)(-)</description>

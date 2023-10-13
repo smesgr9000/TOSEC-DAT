@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - [SDA]</name>
-		<description>Commodore C64 - Applications - [SDA] (TOSEC-v2022-05-07)</description>
+		<description>Commodore C64 - Applications - [SDA] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-05-07</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf - Apache - Hunt4Gold</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -24,9 +24,9 @@
 		<description>ARC - SDA v5.1 (1988)(Rhodes, Mark)[a2]</description>
 		<rom name="ARC - SDA v5.1 (1988)(Rhodes, Mark)[a2].sda" size="39424" crc="e97688f7" md5="31c1845bb784e74f95ebddda2107abfc" sha1="4a6ade437eeed74a184329a7bac1f48d6b4c8546"/>
 	</game>
-	<game name="ARC - SDA v5.1 (1988)(Rhodes, Mark)[a3]">
-		<description>ARC - SDA v5.1 (1988)(Rhodes, Mark)[a3]</description>
-		<rom name="ARC - SDA v5.1 (1988)(Rhodes, Mark)[a3].sda" size="39424" crc="d144ca77" md5="5380a453c391f7012fb17313b73c5087" sha1="885b66e0671fe779b395cdd70abe26e8b0ae2b6b"/>
+	<game name="ARC - SDA v5.1 (1988)(Rhodes, Mark)[o]">
+		<description>ARC - SDA v5.1 (1988)(Rhodes, Mark)[o]</description>
+		<rom name="ARC - SDA v5.1 (1988)(Rhodes, Mark)[o].sda" size="39424" crc="d144ca77" md5="5380a453c391f7012fb17313b73c5087" sha1="885b66e0671fe779b395cdd70abe26e8b0ae2b6b"/>
 	</game>
 	<game name="ARC - SDA v5.1 (1988)(Rhodes, Mark)[SDA]">
 		<description>ARC - SDA v5.1 (1988)(Rhodes, Mark)[SDA]</description>
@@ -34,7 +34,7 @@
 	</game>
 	<game name="Auto-Graph (19xx)(Fuzzy Fox)">
 		<description>Auto-Graph (19xx)(Fuzzy Fox)</description>
-		<rom name="Auto-Graph (19xx)(Fuzzy Fox).sda" size="19584" crc="76379b37" md5="8698ec1838d1175d4c8dfb0485aea7d6" sha1="1834ed75b23d124d428268fdff44798c107279f2"/>
+		<rom name="Auto-Graph (19xx)(Fuzzy Fox).sda" size="29450" crc="717d98ee" md5="0a52329340ea5829f3a7bded8527abf2" sha1="bee204161970a2462d5ed8819734044c5917943b"/>
 	</game>
 	<game name="Auto-Graph (19xx)(Fuzzy Fox)[a]">
 		<description>Auto-Graph (19xx)(Fuzzy Fox)[a]</description>
@@ -52,29 +52,29 @@
 		<description>Auto-Graph (19xx)(Fuzzy Fox)[a4]</description>
 		<rom name="Auto-Graph (19xx)(Fuzzy Fox)[a4].sda" size="21901" crc="423cea52" md5="fe34d51f9de2d05f157227734153c82e" sha1="c434c93fd6111d2fbd9599a6ddd125c13dd909d5"/>
 	</game>
-	<game name="Auto-Graph (19xx)(Fuzzy Fox)[a5]">
-		<description>Auto-Graph (19xx)(Fuzzy Fox)[a5]</description>
-		<rom name="Auto-Graph (19xx)(Fuzzy Fox)[a5].sda" size="29450" crc="717d98ee" md5="0a52329340ea5829f3a7bded8527abf2" sha1="bee204161970a2462d5ed8819734044c5917943b"/>
-	</game>
-	<game name="Auto-Graph (19xx)(Fuzzy Fox)[a6]">
-		<description>Auto-Graph (19xx)(Fuzzy Fox)[a6]</description>
-		<rom name="Auto-Graph (19xx)(Fuzzy Fox)[a6].sda" size="19585" crc="6ac97d19" md5="bcdf45c96386c323e7eb3c3b6ae8fc00" sha1="925344472cf064d4d27022cfc63aa856ec3bb4a2"/>
-	</game>
 	<game name="Auto-Graph (19xx)(Fuzzy Fox)[Docs]">
 		<description>Auto-Graph (19xx)(Fuzzy Fox)[Docs]</description>
 		<rom name="Auto-Graph (19xx)(Fuzzy Fox)[Docs].sda" size="35558" crc="9bd6fee3" md5="0ec45ed5e9c51dbbf78ce26b688fbdc7" sha1="730ee6b647c41206b8ff50a83540e5d815da4fa2"/>
+	</game>
+	<game name="Auto-Graph (19xx)(Fuzzy Fox)[o]">
+		<description>Auto-Graph (19xx)(Fuzzy Fox)[o]</description>
+		<rom name="Auto-Graph (19xx)(Fuzzy Fox)[o].sda" size="19584" crc="76379b37" md5="8698ec1838d1175d4c8dfb0485aea7d6" sha1="1834ed75b23d124d428268fdff44798c107279f2"/>
+	</game>
+	<game name="Auto-Graph (19xx)(Fuzzy Fox)[o2]">
+		<description>Auto-Graph (19xx)(Fuzzy Fox)[o2]</description>
+		<rom name="Auto-Graph (19xx)(Fuzzy Fox)[o2].sda" size="19585" crc="6ac97d19" md5="bcdf45c96386c323e7eb3c3b6ae8fc00" sha1="925344472cf064d4d27022cfc63aa856ec3bb4a2"/>
 	</game>
 	<game name="Fracmaster (19xx)(Moriarty, Mark)">
 		<description>Fracmaster (19xx)(Moriarty, Mark)</description>
 		<rom name="Fracmaster (19xx)(Moriarty, Mark).sda" size="19072" crc="0d4d3b31" md5="5467fb7a47df1bfb6fa3f06a01521ce5" sha1="84282fa06ca51b811e7a173df34514f6841e9aff"/>
 	</game>
-	<game name="Fracmaster (19xx)(Moriarty, Mark)[a]">
-		<description>Fracmaster (19xx)(Moriarty, Mark)[a]</description>
-		<rom name="Fracmaster (19xx)(Moriarty, Mark)[a].sda" size="19457" crc="4e9fb6fb" md5="fe78e228fc992888441a3f554ad09265" sha1="7ac0ce552da0560a36aa8945b047681fa3a97cbf"/>
-	</game>
 	<game name="Fracmaster (19xx)(Moriarty, Mark)[o]">
 		<description>Fracmaster (19xx)(Moriarty, Mark)[o]</description>
 		<rom name="Fracmaster (19xx)(Moriarty, Mark)[o].sda" size="19456" crc="945fdfc4" md5="652105a894ab96a6f1032494225ca5d4" sha1="c4f8d17217719f2e2e4e4f02d8dc3116edc7b12a"/>
+	</game>
+	<game name="Fracmaster (19xx)(Moriarty, Mark)[o2]">
+		<description>Fracmaster (19xx)(Moriarty, Mark)[o2]</description>
+		<rom name="Fracmaster (19xx)(Moriarty, Mark)[o2].sda" size="19457" crc="4e9fb6fb" md5="fe78e228fc992888441a3f554ad09265" sha1="7ac0ce552da0560a36aa8945b047681fa3a97cbf"/>
 	</game>
 	<game name="Gary Label Maker v2.3 (1987)(Gary)">
 		<description>Gary Label Maker v2.3 (1987)(Gary)</description>
@@ -102,19 +102,19 @@
 	</game>
 	<game name="GIFVert (19xx)(Weems, Randy)[a]">
 		<description>GIFVert (19xx)(Weems, Randy)[a]</description>
-		<rom name="GIFVert (19xx)(Weems, Randy)[a].sda" size="7169" crc="6db4fb19" md5="5c40f3433e20f7aa689eb8ed8ab897ae" sha1="1f0ace7bb87412cddba1025d8a73068c0c50b2c7"/>
+		<rom name="GIFVert (19xx)(Weems, Randy)[a].sda" size="6350" crc="4d025638" md5="471aeff05868a786a577e3f43bff8575" sha1="e2363f88dc6cd19d3ebaf87a27d42d0fae5fc591"/>
 	</game>
 	<game name="GIFVert (19xx)(Weems, Randy)[a2]">
 		<description>GIFVert (19xx)(Weems, Randy)[a2]</description>
 		<rom name="GIFVert (19xx)(Weems, Randy)[a2].sda" size="22373" crc="a894a6e7" md5="e43292f3c1ef341afacc1dc221b9353c" sha1="e536758c93cdb02643f23b65c37a2afc2e681d76"/>
 	</game>
-	<game name="GIFVert (19xx)(Weems, Randy)[a3]">
-		<description>GIFVert (19xx)(Weems, Randy)[a3]</description>
-		<rom name="GIFVert (19xx)(Weems, Randy)[a3].sda" size="6350" crc="4d025638" md5="471aeff05868a786a577e3f43bff8575" sha1="e2363f88dc6cd19d3ebaf87a27d42d0fae5fc591"/>
-	</game>
 	<game name="GIFVert (19xx)(Weems, Randy)[o]">
 		<description>GIFVert (19xx)(Weems, Randy)[o]</description>
 		<rom name="GIFVert (19xx)(Weems, Randy)[o].sda" size="7168" crc="66758233" md5="824ed06ea1e198e97b3869f30d91bc63" sha1="ce38fb489656331f2607b6b280f5024c8b5e7597"/>
+	</game>
+	<game name="GIFVert (19xx)(Weems, Randy)[o13]">
+		<description>GIFVert (19xx)(Weems, Randy)[o13]</description>
+		<rom name="GIFVert (19xx)(Weems, Randy)[o13].sda" size="7169" crc="6db4fb19" md5="5c40f3433e20f7aa689eb8ed8ab897ae" sha1="1f0ace7bb87412cddba1025d8a73068c0c50b2c7"/>
 	</game>
 	<game name="GIFVert (19xx)(Weems, Randy)[o3]">
 		<description>GIFVert (19xx)(Weems, Randy)[o3]</description>
@@ -166,23 +166,23 @@
 	</game>
 	<game name="MS DOS Copy (19xx)(-)[a]">
 		<description>MS DOS Copy (19xx)(-)[a]</description>
-		<rom name="MS DOS Copy (19xx)(-)[a].sda" size="9216" crc="d908a9e0" md5="8df0e7e2c647a1a51ef4baa5cfdc994d" sha1="d42d53bac898963e7f328c29238b5c6f5589ffff"/>
+		<rom name="MS DOS Copy (19xx)(-)[a].sda" size="8914" crc="5e68d8f8" md5="6b6698d29680a4135099bd01140f2a08" sha1="cc0057a78d4494805ef86b692783f9f37ffb4dfd"/>
 	</game>
 	<game name="MS DOS Copy (19xx)(-)[a2]">
 		<description>MS DOS Copy (19xx)(-)[a2]</description>
-		<rom name="MS DOS Copy (19xx)(-)[a2].sda" size="8960" crc="c2c8a2bb" md5="b92704968aecdec0d9ca39a40c303164" sha1="53eba849c116920db4a580549712a887a0b8843a"/>
+		<rom name="MS DOS Copy (19xx)(-)[a2].sda" size="8890" crc="e3add7fe" md5="546199af22b728d085cf901f7ae3f8e6" sha1="7733e0eadfd2531bd43067915123bce86890039a"/>
 	</game>
-	<game name="MS DOS Copy (19xx)(-)[a3]">
-		<description>MS DOS Copy (19xx)(-)[a3]</description>
-		<rom name="MS DOS Copy (19xx)(-)[a3].sda" size="8890" crc="e3add7fe" md5="546199af22b728d085cf901f7ae3f8e6" sha1="7733e0eadfd2531bd43067915123bce86890039a"/>
+	<game name="MS DOS Copy (19xx)(-)[o]">
+		<description>MS DOS Copy (19xx)(-)[o]</description>
+		<rom name="MS DOS Copy (19xx)(-)[o].sda" size="9216" crc="d908a9e0" md5="8df0e7e2c647a1a51ef4baa5cfdc994d" sha1="d42d53bac898963e7f328c29238b5c6f5589ffff"/>
 	</game>
-	<game name="MS DOS Copy (19xx)(-)[a4]">
-		<description>MS DOS Copy (19xx)(-)[a4]</description>
-		<rom name="MS DOS Copy (19xx)(-)[a4].sda" size="8914" crc="5e68d8f8" md5="6b6698d29680a4135099bd01140f2a08" sha1="cc0057a78d4494805ef86b692783f9f37ffb4dfd"/>
+	<game name="MS DOS Copy (19xx)(-)[o2]">
+		<description>MS DOS Copy (19xx)(-)[o2]</description>
+		<rom name="MS DOS Copy (19xx)(-)[o2].sda" size="8960" crc="c2c8a2bb" md5="b92704968aecdec0d9ca39a40c303164" sha1="53eba849c116920db4a580549712a887a0b8843a"/>
 	</game>
-	<game name="MS DOS Copy (19xx)(-)[a5]">
-		<description>MS DOS Copy (19xx)(-)[a5]</description>
-		<rom name="MS DOS Copy (19xx)(-)[a5].sda" size="9217" crc="72d1055c" md5="46246314bdbb75acf262f7de93026d5a" sha1="d098dc271d9668de55285ad172d13d1f3c83938c"/>
+	<game name="MS DOS Copy (19xx)(-)[o3]">
+		<description>MS DOS Copy (19xx)(-)[o3]</description>
+		<rom name="MS DOS Copy (19xx)(-)[o3].sda" size="9217" crc="72d1055c" md5="46246314bdbb75acf262f7de93026d5a" sha1="d098dc271d9668de55285ad172d13d1f3c83938c"/>
 	</game>
 	<game name="Network 64 v1.26 (1987)(Lewit, Sam)[b]">
 		<description>Network 64 v1.26 (1987)(Lewit, Sam)[b]</description>

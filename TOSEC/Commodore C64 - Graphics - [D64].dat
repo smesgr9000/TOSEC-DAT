@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Graphics - [D64]</name>
-		<description>Commodore C64 - Graphics - [D64] (TOSEC-v2022-12-23)</description>
+		<description>Commodore C64 - Graphics - [D64] (TOSEC-v2023-05-19)</description>
 		<category>TOSEC</category>
-		<version>2022-12-23</version>
+		<version>2023-05-19</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -292,9 +292,9 @@
 		<description>4 Gamma Studio (1990)(Duel)</description>
 		<rom name="4 Gamma Studio (1990)(Duel).d64" size="174848" crc="da8d591e" md5="bd5a2d03a36152162c6d81c3d06fba57" sha1="35224dd2c4fa589d3a453552b581a354e44ecdee"/>
 	</game>
-	<game name="4 Gamma Studio (19xx)(Duel)">
-		<description>4 Gamma Studio (19xx)(Duel)</description>
-		<rom name="4 Gamma Studio (19xx)(Duel).d64" size="174848" crc="fea83f31" md5="7c2b44476ef861c452b48b3759ebb848" sha1="814e0a5093f8c4c77bb468e7fcde034643be95d4"/>
+	<game name="4 Gamma Studio (1990)(Duel)[a]">
+		<description>4 Gamma Studio (1990)(Duel)[a]</description>
+		<rom name="4 Gamma Studio (1990)(Duel)[a].d64" size="174848" crc="fea83f31" md5="7c2b44476ef861c452b48b3759ebb848" sha1="814e0a5093f8c4c77bb468e7fcde034643be95d4"/>
 	</game>
 	<game name="4 Secure (1990-05)(Stash)">
 		<description>4 Secure (1990-05)(Stash)</description>
@@ -476,9 +476,9 @@
 		<description>Aaargh! Condor (2021-02-07)(Wile Coyote)</description>
 		<rom name="Aaargh! Condor (2021-02-07)(Wile Coyote).d64" size="174848" crc="b80649fe" md5="86150ebb8c8dd261a14a643acd90c5a9" sha1="ac9113d4c4627f30fa6ec13d2c082806be814922"/>
 	</game>
-	<game name="Aaargh! Condor (2021-02-07)(Wile Coyote) (2)">
-		<description>Aaargh! Condor (2021-02-07)(Wile Coyote) (2)</description>
-		<rom name="Aaargh! Condor (2021-02-07)(Wile Coyote) (2).d64" size="174848" crc="9da7fa48" md5="819716fdd38cbf12e6b5510d36fd60da" sha1="7222bd12261a84e81d7804cebbeb4d701e87f426"/>
+	<game name="Aaargh! Condor (2021-02-07)(Wile Coyote)[a]">
+		<description>Aaargh! Condor (2021-02-07)(Wile Coyote)[a]</description>
+		<rom name="Aaargh! Condor (2021-02-07)(Wile Coyote)[a].d64" size="174848" crc="9da7fa48" md5="819716fdd38cbf12e6b5510d36fd60da" sha1="7222bd12261a84e81d7804cebbeb4d701e87f426"/>
 	</game>
 	<game name="Abary Logo #02 (1988-07-15)(Abary)">
 		<description>Abary Logo #02 (1988-07-15)(Abary)</description>
@@ -872,6 +872,10 @@
 		<description>Ahead Logo (1989)(Ahead)</description>
 		<rom name="Ahead Logo (1989)(Ahead).d64" size="174848" crc="0271677d" md5="b0488d36e106576d8c4a859e3a363179" sha1="24c91b219922a85b620618026b077769588258f6"/>
 	</game>
+	<game name="Ahead Logo (1989)(Ahead)[a]">
+		<description>Ahead Logo (1989)(Ahead)[a]</description>
+		<rom name="Ahead Logo (1989)(Ahead)[a].d64" size="174848" crc="da523e4f" md5="1079f22fb282f1b085c96392dc7d0ffb" sha1="2ce7c493dfcec378a3464d2043847d1304332f91"/>
+	</game>
 	<game name="Ahead Logo (1989)(Dunex)">
 		<description>Ahead Logo (1989)(Dunex)</description>
 		<rom name="Ahead Logo (1989)(Dunex).d64" size="174848" crc="75937b28" md5="ff3888473ae86efa16618734662093c2" sha1="105723083c77dda94d62475b5592ffa09f131e44"/>
@@ -883,10 +887,6 @@
 	<game name="A-Head Logo (1993)(Filth)">
 		<description>A-Head Logo (1993)(Filth)</description>
 		<rom name="A-Head Logo (1993)(Filth).d64" size="174848" crc="40692799" md5="554c81c38b6988e0274e28c1b9b239e9" sha1="aba31ef164eb7711fcce78237b0e46917d3d37e5"/>
-	</game>
-	<game name="Ahead Logo (19xx)(Ahead)">
-		<description>Ahead Logo (19xx)(Ahead)</description>
-		<rom name="Ahead Logo (19xx)(Ahead).d64" size="174848" crc="da523e4f" md5="1079f22fb282f1b085c96392dc7d0ffb" sha1="2ce7c493dfcec378a3464d2043847d1304332f91"/>
 	</game>
 	<game name="Ahead Logo 01 (1989)(Dynamic Duo)">
 		<description>Ahead Logo 01 (1989)(Dynamic Duo)</description>
@@ -1160,6 +1160,42 @@
 		<description>Amiga Picture (19xx)(Jem)</description>
 		<rom name="Amiga Picture (19xx)(Jem).d64" size="174848" crc="fe722c0b" md5="d98b216961eadff90d3c63a8db46141e" sha1="73845ee2a540984a1c86a1eac1ac7d6c1fec77d4"/>
 	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality).d64" size="174848" crc="ff128744" md5="1dc7fa212f0b720975f7c5a209bd887c" sha1="96f1dc72a3837681555bf47e675bad1699592332"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a].d64" size="174848" crc="a12b43bd" md5="3a18e95547cd5f2cf791af1b0e1a22b8" sha1="9ad021da17b1a7225f0274ce4603310831a8165e"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a2]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a2]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a2].d64" size="174848" crc="6857c8db" md5="504a72596ef6cd0178217fbff95b8cbc" sha1="e6bed2e23f45fdde6eedd0cc8fd3a0bc1664809e"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a3]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a3]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a3].d64" size="174848" crc="ce05d184" md5="795ae964c639faa9f9a28eced28e0e97" sha1="fb9bd7405e7879837338e6ec2ccebae7ee971a6c"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a4]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a4]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a4].d64" size="174848" crc="e62320f2" md5="864953472f8a5d855307a71cfa2859cd" sha1="47df360c1ea4d684ba543f7aad0852736896b087"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a5]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a5]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a5].d64" size="174848" crc="6a6b04c8" md5="938332c87c93103771d692808d255a88" sha1="1a9d455e5385db277f9c957355dc7a3b0967fc5e"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a6]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a6]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a6].d64" size="174848" crc="fca4be6b" md5="aa6a0bb06831b98b4a944404eee58c2b" sha1="432088ac41b9d9ea9dc3d217a34ac272b23e0664"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a7]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a7]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a7].d64" size="174848" crc="cf2a307b" md5="ccd2ce1cb6af384d7c96844360696401" sha1="bfa0d40f5911278253c6172725706432fa9520f1"/>
+	</game>
+	<game name="Amiga Saga (1992-10-27)(Visual Reality)[a8]">
+		<description>Amiga Saga (1992-10-27)(Visual Reality)[a8]</description>
+		<rom name="Amiga Saga (1992-10-27)(Visual Reality)[a8].d64" size="174848" crc="6d331d6c" md5="d126d4e16e8d796d7402405907db0c5e" sha1="f8e40e85bb1cb83b9a5ff585a68ec27305215961"/>
+	</game>
 	<game name="Amiga Saga (19xx)(Grego - Visual Reality)">
 		<description>Amiga Saga (19xx)(Grego - Visual Reality)</description>
 		<rom name="Amiga Saga (19xx)(Grego - Visual Reality).d64" size="174848" crc="8a21e4d4" md5="991142ef571a3ff427a1ef84767b611d" sha1="d19dc034bd12106d2e449970d7a8dc495b90aa35"/>
@@ -1372,9 +1408,9 @@
 		<description>Another Logo (19xx)(Suicide)</description>
 		<rom name="Another Logo (19xx)(Suicide).d64" size="174848" crc="a59facbc" md5="fa6a59cc91955364b1f0473c43373310" sha1="d46c52cba612c941324f286a68d29e0bf654748f"/>
 	</game>
-	<game name="Another Logo (19xx)(Suicide) (2)">
-		<description>Another Logo (19xx)(Suicide) (2)</description>
-		<rom name="Another Logo (19xx)(Suicide) (2).d64" size="174848" crc="36f6ca36" md5="ed123848f367b006610744e0ebd7dda3" sha1="a9e846a5ca3f8126d30f45882c46b633ac408403"/>
+	<game name="Another Logo (19xx)(Suicide)[a]">
+		<description>Another Logo (19xx)(Suicide)[a]</description>
+		<rom name="Another Logo (19xx)(Suicide)[a].d64" size="174848" crc="36f6ca36" md5="ed123848f367b006610744e0ebd7dda3" sha1="a9e846a5ca3f8126d30f45882c46b633ac408403"/>
 	</game>
 	<game name="Another Logo for Weird (1990)(Weird Designs)">
 		<description>Another Logo for Weird (1990)(Weird Designs)</description>
@@ -2240,9 +2276,9 @@
 		<description>Baba Jaga (2008-08-16)(Albion Crew)</description>
 		<rom name="Baba Jaga (2008-08-16)(Albion Crew).d64" size="174848" crc="97f9658e" md5="0934fb5fd598b1598226a8761e10e011" sha1="cf35049d607a8978790fafa730d6a42d1d481323"/>
 	</game>
-	<game name="Baba Jaga (2008-08-16)(Albion Crew) (2)">
-		<description>Baba Jaga (2008-08-16)(Albion Crew) (2)</description>
-		<rom name="Baba Jaga (2008-08-16)(Albion Crew) (2).d64" size="174848" crc="c0f9a2fa" md5="cfe98d5fc0fd0c286ea101766b364af9" sha1="c18925ec45c3b31e2eda22c0ae8134cdca1d71c9"/>
+	<game name="Baba Jaga (2008-08-16)(Albion Crew)[a]">
+		<description>Baba Jaga (2008-08-16)(Albion Crew)[a]</description>
+		<rom name="Baba Jaga (2008-08-16)(Albion Crew)[a].d64" size="174848" crc="c0f9a2fa" md5="cfe98d5fc0fd0c286ea101766b364af9" sha1="c18925ec45c3b31e2eda22c0ae8134cdca1d71c9"/>
 	</game>
 	<game name="Babes (1996)(Dragon Software Productions)">
 		<description>Babes (1996)(Dragon Software Productions)</description>
@@ -3584,9 +3620,9 @@
 		<description>Cactus Logo (1997)(Adequate)</description>
 		<rom name="Cactus Logo (1997)(Adequate).d64" size="174848" crc="173286b8" md5="fc29644b187c6cefbef88e42dcf6f411" sha1="a0671b8c4ee3bf1cb6c353a6d01f20e3b5113062"/>
 	</game>
-	<game name="Cactus Logo (1997)(Adequate) (2)">
-		<description>Cactus Logo (1997)(Adequate) (2)</description>
-		<rom name="Cactus Logo (1997)(Adequate) (2).d64" size="174848" crc="9a6b05e9" md5="e22b11afdefcc81cadc6a53702370d6c" sha1="685c78be62947af731dd223bf053d1bf285b8ca6"/>
+	<game name="Cactus Logo (1997)(Adequate)[a]">
+		<description>Cactus Logo (1997)(Adequate)[a]</description>
+		<rom name="Cactus Logo (1997)(Adequate)[a].d64" size="174848" crc="9a6b05e9" md5="e22b11afdefcc81cadc6a53702370d6c" sha1="685c78be62947af731dd223bf053d1bf285b8ca6"/>
 	</game>
 	<game name="Cali Dude (1992-10-24)(Redblazer)">
 		<description>Cali Dude (1992-10-24)(Redblazer)</description>
@@ -4956,9 +4992,9 @@
 		<description>Commando (1986)(Torquemada)</description>
 		<rom name="Commando (1986)(Torquemada).d64" size="174848" crc="6bd6f5b2" md5="0df561e12e5942d77603b389985c1e8c" sha1="4a8ad415d7a8e13f9c9d227517b0547d1627083c"/>
 	</game>
-	<game name="Commando (19xx)(Torquemada)[2]">
-		<description>Commando (19xx)(Torquemada)[2]</description>
-		<rom name="Commando (19xx)(Torquemada)[2].d64" size="174848" crc="d161fc76" md5="7e1d4f3c11497b88095cb2e2039663d1" sha1="50748437212d360a7f0aaa60ea60cc62951815ff"/>
+	<game name="Commando (1986)(Torquemada)[a]">
+		<description>Commando (1986)(Torquemada)[a]</description>
+		<rom name="Commando (1986)(Torquemada)[a].d64" size="174848" crc="d161fc76" md5="7e1d4f3c11497b88095cb2e2039663d1" sha1="50748437212d360a7f0aaa60ea60cc62951815ff"/>
 	</game>
 	<game name="Commando Title Pic. (2011-06-24)(DATA-LAND)">
 		<description>Commando Title Pic. (2011-06-24)(DATA-LAND)</description>
@@ -8404,6 +8440,10 @@
 		<description>Exotic Logo #01 (19xx)(Exotic Designs)</description>
 		<rom name="Exotic Logo #01 (19xx)(Exotic Designs).d64" size="174848" crc="8d0ea032" md5="b96ea4793994153cf3f3b86af3774be4" sha1="a3d6661b315bf116a5d9cec3df7e80c8e4521756"/>
 	</game>
+	<game name="Exotic Logo (1990)(Gloom)">
+		<description>Exotic Logo (1990)(Gloom)</description>
+		<rom name="Exotic Logo (1990)(Gloom).d64" size="174848" crc="adfd9e23" md5="61e1f16ab2c2ae9b91b583c6e1140956" sha1="00f7c0cf02efeded160d5143205449dc8354af9d"/>
+	</game>
 	<game name="Exotic Logo (1991)(Little Computer People)">
 		<description>Exotic Logo (1991)(Little Computer People)</description>
 		<rom name="Exotic Logo (1991)(Little Computer People).d64" size="174848" crc="12112bb1" md5="b4327b4f9dc757d663b174c7fed16d2c" sha1="5835fda070f01e35eb60694f7a2a1490595fba02"/>
@@ -8411,10 +8451,6 @@
 	<game name="Exotic Logo (19xx)(Exotic Designs)">
 		<description>Exotic Logo (19xx)(Exotic Designs)</description>
 		<rom name="Exotic Logo (19xx)(Exotic Designs).d64" size="174848" crc="c0a0d6d4" md5="285df70a445e9e8fedb946784f060b40" sha1="b76c8359cb13acbc225a3713d04fb128d663c958"/>
-	</game>
-	<game name="Exotic Logo (19xx)(Gloom)">
-		<description>Exotic Logo (19xx)(Gloom)</description>
-		<rom name="Exotic Logo (19xx)(Gloom).d64" size="174848" crc="adfd9e23" md5="61e1f16ab2c2ae9b91b583c6e1140956" sha1="00f7c0cf02efeded160d5143205449dc8354af9d"/>
 	</game>
 	<game name="Exotic Logo (19xx)(Lore of Arts)">
 		<description>Exotic Logo (19xx)(Lore of Arts)</description>
@@ -10564,33 +10600,29 @@
 		<description>Glider Rider (1986)(German Spreading Service)</description>
 		<rom name="Glider Rider (1986)(German Spreading Service).d64" size="174848" crc="18d46a4d" md5="ccdf80425a5df783e6bc09426b09ea8b" sha1="ee18d2c6062f7af5ace81279600a94ab46754c4e"/>
 	</game>
-	<game name="Gloom 1 Logo (19xx)(Gloom)">
-		<description>Gloom 1 Logo (19xx)(Gloom)</description>
-		<rom name="Gloom 1 Logo (19xx)(Gloom).d64" size="174848" crc="c75771d4" md5="c873ace23cf79937525fa71cca5364c9" sha1="eba06aaf1ec88b8e016bca72f087a9b90628e8c9"/>
+	<game name="Gloom 1 Logo (1990)(Gloom)">
+		<description>Gloom 1 Logo (1990)(Gloom)</description>
+		<rom name="Gloom 1 Logo (1990)(Gloom).d64" size="174848" crc="c75771d4" md5="c873ace23cf79937525fa71cca5364c9" sha1="eba06aaf1ec88b8e016bca72f087a9b90628e8c9"/>
 	</game>
-	<game name="Gloom 1 Logo (19xx)(Gloom) (2)">
-		<description>Gloom 1 Logo (19xx)(Gloom) (2)</description>
-		<rom name="Gloom 1 Logo (19xx)(Gloom) (2).d64" size="174848" crc="0d9a9cb7" md5="fbe6f23a9b64739f7c6ffbddbe21f28f" sha1="52e93b5d2c17669bab4bce1afcd2321ea1b901e4"/>
+	<game name="Gloom 1 Logo (1990)(Gloom)[a]">
+		<description>Gloom 1 Logo (1990)(Gloom)[a]</description>
+		<rom name="Gloom 1 Logo (1990)(Gloom)[a].d64" size="174848" crc="0d9a9cb7" md5="fbe6f23a9b64739f7c6ffbddbe21f28f" sha1="52e93b5d2c17669bab4bce1afcd2321ea1b901e4"/>
 	</game>
-	<game name="Gloom 2 Logo (19xx)(Gloom)">
-		<description>Gloom 2 Logo (19xx)(Gloom)</description>
-		<rom name="Gloom 2 Logo (19xx)(Gloom).d64" size="174848" crc="bcb20aae" md5="4d40afa6d04f4e7fbefe78b4e767b2d0" sha1="510f535d6555c0b9787bbd811ab12512e40d32b1"/>
+	<game name="Gloom 2 Logo (1990)(Gloom)">
+		<description>Gloom 2 Logo (1990)(Gloom)</description>
+		<rom name="Gloom 2 Logo (1990)(Gloom).d64" size="174848" crc="bcb20aae" md5="4d40afa6d04f4e7fbefe78b4e767b2d0" sha1="510f535d6555c0b9787bbd811ab12512e40d32b1"/>
 	</game>
-	<game name="Gloom 2 Logo (19xx)(Gloom) (2)">
-		<description>Gloom 2 Logo (19xx)(Gloom) (2)</description>
-		<rom name="Gloom 2 Logo (19xx)(Gloom) (2).d64" size="174848" crc="47f63714" md5="8244523c201c686bc60eb95a3ce7ce39" sha1="345b82898428348bf19512123e116f46a72c87ba"/>
+	<game name="Gloom 2 Logo (1990)(Gloom)[a]">
+		<description>Gloom 2 Logo (1990)(Gloom)[a]</description>
+		<rom name="Gloom 2 Logo (1990)(Gloom)[a].d64" size="174848" crc="47f63714" md5="8244523c201c686bc60eb95a3ce7ce39" sha1="345b82898428348bf19512123e116f46a72c87ba"/>
 	</game>
-	<game name="Gloom 3 Logo (19xx)(Gloom)">
-		<description>Gloom 3 Logo (19xx)(Gloom)</description>
-		<rom name="Gloom 3 Logo (19xx)(Gloom).d64" size="174848" crc="db19fe43" md5="e4f61f7af7413cf75d19f1e520619f10" sha1="8c8232a4a8e740fac03d8ea6916829cd44e2313a"/>
+	<game name="Gloom 3 Logo (1990)(Gloom)">
+		<description>Gloom 3 Logo (1990)(Gloom)</description>
+		<rom name="Gloom 3 Logo (1990)(Gloom).d64" size="174848" crc="db19fe43" md5="e4f61f7af7413cf75d19f1e520619f10" sha1="8c8232a4a8e740fac03d8ea6916829cd44e2313a"/>
 	</game>
 	<game name="Gloom Logo (1991)(Compagnions)">
 		<description>Gloom Logo (1991)(Compagnions)</description>
 		<rom name="Gloom Logo (1991)(Compagnions).d64" size="174848" crc="62c5dc68" md5="32293e04b69a652399c0079f115bff82" sha1="9087466e84c5b0357e8cd12ca74c163ac65d53d1"/>
-	</game>
-	<game name="Gloom Logo (1991)(Gloom)">
-		<description>Gloom Logo (1991)(Gloom)</description>
-		<rom name="Gloom Logo (1991)(Gloom).d64" size="174848" crc="1ae68a0a" md5="e9b08275e9a98c3e3c40c8a562425383" sha1="8967201f95ea9e5d6360030e5fad087ef47a7c35"/>
 	</game>
 	<game name="Gloom Logo (1991)(Lore of Arts)">
 		<description>Gloom Logo (1991)(Lore of Arts)</description>
@@ -10599,6 +10631,10 @@
 	<game name="Gloom Logo (1991-01)(Gloom)">
 		<description>Gloom Logo (1991-01)(Gloom)</description>
 		<rom name="Gloom Logo (1991-01)(Gloom).d64" size="174848" crc="efd7f0c1" md5="d03f6cc95df8f394dd5fc44d55115125" sha1="acc3ca45810ec43dab3199ffc9ad02bff11fd4f0"/>
+	</game>
+	<game name="Gloom Logo (1991-01)(Gloom)[a]">
+		<description>Gloom Logo (1991-01)(Gloom)[a]</description>
+		<rom name="Gloom Logo (1991-01)(Gloom)[a].d64" size="174848" crc="1ae68a0a" md5="e9b08275e9a98c3e3c40c8a562425383" sha1="8967201f95ea9e5d6360030e5fad087ef47a7c35"/>
 	</game>
 	<game name="Gloom Logo 1 (1990-11-11)(Gloom)">
 		<description>Gloom Logo 1 (1990-11-11)(Gloom)</description>
@@ -11788,9 +11824,9 @@
 		<description>Hollywood Show (19xx)(Dark Zone)</description>
 		<rom name="Hollywood Show (19xx)(Dark Zone).d64" size="174848" crc="4cb7bd71" md5="89d1530bf6e80fc15b85dc7d2a94a6c8" sha1="8f48452a5253c2962c5322f41de2b54dd3910150"/>
 	</game>
-	<game name="Hollywood Show (19xx)(Dark Zone) (2)">
-		<description>Hollywood Show (19xx)(Dark Zone) (2)</description>
-		<rom name="Hollywood Show (19xx)(Dark Zone) (2).d64" size="174848" crc="43b3104f" md5="d730e7048ddb653a3537a133639bba0c" sha1="3075c33be1a01bd87a87d0c7efcba8bfea50ca04"/>
+	<game name="Hollywood Show (19xx)(Dark Zone)[a]">
+		<description>Hollywood Show (19xx)(Dark Zone)[a]</description>
+		<rom name="Hollywood Show (19xx)(Dark Zone)[a].d64" size="174848" crc="43b3104f" md5="d730e7048ddb653a3537a133639bba0c" sha1="3075c33be1a01bd87a87d0c7efcba8bfea50ca04"/>
 	</game>
 	<game name="Holo City (2021-09-11)(Hokuto Force - Lethargy)">
 		<description>Holo City (2021-09-11)(Hokuto Force - Lethargy)</description>
@@ -12356,9 +12392,9 @@
 		<description>IlogicAll Logo (2014-03-31)(Inside)</description>
 		<rom name="IlogicAll Logo (2014-03-31)(Inside).d64" size="174848" crc="4c05b59f" md5="488f27157e44ada4458dbd357bf54fdf" sha1="d017687639eeaf02abb10a2887fbd108758c0a79"/>
 	</game>
-	<game name="IlogicAll Logo (2014-03-31)(Inside) (2)">
-		<description>IlogicAll Logo (2014-03-31)(Inside) (2)</description>
-		<rom name="IlogicAll Logo (2014-03-31)(Inside) (2).d64" size="174848" crc="f476d22a" md5="00d0c0bdc78c182f1a5a021ddcff1f1b" sha1="74c641598324b089a4a7903c750a14bdf7d4f510"/>
+	<game name="IlogicAll Logo (2014-03-31)(Inside)[a]">
+		<description>IlogicAll Logo (2014-03-31)(Inside)[a]</description>
+		<rom name="IlogicAll Logo (2014-03-31)(Inside)[a].d64" size="174848" crc="f476d22a" md5="00d0c0bdc78c182f1a5a021ddcff1f1b" sha1="74c641598324b089a4a7903c750a14bdf7d4f510"/>
 	</game>
 	<game name="Ilogicall mainpic1 (2014-03-31)(Inside)">
 		<description>Ilogicall mainpic1 (2014-03-31)(Inside)</description>
@@ -12740,9 +12776,9 @@
 		<description>Iron Maiden Slide Show (1988)(Commando Frontier)</description>
 		<rom name="Iron Maiden Slide Show (1988)(Commando Frontier).d64" size="174848" crc="6b87be07" md5="ce8c71976d72113fd9bf6cf6040d8174" sha1="2c3699821bbfdf09b97e00a171b73fd7f65abedc"/>
 	</game>
-	<game name="Iron Maiden Slide Show (1988)(Commando Frontier) (2)">
-		<description>Iron Maiden Slide Show (1988)(Commando Frontier) (2)</description>
-		<rom name="Iron Maiden Slide Show (1988)(Commando Frontier) (2).d64" size="175531" crc="365e6235" md5="6b8cf672d6796cedc9971581fe9977d8" sha1="00366bb01f04d605201cc8f77b547071195e98bb"/>
+	<game name="Iron Maiden Slide Show (1988)(Commando Frontier)[a]">
+		<description>Iron Maiden Slide Show (1988)(Commando Frontier)[a]</description>
+		<rom name="Iron Maiden Slide Show (1988)(Commando Frontier)[a].d64" size="175531" crc="365e6235" md5="6b8cf672d6796cedc9971581fe9977d8" sha1="00366bb01f04d605201cc8f77b547071195e98bb"/>
 	</game>
 	<game name="Iron Maiden&apos;s TNT (1988)(Exact)">
 		<description>Iron Maiden&apos;s TNT (1988)(Exact)</description>
@@ -12904,9 +12940,9 @@
 		<description>JAM logo (19xx)(Jam)</description>
 		<rom name="JAM logo (19xx)(Jam).d64" size="174848" crc="96fee538" md5="2933e807928dfdb12530f8979d4aef7c" sha1="3b1bbaefc7b52f80d78838ed9f3dda3ea8d75f69"/>
 	</game>
-	<game name="Jam Logo (19xx)(Jam) (2)">
-		<description>Jam Logo (19xx)(Jam) (2)</description>
-		<rom name="Jam Logo (19xx)(Jam) (2).d64" size="174848" crc="cfa018c9" md5="b83f76eac5e6d3df58856c0073c0f76a" sha1="dc0a293de98c971aba6993ee7b4b2a56bcb1aca5"/>
+	<game name="Jam Logo (19xx)(Jam)[a]">
+		<description>Jam Logo (19xx)(Jam)[a]</description>
+		<rom name="Jam Logo (19xx)(Jam)[a].d64" size="174848" crc="cfa018c9" md5="b83f76eac5e6d3df58856c0073c0f76a" sha1="dc0a293de98c971aba6993ee7b4b2a56bcb1aca5"/>
 	</game>
 	<game name="Jam Logo II (19xx)(Jam)">
 		<description>Jam Logo II (19xx)(Jam)</description>
@@ -14244,9 +14280,9 @@
 		<description>Lithium Logo (19xx)(Lithium)</description>
 		<rom name="Lithium Logo (19xx)(Lithium).d64" size="174848" crc="dac19e6c" md5="0400c2d20ac95927c2506477e68a1e1f" sha1="cd985fe6c524dedb5ec812e4e85799732c84af2f"/>
 	</game>
-	<game name="Lithium Logo (19xx)(Lithium) (2)">
-		<description>Lithium Logo (19xx)(Lithium) (2)</description>
-		<rom name="Lithium Logo (19xx)(Lithium) (2).d64" size="174848" crc="74fef711" md5="d736045507d4410241c3bee008a1da1a" sha1="0ba5f6c5fac2939d6d8dc2618aee3aa8aa05fea9"/>
+	<game name="Lithium Logo (19xx)(Lithium)[a]">
+		<description>Lithium Logo (19xx)(Lithium)[a]</description>
+		<rom name="Lithium Logo (19xx)(Lithium)[a].d64" size="174848" crc="74fef711" md5="d736045507d4410241c3bee008a1da1a" sha1="0ba5f6c5fac2939d6d8dc2618aee3aa8aa05fea9"/>
 	</game>
 	<game name="Lithium Raz Logo (1994)(Lithium)">
 		<description>Lithium Raz Logo (1994)(Lithium)</description>
@@ -16356,9 +16392,9 @@
 		<description>Logo V1.0 (1990)(Lazer)</description>
 		<rom name="Logo V1.0 (1990)(Lazer).d64" size="174848" crc="612314f7" md5="57636ab6d864d0545a765a6bd3d2277a" sha1="d7e0aafdfa2a1c47b4b4ee100eb797709baa68b0"/>
 	</game>
-	<game name="Logo V1.0 (19xx)(Lazer)">
-		<description>Logo V1.0 (19xx)(Lazer)</description>
-		<rom name="Logo V1.0 (19xx)(Lazer).d64" size="174848" crc="aa584a4b" md5="f6cf5831cae1425168bc8039d3e4e7f7" sha1="7a3b0b97da87ece8fba690bcd70b762ab5557e02"/>
+	<game name="Logo V1.0 (1990)(Lazer)[a]">
+		<description>Logo V1.0 (1990)(Lazer)[a]</description>
+		<rom name="Logo V1.0 (1990)(Lazer)[a].d64" size="174848" crc="aa584a4b" md5="f6cf5831cae1425168bc8039d3e4e7f7" sha1="7a3b0b97da87ece8fba690bcd70b762ab5557e02"/>
 	</game>
 	<game name="Logo V2.0 (1990)(Lazer)">
 		<description>Logo V2.0 (1990)(Lazer)</description>
@@ -16776,13 +16812,13 @@
 		<description>Macskafa (2000-08-05)(-)</description>
 		<rom name="Macskafa (2000-08-05)(-).d64" size="174848" crc="cb545b59" md5="6e51dc764a36c6e470eaa6b6ff445b33" sha1="d635132cfd3387aa4d544a8dfa463ef04ae59515"/>
 	</game>
-	<game name="Macskafa (2000-08-05)(-) (2)">
-		<description>Macskafa (2000-08-05)(-) (2)</description>
-		<rom name="Macskafa (2000-08-05)(-) (2).d64" size="174848" crc="a09b5e1f" md5="894ab892454255c0ea45379f15067e77" sha1="89d38bc5e2ae40092bd3e35931ac9b3b72490b86"/>
+	<game name="Macskafa (2000-08-05)(-)[a]">
+		<description>Macskafa (2000-08-05)(-)[a]</description>
+		<rom name="Macskafa (2000-08-05)(-)[a].d64" size="174848" crc="a09b5e1f" md5="894ab892454255c0ea45379f15067e77" sha1="89d38bc5e2ae40092bd3e35931ac9b3b72490b86"/>
 	</game>
-	<game name="Macskafa (2000-08-05)(-) (3)">
-		<description>Macskafa (2000-08-05)(-) (3)</description>
-		<rom name="Macskafa (2000-08-05)(-) (3).d64" size="174848" crc="de3b90a2" md5="76471de33365e76f9ad2bea5b44a46b9" sha1="7b50211c65f1fa16823ba6e39663766cb7d46b70"/>
+	<game name="Macskafa (2000-08-05)(-)[a2]">
+		<description>Macskafa (2000-08-05)(-)[a2]</description>
+		<rom name="Macskafa (2000-08-05)(-)[a2].d64" size="174848" crc="de3b90a2" md5="76471de33365e76f9ad2bea5b44a46b9" sha1="7b50211c65f1fa16823ba6e39663766cb7d46b70"/>
 	</game>
 	<game name="Macskafa (2000-08-05)(Leon)">
 		<description>Macskafa (2000-08-05)(Leon)</description>
@@ -16856,17 +16892,17 @@
 		<description>Mad Max-Porno (19xx)(-)</description>
 		<rom name="Mad Max-Porno (19xx)(-).d64" size="174848" crc="a67078af" md5="157b8f9cefcf6b18bc9482f7b0ce0326" sha1="021b617bfddc9e70e4628bee9ad57ae1702f16bf"/>
 	</game>
-	<game name="Made For (1989-02)(The Ruling Company)[2]">
-		<description>Made For (1989-02)(The Ruling Company)[2]</description>
-		<rom name="Made For (1989-02)(The Ruling Company)[2].d64" size="174848" crc="ccb732da" md5="9598e6a2be941d3afd6d8386dc6d9dcc" sha1="429da3a3240ca6a20c1ccab169c2d4db2a710b50"/>
+	<game name="Made For (1989-02)(The Ruling Company)">
+		<description>Made For (1989-02)(The Ruling Company)</description>
+		<rom name="Made For (1989-02)(The Ruling Company).d64" size="174848" crc="ccb732da" md5="9598e6a2be941d3afd6d8386dc6d9dcc" sha1="429da3a3240ca6a20c1ccab169c2d4db2a710b50"/>
 	</game>
-	<game name="Made For (1989-02-18)(The Ruling Company)[3]">
-		<description>Made For (1989-02-18)(The Ruling Company)[3]</description>
-		<rom name="Made For (1989-02-18)(The Ruling Company)[3].d64" size="174848" crc="34a14bed" md5="d301f7e732e4c47fc0be519c6ae899a3" sha1="52cf67655ccffa48d9c9a41d32f16fa54800f6ea"/>
+	<game name="Made For (1989-02-18)(The Ruling Company)">
+		<description>Made For (1989-02-18)(The Ruling Company)</description>
+		<rom name="Made For (1989-02-18)(The Ruling Company).d64" size="174848" crc="34a14bed" md5="d301f7e732e4c47fc0be519c6ae899a3" sha1="52cf67655ccffa48d9c9a41d32f16fa54800f6ea"/>
 	</game>
-	<game name="Made For (1989-03)(The Ruling Company)[4]">
-		<description>Made For (1989-03)(The Ruling Company)[4]</description>
-		<rom name="Made For (1989-03)(The Ruling Company)[4].d64" size="174848" crc="9e577c15" md5="17ee8d7fc9b4bafec21839808aeb6ad5" sha1="d88742236fb5142be5d8c59c0d7345db867b913f"/>
+	<game name="Made For (1989-03)(The Ruling Company)">
+		<description>Made For (1989-03)(The Ruling Company)</description>
+		<rom name="Made For (1989-03)(The Ruling Company).d64" size="174848" crc="9e577c15" md5="17ee8d7fc9b4bafec21839808aeb6ad5" sha1="d88742236fb5142be5d8c59c0d7345db867b913f"/>
 	</game>
 	<game name="Madhead Logo (2010-01-25)(Madhead)">
 		<description>Madhead Logo (2010-01-25)(Madhead)</description>
@@ -17556,9 +17592,9 @@
 		<description>Metro-Cross Title Pic. (2009-04-11)(DATA-LAND)</description>
 		<rom name="Metro-Cross Title Pic. (2009-04-11)(DATA-LAND).d64" size="174848" crc="95930a70" md5="30d787cdffefc6344ddf47d3b714fefb" sha1="b5d6f82b148e66c9847de969d831bb32d7ba7a43"/>
 	</game>
-	<game name="Metro-Cross Title Pic. (2009-04-11)(DATA-LAND) (2)">
-		<description>Metro-Cross Title Pic. (2009-04-11)(DATA-LAND) (2)</description>
-		<rom name="Metro-Cross Title Pic. (2009-04-11)(DATA-LAND) (2).d64" size="174848" crc="9429319f" md5="40168e97f1e08cbbf0f4c57ed02a95d6" sha1="a273a5a1551db04a27a3497a7eaa0b4ee7287bed"/>
+	<game name="Metro-Cross Title Pic. (2009-04-11)(DATA-LAND)[a]">
+		<description>Metro-Cross Title Pic. (2009-04-11)(DATA-LAND)[a]</description>
+		<rom name="Metro-Cross Title Pic. (2009-04-11)(DATA-LAND)[a].d64" size="174848" crc="9429319f" md5="40168e97f1e08cbbf0f4c57ed02a95d6" sha1="a273a5a1551db04a27a3497a7eaa0b4ee7287bed"/>
 	</game>
 	<game name="MGD Logo (19xx)(Poison)">
 		<description>MGD Logo (19xx)(Poison)</description>
@@ -17828,9 +17864,9 @@
 		<description>Mix (1991)(Amigos)</description>
 		<rom name="Mix (1991)(Amigos).d64" size="174848" crc="05dc6ba1" md5="0f06e635c8f0afa5f4606ed722dedcdb" sha1="7e237390af72e9896857f52edefcd06439b22138"/>
 	</game>
-	<game name="MJM&apos;s Title (19xx)(MJM-S(ervice))">
-		<description>MJM&apos;s Title (19xx)(MJM-S(ervice))</description>
-		<rom name="MJM&apos;s Title (19xx)(MJM-S(ervice)).d64" size="174848" crc="828307d2" md5="8e5f3fc985665b4ac6547018391d4308" sha1="8d68f7277acc7bc871ee49f4cfbbabce914e53b7"/>
+	<game name="MJM&apos;s Title (19xx)(MJM-Service)">
+		<description>MJM&apos;s Title (19xx)(MJM-Service)</description>
+		<rom name="MJM&apos;s Title (19xx)(MJM-Service).d64" size="174848" crc="828307d2" md5="8e5f3fc985665b4ac6547018391d4308" sha1="8d68f7277acc7bc871ee49f4cfbbabce914e53b7"/>
 	</game>
 	<game name="Mlenb Ok (1992)(Reign)">
 		<description>Mlenb Ok (1992)(Reign)</description>
@@ -18536,17 +18572,17 @@
 		<description>Nea Eon (1997)(Zeldin)</description>
 		<rom name="Nea Eon (1997)(Zeldin).d64" size="174848" crc="26faa7d4" md5="879286a48f33eca43119d388488cf6b5" sha1="d8f2bb009f1a4cb4c6da3db0428aeec799c2ab17"/>
 	</game>
-	<game name="Nea Eon (1997)(Zeldin) (2)">
-		<description>Nea Eon (1997)(Zeldin) (2)</description>
-		<rom name="Nea Eon (1997)(Zeldin) (2).d64" size="174848" crc="e4c0aa01" md5="e3fda3f9ebcaec11a3efd06cb11b8bb0" sha1="a43307401962880652e83ec231bc94baaedc1138"/>
+	<game name="Nea Eon (1997)(Zeldin)[a]">
+		<description>Nea Eon (1997)(Zeldin)[a]</description>
+		<rom name="Nea Eon (1997)(Zeldin)[a].d64" size="174848" crc="e4c0aa01" md5="e3fda3f9ebcaec11a3efd06cb11b8bb0" sha1="a43307401962880652e83ec231bc94baaedc1138"/>
 	</game>
 	<game name="Neax Logo (1998)(Neax)">
 		<description>Neax Logo (1998)(Neax)</description>
 		<rom name="Neax Logo (1998)(Neax).d64" size="174848" crc="4e8181e6" md5="2dccf7c97e6fa6f8e1e37d78b9ef5194" sha1="c4bed4ddb9710407d25f3b7c956e7d7a1ae3f36c"/>
 	</game>
-	<game name="Neax Logo (1998)(Neax) (2)">
-		<description>Neax Logo (1998)(Neax) (2)</description>
-		<rom name="Neax Logo (1998)(Neax) (2).d64" size="174848" crc="ad395c03" md5="5afe8cb21a2632a8fb4a8d7aa0cb6258" sha1="b99a765a35b84f74c16031d237711d7c7258745d"/>
+	<game name="Neax Logo (1998)(Neax)[a]">
+		<description>Neax Logo (1998)(Neax)[a]</description>
+		<rom name="Neax Logo (1998)(Neax)[a].d64" size="174848" crc="ad395c03" md5="5afe8cb21a2632a8fb4a8d7aa0cb6258" sha1="b99a765a35b84f74c16031d237711d7c7258745d"/>
 	</game>
 	<game name="NEC Logo (19xx)(Alpha Flight)">
 		<description>NEC Logo (19xx)(Alpha Flight)</description>
@@ -18748,9 +18784,9 @@
 		<description>New Logo (1989)(Frantic)</description>
 		<rom name="New Logo (1989)(Frantic).d64" size="174848" crc="7062bed6" md5="5e64af43f6ede57aee2fbf4561e8783e" sha1="cae45a131d488609034758004271e0881741836d"/>
 	</game>
-	<game name="New Logo (1989)(Frantic) (2)">
-		<description>New Logo (1989)(Frantic) (2)</description>
-		<rom name="New Logo (1989)(Frantic) (2).d64" size="174848" crc="27e1ef05" md5="9e9f0233c9a5d0b45a2b9e75bae2d160" sha1="aedb9565a5aaaa697dae012095a217a6dcaca062"/>
+	<game name="New Logo (1989)(Frantic)[a]">
+		<description>New Logo (1989)(Frantic)[a]</description>
+		<rom name="New Logo (1989)(Frantic)[a].d64" size="174848" crc="27e1ef05" md5="9e9f0233c9a5d0b45a2b9e75bae2d160" sha1="aedb9565a5aaaa697dae012095a217a6dcaca062"/>
 	</game>
 	<game name="New Logo (1989)(Genesis Project)">
 		<description>New Logo (1989)(Genesis Project)</description>
@@ -18771,6 +18807,10 @@
 	<game name="New Logo (1989-09-06)(Ionix)">
 		<description>New Logo (1989-09-06)(Ionix)</description>
 		<rom name="New Logo (1989-09-06)(Ionix).d64" size="174848" crc="41360e3c" md5="4a525ff2d13c03b15b654e44016b5293" sha1="0561b3644b6e2ccf5d219de5808e2d1c587c5291"/>
+	</game>
+	<game name="New Logo (1989-09-06)(Ionix)[a]">
+		<description>New Logo (1989-09-06)(Ionix)[a]</description>
+		<rom name="New Logo (1989-09-06)(Ionix)[a].d64" size="174848" crc="93f8d514" md5="bcbb97eafb256880946a76738eea6d51" sha1="19d9d11d767eb092101d033bbf2e353315860714"/>
 	</game>
 	<game name="New Logo (1989-12)(Orion)">
 		<description>New Logo (1989-12)(Orion)</description>
@@ -18811,10 +18851,6 @@
 	<game name="New Logo (1990-08-05)(Risk)">
 		<description>New Logo (1990-08-05)(Risk)</description>
 		<rom name="New Logo (1990-08-05)(Risk).d64" size="174848" crc="d68fa97c" md5="070dbbb12815780e83423561de5edf5f" sha1="05c02b9a7dc928dc7b17b7fc7ead7bfdd035b469"/>
-	</game>
-	<game name="New Logo (19xx)(Ionix)">
-		<description>New Logo (19xx)(Ionix)</description>
-		<rom name="New Logo (19xx)(Ionix).d64" size="174848" crc="93f8d514" md5="bcbb97eafb256880946a76738eea6d51" sha1="19d9d11d767eb092101d033bbf2e353315860714"/>
 	</game>
 	<game name="New Logo (19xx)(Mr Malfunction)">
 		<description>New Logo (19xx)(Mr Malfunction)</description>
@@ -19264,17 +19300,17 @@
 		<description>Nu Logo (1990)(Hysteric)</description>
 		<rom name="Nu Logo (1990)(Hysteric).d64" size="174848" crc="521244b5" md5="806704c7f17f93adc8c681284ed08a9b" sha1="39f7777c05a980e614249bc70bc27a147cf02ec4"/>
 	</game>
+	<game name="Nu Logo (1990)(Hysteric)[a]">
+		<description>Nu Logo (1990)(Hysteric)[a]</description>
+		<rom name="Nu Logo (1990)(Hysteric)[a].d64" size="174848" crc="d0fcf31f" md5="890311c96c7b9ca67b08c06034729465" sha1="f0d7589366fdd49136c3d6b96f3e5848b7b52479"/>
+	</game>
+	<game name="Nu Logo (1990)(Hysteric)[a2]">
+		<description>Nu Logo (1990)(Hysteric)[a2]</description>
+		<rom name="Nu Logo (1990)(Hysteric)[a2].d64" size="174848" crc="061a4f56" md5="b2d07f6afce5beb109b754a77b5899a3" sha1="cd0309b1e56ba51f81b8c77cff8b00ee5f4d06fd"/>
+	</game>
 	<game name="Nu Logo (19xx)(Cocoon)">
 		<description>Nu Logo (19xx)(Cocoon)</description>
 		<rom name="Nu Logo (19xx)(Cocoon).d64" size="174848" crc="11aa87a4" md5="8bf40c99665a59b70bc356575e0da70f" sha1="58a263f22128d1f4a61a4f5a56212c5c2a47473f"/>
-	</game>
-	<game name="Nu Logo (19xx)(Hysteric)">
-		<description>Nu Logo (19xx)(Hysteric)</description>
-		<rom name="Nu Logo (19xx)(Hysteric).d64" size="174848" crc="d0fcf31f" md5="890311c96c7b9ca67b08c06034729465" sha1="f0d7589366fdd49136c3d6b96f3e5848b7b52479"/>
-	</game>
-	<game name="Nu Logo (19xx)(Hysteric) (2)">
-		<description>Nu Logo (19xx)(Hysteric) (2)</description>
-		<rom name="Nu Logo (19xx)(Hysteric) (2).d64" size="174848" crc="061a4f56" md5="b2d07f6afce5beb109b754a77b5899a3" sha1="cd0309b1e56ba51f81b8c77cff8b00ee5f4d06fd"/>
 	</game>
 	<game name="Nu Logo, A (1991)(Compagnions)">
 		<description>Nu Logo, A (1991)(Compagnions)</description>
@@ -19820,9 +19856,9 @@
 		<description>Oxygen Logo (19xx)(Oxygen)</description>
 		<rom name="Oxygen Logo (19xx)(Oxygen).d64" size="174848" crc="7fe740a6" md5="2a436da5d82a441219188a7b44df72d6" sha1="deb7cc97afbe1f873bcb0c6d0dbf627e216c951e"/>
 	</game>
-	<game name="Oxygen Logo (19xx)(Oxygen) (2)">
-		<description>Oxygen Logo (19xx)(Oxygen) (2)</description>
-		<rom name="Oxygen Logo (19xx)(Oxygen) (2).d64" size="174848" crc="fbeac0cd" md5="d28ad0b85c2f3c13c10e518213c38b7d" sha1="8893394f61d9ddd2e322a754e0eff0658f6d396d"/>
+	<game name="Oxygen Logo (19xx)(Oxygen)[a]">
+		<description>Oxygen Logo (19xx)(Oxygen)[a]</description>
+		<rom name="Oxygen Logo (19xx)(Oxygen)[a].d64" size="174848" crc="fbeac0cd" md5="d28ad0b85c2f3c13c10e518213c38b7d" sha1="8893394f61d9ddd2e322a754e0eff0658f6d396d"/>
 	</game>
 	<game name="Oxygen Logo!! (19xx)(Oxygen)">
 		<description>Oxygen Logo!! (19xx)(Oxygen)</description>
@@ -20896,9 +20932,9 @@
 		<description>Pioneer (2006-08-05)(Gfxile)</description>
 		<rom name="Pioneer (2006-08-05)(Gfxile).d64" size="174848" crc="5b53a6a3" md5="0d403941c27f870be6cee02a7514ba2a" sha1="b2b10cb6d23659b9708ab9bf1c3851a901dfbae6"/>
 	</game>
-	<game name="Pioneer (2006-08-05)(Gfxile) (2)">
-		<description>Pioneer (2006-08-05)(Gfxile) (2)</description>
-		<rom name="Pioneer (2006-08-05)(Gfxile) (2).d64" size="174848" crc="4974e37c" md5="33be4ea986c116578c4fd92c81022a11" sha1="0e1e957ae4f63975357fc5055570135927bd4c7e"/>
+	<game name="Pioneer (2006-08-05)(Gfxile)[a]">
+		<description>Pioneer (2006-08-05)(Gfxile)[a]</description>
+		<rom name="Pioneer (2006-08-05)(Gfxile)[a].d64" size="174848" crc="4974e37c" md5="33be4ea986c116578c4fd92c81022a11" sha1="0e1e957ae4f63975357fc5055570135927bd4c7e"/>
 	</game>
 	<game name="Piperambo (2011-08-25)(Dinasours)">
 		<description>Piperambo (2011-08-25)(Dinasours)</description>
@@ -21636,9 +21672,9 @@
 		<description>Pulsar Logo (1992-04-28)(Pulsar)</description>
 		<rom name="Pulsar Logo (1992-04-28)(Pulsar).d64" size="174848" crc="d8ec0217" md5="861846d4c15de26c1fc7b3cdd9f503c7" sha1="14952aacb079f2b5477056e6fe7969784a92c5ea"/>
 	</game>
-	<game name="Pulsar Logo (19xx)(Pulsar)">
-		<description>Pulsar Logo (19xx)(Pulsar)</description>
-		<rom name="Pulsar Logo (19xx)(Pulsar).d64" size="174848" crc="2bde1634" md5="af5c16ccc26098cbaaa78ede935aed16" sha1="806fc439c5d1aace60f6e3eac6324c31f01a8e5a"/>
+	<game name="Pulsar Logo (1992-04-28)(Pulsar)[a]">
+		<description>Pulsar Logo (1992-04-28)(Pulsar)[a]</description>
+		<rom name="Pulsar Logo (1992-04-28)(Pulsar)[a].d64" size="174848" crc="2bde1634" md5="af5c16ccc26098cbaaa78ede935aed16" sha1="806fc439c5d1aace60f6e3eac6324c31f01a8e5a"/>
 	</game>
 	<game name="Pulsar+WWE Logo (1990)(Warriors of Time)">
 		<description>Pulsar+WWE Logo (1990)(Warriors of Time)</description>
@@ -21848,9 +21884,9 @@
 		<description>Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND)</description>
 		<rom name="Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND).d64" size="174848" crc="3e795d72" md5="f93b9924b530621ab70e6b747e4ee283" sha1="a2bc423de98000aa4b027aef9d24e7a9fabb7c94"/>
 	</game>
-	<game name="Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND) (2)">
-		<description>Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND) (2)</description>
-		<rom name="Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND) (2).d64" size="174848" crc="2709cd76" md5="97d08ecc960fdf1ccf3b8cc2d73e4cdf" sha1="3a3853e725160573683b01b46885e7ea6009559a"/>
+	<game name="Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND)[a]">
+		<description>Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND)[a]</description>
+		<rom name="Raid Over Moscow Title Pic. (2010-04-25)(DATA-LAND)[a].d64" size="174848" crc="2709cd76" md5="97d08ecc960fdf1ccf3b8cc2d73e4cdf" sha1="3a3853e725160573683b01b46885e7ea6009559a"/>
 	</game>
 	<game name="Raiders Mega (1986)(Torquemada)">
 		<description>Raiders Mega (1986)(Torquemada)</description>
@@ -22348,9 +22384,9 @@
 		<description>Role Logo (1990)(Actual Trading Generation)</description>
 		<rom name="Role Logo (1990)(Actual Trading Generation).d64" size="174848" crc="6cbfa676" md5="a5748cab17953b6814fd839203a5f42a" sha1="e9b0faf648ec9dff1c2c1500f4bbe49b15f09628"/>
 	</game>
-	<game name="ROLE Logo (19xx)(Raiders of the Lost Empire)">
-		<description>ROLE Logo (19xx)(Raiders of the Lost Empire)</description>
-		<rom name="ROLE Logo (19xx)(Raiders of the Lost Empire).d64" size="174848" crc="fcc3df9d" md5="5ddc62309d9cf353e614939b5f4f4a43" sha1="3778aa5d15d84b19e79e7854763f751efdc47551"/>
+	<game name="ROLE Logo (1990)(Raiders of the Lost Empire)">
+		<description>ROLE Logo (1990)(Raiders of the Lost Empire)</description>
+		<rom name="ROLE Logo (1990)(Raiders of the Lost Empire).d64" size="174848" crc="fcc3df9d" md5="5ddc62309d9cf353e614939b5f4f4a43" sha1="3778aa5d15d84b19e79e7854763f751efdc47551"/>
 	</game>
 	<game name="ROLE Logo 09 (19xx)(Shot808)">
 		<description>ROLE Logo 09 (19xx)(Shot808)</description>
@@ -23660,9 +23696,9 @@
 		<description>Silicon GFX (19xx)(Tracing Concept)</description>
 		<rom name="Silicon GFX (19xx)(Tracing Concept).d64" size="174848" crc="7ae5ad8c" md5="ef972cd447cdb21d797ced545bc433e2" sha1="b0a75dcc07a2af6f25cfdd407017809703503071"/>
 	</game>
-	<game name="Silicon Logo (19xx)(Silicon)">
-		<description>Silicon Logo (19xx)(Silicon)</description>
-		<rom name="Silicon Logo (19xx)(Silicon).d64" size="174848" crc="02b12362" md5="7685a750920c0563b6ebdc474e8b164d" sha1="932576caaa99d9c1edf38df82fc231d95c9e0436"/>
+	<game name="Silicon Logo (1990)(Silicon)">
+		<description>Silicon Logo (1990)(Silicon)</description>
+		<rom name="Silicon Logo (1990)(Silicon).d64" size="174848" crc="02b12362" md5="7685a750920c0563b6ebdc474e8b164d" sha1="932576caaa99d9c1edf38df82fc231d95c9e0436"/>
 	</game>
 	<game name="Silkie Logo (1990)(Wild 57)">
 		<description>Silkie Logo (1990)(Wild 57)</description>
@@ -24596,9 +24632,9 @@
 		<description>Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone)</description>
 		<rom name="Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone).d64" size="174848" crc="df9ef450" md5="9138917e8b2dec3a39e14cf563899189" sha1="dda26e1af7bc316284277fedcee4ce63d092a8d6"/>
 	</game>
-	<game name="Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone) (2)">
-		<description>Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone) (2)</description>
-		<rom name="Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone) (2).d64" size="174848" crc="00aa06b0" md5="5307a3b9287e71ba46da23cf21137329" sha1="1c136e7b6780a441c745202b65bbdae8f2f511a9"/>
+	<game name="Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone)[a]">
+		<description>Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone)[a]</description>
+		<rom name="Star Wars Slideshow, The (1998-04-21)(Art Ravers - Binary Zone)[a].d64" size="174848" crc="00aa06b0" md5="5307a3b9287e71ba46da23cf21137329" sha1="1c136e7b6780a441c745202b65bbdae8f2f511a9"/>
 	</game>
 	<game name="Stardom Logo (19xx-02)(Contex)">
 		<description>Stardom Logo (19xx-02)(Contex)</description>
@@ -25376,9 +25412,9 @@
 		<description>TAT Logo (19xx)(The Force)</description>
 		<rom name="TAT Logo (19xx)(The Force).d64" size="174848" crc="536e4293" md5="ce906553df400fd9f31967a050e5b165" sha1="826e36fdb0afe08df90e3c9dd4ebebf4c2d80675"/>
 	</game>
-	<game name="TAT Logo (19xx)(The Force) (2)">
-		<description>TAT Logo (19xx)(The Force) (2)</description>
-		<rom name="TAT Logo (19xx)(The Force) (2).d64" size="174848" crc="7e271b4e" md5="d3009e5c138910b6ce0895807d9475cb" sha1="27716a61088ad055a013aa034cb0d980e2559f00"/>
+	<game name="TAT Logo (19xx)(The Force)[a]">
+		<description>TAT Logo (19xx)(The Force)[a]</description>
+		<rom name="TAT Logo (19xx)(The Force)[a].d64" size="174848" crc="7e271b4e" md5="d3009e5c138910b6ce0895807d9475cb" sha1="27716a61088ad055a013aa034cb0d980e2559f00"/>
 	</game>
 	<game name="TAT Logo (19xx)(Unicess)">
 		<description>TAT Logo (19xx)(Unicess)</description>
@@ -25424,13 +25460,13 @@
 		<description>Tau Ceti Pic (19xx)(Telephone Crackers Norway)</description>
 		<rom name="Tau Ceti Pic (19xx)(Telephone Crackers Norway).d64" size="174848" crc="a3af628c" md5="a5119015a3e76abe6269bb36b0441711" sha1="cac90bffc348c68b5ff16896a3dc107f4e2f06aa"/>
 	</game>
-	<game name="TAU Logo (1988)(World Wide Expressive)[2]">
-		<description>TAU Logo (1988)(World Wide Expressive)[2]</description>
-		<rom name="TAU Logo (1988)(World Wide Expressive)[2].d64" size="174848" crc="7ab7241e" md5="411cb64b95aab08c6a3d4955ed5786dd" sha1="c1c897787cb72423f8e1c34de83ec20fb504c0e7"/>
-	</game>
 	<game name="TAU Logo (1988-09-01)(World Wide Expressive)">
 		<description>TAU Logo (1988-09-01)(World Wide Expressive)</description>
 		<rom name="TAU Logo (1988-09-01)(World Wide Expressive).d64" size="174848" crc="5c4df84c" md5="05806a7d1489c632bb65d128054d3c33" sha1="bc8ac130bdeb3e8d827b690d1fc4c63d67f03888"/>
+	</game>
+	<game name="TAU Logo (1988-09-01)(World Wide Expressive)[a]">
+		<description>TAU Logo (1988-09-01)(World Wide Expressive)[a]</description>
+		<rom name="TAU Logo (1988-09-01)(World Wide Expressive)[a].d64" size="174848" crc="7ab7241e" md5="411cb64b95aab08c6a3d4955ed5786dd" sha1="c1c897787cb72423f8e1c34de83ec20fb504c0e7"/>
 	</game>
 	<game name="TDC Again (1986)(The Dreadful Crackers)">
 		<description>TDC Again (1986)(The Dreadful Crackers)</description>
@@ -26580,9 +26616,9 @@
 		<description>Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company)</description>
 		<rom name="Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company).d64" size="174848" crc="692c0957" md5="e4e00a4cac40d269aba95afca5ad0096" sha1="f4e0ceaf7ff80706f6adee604f28619d36c22792"/>
 	</game>
-	<game name="Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company) (2)">
-		<description>Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company) (2)</description>
-		<rom name="Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company) (2).d64" size="174848" crc="2a569d55" md5="75812a602e341e5352c8b49da2f5b011" sha1="8378a2a4338e139c25653a33fac331beeab4f174"/>
+	<game name="Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company)[a]">
+		<description>Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company)[a]</description>
+		<rom name="Tuerk&apos;s Diashow, The (19xx)(Terrestrial Breakin&apos; Company)[a].d64" size="174848" crc="2a569d55" md5="75812a602e341e5352c8b49da2f5b011" sha1="8378a2a4338e139c25653a33fac331beeab4f174"/>
 	</game>
 	<game name="Tunel (2021-05-20)(Genesis Project - Wertstahl)">
 		<description>Tunel (2021-05-20)(Genesis Project - Wertstahl)</description>
@@ -26936,17 +26972,17 @@
 		<description>Untitled (1992-08-30)(Elysium)</description>
 		<rom name="Untitled (1992-08-30)(Elysium).d64" size="174848" crc="40946aa0" md5="0b1153c69165243f66771791d372346a" sha1="9f2ed8caed26cb5549eed2fdc9f6b4ea5aa1e18f"/>
 	</game>
-	<game name="Untitled (1992-08-30)(Elysium) (2)">
-		<description>Untitled (1992-08-30)(Elysium) (2)</description>
-		<rom name="Untitled (1992-08-30)(Elysium) (2).d64" size="174848" crc="dc0eee84" md5="54fd08d3b456accde9ff79cae25e8cc2" sha1="3ad2195c0ef78d3de491678bfddbfc3104b393ed"/>
+	<game name="Untitled (1992-08-30)(Elysium)[a]">
+		<description>Untitled (1992-08-30)(Elysium)[a]</description>
+		<rom name="Untitled (1992-08-30)(Elysium)[a].d64" size="174848" crc="dc0eee84" md5="54fd08d3b456accde9ff79cae25e8cc2" sha1="3ad2195c0ef78d3de491678bfddbfc3104b393ed"/>
 	</game>
 	<game name="Untitled (1993-06-29)(Elysium)">
 		<description>Untitled (1993-06-29)(Elysium)</description>
 		<rom name="Untitled (1993-06-29)(Elysium).d64" size="174848" crc="dea4aad3" md5="4ade972ef08bc0347cb7e1c03c727ffc" sha1="878f1c0f1f0b405cd9ecd1edd895e4f216787988"/>
 	</game>
-	<game name="Untitled (1993-06-30)(Fatum)[2]">
-		<description>Untitled (1993-06-30)(Fatum)[2]</description>
-		<rom name="Untitled (1993-06-30)(Fatum)[2].d64" size="174848" crc="b16e431a" md5="84a2826ac395737914161d70bc85da5f" sha1="9db44873e1a5da7db156ada24df1c208db97ee91"/>
+	<game name="Untitled (1993-06-30)(Fatum)">
+		<description>Untitled (1993-06-30)(Fatum)</description>
+		<rom name="Untitled (1993-06-30)(Fatum).d64" size="174848" crc="b16e431a" md5="84a2826ac395737914161d70bc85da5f" sha1="9db44873e1a5da7db156ada24df1c208db97ee91"/>
 	</game>
 	<game name="Untitled (1993-08-28)(Fatum)">
 		<description>Untitled (1993-08-28)(Fatum)</description>
@@ -26980,9 +27016,9 @@
 		<description>Untitled (1994-01-29)(Taboo)</description>
 		<rom name="Untitled (1994-01-29)(Taboo).d64" size="174848" crc="5a66d8c2" md5="46dbde715ee81c745f84e5dfbab891c3" sha1="3f7438b1cdabbfd1e639022bafff4eac9b7ea09d"/>
 	</game>
-	<game name="Untitled (1994-01-29)(Taboo) (2)">
-		<description>Untitled (1994-01-29)(Taboo) (2)</description>
-		<rom name="Untitled (1994-01-29)(Taboo) (2).d64" size="174848" crc="5b8f9f9d" md5="d9902d26cf4ac3d1cae5ec49e8115ce9" sha1="0281e72f86495fd422f0b0992b6e3610bdabb512"/>
+	<game name="Untitled (1994-01-29)(Taboo)[a]">
+		<description>Untitled (1994-01-29)(Taboo)[a]</description>
+		<rom name="Untitled (1994-01-29)(Taboo)[a].d64" size="174848" crc="5b8f9f9d" md5="d9902d26cf4ac3d1cae5ec49e8115ce9" sha1="0281e72f86495fd422f0b0992b6e3610bdabb512"/>
 	</game>
 	<game name="Untitled (1994-01-29)(Vaudeville Crew)">
 		<description>Untitled (1994-01-29)(Vaudeville Crew)</description>
@@ -26996,9 +27032,9 @@
 		<description>Untitled (1994-06-02)(Impact Laboratories)</description>
 		<rom name="Untitled (1994-06-02)(Impact Laboratories).d64" size="174848" crc="8d319813" md5="70c3f38ad5568a8dde7fb471f0e80abe" sha1="702f300788956bad5a3a183035830149c3df9235"/>
 	</game>
-	<game name="Untitled (1994-06-02)(Impact Laboratories)[2]">
-		<description>Untitled (1994-06-02)(Impact Laboratories)[2]</description>
-		<rom name="Untitled (1994-06-02)(Impact Laboratories)[2].d64" size="174848" crc="ce77902b" md5="e78f0872f947f117a36936bd22486b21" sha1="26f14606691781d66b4e5cda63eab7c5d43dea7c"/>
+	<game name="Untitled (1994-06-02)(Impact Laboratories)[a]">
+		<description>Untitled (1994-06-02)(Impact Laboratories)[a]</description>
+		<rom name="Untitled (1994-06-02)(Impact Laboratories)[a].d64" size="174848" crc="ce77902b" md5="e78f0872f947f117a36936bd22486b21" sha1="26f14606691781d66b4e5cda63eab7c5d43dea7c"/>
 	</game>
 	<game name="Untitled (1994-06-03)(Elysium)">
 		<description>Untitled (1994-06-03)(Elysium)</description>
@@ -28240,6 +28276,10 @@
 		<description>WOW Logo (1991)(Sense Designs)</description>
 		<rom name="WOW Logo (1991)(Sense Designs).d64" size="174848" crc="93b23386" md5="212a9de9dd5fdedb903d5fd3b662b640" sha1="b99e66383c90a4026f62f5338bffa5bdfc90f176"/>
 	</game>
+	<game name="Wow Logo (1991)(Sense Designs)[a]">
+		<description>Wow Logo (1991)(Sense Designs)[a]</description>
+		<rom name="Wow Logo (1991)(Sense Designs)[a].d64" size="174848" crc="780b923e" md5="da9d384e75b02a7627e5e748dc9437d2" sha1="540fe856494c621ae7fea73a78a9371b789bc4ae"/>
+	</game>
 	<game name="WOW Logo (1991-02-18)(Spherical Designs)">
 		<description>WOW Logo (1991-02-18)(Spherical Designs)</description>
 		<rom name="WOW Logo (1991-02-18)(Spherical Designs).d64" size="174848" crc="036ca058" md5="faac649a56641180fb7a625dc55dfc13" sha1="acd21cebe578beb7b776e4c5df33a2794a0365fa"/>
@@ -28260,17 +28300,13 @@
 		<description>WOW Logo (1992)(House Designs)</description>
 		<rom name="WOW Logo (1992)(House Designs).d64" size="174848" crc="b2b2125a" md5="21559d879e9c0b972ecd931cb0722d66" sha1="866626f8cd34dcc302bb2f24df746b28f5959dd8"/>
 	</game>
+	<game name="WOW Logo (1992)(House Designs)[a]">
+		<description>WOW Logo (1992)(House Designs)[a]</description>
+		<rom name="WOW Logo (1992)(House Designs)[a].d64" size="174848" crc="11a3f2d3" md5="c049dc109eaea8c9c9e6e3e0463fa8b5" sha1="22f2bace638c5a2f15efdfce7dd2940dfec45c9d"/>
+	</game>
 	<game name="WOW Logo (19xx)(Crionix)">
 		<description>WOW Logo (19xx)(Crionix)</description>
 		<rom name="WOW Logo (19xx)(Crionix).d64" size="174848" crc="37be6dbb" md5="e723708129dac8619e866dc049e06147" sha1="8691e3b26597e42d53b14117639f286a5d20f735"/>
-	</game>
-	<game name="WOW Logo (19xx)(House Designs)">
-		<description>WOW Logo (19xx)(House Designs)</description>
-		<rom name="WOW Logo (19xx)(House Designs).d64" size="174848" crc="11a3f2d3" md5="c049dc109eaea8c9c9e6e3e0463fa8b5" sha1="22f2bace638c5a2f15efdfce7dd2940dfec45c9d"/>
-	</game>
-	<game name="Wow Logo (19xx)(Sense Designs)">
-		<description>Wow Logo (19xx)(Sense Designs)</description>
-		<rom name="Wow Logo (19xx)(Sense Designs).d64" size="174848" crc="780b923e" md5="da9d384e75b02a7627e5e748dc9437d2" sha1="540fe856494c621ae7fea73a78a9371b789bc4ae"/>
 	</game>
 	<game name="WOW Logo (19xx)(Spirit)">
 		<description>WOW Logo (19xx)(Spirit)</description>
@@ -28292,9 +28328,9 @@
 		<description>WOW Logo 1 (19xx)(Warriors of the Wasteland)</description>
 		<rom name="WOW Logo 1 (19xx)(Warriors of the Wasteland).d64" size="174848" crc="145da510" md5="6ffb3d69b3e9b19780c66ab600483e2b" sha1="c1ef9691eb31bfcfff9561a1a1dcdcdb3f2686f7"/>
 	</game>
-	<game name="WOW Logo 1 (19xx)(Warriors of the Wasteland) (2)">
-		<description>WOW Logo 1 (19xx)(Warriors of the Wasteland) (2)</description>
-		<rom name="WOW Logo 1 (19xx)(Warriors of the Wasteland) (2).d64" size="174848" crc="617bb8e8" md5="4aae502c00d76f052bc6ed061c794cf1" sha1="14e8677fc4c1a041653e25911e4e9ea4a97dd16f"/>
+	<game name="WOW Logo 1 (19xx)(Warriors of the Wasteland)[a]">
+		<description>WOW Logo 1 (19xx)(Warriors of the Wasteland)[a]</description>
+		<rom name="WOW Logo 1 (19xx)(Warriors of the Wasteland)[a].d64" size="174848" crc="617bb8e8" md5="4aae502c00d76f052bc6ed061c794cf1" sha1="14e8677fc4c1a041653e25911e4e9ea4a97dd16f"/>
 	</game>
 	<game name="WOW Logo 2 (19xx)(Omega Designs)">
 		<description>WOW Logo 2 (19xx)(Omega Designs)</description>
@@ -28484,13 +28520,13 @@
 		<description>X-Factor Logo (1990)(Fashion)</description>
 		<rom name="X-Factor Logo (1990)(Fashion).d64" size="174848" crc="0a3165d6" md5="aba4196bb306c723a365b4a4fe1078d8" sha1="da230b0aa4043e324bc7419f28ed8df541e97285"/>
 	</game>
+	<game name="X-Factor Logo (1990)(Fashion)[a]">
+		<description>X-Factor Logo (1990)(Fashion)[a]</description>
+		<rom name="X-Factor Logo (1990)(Fashion)[a].d64" size="174848" crc="fa15824b" md5="55c71bdc855fbe887e5ac5f7d735dc15" sha1="7ff4cf2b756f2c5678a5102c3d50952df9314ece"/>
+	</game>
 	<game name="X-Factor Logo (19xx)(Direct Design)">
 		<description>X-Factor Logo (19xx)(Direct Design)</description>
 		<rom name="X-Factor Logo (19xx)(Direct Design).d64" size="174848" crc="b19e48db" md5="bc692c3388372b3d48cb005a1f184055" sha1="9eee423d1459eb49cb28a54073e4567a4a6c0e6a"/>
-	</game>
-	<game name="X-Factor Logo (19xx)(Fashion)">
-		<description>X-Factor Logo (19xx)(Fashion)</description>
-		<rom name="X-Factor Logo (19xx)(Fashion).d64" size="174848" crc="fa15824b" md5="55c71bdc855fbe887e5ac5f7d735dc15" sha1="7ff4cf2b756f2c5678a5102c3d50952df9314ece"/>
 	</game>
 	<game name="X-Files Closed - The Final Collection (1999-07)(Mayhem)">
 		<description>X-Files Closed - The Final Collection (1999-07)(Mayhem)</description>
@@ -28656,9 +28692,9 @@
 		<description>X-Rated Logo (1992)(X-Rated)</description>
 		<rom name="X-Rated Logo (1992)(X-Rated).d64" size="174848" crc="ae29c16e" md5="2f927984117915a7db99459ae94895c0" sha1="2e8039264e2a7a922d81857ca66647d2e4cadaae"/>
 	</game>
-	<game name="X-Rated Logo (1992)(X-Rated) (2)">
-		<description>X-Rated Logo (1992)(X-Rated) (2)</description>
-		<rom name="X-Rated Logo (1992)(X-Rated) (2).d64" size="174848" crc="e8900832" md5="470a02cd287f8d92116b15d992cb244f" sha1="18b0bc29d8beb362403043a55cf6a1738c87f84a"/>
+	<game name="X-Rated Logo (1992)(X-Rated)[a]">
+		<description>X-Rated Logo (1992)(X-Rated)[a]</description>
+		<rom name="X-Rated Logo (1992)(X-Rated)[a].d64" size="174848" crc="e8900832" md5="470a02cd287f8d92116b15d992cb244f" sha1="18b0bc29d8beb362403043a55cf6a1738c87f84a"/>
 	</game>
 	<game name="X-Rated Logo (1993)(Reject)">
 		<description>X-Rated Logo (1993)(Reject)</description>
@@ -28812,9 +28848,9 @@
 		<description>Zazza, The (2012-09-21)(JSL)</description>
 		<rom name="Zazza, The (2012-09-21)(JSL).d64" size="174848" crc="9534f4e3" md5="549d50b56fc191695d6986e01e657484" sha1="f657ffd6e8cfe9f48537410b18003045f667ab6f"/>
 	</game>
-	<game name="Z-Circle Logo (1989)(Contex)[2]">
-		<description>Z-Circle Logo (1989)(Contex)[2]</description>
-		<rom name="Z-Circle Logo (1989)(Contex)[2].d64" size="174848" crc="78d810bf" md5="ee7b462383f5f225a2ce3d4ddae03587" sha1="e2586c405245399e5bb8bfc4eaea9e10b1b440a6"/>
+	<game name="Z-Circle Logo (1989)(Contex)">
+		<description>Z-Circle Logo (1989)(Contex)</description>
+		<rom name="Z-Circle Logo (1989)(Contex).d64" size="174848" crc="78d810bf" md5="ee7b462383f5f225a2ce3d4ddae03587" sha1="e2586c405245399e5bb8bfc4eaea9e10b1b440a6"/>
 	</game>
 	<game name="Ze (2007-05-28)(Decompracid)">
 		<description>Ze (2007-05-28)(Decompracid)</description>

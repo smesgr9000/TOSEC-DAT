@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Stray Souls Dollhouse Story (2011)(Alawar Games)(AU).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

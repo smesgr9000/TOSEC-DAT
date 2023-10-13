@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - [LNX]</name>
-		<description>Commodore C64 - Applications - [LNX] (TOSEC-v2022-11-08)</description>
+		<description>Commodore C64 - Applications - [LNX] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-11-08</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1356,13 +1356,13 @@
 		<description>Gunpaint (1994)(CP Verlag)[cr F4CG][a][LNX]</description>
 		<rom name="Gunpaint (1994)(CP Verlag)[cr F4CG][a][LNX].lnx" size="36425" crc="80be3904" md5="59b4c1b61d15b0c73cf05a1c1e5c5dbd" sha1="9117a18ac4feb85a29441bd435bdda1c4a01bc29"/>
 	</game>
-	<game name="Gunpaint (1994)(CP Verlag)[cr F4CG][a2]">
-		<description>Gunpaint (1994)(CP Verlag)[cr F4CG][a2]</description>
-		<rom name="Gunpaint (1994)(CP Verlag)[cr F4CG][a2].lnx" size="36322" crc="e0e5132c" md5="c64f7a12ac345ec6c6e8e16f58b13b5a" sha1="68f9c20ceb9358c4a64faaf78e22b002bbcc944e"/>
-	</game>
 	<game name="Gunpaint (1994)(CP Verlag)[cr F4CG][LNX]">
 		<description>Gunpaint (1994)(CP Verlag)[cr F4CG][LNX]</description>
 		<rom name="Gunpaint (1994)(CP Verlag)[cr F4CG][LNX].lnx" size="36576" crc="9fff4c22" md5="4ee31b6338548327f5854118344f9b02" sha1="fb4cd5fc2a64fb2060a6191e658465014c0dc10d"/>
+	</game>
+	<game name="Gunpaint (1994)(CP Verlag)[cr F4CG][o]">
+		<description>Gunpaint (1994)(CP Verlag)[cr F4CG][o]</description>
+		<rom name="Gunpaint (1994)(CP Verlag)[cr F4CG][o].lnx" size="36322" crc="e0e5132c" md5="c64f7a12ac345ec6c6e8e16f58b13b5a" sha1="68f9c20ceb9358c4a64faaf78e22b002bbcc944e"/>
 	</game>
 	<game name="Hack-Pack v2.1 (1990)(Oneway)">
 		<description>Hack-Pack v2.1 (1990)(Oneway)</description>
@@ -1488,9 +1488,9 @@
 		<description>IFF Converter v1.0 (1996-02)(Megastyle)</description>
 		<rom name="IFF Converter v1.0 (1996-02)(Megastyle).lnx" size="35112" crc="8bb441cf" md5="4012f82ca771c423e24e32e7fba580fa" sha1="227b9fcb3253acf20ecec6ef1896d400225b73f3"/>
 	</game>
-	<game name="IFFL Copier (19xx)(Chromance)">
-		<description>IFFL Copier (19xx)(Chromance)</description>
-		<rom name="IFFL Copier (19xx)(Chromance).lnx" size="9822" crc="11f29ecd" md5="e410efcdbb7f04fa4aee5b7d6f0c859c" sha1="0b67868c962b0fde58a47791ca964a63460fc264"/>
+	<game name="IFFL Copier (1991)(Chromance)">
+		<description>IFFL Copier (1991)(Chromance)</description>
+		<rom name="IFFL Copier (1991)(Chromance).lnx" size="9822" crc="11f29ecd" md5="e410efcdbb7f04fa4aee5b7d6f0c859c" sha1="0b67868c962b0fde58a47791ca964a63460fc264"/>
 	</game>
 	<game name="IFFL Copy (19xx)(-)">
 		<description>IFFL Copy (19xx)(-)</description>
@@ -2500,9 +2500,9 @@
 		<description>Speedy-Scratcher v2.1 (19xx)(Mark Smeets)</description>
 		<rom name="Speedy-Scratcher v2.1 (19xx)(Mark Smeets).lnx" size="1359" crc="45c41033" md5="b8fa47776a1a1da766c33cbc4590e237" sha1="672b5abafbe41558f0dc81e7459bb7e4a84bfcfb"/>
 	</game>
-	<game name="Spread Sign Maker v2.0 (1988)(Z-Circle)">
-		<description>Spread Sign Maker v2.0 (1988)(Z-Circle)</description>
-		<rom name="Spread Sign Maker v2.0 (1988)(Z-Circle).lnx" size="4975" crc="11b8b0d7" md5="89040dd11993926bde29774e5b290956" sha1="82a6504556f4c238ca7e87cfcfbf20586d895c0d"/>
+	<game name="Spread Sign Maker v2.0 (1988-07-08)(Z-Circle)">
+		<description>Spread Sign Maker v2.0 (1988-07-08)(Z-Circle)</description>
+		<rom name="Spread Sign Maker v2.0 (1988-07-08)(Z-Circle).lnx" size="4975" crc="11b8b0d7" md5="89040dd11993926bde29774e5b290956" sha1="82a6504556f4c238ca7e87cfcfbf20586d895c0d"/>
 	</game>
 	<game name="Spr-Eddi v1.3 (19xx)(-)">
 		<description>Spr-Eddi v1.3 (19xx)(-)</description>
@@ -2582,7 +2582,7 @@
 	</game>
 	<game name="Studio DeLuxe (1994)(Avantgarde)">
 		<description>Studio DeLuxe (1994)(Avantgarde)</description>
-		<rom name="Studio DeLuxe (1994)(Avantgarde).lnx" size="32276" crc="c5358bfc" md5="f9fb25dce6c2989c15480b336b11631a" sha1="2d201af7a7028d12608fc3f73314b5df34654edb"/>
+		<rom name="Studio DeLuxe (1994)(Avantgarde).lnx" size="32828" crc="1819a28d" md5="33bdba135cfa4c130daf172670396192" sha1="f754b2a33850ac3a214c2704fc4b13d7545d8c9c"/>
 	</game>
 	<game name="Studio DeLuxe (1994)(Avantgarde)[a]">
 		<description>Studio DeLuxe (1994)(Avantgarde)[a]</description>
@@ -2592,17 +2592,17 @@
 		<description>Studio DeLuxe (1994)(Avantgarde)[a][LNX]</description>
 		<rom name="Studio DeLuxe (1994)(Avantgarde)[a][LNX].lnx" size="32530" crc="41a01640" md5="a2f6f4e9a9da9e60d97e44cce93573a7" sha1="3eece08c2f39486deb0809f97240d6dfdf9f40c5"/>
 	</game>
-	<game name="Studio DeLuxe (1994)(Avantgarde)[a2]">
-		<description>Studio DeLuxe (1994)(Avantgarde)[a2]</description>
-		<rom name="Studio DeLuxe (1994)(Avantgarde)[a2].lnx" size="32828" crc="1819a28d" md5="33bdba135cfa4c130daf172670396192" sha1="f754b2a33850ac3a214c2704fc4b13d7545d8c9c"/>
-	</game>
-	<game name="Studio DeLuxe (1994)(Avantgarde)[a2][LNX]">
-		<description>Studio DeLuxe (1994)(Avantgarde)[a2][LNX]</description>
-		<rom name="Studio DeLuxe (1994)(Avantgarde)[a2][LNX].lnx" size="32530" crc="1ca281b4" md5="4e8de5837a8d45fd194eeb7547cc84c9" sha1="e5e8aa96804e8e3924b7cef85fae092e696d16d6"/>
-	</game>
 	<game name="Studio DeLuxe (1994)(Avantgarde)[LNX]">
 		<description>Studio DeLuxe (1994)(Avantgarde)[LNX]</description>
 		<rom name="Studio DeLuxe (1994)(Avantgarde)[LNX].lnx" size="32529" crc="c18aa677" md5="d49ccbab6e93846a693b0d80c4e86250" sha1="33f22a8326126b120022d69d4e5dc6f4d2a828bd"/>
+	</game>
+	<game name="Studio DeLuxe (1994)(Avantgarde)[o]">
+		<description>Studio DeLuxe (1994)(Avantgarde)[o]</description>
+		<rom name="Studio DeLuxe (1994)(Avantgarde)[o].lnx" size="32276" crc="c5358bfc" md5="f9fb25dce6c2989c15480b336b11631a" sha1="2d201af7a7028d12608fc3f73314b5df34654edb"/>
+	</game>
+	<game name="Studio DeLuxe (1994)(Avantgarde)[o2][LNX]">
+		<description>Studio DeLuxe (1994)(Avantgarde)[o2][LNX]</description>
+		<rom name="Studio DeLuxe (1994)(Avantgarde)[o2][LNX].lnx" size="32530" crc="1ca281b4" md5="4e8de5837a8d45fd194eeb7547cc84c9" sha1="e5e8aa96804e8e3924b7cef85fae092e696d16d6"/>
 	</game>
 	<game name="Stuff-List Editor v2.5 (19xx)(EQX)">
 		<description>Stuff-List Editor v2.5 (19xx)(EQX)</description>
@@ -2872,17 +2872,17 @@
 		<description>Ultimate Musicspeed Control System, The (1989)(Alpha Flight)</description>
 		<rom name="Ultimate Musicspeed Control System, The (1989)(Alpha Flight).lnx" size="2436" crc="2ccd3396" md5="e6655c62f167f1fba64d4bb0077c508e" sha1="9b52b36426415d8a51243c3eb3d8651c3f05d8a4"/>
 	</game>
-	<game name="Ultraboot Maker (1985)(Martin Pfost)(de)">
-		<description>Ultraboot Maker (1985)(Martin Pfost)(de)</description>
-		<rom name="Ultraboot Maker (1985)(Martin Pfost)(de).lnx" size="6207" crc="eacf5895" md5="499ca9846aeac5e8bb1b18fb98bbddec" sha1="be98cffa10588001437be73698d7e8861f184d4a"/>
+	<game name="Ultra Boot Maker (1985)(Pfost, Martin)(de)">
+		<description>Ultra Boot Maker (1985)(Pfost, Martin)(de)</description>
+		<rom name="Ultra Boot Maker (1985)(Pfost, Martin)(de).lnx" size="6207" crc="eacf5895" md5="499ca9846aeac5e8bb1b18fb98bbddec" sha1="be98cffa10588001437be73698d7e8861f184d4a"/>
 	</game>
 	<game name="Ultrafont+ (19xx)(KRF)">
 		<description>Ultrafont+ (19xx)(KRF)</description>
 		<rom name="Ultrafont+ (19xx)(KRF).lnx" size="3782" crc="91765f2b" md5="2fd01449d511906becc94ba4ffba3740" sha1="7d67ce1f24dc8b570fcc3fa1f9fe4557bd8328b5"/>
 	</game>
-	<game name="Ultraload Plus Aktiv (1985)(Martin Pfost)">
-		<description>Ultraload Plus Aktiv (1985)(Martin Pfost)</description>
-		<rom name="Ultraload Plus Aktiv (1985)(Martin Pfost).lnx" size="2294" crc="20fd1865" md5="b6cc9726239c9b0a886c55271d582da3" sha1="ff1945ea0b361500bfc7d4f992e05f77f1417519"/>
+	<game name="Ultraload Plus Aktiv (1985)(Pfost, Martin)">
+		<description>Ultraload Plus Aktiv (1985)(Pfost, Martin)</description>
+		<rom name="Ultraload Plus Aktiv (1985)(Pfost, Martin).lnx" size="2294" crc="20fd1865" md5="b6cc9726239c9b0a886c55271d582da3" sha1="ff1945ea0b361500bfc7d4f992e05f77f1417519"/>
 	</game>
 	<game name="Underground Network (1984)(Mike J. Henry)">
 		<description>Underground Network (1984)(Mike J. Henry)</description>

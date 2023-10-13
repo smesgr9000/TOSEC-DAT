@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Rocket Power Extreme Arcade Games (2001)(THQ)(AU).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

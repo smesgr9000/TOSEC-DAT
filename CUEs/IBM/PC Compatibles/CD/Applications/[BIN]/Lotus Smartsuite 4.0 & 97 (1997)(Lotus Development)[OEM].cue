@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Lotus Smartsuite 4.0 & 97 (1997)(Lotus Development)[OEM].bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Gambling - [P00]</name>
-		<description>Commodore C64 - Games - Gambling - [P00] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Gambling - [P00] (TOSEC-v2023-04-29)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-04-29</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -103,6 +103,10 @@
 	<game name="Computer Scrabble Deluxe (1986)(Leisure Genius)[cr REM][a]">
 		<description>Computer Scrabble Deluxe (1986)(Leisure Genius)[cr REM][a]</description>
 		<rom name="Computer Scrabble Deluxe (1986)(Leisure Genius)[cr REM][a].p00" size="47542" crc="ae403830" md5="fed5af683a72817f3c0cd539c82f0792" sha1="31f8ae2eb65d903f2871c9f2f288e205c9ba0fbf"/>
+	</game>
+	<game name="Crown (1984)(Data Becker)(de)">
+		<description>Crown (1984)(Data Becker)(de)</description>
+		<rom name="Crown (1984)(Data Becker)(de).p00" size="14850" crc="2f966659" md5="6b424fdaf7bbeaeb2534867131c8cab9" sha1="8877af979025e8a1d682ca6fbbaa4b341f3dcc72"/>
 	</game>
 	<game name="Daily Double Horse Racing (1988)(Artworx Software)[cr F4CG]">
 		<description>Daily Double Horse Racing (1988)(Artworx Software)[cr F4CG]</description>
@@ -284,6 +288,10 @@
 		<description>Hounded - The Greyhound Racing Simulation (1985)(Kelvin King)[cr ACS][o]</description>
 		<rom name="Hounded - The Greyhound Racing Simulation (1985)(Kelvin King)[cr ACS][o].p00" size="30603" crc="9aca7b21" md5="852d2b1e21a4d33bfad83c3f5ee714c1" sha1="e530417fb54b588db16e08c530ab9485563a140d"/>
 	</game>
+	<game name="Ignition (1991)(64&apos;er - Markt &amp; Technik)(de)">
+		<description>Ignition (1991)(64&apos;er - Markt &amp; Technik)(de)</description>
+		<rom name="Ignition (1991)(64&apos;er - Markt &amp; Technik)(de).p00" size="8544" crc="700ae999" md5="371a143ac5e6a210dfc12ead3be8e1d4" sha1="6f19e439e5e4cf06ae00f569374331f533b3d6c7"/>
+	</game>
 	<game name="Ippodromo (1987)(G. Ponte)[cr DSC]">
 		<description>Ippodromo (1987)(G. Ponte)[cr DSC]</description>
 		<rom name="Ippodromo (1987)(G. Ponte)[cr DSC].p00" size="12682" crc="cf35fda9" md5="ebfa374a90f41b7ddd40c423a9530910" sha1="842f6cca39f8f3c6944e6a45b94cc171e255a105"/>
@@ -443,6 +451,10 @@
 	<game name="Old Bones Dice (1984)(Cascade)">
 		<description>Old Bones Dice (1984)(Cascade)</description>
 		<rom name="Old Bones Dice (1984)(Cascade).p00" size="2034" crc="41eda6c8" md5="9942e01ebe79a8cbfa8313ac41aedb4e" sha1="23707132f97f1ef583cde2dac8d2ae01ebe61cef"/>
+	</game>
+	<game name="One Arm Bandit (1985)(Green Valley Publishing - ShareData)">
+		<description>One Arm Bandit (1985)(Green Valley Publishing - ShareData)</description>
+		<rom name="One Arm Bandit (1985)(Green Valley Publishing - ShareData).p00" size="6290" crc="da743c43" md5="4effb198a4846ad349bc46b3f7fbecd6" sha1="5512ba46c0ece5fcdd374e1edab88e1945f30b03"/>
 	</game>
 	<game name="One Armed Bandit (1987)(Weighill, Peter)">
 		<description>One Armed Bandit (1987)(Weighill, Peter)</description>
@@ -696,9 +708,17 @@
 		<description>Spots (1994)(Compute!)</description>
 		<rom name="Spots (1994)(Compute!).p00" size="7272" crc="8cfa48b9" md5="52389895337f19805b7ba814cd5820ea" sha1="3fc927f91083a68a782d21117492f0dbd7fc227b"/>
 	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)">
+		<description>Squares (1997)(64&apos;er - Magna Media)</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media).p00" size="18336" crc="4c934ef2" md5="e6fa2c3d9d292aab0e358eb258bdb58c" sha1="a9a11dba99e90f5422a974d6df16d7201b232b14"/>
+	</game>
 	<game name="Take &apos;em (1991)(CP Verlag - Game On)[cr PAR]">
 		<description>Take &apos;em (1991)(CP Verlag - Game On)[cr PAR]</description>
 		<rom name="Take &apos;em (1991)(CP Verlag - Game On)[cr PAR].p00" size="26957" crc="e6dd1d71" md5="0291525d3dfa65654eba7e9a7c90549a" sha1="4b1cb7ecb179258c2ac4b1c5b6191f5163feeee6"/>
+	</game>
+	<game name="Think Twice (1989)(Markt &amp; Technik)(de)">
+		<description>Think Twice (1989)(Markt &amp; Technik)(de)</description>
+		<rom name="Think Twice (1989)(Markt &amp; Technik)(de).p00" size="4807" crc="d2a43e48" md5="bec5070b9f03e0715646decbcc8928a6" sha1="fdf5c04fbd15b8495575dd1e80edf66431b2553a"/>
 	</game>
 	<game name="Three of a Kind (1986)(Alpha Software)">
 		<description>Three of a Kind (1986)(Alpha Software)</description>
@@ -827,6 +847,10 @@
 	<game name="Yahtzee (19xx)(-)">
 		<description>Yahtzee (19xx)(-)</description>
 		<rom name="Yahtzee (19xx)(-).p00" size="7093" crc="2d393570" md5="6bd160f8fa348bc5fe2608f00141b5c6" sha1="6838c5c70dbfe0085f169d0b796e4be1f3957b1a"/>
+	</game>
+	<game name="Yahtzee (19xx)(Vince Sorensen)">
+		<description>Yahtzee (19xx)(Vince Sorensen)</description>
+		<rom name="Yahtzee (19xx)(Vince Sorensen).p00" size="2824" crc="9e29f141" md5="8f4f4853bdf60f1cf6677f0fac3455ed" sha1="cacdc28122dddbd005c8a3d470a15ab50d8b00dc"/>
 	</game>
 	<game name="Yahtzee v1 (1987)(Wicked Software)">
 		<description>Yahtzee v1 (1987)(Wicked Software)</description>

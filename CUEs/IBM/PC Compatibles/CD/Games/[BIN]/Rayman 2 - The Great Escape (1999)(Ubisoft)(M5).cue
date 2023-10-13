@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Rayman 2 - The Great Escape (1999)(Ubisoft)(M5).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

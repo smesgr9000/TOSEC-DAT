@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>8-Bit Productions Commander X16 - Games - [Multipart]</name>
+		<description>8-Bit Productions Commander X16 - Games - [Multipart] (TOSEC-v2023-06-14)</description>
+		<category>TOSEC</category>
+		<version>2023-06-14</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Brixx (2023-01-12)(AndyMt)[req Emulator R41]">
+		<description>Brixx (2023-01-12)(AndyMt)[req Emulator R41]</description>
+		<rom name="BALL.BIN" size="66" crc="96de58cd" md5="a0cdd84e39e1e9cecd65e6fb3bd0c7a1" sha1="b039ac19fbdcc4bdf04c92b71bb751160c54337e"/>
+		<rom name="BRIXX.PRG" size="30796" crc="20210c1b" md5="d9ca3abe819dd8d87a23f0a4a2c39b38" sha1="f608203be4ee964e4be5af875336f37c3584c2b4"/>
+		<rom name="ENDMUSIC.BIN" size="43982" crc="fa0b70eb" md5="21eb601d7d3a64150d507ceacb3aec94" sha1="e7ecf9e8240cd80d1dfb19661a2647d21c00f948"/>
+		<rom name="EXPLODE.BIN" size="1794" crc="3049520c" md5="393135fc5e1cc8382047817c9b916f26" sha1="c2079567123711652c2c9fffda4dbabac7a44a0b"/>
+		<rom name="LASER.BIN" size="66" crc="fe169f76" md5="b0c8de7b6c5d14c5035d2bfbaf936917" sha1="f6884f8bac7119380b6b3bc1ddd7d7cb4bf0a36b"/>
+		<rom name="PADDLE.BIN" size="514" crc="a62e240f" md5="b2f96c9bf53c8772e8fe8e4afceb85a1" sha1="c78705e7a9cd152e89c8ca4c8ccb9a87db56a205"/>
+		<rom name="PADDLEC.BIN" size="514" crc="d419f422" md5="4056e8e3fb250be2a04240f835676296" sha1="f8b78c0266002b28a3141d3346593f383d734c37"/>
+		<rom name="PADDLEM.BIN" size="514" crc="667b78fb" md5="7e5ea8db65582bb0f504d35eb25e785a" sha1="551e426a67754c89f06ccd7552a757a485715212"/>
+		<rom name="PALETTE.BIN" size="514" crc="385df5ee" md5="ad3caf3d9d3e73cf249c43c1df441465" sha1="7258267d0380bcc6938dd7a0a13e77bec9393810"/>
+		<rom name="PALETTEMONO.BIN" size="514" crc="28c31880" md5="7003e462f56335c41d29547b40156491" sha1="0e6bb4d3526621b9137c326c6e241db750b02c88"/>
+		<rom name="PALTITLE.BIN" size="514" crc="9fa0ee07" md5="9a7cb465115dca11a59b7f1ff08718dd" sha1="e63f83cfb6e915b6b01809e346e1d1faeddc6000"/>
+		<rom name="POWERUPC.BIN" size="258" crc="0685ca12" md5="84a4ddb228fce6025fa7fdbc931a4a51" sha1="f301865f2fe264cff34702f284f18e7f5e1840cf"/>
+		<rom name="POWERUPD.BIN" size="258" crc="09c3e211" md5="c341cc8f5c2e37e656a15b5eeeca5954" sha1="af00c1f0767ab0d97f0c7d5d0f364579d692b41d"/>
+		<rom name="POWERUPL.BIN" size="258" crc="af105e8d" md5="d5efa093e61997e03aa463437ef2db30" sha1="9f858197ae40f9489935d7bfee0e2f6d02251cc0"/>
+		<rom name="POWERUPM.BIN" size="258" crc="4b97acb6" md5="bf52532211107b377e15d4e2aab28c64" sha1="e5e7553114aec1cec0e6d8fa7dac03646ff2b628"/>
+		<rom name="TILESET.BIN" size="8162" crc="619be532" md5="d2069013ecfee74c594a9020399e6093" sha1="69dcb985be43cf8b2f540b719567b4a81d5b5dd9"/>
+		<rom name="TITLEMUSIC.BIN" size="40394" crc="72898d65" md5="366940e92b13aaa77aa7b36cd85800ef" sha1="68db4a153a21df3713a890b0f2ec69a51f324964"/>
+		<rom name="TITLESCREEN.BIN" size="76802" crc="025ac210" md5="7f66b98bdb33ff2f7986740f013c1ba8" sha1="c3490a2cc62d37804330e9f79127cb431b75fd1b"/>
+		<rom name="X16PAL.BIN" size="460" crc="d55c33b6" md5="58a0de77a8eadaa89f949902107ad357" sha1="ec0dd2433c8486d0ffed06577078fe70b9ec8b99"/>
+	</game>
+	<game name="Invaderz (2023-01-15)(AndyMt)[req Emulator R41]">
+		<description>Invaderz (2023-01-15)(AndyMt)[req Emulator R41]</description>
+		<rom name="BG-INTRO.BIN" size="76802" crc="5aa9cf01" md5="be03e11b36ba1dc8ef0d770465b89610" sha1="7ba17b341208be3931441750bc973caa3b5c4f3c"/>
+		<rom name="BG-L1.BIN" size="76802" crc="f49c192b" md5="9ce81f904584bd09018da740d85ce2f5" sha1="49dd9383b0882d70b9024f12f998f324cd2bb954"/>
+		<rom name="BG-L2.BIN" size="76802" crc="e250cb04" md5="5ccb055f96dba69f860235dbce20e884" sha1="c2426d82ffd1b9b75db97715babb2014450dde6e"/>
+		<rom name="BG-L3.BIN" size="76802" crc="b9796659" md5="97f460ed90f29cafac200a477141365d" sha1="4ec6ab22ab80c579e57add88b07ec6a0761ccf6a"/>
+		<rom name="BG-L4.BIN" size="76802" crc="a3aa38cf" md5="7256728333e51e618a13a632faac0c1d" sha1="91f074b5f542363e04f2f8774d252b53c11407fd"/>
+		<rom name="BG-L5.BIN" size="76802" crc="2f033557" md5="51622df2dc18d39225577c56b6a79936" sha1="e6135be74819f43159b7e64aa39da7b2ea2414d9"/>
+		<rom name="BG-L6.BIN" size="76802" crc="74f0cfbb" md5="f11b7147b1920af490b2bc77991ee212" sha1="7431a6180c16fadd3102522938beb9648832be45"/>
+		<rom name="BG-L7.BIN" size="76802" crc="f28d321c" md5="5cec1489ad59934e82cb7a06fbb1c32d" sha1="a2f7de6378bc1c6a7890dbb1485b763fd6718977"/>
+		<rom name="BG-SKY.BIN" size="76802" crc="1a74d64d" md5="e60526fb2f05162375dd2e64c66da7f0" sha1="fb84d5afef61c861829b73d5b2278bace28eb06c"/>
+		<rom name="BG-TITLE.BIN" size="76802" crc="5128517e" md5="e7f59ebc1a8f27dc82e53d833af29101" sha1="29eb74ea73f8be8d3cfe8b4534c35b0893ceb63f"/>
+		<rom name="ENEMY1.BIN" size="2050" crc="ee242457" md5="21e6b87b06db348b1a59e18a1218bef4" sha1="e7b4213897a6f250621bc04af6e3520a629687a9"/>
+		<rom name="ENEMY2.BIN" size="2050" crc="6397b105" md5="c8a520c6bd070f65f59bff4210c716fb" sha1="604f57f71242ef9747375fb674b50b8963027ab6"/>
+		<rom name="ENEMY3.BIN" size="2050" crc="60859a2c" md5="2126d67525699bd9af99d7567ab9f79d" sha1="93fe119b36948308332456573d187748e8ad10c6"/>
+		<rom name="ENEMY4.BIN" size="2050" crc="f68c5e58" md5="e388d096a23f2c04aacf1dad418705f8" sha1="9bd576d1a1f36a2b9e91d0cc47b36bf0cc2e0b09"/>
+		<rom name="ENEMY5.BIN" size="2050" crc="bb128396" md5="30c01dca88dc30fc3b5a159c00094725" sha1="38fa727b195acd9374141df3130b55e93e1daf33"/>
+		<rom name="ENEMY6.BIN" size="2050" crc="bc5301cb" md5="cb0974703335e36f68bf06e2a86c1c78" sha1="75e6f92ccf96729beba2da68a374f476b4d42785"/>
+		<rom name="ENEMY7.BIN" size="2050" crc="7675154e" md5="1b7d283a6b72b32092f326034a392ebb" sha1="98224a17926bed6ed99170ef7e30db02a4d83824"/>
+		<rom name="EXPLODE.BIN" size="1794" crc="69d776dd" md5="7ff7978dbd10e244ce4882787cc219a0" sha1="95ef835c4b9b26d6e73440c3db165511f09e9ccd"/>
+		<rom name="INVADERZ.PRG" size="29939" crc="28a1d6c4" md5="a9d48ef6bb5cf12684b65987744e7964" sha1="696cb2a6f86671a7887a07eeb55d2eed5ac1c913"/>
+		<rom name="LASER.BIN" size="66" crc="6603e62f" md5="a2c8feca546aaf4011ebe69f0262c6fc" sha1="74a83d81cebec212af1469d078f960348fe98a56"/>
+		<rom name="PAL-L1.BIN" size="514" crc="f47bb012" md5="75367064475f2fde43ac1e54d603cc69" sha1="b949e79331bd5e2d3bfb5fed2f41b27381ca8dff"/>
+		<rom name="PAL-L2.BIN" size="514" crc="5d77de5d" md5="c8b88dcac9ae8f867cf2379ea3b2ac78" sha1="88b639ab54d1794a2b402253f9929583073cfef4"/>
+		<rom name="PAL-L3.BIN" size="514" crc="88476d0d" md5="6ad82d4a28b5b9e1e240950d09dcbc5b" sha1="99cdde02358c892db83059bd8491befa1140a104"/>
+		<rom name="PAL-L4.BIN" size="514" crc="8d38cbba" md5="db2ae716b075db2395dadab5f151c193" sha1="f7357e244ee1ebc42f08bc16d31c8fba819abcbd"/>
+		<rom name="PAL-L5.BIN" size="514" crc="27405b03" md5="5ebd1024023ac9021cd04b60d886dd68" sha1="55031507f5e451023e2ba1aef995c290a68f4105"/>
+		<rom name="PAL-L6.BIN" size="514" crc="b67a4fad" md5="5049b5a30b5e47ba69c6053766967cae" sha1="a846e3ff1d10aa5c212f59be00bba288d43dc1e7"/>
+		<rom name="PAL-L7.BIN" size="514" crc="01a0aea0" md5="d89485ed1282143f516918f584868ea3" sha1="b6f9d838c0d04d5713872c90f4dc3b5b5d9b870d"/>
+		<rom name="PAL-SKY.BIN" size="514" crc="7f5bb026" md5="49206d3063c22451a25406e3881af323" sha1="551c7636df10f65a2cf9cba69c60e47a72634707"/>
+		<rom name="PAL-TITLE.BIN" size="514" crc="267c6d86" md5="824c3b9b1ea146ec4f3104faaa4d441c" sha1="d14222a7030c052ce9bd8375f92b16314121a820"/>
+		<rom name="PHASER.BIN" size="66" crc="999f7e3e" md5="591180c07355de7a9d4f1bd7ad975cf8" sha1="630f2606d7eef2cd076652a863a8d973c5c3cabd"/>
+		<rom name="PLAYER.BIN" size="3074" crc="8d8b87f8" md5="c320816d218237acf98a8c9a828f67ba" sha1="fbc59a3d0d3775422143e5d32451b92aa343f2e3"/>
+		<rom name="SHIELD050.BIN" size="66" crc="00dac874" md5="67dd4a1ec760cf31ed9cd384222ac985" sha1="eb0989fa45becd324d6f13317a442ef314dd5fcb"/>
+		<rom name="SHIELD100.BIN" size="66" crc="40329694" md5="39f639409c3eec60e7888dc5d71ddee3" sha1="f52fd449f42c90571746cdb3ab9080177c0ea2fc"/>
+		<rom name="STDPAL.BIN" size="514" crc="4986d6d1" md5="3dcf61db289496e429eb574f15470ff9" sha1="1b157cf223a48258478bc11f90871edb0e50c272"/>
+		<rom name="TITLEMUSIC.BIN" size="44950" crc="b5718606" md5="a8f88983a9aaedd3011be3bf7e1c9e7f" sha1="8c8e630a8cf7dd9e00afac376c6ac6a1cdda6a54"/>
+		<rom name="X16PAL.BIN" size="460" crc="d55c33b6" md5="58a0de77a8eadaa89f949902107ad357" sha1="ec0dd2433c8486d0ffed06577078fe70b9ec8b99"/>
+	</game>
+	<game name="Munch Mania v1.2 (2023-02-19)(ShawnL624)">
+		<description>Munch Mania v1.2 (2023-02-19)(ShawnL624)</description>
+		<rom name="BACKGRND.BIN" size="4098" crc="56206cd9" md5="f0915570d4b8f27473f2e4162c796eb4" sha1="41b12dce3e88db513c262d04dbc9b3c201b454b7"/>
+		<rom name="FONT.BIN" size="2050" crc="1c6c3a8b" md5="d50160e59d08fa5f699883bdc3a9fd71" sha1="66f07aa5ed067c7ac4c5a12cc5eee066384aa6df"/>
+		<rom name="HISCORE.BIN" size="10" crc="359fd1db" md5="31ad3f6400b7571319afce95e18e952f" sha1="e4e6155cb3d3ea48ad7ebb19998cb37ec71d7100"/>
+		<rom name="INVPAL.BIN" size="514" crc="2240006b" md5="1b16824c3b2ed62bae222216233faf5e" sha1="6eb2f1f2119beab01977c1ebdb585ad4137b4346"/>
+		<rom name="MUNCH.PRG" size="22622" crc="1a2b2043" md5="f6fd67172c4144c0646404b705e028a5" sha1="1a536fea7b570cd2f9a0a6af2ef4b755745d7b99"/>
+		<rom name="OV01.BIN" size="4098" crc="42f8944a" md5="753d445ec7dd6b96fc75974efa36005e" sha1="73ccd1c13f6814563af36b389f30c993b155b332"/>
+		<rom name="OV02.BIN" size="4098" crc="98bca00d" md5="3eeb28affb24a88f5407096b02d9c74e" sha1="fb4b9575d618c221f8e195d213e13a079cdc6429"/>
+		<rom name="OV03.BIN" size="4098" crc="112b0e98" md5="f088b8533f9fb7321c5143d3edd867cc" sha1="2d5ebcf03c839f5723d62ff7492a784b9c43939b"/>
+		<rom name="OV04.BIN" size="4098" crc="ccb87b9f" md5="ba5a5a64bedefaff81de7bd75bca2771" sha1="4e5bb015ddd26b99f94a7c9fc0d4e8c1ea4c7dab"/>
+		<rom name="OV05.BIN" size="4098" crc="01888e27" md5="09a8a251e57d3a8d8caa36f606a0d7cb" sha1="a3f316afcd0b25db72bbb085fb7b9538999c2f80"/>
+		<rom name="OV06.BIN" size="4098" crc="63c27d91" md5="6bd50d1a36f24dc4471d62addd06ce4e" sha1="71de1038202cfe50f1b431262af0a5fba525fe4c"/>
+		<rom name="OV07.BIN" size="4098" crc="b2bde0f1" md5="919e9c9a0d148a96c07e35b655971063" sha1="063ffbcae14f2fd307bdf2c974a878ba5f78fdd4"/>
+		<rom name="OV08.BIN" size="4098" crc="196f8800" md5="9b1c2d3dd6342919ed8ae29a7aac0d57" sha1="ec90d7ddfbb21b8b49286daa039aa8a3cb8fe47d"/>
+		<rom name="OV09.BIN" size="4098" crc="b5b2d2d5" md5="4b7ea89b88a46ecf399eceb628d5a313" sha1="6c2d336fb3f65d355eb87ad4b83003b6f6a8b0fa"/>
+		<rom name="OV10.BIN" size="4098" crc="87d5f621" md5="b5bb09373a7eba29dd9e9cd2f32bf85f" sha1="21d1373267213ae92c22bb6fdb353281457e9141"/>
+		<rom name="OV11.BIN" size="4098" crc="a436e3f7" md5="cd6e3c0b862119035c1b968bf35c5437" sha1="b925246f8962b93c5bbf0ffe5e7790656e45cb52"/>
+		<rom name="OV12.BIN" size="4098" crc="18ab8fe2" md5="255017014270c10c9dfede828dba9fdd" sha1="23848b40b527ebdd5c6409a6bdd61d449b668f8e"/>
+		<rom name="OV13.BIN" size="4098" crc="c45c2e4f" md5="f3bf7be252e168621a5e90454800ebb8" sha1="e2a0655c267a1fdb68adc48bc9734463f6043cb7"/>
+		<rom name="OV14.BIN" size="4098" crc="897c18fd" md5="9dd2aedb98bec16ea39b1702e5d51b6a" sha1="429d7e0e2f7d109056dcbc3798b18063857f5334"/>
+		<rom name="OV15.BIN" size="4098" crc="62a145de" md5="66b75dbfc0dee2fa2ced898016991af7" sha1="0a6b4011aae1e6260e415a32c58f57a72fc9dac8"/>
+		<rom name="OV16.BIN" size="4098" crc="721d756c" md5="bce17e3e21289bdb3eebb6a97b4974d2" sha1="4513c92e04ffb16e953747c5d6df4e61ce67c1b7"/>
+		<rom name="OV17.BIN" size="4098" crc="2ec3c919" md5="3a0d3f183d4443458a271d4fa395a2ef" sha1="ed648f9cbcd2bca67c317d088de179a2f13c57a8"/>
+		<rom name="OV18.BIN" size="4098" crc="4069ee59" md5="4313ca1bc28f1afd9caa1ae21bb4a9eb" sha1="07fe5d121dda2a77b66e05cd1c45ab085e343bdb"/>
+		<rom name="OV19.BIN" size="4098" crc="05851e1a" md5="b735eb9e6952304f140b6f9046f6ca53" sha1="cce2c7a70ddeaaf0ffc165f01c1a4a29d64dbc63"/>
+		<rom name="OV20.BIN" size="4098" crc="92bf94c5" md5="e210d3c0988495ccc81268d4dfdc009d" sha1="8c9c6ef00e2f73f3e79192720ca97da5002e940f"/>
+		<rom name="OVDN.BIN" size="4098" crc="02a417d9" md5="19385d7efe8224cd1224b43e1bb5ac96" sha1="332dc6d6624c55c2f27f662e7371ac894f76e218"/>
+		<rom name="OVIN.BIN" size="4098" crc="d16152b4" md5="c21d95336fd42341eee295191b36226d" sha1="307cca5e8f126d986e0ccfd3586c4ebd98238f7e"/>
+		<rom name="PAL.BIN" size="514" crc="566e73f5" md5="25fa936ff216026d31e939c58c17de4f" sha1="bf1588f36d43fc4efc0ed79ef69d03254ab06274"/>
+		<rom name="README.txt" size="3038" crc="22adce9d" md5="dd31dbf5b8b27948e6deabcd94da4bce" sha1="00ef0bd0afeb51d5ef85872ce6cd870e21098eec"/>
+		<rom name="SC01.BIN" size="4098" crc="66d1ce69" md5="869d76afdde90a918388f28ae4bdf649" sha1="3d38f6456afe0041d243dfa0e7498963c192761f"/>
+		<rom name="SC02.BIN" size="4098" crc="52dab6c9" md5="4c79eaa4407ae1eb304488d8f7354450" sha1="fc67faa3f79108191735a1e3719de4896f4701e3"/>
+		<rom name="SC03.BIN" size="4098" crc="7f55e961" md5="34d7add73623116df4e38c08aa40fed0" sha1="8a93ff3ff418922263b1357e96ee538fb79447b4"/>
+		<rom name="SC04.BIN" size="4098" crc="661cbf33" md5="87885f7b2edd9b0e41fb20e97d719b88" sha1="33da4610a0f7552085c4689c8605a663bd0f1de4"/>
+		<rom name="SC05.BIN" size="4098" crc="45adc1dc" md5="96f92ce077c4377bb444a73032e1687c" sha1="69250b07cdfe0ac5936a8c17e5e8752eee6c6824"/>
+		<rom name="SC06.BIN" size="4098" crc="81a2762f" md5="d5f4104cdbca0512e83027ddbb2f2471" sha1="1f47c05f76a93974219ac593b4e8264e2e74ba23"/>
+		<rom name="SC07.BIN" size="4098" crc="546e8e86" md5="afdec50f8e2102f7cbfa5fa3c1c7ac96" sha1="5a416183f1fe1f571aac6aac54a3cfaa19f8cf25"/>
+		<rom name="SC08.BIN" size="4098" crc="d8514a0a" md5="e6da024262e7acd39e029d4bbb7edba8" sha1="7bb886281468ff170538842928f17cf5e036396a"/>
+		<rom name="SC09.BIN" size="4098" crc="0ae0466b" md5="43c0ff6c9e504f06e02eb97146da6a20" sha1="d1ae44bec9a4556a7556d1cfedaf20c797de49b7"/>
+		<rom name="SC10.BIN" size="4098" crc="2118ec8f" md5="0b4806a5a2bcaf4ed231350f4b1b4cba" sha1="cbb71aa612b178e76415638c2d14e5c190bee4bc"/>
+		<rom name="SC11.BIN" size="4098" crc="c1f7d561" md5="a66641f70b9a54fb0562f04cc3336104" sha1="e18df939f1726db57be1bbeae4f161e0cdea3c1f"/>
+		<rom name="SC12.BIN" size="4098" crc="38ec5bef" md5="8651a1e99076c8f349c15019714d3af7" sha1="f22d8fb74ebe7cc9698274fd49c1bdd2b4361c18"/>
+		<rom name="SC13.BIN" size="4098" crc="179ba55d" md5="ddf0aadb6c68f72e8bb0d18b6baea6ce" sha1="840547b4393a3faf64350136f0b4f8bef8228cb2"/>
+		<rom name="SC14.BIN" size="4098" crc="d2f3b58c" md5="99dfb225958d73cd7cbcbea5b550604b" sha1="ad2133651d7f0aabe2249303f040af832f15df7a"/>
+		<rom name="SC15.BIN" size="4098" crc="612ce56a" md5="3f20a2e6d02072d43eee0384d4c004c3" sha1="317c34f18c46aa84e2763c4f852449239d7ab36e"/>
+		<rom name="SC16.BIN" size="4098" crc="ead434de" md5="f110c69d677b69ed2d63e665a6d4b57e" sha1="77d23c00656cf4194dec38bf44be9c5f779a553b"/>
+		<rom name="SC17.BIN" size="4098" crc="8c19ee3d" md5="06983c2380aaf04a75d7e86017e02769" sha1="972392886f85b9b7dc542934b550d11ec3fba187"/>
+		<rom name="SC18.BIN" size="4098" crc="ea771e3f" md5="81e435aed3a8b478e25401e6bb93ea8f" sha1="2026d34945e74ec328a1de0795263af18ec4b6e7"/>
+		<rom name="SC19.BIN" size="4098" crc="8ae16ab7" md5="ed013fa4eb99b8831e47224e0a4800d4" sha1="390da48ad5518fdd10de5b1abab6d08deb4ea34a"/>
+		<rom name="SC20.BIN" size="4098" crc="ac61c516" md5="a119c74919ece2a52bf513493a1172d2" sha1="6e7382b3d1b3677c295dff51f05594043d744c62"/>
+		<rom name="SCDN.BIN" size="4098" crc="93b5fbf0" md5="1cba06cc3fb378ec8ba6eee05c344dde" sha1="c7e37327eac6718553239aee7d8038869c91f59e"/>
+		<rom name="SCIN.BIN" size="4098" crc="ada41474" md5="9812e34cf3933b0f1734654bdbad0a7b" sha1="d2ad3177ffa9aebb9ab17d30a3ceafbf754d4940"/>
+		<rom name="SPRITES.BIN" size="3394" crc="f55a0e68" md5="ab0cb9ea056d0c775a9560522e57cc19" sha1="1d31cf143eada09ae659ad3d8574d90eb015e87e"/>
+		<rom name="TILE_20.BIN" size="4098" crc="3baa5969" md5="659481d2c170a463d4ed4570088cf69d" sha1="31af6de47c9469809fc57abca79e48a5efcfb6ff"/>
+		<rom name="TILES.BIN" size="6306" crc="84aa959a" md5="694d84dd487702b4731785d4560feea2" sha1="d50410433d092946dac31570faf77cc69af09cd3"/>
+	</game>
+	<game name="Rally Speedway v1.5 (2023-01-05)(Kårlin, Johan)">
+		<description>Rally Speedway v1.5 (2023-01-05)(Kårlin, Johan)</description>
+		<rom name="BADGES.BIN" size="514" crc="1826caaa" md5="51cb11cefe4a05aa4fc0eed90c686cc3" sha1="bc10174b88612996797764c5b176edbd792ecab2"/>
+		<rom name="BLOCKS.BIN" size="14338" crc="83f9b4a1" md5="5b03da0f14b8319d46a560ff896fd5c6" sha1="a64aab471ad750bba88520212e88136b4f97c22d"/>
+		<rom name="CARS.BIN" size="8706" crc="a046a112" md5="02a895f9adb22bf0a43992299d71cb3e" sha1="32e484dadea1125fc2a806233909504331d26c45"/>
+		<rom name="EXPLOSION.BIN" size="5122" crc="2aacfbc6" md5="f29df442800b0ae7a6a453924a43e2c6" sha1="f3860f4bce21201bd91dd3a3eba051637674c733"/>
+		<rom name="FINISHED.ZSM" size="10608" crc="8385ee73" md5="1e5e7e5150b01b5c0c4a01649e79c3f5" sha1="0f196a3e120ad1265a50abc3ca14998511ec34b7"/>
+		<rom name="IMAGE.BIN" size="38402" crc="f814f4a5" md5="7774b21fd4221fb76e207ba9110d7b49" sha1="0883f93d180600cdebecda6d0deb54040de77210"/>
+		<rom name="LEADERBOARD.BIN" size="77" crc="2e3e1cfd" md5="3a7fc699b21b05bae2a8d3c05a305db5" sha1="b2de73578dbe0506e9d87262ae959ad45d9544af"/>
+		<rom name="RALLYSPEEDWAY.PRG" size="34932" crc="b7ec6018" md5="ebbceaf278b34e12ae13986d98a6a748" sha1="888408f5e0e73b43ea9e41238bf2161318c0c8ab"/>
+		<rom name="SAVEDRACE.BIN" size="4766" crc="5849998b" md5="831cfb5d5f23ab47ec67129c936b4ac8" sha1="116f0aa586a8353c78dccd3f742c126708cd692f"/>
+		<rom name="TEXT.BIN" size="15362" crc="6197693a" md5="797536a110cfd5f7989a8513e6be866d" sha1="a30e17d9b176964bd3d6c94235ec0ae0e69bd015"/>
+		<rom name="TILES.BIN" size="12290" crc="93d0f96c" md5="a27a2a47bf9b989939207f9ea048bd17" sha1="291b87d2413929918da66ac018e4bf394929170e"/>
+		<rom name="TITLE.ZSM" size="28293" crc="d17b1ba1" md5="f6eb2ef090a5e76e1f1074224287368d" sha1="13cff20697f00af64483a7f246a666b34b3ec817"/>
+		<rom name="TRACKS.BIN" size="5222" crc="db7856d4" md5="3f666afdc05710ef8c83f280e03a9027" sha1="f117bf7c36f265e7bbc44fa495c7907c37104c5a"/>
+		<rom name="TRAFFIC.BIN" size="8706" crc="f95ecee6" md5="52ab0bee4efdf9aa973157ae81a8987e" sha1="57127d7755b84a00dd6be30898d3967deb7e8079"/>
+	</game>
+	<game name="Xixit (2023-01-23)(The 8-Bit Guy)">
+		<description>Xixit (2023-01-23)(The 8-Bit Guy)</description>
+		<rom name="LEV1.BIN" size="8320" crc="6bbffbc3" md5="bfe14f8dae8b2b423d98a20e4bc71747" sha1="9d2b871acd06bce1ff6de790bcd83dbe7e4c6855"/>
+		<rom name="LEV2.BIN" size="8320" crc="6d79b1b5" md5="e35a6d3a0e1155d945c72b2f5d93371c" sha1="301ac5b174ab394b0fdd59c793b1db16f7be2b83"/>
+		<rom name="LEV3.BIN" size="8320" crc="bb2c0dfe" md5="a8b6b660efa242abe69a8ccb5ac9d436" sha1="27efc21137e0356fa638b92a5f2999a7f03862ec"/>
+		<rom name="LEV4.BIN" size="8320" crc="f48c6731" md5="e3429584f9d208d4a89f440e176d1fa5" sha1="dd7e06d2269526456fc7e5ef2c574bbf87e2392e"/>
+		<rom name="MUSIC.BIN" size="419710" crc="522f32bd" md5="9de0ec9f17bf327239ad89a8d984cb0d" sha1="0a2b1ba50cbe45a6c79f304ef2477ff8696a7cba"/>
+		<rom name="SEV1.BIN" size="8352" crc="c434f5ea" md5="f4280a36df5a191e6af602449f845f1a" sha1="3934bf295e3f81072a4fe14dcc8a81cfb9cd807b"/>
+		<rom name="SEV2.BIN" size="8352" crc="a96848bb" md5="b781fdb8f084a209d48b2be4a9772bc8" sha1="01708e67b5af17e498aa05442c625db7e303d2de"/>
+		<rom name="SEV3.BIN" size="8352" crc="e8e3e25d" md5="d476d6aca7654e9bf5e31946ac0f2fba" sha1="921d5118b42cb6e0104668044a459cdf5f0922e7"/>
+		<rom name="SEV4.BIN" size="8352" crc="92560fb0" md5="e771f59994509996848e7239e818217e" sha1="f1433fabc115adbdd1322e20330841a288df4947"/>
+		<rom name="SEV5.BIN" size="8352" crc="72f9f0e1" md5="7bf0c4f56bdf20243367551527c02093" sha1="62e6331e0d0455b75ff331042dccc0041034e350"/>
+		<rom name="SEV6.BIN" size="8352" crc="018ba0a5" md5="bfd86a8e82d73fcafae468c1e6a06328" sha1="2177e8a44cf94f7016cf039656b2c63261d6e7ab"/>
+		<rom name="SEV7.BIN" size="8352" crc="fe7e0821" md5="8fd587452851ea5a6a58242bedb0a53b" sha1="bd6818f4460adecc481269274e33fdcd6b64223a"/>
+		<rom name="SEV8.BIN" size="8352" crc="7acf10d6" md5="f080859a8817f2896dcf76dfe608e796" sha1="03cbf1a107be1db645b4ea915a07864afd9a521b"/>
+		<rom name="SHAPES.BIN" size="4352" crc="ab0eacb5" md5="8c545e1c1f3173bec298b34f8c37d55e" sha1="7aad2a32430e4dc713e17d71ac9d3309f2bb6c92"/>
+		<rom name="SOUNDS.BIN" size="35333" crc="93105904" md5="48ebe1802d5f4c59955c5529579cdac6" sha1="d6913ad4d19435950963588c0b8000dcc7d318db"/>
+		<rom name="XIXIT.PRG" size="34808" crc="cb15405b" md5="63a43de753ff92d7999ce012c8d9533a" sha1="d8f35f3af257471c3d4eda024ea5bf108774b0e8"/>
+	</game>
+</datafile>

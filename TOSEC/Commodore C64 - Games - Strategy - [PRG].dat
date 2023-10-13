@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Strategy - [PRG]</name>
-		<description>Commodore C64 - Games - Strategy - [PRG] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Strategy - [PRG] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -164,9 +164,9 @@
 		<description>Bay Street (19xx)(Burge, Roger D.)[cr Suckers]</description>
 		<rom name="Bay Street (19xx)(Burge, Roger D.)[cr Suckers].prg" size="15107" crc="c7318f06" md5="2d07f0d2cd6febad309caf4377379402" sha1="294ee9217e0bcb6015eb9f205df1c15c57c67114"/>
 	</game>
-	<game name="Bay Street (19xx)(Burge, Roger D.)[cr Suckers][a]">
-		<description>Bay Street (19xx)(Burge, Roger D.)[cr Suckers][a]</description>
-		<rom name="Bay Street (19xx)(Burge, Roger D.)[cr Suckers][a].prg" size="15232" crc="de1b4329" md5="ca9d3fb10a27bece079fcab9b052ec35" sha1="d8b218e9865233b51133e52ebe47d62606117a1b"/>
+	<game name="Bay Street (19xx)(Burge, Roger D.)[cr Suckers][o]">
+		<description>Bay Street (19xx)(Burge, Roger D.)[cr Suckers][o]</description>
+		<rom name="Bay Street (19xx)(Burge, Roger D.)[cr Suckers][o].prg" size="15232" crc="de1b4329" md5="ca9d3fb10a27bece079fcab9b052ec35" sha1="d8b218e9865233b51133e52ebe47d62606117a1b"/>
 	</game>
 	<game name="Belagerung (1986)(Markt &amp; Technik)(de)">
 		<description>Belagerung (1986)(Markt &amp; Technik)(de)</description>
@@ -276,6 +276,10 @@
 		<description>Broker (1984)(Ellis Horwood)[cr ASS]</description>
 		<rom name="Broker (1984)(Ellis Horwood)[cr ASS].prg" size="13641" crc="0f16066d" md5="f3597bbbd407d688fab9b5a429da479f" sha1="7f2f84e932a649f53095daa9198c2a17c1841782"/>
 	</game>
+	<game name="Bulge (1985)(Argus Press - MC Lothlorien)">
+		<description>Bulge (1985)(Argus Press - MC Lothlorien)</description>
+		<rom name="Bulge (1985)(Argus Press - MC Lothlorien).prg" size="23505" crc="0b39ef69" md5="8bf5692d5fea3f539fca59594cc97044" sha1="db3a08dc15bfda64a4e9bd45b0f6ca2c91f177cd"/>
+	</game>
 	<game name="Bulls and Bears (19xx)(Speakeasy Software)[BASIC]">
 		<description>Bulls and Bears (19xx)(Speakeasy Software)[BASIC]</description>
 		<rom name="Bulls and Bears (19xx)(Speakeasy Software)[BASIC].prg" size="6091" crc="d7e60b2c" md5="bd62640946919a4e3513783d6f957b8c" sha1="b1902e629b7dd5d42e12f22fc4ac04f5476568df"/>
@@ -283,6 +287,10 @@
 	<game name="Bundeskanzler (1983)(DTB Software Berlin)(de)">
 		<description>Bundeskanzler (1983)(DTB Software Berlin)(de)</description>
 		<rom name="Bundeskanzler (1983)(DTB Software Berlin)(de).prg" size="9002" crc="6e428c39" md5="720eae6d7b9e892ab23849414c7ea1c5" sha1="7273548478c513e81ff1c04bae079f052f2b95c0"/>
+	</game>
+	<game name="Burgenkampf (1993)(E. Traeger)(de)">
+		<description>Burgenkampf (1993)(E. Traeger)(de)</description>
+		<rom name="Burgenkampf (1993)(E. Traeger)(de).prg" size="23583" crc="7ce1bff9" md5="e5677bea49afe1bc2066672ffda7c871" sha1="ea4b3ef215ee0a0fae4579be32dda4879ffa69a2"/>
 	</game>
 	<game name="Burgerkrieg (19xx)(Leonhard Hell)(de)">
 		<description>Burgerkrieg (19xx)(Leonhard Hell)(de)</description>
@@ -348,9 +356,9 @@
 		<description>Civil War (1978)(Creative Computing)</description>
 		<rom name="Civil War (1978)(Creative Computing).prg" size="11283" crc="cca49afb" md5="57b78ebb22bf125b057b7e17fcf10bb3" sha1="3d19dde102a95cfa649ba0b7b5f9bf1217f01f9b"/>
 	</game>
-	<game name="Civil War (19xx)(Paul, G. - Hess, R. - Geymayer, C.)(de)">
-		<description>Civil War (19xx)(Paul, G. - Hess, R. - Geymayer, C.)(de)</description>
-		<rom name="Civil War (19xx)(Paul, G. - Hess, R. - Geymayer, C.)(de).prg" size="12643" crc="93ff78f6" md5="40579eda5fb78d84c364a21c5fc6fa9b" sha1="8c4627ea4a3fd4ae59f84f999d68974aaf8b2ec7"/>
+	<game name="Civil War (19xx)(Geymayer, C. - Hess, R. - Paul, G.)(de)">
+		<description>Civil War (19xx)(Geymayer, C. - Hess, R. - Paul, G.)(de)</description>
+		<rom name="Civil War (19xx)(Geymayer, C. - Hess, R. - Paul, G.)(de).prg" size="12643" crc="93ff78f6" md5="40579eda5fb78d84c364a21c5fc6fa9b" sha1="8c4627ea4a3fd4ae59f84f999d68974aaf8b2ec7"/>
 	</game>
 	<game name="Colony 2 (19xx)(Alyson, Wesley M.)">
 		<description>Colony 2 (19xx)(Alyson, Wesley M.)</description>
@@ -468,9 +476,9 @@
 		<description>Convoy Raider (1987)(Gremlin)[cr BB]</description>
 		<rom name="Convoy Raider (1987)(Gremlin)[cr BB].prg" size="38578" crc="d344ce1b" md5="1acd3ddcec332c846536e0e3dd57ef6d" sha1="90c9a6df91005e8b72ed487bcf8ac957889e56e0"/>
 	</game>
-	<game name="Convoy Raider (1987)(Gremlin)[cr BB][a]">
-		<description>Convoy Raider (1987)(Gremlin)[cr BB][a]</description>
-		<rom name="Convoy Raider (1987)(Gremlin)[cr BB][a].prg" size="38579" crc="c0664213" md5="55dc8c55158951357f3adfcf6e154e7b" sha1="beab1c436c889fb1be1234ccc3bb8946f0ba902e"/>
+	<game name="Convoy Raider (1987)(Gremlin)[cr BB][o]">
+		<description>Convoy Raider (1987)(Gremlin)[cr BB][o]</description>
+		<rom name="Convoy Raider (1987)(Gremlin)[cr BB][o].prg" size="38579" crc="c0664213" md5="55dc8c55158951357f3adfcf6e154e7b" sha1="beab1c436c889fb1be1234ccc3bb8946f0ba902e"/>
 	</game>
 	<game name="Convoy Raider (1987)(Gremlin)[cr Cleveland Cracking Service]">
 		<description>Convoy Raider (1987)(Gremlin)[cr Cleveland Cracking Service]</description>
@@ -552,6 +560,10 @@
 		<description>Deactivators (1986)(Ariolasoft)[cr Radwar]</description>
 		<rom name="Deactivators (1986)(Ariolasoft)[cr Radwar].prg" size="43931" crc="90e2f0c2" md5="1675f9d51541a155ae2d1118ed94644f" sha1="52e4e18ccfcd36437e0815aac6b25e52f9a34216"/>
 	</game>
+	<game name="Dealer (1986)(Brodersen, Frank - Brodersen, Jörg - Mommsen, Sven)(de)">
+		<description>Dealer (1986)(Brodersen, Frank - Brodersen, Jörg - Mommsen, Sven)(de)</description>
+		<rom name="Dealer (1986)(Brodersen, Frank - Brodersen, Jörg - Mommsen, Sven)(de).prg" size="34331" crc="eaeef31c" md5="33535b3182169716dee753bddd2e42a0" sha1="bcc72911d7b2ba71d86fa36e2ec8ff01dedf8955"/>
+	</game>
 	<game name="Death Wake (1985)(Argus Press - Quicksilva)[cr Florasoft]">
 		<description>Death Wake (1985)(Argus Press - Quicksilva)[cr Florasoft]</description>
 		<rom name="Death Wake (1985)(Argus Press - Quicksilva)[cr Florasoft].prg" size="42232" crc="c90cf977" md5="f5dfe65073dc931f8295a690f15d6bb6" sha1="461bda8c1d37a3b4337d2a46e4a25ef78dc9e138"/>
@@ -588,6 +600,38 @@
 		<description>Detective (1983)(ASP Software)[cr ASS]</description>
 		<rom name="Detective (1983)(ASP Software)[cr ASS].prg" size="5438" crc="d1afd810" md5="b6a4e3b6c0e05dd73e6dee761ea40a1b" sha1="24674754254c610a5c7128ebac487fc5d20ef183"/>
 	</game>
+	<game name="Detective Game, The (1986)(Argus Press)">
+		<description>Detective Game, The (1986)(Argus Press)</description>
+		<rom name="Detective Game, The (1986)(Argus Press).prg" size="44304" crc="56b34ceb" md5="19a0886d0a99b3c5b699c50d96999dc7" sha1="1bd4ee8c4dedd2e11e9cd4872eeeaa609959138c"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[a]">
+		<description>Detective Game, The (1986)(Argus Press)[a]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[a].prg" size="44304" crc="681bfc82" md5="942a173dc87dae2749c74868d58b7517" sha1="72a10b8de8076c7aea878f009780d426fa06c7b3"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[cr Cleveland Cracking Service]">
+		<description>Detective Game, The (1986)(Argus Press)[cr Cleveland Cracking Service]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[cr Cleveland Cracking Service].prg" size="45381" crc="3dfe41ed" md5="5f1354ae09f5f8bf778e57ac0feae825" sha1="167bf1c15189d0e42474f3b56acadd4042b95e0e"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[cr Hotline]">
+		<description>Detective Game, The (1986)(Argus Press)[cr Hotline]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[cr Hotline].prg" size="45565" crc="1f3eb78a" md5="2eb8eb05eee216d38195747fbd46a11a" sha1="eb8c31287b4dd04d5a90a1a3a031489089d90f3a"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[cr Hotline][a]">
+		<description>Detective Game, The (1986)(Argus Press)[cr Hotline][a]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[cr Hotline][a].prg" size="45145" crc="0a3871ac" md5="cf06f0ebbdd35489362c0c9881073fdd" sha1="ef203099dc39e9093ca41cbcb1f955c77dd0baf9"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[cr Papillons]">
+		<description>Detective Game, The (1986)(Argus Press)[cr Papillons]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[cr Papillons].prg" size="49532" crc="c33c6268" md5="f91c2adf073f6a1e6cd5045e7ad1be13" sha1="85f50c86b5d77c2aa5639e8fe6729c63b2549e17"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[cr SCG]">
+		<description>Detective Game, The (1986)(Argus Press)[cr SCG]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[cr SCG].prg" size="45069" crc="2974f54e" md5="b5fc1e78a7e864906801c9cf47afecfc" sha1="84172145e9d877687aec954c47d462149d1c3213"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)[cr WOW]">
+		<description>Detective Game, The (1986)(Argus Press)[cr WOW]</description>
+		<rom name="Detective Game, The (1986)(Argus Press)[cr WOW].prg" size="45895" crc="96aa86e8" md5="3ac817655d31877846dc3145468a5e5e" sha1="33684d38ac2ab732758cf2ddebddd770fd163356"/>
+	</game>
 	<game name="Detective Q (1984)(Interface Publications)">
 		<description>Detective Q (1984)(Interface Publications)</description>
 		<rom name="Detective Q (1984)(Interface Publications).prg" size="5035" crc="de030457" md5="3a9a1a89c4e6766cc43033496356979a" sha1="31bedb32b65fd9cae8b9f1252213089526dd2b86"/>
@@ -612,13 +656,13 @@
 		<description>Dictator (1983)(Dk&apos;Tronics)[a2]</description>
 		<rom name="Dictator (1983)(Dk&apos;Tronics)[a2].prg" size="13970" crc="0d8cf626" md5="90ad21a1ef5d3c27f25100672e4305a0" sha1="31be0e4e4ee80c104a645fabcbdce63df36d412d"/>
 	</game>
-	<game name="Dictator (1983)(Dk&apos;Tronics)[a3]">
-		<description>Dictator (1983)(Dk&apos;Tronics)[a3]</description>
-		<rom name="Dictator (1983)(Dk&apos;Tronics)[a3].prg" size="33794" crc="74336877" md5="5b6f5cac6979c40cf6e867c4b19ae13e" sha1="7d1ed85f7b58632a8963d50797481b077491fda8"/>
-	</game>
 	<game name="Dictator (1983)(Dk&apos;Tronics)[cr TNT]">
 		<description>Dictator (1983)(Dk&apos;Tronics)[cr TNT]</description>
 		<rom name="Dictator (1983)(Dk&apos;Tronics)[cr TNT].prg" size="12717" crc="0a88c038" md5="067433770a3490d0dd49b36291077731" sha1="43619ac28a8f48d6c57c6d1f13719a4d9903f23d"/>
+	</game>
+	<game name="Dictator (1983)(Dk&apos;Tronics)[o]">
+		<description>Dictator (1983)(Dk&apos;Tronics)[o]</description>
+		<rom name="Dictator (1983)(Dk&apos;Tronics)[o].prg" size="33794" crc="74336877" md5="5b6f5cac6979c40cf6e867c4b19ae13e" sha1="7d1ed85f7b58632a8963d50797481b077491fda8"/>
 	</game>
 	<game name="Dictator II (1986)(Marko-Aurelio Fux)(de)">
 		<description>Dictator II (1986)(Marko-Aurelio Fux)(de)</description>
@@ -696,13 +740,13 @@
 		<description>Everest Ascent (1984)(Will Brighton)</description>
 		<rom name="Everest Ascent (1984)(Will Brighton).prg" size="14397" crc="c07b5036" md5="4cd47df27d4fe467f04e71e42a80f237" sha1="7fc270ccb4581a39cdc847d284c9bfe8c1847fd2"/>
 	</game>
-	<game name="Everest Ascent (1984)(Will Brighton)[a]">
-		<description>Everest Ascent (1984)(Will Brighton)[a]</description>
-		<rom name="Everest Ascent (1984)(Will Brighton)[a].prg" size="14464" crc="21633162" md5="4da8c4cf8f00f6d1e4a7f061c4a45958" sha1="a21bb12034ba2a1aa59fb52bf6eb923b161d173b"/>
-	</game>
 	<game name="Everest Ascent (1984)(Will Brighton)[cr CHR][t +1 CHR]">
 		<description>Everest Ascent (1984)(Will Brighton)[cr CHR][t +1 CHR]</description>
 		<rom name="Everest Ascent (1984)(Will Brighton)[cr CHR][t +1 CHR].prg" size="15673" crc="a4a0c922" md5="6252b85830b6f28514f140972dab638a" sha1="575d5cd9a402a643269611bfcceeb94112fe732f"/>
+	</game>
+	<game name="Everest Ascent (1984)(Will Brighton)[o]">
+		<description>Everest Ascent (1984)(Will Brighton)[o]</description>
+		<rom name="Everest Ascent (1984)(Will Brighton)[o].prg" size="14464" crc="21633162" md5="4da8c4cf8f00f6d1e4a7f061c4a45958" sha1="a21bb12034ba2a1aa59fb52bf6eb923b161d173b"/>
 	</game>
 	<game name="Evil Crown (1985)(Argus Press)">
 		<description>Evil Crown (1985)(Argus Press)</description>
@@ -848,10 +892,6 @@
 		<description>Galactic Empire (1983)(Schnell, Ronald)(de)[h Courbois]</description>
 		<rom name="Galactic Empire (1983)(Schnell, Ronald)(de)[h Courbois].prg" size="12377" crc="9110e157" md5="d91382c0ef2be90fcf50d4add4e178df" sha1="0e20e1708f100afde18b837dc1154116be175a83"/>
 	</game>
-	<game name="Galaxy (1981)(Avalon Hill)">
-		<description>Galaxy (1981)(Avalon Hill)</description>
-		<rom name="Galaxy (1981)(Avalon Hill).prg" size="25637" crc="91681f2d" md5="03cea8ca3ec58741a2e8c41e080fd511" sha1="a887c2467c5444967799f67da6b65d911085cc55"/>
-	</game>
 	<game name="Galaxy Conflict (1982)(Martech)">
 		<description>Galaxy Conflict (1982)(Martech)</description>
 		<rom name="Galaxy Conflict (1982)(Martech).prg" size="16784" crc="d9f8f8c7" md5="741777e6015cb55c16ce5d33766460a7" sha1="fd6c9c5e1853b058f868575cbe53e8e271a30291"/>
@@ -859,6 +899,10 @@
 	<game name="Galaxy! (1981)(Avalon Hill)">
 		<description>Galaxy! (1981)(Avalon Hill)</description>
 		<rom name="Galaxy! (1981)(Avalon Hill).prg" size="12177" crc="94c72d79" md5="d98089bdc79730ffd199a446d32b3c15" sha1="c042faa9e40f9f7084d017e5905faed7f15c2dc5"/>
+	</game>
+	<game name="Galaxy! (1981)(Avalon Hill)[a]">
+		<description>Galaxy! (1981)(Avalon Hill)[a]</description>
+		<rom name="Galaxy! (1981)(Avalon Hill)[a].prg" size="25637" crc="91681f2d" md5="03cea8ca3ec58741a2e8c41e080fd511" sha1="a887c2467c5444967799f67da6b65d911085cc55"/>
 	</game>
 	<game name="Galleons (1984)(Rabbit)">
 		<description>Galleons (1984)(Rabbit)</description>
@@ -974,7 +1018,7 @@
 	</game>
 	<game name="Hacker (1985)(Activision)[a]">
 		<description>Hacker (1985)(Activision)[a]</description>
-		<rom name="Hacker (1985)(Activision)[a].prg" size="49666" crc="0ea6b7d7" md5="3e427da3e49b5d7c490bef05a1786b0f" sha1="bc0dbdbafb54300f5ffbc17fe0459b692366b6d8"/>
+		<rom name="Hacker (1985)(Activision)[a].prg" size="49665" crc="a3850184" md5="9d20a60f241f763a2e3137c6d99dcfb6" sha1="204e154052b81a3c7f294f2c67fd6d95f04187ec"/>
 	</game>
 	<game name="Hacker (1985)(Activision)[a2]">
 		<description>Hacker (1985)(Activision)[a2]</description>
@@ -988,9 +1032,9 @@
 		<description>Hacker (1985)(Activision)[a4]</description>
 		<rom name="Hacker (1985)(Activision)[a4].prg" size="37278" crc="ab174ba9" md5="11363b08f717c1a2823054fe0bf3d977" sha1="072a00604e373d06ca22ff5a326956bc810328e2"/>
 	</game>
-	<game name="Hacker (1985)(Activision)[a5]">
-		<description>Hacker (1985)(Activision)[a5]</description>
-		<rom name="Hacker (1985)(Activision)[a5].prg" size="49665" crc="a3850184" md5="9d20a60f241f763a2e3137c6d99dcfb6" sha1="204e154052b81a3c7f294f2c67fd6d95f04187ec"/>
+	<game name="Hacker (1985)(Activision)[o]">
+		<description>Hacker (1985)(Activision)[o]</description>
+		<rom name="Hacker (1985)(Activision)[o].prg" size="49666" crc="0ea6b7d7" md5="3e427da3e49b5d7c490bef05a1786b0f" sha1="bc0dbdbafb54300f5ffbc17fe0459b692366b6d8"/>
 	</game>
 	<game name="Hacker 2 - The Doomsday Papers (1986)(Activision)">
 		<description>Hacker 2 - The Doomsday Papers (1986)(Activision)</description>
@@ -1035,6 +1079,10 @@
 	<game name="Hammurabi (19xx)(-)(fi)">
 		<description>Hammurabi (19xx)(-)(fi)</description>
 		<rom name="Hammurabi (19xx)(-)(fi).prg" size="13771" crc="3c0fa991" md5="612310f7976df17b4fd291f350f00ace" sha1="69ca87989db04d85c65ddbc83894e42f11ef79bf"/>
+	</game>
+	<game name="Hamurabi (19xx)(-)[BASIC]">
+		<description>Hamurabi (19xx)(-)[BASIC]</description>
+		<rom name="Hamurabi (19xx)(-)[BASIC].prg" size="3418" crc="5717945d" md5="c03f7554fe66efb49698f7de8c01a3b9" sha1="c13ed7902c4d7ce4dfb71e21e036bf3d3c6db3a8"/>
 	</game>
 	<game name="Hamurabi (19xx)(Rainer Herlert)(de)">
 		<description>Hamurabi (19xx)(Rainer Herlert)(de)</description>
@@ -1163,6 +1211,10 @@
 	<game name="Job for News (1991)(Superline)(de)">
 		<description>Job for News (1991)(Superline)(de)</description>
 		<rom name="Job for News (1991)(Superline)(de).prg" size="27714" crc="336e2294" md5="b3ceaff3cceec11b89a2d05ba8a7169a" sha1="f3e7f74c0e542a0192868dc165419dae4956837e"/>
+	</game>
+	<game name="Johnny Reb (1984)(MC Lothlorien)[h GCS]">
+		<description>Johnny Reb (1984)(MC Lothlorien)[h GCS]</description>
+		<rom name="Johnny Reb (1984)(MC Lothlorien)[h GCS].prg" size="20871" crc="5ac50b4e" md5="79f586f9fa3719c339097671eff4bd56" sha1="c81051e4f479745c201e26e8a53e58a5a1e46af3"/>
 	</game>
 	<game name="Johnny Reb II (1986)(Argus Press)">
 		<description>Johnny Reb II (1986)(Argus Press)</description>
@@ -1346,15 +1398,15 @@
 	</game>
 	<game name="Master Hacker, The (1986)(CompuCom)">
 		<description>Master Hacker, The (1986)(CompuCom)</description>
-		<rom name="Master Hacker, The (1986)(CompuCom).prg" size="10240" crc="6c180a12" md5="bd872ac58bbf04544706e8b68ab9fc93" sha1="d21d43d98065e630b3371de079875d7e4af1c9b8"/>
-	</game>
-	<game name="Master Hacker, The (1986)(CompuCom)[a]">
-		<description>Master Hacker, The (1986)(CompuCom)[a]</description>
-		<rom name="Master Hacker, The (1986)(CompuCom)[a].prg" size="9741" crc="e5ab2680" md5="fa5f394fafd8fa42d88666efda0b19dd" sha1="f8743fe1bd7fa674b284bb2679832f0c762fed34"/>
+		<rom name="Master Hacker, The (1986)(CompuCom).prg" size="9741" crc="e5ab2680" md5="fa5f394fafd8fa42d88666efda0b19dd" sha1="f8743fe1bd7fa674b284bb2679832f0c762fed34"/>
 	</game>
 	<game name="Master Hacker, The (1986)(CompuCom)[cr Suckers]">
 		<description>Master Hacker, The (1986)(CompuCom)[cr Suckers]</description>
 		<rom name="Master Hacker, The (1986)(CompuCom)[cr Suckers].prg" size="13866" crc="f8410664" md5="0f035e965f926cc3d97b266e7a3b8469" sha1="77f943a9f4081c9d83d52bafd1b32daae6ea5cbc"/>
+	</game>
+	<game name="Master Hacker, The (1986)(CompuCom)[o]">
+		<description>Master Hacker, The (1986)(CompuCom)[o]</description>
+		<rom name="Master Hacker, The (1986)(CompuCom)[o].prg" size="10240" crc="6c180a12" md5="bd872ac58bbf04544706e8b68ab9fc93" sha1="d21d43d98065e630b3371de079875d7e4af1c9b8"/>
 	</game>
 	<game name="Masterpiece (1984)(RUN-CW Communications)">
 		<description>Masterpiece (1984)(RUN-CW Communications)</description>
@@ -1399,6 +1451,14 @@
 	<game name="Minoton (19xx)(-)">
 		<description>Minoton (19xx)(-)</description>
 		<rom name="Minoton (19xx)(-).prg" size="5139" crc="7b056917" md5="eac63556c5dac6c1ea39392d77c82016" sha1="dfd674b92a3375bc903a277c0e499644a2a5ec53"/>
+	</game>
+	<game name="Mission Omega (1986)(Argus Press - Mind Games)">
+		<description>Mission Omega (1986)(Argus Press - Mind Games)</description>
+		<rom name="Mission Omega (1986)(Argus Press - Mind Games).prg" size="47899" crc="ae072b10" md5="7823893dcb2c338f7daf97527c6ff1ae" sha1="2b6c382ad4c470ff963190edfd51dfa81b91b943"/>
+	</game>
+	<game name="Mission Omega (1986)(Argus Press - Mind Games)[cr Trianon+Starline]">
+		<description>Mission Omega (1986)(Argus Press - Mind Games)[cr Trianon+Starline]</description>
+		<rom name="Mission Omega (1986)(Argus Press - Mind Games)[cr Trianon+Starline].prg" size="44181" crc="f55d9320" md5="fa2fc587d7398c8368be6a20ccb3ef6f" sha1="da7937e597faac3a1869e1e0a0bb9e1827596df2"/>
 	</game>
 	<game name="Money Mad (19xx)(-)">
 		<description>Money Mad (19xx)(-)</description>
@@ -1452,21 +1512,17 @@
 		<description>Murder (1983)(Rabbit)</description>
 		<rom name="Murder (1983)(Rabbit).prg" size="20608" crc="0ddaa8ea" md5="ee4741a8070429f5a8eeabf2bc03608e" sha1="c721c2cce2f5d845232e9e7d368c30cef2fd748f"/>
 	</game>
-	<game name="Murder (1983)(Rabbit)[BASIC]">
-		<description>Murder (1983)(Rabbit)[BASIC]</description>
-		<rom name="Murder (1983)(Rabbit)[BASIC].prg" size="20609" crc="03b452d4" md5="065cb296a400e9956e610411eb822fb3" sha1="c8725143e993a8462eb472234bad63234d9f1999"/>
-	</game>
 	<game name="Murder (1983)(Rabbit)[h SCI 666]">
 		<description>Murder (1983)(Rabbit)[h SCI 666]</description>
 		<rom name="Murder (1983)(Rabbit)[h SCI 666].prg" size="12929" crc="6c657c96" md5="3f5454b58aaf4b8774f3a126f9ec1e91" sha1="5a3e89336fac451b496f3f82ce1dddc5f786812b"/>
 	</game>
+	<game name="Murder (1983)(Rabbit)[o][BASIC]">
+		<description>Murder (1983)(Rabbit)[o][BASIC]</description>
+		<rom name="Murder (1983)(Rabbit)[o][BASIC].prg" size="20609" crc="03b452d4" md5="065cb296a400e9956e610411eb822fb3" sha1="c8725143e993a8462eb472234bad63234d9f1999"/>
+	</game>
 	<game name="Murder at Osbourne Castle, The (1983)(The Guild Adventure Software)">
 		<description>Murder at Osbourne Castle, The (1983)(The Guild Adventure Software)</description>
 		<rom name="Murder at Osbourne Castle, The (1983)(The Guild Adventure Software).prg" size="6075" crc="17b41912" md5="3e0eae2536b6a6c7f6925e52813c8a6e" sha1="19bf3ea5fe269a371dbeafd0541fca76b595782f"/>
-	</game>
-	<game name="Nam (1986)(SSI)">
-		<description>Nam (1986)(SSI)</description>
-		<rom name="Nam (1986)(SSI).prg" size="33668" crc="7d1b7107" md5="84f25967ada47b7fa1d803f6a81d6e1a" sha1="eaf28ed4d18b1f6e318217b25a6785f4198449f5"/>
 	</game>
 	<game name="Naval Fury (19xx)(-)">
 		<description>Naval Fury (19xx)(-)</description>
@@ -1544,6 +1600,18 @@
 		<description>Olympic Task 800 (19xx)(-)</description>
 		<rom name="Olympic Task 800 (19xx)(-).prg" size="19593" crc="306cc2fa" md5="332dec8f830416fb5f6937df490d9a63" sha1="04c1b71d402a0682faacdfe7531e5fff20489dd2"/>
 	</game>
+	<game name="Omega Mission (19xx)(-)">
+		<description>Omega Mission (19xx)(-)</description>
+		<rom name="Omega Mission (19xx)(-).prg" size="47899" crc="4e7c461a" md5="299ecb79276bded8e206bbb7cfc15786" sha1="b3c1c599e16d24425e376f345facf351716fa102"/>
+	</game>
+	<game name="Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr ACE]">
+		<description>Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr ACE]</description>
+		<rom name="Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr ACE].prg" size="21263" crc="5ceed365" md5="9df8c5b9d1ad1cb73373c55caa6f5f78" sha1="fb5483257def891e80eba82bf9a6751a563e747d"/>
+	</game>
+	<game name="Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr Triad]">
+		<description>Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr Triad]</description>
+		<rom name="Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr Triad].prg" size="17934" crc="f2d9100d" md5="1293f18e6aaf64f0ee6d63edd2031978" sha1="965382798b496b8c9b7a0ecb0f44b5453ec3ff97"/>
+	</game>
 	<game name="Operation Whirlwind (1984)(Brøderbund)">
 		<description>Operation Whirlwind (1984)(Brøderbund)</description>
 		<rom name="Operation Whirlwind (1984)(Brøderbund).prg" size="29180" crc="5b894d6c" md5="f97238d65865dafe323ffbe1e362cc77" sha1="6cf0336afb3564d858c47bfd83872e46a4e8de25"/>
@@ -1552,9 +1620,9 @@
 		<description>Operation Whirlwind (1984)(Brøderbund)[a]</description>
 		<rom name="Operation Whirlwind (1984)(Brøderbund)[a].prg" size="50390" crc="5c063e46" md5="75715731198447dd977f00d667295c3b" sha1="34f1aaff3b62dc88148044b86156faa04e04ebf9"/>
 	</game>
-	<game name="Operation Whirlwind (1984)(Brøderbund)[cr Friends+MAD]">
-		<description>Operation Whirlwind (1984)(Brøderbund)[cr Friends+MAD]</description>
-		<rom name="Operation Whirlwind (1984)(Brøderbund)[cr Friends+MAD].prg" size="50391" crc="10891614" md5="9cd39280b69db8573cd9df1b0e6194f7" sha1="038bf7e7e243e59664b651f6174843e1c553441e"/>
+	<game name="Operation Whirlwind (1984)(Brøderbund)[cr Friends+MAD][o]">
+		<description>Operation Whirlwind (1984)(Brøderbund)[cr Friends+MAD][o]</description>
+		<rom name="Operation Whirlwind (1984)(Brøderbund)[cr Friends+MAD][o].prg" size="50391" crc="10891614" md5="9cd39280b69db8573cd9df1b0e6194f7" sha1="038bf7e7e243e59664b651f6174843e1c553441e"/>
 	</game>
 	<game name="Operation Whirlwind (1984)(Brøderbund)[cr MHI][Docs]">
 		<description>Operation Whirlwind (1984)(Brøderbund)[cr MHI][Docs]</description>
@@ -1720,6 +1788,10 @@
 		<description>Rome and the Barbarian (1986)(Krentek Software)[cr S8]</description>
 		<rom name="Rome and the Barbarian (1986)(Krentek Software)[cr S8].prg" size="32418" crc="9c351050" md5="b46498a563baf98cc81768f29a144809" sha1="3516439b01fb1a862162c334be973b82838e49d1"/>
 	</game>
+	<game name="Rule the Kingdom (1983)(CW Communications - RUN)">
+		<description>Rule the Kingdom (1983)(CW Communications - RUN)</description>
+		<rom name="Rule the Kingdom (1983)(CW Communications - RUN).prg" size="3131" crc="53f8491a" md5="70692e3b4de4639fa275c440d8504fd8" sha1="d1efde0474478ecc12ce783b62887bdedcb255a8"/>
+	</game>
 	<game name="Safari-Jager (1988)(Input 64)(de)[cr ASS]">
 		<description>Safari-Jager (1988)(Input 64)(de)[cr ASS]</description>
 		<rom name="Safari-Jager (1988)(Input 64)(de)[cr ASS].prg" size="9914" crc="728d6fde" md5="220c8714542459d3924ec4ae95d152ba" sha1="f2d3e5ca8d435b014d680ffb4211f67f9c2587ea"/>
@@ -1732,9 +1804,9 @@
 		<description>Scotland-Yard (1987)(Markt &amp; Technik)(de)</description>
 		<rom name="Scotland-Yard (1987)(Markt &amp; Technik)(de).prg" size="5904" crc="c37ab7b7" md5="4a48eccaed2b398300a3f110e62c6ce9" sha1="8a7dd60093c39a6d141dfbee0585d2c538a272a8"/>
 	</game>
-	<game name="Sea Battle (19xx)(Carl Thelen)[BASIC]">
-		<description>Sea Battle (19xx)(Carl Thelen)[BASIC]</description>
-		<rom name="Sea Battle (19xx)(Carl Thelen)[BASIC].prg" size="3886" crc="3c4996d6" md5="516e5fdca049d7452ab2ca72f553359c" sha1="e33d82d9ddb5ce244d46342435bcac94eee64114"/>
+	<game name="Sea Battle (19xx)(Thelen, Carl)[BASIC]">
+		<description>Sea Battle (19xx)(Thelen, Carl)[BASIC]</description>
+		<rom name="Sea Battle (19xx)(Thelen, Carl)[BASIC].prg" size="3886" crc="3c4996d6" md5="516e5fdca049d7452ab2ca72f553359c" sha1="e33d82d9ddb5ce244d46342435bcac94eee64114"/>
 	</game>
 	<game name="Seabattle (19xx)(Creative Computing)">
 		<description>Seabattle (19xx)(Creative Computing)</description>
@@ -1784,9 +1856,9 @@
 		<description>Sim City (1989)(Maxis)[cr Synnon][t +1 Synnon]</description>
 		<rom name="Sim City (1989)(Maxis)[cr Synnon][t +1 Synnon].prg" size="16451" crc="1cd058d7" md5="2689be8e7f032c406ecb09eefa39ece2" sha1="ebc776652872194194611fcce54e4fcad25c0fbd"/>
 	</game>
-	<game name="Sir Richard (1991)(Diehm, Peter)(de)">
-		<description>Sir Richard (1991)(Diehm, Peter)(de)</description>
-		<rom name="Sir Richard (1991)(Diehm, Peter)(de).prg" size="19403" crc="0351b20b" md5="ad59c65dcf4abae2e5c7fcd742774c64" sha1="24df712be40e8f0549c17a356419d71dc2cb28b0"/>
+	<game name="Sir Richard (1991)(Diehm, Peter)(de)(PD)">
+		<description>Sir Richard (1991)(Diehm, Peter)(de)(PD)</description>
+		<rom name="Sir Richard (1991)(Diehm, Peter)(de)(PD).prg" size="19403" crc="0351b20b" md5="ad59c65dcf4abae2e5c7fcd742774c64" sha1="24df712be40e8f0549c17a356419d71dc2cb28b0"/>
 	</game>
 	<game name="Sklep (19xx)(Sanecki, Lukasz)(pl)">
 		<description>Sklep (19xx)(Sanecki, Lukasz)(pl)</description>
@@ -1856,9 +1928,9 @@
 		<description>Spekulator, Der (1987)(Input 64)(de)[a]</description>
 		<rom name="Spekulator, Der (1987)(Input 64)(de)[a].prg" size="11000" crc="b4cf01fa" md5="a4aaa9cec4a974695bbfee0c392f5f34" sha1="ffd8e80833a396b1cc8b2f4ca78fc597ed9bc0ee"/>
 	</game>
-	<game name="Spekulator, Der (1987)(Input 64)(de)[h ASS]">
-		<description>Spekulator, Der (1987)(Input 64)(de)[h ASS]</description>
-		<rom name="Spekulator, Der (1987)(Input 64)(de)[h ASS].prg" size="22455" crc="327c214c" md5="2108c62a9fb81296d7a32ba51bacc09e" sha1="03ffec5faed4a1bc2dad6e04fc1bfead5ff2d2dc"/>
+	<game name="Spekulator, Der (1987)(Input 64)(de)[h ASS][o]">
+		<description>Spekulator, Der (1987)(Input 64)(de)[h ASS][o]</description>
+		<rom name="Spekulator, Der (1987)(Input 64)(de)[h ASS][o].prg" size="22455" crc="327c214c" md5="2108c62a9fb81296d7a32ba51bacc09e" sha1="03ffec5faed4a1bc2dad6e04fc1bfead5ff2d2dc"/>
 	</game>
 	<game name="Spiel des Lebens (19xx)(-)(de)">
 		<description>Spiel des Lebens (19xx)(-)(de)</description>
@@ -1886,11 +1958,11 @@
 	</game>
 	<game name="Spy vs Spy (1984)(First Star)[cr Jedi][a2]">
 		<description>Spy vs Spy (1984)(First Star)[cr Jedi][a2]</description>
-		<rom name="Spy vs Spy (1984)(First Star)[cr Jedi][a2].prg" size="40439" crc="a961b83d" md5="d02c18efd93899cc18afb3ca365ee06d" sha1="2f09bf193a37f004547a97e55e9e3db1b8cb16b3"/>
+		<rom name="Spy vs Spy (1984)(First Star)[cr Jedi][a2].prg" size="40442" crc="41dffbdf" md5="bab83ac99df242fc293920ac2baba75c" sha1="5f8a5553a92d4da39aed48a4a176a72946c1e47d"/>
 	</game>
-	<game name="Spy vs Spy (1984)(First Star)[cr Jedi][a3]">
-		<description>Spy vs Spy (1984)(First Star)[cr Jedi][a3]</description>
-		<rom name="Spy vs Spy (1984)(First Star)[cr Jedi][a3].prg" size="40442" crc="41dffbdf" md5="bab83ac99df242fc293920ac2baba75c" sha1="5f8a5553a92d4da39aed48a4a176a72946c1e47d"/>
+	<game name="Spy vs Spy (1984)(First Star)[cr Jedi][o]">
+		<description>Spy vs Spy (1984)(First Star)[cr Jedi][o]</description>
+		<rom name="Spy vs Spy (1984)(First Star)[cr Jedi][o].prg" size="40439" crc="a961b83d" md5="d02c18efd93899cc18afb3ca365ee06d" sha1="2f09bf193a37f004547a97e55e9e3db1b8cb16b3"/>
 	</game>
 	<game name="Spy vs Spy (1984)(First Star)[cr REM][Docs]">
 		<description>Spy vs Spy (1984)(First Star)[cr REM][Docs]</description>
@@ -1910,15 +1982,11 @@
 	</game>
 	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a2]">
 		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[a2]</description>
-		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a2].prg" size="45097" crc="f626d7ad" md5="110da3003505b0488ad5233cb65266bc" sha1="ef094b14298c81b5cab665724de3238baf954bb7"/>
+		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a2].prg" size="43602" crc="48710491" md5="31bd110f8302e455053139e241b0dafe" sha1="b7bc8fc906e9427f35c1fc7a4be38b38dd3ab8eb"/>
 	</game>
 	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a3]">
 		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[a3]</description>
 		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a3].prg" size="35781" crc="1bb216ae" md5="cbb9e0061282378c875bfa136b78e80c" sha1="1d537b8b9eff4bbc8a09042742ca94328ffc0b2b"/>
-	</game>
-	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a4]">
-		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[a4]</description>
-		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[a4].prg" size="43602" crc="48710491" md5="31bd110f8302e455053139e241b0dafe" sha1="b7bc8fc906e9427f35c1fc7a4be38b38dd3ab8eb"/>
 	</game>
 	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr ABC]">
 		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr ABC]</description>
@@ -1932,13 +2000,17 @@
 		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z]</description>
 		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z].prg" size="44368" crc="c3f2adc4" md5="14e1b76bc8d7a37f7368adbddad35ab6" sha1="e7045391faf8f5496943dee02ff786fa73dd8e50"/>
 	</game>
-	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z][a]">
-		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z][a]</description>
-		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z][a].prg" size="44369" crc="3714a32d" md5="0104bf6675e60ed187f4e3ba43c48cd8" sha1="adcb9b53c35fd2d42efed23ac95f1eaa7f3e7988"/>
+	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z][o2]">
+		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z][o2]</description>
+		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Mr.Z][o2].prg" size="44369" crc="3714a32d" md5="0104bf6675e60ed187f4e3ba43c48cd8" sha1="adcb9b53c35fd2d42efed23ac95f1eaa7f3e7988"/>
 	</game>
 	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Sharks]">
 		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Sharks]</description>
 		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[cr Sharks].prg" size="37221" crc="ae38e103" md5="42e8948759e8e2bca4c5fed17b1e8922" sha1="32c3ae4ea81e903e40fab612ae690e56be18ae27"/>
+	</game>
+	<game name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[o]">
+		<description>Spy vs Spy 2 - The Island Caper (1985)(First Star)[o]</description>
+		<rom name="Spy vs Spy 2 - The Island Caper (1985)(First Star)[o].prg" size="45097" crc="f626d7ad" md5="110da3003505b0488ad5233cb65266bc" sha1="ef094b14298c81b5cab665724de3238baf954bb7"/>
 	</game>
 	<game name="Spy vs Spy 3 - Arctic Antics (1986)(First Star)">
 		<description>Spy vs Spy 3 - Arctic Antics (1986)(First Star)</description>
@@ -1996,6 +2068,10 @@
 		<description>Star Trader (19xx)(Horst Knop)(de)</description>
 		<rom name="Star Trader (19xx)(Horst Knop)(de).prg" size="8266" crc="78d5e4a3" md5="1ee2440839042c2502cd05f4780320ed" sha1="309d9d7fc91275329dc6f58c617fbb6106316819"/>
 	</game>
+	<game name="Star Tramp (1983)(Eggloff, Jürgen)(de)">
+		<description>Star Tramp (1983)(Eggloff, Jürgen)(de)</description>
+		<rom name="Star Tramp (1983)(Eggloff, Jürgen)(de).prg" size="18922" crc="ac966098" md5="f943cd77547cf34b8c5a730b1809f33f" sha1="9b8c4799df887c1ea68b46c4e0caf887e19d263f"/>
+	</game>
 	<game name="Star Trek - The Computer Game (1985)(Green Valley Publishing)">
 		<description>Star Trek - The Computer Game (1985)(Green Valley Publishing)</description>
 		<rom name="Star Trek - The Computer Game (1985)(Green Valley Publishing).prg" size="15500" crc="16fc6759" md5="6fb509de0433c7df822b4ecd100c397f" sha1="3873435e32f92fdc0186d1068c65d0e946d3481c"/>
@@ -2036,9 +2112,9 @@
 		<description>Star Trek (19xx)(-)(de)[BASIC]</description>
 		<rom name="Star Trek (19xx)(-)(de)[BASIC].prg" size="6067" crc="5b77e7ba" md5="b87b87debefb4a39acb74237e662857e" sha1="2b3ea00191a1f68c0fe03f268673f673f22677e7"/>
 	</game>
-	<game name="Star Trek (19xx)(Duncan Langford)">
-		<description>Star Trek (19xx)(Duncan Langford)</description>
-		<rom name="Star Trek (19xx)(Duncan Langford).prg" size="13420" crc="5c68402a" md5="c9d885a461f0875c3a33a7b98d57defe" sha1="7de3b577dac64a8e28a2cd3a0a7d5bc8d6791ac0"/>
+	<game name="Star Trek (19xx)(Langford, Duncan)">
+		<description>Star Trek (19xx)(Langford, Duncan)</description>
+		<rom name="Star Trek (19xx)(Langford, Duncan).prg" size="13420" crc="5c68402a" md5="c9d885a461f0875c3a33a7b98d57defe" sha1="7de3b577dac64a8e28a2cd3a0a7d5bc8d6791ac0"/>
 	</game>
 	<game name="Star Trek IV (1983)(Commodore Educational)">
 		<description>Star Trek IV (1983)(Commodore Educational)</description>
@@ -2210,15 +2286,15 @@
 	</game>
 	<game name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari]">
 		<description>Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari]</description>
-		<rom name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari].prg" size="31990" crc="30744917" md5="05b830e6eca3f6de4ae9306b61b533ab" sha1="a5cfc933d37a5d2cca8628a15c70a6cabcca4446"/>
+		<rom name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari].prg" size="31988" crc="b2002651" md5="dd2681998837f7bba7ec63b8e1d3340f" sha1="ee73472b1b27083a429f4443429917eb8c25d15a"/>
 	</game>
-	<game name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][a]">
-		<description>Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][a]</description>
-		<rom name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][a].prg" size="31989" crc="cedc8ec9" md5="5cb6d0340ed8d3cbb47a34d3a492f996" sha1="46d93f520b407f18f21356770662bacccec2e155"/>
+	<game name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][o]">
+		<description>Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][o]</description>
+		<rom name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][o].prg" size="31990" crc="30744917" md5="05b830e6eca3f6de4ae9306b61b533ab" sha1="a5cfc933d37a5d2cca8628a15c70a6cabcca4446"/>
 	</game>
-	<game name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][a2]">
-		<description>Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][a2]</description>
-		<rom name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][a2].prg" size="31988" crc="b2002651" md5="dd2681998837f7bba7ec63b8e1d3340f" sha1="ee73472b1b27083a429f4443429917eb8c25d15a"/>
+	<game name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][o2]">
+		<description>Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][o2]</description>
+		<rom name="Tobruk - The Clash of Armour (1987)(PSS)[cr Ikari][o2].prg" size="31989" crc="cedc8ec9" md5="5cb6d0340ed8d3cbb47a34d3a492f996" sha1="46d93f520b407f18f21356770662bacccec2e155"/>
 	</game>
 	<game name="Tobruk - The Clash of Armour (1987)(PSS)[cr Wanderer Group]">
 		<description>Tobruk - The Clash of Armour (1987)(PSS)[cr Wanderer Group]</description>
@@ -2456,9 +2532,9 @@
 		<description>World Dominance (19xx)(-)</description>
 		<rom name="World Dominance (19xx)(-).prg" size="9787" crc="ba9e27d1" md5="c1ab4aeb2fdcc810992a36be9a5d4641" sha1="4d77a35118964a85088eb51b28d3da765da3b76f"/>
 	</game>
-	<game name="World Dominance (19xx)(-)[a]">
-		<description>World Dominance (19xx)(-)[a]</description>
-		<rom name="World Dominance (19xx)(-)[a].prg" size="9856" crc="49b7bc11" md5="eb95028274d5aeea1ed36e08bac7e9c5" sha1="8dca51f145a4d6834d69ee16a478e953d96fc56a"/>
+	<game name="World Dominance (19xx)(-)[o]">
+		<description>World Dominance (19xx)(-)[o]</description>
+		<rom name="World Dominance (19xx)(-)[o].prg" size="9856" crc="49b7bc11" md5="eb95028274d5aeea1ed36e08bac7e9c5" sha1="8dca51f145a4d6834d69ee16a478e953d96fc56a"/>
 	</game>
 	<game name="World Power (1983)(-)">
 		<description>World Power (1983)(-)</description>
@@ -2500,21 +2576,21 @@
 		<description>Yuppie Trainer, The (1991)(CP Verlag)[cr ULT][a]</description>
 		<rom name="Yuppie Trainer, The (1991)(CP Verlag)[cr ULT][a].prg" size="16383" crc="64bbf591" md5="972ef5d650f4ad5f18aae2432210bf14" sha1="52a4c5ae7f20d24868ddcc4db9950839432351c6"/>
 	</game>
-	<game name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)">
-		<description>Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)</description>
-		<rom name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de).prg" size="39849" crc="8a99a6cb" md5="5bb594dc6d6d49ddef8ec700b8d74075" sha1="9bbc5f716d1f33fbdbcad69658f5339914cde8db"/>
+	<game name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)">
+		<description>Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)</description>
+		<rom name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de).prg" size="39849" crc="8a99a6cb" md5="5bb594dc6d6d49ddef8ec700b8d74075" sha1="9bbc5f716d1f33fbdbcad69658f5339914cde8db"/>
 	</game>
-	<game name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[cr GP+FE][t +1 GP+FE]">
-		<description>Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[cr GP+FE][t +1 GP+FE]</description>
-		<rom name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[cr GP+FE][t +1 GP+FE].prg" size="32421" crc="be910687" md5="ec33f7e20d6544add4f2fde016a4ebd6" sha1="685dbcda7c1d3828e1efc511d4ba108b3b2637c2"/>
+	<game name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[cr GP+FE][t +1 GP+FE]">
+		<description>Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[cr GP+FE][t +1 GP+FE]</description>
+		<rom name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[cr GP+FE][t +1 GP+FE].prg" size="32421" crc="be910687" md5="ec33f7e20d6544add4f2fde016a4ebd6" sha1="685dbcda7c1d3828e1efc511d4ba108b3b2637c2"/>
 	</game>
-	<game name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[h Panzerknacker]">
-		<description>Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[h Panzerknacker]</description>
-		<rom name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[h Panzerknacker].prg" size="24156" crc="b96a8928" md5="c78ecfdbe6ef6c82956ed6893e158a2a" sha1="e4be8c16803630609a318bdf3c8bbf91f00ca548"/>
+	<game name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[h Panzerknacker]">
+		<description>Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[h Panzerknacker]</description>
+		<rom name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[h Panzerknacker].prg" size="24156" crc="b96a8928" md5="c78ecfdbe6ef6c82956ed6893e158a2a" sha1="e4be8c16803630609a318bdf3c8bbf91f00ca548"/>
 	</game>
-	<game name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)[cr Elite]">
-		<description>Yuppie&apos;s Revenge (1988)(Zuheir Urwani)[cr Elite]</description>
-		<rom name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)[cr Elite].prg" size="30281" crc="e16b941f" md5="537bfdb091a89f3d2f652edb7c65bbf1" sha1="1b61ada8488e48e4f33a8e0a2f6d2ef17b4e4186"/>
+	<game name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)[cr Elite]">
+		<description>Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)[cr Elite]</description>
+		<rom name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)[cr Elite].prg" size="30281" crc="e16b941f" md5="537bfdb091a89f3d2f652edb7c65bbf1" sha1="1b61ada8488e48e4f33a8e0a2f6d2ef17b4e4186"/>
 	</game>
 	<game name="Zauberlord - Sorcerer Lord (1987)(PSS)(de)">
 		<description>Zauberlord - Sorcerer Lord (1987)(PSS)(de)</description>

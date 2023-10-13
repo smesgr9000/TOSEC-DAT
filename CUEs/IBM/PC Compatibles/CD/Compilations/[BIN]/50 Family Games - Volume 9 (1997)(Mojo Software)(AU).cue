@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "50 Family Games - Volume 9 (1997)(Mojo Software)(AU).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

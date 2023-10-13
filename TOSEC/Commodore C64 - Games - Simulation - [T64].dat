@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Simulation - [T64]</name>
-		<description>Commodore C64 - Games - Simulation - [T64] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Simulation - [T64] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -260,9 +260,9 @@
 		<description>Admiral Graf Spee (1982)(S.R. Mansfield)</description>
 		<rom name="Admiral Graf Spee (1982)(S.R. Mansfield).t64" size="16020" crc="21841d14" md5="a9af54b39882404c628e03cf88ce6a16" sha1="34b0c885b2f68960cc26ae48bf3a43ff52eec5aa"/>
 	</game>
-	<game name="Air Plane Lander (1984)(Courbois Software)">
-		<description>Air Plane Lander (1984)(Courbois Software)</description>
-		<rom name="Air Plane Lander (1984)(Courbois Software).t64" size="6796" crc="bc56ef98" md5="c23febd87612563fffdec574cb3fb405" sha1="2f5cd9d2215964a29d906d47d4f96d7eeccd5ba9"/>
+	<game name="Air Plane Lander (1984)(Courbois)">
+		<description>Air Plane Lander (1984)(Courbois)</description>
+		<rom name="Air Plane Lander (1984)(Courbois).t64" size="6796" crc="bc56ef98" md5="c23febd87612563fffdec574cb3fb405" sha1="2f5cd9d2215964a29d906d47d4f96d7eeccd5ba9"/>
 	</game>
 	<game name="Air Plane Lander (1984)(Majestic)">
 		<description>Air Plane Lander (1984)(Majestic)</description>
@@ -276,9 +276,9 @@
 		<description>Air Plane Lander (1984)(Majestic)[a2]</description>
 		<rom name="Air Plane Lander (1984)(Majestic)[a2].t64" size="7732" crc="8cceb27d" md5="7acb3bad1ccd80176a0dc494d3eda84c" sha1="64f80e33708b7047744de4b45903275da45d6350"/>
 	</game>
-	<game name="Air Traffic (1984)(Courbois Software)(nl)">
-		<description>Air Traffic (1984)(Courbois Software)(nl)</description>
-		<rom name="Air Traffic (1984)(Courbois Software)(nl).t64" size="6329" crc="c1cdd494" md5="022cec6457fdcca8aa02ec94bb2cd10c" sha1="e1a7ab6d02817ed039265b49c8176dcc24d12ec0"/>
+	<game name="Air Traffic (1984)(Courbois)(nl)">
+		<description>Air Traffic (1984)(Courbois)(nl)</description>
+		<rom name="Air Traffic (1984)(Courbois)(nl).t64" size="6329" crc="c1cdd494" md5="022cec6457fdcca8aa02ec94bb2cd10c" sha1="e1a7ab6d02817ed039265b49c8176dcc24d12ec0"/>
 	</game>
 	<game name="Air Traffic Control (1983)(Brookfield Software)(nl)">
 		<description>Air Traffic Control (1983)(Brookfield Software)(nl)</description>
@@ -328,9 +328,9 @@
 		<description>Airbus-A300 Simulator (19xx)(-)(de)</description>
 		<rom name="Airbus-A300 Simulator (19xx)(-)(de).t64" size="22964" crc="3575159b" md5="3b3cc53dea77adeed7b52568b9401757" sha1="7d70115d7fef6b5b2f34bea08f1dd7a88207717d"/>
 	</game>
-	<game name="Aircraft Lander (1983)(Courbois Software)">
-		<description>Aircraft Lander (1983)(Courbois Software)</description>
-		<rom name="Aircraft Lander (1983)(Courbois Software).t64" size="12034" crc="e01d7c98" md5="f93cf3881f25fdfbb29d2d0ad81b7620" sha1="af4d647213b5f99d06857fb016557ab32d7cb8ab"/>
+	<game name="Aircraft Lander (1983)(Courbois)">
+		<description>Aircraft Lander (1983)(Courbois)</description>
+		<rom name="Aircraft Lander (1983)(Courbois).t64" size="12034" crc="e01d7c98" md5="f93cf3881f25fdfbb29d2d0ad81b7620" sha1="af4d647213b5f99d06857fb016557ab32d7cb8ab"/>
 	</game>
 	<game name="Airline Patrol (19xx)(-)(de)">
 		<description>Airline Patrol (19xx)(-)(de)</description>
@@ -503,6 +503,22 @@
 	<game name="Blindflug-Training (19xx)(Jahnke, Frank)(de)[a2]">
 		<description>Blindflug-Training (19xx)(Jahnke, Frank)(de)[a2]</description>
 		<rom name="Blindflug-Training (19xx)(Jahnke, Frank)(de)[a2].t64" size="11077" crc="feff44ac" md5="65ace992382d33c56a90ff15e3934b50" sha1="15a5775ecca7ccfb6d9271925e99ab44c82cc7c3"/>
+	</game>
+	<game name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)">
+		<description>Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)</description>
+		<rom name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD).t64" size="10610" crc="3046b3c8" md5="07572fdd5f49fdf5f66e9fb9fe6f4fda" sha1="51d832d1246cfdc077dc450ba2bf78f1ac279c23"/>
+	</game>
+	<game name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a]">
+		<description>Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a]</description>
+		<rom name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a].t64" size="19081" crc="7a156908" md5="97dc4552326a626b62116665c9f8a1ab" sha1="032a7e558c7a17f61ca3c4f63bde2a0351d969f0"/>
+	</game>
+	<game name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a2]">
+		<description>Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a2]</description>
+		<rom name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a2].t64" size="23668" crc="55896d69" md5="db6b1278386936826d2e3ef547bd0019" sha1="360d3a1a97cbb078ae01e238422c4d3583d8dc70"/>
+	</game>
+	<game name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a3]">
+		<description>Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a3]</description>
+		<rom name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(de)(PD)[a3].t64" size="10610" crc="aeb9135e" md5="fe4d4dccaf7b733f9e65d38204e7e282" sha1="303286e6c7544c04f884fe4073868334452a629d"/>
 	</game>
 	<game name="Boeing-727 Simulator (19xx)(Jahnke, Frank)(nl)(PD)">
 		<description>Boeing-727 Simulator (19xx)(Jahnke, Frank)(nl)(PD)</description>
@@ -812,9 +828,9 @@
 		<description>F-15 Strike Eagle (1986)(MicroProse)[cr CMM]</description>
 		<rom name="F-15 Strike Eagle (1986)(MicroProse)[cr CMM].t64" size="24290" crc="9e578383" md5="3227afe5a034d477c4ad61eba87573f1" sha1="b81f2c8c4baeb1d7f116207f1582819bc19d0670"/>
 	</game>
-	<game name="Falchi (1987)(Pubblirome - Game 2000)(it)">
-		<description>Falchi (1987)(Pubblirome - Game 2000)(it)</description>
-		<rom name="Falchi (1987)(Pubblirome - Game 2000)(it).t64" size="20117" crc="5b4c2182" md5="8168c27ce1cb5a0a4a6cb88d791eea0a" sha1="0f45239c348247001a49e5f25865767ab610a678"/>
+	<game name="Falchi (1987)(Pubblirome)(it)">
+		<description>Falchi (1987)(Pubblirome)(it)</description>
+		<rom name="Falchi (1987)(Pubblirome)(it).t64" size="20117" crc="5b4c2182" md5="8168c27ce1cb5a0a4a6cb88d791eea0a" sha1="0f45239c348247001a49e5f25865767ab610a678"/>
 	</game>
 	<game name="Fighter Pilot (1984)(Digital Integration)">
 		<description>Fighter Pilot (1984)(Digital Integration)</description>
@@ -1020,29 +1036,29 @@
 		<description>Glider Pilot (1985)(CRL)[cr TCS][a]</description>
 		<rom name="Glider Pilot (1985)(CRL)[cr TCS][a].t64" size="31275" crc="645a4edb" md5="7f8abf551e09477d32ebf8bb2f5849da" sha1="6b9d319443d2354833817b5278b3d029f097b217"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr Legacy]">
-		<description>G-Loc R360 (1992)(US Gold)[cr Legacy]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr Legacy].t64" size="55438" crc="cf87fe68" md5="91eb2e24068002ae6f225ba88909c282" sha1="6e35c35d6f3c79173f9d87fa5c565eb2cc336796"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr Legacy]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr Legacy]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr Legacy].t64" size="55438" crc="cf87fe68" md5="91eb2e24068002ae6f225ba88909c282" sha1="6e35c35d6f3c79173f9d87fa5c565eb2cc336796"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI]">
-		<description>G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI].t64" size="30462" crc="521706ff" md5="b9686a401a3773096aae47293055c20c" sha1="d4f5d08105e5fad467184862854142619c30ce70"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI].t64" size="30462" crc="28809c3a" md5="218957d82ef14755a89c78e729f922c7" sha1="9f11203c58c2e18e9d4d20f4f0d32d33be93eec8"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a]">
-		<description>G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a].t64" size="30462" crc="2e0ed3d0" md5="be439e85ad4e12b4d1d3e009efae72d1" sha1="6734d099c7945b00c64ba8b29a70550066b1048f"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a].t64" size="29534" crc="170f714f" md5="47fa5a01efb924fc314e00b06e7a8cb4" sha1="d5ecc8818b6d8bc7fb85d494108332b297d88b33"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a2]">
-		<description>G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a2]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a2].t64" size="29534" crc="66239ff8" md5="a13ca578bb24d13816bfd83ce2866b7e" sha1="9060b3baa254a3c04333c4fd876ed8f10493bb1b"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a2]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a2]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a2].t64" size="29534" crc="66239ff8" md5="a13ca578bb24d13816bfd83ce2866b7e" sha1="9060b3baa254a3c04333c4fd876ed8f10493bb1b"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a3]">
-		<description>G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a3]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a3].t64" size="29534" crc="170f714f" md5="47fa5a01efb924fc314e00b06e7a8cb4" sha1="d5ecc8818b6d8bc7fb85d494108332b297d88b33"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a3]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a3]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a3].t64" size="30462" crc="521706ff" md5="b9686a401a3773096aae47293055c20c" sha1="d4f5d08105e5fad467184862854142619c30ce70"/>
 	</game>
-	<game name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a4]">
-		<description>G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a4]</description>
-		<rom name="G-Loc R360 (1992)(US Gold)[cr NEI - Legend][t +3 NEI][a4].t64" size="30462" crc="28809c3a" md5="218957d82ef14755a89c78e729f922c7" sha1="9f11203c58c2e18e9d4d20f4f0d32d33be93eec8"/>
+	<game name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a4]">
+		<description>G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a4]</description>
+		<rom name="G-Loc R360 (1992)(Sega - US Gold)[cr NEI - Legend][t +3 NEI][a4].t64" size="30462" crc="2e0ed3d0" md5="be439e85ad4e12b4d1d3e009efae72d1" sha1="6734d099c7945b00c64ba8b29a70550066b1048f"/>
 	</game>
 	<game name="Halley Mission, The - A Shuttle Simulation (1986)(Americana Software)[cr Byterapers]">
 		<description>Halley Mission, The - A Shuttle Simulation (1986)(Americana Software)[cr Byterapers]</description>
@@ -1139,6 +1155,14 @@
 	<game name="Interdictor Pilot (1984)(Supersoft)[a4]">
 		<description>Interdictor Pilot (1984)(Supersoft)[a4]</description>
 		<rom name="Interdictor Pilot (1984)(Supersoft)[a4].t64" size="26592" crc="dd203765" md5="064d3fb5231b5c8791dd597c5c0d78f2" sha1="f2b0b7d9aa269a8147180a5b035e0b61d4b3ae32"/>
+	</game>
+	<game name="IQ (1987)(CRL)[cr HTL]">
+		<description>IQ (1987)(CRL)[cr HTL]</description>
+		<rom name="IQ (1987)(CRL)[cr HTL].t64" size="18258" crc="3dfe2ea1" md5="0bc0e2580533397de8afc5bb640df547" sha1="171b95cd9c524d46885b6f39553e9db6eea177a0"/>
+	</game>
+	<game name="IQ (1987)(CRL)[cr HTL][a]">
+		<description>IQ (1987)(CRL)[cr HTL][a]</description>
+		<rom name="IQ (1987)(CRL)[cr HTL][a].t64" size="23009" crc="b5f81121" md5="5b0e747454db8fe5857972c8f7d6001c" sha1="e1e10b728c5f7d63ab2a4ddd8698cd8cfd266f38"/>
 	</game>
 	<game name="Jagd auf Roter Oktober (1987)(Grandslam Entertainment)(de)[cr Panzerknacker]">
 		<description>Jagd auf Roter Oktober (1987)(Grandslam Entertainment)(de)[cr Panzerknacker]</description>
@@ -1376,6 +1400,86 @@
 		<description>Mondlandung (1984)(SYBEX Verlag)(de)[cr Rio Baan]</description>
 		<rom name="Mondlandung (1984)(SYBEX Verlag)(de)[cr Rio Baan].t64" size="4296" crc="a2bbbce0" md5="312c85cdab8cc27ea5c40e3b446d0a3f" sha1="92b1ff44860acd3c6ca01d6cc0045cbacb04fa44"/>
 	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson).t64" size="38963" crc="2417c416" md5="618392fcfc845e5a08cf8f05d3a0c849" sha1="42ea9d8f340bdf6aa8101c3298bcb4690d0ea440"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[a]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[a]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[a].t64" size="38003" crc="9c141f22" md5="6340092dd1f0873558884a9fc5e4d7ab" sha1="3c864aaad1f694c066b8a875ab41d19d2ffd829d"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Acrise]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Acrise]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Acrise].t64" size="43881" crc="bb8d8cb2" md5="59e76170f2c3e581b8dcf3059f9f3d25" sha1="0e7dd97aa33ffbb61dddfdaf85c93cd511a206d7"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Action+EMP][Docs]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Action+EMP][Docs]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Action+EMP][Docs].t64" size="64002" crc="58021a70" md5="20cd2fb4f009f3b3bbb9694bfd92bf8b" sha1="075b1de2d93b296db32dcfb9cc6695eaec650874"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr CHR]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr CHR]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr CHR].t64" size="48341" crc="b4e06e42" md5="30e0dd3ac29d0b740d53b93a58a44def" sha1="3849209903726d2cfa3c6b08619db9580dbb4590"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr CHR][a]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr CHR][a]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr CHR][a].t64" size="48277" crc="7714ef54" md5="fc0ca733ff4c7fea4d597cf1f6e97b03" sha1="cd83655c81f1a6d6c92eccc702b855224e45ff70"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Digital Designs]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Digital Designs]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Digital Designs].t64" size="41666" crc="ad9e74e6" md5="825aa7d022ae206d9701df69e4daee7e" sha1="c4d38df69a6e381444a72d9d5f3b0811d076815c"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Digital Designs][a]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Digital Designs][a]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Digital Designs][a].t64" size="42562" crc="fba9e623" md5="97e0bd810d57687360a7d434659329fe" sha1="126536cb843ccd83fbaa6faf942621f497288953"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action].t64" size="52222" crc="fec4b178" md5="6f11f7439430f5cc80401b8de5af5cc4" sha1="55406fd13fd0521c62d8bc0e6fbd585a0deed894"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action][a]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action][a]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action][a].t64" size="52222" crc="34fa2c7c" md5="dfb6153a42407f4d6643fb126fe5129c" sha1="de95814a93b894eb5b5cd4aa9568105016328206"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action][a2]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action][a2]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr EMP+Action][a2].t64" size="51294" crc="7872b0d7" md5="fe8b9a8183dc7aca200acc37a3f769d0" sha1="979b8b62711dfefe5486d2d019d25b488fcece8d"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Legend][t +4 Legend]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Legend][t +4 Legend]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Legend][t +4 Legend].t64" size="40274" crc="3383be5d" md5="f1daa7f36e3b55136f3e670c31453ab2" sha1="e31eb0970d76322edb53bde11ecb134948300e0c"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Parados]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Parados]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Parados].t64" size="40630" crc="da0a1c6a" md5="96eafa81a1e7ab946a60c002acd910f0" sha1="267d0bca0423610844a270ac43a60052b3b6f948"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr SCS]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr SCS]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr SCS].t64" size="38931" crc="81f10c36" md5="617e171a754d50bd126a4b46a7f91dfd" sha1="aba9d829db34cf5c91944f32be175ca0df1a15d3"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Synnon]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Synnon]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Synnon].t64" size="36875" crc="7e6cad27" md5="538de4c56e4f0203fe15e518d4046d58" sha1="8dd96c6258193d1ed43a2d996c959f68a093931b"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Synnon][a]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Synnon][a]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Synnon][a].t64" size="36843" crc="a1547d9d" md5="97edf7abc4fb04a1c1cd050b11d45629" sha1="562afbc68cfd386ce7f6933eed9ee198e4780e6d"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Triad]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Triad]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Triad].t64" size="36815" crc="13ea7091" md5="87545d2a6155f56b1198f20ab54641b1" sha1="b1f8b15401e9580470296c69b501c74c523796ea"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Triumwyrat][t +8 Triumwyrat]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[cr Triumwyrat][t +8 Triumwyrat]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[cr Triumwyrat][t +8 Triumwyrat].t64" size="43727" crc="fac3f672" md5="99b00c9b6cfc8c5d854126fa00d55574" sha1="fd72d333bce1e158373af20e62c48f408aa7c260"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[h Action+EMP]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[h Action+EMP]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[h Action+EMP].t64" size="51294" crc="7ee8c91c" md5="ad064136f3e06facf072779231541aed" sha1="4825e7dfed8d84ae418294bc61dda1f602496bd3"/>
+	</game>
+	<game name="Moonfall (1991)(21st Century Entertainment Hewson)[h CHR]">
+		<description>Moonfall (1991)(21st Century Entertainment Hewson)[h CHR]</description>
+		<rom name="Moonfall (1991)(21st Century Entertainment Hewson)[h CHR].t64" size="39971" crc="39180bc5" md5="87ff3215c39e025f81bc3f5d2e303d34" sha1="8f30e6880ae4fd88d86b1fd6bf37180320bae1f4"/>
+	</game>
 	<game name="NASA Simulator - Space Shuttle (19xx)(Köhl, Uli)(de)">
 		<description>NASA Simulator - Space Shuttle (19xx)(Köhl, Uli)(de)</description>
 		<rom name="NASA Simulator - Space Shuttle (19xx)(Köhl, Uli)(de).t64" size="31193" crc="d5944d9b" md5="861bca9e23e15146d248c329e0c5e7c5" sha1="327150dcdea932654384e8ee9968b22bd4433ded"/>
@@ -1496,6 +1600,14 @@
 		<description>Power at Sea (1987)(Accolade)[cr OUG]</description>
 		<rom name="Power at Sea (1987)(Accolade)[cr OUG].t64" size="9072" crc="05e259bd" md5="446020aa905d4abde40eeb14150c52e7" sha1="4e5381439fc912e5ae7cf0e976e965d4fee27db2"/>
 	</game>
+	<game name="Power Box (19xx)(Ashley Greenup)">
+		<description>Power Box (19xx)(Ashley Greenup)</description>
+		<rom name="Power Box (19xx)(Ashley Greenup).t64" size="145348" crc="76390e56" md5="8c9c3540955f8d9574e2a1d39b328edf" sha1="1988c30a58f434b96497a21024950e6e40fc179c"/>
+	</game>
+	<game name="Power Box (19xx)(Ashley Greenup)[a]">
+		<description>Power Box (19xx)(Ashley Greenup)[a]</description>
+		<rom name="Power Box (19xx)(Ashley Greenup)[a].t64" size="145348" crc="278ffea4" md5="f4cb7bbcd7e26db4d23461fc1f8a9309" sha1="104d1238b09f1a720cfeff702f0eeec3e758ad07"/>
+	</game>
 	<game name="Power Signal Box (1988)(Dee-Kay Systems)">
 		<description>Power Signal Box (1988)(Dee-Kay Systems)</description>
 		<rom name="Power Signal Box (1988)(Dee-Kay Systems).t64" size="29163" crc="f777fe91" md5="149e15d6cf36f092c2389bab7605616e" sha1="23533e1185f3d9f8a55e81fe2dc9ffdc4c983e6a"/>
@@ -1548,6 +1660,10 @@
 		<description>Rail Traffic Control - Carlisle (1991)(Ashley Greenup)</description>
 		<rom name="Rail Traffic Control - Carlisle (1991)(Ashley Greenup).t64" size="11711" crc="5c2443f7" md5="4fc8894383fd56c7c18fc602f3c5a392" sha1="fa5ddad7affeec2dfa02f2c47b0965bc527ae2f2"/>
 	</game>
+	<game name="Rail Traffic Control - Carlisle (1991)(Ashley Greenup)[cr DR]">
+		<description>Rail Traffic Control - Carlisle (1991)(Ashley Greenup)[cr DR]</description>
+		<rom name="Rail Traffic Control - Carlisle (1991)(Ashley Greenup)[cr DR].t64" size="16683" crc="7e1c93f1" md5="c01514231177d98d827250e48848ecf1" sha1="ffeaf9e9496cad452e6e156dac6e0ee1b5c0e590"/>
+	</game>
 	<game name="Rail Traffic Control - Crewe (1987)(Dee-Kay Systems)">
 		<description>Rail Traffic Control - Crewe (1987)(Dee-Kay Systems)</description>
 		<rom name="Rail Traffic Control - Crewe (1987)(Dee-Kay Systems).t64" size="18672" crc="c8edf0a7" md5="b1a3f469153a050091ae714c5e7b81a4" sha1="7fd3ce1eef1668c52705461deccdaed4633ffa73"/>
@@ -1591,6 +1707,10 @@
 	<game name="Rail Traffic Control - Peterborough (1992)(-)[cr DR]">
 		<description>Rail Traffic Control - Peterborough (1992)(-)[cr DR]</description>
 		<rom name="Rail Traffic Control - Peterborough (1992)(-)[cr DR].t64" size="12006" crc="59442da9" md5="e511cce246b6156717533554ba9e40f7" sha1="4f4f16903af47f4624041ae7a19f5e9b219d82e1"/>
+	</game>
+	<game name="Rail Traffic Control - Reading (1988)(-)[cr DR]">
+		<description>Rail Traffic Control - Reading (1988)(-)[cr DR]</description>
+		<rom name="Rail Traffic Control - Reading (1988)(-)[cr DR].t64" size="12404" crc="78af6f55" md5="27045b98b1dfa5b332cf912fa8a0d36e" sha1="7241312cd678e57c4c1af9183a1141548ec31b0a"/>
 	</game>
 	<game name="Rail Traffic Control - Reading (1988)(Dee-Kay Systems)[cr DR]">
 		<description>Rail Traffic Control - Reading (1988)(Dee-Kay Systems)[cr DR]</description>
@@ -1840,6 +1960,14 @@
 		<description>Sprinter (1984)(Aackosoft)(nl)</description>
 		<rom name="Sprinter (1984)(Aackosoft)(nl).t64" size="12906" crc="2ad93e2b" md5="4a2d730be520d7ddc7d8c2a15af7382d" sha1="467387840c7b304b7c0751ff802e2291a0918e1b"/>
 	</game>
+	<game name="Sprinter (1984)(Clubosoft)(nl)">
+		<description>Sprinter (1984)(Clubosoft)(nl)</description>
+		<rom name="Sprinter (1984)(Clubosoft)(nl).t64" size="13981" crc="233ad9dc" md5="46d19cce33de92ee1549e0f0433fab83" sha1="036b33ee5803a188de9cdcf99dfe545b3cdc6131"/>
+	</game>
+	<game name="Sprinter (1984)(Clubosoft)(nl)[a]">
+		<description>Sprinter (1984)(Clubosoft)(nl)[a]</description>
+		<rom name="Sprinter (1984)(Clubosoft)(nl)[a].t64" size="13981" crc="84e8b578" md5="b2e6f5d9ecf96f48f49126b64fd7c392" sha1="8cdaad73b524a82cbd7a464bf60317739e610ced"/>
+	</game>
 	<game name="Star Treck (1989)(W., Volker)(de)[cr ASS]">
 		<description>Star Treck (1989)(W., Volker)(de)[cr ASS]</description>
 		<rom name="Star Treck (1989)(W., Volker)(de)[cr ASS].t64" size="17515" crc="7dc4d3cf" md5="4e039d35087cf6d1258652f2fd5225bb" sha1="7dea729d451d33c9fd694f97b07c0c4054bd02b0"/>
@@ -1908,9 +2036,9 @@
 		<description>Submarine Warfare (1982)(PS Enterprises)</description>
 		<rom name="Submarine Warfare (1982)(PS Enterprises).t64" size="14730" crc="3d9b31e2" md5="f14a5d2003b446935e8d9596efb3d304" sha1="8b0629a87d69b0a0b0f6540e89c04af48a7ac6e8"/>
 	</game>
-	<game name="Super Trains (1984)(Courbois Software)(nl)">
-		<description>Super Trains (1984)(Courbois Software)(nl)</description>
-		<rom name="Super Trains (1984)(Courbois Software)(nl).t64" size="3968" crc="75d27547" md5="07da83908af8140e8d90b1f87d04a597" sha1="161274e0dd99adab8cdaf4f6acd4ca0f84c253da"/>
+	<game name="Super Trains (1984)(Courbois)(nl)">
+		<description>Super Trains (1984)(Courbois)(nl)</description>
+		<rom name="Super Trains (1984)(Courbois)(nl).t64" size="3968" crc="75d27547" md5="07da83908af8140e8d90b1f87d04a597" sha1="161274e0dd99adab8cdaf4f6acd4ca0f84c253da"/>
 	</game>
 	<game name="Supercoptor (1984)(Mondatta)">
 		<description>Supercoptor (1984)(Mondatta)</description>
@@ -2132,9 +2260,9 @@
 		<description>Vida (1985)(Proedi Editorial S.A - K64)(es)[cr Rio Baan]</description>
 		<rom name="Vida (1985)(Proedi Editorial S.A - K64)(es)[cr Rio Baan].t64" size="1579" crc="6ee8c430" md5="165f1e123de7c53bc25e50fc902a39f1" sha1="b624137963ec4b845efa19b104f2ad81baf630e4"/>
 	</game>
-	<game name="Vlieg-Simulator (1984)(Courbois Software)(nl)">
-		<description>Vlieg-Simulator (1984)(Courbois Software)(nl)</description>
-		<rom name="Vlieg-Simulator (1984)(Courbois Software)(nl).t64" size="10164" crc="e42e8401" md5="80fde4fc356cbc2698375fca2a20bda3" sha1="87a321156f9dba00bc184f71a42dda1a271cbdfa"/>
+	<game name="Vlieg-Simulator (1984)(Courbois)(nl)">
+		<description>Vlieg-Simulator (1984)(Courbois)(nl)</description>
+		<rom name="Vlieg-Simulator (1984)(Courbois)(nl).t64" size="10164" crc="e42e8401" md5="80fde4fc356cbc2698375fca2a20bda3" sha1="87a321156f9dba00bc184f71a42dda1a271cbdfa"/>
 	</game>
 	<game name="Voters (2020)(Rapella, Eugenio)(PD)">
 		<description>Voters (2020)(Rapella, Eugenio)(PD)</description>

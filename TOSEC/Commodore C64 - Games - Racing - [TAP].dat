@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [TAP]</name>
-		<description>Commodore C64 - Games - Racing - [TAP] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Racing - [TAP] (TOSEC-v2023-04-29)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-04-29</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -39,6 +39,10 @@
 	<game name="500cc Grand Prix (1987)(Microids)">
 		<description>500cc Grand Prix (1987)(Microids)</description>
 		<rom name="500cc Grand Prix (1987)(Microids).tap" size="454156" crc="f4b303a3" md5="211a48328df58855b3380a6a2fe468d8" sha1="68505ddd7b43312f1519a79ff762e20c24f02160"/>
+	</game>
+	<game name="500cc Grand Prix (1987)(Microids)[a]">
+		<description>500cc Grand Prix (1987)(Microids)[a]</description>
+		<rom name="500cc Grand Prix (1987)(Microids)[a].tap" size="510150" crc="467d4de2" md5="cf02a9331ff3b259a617b581233e3f48" sha1="7e7ce1fa2d2de8122db2b866029c62a5cec4e8c0"/>
 	</game>
 	<game name="500cc motormanager (1991)(Simulmondo)(Side A)">
 		<description>500cc motormanager (1991)(Simulmondo)(Side A)</description>
@@ -168,6 +172,18 @@
 		<description>ATV - All Terrain Vehicle Simulator (1987)(Codemasters)[o]</description>
 		<rom name="ATV - All Terrain Vehicle Simulator (1987)(Codemasters)[o].tap" size="815381" crc="d87e4aad" md5="532a19d3d87433e70953c9f87dd977ab" sha1="ec8950d93180d3756364df5eec013c59bd9eae2d"/>
 	</game>
+	<game name="Autotest Simulator (1991)(Byte-Back)">
+		<description>Autotest Simulator (1991)(Byte-Back)</description>
+		<rom name="Autotest Simulator (1991)(Byte-Back).tap" size="359246" crc="3a25ada7" md5="8865f0aa48db1d0805e5abddf72c22d4" sha1="9b0f26b5f092146d754c75935dff6fa4e797348c"/>
+	</game>
+	<game name="Autotest Simulator (1991)(Byte-Back)[a]">
+		<description>Autotest Simulator (1991)(Byte-Back)[a]</description>
+		<rom name="Autotest Simulator (1991)(Byte-Back)[a].tap" size="359270" crc="eedde8ef" md5="b3c0b4a91c7c4a69833d1318f1d0576b" sha1="60bc8f63b3af5eece362644afc27976c89bff114"/>
+	</game>
+	<game name="Autotest Simulator (1991)(Byte-Back)[a2]">
+		<description>Autotest Simulator (1991)(Byte-Back)[a2]</description>
+		<rom name="Autotest Simulator (1991)(Byte-Back)[a2].tap" size="352899" crc="64fb1329" md5="94d4beff04e1a4c1a9f99ab798ee7aec" sha1="cf0ed49f8f69e37eed11ff704e0e32dd8b1b5f67"/>
+	</game>
 	<game name="Badlands (1990)(Domark)">
 		<description>Badlands (1990)(Domark)</description>
 		<rom name="Badlands (1990)(Domark).tap" size="607904" crc="f5b2fab8" md5="75d4f458c151bd3a18b02a5b64fe7fb6" sha1="6943f3a385155fc3e71d365c12c854b8b016579a"/>
@@ -248,9 +264,9 @@
 		<description>BMX Racers (1985)(Mastertronic)[u][a]</description>
 		<rom name="BMX Racers (1985)(Mastertronic)[u][a].tap" size="32768" crc="47f58b2f" md5="73244ca2282467dbe96f44d0ed489fa0" sha1="5116441ab223014f34adbf9347ab71c7d1aa154f"/>
 	</game>
-	<game name="BMX Racers V1 (1984)(Mastertronic)">
-		<description>BMX Racers V1 (1984)(Mastertronic)</description>
-		<rom name="BMX Racers V1 (1984)(Mastertronic).tap" size="892794" crc="de4f979a" md5="54e56b229c528441838900c7000eb934" sha1="e1771ea6bd3029a3a6026681b388abdb526311b9"/>
+	<game name="BMX Racers v1 (1984)(Mastertronic)">
+		<description>BMX Racers v1 (1984)(Mastertronic)</description>
+		<rom name="BMX Racers v1 (1984)(Mastertronic).tap" size="892794" crc="de4f979a" md5="54e56b229c528441838900c7000eb934" sha1="e1771ea6bd3029a3a6026681b388abdb526311b9"/>
 	</game>
 	<game name="Brands Deluxe (1983)(Alligata)">
 		<description>Brands Deluxe (1983)(Alligata)</description>
@@ -292,6 +308,10 @@
 		<description>Buggy Boy (1990)(Elite)[a7]</description>
 		<rom name="Buggy Boy (1990)(Elite)[a7].tap" size="98304" crc="da2aea11" md5="718024c928a600ad595682a0ac3bb5a3" sha1="cbf2aa30335e47113af4992287f60ce795544c59"/>
 	</game>
+	<game name="Bumping Buggies (1984)(Bubble Bus)">
+		<description>Bumping Buggies (1984)(Bubble Bus)</description>
+		<rom name="Bumping Buggies (1984)(Bubble Bus).tap" size="1208661" crc="7ce80ba7" md5="6c4ea25a10d9aaaced40f489f4f0d8fd" sha1="d8d7d55ca96db69ca88c71adb3bf6e36936d2f42"/>
+	</game>
 	<game name="Burnin&apos; Rubber (1983)(Colosoftware)">
 		<description>Burnin&apos; Rubber (1983)(Colosoftware)</description>
 		<rom name="Burnin&apos; Rubber (1983)(Colosoftware).tap" size="1484104" crc="0965ed29" md5="b40c1a5fe9a88dbd4fd0c333278aed88" sha1="2bd12fd2858fd8927deebc5f251a91edc705635a"/>
@@ -319,6 +339,14 @@
 	<game name="Carnage (1993)(Zeppelin Games)[a4]">
 		<description>Carnage (1993)(Zeppelin Games)[a4]</description>
 		<rom name="Carnage (1993)(Zeppelin Games)[a4].tap" size="924944" crc="fcd3e41d" md5="7a0b97d9285686ac7d3d06fdfecf53e8" sha1="148777362d92164633c7710539d91fb0c055aa6a"/>
+	</game>
+	<game name="Carnage (1993)(Zeppelin Games)[a5]">
+		<description>Carnage (1993)(Zeppelin Games)[a5]</description>
+		<rom name="Carnage (1993)(Zeppelin Games)[a5].tap" size="924945" crc="9f7a42a6" md5="78fb8c33e8e3bd81f01dfb0dc734a6fe" sha1="0123cf76a3b00cee577c1880bcd6f600a6dc99bd"/>
+	</game>
+	<game name="Carnage (1993)(Zeppelin Games)[a6]">
+		<description>Carnage (1993)(Zeppelin Games)[a6]</description>
+		<rom name="Carnage (1993)(Zeppelin Games)[a6].tap" size="940499" crc="ee4aa6a9" md5="850bc7f5226250843d7e9119044a5abc" sha1="487185da6ba7996c44728c56f9cc22e196222f1a"/>
 	</game>
 	<game name="Carnage (1993)(Zeppelin Games)[b]">
 		<description>Carnage (1993)(Zeppelin Games)[b]</description>
@@ -380,6 +408,10 @@
 		<description>Chevy Chase (1991)(Hi-Tec)[a5]</description>
 		<rom name="Chevy Chase (1991)(Hi-Tec)[a5].tap" size="614878" crc="6a59e2e3" md5="3f6c5792d4c97a824dbfac3ce5670142" sha1="f5f2f4ef1ed0773a4ce572e242fbcc7463fdbc62"/>
 	</game>
+	<game name="Chevy Chase (1991)(Hi-Tec)[a6]">
+		<description>Chevy Chase (1991)(Hi-Tec)[a6]</description>
+		<rom name="Chevy Chase (1991)(Hi-Tec)[a6].tap" size="614878" crc="b20d9d10" md5="38894aaf5186a969b395940fb8c88b39" sha1="465dc1f8f68bbd116b9316aaa4451f52a63cb3a8"/>
+	</game>
 	<game name="Chevy Chase (1991)(Hi-Tec)[o]">
 		<description>Chevy Chase (1991)(Hi-Tec)[o]</description>
 		<rom name="Chevy Chase (1991)(Hi-Tec)[o].tap" size="618874" crc="16dd1867" md5="0e8227e83a120110b9f64126beb945a6" sha1="4f1b2da538ca109c1faace15ba4fd65633ac5a4b"/>
@@ -395,6 +427,10 @@
 	<game name="Continental Circus (1989)(Virgin)[a2]">
 		<description>Continental Circus (1989)(Virgin)[a2]</description>
 		<rom name="Continental Circus (1989)(Virgin)[a2].tap" size="569886" crc="98b28a25" md5="b1e1d16dc599073b80a88520f3611a2b" sha1="037eb85a6db2ac3bd32a1c114eaf2fe1886d2649"/>
+	</game>
+	<game name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)">
+		<description>Cosmic Causeway - Trailblazer II (1987)(Gremlin)</description>
+		<rom name="Cosmic Causeway - Trailblazer II (1987)(Gremlin).tap" size="566034" crc="643518cc" md5="9017a4dd08f2c8d1c9d32b9a0e77905e" sha1="ec8ef2beb5a23c2774817131f0ae54e750434063"/>
 	</game>
 	<game name="Crazy Cars (1988)(Titus)">
 		<description>Crazy Cars (1988)(Titus)</description>
@@ -431,6 +467,10 @@
 	<game name="Crazy Cars (1988)(Titus)[a6]">
 		<description>Crazy Cars (1988)(Titus)[a6]</description>
 		<rom name="Crazy Cars (1988)(Titus)[a6].tap" size="813712" crc="a78986ea" md5="942b4d15f5449389cadfe2234c49b425" sha1="95fe7f2c5af15abd881ced919fa3010cbe281e0c"/>
+	</game>
+	<game name="Crazy Cars (1988)(Titus)[a7]">
+		<description>Crazy Cars (1988)(Titus)[a7]</description>
+		<rom name="Crazy Cars (1988)(Titus)[a7].tap" size="497987" crc="2f30d165" md5="b56b6d40d01b9379f29bac15e6cbc706" sha1="efd12673de8b7de471cf9271371a072fa80c3779"/>
 	</game>
 	<game name="Crazy Cars (1988)(Titus)[u]">
 		<description>Crazy Cars (1988)(Titus)[u]</description>
@@ -496,6 +536,10 @@
 		<description>Elektra Glide (1986)(English Software)[a2]</description>
 		<rom name="Elektra Glide (1986)(English Software)[a2].tap" size="477901" crc="d313d064" md5="968b2877b02ee6d14b22262ef987d9ff" sha1="9b91e8116a233b528d5cada07311e09a98b5112e"/>
 	</game>
+	<game name="Elektra Glide (1986)(English Software)[a3]">
+		<description>Elektra Glide (1986)(English Software)[a3]</description>
+		<rom name="Elektra Glide (1986)(English Software)[a3].tap" size="477932" crc="c419b00b" md5="5c3a033727cd1f096fb0edc176a78009" sha1="016d94c7d4c59a105cf7f8f0c9650b50e4254e96"/>
+	</game>
 	<game name="Enduro Racer (1987)(Activision)">
 		<description>Enduro Racer (1987)(Activision)</description>
 		<rom name="Enduro Racer (1987)(Activision).tap" size="466498" crc="b082d0cb" md5="898be209b76aee0dd3cb01abcd72630e" sha1="3b5e7a8a732557979ebea0c4551ca24605529bb3"/>
@@ -531,6 +575,14 @@
 	<game name="Enduro Racer (1989)(Hit Squad)">
 		<description>Enduro Racer (1989)(Hit Squad)</description>
 		<rom name="Enduro Racer (1989)(Hit Squad).tap" size="495807" crc="2eef2b8a" md5="cfa6c3704e642192494506f596f3bf64" sha1="18c88077648003dca71ed81edc3af3efea313991"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)">
+		<description>Fast (1992)(Future Publishing)</description>
+		<rom name="Fast (1992)(Future Publishing).tap" size="310820" crc="ce366e3f" md5="19160ba70ccba2470cbca0402361a821" sha1="5e2b031da79710ce59dcf886b9715fae12ff1694"/>
+	</game>
+	<game name="Fast (1992)(Future Publishing)[a]">
+		<description>Fast (1992)(Future Publishing)[a]</description>
+		<rom name="Fast (1992)(Future Publishing)[a].tap" size="310390" crc="e41bd9b5" md5="6fac33c8c054d34b4370d1c466649a9a" sha1="68dfe0c738361e3e993ab164426589310b8a0eb1"/>
 	</game>
 	<game name="Ferrari Formula One (1990)(Electronic Arts)">
 		<description>Ferrari Formula One (1990)(Electronic Arts)</description>
@@ -700,6 +752,34 @@
 		<description>Great American Cross-Country Road Race, The (1985)(Activision)[a6]</description>
 		<rom name="Great American Cross-Country Road Race, The (1985)(Activision)[a6].tap" size="666401" crc="2073a0ae" md5="8263057afe5513c962958bb0cebdcca5" sha1="fee1d4b65cf0efee08626cf426107127d84d27a8"/>
 	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen).tap" size="530655" crc="99f9aeb6" md5="2640838b8b45fa6921b1434aadabeae6" sha1="1dfaf6b04bb8ec4d88189d44f14d1a4e6f019600"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[a]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[a]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[a].tap" size="530598" crc="5a7d0b7b" md5="7714a132ab048bae8fab641a6fa07d91" sha1="0db25959f9af460655a4d12e7baecbb5d24a6294"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[a2]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[a2]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[a2].tap" size="530598" crc="f6bb57e5" md5="802a862678e2bc0236118e40d834b65a" sha1="0be16e2a2cbf6602e1b9e00347ff588fc8aa3a6b"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[a3]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[a3]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[a3].tap" size="530654" crc="4a584ce2" md5="aae590c4648f81ef957ed7ebaa7cad18" sha1="a3d61587a6a38db9cd19e44caa7dffd6e5dd64f3"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[a4]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[a4]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[a4].tap" size="530601" crc="b443e41d" md5="ff25f6b5dcacac0cb4321695238c7ea5" sha1="cb7d9938ea6ba95150b4c9be15586d020d914f66"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[a5]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[a5]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[a5].tap" size="530598" crc="9d78d1d8" md5="e0034c524b7dc788cee7317bd402c2f0" sha1="0103e5de434e48ea1630524dc8c7142e34d7da36"/>
+	</game>
+	<game name="Hard Drivin&apos; (1989)(Domark - Tengen)[b]">
+		<description>Hard Drivin&apos; (1989)(Domark - Tengen)[b]</description>
+		<rom name="Hard Drivin&apos; (1989)(Domark - Tengen)[b].tap" size="530655" crc="91ac6774" md5="68125ff1d698fb6846fbe59b2530bac7" sha1="ab0f9196d65a98af19166f542a547dacff029e84"/>
+	</game>
 	<game name="Indy Heat (1991)(Storm - The Sales Curve)(Side A)">
 		<description>Indy Heat (1991)(Storm - The Sales Curve)(Side A)</description>
 		<rom name="Indy Heat (1991)(Storm - The Sales Curve)(Side A).tap" size="425470" crc="b86caf7f" md5="1481bd8e8ee60ab91f80199448d9dafc" sha1="39d82397498bd4e6474996238c2d9a01943a7ac2"/>
@@ -727,6 +807,14 @@
 	<game name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a]">
 		<description>Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a]</description>
 		<rom name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a].tap" size="547742" crc="3f194736" md5="2e7c2179a057ed6f1d90a66fb9c685c2" sha1="0f56d03f2be35f1fc6bdb2a027c213a74b8cb937"/>
+	</game>
+	<game name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a2]">
+		<description>Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a2]</description>
+		<rom name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a2].tap" size="547742" crc="99557dcc" md5="4f3d9f1de4b28394a01335192362f62d" sha1="826920d6a0a2555bf9fd78c5299d192f9dfb56ec"/>
+	</game>
+	<game name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a3]">
+		<description>Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a3]</description>
+		<rom name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (1990)(Virgin Mastertronic)[a3].tap" size="547742" crc="63bf1d3c" md5="8d7a0f574e68d2196493c49080e6d956" sha1="a5bfd6f7fd0a3741f4c8c252f582a53aba4a6676"/>
 	</game>
 	<game name="Kikstart (1984)(Mastertronic)">
 		<description>Kikstart (1984)(Mastertronic)</description>
@@ -948,6 +1036,10 @@
 		<description>Lotus Esprit Turbo Challenge (1990)(Gremlin)(Side B)[a]</description>
 		<rom name="Lotus Esprit Turbo Challenge (1990)(Gremlin)(Side B)[a].tap" size="2145276" crc="48caa111" md5="909b4bcb76c1cad94cac7cb3eb4c9daa" sha1="a5e89cf2007dd7e992ebce2f06017bf582936806"/>
 	</game>
+	<game name="Lotus Esprit Turbo Challenge (1990)(Gremlin)(Side B)[a2]">
+		<description>Lotus Esprit Turbo Challenge (1990)(Gremlin)(Side B)[a2]</description>
+		<rom name="Lotus Esprit Turbo Challenge (1990)(Gremlin)(Side B)[a2].tap" size="2145143" crc="9f5fbcd8" md5="50f7a8cc5bf0235e5127e71886906f65" sha1="0a75ed7d75180fbc42b26079ff2f08ed52deef2d"/>
+	</game>
 	<game name="Mean Machine (1991)(Codemasters)">
 		<description>Mean Machine (1991)(Codemasters)</description>
 		<rom name="Mean Machine (1991)(Codemasters).tap" size="578788" crc="7da6be43" md5="e3cac20d3b4235f82b0a486533975684" sha1="6071a3a97b251c0d737128de9e957583748b4d1f"/>
@@ -959,6 +1051,10 @@
 	<game name="Mean Streak (1987)(Mirrorsoft)[a]">
 		<description>Mean Streak (1987)(Mirrorsoft)[a]</description>
 		<rom name="Mean Streak (1987)(Mirrorsoft)[a].tap" size="608025" crc="fe9ffcf8" md5="1b8610d908eb97c44d082ee838c5c038" sha1="cac15886fab746111654d3061f485e8b1bf1d7a4"/>
+	</game>
+	<game name="Mean Streak (1987)(Mirrorsoft)[a2]">
+		<description>Mean Streak (1987)(Mirrorsoft)[a2]</description>
+		<rom name="Mean Streak (1987)(Mirrorsoft)[a2].tap" size="608407" crc="85984931" md5="a2ed57bb513d69ab919c2c70cb29ac49" sha1="506188dd9ded3ae4126d4dc9ddc0f88b313cdbdc"/>
 	</game>
 	<game name="Mean Streak (1987)(Mirrorsoft)[b]">
 		<description>Mean Streak (1987)(Mirrorsoft)[b]</description>
@@ -1067,6 +1163,10 @@
 	<game name="Out Run (1987)(US Gold)(Side A)">
 		<description>Out Run (1987)(US Gold)(Side A)</description>
 		<rom name="Out Run (1987)(US Gold)(Side A).tap" size="1258728" crc="30effdc4" md5="8dfa04aacc1af9a40ea0b38625fa82ed" sha1="702bdf023d939127fdd708d80441b2bdae2f0182"/>
+	</game>
+	<game name="Out Run (1987)(US Gold)(Side A)[a]">
+		<description>Out Run (1987)(US Gold)(Side A)[a]</description>
+		<rom name="Out Run (1987)(US Gold)(Side A)[a].tap" size="1258732" crc="476c7034" md5="1ffc7308e916150e07ba7bb767d2f15e" sha1="95868bddccdd7d4009138a5b3b7960080a877dc3"/>
 	</game>
 	<game name="Out Run (1987)(US Gold)(Side B)">
 		<description>Out Run (1987)(US Gold)(Side B)</description>
@@ -1348,6 +1448,14 @@
 		<description>Race, The (1990)(Players Premier)</description>
 		<rom name="Race, The (1990)(Players Premier).tap" size="352526" crc="09b62ebf" md5="c24f978f6b57e3ff7d7e6a4d7a564f9d" sha1="3118e879d532492dc0fb4745f6be2597f09f57ea"/>
 	</game>
+	<game name="Rally Cross (1989)(Anco)">
+		<description>Rally Cross (1989)(Anco)</description>
+		<rom name="Rally Cross (1989)(Anco).tap" size="927998" crc="e60c3d75" md5="07eddd8b1416bb514ab65858944238f8" sha1="dc50c5112e07f4cdb2208ce226105565d2b1f7b8"/>
+	</game>
+	<game name="Rally Cross (1989)(Anco)[a]">
+		<description>Rally Cross (1989)(Anco)[a]</description>
+		<rom name="Rally Cross (1989)(Anco)[a].tap" size="927998" crc="34810dc0" md5="d58513e6262b524436403524d04d9fc6" sha1="2e15d74eb7c16d529dd5b9edd9dfa6014ab159fc"/>
+	</game>
 	<game name="Rally Cross (1989)(Codemasters)">
 		<description>Rally Cross (1989)(Codemasters)</description>
 		<rom name="Rally Cross (1989)(Codemasters).tap" size="1147219" crc="d6f9a7af" md5="3198a7c41529b6794bddcc464caa8f0b" sha1="7252b2ba2b670b5c7177f882e0b820d532336192"/>
@@ -1412,6 +1520,14 @@
 		<description>Rik the Roadie (1988)(Alternative)[a2]</description>
 		<rom name="Rik the Roadie (1988)(Alternative)[a2].tap" size="397414" crc="c370974d" md5="7593fbb1838a05b47c36cc804d3ae1be" sha1="2e4ec4a00834913ce10a44cc504d3d069aa01e92"/>
 	</game>
+	<game name="Road Blasters (1988)(Erbe)(Side A)">
+		<description>Road Blasters (1988)(Erbe)(Side A)</description>
+		<rom name="Road Blasters (1988)(Erbe)(Side A).tap" size="662834" crc="b666b60d" md5="702af23d91f4e0ea531224b7685fa4fb" sha1="ee11a7217181816c55d17162a9af40c9c205ea2f"/>
+	</game>
+	<game name="Road Blasters (1988)(Erbe)(Side B)">
+		<description>Road Blasters (1988)(Erbe)(Side B)</description>
+		<rom name="Road Blasters (1988)(Erbe)(Side B).tap" size="633680" crc="128ecfde" md5="46edc3bdbb1263db24d3ae355ebdcf8d" sha1="a8b13377475291461859f996c900f6666fa348a7"/>
+	</game>
 	<game name="Road Blasters (1988)(US Gold)(Side A)">
 		<description>Road Blasters (1988)(US Gold)(Side A)</description>
 		<rom name="Road Blasters (1988)(US Gold)(Side A).tap" size="662834" crc="3c04cdfe" md5="d71497ea2ac6b3d00a99acc8d2573358" sha1="81a909da3f709fbfafbb73a5ae7ce920c25e3240"/>
@@ -1423,6 +1539,14 @@
 	<game name="Road Blasters (1988)(US Gold)(Side A)[a2]">
 		<description>Road Blasters (1988)(US Gold)(Side A)[a2]</description>
 		<rom name="Road Blasters (1988)(US Gold)(Side A)[a2].tap" size="662849" crc="fab64db7" md5="e582c20c4b11816eae6f3ca764b06c01" sha1="2963b2ed62c9c365640f7a80a7d97692753a2872"/>
+	</game>
+	<game name="Road Blasters (1988)(US Gold)(Side A)[a3]">
+		<description>Road Blasters (1988)(US Gold)(Side A)[a3]</description>
+		<rom name="Road Blasters (1988)(US Gold)(Side A)[a3].tap" size="662834" crc="95da60f8" md5="a53503d9be227e905670d95a84f57211" sha1="2bab256ade8c085736bca29848a76908d6a87927"/>
+	</game>
+	<game name="Road Blasters (1988)(US Gold)(Side A)[a4]">
+		<description>Road Blasters (1988)(US Gold)(Side A)[a4]</description>
+		<rom name="Road Blasters (1988)(US Gold)(Side A)[a4].tap" size="662834" crc="d9e11ede" md5="5aa87a201bf799ff9e57efb36e52c567" sha1="200d508a9c891bbaf937884f2aeb4bfe5bf2a7d1"/>
 	</game>
 	<game name="Road Blasters (1988)(US Gold)(Side B)">
 		<description>Road Blasters (1988)(US Gold)(Side B)</description>
@@ -1436,6 +1560,14 @@
 		<description>Road Blasters (1988)(US Gold)(Side B)[a2]</description>
 		<rom name="Road Blasters (1988)(US Gold)(Side B)[a2].tap" size="633695" crc="abb14f15" md5="2860806de8941629018111e1c96a12c1" sha1="2e405db39adbf69654ae1bd3d6b30607d0b1e012"/>
 	</game>
+	<game name="Road Blasters (1988)(US Gold)(Side B)[a3]">
+		<description>Road Blasters (1988)(US Gold)(Side B)[a3]</description>
+		<rom name="Road Blasters (1988)(US Gold)(Side B)[a3].tap" size="633680" crc="991d2381" md5="ab67e6b5a7c635e085133c6bb96c7036" sha1="1df5bc6eeafad5b9dcc85fa2e6a0e59e4581fbab"/>
+	</game>
+	<game name="Road Blasters (1988)(US Gold)(Side B)[a4]">
+		<description>Road Blasters (1988)(US Gold)(Side B)[a4]</description>
+		<rom name="Road Blasters (1988)(US Gold)(Side B)[a4].tap" size="633680" crc="467c333e" md5="cb32d678482f21a66e5428679431dc3d" sha1="c7cd0eef30de5aaa3a370d30cbb425e8f4b283de"/>
+	</game>
 	<game name="Roadkiller (1988)(Edicola-Super Game 2000)(it)">
 		<description>Roadkiller (1988)(Edicola-Super Game 2000)(it)</description>
 		<rom name="Roadkiller (1988)(Edicola-Super Game 2000)(it).tap" size="408513" crc="8812a526" md5="1d6b6ee49e5d5550dce407f28b4b2ad2" sha1="0255937257e377765eaf659c3dd8b96f710f9f98"/>
@@ -1447,6 +1579,10 @@
 	<game name="Scalextric (1985)(Leisure Genius)[a]">
 		<description>Scalextric (1985)(Leisure Genius)[a]</description>
 		<rom name="Scalextric (1985)(Leisure Genius)[a].tap" size="450850" crc="bc545fdd" md5="c9a4f5904e9052d59e4bcdcd4d1b5e78" sha1="2565ea6aedec52dcc20fc72e88f1cdf86dc1dd40"/>
+	</game>
+	<game name="Scalextric (1985)(Leisure Genius)[a2]">
+		<description>Scalextric (1985)(Leisure Genius)[a2]</description>
+		<rom name="Scalextric (1985)(Leisure Genius)[a2].tap" size="450850" crc="c1d9c53c" md5="f199798a119c51b70357aa3cff1435bd" sha1="130a018051d00fd378f2a8e3a73f83ee4df9c01c"/>
 	</game>
 	<game name="Shirley Muldowney&apos;s Top Fuel Challenge (1988)(Cosmi)">
 		<description>Shirley Muldowney&apos;s Top Fuel Challenge (1988)(Cosmi)</description>
@@ -1800,6 +1936,14 @@
 		<description>Supertrux (1989)(Elite)[a4]</description>
 		<rom name="Supertrux (1989)(Elite)[a4].tap" size="688688" crc="d5a9b858" md5="db8ac022e9b86ddfa4c889a5139cdded" sha1="8adbc3193d69803e68db900653764982228cbdd4"/>
 	</game>
+	<game name="Supertrux (1989)(Elite)[a5]">
+		<description>Supertrux (1989)(Elite)[a5]</description>
+		<rom name="Supertrux (1989)(Elite)[a5].tap" size="688688" crc="e114f678" md5="80a446ebb89ccf4eb864c53a8e0b9054" sha1="26000e004be57af4da89ec30a1780d93e1a73e8c"/>
+	</game>
+	<game name="Supertrux (1989)(Elite)[a6]">
+		<description>Supertrux (1989)(Elite)[a6]</description>
+		<rom name="Supertrux (1989)(Elite)[a6].tap" size="688688" crc="a7898810" md5="e1d9bf02f42fc8ba44d3bbadd725a31d" sha1="c37cdb215a52e440d5af30fc78683b53ea8f64be"/>
+	</game>
 	<game name="Supertrux (1989)(Elite)[b]">
 		<description>Supertrux (1989)(Elite)[b]</description>
 		<rom name="Supertrux (1989)(Elite)[b].tap" size="32768" crc="557c431e" md5="a7de95f28b38a36a0c7f869c238fed90" sha1="8ee1a7539709a7f6856161e36c0c9ffe73d5f9e0"/>
@@ -1820,9 +1964,17 @@
 		<description>TechnoCop (1989)(Gremlin)(Side A)</description>
 		<rom name="TechnoCop (1989)(Gremlin)(Side A).tap" size="425629" crc="893c4ab4" md5="8031a2328fbdfe95d8adb1890ef41a26" sha1="231d1489c5c6df40bc2aa5c140c8a3cd61313fc4"/>
 	</game>
+	<game name="TechnoCop (1989)(Gremlin)(Side A)[a]">
+		<description>TechnoCop (1989)(Gremlin)(Side A)[a]</description>
+		<rom name="TechnoCop (1989)(Gremlin)(Side A)[a].tap" size="425634" crc="52d92858" md5="1d8f13e2d6999b51a7da4de8504a4f04" sha1="aaa944d5e502f3345e53ada1ec89b6f760f71370"/>
+	</game>
 	<game name="TechnoCop (1989)(Gremlin)(Side B)">
 		<description>TechnoCop (1989)(Gremlin)(Side B)</description>
 		<rom name="TechnoCop (1989)(Gremlin)(Side B).tap" size="2074257" crc="c200c067" md5="c773bc9bd77adca2b5b7d8231428629e" sha1="049365b5120504566eb117100a6433bfd0e6f3ca"/>
+	</game>
+	<game name="TechnoCop (1989)(Gremlin)(Side B)[a]">
+		<description>TechnoCop (1989)(Gremlin)(Side B)[a]</description>
+		<rom name="TechnoCop (1989)(Gremlin)(Side B)[a].tap" size="2073856" crc="f9daa133" md5="773cf8250fe69bbf2327e398954ae2f7" sha1="3fa647e6dfb61416217ca54299eaa2bc2682b04f"/>
 	</game>
 	<game name="Test Drive (1987)(Accolade)(Side A)">
 		<description>Test Drive (1987)(Accolade)(Side A)</description>
@@ -1952,6 +2104,10 @@
 		<description>WEC Le Mans (1988)(Imagine)(Side A)[a2]</description>
 		<rom name="WEC Le Mans (1988)(Imagine)(Side A)[a2].tap" size="1010290" crc="8722b71c" md5="2757358f8229766a7852f5ceb0a91c97" sha1="a940003b36ceb10320cd64fcae6407423358d290"/>
 	</game>
+	<game name="WEC Le Mans (1988)(Imagine)(Side A)[a3]">
+		<description>WEC Le Mans (1988)(Imagine)(Side A)[a3]</description>
+		<rom name="WEC Le Mans (1988)(Imagine)(Side A)[a3].tap" size="1011994" crc="ed2e08b4" md5="5ff2fe6e5e186c1518eabbfb4a5d4d75" sha1="7e8c3a42bc20db22f8aad54a4fdb92fa018ffea6"/>
+	</game>
 	<game name="WEC Le Mans (1988)(Imagine)(Side A)[b]">
 		<description>WEC Le Mans (1988)(Imagine)(Side A)[b]</description>
 		<rom name="WEC Le Mans (1988)(Imagine)(Side A)[b].tap" size="1010290" crc="08305f03" md5="f74d3bde6dbdd49ef84960f7b419dc16" sha1="d90ba62dcc81ed177b006eb211c88b285815a1d3"/>
@@ -1971,6 +2127,10 @@
 	<game name="WEC Le Mans (1988)(Imagine)(Side B)[a2]">
 		<description>WEC Le Mans (1988)(Imagine)(Side B)[a2]</description>
 		<rom name="WEC Le Mans (1988)(Imagine)(Side B)[a2].tap" size="622574" crc="ecead077" md5="99344dd893d4bf20da501e3bb7148e26" sha1="1c363f092e303c762d63e1443e043243e4432a21"/>
+	</game>
+	<game name="WEC Le Mans (1988)(Imagine)(Side B)[a3]">
+		<description>WEC Le Mans (1988)(Imagine)(Side B)[a3]</description>
+		<rom name="WEC Le Mans (1988)(Imagine)(Side B)[a3].tap" size="622586" crc="a089c460" md5="2d65e4857899c46fb0ca96833d5165de" sha1="8b7f82605e5a8b25a8d0c074d964165502c9fcc8"/>
 	</game>
 	<game name="WEC Le Mans (1988)(Imagine)(Side B)[b]">
 		<description>WEC Le Mans (1988)(Imagine)(Side B)[b]</description>

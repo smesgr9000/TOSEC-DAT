@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Gambling - [T64]</name>
-		<description>Commodore C64 - Games - Gambling - [T64] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Gambling - [T64] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-06-10</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -72,6 +72,10 @@
 		<description>Acinna (1996)(Magna Media)[cr Shitmen]</description>
 		<rom name="Acinna (1996)(Magna Media)[cr Shitmen].t64" size="17126" crc="bd159712" md5="851f6b180c713f66aae945e4d16e4e81" sha1="e3b2fc2a3dd8d543ea9fd00d0a22c9aeb708ba59"/>
 	</game>
+	<game name="Add&apos;em Up! (1982)(Wunderware)">
+		<description>Add&apos;em Up! (1982)(Wunderware)</description>
+		<rom name="Add&apos;em Up! (1982)(Wunderware).t64" size="2859" crc="7ac89e48" md5="a7b30b55bfc1d3467e0d7292d208df21" sha1="9b169b906a266504e401ec6e8fc8be6ba16f3cc9"/>
+	</game>
 	<game name="Adults Only (1984)(Sophisticated Games)">
 		<description>Adults Only (1984)(Sophisticated Games)</description>
 		<rom name="Adults Only (1984)(Sophisticated Games).t64" size="10027" crc="871700cf" md5="154be4804370bb01272539ab29e86c79" sha1="6eeee40886657fefc8c7e9371d971da51fd0f675"/>
@@ -88,9 +92,9 @@
 		<description>Appareil a Jetons (19xx)(Commodore)</description>
 		<rom name="Appareil a Jetons (19xx)(Commodore).t64" size="7872" crc="d29d58b7" md5="f847a97e20765ef4ee63a394f60d44f9" sha1="b6783268d6b7b9c388d88c6877418fb10edf673a"/>
 	</game>
-	<game name="Avelanche (1983)(Courbois Software)(nl)">
-		<description>Avelanche (1983)(Courbois Software)(nl)</description>
-		<rom name="Avelanche (1983)(Courbois Software)(nl).t64" size="2594" crc="a5b5898f" md5="a8e1b2044fd5443888e791ad062dc7f7" sha1="e6350a0c0556ca700c9f7fb7d9c0221e9d64838b"/>
+	<game name="Avelanche (1983)(Courbois)(nl)">
+		<description>Avelanche (1983)(Courbois)(nl)</description>
+		<rom name="Avelanche (1983)(Courbois)(nl).t64" size="2594" crc="a5b5898f" md5="a8e1b2044fd5443888e791ad062dc7f7" sha1="e6350a0c0556ca700c9f7fb7d9c0221e9d64838b"/>
 	</game>
 	<game name="Bad Match (2020)(Hirschberg, Michael)(de)(PD)">
 		<description>Bad Match (2020)(Hirschberg, Michael)(de)(PD)</description>
@@ -424,6 +428,10 @@
 		<description>Bunco (1984)(Interface Publications)</description>
 		<rom name="Bunco (1984)(Interface Publications).t64" size="2035" crc="a8a60820" md5="02eae6490e7d8e7bcf01ee58fa7bc0b4" sha1="e29c1f08f47ccbff24af0f9430d8c050de5f91ea"/>
 	</game>
+	<game name="C64 FruitMachine (2021)(Ainsworth, Mark)(PD)[cr NTR]">
+		<description>C64 FruitMachine (2021)(Ainsworth, Mark)(PD)[cr NTR]</description>
+		<rom name="C64 FruitMachine (2021)(Ainsworth, Mark)(PD)[cr NTR].t64" size="5086" crc="10e31afa" md5="0292e48d2c7d84f1448089aab233de23" sha1="82b6149411df283228e433a20f54b6d4fc79fa88"/>
+	</game>
 	<game name="Card Land (1995)(Nemesis Productions)[cr AVT]">
 		<description>Card Land (1995)(Nemesis Productions)[cr AVT]</description>
 		<rom name="Card Land (1995)(Nemesis Productions)[cr AVT].t64" size="25243" crc="c9461d32" md5="7f76c6aabaac8873acbc830d6164a41a" sha1="e7330a02ba29cff4bc65d63d4bb7551da49a67fd"/>
@@ -451,6 +459,18 @@
 	<game name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr Fairlight]">
 		<description>Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr Fairlight]</description>
 		<rom name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr Fairlight].t64" size="29299" crc="777f1879" md5="209ac78f5ed8019e9dd26120106908ef" sha1="ef0262dd1ec665af1527cb6fea5ae4e26bf0fb4e"/>
+	</game>
+	<game name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T]">
+		<description>Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T]</description>
+		<rom name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T].t64" size="41991" crc="c46501b7" md5="1b400f45269d14f8f6e66ad5da586cf2" sha1="aa790d6608a71f1a5a93d96255e7fec5db155b4b"/>
+	</game>
+	<game name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T][a]">
+		<description>Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T][a]</description>
+		<rom name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T][a].t64" size="41991" crc="6abe14ef" md5="cd67b45692b8df2da4c030c90efa746c" sha1="a58e469c9caff3adc62de34ecabc4fd32cf83591"/>
+	</game>
+	<game name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T][a2]">
+		<description>Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T][a2]</description>
+		<rom name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr I+T][a2].t64" size="43465" crc="6a8bab92" md5="d8a2c5c78ebee4254469a3af32a3afd6" sha1="cf1e5fe17cd9a54c0d6c215784a18587f89ab2b2"/>
 	</game>
 	<game name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr INC][t +2 I+T]">
 		<description>Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr INC][t +2 I+T]</description>
@@ -504,9 +524,9 @@
 		<description>Chuck-a-Luck (1979)(Creative Computing)[cr Rio Baan]</description>
 		<rom name="Chuck-a-Luck (1979)(Creative Computing)[cr Rio Baan].t64" size="965" crc="eaa1ac60" md5="eeeb1669c0d8cd1fe95bbb5ceaffa4c3" sha1="b3217ecf1eff1578c682ccaa28f728ea3d5a9884"/>
 	</game>
-	<game name="Chuck-a-Luck (2003)(Hart, B.)">
-		<description>Chuck-a-Luck (2003)(Hart, B.)</description>
-		<rom name="Chuck-a-Luck (2003)(Hart, B.).t64" size="2444" crc="483da01d" md5="bf8b74034712d35505508178bbc3711e" sha1="bf987d3a349f6fbce8c240c764651c389664dac1"/>
+	<game name="Chuck-a-Luck (2003)(Hart, Barry)">
+		<description>Chuck-a-Luck (2003)(Hart, Barry)</description>
+		<rom name="Chuck-a-Luck (2003)(Hart, Barry).t64" size="2444" crc="483da01d" md5="bf8b74034712d35505508178bbc3711e" sha1="bf987d3a349f6fbce8c240c764651c389664dac1"/>
 	</game>
 	<game name="Chug a Luck (19xx)(Jack Lockhart)">
 		<description>Chug a Luck (19xx)(Jack Lockhart)</description>
@@ -519,6 +539,10 @@
 	<game name="Circopoly (1984)(S+S Soft)(de)[cr ASS]">
 		<description>Circopoly (1984)(S+S Soft)(de)[cr ASS]</description>
 		<rom name="Circopoly (1984)(S+S Soft)(de)[cr ASS].t64" size="18208" crc="e62a1bfa" md5="ebb5f27848d7ee25328dfaf7fc4aaa1c" sha1="8473cf6ef6e7db4fb38a202d712e48efb2a07b82"/>
+	</game>
+	<game name="Classic Pinball Oneliner (2022)(Roscher, Martin)(PD)">
+		<description>Classic Pinball Oneliner (2022)(Roscher, Martin)(PD)</description>
+		<rom name="Classic Pinball Oneliner (2022)(Roscher, Martin)(PD).t64" size="348" crc="c4de7a2b" md5="a2c5938846bbaca6e2349fda2f6ffbee" sha1="fdf620acd9af462fb709102c2d3324e264c13b9a"/>
 	</game>
 	<game name="Classic Punter (1988)(GTI Software)">
 		<description>Classic Punter (1988)(GTI Software)</description>
@@ -684,9 +708,13 @@
 		<description>Craps (198x)(-)[h ASS][a3]</description>
 		<rom name="Craps (198x)(-)[h ASS][a3].t64" size="2457" crc="8dd9f3d5" md5="f88557580b9d421c1946ed61c9c52c7c" sha1="09c345aea5bfa1c7c1d252a300363841d2ad88d3"/>
 	</game>
-	<game name="Crown (1984)(Data Becker GmbH)(de-en)[cr LXT]">
-		<description>Crown (1984)(Data Becker GmbH)(de-en)[cr LXT]</description>
-		<rom name="Crown (1984)(Data Becker GmbH)(de-en)[cr LXT].t64" size="17443" crc="ffdff222" md5="ca0e80eb53b0060be0ecea61b3c74082" sha1="53e1ebf3bada0372391da5b75c300bc4975f7f4a"/>
+	<game name="Crown (1984)(Data Becker)(de)">
+		<description>Crown (1984)(Data Becker)(de)</description>
+		<rom name="Crown (1984)(Data Becker)(de).t64" size="14918" crc="00ce6693" md5="9d18e846a634529317a3fab28be17ebf" sha1="24df6aae2bec52a5eb9046a2d51cb2ddae147494"/>
+	</game>
+	<game name="Crown (1984)(Data Becker)(de-en)[cr LXT]">
+		<description>Crown (1984)(Data Becker)(de-en)[cr LXT]</description>
+		<rom name="Crown (1984)(Data Becker)(de-en)[cr LXT].t64" size="17443" crc="ffdff222" md5="ca0e80eb53b0060be0ecea61b3c74082" sha1="53e1ebf3bada0372391da5b75c300bc4975f7f4a"/>
 	</game>
 	<game name="Crown Juwel (19xx)(-)(de)">
 		<description>Crown Juwel (19xx)(-)(de)</description>
@@ -799,6 +827,14 @@
 	<game name="Derby Day (1983)(CRL)[a]">
 		<description>Derby Day (1983)(CRL)[a]</description>
 		<rom name="Derby Day (1983)(CRL)[a].t64" size="23014" crc="e3b53418" md5="a89127a538a5e6a0003b88d774142615" sha1="67a5750f9461852df24432cb3c6f36acd556c4ac"/>
+	</game>
+	<game name="Derby Day (19xx)(-)">
+		<description>Derby Day (19xx)(-)</description>
+		<rom name="Derby Day (19xx)(-).t64" size="12773" crc="ff2afdbc" md5="85414d7a30aca272501f92b7a01c57ea" sha1="d0ce332f109c22edf0b5d0d5a74a523e695cd8c7"/>
+	</game>
+	<game name="Derby Day (19xx)(-)[a]">
+		<description>Derby Day (19xx)(-)[a]</description>
+		<rom name="Derby Day (19xx)(-)[a].t64" size="21741" crc="6618072c" md5="d93f4b85e5257f633e6494f9e0ec3918" sha1="0a59d4df82d912696cca90dc79cd40f8ed1956e6"/>
 	</game>
 	<game name="Devine un Chiffre (1985)(PSI)(fr)[cr Rio Baan]">
 		<description>Devine un Chiffre (1985)(PSI)(fr)[cr Rio Baan]</description>
@@ -1168,9 +1204,9 @@
 		<description>Dyp Bomber (19xx)(Data-Tronic)(no)</description>
 		<rom name="Dyp Bomber (19xx)(Data-Tronic)(no).t64" size="1730" crc="ed7a99a4" md5="eede6d727452d194e8750862cfb0fa4a" sha1="f2dfbe695f9390c354206c02f4734c4bf38a3eb8"/>
 	</game>
-	<game name="Eenarmige Bandit (1984)(Courbois Software)(nl)">
-		<description>Eenarmige Bandit (1984)(Courbois Software)(nl)</description>
-		<rom name="Eenarmige Bandit (1984)(Courbois Software)(nl).t64" size="4898" crc="ea57c3c2" md5="30b3cf72bd03960b52e4263a1d8813ae" sha1="82e5a8053443d52fbf9a5905f75de671de6b49ed"/>
+	<game name="Eenarmige Bandit (1984)(Courbois)(nl)">
+		<description>Eenarmige Bandit (1984)(Courbois)(nl)</description>
+		<rom name="Eenarmige Bandit (1984)(Courbois)(nl).t64" size="4898" crc="ea57c3c2" md5="30b3cf72bd03960b52e4263a1d8813ae" sha1="82e5a8053443d52fbf9a5905f75de671de6b49ed"/>
 	</game>
 	<game name="Eight Dog Races (19xx)(Feeley, Paul)[cr ASS][GKGM]">
 		<description>Eight Dog Races (19xx)(Feeley, Paul)[cr ASS][GKGM]</description>
@@ -1528,6 +1564,10 @@
 		<description>Goat (2017)(Hart, Barry)(PD)</description>
 		<rom name="Goat (2017)(Hart, Barry)(PD).t64" size="578" crc="5c7ebe7e" md5="64b3175fe5b4fbf41552d321dfa7e350" sha1="4470333ca1e97e4b456a66e9e9ec197792719113"/>
 	</game>
+	<game name="Gokkast (1985)(Commodore Dossier)(nl)">
+		<description>Gokkast (1985)(Commodore Dossier)(nl)</description>
+		<rom name="Gokkast (1985)(Commodore Dossier)(nl).t64" size="12895" crc="f85d4dd9" md5="726f2f4277895981643103b27c0d38d1" sha1="f55ef6360f8efc3d1ce05a091a2b55159b47ec00"/>
+	</game>
 	<game name="Gokken (1985)(Kluwer Technische Boeken)(nl)[cr c64addict]">
 		<description>Gokken (1985)(Kluwer Technische Boeken)(nl)[cr c64addict]</description>
 		<rom name="Gokken (1985)(Kluwer Technische Boeken)(nl)[cr c64addict].t64" size="2961" crc="3212370c" md5="0426f4fad4d33216ec2f253117b3cb13" sha1="edd529ceed9ee5c681790bf8f2a1ae7fd939a399"/>
@@ -1624,6 +1664,10 @@
 		<description>Hästkapplöpning (1990)(SYS Public Domain)(sv)</description>
 		<rom name="Hästkapplöpning (1990)(SYS Public Domain)(sv).t64" size="2639" crc="9ce55a47" md5="29a181cdb4fa413f64eb2fb3dc43e285" sha1="f62061b12394010c6dc3e85fd90d806bce57efc7"/>
 	</game>
+	<game name="Head or Tail Oneliner (2021)(Roscher, Martin)(PD)">
+		<description>Head or Tail Oneliner (2021)(Roscher, Martin)(PD)</description>
+		<rom name="Head or Tail Oneliner (2021)(Roscher, Martin)(PD).t64" size="349" crc="78042f9d" md5="cb22df61c47bf72495f58ea406841eaa" sha1="6c7d6fa7fb4b6b4fc1bc004f155063ffeb765ca4"/>
+	</game>
 	<game name="Headaches (1985)(Ballantine Books)[cr Rio Baan]">
 		<description>Headaches (1985)(Ballantine Books)[cr Rio Baan]</description>
 		<rom name="Headaches (1985)(Ballantine Books)[cr Rio Baan].t64" size="1426" crc="5364ac59" md5="d2c2bc448e3f94ba922061c90e81c458" sha1="30154d45c2bcd61f791c95fdd1c0fbd102789b8b"/>
@@ -1635,6 +1679,10 @@
 	<game name="Heini (1985)(Pflaum Verlag München)(de)[cr Rio Baan]">
 		<description>Heini (1985)(Pflaum Verlag München)(de)[cr Rio Baan]</description>
 		<rom name="Heini (1985)(Pflaum Verlag München)(de)[cr Rio Baan].t64" size="675" crc="3162d9ce" md5="97f46309d455295b34f05ecec942d32b" sha1="a08c1e77c2129c049ee1815f09342fd708bdd29d"/>
+	</game>
+	<game name="Hide the Pickle (2022)(Hart, Barry)(PD)">
+		<description>Hide the Pickle (2022)(Hart, Barry)(PD)</description>
+		<rom name="Hide the Pickle (2022)(Hart, Barry)(PD).t64" size="2120" crc="3f50ef26" md5="833bc4a4f55e77ec5b7d7f905e792def" sha1="c123c4e683ca54d2f24f1aea5bd1760ba6021ef9"/>
 	</game>
 	<game name="High Voltage! (1990)(Compute!)">
 		<description>High Voltage! (1990)(Compute!)</description>
@@ -1652,9 +1700,9 @@
 		<description>Hoog-Laag (1985)(Kluwer Technische Boeken)(nl)[cr c64addict]</description>
 		<rom name="Hoog-Laag (1985)(Kluwer Technische Boeken)(nl)[cr c64addict].t64" size="3100" crc="07c63733" md5="9d5a3cc1ceb75db06c602de7bd218c0a" sha1="5df5fd668d385dedb915dddc2f1bd89866538333"/>
 	</game>
-	<game name="Horse Race (1983)(Courbois Software)(da)">
-		<description>Horse Race (1983)(Courbois Software)(da)</description>
-		<rom name="Horse Race (1983)(Courbois Software)(da).t64" size="4711" crc="e3c221f6" md5="784c6463ab5ec77b21557fb1358d503f" sha1="baa5af224fe80a949c5064a65fd4d8dd665c5fb1"/>
+	<game name="Horse Race (1983)(Courbois)(da)">
+		<description>Horse Race (1983)(Courbois)(da)</description>
+		<rom name="Horse Race (1983)(Courbois)(da).t64" size="4711" crc="e3c221f6" md5="784c6463ab5ec77b21557fb1358d503f" sha1="baa5af224fe80a949c5064a65fd4d8dd665c5fb1"/>
 	</game>
 	<game name="Horse Race (1983)(Pan Books - Personal Computer News)">
 		<description>Horse Race (1983)(Pan Books - Personal Computer News)</description>
@@ -1728,9 +1776,17 @@
 		<description>Ich gegen den Computer (1984)(Moderne Verlags-Gesellschaft)(de)</description>
 		<rom name="Ich gegen den Computer (1984)(Moderne Verlags-Gesellschaft)(de).t64" size="1019" crc="adc74708" md5="91d308c45b15ff9991812a808e926fd1" sha1="f76e5f15067911fe9bfa2bd0339bb34b37d95658"/>
 	</game>
-	<game name="Ignition (1991)(Markt &amp; Technik - 64&apos;er)(de-en)[cr LXT]">
-		<description>Ignition (1991)(Markt &amp; Technik - 64&apos;er)(de-en)[cr LXT]</description>
-		<rom name="Ignition (1991)(Markt &amp; Technik - 64&apos;er)(de-en)[cr LXT].t64" size="14280" crc="83d8f499" md5="6a1e4fbcb5e757588b6cdb9e097a2c94" sha1="d54fca5ce2c8a1e924c2917dac34ef13c644ad5a"/>
+	<game name="Ignition (1991)(64&apos;er - Markt &amp; Technik)(de)">
+		<description>Ignition (1991)(64&apos;er - Markt &amp; Technik)(de)</description>
+		<rom name="Ignition (1991)(64&apos;er - Markt &amp; Technik)(de).t64" size="8612" crc="e444b13a" md5="f0c133671a34696a7adaff8a23cdebd7" sha1="34034bf0445a12026375801eb151931ed2b8ac72"/>
+	</game>
+	<game name="Ignition (1991)(64&apos;er - Markt &amp; Technik)(de-en)[cr LXT]">
+		<description>Ignition (1991)(64&apos;er - Markt &amp; Technik)(de-en)[cr LXT]</description>
+		<rom name="Ignition (1991)(64&apos;er - Markt &amp; Technik)(de-en)[cr LXT].t64" size="14280" crc="83d8f499" md5="6a1e4fbcb5e757588b6cdb9e097a2c94" sha1="d54fca5ce2c8a1e924c2917dac34ef13c644ad5a"/>
+	</game>
+	<game name="Ippodromo (1986)(Commodore Club - Systems Editoriale s.r.l.)(de-es-fr-it)">
+		<description>Ippodromo (1986)(Commodore Club - Systems Editoriale s.r.l.)(de-es-fr-it)</description>
+		<rom name="Ippodromo (1986)(Commodore Club - Systems Editoriale s.r.l.)(de-es-fr-it).t64" size="13536" crc="2c1e6969" md5="08a61f94ab16c7b2726b8a29b6f9588c" sha1="56c2e83e0b5b96d2230f88dbc8ddf36881fcde41"/>
 	</game>
 	<game name="Ippodromo (1987)(G. Ponte)[cr DSC]">
 		<description>Ippodromo (1987)(G. Ponte)[cr DSC]</description>
@@ -2292,6 +2348,10 @@
 		<description>Naughty Nudger (19xx)(-)[cr VSN]</description>
 		<rom name="Naughty Nudger (19xx)(-)[cr VSN].t64" size="18666" crc="6743086e" md5="8b72f5d560631bc220be466855eee79e" sha1="25d0476dede60d5e2d21ca51052c08b1ad488687"/>
 	</game>
+	<game name="Neg Slot Machine (1985)(Commodore Club - Systems Editoriale s.r.l.)">
+		<description>Neg Slot Machine (1985)(Commodore Club - Systems Editoriale s.r.l.)</description>
+		<rom name="Neg Slot Machine (1985)(Commodore Club - Systems Editoriale s.r.l.).t64" size="35297" crc="42848aa0" md5="a9757b44e09fac24785e55074b5d15eb" sha1="6a52b66255aa3308ab6d6d4d68e2e499c91ff040"/>
+	</game>
 	<game name="Neg Slot Machine (1985)(Neg Soft)">
 		<description>Neg Slot Machine (1985)(Neg Soft)</description>
 		<rom name="Neg Slot Machine (1985)(Neg Soft).t64" size="16245" crc="b3db6004" md5="6ba492c783d842cb3b1ba64f5581d300" sha1="dfdaf7cc4b81c2ec8e93e79d6e1ff7cc55e82c8e"/>
@@ -2348,9 +2408,13 @@
 		<description>Old Bones Dice (1984)(Cascade)[a3]</description>
 		<rom name="Old Bones Dice (1984)(Cascade)[a3].t64" size="1964" crc="d181faa6" md5="8150835dbf0106d7c106efd3a8074c68" sha1="61dda89bae351e4d7d40b497f711e64e2bd277a3"/>
 	</game>
-	<game name="One Arm Bandit (1985)(ShareData - Green Valley Publishing)">
-		<description>One Arm Bandit (1985)(ShareData - Green Valley Publishing)</description>
-		<rom name="One Arm Bandit (1985)(ShareData - Green Valley Publishing).t64" size="6697" crc="326b3a0d" md5="a273d7d891c57043360933e7e2391f64" sha1="cf4ce380581ccc729ee1de43833989fc221145c1"/>
+	<game name="One Arm Bandit (1985)(Green Valley Publishing - ShareData)">
+		<description>One Arm Bandit (1985)(Green Valley Publishing - ShareData)</description>
+		<rom name="One Arm Bandit (1985)(Green Valley Publishing - ShareData).t64" size="6358" crc="3147fe6a" md5="825fa0a3a8f8c39d67d8006cad493402" sha1="d004f26c7d5684fd617b4c9fc736961387f107f1"/>
+	</game>
+	<game name="One Arm Bandit (1985)(Green Valley Publishing - ShareData)[a]">
+		<description>One Arm Bandit (1985)(Green Valley Publishing - ShareData)[a]</description>
+		<rom name="One Arm Bandit (1985)(Green Valley Publishing - ShareData)[a].t64" size="6697" crc="326b3a0d" md5="a273d7d891c57043360933e7e2391f64" sha1="cf4ce380581ccc729ee1de43833989fc221145c1"/>
 	</game>
 	<game name="One Armed Bandit (1985)(Century Communications)[cr Rio Baan]">
 		<description>One Armed Bandit (1985)(Century Communications)[cr Rio Baan]</description>
@@ -2528,6 +2592,10 @@
 		<description>Poker con i Dadi (1984)(Editoriale Video - Videoteca Computer)(it)</description>
 		<rom name="Poker con i Dadi (1984)(Editoriale Video - Videoteca Computer)(it).t64" size="7873" crc="862ef719" md5="2151c5762d8b85c36e8fd894c91f4977" sha1="7fa054b392a8c058675412e84324c969560693b3"/>
 	</game>
+	<game name="Poker Machine (19xx)(-)">
+		<description>Poker Machine (19xx)(-)</description>
+		<rom name="Poker Machine (19xx)(-).t64" size="3243" crc="23f37b75" md5="48e7579ca1fa87eea838c30a66e933a6" sha1="94441a06d0febdaea586205d2ca6bb4fa351e3f4"/>
+	</game>
 	<game name="Pomalo Pogolemo (2002)(Ristoski, Laze)(sl)(PD)">
 		<description>Pomalo Pogolemo (2002)(Ristoski, Laze)(sl)(PD)</description>
 		<rom name="Pomalo Pogolemo (2002)(Ristoski, Laze)(sl)(PD).t64" size="6326" crc="41f9e069" md5="44fa0b994c5a125f3edfff6aef28fb2d" sha1="01bdeecd0c06b55189772b2cd6b0d9937ec2c06c"/>
@@ -2640,9 +2708,9 @@
 		<description>Quintet (1984)(Street Games)</description>
 		<rom name="Quintet (1984)(Street Games).t64" size="6136" crc="9c0cecc6" md5="440b21ebe728823a3913814e49cfcfbd" sha1="914a5191826d20cc5798dba48175c791878ebd70"/>
 	</game>
-	<game name="Race, De (1984)(Courbois Software)(nl)">
-		<description>Race, De (1984)(Courbois Software)(nl)</description>
-		<rom name="Race, De (1984)(Courbois Software)(nl).t64" size="3097" crc="ab58cf92" md5="b3d064dbe5d127fca8b169ab4ebaf21d" sha1="9163323f82c50ce431f24faac8145875cbf529f1"/>
+	<game name="Race, De (1984)(Courbois)(nl)">
+		<description>Race, De (1984)(Courbois)(nl)</description>
+		<rom name="Race, De (1984)(Courbois)(nl).t64" size="3097" crc="ab58cf92" md5="b3d064dbe5d127fca8b169ab4ebaf21d" sha1="9163323f82c50ce431f24faac8145875cbf529f1"/>
 	</game>
 	<game name="Radar Control (198x)(S+S Soft Vertriebs GmbH)(de)">
 		<description>Radar Control (198x)(S+S Soft Vertriebs GmbH)(de)</description>
@@ -2751,6 +2819,10 @@
 	<game name="Roulette (1985)(Editoriale Video)(it)">
 		<description>Roulette (1985)(Editoriale Video)(it)</description>
 		<rom name="Roulette (1985)(Editoriale Video)(it).t64" size="14498" crc="15f0edc7" md5="a7dd071fb9db7e9ef23940b81fd3404a" sha1="6890e343c35aa1699653bdd34e4292a31dd507be"/>
+	</game>
+	<game name="Roulette (1985)(HC - Mein Home-Computer - Vogel-Verlag KG)(de)[cr Endurion]">
+		<description>Roulette (1985)(HC - Mein Home-Computer - Vogel-Verlag KG)(de)[cr Endurion]</description>
+		<rom name="Roulette (1985)(HC - Mein Home-Computer - Vogel-Verlag KG)(de)[cr Endurion].t64" size="13967" crc="3ee6e96a" md5="131465484d2883e3ce96fbe61466bd6a" sha1="1ed54336e31aed72819e7251df174d105b5e0198"/>
 	</game>
 	<game name="Roulette (1985)(PSI)(fr)[cr Rio Baan]">
 		<description>Roulette (1985)(PSI)(fr)[cr Rio Baan]</description>
@@ -3272,13 +3344,69 @@
 		<description>Sputnik (19xx)(Harald Lindenmeyer)(de)</description>
 		<rom name="Sputnik (19xx)(Harald Lindenmeyer)(de).t64" size="3534" crc="bb6cd9c7" md5="ee6ab0ae97243da1c89f23b1eb1fed1a" sha1="1550fc26b4c7f6a2096d4754a18265e822f39ab7"/>
 	</game>
-	<game name="Squares (1997)(Magna Media - 64&apos;er)[cr Angels]">
-		<description>Squares (1997)(Magna Media - 64&apos;er)[cr Angels]</description>
-		<rom name="Squares (1997)(Magna Media - 64&apos;er)[cr Angels].t64" size="20517" crc="dd4c486c" md5="4ff5a66d7c90550135c4a30cd3676049" sha1="f3056d244adf881fb03267b2dbd3e57839a5523c"/>
+	<game name="Squares (1997)(64&apos;er - Magna Media)">
+		<description>Squares (1997)(64&apos;er - Magna Media)</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media).t64" size="18404" crc="c504b3fd" md5="530b5b44cb8bb757560f1786d59916cf" sha1="bec45f1a088b1b1a594c9a6056d61f8f59a35e6d"/>
 	</game>
-	<game name="Squares (1997)(Magna Media - 64&apos;er)[cr Angels][a]">
-		<description>Squares (1997)(Magna Media - 64&apos;er)[cr Angels][a]</description>
-		<rom name="Squares (1997)(Magna Media - 64&apos;er)[cr Angels][a].t64" size="20517" crc="b202562a" md5="5b806c74010f084fd3bcc643c57a4cf7" sha1="dadb8b52fa1092bf7899e6dc27b9877007c45ee1"/>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr AFL]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr AFL]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr AFL].t64" size="22652" crc="544a3b20" md5="4f096a1d5493fc4c2252720f19c23e49" sha1="a9a10c6d9bac1eacbfe079738ac2b7569ff73fa5"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr Angels]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr Angels]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr Angels].t64" size="20517" crc="dd4c486c" md5="4ff5a66d7c90550135c4a30cd3676049" sha1="f3056d244adf881fb03267b2dbd3e57839a5523c"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr Angels][a]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr Angels][a]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr Angels][a].t64" size="20517" crc="b202562a" md5="5b806c74010f084fd3bcc643c57a4cf7" sha1="dadb8b52fa1092bf7899e6dc27b9877007c45ee1"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr Chromance]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr Chromance]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr Chromance].t64" size="29591" crc="5d185b04" md5="327131c70accce5100282844da82bb50" sha1="efc98609119fed58e3fe5d61390107d8c568f523"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr Hitmen]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr Hitmen]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr Hitmen].t64" size="22001" crc="d7fb0223" md5="336110e42eed5f21a643956f066e354f" sha1="7fc4107dd3309b8226a852affaa292080ce9b4f8"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr Laxity]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr Laxity]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr Laxity].t64" size="23312" crc="a350ab33" md5="28cd20e0e20ef01ddc4a49bdac61b6e9" sha1="2a95bba1fded87fb2a787e5a1bc68bd404d7c7f6"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr Laxity][a]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr Laxity][a]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr Laxity][a].t64" size="23312" crc="131e134d" md5="b08e513516882fce0f12ed5dbdd95ee5" sha1="216f522b89f42d1e4c14ca59784b8513661afe5e"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr ONS]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr ONS]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr ONS].t64" size="22399" crc="9a9189a8" md5="4eeecf65c134c891fbaf8829bf034b5d" sha1="58037b3eebfe3e18a5955bcc81cf6e2b4c18a509"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC].t64" size="25597" crc="e0366faf" md5="0279ac05c4dc4ae332664f9d7b448846" sha1="b3f9019dd310ae1ff755bc8e4692cd862a3c0419"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a].t64" size="24669" crc="2b0d25ae" md5="3cb8263427f448743b2ec4c2f1c4decd" sha1="d43f5db8c0cdf9aabb21a44f889281c4c492bac7"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a2]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a2]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a2].t64" size="25597" crc="bb06d301" md5="a5c1ddb5080912c6a0af7dc2b6b594e7" sha1="c52ae1bae5dcccc8b096260f40f90f97bc5ff59e"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a3]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a3]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr SCS+TRC][a3].t64" size="25597" crc="562296f0" md5="c562eed9a41690245ee4c5b0a1175d24" sha1="4f94f5bf96bad642b2b9c4926ae9ce55ee771220"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr WOW - Role]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr WOW - Role]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr WOW - Role].t64" size="18448" crc="2d649ada" md5="68c46afc639bd8afdb776fb49866f842" sha1="b3708ae3c2dcd1fbcedacb3405b63bee47e54a27"/>
+	</game>
+	<game name="Squares (1997)(64&apos;er - Magna Media)[cr WOW - Role][a]">
+		<description>Squares (1997)(64&apos;er - Magna Media)[cr WOW - Role][a]</description>
+		<rom name="Squares (1997)(64&apos;er - Magna Media)[cr WOW - Role][a].t64" size="19376" crc="debe6e98" md5="91c1811d310bc78b3f491af1f4c50a09" sha1="fd812d3520db409ba440746435aaa08ff145940b"/>
+	</game>
+	<game name="Star Chaser (1985)(Constellations)[cr ASS]">
+		<description>Star Chaser (1985)(Constellations)[cr ASS]</description>
+		<rom name="Star Chaser (1985)(Constellations)[cr ASS].t64" size="26680" crc="8ad0aae4" md5="3f5df42657968189694dd5a5407f6912" sha1="75f9c5c9cd6cf171e0160172622b3ef33b2a73c7"/>
 	</game>
 	<game name="Stielaugen (1984)(iWT)(de)[cr Endurion]">
 		<description>Stielaugen (1984)(iWT)(de)[cr Endurion]</description>
@@ -3360,6 +3488,10 @@
 		<description>Super Tre (1984)(Gruppo Editoriale Jackson)(it)</description>
 		<rom name="Super Tre (1984)(Gruppo Editoriale Jackson)(it).t64" size="4859" crc="996dc68f" md5="172f5b707c5e6bb06cbb0a6540e13652" sha1="d272fc5adc762dd372dafbeb1237440d5f965ec4"/>
 	</game>
+	<game name="Super Yahtzee (1984)(HC - Mein Home-Computer - Vogel-Verlag KG)(de)">
+		<description>Super Yahtzee (1984)(HC - Mein Home-Computer - Vogel-Verlag KG)(de)</description>
+		<rom name="Super Yahtzee (1984)(HC - Mein Home-Computer - Vogel-Verlag KG)(de).t64" size="9120" crc="9bcb4e71" md5="29fdfc98661fa231a929966b1787dca7" sha1="5b2a7df05a50d0a5f6683490bf5472293cea828a"/>
+	</game>
 	<game name="Superhasard (1988)(MAX)(de)">
 		<description>Superhasard (1988)(MAX)(de)</description>
 		<rom name="Superhasard (1988)(MAX)(de).t64" size="16999" crc="1e359564" md5="72a0637965f42065b4a6afc17bcba3c7" sha1="ab947c2a671543509456e015ecec1760ee50cee6"/>
@@ -3420,9 +3552,17 @@
 		<description>Terza Corsa (1985)(Editsi S.r.l)(it)[cr Rio Baan]</description>
 		<rom name="Terza Corsa (1985)(Editsi S.r.l)(it)[cr Rio Baan].t64" size="1438" crc="231637ac" md5="140906801031a9b070a35b02e2bc6057" sha1="49fc2e8372a19b1fce67906dc3f58d78a87b7ae1"/>
 	</game>
-	<game name="Think Twice (1989)(Markt &amp; Technik - 64&apos;er)(de-en)[cr LXT]">
-		<description>Think Twice (1989)(Markt &amp; Technik - 64&apos;er)(de-en)[cr LXT]</description>
-		<rom name="Think Twice (1989)(Markt &amp; Technik - 64&apos;er)(de-en)[cr LXT].t64" size="9973" crc="30f0e6d5" md5="19b54a26eacbe90123f9028575eaea9c" sha1="199b97600ad0a413f0ec5662ae69fb352d3aa3d3"/>
+	<game name="Think Twice (1989)(Markt &amp; Technik)(de)">
+		<description>Think Twice (1989)(Markt &amp; Technik)(de)</description>
+		<rom name="Think Twice (1989)(Markt &amp; Technik)(de).t64" size="4875" crc="5c42f625" md5="6a5025392927502f5fd5de8ec22c75e8" sha1="6177458f112ed7659268a0499ebef64e65b8ed7e"/>
+	</game>
+	<game name="Think Twice (1989)(Markt &amp; Technik)(de)[a]">
+		<description>Think Twice (1989)(Markt &amp; Technik)(de)[a]</description>
+		<rom name="Think Twice (1989)(Markt &amp; Technik)(de)[a].t64" size="4875" crc="2c959e31" md5="c1b3f680039da93f89c842a6c985f11f" sha1="eb1d9a4438fdf4fddd989f55776dd14e0dae1c3f"/>
+	</game>
+	<game name="Think Twice (1989)(Markt &amp; Technik)(de-en)[cr LXT]">
+		<description>Think Twice (1989)(Markt &amp; Technik)(de-en)[cr LXT]</description>
+		<rom name="Think Twice (1989)(Markt &amp; Technik)(de-en)[cr LXT].t64" size="9973" crc="30f0e6d5" md5="19b54a26eacbe90123f9028575eaea9c" sha1="199b97600ad0a413f0ec5662ae69fb352d3aa3d3"/>
 	</game>
 	<game name="Three of a Kind (1986)(Alpha Software)">
 		<description>Three of a Kind (1986)(Alpha Software)</description>

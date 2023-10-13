@@ -1,0 +1,4 @@
+CATALOG 1818181818313
+FILE "My First ABC's & Spelling (2001)(Eureka Multimedia)(AU).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

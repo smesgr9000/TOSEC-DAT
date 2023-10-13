@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Demos - [TZX]</name>
-		<description>Sinclair ZX Spectrum - Demos - [TZX] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Demos - [TZX] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:09</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:48</date>
 		<author>Lady Eklipse - jugaor - Vaxalon - Zxyo - Dziuber - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -25,6 +25,14 @@
 	<game name="Action (1996-08-23)(Megacode)(128K)">
 		<description>Action (1996-08-23)(Megacode)(128K)</description>
 		<rom name="Action (1996-08-23)(Megacode)(128K).tzx" size="31684" crc="740d5fd2" md5="ca57aa95ecc93ff288b980b1347f5cea" sha1="f425940c2cee89c0285f2591b3e24d1f80343a66"/>
+	</game>
+	<game name="Advanced Chuntey Simulator (2003)(Dave the Lurker)(16K)[b][CSSCGC]">
+		<description>Advanced Chuntey Simulator (2003)(Dave the Lurker)(16K)[b][CSSCGC]</description>
+		<rom name="Advanced Chuntey Simulator (2003)(Dave the Lurker)(16K)[b][CSSCGC].tzx" size="7000" crc="ddfbe4aa" md5="0fc8fde98eabb40fea74013e4b65e656" sha1="5b73c487274ae4e9e461e8c218ba8b36b8575f07"/>
+	</game>
+	<game name="Advanced Chuntey Simulator (2003)(Dave the Lurker)[CSSCGC]">
+		<description>Advanced Chuntey Simulator (2003)(Dave the Lurker)[CSSCGC]</description>
+		<rom name="Advanced Chuntey Simulator (2003)(Dave the Lurker)[CSSCGC].tzx" size="98426" crc="84996971" md5="0192d287f35b293f8497f5fc1f3ed245" sha1="94d661a274a4d8fe0c1aa2390a52e1c6fb9f758d"/>
 	</game>
 	<game name="Advanced Sex Simulator (1993)(Nikitin, Paul)(RU)(en)[adult]">
 		<description>Advanced Sex Simulator (1993)(Nikitin, Paul)(RU)(en)[adult]</description>
@@ -72,11 +80,11 @@
 	</game>
 	<game name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)">
 		<description>Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)</description>
-		<rom name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ).tzx" size="18364" crc="db45f175" md5="52f94954bdf516eb6a1da13923537a06" sha1="dfaece14d8c23a27dbd1bf06124d13cf4e6dca04"/>
+		<rom name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ).tzx" size="15577" crc="73bcd55f" md5="0a1422837740b0d36fbc4e1d6f232154" sha1="e202e109126f4644f4130b0ea08c58f4f755723c"/>
 	</game>
 	<game name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)[a]">
 		<description>Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)[a]</description>
-		<rom name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)[a].tzx" size="15577" crc="73bcd55f" md5="0a1422837740b0d36fbc4e1d6f232154" sha1="e202e109126f4644f4130b0ea08c58f4f755723c"/>
+		<rom name="Beruska - The Lady-Bird (1990)(Kingfisher's Movie Studio)(CZ)[a].tzx" size="18364" crc="db45f175" md5="52f94954bdf516eb6a1da13923537a06" sha1="dfaece14d8c23a27dbd1bf06124d13cf4e6dca04"/>
 	</game>
 	<game name="Bicie (1993)(Your Sinclair)(128K)">
 		<description>Bicie (1993)(Your Sinclair)(128K)</description>
@@ -134,9 +142,9 @@
 		<description>Clivemobile (1985)(Load 'n' Run)(IT)</description>
 		<rom name="Clivemobile (1985)(Load 'n' Run)(IT).tzx" size="40975" crc="739884bb" md5="805f004dc2a82398f9636f919113c855" sha1="4a9ff27b5e1572521665ce5ad2f18fdfb50bc85e"/>
 	</game>
-	<game name="Corona-Chan's Existential Christmas Crisis (2020)(Waterman, Jim)">
-		<description>Corona-Chan's Existential Christmas Crisis (2020)(Waterman, Jim)</description>
-		<rom name="Corona-Chan's Existential Christmas Crisis (2020)(Waterman, Jim).tzx" size="20238" crc="5b7b5951" md5="4480a814b7868272744d05dad236ba58" sha1="1703eb1873c3a69fe68c9bfdba56aaed923f4f1c"/>
+	<game name="Corona-Chan's Existential Christmas Crisis (2020)(Stonechat Productions)">
+		<description>Corona-Chan's Existential Christmas Crisis (2020)(Stonechat Productions)</description>
+		<rom name="Corona-Chan's Existential Christmas Crisis (2020)(Stonechat Productions).tzx" size="20238" crc="5b7b5951" md5="4480a814b7868272744d05dad236ba58" sha1="1703eb1873c3a69fe68c9bfdba56aaed923f4f1c"/>
 	</game>
 	<game name="Crazy Sample II (1989)(Lords, The)(128K)(NL)(en)">
 		<description>Crazy Sample II (1989)(Lords, The)(128K)(NL)(en)</description>
@@ -166,17 +174,25 @@
 		<description>Don't Pull It Too Much George (19xx)(Sygma Press)(128K)[adult]</description>
 		<rom name="Don't Pull It Too Much George (19xx)(Sygma Press)(128K)[adult].tzx" size="24959" crc="6cd357fd" md5="5252fe7a5a882b91392d2106d4e8b985" sha1="baad3b2eed7564be3dcd98006b96b58a135b44bc"/>
 	</game>
+	<game name="Dr Jim's Final Fantasy Jukebox (2022)(Waterman, Jim)(128K)">
+		<description>Dr Jim's Final Fantasy Jukebox (2022)(Waterman, Jim)(128K)</description>
+		<rom name="Dr Jim's Final Fantasy Jukebox (2022)(Waterman, Jim)(128K).tzx" size="24855" crc="ca8c121f" md5="f91db38390b8fe6dddf279ddeced04f3" sha1="39534f1c0c2381e5bf435cd944b914c40b10ad97"/>
+	</game>
 	<game name="FUCK (19xx)(Conradorre Soft - Hacker Junior)(128K)[adult]">
 		<description>FUCK (19xx)(Conradorre Soft - Hacker Junior)(128K)[adult]</description>
 		<rom name="FUCK (19xx)(Conradorre Soft - Hacker Junior)(128K)[adult].tzx" size="32739" crc="e0ab008c" md5="046a550e334a497a97d8c6e49027bb1f" sha1="16f0bd2b51eda654c7871543d08c196692c5dd49"/>
 	</game>
-	<game name="Frameworks X - The Mainframe Quest (1983)(-)">
-		<description>Frameworks X - The Mainframe Quest (1983)(-)</description>
-		<rom name="Frameworks X - The Mainframe Quest (1983)(-).tzx" size="2313" crc="4fc3aff8" md5="5f4cd3e85ee2c6256bdcdaf100b4f502" sha1="a36d52bd43a5d0e4633ec8419c2857661fb4c89a"/>
+	<game name="Fish Polka (2021)(Waterman, Jim)(128K)">
+		<description>Fish Polka (2021)(Waterman, Jim)(128K)</description>
+		<rom name="Fish Polka (2021)(Waterman, Jim)(128K).tzx" size="8404" crc="c143dc6e" md5="01c67065dc54d068a35ffcf4f39d0496" sha1="90680a109e2bc73c915f45c33a0f74dcad7215a2"/>
 	</game>
-	<game name="Frameworks X - The Mainframe Quest (1983)(-)[a]">
-		<description>Frameworks X - The Mainframe Quest (1983)(-)[a]</description>
-		<rom name="Frameworks X - The Mainframe Quest (1983)(-)[a].tzx" size="3531" crc="3d40db2e" md5="2d69479481d882c9e1ed31bee76ed58d" sha1="0d94d6b990342e2ca061c78981fc749fba09ff7c"/>
+	<game name="Frameworks X - The Mainframe Quest (1983)(Green, David - Molloy, John)">
+		<description>Frameworks X - The Mainframe Quest (1983)(Green, David - Molloy, John)</description>
+		<rom name="Frameworks X - The Mainframe Quest (1983)(Green, David - Molloy, John).tzx" size="2313" crc="4fc3aff8" md5="5f4cd3e85ee2c6256bdcdaf100b4f502" sha1="a36d52bd43a5d0e4633ec8419c2857661fb4c89a"/>
+	</game>
+	<game name="Frameworks X - The Mainframe Quest (1983)(Green, David - Molloy, John)[a]">
+		<description>Frameworks X - The Mainframe Quest (1983)(Green, David - Molloy, John)[a]</description>
+		<rom name="Frameworks X - The Mainframe Quest (1983)(Green, David - Molloy, John)[a].tzx" size="3531" crc="3d40db2e" md5="2d69479481d882c9e1ed31bee76ed58d" sha1="0d94d6b990342e2ca061c78981fc749fba09ff7c"/>
 	</game>
 	<game name="Fumetto - Generale Custer (1985)(Load 'n' Run)(IT)[aka Fumetto - Custer]">
 		<description>Fumetto - Generale Custer (1985)(Load 'n' Run)(IT)[aka Fumetto - Custer]</description>
@@ -197,6 +213,10 @@
 	<game name="Fuxoft Soundtrack III (1989)(Fuxoft)(128K)(CZ)">
 		<description>Fuxoft Soundtrack III (1989)(Fuxoft)(128K)(CZ)</description>
 		<rom name="Fuxoft Soundtrack III (1989)(Fuxoft)(128K)(CZ).tzx" size="33949" crc="bcd462fd" md5="ed8a0f99e5e259425d914eaa9471ea4a" sha1="c580c194433e077d5f0aeb9fc1ce455a77c449c3"/>
+	</game>
+	<game name="God Rest Ye, Deadly Gentlemen (2021)(Waterman, Jim)(128K)">
+		<description>God Rest Ye, Deadly Gentlemen (2021)(Waterman, Jim)(128K)</description>
+		<rom name="God Rest Ye, Deadly Gentlemen (2021)(Waterman, Jim)(128K).tzx" size="9616" crc="c3001a3c" md5="09cb2112ec45da6782949d8da636ba8f" sha1="5f450155f0a0a7d0fa22367af374b2215b6783da"/>
 	</game>
 	<game name="Got to Get (1990)(President, The)(128K)(NO)(en)">
 		<description>Got to Get (1990)(President, The)(128K)(NO)(en)</description>
@@ -221,6 +241,10 @@
 	<game name="Hello (1994)(Power Soft)(RO)">
 		<description>Hello (1994)(Power Soft)(RO)</description>
 		<rom name="Hello (1994)(Power Soft)(RO).tzx" size="18639" crc="a6ca19ff" md5="5be467273e3c8bffc97014969305cd70" sha1="f14923966b905a4dde117561183c3729a7a8e8ef"/>
+	</game>
+	<game name="Hero to Crap (2003)(Dave the Lurker)(16K)[CSSCGC][adult]">
+		<description>Hero to Crap (2003)(Dave the Lurker)(16K)[CSSCGC][adult]</description>
+		<rom name="Hero to Crap (2003)(Dave the Lurker)(16K)[CSSCGC][adult].tzx" size="193156" crc="a59104ce" md5="0126622f6891e6cf1041b1a19d157bbf" sha1="c74620f2c10bc0519ae502bf7043737a732edd44"/>
 	</game>
 	<game name="Horny Hary (19xx)(X-Rated)[adult]">
 		<description>Horny Hary (19xx)(X-Rated)[adult]</description>
@@ -354,6 +378,10 @@
 		<description>MegaMix Demo 128 (1989)(Octopus, The)(128K)</description>
 		<rom name="MegaMix Demo 128 (1989)(Octopus, The)(128K).tzx" size="106928" crc="7c992a77" md5="9d967a40a39e212c2b1541ac5ee04c2c" sha1="c0d6778e6b3d1bc958c8fe56c20516f8500f8301"/>
 	</game>
+	<game name="Metallica Melodic Cover vol 1.0 (2010)(Penisoft)(48K-128K)(PT)(en)">
+		<description>Metallica Melodic Cover vol 1.0 (2010)(Penisoft)(48K-128K)(PT)(en)</description>
+		<rom name="Metallica Melodic Cover vol 1.0 (2010)(Penisoft)(48K-128K)(PT)(en).tzx" size="169535" crc="1755850e" md5="8ae435672d2f3de22ae020618090a093" sha1="88067b93e951f11b9572ec723c00333182449ead"/>
+	</game>
 	<game name="Miras TV (19xx)(Oliveira, Henrique de)(pt)">
 		<description>Miras TV (19xx)(Oliveira, Henrique de)(pt)</description>
 		<rom name="Miras TV (19xx)(Oliveira, Henrique de)(pt).tzx" size="12023" crc="295188c4" md5="306aabe6e4e4b7b4f166981e387a76c5" sha1="19246588c566996d6062f1a77ec72782636e2d34"/>
@@ -361,6 +389,10 @@
 	<game name="Mix of Sabrina (1988)(Szafran)">
 		<description>Mix of Sabrina (1988)(Szafran)</description>
 		<rom name="Mix of Sabrina (1988)(Szafran).tzx" size="33854" crc="0b8b3190" md5="b565d2c24610e5ee6a4654b264f31264" sha1="ee2ae4d12b59afc8a8c5d094ba006d62ae1ea82a"/>
+	</game>
+	<game name="Monoscope 119b (2023-02)(Kaszi75)[Lovebyte]">
+		<description>Monoscope 119b (2023-02)(Kaszi75)[Lovebyte]</description>
+		<rom name="Monoscope 119b (2023-02)(Kaszi75)[Lovebyte].tzx" size="49179" crc="69d5f5d2" md5="0ae800d463cac47e40bc6229062a05dc" sha1="b5de836316c64a16a3fda2eeb7ba57515ca91d0a"/>
 	</game>
 	<game name="Moozik 1 (1990)(Anthraxx Developments)(128K)(GR)(en)">
 		<description>Moozik 1 (1990)(Anthraxx Developments)(128K)(GR)(en)</description>
@@ -418,6 +450,14 @@
 		<description>Out of Time (1991)(Software Amaters)(SK)</description>
 		<rom name="Out of Time (1991)(Software Amaters)(SK).tzx" size="31800" crc="63b6a4da" md5="8944694c07f9a55e7c5aa91e1a012e92" sha1="c75291dd8c882a239432a4351c4f3d11bf2b38dd"/>
 	</game>
+	<game name="Packy Ton Zed (2022-04)(Penisoft)(128K)(PT)(en)">
+		<description>Packy Ton Zed (2022-04)(Penisoft)(128K)(PT)(en)</description>
+		<rom name="Packy Ton Zed (2022-04)(Penisoft)(128K)(PT)(en).tzx" size="102631" crc="d95e6b77" md5="e9a038a37ec1e8b35f79fabcfcfe0686" sha1="25b58bfa107b8920efc66e7de4e9ead743d32608"/>
+	</game>
+	<game name="Packy Ton Zed (2022-04)(Penisoft)(128K)(PT)(en)[a]">
+		<description>Packy Ton Zed (2022-04)(Penisoft)(128K)(PT)(en)[a]</description>
+		<rom name="Packy Ton Zed (2022-04)(Penisoft)(128K)(PT)(en)[a].tzx" size="102674" crc="db01caa3" md5="744c0eec402a292d6a2e55f89c0dd4dd" sha1="3c8106002b1905fe9afa77a0b3492722feadb2a0"/>
+	</game>
 	<game name="Pain Gain (2014-11)(FFP)[compusphere]">
 		<description>Pain Gain (2014-11)(FFP)[compusphere]</description>
 		<rom name="Pain Gain (2014-11)(FFP)[compusphere].tzx" size="52819" crc="08fca060" md5="c2d29f0301a95beb36e5d710dc580d94" sha1="57f87042a19f9f5b4a3bec104dbcdca8e2b5d9f3"/>
@@ -425,6 +465,10 @@
 	<game name="Paint-Demo (19xx)(Profisoft)(DE)">
 		<description>Paint-Demo (19xx)(Profisoft)(DE)</description>
 		<rom name="Paint-Demo (19xx)(Profisoft)(DE).tzx" size="10696" crc="600b7c71" md5="77d544926fad9de086a7d30a0c2a2ef8" sha1="8e0c50befcfdaddbe7a706a1a1551dd7a38a917a"/>
+	</game>
+	<game name="Parallax Type-in (2021)(p13z)">
+		<description>Parallax Type-in (2021)(p13z)</description>
+		<rom name="Parallax Type-in (2021)(p13z).tzx" size="115578" crc="3034a3c7" md5="5269149eec7b694cc83d3e731f9f1caf" sha1="36b74b7d4450887c0e0f1014eabf1f982715e36b"/>
 	</game>
 	<game name="Phantom - The Demo (19xx)(Scandinavian Software Crackers)(DK)(en)">
 		<description>Phantom - The Demo (19xx)(Scandinavian Software Crackers)(DK)(en)</description>
@@ -462,6 +506,10 @@
 		<description>RAS List 93 (1993)(Radical Alternative)</description>
 		<rom name="RAS List 93 (1993)(Radical Alternative).tzx" size="72945" crc="cb94802a" md5="05d76945ecb2429c264dca9eaff14a26" sha1="2abddc6c11450e8984cc92ac6a4841667ac76c99"/>
 	</game>
+	<game name="RIP HIC 256b (2023-02)(Kaszi75)[Lovebyte]">
+		<description>RIP HIC 256b (2023-02)(Kaszi75)[Lovebyte]</description>
+		<rom name="RIP HIC 256b (2023-02)(Kaszi75)[Lovebyte].tzx" size="49179" crc="f05d5478" md5="b7620d3897c57f0ac2a46fdb9513981f" sha1="3d09fc63b518fb0c1d96eb8c7f5193d21b93cc78"/>
+	</game>
 	<game name="RTL Demo Volume 1 (1990)(Anthraxx Developments)(128K)(GR)(en)[adult]">
 		<description>RTL Demo Volume 1 (1990)(Anthraxx Developments)(128K)(GR)(en)[adult]</description>
 		<rom name="RTL Demo Volume 1 (1990)(Anthraxx Developments)(128K)(GR)(en)[adult].tzx" size="122440" crc="8a3f9362" md5="369644c347bf8d0bf72acf113ebe9cc0" sha1="a2d008d37fd44356c5316964e36fafcee6a35e7e"/>
@@ -482,10 +530,6 @@
 		<description>Rainbow (2016-09)(GDC)[Riverwash]</description>
 		<rom name="Rainbow (2016-09)(GDC)[Riverwash].tzx" size="56117" crc="6a65fee7" md5="449a150df65dc10eff9a666da06a636c" sha1="34181049a722fcd06f23e4d8809f4a75e1e38caf"/>
 	</game>
-	<game name="Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize (2015)(Prince, Lee)[CSSCGC]">
-		<description>Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize (2015)(Prince, Lee)[CSSCGC]</description>
-		<rom name="Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize Randomize (2015)(Prince, Lee)[CSSCGC].tzx" size="1651" crc="534de13a" md5="5bfba3fb0a868119f8ccfd3c6491442c" sha1="5beb1c3be893ea18991b476fd998fa86bcfdf9ec"/>
-	</game>
 	<game name="Rendez-Vous in Black &amp; White (1990)(Lords, The)(128K)(NL)(en)">
 		<description>Rendez-Vous in Black &amp; White (1990)(Lords, The)(128K)(NL)(en)</description>
 		<rom name="Rendez-Vous in Black &amp; White (1990)(Lords, The)(128K)(NL)(en).tzx" size="16364" crc="eaa9944a" md5="045864b241d14206a3c27a91d3329eef" sha1="a15a852d8b9c41b940e596856bdfefef3174b4c6"/>
@@ -498,6 +542,10 @@
 		<description>Saboteur Loading Screen (19xx)(-)</description>
 		<rom name="Saboteur Loading Screen (19xx)(-).tzx" size="4540" crc="2dcb3c9b" md5="d181c2f538e54a89d9112eda0b9998d9" sha1="c8088afff1fffe0805fbcb75ea9096882dae9a5a"/>
 	</game>
+	<game name="Sailor, The (1991)(Penisoft)(128K)(PT)(en)">
+		<description>Sailor, The (1991)(Penisoft)(128K)(PT)(en)</description>
+		<rom name="Sailor, The (1991)(Penisoft)(128K)(PT)(en).tzx" size="44624" crc="ea12f792" md5="42293a2290c52ab740a653bc99fb9259" sha1="53ddf045897bdb10a1b0eced6856bd0488e9bc89"/>
+	</game>
 	<game name="Samantha Fox 2 (19xx)(-)(128K)[adult]">
 		<description>Samantha Fox 2 (19xx)(-)(128K)[adult]</description>
 		<rom name="Samantha Fox 2 (19xx)(-)(128K)[adult].tzx" size="49540" crc="38759b53" md5="564831f88fdbe4d7a653db852c024c51" sha1="3d999efeecd16b54875eedbe8d0a2a3f33876c9a"/>
@@ -505,6 +553,18 @@
 	<game name="Sample Tracker Demo v1.1 (1992)(CBM - Matasoft)(128K)(CZ)(en)">
 		<description>Sample Tracker Demo v1.1 (1992)(CBM - Matasoft)(128K)(CZ)(en)</description>
 		<rom name="Sample Tracker Demo v1.1 (1992)(CBM - Matasoft)(128K)(CZ)(en).tzx" size="24347" crc="b392394b" md5="33c3767c3aaea1f943521f3ed1ce0834" sha1="0c3ea62a4043debf69eebb080d64686095f31c68"/>
+	</game>
+	<game name="Satanas aneb co v bibli neni (1991)(Zimmermann, Jara da)(CZ)[adult]">
+		<description>Satanas aneb co v bibli neni (1991)(Zimmermann, Jara da)(CZ)[adult]</description>
+		<rom name="Satanas aneb co v bibli neni (1991)(Zimmermann, Jara da)(CZ)[adult].tzx" size="47237" crc="3bf862d3" md5="f9ce463af80a02d8d6dd4d50e64e4b54" sha1="789d935286bf5d6336a2b1810d5551a78e8eed3b"/>
+	</game>
+	<game name="Schneider (2020-08)(Penisoft)(128K)(PT)(en)">
+		<description>Schneider (2020-08)(Penisoft)(128K)(PT)(en)</description>
+		<rom name="Schneider (2020-08)(Penisoft)(128K)(PT)(en).tzx" size="89342" crc="cc7db9aa" md5="672e8ecec6b6a60aa9faa72010e0a916" sha1="4124ae38fc7fd3bb934d914643546d409e24e1c2"/>
+	</game>
+	<game name="Schneider (2020-08)(Penisoft)(128K)(PT)(en)[a]">
+		<description>Schneider (2020-08)(Penisoft)(128K)(PT)(en)[a]</description>
+		<rom name="Schneider (2020-08)(Penisoft)(128K)(PT)(en)[a].tzx" size="89382" crc="8edf36aa" md5="3b036e7be7d223b073055aae7203d5e6" sha1="c030f2ee7074f9167ec4ac1f583748c3863885e2"/>
 	</game>
 	<game name="Sex Simulator 1 (1988)(Scandinavian Software Crackers)(DK)(en)[adult]">
 		<description>Sex Simulator 1 (1988)(Scandinavian Software Crackers)(DK)(en)[adult]</description>

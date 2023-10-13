@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Board - [T64]</name>
-		<description>Commodore C64 - Games - Board - [T64] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Board - [T64] (TOSEC-v2023-05-30)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-30</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -460,9 +460,9 @@
 		<description>Backgammon (1978)(Bulmer, O. F.)</description>
 		<rom name="Backgammon (1978)(Bulmer, O. F.).t64" size="6469" crc="d22946ad" md5="733f5aef455d5ab3bf59e2b32750c723" sha1="b7480d83c9d9adbfeac7667097b48d1c7c531214"/>
 	</game>
-	<game name="Backgammon (1983)(Courbois Software)(nl)">
-		<description>Backgammon (1983)(Courbois Software)(nl)</description>
-		<rom name="Backgammon (1983)(Courbois Software)(nl).t64" size="6743" crc="f7100b1a" md5="e73969c3c2dea4bf3308bf8311c726b3" sha1="d83b464395d79950da853055af0be5aabe642ecc"/>
+	<game name="Backgammon (1983)(Courbois)(nl)">
+		<description>Backgammon (1983)(Courbois)(nl)</description>
+		<rom name="Backgammon (1983)(Courbois)(nl).t64" size="6743" crc="f7100b1a" md5="e73969c3c2dea4bf3308bf8311c726b3" sha1="d83b464395d79950da853055af0be5aabe642ecc"/>
 	</game>
 	<game name="Backgammon (1984)(Mantra Software)(it)">
 		<description>Backgammon (1984)(Mantra Software)(it)</description>
@@ -800,9 +800,13 @@
 		<description>Cesar (1990)(E. Wisniewski)[cr Wicked][a2]</description>
 		<rom name="Cesar (1990)(E. Wisniewski)[cr Wicked][a2].t64" size="17810" crc="3d885427" md5="8638270e46f72f4334cdd5b411f5d52f" sha1="a688c62fbf3031e7eaae1821d9615d473345cc46"/>
 	</game>
-	<game name="Checker Command (1991)(COMPUTE! Publications - COMPUTE!&apos;s Gazette)[cr AOD]">
-		<description>Checker Command (1991)(COMPUTE! Publications - COMPUTE!&apos;s Gazette)[cr AOD]</description>
-		<rom name="Checker Command (1991)(COMPUTE! Publications - COMPUTE!&apos;s Gazette)[cr AOD].t64" size="15737" crc="de921d6b" md5="3c9d949e2b52c92633cd94686a54a0a2" sha1="74aefa21a5f285719d59b6e4c469335baeea55d0"/>
+	<game name="Checker Command (1991)(Compute!)">
+		<description>Checker Command (1991)(Compute!)</description>
+		<rom name="Checker Command (1991)(Compute!).t64" size="4472" crc="e82a37a2" md5="b3dd2565ba217d8629cbfb777e4eecb7" sha1="15ce3a81015940a8ceb1a8769a3b0c14b6a62591"/>
+	</game>
+	<game name="Checker Command (1991)(Compute!)[cr AOD]">
+		<description>Checker Command (1991)(Compute!)[cr AOD]</description>
+		<rom name="Checker Command (1991)(Compute!)[cr AOD].t64" size="15737" crc="de921d6b" md5="3c9d949e2b52c92633cd94686a54a0a2" sha1="74aefa21a5f285719d59b6e4c469335baeea55d0"/>
 	</game>
 	<game name="Checkers (1978)(Creative Computing)[cr Rio Baan]">
 		<description>Checkers (1978)(Creative Computing)[cr Rio Baan]</description>
@@ -1628,9 +1632,9 @@
 		<description>Game of Awari, The (1984)(Understanding)</description>
 		<rom name="Game of Awari, The (1984)(Understanding).t64" size="4215" crc="f98ff099" md5="bd513cf7ec422cce47e6b64d80462a04" sha1="6c50bde5ca6d4803390136be87d59b2ee6034fe6"/>
 	</game>
-	<game name="Game of the Gods! (1993)(Loadstar - Softdisk Publishing)[cr ANT]">
-		<description>Game of the Gods! (1993)(Loadstar - Softdisk Publishing)[cr ANT]</description>
-		<rom name="Game of the Gods! (1993)(Loadstar - Softdisk Publishing)[cr ANT].t64" size="35673" crc="2a70deec" md5="7ef894ff754e07f31d7b666d4f1407ff" sha1="ae9e6e14dcb70264f2e2366d5b2cde7d0577910a"/>
+	<game name="Game of the Gods! (1993)(Loadstar)[cr ANT]">
+		<description>Game of the Gods! (1993)(Loadstar)[cr ANT]</description>
+		<rom name="Game of the Gods! (1993)(Loadstar)[cr ANT].t64" size="35673" crc="2a70deec" md5="7ef894ff754e07f31d7b666d4f1407ff" sha1="ae9e6e14dcb70264f2e2366d5b2cde7d0577910a"/>
 	</game>
 	<game name="Gammon (1979)(Cursor Magazine)">
 		<description>Gammon (1979)(Cursor Magazine)</description>
@@ -1724,6 +1728,10 @@
 		<description>Gomoku (19xx)(-)(de)</description>
 		<rom name="Gomoku (19xx)(-)(de).t64" size="5043" crc="a9712896" md5="078f1eeb7b82bbdd237dd4d0ff02b10a" sha1="eb2fbd3cff65b9ed21084ab3b2dc4fd66b369af6"/>
 	</game>
+	<game name="Go-Moku (2008)(Porcino, Antonio)(PD)[cr ASS]">
+		<description>Go-Moku (2008)(Porcino, Antonio)(PD)[cr ASS]</description>
+		<rom name="Go-Moku (2008)(Porcino, Antonio)(PD)[cr ASS].t64" size="2479" crc="cbbe7daf" md5="9b06f04a51a881049a01494ddf36d94a" sha1="1d7cb4566a09a9124f8a0eacab3355fac079a221"/>
+	</game>
 	<game name="Go-Moku (2008)(Porcino, Antonio)(PD)[cr RPL]">
 		<description>Go-Moku (2008)(Porcino, Antonio)(PD)[cr RPL]</description>
 		<rom name="Go-Moku (2008)(Porcino, Antonio)(PD)[cr RPL].t64" size="5147" crc="09d539cd" md5="0144cbf62becbbc9f3bd6c4d80490e9d" sha1="07801cc2e356987ca703aa0e15aa917a38b2963e"/>
@@ -1731,10 +1739,6 @@
 	<game name="Go-Moku (2008)(Porcino, Antonio)(PD)[cr RPL][a]">
 		<description>Go-Moku (2008)(Porcino, Antonio)(PD)[cr RPL][a]</description>
 		<rom name="Go-Moku (2008)(Porcino, Antonio)(PD)[cr RPL][a].t64" size="5147" crc="f0ca6c99" md5="446a401809c18ffea667e131b087be3e" sha1="107f3317fd033f5ee094c8101835233d1b007b63"/>
-	</game>
-	<game name="Go-Moku (2008)(Porcino, Antonio)[cr ASS]">
-		<description>Go-Moku (2008)(Porcino, Antonio)[cr ASS]</description>
-		<rom name="Go-Moku (2008)(Porcino, Antonio)[cr ASS].t64" size="2479" crc="cbbe7daf" md5="9b06f04a51a881049a01494ddf36d94a" sha1="1d7cb4566a09a9124f8a0eacab3355fac079a221"/>
 	</game>
 	<game name="Grandmaster (1982)(Kingsoft)">
 		<description>Grandmaster (1982)(Kingsoft)</description>
@@ -2280,13 +2284,13 @@
 		<description>Monopoly CBM-64 (1982)(Borion, Tim - Oeper, Sal)(nl)[cr SCI 666][a]</description>
 		<rom name="Monopoly CBM-64 (1982)(Borion, Tim - Oeper, Sal)(nl)[cr SCI 666][a].t64" size="17533" crc="8e8c6c8f" md5="a825125be5da82c6114a51bbfbe9e9f9" sha1="200c6021966d34e50b006afed6b59d22f5c89901"/>
 	</game>
-	<game name="Monopoly CBM-64 (19xx)(John O&apos;Hare)(DE-NL)">
-		<description>Monopoly CBM-64 (19xx)(John O&apos;Hare)(DE-NL)</description>
-		<rom name="Monopoly CBM-64 (19xx)(John O&apos;Hare)(DE-NL).t64" size="38936" crc="b1ea866d" md5="5267ce5cd08c26cf8da91e785c511f5f" sha1="7c81fc35298d9c38fbd21d0e268adf89e029dbf7"/>
+	<game name="Monopoly CBM-64 (19xx)(O&apos;Hare, John)(DE-NL)">
+		<description>Monopoly CBM-64 (19xx)(O&apos;Hare, John)(DE-NL)</description>
+		<rom name="Monopoly CBM-64 (19xx)(O&apos;Hare, John)(DE-NL).t64" size="38936" crc="b1ea866d" md5="5267ce5cd08c26cf8da91e785c511f5f" sha1="7c81fc35298d9c38fbd21d0e268adf89e029dbf7"/>
 	</game>
-	<game name="Monopoly CBM-64 (19xx)(John O&apos;Hare)(DE-NL)[a]">
-		<description>Monopoly CBM-64 (19xx)(John O&apos;Hare)(DE-NL)[a]</description>
-		<rom name="Monopoly CBM-64 (19xx)(John O&apos;Hare)(DE-NL)[a].t64" size="25727" crc="f9de49e4" md5="a20cba36da08d117d08ba25a87598900" sha1="d8f9ca0ab63528151b8a91cefd769ed5ddfb56f0"/>
+	<game name="Monopoly CBM-64 (19xx)(O&apos;Hare, John)(DE-NL)[a]">
+		<description>Monopoly CBM-64 (19xx)(O&apos;Hare, John)(DE-NL)[a]</description>
+		<rom name="Monopoly CBM-64 (19xx)(O&apos;Hare, John)(DE-NL)[a].t64" size="25727" crc="f9de49e4" md5="a20cba36da08d117d08ba25a87598900" sha1="d8f9ca0ab63528151b8a91cefd769ed5ddfb56f0"/>
 	</game>
 	<game name="Monopoly Deluxe (1988)(Leisure Genius)[cr DCS]">
 		<description>Monopoly Deluxe (1988)(Leisure Genius)[cr DCS]</description>
@@ -2368,17 +2372,17 @@
 		<description>Muehle (1994)(Magna Media)[cr SCS+TRC]</description>
 		<rom name="Muehle (1994)(Magna Media)[cr SCS+TRC].t64" size="29076" crc="a2247224" md5="e0a729db2e822b598a02ea6a08a32a53" sha1="162b9c9c515e8a0538347026540107e80d232196"/>
 	</game>
-	<game name="Muehle (19xx)(-)(de)">
-		<description>Muehle (19xx)(-)(de)</description>
-		<rom name="Muehle (19xx)(-)(de).t64" size="13567" crc="14882b6f" md5="44b6e50dafb1b9daf9517d5a6fffd74b" sha1="ef803eaecb56b411bd972fa72f17fdc913e332a8"/>
-	</game>
 	<game name="Muehle (19xx)(-)(de)(PD)">
 		<description>Muehle (19xx)(-)(de)(PD)</description>
 		<rom name="Muehle (19xx)(-)(de)(PD).t64" size="14492" crc="95512519" md5="24952beac89f4eb01c204fefb3972496" sha1="c799bd9df74125f3bbf60460bd9af67d5c081209"/>
 	</game>
-	<game name="Muehle (19xx)(-)(de)[a]">
-		<description>Muehle (19xx)(-)(de)[a]</description>
-		<rom name="Muehle (19xx)(-)(de)[a].t64" size="10585" crc="2396c445" md5="df21c4ea0385e0afe6f91bd7f394108a" sha1="605e62bf00d25f5f67fcacc04ffd2e8d2bb432dc"/>
+	<game name="Muehle (19xx)(-)(de)(PD)[a]">
+		<description>Muehle (19xx)(-)(de)(PD)[a]</description>
+		<rom name="Muehle (19xx)(-)(de)(PD)[a].t64" size="13567" crc="14882b6f" md5="44b6e50dafb1b9daf9517d5a6fffd74b" sha1="ef803eaecb56b411bd972fa72f17fdc913e332a8"/>
+	</game>
+	<game name="Muehle (19xx)(-)(de)(PD)[a2]">
+		<description>Muehle (19xx)(-)(de)(PD)[a2]</description>
+		<rom name="Muehle (19xx)(-)(de)(PD)[a2].t64" size="10585" crc="2396c445" md5="df21c4ea0385e0afe6f91bd7f394108a" sha1="605e62bf00d25f5f67fcacc04ffd2e8d2bb432dc"/>
 	</game>
 	<game name="Mühle (19xx)(-)(de)">
 		<description>Mühle (19xx)(-)(de)</description>
@@ -2464,9 +2468,9 @@
 		<description>Othello (1983)(Brookfield Software)(nl)[a]</description>
 		<rom name="Othello (1983)(Brookfield Software)(nl)[a].t64" size="6128" crc="e4ff9e36" md5="554e56ffaa626692d8039f6f2eeca6f3" sha1="8d20553ea06ef51eaaa5a7ebd67a5ceb561d2e03"/>
 	</game>
-	<game name="Othello (1983)(Courbois Software)(nl)">
-		<description>Othello (1983)(Courbois Software)(nl)</description>
-		<rom name="Othello (1983)(Courbois Software)(nl).t64" size="5758" crc="fbc23b13" md5="18d8cbbc8e42a1e1b23473775a13d042" sha1="dbd58e9b4954de51f1a8a70cbd528af26cf9521d"/>
+	<game name="Othello (1983)(Courbois)(nl)">
+		<description>Othello (1983)(Courbois)(nl)</description>
+		<rom name="Othello (1983)(Courbois)(nl).t64" size="5758" crc="fbc23b13" md5="18d8cbbc8e42a1e1b23473775a13d042" sha1="dbd58e9b4954de51f1a8a70cbd528af26cf9521d"/>
 	</game>
 	<game name="Othello (1983)(Stack Computer Services)">
 		<description>Othello (1983)(Stack Computer Services)</description>
@@ -2640,9 +2644,9 @@
 		<description>Pathways (1984)(J.soft s.r.l - Super)(it)[cr Rio Baan]</description>
 		<rom name="Pathways (1984)(J.soft s.r.l - Super)(it)[cr Rio Baan].t64" size="3778" crc="e9e0a752" md5="f61209950b1160cb0d57c0e0057e3dfe" sha1="73414a899b03e5317645d6defb30f32d6786a2b0"/>
 	</game>
-	<game name="Pebbles (1983)(Courbois Software)(de)">
-		<description>Pebbles (1983)(Courbois Software)(de)</description>
-		<rom name="Pebbles (1983)(Courbois Software)(de).t64" size="3618" crc="0b0bb013" md5="1ad7ffa9b0e7f4e7b69c50f19af0f0b4" sha1="ee3f2079144c43e0c35b181d2046c5b4a2f7f6b0"/>
+	<game name="Pebbles (1983)(Courbois)(de)">
+		<description>Pebbles (1983)(Courbois)(de)</description>
+		<rom name="Pebbles (1983)(Courbois)(de).t64" size="3618" crc="0b0bb013" md5="1ad7ffa9b0e7f4e7b69c50f19af0f0b4" sha1="ee3f2079144c43e0c35b181d2046c5b4a2f7f6b0"/>
 	</game>
 	<game name="PET Checkers (19xx)(CMS Software Systems)">
 		<description>PET Checkers (19xx)(CMS Software Systems)</description>
@@ -2680,9 +2684,9 @@
 		<description>Push (1984)(C+VG)[cr Rio Baan]</description>
 		<rom name="Push (1984)(C+VG)[cr Rio Baan].t64" size="3941" crc="52e91010" md5="b96be4f366cd43afec1c30d826ed9fee" sha1="4434ab77fa1134b836404e3f2b610c5316c9b5a4"/>
 	</game>
-	<game name="Push (1984)(Courbois Software)(nl)">
-		<description>Push (1984)(Courbois Software)(nl)</description>
-		<rom name="Push (1984)(Courbois Software)(nl).t64" size="3495" crc="68f3521f" md5="4c3b1e28bf90ca53c70758c5e9b48772" sha1="bc7c54c5683c3f0c9d058e6898e063f57b9dad39"/>
+	<game name="Push (1984)(Courbois)(nl)">
+		<description>Push (1984)(Courbois)(nl)</description>
+		<rom name="Push (1984)(Courbois)(nl).t64" size="3495" crc="68f3521f" md5="4c3b1e28bf90ca53c70758c5e9b48772" sha1="bc7c54c5683c3f0c9d058e6898e063f57b9dad39"/>
 	</game>
 	<game name="Real Estate Tycoon (198x)(-)">
 		<description>Real Estate Tycoon (198x)(-)</description>
@@ -2704,9 +2708,9 @@
 		<description>Reflection (1984)(Compute!)[a]</description>
 		<rom name="Reflection (1984)(Compute!)[a].t64" size="9214" crc="2f6dd89d" md5="f1d9c740527be975cd0dcc1323086baa" sha1="51eb231c7d6e2fe43372b03fc756d20cd69713e3"/>
 	</game>
-	<game name="Renaissance (1982)(United Microware Industries Inc.)">
-		<description>Renaissance (1982)(United Microware Industries Inc.)</description>
-		<rom name="Renaissance (1982)(United Microware Industries Inc.).t64" size="6912" crc="6ca8b153" md5="bb46537cd9871eff8a5f2279f7f33af5" sha1="044563b5a00534cc2e66fbb88bc1e2973ab83368"/>
+	<game name="Renaissance (1982)(United Microwave Industries)">
+		<description>Renaissance (1982)(United Microwave Industries)</description>
+		<rom name="Renaissance (1982)(United Microwave Industries).t64" size="6912" crc="6ca8b153" md5="bb46537cd9871eff8a5f2279f7f33af5" sha1="044563b5a00534cc2e66fbb88bc1e2973ab83368"/>
 	</game>
 	<game name="Retournement (1990)(Tilt-micro-jeux - Editions Mondiales S.A)(fr)">
 		<description>Retournement (1990)(Tilt-micro-jeux - Editions Mondiales S.A)(fr)</description>

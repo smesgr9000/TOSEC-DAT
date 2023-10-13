@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Applications - [SNA]</name>
-		<description>Sinclair ZX Spectrum - Applications - [SNA] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Applications - [SNA] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:11</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:51</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -26,9 +26,13 @@
 		<description>AOwen Utility Pack (2001)(Moss, Adam D.)[a][CSSCGC]</description>
 		<rom name="AOwen Utility Pack (2001)(Moss, Adam D.)[a][CSSCGC].sna" size="49179" crc="5550e7f6" md5="fab79d4c3b3f93e1b5dd74fd01cc701e" sha1="b919881f0cd3dc5914a500b63a9fb89d85d5b72a"/>
 	</game>
-	<game name="Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)[CSSCGC]">
-		<description>Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)[CSSCGC]</description>
-		<rom name="Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)[CSSCGC].sna" size="131103" crc="aedaa825" md5="b44d86538244c25d530dd9e51fc2dbf3" sha1="2fcee2fee9ea327854d75a4943941978850e0922"/>
+	<game name="Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)(16K)[CSSCGC]">
+		<description>Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)(16K)[CSSCGC]</description>
+		<rom name="Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)(16K)[CSSCGC].sna" size="131103" crc="aedaa825" md5="b44d86538244c25d530dd9e51fc2dbf3" sha1="2fcee2fee9ea327854d75a4943941978850e0922"/>
+	</game>
+	<game name="Advanced Lawnmower Starter Simulator 2 (2008)(Digital Prawn)[CSSCGC]">
+		<description>Advanced Lawnmower Starter Simulator 2 (2008)(Digital Prawn)[CSSCGC]</description>
+		<rom name="Advanced Lawnmower Starter Simulator 2 (2008)(Digital Prawn)[CSSCGC].sna" size="49179" crc="1a2d4bbf" md5="7ee2bf7743b49a4c3e3c7876099c3482" sha1="f72711b08fae764dc7d4ae98d632e04c898979a5"/>
 	</game>
 	<game name="Anagrams 2 (1996)(Blood)[CSSCGC]">
 		<description>Anagrams 2 (1996)(Blood)[CSSCGC]</description>
@@ -38,9 +42,17 @@
 		<description>CPEL (1997)(Blood)[CSSCGC]</description>
 		<rom name="CPEL (1997)(Blood)[CSSCGC].sna" size="49179" crc="ae59f8f2" md5="0b18c25cc3ecc794769d9536e9725a2a" sha1="18794a4edd1a4aa0181e2619758a5b370b4a0734"/>
 	</game>
+	<game name="Commodore 64 Emulator (2008)(Digital Prawn)[CSSCGC]">
+		<description>Commodore 64 Emulator (2008)(Digital Prawn)[CSSCGC]</description>
+		<rom name="Commodore 64 Emulator (2008)(Digital Prawn)[CSSCGC].sna" size="49179" crc="cccf42bb" md5="59eebb4671300d0b2f584a86a9d9d939" sha1="ad31e8eaa89749bb35c71745cd8103b7059141fa"/>
+	</game>
 	<game name="Commodore 64 Simulator (2000)(Goring, Graham)[CSSCGC]">
 		<description>Commodore 64 Simulator (2000)(Goring, Graham)[CSSCGC]</description>
 		<rom name="Commodore 64 Simulator (2000)(Goring, Graham)[CSSCGC].sna" size="49179" crc="bb1cc04a" md5="06f3475c9e86dca0dfd5fa33ed02259a" sha1="2c986419f98a2c2c0a1116590473083dfc12feba"/>
+	</game>
+	<game name="Compukit UK101 emulator (2008)(Digital Prawn)(48K-128K)">
+		<description>Compukit UK101 emulator (2008)(Digital Prawn)(48K-128K)</description>
+		<rom name="Compukit UK101 emulator (2008)(Digital Prawn)(48K-128K).sna" size="131103" crc="ad5810ab" md5="cdd5d8fd9fd68c9a597578e80fe7f52d" sha1="d32382ab5fa760151b15913229c7d559471d1b1f"/>
 	</game>
 	<game name="Credit Calculator (1996)(Blood)[CSSCGC]">
 		<description>Credit Calculator (1996)(Blood)[CSSCGC]</description>
@@ -50,6 +62,10 @@
 		<description>Escher (2018)(Shiny)</description>
 		<rom name="Escher (2018)(Shiny).sna" size="49179" crc="485c57ef" md5="5eb3d874ebc44247f7e5b1c849df87f3" sha1="44854212cc4e621e251a2ba69a2eaa8023729905"/>
 	</game>
+	<game name="Facebook 2010 (2010)(BloodBaz)[CSSCGC]">
+		<description>Facebook 2010 (2010)(BloodBaz)[CSSCGC]</description>
+		<rom name="Facebook 2010 (2010)(BloodBaz)[CSSCGC].sna" size="49179" crc="3ac54673" md5="c57b33590ff50414db287d071846d93b" sha1="26204d5c7446da53c6d27cccb8c3275ad9b87b92"/>
+	</game>
 	<game name="Formula One Editor (2004)(BadBeard)">
 		<description>Formula One Editor (2004)(BadBeard)</description>
 		<rom name="Formula One Editor (2004)(BadBeard).sna" size="49179" crc="d4c316c4" md5="a07c512fdae9de72ae536feb3740a19b" sha1="7cb07987d2bc23259d7610cbaeb76b9a46ca8973"/>
@@ -58,13 +74,33 @@
 		<description>Formula One Editor (2004)(BadBeard)[a]</description>
 		<rom name="Formula One Editor (2004)(BadBeard)[a].sna" size="49179" crc="b7bc3911" md5="409fd7d3b2c4fd069faf091d3f064c04" sha1="41b462d86c3d193d4c0d935b2ecc1e2e7edf22da"/>
 	</game>
-	<game name="Keys (1996)(Blood)[CSSCGC]">
-		<description>Keys (1996)(Blood)[CSSCGC]</description>
-		<rom name="Keys (1996)(Blood)[CSSCGC].sna" size="49179" crc="812f73d6" md5="e29e20300f6d8e87a66b1862112805f3" sha1="ab53ba2e759352d66c8081c351058e01acc8cdbf"/>
+	<game name="Improved Advanced 16K Spectrum Emulator (2008)(Digital Prawn)(16K)[CSSCGC]">
+		<description>Improved Advanced 16K Spectrum Emulator (2008)(Digital Prawn)(16K)[CSSCGC]</description>
+		<rom name="Improved Advanced 16K Spectrum Emulator (2008)(Digital Prawn)(16K)[CSSCGC].sna" size="49179" crc="4f137b15" md5="0d2f6b20852bafd66e20a12a7f87c35d" sha1="a70b9f0486534a9a1cf05fb2327f57583538e2b6"/>
+	</game>
+	<game name="Lapland Theme Park Manager (2008)(Digital Prawn)(16K)[CSSCGC]">
+		<description>Lapland Theme Park Manager (2008)(Digital Prawn)(16K)[CSSCGC]</description>
+		<rom name="Lapland Theme Park Manager (2008)(Digital Prawn)(16K)[CSSCGC].sna" size="49179" crc="b8766185" md5="d6ef7f99810db166ab7c8cb2a4a3eb88" sha1="8c64d8d9942205d152809b9e5c8e49bb5c28fb38"/>
 	</game>
 	<game name="Lego Simulator (1996)(Blood)[CSSCGC]">
 		<description>Lego Simulator (1996)(Blood)[CSSCGC]</description>
 		<rom name="Lego Simulator (1996)(Blood)[CSSCGC].sna" size="49179" crc="42f5f557" md5="ce869a0234e1e9b57a05454f24b9c0e7" sha1="4351f5aa9cf644e585b0a0c765c417fede36c591"/>
+	</game>
+	<game name="Load &amp; Save Prog (1984)(Silva, Tomas Oliveira e)(pt)">
+		<description>Load &amp; Save Prog (1984)(Silva, Tomas Oliveira e)(pt)</description>
+		<rom name="Load &amp; Save Prog (1984)(Silva, Tomas Oliveira e)(pt).sna" size="49179" crc="1ddfd3a9" md5="58d930494c1f4c1131cf83e26c9c63dc" sha1="3d1214e878ac7f578fa6828cdc5603830ffd4c3f"/>
+	</game>
+	<game name="RUETAMA BC48 (19xx)(Ruetama)">
+		<description>RUETAMA BC48 (19xx)(Ruetama)</description>
+		<rom name="RUETAMA BC48 (19xx)(Ruetama).sna" size="49179" crc="5cbcacc8" md5="f6225710660b432469395c83c3b66fcd" sha1="4fbd5763c488af442ffbbb96c80cef078f1ccee0"/>
+	</game>
+	<game name="RUETAMA SP48 (19xx)(Ruetama)">
+		<description>RUETAMA SP48 (19xx)(Ruetama)</description>
+		<rom name="RUETAMA SP48 (19xx)(Ruetama).sna" size="49179" crc="723aa654" md5="740046ebde257d9c585daefbb5ab4361" sha1="871862828c9fa266916d32463647711d3a4228cb"/>
+	</game>
+	<game name="Robbie Williams Headline Generator (2002)(Paul Equinox Collins)[CSSCGC]">
+		<description>Robbie Williams Headline Generator (2002)(Paul Equinox Collins)[CSSCGC]</description>
+		<rom name="Robbie Williams Headline Generator (2002)(Paul Equinox Collins)[CSSCGC].sna" size="49179" crc="b3635a14" md5="5b812c3a3fe0e86772bbe630a4f970e0" sha1="11fa7d0647f0071a4ad079cc0e137031c15db90d"/>
 	</game>
 	<game name="Super Amazing Filler (1997)(Blood)[CSSCGC]">
 		<description>Super Amazing Filler (1997)(Blood)[CSSCGC]</description>

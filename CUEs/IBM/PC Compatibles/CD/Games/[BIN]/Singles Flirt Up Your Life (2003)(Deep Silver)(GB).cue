@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Singles Flirt Up Your Life (2003)(Deep Silver)(GB).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

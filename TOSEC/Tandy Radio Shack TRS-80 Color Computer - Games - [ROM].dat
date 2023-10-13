@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Tandy Radio Shack TRS-80 Color Computer - Games - [ROM]</name>
-		<description>Tandy Radio Shack TRS-80 Color Computer - Games - [ROM] (TOSEC-v2011-01-01)</description>
+		<description>Tandy Radio Shack TRS-80 Color Computer - Games - [ROM] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2011-01-01</version>
-		<author>Aral</author>
+		<version>2023-06-14</version>
+		<author>Aral - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -23,6 +23,10 @@
 	<game name="Androne (1983)(Tandy)[26-3096]">
 		<description>Androne (1983)(Tandy)[26-3096]</description>
 		<rom name="Androne (1983)(Tandy)[26-3096].rom" size="8192" crc="7d1cac0e" md5="5f1c5584547999ee1b083976082b0fb2" sha1="b19da63ba28a1278c3921a2dc739ad1d0dbd5402"/>
+	</game>
+	<game name="Arcade Space Invaders v0.9 (2016)(tcdev)(AU)(alpha)">
+		<description>Arcade Space Invaders v0.9 (2016)(tcdev)(AU)(alpha)</description>
+		<rom name="Arcade Space Invaders v0.9 (2016)(tcdev)(AU)(alpha).rom" size="16384" crc="b946005c" md5="eb16c19f8f1c3fd4853c154256975561" sha1="69a27755b1c134e0132b662bf2904b90bf111d47"/>
 	</game>
 	<game name="Arkanoid (1987)(Tandy)[26-3043]">
 		<description>Arkanoid (1987)(Tandy)[26-3043]</description>
@@ -147,6 +151,14 @@
 	<game name="Gomoku-Renju (1983)(Tandy)[26-3069]">
 		<description>Gomoku-Renju (1983)(Tandy)[26-3069]</description>
 		<rom name="Gomoku-Renju (1983)(Tandy)[26-3069].rom" size="8192" crc="fd84fc5c" md5="344e504d4e8d4eacfca8f1cd4e68bd18" sha1="210b5df78ffe4b4cc4ed7845b50c1e17fc79bf0f"/>
+	</game>
+	<game name="Lode Runner v0.5 (2014)(McDougall, Mark)(AU)(beta)[Beta 4.1][colour]">
+		<description>Lode Runner v0.5 (2014)(McDougall, Mark)(AU)(beta)[Beta 4.1][colour]</description>
+		<rom name="Lode Runner v0.5 (2014)(McDougall, Mark)(AU)(beta)[Beta 4.1][colour].rom" size="31201" crc="3cbff7bb" md5="8974439904093523fd2b2f0e90041edd" sha1="428f0ada6118bef804b362f5688d46cd656d6c2b"/>
+	</game>
+	<game name="Lode Runner v0.5 (2014)(McDougall, Mark)(AU)(beta)[Beta 4.1][mono]">
+		<description>Lode Runner v0.5 (2014)(McDougall, Mark)(AU)(beta)[Beta 4.1][mono]</description>
+		<rom name="Lode Runner v0.5 (2014)(McDougall, Mark)(AU)(beta)[Beta 4.1][mono].rom" size="31236" crc="86ff5113" md5="3ffd81d093fcca6ce303a05ee8520751" sha1="1f3b947480b1bc42d18ad63d8c2e81a3843b5b81"/>
 	</game>
 	<game name="Mega-Bug (1982)(Tandy)[26-3076]">
 		<description>Mega-Bug (1982)(Tandy)[26-3076]</description>

@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Applications - [Z80]</name>
-		<description>Sinclair ZX Spectrum - Applications - [Z80] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Applications - [Z80] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:05</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:44</date>
 		<author>Lady Eklipse - jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -138,9 +138,9 @@
 		<description>3D Naslov (1984)(SAM Svoj Majdtor)(BA)(bs)</description>
 		<rom name="3D Naslov (1984)(SAM Svoj Majdtor)(BA)(bs).z80" size="1972" crc="70992bb7" md5="54f836c2704157049a07f5b7058778b3" sha1="cdfa4062cf0dafcca0b1a50ac07e8aeb7d7a63d6"/>
 	</game>
-	<game name="3D Plot (19xx)(-)(de)">
-		<description>3D Plot (19xx)(-)(de)</description>
-		<rom name="3D Plot (19xx)(-)(de).z80" size="3216" crc="30a32daf" md5="3c36fd6975d6368ce2015251d49aa379" sha1="acd58b901d5f4e02ee2e3d8355be20aa0f2ef1ed"/>
+	<game name="3D Plot (1983)(Happy Computer)(de)">
+		<description>3D Plot (1983)(Happy Computer)(de)</description>
+		<rom name="3D Plot (1983)(Happy Computer)(de).z80" size="3216" crc="30a32daf" md5="3c36fd6975d6368ce2015251d49aa379" sha1="acd58b901d5f4e02ee2e3d8355be20aa0f2ef1ed"/>
 	</game>
 	<game name="3D Plotter (1984)(Ziga Turk)(SI)">
 		<description>3D Plotter (1984)(Ziga Turk)(SI)</description>
@@ -242,17 +242,21 @@
 		<description>Adressenverwaltung v2.1 (1984)(Horst Weigand)(DE)</description>
 		<rom name="Adressenverwaltung v2.1 (1984)(Horst Weigand)(DE).z80" size="19066" crc="6c161c46" md5="9c96f2ec9d79ada83a59942d315e5e1b" sha1="1df2e31894224a442238e06e0362aa76ded4b834"/>
 	</game>
-	<game name="Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)(128K)[CSSCGC]">
-		<description>Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)(128K)[CSSCGC]</description>
-		<rom name="Advanced 10 PRINT Hello 20 GO TO 10 Simulator (2008)(Digital Prawn)(128K)[CSSCGC].z80" size="29746" crc="160424ee" md5="3a29b0b031da8d6f76daca826afc7314" sha1="1df71e2c71100152d93d1b292bd1f614945e0baa"/>
+	<game name="Advanced 10 PRINT HELLO ; 20 GOTO 10 Simulator 128K Edition (2008)(Digital Prawn)(128K)[CSSCGC]">
+		<description>Advanced 10 PRINT HELLO ; 20 GOTO 10 Simulator 128K Edition (2008)(Digital Prawn)(128K)[CSSCGC]</description>
+		<rom name="Advanced 10 PRINT HELLO ; 20 GOTO 10 Simulator 128K Edition (2008)(Digital Prawn)(128K)[CSSCGC].z80" size="29746" crc="160424ee" md5="3a29b0b031da8d6f76daca826afc7314" sha1="1df71e2c71100152d93d1b292bd1f614945e0baa"/>
 	</game>
-	<game name="Advanced Art Studio (1986)(Rainbird)(128K)[aka Advanced OCP Art Studio, The][aka Extended Art Studio]">
-		<description>Advanced Art Studio (1986)(Rainbird)(128K)[aka Advanced OCP Art Studio, The][aka Extended Art Studio]</description>
-		<rom name="Advanced Art Studio (1986)(Rainbird)(128K)[aka Advanced OCP Art Studio, The][aka Extended Art Studio].z80" size="55312" crc="1ceb8039" md5="6875cad209fb0c17ebb405b910c9589e" sha1="90eafdd1bb3755a62ff929a2dced5bc4477cc3b3"/>
+	<game name="Advanced Art Studio (1986)(Rainbird)(128K)[aka Advanced OCP Art Studio, The][aka Art Studio 128][aka Extended Art Studio]">
+		<description>Advanced Art Studio (1986)(Rainbird)(128K)[aka Advanced OCP Art Studio, The][aka Art Studio 128][aka Extended Art Studio]</description>
+		<rom name="Advanced Art Studio (1986)(Rainbird)(128K)[aka Advanced OCP Art Studio, The][aka Art Studio 128][aka Extended Art Studio].z80" size="55312" crc="1ceb8039" md5="6875cad209fb0c17ebb405b910c9589e" sha1="90eafdd1bb3755a62ff929a2dced5bc4477cc3b3"/>
 	</game>
 	<game name="Advanced Header Reader v1 (1985)(LERM)">
 		<description>Advanced Header Reader v1 (1985)(LERM)</description>
 		<rom name="Advanced Header Reader v1 (1985)(LERM).z80" size="10243" crc="a3d3484c" md5="30467978ef303399e74db02fa9763835" sha1="413a4352daf209a1b702e6f27c4788622e62a0f4"/>
+	</game>
+	<game name="Advanced UDG Creator (2010)(BloodBaz)[CSSCGC]">
+		<description>Advanced UDG Creator (2010)(BloodBaz)[CSSCGC]</description>
+		<rom name="Advanced UDG Creator (2010)(BloodBaz)[CSSCGC].z80" size="6506" crc="cf1e0e9e" md5="26c43a328e0d80ef5484f96ad592f2a8" sha1="115edbae1500f4952782fa9df6600efa326f17ff"/>
 	</game>
 	<game name="Aj-Mu-Ku Loto (1987)(Kapic, Emir - Ribic Samir)(BA)(bs)">
 		<description>Aj-Mu-Ku Loto (1987)(Kapic, Emir - Ribic Samir)(BA)(bs)</description>
@@ -630,33 +634,33 @@
 		<description>Bio-Rhythm (19xx)(-)</description>
 		<rom name="Bio-Rhythm (19xx)(-).z80" size="4371" crc="800ae784" md5="cfc1eaf81e3b7becea6fd9ca6649a0d9" sha1="19ef64fe7feca249c733aa70115f8a298f0200c9"/>
 	</game>
-	<game name="Bio-Rhythms (1982)(Outlet)(16K)[re-release]">
-		<description>Bio-Rhythms (1982)(Outlet)(16K)[re-release]</description>
-		<rom name="Bio-Rhythms (1982)(Outlet)(16K)[re-release].z80" size="12440" crc="82bbd460" md5="fe5bdc6b48a6de9fc6580965c087abd7" sha1="3a95e6a5984790c8218a47e6620cce7273d7aa6e"/>
+	<game name="Bio-Rhythms (1982)(Sinclair Programs)(16K)">
+		<description>Bio-Rhythms (1982)(Sinclair Programs)(16K)</description>
+		<rom name="Bio-Rhythms (1982)(Sinclair Programs)(16K).z80" size="12429" crc="cf36e456" md5="63c9a2a20d899d91c209a8c01b4865a7" sha1="db5a789aaf2e005c0c19f3a6aea5ef177228019b"/>
 	</game>
-	<game name="Bio-Rhythms (1982)(Outlet)(16K)[a][re-release]">
-		<description>Bio-Rhythms (1982)(Outlet)(16K)[a][re-release]</description>
-		<rom name="Bio-Rhythms (1982)(Outlet)(16K)[a][re-release].z80" size="12429" crc="cf36e456" md5="63c9a2a20d899d91c209a8c01b4865a7" sha1="db5a789aaf2e005c0c19f3a6aea5ef177228019b"/>
+	<game name="Bio-Rhythms (1982)(Sinclair Programs)(16K)[a]">
+		<description>Bio-Rhythms (1982)(Sinclair Programs)(16K)[a]</description>
+		<rom name="Bio-Rhythms (1982)(Sinclair Programs)(16K)[a].z80" size="12440" crc="82bbd460" md5="fe5bdc6b48a6de9fc6580965c087abd7" sha1="3a95e6a5984790c8218a47e6620cce7273d7aa6e"/>
 	</game>
-	<game name="Biorhythmus (1984)(Homecomputer)(DE)(Part 1 of 5)">
-		<description>Biorhythmus (1984)(Homecomputer)(DE)(Part 1 of 5)</description>
-		<rom name="Biorhythmus (1984)(Homecomputer)(DE)(Part 1 of 5).z80" size="6324" crc="fd5f9116" md5="584c4764cdeec844a4b103c5eb289c93" sha1="38341e77a1787f818fdae20b1e94e8d6736fee35"/>
+	<game name="Biorhythmus (1984)(Homecomputer)(de)(Part 1 of 5)">
+		<description>Biorhythmus (1984)(Homecomputer)(de)(Part 1 of 5)</description>
+		<rom name="Biorhythmus (1984)(Homecomputer)(de)(Part 1 of 5).z80" size="6324" crc="fd5f9116" md5="584c4764cdeec844a4b103c5eb289c93" sha1="38341e77a1787f818fdae20b1e94e8d6736fee35"/>
 	</game>
-	<game name="Biorhythmus (1984)(Homecomputer)(DE)(Part 2 of 5)">
-		<description>Biorhythmus (1984)(Homecomputer)(DE)(Part 2 of 5)</description>
-		<rom name="Biorhythmus (1984)(Homecomputer)(DE)(Part 2 of 5).z80" size="9385" crc="e792f9d2" md5="8c7e5f9d5ab0ec9ff52aaee32544b7f4" sha1="a95f8c5296cae8df6e8ab1a97aab6bc5b317c384"/>
+	<game name="Biorhythmus (1984)(Homecomputer)(de)(Part 2 of 5)">
+		<description>Biorhythmus (1984)(Homecomputer)(de)(Part 2 of 5)</description>
+		<rom name="Biorhythmus (1984)(Homecomputer)(de)(Part 2 of 5).z80" size="9385" crc="e792f9d2" md5="8c7e5f9d5ab0ec9ff52aaee32544b7f4" sha1="a95f8c5296cae8df6e8ab1a97aab6bc5b317c384"/>
 	</game>
-	<game name="Biorhythmus (1984)(Homecomputer)(DE)(Part 3 of 5)">
-		<description>Biorhythmus (1984)(Homecomputer)(DE)(Part 3 of 5)</description>
-		<rom name="Biorhythmus (1984)(Homecomputer)(DE)(Part 3 of 5).z80" size="3029" crc="e9929bab" md5="bb27e2c5a0a6b8d7f6dd66642ebf2998" sha1="4b8dbebc91775e9040da5911e58fe8b6e2b01d22"/>
+	<game name="Biorhythmus (1984)(Homecomputer)(de)(Part 3 of 5)">
+		<description>Biorhythmus (1984)(Homecomputer)(de)(Part 3 of 5)</description>
+		<rom name="Biorhythmus (1984)(Homecomputer)(de)(Part 3 of 5).z80" size="3029" crc="e9929bab" md5="bb27e2c5a0a6b8d7f6dd66642ebf2998" sha1="4b8dbebc91775e9040da5911e58fe8b6e2b01d22"/>
 	</game>
-	<game name="Biorhythmus (1984)(Homecomputer)(DE)(Part 4 of 5)">
-		<description>Biorhythmus (1984)(Homecomputer)(DE)(Part 4 of 5)</description>
-		<rom name="Biorhythmus (1984)(Homecomputer)(DE)(Part 4 of 5).z80" size="7067" crc="e85ebd60" md5="cbd7d55c41d941ae56ac9d3712f12d23" sha1="dfebf8e739ed837489a0bfedeb9fd914bf6fa490"/>
+	<game name="Biorhythmus (1984)(Homecomputer)(de)(Part 4 of 5)">
+		<description>Biorhythmus (1984)(Homecomputer)(de)(Part 4 of 5)</description>
+		<rom name="Biorhythmus (1984)(Homecomputer)(de)(Part 4 of 5).z80" size="7067" crc="e85ebd60" md5="cbd7d55c41d941ae56ac9d3712f12d23" sha1="dfebf8e739ed837489a0bfedeb9fd914bf6fa490"/>
 	</game>
-	<game name="Biorhythmus (1984)(Homecomputer)(DE)(Part 5 of 5)">
-		<description>Biorhythmus (1984)(Homecomputer)(DE)(Part 5 of 5)</description>
-		<rom name="Biorhythmus (1984)(Homecomputer)(DE)(Part 5 of 5).z80" size="4019" crc="0cad5758" md5="743c2a28b16c5b290dba7ef20db613c3" sha1="e007afa82fa685b47584c8a2b6461b4fa87268ac"/>
+	<game name="Biorhythmus (1984)(Homecomputer)(de)(Part 5 of 5)">
+		<description>Biorhythmus (1984)(Homecomputer)(de)(Part 5 of 5)</description>
+		<rom name="Biorhythmus (1984)(Homecomputer)(de)(Part 5 of 5).z80" size="4019" crc="0cad5758" md5="743c2a28b16c5b290dba7ef20db613c3" sha1="e007afa82fa685b47584c8a2b6461b4fa87268ac"/>
 	</game>
 	<game name="Bioritmus (19xx)(Nyitrai, Laszlo)(HU)">
 		<description>Bioritmus (19xx)(Nyitrai, Laszlo)(HU)</description>
@@ -728,15 +732,19 @@
 	</game>
 	<game name="COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en)">
 		<description>COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en)</description>
-		<rom name="COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en).z80" size="9681" crc="d440e000" md5="e8788532f41f4b01561a01d409546d79" sha1="36234721412eced5ee4583d0a1203ac89ee62452"/>
+		<rom name="COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en).z80" size="9681" crc="41ec1c68" md5="d2c64bc4a3411adde383ff8e8da4fb4d" sha1="f654b427af1250adbbe1afde3b9ef2c05c229d2b"/>
 	</game>
 	<game name="COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en)[a]">
 		<description>COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en)[a]</description>
-		<rom name="COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en)[a].z80" size="9681" crc="41ec1c68" md5="d2c64bc4a3411adde383ff8e8da4fb4d" sha1="f654b427af1250adbbe1afde3b9ef2c05c229d2b"/>
+		<rom name="COMAL 2.0 v2.0 (1985)(J.J. Computing)(DK)(en)[a].z80" size="9681" crc="d440e000" md5="e8788532f41f4b01561a01d409546d79" sha1="36234721412eced5ee4583d0a1203ac89ee62452"/>
 	</game>
 	<game name="CPEL (1997)(Blood)[CSSCGC]">
 		<description>CPEL (1997)(Blood)[CSSCGC]</description>
 		<rom name="CPEL (1997)(Blood)[CSSCGC].z80" size="3957" crc="5a875bb8" md5="38275ef47eeb1fd77889e8e1460167ed" sha1="1549b09cd0bd8f9e29e8a0a26120db01706f000d"/>
+	</game>
+	<game name="Calculo de Porticos (1982)(LOG)(PT)">
+		<description>Calculo de Porticos (1982)(LOG)(PT)</description>
+		<rom name="Calculo de Porticos (1982)(LOG)(PT).z80" size="12250" crc="bb3880ef" md5="e05e31fb68d2716fe7fafa6296a983c8" sha1="c6c39c2a7a979f2c2a5d422190c7ac739a16f5a6"/>
 	</game>
 	<game name="Captain Poke's Music Sampler (1991)(Sinclair User)(128K)[aka Su Sampler]">
 		<description>Captain Poke's Music Sampler (1991)(Sinclair User)(128K)[aka Su Sampler]</description>
@@ -749,6 +757,10 @@
 	<game name="Car Seating Arrangement Designer (1991)(JA)(128K)">
 		<description>Car Seating Arrangement Designer (1991)(JA)(128K)</description>
 		<rom name="Car Seating Arrangement Designer (1991)(JA)(128K).z80" size="6509" crc="794503ab" md5="b345437a5e3c3df85492137b62143613" sha1="3818aa48867880390e95d1c787d8c78bbe835947"/>
+	</game>
+	<game name="Caracteres Especiais (1985)(Amilcar)(pt)">
+		<description>Caracteres Especiais (1985)(Amilcar)(pt)</description>
+		<rom name="Caracteres Especiais (1985)(Amilcar)(pt).z80" size="4024" crc="a8671264" md5="e6b573ae792e411d542fcca315062c65" sha1="2941d28038dabe456515280616d5546ae1318993"/>
 	</game>
 	<game name="Cartridge Header (19xx)(-)">
 		<description>Cartridge Header (19xx)(-)</description>
@@ -906,9 +918,9 @@
 		<description>Comp-U-Share Investment Management System (1983)(Micromega)[a]</description>
 		<rom name="Comp-U-Share Investment Management System (1983)(Micromega)[a].z80" size="22114" crc="0d0f0938" md5="566d5a295916fc23654ce6b5adc4b3da" sha1="719701bc561ec263a2c2f9325cde1fe85dabcabf"/>
 	</game>
-	<game name="Compact (1985)(Your Computer)">
-		<description>Compact (1985)(Your Computer)</description>
-		<rom name="Compact (1985)(Your Computer).z80" size="6368" crc="24ffe9a2" md5="7d4b94570837e4e4e039dac3bb078cfc" sha1="7d6e25e5f0266b571f71ea6a17c6ef7f370ceada"/>
+	<game name="Compact (1985)(Your Computer)(16K)">
+		<description>Compact (1985)(Your Computer)(16K)</description>
+		<rom name="Compact (1985)(Your Computer)(16K).z80" size="6368" crc="24ffe9a2" md5="7d4b94570837e4e4e039dac3bb078cfc" sha1="7d6e25e5f0266b571f71ea6a17c6ef7f370ceada"/>
 	</game>
 	<game name="Compact Editor (1993)(New Frontier)(128K)(ES)">
 		<description>Compact Editor (1993)(New Frontier)(128K)(ES)</description>
@@ -970,9 +982,9 @@
 		<description>Conversion Tape II (1983)(Kempsoft)</description>
 		<rom name="Conversion Tape II (1983)(Kempsoft).z80" size="5711" crc="dfcf10d0" md5="a83403b0aad7fff497b4ac997efad34e" sha1="f044007ed34a4cc455f73d989ead5584cbf70f96"/>
 	</game>
-	<game name="Convert (1982)(MiCROL)(128K)">
-		<description>Convert (1982)(MiCROL)(128K)</description>
-		<rom name="Convert (1982)(MiCROL)(128K).z80" size="6065" crc="fcfcc1a0" md5="abca21ca0dba030198210fb585e03182" sha1="6e9f702ce4aadd76576818ea32adf1a092465850"/>
+	<game name="Convert (1982)(Use and Learn)(128K)">
+		<description>Convert (1982)(Use and Learn)(128K)</description>
+		<rom name="Convert (1982)(Use and Learn)(128K).z80" size="6065" crc="fcfcc1a0" md5="abca21ca0dba030198210fb585e03182" sha1="6e9f702ce4aadd76576818ea32adf1a092465850"/>
 	</game>
 	<game name="Copier (1986)(TRC)(CZ)">
 		<description>Copier (1986)(TRC)(CZ)</description>
@@ -994,9 +1006,9 @@
 		<description>Copion (1984)(Diaz, Ignacio)(es)[a]</description>
 		<rom name="Copion (1984)(Diaz, Ignacio)(es)[a].z80" size="2828" crc="cf25174c" md5="fc9929acf7f471b5fa601e0a5c61b164" sha1="53149a7182124ef2518283c84e500d1c844b1906"/>
 	</game>
-	<game name="Copy (19xx)(-)(de)">
-		<description>Copy (19xx)(-)(de)</description>
-		<rom name="Copy (19xx)(-)(de).z80" size="2125" crc="531d3f84" md5="206d05160695cafe8dfcdd00c4cab043" sha1="6ec85e590ba93aafb5dad31808af0863b7130e6f"/>
+	<game name="Copy (1983)(Maier, H.)(de)">
+		<description>Copy (1983)(Maier, H.)(de)</description>
+		<rom name="Copy (1983)(Maier, H.)(de).z80" size="2125" crc="531d3f84" md5="206d05160695cafe8dfcdd00c4cab043" sha1="6ec85e590ba93aafb5dad31808af0863b7130e6f"/>
 	</game>
 	<game name="Copy (1984)(Anwi)(PL)(en)">
 		<description>Copy (1984)(Anwi)(PL)(en)</description>
@@ -1116,7 +1128,7 @@
 	</game>
 	<game name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)">
 		<description>DK'Tronics Light Pen (1983)(DK'Tronics)(16K)</description>
-		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K).z80" size="7710" crc="b316d28a" md5="78831bcdffd54d28b68c96fcc5bff056" sha1="c0169081936a0f584997b9348fa988df8afb3c78"/>
+		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K).z80" size="8465" crc="a985cba4" md5="19e0035a4db891679290572fd9695e97" sha1="585f14b42f44bb4a728985ca556033e516173e2f"/>
 	</game>
 	<game name="DK'Tronics Light Pen - Calibration (1983)(DK'Tronics)(16K)">
 		<description>DK'Tronics Light Pen - Calibration (1983)(DK'Tronics)(16K)</description>
@@ -1124,15 +1136,15 @@
 	</game>
 	<game name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a]">
 		<description>DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a]</description>
-		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a].z80" size="8465" crc="a985cba4" md5="19e0035a4db891679290572fd9695e97" sha1="585f14b42f44bb4a728985ca556033e516173e2f"/>
+		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a].z80" size="8857" crc="cc1be9c7" md5="9a6cee0bf9e4dd72f25c161c8febd24c" sha1="931927bb091cc8cb0993c7eb4bfb2f1bc9067a02"/>
 	</game>
 	<game name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a2]">
 		<description>DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a2]</description>
-		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a2].z80" size="7710" crc="5247abb3" md5="b7d97d78f699bf47c54c9924dbc7de54" sha1="88d012e5d6dffc72338ae7cbabdb2d794b6a09ed"/>
+		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a2].z80" size="7710" crc="b316d28a" md5="78831bcdffd54d28b68c96fcc5bff056" sha1="c0169081936a0f584997b9348fa988df8afb3c78"/>
 	</game>
 	<game name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a3]">
 		<description>DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a3]</description>
-		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a3].z80" size="8857" crc="cc1be9c7" md5="9a6cee0bf9e4dd72f25c161c8febd24c" sha1="931927bb091cc8cb0993c7eb4bfb2f1bc9067a02"/>
+		<rom name="DK'Tronics Light Pen (1983)(DK'Tronics)(16K)[a3].z80" size="7710" crc="5247abb3" md5="b7d97d78f699bf47c54c9924dbc7de54" sha1="88d012e5d6dffc72338ae7cbabdb2d794b6a09ed"/>
 	</game>
 	<game name="DLAN (1983)(Campbell Systems)(16K)[aka Display Language]">
 		<description>DLAN (1983)(Campbell Systems)(16K)[aka Display Language]</description>
@@ -1170,13 +1182,17 @@
 		<description>Deflator (1993)(Rowland, Garry)</description>
 		<rom name="Deflator (1993)(Rowland, Garry).z80" size="16847" crc="a628a8ab" md5="85bc1241cfb29ab157bc84436e1158c4" sha1="55cece2461ed74685b08866d9c75523063d86f81"/>
 	</game>
-	<game name="Denis v1.1 (1984)(Primoz Jakopin)(SI)(en)">
-		<description>Denis v1.1 (1984)(Primoz Jakopin)(SI)(en)</description>
-		<rom name="Denis v1.1 (1984)(Primoz Jakopin)(SI)(en).z80" size="10109" crc="1877cc0f" md5="1b06d1035d39dd64cb54ee78a3272f91" sha1="997d5200aac069d863645b5d4d89c6bc893cc7d7"/>
+	<game name="Denis v1.1 (1985)(Primoz Jakopin)(SI)(en)">
+		<description>Denis v1.1 (1985)(Primoz Jakopin)(SI)(en)</description>
+		<rom name="Denis v1.1 (1985)(Primoz Jakopin)(SI)(en).z80" size="10109" crc="1877cc0f" md5="1b06d1035d39dd64cb54ee78a3272f91" sha1="997d5200aac069d863645b5d4d89c6bc893cc7d7"/>
 	</game>
 	<game name="Desassembler (2001)(SuperSoft)(48K-128K)(RO)">
 		<description>Desassembler (2001)(SuperSoft)(48K-128K)(RO)</description>
 		<rom name="Desassembler (2001)(SuperSoft)(48K-128K)(RO).z80" size="3611" crc="dc556ccd" md5="f14b790d685ca643c3ddcc8e8a1bfa0f" sha1="458e30130dccdc252db0eb97c55cc367a383e8ff"/>
+	</game>
+	<game name="Desconto de Letras (19xx)(Megabaite)(PT)">
+		<description>Desconto de Letras (19xx)(Megabaite)(PT)</description>
+		<rom name="Desconto de Letras (19xx)(Megabaite)(PT).z80" size="6282" crc="b98d44ef" md5="aa8f510efb07546dc33ccf619de7c4b8" sha1="61576b7c766223b27bda214ac680dc249fb3ccd6"/>
 	</game>
 	<game name="Designer's Pencil, The (1984)(Activision)">
 		<description>Designer's Pencil, The (1984)(Activision)</description>
@@ -1282,13 +1298,17 @@
 		<description>Dungeon Builder, The (1984)(Dream)(Part 1 of 2)[a]</description>
 		<rom name="Dungeon Builder, The (1984)(Dream)(Part 1 of 2)[a].z80" size="19301" crc="be04eb60" md5="69f084a7fe8bae7882eda319755afe4b" sha1="690c41af77c266440251b0bbe1f4efa7a14fb9a9"/>
 	</game>
+	<game name="Dungeon Master's Character Sheet (1984)(Big K)">
+		<description>Dungeon Master's Character Sheet (1984)(Big K)</description>
+		<rom name="Dungeon Master's Character Sheet (1984)(Big K).z80" size="15614" crc="ad2836f9" md5="3b49fd4962ff7640f1bb2039f95bcc09" sha1="82428206b811547afdd8828c30bbf610a55c441b"/>
+	</game>
 	<game name="Duplicator (19xx)(Herzel S. - Nizry, Ronen)">
 		<description>Duplicator (19xx)(Herzel S. - Nizry, Ronen)</description>
 		<rom name="Duplicator (19xx)(Herzel S. - Nizry, Ronen).z80" size="3237" crc="b18d531b" md5="a01a126e9781fa2022272e6d3611eb4b" sha1="3127ec2088ceb4f325d82c0b0fd52645628a2aa6"/>
 	</game>
-	<game name="Duplitape (1987)(MicroHobby)(ES)">
-		<description>Duplitape (1987)(MicroHobby)(ES)</description>
-		<rom name="Duplitape (1987)(MicroHobby)(ES).z80" size="6206" crc="eaf13456" md5="bb0bc1cd6d8d47af4d8ce3a8020c529e" sha1="b285d43a57c93b99e4d5a3804ac71b0ce7220fc1"/>
+	<game name="Duplitape (1987)(Hobby Press)(ES)">
+		<description>Duplitape (1987)(Hobby Press)(ES)</description>
+		<rom name="Duplitape (1987)(Hobby Press)(ES).z80" size="6206" crc="eaf13456" md5="bb0bc1cd6d8d47af4d8ce3a8020c529e" sha1="b285d43a57c93b99e4d5a3804ac71b0ce7220fc1"/>
 	</game>
 	<game name="Dynamic 48 (1985)(Jaklic, Janez)(SI)">
 		<description>Dynamic 48 (1985)(Jaklic, Janez)(SI)</description>
@@ -1322,9 +1342,9 @@
 		<description>Easy Morse (19xx)(Bentley, Harold)</description>
 		<rom name="Easy Morse (19xx)(Bentley, Harold).z80" size="37810" crc="d5431614" md5="dc7eae9da92dd457899d455b4f8ac170" sha1="e087cd8b779495af7d90c0a79d9ef8b4ddc9b299"/>
 	</game>
-	<game name="Edit Sampler (1990)(Proxima)(CZ)(en)[aka E-Sampler]">
-		<description>Edit Sampler (1990)(Proxima)(CZ)(en)[aka E-Sampler]</description>
-		<rom name="Edit Sampler (1990)(Proxima)(CZ)(en)[aka E-Sampler].z80" size="10992" crc="06457579" md5="494d965dfde28723eb36ad51dd1d4d09" sha1="f650f780176fac4cc2fece51cf9f2a9849bda355"/>
+	<game name="Edit Sampler (1990)(Proxima)(CZ)[aka E-Sampler]">
+		<description>Edit Sampler (1990)(Proxima)(CZ)[aka E-Sampler]</description>
+		<rom name="Edit Sampler (1990)(Proxima)(CZ)[aka E-Sampler].z80" size="10992" crc="06457579" md5="494d965dfde28723eb36ad51dd1d4d09" sha1="f650f780176fac4cc2fece51cf9f2a9849bda355"/>
 	</game>
 	<game name="Edit-Link (1992)(Schraepel, Andy)(DE)">
 		<description>Edit-Link (1992)(Schraepel, Andy)(DE)</description>
@@ -1378,6 +1398,10 @@
 		<description>Epson IIs (1997)(Stancevic, Miodrag)(YU)(sr)</description>
 		<rom name="Epson IIs (1997)(Stancevic, Miodrag)(YU)(sr).z80" size="33457" crc="3c7f5c99" md5="9e033bb2fe046b174d214c240f592950" sha1="362ec80b826f497ccb437872808dae5d73a549bb"/>
 	</game>
+	<game name="Etch A Sketch (2023)(Van Dammesque)(16K)">
+		<description>Etch A Sketch (2023)(Van Dammesque)(16K)</description>
+		<rom name="Etch A Sketch (2023)(Van Dammesque)(16K).z80" size="3514" crc="a1094da9" md5="caa6b24b983ca13b2e006e32bd453a2b" sha1="1664888fd7b561cc795d20a8ceecf58cf25d5315"/>
+	</game>
 	<game name="Etiuda (1986)(Durych, A.)(PL)">
 		<description>Etiuda (1986)(Durych, A.)(PL)</description>
 		<rom name="Etiuda (1986)(Durych, A.)(PL).z80" size="36625" crc="b4d4ce58" md5="7f76b197d95c3142bdd51f0ebcba9a10" sha1="95a14962ab6347d6d940a72ed0acb7b04d089536"/>
@@ -1413,6 +1437,14 @@
 	<game name="FP 50 FORTH (1983)(Hampson, Mike)[aka Spectrum Floating-Point FORTH]">
 		<description>FP 50 FORTH (1983)(Hampson, Mike)[aka Spectrum Floating-Point FORTH]</description>
 		<rom name="FP 50 FORTH (1983)(Hampson, Mike)[aka Spectrum Floating-Point FORTH].z80" size="16970" crc="12238f17" md5="87691c9ce96976daf2cefede27026672" sha1="86e3efa9e1aae74e18327aff2b7fd0650212780a"/>
+	</game>
+	<game name="Ficheiro Astor (19xx)(Astor)(PT)">
+		<description>Ficheiro Astor (19xx)(Astor)(PT)</description>
+		<rom name="Ficheiro Astor (19xx)(Astor)(PT).z80" size="8493" crc="26b6ecee" md5="c47af400a55b70e4b8d7ea3d436bb5fd" sha1="85597f69bf267b3dfb4a1e54610a708a3c3e4841"/>
+	</game>
+	<game name="Ficheiro de Cassetes de Video (1985)(Astor)(PT)(en)">
+		<description>Ficheiro de Cassetes de Video (1985)(Astor)(PT)(en)</description>
+		<rom name="Ficheiro de Cassetes de Video (1985)(Astor)(PT)(en).z80" size="12694" crc="87120080" md5="8c7b5b30bdd17714e9638d05a03d0c6f" sha1="8db5a3ea9a9c38cd6fa55b2d2e3b89615a97c966"/>
 	</game>
 	<game name="Fifth (1983)(CRL Group)">
 		<description>Fifth (1983)(CRL Group)</description>
@@ -1478,13 +1510,13 @@
 		<description>Flecht (19xx)(-)(de)</description>
 		<rom name="Flecht (19xx)(-)(de).z80" size="16718" crc="71d75754" md5="7e5e3f7887e634ea424033cdcf4bbdd7" sha1="15120ca82f3b0f94ae9869c49013945910c25bf9"/>
 	</game>
-	<game name="Flexitext (1999)(Outlet)">
-		<description>Flexitext (1999)(Outlet)</description>
-		<rom name="Flexitext (1999)(Outlet).z80" size="12556" crc="19db0438" md5="a55b5b6e493fc6ccece9c3130b9610b0" sha1="fb50a93547cfab92ee303fdbe58396e5338a246f"/>
+	<game name="Flexitext (1999)(Chezron)">
+		<description>Flexitext (1999)(Chezron)</description>
+		<rom name="Flexitext (1999)(Chezron).z80" size="12556" crc="19db0438" md5="a55b5b6e493fc6ccece9c3130b9610b0" sha1="fb50a93547cfab92ee303fdbe58396e5338a246f"/>
 	</game>
-	<game name="Flexitext (1999)(Outlet)[a]">
-		<description>Flexitext (1999)(Outlet)[a]</description>
-		<rom name="Flexitext (1999)(Outlet)[a].z80" size="12556" crc="9c5f822e" md5="1d4e1462d2b6c01327f208cefe70bca8" sha1="5cb2773fcf9bc208a2d128eec90eaf4ca6e296ee"/>
+	<game name="Flexitext (1999)(Chezron)[a]">
+		<description>Flexitext (1999)(Chezron)[a]</description>
+		<rom name="Flexitext (1999)(Chezron)[a].z80" size="12556" crc="9c5f822e" md5="1d4e1462d2b6c01327f208cefe70bca8" sha1="5cb2773fcf9bc208a2d128eec90eaf4ca6e296ee"/>
 	</game>
 	<game name="Flow Chart (19xx)(-)">
 		<description>Flow Chart (19xx)(-)</description>
@@ -1496,11 +1528,11 @@
 	</game>
 	<game name="Focus (1985)(16-48 Tape Magazine)">
 		<description>Focus (1985)(16-48 Tape Magazine)</description>
-		<rom name="Focus (1985)(16-48 Tape Magazine).z80" size="12427" crc="845a54ca" md5="426ce5f48fbc44738515374cf5f60e1d" sha1="63aca1a622fc224e7c27615dd6c6733c8e437292"/>
+		<rom name="Focus (1985)(16-48 Tape Magazine).z80" size="11541" crc="46365508" md5="a6c65e5539d253011a4caaaf8502b74d" sha1="167859df9dea83d7571022d0841c954de16c6bfd"/>
 	</game>
 	<game name="Focus (1985)(16-48 Tape Magazine)[a]">
 		<description>Focus (1985)(16-48 Tape Magazine)[a]</description>
-		<rom name="Focus (1985)(16-48 Tape Magazine)[a].z80" size="11541" crc="46365508" md5="a6c65e5539d253011a4caaaf8502b74d" sha1="167859df9dea83d7571022d0841c954de16c6bfd"/>
+		<rom name="Focus (1985)(16-48 Tape Magazine)[a].z80" size="12427" crc="845a54ca" md5="426ce5f48fbc44738515374cf5f60e1d" sha1="63aca1a622fc224e7c27615dd6c6733c8e437292"/>
 	</game>
 	<game name="Font Edit (19xx)(-)[b]">
 		<description>Font Edit (19xx)(-)[b]</description>
@@ -1536,11 +1568,11 @@
 	</game>
 	<game name="Fractals (1989)(Cox, James)">
 		<description>Fractals (1989)(Cox, James)</description>
-		<rom name="Fractals (1989)(Cox, James).z80" size="7808" crc="5fbdc37c" md5="4a53dec669018eb49f77ea774f55a670" sha1="ce33b5b36ba6095f702c2a187ff82650a20f1168"/>
+		<rom name="Fractals (1989)(Cox, James).z80" size="7808" crc="1455deb3" md5="977578468d72b53993cb5e8123259c9d" sha1="a7a622ac842d6d84b5642ca3cc005049c31cfc6f"/>
 	</game>
 	<game name="Fractals (1989)(Cox, James)[a]">
 		<description>Fractals (1989)(Cox, James)[a]</description>
-		<rom name="Fractals (1989)(Cox, James)[a].z80" size="7808" crc="1455deb3" md5="977578468d72b53993cb5e8123259c9d" sha1="a7a622ac842d6d84b5642ca3cc005049c31cfc6f"/>
+		<rom name="Fractals (1989)(Cox, James)[a].z80" size="7808" crc="5fbdc37c" md5="4a53dec669018eb49f77ea774f55a670" sha1="ce33b5b36ba6095f702c2a187ff82650a20f1168"/>
 	</game>
 	<game name="Fractals (1989)(Cox, James)[a2]">
 		<description>Fractals (1989)(Cox, James)[a2]</description>
@@ -1610,9 +1642,13 @@
 		<description>G1FTU RTTY (1984)(Pearsons Computing)</description>
 		<rom name="G1FTU RTTY (1984)(Pearsons Computing).z80" size="25236" crc="98e09847" md5="4ac29f214cd06b87fe1899077539b9bb" sha1="9128d4e272717da87d253630707151bafdb761d9"/>
 	</game>
-	<game name="Gama Copy (1989)(Gemrot, Rostislav)">
-		<description>Gama Copy (1989)(Gemrot, Rostislav)</description>
-		<rom name="Gama Copy (1989)(Gemrot, Rostislav).z80" size="8514" crc="9b2b497a" md5="533d9ca9b29b444e5a242e4376f6fb46" sha1="80488de62f273233a3d582d476fee2974ae3c4c8"/>
+	<game name="Galton (2023)(IvanBasic)(16K)(ES)(en)">
+		<description>Galton (2023)(IvanBasic)(16K)(ES)(en)</description>
+		<rom name="Galton (2023)(IvanBasic)(16K)(ES)(en).z80" size="7723" crc="a9fc62ed" md5="43a9924e849b40a2627167cea88f7a6e" sha1="d51f4613d5607aa5423f8cc62992b19449292d8e"/>
+	</game>
+	<game name="Gama Copy (1989)(Gemrot, Rostislav)(CZ)(en)">
+		<description>Gama Copy (1989)(Gemrot, Rostislav)(CZ)(en)</description>
+		<rom name="Gama Copy (1989)(Gemrot, Rostislav)(CZ)(en).z80" size="8514" crc="9b2b497a" md5="533d9ca9b29b444e5a242e4376f6fb46" sha1="80488de62f273233a3d582d476fee2974ae3c4c8"/>
 	</game>
 	<game name="Games Designer (1983)(Quicksilva)">
 		<description>Games Designer (1983)(Quicksilva)</description>
@@ -1646,9 +1682,9 @@
 		<description>Genie v2.1 (1987)(Alchemist Research)(128K)[re-release]</description>
 		<rom name="Genie v2.1 (1987)(Alchemist Research)(128K)[re-release].z80" size="6648" crc="8ad3cfbb" md5="55a42442b5ead9aac601aff6b2f6d031" sha1="32248e0b57975594b4249ba2ac75e74f878c23d7"/>
 	</game>
-	<game name="Genius 18 (1989)(Busy)(128K)(SK)(cs)">
-		<description>Genius 18 (1989)(Busy)(128K)(SK)(cs)</description>
-		<rom name="Genius 18 (1989)(Busy)(128K)(SK)(cs).z80" size="11828" crc="7684d644" md5="f56a0a9afa926aecce59324a688a895e" sha1="c7652a0ecf82ccadefd9c3155bcd2a6a75d3b5b6"/>
+	<game name="Genius 18 (1989)(Busy)(SK)(cs)">
+		<description>Genius 18 (1989)(Busy)(SK)(cs)</description>
+		<rom name="Genius 18 (1989)(Busy)(SK)(cs).z80" size="11828" crc="7684d644" md5="f56a0a9afa926aecce59324a688a895e" sha1="c7652a0ecf82ccadefd9c3155bcd2a6a75d3b5b6"/>
 	</game>
 	<game name="Geomant (1995)(Minevskiy, V.)(RU)">
 		<description>Geomant (1995)(Minevskiy, V.)(RU)</description>
@@ -1670,13 +1706,13 @@
 		<description>Goblin Gazette issue 1 (1988)(Zenobi)[a]</description>
 		<rom name="Goblin Gazette issue 1 (1988)(Zenobi)[a].z80" size="43228" crc="adf77ea7" md5="52dd9426b180ded6a904ae847bf9e177" sha1="89831c8d3d2e54f5cec2c67f6a33619c7601e669"/>
 	</game>
-	<game name="Goblin Gazette issue 2 (1989)(Zenobi)(Part 1 of 2)">
-		<description>Goblin Gazette issue 2 (1989)(Zenobi)(Part 1 of 2)</description>
-		<rom name="Goblin Gazette issue 2 (1989)(Zenobi)(Part 1 of 2).z80" size="40884" crc="21e24afe" md5="cc7f85fdda23f2e938984ca4a25b756a" sha1="18dcd7fa8c7b52e71afc7669408ded63ac20863d"/>
+	<game name="Goblin Gazette issue 2 (1990)(Zenobi)(Part 1 of 2)">
+		<description>Goblin Gazette issue 2 (1990)(Zenobi)(Part 1 of 2)</description>
+		<rom name="Goblin Gazette issue 2 (1990)(Zenobi)(Part 1 of 2).z80" size="40884" crc="21e24afe" md5="cc7f85fdda23f2e938984ca4a25b756a" sha1="18dcd7fa8c7b52e71afc7669408ded63ac20863d"/>
 	</game>
-	<game name="Goblin Gazette issue 2 (1989)(Zenobi)(Part 2 of 2)">
-		<description>Goblin Gazette issue 2 (1989)(Zenobi)(Part 2 of 2)</description>
-		<rom name="Goblin Gazette issue 2 (1989)(Zenobi)(Part 2 of 2).z80" size="31530" crc="d9581628" md5="e2e60df676cb1f82dc410f48822e487d" sha1="a1fa9e97c58fd612eaf2830a5d7403ffccb93c57"/>
+	<game name="Goblin Gazette issue 2 (1990)(Zenobi)(Part 2 of 2)">
+		<description>Goblin Gazette issue 2 (1990)(Zenobi)(Part 2 of 2)</description>
+		<rom name="Goblin Gazette issue 2 (1990)(Zenobi)(Part 2 of 2).z80" size="31530" crc="d9581628" md5="e2e60df676cb1f82dc410f48822e487d" sha1="a1fa9e97c58fd612eaf2830a5d7403ffccb93c57"/>
 	</game>
 	<game name="Graf 2 (19xx)(-)(RU)">
 		<description>Graf 2 (19xx)(-)(RU)</description>
@@ -1746,9 +1782,9 @@
 		<description>Graphics Utility (19xx)(-)(de)</description>
 		<rom name="Graphics Utility (19xx)(-)(de).z80" size="10664" crc="45b2ede2" md5="3384f57ed75016f45baea0dc6abd6e44" sha1="d8198556e9df9c3748c1200db49d0ab8f803838f"/>
 	</game>
-	<game name="Graphics Workbox (1982)(MiCROL)(16K)">
-		<description>Graphics Workbox (1982)(MiCROL)(16K)</description>
-		<rom name="Graphics Workbox (1982)(MiCROL)(16K).z80" size="5390" crc="ecee1de1" md5="a3d77fc0e32697c8366e12c22a977195" sha1="18563f0a3f8fe32b58582e3cf909ad7632ffbb6b"/>
+	<game name="Graphics Workbox (1982)(Use and Learn)(16K)">
+		<description>Graphics Workbox (1982)(Use and Learn)(16K)</description>
+		<rom name="Graphics Workbox (1982)(Use and Learn)(16K).z80" size="5390" crc="ecee1de1" md5="a3d77fc0e32697c8366e12c22a977195" sha1="18563f0a3f8fe32b58582e3cf909ad7632ffbb6b"/>
 	</game>
 	<game name="Graphik Code Program (1985)(Slabihoud, Stephan)(DE)">
 		<description>Graphik Code Program (1985)(Slabihoud, Stephan)(DE)</description>
@@ -1782,9 +1818,9 @@
 		<description>Hado Basic (19xx)(-)(sv)</description>
 		<rom name="Hado Basic (19xx)(-)(sv).z80" size="5655" crc="f1af9bb8" md5="540bef125e90b2926085a08f048285dc" sha1="3857398f0af98dbaa09700a004932d39fa5c8898"/>
 	</game>
-	<game name="Hard Copy v1.1 (1987)(Vavrinec, Jozef)(CZ)[aka H-Copy]">
-		<description>Hard Copy v1.1 (1987)(Vavrinec, Jozef)(CZ)[aka H-Copy]</description>
-		<rom name="Hard Copy v1.1 (1987)(Vavrinec, Jozef)(CZ)[aka H-Copy].z80" size="5844" crc="4471d62b" md5="4fc5e6a1154d5ba201ba9c95e80c36b1" sha1="c43d055eacbecb9b387909aac7b38462768c7ff1"/>
+	<game name="Hard Copy v1.1 (1987)(Vavrinec, Jozef)(SK)(cs)[aka H-Copy]">
+		<description>Hard Copy v1.1 (1987)(Vavrinec, Jozef)(SK)(cs)[aka H-Copy]</description>
+		<rom name="Hard Copy v1.1 (1987)(Vavrinec, Jozef)(SK)(cs)[aka H-Copy].z80" size="5844" crc="4471d62b" md5="4fc5e6a1154d5ba201ba9c95e80c36b1" sha1="c43d055eacbecb9b387909aac7b38462768c7ff1"/>
 	</game>
 	<game name="Haushaltsbuchfuehrung (19xx)(-)(de)">
 		<description>Haushaltsbuchfuehrung (19xx)(-)(de)</description>
@@ -1922,9 +1958,9 @@
 		<description>Hires-Tool (19xx)(-)(de)</description>
 		<rom name="Hires-Tool (19xx)(-)(de).z80" size="4835" crc="b0e41b17" md5="bfe5eb24455405ea9827ee94a30980d3" sha1="d7ca4974e2ca17a148286dc735414846059e9f43"/>
 	</game>
-	<game name="Hlasovy Program (1985)(Voicesoft)(CZ)">
-		<description>Hlasovy Program (1985)(Voicesoft)(CZ)</description>
-		<rom name="Hlasovy Program (1985)(Voicesoft)(CZ).z80" size="3978" crc="100ec828" md5="c335a5c38718299f7b2c1176612d4fd7" sha1="e2a82e9b7649770761612b5c94bc0d58fff4645f"/>
+	<game name="Hlasovy program (1985)(Voicesoft)(CZ)">
+		<description>Hlasovy program (1985)(Voicesoft)(CZ)</description>
+		<rom name="Hlasovy program (1985)(Voicesoft)(CZ).z80" size="3978" crc="100ec828" md5="c335a5c38718299f7b2c1176612d4fd7" sha1="e2a82e9b7649770761612b5c94bc0d58fff4645f"/>
 	</game>
 	<game name="Home Knitter, The (1984)(Meadowmarsh)">
 		<description>Home Knitter, The (1984)(Meadowmarsh)</description>
@@ -1938,21 +1974,21 @@
 		<description>Horoscoop 48K (1986)(MCN)(NL)</description>
 		<rom name="Horoscoop 48K (1986)(MCN)(NL).z80" size="39798" crc="1f03e994" md5="ac1bae98042571e29ef6dcfa20aa1c6d" sha1="d20c155342e9cc091da3cb854b39ba20d6ac5b8f"/>
 	</game>
-	<game name="Horoscopo (1985)(VideoSpectrum)(ES)">
-		<description>Horoscopo (1985)(VideoSpectrum)(ES)</description>
-		<rom name="Horoscopo (1985)(VideoSpectrum)(ES).z80" size="14527" crc="50a1d466" md5="c47f66cf552996b77383e6b75ee5d312" sha1="cf60d3bc9225be31f2645b42784dc8b0e0a65ba0"/>
+	<game name="Horoscopo (1985)(VideoSpectrum)(GB)(es)">
+		<description>Horoscopo (1985)(VideoSpectrum)(GB)(es)</description>
+		<rom name="Horoscopo (1985)(VideoSpectrum)(GB)(es).z80" size="14527" crc="50a1d466" md5="c47f66cf552996b77383e6b75ee5d312" sha1="cf60d3bc9225be31f2645b42784dc8b0e0a65ba0"/>
 	</game>
-	<game name="Horoscopo - Intro (1985)(VideoSpectrum)(ES)">
-		<description>Horoscopo - Intro (1985)(VideoSpectrum)(ES)</description>
-		<rom name="Horoscopo - Intro (1985)(VideoSpectrum)(ES).z80" size="7666" crc="d047c2ea" md5="9a603a58a6a169452186ad55d8e78370" sha1="7f316ef7137439780aba5b7935e08d8cadf50192"/>
+	<game name="Horoscopo - Intro (1985)(VideoSpectrum)(GB)(es)">
+		<description>Horoscopo - Intro (1985)(VideoSpectrum)(GB)(es)</description>
+		<rom name="Horoscopo - Intro (1985)(VideoSpectrum)(GB)(es).z80" size="7666" crc="d047c2ea" md5="9a603a58a6a169452186ad55d8e78370" sha1="7f316ef7137439780aba5b7935e08d8cadf50192"/>
 	</game>
-	<game name="Horoscopo (1985)(VideoSpectrum)(ES)[a]">
-		<description>Horoscopo (1985)(VideoSpectrum)(ES)[a]</description>
-		<rom name="Horoscopo (1985)(VideoSpectrum)(ES)[a].z80" size="13157" crc="7dab554e" md5="001a981d201a7a2cc580ad1da609c319" sha1="5ce647660d4ddad9e1d3c2fe098621e331df49c7"/>
+	<game name="Horoscopo (1985)(VideoSpectrum)(GB)(es)[a]">
+		<description>Horoscopo (1985)(VideoSpectrum)(GB)(es)[a]</description>
+		<rom name="Horoscopo (1985)(VideoSpectrum)(GB)(es)[a].z80" size="13157" crc="7dab554e" md5="001a981d201a7a2cc580ad1da609c319" sha1="5ce647660d4ddad9e1d3c2fe098621e331df49c7"/>
 	</game>
-	<game name="Horoscopo - Intro (1985)(VideoSpectrum)(ES)[a]">
-		<description>Horoscopo - Intro (1985)(VideoSpectrum)(ES)[a]</description>
-		<rom name="Horoscopo - Intro (1985)(VideoSpectrum)(ES)[a].z80" size="7666" crc="7409be7a" md5="d46a28bdb8178031db10ec8e67e8fd70" sha1="b21c48e9d5f775a6a6f6883a662f2c9a15d3bb71"/>
+	<game name="Horoscopo - Intro (1985)(VideoSpectrum)(GB)(es)[a]">
+		<description>Horoscopo - Intro (1985)(VideoSpectrum)(GB)(es)[a]</description>
+		<rom name="Horoscopo - Intro (1985)(VideoSpectrum)(GB)(es)[a].z80" size="7666" crc="7409be7a" md5="d46a28bdb8178031db10ec8e67e8fd70" sha1="b21c48e9d5f775a6a6f6883a662f2c9a15d3bb71"/>
 	</game>
 	<game name="Horoskop (19xx)(-)(de)">
 		<description>Horoskop (19xx)(-)(de)</description>
@@ -1978,17 +2014,17 @@
 		<description>Illustrator, The (1984)(Gilsoft International)</description>
 		<rom name="Illustrator, The (1984)(Gilsoft International).z80" size="14427" crc="770b654a" md5="57c26f413cbddb4e3c5df3ff3614e440" sha1="101ebac66e200c06294d55a3a2c5b54799e79ea0"/>
 	</game>
-	<game name="Ines 64 (1984)(Primoz Jakopin)(SI)(en)">
-		<description>Ines 64 (1984)(Primoz Jakopin)(SI)(en)</description>
-		<rom name="Ines 64 (1984)(Primoz Jakopin)(SI)(en).z80" size="20082" crc="c4b8845e" md5="1fb2dae2c6d4f8151318e2061100ad77" sha1="97faa5baa9a693aeafc915fb0627f719701f4f8c"/>
+	<game name="Ines 64 (1985)(Primoz Jakopin)(SI)(en)">
+		<description>Ines 64 (1985)(Primoz Jakopin)(SI)(en)</description>
+		<rom name="Ines 64 (1985)(Primoz Jakopin)(SI)(en).z80" size="20110" crc="fd0ca9b7" md5="784dcf1bfe3803d0023afa1b76918421" sha1="892490bd5f6c94d61262c3d611652028028e7aec"/>
 	</game>
-	<game name="Ines 64 v1.1 (1984)(Primoz Jakopin)(SI)(en)">
-		<description>Ines 64 v1.1 (1984)(Primoz Jakopin)(SI)(en)</description>
-		<rom name="Ines 64 v1.1 (1984)(Primoz Jakopin)(SI)(en).z80" size="20659" crc="74294609" md5="e9839ae1edd8f9a61d0a8f0b1debfd79" sha1="91c39dc569fad3572d9858fd9ddad4f721ce9242"/>
+	<game name="Ines 64 v1.1 (1985)(Primoz Jakopin)(SI)(en)">
+		<description>Ines 64 v1.1 (1985)(Primoz Jakopin)(SI)(en)</description>
+		<rom name="Ines 64 v1.1 (1985)(Primoz Jakopin)(SI)(en).z80" size="20659" crc="74294609" md5="e9839ae1edd8f9a61d0a8f0b1debfd79" sha1="91c39dc569fad3572d9858fd9ddad4f721ce9242"/>
 	</game>
-	<game name="Ines 64 (1984)(Primoz Jakopin)(SI)(en)[a]">
-		<description>Ines 64 (1984)(Primoz Jakopin)(SI)(en)[a]</description>
-		<rom name="Ines 64 (1984)(Primoz Jakopin)(SI)(en)[a].z80" size="20110" crc="fd0ca9b7" md5="784dcf1bfe3803d0023afa1b76918421" sha1="892490bd5f6c94d61262c3d611652028028e7aec"/>
+	<game name="Ines 64 (1985)(Primoz Jakopin)(SI)(en)[a]">
+		<description>Ines 64 (1985)(Primoz Jakopin)(SI)(en)[a]</description>
+		<rom name="Ines 64 (1985)(Primoz Jakopin)(SI)(en)[a].z80" size="20082" crc="c4b8845e" md5="1fb2dae2c6d4f8151318e2061100ad77" sha1="97faa5baa9a693aeafc915fb0627f719701f4f8c"/>
 	</game>
 	<game name="Infrared (1982)(ACS)(16K-48K)">
 		<description>Infrared (1982)(ACS)(16K-48K)</description>
@@ -2040,7 +2076,7 @@
 	</game>
 	<game name="Iso-Copy v1.3 (1984)(Individual)(DE)(en)">
 		<description>Iso-Copy v1.3 (1984)(Individual)(DE)(en)</description>
-		<rom name="Iso-Copy v1.3 (1984)(Individual)(DE)(en).z80" size="6914" crc="1c724cd0" md5="b51b6e7ed42ba44fabd92ffd1dd7e4eb" sha1="729152af205811d005e87d6fdd917c016fab71db"/>
+		<rom name="Iso-Copy v1.3 (1984)(Individual)(DE)(en).z80" size="6952" crc="6e6d301a" md5="cf7011da6b9a94d9c288c1e3ee020065" sha1="a96bd984bf776b0882083c62cdb3315322c52985"/>
 	</game>
 	<game name="Iso-Copy v1.4.1 (1984)(Individual)(DE)(en)">
 		<description>Iso-Copy v1.4.1 (1984)(Individual)(DE)(en)</description>
@@ -2060,7 +2096,7 @@
 	</game>
 	<game name="Iso-Copy v1.3 (1984)(Individual)(DE)(en)[a]">
 		<description>Iso-Copy v1.3 (1984)(Individual)(DE)(en)[a]</description>
-		<rom name="Iso-Copy v1.3 (1984)(Individual)(DE)(en)[a].z80" size="6952" crc="6e6d301a" md5="cf7011da6b9a94d9c288c1e3ee020065" sha1="a96bd984bf776b0882083c62cdb3315322c52985"/>
+		<rom name="Iso-Copy v1.3 (1984)(Individual)(DE)(en)[a].z80" size="6914" crc="1c724cd0" md5="b51b6e7ed42ba44fabd92ffd1dd7e4eb" sha1="729152af205811d005e87d6fdd917c016fab71db"/>
 	</game>
 	<game name="Iso-Copy v1.8.7 (1984)(Individual)(DE)(en)[a]">
 		<description>Iso-Copy v1.8.7 (1984)(Individual)(DE)(en)[a]</description>
@@ -2174,6 +2210,10 @@
 		<description>Keys (1996)(Blood)[CSSCGC]</description>
 		<rom name="Keys (1996)(Blood)[CSSCGC].z80" size="6295" crc="8e6d8a8d" md5="962384cd3c408ebd9f1d0562dc638ef3" sha1="4bb90f142e1f6c16cbeba12128e10978b13f69fd"/>
 	</game>
+	<game name="Keyword Dictionary (1982)(Sinclair Research)(16K-48K)">
+		<description>Keyword Dictionary (1982)(Sinclair Research)(16K-48K)</description>
+		<rom name="Keyword Dictionary (1982)(Sinclair Research)(16K-48K).z80" size="11542" crc="f3c2ad81" md5="8cf1d188cd0917c583587748aee01213" sha1="b349b6b198701803beafea6daa239055a2bef0e0"/>
+	</game>
 	<game name="Kickstart (1987)(Tester, Pete)">
 		<description>Kickstart (1987)(Tester, Pete)</description>
 		<rom name="Kickstart (1987)(Tester, Pete).z80" size="6240" crc="06590d80" md5="378f92e3d281c2fe2f6903dcfb861ada" sha1="9cc8b33acd06238b3a4abd6d1de1d7710f968904"/>
@@ -2232,11 +2272,11 @@
 	</game>
 	<game name="Kreds Alys (19xx)(-)(da)">
 		<description>Kreds Alys (19xx)(-)(da)</description>
-		<rom name="Kreds Alys (19xx)(-)(da).z80" size="6875" crc="4b691be3" md5="7ac2fe5c1cc2b8033e6e6542fc47ca85" sha1="8071bbbcbfd3561327a23e36ce8cb669a4f7d674"/>
+		<rom name="Kreds Alys (19xx)(-)(da).z80" size="6875" crc="019f3dca" md5="e56b267f746d1a1b45f91c37decdc397" sha1="4b6c46cb85d57d8214f540433295ce6cb2c9fb3f"/>
 	</game>
 	<game name="Kreds Alys (19xx)(-)(da)[a]">
 		<description>Kreds Alys (19xx)(-)(da)[a]</description>
-		<rom name="Kreds Alys (19xx)(-)(da)[a].z80" size="6875" crc="019f3dca" md5="e56b267f746d1a1b45f91c37decdc397" sha1="4b6c46cb85d57d8214f540433295ce6cb2c9fb3f"/>
+		<rom name="Kreds Alys (19xx)(-)(da)[a].z80" size="6875" crc="4b691be3" md5="7ac2fe5c1cc2b8033e6e6542fc47ca85" sha1="8071bbbcbfd3561327a23e36ce8cb669a4f7d674"/>
 	</game>
 	<game name="Kurven (19xx)(Hoepfner, Lutz)(DE)">
 		<description>Kurven (19xx)(Hoepfner, Lutz)(DE)</description>
@@ -2262,9 +2302,9 @@
 		<description>Labeller (1985)(16-48 Tape Magazine)</description>
 		<rom name="Labeller (1985)(16-48 Tape Magazine).z80" size="16043" crc="ef663c7a" md5="2d08b08d44ca381c517e396e4f3b2cc2" sha1="263656b227c1f73ff6015e31d072a05dcb5a33ae"/>
 	</game>
-	<game name="Lady Copy v1.04 (1985)(Ladinek)">
-		<description>Lady Copy v1.04 (1985)(Ladinek)</description>
-		<rom name="Lady Copy v1.04 (1985)(Ladinek).z80" size="5477" crc="4a5a112d" md5="a2d018eae34506cf4084a518a8c80844" sha1="38ad8fed7cd53d642dcde6f198f1d0e3e11618ed"/>
+	<game name="Lady Copy v1.04 (1985)(Ladinek)(CZ)(en)">
+		<description>Lady Copy v1.04 (1985)(Ladinek)(CZ)(en)</description>
+		<rom name="Lady Copy v1.04 (1985)(Ladinek)(CZ)(en).z80" size="5477" crc="4a5a112d" md5="a2d018eae34506cf4084a518a8c80844" sha1="38ad8fed7cd53d642dcde6f198f1d0e3e11618ed"/>
 	</game>
 	<game name="Laser Basic (1986)(Ocean)">
 		<description>Laser Basic (1986)(Ocean)</description>
@@ -2330,13 +2370,21 @@
 		<description>Leonardo (1985)(Creative Sparks)</description>
 		<rom name="Leonardo (1985)(Creative Sparks).z80" size="33346" crc="754beaae" md5="0cd057edd861a50ac3d3e079cbc0335e" sha1="a2fe5ca010bf316cd422b2d8f94bd8984598ee6a"/>
 	</game>
+	<game name="Letras (1986)(mini MICRO's)(pt)">
+		<description>Letras (1986)(mini MICRO's)(pt)</description>
+		<rom name="Letras (1986)(mini MICRO's)(pt).z80" size="11317" crc="80fc5117" md5="3ade9e24d4d75cd1af033a4b9a28f1ab" sha1="68ae256f69a08fe5b7a3e6ee7831ebbe25df7417"/>
+	</game>
+	<game name="Life (2003)(Dave the Lurker)(16K)[CSSCGC]">
+		<description>Life (2003)(Dave the Lurker)(16K)[CSSCGC]</description>
+		<rom name="Life (2003)(Dave the Lurker)(16K)[CSSCGC].z80" size="3809" crc="5653e430" md5="932b31a8f197c01df77e7484aeaf3849" sha1="36a676a65560e049808212c391f6b60d6c0810b0"/>
+	</game>
 	<game name="Light Magic (1985)(New Generation)">
 		<description>Light Magic (1985)(New Generation)</description>
-		<rom name="Light Magic (1985)(New Generation).z80" size="42466" crc="ba4287f9" md5="0bdfdfe3c71e125ca44af909489476cd" sha1="725de791b61e336878723e09e5974dcfe48ca0d2"/>
+		<rom name="Light Magic (1985)(New Generation).z80" size="42472" crc="f524302e" md5="634e562837fd83b0831933890ca15cba" sha1="1430fc6ab160da9a775116b76a6d03ac8e2cbf98"/>
 	</game>
 	<game name="Light Magic (1985)(New Generation)[a]">
 		<description>Light Magic (1985)(New Generation)[a]</description>
-		<rom name="Light Magic (1985)(New Generation)[a].z80" size="42472" crc="f524302e" md5="634e562837fd83b0831933890ca15cba" sha1="1430fc6ab160da9a775116b76a6d03ac8e2cbf98"/>
+		<rom name="Light Magic (1985)(New Generation)[a].z80" size="42466" crc="ba4287f9" md5="0bdfdfe3c71e125ca44af909489476cd" sha1="725de791b61e336878723e09e5974dcfe48ca0d2"/>
 	</game>
 	<game name="Light Magic (1985)(New Generation)[a2]">
 		<description>Light Magic (1985)(New Generation)[a2]</description>
@@ -2476,15 +2524,15 @@
 	</game>
 	<game name="MCoder v1.0 (1983)(PSS)(16K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]">
 		<description>MCoder v1.0 (1983)(PSS)(16K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]</description>
-		<rom name="MCoder v1.0 (1983)(PSS)(16K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0].z80" size="8047" crc="f966266b" md5="53dad356de8acd52ad1948d3bde81263" sha1="52a717b58d09794a24ea4393945e7935633c8e85"/>
+		<rom name="MCoder v1.0 (1983)(PSS)(16K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0].z80" size="7921" crc="0d06ffd0" md5="c44048d91bbd18bc87bbf0c8ea1efc9f" sha1="69cce95cf5798e9f453161a47fe2e0a65fb19ec9"/>
 	</game>
-	<game name="MCoder v1.0 (1983)(PSS)(16K)[a][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]">
-		<description>MCoder v1.0 (1983)(PSS)(16K)[a][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]</description>
-		<rom name="MCoder v1.0 (1983)(PSS)(16K)[a][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0].z80" size="7921" crc="0d06ffd0" md5="c44048d91bbd18bc87bbf0c8ea1efc9f" sha1="69cce95cf5798e9f453161a47fe2e0a65fb19ec9"/>
+	<game name="MCoder v1.0 (1983)(PSS)(16K-48K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]">
+		<description>MCoder v1.0 (1983)(PSS)(16K-48K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]</description>
+		<rom name="MCoder v1.0 (1983)(PSS)(16K-48K)[aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0].z80" size="8047" crc="f966266b" md5="53dad356de8acd52ad1948d3bde81263" sha1="52a717b58d09794a24ea4393945e7935633c8e85"/>
 	</game>
-	<game name="MCoder v1.0 (1983)(PSS)(16K)[a2][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]">
-		<description>MCoder v1.0 (1983)(PSS)(16K)[a2][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]</description>
-		<rom name="MCoder v1.0 (1983)(PSS)(16K)[a2][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0].z80" size="7814" crc="c0c793a7" md5="77548463344fd9126e73eb2840c61a8b" sha1="19539c77029621f5c07b7eb1b31f28d8367fc6f0"/>
+	<game name="MCoder v1.0 (1983)(PSS)(16K-48K)[a][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]">
+		<description>MCoder v1.0 (1983)(PSS)(16K-48K)[a][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0]</description>
+		<rom name="MCoder v1.0 (1983)(PSS)(16K-48K)[a][aka Spectrum Integer Compiler V1.0][aka ZX Compiler V1.0].z80" size="7814" crc="c0c793a7" md5="77548463344fd9126e73eb2840c61a8b" sha1="19539c77029621f5c07b7eb1b31f28d8367fc6f0"/>
 	</game>
 	<game name="MCoder II v2.0 (1983)(PSS)[aka Spectrum Integer Compiler V2.0][aka ZX Compiler V2.0]">
 		<description>MCoder II v2.0 (1983)(PSS)[aka Spectrum Integer Compiler V2.0][aka ZX Compiler V2.0]</description>
@@ -2542,9 +2590,9 @@
 		<description>Mandel Demo (1988)(FaBRIXoft)</description>
 		<rom name="Mandel Demo (1988)(FaBRIXoft).z80" size="32158" crc="739b23cc" md5="aefe8c47f6f602290a5d108136d6ad49" sha1="bd53cf5ef8a55105076721b6cadc416834344108"/>
 	</game>
-	<game name="Mandelbrot (1986)(Computer Kontakt)(DE)">
-		<description>Mandelbrot (1986)(Computer Kontakt)(DE)</description>
-		<rom name="Mandelbrot (1986)(Computer Kontakt)(DE).z80" size="6089" crc="e19da979" md5="d7858fc4e14dbbf0adce81bf9e5297e3" sha1="e9596bfb142ce8f5cdc77e8871cf0ed363db88e0"/>
+	<game name="Mandelbrot (1986)(Computer Kontakt)(de)">
+		<description>Mandelbrot (1986)(Computer Kontakt)(de)</description>
+		<rom name="Mandelbrot (1986)(Computer Kontakt)(de).z80" size="6089" crc="e19da979" md5="d7858fc4e14dbbf0adce81bf9e5297e3" sha1="e9596bfb142ce8f5cdc77e8871cf0ed363db88e0"/>
 	</game>
 	<game name="Manic Designer 2 (1984)(P&amp;M)">
 		<description>Manic Designer 2 (1984)(P&amp;M)</description>
@@ -2710,9 +2758,17 @@
 		<description>Mix 2 (1988)(Szafran Soft)</description>
 		<rom name="Mix 2 (1988)(Szafran Soft).z80" size="34433" crc="9243d2a9" md5="ad633509058a9d6ec03af36a5a1b33a7" sha1="3fcf63adb78ee2ff8c266db0202ded0e2275a2dc"/>
 	</game>
-	<game name="Modem (1985-09)(Happy Computer)(16K)(DE)[aka Programm fuer Akustikoppler]">
-		<description>Modem (1985-09)(Happy Computer)(16K)(DE)[aka Programm fuer Akustikoppler]</description>
-		<rom name="Modem (1985-09)(Happy Computer)(16K)(DE)[aka Programm fuer Akustikoppler].z80" size="4825" crc="82f12f0c" md5="027a6dd9ba7433936c7929b10cab1113" sha1="a19b9bc98051003550a9b6f681f958457ed2180f"/>
+	<game name="Mode 2 Tile Editor (2008)(Digital Prawn)(TC2048-TS2068)[CSSCGC]">
+		<description>Mode 2 Tile Editor (2008)(Digital Prawn)(TC2048-TS2068)[CSSCGC]</description>
+		<rom name="Mode 2 Tile Editor (2008)(Digital Prawn)(TC2048-TS2068)[CSSCGC].z80" size="35615" crc="16b4f8f3" md5="7b5441bdf2ffb9cea1cb948bc6162d92" sha1="e76019e0c82794c7d4815cd0b5ad274476760dab"/>
+	</game>
+	<game name="Mode 2 Tile Editor (2008)(Digital Prawn)(TC2048-TS2068)[a][CSSCGC]">
+		<description>Mode 2 Tile Editor (2008)(Digital Prawn)(TC2048-TS2068)[a][CSSCGC]</description>
+		<rom name="Mode 2 Tile Editor (2008)(Digital Prawn)(TC2048-TS2068)[a][CSSCGC].z80" size="45884" crc="fc38a664" md5="116588973f92adff6fb67a7242040151" sha1="858f43cb463c5254a156b3799584e3b66623f10a"/>
+	</game>
+	<game name="Modem (1985-09)(Happy Computer)(16K)(de)[aka Programm fuer Akustikoppler]">
+		<description>Modem (1985-09)(Happy Computer)(16K)(de)[aka Programm fuer Akustikoppler]</description>
+		<rom name="Modem (1985-09)(Happy Computer)(16K)(de)[aka Programm fuer Akustikoppler].z80" size="4825" crc="82f12f0c" md5="027a6dd9ba7433936c7929b10cab1113" sha1="a19b9bc98051003550a9b6f681f958457ed2180f"/>
 	</game>
 	<game name="Moder-80 (1984)(Seven Stars Publishing)(16K)">
 		<description>Moder-80 (1984)(Seven Stars Publishing)(16K)</description>
@@ -2764,11 +2820,11 @@
 	</game>
 	<game name="Morse Transceive (1985)(JEP Electronics)">
 		<description>Morse Transceive (1985)(JEP Electronics)</description>
-		<rom name="Morse Transceive (1985)(JEP Electronics).z80" size="11961" crc="b589fa62" md5="fc0193c29cc5c82cae6f602ae9e6114e" sha1="248b853b1db98bc834977505ec4c25e8411c2880"/>
+		<rom name="Morse Transceive (1985)(JEP Electronics).z80" size="11961" crc="89f96dda" md5="ac24e90d036376f706f57c49b7ce3869" sha1="05df4eed9eefadc797207b65e2e7f11e5313f96b"/>
 	</game>
 	<game name="Morse Transceive (1985)(JEP Electronics)[a]">
 		<description>Morse Transceive (1985)(JEP Electronics)[a]</description>
-		<rom name="Morse Transceive (1985)(JEP Electronics)[a].z80" size="11961" crc="89f96dda" md5="ac24e90d036376f706f57c49b7ce3869" sha1="05df4eed9eefadc797207b65e2e7f11e5313f96b"/>
+		<rom name="Morse Transceive (1985)(JEP Electronics)[a].z80" size="11961" crc="b589fa62" md5="fc0193c29cc5c82cae6f602ae9e6114e" sha1="248b853b1db98bc834977505ec4c25e8411c2880"/>
 	</game>
 	<game name="Morsezeichnengenerator (19xx)(-)(de)[aka Morsezeichengenerator]">
 		<description>Morsezeichnengenerator (19xx)(-)(de)[aka Morsezeichengenerator]</description>
@@ -2830,9 +2886,9 @@
 		<description>Music Box (1993)(Hotrasoft)(CZ)</description>
 		<rom name="Music Box (1993)(Hotrasoft)(CZ).z80" size="33720" crc="d7cd75a5" md5="aae16ad1e8457e1018fa41154fd415bd" sha1="84335e6053dcd9cbe06d23b14bda89b3894e6ab6"/>
 	</game>
-	<game name="Music Composer (1982)(MiCROL)(16K)">
-		<description>Music Composer (1982)(MiCROL)(16K)</description>
-		<rom name="Music Composer (1982)(MiCROL)(16K).z80" size="7005" crc="3bbff539" md5="f2919a7a0ca96eb80f9cd61257e145ad" sha1="78202d0dd6a1b2d4b62e2b141db78c7d3234b85c"/>
+	<game name="Music Composer (1982)(Use and Learn)(16K)">
+		<description>Music Composer (1982)(Use and Learn)(16K)</description>
+		<rom name="Music Composer (1982)(Use and Learn)(16K).z80" size="7005" crc="3bbff539" md5="f2919a7a0ca96eb80f9cd61257e145ad" sha1="78202d0dd6a1b2d4b62e2b141db78c7d3234b85c"/>
 	</game>
 	<game name="Music Entertainer (1984)(Homecomputer)(DE)">
 		<description>Music Entertainer (1984)(Homecomputer)(DE)</description>
@@ -2908,11 +2964,11 @@
 	</game>
 	<game name="New-Supercode (1986)(J. Gajdecki)(PL)">
 		<description>New-Supercode (1986)(J. Gajdecki)(PL)</description>
-		<rom name="New-Supercode (1986)(J. Gajdecki)(PL).z80" size="39714" crc="74d026c4" md5="7225c682bf21ac1401b721012471c5a6" sha1="a6b14fcd40e7991dc8d099b428b27c8c084bdca5"/>
+		<rom name="New-Supercode (1986)(J. Gajdecki)(PL).z80" size="39714" crc="98730302" md5="8df0aace6b995a4ca8808c552be77c09" sha1="b15d25a283bc2a4b521209c1b2cbab0ff46f6626"/>
 	</game>
 	<game name="New-Supercode (1986)(J. Gajdecki)(PL)[a]">
 		<description>New-Supercode (1986)(J. Gajdecki)(PL)[a]</description>
-		<rom name="New-Supercode (1986)(J. Gajdecki)(PL)[a].z80" size="39714" crc="98730302" md5="8df0aace6b995a4ca8808c552be77c09" sha1="b15d25a283bc2a4b521209c1b2cbab0ff46f6626"/>
+		<rom name="New-Supercode (1986)(J. Gajdecki)(PL)[a].z80" size="39714" crc="74d026c4" md5="7225c682bf21ac1401b721012471c5a6" sha1="a6b14fcd40e7991dc8d099b428b27c8c084bdca5"/>
 	</game>
 	<game name="Newterm (1986)(Micro-Source)(NL)(en)">
 		<description>Newterm (1986)(Micro-Source)(NL)(en)</description>
@@ -2966,13 +3022,17 @@
 		<description>Omnicalc 2 (1984)(Microsphere)</description>
 		<rom name="Omnicalc 2 (1984)(Microsphere).z80" size="16125" crc="7e66ea0a" md5="d6a952228c2a110777dbe106ed0e8cba" sha1="3a88cc5ad3da4a1030d58a09151669bfc1d5e6b8"/>
 	</game>
-	<game name="Omnicopy 2 (1985)(Omnisoft)">
-		<description>Omnicopy 2 (1985)(Omnisoft)</description>
-		<rom name="Omnicopy 2 (1985)(Omnisoft).z80" size="8198" crc="f048d0b6" md5="dc6df698285bb68dd4addfca62100a7f" sha1="fe10b84296c0d6e4fc3088eba0c49d2411213502"/>
+	<game name="Omnicopy 2 (1985)(Omnisoft)[aka Vigocopy 2]">
+		<description>Omnicopy 2 (1985)(Omnisoft)[aka Vigocopy 2]</description>
+		<rom name="Omnicopy 2 (1985)(Omnisoft)[aka Vigocopy 2].z80" size="8198" crc="f048d0b6" md5="dc6df698285bb68dd4addfca62100a7f" sha1="fe10b84296c0d6e4fc3088eba0c49d2411213502"/>
 	</game>
 	<game name="Orcamento Domestico (19xx)(Microideia)(PT)">
 		<description>Orcamento Domestico (19xx)(Microideia)(PT)</description>
 		<rom name="Orcamento Domestico (19xx)(Microideia)(PT).z80" size="10811" crc="cbac8f78" md5="ebceb7f0fef5e11678f31c847aabbbcb" sha1="96fc2068bf26a2229811fc848555f21904fb478e"/>
+	</game>
+	<game name="Organ (1984)(Popular Computing Weekly)">
+		<description>Organ (1984)(Popular Computing Weekly)</description>
+		<rom name="Organ (1984)(Popular Computing Weekly).z80" size="8246" crc="04d21960" md5="17ccd463c9661b57bb18f01b64ff3973" sha1="9cbc43ec42cb0d64308e68a47dfd47e48bb0fbb6"/>
 	</game>
 	<game name="Ortografia (1987)(Krajowe Wydawnictwo Czasopism)(PL)">
 		<description>Ortografia (1987)(Krajowe Wydawnictwo Czasopism)(PL)</description>
@@ -3024,11 +3084,11 @@
 	</game>
 	<game name="Paint Plus (1985)(Print'n'Plotter Products)">
 		<description>Paint Plus (1985)(Print'n'Plotter Products)</description>
-		<rom name="Paint Plus (1985)(Print'n'Plotter Products).z80" size="17665" crc="c547efda" md5="be1d1c1088986be0376b2adba07196b0" sha1="bbba75190f32f979122408453f0d27f7a86cda23"/>
+		<rom name="Paint Plus (1985)(Print'n'Plotter Products).z80" size="27962" crc="320b9e20" md5="976dfbb5eecbf4a4e852cd0018cdc752" sha1="54ae9fa854f894dd0512410dac5a392e77269a03"/>
 	</game>
 	<game name="Paint Plus (1985)(Print'n'Plotter Products)[a]">
 		<description>Paint Plus (1985)(Print'n'Plotter Products)[a]</description>
-		<rom name="Paint Plus (1985)(Print'n'Plotter Products)[a].z80" size="27962" crc="320b9e20" md5="976dfbb5eecbf4a4e852cd0018cdc752" sha1="54ae9fa854f894dd0512410dac5a392e77269a03"/>
+		<rom name="Paint Plus (1985)(Print'n'Plotter Products)[a].z80" size="17665" crc="c547efda" md5="be1d1c1088986be0376b2adba07196b0" sha1="bbba75190f32f979122408453f0d27f7a86cda23"/>
 	</game>
 	<game name="Paintbox - Graphics Toolkit (1983)(Print'n'Plotter Products)">
 		<description>Paintbox - Graphics Toolkit (1983)(Print'n'Plotter Products)</description>
@@ -3058,9 +3118,9 @@
 		<description>Percy - The Rhythm Interpreter (1987)(Misoft)</description>
 		<rom name="Percy - The Rhythm Interpreter (1987)(Misoft).z80" size="4763" crc="6ac8852a" md5="21ef2eacfa512c63245c1464981422db" sha1="54a71dc6e15ba8d58d11c09e4ca26a2678a9930b"/>
 	</game>
-	<game name="Personal Banking System (1982)(Micromega)(16K)[re-release]">
-		<description>Personal Banking System (1982)(Micromega)(16K)[re-release]</description>
-		<rom name="Personal Banking System (1982)(Micromega)(16K)[re-release].z80" size="25720" crc="c5d28201" md5="6e25754cf4358b48f57dc2e53db0ff6a" sha1="c9b37f3532eac127200eef318f407e16f3ee8bd9"/>
+	<game name="Personal Banking System (1982)(Micromega)[re-release]">
+		<description>Personal Banking System (1982)(Micromega)[re-release]</description>
+		<rom name="Personal Banking System (1982)(Micromega)[re-release].z80" size="25720" crc="c5d28201" md5="6e25754cf4358b48f57dc2e53db0ff6a" sha1="c9b37f3532eac127200eef318f407e16f3ee8bd9"/>
 	</game>
 	<game name="Personality Analysis (1983)(Malley, Martin)">
 		<description>Personality Analysis (1983)(Malley, Martin)</description>
@@ -3236,11 +3296,11 @@
 	</game>
 	<game name="Print 40-50 (19xx)(Przesmycki, O.)(PL)">
 		<description>Print 40-50 (19xx)(Przesmycki, O.)(PL)</description>
-		<rom name="Print 40-50 (19xx)(Przesmycki, O.)(PL).z80" size="21342" crc="56fe850d" md5="1bc85c0ac1bbb1e059f6e9a7f4a4c4c3" sha1="e2ae1a6d799c943678f11471e5882bbc0bdbfb58"/>
+		<rom name="Print 40-50 (19xx)(Przesmycki, O.)(PL).z80" size="21342" crc="88c19268" md5="a7a69f3010e85552ccc18f9fbf2989fe" sha1="328fdb36d7bf072f9aa5bbcd86cdee61d0444194"/>
 	</game>
 	<game name="Print 40-50 (19xx)(Przesmycki, O.)(PL)[a]">
 		<description>Print 40-50 (19xx)(Przesmycki, O.)(PL)[a]</description>
-		<rom name="Print 40-50 (19xx)(Przesmycki, O.)(PL)[a].z80" size="21342" crc="88c19268" md5="a7a69f3010e85552ccc18f9fbf2989fe" sha1="328fdb36d7bf072f9aa5bbcd86cdee61d0444194"/>
+		<rom name="Print 40-50 (19xx)(Przesmycki, O.)(PL)[a].z80" size="21342" crc="56fe850d" md5="1bc85c0ac1bbb1e059f6e9a7f4a4c4c3" sha1="e2ae1a6d799c943678f11471e5882bbc0bdbfb58"/>
 	</game>
 	<game name="Print Utilities (1983)(Sinclair Research)(16K)">
 		<description>Print Utilities (1983)(Sinclair Research)(16K)</description>
@@ -3258,25 +3318,25 @@
 		<description>Pro Tracker v3.01 (19xx)(-)</description>
 		<rom name="Pro Tracker v3.01 (19xx)(-).z80" size="108996" crc="ac07bfe0" md5="4311b54057dd6f68b9797a7b6ad1ed1a" sha1="a482fbe848e303c9e0c98d1a1c673737b23dc8fa"/>
 	</game>
-	<game name="ProDOS Basic (1985)(Berndt, Hans-Joachim)">
-		<description>ProDOS Basic (1985)(Berndt, Hans-Joachim)</description>
-		<rom name="ProDOS Basic (1985)(Berndt, Hans-Joachim).z80" size="5343" crc="2a326948" md5="0205981bbe7177325ff900e257997cc0" sha1="683b7d5187050de1046a2392c1f9f84ad9305614"/>
+	<game name="ProDOS Basic (1985)(Hans-Joachim Berndt)">
+		<description>ProDOS Basic (1985)(Hans-Joachim Berndt)</description>
+		<rom name="ProDOS Basic (1985)(Hans-Joachim Berndt).z80" size="5343" crc="2a326948" md5="0205981bbe7177325ff900e257997cc0" sha1="683b7d5187050de1046a2392c1f9f84ad9305614"/>
 	</game>
-	<game name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].z80" size="69118" crc="c34e07f5" md5="160137be910d43fd58ceb83e7eeac7ea" sha1="66788654a038d94a17d34fdd270ad3c18c5b7e33"/>
+	<game name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].z80" size="69118" crc="c34e07f5" md5="160137be910d43fd58ceb83e7eeac7ea" sha1="66788654a038d94a17d34fdd270ad3c18c5b7e33"/>
 	</game>
-	<game name="Professional Adventure Writer vA09C (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer vA09C (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer vA09C (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].z80" size="33687" crc="f002c209" md5="1de60bf265922c354cef65c89f667476" sha1="2b1be73131d86f041d8a4b18150f01df1b3ccd0e"/>
+	<game name="Professional Adventure Writer vA09C (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer vA09C (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer vA09C (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].z80" size="33687" crc="f002c209" md5="1de60bf265922c354cef65c89f667476" sha1="2b1be73131d86f041d8a4b18150f01df1b3ccd0e"/>
 	</game>
-	<game name="Professional Adventure Writer vA17C (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer vA17C (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer vA17C (1986)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].z80" size="33885" crc="b006a2e7" md5="b0f2e2edf706f626f9a8aee3815bb051" sha1="8b5ec920962865ed85130c73d8ab32bfcfd98a63"/>
+	<game name="Professional Adventure Writer vA17C (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer vA17C (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer vA17C (1987)(Gilsoft International)(48K-128K)[aka PAW][aka Professional Adventure Writing System, The].z80" size="33885" crc="b006a2e7" md5="b0f2e2edf706f626f9a8aee3815bb051" sha1="8b5ec920962865ed85130c73d8ab32bfcfd98a63"/>
 	</game>
-	<game name="Professional Adventure Writer vA09C (1986)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]">
-		<description>Professional Adventure Writer vA09C (1986)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]</description>
-		<rom name="Professional Adventure Writer vA09C (1986)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The].z80" size="39789" crc="d53ab9a8" md5="4bddebf8487cb29d796ceac7f98a357b" sha1="d2c2a9b4023cd21f89d19e136350a076a3fda1a1"/>
+	<game name="Professional Adventure Writer vA09C (1987)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]">
+		<description>Professional Adventure Writer vA09C (1987)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The]</description>
+		<rom name="Professional Adventure Writer vA09C (1987)(Gilsoft International)(48K-128K)[a][aka PAW][aka Professional Adventure Writing System, The].z80" size="39789" crc="d53ab9a8" md5="4bddebf8487cb29d796ceac7f98a357b" sha1="d2c2a9b4023cd21f89d19e136350a076a3fda1a1"/>
 	</game>
 	<game name="Professional Linear Programming (1983)(University)">
 		<description>Professional Linear Programming (1983)(University)</description>
@@ -3317,6 +3377,10 @@
 	<game name="Proreg II (1984)(Ahrens, Holger)(DE)">
 		<description>Proreg II (1984)(Ahrens, Holger)(DE)</description>
 		<rom name="Proreg II (1984)(Ahrens, Holger)(DE).z80" size="10434" crc="33a750e8" md5="8ab25022e9d7a921ec3f05d625cea4ca" sha1="581662a79c86ac2aaaccf927143e0a1eacc8faae"/>
+	</game>
+	<game name="Protitler (1991)(Hall Video Products)">
+		<description>Protitler (1991)(Hall Video Products)</description>
+		<rom name="Protitler (1991)(Hall Video Products).z80" size="36936" crc="274829bb" md5="73a6d1573f711111af1678b0490edbb6" sha1="cff7f4b6f4881a609b3fd69b6bec5506b7b093e4"/>
 	</game>
 	<game name="Prototype High Frequency Edge Connector Cleaning Program v2.3 (1990)(Naffsoft)">
 		<description>Prototype High Frequency Edge Connector Cleaning Program v2.3 (1990)(Naffsoft)</description>
@@ -3406,6 +3470,10 @@
 		<description>R.F. Tuned Circuits (1984)(Roelof Koning)(NL)</description>
 		<rom name="R.F. Tuned Circuits (1984)(Roelof Koning)(NL).z80" size="41334" crc="2d487e0f" md5="ab7d5ca466ac4ad9ad68d8c1d370a978" sha1="86dc4d13317d10ee27693322cd130fc6e07c62d4"/>
 	</game>
+	<game name="REMStore (1988)(Chezron)">
+		<description>REMStore (1988)(Chezron)</description>
+		<rom name="REMStore (1988)(Chezron).z80" size="13786" crc="0c5ac1a0" md5="d671f0554af8688032e007b6b74024c6" sha1="f5ad4a25af036e9a77e6ecc820c88f8f3264ad00"/>
+	</game>
 	<game name="ROM Copy (19xx)(-)">
 		<description>ROM Copy (19xx)(-)</description>
 		<rom name="ROM Copy (19xx)(-).z80" size="9767" crc="bf440859" md5="e83aa7d5f3a692d34eb2e1c7860185fc" sha1="ad7cd8afa28a825b5e74cecdc336425e84cc9004"/>
@@ -3446,6 +3514,10 @@
 		<description>RebelStar - The Map Editor v1.3 (2005)(Carrier, Matthew)</description>
 		<rom name="RebelStar - The Map Editor v1.3 (2005)(Carrier, Matthew).z80" size="36692" crc="1648e8e4" md5="48444e59d159cf59c281e183842a2fd4" sha1="c95e2a8c0fd5460046fccfc9ed1605e185a88478"/>
 	</game>
+	<game name="Redefined Character Set (1984)(Computer Choice)">
+		<description>Redefined Character Set (1984)(Computer Choice)</description>
+		<rom name="Redefined Character Set (1984)(Computer Choice).z80" size="10906" crc="63d2d1d1" md5="ff5646fd8457e9457daf8c37a6585256" sha1="b3d29c4360337b67404087e62bf578a912259708"/>
+	</game>
 	<game name="Regresioa Analyza (19xx)(-)(BS)(sr)[aka Regresiona Analiza]">
 		<description>Regresioa Analyza (19xx)(-)(BS)(sr)[aka Regresiona Analiza]</description>
 		<rom name="Regresioa Analyza (19xx)(-)(BS)(sr)[aka Regresiona Analiza].z80" size="6054" crc="70948137" md5="418ae47ac530839bc957a766c1553153" sha1="502642164d9356e9a6849478114b0b217c0696b2"/>
@@ -3453,10 +3525,6 @@
 	<game name="Relocate (19xx)(-)">
 		<description>Relocate (19xx)(-)</description>
 		<rom name="Relocate (19xx)(-).z80" size="2125" crc="0ca73247" md5="67e15721fa867bec9117313631f38c9c" sha1="2b44bc1f5fe8051ffb8ac54cfecf54fe65f453ba"/>
-	</game>
-	<game name="Rem Store (19xx)(Chezron)">
-		<description>Rem Store (19xx)(Chezron)</description>
-		<rom name="Rem Store (19xx)(Chezron).z80" size="13786" crc="0c5ac1a0" md5="d671f0554af8688032e007b6b74024c6" sha1="f5ad4a25af036e9a77e6ecc820c88f8f3264ad00"/>
 	</game>
 	<game name="Risar (1984)(Radio Student)(SI)">
 		<description>Risar (1984)(Radio Student)(SI)</description>
@@ -3486,9 +3554,9 @@
 		<description>Rotation (19xx)(-)(de)</description>
 		<rom name="Rotation (19xx)(-)(de).z80" size="7033" crc="79c1a58a" md5="d681b4d93f994eaef5bb9c638a8a533e" sha1="afaf5e78da48726d70bf834fab2f0791251e0422"/>
 	</game>
-	<game name="Rozpisy Cisel (1995)(Hotrasoft)(CZ)">
-		<description>Rozpisy Cisel (1995)(Hotrasoft)(CZ)</description>
-		<rom name="Rozpisy Cisel (1995)(Hotrasoft)(CZ).z80" size="14736" crc="b6b46956" md5="e2f19ca6e69c34d3efd9f4c588d82869" sha1="8a781fc2659cc536c256eb567e793ae8d4e293a0"/>
+	<game name="Rozpisy cisel (1995)(Hotrasoft)(CZ)">
+		<description>Rozpisy cisel (1995)(Hotrasoft)(CZ)</description>
+		<rom name="Rozpisy cisel (1995)(Hotrasoft)(CZ).z80" size="14736" crc="b6b46956" md5="e2f19ca6e69c34d3efd9f4c588d82869" sha1="8a781fc2659cc536c256eb567e793ae8d4e293a0"/>
 	</game>
 	<game name="Rund um den Kalender (1984)(B.W. Friedrich)(de)">
 		<description>Rund um den Kalender (1984)(B.W. Friedrich)(de)</description>
@@ -3574,9 +3642,9 @@
 		<description>Schreibmachinenprogramm (19xx)(-)(de)</description>
 		<rom name="Schreibmachinenprogramm (19xx)(-)(de).z80" size="7118" crc="5743f908" md5="3009cac3bf0e66f656156efaafec2619" sha1="2fd617c002d25c3ec603a2bc25a3c061e4478a1c"/>
 	</game>
-	<game name="Scopy (1993)(Outlet)">
-		<description>Scopy (1993)(Outlet)</description>
-		<rom name="Scopy (1993)(Outlet).z80" size="15254" crc="b487a32a" md5="0f670c1495fad449b7967819e6bc87db" sha1="fdddbbcf5af6548e7547613abe79213546fb4554"/>
+	<game name="Scopy (1993)(Chezron)">
+		<description>Scopy (1993)(Chezron)</description>
+		<rom name="Scopy (1993)(Chezron).z80" size="15254" crc="b487a32a" md5="0f670c1495fad449b7967819e6bc87db" sha1="fdddbbcf5af6548e7547613abe79213546fb4554"/>
 	</game>
 	<game name="Screen Compressor Plus v2.1 (1990)(Mikropol)(PL)(en)">
 		<description>Screen Compressor Plus v2.1 (1990)(Mikropol)(PL)(en)</description>
@@ -3598,6 +3666,10 @@
 		<description>Screen Machine (1984)(Print'n'Plotter Products)[a3]</description>
 		<rom name="Screen Machine (1984)(Print'n'Plotter Products)[a3].z80" size="7373" crc="b050e1ee" md5="8413912b6534b24ceddc53643b8d527e" sha1="6aac3e7d8ad44c1c55b2ea3d6bb68d12d3d301c6"/>
 	</game>
+	<game name="Screen Machine (demo) (1987)(Popular Computing Weekly)">
+		<description>Screen Machine (demo) (1987)(Popular Computing Weekly)</description>
+		<rom name="Screen Machine (demo) (1987)(Popular Computing Weekly).z80" size="13029" crc="77c1134c" md5="6118a5bd2c185b50963f0184c907d390" sha1="f03ce4ed9e399ef7fc499f8177bbe7db593256fc"/>
+	</game>
 	<game name="Screen Machine - Screen Machine 2 (1984)(Print 'n' Plotter Productions)">
 		<description>Screen Machine - Screen Machine 2 (1984)(Print 'n' Plotter Productions)</description>
 		<rom name="Screen Machine - Screen Machine 2 (1984)(Print 'n' Plotter Productions).z80" size="9675" crc="fe6ab611" md5="307a9b8ab7c9ea666e4d12b5491aec60" sha1="75d97b96f9ec51d22a7bf75c1a90424b02d84328"/>
@@ -3614,9 +3686,9 @@
 		<description>Screen Merger, Der (1984)(Spectra Computing)(DE)</description>
 		<rom name="Screen Merger, Der (1984)(Spectra Computing)(DE).z80" size="7808" crc="c68589a5" md5="e428124e2160e925732e484b719137b3" sha1="6a1e0c8d5ed5c1a9c8f54ea472bebfa493f4da37"/>
 	</game>
-	<game name="Screenplay (1987)(Macmillan)">
-		<description>Screenplay (1987)(Macmillan)</description>
-		<rom name="Screenplay (1987)(Macmillan).z80" size="27070" crc="1fe9dcf3" md5="f0aa24abe61298fc6cc21861f5612fd7" sha1="17a425af367e08b068aff322e50c14ae724fa0ee"/>
+	<game name="Screenplay (1985)(Macmillan)">
+		<description>Screenplay (1985)(Macmillan)</description>
+		<rom name="Screenplay (1985)(Macmillan).z80" size="27070" crc="1fe9dcf3" md5="f0aa24abe61298fc6cc21861f5612fd7" sha1="17a425af367e08b068aff322e50c14ae724fa0ee"/>
 	</game>
 	<game name="Script Designer (1986)(16-48 Tape Magazine)">
 		<description>Script Designer (1986)(16-48 Tape Magazine)</description>
@@ -3626,17 +3698,25 @@
 		<description>Se-Lan (19xx)(Highsoft Systems)(ES)</description>
 		<rom name="Se-Lan (19xx)(Highsoft Systems)(ES).z80" size="17334" crc="2170bb54" md5="4acbc9ab3320f4bbc0256eaab45c7205" sha1="17d9c07b81300ba038baea70b5d16831a8afeef4"/>
 	</game>
+	<game name="Sesamo (1987)(MicroSete)(PT)">
+		<description>Sesamo (1987)(MicroSete)(PT)</description>
+		<rom name="Sesamo (1987)(MicroSete)(PT).z80" size="5666" crc="e2582d10" md5="4932cd004c0b024ffd881f052d3840be" sha1="c467f438041b773c0a68e329b97ad865cc54e4ed"/>
+	</game>
 	<game name="Set de Caractere (1994)(SOFTEC)(RO)">
 		<description>Set de Caractere (1994)(SOFTEC)(RO)</description>
 		<rom name="Set de Caractere (1994)(SOFTEC)(RO).z80" size="22290" crc="daa6788a" md5="e13b56226a655e865d29b0642e739882" sha1="1d3d2fe857286f0d6e25ec7c6c1607450a4de430"/>
 	</game>
-	<game name="Sex Test (19xx)(-)(sk)">
-		<description>Sex Test (19xx)(-)(sk)</description>
-		<rom name="Sex Test (19xx)(-)(sk).z80" size="8693" crc="aeb770be" md5="6a2959ddacc3a0af8337fe95d364a59d" sha1="5995ed1f5902dc4f825da5659bc2bf5618b0d639"/>
+	<game name="Sex Test (19xx)(-)(CZ)(sk)[adult]">
+		<description>Sex Test (19xx)(-)(CZ)(sk)[adult]</description>
+		<rom name="Sex Test (19xx)(-)(CZ)(sk)[adult].z80" size="8693" crc="aeb770be" md5="6a2959ddacc3a0af8337fe95d364a59d" sha1="5995ed1f5902dc4f825da5659bc2bf5618b0d639"/>
 	</game>
-	<game name="Shade Copy (1984)(Your Computer)(de)[re-release]">
-		<description>Shade Copy (1984)(Your Computer)(de)[re-release]</description>
-		<rom name="Shade Copy (1984)(Your Computer)(de)[re-release].z80" size="3002" crc="4232d620" md5="fa7499df991075b67cd8d118c609a499" sha1="42e158822011370681a8a10f096874bfa76619ab"/>
+	<game name="Shade Copy (1984)(Your Computer)(GB)(de)[re-release]">
+		<description>Shade Copy (1984)(Your Computer)(GB)(de)[re-release]</description>
+		<rom name="Shade Copy (1984)(Your Computer)(GB)(de)[re-release].z80" size="3002" crc="4232d620" md5="fa7499df991075b67cd8d118c609a499" sha1="42e158822011370681a8a10f096874bfa76619ab"/>
+	</game>
+	<game name="Shafter! (1985)(Big K)">
+		<description>Shafter! (1985)(Big K)</description>
+		<rom name="Shafter! (1985)(Big K).z80" size="10795" crc="6e2fd114" md5="28df4396a063150b4957214191e410ec" sha1="8da8d17d50e5b3dfe648b754f014449fb4a1c89d"/>
 	</game>
 	<game name="Shrink Wrapped (1985)(Your Spectrum)">
 		<description>Shrink Wrapped (1985)(Your Spectrum)</description>
@@ -3686,9 +3766,9 @@
 		<description>Snap Reader v4a (1996)(ewgf - Kinloch, Miles - Swann, Richard)</description>
 		<rom name="Snap Reader v4a (1996)(ewgf - Kinloch, Miles - Swann, Richard).z80" size="22243" crc="d211d3b9" md5="ede5cf97eb2f19fa791182cc33bda81c" sha1="0200b15bc38f6ebe5733d3352673ec786bc644c7"/>
 	</game>
-	<game name="Sofkit 1 (1983)(Softek)(16K)[aka Softek Toolkit]">
-		<description>Sofkit 1 (1983)(Softek)(16K)[aka Softek Toolkit]</description>
-		<rom name="Sofkit 1 (1983)(Softek)(16K)[aka Softek Toolkit].z80" size="5183" crc="7fdbb6d6" md5="a0505fc50f9490bc9d8bcc53811d501c" sha1="6234d72add242332f34a27d44736d02f606796a7"/>
+	<game name="Sofkit 1 (1983)(Softek)(16K-48K)[aka Softek Toolkit]">
+		<description>Sofkit 1 (1983)(Softek)(16K-48K)[aka Softek Toolkit]</description>
+		<rom name="Sofkit 1 (1983)(Softek)(16K-48K)[aka Softek Toolkit].z80" size="5183" crc="7fdbb6d6" md5="a0505fc50f9490bc9d8bcc53811d501c" sha1="6234d72add242332f34a27d44736d02f606796a7"/>
 	</game>
 	<game name="Sofkit 2 (1983)(Softek)(16K)[b][aka Graphics Kit]">
 		<description>Sofkit 2 (1983)(Softek)(16K)[b][aka Graphics Kit]</description>
@@ -3726,13 +3806,13 @@
 		<description>Softek 'Super C' Compiler (1982)(Softek)[a2]</description>
 		<rom name="Softek 'Super C' Compiler (1982)(Softek)[a2].z80" size="6488" crc="38e195c7" md5="324c3c922d06b406765c515e705a3fb4" sha1="4511ab7b9ce12ec0684282305c2ac231c25f3103"/>
 	</game>
-	<game name="Software Filer, The (19xx)(Japhet, Gilad)(CZ)">
-		<description>Software Filer, The (19xx)(Japhet, Gilad)(CZ)</description>
-		<rom name="Software Filer, The (19xx)(Japhet, Gilad)(CZ).z80" size="29629" crc="56811190" md5="39a542b08fb5e1c2837bcc704115f1b5" sha1="b06d05ed68afad557ba72ee38b638bbf72912c1d"/>
+	<game name="Software Filer, The (19xx)(Japhet, Gilad)(IL)(cs)">
+		<description>Software Filer, The (19xx)(Japhet, Gilad)(IL)(cs)</description>
+		<rom name="Software Filer, The (19xx)(Japhet, Gilad)(IL)(cs).z80" size="29629" crc="56811190" md5="39a542b08fb5e1c2837bcc704115f1b5" sha1="b06d05ed68afad557ba72ee38b638bbf72912c1d"/>
 	</game>
-	<game name="Software Filer, The (19xx)(Japhet, Gilad)(CZ)[a]">
-		<description>Software Filer, The (19xx)(Japhet, Gilad)(CZ)[a]</description>
-		<rom name="Software Filer, The (19xx)(Japhet, Gilad)(CZ)[a].z80" size="29640" crc="fe3a35be" md5="85c85b1106280ad3a0a3f2cace947360" sha1="1f4260e4ddbd846a1c8d6725a0783e869ddd95d7"/>
+	<game name="Software Filer, The (19xx)(Japhet, Gilad)(IL)(cs)[a]">
+		<description>Software Filer, The (19xx)(Japhet, Gilad)(IL)(cs)[a]</description>
+		<rom name="Software Filer, The (19xx)(Japhet, Gilad)(IL)(cs)[a].z80" size="29640" crc="fe3a35be" md5="85c85b1106280ad3a0a3f2cace947360" sha1="1f4260e4ddbd846a1c8d6725a0783e869ddd95d7"/>
 	</game>
 	<game name="Softwareliste (19xx)(-)(de)">
 		<description>Softwareliste (19xx)(-)(de)</description>
@@ -3802,6 +3882,10 @@
 		<description>SpecDrum (1985)(CheetahSoft)[a]</description>
 		<rom name="SpecDrum (1985)(CheetahSoft)[a].z80" size="32675" crc="ace7aa2f" md5="9d2b9ad6915d9c28146d5cda9de60ffb" sha1="129a27e0c77c0b3cf6bd1955bae5b0676a34f234"/>
 	</game>
+	<game name="Specbug (1982)(Artic Computing)(16K)[aka Spectrum Bug 2]">
+		<description>Specbug (1982)(Artic Computing)(16K)[aka Spectrum Bug 2]</description>
+		<rom name="Specbug (1982)(Artic Computing)(16K)[aka Spectrum Bug 2].z80" size="8543" crc="e6f1ca04" md5="3cf409376567a87566cddfb548a617fa" sha1="767c8ecda5cd81c1ba456e26beffa22f9edcac88"/>
+	</game>
 	<game name="Speccopy (19xx)(-)">
 		<description>Speccopy (19xx)(-)</description>
 		<rom name="Speccopy (19xx)(-).z80" size="4576" crc="3aa749df" md5="4ab77d29e6bd0e67c548a204918dc4e0" sha1="9b8ea9f98b88e2abced32bf27dd03919dc10e818"/>
@@ -3836,35 +3920,35 @@
 	</game>
 	<game name="Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)">
 		<description>Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)</description>
-		<rom name="Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="7308" crc="a5a63a4d" md5="a5c51c39ad6855436409b7dc04b3af5e" sha1="4f91d1d2e5cbd7eae3963dea579273725f1195d3"/>
+		<rom name="Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="8956" crc="eb20ddf8" md5="5cef78558fd5d64300bfc6219749ac01" sha1="a0c7ad319c06a30d4b2a72de20b33c9b09b2359e"/>
 	</game>
 	<game name="Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)">
 		<description>Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)</description>
-		<rom name="Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="7335" crc="168e03e5" md5="f4885b30293289d2e36c0318707037c0" sha1="6c22809cf88125aa00c5dc0a6d6071cea4574881"/>
+		<rom name="Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="8975" crc="3c186e72" md5="fb80c3350a004b72a48100a8ce61d0a9" sha1="a6efb2e264bbbf45cc50af9d92a2e28c96a9bff8"/>
 	</game>
 	<game name="Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)">
 		<description>Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)</description>
-		<rom name="Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="6634" crc="459e9f16" md5="4c91ed9dc2ede39a816a89cec2128728" sha1="cce08fa697a964891c51556f0282104f01324d2e"/>
+		<rom name="Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="8293" crc="0a48ac76" md5="ccafb08b92d2f7054085b733109e65b2" sha1="ebd3b137d8683d120695205f53ebd2053fc8b41d"/>
 	</game>
 	<game name="Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)">
 		<description>Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)</description>
-		<rom name="Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="6694" crc="3951f23d" md5="386734e0dc95f897f821d84e89e35bf1" sha1="5e9ee334613d3d1d89f2b12383cbeda194f72a5b"/>
+		<rom name="Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en).z80" size="8366" crc="6187a049" md5="30ae261f27cc3eaf758dac01821ccb69" sha1="76d3ec49aa8c6f4277b047fd7742ae06e2f539c9"/>
 	</game>
 	<game name="Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]">
 		<description>Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]</description>
-		<rom name="Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="8956" crc="eb20ddf8" md5="5cef78558fd5d64300bfc6219749ac01" sha1="a0c7ad319c06a30d4b2a72de20b33c9b09b2359e"/>
+		<rom name="Specterm v1.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="7308" crc="a5a63a4d" md5="a5c51c39ad6855436409b7dc04b3af5e" sha1="4f91d1d2e5cbd7eae3963dea579273725f1195d3"/>
 	</game>
 	<game name="Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]">
 		<description>Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]</description>
-		<rom name="Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="8975" crc="3c186e72" md5="fb80c3350a004b72a48100a8ce61d0a9" sha1="a6efb2e264bbbf45cc50af9d92a2e28c96a9bff8"/>
+		<rom name="Specterm v2.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="7335" crc="168e03e5" md5="f4885b30293289d2e36c0318707037c0" sha1="6c22809cf88125aa00c5dc0a6d6071cea4574881"/>
 	</game>
 	<game name="Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]">
 		<description>Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]</description>
-		<rom name="Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="8293" crc="0a48ac76" md5="ccafb08b92d2f7054085b733109e65b2" sha1="ebd3b137d8683d120695205f53ebd2053fc8b41d"/>
+		<rom name="Specterm v6.01 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="6634" crc="459e9f16" md5="4c91ed9dc2ede39a816a89cec2128728" sha1="cce08fa697a964891c51556f0282104f01324d2e"/>
 	</game>
 	<game name="Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]">
 		<description>Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a]</description>
-		<rom name="Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="8366" crc="6187a049" md5="30ae261f27cc3eaf758dac01821ccb69" sha1="76d3ec49aa8c6f4277b047fd7742ae06e2f539c9"/>
+		<rom name="Specterm v7.03 (1991)(Raats - Versluis - Weijgers)(128K)(NL)(en)[a].z80" size="6694" crc="3951f23d" md5="386734e0dc95f897f821d84e89e35bf1" sha1="5e9ee334613d3d1d89f2b12383cbeda194f72a5b"/>
 	</game>
 	<game name="Spectral Writer (1984)(Softek International)">
 		<description>Spectral Writer (1984)(Softek International)</description>
@@ -3902,25 +3986,21 @@
 		<description>Spectrum Assembly Language Course v2.1 (1985)(Glentop Publishers)[aka Honeyfold Assembler]</description>
 		<rom name="Spectrum Assembly Language Course v2.1 (1985)(Glentop Publishers)[aka Honeyfold Assembler].z80" size="11666" crc="0256da82" md5="74cb75faf4282da3f306fe78395ff929" sha1="3968f6575126e2cc73391f520e5040969c691dc9"/>
 	</game>
-	<game name="Spectrum Automatic Copier (1985)(Groot, H. de)">
-		<description>Spectrum Automatic Copier (1985)(Groot, H. de)</description>
-		<rom name="Spectrum Automatic Copier (1985)(Groot, H. de).z80" size="2219" crc="90438156" md5="a3b4bf18986b36a38c766fbc5510696f" sha1="f5eb8411ed2f281984ee3fab404f8374e691d061"/>
+	<game name="Spectrum Automatic Copier (1985)(Groot, Henk de)[aka Autocopy]">
+		<description>Spectrum Automatic Copier (1985)(Groot, Henk de)[aka Autocopy]</description>
+		<rom name="Spectrum Automatic Copier (1985)(Groot, Henk de)[aka Autocopy].z80" size="2219" crc="90438156" md5="a3b4bf18986b36a38c766fbc5510696f" sha1="f5eb8411ed2f281984ee3fab404f8374e691d061"/>
 	</game>
-	<game name="Spectrum Automatic Copier (1985)(Groot, H. de)[a]">
-		<description>Spectrum Automatic Copier (1985)(Groot, H. de)[a]</description>
-		<rom name="Spectrum Automatic Copier (1985)(Groot, H. de)[a].z80" size="2219" crc="c60607bb" md5="439854544790ec06ccaacad9ecdaf622" sha1="ee8b845dcc0d2bd3e18e411286bf16f2dbabb1fd"/>
+	<game name="Spectrum Automatic Copier (1985)(Groot, Henk de)[a][aka Autocopy]">
+		<description>Spectrum Automatic Copier (1985)(Groot, Henk de)[a][aka Autocopy]</description>
+		<rom name="Spectrum Automatic Copier (1985)(Groot, Henk de)[a][aka Autocopy].z80" size="2219" crc="c60607bb" md5="439854544790ec06ccaacad9ecdaf622" sha1="ee8b845dcc0d2bd3e18e411286bf16f2dbabb1fd"/>
 	</game>
-	<game name="Spectrum Automatic Copier (1985)(Groot, H. de)[a2]">
-		<description>Spectrum Automatic Copier (1985)(Groot, H. de)[a2]</description>
-		<rom name="Spectrum Automatic Copier (1985)(Groot, H. de)[a2].z80" size="2219" crc="81d12d1f" md5="a78fc845c2ef7a98c13a89b8d5a8f602" sha1="24f5727aef09717cf63919b8f75307191282288e"/>
+	<game name="Spectrum Automatic Copier (1985)(Groot, Henk de)[a2][aka Autocopy]">
+		<description>Spectrum Automatic Copier (1985)(Groot, Henk de)[a2][aka Autocopy]</description>
+		<rom name="Spectrum Automatic Copier (1985)(Groot, Henk de)[a2][aka Autocopy].z80" size="2219" crc="81d12d1f" md5="a78fc845c2ef7a98c13a89b8d5a8f602" sha1="24f5727aef09717cf63919b8f75307191282288e"/>
 	</game>
-	<game name="Spectrum Automatic Copier (1985)(Groot, H. de)[a3]">
-		<description>Spectrum Automatic Copier (1985)(Groot, H. de)[a3]</description>
-		<rom name="Spectrum Automatic Copier (1985)(Groot, H. de)[a3].z80" size="3567" crc="920d25d2" md5="e15f49d1e423f5d4e86495ff39811902" sha1="f450081dc84dc9c63d416859e1fd8db43d5e17f7"/>
-	</game>
-	<game name="Spectrum Bug 2 (1982)(Artic Computing)(16K)">
-		<description>Spectrum Bug 2 (1982)(Artic Computing)(16K)</description>
-		<rom name="Spectrum Bug 2 (1982)(Artic Computing)(16K).z80" size="8543" crc="e6f1ca04" md5="3cf409376567a87566cddfb548a617fa" sha1="767c8ecda5cd81c1ba456e26beffa22f9edcac88"/>
+	<game name="Spectrum Automatic Copier (1985)(Groot, Henk de)[a3][aka Autocopy]">
+		<description>Spectrum Automatic Copier (1985)(Groot, Henk de)[a3][aka Autocopy]</description>
+		<rom name="Spectrum Automatic Copier (1985)(Groot, Henk de)[a3][aka Autocopy].z80" size="3567" crc="920d25d2" md5="e15f49d1e423f5d4e86495ff39811902" sha1="f450081dc84dc9c63d416859e1fd8db43d5e17f7"/>
 	</game>
 	<game name="Spectrum C.A.D. (1984)(Profisoft)(DE)(en)">
 		<description>Spectrum C.A.D. (1984)(Profisoft)(DE)(en)</description>
@@ -4062,17 +4142,17 @@
 		<description>Spectrum Tester (1995)(Phil Reynolds)</description>
 		<rom name="Spectrum Tester (1995)(Phil Reynolds).z80" size="11162" crc="503ecb9b" md5="323ddcf3179d98f520eb3e0e214f9f4c" sha1="c380805712fb32ae730f5a6a2bae20197622315d"/>
 	</game>
-	<game name="Spectrum XAMPP (2010)(BloodBaz)[CSSCGC]">
-		<description>Spectrum XAMPP (2010)(BloodBaz)[CSSCGC]</description>
-		<rom name="Spectrum XAMPP (2010)(BloodBaz)[CSSCGC].z80" size="7363" crc="a512297c" md5="7c692ce2f6efac389583b3a9eaf0a953" sha1="b5f10061e615dca5dc916a21e40e114c88fcd20e"/>
+	<game name="Spectrum XAMPP (2010)(BloodBaz)(16K)[CSSCGC]">
+		<description>Spectrum XAMPP (2010)(BloodBaz)(16K)[CSSCGC]</description>
+		<rom name="Spectrum XAMPP (2010)(BloodBaz)(16K)[CSSCGC].z80" size="7363" crc="a512297c" md5="7c692ce2f6efac389583b3a9eaf0a953" sha1="b5f10061e615dca5dc916a21e40e114c88fcd20e"/>
 	</game>
 	<game name="Spectrum-Sketch (19xx)(Jahn, Klaus)(de)">
 		<description>Spectrum-Sketch (19xx)(Jahn, Klaus)(de)</description>
 		<rom name="Spectrum-Sketch (19xx)(Jahn, Klaus)(de).z80" size="8249" crc="edefacbd" md5="b0b98fd74b0081532ca727e1c8a3637c" sha1="3f6053ffa8dc53ca52be087748dc73dfc3de2267"/>
 	</game>
-	<game name="Speech!!! (19xx)(Japhet, Gilad)(CZ)(en)">
-		<description>Speech!!! (19xx)(Japhet, Gilad)(CZ)(en)</description>
-		<rom name="Speech!!! (19xx)(Japhet, Gilad)(CZ)(en).z80" size="3608" crc="7a604509" md5="3089f3b0e105a8914921d837b99e02dd" sha1="39263c9590055782d2b802a6539407beb6bb958e"/>
+	<game name="Speech!!! (19xx)(Japhet, Gilad)(IL)(en)">
+		<description>Speech!!! (19xx)(Japhet, Gilad)(IL)(en)</description>
+		<rom name="Speech!!! (19xx)(Japhet, Gilad)(IL)(en).z80" size="3608" crc="7a604509" md5="3089f3b0e105a8914921d837b99e02dd" sha1="39263c9590055782d2b802a6539407beb6bb958e"/>
 	</game>
 	<game name="Speed Office (1985)(Load 'n' Run)(IT)">
 		<description>Speed Office (1985)(Load 'n' Run)(IT)</description>
@@ -4226,9 +4306,9 @@
 		<description>Superkey (19xx)(-)(16K)</description>
 		<rom name="Superkey (19xx)(-)(16K).z80" size="5347" crc="e00db063" md5="d48d66824607f05926b0c98ebcb26967" sha1="1d0fd19f3b9880867190011b06b23fcf1cffe7a0"/>
 	</game>
-	<game name="Supertassword (1991)(Saursoft)(CZ)(bs)">
-		<description>Supertassword (1991)(Saursoft)(CZ)(bs)</description>
-		<rom name="Supertassword (1991)(Saursoft)(CZ)(bs).z80" size="7919" crc="b2791944" md5="2308bf86c0699d0ec1c8527350c072d5" sha1="301b675f8438b48a9366bdd687a38386d697d851"/>
+	<game name="Supertassword (1991)(Saursoft)(SK)(bs)">
+		<description>Supertassword (1991)(Saursoft)(SK)(bs)</description>
+		<rom name="Supertassword (1991)(Saursoft)(SK)(bs).z80" size="7919" crc="b2791944" md5="2308bf86c0699d0ec1c8527350c072d5" sha1="301b675f8438b48a9366bdd687a38386d697d851"/>
 	</game>
 	<game name="Synsounds (19xx)(-)(de)">
 		<description>Synsounds (19xx)(-)(de)</description>
@@ -4258,9 +4338,9 @@
 		<description>Szybka Pamiec Tasmowa (1987)(Krajowe Wydawnictwo Czasopism)(PL)</description>
 		<rom name="Szybka Pamiec Tasmowa (1987)(Krajowe Wydawnictwo Czasopism)(PL).z80" size="7458" crc="185965db" md5="d3cac7cecb41ad6efe6fae53a90cb170" sha1="c79efa476c88734477c02665af7d4ec555c1d00f"/>
 	</game>
-	<game name="TC-5 (1984)(Antas, José)(pt)">
-		<description>TC-5 (1984)(Antas, José)(pt)</description>
-		<rom name="TC-5 (1984)(Antas, José)(pt).z80" size="3325" crc="d5fcacfa" md5="10abb2e2d02450b948babd2ae90f19ac" sha1="e4d3634f26c907c45f413c83b7c03b0dc0ea2869"/>
+	<game name="TC-5 (1984)(Antas, Jose)(pt)">
+		<description>TC-5 (1984)(Antas, Jose)(pt)</description>
+		<rom name="TC-5 (1984)(Antas, Jose)(pt).z80" size="3325" crc="d5fcacfa" md5="10abb2e2d02450b948babd2ae90f19ac" sha1="e4d3634f26c907c45f413c83b7c03b0dc0ea2869"/>
 	</game>
 	<game name="TEONW (19xx)(Bezemer, Hans)(NL)[aka Effects of Nuclear Weapons, The]">
 		<description>TEONW (19xx)(Bezemer, Hans)(NL)[aka Effects of Nuclear Weapons, The]</description>
@@ -4272,11 +4352,11 @@
 	</game>
 	<game name="Talfransk (19xx)(-)(no)">
 		<description>Talfransk (19xx)(-)(no)</description>
-		<rom name="Talfransk (19xx)(-)(no).z80" size="4558" crc="bbff410a" md5="bda1ab764dbf2fe9d2db58a96f6bd7aa" sha1="e470f454ab51660a264b0e73d6779148bc8967c0"/>
+		<rom name="Talfransk (19xx)(-)(no).z80" size="4558" crc="9ac53480" md5="be0b99c4b16c719aada4a14d5f8380c0" sha1="ea83e6eff789116e5fd70088298efa0f9f588193"/>
 	</game>
 	<game name="Talfransk (19xx)(-)(no)[a]">
 		<description>Talfransk (19xx)(-)(no)[a]</description>
-		<rom name="Talfransk (19xx)(-)(no)[a].z80" size="4558" crc="9ac53480" md5="be0b99c4b16c719aada4a14d5f8380c0" sha1="ea83e6eff789116e5fd70088298efa0f9f588193"/>
+		<rom name="Talfransk (19xx)(-)(no)[a].z80" size="4558" crc="bbff410a" md5="bda1ab764dbf2fe9d2db58a96f6bd7aa" sha1="e470f454ab51660a264b0e73d6779148bc8967c0"/>
 	</game>
 	<game name="Talking Watch (19xx)(-)(de)">
 		<description>Talking Watch (19xx)(-)(de)</description>
@@ -4312,11 +4392,11 @@
 	</game>
 	<game name="Tape Copier 6 (1984)(LERM)">
 		<description>Tape Copier 6 (1984)(LERM)</description>
-		<rom name="Tape Copier 6 (1984)(LERM).z80" size="4409" crc="7fbfc298" md5="826c0f027d37a6d27c39d54a805e281f" sha1="5987572868ce6554d69cfb49941642e4f10d494a"/>
+		<rom name="Tape Copier 6 (1984)(LERM).z80" size="6657" crc="63fa3c2c" md5="ad711cbb55c182b946567723a56e2a04" sha1="45d9ae3c50d518fb20efa0b4dc2d7a21b563e817"/>
 	</game>
 	<game name="Tape Copier 6 (1984)(LERM)[a]">
 		<description>Tape Copier 6 (1984)(LERM)[a]</description>
-		<rom name="Tape Copier 6 (1984)(LERM)[a].z80" size="6657" crc="63fa3c2c" md5="ad711cbb55c182b946567723a56e2a04" sha1="45d9ae3c50d518fb20efa0b4dc2d7a21b563e817"/>
+		<rom name="Tape Copier 6 (1984)(LERM)[a].z80" size="4409" crc="7fbfc298" md5="826c0f027d37a6d27c39d54a805e281f" sha1="5987572868ce6554d69cfb49941642e4f10d494a"/>
 	</game>
 	<game name="Tape Copier 6 (1984)(LERM)[a2]">
 		<description>Tape Copier 6 (1984)(LERM)[a2]</description>
@@ -4378,9 +4458,9 @@
 		<description>Tape-File Copy 128K v3.0 (1988)(Dynamic)(128K)(PL)(en)[aka Copy 128 V3.0]</description>
 		<rom name="Tape-File Copy 128K v3.0 (1988)(Dynamic)(128K)(PL)(en)[aka Copy 128 V3.0].z80" size="10189" crc="7edf19b8" md5="ee88a6f47e3beed767d1cd9614e6195b" sha1="9804747308a0abe58bc28c5c39474e492f34c9c3"/>
 	</game>
-	<game name="TapeSys (1984)(Your Computer)(de)[re-release]">
-		<description>TapeSys (1984)(Your Computer)(de)[re-release]</description>
-		<rom name="TapeSys (1984)(Your Computer)(de)[re-release].z80" size="10110" crc="e5b3d07e" md5="ab6913c88e53318353977a34f0054d2c" sha1="648f672df942b833fb3ff5c255faf5b2fbef6de2"/>
+	<game name="TapeSys (1984)(Your Computer)(GB)(de)[re-release]">
+		<description>TapeSys (1984)(Your Computer)(GB)(de)[re-release]</description>
+		<rom name="TapeSys (1984)(Your Computer)(GB)(de)[re-release].z80" size="10110" crc="e5b3d07e" md5="ab6913c88e53318353977a34f0054d2c" sha1="648f672df942b833fb3ff5c255faf5b2fbef6de2"/>
 	</game>
 	<game name="Tapecopy (1983)(Dannhoefer, R.)">
 		<description>Tapecopy (1983)(Dannhoefer, R.)</description>
@@ -4532,11 +4612,11 @@
 	</game>
 	<game name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[aka Wykresy 3 Wymiarowe]">
 		<description>Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[aka Wykresy 3 Wymiarowe]</description>
-		<rom name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[aka Wykresy 3 Wymiarowe].z80" size="24351" crc="5e6d3935" md5="18482979926c969370143b2bf48ec1bf" sha1="56e5e701c8335be316510b16b29d5ee4bfdf0220"/>
+		<rom name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[aka Wykresy 3 Wymiarowe].z80" size="24346" crc="01b74e72" md5="47701542105083aa1c023dba7d34723d" sha1="8469c82406008655fe7468d1e63da8f492e8e343"/>
 	</game>
 	<game name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[a][aka Wykresy 3 Wymiarowe]">
 		<description>Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[a][aka Wykresy 3 Wymiarowe]</description>
-		<rom name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[a][aka Wykresy 3 Wymiarowe].z80" size="24346" crc="01b74e72" md5="47701542105083aa1c023dba7d34723d" sha1="8469c82406008655fe7468d1e63da8f492e8e343"/>
+		<rom name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[a][aka Wykresy 3 Wymiarowe].z80" size="24351" crc="5e6d3935" md5="18482979926c969370143b2bf48ec1bf" sha1="56e5e701c8335be316510b16b29d5ee4bfdf0220"/>
 	</game>
 	<game name="Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[a2][aka Wykresy 3 Wymiarowe]">
 		<description>Trzy Wymiary (1987)(Krajowe Wydawnictwo Czasopism)(PL)[a2][aka Wykresy 3 Wymiarowe]</description>
@@ -4578,9 +4658,9 @@
 		<description>U.K. General Election Statistics (1992)(Rowland, Garry)</description>
 		<rom name="U.K. General Election Statistics (1992)(Rowland, Garry).z80" size="25537" crc="4d90e38b" md5="fd3f03ade38af6fd2e6b2e3c64a41fd2" sha1="f545f5b451689386bf98077b531f45cb8be45fdf"/>
 	</game>
-	<game name="U.T.E. (1984)(Primoz Jakopin)(SI)(en)">
-		<description>U.T.E. (1984)(Primoz Jakopin)(SI)(en)</description>
-		<rom name="U.T.E. (1984)(Primoz Jakopin)(SI)(en).z80" size="6885" crc="f02b1312" md5="28f7afe80c651af49bcf67fc8c1ec1b3" sha1="e0cbeffcde25599ef5c12857fc9d666fd3376921"/>
+	<game name="U.T.E. (1985)(Primoz Jakopin)(SI)(en)">
+		<description>U.T.E. (1985)(Primoz Jakopin)(SI)(en)</description>
+		<rom name="U.T.E. (1985)(Primoz Jakopin)(SI)(en).z80" size="6885" crc="f02b1312" md5="28f7afe80c651af49bcf67fc8c1ec1b3" sha1="e0cbeffcde25599ef5c12857fc9d666fd3376921"/>
 	</game>
 	<game name="UDG Designer (19xx)(Jahn, Klaus)(de)">
 		<description>UDG Designer (19xx)(Jahn, Klaus)(de)</description>
@@ -4609,6 +4689,10 @@
 	<game name="Ultifile v4.0 (1984)(Ultrasoft)(DE)">
 		<description>Ultifile v4.0 (1984)(Ultrasoft)(DE)</description>
 		<rom name="Ultifile v4.0 (1984)(Ultrasoft)(DE).z80" size="7466" crc="cfc028c2" md5="c56ad4c0b97a6a9139e78d2effb99909" sha1="13ab79dbd8ee0c68fb24519f173cd2053c245414"/>
+	</game>
+	<game name="Ultimate Games Designer for the ZX Spectrum, The (2015)(Prince, Lee)">
+		<description>Ultimate Games Designer for the ZX Spectrum, The (2015)(Prince, Lee)</description>
+		<rom name="Ultimate Games Designer for the ZX Spectrum, The (2015)(Prince, Lee).z80" size="49247" crc="577efd8b" md5="24bd87cca849f593ab50057e72098584" sha1="2c21714e93e07a0971cc52a418eec3c7191c068b"/>
 	</game>
 	<game name="Ultimate ZX Spectrum Games Designer (2014)(MykeP)[CSSCGC]">
 		<description>Ultimate ZX Spectrum Games Designer (2014)(MykeP)[CSSCGC]</description>
@@ -4650,13 +4734,13 @@
 		<description>Universalschrift (19xx)(-)(de)</description>
 		<rom name="Universalschrift (19xx)(-)(de).z80" size="14941" crc="dec9147a" md5="c2805717922850b2619e0aa6e622122f" sha1="3b2a85da0542a138d7c8ed6eaae85114ab104a2f"/>
 	</game>
-	<game name="Uschi Compiler (1987)(Happy Computer)(DE)">
-		<description>Uschi Compiler (1987)(Happy Computer)(DE)</description>
-		<rom name="Uschi Compiler (1987)(Happy Computer)(DE).z80" size="6856" crc="91449fff" md5="c51f9896b3b307d48e6a77fc67d45aab" sha1="dc4d6a45d309b4baab3de91d9c21013f1ce083ac"/>
+	<game name="Uschi Compiler (1987)(Happy Computer)(de)">
+		<description>Uschi Compiler (1987)(Happy Computer)(de)</description>
+		<rom name="Uschi Compiler (1987)(Happy Computer)(de).z80" size="6883" crc="5b55825a" md5="e63645319d672a643c394ae891b1cb1d" sha1="492055aface8f2984c06ee138edf46034e1f8c13"/>
 	</game>
-	<game name="Uschi Compiler (1987)(Happy Computer)(DE)[a]">
-		<description>Uschi Compiler (1987)(Happy Computer)(DE)[a]</description>
-		<rom name="Uschi Compiler (1987)(Happy Computer)(DE)[a].z80" size="6883" crc="5b55825a" md5="e63645319d672a643c394ae891b1cb1d" sha1="492055aface8f2984c06ee138edf46034e1f8c13"/>
+	<game name="Uschi Compiler (1987)(Happy Computer)(de)[a]">
+		<description>Uschi Compiler (1987)(Happy Computer)(de)[a]</description>
+		<rom name="Uschi Compiler (1987)(Happy Computer)(de)[a].z80" size="6856" crc="91449fff" md5="c51f9896b3b307d48e6a77fc67d45aab" sha1="dc4d6a45d309b4baab3de91d9c21013f1ce083ac"/>
 	</game>
 	<game name="User Defined Graphics (1982)(Oxford Computer Publishing)">
 		<description>User Defined Graphics (1982)(Oxford Computer Publishing)</description>
@@ -4666,9 +4750,9 @@
 		<description>Using Intonation (19xx)(-)</description>
 		<rom name="Using Intonation (19xx)(-).z80" size="5271" crc="195818a6" md5="1108cbf31c84798be8c6a82959b1a495" sha1="aadb0bc292dd65412d4db989745ebe77c04068b4"/>
 	</game>
-	<game name="Utility2 (1989)(Outlet)(16K)">
-		<description>Utility2 (1989)(Outlet)(16K)</description>
-		<rom name="Utility2 (1989)(Outlet)(16K).z80" size="11132" crc="f2b0c2ab" md5="91414c6fd87b3c13747108ee0f70758a" sha1="321a09d902b961cc9a12a40c2abc50aed77b4dc7"/>
+	<game name="Utility2 (1989)(Chezron)(16K)">
+		<description>Utility2 (1989)(Chezron)(16K)</description>
+		<rom name="Utility2 (1989)(Chezron)(16K).z80" size="11132" crc="f2b0c2ab" md5="91414c6fd87b3c13747108ee0f70758a" sha1="321a09d902b961cc9a12a40c2abc50aed77b4dc7"/>
 	</game>
 	<game name="Utility3 (1989)(Wearmouth, Geoff)(16K)">
 		<description>Utility3 (1989)(Wearmouth, Geoff)(16K)</description>
@@ -4738,9 +4822,9 @@
 		<description>Varitalk (1984)(ITS)</description>
 		<rom name="Varitalk (1984)(ITS).z80" size="31540" crc="3150f35d" md5="30ef4d6438cec91da90fc3470d492b3a" sha1="14f8d6cd11d4f797b4710d009df060aa842b08e7"/>
 	</game>
-	<game name="Vecny Kalendar Zahradkare (1994)(Hotrasoft)(CZ)">
-		<description>Vecny Kalendar Zahradkare (1994)(Hotrasoft)(CZ)</description>
-		<rom name="Vecny Kalendar Zahradkare (1994)(Hotrasoft)(CZ).z80" size="20180" crc="e2141d6f" md5="b181d5a28a59f6293f226f13b3c56fa3" sha1="7579e3113dd0fca5c4fb6dfa94ade72b83eb0850"/>
+	<game name="Vecny kalendar zahradkare (1994)(Hotrasoft)(CZ)">
+		<description>Vecny kalendar zahradkare (1994)(Hotrasoft)(CZ)</description>
+		<rom name="Vecny kalendar zahradkare (1994)(Hotrasoft)(CZ).z80" size="20180" crc="e2141d6f" md5="b181d5a28a59f6293f226f13b3c56fa3" sha1="7579e3113dd0fca5c4fb6dfa94ade72b83eb0850"/>
 	</game>
 	<game name="Vertikalne Antene Stacionarne Ili Mobilne (1984)(Kos, Zdravko)(BS)">
 		<description>Vertikalne Antene Stacionarne Ili Mobilne (1984)(Kos, Zdravko)(BS)</description>
@@ -4814,9 +4898,9 @@
 		<description>Wham! The Music Box (1985)(Melbourne House)</description>
 		<rom name="Wham! The Music Box (1985)(Melbourne House).z80" size="20783" crc="0da39be7" md5="d4954c13412f609e1c69b12837dfab49" sha1="e1db6f6b7a8d98b5c14282b271d85bcb0c515f2c"/>
 	</game>
-	<game name="When I'm 64 (1986)(ZX Computing)(GB)(de)[aka 64 Zeichen]">
-		<description>When I'm 64 (1986)(ZX Computing)(GB)(de)[aka 64 Zeichen]</description>
-		<rom name="When I'm 64 (1986)(ZX Computing)(GB)(de)[aka 64 Zeichen].z80" size="2328" crc="61e1dbb5" md5="33c790850475892b46148b092f007e66" sha1="a002995651cc3b14c5e6d01d58610e27a724b33a"/>
+	<game name="When I'm 64 (1986)(ZX Computing)(de)[aka 64 Zeichen]">
+		<description>When I'm 64 (1986)(ZX Computing)(de)[aka 64 Zeichen]</description>
+		<rom name="When I'm 64 (1986)(ZX Computing)(de)[aka 64 Zeichen].z80" size="2328" crc="61e1dbb5" md5="33c790850475892b46148b092f007e66" sha1="a002995651cc3b14c5e6d01d58610e27a724b33a"/>
 	</game>
 	<game name="White Lightning v2 (1984)(Oasis)">
 		<description>White Lightning v2 (1984)(Oasis)</description>
@@ -4862,9 +4946,9 @@
 		<description>Writer Communication Program, The (1985)(Gianluca Carri)</description>
 		<rom name="Writer Communication Program, The (1985)(Gianluca Carri).z80" size="8305" crc="8a252f67" md5="713765c85a195f2f9c662223e98bb51b" sha1="4735dce4c1335e977b92d6da73ffce793337b8e2"/>
 	</game>
-	<game name="Writer, The (1985)(Softechnics)(48K-128K)">
-		<description>Writer, The (1985)(Softechnics)(48K-128K)</description>
-		<rom name="Writer, The (1985)(Softechnics)(48K-128K).z80" size="18376" crc="1679af71" md5="d3e70a84e44d3e1f81694be6fde13ca0" sha1="87d5b7e292ad4d3b1ed4d74a5722aa902484f140"/>
+	<game name="Writer, The (1986)(Softechnics)(48K-128K)">
+		<description>Writer, The (1986)(Softechnics)(48K-128K)</description>
+		<rom name="Writer, The (1986)(Softechnics)(48K-128K).z80" size="18376" crc="1679af71" md5="d3e70a84e44d3e1f81694be6fde13ca0" sha1="87d5b7e292ad4d3b1ed4d74a5722aa902484f140"/>
 	</game>
 	<game name="Wye Compiler (1983)(Wye Valley)(16K)">
 		<description>Wye Compiler (1983)(Wye Valley)(16K)</description>
@@ -4988,11 +5072,11 @@
 	</game>
 	<game name="ZX Spectrum Scan Converter (1984)(Tencati, A.)">
 		<description>ZX Spectrum Scan Converter (1984)(Tencati, A.)</description>
-		<rom name="ZX Spectrum Scan Converter (1984)(Tencati, A.).z80" size="2772" crc="0ea05e7a" md5="1142e7cd1571e77a771eda8d37ee5631" sha1="014a839f306d4abe38db026f88d4357670b19bc1"/>
+		<rom name="ZX Spectrum Scan Converter (1984)(Tencati, A.).z80" size="2772" crc="4df61e38" md5="3829ec4f86cb9fda9425c10ba13ed54f" sha1="bb79e2e9f5dbf26485d2d2196b5f08abdebcfd46"/>
 	</game>
 	<game name="ZX Spectrum Scan Converter (1984)(Tencati, A.)[a]">
 		<description>ZX Spectrum Scan Converter (1984)(Tencati, A.)[a]</description>
-		<rom name="ZX Spectrum Scan Converter (1984)(Tencati, A.)[a].z80" size="2772" crc="4df61e38" md5="3829ec4f86cb9fda9425c10ba13ed54f" sha1="bb79e2e9f5dbf26485d2d2196b5f08abdebcfd46"/>
+		<rom name="ZX Spectrum Scan Converter (1984)(Tencati, A.)[a].z80" size="2772" crc="0ea05e7a" md5="1142e7cd1571e77a771eda8d37ee5631" sha1="014a839f306d4abe38db026f88d4357670b19bc1"/>
 	</game>
 	<game name="ZX Spectrum Scan Converter (1984)(Tencati, A.)[a2]">
 		<description>ZX Spectrum Scan Converter (1984)(Tencati, A.)[a2]</description>
@@ -5074,9 +5158,9 @@
 		<description>Zotyocopy# (1986)(Graff, Zoltan)(HU)(en)</description>
 		<rom name="Zotyocopy# (1986)(Graff, Zoltan)(HU)(en).z80" size="6704" crc="59b8df50" md5="38faf6903045032160b70a41a1f13fbd" sha1="9d7f106983e9f0eea2dbd2889f777bf788537efa"/>
 	</game>
-	<game name="deCyphernoid - The Editing Machine v1.0.3a (2007)">
-		<description>deCyphernoid - The Editing Machine v1.0.3a (2007)</description>
-		<rom name="deCyphernoid - The Editing Machine v1.0.3a (2007).z80" size="21622" crc="270b7dc8" md5="b55397b6069cd3152433e7bab152f3c4" sha1="12f02c0d95e635508ddaece937b76634a7de3086"/>
+	<game name="deCyphernoid - The Editing Machine v1.0.3a (2007)(ES)(en)">
+		<description>deCyphernoid - The Editing Machine v1.0.3a (2007)(ES)(en)</description>
+		<rom name="deCyphernoid - The Editing Machine v1.0.3a (2007)(ES)(en).z80" size="21622" crc="270b7dc8" md5="b55397b6069cd3152433e7bab152f3c4" sha1="12f02c0d95e635508ddaece937b76634a7de3086"/>
 	</game>
 	<game name="muMATH-80 (2011)(Ribic, Samir)(+2A-+3)(BA)(en)">
 		<description>muMATH-80 (2011)(Ribic, Samir)(+2A-+3)(BA)(en)</description>

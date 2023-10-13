@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Strategy - [G64]</name>
-		<description>Commodore C64 - Games - Strategy - [G64] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Strategy - [G64] (TOSEC-v2023-05-19)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-05-19</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1304,9 +1304,9 @@
 		<description>TAC - Tactical Armor Command (1983)(Avalon Hill)[a]</description>
 		<rom name="TAC - Tactical Armor Command (1983)(Avalon Hill)[a].g64" size="286164" crc="aae5ddb6" md5="53602f06413bc1b0511fd6d8dbeec6a9" sha1="367a0310591f36a2ceb5b72e8753edf503a7fb23"/>
 	</game>
-	<game name="Typhoon of Steel - Asia v1.1 (1988)(SSI)[o]">
-		<description>Typhoon of Steel - Asia v1.1 (1988)(SSI)[o]</description>
-		<rom name="Typhoon of Steel - Asia v1.1 (1988)(SSI)[o].g64" size="286164" crc="8c771329" md5="ef0d5fd6900a7d80d32612c870bb7bc7" sha1="e71ddd74666236a27d83453714a93e0b6e151d19"/>
+	<game name="Typhoon of Steel - Asia v1.1 (1988)(SSI)">
+		<description>Typhoon of Steel - Asia v1.1 (1988)(SSI)</description>
+		<rom name="Typhoon of Steel - Asia v1.1 (1988)(SSI).g64" size="286164" crc="8c771329" md5="ef0d5fd6900a7d80d32612c870bb7bc7" sha1="e71ddd74666236a27d83453714a93e0b6e151d19"/>
 	</game>
 	<game name="Typhoon of Steel - Europe v1.1 (1988)(SSI)">
 		<description>Typhoon of Steel - Europe v1.1 (1988)(SSI)</description>
@@ -1420,6 +1420,10 @@
 		<description>Wargame Construction Set (1987)(SSI)(Side A)[a]</description>
 		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a].g64" size="333744" crc="86ce8c5e" md5="309f6b86501a96b1848398d8c8624197" sha1="6e2c67daae10a7840d6a886b980975796b671ce6"/>
 	</game>
+	<game name="Wargame Construction Set (1987)(SSI)(Side A)[a10]">
+		<description>Wargame Construction Set (1987)(SSI)(Side A)[a10]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a10].g64" size="333744" crc="2ff438e1" md5="39b351d6e29ce53e4330978545891f30" sha1="8417c9c4b6403adbbc2daf0d5c4902682ace3f31"/>
+	</game>
 	<game name="Wargame Construction Set (1987)(SSI)(Side A)[a2]">
 		<description>Wargame Construction Set (1987)(SSI)(Side A)[a2]</description>
 		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a2].g64" size="333744" crc="b3b814fb" md5="7f9403c222dca319b88c8dc05f8c75b5" sha1="17ec9b77da0c0c462e9af6b5a76be65c802edc42"/>
@@ -1436,25 +1440,21 @@
 		<description>Wargame Construction Set (1987)(SSI)(Side A)[a5]</description>
 		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a5].g64" size="333744" crc="0b75f4c4" md5="663f07e8348d8b6f0c59a1cd71b4eff6" sha1="629be1430affc8af19cb1469a95947df9f943147"/>
 	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side A)[o]">
-		<description>Wargame Construction Set (1987)(SSI)(Side A)[o]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[o].g64" size="333744" crc="522926e8" md5="133b790a1cca88e892c7da8e856e8c7a" sha1="948c6e316f1a13c424db8006967b2f77497beb4b"/>
+	<game name="Wargame Construction Set (1987)(SSI)(Side A)[a6]">
+		<description>Wargame Construction Set (1987)(SSI)(Side A)[a6]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a6].g64" size="333744" crc="522926e8" md5="133b790a1cca88e892c7da8e856e8c7a" sha1="948c6e316f1a13c424db8006967b2f77497beb4b"/>
 	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side A)[o][a]">
-		<description>Wargame Construction Set (1987)(SSI)(Side A)[o][a]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[o][a].g64" size="333744" crc="2ff438e1" md5="39b351d6e29ce53e4330978545891f30" sha1="8417c9c4b6403adbbc2daf0d5c4902682ace3f31"/>
+	<game name="Wargame Construction Set (1987)(SSI)(Side A)[a7]">
+		<description>Wargame Construction Set (1987)(SSI)(Side A)[a7]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a7].g64" size="286164" crc="47c1210d" md5="23c7260ead789d6123d6c49558d60276" sha1="3195d34dd4f5bcf08dc0c37e401c637213d4ff0f"/>
 	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side A)[o][a2]">
-		<description>Wargame Construction Set (1987)(SSI)(Side A)[o][a2]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[o][a2].g64" size="286164" crc="47c1210d" md5="23c7260ead789d6123d6c49558d60276" sha1="3195d34dd4f5bcf08dc0c37e401c637213d4ff0f"/>
+	<game name="Wargame Construction Set (1987)(SSI)(Side A)[a8]">
+		<description>Wargame Construction Set (1987)(SSI)(Side A)[a8]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a8].g64" size="333744" crc="95d04efb" md5="a0a0dfd2f10797cf7f1f282b89cbdc4b" sha1="376ab8ef843adb9ce10113cbe836eb99fdee0928"/>
 	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side A)[o][a3]">
-		<description>Wargame Construction Set (1987)(SSI)(Side A)[o][a3]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[o][a3].g64" size="333744" crc="95d04efb" md5="a0a0dfd2f10797cf7f1f282b89cbdc4b" sha1="376ab8ef843adb9ce10113cbe836eb99fdee0928"/>
-	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side A)[o][a4]">
-		<description>Wargame Construction Set (1987)(SSI)(Side A)[o][a4]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[o][a4].g64" size="333744" crc="a49e7e3d" md5="309a8da9ea35ab252a2bdcfb416b1b75" sha1="958eec7e97daa5a4e47d7957a95b799787ce4bc8"/>
+	<game name="Wargame Construction Set (1987)(SSI)(Side A)[a9]">
+		<description>Wargame Construction Set (1987)(SSI)(Side A)[a9]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side A)[a9].g64" size="333744" crc="a49e7e3d" md5="309a8da9ea35ab252a2bdcfb416b1b75" sha1="958eec7e97daa5a4e47d7957a95b799787ce4bc8"/>
 	</game>
 	<game name="Wargame Construction Set (1987)(SSI)(Side B)">
 		<description>Wargame Construction Set (1987)(SSI)(Side B)</description>
@@ -1463,6 +1463,14 @@
 	<game name="Wargame Construction Set (1987)(SSI)(Side B)[a]">
 		<description>Wargame Construction Set (1987)(SSI)(Side B)[a]</description>
 		<rom name="Wargame Construction Set (1987)(SSI)(Side B)[a].g64" size="333744" crc="51a85f5a" md5="2ed1f2ac2abe8c6dd7a33685a4ac1978" sha1="a03a3f615fcd2222c658253d8b959bb8a04f1bca"/>
+	</game>
+	<game name="Wargame Construction Set (1987)(SSI)(Side B)[a10]">
+		<description>Wargame Construction Set (1987)(SSI)(Side B)[a10]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side B)[a10].g64" size="333744" crc="6e58eeb5" md5="c87ac5931093a2bfb56f8fae373448dd" sha1="8e86cc48fa59a38eb2f8babf6bdbc1332193190e"/>
+	</game>
+	<game name="Wargame Construction Set (1987)(SSI)(Side B)[a11]">
+		<description>Wargame Construction Set (1987)(SSI)(Side B)[a11]</description>
+		<rom name="Wargame Construction Set (1987)(SSI)(Side B)[a11].g64" size="333744" crc="5c361249" md5="aa1dad0b9b8e809eb68b1314fc905cfc" sha1="ade363907d7289b4f708b70ea3b5611c3803c3a0"/>
 	</game>
 	<game name="Wargame Construction Set (1987)(SSI)(Side B)[a2]">
 		<description>Wargame Construction Set (1987)(SSI)(Side B)[a2]</description>
@@ -1495,14 +1503,6 @@
 	<game name="Wargame Construction Set (1987)(SSI)(Side B)[a9]">
 		<description>Wargame Construction Set (1987)(SSI)(Side B)[a9]</description>
 		<rom name="Wargame Construction Set (1987)(SSI)(Side B)[a9].g64" size="286164" crc="798c94ee" md5="7230ff44440c634dc98105b03575c9f6" sha1="ba127cdb68915c30898801536778bca29d46b262"/>
-	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side B)[o]">
-		<description>Wargame Construction Set (1987)(SSI)(Side B)[o]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side B)[o].g64" size="333744" crc="6e58eeb5" md5="c87ac5931093a2bfb56f8fae373448dd" sha1="8e86cc48fa59a38eb2f8babf6bdbc1332193190e"/>
-	</game>
-	<game name="Wargame Construction Set (1987)(SSI)(Side B)[o][a]">
-		<description>Wargame Construction Set (1987)(SSI)(Side B)[o][a]</description>
-		<rom name="Wargame Construction Set (1987)(SSI)(Side B)[o][a].g64" size="333744" crc="5c361249" md5="aa1dad0b9b8e809eb68b1314fc905cfc" sha1="ade363907d7289b4f708b70ea3b5611c3803c3a0"/>
 	</game>
 	<game name="Wargames (1984)(Creative Sparks)">
 		<description>Wargames (1984)(Creative Sparks)</description>

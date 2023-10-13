@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Collections - Berliner Spielekiste</name>
-		<description>Commodore Amiga - Collections - Berliner Spielekiste (TOSEC-v2020-06-23)</description>
+		<description>Commodore Amiga - Collections - Berliner Spielekiste (TOSEC-v2023-03-18)</description>
 		<category>TOSEC</category>
-		<version>2020-06-23</version>
+		<version>2023-03-18</version>
 		<author>mai - idoru - Duke - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1071,6 +1071,10 @@
 	<game name="Berliner Spielekiste #251 (199x)(Berlin PD)(DE)(PD)[BSKCD]">
 		<description>Berliner Spielekiste #251 (199x)(Berlin PD)(DE)(PD)[BSKCD]</description>
 		<rom name="Berliner Spielekiste #251 (199x)(Berlin PD)(DE)(PD)[BSKCD].adf" size="901120" crc="e31949ef" md5="69a15478f321f441b23a3219da4b4196" sha1="b7f3e6a675c028879673b7b242e6ff91814c4574"/>
+	</game>
+	<game name="Berliner Spielekiste #252 (19xx)(Berlin PD)(DE)(PD)[BSKCD]">
+		<description>Berliner Spielekiste #252 (19xx)(Berlin PD)(DE)(PD)[BSKCD]</description>
+		<rom name="Berliner Spielekiste #252 (19xx)(Berlin PD)(DE)(PD)[BSKCD].adf" size="901120" crc="a00bc692" md5="ff65ae2f580bd5e2e3da189cbe2147ed" sha1="23c5d1a54e38f85d0768a2ea7f47b09add17d035"/>
 	</game>
 	<game name="Berliner Spielekiste #253 (199x)(Berlin PD)(DE)(PD)[BSKCD]">
 		<description>Berliner Spielekiste #253 (199x)(Berlin PD)(DE)(PD)[BSKCD]</description>
@@ -2368,10 +2372,6 @@
 		<description>Berliner Spielekiste #973 (199x)(Berlin PD)(DE)(PD)</description>
 		<rom name="Berliner Spielekiste #973 (199x)(Berlin PD)(DE)(PD).adf" size="901120" crc="c94855d4" md5="80a584a2bfd50817074de4dd72604b9f" sha1="75a25193f23edb857beb435a1f1d82c85a1e79c6"/>
 	</game>
-	<game name="Berliner Spielekiste 252 (19xx)(Berlin PD)(DE)(PD)[BSKCD]">
-		<description>Berliner Spielekiste 252 (19xx)(Berlin PD)(DE)(PD)[BSKCD]</description>
-		<rom name="Berliner Spielekiste 252 (19xx)(Berlin PD)(DE)(PD)[BSKCD].adf" size="901120" crc="a00bc692" md5="ff65ae2f580bd5e2e3da189cbe2147ed" sha1="23c5d1a54e38f85d0768a2ea7f47b09add17d035"/>
-	</game>
 	<game name="Berliner Spielekiste Extra #01 (199x)(Berlin PD)(DE)(PD)">
 		<description>Berliner Spielekiste Extra #01 (199x)(Berlin PD)(DE)(PD)</description>
 		<rom name="Berliner Spielekiste Extra #01 (199x)(Berlin PD)(DE)(PD).adf" size="901120" crc="a25d1feb" md5="b46173308d678b4a32c09f4b7d402745" sha1="df102a6ab13582f9940cb99a0096f0ba2b51537c"/>
@@ -2443,6 +2443,74 @@
 	<game name="Berliner Spielekiste Extra #26 (199x)(Berlin PD)(DE)(PD)(Disk 3 of 3)[BSKCD]">
 		<description>Berliner Spielekiste Extra #26 (199x)(Berlin PD)(DE)(PD)(Disk 3 of 3)[BSKCD]</description>
 		<rom name="Berliner Spielekiste Extra #26 (199x)(Berlin PD)(DE)(PD)(Disk 3 of 3)[BSKCD].adf" size="901120" crc="92796471" md5="6728cb8055187b77ef7f2b01b71558e2" sha1="845aa6538cfa5437e2afea368622c83bcbc56d2d"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #32 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #32 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #32 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="3c714767" md5="ecf2a623ce53af2094f332f0b202305c" sha1="a6bd09c08a38d3cbf3c51a660ad7c74255cb6225"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #33 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #33 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #33 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="f7a9e552" md5="1f289e86d003969e25386cb68d7d06c1" sha1="44cd45d77c2ea9b57daea924e5e55adb6966407f"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #34 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #34 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #34 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="12183a18" md5="40edfd7eb7c0c17f75e075ef9ba8f97a" sha1="e96ce23dc6713ce23008d5ecb728f1420b75ac58"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #36 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #36 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #36 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="70524595" md5="edeaab81278a9d55aa065e182be814dc" sha1="bda6cda61f220082b1f68b0e480488afba2a95c8"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #38 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #38 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #38 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="0a5ab444" md5="f99a5d6e383ad01394c1f3c2613c1b16" sha1="37de2db46e06477deb2ee8301ff4eaeb5f477fff"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #39 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #39 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #39 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="908bd626" md5="8845421f7e1466942141418007a13eed" sha1="3593a4ffd87302bdb83195da1b3ec10129792116"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #40 (1994)(Berlin PD)(DE)(PD)(Disk 1 of 2)[WB]">
+		<description>Berliner Spielekiste Extra #40 (1994)(Berlin PD)(DE)(PD)(Disk 1 of 2)[WB]</description>
+		<rom name="Berliner Spielekiste Extra #40 (1994)(Berlin PD)(DE)(PD)(Disk 1 of 2)[WB].adf" size="901120" crc="cf0cbe47" md5="ea38d295294c5e99fae5635eee07d7df" sha1="3ca61b5322cae8ffabd1f080999c142072f407c1"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #40 (1994)(Berlin PD)(DE)(PD)(Disk 2 of 2)">
+		<description>Berliner Spielekiste Extra #40 (1994)(Berlin PD)(DE)(PD)(Disk 2 of 2)</description>
+		<rom name="Berliner Spielekiste Extra #40 (1994)(Berlin PD)(DE)(PD)(Disk 2 of 2).adf" size="901120" crc="3a7d7f63" md5="5d4c14ae350fe39571dfd16213d3bc45" sha1="ee9f01bbe60138245c7b8b8887640c884e5d914b"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #41 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #41 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #41 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="f2c7421a" md5="57d4f504b0ac18bf827a5afc223f19db" sha1="8fcf4179aa8d009c84bab80926bd53b6bb8a57bf"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #42 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #42 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #42 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="7d42ea30" md5="5ebc34e200b15bdf49b21e5b68ee6b25" sha1="1441a2b3f21780df893792568f385b505cc8ef55"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #43 (1994)(Berlin PD)(DE)(PD)[v FileGhost 2]">
+		<description>Berliner Spielekiste Extra #43 (1994)(Berlin PD)(DE)(PD)[v FileGhost 2]</description>
+		<rom name="Berliner Spielekiste Extra #43 (1994)(Berlin PD)(DE)(PD)[v FileGhost 2].adf" size="901120" crc="97100747" md5="efd498a4f878366e9cbe75efc897a99e" sha1="979bff1efa4482eb5fbdc90b437d1768bcd9abbe"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #44 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #44 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #44 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="6562ae84" md5="651f00a16df178befd6bff9aca86773f" sha1="9dab5c18f05643e49873fd5cc4888cf27c65bf39"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #45 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #45 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #45 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="0e272e6f" md5="88eea7cfc5a278221e9b9bffd1179523" sha1="1145ad21d726bbb96ed43ca22193a9fbfa3dfa1d"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #46 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #46 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #46 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="7a131341" md5="1be031dcc47fc31834f43897c0616c90" sha1="ecbb70f9c484037be0c18639d27dc8692302e4c7"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #47 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #47 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #47 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="9bb3d533" md5="ff3ae09901338f5d0ae5af101cb85746" sha1="c30c245f2ed0f13582cbb4a875c8c59b81a99dbd"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #48 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #48 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #48 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="06c90a34" md5="fef77a955759514c3cc5d1b8e7fac195" sha1="1ced0fb2648d58da9d04be461546d7820f4d22e3"/>
+	</game>
+	<game name="Berliner Spielekiste Extra #49 (1994)(Berlin PD)(DE)(PD)">
+		<description>Berliner Spielekiste Extra #49 (1994)(Berlin PD)(DE)(PD)</description>
+		<rom name="Berliner Spielekiste Extra #49 (1994)(Berlin PD)(DE)(PD).adf" size="901120" crc="2f99300a" md5="6146a3279c32a78a1cff8972e0a4677a" sha1="b844e1bee39a5ee85ebe0ec25387e075c5f00d12"/>
 	</game>
 	<game name="Berliner Spielekiste Extra #80 (199x)(Berlin PD)(DE)(PD)(Disk 1 of 3)">
 		<description>Berliner Spielekiste Extra #80 (199x)(Berlin PD)(DE)(PD)(Disk 1 of 3)</description>

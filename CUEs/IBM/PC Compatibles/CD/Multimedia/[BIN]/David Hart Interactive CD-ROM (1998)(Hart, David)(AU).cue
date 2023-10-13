@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "David Hart Interactive CD-ROM (1998)(Hart, David)(AU).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

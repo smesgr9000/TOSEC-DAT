@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "LINKS - The Challenge of Golf (1990)(Access Software).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

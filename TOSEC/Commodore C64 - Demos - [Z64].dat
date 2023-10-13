@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Demos - [Z64]</name>
-		<description>Commodore C64 - Demos - [Z64] (TOSEC-v2022-12-23)</description>
+		<description>Commodore C64 - Demos - [Z64] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-23</version>
+		<version>2023-06-14</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -418,12 +418,12 @@
 		<rom name="3!Airpower (1999)(Samar).z64" size="40443" crc="c1393f56" md5="b684c59f705deb460b6a7f45782b16a5" sha1="572be39ebabc3c540e8ad5a6287cd995b84bda20"/>
 		<rom name="4!Airpower (1999)(Samar).z64" size="22823" crc="67fb69b1" md5="0f1ce33bbd10e2587491f68371ad0c39" sha1="2de2c547e10f658dd5303ae467ecf24d300098a4"/>
 	</game>
-	<game name="Airwalk (1990)(The Ancient Temple)">
-		<description>Airwalk (1990)(The Ancient Temple)</description>
-		<rom name="1!Airwalk (1990)(The Ancient Temple).z64" size="1243" crc="37f24d15" md5="6f99202426326302c4866b7c682b0d8d" sha1="96ce03d89557895df7405441d15c1831c43a288d"/>
-		<rom name="2!Airwalk (1990)(The Ancient Temple).z64" size="31843" crc="7512dc2c" md5="d7252e7bb057ed2f8a6fb16b065e0643" sha1="3d0fcd11793c0654b1ed55c3e5f65315015dcb7a"/>
-		<rom name="3!Airwalk (1990)(The Ancient Temple).z64" size="38581" crc="85e287c0" md5="1fa999842ec9f5566052dd67ff24bca6" sha1="ac00f367fb275c8cf1a1f6cc8deed0b7317fef1a"/>
-		<rom name="4!Airwalk (1990)(The Ancient Temple).z64" size="1899" crc="23f4dd9f" md5="dc7c9ede5b0ea6d617eea142dabe819d" sha1="36f4c14077bab6885a617c26459db4e85e1091e7"/>
+	<game name="Airwalk (1990-07-17)(The Ancient Temple)">
+		<description>Airwalk (1990-07-17)(The Ancient Temple)</description>
+		<rom name="1!Airwalk (1990-07-17)(The Ancient Temple).z64" size="1243" crc="37f24d15" md5="6f99202426326302c4866b7c682b0d8d" sha1="96ce03d89557895df7405441d15c1831c43a288d"/>
+		<rom name="2!Airwalk (1990-07-17)(The Ancient Temple).z64" size="31843" crc="7512dc2c" md5="d7252e7bb057ed2f8a6fb16b065e0643" sha1="3d0fcd11793c0654b1ed55c3e5f65315015dcb7a"/>
+		<rom name="3!Airwalk (1990-07-17)(The Ancient Temple).z64" size="38581" crc="85e287c0" md5="1fa999842ec9f5566052dd67ff24bca6" sha1="ac00f367fb275c8cf1a1f6cc8deed0b7317fef1a"/>
+		<rom name="4!Airwalk (1990-07-17)(The Ancient Temple).z64" size="1899" crc="23f4dd9f" md5="dc7c9ede5b0ea6d617eea142dabe819d" sha1="36f4c14077bab6885a617c26459db4e85e1091e7"/>
 	</game>
 	<game name="Albedo (1993-11-27)(Shazam!)">
 		<description>Albedo (1993-11-27)(Shazam!)</description>
@@ -537,13 +537,6 @@
 		<rom name="2!Ambition 2 (1989)(World Wide Expressive).z64" size="13177" crc="8fef3347" md5="0285447322e368b020215f8ee0b94919" sha1="aa530775959bfe839bb9ecbe49c67e1376d36f3d"/>
 		<rom name="3!Ambition 2 (1989)(World Wide Expressive).z64" size="39718" crc="19315bea" md5="72a7267b8cb8bb9f3928ab7ea6155cfa" sha1="58663e430fa582beae48f09e7e6b9fc642a9d2a8"/>
 		<rom name="4!Ambition 2 (1989)(World Wide Expressive).z64" size="9660" crc="8b80c18c" md5="7ae73b0a1635d217e4e4c1b3ee1d8d8f" sha1="531791bd1d72ce6fa9a9c13a7a909ed125db6c33"/>
-	</game>
-	<game name="Amiga Saga (1992)(Visual Reality)">
-		<description>Amiga Saga (1992)(Visual Reality)</description>
-		<rom name="1!Amiga Saga (1992)(Visual Reality).z64" size="512" crc="6f550c6d" md5="841d2ef46c2e040904beaed5c1df5437" sha1="a21234f0f2d83028f78a8344831f05d917739099"/>
-		<rom name="2!Amiga Saga (1992)(Visual Reality).z64" size="39776" crc="0071027e" md5="b803708361cb36ad0efa43ed74460cde" sha1="0f8ec3b23b7a2b2cf2fe1c2ec9d5ad5fbca1799e"/>
-		<rom name="3!Amiga Saga (1992)(Visual Reality).z64" size="40007" crc="2482eea6" md5="e760700e6b5270b1fbeacbb626661436" sha1="6bb37c9acca2328ee442abdb032f9e20d746c260"/>
-		<rom name="4!Amiga Saga (1992)(Visual Reality).z64" size="1547" crc="fbfa1a58" md5="a27acd50daaf5fbf92a8d8ed6ceaec02" sha1="17abd66b616fbd07268e862e0a4a83dae3c79a5b"/>
 	</game>
 	<game name="Amiga Works 2 (1991-05-30)(Bonzai)">
 		<description>Amiga Works 2 (1991-05-30)(Bonzai)</description>
@@ -7697,19 +7690,19 @@
 		<rom name="3!Reign in Pain (1990-06-23)(Powers of Pain)[a].z64" size="30415" crc="09397a11" md5="f7e615e442b9bff8f6eae27ce721898e" sha1="5c1fc7a937f22ca8883f7a7649fab29da6262b5a"/>
 		<rom name="4!Reign in Pain (1990-06-23)(Powers of Pain)[a].z64" size="43112" crc="d1109758" md5="73837948af105066a5bfd8cb3db11c96" sha1="3af64c97550483fee4014e4181399498099428f9"/>
 	</game>
-	<game name="Relax (1993)(Arcane)">
-		<description>Relax (1993)(Arcane)</description>
-		<rom name="1!Relax (1993)(Arcane).z64" size="8934" crc="b4ae3c65" md5="3bb7c64bb6f10faca747bd7d8c61a6c1" sha1="99fa5bd4f285e4921fe3eedb7944e1d8e38e5d5b"/>
-		<rom name="2!Relax (1993)(Arcane).z64" size="42820" crc="e59cd239" md5="be4aa1931a6b99da45e8b2cfd3a023a1" sha1="dd5cab029dac40f177a134e4a22c5073dc0f5e9a"/>
-		<rom name="3!Relax (1993)(Arcane).z64" size="39753" crc="2fdebd76" md5="e38b4fa6a19181bfff92a0ed5ec9f86e" sha1="52291ef366b5195f16c65e9fa961b5dfca2fa2f7"/>
-		<rom name="4!Relax (1993)(Arcane).z64" size="18369" crc="0783f3c7" md5="3b70cb60f8ef9f8ab3a0081554870399" sha1="eef0beb8154b30eae624b6391d0d065a8fd8dc86"/>
+	<game name="Relax (1993-08)(Arcane)">
+		<description>Relax (1993-08)(Arcane)</description>
+		<rom name="1!Relax (1993-08)(Arcane).z64" size="8934" crc="b4ae3c65" md5="3bb7c64bb6f10faca747bd7d8c61a6c1" sha1="99fa5bd4f285e4921fe3eedb7944e1d8e38e5d5b"/>
+		<rom name="2!Relax (1993-08)(Arcane).z64" size="42820" crc="e59cd239" md5="be4aa1931a6b99da45e8b2cfd3a023a1" sha1="dd5cab029dac40f177a134e4a22c5073dc0f5e9a"/>
+		<rom name="3!Relax (1993-08)(Arcane).z64" size="39753" crc="2fdebd76" md5="e38b4fa6a19181bfff92a0ed5ec9f86e" sha1="52291ef366b5195f16c65e9fa961b5dfca2fa2f7"/>
+		<rom name="4!Relax (1993-08)(Arcane).z64" size="18369" crc="0783f3c7" md5="3b70cb60f8ef9f8ab3a0081554870399" sha1="eef0beb8154b30eae624b6391d0d065a8fd8dc86"/>
 	</game>
-	<game name="Relax (1993)(Arcane)[a]">
-		<description>Relax (1993)(Arcane)[a]</description>
-		<rom name="1!Relax (1993)(Arcane)[a].z64" size="9984" crc="8707b722" md5="9285910bfe6b51d6c48ba19e9a26faae" sha1="e7bc6f0e3b8fa235b71c202e3f4c2170e755bbb0"/>
-		<rom name="2!Relax (1993)(Arcane)[a].z64" size="43392" crc="1830e35b" md5="06d7ea0734e3e2fe015db7ae8ece5df4" sha1="d0d6ba349e296f501deef60117461a7354c6615f"/>
-		<rom name="3!Relax (1993)(Arcane)[a].z64" size="39936" crc="6aedc79f" md5="237071a9e1d3a567eb832baf0a89a61f" sha1="fb5c11f176e0644f2c55480c00767639a1c04587"/>
-		<rom name="4!Relax (1993)(Arcane)[a].z64" size="19328" crc="c090acd8" md5="acb4c779ab0577539f47317cad9edb14" sha1="59c5062cd4a60498967f4604836e7f2acd332fbb"/>
+	<game name="Relax (1993-08)(Arcane)[a]">
+		<description>Relax (1993-08)(Arcane)[a]</description>
+		<rom name="1!Relax (1993-08)(Arcane)[a].z64" size="9984" crc="8707b722" md5="9285910bfe6b51d6c48ba19e9a26faae" sha1="e7bc6f0e3b8fa235b71c202e3f4c2170e755bbb0"/>
+		<rom name="2!Relax (1993-08)(Arcane)[a].z64" size="43392" crc="1830e35b" md5="06d7ea0734e3e2fe015db7ae8ece5df4" sha1="d0d6ba349e296f501deef60117461a7354c6615f"/>
+		<rom name="3!Relax (1993-08)(Arcane)[a].z64" size="39936" crc="6aedc79f" md5="237071a9e1d3a567eb832baf0a89a61f" sha1="fb5c11f176e0644f2c55480c00767639a1c04587"/>
+		<rom name="4!Relax (1993-08)(Arcane)[a].z64" size="19328" crc="c090acd8" md5="acb4c779ab0577539f47317cad9edb14" sha1="59c5062cd4a60498967f4604836e7f2acd332fbb"/>
 	</game>
 	<game name="Relentless (1991-01-25)(Evil)">
 		<description>Relentless (1991-01-25)(Evil)</description>
@@ -7884,12 +7877,12 @@
 		<rom name="3!Roboter 4K (2000-12-28)(Hitmen).z64" size="25110" crc="f992ab3e" md5="27cb58512323ee1008bea83f32b646ad" sha1="0c9595a76d48338dcc3a516c5789fc5c889778bb"/>
 		<rom name="4!Roboter 4K (2000-12-28)(Hitmen).z64" size="527" crc="592094b5" md5="0cae9f355cf09bc153272c4b8d2b97cd" sha1="c0e55bff8e598693033535ccd5ccc169c8329fb4"/>
 	</game>
-	<game name="Rollover (1999)(Cosine)">
-		<description>Rollover (1999)(Cosine)</description>
-		<rom name="1!Rollover (1999)(Cosine).z64" size="512" crc="f6e463f6" md5="14b3094b474b8cc357f0246ef9942273" sha1="6e0dc00dda56c04b7fff5d06f0b11b69ec0a5c07"/>
-		<rom name="2!Rollover (1999)(Cosine).z64" size="25994" crc="52a49439" md5="780283f32863a312003a53bcff61e61c" sha1="2465a4dbaba22fb2f6c35d9acbf771075ee65921"/>
-		<rom name="3!Rollover (1999)(Cosine).z64" size="25975" crc="52b1511e" md5="4758ac08a452282ea8a49f7e06f7c662" sha1="de143e33fa485394a1ad2015e7b0e26a4892fbbc"/>
-		<rom name="4!Rollover (1999)(Cosine).z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
+	<game name="Rollover (1999-12-31)(Cosine)">
+		<description>Rollover (1999-12-31)(Cosine)</description>
+		<rom name="1!Rollover (1999-12-31)(Cosine).z64" size="512" crc="f6e463f6" md5="14b3094b474b8cc357f0246ef9942273" sha1="6e0dc00dda56c04b7fff5d06f0b11b69ec0a5c07"/>
+		<rom name="2!Rollover (1999-12-31)(Cosine).z64" size="25994" crc="52a49439" md5="780283f32863a312003a53bcff61e61c" sha1="2465a4dbaba22fb2f6c35d9acbf771075ee65921"/>
+		<rom name="3!Rollover (1999-12-31)(Cosine).z64" size="25975" crc="52b1511e" md5="4758ac08a452282ea8a49f7e06f7c662" sha1="de143e33fa485394a1ad2015e7b0e26a4892fbbc"/>
+		<rom name="4!Rollover (1999-12-31)(Cosine).z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
 	</game>
 	<game name="Routines Per Minute (1990)(Ability - Pure)">
 		<description>Routines Per Minute (1990)(Ability - Pure)</description>

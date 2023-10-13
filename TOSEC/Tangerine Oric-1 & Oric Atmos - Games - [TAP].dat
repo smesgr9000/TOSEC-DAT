@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Tangerine Oric-1 &amp; Oric Atmos - Games - [TAP]</name>
-		<description>Tangerine Oric-1 &amp; Oric Atmos - Games - [TAP] (TOSEC-v2021-12-11)</description>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Games - [TAP] (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2021-12-11</version>
+		<version>2023-06-14</version>
 		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -220,6 +220,14 @@
 		<description>Categ-Oric (1983)(No Man's Land)(FR)</description>
 		<rom name="Categ-Oric (1983)(No Man's Land)(FR).tap" size="36257" crc="d6462d6f" md5="2cbc644edd0c82e2b61036a3324328e7" sha1="abdb095c28f185c2d7ab5b853757cde27d4dfe42"/>
 	</game>
+	<game name="cc65 Chess v1.01 (2020-05-26)(Wessels, Stefan - raxiss)">
+		<description>cc65 Chess v1.01 (2020-05-26)(Wessels, Stefan - raxiss)</description>
+		<rom name="cc65 Chess v1.01 (2020-05-26)(Wessels, Stefan - raxiss).tap" size="26194" crc="d30a93fe" md5="69128fe9eab3caf780fadab68c961a85" sha1="d19f81120601a9b13a02aee7206c30e7ff78453d"/>
+	</game>
+	<game name="cc65 Chess v1.02 (2020-07-10)(Wessels, Stefan - raxiss)">
+		<description>cc65 Chess v1.02 (2020-07-10)(Wessels, Stefan - raxiss)</description>
+		<rom name="cc65 Chess v1.02 (2020-07-10)(Wessels, Stefan - raxiss).tap" size="25957" crc="1656e13a" md5="08600c1c049f1d55e012787a64e2965b" sha1="2bc865df088138f7e437b5d07f37fbeae8a57815"/>
+	</game>
 	<game name="Centipede (1983)(Personal Software Services)(GB)">
 		<description>Centipede (1983)(Personal Software Services)(GB)</description>
 		<rom name="Centipede (1983)(Personal Software Services)(GB).tap" size="5675" crc="6d6edff5" md5="0f5705b9f373de78471cb15e358b6e8c" sha1="bcf466655221df157a3cad521b072860380dde4d"/>
@@ -392,10 +400,6 @@
 		<description>Cross Chase (2017-08-26)(Caruso, Fabrizio)</description>
 		<rom name="Cross Chase (2017-08-26)(Caruso, Fabrizio).tap" size="20294" crc="84d617d0" md5="c34ef046066738a4e1101c1a6f4097ed" sha1="52fe2c7376825faffe0e9ac39d8f9c6733261f82"/>
 	</game>
-	<game name="Cross Chase (2017-08-27)(Caruso, Fabrizio)">
-		<description>Cross Chase (2017-08-27)(Caruso, Fabrizio)</description>
-		<rom name="Cross Chase (2017-08-27)(Caruso, Fabrizio).tap" size="20294" crc="84d617d0" md5="c34ef046066738a4e1101c1a6f4097ed" sha1="52fe2c7376825faffe0e9ac39d8f9c6733261f82"/>
-	</game>
 	<game name="Cross Chase (2017-09-15)(Caruso, Fabrizio)[full]">
 		<description>Cross Chase (2017-09-15)(Caruso, Fabrizio)[full]</description>
 		<rom name="Cross Chase (2017-09-15)(Caruso, Fabrizio)[full].tap" size="17031" crc="679a493a" md5="71f4a73c216399bafba7aa4083e6a097" sha1="3e7c3d501b82046f31a23993e909cdb1a6ccb922"/>
@@ -507,10 +511,6 @@
 	<game name="Cross Shoot (2020-07-03)(Caruso, Fabrizio)[48K]">
 		<description>Cross Shoot (2020-07-03)(Caruso, Fabrizio)[48K]</description>
 		<rom name="Cross Shoot (2020-07-03)(Caruso, Fabrizio)[48K].tap" size="19190" crc="b8ba95d0" md5="cdba3fe0e58259d9d06a695cc14d0dea" sha1="67f632ad5b1c5439f8f461c31d66308d6bfc00c8"/>
-	</game>
-	<game name="Cross Shoot (2021-05-13)(Caruso, Fabrizio)[48K]">
-		<description>Cross Shoot (2021-05-13)(Caruso, Fabrizio)[48K]</description>
-		<rom name="Cross Shoot (2021-05-13)(Caruso, Fabrizio)[48K].tap" size="19190" crc="b8ba95d0" md5="cdba3fe0e58259d9d06a695cc14d0dea" sha1="67f632ad5b1c5439f8f461c31d66308d6bfc00c8"/>
 	</game>
 	<game name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[48K]">
 		<description>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[48K]</description>
@@ -785,8 +785,8 @@
 		<rom name="Honey-Kong (19xx)(Sprites)(FR).tap" size="26588" crc="3a4e7cec" md5="c17d5c5a4d82dce5e87c5ab1f0d4a6ce" sha1="e9cfcbe138bc8eb2de7799b08d2a71bc1675ad10"/>
 	</game>
 	<game name="Hopper (1983)(Personal Software Services)(GB)">
-		<description>Hopper (19xx)(Personal Software Services)</description>
-		<rom name="Hopper (19xx)(Personal Software Services).tap" size="11235" crc="3d40041f" md5="0344036f61b516b5da868ed470cd2b80" sha1="b9575b547ac8c2b7452d040678bd7f00a3c1c7f4"/>
+		<description>Hopper (1983)(Personal Software Services)(GB)</description>
+		<rom name="Hopper (1983)(Personal Software Services)(GB).tap" size="11235" crc="3d40041f" md5="0344036f61b516b5da868ed470cd2b80" sha1="b9575b547ac8c2b7452d040678bd7f00a3c1c7f4"/>
 	</game>
 	<game name="House of Death (1984)(Tansoft)(GB)[48K]">
 		<description>House of Death (1984)(Tansoft)(GB)[48K]</description>
@@ -1233,8 +1233,8 @@
 		<rom name="Plouf (19xx)(Larcher, Dominique)(en).tap" size="8697" crc="b97dad05" md5="fcdd8063542a344da43744291a090dc0" sha1="46142e273f3ac41f73883ec4711b333aab0f3ed6"/>
 	</game>
 	<game name="Plouf (19xx)(Larcher, Dominique)(fr)">
-		<description>Plouf (19xx)(Larcher, Dominique)(fr)(PD)</description>
-		<rom name="Plouf (19xx)(Larcher, Dominique)(fr)(PD).tap" size="8769" crc="df64306e" md5="eb65e480e1462c6c6cb8148157ce968b" sha1="6b8cfcdd812975cb7a75dcb24e453ac585d73d21"/>
+		<description>Plouf (19xx)(Larcher, Dominique)(fr)</description>
+		<rom name="Plouf (19xx)(Larcher, Dominique)(fr).tap" size="8769" crc="df64306e" md5="eb65e480e1462c6c6cb8148157ce968b" sha1="6b8cfcdd812975cb7a75dcb24e453ac585d73d21"/>
 	</game>
 	<game name="Pontoon (19xx)(-)">
 		<description>Pontoon (19xx)(-)</description>
@@ -1369,8 +1369,8 @@
 		<rom name="Scuba Dive (1984)(Durell Software)(GB).tap" size="13829" crc="1029f874" md5="0da003c595d97669980d04e489405a3d" sha1="3895d29b25ae9177b2d7efe6452574c6ece63da2"/>
 	</game>
 	<game name="Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[AKA Tombeau d'Axayacatl, Le]">
-		<description>Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[AKA Tombeau d'Axayacatl, Le</description>
-		<rom name="Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[AKA Tombeau d'Axayacatl, Le.tap" size="37181" crc="425f37e7" md5="4e4ffb47922bd6b0e86c4d614d24ec6b" sha1="dd8eed7eb2e0ffe0243ee198a636308f7a304895"/>
+		<description>Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[AKA Tombeau d'Axayacatl, Le]</description>
+		<rom name="Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[AKA Tombeau d'Axayacatl, Le].tap" size="37181" crc="425f37e7" md5="4e4ffb47922bd6b0e86c4d614d24ec6b" sha1="dd8eed7eb2e0ffe0243ee198a636308f7a304895"/>
 	</game>
 	<game name="Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[a][AKA Tombeau d'Axayacatl, Le]">
 		<description>Secret du Tombeau, Le (1985-06)(Loriciels)(FR)[a][AKA Tombeau d'Axayacatl, Le]</description>
@@ -1404,9 +1404,9 @@
 		<description>Skramble (1983)(Prism)(FR)</description>
 		<rom name="Skramble (1983)(Prism)(FR).tap" size="11066" crc="59816238" md5="f9752137de92c11c986541923c710a74" sha1="fed6a19098028f3a42769c149575a34375560498"/>
 	</game>
-	<game name="Slalom (19xx)(-)(Atmos)(FR)(Atmos)(FR)">
-		<description>Slalom (19xx)(-)(Atmos)(FR)</description>
-		<rom name="Slalom (19xx)(-)(Atmos)(FR).tap" size="1016" crc="fe895546" md5="5be162953e326ba90c366c789ab0f9b2" sha1="be6a82f4911a2963efb91f22fb1b4a691dbb4fc9"/>
+	<game name="Slalom (19xx)(Atmos)(FR)">
+		<description>Slalom (19xx)(Atmos)(FR)</description>
+		<rom name="Slalom (19xx)(Atmos)(FR).tap" size="1016" crc="fe895546" md5="5be162953e326ba90c366c789ab0f9b2" sha1="be6a82f4911a2963efb91f22fb1b4a691dbb4fc9"/>
 	</game>
 	<game name="Snake Venom (19xx)(Financial &amp; General Computing)(GB)">
 		<description>Snake Venom (19xx)(Financial &amp; General Computing)(GB)</description>

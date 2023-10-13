@@ -1,17 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 
 <datafile>
 	<header>
-		<name>IBM PC Compatibles - Magazines - Personal Computer World</name>
-		<description>IBM PC Compatibles - Magazines - Personal Computer World (TOSEC-v2010-01-02)</description>
+		<name>IBM PC Compatibles - Magazines - Personal Computer World (GB)</name>
+		<description>IBM PC Compatibles - Magazines - Personal Computer World (GB) (TOSEC-v2023-06-13)</description>
 		<category>TOSEC-PIX</category>
-		<version>2010-01-02</version>
+		<version>2023-06-13</version>
 		<author>TOSEC-PIX</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="Personal Computer World (1993-01)(VNU Business Publications)(GB)">
+		<description>Personal Computer World (1993-01)(VNU Business Publications)(GB)</description>
+		<rom name="Personal Computer World (1993-01)(VNU Business Publications)(GB).pdf" size="958784579" crc="d460d1e3" md5="a780645be9a4b23e332a1763d45290ae" sha1="451d2cfffc6d9ea23bbf37e779ed3a48f0014a12"/>
+	</game>
 	<game name="Personal Computer World (2005-07)(VNU Business Publications)(GB)">
 		<description>Personal Computer World (2005-07)(VNU Business Publications)(GB)</description>
 		<rom name="Personal Computer World (2005-07)(VNU Business Publications)(GB).pdf" size="18353896" crc="defe0c50" md5="2c9de15483eb05901413538fcb1e65a3" sha1="98e8524ac1517c39770f66e2a410be70f28f0f66"/>
@@ -99,5 +103,9 @@
 	<game name="Personal Computer World (2009-08)(VNU Business Publications)(GB)">
 		<description>Personal Computer World (2009-08)(VNU Business Publications)(GB)</description>
 		<rom name="Personal Computer World (2009-08)(VNU Business Publications)(GB).pdf" size="34501699" crc="aa38fba8" md5="59a179a6eca3ce1eb8b48647b3fad4bf" sha1="440fac3e0f8dc587e769206486f4a97b4b809344"/>
+	</game>
+	<game name="Personal Computer World - Volume 01 Issue 01 (1978-04)(Intra Press)(GB)">
+		<description>Personal Computer World - Volume 01 Issue 01 (1978-04)(Intra Press)(GB)</description>
+		<rom name="Personal Computer World - Volume 01 Issue 01 (1978-04)(Intra Press)(GB).pdf" size="807211555" crc="359e0721" md5="65cd19483b7472b77834648c456b3470" sha1="75b641ab0e81ef67d16e5a9249b58d51400707fa"/>
 	</game>
 </datafile>

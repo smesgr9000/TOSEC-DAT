@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Disney's Magic Artist 3D (2000)(Disney)(AU)[PC-Mac].bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

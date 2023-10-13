@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hewlett-Packard LaserJet - Cartridges</name>
+		<description>Hewlett-Packard LaserJet - Cartridges (TOSEC-v2023-06-14)</description>
+		<category>TOSEC</category>
+		<version>2023-06-14</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PostScript Cartridge (1991)(Hewlett-Packard)">
+		<description>PostScript Cartridge (1991)(Hewlett-Packard)</description>
+		<rom name="PostScript Cartridge (1991)(Hewlett-Packard).bin" size="1572864" crc="82780000" md5="929ba4050a8a48c3ed4761c3f9267837" sha1="680d6a1d69f5cd911f7fa70a21bb714102f86707"/>
+	</game>
+	<game name="PostScript Cartridge Plus (1991)(Hewlett-Packard)">
+		<description>PostScript Cartridge Plus (1991)(Hewlett-Packard)</description>
+		<rom name="PostScript Cartridge Plus (1991)(Hewlett-Packard).bin" size="2097152" crc="ad144578" md5="8a5d1f66ab1624e7188fc07154f4224d" sha1="ae3852db67a69dde4c2aa75d37a1d369b402b32a"/>
+	</game>
+</datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Sports - [TAP]</name>
-		<description>Commodore C64 - Games - Sports - [TAP] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Sports - [TAP] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-06-10</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -268,6 +268,14 @@
 		<description>Adidas Championship Football (1990)(Ocean)(Side B)[a3]</description>
 		<rom name="Adidas Championship Football (1990)(Ocean)(Side B)[a3].tap" size="808696" crc="bf325e73" md5="95280b883e7e10a30c85013a96aa08b3" sha1="cac535658f7d1cc6e4e0a564e82b1830b5da1f69"/>
 	</game>
+	<game name="ADIDAS Championship Tie Break (1990)(Ocean - Starbyte)">
+		<description>ADIDAS Championship Tie Break (1990)(Ocean - Starbyte)</description>
+		<rom name="ADIDAS Championship Tie Break (1990)(Ocean - Starbyte).tap" size="725498" crc="01ae59d7" md5="7f3b7f67228a609fa874195471f56cb8" sha1="52e451adb5ad2c5f8fd29b8ba0d2aa3ae11fad56"/>
+	</game>
+	<game name="ADIDAS Championship Tie Break (1990)(Ocean - Starbyte)[a]">
+		<description>ADIDAS Championship Tie Break (1990)(Ocean - Starbyte)[a]</description>
+		<rom name="ADIDAS Championship Tie Break (1990)(Ocean - Starbyte)[a].tap" size="725498" crc="b9e5d82c" md5="f2c749e9914e5c876b56cd56bf35e28f" sha1="56a0a2cc4731702655cdd69a76b6f28b6c4bb1e2"/>
+	</game>
 	<game name="Advanced Basketball Simulator (1989)(Mastertronic Plus)">
 		<description>Advanced Basketball Simulator (1989)(Mastertronic Plus)</description>
 		<rom name="Advanced Basketball Simulator (1989)(Mastertronic Plus).tap" size="1015438" crc="552c319e" md5="3d0f6afaaf607ebded537b928f6087ad" sha1="9049eb71e6a6fa6a3af1d71e8f9f063167d5f808"/>
@@ -404,21 +412,25 @@
 		<description>Aqua Racer - Grand Prix F1 Nautica (1985)(Bubble Bus)</description>
 		<rom name="Aqua Racer - Grand Prix F1 Nautica (1985)(Bubble Bus).tap" size="336421" crc="161f653b" md5="cf9a1ab2f700dbb05465029993156d70" sha1="64ea239006e531f034d79d215a4e0987bc3ee50d"/>
 	</game>
-	<game name="Aquaplane (1983)(Quicksilva)">
-		<description>Aquaplane (1983)(Quicksilva)</description>
-		<rom name="Aquaplane (1983)(Quicksilva).tap" size="416691" crc="4695c9ec" md5="a299c3e67a7d6faaf165621666fb174e" sha1="07c86d2da5d8e6426534fc822afbfb63771cf834"/>
+	<game name="Aquaplane (1983)(Argus Press - Quicksilva)">
+		<description>Aquaplane (1983)(Argus Press - Quicksilva)</description>
+		<rom name="Aquaplane (1983)(Argus Press - Quicksilva).tap" size="415311" crc="f33e09ca" md5="3d21b3f811f3b4c48ac25415ab1934b7" sha1="ffa913384d36e42362b51adc8577d66e2e5432cd"/>
 	</game>
-	<game name="Aquaplane (1983)(Quicksilva)[a]">
-		<description>Aquaplane (1983)(Quicksilva)[a]</description>
-		<rom name="Aquaplane (1983)(Quicksilva)[a].tap" size="416636" crc="bb6c0750" md5="b40cb6f74fb2100fe0ea4f333c6e2a5e" sha1="e94c1297ae161a2cae3d102b0e5e4796c9085b7a"/>
+	<game name="Aquaplane (1983)(Argus Press - Quicksilva)[a]">
+		<description>Aquaplane (1983)(Argus Press - Quicksilva)[a]</description>
+		<rom name="Aquaplane (1983)(Argus Press - Quicksilva)[a].tap" size="416691" crc="4695c9ec" md5="a299c3e67a7d6faaf165621666fb174e" sha1="07c86d2da5d8e6426534fc822afbfb63771cf834"/>
 	</game>
-	<game name="Aquaplane (1983)(Quicksilva)[a2]">
-		<description>Aquaplane (1983)(Quicksilva)[a2]</description>
-		<rom name="Aquaplane (1983)(Quicksilva)[a2].tap" size="416560" crc="53d89808" md5="fcbd481825db74ac50bc82add6013a16" sha1="a4f10161a1940c45bdaf235d813d4f7143df5fbb"/>
+	<game name="Aquaplane (1983)(Argus Press - Quicksilva)[a2]">
+		<description>Aquaplane (1983)(Argus Press - Quicksilva)[a2]</description>
+		<rom name="Aquaplane (1983)(Argus Press - Quicksilva)[a2].tap" size="416636" crc="bb6c0750" md5="b40cb6f74fb2100fe0ea4f333c6e2a5e" sha1="e94c1297ae161a2cae3d102b0e5e4796c9085b7a"/>
 	</game>
-	<game name="Aquaplane (1983)(Quicksilva)[a3]">
-		<description>Aquaplane (1983)(Quicksilva)[a3]</description>
-		<rom name="Aquaplane (1983)(Quicksilva)[a3].tap" size="415311" crc="f33e09ca" md5="3d21b3f811f3b4c48ac25415ab1934b7" sha1="ffa913384d36e42362b51adc8577d66e2e5432cd"/>
+	<game name="Aquaplane (1983)(Argus Press - Quicksilva)[a3]">
+		<description>Aquaplane (1983)(Argus Press - Quicksilva)[a3]</description>
+		<rom name="Aquaplane (1983)(Argus Press - Quicksilva)[a3].tap" size="416692" crc="7d68742f" md5="f6f220e6bae195fe9dbfac3bbdc3215e" sha1="c716b7c882c27663ef7be61e679620102398a639"/>
+	</game>
+	<game name="Aquaplane (1983)(Argus Press - Quicksilva)[a4]">
+		<description>Aquaplane (1983)(Argus Press - Quicksilva)[a4]</description>
+		<rom name="Aquaplane (1983)(Argus Press - Quicksilva)[a4].tap" size="416560" crc="53d89808" md5="fcbd481825db74ac50bc82add6013a16" sha1="a4f10161a1940c45bdaf235d813d4f7143df5fbb"/>
 	</game>
 	<game name="Assault Course (1990)(Players Premier)">
 		<description>Assault Course (1990)(Players Premier)</description>
@@ -499,6 +511,14 @@
 	<game name="Ballblazer (1985)(Activision)[o][a3]">
 		<description>Ballblazer (1985)(Activision)[o][a3]</description>
 		<rom name="Ballblazer (1985)(Activision)[o][a3].tap" size="558381" crc="68ac7f8d" md5="26256a376295cc2f985bc2f82e653369" sha1="4e3f211f8db6d03860bab1a4e964f79ba27f0db8"/>
+	</game>
+	<game name="Baloncesto (1985)(Commodore)(es)">
+		<description>Baloncesto (1985)(Commodore)(es)</description>
+		<rom name="Baloncesto (1985)(Commodore)(es).tap" size="542127" crc="d4666cc4" md5="707a3bb8fd9445b869de9e2391a5ce93" sha1="676084aedac9d97e1f5fbf6ff805db0fd78fa87a"/>
+	</game>
+	<game name="Baloncesto (1985)(Commodore)(es)[a]">
+		<description>Baloncesto (1985)(Commodore)(es)[a]</description>
+		<rom name="Baloncesto (1985)(Commodore)(es)[a].tap" size="552349" crc="a38074d2" md5="7cd3552d90aadc8f8418787af3b87bd3" sha1="029f7ff1abcb8a4e9a646808086c1204b1dc58f6"/>
 	</game>
 	<game name="Bangkok Knights (1987)(System 3)(Side A)">
 		<description>Bangkok Knights (1987)(System 3)(Side A)</description>
@@ -772,6 +792,10 @@
 		<description>BMX Ninja (1988)(Alternative)[a]</description>
 		<rom name="BMX Ninja (1988)(Alternative)[a].tap" size="526242" crc="c0a83fbb" md5="b3eb8b77b52b086eb3286dee614157a2" sha1="2343d1cac618dbfe61318ed81e0dc3077db3e14c"/>
 	</game>
+	<game name="BMX Ninja (1988)(Alternative)[a2]">
+		<description>BMX Ninja (1988)(Alternative)[a2]</description>
+		<rom name="BMX Ninja (1988)(Alternative)[a2].tap" size="526242" crc="46ef0647" md5="c285f6cb02c628f443227453e562fc4b" sha1="7084133b705a3c1287b4baa0b695160531054e67"/>
+	</game>
 	<game name="BMX Simulator (1986)(Codemasters)">
 		<description>BMX Simulator (1986)(Codemasters)</description>
 		<rom name="BMX Simulator (1986)(Codemasters).tap" size="826525" crc="a3677a72" md5="acda4dfc6d43b0dc933974d786a80858" sha1="b1ed5e08b64fde832e5a0cadab365328e14a84c1"/>
@@ -864,6 +888,10 @@
 		<description>BMX Trials (1985)(Mastertronic)[u]</description>
 		<rom name="BMX Trials (1985)(Mastertronic)[u].tap" size="32768" crc="559dec90" md5="2c7b7a9d832b228731494d3578607e9c" sha1="7ba3a1d350b42c08f9306430b692ea069707b2d4"/>
 	</game>
+	<game name="Bobsleigh (1987)(Byte Back)">
+		<description>Bobsleigh (1987)(Byte Back)</description>
+		<rom name="Bobsleigh (1987)(Byte Back).tap" size="408726" crc="fcf42f6d" md5="8ac6e2975f0e8e15c908fbbdcf97393d" sha1="10150e003172a4fa96eadaf61e24bba3d215c307"/>
+	</game>
 	<game name="Bomber (1989)(Edigamma S.r.l - Settimana Games)(it)">
 		<description>Bomber (1989)(Edigamma S.r.l - Settimana Games)(it)</description>
 		<rom name="Bomber (1989)(Edigamma S.r.l - Settimana Games)(it).tap" size="439947" crc="394daf4c" md5="5dfbd8a10343c22a87abd6b93660ffa8" sha1="70475f1bbfbff989ebe0250f4baed35c6cd1e7c9"/>
@@ -880,37 +908,37 @@
 		<description>Boxing Manager 2 (1992)(Cult Games)</description>
 		<rom name="Boxing Manager 2 (1992)(Cult Games).tap" size="279026" crc="3b04fb99" md5="71aaa9569c597b98a548fdef9906a021" sha1="a2ea413ef7c3677d216cf972ca5f33f50b90330a"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)">
-		<description>Break Fever (1984)(Interceptor)</description>
-		<rom name="Break Fever (1984)(Interceptor).tap" size="262144" crc="dd5660e0" md5="07a10343e5b71247ba524a40765decbf" sha1="fe125697ba5cb7523c46e9d9ad664ee05ad4978d"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)">
+		<description>Break Fever (1984)(Interceptor)(PD)</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD).tap" size="262144" crc="dd5660e0" md5="07a10343e5b71247ba524a40765decbf" sha1="fe125697ba5cb7523c46e9d9ad664ee05ad4978d"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[a]">
-		<description>Break Fever (1984)(Interceptor)[a]</description>
-		<rom name="Break Fever (1984)(Interceptor)[a].tap" size="531805" crc="ff7407ee" md5="301763cb99162ff07388dbb3b2e30f97" sha1="4f4e7e2d476e8183c9484c2c59391a30b1b0d7d9"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[a]">
+		<description>Break Fever (1984)(Interceptor)(PD)[a]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[a].tap" size="531805" crc="ff7407ee" md5="301763cb99162ff07388dbb3b2e30f97" sha1="4f4e7e2d476e8183c9484c2c59391a30b1b0d7d9"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[a2]">
-		<description>Break Fever (1984)(Interceptor)[a2]</description>
-		<rom name="Break Fever (1984)(Interceptor)[a2].tap" size="531801" crc="a2a27924" md5="9d4ea4e1abf5bd989355fefb4a497473" sha1="b413d2e113e5457628ee9c5703ade32754dda3f7"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[a2]">
+		<description>Break Fever (1984)(Interceptor)(PD)[a2]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[a2].tap" size="531801" crc="a2a27924" md5="9d4ea4e1abf5bd989355fefb4a497473" sha1="b413d2e113e5457628ee9c5703ade32754dda3f7"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[a3]">
-		<description>Break Fever (1984)(Interceptor)[a3]</description>
-		<rom name="Break Fever (1984)(Interceptor)[a3].tap" size="773046" crc="bce93d73" md5="a34fb70ad1378d207f9408707b1003ca" sha1="dac2ad74cb3631f29c551039b488f8bfdf254b60"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[a3]">
+		<description>Break Fever (1984)(Interceptor)(PD)[a3]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[a3].tap" size="773046" crc="bce93d73" md5="a34fb70ad1378d207f9408707b1003ca" sha1="dac2ad74cb3631f29c551039b488f8bfdf254b60"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[a4]">
-		<description>Break Fever (1984)(Interceptor)[a4]</description>
-		<rom name="Break Fever (1984)(Interceptor)[a4].tap" size="535598" crc="cb811233" md5="b4c2d7068479061b1ae73661514e2a1c" sha1="b1fdf8d8e7b30ee2ea4de4b076f4eff36c4a02f7"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[a4]">
+		<description>Break Fever (1984)(Interceptor)(PD)[a4]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[a4].tap" size="535598" crc="cb811233" md5="b4c2d7068479061b1ae73661514e2a1c" sha1="b1fdf8d8e7b30ee2ea4de4b076f4eff36c4a02f7"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[a5]">
-		<description>Break Fever (1984)(Interceptor)[a5]</description>
-		<rom name="Break Fever (1984)(Interceptor)[a5].tap" size="531886" crc="7b3c92a4" md5="e89b4980962675e2209c1d0f8e40aad1" sha1="a388255dab64fec5da67b91fd3996899f8c42c63"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[a5]">
+		<description>Break Fever (1984)(Interceptor)(PD)[a5]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[a5].tap" size="531886" crc="7b3c92a4" md5="e89b4980962675e2209c1d0f8e40aad1" sha1="a388255dab64fec5da67b91fd3996899f8c42c63"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[a6]">
-		<description>Break Fever (1984)(Interceptor)[a6]</description>
-		<rom name="Break Fever (1984)(Interceptor)[a6].tap" size="534744" crc="0e466bc5" md5="f714a9736e283cc1c0698ee50bf17541" sha1="7b356f90f03e5c415ac7d0db50e10aef44c4ff0c"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[a6]">
+		<description>Break Fever (1984)(Interceptor)(PD)[a6]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[a6].tap" size="534744" crc="0e466bc5" md5="f714a9736e283cc1c0698ee50bf17541" sha1="7b356f90f03e5c415ac7d0db50e10aef44c4ff0c"/>
 	</game>
-	<game name="Break Fever (1984)(Interceptor)[b]">
-		<description>Break Fever (1984)(Interceptor)[b]</description>
-		<rom name="Break Fever (1984)(Interceptor)[b].tap" size="32768" crc="6d41e9ab" md5="a7a42044da422f6d9780795561dc4255" sha1="6238514458a43cd5fc77b0473ffa257d5b9c9243"/>
+	<game name="Break Fever (1984)(Interceptor)(PD)[b]">
+		<description>Break Fever (1984)(Interceptor)(PD)[b]</description>
+		<rom name="Break Fever (1984)(Interceptor)(PD)[b].tap" size="32768" crc="6d41e9ab" md5="a7a42044da422f6d9780795561dc4255" sha1="6238514458a43cd5fc77b0473ffa257d5b9c9243"/>
 	</game>
 	<game name="Brian Cloughs Football Fortunes (1987)(CDS Software Ltd)">
 		<description>Brian Cloughs Football Fortunes (1987)(CDS Software Ltd)</description>
@@ -1064,6 +1092,10 @@
 		<description>Championship 3D Snooker (1992)(Zeppelin Games)[a]</description>
 		<rom name="Championship 3D Snooker (1992)(Zeppelin Games)[a].tap" size="938063" crc="44703978" md5="815637bb2cdea07cc0e90af81ffe447e" sha1="19b7271d82f8922e7e1c89e7e3ae550eaefe4594"/>
 	</game>
+	<game name="Championship 3D Snooker (1992)(Zeppelin Games)[a10]">
+		<description>Championship 3D Snooker (1992)(Zeppelin Games)[a10]</description>
+		<rom name="Championship 3D Snooker (1992)(Zeppelin Games)[a10].tap" size="948078" crc="07dcb151" md5="5c425ddaa37cedd22967f9eb17b15550" sha1="659c09b2211f2da7ba1d9d7aee298a4ee23376b9"/>
+	</game>
 	<game name="Championship 3D Snooker (1992)(Zeppelin Games)[a2]">
 		<description>Championship 3D Snooker (1992)(Zeppelin Games)[a2]</description>
 		<rom name="Championship 3D Snooker (1992)(Zeppelin Games)[a2].tap" size="938117" crc="c3428a73" md5="c8580e0443df17c5e7b5809796cf3080" sha1="93c0ebf5d74f5949dd160e6484cd95d5ec8c07ee"/>
@@ -1091,6 +1123,10 @@
 	<game name="Championship 3D Snooker (1992)(Zeppelin Games)[a8]">
 		<description>Championship 3D Snooker (1992)(Zeppelin Games)[a8]</description>
 		<rom name="Championship 3D Snooker (1992)(Zeppelin Games)[a8].tap" size="948077" crc="6dd6bba1" md5="146c0dcd28dee57e6869dc1510086c49" sha1="a3e8ab4692c8f39eea71a601dddccab22f6d3691"/>
+	</game>
+	<game name="Championship 3D Snooker (1992)(Zeppelin Games)[a9]">
+		<description>Championship 3D Snooker (1992)(Zeppelin Games)[a9]</description>
+		<rom name="Championship 3D Snooker (1992)(Zeppelin Games)[a9].tap" size="937708" crc="1ac36563" md5="1f94380e32ba22974fab8ce8884ea1d2" sha1="cca423af1f9e229585e40d186e48dec75353de9a"/>
 	</game>
 	<game name="Championship Baseball (1986)(Activision-Gamestar)">
 		<description>Championship Baseball (1986)(Activision-Gamestar)</description>
@@ -1256,6 +1292,10 @@
 		<description>Cricket International (1988)(Alternative)</description>
 		<rom name="Cricket International (1988)(Alternative).tap" size="463966" crc="c8578f8c" md5="9e1d86b63ceaa0b47a461e41d7fe7af2" sha1="871593de2bf16306e60117ac2cc551f03610bafd"/>
 	</game>
+	<game name="Cricket Master (1989)(E&amp;J)">
+		<description>Cricket Master (1989)(E&amp;J)</description>
+		<rom name="Cricket Master (1989)(E&amp;J).tap" size="1097702" crc="2b8082c4" md5="395909aaf3fd1ac1c594512d33f28067" sha1="ad3bbf746dc867ffcd33503c36f31a3098b0c644"/>
+	</game>
 	<game name="Cup Football (1990)(Cult Games)">
 		<description>Cup Football (1990)(Cult Games)</description>
 		<rom name="Cup Football (1990)(Cult Games).tap" size="988117" crc="afd81e62" md5="9cc3f8b29883eb3d08083e48bfd994a2" sha1="c541e19313d79898307ac6cab645172c03d6336d"/>
@@ -1267,6 +1307,10 @@
 	<game name="Cup Football (1990)(Cult Games)[a2]">
 		<description>Cup Football (1990)(Cult Games)[a2]</description>
 		<rom name="Cup Football (1990)(Cult Games)[a2].tap" size="988184" crc="799dcacc" md5="5f5584e3d23d9995265e686728236fc1" sha1="26a81503eebc35126b85164b7598ac12f173fdfc"/>
+	</game>
+	<game name="Cup Football (1990)(Cult Games)[a3]">
+		<description>Cup Football (1990)(Cult Games)[a3]</description>
+		<rom name="Cup Football (1990)(Cult Games)[a3].tap" size="987785" crc="02f66ed5" md5="eeb6adc27f40cb186fef2dbad8bc7245" sha1="731c23ae3954628df112af1e0592c55fdabd9151"/>
 	</game>
 	<game name="Cup Football (1990)(Cult Games)[u]">
 		<description>Cup Football (1990)(Cult Games)[u]</description>
@@ -1500,6 +1544,10 @@
 		<description>Downhill - Ski Jump (1984)(Cascade)</description>
 		<rom name="Downhill - Ski Jump (1984)(Cascade).tap" size="354342" crc="e7c92839" md5="29bdd623c96f77dfcf87e7141c2efa08" sha1="3517dd123c1ef6b368f1bffffbe9dc025a9ea9f5"/>
 	</game>
+	<game name="Downhill Challenge (1988)(Brøderbund)[aka Super Ski]">
+		<description>Downhill Challenge (1988)(Brøderbund)[aka Super Ski]</description>
+		<rom name="Downhill Challenge (1988)(Brøderbund)[aka Super Ski].tap" size="1773006" crc="18cab82b" md5="7b91a077e503bcb98d74b47f441f6f33" sha1="41c4ac35b931047e7ff1d08d0b7b6e6156a7d41e"/>
+	</game>
 	<game name="Emlyn Hughes International Soccer (1988)(Audiogenic Ltd.)">
 		<description>Emlyn Hughes International Soccer (1988)(Audiogenic Ltd.)</description>
 		<rom name="Emlyn Hughes International Soccer (1988)(Audiogenic Ltd.).tap" size="638446" crc="d23d10c5" md5="e70b2096475bb513dbe799bd8a0c1ed5" sha1="daf1972bf0a41a1c43721c013c12ba5fbf946379"/>
@@ -1680,6 +1728,10 @@
 		<description>Fighting Soccer (1989)(Activision)(Side B)</description>
 		<rom name="Fighting Soccer (1989)(Activision)(Side B).tap" size="230508" crc="3d2e894b" md5="08ff70b88b02cfdf1b3c2baa320116ae" sha1="931257fbbc6f4c86ae9457acf16a2ab2a883e7ac"/>
 	</game>
+	<game name="Final Blow (1991)(Storm)">
+		<description>Final Blow (1991)(Storm)</description>
+		<rom name="Final Blow (1991)(Storm).tap" size="622622" crc="11bef13a" md5="075e686a6a3d694028eecd9b4661afc5" sha1="e116370aa4ea1f63d3b9b106a4cfbbd6f4501a56"/>
+	</game>
 	<game name="Fist Fighter (1993)(Zeppelin Games)">
 		<description>Fist Fighter (1993)(Zeppelin Games)</description>
 		<rom name="Fist Fighter (1993)(Zeppelin Games).tap" size="988684" crc="78015b88" md5="f8f4c8dcc0d56641028c491e9d3aa77d" sha1="651f6c3e41d7c035fefed6f82c0d1cebf32dfaed"/>
@@ -1688,9 +1740,25 @@
 		<description>Fist Fighter (1993)(Zeppelin Games)[a]</description>
 		<rom name="Fist Fighter (1993)(Zeppelin Games)[a].tap" size="988681" crc="02b40d9e" md5="2179387986c165fe8db09d9f670bc662" sha1="a01a267df89813fd2e57b8a950f0e074eb747306"/>
 	</game>
+	<game name="Fist Fighter (1993)(Zeppelin Games)[a2]">
+		<description>Fist Fighter (1993)(Zeppelin Games)[a2]</description>
+		<rom name="Fist Fighter (1993)(Zeppelin Games)[a2].tap" size="988684" crc="0e7f7dbf" md5="28d58af8f2346b09fc35b7e95de7d0a1" sha1="699e8d047ebdff24e1a1fa8ba37e5cb99c45374f"/>
+	</game>
+	<game name="Fist Fighter (1993)(Zeppelin Games)[a3]">
+		<description>Fist Fighter (1993)(Zeppelin Games)[a3]</description>
+		<rom name="Fist Fighter (1993)(Zeppelin Games)[a3].tap" size="995134" crc="3612be3b" md5="421935c8b29a505fb931843c7d85f6b5" sha1="087146d838ad1510047445f40ea4bc301ef018f1"/>
+	</game>
 	<game name="Fist II - The Legend Continues (1986)(Melbourne House)">
 		<description>Fist II - The Legend Continues (1986)(Melbourne House)</description>
 		<rom name="Fist II - The Legend Continues (1986)(Melbourne House).tap" size="1254332" crc="47a91ac1" md5="be498b08c4371d427a15ffae9927e8a1" sha1="9feac7d7c9a26efb301f07053f08dcc0c2f2cd65"/>
+	</game>
+	<game name="Fist II - The Legend Continues (1986)(Melbourne House)(Side A)">
+		<description>Fist II - The Legend Continues (1986)(Melbourne House)(Side A)</description>
+		<rom name="Fist II - The Legend Continues (1986)(Melbourne House)(Side A).tap" size="597436" crc="7233b95d" md5="a3bb00a7b36a8fd468e9545ef931a7b7" sha1="1d0c979c97b48f07a97c198abb9535dfa42304f9"/>
+	</game>
+	<game name="Fist II - The Legend Continues (1986)(Melbourne House)(Side B)">
+		<description>Fist II - The Legend Continues (1986)(Melbourne House)(Side B)</description>
+		<rom name="Fist II - The Legend Continues (1986)(Melbourne House)(Side B).tap" size="523846" crc="6989fe06" md5="32c667d3713cb27d919080c21482ad24" sha1="86883ab655cc9cbff21f221908139b3578d2929f"/>
 	</game>
 	<game name="Fist II - The Legend Continues (1986)(Melbourne House)[a]">
 		<description>Fist II - The Legend Continues (1986)(Melbourne House)[a]</description>
@@ -2076,9 +2144,13 @@
 		<description>Geoff Capes Strongman Challenge (1986)(Martech)[u]</description>
 		<rom name="Geoff Capes Strongman Challenge (1986)(Martech)[u].tap" size="98304" crc="86079a08" md5="c0a08a9436ea8258438a510dd61f2a53" sha1="56619ba7af9a6e0aa411ed7df1c43ba449bef17f"/>
 	</game>
-	<game name="Go for the Gold (1986)(Americana Software)">
-		<description>Go for the Gold (1986)(Americana Software)</description>
-		<rom name="Go for the Gold (1986)(Americana Software).tap" size="908541" crc="766ce36e" md5="bf271be46110c35b0e09197c9efa4ab2" sha1="1b62e1b254b0cab86ceb031dfc49e870841a99f9"/>
+	<game name="Go for the Gold (1986)(Americana)">
+		<description>Go for the Gold (1986)(Americana)</description>
+		<rom name="Go for the Gold (1986)(Americana).tap" size="908321" crc="f458d8bf" md5="3c7d8226cb4814bfb3eabb540b6f7196" sha1="d01577973f4a068582f61f875567911430790456"/>
+	</game>
+	<game name="Go for the Gold (1986)(Americana)[a]">
+		<description>Go for the Gold (1986)(Americana)[a]</description>
+		<rom name="Go for the Gold (1986)(Americana)[a].tap" size="908541" crc="766ce36e" md5="bf271be46110c35b0e09197c9efa4ab2" sha1="1b62e1b254b0cab86ceb031dfc49e870841a99f9"/>
 	</game>
 	<game name="Golf - St. Andrews (1984)(Kerian UK)">
 		<description>Golf - St. Andrews (1984)(Kerian UK)</description>
@@ -2184,17 +2256,33 @@
 		<description>Grid Iron 2 (1989)(Alternative)[a2]</description>
 		<rom name="Grid Iron 2 (1989)(Alternative)[a2].tap" size="253292" crc="f1780f40" md5="0fb1e2dbf0e96657abb887e9724fe1c5" sha1="f7794b0b465d20a322af5259e96f0a778470810d"/>
 	</game>
-	<game name="Hardball (1985)(Accolade)">
-		<description>Hardball (1985)(Accolade)</description>
-		<rom name="Hardball (1985)(Accolade).tap" size="1172702" crc="f0245710" md5="82d53882be37f3b2690b60369e3b9822" sha1="1b8100361ade539ed4cb595f5889b7110226dcb8"/>
+	<game name="Grid Iron 2 (1989)(Alternative)[a3]">
+		<description>Grid Iron 2 (1989)(Alternative)[a3]</description>
+		<rom name="Grid Iron 2 (1989)(Alternative)[a3].tap" size="253289" crc="54bcde00" md5="fefe23377645e79b35cf5a0d7070ee95" sha1="14e7a91f7b0cf508ca6d7ca3914e6c6208845877"/>
 	</game>
-	<game name="Hardball (1985)(Accolade)[a]">
-		<description>Hardball (1985)(Accolade)[a]</description>
-		<rom name="Hardball (1985)(Accolade)[a].tap" size="1176126" crc="03cc7ac5" md5="3c1fbfe93752beb5a52d2eb4a46109d3" sha1="019278fa795e7d23dd0afe3b91363798ebe76e8f"/>
+	<game name="HardBall! (1985)(Accolade)">
+		<description>HardBall! (1985)(Accolade)</description>
+		<rom name="HardBall! (1985)(Accolade).tap" size="1238664" crc="a77b2e9d" md5="21282637f6802eaf3ed314a61797b5c7" sha1="0040bf2a17d09a2932f0e972d43a4c31d35a1e20"/>
 	</game>
-	<game name="Hardball (1985)(Accolade)[a2]">
-		<description>Hardball (1985)(Accolade)[a2]</description>
-		<rom name="Hardball (1985)(Accolade)[a2].tap" size="1172702" crc="e8616065" md5="5d2a6500295bda00abd6a9ecd94f312e" sha1="76cdc8943624d1578449fee16fdc8bbb6cef7610"/>
+	<game name="HardBall! (1985)(Accolade)[a]">
+		<description>HardBall! (1985)(Accolade)[a]</description>
+		<rom name="HardBall! (1985)(Accolade)[a].tap" size="1176126" crc="03cc7ac5" md5="3c1fbfe93752beb5a52d2eb4a46109d3" sha1="019278fa795e7d23dd0afe3b91363798ebe76e8f"/>
+	</game>
+	<game name="HardBall! (1985)(Accolade)[a2]">
+		<description>HardBall! (1985)(Accolade)[a2]</description>
+		<rom name="HardBall! (1985)(Accolade)[a2].tap" size="1172702" crc="e8616065" md5="5d2a6500295bda00abd6a9ecd94f312e" sha1="76cdc8943624d1578449fee16fdc8bbb6cef7610"/>
+	</game>
+	<game name="HardBall! (1985)(Accolade)[a3]">
+		<description>HardBall! (1985)(Accolade)[a3]</description>
+		<rom name="HardBall! (1985)(Accolade)[a3].tap" size="1172702" crc="f0245710" md5="82d53882be37f3b2690b60369e3b9822" sha1="1b8100361ade539ed4cb595f5889b7110226dcb8"/>
+	</game>
+	<game name="HardBall! (1985)(Accolade)[a4]">
+		<description>HardBall! (1985)(Accolade)[a4]</description>
+		<rom name="HardBall! (1985)(Accolade)[a4].tap" size="1244774" crc="d79e4494" md5="f42895d0747f7acb1eb1498b98932984" sha1="6e36753f529ab7f65a03d4aada1b8f451a6dca19"/>
+	</game>
+	<game name="HardBall! (1985)(US Gold)">
+		<description>HardBall! (1985)(US Gold)</description>
+		<rom name="HardBall! (1985)(US Gold).tap" size="1244776" crc="d318ad9e" md5="ba7a1059ab5a062cb1e1ee48247e982b" sha1="fcbf5ac432be98ecc35d5ca793b81e7254d41ad6"/>
 	</game>
 	<game name="Harvey Smith Showjumper (1985)(Software Projects)">
 		<description>Harvey Smith Showjumper (1985)(Software Projects)</description>
@@ -2223,6 +2311,14 @@
 	<game name="Head Coach (1986)(Addictive)[a2]">
 		<description>Head Coach (1986)(Addictive)[a2]</description>
 		<rom name="Head Coach (1986)(Addictive)[a2].tap" size="322723" crc="d73b1ce0" md5="755e717131cedddb721bad65897d8dd7" sha1="af8a39ec9bcd5b5ff0edffc4de82efab1278999a"/>
+	</game>
+	<game name="Head Coach (1986)(Addictive)[a3]">
+		<description>Head Coach (1986)(Addictive)[a3]</description>
+		<rom name="Head Coach (1986)(Addictive)[a3].tap" size="322723" crc="ce70b1c8" md5="506d6cc801a0c3d79fc538cf08239cc8" sha1="081ff6cb2a4d6e77de0f4175094882456e995555"/>
+	</game>
+	<game name="Head Coach (1986)(Addictive)[a4]">
+		<description>Head Coach (1986)(Addictive)[a4]</description>
+		<rom name="Head Coach (1986)(Addictive)[a4].tap" size="322723" crc="fdf87816" md5="58b46b8faebceb7f4a0d9c8661f7d454" sha1="73b3108317a9b02c3970a33455399fd720c35936"/>
 	</game>
 	<game name="Highlander (1986)(Ocean)">
 		<description>Highlander (1986)(Ocean)</description>
@@ -2275,6 +2371,10 @@
 	<game name="Hole in One (1986)(MAD)[a8]">
 		<description>Hole in One (1986)(MAD)[a8]</description>
 		<rom name="Hole in One (1986)(MAD)[a8].tap" size="692452" crc="99fe83f3" md5="709927b01621eeb1eccfec97f63a1599" sha1="6124084b5c7bdc0d68ab5625b1bba2d6e167abc6"/>
+	</game>
+	<game name="Hole In One (1986)(MAD)[b]">
+		<description>Hole In One (1986)(MAD)[b]</description>
+		<rom name="Hole In One (1986)(MAD)[b].tap" size="692568" crc="fdaeb75f" md5="a84969cda6238f8c72b7c3b7727bdd7a" sha1="3f30f9ac365bcfbc21edf9b21b25e196d06ef1a1"/>
 	</game>
 	<game name="Hole in One (1986)(MAD)[u]">
 		<description>Hole in One (1986)(MAD)[u]</description>
@@ -2519,6 +2619,10 @@
 	<game name="International Basketball (1985)(Commodore)">
 		<description>International Basketball (1985)(Commodore)</description>
 		<rom name="International Basketball (1985)(Commodore).tap" size="341456" crc="189c1856" md5="1e2507557f7496c514c8313b88af26e9" sha1="2d8bd5c48406ff4df45d827fee9b54db439db06f"/>
+	</game>
+	<game name="International Basketball (1985)(Commodore)[a]">
+		<description>International Basketball (1985)(Commodore)[a]</description>
+		<rom name="International Basketball (1985)(Commodore)[a].tap" size="341458" crc="d5bab5e0" md5="b0f83d7ea7e1d7638d007b4d3e4c109c" sha1="ef4afcbe00cfe78f88c03f693c3ddde40eddba54"/>
 	</game>
 	<game name="International Basketball (1985)(Commodore)[b][a][l Novaload]">
 		<description>International Basketball (1985)(Commodore)[b][a][l Novaload]</description>
@@ -2820,6 +2924,10 @@
 		<description>Kick Box Vigilante (1990)(Zeppelin Games)[a]</description>
 		<rom name="Kick Box Vigilante (1990)(Zeppelin Games)[a].tap" size="884705" crc="0daf1822" md5="bcaf477c1c0d7bd7b7cbc0cb8e9d9bb4" sha1="44830b4424ea2e0ffbeff692a8b544d2e0aaed3e"/>
 	</game>
+	<game name="Kick Off (1983)(Bubble Bus)">
+		<description>Kick Off (1983)(Bubble Bus)</description>
+		<rom name="Kick Off (1983)(Bubble Bus).tap" size="368982" crc="1698b1f6" md5="466b3b2975fe7d4cb58a41764085bd30" sha1="36dd471878136f4120e82c6ef3f5892c5567d324"/>
+	</game>
 	<game name="Kick Off (1989)(Anco Software)">
 		<description>Kick Off (1989)(Anco Software)</description>
 		<rom name="Kick Off (1989)(Anco Software).tap" size="416407" crc="65932180" md5="c0a90970ce4f6cab96147416a2bc9f50" sha1="c8347131b9b0285e72d4001d2589fa2d9ebc0507"/>
@@ -2876,6 +2984,14 @@
 		<description>Knight Games (1986)(English Software)(Side A)[a]</description>
 		<rom name="Knight Games (1986)(English Software)(Side A)[a].tap" size="1196880" crc="123e61fb" md5="cb9a02cf8b20d2f818d92fb29180faaa" sha1="4ad0c82cb67b25decc443cf62ec5f7d88ce8eb36"/>
 	</game>
+	<game name="Knight Games (1986)(English Software)(Side A)[a2]">
+		<description>Knight Games (1986)(English Software)(Side A)[a2]</description>
+		<rom name="Knight Games (1986)(English Software)(Side A)[a2].tap" size="1196838" crc="ba3f0781" md5="7a2ce89cc18b01a492e028ba6a71d8fa" sha1="a0ae23534c4a3e9e2e0633b2daedff13f62319aa"/>
+	</game>
+	<game name="Knight Games (1986)(English Software)(Side A)[a3]">
+		<description>Knight Games (1986)(English Software)(Side A)[a3]</description>
+		<rom name="Knight Games (1986)(English Software)(Side A)[a3].tap" size="1196838" crc="426e0a83" md5="8b55134c3752c97e8a82e3bd5b8a1680" sha1="8d5519cd4b736ede2b0e440ee3cc7b81dbb5ee6f"/>
+	</game>
 	<game name="Knight Games (1986)(English Software)(Side B)">
 		<description>Knight Games (1986)(English Software)(Side B)</description>
 		<rom name="Knight Games (1986)(English Software)(Side B).tap" size="812228" crc="7225fc17" md5="ce06a4bcd941a4669f14bb5423659cde" sha1="e482e1cbad51c573546f9627d631cd389350c260"/>
@@ -2883,6 +2999,14 @@
 	<game name="Knight Games (1986)(English Software)(Side B)[a]">
 		<description>Knight Games (1986)(English Software)(Side B)[a]</description>
 		<rom name="Knight Games (1986)(English Software)(Side B)[a].tap" size="812623" crc="2d4ed3d8" md5="bf7ffc68f3965ad8a2fc36c8845a7b2b" sha1="186f9cae23905b9ccaee72092af599485e78c448"/>
+	</game>
+	<game name="Knight Games (1986)(English Software)(Side B)[a2]">
+		<description>Knight Games (1986)(English Software)(Side B)[a2]</description>
+		<rom name="Knight Games (1986)(English Software)(Side B)[a2].tap" size="812228" crc="2c407728" md5="5a76c9f36a8e98c07b09ec8288528d6a" sha1="239a0e94ea12d1c27e68e2a34254a1aa6a4e305e"/>
+	</game>
+	<game name="Knight Games (1986)(English Software)(Side B)[a3]">
+		<description>Knight Games (1986)(English Software)(Side B)[a3]</description>
+		<rom name="Knight Games (1986)(English Software)(Side B)[a3].tap" size="812228" crc="efc1a448" md5="69b9d46c359794e25633e54eb73f1ca1" sha1="1a26144dbe7fb5b2304d220f306e855bd1e2b712"/>
 	</game>
 	<game name="Knockout (1983)(Kijel, Edgardo)">
 		<description>Knockout (1983)(Kijel, Edgardo)</description>
@@ -3008,6 +3132,22 @@
 		<description>League Challenge (1989)(Access Software)</description>
 		<rom name="League Challenge (1989)(Access Software).tap" size="417126" crc="0455b46d" md5="3fdd93b25181bce25444d897a2ea8d19" sha1="72d3a6b77f82319ca9faee2fb18b3d9ce49cd7aa"/>
 	</game>
+	<game name="League Challenge (1989)(Atlantis)">
+		<description>League Challenge (1989)(Atlantis)</description>
+		<rom name="League Challenge (1989)(Atlantis).tap" size="399521" crc="002d2c6f" md5="062e068efbb9c0c61bf2f34973d4da9b" sha1="3b30af6ace69166e12494859276426741ac6dde5"/>
+	</game>
+	<game name="League Challenge (1989)(Atlantis)[a]">
+		<description>League Challenge (1989)(Atlantis)[a]</description>
+		<rom name="League Challenge (1989)(Atlantis)[a].tap" size="399522" crc="5a062dfe" md5="10ab712a12a9525ab9b49fc1c91e4274" sha1="556a8026ead1c2d41f000d46828736068fa5fb65"/>
+	</game>
+	<game name="League Challenge (1989)(Atlantis)[a2]">
+		<description>League Challenge (1989)(Atlantis)[a2]</description>
+		<rom name="League Challenge (1989)(Atlantis)[a2].tap" size="399521" crc="01b526b2" md5="a035111a508b85135d14093d1d4be5b2" sha1="78dd19542b9ee2e5ec61ab708ca45f500946d038"/>
+	</game>
+	<game name="League Challenge (1989)(Atlantis)[a3]">
+		<description>League Challenge (1989)(Atlantis)[a3]</description>
+		<rom name="League Challenge (1989)(Atlantis)[a3].tap" size="399521" crc="9f64eae7" md5="d3f535be43159301da70d1593cc83ec6" sha1="9fdd96a623c01164a62d6dcc45e323d311377bbe"/>
+	</game>
 	<game name="League Football (19xx)(Cult)">
 		<description>League Football (19xx)(Cult)</description>
 		<rom name="League Football (19xx)(Cult).tap" size="410666" crc="bd7b8958" md5="34ac4e3d1351d09034458b9824683112" sha1="f879077253950148bc5b41baabb8d8b11e051c22"/>
@@ -3087,6 +3227,10 @@
 	<game name="Match of the Day (1992)(Zeppelin Games)">
 		<description>Match of the Day (1992)(Zeppelin Games)</description>
 		<rom name="Match of the Day (1992)(Zeppelin Games).tap" size="947542" crc="778d3fd3" md5="1f1245ff28064ad53a88f458923e9382" sha1="30158ee940a26c64bb0cc54bd46e3e26910c7045"/>
+	</game>
+	<game name="Match Point (1984)(Psion Ltd)">
+		<description>Match Point (1984)(Psion Ltd)</description>
+		<rom name="Match Point (1984)(Psion Ltd).tap" size="343643" crc="73ac1638" md5="1932199f7cfce4379b982dfe982501a8" sha1="0323448e45573e700fe3426ff354bebc04556778"/>
 	</game>
 	<game name="Match Point (1984)(Psion)">
 		<description>Match Point (1984)(Psion)</description>
@@ -3224,6 +3368,18 @@
 		<description>Mountain Bike Racer (1990)(Zeppelin Games)[a]</description>
 		<rom name="Mountain Bike Racer (1990)(Zeppelin Games)[a].tap" size="923729" crc="af8807c0" md5="95c25aac8a5dbcb59553662fa9db669f" sha1="d4f410971639cd6ff80eeeae7533f3c58980be72"/>
 	</game>
+	<game name="Mountain Bike Racer (1990)(Zeppelin Games)[a2]">
+		<description>Mountain Bike Racer (1990)(Zeppelin Games)[a2]</description>
+		<rom name="Mountain Bike Racer (1990)(Zeppelin Games)[a2].tap" size="959940" crc="9931274e" md5="9ce01214c7745b8537abc074d8d3d428" sha1="5629457526779a1af98d80742d4f5fb2f55b2645"/>
+	</game>
+	<game name="Nick Faldo Plays the Open (1985)(Argus Press - Mind Games)">
+		<description>Nick Faldo Plays the Open (1985)(Argus Press - Mind Games)</description>
+		<rom name="Nick Faldo Plays the Open (1985)(Argus Press - Mind Games).tap" size="724214" crc="e17cc0ad" md5="7cc29345e2bb7e3a30881c25b3c31cec" sha1="8d6cdd03a886bb35db745cd27f28127c5884e06c"/>
+	</game>
+	<game name="Nick Faldo Plays the Open (1985)(Argus Press - Mind Games)[a]">
+		<description>Nick Faldo Plays the Open (1985)(Argus Press - Mind Games)[a]</description>
+		<rom name="Nick Faldo Plays the Open (1985)(Argus Press - Mind Games)[a].tap" size="505625" crc="ea2d934c" md5="b38e7422bb0e09c26ced2a91bb4e58f5" sha1="88d6afeb03e3a7ca94af50f10105a121ba4de786"/>
+	</game>
 	<game name="Nick Faldo Plays the Open (1985)(Grandslam Entertainment)">
 		<description>Nick Faldo Plays the Open (1985)(Grandslam Entertainment)</description>
 		<rom name="Nick Faldo Plays the Open (1985)(Grandslam Entertainment).tap" size="505650" crc="126e00b1" md5="3ac7f876e44d789b4adfcbbaa3cf3ffa" sha1="84da32588ea8d6c78489c47420f3cab2b6691454"/>
@@ -3235,6 +3391,10 @@
 	<game name="Olympic Skier (1984)(Mr. Chip Software)">
 		<description>Olympic Skier (1984)(Mr. Chip Software)</description>
 		<rom name="Olympic Skier (1984)(Mr. Chip Software).tap" size="1096384" crc="88f3f83b" md5="5709d63497a6e2f131da860cf83395ba" sha1="873180f63408f6d60b10b7e25103365c5f427b85"/>
+	</game>
+	<game name="Olympic Skier (1984)(Mr. Chip)">
+		<description>Olympic Skier (1984)(Mr. Chip)</description>
+		<rom name="Olympic Skier (1984)(Mr. Chip).tap" size="1096396" crc="c68e68d7" md5="a75bce97eeb7f04885e7d6e91c207f65" sha1="95d5677b0f228fd0a702555f664ad4d48926fd0d"/>
 	</game>
 	<game name="On Court Tennis (1984)(Activision)">
 		<description>On Court Tennis (1984)(Activision)</description>
@@ -3284,9 +3444,21 @@
 		<description>On the Bench (1990)(Cult Games)</description>
 		<rom name="On the Bench (1990)(Cult Games).tap" size="382125" crc="4581ac7c" md5="083eec9e08bb93976fb77c2133a3cfe8" sha1="62f8816f9a3e0854059a3d9d4630a143a8ac18b1"/>
 	</game>
+	<game name="On-Cue - Pool (1987)(Mastertronic)">
+		<description>On-Cue - Pool (1987)(Mastertronic)</description>
+		<rom name="On-Cue - Pool (1987)(Mastertronic).tap" size="192570" crc="26884b6a" md5="bf2a41a10ea5252255518917d3b93c14" sha1="27985df60f3129539b784938ab60109489b7a361"/>
+	</game>
 	<game name="On-Cue (1987)(Mastertronic)">
 		<description>On-Cue (1987)(Mastertronic)</description>
 		<rom name="On-Cue (1987)(Mastertronic).tap" size="389022" crc="abdb4563" md5="b653dbe51a40f3e380919346a891c0b9" sha1="c1e21c5f0be3022ca6ad1392a29c342f454c1766"/>
+	</game>
+	<game name="On-Cue (1987)(Mastertronic)(Side A)">
+		<description>On-Cue (1987)(Mastertronic)(Side A)</description>
+		<rom name="On-Cue (1987)(Mastertronic)(Side A).tap" size="388378" crc="fe79327c" md5="0c16af749fa6493571fd17f4053896e3" sha1="1f41b8e326a2f6e32e7727892d794cb1540ed4a6"/>
+	</game>
+	<game name="On-Cue (1987)(Mastertronic)(Side B)">
+		<description>On-Cue (1987)(Mastertronic)(Side B)</description>
+		<rom name="On-Cue (1987)(Mastertronic)(Side B).tap" size="388746" crc="de4823c5" md5="832fd632752dc4af63db22b128cbc986" sha1="8b8227dbd4485d6ffc8e15d44b2202237fad30d1"/>
 	</game>
 	<game name="On-Cue (1987)(Mastertronic)[a][snooker]">
 		<description>On-Cue (1987)(Mastertronic)[a][snooker]</description>
@@ -3303,6 +3475,22 @@
 	<game name="On-Cue (1987)(Mastertronic)[snooker]">
 		<description>On-Cue (1987)(Mastertronic)[snooker]</description>
 		<rom name="On-Cue (1987)(Mastertronic)[snooker].tap" size="196198" crc="968037bb" md5="01d823895d59bf630c665cd122af6151" sha1="356dec1b3a4139590063e99e029dc10b01c40cfc"/>
+	</game>
+	<game name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)">
+		<description>One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)</description>
+		<rom name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts).tap" size="1100690" crc="d1fd6c20" md5="5256f35f258bfbdd40f0a5bacccd8eee" sha1="96df2b225311df5110e021c52d0c06a706753f86"/>
+	</game>
+	<game name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[a]">
+		<description>One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[a]</description>
+		<rom name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[a].tap" size="436956" crc="b2b7078a" md5="b3d0a88ec3d6fafb0a23e157cd781c94" sha1="61610a942352d65b41138fb0099c746b0983d802"/>
+	</game>
+	<game name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[a2]">
+		<description>One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[a2]</description>
+		<rom name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[a2].tap" size="400975" crc="284cc7dd" md5="dc03e6e260f6cfc4d4fb1f62255fb5c7" sha1="254199c13446f2c279d91d333f159ba396a2ac7d"/>
+	</game>
+	<game name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[b]">
+		<description>One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[b]</description>
+		<rom name="One on One - Julius Erving and Larry Bird (1983)(Electronic Arts)[b].tap" size="1100690" crc="b3a8b7c7" md5="e5b99588e8aae3c053aac83f33a70c8a" sha1="16bf0c30828d8ae92751c2744c54433f17132b3c"/>
 	</game>
 	<game name="Passing Shot (1989)(ImageWorks)">
 		<description>Passing Shot (1989)(ImageWorks)</description>
@@ -3391,6 +3579,38 @@
 	<game name="Petrovic Basketball (1989)(Topo Soft)[b]">
 		<description>Petrovic Basketball (1989)(Topo Soft)[b]</description>
 		<rom name="Petrovic Basketball (1989)(Topo Soft)[b].tap" size="32768" crc="1f5df827" md5="d38209a7de9602ce96b052211fda5268" sha1="f4373f0bf6335a7c2c9eefada03f56cab7888b87"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami - Imagine)">
+		<description>Ping-Pong (1985)(Konami - Imagine)</description>
+		<rom name="Ping-Pong (1985)(Konami - Imagine).tap" size="404750" crc="080cbd25" md5="d786074b8f4cf9dbe5e3b567dc468356" sha1="d5d07878f0f9b0cec0153ef911991ae86f48de59"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami - Imagine)[a]">
+		<description>Ping-Pong (1985)(Konami - Imagine)[a]</description>
+		<rom name="Ping-Pong (1985)(Konami - Imagine)[a].tap" size="408831" crc="fe678861" md5="b198fee185a12498adee8fbd5eed2e96" sha1="844f70a4358c833d0be4bcdf400de0d06cb54dcc"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami - Imagine)[a2]">
+		<description>Ping-Pong (1985)(Konami - Imagine)[a2]</description>
+		<rom name="Ping-Pong (1985)(Konami - Imagine)[a2].tap" size="406815" crc="c0d15da4" md5="b590ce7501fe1688962ea04c7643bd49" sha1="6520ee936a89df0f237d90e77d7bdefa28348b2a"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami)[b]">
+		<description>Ping-Pong (1985)(Konami)[b]</description>
+		<rom name="Ping-Pong (1985)(Konami)[b].tap" size="406838" crc="66449c11" md5="1d66c4b7ad01175ad321c59c559a2347" sha1="aba506e8dea284b3105f86ed0c64231a95738bdd"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami)[b][a]">
+		<description>Ping-Pong (1985)(Konami)[b][a]</description>
+		<rom name="Ping-Pong (1985)(Konami)[b][a].tap" size="406815" crc="947a1e94" md5="9b5c950a3c9cd8b4303a32a684fb281c" sha1="1e729cdebf9e9fd8744979221035f6af6e3e7ec9"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami)[b][a2]">
+		<description>Ping-Pong (1985)(Konami)[b][a2]</description>
+		<rom name="Ping-Pong (1985)(Konami)[b][a2].tap" size="406833" crc="38b41088" md5="1c029fb75c92c1626d02bd892557e894" sha1="cb30a210ca29c85ddc204a0e086023b94aacb806"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami)[b][a3]">
+		<description>Ping-Pong (1985)(Konami)[b][a3]</description>
+		<rom name="Ping-Pong (1985)(Konami)[b][a3].tap" size="406819" crc="752cf3a4" md5="e63f952ee4538e1e670d1bc74fcd6030" sha1="377000abe854dfba1d9cc3dfdcb1d6ee7b260ce5"/>
+	</game>
+	<game name="Ping-Pong (1985)(Konami)[b][l Ocean-Imagine Loader]">
+		<description>Ping-Pong (1985)(Konami)[b][l Ocean-Imagine Loader]</description>
+		<rom name="Ping-Pong (1985)(Konami)[b][l Ocean-Imagine Loader].tap" size="404751" crc="437b3736" md5="0a9e9f938404fbf65d2091d60aee3f32" sha1="d29eb3cc29fa4b6bf34a7505a901bc1b2346510f"/>
 	</game>
 	<game name="Ping-Pong (1986)(Imagine - Konami)">
 		<description>Ping-Pong (1986)(Imagine - Konami)</description>
@@ -3499,6 +3719,10 @@
 	<game name="Pro Skateboard Simulator (1988)(Codemasters)[a]">
 		<description>Pro Skateboard Simulator (1988)(Codemasters)[a]</description>
 		<rom name="Pro Skateboard Simulator (1988)(Codemasters)[a].tap" size="835859" crc="f15741bd" md5="ed84a18d828c730e4cd0f43d123a863f" sha1="2b12fcdb6958a9c59cbb4b66a7560d0bb167ee6c"/>
+	</game>
+	<game name="Pro Ski Simulator (1989)(Codemasters)[b]">
+		<description>Pro Ski Simulator (1989)(Codemasters)[b]</description>
+		<rom name="Pro Ski Simulator (1989)(Codemasters)[b].tap" size="839364" crc="75ae9b8d" md5="6e7eb214b5ca3c2a5ac5fb832c84b729" sha1="d14b7f5553a3f246d3496edcf5ca638007e8cd69"/>
 	</game>
 	<game name="Pro Tennis Simulator (1989)(Codemasters)">
 		<description>Pro Tennis Simulator (1989)(Codemasters)</description>
@@ -3612,6 +3836,10 @@
 		<description>Professional Snooker Simulator (1988)(Codemasters)[a2]</description>
 		<rom name="Professional Snooker Simulator (1988)(Codemasters)[a2].tap" size="655220" crc="abbef919" md5="6b92dd607df05bf3233ff56abb6d75c2" sha1="ea28ddcf1830a75b3f6c3da7c56662d240f53947"/>
 	</game>
+	<game name="Progolf (1988)(Atlantis)(Side A)">
+		<description>Progolf (1988)(Atlantis)(Side A)</description>
+		<rom name="Progolf (1988)(Atlantis)(Side A).tap" size="710678" crc="0a808f0d" md5="382a905a950b2913b1894c42aabcd476" sha1="830ad4d28c6ffd0155f1993b32f8a3e78afff46f"/>
+	</game>
 	<game name="Progolf (1988)(Atlantis)(Side A)[Sunningdale England]">
 		<description>Progolf (1988)(Atlantis)(Side A)[Sunningdale England]</description>
 		<rom name="Progolf (1988)(Atlantis)(Side A)[Sunningdale England].tap" size="710678" crc="e3222ddd" md5="02a3cccd18d0948ecf9fae0a6d359870" sha1="e604436384f436ed20717cb05abd812d9283dbba"/>
@@ -3619,6 +3847,10 @@
 	<game name="Progolf (1988)(Atlantis)(Side A)[Sunningdale UK]">
 		<description>Progolf (1988)(Atlantis)(Side A)[Sunningdale UK]</description>
 		<rom name="Progolf (1988)(Atlantis)(Side A)[Sunningdale UK].tap" size="355333" crc="fbc90297" md5="eb6522387f5c9196ad7c2febfccca742" sha1="209bb36ddfbe67955a75cbbc09f659bf69fa58ea"/>
+	</game>
+	<game name="Progolf (1988)(Atlantis)(Side B)">
+		<description>Progolf (1988)(Atlantis)(Side B)</description>
+		<rom name="Progolf (1988)(Atlantis)(Side B).tap" size="710678" crc="1b67fc95" md5="784a10f4b159d537a78e22aaa44c75d3" sha1="2c59144cd470cf3d99f8128a9188ddaefbe5e72d"/>
 	</game>
 	<game name="Progolf (1988)(Atlantis)(Side B)[Pebble Beach US]">
 		<description>Progolf (1988)(Atlantis)(Side B)[Pebble Beach US]</description>
@@ -3640,6 +3872,10 @@
 		<description>Pub Games (1986)(Alligata)[a2]</description>
 		<rom name="Pub Games (1986)(Alligata)[a2].tap" size="1814548" crc="f196ebaa" md5="35ae9607b232f6c2fba38f5899280406" sha1="fb37d3606583a1f3affcb56cbcbdfab49c86306a"/>
 	</game>
+	<game name="Pub Games (1986)(Alligata)[a3]">
+		<description>Pub Games (1986)(Alligata)[a3]</description>
+		<rom name="Pub Games (1986)(Alligata)[a3].tap" size="1814560" crc="1c05fd20" md5="6c7dba35a57ed5a03de8eff27beb08b4" sha1="4ab773fbaca5b1c26ce6ea567802b1bb1eb34177"/>
+	</game>
 	<game name="Pub Games (1986)(Alligata)[o]">
 		<description>Pub Games (1986)(Alligata)[o]</description>
 		<rom name="Pub Games (1986)(Alligata)[o].tap" size="2898233" crc="ab4aba1f" md5="6022a1211c5bdbae348b681468b542df" sha1="146fb82cc0ab1b9a4b03fe108bfe86b80053e6cb"/>
@@ -3655,6 +3891,10 @@
 	<game name="R.B.I. Baseball 2 (1991)(Tengen - Domark)(Side B)[2 Players]">
 		<description>R.B.I. Baseball 2 (1991)(Tengen - Domark)(Side B)[2 Players]</description>
 		<rom name="R.B.I. Baseball 2 (1991)(Tengen - Domark)(Side B)[2 Players].tap" size="481782" crc="25732880" md5="9de9f7319a5f0be8da958e68ccc1818c" sha1="dbbb1b070f4406f93a06baad8f008033bb3b5dc2"/>
+	</game>
+	<game name="Rack &apos;em (1988)(Electronic Arts)">
+		<description>Rack &apos;em (1988)(Electronic Arts)</description>
+		<rom name="Rack &apos;em (1988)(Electronic Arts).tap" size="565144" crc="4ab81c9d" md5="a65c114081bdb12e3804d63fb472c95a" sha1="a6fc56cea9755bb09f1946340ba6480e92144c1b"/>
 	</game>
 	<game name="Rad Ramp Racer (1990)(Virgin Mastertronic)">
 		<description>Rad Ramp Racer (1990)(Virgin Mastertronic)</description>
@@ -3764,6 +4004,10 @@
 		<description>Rock&apos;n Wrestle (1985)(Melbourne House)[b][l Pavloda]</description>
 		<rom name="Rock&apos;n Wrestle (1985)(Melbourne House)[b][l Pavloda].tap" size="593725" crc="6fc00dc7" md5="45cf447720bfe597c6fd80f945ac680e" sha1="497223b3de86fc9fae766860bfddc9469c27f69c"/>
 	</game>
+	<game name="Rollerboard (1987)(Capital Software Designs)">
+		<description>Rollerboard (1987)(Capital Software Designs)</description>
+		<rom name="Rollerboard (1987)(Capital Software Designs).tap" size="514054" crc="5dbf663f" md5="a06e7ea41a092176ba55e9adfc266ce5" sha1="7647d6052e856c28fad1d7a698ab548ebc7bf6f2"/>
+	</game>
 	<game name="Roy of the Rovers (1988)(Gremlin)">
 		<description>Roy of the Rovers (1988)(Gremlin)</description>
 		<rom name="Roy of the Rovers (1988)(Gremlin).tap" size="1080038" crc="323ed064" md5="a24d2cedd0f1d2219c45df3ea47b791f" sha1="b64f1cb6aed162e7f26291b6a2a4b7bc1e94b498"/>
@@ -3856,6 +4100,10 @@
 		<description>Samurai Trilogy (1987)(Gremlin)(Side A)[a2]</description>
 		<rom name="Samurai Trilogy (1987)(Gremlin)(Side A)[a2].tap" size="266828" crc="de1d39ba" md5="084778239fb66d24c94e95677f501c5c" sha1="03d05493865bdc089c834d1df31c45fe9906517b"/>
 	</game>
+	<game name="Samurai Trilogy (1987)(Gremlin)(Side A)[a3]">
+		<description>Samurai Trilogy (1987)(Gremlin)(Side A)[a3]</description>
+		<rom name="Samurai Trilogy (1987)(Gremlin)(Side A)[a3].tap" size="266826" crc="909438fe" md5="1a3ca7ce7762cd28a08a6bd0584cc505" sha1="661e7aa01390e6cbc63a290b6dde3846133518cd"/>
+	</game>
 	<game name="Samurai Trilogy (1987)(Gremlin)(Side A)[b]">
 		<description>Samurai Trilogy (1987)(Gremlin)(Side A)[b]</description>
 		<rom name="Samurai Trilogy (1987)(Gremlin)(Side A)[b].tap" size="266838" crc="b0e99c9b" md5="9b37623c66a0e91c4426d6cb4a0a4e18" sha1="96e6f3ca70b0bfffd05e4aec32758fea89b946db"/>
@@ -3872,6 +4120,10 @@
 		<description>Samurai Trilogy (1987)(Gremlin)(Side B)[a2]</description>
 		<rom name="Samurai Trilogy (1987)(Gremlin)(Side B)[a2].tap" size="1512148" crc="88d8b4a1" md5="041f5da21425ba23b5a3da7fc7c85fb2" sha1="d34208382d6e22e4a570d34e7d05e8c26960fc7b"/>
 	</game>
+	<game name="Samurai Trilogy (1987)(Gremlin)(Side B)[a3]">
+		<description>Samurai Trilogy (1987)(Gremlin)(Side B)[a3]</description>
+		<rom name="Samurai Trilogy (1987)(Gremlin)(Side B)[a3].tap" size="1512142" crc="708d27f6" md5="c1b2799d02ad67844c68b5207c07caf7" sha1="ba126a3c6cddb887f2f1f95d3efbf8c3eb6e7406"/>
+	</game>
 	<game name="Samurai Trilogy (1987)(Gremlin)(Side B)[b]">
 		<description>Samurai Trilogy (1987)(Gremlin)(Side B)[b]</description>
 		<rom name="Samurai Trilogy (1987)(Gremlin)(Side B)[b].tap" size="1446626" crc="3cfe34fd" md5="444c4f0fbd364df293fb84019620fcf8" sha1="f45bacb391cf9a0fa88ad4b458b9cdee05391566"/>
@@ -3879,6 +4131,26 @@
 	<game name="Samurai Trilogy (1987)(Gremlin)(Side B)[b][a]">
 		<description>Samurai Trilogy (1987)(Gremlin)(Side B)[b][a]</description>
 		<rom name="Samurai Trilogy (1987)(Gremlin)(Side B)[b][a].tap" size="1446602" crc="54f2aa3d" md5="1f453982eab006e3f17b8ead099a499a" sha1="97990d2587c3698a62ce56d8f6f084dc269967a4"/>
+	</game>
+	<game name="Shanghai Karate (1988)(Players)(Side A)">
+		<description>Shanghai Karate (1988)(Players)(Side A)</description>
+		<rom name="Shanghai Karate (1988)(Players)(Side A).tap" size="429393" crc="9395f647" md5="bcd0b2ace128c125068298492e0299a3" sha1="aed0b25a71c0f66d18e6779daf4294c2d7a88a77"/>
+	</game>
+	<game name="Shanghai Karate (1988)(Players)(Side A)[a]">
+		<description>Shanghai Karate (1988)(Players)(Side A)[a]</description>
+		<rom name="Shanghai Karate (1988)(Players)(Side A)[a].tap" size="429394" crc="29db812a" md5="c84d64edecc0f283ff998726e3402c86" sha1="4799406a7f9d5a9aad3520081a4fc7d6175667da"/>
+	</game>
+	<game name="Shanghai Karate (1988)(Players)(Side B)">
+		<description>Shanghai Karate (1988)(Players)(Side B)</description>
+		<rom name="Shanghai Karate (1988)(Players)(Side B).tap" size="429521" crc="f44a4d38" md5="79dbfc8646c4ea9c12424a6e73e8552f" sha1="66c07f79c443278c2ab95859666030cef3b065bc"/>
+	</game>
+	<game name="Shanghai Karate (1988)(Players)(Side B)[a]">
+		<description>Shanghai Karate (1988)(Players)(Side B)[a]</description>
+		<rom name="Shanghai Karate (1988)(Players)(Side B)[a].tap" size="429522" crc="07ebd11d" md5="930ecdf07138793f37074f7832a838df" sha1="f6c014d00d552def5fb4d810309da4cacf990e93"/>
+	</game>
+	<game name="Shoot the Rapids (1984)(New Generation Software)">
+		<description>Shoot the Rapids (1984)(New Generation Software)</description>
+		<rom name="Shoot the Rapids (1984)(New Generation Software).tap" size="489902" crc="2b3b5536" md5="7075a1f06c9d5002a40efdfe388178ed" sha1="899f278a688853653f6c9bd0bd5125149fedce00"/>
 	</game>
 	<game name="Shoot the Rapids (1984)(New Generation)">
 		<description>Shoot the Rapids (1984)(New Generation)</description>
@@ -3903,6 +4175,10 @@
 	<game name="Skate Crazy (1988)(Gremlin)(Side B)">
 		<description>Skate Crazy (1988)(Gremlin)(Side B)</description>
 		<rom name="Skate Crazy (1988)(Gremlin)(Side B).tap" size="662475" crc="3ca78873" md5="c0545536db03a591f8cf0028e71fe178" sha1="244e710df33227a3f5911df50b727bfd4d42ae8a"/>
+	</game>
+	<game name="Skate Crazy (1988)(Gremlin)(Side B)[a]">
+		<description>Skate Crazy (1988)(Gremlin)(Side B)[a]</description>
+		<rom name="Skate Crazy (1988)(Gremlin)(Side B)[a].tap" size="662479" crc="01e11f3d" md5="ecb40f14da9595c1a94969e6b79217d6" sha1="0ce5df53c099c0817818197a978cebf35c67f34c"/>
 	</game>
 	<game name="Skate Crazy (1988)(Gremlin)[a]">
 		<description>Skate Crazy (1988)(Gremlin)[a]</description>
@@ -4032,6 +4308,14 @@
 		<description>Slapshot (1985)(Advantage-Artworx)[a]</description>
 		<rom name="Slapshot (1985)(Advantage-Artworx)[a].tap" size="496754" crc="8d1e7e3e" md5="e2121044d0dbff27e115e1022c4f3269" sha1="0526f12cad2ed0ad0bb8c9e65cad027fc6cdefcb"/>
 	</game>
+	<game name="Slapshot (1985)(Advantage-Artworx)[a2]">
+		<description>Slapshot (1985)(Advantage-Artworx)[a2]</description>
+		<rom name="Slapshot (1985)(Advantage-Artworx)[a2].tap" size="496739" crc="d017e2ae" md5="ea72f844c889fd797cb48949b90ae33b" sha1="a858cb7d004b217980e33b67bfe77da89ebcdc87"/>
+	</game>
+	<game name="Snap Dragon (1987)(Bubble Bus)">
+		<description>Snap Dragon (1987)(Bubble Bus)</description>
+		<rom name="Snap Dragon (1987)(Bubble Bus).tap" size="547078" crc="55900844" md5="45c2dc3cba50f3cf2e005001706a39a4" sha1="ddc3868c574339e53cfa7a61faf962d2aef62dea"/>
+	</game>
 	<game name="Snooker (1983)(Visions Software)">
 		<description>Snooker (1983)(Visions Software)</description>
 		<rom name="Snooker (1983)(Visions Software).tap" size="140483" crc="049a54d4" md5="605bc262a2e58eb0c68e8f23a74cd075" sha1="9a5022a64819d8e87f60ce667dfed13168d6f4ee"/>
@@ -4124,6 +4408,14 @@
 		<description>Soccer Supremo (1988)(-)</description>
 		<rom name="Soccer Supremo (1988)(-).tap" size="232514" crc="f0f6f2a4" md5="3d11f78a03d47697c607e50d1a808c2c" sha1="cff15f987ed1ea4e9c7c166195d7746e7ea44b9f"/>
 	</game>
+	<game name="Spartacus - The Swordslayer (1988)(Players)(Side A)">
+		<description>Spartacus - The Swordslayer (1988)(Players)(Side A)</description>
+		<rom name="Spartacus - The Swordslayer (1988)(Players)(Side A).tap" size="532562" crc="b7b17248" md5="27cad0e61f57e6e1d2e5af7904ffff1e" sha1="6771802beb6e14aab4f93a734e9ef1cabd149620"/>
+	</game>
+	<game name="Spartacus - The Swordslayer (1988)(Players)(Side B)">
+		<description>Spartacus - The Swordslayer (1988)(Players)(Side B)</description>
+		<rom name="Spartacus - The Swordslayer (1988)(Players)(Side B).tap" size="747048" crc="7be7da80" md5="6723de88406fdd391c19b80e84c75805" sha1="00b13031eb2cd070723225f2303dd7db7c4f1e97"/>
+	</game>
 	<game name="Speedball (1989)(Bitmap Brothers)">
 		<description>Speedball (1989)(Bitmap Brothers)</description>
 		<rom name="Speedball (1989)(Bitmap Brothers).tap" size="507028" crc="91ec1e32" md5="06b2293b4b23865c89b28d00b14ee8ce" sha1="4691dd0eaf5cb71e6a53a08bb524392b9211b5e9"/>
@@ -4160,29 +4452,45 @@
 		<description>Star League Baseball (1983)(Gamestar)[a]</description>
 		<rom name="Star League Baseball (1983)(Gamestar)[a].tap" size="346012" crc="f4a05122" md5="849839446d6477949cdb6fa662a432cf" sha1="be2e563fed38ec54b54481c17cf43570edb207b3"/>
 	</game>
-	<game name="Steve Davis Snooker (1985)(CDS Microsystems)">
-		<description>Steve Davis Snooker (1985)(CDS Microsystems)</description>
-		<rom name="Steve Davis Snooker (1985)(CDS Microsystems).tap" size="425718" crc="3e9c386a" md5="27381088b4ae5292ace0a87c08f8c796" sha1="352d167679cf4fa803f839616cd0d3cef84424aa"/>
+	<game name="Steve Davis Snooker (1985)(CDS Software)">
+		<description>Steve Davis Snooker (1985)(CDS Software)</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software).tap" size="426749" crc="ffdf3472" md5="0a6f5883c3bbcd29a352e2cfd6cb0e56" sha1="0884ac54fd4db4570adc87c27f133903adec792b"/>
 	</game>
-	<game name="Steve Davis Snooker (1985)(CDS Microsystems)[a]">
-		<description>Steve Davis Snooker (1985)(CDS Microsystems)[a]</description>
-		<rom name="Steve Davis Snooker (1985)(CDS Microsystems)[a].tap" size="425714" crc="e1b48a48" md5="b8e3720b3ea3de82a6feb511c496f6a8" sha1="ee3f767907fedd4d05dedd8ccc93d15a3e9b5b3d"/>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[a]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[a]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[a].tap" size="425714" crc="cb6a5a63" md5="0e108dd8e2fca66fd8196f4eae3fd7b0" sha1="5ef66b5e1833a05cbfe0d65bf0ec21b1deea2164"/>
 	</game>
-	<game name="Steve Davis Snooker (1985)(CDS Microsystems)[a2]">
-		<description>Steve Davis Snooker (1985)(CDS Microsystems)[a2]</description>
-		<rom name="Steve Davis Snooker (1985)(CDS Microsystems)[a2].tap" size="426749" crc="ffdf3472" md5="0a6f5883c3bbcd29a352e2cfd6cb0e56" sha1="0884ac54fd4db4570adc87c27f133903adec792b"/>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[a2]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[a2]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[a2].tap" size="425718" crc="3e9c386a" md5="27381088b4ae5292ace0a87c08f8c796" sha1="352d167679cf4fa803f839616cd0d3cef84424aa"/>
 	</game>
-	<game name="Steve Davis Snooker (1985)(CDS Microsystems)[a3]">
-		<description>Steve Davis Snooker (1985)(CDS Microsystems)[a3]</description>
-		<rom name="Steve Davis Snooker (1985)(CDS Microsystems)[a3].tap" size="425714" crc="cb6a5a63" md5="0e108dd8e2fca66fd8196f4eae3fd7b0" sha1="5ef66b5e1833a05cbfe0d65bf0ec21b1deea2164"/>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[a3]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[a3]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[a3].tap" size="381346" crc="ba2f4502" md5="6b3af85d52f1d939c10f87308cc7086e" sha1="255780fdae87c783de929d8bcd0fce6e28ba331f"/>
 	</game>
-	<game name="Steve Davis Snooker (1985)(CDS Microsystems)[a4]">
-		<description>Steve Davis Snooker (1985)(CDS Microsystems)[a4]</description>
-		<rom name="Steve Davis Snooker (1985)(CDS Microsystems)[a4].tap" size="426610" crc="09504871" md5="cd265ff06c82a89aaf9ab23f0a5215ca" sha1="ad8ab7eefc04ecaffbb861a6af22f61f967b4b92"/>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[a4]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[a4]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[a4].tap" size="425714" crc="e1b48a48" md5="b8e3720b3ea3de82a6feb511c496f6a8" sha1="ee3f767907fedd4d05dedd8ccc93d15a3e9b5b3d"/>
 	</game>
-	<game name="Steve Davis Snooker (1985)(CDS Microsystems)[b]">
-		<description>Steve Davis Snooker (1985)(CDS Microsystems)[b]</description>
-		<rom name="Steve Davis Snooker (1985)(CDS Microsystems)[b].tap" size="426749" crc="9387e21d" md5="725c4dcc5219997cdb56bf44d9101b5c" sha1="0feca2c20893295c475c2c0ce1af9d88ebbcdb87"/>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[a5]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[a5]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[a5].tap" size="426610" crc="09504871" md5="cd265ff06c82a89aaf9ab23f0a5215ca" sha1="ad8ab7eefc04ecaffbb861a6af22f61f967b4b92"/>
+	</game>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[a6]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[a6]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[a6].tap" size="381338" crc="5bc2f3d6" md5="e12de4784b49305612b615e347f7de16" sha1="484daed56a46c18dc20915bd8fd2ea1d785c0afa"/>
+	</game>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[b]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[b]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[b].tap" size="426749" crc="9387e21d" md5="725c4dcc5219997cdb56bf44d9101b5c" sha1="0feca2c20893295c475c2c0ce1af9d88ebbcdb87"/>
+	</game>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[b][a]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[b][a]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[b][a].tap" size="425714" crc="dd8cc3d0" md5="df014f87fd75756b81d439a23e98e0f6" sha1="1d0cc2702de1bb90b80947d283d7517d978ea075"/>
+	</game>
+	<game name="Steve Davis Snooker (1985)(CDS Software)[b][a2]">
+		<description>Steve Davis Snooker (1985)(CDS Software)[b][a2]</description>
+		<rom name="Steve Davis Snooker (1985)(CDS Software)[b][a2].tap" size="425714" crc="91254057" md5="e0ac7000e67fee732e6eea4d13f7b260" sha1="f4bc0a4159b9ba7268d56334e1ae70cc5cdadf22"/>
 	</game>
 	<game name="Street Cred Boxing (1989)(Players Premier)">
 		<description>Street Cred Boxing (1989)(Players Premier)</description>
@@ -4196,17 +4504,17 @@
 		<description>Street Cred Football (1989)(Players)</description>
 		<rom name="Street Cred Football (1989)(Players).tap" size="356622" crc="4df0a586" md5="ddedbcd83254b183c0a61b78a947fa88" sha1="54fde5b479d6a79ce5dada48c17f890a74073ec7"/>
 	</game>
-	<game name="Street Fighter - US Version (1988)(Capcom)">
-		<description>Street Fighter - US Version (1988)(Capcom)</description>
-		<rom name="Street Fighter - US Version (1988)(Capcom).tap" size="1026779" crc="6bfc52e2" md5="e27897584e3d89efd38acc67df600cda" sha1="ad863968e0ed8a97718bd74598bdba7aff1367aa"/>
-	</game>
-	<game name="Street Fighter - US Version (1988)(Capcom)[a]">
-		<description>Street Fighter - US Version (1988)(Capcom)[a]</description>
-		<rom name="Street Fighter - US Version (1988)(Capcom)[a].tap" size="1026646" crc="a4e8d9f9" md5="5d0f47593e8545d764bb1ebe70a62120" sha1="b9a5095d7b9a7fcefcf47005cb19bf835e07a688"/>
-	</game>
 	<game name="Street Fighter (1988)(Capcom)">
 		<description>Street Fighter (1988)(Capcom)</description>
 		<rom name="Street Fighter (1988)(Capcom).tap" size="1026646" crc="e1e2f36d" md5="d7b9cb7a3627e128a27b45300466fc98" sha1="44f22163e418bdce031d764fc8d451f79406e20d"/>
+	</game>
+	<game name="Street Fighter (1988)(Capcom)(US)">
+		<description>Street Fighter (1988)(Capcom)(US)</description>
+		<rom name="Street Fighter (1988)(Capcom)(US).tap" size="1026779" crc="6bfc52e2" md5="e27897584e3d89efd38acc67df600cda" sha1="ad863968e0ed8a97718bd74598bdba7aff1367aa"/>
+	</game>
+	<game name="Street Fighter (1988)(Capcom)(US)[a]">
+		<description>Street Fighter (1988)(Capcom)(US)[a]</description>
+		<rom name="Street Fighter (1988)(Capcom)(US)[a].tap" size="1026646" crc="a4e8d9f9" md5="5d0f47593e8545d764bb1ebe70a62120" sha1="b9a5095d7b9a7fcefcf47005cb19bf835e07a688"/>
 	</game>
 	<game name="Street Fighter (1988)(Capcom)[b][l]">
 		<description>Street Fighter (1988)(Capcom)[b][l]</description>
@@ -4279,6 +4587,22 @@
 	<game name="Strike! (1987)(Mastertronic)">
 		<description>Strike! (1987)(Mastertronic)</description>
 		<rom name="Strike! (1987)(Mastertronic).tap" size="615214" crc="0788e20f" md5="51383e47787ba9e69761188867caa964" sha1="9bad6831d1452bce68ea76444659787571eb3ab2"/>
+	</game>
+	<game name="Strike! (1987)(Mastertronic)[a]">
+		<description>Strike! (1987)(Mastertronic)[a]</description>
+		<rom name="Strike! (1987)(Mastertronic)[a].tap" size="615315" crc="519fe577" md5="ac6c56814cb5a40f68bae1800f09ddc4" sha1="56104a59e789a6fd22e9a534a3d9ef085e278b98"/>
+	</game>
+	<game name="Strike! (1987)(Mastertronic)[a2]">
+		<description>Strike! (1987)(Mastertronic)[a2]</description>
+		<rom name="Strike! (1987)(Mastertronic)[a2].tap" size="615238" crc="89263214" md5="da09b595a72ab69b539ea7bbea944e7f" sha1="3a6a4df666b32115df9171eff295c4dc034db5bf"/>
+	</game>
+	<game name="Strike! (1987)(Mastertronic)[a3]">
+		<description>Strike! (1987)(Mastertronic)[a3]</description>
+		<rom name="Strike! (1987)(Mastertronic)[a3].tap" size="615230" crc="eda735af" md5="decc14355c339155fb2bfed403150be6" sha1="2868ead5dbc76ecc8cd4096b780e56568ce50603"/>
+	</game>
+	<game name="Strike! (1987)(Mastertronic)[a4]">
+		<description>Strike! (1987)(Mastertronic)[a4]</description>
+		<rom name="Strike! (1987)(Mastertronic)[a4].tap" size="615230" crc="e3a249d3" md5="51d5f712e9c111f025ef6960022a1093" sha1="1e8021446a1010dfb448d0fa545d168cffc79e9f"/>
 	</game>
 	<game name="Striker Manager (1991)(Cult Games)">
 		<description>Striker Manager (1991)(Cult Games)</description>
@@ -4528,22 +4852,6 @@
 		<description>Super League (1990)(Players Premier)[a2]</description>
 		<rom name="Super League (1990)(Players Premier)[a2].tap" size="542055" crc="6a1d3bfe" md5="a2832385e98ae90e434f23b389672c80" sha1="210f8f660490ad43ecf9d7804e4f46b97f8ee2e1"/>
 	</game>
-	<game name="Super League Soccer (1990)(Impressions)">
-		<description>Super League Soccer (1990)(Impressions)</description>
-		<rom name="Super League Soccer (1990)(Impressions).tap" size="400193" crc="477f183d" md5="d1670023721e478ba1f8f9f36c768618" sha1="c353914967273a60eefe0d2f8ba68aa4db3fcf54"/>
-	</game>
-	<game name="Super League Soccer (1990)(Impressions)[a]">
-		<description>Super League Soccer (1990)(Impressions)[a]</description>
-		<rom name="Super League Soccer (1990)(Impressions)[a].tap" size="32768" crc="c4319dbf" md5="36208fd8b82fa834d3e841d24bbc606b" sha1="66ae3807ddf33b8f862bd895d197254158e58fbb"/>
-	</game>
-	<game name="Super League Soccer (1990)(Impressions)[a2]">
-		<description>Super League Soccer (1990)(Impressions)[a2]</description>
-		<rom name="Super League Soccer (1990)(Impressions)[a2].tap" size="400465" crc="85e41788" md5="343a4267487ddf5412e1155046e788c5" sha1="ee7a553addc4f925afee415db128df6c17e5f677"/>
-	</game>
-	<game name="Super League Soccer (1990)(Impressions)[a3]">
-		<description>Super League Soccer (1990)(Impressions)[a3]</description>
-		<rom name="Super League Soccer (1990)(Impressions)[a3].tap" size="131072" crc="35124852" md5="e4add453ea1313463b2bee12bef41694" sha1="16a13f2064c3f0090b5c038d63f327d3438313fd"/>
-	</game>
 	<game name="Super Rider (1984)(Firebird)">
 		<description>Super Rider (1984)(Firebird)</description>
 		<rom name="Super Rider (1984)(Firebird).tap" size="769572" crc="01323c6b" md5="95fde7b6fa0b84b065553c29092696cf" sha1="b66561b2e33e4d687a84ed7509045126f15751bb"/>
@@ -4559,6 +4867,22 @@
 	<game name="Superleague Soccer (1990)(Impressions)">
 		<description>Superleague Soccer (1990)(Impressions)</description>
 		<rom name="Superleague Soccer (1990)(Impressions).tap" size="409246" crc="271e3805" md5="4a994ed849c0cd142bc44c553813e156" sha1="bb8264500d3647743f193e2aacdbf17fca65049e"/>
+	</game>
+	<game name="Superleague Soccer (1990)(Impressions)[a]">
+		<description>Superleague Soccer (1990)(Impressions)[a]</description>
+		<rom name="Superleague Soccer (1990)(Impressions)[a].tap" size="400465" crc="85e41788" md5="343a4267487ddf5412e1155046e788c5" sha1="ee7a553addc4f925afee415db128df6c17e5f677"/>
+	</game>
+	<game name="Superleague Soccer (1990)(Impressions)[a2]">
+		<description>Superleague Soccer (1990)(Impressions)[a2]</description>
+		<rom name="Superleague Soccer (1990)(Impressions)[a2].tap" size="32768" crc="c4319dbf" md5="36208fd8b82fa834d3e841d24bbc606b" sha1="66ae3807ddf33b8f862bd895d197254158e58fbb"/>
+	</game>
+	<game name="Superleague Soccer (1990)(Impressions)[a3]">
+		<description>Superleague Soccer (1990)(Impressions)[a3]</description>
+		<rom name="Superleague Soccer (1990)(Impressions)[a3].tap" size="400193" crc="477f183d" md5="d1670023721e478ba1f8f9f36c768618" sha1="c353914967273a60eefe0d2f8ba68aa4db3fcf54"/>
+	</game>
+	<game name="Superleague Soccer (1990)(Impressions)[a4]">
+		<description>Superleague Soccer (1990)(Impressions)[a4]</description>
+		<rom name="Superleague Soccer (1990)(Impressions)[a4].tap" size="131072" crc="35124852" md5="e4add453ea1313463b2bee12bef41694" sha1="16a13f2064c3f0090b5c038d63f327d3438313fd"/>
 	</game>
 	<game name="Supersports (1988)(Gremlin)">
 		<description>Supersports (1988)(Gremlin)</description>
@@ -4644,6 +4968,30 @@
 		<description>Test Master (1990)(Challenge Software)[a4]</description>
 		<rom name="Test Master (1990)(Challenge Software)[a4].tap" size="270032" crc="72e972d5" md5="5b9ee0634f173147671ed67ddf5e5004" sha1="31c211c2ba8e1cd6d0bba618e4983ac72c7aa54e"/>
 	</game>
+	<game name="Thai Boxing (1986)(Anco)">
+		<description>Thai Boxing (1986)(Anco)</description>
+		<rom name="Thai Boxing (1986)(Anco).tap" size="875504" crc="e754896f" md5="f526eec04286cde4fc90de336abea002" sha1="8aeec6e29a004300a4cf582a20ed5733cbac7eed"/>
+	</game>
+	<game name="Toobin&apos; (1989)(Domark - Tengen)[b]">
+		<description>Toobin&apos; (1989)(Domark - Tengen)[b]</description>
+		<rom name="Toobin&apos; (1989)(Domark - Tengen)[b].tap" size="444865" crc="43a0bd86" md5="be2322d5769cc6755f224ab0a84668b4" sha1="dacd292ccf8659ec5f902c1832d5efe1807b7f9c"/>
+	</game>
+	<game name="Toobin&apos; (1989)(Domark)">
+		<description>Toobin&apos; (1989)(Domark)</description>
+		<rom name="Toobin&apos; (1989)(Domark).tap" size="444881" crc="0b7b3c1d" md5="44fd766b8dd72782291b618f2d94aba9" sha1="775e1310bcf2ebaf51653c73571826d5c35417a5"/>
+	</game>
+	<game name="Toobin&apos; (1989)(Domark)[a]">
+		<description>Toobin&apos; (1989)(Domark)[a]</description>
+		<rom name="Toobin&apos; (1989)(Domark)[a].tap" size="622532" crc="aecb97de" md5="a2b8f3a99755a4b93fb3002db491c32d" sha1="653de5ae2c28ef9b8fbfbaf84db94796070fc8d5"/>
+	</game>
+	<game name="Toobin&apos; (1989)(Domark)[a2]">
+		<description>Toobin&apos; (1989)(Domark)[a2]</description>
+		<rom name="Toobin&apos; (1989)(Domark)[a2].tap" size="444912" crc="d0e8af9b" md5="a991d92ca5495061ef90796f7345c5cb" sha1="638d7c9ec425c8c9cdfd797e059cd67890dc80f6"/>
+	</game>
+	<game name="Toobin&apos; (1989)(Domark)[a3]">
+		<description>Toobin&apos; (1989)(Domark)[a3]</description>
+		<rom name="Toobin&apos; (1989)(Domark)[a3].tap" size="444865" crc="85640442" md5="ec1d799c8b858ff479d715bf19636e61" sha1="9229069e1a42ee35c6976fa9d4afa10f2c9a66f4"/>
+	</game>
 	<game name="Touchdown Football (1986)(Ariolasoft)">
 		<description>Touchdown Football (1986)(Ariolasoft)</description>
 		<rom name="Touchdown Football (1986)(Ariolasoft).tap" size="599775" crc="0caa2ff7" md5="cd9537a097d3f653243b075a0ac68563" sha1="1e8f5f918f896b6e0895a9c2ac0738b5bd45ba6a"/>
@@ -4695,6 +5043,18 @@
 	<game name="Tracksuit Manager (1988)(Goliath Games)[b]">
 		<description>Tracksuit Manager (1988)(Goliath Games)[b]</description>
 		<rom name="Tracksuit Manager (1988)(Goliath Games)[b].tap" size="532890" crc="f9780b02" md5="4534fef196968d347e91063643beafda" sha1="e4c79334d586b7fd4186987826581e2d9887bc52"/>
+	</game>
+	<game name="Treble Champions (1989)(Challenge)">
+		<description>Treble Champions (1989)(Challenge)</description>
+		<rom name="Treble Champions (1989)(Challenge).tap" size="1391853" crc="a2e705c6" md5="ff23b78e6d3272fcfd7bf7dd39f53378" sha1="4b2d2144dcac1c5081298ce71f92ada55c6da32f"/>
+	</game>
+	<game name="Trevor Brooking&apos;s World Cup Glory (1991)(Challenge Software)">
+		<description>Trevor Brooking&apos;s World Cup Glory (1991)(Challenge Software)</description>
+		<rom name="Trevor Brooking&apos;s World Cup Glory (1991)(Challenge Software).tap" size="409681" crc="cddea30b" md5="17be35837cea69ad21a0d39e0772edff" sha1="89db05fb09798226ad775ef53352cf40f9cf1a8d"/>
+	</game>
+	<game name="Trevor Brooking&apos;s World Cup Glory (1991)(Challenge Software)[a]">
+		<description>Trevor Brooking&apos;s World Cup Glory (1991)(Challenge Software)[a]</description>
+		<rom name="Trevor Brooking&apos;s World Cup Glory (1991)(Challenge Software)[a].tap" size="409689" crc="061ac4f4" md5="91ac8f85528c101c5f2d5ef4e2e953d1" sha1="1f62501e93294a28b70d87e2a386058b245fb78a"/>
 	</game>
 	<game name="Turbo Boat Simulator (1988)(Silverbird)">
 		<description>Turbo Boat Simulator (1988)(Silverbird)</description>
@@ -4920,17 +5280,17 @@
 		<description>Winter Games (1989)(Kixx)</description>
 		<rom name="Winter Games (1989)(Kixx).tap" size="2851760" crc="76bb1e5f" md5="53b6a66712e7a79f8c1bc05de163a79f" sha1="58afc4b281ad47d7ec5422851bcd20db99ffa0aa"/>
 	</game>
-	<game name="Winter Olympiad 88 (1988)(Tynesoft)">
-		<description>Winter Olympiad 88 (1988)(Tynesoft)</description>
-		<rom name="Winter Olympiad 88 (1988)(Tynesoft).tap" size="2934641" crc="c1d59af2" md5="f1bcc217a5b4871a7e08383aff398341" sha1="374dd5f072ac76fb0e880c64bc55c86ae0dc0add"/>
-	</game>
 	<game name="Winter Olympiad &apos;88 (1988)(Tynesoft)">
 		<description>Winter Olympiad &apos;88 (1988)(Tynesoft)</description>
 		<rom name="Winter Olympiad &apos;88 (1988)(Tynesoft).tap" size="2934641" crc="23afd96e" md5="b53089840a837de2bf5907660949bf8e" sha1="f76e4b4cc7765ca99b9795d3a013769b608ab28a"/>
 	</game>
-	<game name="Winter Olympiad 88 (1988)(Tynesoft)[a]">
-		<description>Winter Olympiad 88 (1988)(Tynesoft)[a]</description>
-		<rom name="Winter Olympiad 88 (1988)(Tynesoft)[a].tap" size="2934641" crc="b06d733b" md5="590f2e60ff0a15552024c89f9aba8524" sha1="f4712de485550a29d2a071861f931e5f99096c83"/>
+	<game name="Winter Olympiad &apos;88 (1988)(Tynesoft)[a]">
+		<description>Winter Olympiad &apos;88 (1988)(Tynesoft)[a]</description>
+		<rom name="Winter Olympiad &apos;88 (1988)(Tynesoft)[a].tap" size="2934641" crc="b06d733b" md5="590f2e60ff0a15552024c89f9aba8524" sha1="f4712de485550a29d2a071861f931e5f99096c83"/>
+	</game>
+	<game name="Winter Olympiad &apos;88 (1988)(Tynesoft)[a2]">
+		<description>Winter Olympiad &apos;88 (1988)(Tynesoft)[a2]</description>
+		<rom name="Winter Olympiad &apos;88 (1988)(Tynesoft)[a2].tap" size="2934641" crc="c1d59af2" md5="f1bcc217a5b4871a7e08383aff398341" sha1="374dd5f072ac76fb0e880c64bc55c86ae0dc0add"/>
 	</game>
 	<game name="Winter Sports (1985)(Visiogame)(it)(Side A)">
 		<description>Winter Sports (1985)(Visiogame)(it)(Side A)</description>
@@ -5160,13 +5520,17 @@
 		<description>World Cup Carnival - Mexico &apos;86 (1985)(US Gold)[a2]</description>
 		<rom name="World Cup Carnival - Mexico &apos;86 (1985)(US Gold)[a2].tap" size="400325" crc="2f2c74e8" md5="cdf15b4d9b9335b0d8b434b66395aacd" sha1="8bd1b104b5c53667c9670bc7e0d1a0d889d7ea27"/>
 	</game>
+	<game name="World Cup Carnival - Mexico &apos;86 (1986)(US Gold)">
+		<description>World Cup Carnival - Mexico &apos;86 (1986)(US Gold)</description>
+		<rom name="World Cup Carnival - Mexico &apos;86 (1986)(US Gold).tap" size="400325" crc="669b3fdf" md5="b3e6a5fd50432fcb528d33f6cc2eed41" sha1="af791664d52e57b797659cd19c76ec15fb487968"/>
+	</game>
+	<game name="World Cup Carnival - Mexico &apos;86 (1986)(US Gold)[b]">
+		<description>World Cup Carnival - Mexico &apos;86 (1986)(US Gold)[b]</description>
+		<rom name="World Cup Carnival - Mexico &apos;86 (1986)(US Gold)[b].tap" size="401482" crc="27d8a374" md5="c083c79b27b8de72e7dad6eedbeb1e5e" sha1="89ed7d0ca4af1bcebf61e7c3865fe92f02487c94"/>
+	</game>
 	<game name="World Cup II (1985)(Artic Computing)">
 		<description>World Cup II (1985)(Artic Computing)</description>
 		<rom name="World Cup II (1985)(Artic Computing).tap" size="423814" crc="999e0299" md5="93033de222a01695cc80494a08c61237" sha1="62bca06a3b2e3ef290c1f1af280a380077de3dc9"/>
-	</game>
-	<game name="World Cup Soccer - Italia &apos;90 (1990)(Virgin Mastertronic)">
-		<description>World Cup Soccer - Italia &apos;90 (1990)(Virgin Mastertronic)</description>
-		<rom name="World Cup Soccer - Italia &apos;90 (1990)(Virgin Mastertronic).tap" size="778208" crc="adc3f029" md5="febedd6e0ee13e9867c8fc47e1a32182" sha1="0015bf4614beac22e81b636c783907766ce57411"/>
 	</game>
 	<game name="World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)">
 		<description>World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)</description>
@@ -5175,6 +5539,10 @@
 	<game name="World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)[a]">
 		<description>World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)[a]</description>
 		<rom name="World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)[a].tap" size="778208" crc="77b445c3" md5="8c8ef38e8d8176594326846820e012b6" sha1="03df09ee1a3343cc1b45ec05de8ce706e0b8a113"/>
+	</game>
+	<game name="World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)[a2]">
+		<description>World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)[a2]</description>
+		<rom name="World Cup Soccer Italia &apos;90 (1990)(Virgin Mastertronic)[a2].tap" size="778208" crc="adc3f029" md5="febedd6e0ee13e9867c8fc47e1a32182" sha1="0015bf4614beac22e81b636c783907766ce57411"/>
 	</game>
 	<game name="World Games (1986)(Epyx)(Side A)">
 		<description>World Games (1986)(Epyx)(Side A)</description>

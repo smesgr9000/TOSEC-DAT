@@ -1,0 +1,5 @@
+CATALOG 0000000000000
+FILE "Endless Summer, The (1994)(Sirius)(AU)(Disc 1 of 3).bin" BINARY
+  TRACK 01 MODE1/2352
+    FLAGS DCP
+    INDEX 01 00:00:00

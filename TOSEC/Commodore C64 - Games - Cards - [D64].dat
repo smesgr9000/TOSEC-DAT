@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Cards - [D64]</name>
-		<description>Commodore C64 - Games - Cards - [D64] (TOSEC-v2022-12-21)</description>
+		<description>Commodore C64 - Games - Cards - [D64] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
+		<version>2023-06-10</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -228,9 +228,29 @@
 		<description>Adult Poker (19xx)(Keypunch Software)[a3]</description>
 		<rom name="Adult Poker (19xx)(Keypunch Software)[a3].d64" size="174848" crc="89fbb525" md5="4ce605250aad0702a33b871a756a03a9" sha1="ce76019d3fc6acab53d2ef7de266dd4bc8e6af43"/>
 	</game>
-	<game name="Agnes (1998)(Loadstar - J &amp; F Publishing)">
-		<description>Agnes (1998)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Agnes (1998)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="05d5888c" md5="22e6d656c467ca73a2a08a4fdf9dcc2f" sha1="503b1b92435f9f18f574007fcced6b00668d1791"/>
+	<game name="Agnes (1998)(J &amp; F Publishing - Loadstar)">
+		<description>Agnes (1998)(J &amp; F Publishing - Loadstar)</description>
+		<rom name="Agnes (1998)(J &amp; F Publishing - Loadstar).d64" size="174848" crc="c6f8782c" md5="147ad3a816eea07e16caa200a6b3e1a9" sha1="95b34a28fd2d8bf122f8aac51647757ecd1d5855"/>
+	</game>
+	<game name="Agnes (1998)(J &amp; F Publishing - Loadstar)[a]">
+		<description>Agnes (1998)(J &amp; F Publishing - Loadstar)[a]</description>
+		<rom name="Agnes (1998)(J &amp; F Publishing - Loadstar)[a].d64" size="174848" crc="05d5888c" md5="22e6d656c467ca73a2a08a4fdf9dcc2f" sha1="503b1b92435f9f18f574007fcced6b00668d1791"/>
+	</game>
+	<game name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT]">
+		<description>Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT]</description>
+		<rom name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT].d64" size="174848" crc="e6758fab" md5="271b33d278b378c3d56f0d8b8669ae61" sha1="ca0e11b581f2474a00c68022a44309b30e5ef318"/>
+	</game>
+	<game name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][a]">
+		<description>Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][a]</description>
+		<rom name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][a].d64" size="174848" crc="85a01ef2" md5="6588af7452d1781b86ef3432f80f3ed8" sha1="45d2e2dc880302cf55218b444a01ce05d048b66f"/>
+	</game>
+	<game name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][a2]">
+		<description>Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][a2]</description>
+		<rom name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][a2].d64" size="174848" crc="74b3ef12" md5="c966ff9a507f0e9dfcb0d82ed89ce3aa" sha1="dc971c87357020393c762978234b3cf72874a954"/>
+	</game>
+	<game name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][f NTSC]">
+		<description>Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][f NTSC]</description>
+		<rom name="Agnes (1998)(J &amp; F Publishing - Loadstar)[cr TBT][f NTSC].d64" size="174848" crc="15214b48" md5="e289c79161d5a18c3036af3a2d4fcfac" sha1="06f0089458cdd493759c0448a49a01bb646874bc"/>
 	</game>
 	<game name="Alhambra (19xx)(Jones, M.)">
 		<description>Alhambra (19xx)(Jones, M.)</description>
@@ -280,13 +300,21 @@
 		<description>Baker&apos;s Dozen (1998)(Loadstar)</description>
 		<rom name="Baker&apos;s Dozen (1998)(Loadstar).d64" size="174848" crc="a77eeb46" md5="548ad14e2712bccfa0f962916b084461" sha1="c9781e08511811bb20bb4927093840f11d4abb49"/>
 	</game>
-	<game name="Baker&apos;s Game (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Baker&apos;s Game (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Baker&apos;s Game (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="2810b673" md5="3f7f1314fa7db7e79b31e20510cd41bb" sha1="22a9a0c02f8b0bde04fbc70a99307acf95623e46"/>
+	<game name="Baker&apos;s Game (1997)(Loadstar)">
+		<description>Baker&apos;s Game (1997)(Loadstar)</description>
+		<rom name="Baker&apos;s Game (1997)(Loadstar).d64" size="174848" crc="2810b673" md5="3f7f1314fa7db7e79b31e20510cd41bb" sha1="22a9a0c02f8b0bde04fbc70a99307acf95623e46"/>
 	</game>
-	<game name="Baroness (1992)(Loadstar - Softdisk Publishing)">
-		<description>Baroness (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Baroness (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="4523e7ab" md5="d45fecbe765da24a7be521f904504d43" sha1="0c2fcbb84d878083dc9f9e41d39f50033f9f5685"/>
+	<game name="Baker&apos;s Game (1997)(Loadstar)[a]">
+		<description>Baker&apos;s Game (1997)(Loadstar)[a]</description>
+		<rom name="Baker&apos;s Game (1997)(Loadstar)[a].d64" size="174848" crc="42b2a23c" md5="4614d03f76d8a3782c9f549683b46536" sha1="8d3fead7c33eeab7ee75f29ff945a8107dd1f79d"/>
+	</game>
+	<game name="Baroness (1992)(Loadstar)">
+		<description>Baroness (1992)(Loadstar)</description>
+		<rom name="Baroness (1992)(Loadstar).d64" size="174848" crc="7d625129" md5="b8a4c9fe9ed60e286cb8008b60ed4de8" sha1="6162b2aa4f78b43d6c35e2f1cfa6a0f92ff6dbb8"/>
+	</game>
+	<game name="Baroness (1992)(Loadstar)[a]">
+		<description>Baroness (1992)(Loadstar)[a]</description>
+		<rom name="Baroness (1992)(Loadstar)[a].d64" size="174848" crc="4523e7ab" md5="d45fecbe765da24a7be521f904504d43" sha1="0c2fcbb84d878083dc9f9e41d39f50033f9f5685"/>
 	</game>
 	<game name="Bauern-Legen (19xx)(-)(de)">
 		<description>Bauern-Legen (19xx)(-)(de)</description>
@@ -336,9 +364,13 @@
 		<description>Bill Britton Blackjack (19xx)(-)</description>
 		<rom name="Bill Britton Blackjack (19xx)(-).d64" size="174848" crc="a01cbd00" md5="b2d1614675c6d0c4cd070d26332f2fb6" sha1="f5cc0e0e51dd28c2d3f9b0d738fce378ad8bb8b8"/>
 	</game>
-	<game name="Bisley (1992)(Loadstar - Softdisk Publishing)">
-		<description>Bisley (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Bisley (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="4497aa1a" md5="858261e78c69e7a41fb43ba6fd6e8f5b" sha1="8994fdce065dcac7b6e18f4f26487e159bfc516c"/>
+	<game name="Bisley (1992)(Loadstar)">
+		<description>Bisley (1992)(Loadstar)</description>
+		<rom name="Bisley (1992)(Loadstar).d64" size="174848" crc="dcfee58c" md5="2594ed63bb967a9fbefbc7f38e3e5429" sha1="fe2c3d76aa64650396c3403942d6e6ee5c6e749e"/>
+	</game>
+	<game name="Bisley (1992)(Loadstar)[a]">
+		<description>Bisley (1992)(Loadstar)[a]</description>
+		<rom name="Bisley (1992)(Loadstar)[a].d64" size="174848" crc="4497aa1a" md5="858261e78c69e7a41fb43ba6fd6e8f5b" sha1="8994fdce065dcac7b6e18f4f26487e159bfc516c"/>
 	</game>
 	<game name="Bisley Two (19xx)(Loadstar)">
 		<description>Bisley Two (19xx)(Loadstar)</description>
@@ -351,6 +383,22 @@
 	<game name="Black Jack (1978)(Creative Computing)">
 		<description>Black Jack (1978)(Creative Computing)</description>
 		<rom name="Black Jack (1978)(Creative Computing).d64" size="174848" crc="3f846925" md5="deac1bda2ade99a57d8607dcd187613b" sha1="568f431893c9ad163d3c64804e6d64da821cc6f7"/>
+	</game>
+	<game name="Black Jack (1983)(Brookfield Software)(nl)">
+		<description>Black Jack (1983)(Brookfield Software)(nl)</description>
+		<rom name="Black Jack (1983)(Brookfield Software)(nl).d64" size="174848" crc="57d4200c" md5="b4a7eb4d1d70863756d534ec4ef65667" sha1="4ade48aa154faf38fb50ed8fe9a567524c6de68e"/>
+	</game>
+	<game name="Black Jack (1983)(Brookfield Software)(nl)[h ASS]">
+		<description>Black Jack (1983)(Brookfield Software)(nl)[h ASS]</description>
+		<rom name="Black Jack (1983)(Brookfield Software)(nl)[h ASS].d64" size="174848" crc="5800d1f4" md5="29894ff0f90a120795207e7512059de1" sha1="e91b57f1df7ad5d8f95d5f43670130124c90ccff"/>
+	</game>
+	<game name="Black Jack (1983)(Brookfield Software)(nl)[h ASS][a]">
+		<description>Black Jack (1983)(Brookfield Software)(nl)[h ASS][a]</description>
+		<rom name="Black Jack (1983)(Brookfield Software)(nl)[h ASS][a].d64" size="174848" crc="a625f293" md5="99abc7940f04ed9b34948efcf535fafe" sha1="08eea0621aa5be021ba40b57182ed0e8519aae3e"/>
+	</game>
+	<game name="Black Jack (1983)(Brookfield Software)(nl)[h ASS][a2]">
+		<description>Black Jack (1983)(Brookfield Software)(nl)[h ASS][a2]</description>
+		<rom name="Black Jack (1983)(Brookfield Software)(nl)[h ASS][a2].d64" size="174848" crc="f7edaff8" md5="f3c241b4e3fcb51dcd8707db77b7230c" sha1="9b5daa96165550ff0834fe5f364048a2b31b6997"/>
 	</game>
 	<game name="Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM]">
 		<description>Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM]</description>
@@ -864,13 +912,21 @@
 		<description>Canfield (1988)(Compute!)</description>
 		<rom name="Canfield (1988)(Compute!).d64" size="174848" crc="c2adfe90" md5="315202d6bb57ba3be65da738fede201c" sha1="5c05e56aa4203f1590739e43bd2ffad2aef057b6"/>
 	</game>
-	<game name="Canfield Couple (1995)(Loadstar - Softdisk Publishing)">
-		<description>Canfield Couple (1995)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Canfield Couple (1995)(Loadstar - Softdisk Publishing).d64" size="174848" crc="be446e10" md5="c8ad9311e2a1bcea01c9443c64d4a4a0" sha1="48eefd4dd0d124ae4118dff20764873d47b1d710"/>
+	<game name="Canfield Couple (1995)(Loadstar)">
+		<description>Canfield Couple (1995)(Loadstar)</description>
+		<rom name="Canfield Couple (1995)(Loadstar).d64" size="174848" crc="9a288f23" md5="6bc4ef621253f535ce6f4db6bee89aea" sha1="bc65ef3fda9acd30685c69ee3e1178ef85983439"/>
 	</game>
-	<game name="Captive Queens (1992)(Loadstar - Softdisk Publishing)">
-		<description>Captive Queens (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Captive Queens (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="3f882ca6" md5="cf1985dad62c899a857af215f5715994" sha1="aee7d6f58b08fe789cd1c8027fe0150fa50aaaaf"/>
+	<game name="Canfield Couple (1995)(Loadstar)[a]">
+		<description>Canfield Couple (1995)(Loadstar)[a]</description>
+		<rom name="Canfield Couple (1995)(Loadstar)[a].d64" size="174848" crc="be446e10" md5="c8ad9311e2a1bcea01c9443c64d4a4a0" sha1="48eefd4dd0d124ae4118dff20764873d47b1d710"/>
+	</game>
+	<game name="Captive Queens (1992)(Loadstar)">
+		<description>Captive Queens (1992)(Loadstar)</description>
+		<rom name="Captive Queens (1992)(Loadstar).d64" size="174848" crc="063333b5" md5="17b690ecd90057d2677f6bbb6576e007" sha1="9781ce53fcc68358d84a9b9c096c81f4546b18ec"/>
+	</game>
+	<game name="Captive Queens (1992)(Loadstar)[a]">
+		<description>Captive Queens (1992)(Loadstar)[a]</description>
+		<rom name="Captive Queens (1992)(Loadstar)[a].d64" size="174848" crc="3f882ca6" md5="cf1985dad62c899a857af215f5715994" sha1="aee7d6f58b08fe789cd1c8027fe0150fa50aaaaf"/>
 	</game>
 	<game name="Card Duel (2005)(Watkin, M.)">
 		<description>Card Duel (2005)(Watkin, M.)</description>
@@ -1220,17 +1276,25 @@
 		<description>Casino Royale (1987)(Wicked Software)[a2]</description>
 		<rom name="Casino Royale (1987)(Wicked Software)[a2].d64" size="174848" crc="6546f889" md5="fdc298f08d2b33ea1e97d67e588fd60f" sha1="4b307be7fe03500d12cbeede6a33917a746ae304"/>
 	</game>
-	<game name="Castle Collection (1996)(Loadstar - J &amp; F Publishing)">
-		<description>Castle Collection (1996)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Castle Collection (1996)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="598ac8eb" md5="385f48a6cd9318ffb0b4f5d6bf2ce167" sha1="193aa0a5e5b9d63329bd2b2a63487f1f5da23677"/>
+	<game name="Castle Collection (1996)(Loadstar)">
+		<description>Castle Collection (1996)(Loadstar)</description>
+		<rom name="Castle Collection (1996)(Loadstar).d64" size="174848" crc="598ac8eb" md5="385f48a6cd9318ffb0b4f5d6bf2ce167" sha1="193aa0a5e5b9d63329bd2b2a63487f1f5da23677"/>
+	</game>
+	<game name="Castle Collection (1996)(Loadstar)[a]">
+		<description>Castle Collection (1996)(Loadstar)[a]</description>
+		<rom name="Castle Collection (1996)(Loadstar)[a].d64" size="174848" crc="2ab8dfe8" md5="9646e90f97539e261151b7bb8e5bc0e5" sha1="68fb93a77dfff460f73ab6f4414c5ca003ab797e"/>
 	</game>
 	<game name="CBM Poker Tournament (1984)(Commodore Business Machines)[cr Beno]">
 		<description>CBM Poker Tournament (1984)(Commodore Business Machines)[cr Beno]</description>
 		<rom name="CBM Poker Tournament (1984)(Commodore Business Machines)[cr Beno].d64" size="174848" crc="631578bf" md5="bb0fba64dc506e06fa81b8c927094515" sha1="a1bf295a15c46092f6ed0d8f22eb57eff61077df"/>
 	</game>
-	<game name="Chameleon (1993)(Loadstar - Softdisk Publishing)">
-		<description>Chameleon (1993)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Chameleon (1993)(Loadstar - Softdisk Publishing).d64" size="174848" crc="6771404d" md5="09ded06352181140e06899de66d7da08" sha1="4fc154f5e30111686fd4af8d31be90d6af6631a4"/>
+	<game name="Chameleon (1993)(Loadstar)">
+		<description>Chameleon (1993)(Loadstar)</description>
+		<rom name="Chameleon (1993)(Loadstar).d64" size="174848" crc="6771404d" md5="09ded06352181140e06899de66d7da08" sha1="4fc154f5e30111686fd4af8d31be90d6af6631a4"/>
+	</game>
+	<game name="Chameleon (1993)(Loadstar)[h ASS]">
+		<description>Chameleon (1993)(Loadstar)[h ASS]</description>
+		<rom name="Chameleon (1993)(Loadstar)[h ASS].d64" size="174848" crc="bbdae23e" md5="787697f4b9ae6e7aa46dc07b85323649" sha1="a3f1f871630e3b0b2d930c42c9f4e7acce1f3fc2"/>
 	</game>
 	<game name="Collins (1993)(Loadstar - Softdisk Publishing)">
 		<description>Collins (1993)(Loadstar - Softdisk Publishing)</description>
@@ -1268,9 +1332,13 @@
 		<description>Colorado (2000)(Loadstar)</description>
 		<rom name="Colorado (2000)(Loadstar).d64" size="174848" crc="eaa4ea98" md5="1cb807e460a7b454d66da64b4937cbbe" sha1="4655e5e32646c88a1f94ba17296223621f4926f8"/>
 	</game>
-	<game name="Colossus Bridge 4 (1987)(CDS Software)[cr F4CG]">
-		<description>Colossus Bridge 4 (1987)(CDS Software)[cr F4CG]</description>
-		<rom name="Colossus Bridge 4 (1987)(CDS Software)[cr F4CG].d64" size="174848" crc="6f2e816f" md5="606aba3e1ff872f6f68788f2d01992be" sha1="5f8e40aef5e948c01d507e2167a6d53b5dc1b427"/>
+	<game name="Colossus Bridge 4 (1987)(CDS Microsystems)">
+		<description>Colossus Bridge 4 (1987)(CDS Microsystems)</description>
+		<rom name="Colossus Bridge 4 (1987)(CDS Microsystems).d64" size="174848" crc="5ff1469a" md5="e5ee4006091599852f678a84e60b4307" sha1="88582376a4282fb4f023951ef59b0ea5896dc9c4"/>
+	</game>
+	<game name="Colossus Bridge 4 (1987)(CDS Microsystems)[cr F4CG]">
+		<description>Colossus Bridge 4 (1987)(CDS Microsystems)[cr F4CG]</description>
+		<rom name="Colossus Bridge 4 (1987)(CDS Microsystems)[cr F4CG].d64" size="174848" crc="6f2e816f" md5="606aba3e1ff872f6f68788f2d01992be" sha1="5f8e40aef5e948c01d507e2167a6d53b5dc1b427"/>
 	</game>
 	<game name="Comp-u-taire (1984)(Commonwealth Computer Inc.)">
 		<description>Comp-u-taire (1984)(Commonwealth Computer Inc.)</description>
@@ -1452,9 +1520,9 @@
 		<description>CoverGirl Strip Poker (1992)(The Sales Curve)[a2]</description>
 		<rom name="CoverGirl Strip Poker (1992)(The Sales Curve)[a2].d64" size="174848" crc="7684d67d" md5="693c803caa05b7e602c465ad065cf473" sha1="ec6c029b857243967dc9b87406fd9fe0dc0412d1"/>
 	</game>
-	<game name="Crazy 8&apos;s (1980)(John O&apos;Hare)">
-		<description>Crazy 8&apos;s (1980)(John O&apos;Hare)</description>
-		<rom name="Crazy 8&apos;s (1980)(John O&apos;Hare).d64" size="174848" crc="3dc4da89" md5="3ef23f3c72e3bfe37fe93cb4924c1915" sha1="f64f9276f7a1b21fd367f982213bb1b03b7dfef0"/>
+	<game name="Crazy 8&apos;s (1980)(O&apos;Hare, John)">
+		<description>Crazy 8&apos;s (1980)(O&apos;Hare, John)</description>
+		<rom name="Crazy 8&apos;s (1980)(O&apos;Hare, John).d64" size="174848" crc="3dc4da89" md5="3ef23f3c72e3bfe37fe93cb4924c1915" sha1="f64f9276f7a1b21fd367f982213bb1b03b7dfef0"/>
 	</game>
 	<game name="Crazy Eights (1989)(Loadstar)">
 		<description>Crazy Eights (1989)(Loadstar)</description>
@@ -1500,9 +1568,13 @@
 		<description>Czar Kart (1994)(Dariusz Gierlotka)(pl)[cr RR][a2]</description>
 		<rom name="Czar Kart (1994)(Dariusz Gierlotka)(pl)[cr RR][a2].d64" size="174848" crc="d9d361d1" md5="b8fd4c2380ae00b2e6de800e385939b8" sha1="181a7f7a13a3f85297cc446993db57b41651f020"/>
 	</game>
-	<game name="Decade (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Decade (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Decade (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="d9f2103c" md5="b77f1bc55cf886d50fe8f527522d33fa" sha1="493f9dbe62ddeb3fe8fc3f2019bf774de8accc5f"/>
+	<game name="Decade (1997)(Loadstar)">
+		<description>Decade (1997)(Loadstar)</description>
+		<rom name="Decade (1997)(Loadstar).d64" size="174848" crc="8b046e94" md5="8d54536c3eabb9682b2c4e24a48d868e" sha1="2730dc56a265782e6ec40427374cc763913e49d9"/>
+	</game>
+	<game name="Decade (1997)(Loadstar)[a]">
+		<description>Decade (1997)(Loadstar)[a]</description>
+		<rom name="Decade (1997)(Loadstar)[a].d64" size="174848" crc="d9f2103c" md5="b77f1bc55cf886d50fe8f527522d33fa" sha1="493f9dbe62ddeb3fe8fc3f2019bf774de8accc5f"/>
 	</game>
 	<game name="Decent Strip Poker (demo) (1995)(Bacík, Michal)[cr CHR]">
 		<description>Decent Strip Poker (demo) (1995)(Bacík, Michal)[cr CHR]</description>
@@ -1584,13 +1656,21 @@
 		<description>Doppelkopf (198x)(Uhlenbrock, T.)(de)(PD)</description>
 		<rom name="Doppelkopf (198x)(Uhlenbrock, T.)(de)(PD).d64" size="174848" crc="59275e5e" md5="8be34f1b97b507f8b6a57b672d5e9902" sha1="4448ab5cdcd5795ff0462f5970bc43644be3a55e"/>
 	</game>
-	<game name="Double Deck Duo (1995)(Loadstar - Softdisk Publishing)">
-		<description>Double Deck Duo (1995)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Double Deck Duo (1995)(Loadstar - Softdisk Publishing).d64" size="174848" crc="629f5443" md5="63f052362d812f6b4bb253f4c6a34a13" sha1="8efb3d424e24b4cfcfa228f772fd35715a9e8abd"/>
+	<game name="Double Deck Duo (1995)(Loadstar)">
+		<description>Double Deck Duo (1995)(Loadstar)</description>
+		<rom name="Double Deck Duo (1995)(Loadstar).d64" size="174848" crc="b9c01564" md5="3f49bb98aa984569b6c22a7e81895dd7" sha1="abc97ccfc1272b7f6e3bf8302d16503effa04fbb"/>
 	</game>
-	<game name="Double or Quits (1990)(Loadstar - Softdisk Publishing)">
-		<description>Double or Quits (1990)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Double or Quits (1990)(Loadstar - Softdisk Publishing).d64" size="174848" crc="d5f469f2" md5="e8ee9c279c54b563ea0fecf08bd1bac7" sha1="68639da7f4fb7182530efc25669acf959dab2a48"/>
+	<game name="Double Deck Duo (1995)(Loadstar)[a]">
+		<description>Double Deck Duo (1995)(Loadstar)[a]</description>
+		<rom name="Double Deck Duo (1995)(Loadstar)[a].d64" size="174848" crc="629f5443" md5="63f052362d812f6b4bb253f4c6a34a13" sha1="8efb3d424e24b4cfcfa228f772fd35715a9e8abd"/>
+	</game>
+	<game name="Double or Quits (1990)(Loadstar)">
+		<description>Double or Quits (1990)(Loadstar)</description>
+		<rom name="Double or Quits (1990)(Loadstar).d64" size="174848" crc="fc813a00" md5="63ad463d46f2a026c82a5aab19cf1527" sha1="1abff004ce8727a886ea95b0004c2bf1bf8ad81e"/>
+	</game>
+	<game name="Double or Quits (1990)(Loadstar)[a]">
+		<description>Double or Quits (1990)(Loadstar)[a]</description>
+		<rom name="Double or Quits (1990)(Loadstar)[a].d64" size="174848" crc="d5f469f2" md5="e8ee9c279c54b563ea0fecf08bd1bac7" sha1="68639da7f4fb7182530efc25669acf959dab2a48"/>
 	</game>
 	<game name="Double Solitaire (1992)(Mike Pugliese, Garry Stewart &amp; Bob Burns)">
 		<description>Double Solitaire (1992)(Mike Pugliese, Garry Stewart &amp; Bob Burns)</description>
@@ -1603,6 +1683,10 @@
 	<game name="Draw Poker (1982)(Avalon Hill)">
 		<description>Draw Poker (1982)(Avalon Hill)</description>
 		<rom name="Draw Poker (1982)(Avalon Hill).d64" size="174848" crc="2186b3c7" md5="459f5c9943979d0929cf677f5e294073" sha1="b8e7411742fca1680fba3e0397b555f10b38854b"/>
+	</game>
+	<game name="Draw Poker (1982)(Elizer, Ben)">
+		<description>Draw Poker (1982)(Elizer, Ben)</description>
+		<rom name="Draw Poker (1982)(Elizer, Ben).d64" size="174848" crc="1e6629c1" md5="d3b9248c3b61ab2856e61310f3b84d2c" sha1="0fa6e16c5955558347c6c2ab30e62fa86b07ba3a"/>
 	</game>
 	<game name="Draw Poker (1983)(Comptor Software)">
 		<description>Draw Poker (1983)(Comptor Software)</description>
@@ -1716,9 +1800,13 @@
 		<description>Duo (1989)(RUN-IDG Communications)</description>
 		<rom name="Duo (1989)(RUN-IDG Communications).d64" size="174848" crc="e2a969a5" md5="8763834f2c00311d969a6a88377e85ba" sha1="bd842f0e5c8309930af9fbf8003eb2b2b957ec1c"/>
 	</game>
-	<game name="Eagle Wing (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Eagle Wing (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Eagle Wing (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="49b9d4f0" md5="3a50e52d78d0a7ca3f461a61bc437269" sha1="27aa043b169b90d6657e82f9e15f3ec44bf416ba"/>
+	<game name="Eagle Wing (1997)(Loadstar)">
+		<description>Eagle Wing (1997)(Loadstar)</description>
+		<rom name="Eagle Wing (1997)(Loadstar).d64" size="174848" crc="7d6563fc" md5="2481194de5e3bdbbb670422b7c4c06b2" sha1="f5a494ca876f977aa3e1df5912a35b4083a23e31"/>
+	</game>
+	<game name="Eagle Wing (1997)(Loadstar)[a]">
+		<description>Eagle Wing (1997)(Loadstar)[a]</description>
+		<rom name="Eagle Wing (1997)(Loadstar)[a].d64" size="174848" crc="49b9d4f0" md5="3a50e52d78d0a7ca3f461a61bc437269" sha1="27aa043b169b90d6657e82f9e15f3ec44bf416ba"/>
 	</game>
 	<game name="Eenentwintig (19xx)(-)(nl)">
 		<description>Eenentwintig (19xx)(-)(nl)</description>
@@ -1732,13 +1820,49 @@
 		<description>Een-En-Twintigen (19xx)(Hans Brugman)(nl)</description>
 		<rom name="Een-En-Twintigen (19xx)(Hans Brugman)(nl).d64" size="174848" crc="bd779942" md5="bd679b600d599a84f6d8a2bc2c70b2c4" sha1="4e608a6bd925044f5884cda4df3d64b9ed467c3d"/>
 	</game>
-	<game name="Eight Off (1998)(Loadstar - J &amp; F Publishing)">
-		<description>Eight Off (1998)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Eight Off (1998)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="9949af3f" md5="4d8391b3a04eb82fd75cbe5f10ac7c73" sha1="469df35b8f7ccef1bd24d6c3cf6894540b8d37ee"/>
+	<game name="Eight Off (1998)(Loadstar)">
+		<description>Eight Off (1998)(Loadstar)</description>
+		<rom name="Eight Off (1998)(Loadstar).d64" size="174848" crc="63c16f61" md5="31e7b160a9935f832edfa4becd459f1e" sha1="ae72640c36d090f80f67c8bc350aa3b51e481fc9"/>
 	</game>
-	<game name="Eights for One (1993)(Loadstar - Softdisk Publishing)">
-		<description>Eights for One (1993)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Eights for One (1993)(Loadstar - Softdisk Publishing).d64" size="174848" crc="d7dccef6" md5="43924e676d1688aa7bcd5aedc8773c38" sha1="d45386ecc3217a854db3d0c7e7c017bc49275957"/>
+	<game name="Eight Off (1998)(Loadstar)[a]">
+		<description>Eight Off (1998)(Loadstar)[a]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a].d64" size="174848" crc="d9f226f6" md5="32356012050b64890947ac96e2c0bc47" sha1="dd674138140dd71ab18162e377501a6cada6b324"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a2]">
+		<description>Eight Off (1998)(Loadstar)[a2]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a2].d64" size="174848" crc="24802ad2" md5="3ee128f09babd16c508faaf846133cbd" sha1="8d643556b1d2b1fffa1e9d0e123518546657c322"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a3]">
+		<description>Eight Off (1998)(Loadstar)[a3]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a3].d64" size="174848" crc="9949af3f" md5="4d8391b3a04eb82fd75cbe5f10ac7c73" sha1="469df35b8f7ccef1bd24d6c3cf6894540b8d37ee"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a4]">
+		<description>Eight Off (1998)(Loadstar)[a4]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a4].d64" size="174848" crc="3669383d" md5="702cb9624ca33268afc4debbe0fff8aa" sha1="787e913a7655df285261c6f13d2b215f55dce5a0"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a5]">
+		<description>Eight Off (1998)(Loadstar)[a5]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a5].d64" size="174848" crc="8bf15f2c" md5="9e3b3acee06875bd34e5daac2bb46f70" sha1="41f07e703411a386f506f34ce25b390d02eccab4"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a6]">
+		<description>Eight Off (1998)(Loadstar)[a6]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a6].d64" size="174848" crc="ae20201d" md5="af50c16e8a6dde44d353201a8ac5bb76" sha1="e48ebe01d64d46bd03a6511999d72d2362a6b89a"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a7]">
+		<description>Eight Off (1998)(Loadstar)[a7]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a7].d64" size="174848" crc="25a1da62" md5="b8fcb1433c602c6fb7248868c29220a2" sha1="de7d4dd5c7fea916e81bdf7aca11e710edf57b1d"/>
+	</game>
+	<game name="Eight Off (1998)(Loadstar)[a8]">
+		<description>Eight Off (1998)(Loadstar)[a8]</description>
+		<rom name="Eight Off (1998)(Loadstar)[a8].d64" size="174848" crc="f378ddbb" md5="f6ee801a46ed62bec462912077b60628" sha1="f85116f116788bb3d26e6bec73e20c830702a115"/>
+	</game>
+	<game name="Eights for One (1993)(Loadstar)">
+		<description>Eights for One (1993)(Loadstar)</description>
+		<rom name="Eights for One (1993)(Loadstar).d64" size="174848" crc="d7dccef6" md5="43924e676d1688aa7bcd5aedc8773c38" sha1="d45386ecc3217a854db3d0c7e7c017bc49275957"/>
+	</game>
+	<game name="Eights for One (1993)(Loadstar)[a]">
+		<description>Eights for One (1993)(Loadstar)[a]</description>
+		<rom name="Eights for One (1993)(Loadstar)[a].d64" size="174848" crc="75dc1a5c" md5="f0c2e8620a3ced67c96ed13216385c26" sha1="6dbfff887e8b394a284b962df799313854b25280"/>
 	</game>
 	<game name="Elevens (19xx)(Loadstar)">
 		<description>Elevens (19xx)(Loadstar)</description>
@@ -1748,6 +1872,10 @@
 		<description>Euchre (1985)(Gold Disk)</description>
 		<rom name="Euchre (1985)(Gold Disk).d64" size="174848" crc="c76866e7" md5="314e178cdb86be9be0d3767afe8855fe" sha1="b8ce5e05666db2fcc49876a1c7fdf57def051b5c"/>
 	</game>
+	<game name="Euchre (1985)(Gold Disk)[a]">
+		<description>Euchre (1985)(Gold Disk)[a]</description>
+		<rom name="Euchre (1985)(Gold Disk)[a].d64" size="174848" crc="8c902a17" md5="4183a1f6d2da5b695be96fe81b17b45d" sha1="d792285101193ce30f1a21329615925b3e3067d7"/>
+	</game>
 	<game name="Euchre (1987)(Compute!)">
 		<description>Euchre (1987)(Compute!)</description>
 		<rom name="Euchre (1987)(Compute!).d64" size="174848" crc="5fb136f0" md5="3db475ae0dc0b201652c6f5d0ba2ed94" sha1="a1f021680213c61c7e7472c3cfb952b58abef514"/>
@@ -1756,9 +1884,13 @@
 		<description>Euchre (2000)(Loadstar)</description>
 		<rom name="Euchre (2000)(Loadstar).d64" size="174848" crc="58b34dd0" md5="0483139e4dddcf18bfb8636ce6a7c731" sha1="a39403259e2df7f0389b9e1ba5737917458dc53e"/>
 	</game>
-	<game name="FDR&apos;s Favorite (1997)(Loadstar - J &amp; F Publishing)">
-		<description>FDR&apos;s Favorite (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="FDR&apos;s Favorite (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="2c7edffc" md5="714e33471cd86e8eee0d2cb7163bdd66" sha1="19ac351b226c0713d82f2e388096309359598937"/>
+	<game name="FDR&apos;s Favorite (1997)(Loadstar)">
+		<description>FDR&apos;s Favorite (1997)(Loadstar)</description>
+		<rom name="FDR&apos;s Favorite (1997)(Loadstar).d64" size="174848" crc="2c7edffc" md5="714e33471cd86e8eee0d2cb7163bdd66" sha1="19ac351b226c0713d82f2e388096309359598937"/>
+	</game>
+	<game name="FDR&apos;s Favorite (1997)(Loadstar)[a]">
+		<description>FDR&apos;s Favorite (1997)(Loadstar)[a]</description>
+		<rom name="FDR&apos;s Favorite (1997)(Loadstar)[a].d64" size="174848" crc="cb3ebf95" md5="ba3120e2f85156be58e51f38c3b4fe12" sha1="35d76b8d3998d1f671b9c9795aa80576a53cfc4f"/>
 	</game>
 	<game name="Fever - Blackjack System Counting Program (1983)(Metaphase)">
 		<description>Fever - Blackjack System Counting Program (1983)(Metaphase)</description>
@@ -1808,17 +1940,25 @@
 		<description>Five Card Stud (1983)(G. Adams)[a]</description>
 		<rom name="Five Card Stud (1983)(G. Adams)[a].d64" size="174848" crc="26652c67" md5="a29e044fc2f46346380d9d3a11ad09b4" sha1="d0f3d6de7793ad5bc3435fc0cce2e6d178eecdd1"/>
 	</game>
-	<game name="Flower Garden (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Flower Garden (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Flower Garden (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="5da0908d" md5="de37fe604a9ccb5e7a3f706fb2d4b465" sha1="d9c98bb22db6ee978735921ef6addc4523a849b7"/>
+	<game name="Flower Garden (1997)(Loadstar)">
+		<description>Flower Garden (1997)(Loadstar)</description>
+		<rom name="Flower Garden (1997)(Loadstar).d64" size="174848" crc="1d0210de" md5="c40e66c74aea5c1b8d1c3313665cb679" sha1="c33bb5af9dcce2da781b72382697cf9df5f32bb7"/>
+	</game>
+	<game name="Flower Garden (1997)(Loadstar)[a]">
+		<description>Flower Garden (1997)(Loadstar)[a]</description>
+		<rom name="Flower Garden (1997)(Loadstar)[a].d64" size="174848" crc="5da0908d" md5="de37fe604a9ccb5e7a3f706fb2d4b465" sha1="d9c98bb22db6ee978735921ef6addc4523a849b7"/>
 	</game>
 	<game name="Fortress-Fives (1999)(Loadstar)">
 		<description>Fortress-Fives (1999)(Loadstar)</description>
 		<rom name="Fortress-Fives (1999)(Loadstar).d64" size="174848" crc="22c404b5" md5="ff95adf92ef57daaaf0afdf30a791751" sha1="a73903c401c47ed0e0564c634c542c9bb00299ac"/>
 	</game>
-	<game name="Fortune&apos;s Favor (2000)(Loadstar - J &amp; F Publishing)">
-		<description>Fortune&apos;s Favor (2000)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Fortune&apos;s Favor (2000)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="bc7a8784" md5="72041bc8ff6f5d430ee5bdf462cf7f44" sha1="4f71628a835e9c6824e56cf1b8d2f19f7936e4ee"/>
+	<game name="Fortune&apos;s Favor (2000)(Loadstar)">
+		<description>Fortune&apos;s Favor (2000)(Loadstar)</description>
+		<rom name="Fortune&apos;s Favor (2000)(Loadstar).d64" size="174848" crc="bc7a8784" md5="72041bc8ff6f5d430ee5bdf462cf7f44" sha1="4f71628a835e9c6824e56cf1b8d2f19f7936e4ee"/>
+	</game>
+	<game name="Fortune&apos;s Favor (2000)(Loadstar)[a]">
+		<description>Fortune&apos;s Favor (2000)(Loadstar)[a]</description>
+		<rom name="Fortune&apos;s Favor (2000)(Loadstar)[a].d64" size="174848" crc="9de8057f" md5="8dd0de6e8d58e33fbb0aa7be3005da16" sha1="2b6bcce9ecb5623d8ac226e3b703356b69a7de6e"/>
 	</game>
 	<game name="Four Corners (1990)(Loadstar - Softdisk Publishing)">
 		<description>Four Corners (1990)(Loadstar - Softdisk Publishing)</description>
@@ -1852,13 +1992,21 @@
 		<description>Fourcell (1997)(R. Trissel)[cr ORI][f NTSC][a]</description>
 		<rom name="Fourcell (1997)(R. Trissel)[cr ORI][f NTSC][a].d64" size="174848" crc="343546a3" md5="4ca1cb782e57c22042a6cc9fa1f94b44" sha1="955c4c7e9c6da3e7a50772498ae11b0a5b1f5133"/>
 	</game>
-	<game name="Fourteens (1992)(Loadstar - Softdisk Publishing)">
-		<description>Fourteens (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Fourteens (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="25342edd" md5="250a666a54eee8dc2730843e3020ac7b" sha1="bd44dcf9194b07d8ea953ef4395e9458bafbd4a6"/>
+	<game name="Fourteens (1992)(Loadstar)">
+		<description>Fourteens (1992)(Loadstar)</description>
+		<rom name="Fourteens (1992)(Loadstar).d64" size="174848" crc="25342edd" md5="250a666a54eee8dc2730843e3020ac7b" sha1="bd44dcf9194b07d8ea953ef4395e9458bafbd4a6"/>
 	</game>
-	<game name="Freecell (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Freecell (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Freecell (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="e57c07f7" md5="7864da3a57edf5cad78544798a28e632" sha1="8e8aa26bc90d22a5e3efaf981bc5d8a6c2e1eb50"/>
+	<game name="Fourteens (1992)(Loadstar)[a]">
+		<description>Fourteens (1992)(Loadstar)[a]</description>
+		<rom name="Fourteens (1992)(Loadstar)[a].d64" size="174848" crc="a20a823d" md5="5e46374ae436961b98994c86f67361cc" sha1="be094e5d5a65f26c01081650512d37d713b79304"/>
+	</game>
+	<game name="Freecell (1997)(Loadstar)">
+		<description>Freecell (1997)(Loadstar)</description>
+		<rom name="Freecell (1997)(Loadstar).d64" size="174848" crc="e57c07f7" md5="7864da3a57edf5cad78544798a28e632" sha1="8e8aa26bc90d22a5e3efaf981bc5d8a6c2e1eb50"/>
+	</game>
+	<game name="Freecell (1997)(Loadstar)[a]">
+		<description>Freecell (1997)(Loadstar)[a]</description>
+		<rom name="Freecell (1997)(Loadstar)[a].d64" size="174848" crc="52bf1b38" md5="cfb3e67c9423aad20ef82be4334f964b" sha1="8f73c16e75055f3230146aaf9f323c17a9070c23"/>
 	</game>
 	<game name="Freecell (2005)(Braun, J.)">
 		<description>Freecell (2005)(Braun, J.)</description>
@@ -2448,6 +2596,10 @@
 		<description>King Albert (2000)(Loadstar)[a]</description>
 		<rom name="King Albert (2000)(Loadstar)[a].d64" size="174848" crc="db5cf1ea" md5="36c0d85329856c3a11f1ce458a65fcc1" sha1="29dc9efea87ba3391930472bc285001c624d13c2"/>
 	</game>
+	<game name="King Cribbage (1983)(Hayden Book Company)">
+		<description>King Cribbage (1983)(Hayden Book Company)</description>
+		<rom name="King Cribbage (1983)(Hayden Book Company).d64" size="174848" crc="63bb874e" md5="5d082d66007802296ab2165bd4ce3a4c" sha1="6e7bebfa8172331268d0b0e2c23df4cac42388b7"/>
+	</game>
 	<game name="King&apos;s Audience (1999)(Loadstar - J &amp; F Publishing)">
 		<description>King&apos;s Audience (1999)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="King&apos;s Audience (1999)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="15e5c10e" md5="3e10c4c7cd3a198f12b13474c9ae7e06" sha1="057154921c123e0f6e2e0a5c2cffe5e2548b6c17"/>
@@ -2468,9 +2620,13 @@
 		<description>Klondike (1986)(Compute!)[a2]</description>
 		<rom name="Klondike (1986)(Compute!)[a2].d64" size="174848" crc="5523a400" md5="f9d7336e6e470c57df25240fb2f688b4" sha1="34a71d0d62c0367286823ecc41bd337cb553b64e"/>
 	</game>
-	<game name="Klondike 1992 (1992)(Loadstar - Softdisk Publishing)">
-		<description>Klondike 1992 (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Klondike 1992 (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="f2752ec5" md5="4d340b7665b5c54ef954fd87a4fab574" sha1="28b187bca1a1a8d7b025b5558c0ac2f1c4e4bc4d"/>
+	<game name="Klondike 1992 (1992)(Loadstar)">
+		<description>Klondike 1992 (1992)(Loadstar)</description>
+		<rom name="Klondike 1992 (1992)(Loadstar).d64" size="174848" crc="0b8fff93" md5="02e5f0db6ec7bdf28ef1f61e9901f28f" sha1="e1e263d61ca2340c180d42cd0a7c2d6fa38beec1"/>
+	</game>
+	<game name="Klondike 1992 (1992)(Loadstar)[a]">
+		<description>Klondike 1992 (1992)(Loadstar)[a]</description>
+		<rom name="Klondike 1992 (1992)(Loadstar)[a].d64" size="174848" crc="f2752ec5" md5="4d340b7665b5c54ef954fd87a4fab574" sha1="28b187bca1a1a8d7b025b5558c0ac2f1c4e4bc4d"/>
 	</game>
 	<game name="Klondike 2000 (2000)(Loadstar - J &amp; F Publishing)">
 		<description>Klondike 2000 (2000)(Loadstar - J &amp; F Publishing)</description>
@@ -2536,9 +2692,13 @@
 		<description>Limited (1999)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="Limited (1999)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="d58f3987" md5="29ce08a96a82ba390a9e4d76300d8e35" sha1="d401df13cfe772ddeb7abffaa6d0c889dc4d5d54"/>
 	</game>
-	<game name="Little Spider (1996)(Loadstar - J &amp; F Publishing)">
-		<description>Little Spider (1996)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Little Spider (1996)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="53240b1b" md5="353109921f164f9a4d51a88f3105c11e" sha1="93f5066d1d62311f8cc63cd81ce50663048d65d9"/>
+	<game name="Little Spider (1996)(Loadstar)">
+		<description>Little Spider (1996)(Loadstar)</description>
+		<rom name="Little Spider (1996)(Loadstar).d64" size="174848" crc="53240b1b" md5="353109921f164f9a4d51a88f3105c11e" sha1="93f5066d1d62311f8cc63cd81ce50663048d65d9"/>
+	</game>
+	<game name="Little Spider (1996)(Loadstar)[a]">
+		<description>Little Spider (1996)(Loadstar)[a]</description>
+		<rom name="Little Spider (1996)(Loadstar)[a].d64" size="174848" crc="2922c3d1" md5="8b56fd512da924c41bd01a11ad55b0cb" sha1="8773bd8e7851d19cee31431a93bda57c1411254c"/>
 	</game>
 	<game name="Magic Poker 64 (1989)(CP Verlag)">
 		<description>Magic Poker 64 (1989)(CP Verlag)</description>
@@ -2584,9 +2744,13 @@
 		<description>Mau-Mau (1990)(Commodore Disc)(de)</description>
 		<rom name="Mau-Mau (1990)(Commodore Disc)(de).d64" size="174848" crc="fc7643ba" md5="f0c606a4156ce1067a341eaf69dab881" sha1="562a89d33972d3fcb0b16ffcd88a929514933e31"/>
 	</game>
-	<game name="Michael&apos;s Puzzles (1993)(Loadstar - Softdisk Publishing)">
-		<description>Michael&apos;s Puzzles (1993)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Michael&apos;s Puzzles (1993)(Loadstar - Softdisk Publishing).d64" size="174848" crc="adc3d266" md5="95f18bc4463a0ccb56482a13c3a43fa0" sha1="b7ed1b88a78fe892d6f53ea9fee5714b8d427a2b"/>
+	<game name="Michael&apos;s Puzzles (1993)(Loadstar)">
+		<description>Michael&apos;s Puzzles (1993)(Loadstar)</description>
+		<rom name="Michael&apos;s Puzzles (1993)(Loadstar).d64" size="174848" crc="adc3d266" md5="95f18bc4463a0ccb56482a13c3a43fa0" sha1="b7ed1b88a78fe892d6f53ea9fee5714b8d427a2b"/>
+	</game>
+	<game name="Michael&apos;s Puzzles (1993)(Loadstar)[a]">
+		<description>Michael&apos;s Puzzles (1993)(Loadstar)[a]</description>
+		<rom name="Michael&apos;s Puzzles (1993)(Loadstar)[a].d64" size="174848" crc="443d9eba" md5="a7950076905af3cba373cbd3130e7977" sha1="99464427f537a432b33c078bbc478fd0e174712e"/>
 	</game>
 	<game name="Mille Bornes (1993)(Compute!)">
 		<description>Mille Bornes (1993)(Compute!)</description>
@@ -2708,6 +2872,10 @@
 		<description>Parisienne (2000)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="Parisienne (2000)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="b771f72e" md5="ef948350f1c456ed62b416bf5fb853c1" sha1="f9a0f1dfbf10d69b6df1e008a700855fc757696d"/>
 	</game>
+	<game name="Patience - The Game of 7&apos;s (1987)(Wicked Software)">
+		<description>Patience - The Game of 7&apos;s (1987)(Wicked Software)</description>
+		<rom name="Patience - The Game of 7&apos;s (1987)(Wicked Software).d64" size="174848" crc="4721e338" md5="8aacb38be33e44cf7b746ed1f54993b0" sha1="ab1b038cbd5a8e09b05e92d492b681d9d3c17534"/>
+	</game>
 	<game name="Patience (1983)(M.J. Line)">
 		<description>Patience (1983)(M.J. Line)</description>
 		<rom name="Patience (1983)(M.J. Line).d64" size="174848" crc="7d279ed4" md5="26a53677bf709c878649a56a503ca610" sha1="5cbffc9fd1e50a577c1cb5cac1e4707cba0c3941"/>
@@ -2732,25 +2900,25 @@
 		<description>Patience (1987)(Mockford, Bob)(PD)</description>
 		<rom name="Patience (1987)(Mockford, Bob)(PD).d64" size="174848" crc="1bff2eae" md5="17b74fe407f96ec9d61b8ef9638781b3" sha1="9384a5b4e3c26e025c4d467807532bdfd31c079f"/>
 	</game>
-	<game name="Patience (1987)(Mockford, Bob)[cr Dominators]">
-		<description>Patience (1987)(Mockford, Bob)[cr Dominators]</description>
-		<rom name="Patience (1987)(Mockford, Bob)[cr Dominators].d64" size="174848" crc="d0ae7b26" md5="133c09b9c206c687d0f32aec5a7e1742" sha1="8fc33c8467e20b419b8f9b42c6ef3e371bfb454e"/>
+	<game name="Patience (1987)(Mockford, Bob)(PD)[cr Dominators]">
+		<description>Patience (1987)(Mockford, Bob)(PD)[cr Dominators]</description>
+		<rom name="Patience (1987)(Mockford, Bob)(PD)[cr Dominators].d64" size="174848" crc="d0ae7b26" md5="133c09b9c206c687d0f32aec5a7e1742" sha1="8fc33c8467e20b419b8f9b42c6ef3e371bfb454e"/>
 	</game>
-	<game name="Patience (1987)(Mockford, Bob)[cr Dram]">
-		<description>Patience (1987)(Mockford, Bob)[cr Dram]</description>
-		<rom name="Patience (1987)(Mockford, Bob)[cr Dram].d64" size="174848" crc="c863546c" md5="3b007d72306e3f90e0c7b024178d406b" sha1="59be3d1fc71425cee6965b6a4b967885aed1ebbd"/>
+	<game name="Patience (1987)(Mockford, Bob)(PD)[cr Dram]">
+		<description>Patience (1987)(Mockford, Bob)(PD)[cr Dram]</description>
+		<rom name="Patience (1987)(Mockford, Bob)(PD)[cr Dram].d64" size="174848" crc="c863546c" md5="3b007d72306e3f90e0c7b024178d406b" sha1="59be3d1fc71425cee6965b6a4b967885aed1ebbd"/>
 	</game>
-	<game name="Patience (1987)(Mockford, Bob)[cr Gods]">
-		<description>Patience (1987)(Mockford, Bob)[cr Gods]</description>
-		<rom name="Patience (1987)(Mockford, Bob)[cr Gods].d64" size="174848" crc="f016d478" md5="3007ffbc62dd9c63a4aa8bb7ab70d8f2" sha1="342afc5ad9f1133a9b1764d0a059111456d0738a"/>
+	<game name="Patience (1987)(Mockford, Bob)(PD)[cr Gods]">
+		<description>Patience (1987)(Mockford, Bob)(PD)[cr Gods]</description>
+		<rom name="Patience (1987)(Mockford, Bob)(PD)[cr Gods].d64" size="174848" crc="f016d478" md5="3007ffbc62dd9c63a4aa8bb7ab70d8f2" sha1="342afc5ad9f1133a9b1764d0a059111456d0738a"/>
 	</game>
-	<game name="Patience (1987)(Mockford, Bob)[cr Paramount - Tribe]">
-		<description>Patience (1987)(Mockford, Bob)[cr Paramount - Tribe]</description>
-		<rom name="Patience (1987)(Mockford, Bob)[cr Paramount - Tribe].d64" size="174848" crc="f1bfab24" md5="f4b6e6504bcd470f0d6a423acef48a72" sha1="991ffa81acf17d62a0b402e6f39056617a09b37d"/>
+	<game name="Patience (1987)(Mockford, Bob)(PD)[cr Paramount - Tribe]">
+		<description>Patience (1987)(Mockford, Bob)(PD)[cr Paramount - Tribe]</description>
+		<rom name="Patience (1987)(Mockford, Bob)(PD)[cr Paramount - Tribe].d64" size="174848" crc="f1bfab24" md5="f4b6e6504bcd470f0d6a423acef48a72" sha1="991ffa81acf17d62a0b402e6f39056617a09b37d"/>
 	</game>
-	<game name="Patience (1987)(Mockford, Bob)[cr Xfactor]">
-		<description>Patience (1987)(Mockford, Bob)[cr Xfactor]</description>
-		<rom name="Patience (1987)(Mockford, Bob)[cr Xfactor].d64" size="174848" crc="bdf262d4" md5="811266083128c4dad9700f0b2446287c" sha1="87640b86f636930a2e8ea50bd2edfed7c234dd16"/>
+	<game name="Patience (1987)(Mockford, Bob)(PD)[cr Xfactor]">
+		<description>Patience (1987)(Mockford, Bob)(PD)[cr Xfactor]</description>
+		<rom name="Patience (1987)(Mockford, Bob)(PD)[cr Xfactor].d64" size="174848" crc="bdf262d4" md5="811266083128c4dad9700f0b2446287c" sha1="87640b86f636930a2e8ea50bd2edfed7c234dd16"/>
 	</game>
 	<game name="Patience (1989)(CP Verlag)">
 		<description>Patience (1989)(CP Verlag)</description>
@@ -2884,6 +3052,34 @@
 		<description>Poker 256 (1984)(Compute!)[a]</description>
 		<rom name="Poker 256 (1984)(Compute!)[a].d64" size="174848" crc="c1ada9c0" md5="f9837bc6ad99e12bc90e8c2afe1144fc" sha1="f6c97073e918a9c959e1f945683dcb1eaa9185a5"/>
 	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic]">
+		<description>Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic].d64" size="174848" crc="4184d63e" md5="00d6511762013f727450036350dea57e" sha1="9ae057da39307c4c89ba6665680c0e2bf8889454"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a]">
+		<description>Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a].d64" size="174848" crc="8b9f0d26" md5="2811eb466ca5023203c8e1403bd26938" sha1="3c0ebf83066efa1c4043f91b9df8ae7845eeb8c1"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a2]">
+		<description>Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a2]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a2].d64" size="174848" crc="f9861f47" md5="4baeb5b144dcd9e13713912fd895a1ec" sha1="05636146e35184867b2aed6208d55695e4b5ce55"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a3]">
+		<description>Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a3]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a3].d64" size="174848" crc="3786525b" md5="f1fe759c7c159d7c388d434ba4e8887d" sha1="d80354363cc20b078ec6846b31d8c48df6f317c8"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)[cr TAU - TLB]">
+		<description>Poker 4 (1987)(Systems Editoriale)[cr TAU - TLB]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)[cr TAU - TLB].d64" size="174848" crc="55dffcd9" md5="704636ca47914d6e3f0d51676d02214c" sha1="1f30d4184fbd4c15ef69609ef71fef49fe80286a"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)[cr TAU - TLB][a]">
+		<description>Poker 4 (1987)(Systems Editoriale)[cr TAU - TLB][a]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)[cr TAU - TLB][a].d64" size="174848" crc="83c41def" md5="760f8bc93fb6a5bd9f754f3be2a7dd8f" sha1="36a0a3a1d722975f66f0d8d0fcaedacec3d688da"/>
+	</game>
+	<game name="Poker 4 (1987)(Systems Editoriale)[cr TAU]">
+		<description>Poker 4 (1987)(Systems Editoriale)[cr TAU]</description>
+		<rom name="Poker 4 (1987)(Systems Editoriale)[cr TAU].d64" size="174848" crc="7eff5f48" md5="757965133dc36e2f79ef616a2f64c7de" sha1="f09c2bef6b48421574f962e506b85af0bc2f0165"/>
+	</game>
 	<game name="Poker Indiano (1984)(Editrice Softwell - Computer Games &amp; Utilties)(it)">
 		<description>Poker Indiano (1984)(Editrice Softwell - Computer Games &amp; Utilties)(it)</description>
 		<rom name="Poker Indiano (1984)(Editrice Softwell - Computer Games &amp; Utilties)(it).d64" size="174848" crc="c45b482d" md5="c0ad81de6d726e77140e3c111ae05a2a" sha1="9e936913d8c89229046741d0557331a31af1b9e5"/>
@@ -2988,9 +3184,13 @@
 		<description>Profiskat (1987)(S+S Soft)(de)[a]</description>
 		<rom name="Profiskat (1987)(S+S Soft)(de)[a].d64" size="174848" crc="5ba0f263" md5="50100e6a99e1f9992be58ce3ca9a94a2" sha1="db00fcd0de420de61345b4279a7a39213a20d591"/>
 	</game>
-	<game name="Propeller (1996)(Loadstar - J &amp; F Publishing)">
-		<description>Propeller (1996)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Propeller (1996)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="24ea47ac" md5="b3254d12d11e9544893ad1100b2c5304" sha1="3e3a7ee85cabdd9241900ff75394ba6965eac59a"/>
+	<game name="Propeller (1996)(Loadstar)">
+		<description>Propeller (1996)(Loadstar)</description>
+		<rom name="Propeller (1996)(Loadstar).d64" size="174848" crc="bf4b6356" md5="1fd0f994f0a6685bc9f67d0edc800d32" sha1="00fa0b3d4770972c75d988afcf726f39a34ad2b5"/>
+	</game>
+	<game name="Propeller (1996)(Loadstar)[a]">
+		<description>Propeller (1996)(Loadstar)[a]</description>
+		<rom name="Propeller (1996)(Loadstar)[a].d64" size="174848" crc="24ea47ac" md5="b3254d12d11e9544893ad1100b2c5304" sha1="3e3a7ee85cabdd9241900ff75394ba6965eac59a"/>
 	</game>
 	<game name="Puss in Corner (1990)(Loadstar - Softdisk Publishing)">
 		<description>Puss in Corner (1990)(Loadstar - Softdisk Publishing)</description>
@@ -3020,9 +3220,13 @@
 		<description>Roll Call (2000)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="Roll Call (2000)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="51792684" md5="d0c228024793f00269832da8c0c85958" sha1="5e80579b0434b6c277a8de4524258e7eb14cabcc"/>
 	</game>
-	<game name="Rotato Poker (1993)(Loadstar - Softdisk Publishing)">
-		<description>Rotato Poker (1993)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Rotato Poker (1993)(Loadstar - Softdisk Publishing).d64" size="174848" crc="0e4001fe" md5="ccebad829634508684a1850a6ac93438" sha1="9f939d921134891c39a49cca16116ff973031556"/>
+	<game name="Rotato Poker (1993)(Loadstar)">
+		<description>Rotato Poker (1993)(Loadstar)</description>
+		<rom name="Rotato Poker (1993)(Loadstar).d64" size="174848" crc="3a83479b" md5="4339734f58b52268e0b645d25561c6f5" sha1="17baddc0db8c1159babfe0a9db12c43a4987faac"/>
+	</game>
+	<game name="Rotato Poker (1993)(Loadstar)[a]">
+		<description>Rotato Poker (1993)(Loadstar)[a]</description>
+		<rom name="Rotato Poker (1993)(Loadstar)[a].d64" size="174848" crc="0e4001fe" md5="ccebad829634508684a1850a6ac93438" sha1="9f939d921134891c39a49cca16116ff973031556"/>
 	</game>
 	<game name="Rouge et Noir (19xx)(Loadstar - J &amp; F Publishing)">
 		<description>Rouge et Noir (19xx)(Loadstar - J &amp; F Publishing)</description>
@@ -3152,9 +3356,13 @@
 		<description>Scorpion-II (1988)(Compute!)</description>
 		<rom name="Scorpion-II (1988)(Compute!).d64" size="174848" crc="02ba4571" md5="c39f378170e2fb4029425077caa4e9fb" sha1="8b9d48a3da8786b123f8d1fe0df51334be74f42c"/>
 	</game>
-	<game name="See-64 (1997)(Loadstar - J &amp; F Publishing)">
-		<description>See-64 (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="See-64 (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="4263565e" md5="8d3675b6390e10c6b134afdb8e48a6ee" sha1="ff47329ce391344a1801feb93215a8ab0837e727"/>
+	<game name="See-64 (1997)(Loadstar)">
+		<description>See-64 (1997)(Loadstar)</description>
+		<rom name="See-64 (1997)(Loadstar).d64" size="174848" crc="4263565e" md5="8d3675b6390e10c6b134afdb8e48a6ee" sha1="ff47329ce391344a1801feb93215a8ab0837e727"/>
+	</game>
+	<game name="See-64 (1997)(Loadstar)[a]">
+		<description>See-64 (1997)(Loadstar)[a]</description>
+		<rom name="See-64 (1997)(Loadstar)[a].d64" size="174848" crc="955faf0d" md5="b94d409efa5c351704c470191bdbae6d" sha1="ec3413560b6a5c51ba3f7e270d218b5cd250ad04"/>
 	</game>
 	<game name="Seven Up (19xx)(Loadstar - J &amp; F Publishing)">
 		<description>Seven Up (19xx)(Loadstar - J &amp; F Publishing)</description>
@@ -3176,9 +3384,13 @@
 		<description>Silicon Slick&apos;s Lowball Draw Poker (1984)(Mohr, Charles)</description>
 		<rom name="Silicon Slick&apos;s Lowball Draw Poker (1984)(Mohr, Charles).d64" size="174848" crc="f9c411a9" md5="3332213b8ccadc05f09f65fd0d394fee" sha1="99b886d4457a1d57e17f62f8046b0ac9817e9694"/>
 	</game>
-	<game name="Simplicity (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Simplicity (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Simplicity (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="2dae6ae5" md5="b6873b739cc5ddf7c654f4888f3ca032" sha1="7361aab8767a9e05bdc7bb627c44dbc2a4f8aa27"/>
+	<game name="Simplicity (1997)(Loadstar)">
+		<description>Simplicity (1997)(Loadstar)</description>
+		<rom name="Simplicity (1997)(Loadstar).d64" size="174848" crc="2dae6ae5" md5="b6873b739cc5ddf7c654f4888f3ca032" sha1="7361aab8767a9e05bdc7bb627c44dbc2a4f8aa27"/>
+	</game>
+	<game name="Simplicity (1997)(Loadstar)[a]">
+		<description>Simplicity (1997)(Loadstar)[a]</description>
+		<rom name="Simplicity (1997)(Loadstar)[a].d64" size="174848" crc="615564af" md5="f08da97440f9dc2f0028797bba4226c9" sha1="7117945bfd80d6e9eda610f2a5b346d940c536ab"/>
 	</game>
 	<game name="Sir Tommy - A Game of Old Patience (1988)(Loadstar)">
 		<description>Sir Tommy - A Game of Old Patience (1988)(Loadstar)</description>
@@ -3212,9 +3424,17 @@
 		<description>Slavic Law (2000)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="Slavic Law (2000)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="95303ef2" md5="03ed5ad1738d1b04c7b57ffe91a078c4" sha1="e64144e91561eadf0bda327b3ce2cbbb0c09ca0d"/>
 	</game>
-	<game name="Slide Poker (1993)(Loadstar - Softdisk Publishing)">
-		<description>Slide Poker (1993)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Slide Poker (1993)(Loadstar - Softdisk Publishing).d64" size="174848" crc="cfa00b02" md5="891ad6ab7ccb8c11c8bdacf80e5f8ffa" sha1="fda47dcd7f7314025e92a5c1f5c38a640a62c1f8"/>
+	<game name="Slide Poker (1993)(Loadstar)">
+		<description>Slide Poker (1993)(Loadstar)</description>
+		<rom name="Slide Poker (1993)(Loadstar).d64" size="174848" crc="5aafd25e" md5="6fdc45f61bf8fca2dc923f4a053b00b8" sha1="d3646817fa78f52055ef1ee9e121dae7b2d93897"/>
+	</game>
+	<game name="Slide Poker (1993)(Loadstar)[a]">
+		<description>Slide Poker (1993)(Loadstar)[a]</description>
+		<rom name="Slide Poker (1993)(Loadstar)[a].d64" size="174848" crc="cfa00b02" md5="891ad6ab7ccb8c11c8bdacf80e5f8ffa" sha1="fda47dcd7f7314025e92a5c1f5c38a640a62c1f8"/>
+	</game>
+	<game name="Slide Poker (1993)(Loadstar)[cr Fatum]">
+		<description>Slide Poker (1993)(Loadstar)[cr Fatum]</description>
+		<rom name="Slide Poker (1993)(Loadstar)[cr Fatum].d64" size="174848" crc="05ff4ea6" md5="41878d811bf496190133423a992abab9" sha1="262171cb9ada420a67443064346f8a06cb98f2b6"/>
 	</game>
 	<game name="Sly Fox (2000)(Loadstar - J &amp; F Publishing)">
 		<description>Sly Fox (2000)(Loadstar - J &amp; F Publishing)</description>
@@ -3268,9 +3488,17 @@
 		<description>Solitaire (1991)(High Woltage)[cr Ateam - Army]</description>
 		<rom name="Solitaire (1991)(High Woltage)[cr Ateam - Army].d64" size="174848" crc="96995615" md5="1f392820b8f8f5dcd2f9d3a81ccac419" sha1="aa9728b5ee19047afedb1acbde0543cdb552ee74"/>
 	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr Blasters - TRC][t +1]">
+		<description>Solitaire (1991)(High Woltage)[cr Blasters - TRC][t +1]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr Blasters - TRC][t +1].d64" size="174848" crc="de4e9a30" md5="3eb85751f2fdfe63d05f95334661aa56" sha1="be797f5ec1e8c09628cf07390e43229738323b92"/>
+	</game>
 	<game name="Solitaire (1991)(High Woltage)[cr Chromance]">
 		<description>Solitaire (1991)(High Woltage)[cr Chromance]</description>
 		<rom name="Solitaire (1991)(High Woltage)[cr Chromance].d64" size="174848" crc="c541ec18" md5="42b6ef093d7ad782cf5fdb933a750d8c" sha1="5e43fa68816ecbdc53f93b756c63b54efa9353cb"/>
+	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr Death - Silence][t +1]">
+		<description>Solitaire (1991)(High Woltage)[cr Death - Silence][t +1]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr Death - Silence][t +1].d64" size="174848" crc="075b0032" md5="5ac4b435b092c8257f9a0e01104c9e9f" sha1="e66dc793157b9396d8188b4d6ffb7c95754a6324"/>
 	</game>
 	<game name="Solitaire (1991)(High Woltage)[cr Dynamix]">
 		<description>Solitaire (1991)(High Woltage)[cr Dynamix]</description>
@@ -3284,6 +3512,14 @@
 		<description>Solitaire (1991)(High Woltage)[cr Fact]</description>
 		<rom name="Solitaire (1991)(High Woltage)[cr Fact].d64" size="174848" crc="db5e42d6" md5="b75482b52b05cc33601c98629b306ca9" sha1="506c794e3a8136878da42e5f59d5ef0aa74e38c8"/>
 	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr Gentlemen]">
+		<description>Solitaire (1991)(High Woltage)[cr Gentlemen]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr Gentlemen].d64" size="174848" crc="0ab7e807" md5="9778c776c7d877a74a0a81220b7dab51" sha1="1e8afa07dc6988d6cfdabccd5314c1f7de65c097"/>
+	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr Gentlemen][t +1]">
+		<description>Solitaire (1991)(High Woltage)[cr Gentlemen][t +1]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr Gentlemen][t +1].d64" size="174848" crc="5d7bed6d" md5="eb197975b3199aa241ad21b012fe11e3" sha1="e0e233bfa96d853bb31a0db274e37ad4ded51f78"/>
+	</game>
 	<game name="Solitaire (1991)(High Woltage)[cr Holocaust]">
 		<description>Solitaire (1991)(High Woltage)[cr Holocaust]</description>
 		<rom name="Solitaire (1991)(High Woltage)[cr Holocaust].d64" size="174848" crc="a64a0e56" md5="05e83b93530fcd58eedfd3475838015f" sha1="733fab17b66f33165064cab873eb638d5b7db846"/>
@@ -3295,6 +3531,18 @@
 	<game name="Solitaire (1991)(High Woltage)[cr Hysteric]">
 		<description>Solitaire (1991)(High Woltage)[cr Hysteric]</description>
 		<rom name="Solitaire (1991)(High Woltage)[cr Hysteric].d64" size="174848" crc="8c23bf7c" md5="d3843caca89b36833da88e1d0de3f4cc" sha1="4710d2e6515e6dcca83473fe34f2cd0e82ee39d0"/>
+	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr Hysteric][t +3]">
+		<description>Solitaire (1991)(High Woltage)[cr Hysteric][t +3]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr Hysteric][t +3].d64" size="174848" crc="098badcd" md5="9bdb4cc9dad842a73de31dc84adbf320" sha1="ecd786225ec3d7a468e8756171b5cc55a41fbd33"/>
+	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr LRU - Pandora][t +1]">
+		<description>Solitaire (1991)(High Woltage)[cr LRU - Pandora][t +1]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr LRU - Pandora][t +1].d64" size="174848" crc="388f4c74" md5="db308369589e124835251b93c9a385db" sha1="223241b7e33470bed19343442a650c7ec76ad62b"/>
+	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr Mystic][t +1]">
+		<description>Solitaire (1991)(High Woltage)[cr Mystic][t +1]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr Mystic][t +1].d64" size="174848" crc="341dd7b2" md5="72f333f9e3b07a5617e97974a2540b9c" sha1="c7be58a6383e49fd96069085fa37a1f3a5668cf0"/>
 	</game>
 	<game name="Solitaire (1991)(High Woltage)[cr Pandora]">
 		<description>Solitaire (1991)(High Woltage)[cr Pandora]</description>
@@ -3319,6 +3567,10 @@
 	<game name="Solitaire (1991)(High Woltage)[cr Tribe]">
 		<description>Solitaire (1991)(High Woltage)[cr Tribe]</description>
 		<rom name="Solitaire (1991)(High Woltage)[cr Tribe].d64" size="174848" crc="ea1e65c9" md5="7fe446bc9a8bce4da67c3bb67535ef94" sha1="36575af88e9922b0c2e280096f7100b8fba72903"/>
+	</game>
+	<game name="Solitaire (1991)(High Woltage)[cr WOW][t +1]">
+		<description>Solitaire (1991)(High Woltage)[cr WOW][t +1]</description>
+		<rom name="Solitaire (1991)(High Woltage)[cr WOW][t +1].d64" size="174848" crc="47d92a1d" md5="39f4d834154bad21c5cc11687b7b5d10" sha1="78ea5b64639c0e2929937497d18aa58f08c48eda"/>
 	</game>
 	<game name="Solitaire (demo-playable) (1991)(High Woltage)">
 		<description>Solitaire (demo-playable) (1991)(High Woltage)</description>
@@ -3872,21 +4124,33 @@
 		<description>Studenten Poker (19xx)(-)(de)</description>
 		<rom name="Studenten Poker (19xx)(-)(de).d64" size="174848" crc="a2739a6d" md5="a00340465b588e652ee99f444751982c" sha1="37d523810eb1c483cbd387587e298b3a26fe0a18"/>
 	</game>
-	<game name="Sudden Death (1995)(Loadstar - Softdisk Publishing)">
-		<description>Sudden Death (1995)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Sudden Death (1995)(Loadstar - Softdisk Publishing).d64" size="174848" crc="86a79c89" md5="9fe6396c964c7bdfe1af9569ab7b04d1" sha1="044c3656384f1838fd16ae599583a97451c03a21"/>
+	<game name="Sudden Death (1995)(Loadstar)">
+		<description>Sudden Death (1995)(Loadstar)</description>
+		<rom name="Sudden Death (1995)(Loadstar).d64" size="174848" crc="0afdfec9" md5="5e255cd0ab9604fc0dda202441bee8e7" sha1="b71ab97ab1dce85bc8e3d29fc3b9e8b1014b2c9c"/>
 	</game>
-	<game name="Sultan of Turkey, The (1996)(Loadstar - J &amp; F Publishing)">
-		<description>Sultan of Turkey, The (1996)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Sultan of Turkey, The (1996)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="7b835481" md5="70aade817f95dc29b64f1d2a688972c0" sha1="4a44d38d8c9ad9caddc38c9cb9a86552598b61cb"/>
+	<game name="Sudden Death (1995)(Loadstar)[a]">
+		<description>Sudden Death (1995)(Loadstar)[a]</description>
+		<rom name="Sudden Death (1995)(Loadstar)[a].d64" size="174848" crc="86a79c89" md5="9fe6396c964c7bdfe1af9569ab7b04d1" sha1="044c3656384f1838fd16ae599583a97451c03a21"/>
+	</game>
+	<game name="Sultan of Turkey, The (1996)(Loadstar)">
+		<description>Sultan of Turkey, The (1996)(Loadstar)</description>
+		<rom name="Sultan of Turkey, The (1996)(Loadstar).d64" size="174848" crc="774d3e6e" md5="68434a9e394bc66f0391afa70c97737e" sha1="690c062e3461983f1518d27d2f5706fe42c4d008"/>
+	</game>
+	<game name="Sultan of Turkey, The (1996)(Loadstar)[a]">
+		<description>Sultan of Turkey, The (1996)(Loadstar)[a]</description>
+		<rom name="Sultan of Turkey, The (1996)(Loadstar)[a].d64" size="174848" crc="7b835481" md5="70aade817f95dc29b64f1d2a688972c0" sha1="4a44d38d8c9ad9caddc38c9cb9a86552598b61cb"/>
 	</game>
 	<game name="Suspense (2000)(Loadstar - J &amp; F Publishing)">
 		<description>Suspense (2000)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="Suspense (2000)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="1eec4fe8" md5="210aa604822697a9739a21391eb026c6" sha1="350a0967dcfb088d28b144954f623c1a08f946b8"/>
 	</game>
-	<game name="Thirteens (1992)(Loadstar - Softdisk Publishing)">
-		<description>Thirteens (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Thirteens (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="73038bf8" md5="c9cdd28a5aa65cac11d2e8529da599bf" sha1="704809918be20103edd865081c52ad680a2fc32c"/>
+	<game name="Thirteens (1992)(Loadstar)">
+		<description>Thirteens (1992)(Loadstar)</description>
+		<rom name="Thirteens (1992)(Loadstar).d64" size="174848" crc="6b890e9c" md5="22ce5362d445f5ba37e20a5bd22d9e68" sha1="bdef274f2171ec566c0fc7af0556f714eb4a0569"/>
+	</game>
+	<game name="Thirteens (1992)(Loadstar)[a]">
+		<description>Thirteens (1992)(Loadstar)[a]</description>
+		<rom name="Thirteens (1992)(Loadstar)[a].d64" size="174848" crc="73038bf8" md5="c9cdd28a5aa65cac11d2e8529da599bf" sha1="704809918be20103edd865081c52ad680a2fc32c"/>
 	</game>
 	<game name="Thumb and Pouch (1998)(Loadstar - J and F Publishing)">
 		<description>Thumb and Pouch (1998)(Loadstar - J and F Publishing)</description>
@@ -3916,9 +4180,13 @@
 		<description>Tic Tac Magic (1997)(Loadstar)</description>
 		<rom name="Tic Tac Magic (1997)(Loadstar).d64" size="174848" crc="b17fa515" md5="010cdbeb158e2e5fb71ec785be3cce24" sha1="637a4e399ebb1eb14747138d21858692e33bb619"/>
 	</game>
-	<game name="Tic Tac Sol (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Tic Tac Sol (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Tic Tac Sol (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="5a54c29b" md5="74146afe1402767cc77be78c10f7e4f3" sha1="de2783f8903dbdf4905fc7e1cd1f781783d654e6"/>
+	<game name="Tic Tac Sol (1997)(Loadstar)">
+		<description>Tic Tac Sol (1997)(Loadstar)</description>
+		<rom name="Tic Tac Sol (1997)(Loadstar).d64" size="174848" crc="5a54c29b" md5="74146afe1402767cc77be78c10f7e4f3" sha1="de2783f8903dbdf4905fc7e1cd1f781783d654e6"/>
+	</game>
+	<game name="Tic Tac Sol (1997)(Loadstar)[a]">
+		<description>Tic Tac Sol (1997)(Loadstar)[a]</description>
+		<rom name="Tic Tac Sol (1997)(Loadstar)[a].d64" size="174848" crc="65c8a498" md5="df516ec86121f8d9eda24ddfa300a7fe" sha1="4ff9f7d5672993133896723d4d86d32633869147"/>
 	</game>
 	<game name="Tom Throop&apos;s Bridge Baron (1985)(Great Game Products+Interactive Game Products)">
 		<description>Tom Throop&apos;s Bridge Baron (1985)(Great Game Products+Interactive Game Products)</description>
@@ -3928,9 +4196,13 @@
 		<description>Tough (19xx)(-)</description>
 		<rom name="Tough (19xx)(-).d64" size="174848" crc="378a7fd7" md5="5cea4c8627988a96714fcdc136dd0666" sha1="d91feacdeace7622ddb0a924b4da0f662d212a09"/>
 	</game>
-	<game name="Tough Tens (1992)(Loadstar - Softdisk Publishing)">
-		<description>Tough Tens (1992)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Tough Tens (1992)(Loadstar - Softdisk Publishing).d64" size="174848" crc="be377717" md5="968fee9b6ef1fe2a2acef66d6aa43a7c" sha1="39dfb550b94f0dc54094661574deab3af696e721"/>
+	<game name="Tough Tens (1992)(Loadstar)">
+		<description>Tough Tens (1992)(Loadstar)</description>
+		<rom name="Tough Tens (1992)(Loadstar).d64" size="174848" crc="b39ccd2e" md5="0e130669c456bb732ea4e308d0b8aefc" sha1="cbf9af32f62e32cf28b833fde9c975131ea33937"/>
+	</game>
+	<game name="Tough Tens (1992)(Loadstar)[a]">
+		<description>Tough Tens (1992)(Loadstar)[a]</description>
+		<rom name="Tough Tens (1992)(Loadstar)[a].d64" size="174848" crc="be377717" md5="968fee9b6ef1fe2a2acef66d6aa43a7c" sha1="39dfb550b94f0dc54094661574deab3af696e721"/>
 	</game>
 	<game name="Tower Poker (1996)(Loadstar)">
 		<description>Tower Poker (1996)(Loadstar)</description>
@@ -3940,9 +4212,17 @@
 		<description>Tri-Solitaire (1987)(RUN-CW Communications)</description>
 		<rom name="Tri-Solitaire (1987)(RUN-CW Communications).d64" size="174848" crc="38ce14c1" md5="b67590bfeb580fafb01815b90a6c341c" sha1="c1ca6602b0a717d59d439eb257789311859e8d47"/>
 	</game>
-	<game name="Tut&apos;s Pyramid (1997)(Loadstar - J &amp; F Publishing)">
-		<description>Tut&apos;s Pyramid (1997)(Loadstar - J &amp; F Publishing)</description>
-		<rom name="Tut&apos;s Pyramid (1997)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="961a5d34" md5="d972a6cba0c535da69876f0044b4002d" sha1="93d5f23a06f87ab05728344343146035e1aa9734"/>
+	<game name="Turbo Poker (1992)(Compute!)">
+		<description>Turbo Poker (1992)(Compute!)</description>
+		<rom name="Turbo Poker (1992)(Compute!).d64" size="174848" crc="fbb08d54" md5="8c128f6b42b20f58bb0a5eea70a1c191" sha1="9a16c28ac006be692c5f18f8be809cc79c874e97"/>
+	</game>
+	<game name="Tut&apos;s Pyramid (1997)(Loadstar)">
+		<description>Tut&apos;s Pyramid (1997)(Loadstar)</description>
+		<rom name="Tut&apos;s Pyramid (1997)(Loadstar).d64" size="174848" crc="ab64175b" md5="471f20807cc519ee7e75760f5bdf5be8" sha1="596fff2ce1da43f33934ad7c95e210bd579c6262"/>
+	</game>
+	<game name="Tut&apos;s Pyramid (1997)(Loadstar)[a]">
+		<description>Tut&apos;s Pyramid (1997)(Loadstar)[a]</description>
+		<rom name="Tut&apos;s Pyramid (1997)(Loadstar)[a].d64" size="174848" crc="961a5d34" md5="d972a6cba0c535da69876f0044b4002d" sha1="93d5f23a06f87ab05728344343146035e1aa9734"/>
 	</game>
 	<game name="Twenty One (1984)(Budge-It-Disk)">
 		<description>Twenty One (1984)(Budge-It-Disk)</description>
@@ -4008,9 +4288,13 @@
 		<description>Virginia Reel (2000)(Loadstar - J &amp; F Publishing)</description>
 		<rom name="Virginia Reel (2000)(Loadstar - J &amp; F Publishing).d64" size="174848" crc="7bf3585d" md5="93c960d9b308939c44de48720a1a8c90" sha1="237a406fba6262f78c8f7ab49ed5c02aaffa6178"/>
 	</game>
-	<game name="Wayne&apos;s Game (1994)(Loadstar - Softdisk Publishing)">
-		<description>Wayne&apos;s Game (1994)(Loadstar - Softdisk Publishing)</description>
-		<rom name="Wayne&apos;s Game (1994)(Loadstar - Softdisk Publishing).d64" size="174848" crc="8474f5e3" md5="e8d0a467e111f685599c491403b9ad59" sha1="47f982a12bb52d6ed7231ad2337543a67fc4f581"/>
+	<game name="Wayne&apos;s Game (1994)(Loadstar)">
+		<description>Wayne&apos;s Game (1994)(Loadstar)</description>
+		<rom name="Wayne&apos;s Game (1994)(Loadstar).d64" size="174848" crc="637391b4" md5="17c58e8dc19d28bada2a58453cbfe879" sha1="ba959777f9c425490655b1c60926c325dadb9952"/>
+	</game>
+	<game name="Wayne&apos;s Game (1994)(Loadstar)[a]">
+		<description>Wayne&apos;s Game (1994)(Loadstar)[a]</description>
+		<rom name="Wayne&apos;s Game (1994)(Loadstar)[a].d64" size="174848" crc="8474f5e3" md5="e8d0a467e111f685599c491403b9ad59" sha1="47f982a12bb52d6ed7231ad2337543a67fc4f581"/>
 	</game>
 	<game name="Will o&apos; the Wisp (19xx)(Loadstar - J &amp; F Publishing)">
 		<description>Will o&apos; the Wisp (19xx)(Loadstar - J &amp; F Publishing)</description>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Strategy - [P00]</name>
-		<description>Commodore C64 - Games - Strategy - [P00] (TOSEC-v2022-12-22)</description>
+		<description>Commodore C64 - Games - Strategy - [P00] (TOSEC-v2023-04-29)</description>
 		<category>TOSEC</category>
-		<version>2022-12-22</version>
+		<version>2023-04-29</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -96,6 +96,18 @@
 		<description>Broker (1984)(Ellis Horwood)[cr ASS]</description>
 		<rom name="Broker (1984)(Ellis Horwood)[cr ASS].p00" size="13667" crc="87ee0a07" md5="64a6205a9d83c61e82493f68456dcdba" sha1="3dfd0f251097c79c6b0d01370ce23c3122464247"/>
 	</game>
+	<game name="Bulge (1985)(Argus Press - MC Lothlorien)">
+		<description>Bulge (1985)(Argus Press - MC Lothlorien)</description>
+		<rom name="Bulge (1985)(Argus Press - MC Lothlorien).p00" size="23531" crc="68d867cd" md5="1af7581656c94de0856e95390e03f4ac" sha1="8b91730edb031a967c4e0bfd52ed42398e5bbe03"/>
+	</game>
+	<game name="Bulge (1985)(Argus Press - MC Lothlorien)[a]">
+		<description>Bulge (1985)(Argus Press - MC Lothlorien)[a]</description>
+		<rom name="Bulge (1985)(Argus Press - MC Lothlorien)[a].p00" size="44048" crc="777aa76a" md5="906f482da7cdd0c1be27777846c2a02c" sha1="27a4e291fb88b1aff00f3d9f8e54df25c3b03929"/>
+	</game>
+	<game name="Burgenkampf (1993)(E. Traeger)(de)">
+		<description>Burgenkampf (1993)(E. Traeger)(de)</description>
+		<rom name="Burgenkampf (1993)(E. Traeger)(de).p00" size="23609" crc="3b7afaf0" md5="cb3638dce8f5be8a7440523b3bea8504" sha1="79556555fed92aad97bf97c47dbcc2749b7da409"/>
+	</game>
 	<game name="Businessman (1995)(Rafal Poddembski)[cr F4CG]">
 		<description>Businessman (1995)(Rafal Poddembski)[cr F4CG]</description>
 		<rom name="Businessman (1995)(Rafal Poddembski)[cr F4CG].p00" size="13637" crc="b45aadb5" md5="ed8d463609e308f86d6f443519ab06d8" sha1="027e54ff3e6a2bb0f4166f412618f1a9471e5422"/>
@@ -184,6 +196,10 @@
 		<description>Deactivators (1986)(Ariolasoft)[cr RAD][a]</description>
 		<rom name="Deactivators (1986)(Ariolasoft)[cr RAD][a].p00" size="43957" crc="5ac002a0" md5="e6c6d8ad6a8e77d175ccff54ab11810e" sha1="99f05a0b20ea1470d86c3972921f102a2f675d7c"/>
 	</game>
+	<game name="Dealer (1986)(Brodersen, Frank - Brodersen, Jörg - Mommsen, Sven)(de)[cr LL Soft]">
+		<description>Dealer (1986)(Brodersen, Frank - Brodersen, Jörg - Mommsen, Sven)(de)[cr LL Soft]</description>
+		<rom name="Dealer (1986)(Brodersen, Frank - Brodersen, Jörg - Mommsen, Sven)(de)[cr LL Soft].p00" size="34357" crc="aeda2ca8" md5="633280ec3c84766043702d637537dc59" sha1="e3343ad435aa27bd5765c08cb8942ed5762069c9"/>
+	</game>
 	<game name="Death Wake (1985)(Argus Press - Quicksilva)[cr Florasoft]">
 		<description>Death Wake (1985)(Argus Press - Quicksilva)[cr Florasoft]</description>
 		<rom name="Death Wake (1985)(Argus Press - Quicksilva)[cr Florasoft].p00" size="42258" crc="7e29a2aa" md5="569fac2f60ab7edaa4e4e780f25c482b" sha1="fec2b0366ce02fd82c8e928c67101b8ba89a48e7"/>
@@ -199,6 +215,10 @@
 	<game name="Depreciation Derby (1984)(-)">
 		<description>Depreciation Derby (1984)(-)</description>
 		<rom name="Depreciation Derby (1984)(-).p00" size="6700" crc="cb225663" md5="e267279ee621fbae8a14761c97a26555" sha1="713c2338294af3654b3ea06ffd8e99107dd4750e"/>
+	</game>
+	<game name="Detective Game, The (1986)(Argus Press)">
+		<description>Detective Game, The (1986)(Argus Press)</description>
+		<rom name="Detective Game, The (1986)(Argus Press).p00" size="44330" crc="7c6527e7" md5="accb43ef761dd1424d40d8f589ad5ae2" sha1="f4b7d7fc29e979f49884d8e76dea57e4298eb649"/>
 	</game>
 	<game name="Detective! (1984)(Loadstar)[cr FFU]">
 		<description>Detective! (1984)(Loadstar)[cr FFU]</description>
@@ -364,10 +384,6 @@
 		<description>Galactic Conquest (1994)(Phuture)(de)</description>
 		<rom name="Galactic Conquest (1994)(Phuture)(de).p00" size="8577" crc="d7623a70" md5="e6eeade65bf296bd3e481d8d7db8fcda" sha1="06ef105917b1e54ffaa9ced3dc4b18bb87fe8661"/>
 	</game>
-	<game name="Galaxy (1981)(Avalon Hill)">
-		<description>Galaxy (1981)(Avalon Hill)</description>
-		<rom name="Galaxy (1981)(Avalon Hill).p00" size="25663" crc="1346dbb0" md5="234c0e86b0cf4815c8cf1e71a18e9d08" sha1="043def407c862cc6061cd922e3948fb30192061b"/>
-	</game>
 	<game name="Galaxy Conflict (1982)(Martech)">
 		<description>Galaxy Conflict (1982)(Martech)</description>
 		<rom name="Galaxy Conflict (1982)(Martech).p00" size="16810" crc="4b0fab38" md5="53e36b8faa505627a3087bc00832dffc" sha1="902912793ca90040faa9dccb7df7ac88dd5d867c"/>
@@ -375,6 +391,10 @@
 	<game name="Galaxy! (1981)(Avalon Hill)">
 		<description>Galaxy! (1981)(Avalon Hill)</description>
 		<rom name="Galaxy! (1981)(Avalon Hill).p00" size="12203" crc="68560e4f" md5="f7167b3cbd1cf85a36bb693c82dd3cc1" sha1="155b29cf331b9485856a0e9233d651babb4f7097"/>
+	</game>
+	<game name="Galaxy! (1981)(Avalon Hill)[a]">
+		<description>Galaxy! (1981)(Avalon Hill)[a]</description>
+		<rom name="Galaxy! (1981)(Avalon Hill)[a].p00" size="25663" crc="1346dbb0" md5="234c0e86b0cf4815c8cf1e71a18e9d08" sha1="043def407c862cc6061cd922e3948fb30192061b"/>
 	</game>
 	<game name="Galleons (1984)(Rabbit)">
 		<description>Galleons (1984)(Rabbit)</description>
@@ -572,6 +592,14 @@
 		<description>Job for News (1991)(Superline)(de)</description>
 		<rom name="Job for News (1991)(Superline)(de).p00" size="27740" crc="2c4d6ddf" md5="429fe1d030188cd669cf3e40463958e1" sha1="cb1c9e64927bb5e0f48d046c5b1e56269e06c2c4"/>
 	</game>
+	<game name="Johnny Reb (1984)(MC Lothlorien)[cr GCS]">
+		<description>Johnny Reb (1984)(MC Lothlorien)[cr GCS]</description>
+		<rom name="Johnny Reb (1984)(MC Lothlorien)[cr GCS].p00" size="20897" crc="ce57854c" md5="254f40b7edd61c1b4eda4d2fd8f1336a" sha1="d2cdd044f9bbe1a68ae854c584a65b5e1edc7891"/>
+	</game>
+	<game name="Johnny Reb (1984)(MC Lothlorien)[h GCS]">
+		<description>Johnny Reb (1984)(MC Lothlorien)[h GCS]</description>
+		<rom name="Johnny Reb (1984)(MC Lothlorien)[h GCS].p00" size="20897" crc="74e46a76" md5="2809bcceebf9101037e8b7e539736a06" sha1="442f30f4f0f5780b53e511f165f27df2729bde28"/>
+	</game>
 	<game name="Johnny Reb II (1986)(Argus Press)">
 		<description>Johnny Reb II (1986)(Argus Press)</description>
 		<rom name="Johnny Reb II (1986)(Argus Press).p00" size="26451" crc="17f84f7a" md5="9c3fb18311ab543c93db25022e777f6e" sha1="7fd9c87e4f9ca42f4f339d7c14a98c5a165ce8ae"/>
@@ -760,6 +788,14 @@
 		<description>Minoton (19xx)(-)</description>
 		<rom name="Minoton (19xx)(-).p00" size="5165" crc="e3ae0e4b" md5="b910d6083bf025e8c46f335dc18629c3" sha1="6b75c4821f8331e1bbe7cf0d7bb2221aeb400661"/>
 	</game>
+	<game name="Mission Omega (1986)(Argus Press - Mind Games)">
+		<description>Mission Omega (1986)(Argus Press - Mind Games)</description>
+		<rom name="Mission Omega (1986)(Argus Press - Mind Games).p00" size="47925" crc="22471721" md5="187c4317e4a2d86fd8af18596f9a95eb" sha1="938d3ad9cf47df19ac0e4e52b341868e6751c06e"/>
+	</game>
+	<game name="Mission Omega (1986)(Argus Press - Mind Games)[cr Trianon+Starline]">
+		<description>Mission Omega (1986)(Argus Press - Mind Games)[cr Trianon+Starline]</description>
+		<rom name="Mission Omega (1986)(Argus Press - Mind Games)[cr Trianon+Starline].p00" size="44207" crc="630c2a24" md5="d3ca7931fbc0460d87e8e09f2c105798" sha1="0cbfec529b9787688ea52c1aee4935b03c80456b"/>
+	</game>
 	<game name="Money Mad (19xx)(-)">
 		<description>Money Mad (19xx)(-)</description>
 		<rom name="Money Mad (19xx)(-).p00" size="3544" crc="00df7aa7" md5="1a10b61cb9f0ea54704788ee97da15ad" sha1="5cc7d820cff7e275a3715ba277136450c5aae0cd"/>
@@ -855,6 +891,10 @@
 	<game name="Olympic Task 800 (19xx)(-)">
 		<description>Olympic Task 800 (19xx)(-)</description>
 		<rom name="Olympic Task 800 (19xx)(-).p00" size="19619" crc="c2f35134" md5="1c0baa3ae2a712f51b2e94310048b5f2" sha1="0a0190cb8e467278835643b03db4ce9149dda184"/>
+	</game>
+	<game name="Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr Triad]">
+		<description>Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr Triad]</description>
+		<rom name="Operation Iceberg - The Battle for Okinawa (1986)(PSS)[cr Triad].p00" size="17960" crc="429e3f36" md5="2f9a783bcddcfb3c72bdc120d71deaa5" sha1="28982bd602f4bdff46301c5a973814e1251280df"/>
 	</game>
 	<game name="Operation Whirlwind (1984)(Brøderbund)[cr ASS]">
 		<description>Operation Whirlwind (1984)(Brøderbund)[cr ASS]</description>
@@ -988,6 +1028,10 @@
 		<description>Rome and the Barbarian (1986)(Krentek Software)[cr S8]</description>
 		<rom name="Rome and the Barbarian (1986)(Krentek Software)[cr S8].p00" size="32444" crc="c70b2e3a" md5="6887453bc6685dcbcb626e03c6b86dff" sha1="55576c2287b08788dfdead1483a8b6230aa52833"/>
 	</game>
+	<game name="Rule the Kingdom (1983)(CW Communications - RUN)">
+		<description>Rule the Kingdom (1983)(CW Communications - RUN)</description>
+		<rom name="Rule the Kingdom (1983)(CW Communications - RUN).p00" size="3157" crc="344e2c64" md5="2df845147cb75b225f5c7df44a284880" sha1="ea078f82e50e5ed0deaac09c31117122d3b72367"/>
+	</game>
 	<game name="Safari-Jager (1988)(Input 64)(de)[cr ASS]">
 		<description>Safari-Jager (1988)(Input 64)(de)[cr ASS]</description>
 		<rom name="Safari-Jager (1988)(Input 64)(de)[cr ASS].p00" size="9940" crc="00a9c1d9" md5="15ae164a49179601149ca4570187d840" sha1="2a5c5d9144d11b629c00cfecf724ddbc86754eba"/>
@@ -1000,9 +1044,9 @@
 		<description>Scotland-Yard (1987)(Markt &amp; Technik)(de)</description>
 		<rom name="Scotland-Yard (1987)(Markt &amp; Technik)(de).p00" size="5930" crc="1c5964d9" md5="9d6d31d7cf5763639756f7bd99c47ff3" sha1="99fa78b9a9b583af264a6417627664fbaf509635"/>
 	</game>
-	<game name="Sea Battle (19xx)(Carl Thelen)">
-		<description>Sea Battle (19xx)(Carl Thelen)</description>
-		<rom name="Sea Battle (19xx)(Carl Thelen).p00" size="3912" crc="b90581be" md5="7c12ebe7cd4855d3cb4562bc5a34c85a" sha1="04cc3b207f1321b1f7da5011f8a9c87bad7740d8"/>
+	<game name="Sea Battle (19xx)(Thelen, Carl)">
+		<description>Sea Battle (19xx)(Thelen, Carl)</description>
+		<rom name="Sea Battle (19xx)(Thelen, Carl).p00" size="3912" crc="b90581be" md5="7c12ebe7cd4855d3cb4562bc5a34c85a" sha1="04cc3b207f1321b1f7da5011f8a9c87bad7740d8"/>
 	</game>
 	<game name="Seabattle (19xx)(Creative Computing)">
 		<description>Seabattle (19xx)(Creative Computing)</description>
@@ -1252,9 +1296,9 @@
 		<description>Tramp (19xx)(-)(de)</description>
 		<rom name="Tramp (19xx)(-)(de).p00" size="18695" crc="71e960b3" md5="5e529b87b1bb3569e1ff6868e480b242" sha1="1b27a61c0d2d37827c8213dfe4222e45c5795f9f"/>
 	</game>
-	<game name="Transworld (1990)(Starbyte Software)(de)[cr Hysteric]">
-		<description>Transworld (1990)(Starbyte Software)(de)[cr Hysteric]</description>
-		<rom name="Transworld (1990)(Starbyte Software)(de)[cr Hysteric].p00" size="40161" crc="cd69a9a2" md5="4ac2cb39d13b4756966962b9a18cd49e" sha1="baed42b66f59e1f83bbba45c5cf7c60d64042c1a"/>
+	<game name="Trans World (1990)(Starbyte Software)(de)[cr Hysteric]">
+		<description>Trans World (1990)(Starbyte Software)(de)[cr Hysteric]</description>
+		<rom name="Trans World (1990)(Starbyte Software)(de)[cr Hysteric].p00" size="40161" crc="cd69a9a2" md5="4ac2cb39d13b4756966962b9a18cd49e" sha1="baed42b66f59e1f83bbba45c5cf7c60d64042c1a"/>
 	</game>
 	<game name="Trekstar (1984)(J. Hannet)">
 		<description>Trekstar (1984)(J. Hannet)</description>
@@ -1404,13 +1448,13 @@
 		<description>Yuppie Trainer, The (1991)(CP Verlag)[cr ULT]</description>
 		<rom name="Yuppie Trainer, The (1991)(CP Verlag)[cr ULT].p00" size="16409" crc="34f43553" md5="cd3a7960c14dc119eb0c19477e5dcdfa" sha1="c49ba47dd3e714ae10b6b33eb1e88e1cde8bbd97"/>
 	</game>
-	<game name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)">
-		<description>Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)</description>
-		<rom name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de).p00" size="39875" crc="969dc972" md5="bae080c88b329713ecc0bdedf455fd89" sha1="574695c758b67e58c8db764a14f3accec0f2a03a"/>
+	<game name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)">
+		<description>Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)</description>
+		<rom name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de).p00" size="39875" crc="969dc972" md5="bae080c88b329713ecc0bdedf455fd89" sha1="574695c758b67e58c8db764a14f3accec0f2a03a"/>
 	</game>
-	<game name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[cr GP+FE][t +1 GP+FE]">
-		<description>Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[cr GP+FE][t +1 GP+FE]</description>
-		<rom name="Yuppie&apos;s Revenge (1988)(Zuheir Urwani)(de)[cr GP+FE][t +1 GP+FE].p00" size="32447" crc="ae77fdc1" md5="df8278f0ba41c5fcad9ad4d43913f031" sha1="a5ed19b61c2c0163dd7248f13df02df0c6cde9e7"/>
+	<game name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[cr GP+FE][t +1 GP+FE]">
+		<description>Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[cr GP+FE][t +1 GP+FE]</description>
+		<rom name="Yuppie&apos;s Revenge (1988)(Urwani, Zuheir)(de)[cr GP+FE][t +1 GP+FE].p00" size="32447" crc="ae77fdc1" md5="df8278f0ba41c5fcad9ad4d43913f031" sha1="a5ed19b61c2c0163dd7248f13df02df0c6cde9e7"/>
 	</game>
 	<game name="Zauberlord - Sorcerer Lord (1987)(PSS)(de)">
 		<description>Zauberlord - Sorcerer Lord (1987)(PSS)(de)</description>

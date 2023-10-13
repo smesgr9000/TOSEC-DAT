@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Applications - [SZX]</name>
-		<description>Sinclair ZX Spectrum - Applications - [SZX] (TOSEC-v2021-01-15)</description>
+		<description>Sinclair ZX Spectrum - Applications - [SZX] (TOSEC-v2023-06-10)</description>
 		<category>TOSEC</category>
-		<version>2021-01-15</version>
-		<date>15.01.2021 18:10:12</date>
+		<version>2023-06-10</version>
+		<date>10.06.2023 14:28:51</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -18,12 +18,16 @@
 		<description>Assembler (1986)(Peker Computers)</description>
 		<rom name="Assembler (1986)(Peker Computers).szx" size="5023" crc="0873dd75" md5="8df2230f0b4ca47feeb57fc2a92f6b03" sha1="95b3ca07828d50b6d8b0181b8189a77af02e5b63"/>
 	</game>
+	<game name="Attributes (1987)(ZX Computing)(128K)">
+		<description>Attributes (1987)(ZX Computing)(128K)</description>
+		<rom name="Attributes (1987)(ZX Computing)(128K).szx" size="3391" crc="350af924" md5="da41ed7d639130d7b93907e4095796f2" sha1="94f5a368b42542710dc24fdecb1627b6725e6bd2"/>
+	</game>
 	<game name="Desdobramento do Totoloto (2020)(Avlisoft)(pt)">
 		<description>Desdobramento do Totoloto (2020)(Avlisoft)(pt)</description>
 		<rom name="Desdobramento do Totoloto (2020)(Avlisoft)(pt).szx" size="6787" crc="37c252d3" md5="c05bf41f5e7f664673b6b57c94cb9e00" sha1="434eca415ca8560d52de2abaea01841e9159dfbf"/>
 	</game>
-	<game name="Perfect Timer (2013)(Parligras, Cosmin)">
-		<description>Perfect Timer (2013)(Parligras, Cosmin)</description>
-		<rom name="Perfect Timer (2013)(Parligras, Cosmin).szx" size="7920" crc="ad884cba" md5="859f3480e012512a6c9610879b875fb9" sha1="29c78b4822e9a071fc4665782e2be57847842166"/>
+	<game name="Perfect Timer (2013)(Parligras, Cosmin)(RO)(en)">
+		<description>Perfect Timer (2013)(Parligras, Cosmin)(RO)(en)</description>
+		<rom name="Perfect Timer (2013)(Parligras, Cosmin)(RO)(en).szx" size="7920" crc="ad884cba" md5="859f3480e012512a6c9610879b875fb9" sha1="29c78b4822e9a071fc4665782e2be57847842166"/>
 	</game>
 </datafile>

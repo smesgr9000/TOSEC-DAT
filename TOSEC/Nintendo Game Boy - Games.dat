@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Games</name>
-		<description>Nintendo Game Boy - Games (TOSEC-v2022-12-21)</description>
+		<description>Nintendo Game Boy - Games (TOSEC-v2023-06-14)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
+		<version>2023-06-14</version>
 		<author>Cassiel - Newpain - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -792,6 +792,14 @@
 		<description>Asterix (1993)(Electro Brain)(US)(proto)</description>
 		<rom name="Asterix (1993)(Electro Brain)(US)(proto).gb" size="131072" crc="a4cc3c3a" md5="2b992d2bd90db504bf4357b4f77b4604" sha1="54cd67ea3c3e7646fb5286a6274a40a77f0730cc"/>
 	</game>
+	<game name="Asterix (1992)(Infogrames)(EU)(beta)">
+		<description>Asterix (1992)(Infogrames)(EU)(beta)</description>
+		<rom name="Asterix (1992)(Infogrames)(EU)(beta).gb" size="32768" crc="0050b16f" md5="efa067c7aaed8dd19777443db9228516" sha1="5e2423d1d4a1239af2ccafdd6c0a3f2316ae6b51"/>
+	</game>
+	<game name="Asterix (1992)(Infogrames)(EU)(beta)[a]">
+		<description>Asterix (1992)(Infogrames)(EU)(beta)[a]</description>
+		<rom name="Asterix (1992)(Infogrames)(EU)(beta)[a].gb" size="32768" crc="6ccfee1f" md5="b78f7809624994defcf23d2ec5e17d70" sha1="5077f422e513877e9c4e3497111f853376748826"/>
+	</game>
 	<game name="Asterix (1993)(Infogrames)(EU)(M5)">
 		<description>Asterix (1993)(Infogrames)(EU)(M5)</description>
 		<rom name="Asterix (1993)(Infogrames)(EU)(M5).gb" size="131072" crc="19f29b16" md5="11d7c03b5098fc30299c793b3827ce25" sha1="ab7aaf3b4133d3453a998b60ba1ef3ba50f66e0e"/>
@@ -1076,6 +1084,10 @@
 		<description>Barbie - Game Girl (1992)(Hi Tech Expressions)</description>
 		<rom name="Barbie - Game Girl (1992)(Hi Tech Expressions).gb" size="131072" crc="aec344e3" md5="74df0278f0e9aa9e6163b53ce2f60048" sha1="d9f8fad1ef810fbcb287ab9d02db6e1d710ff9a5"/>
 	</game>
+	<game name="Barbie - Game Girl (1992)(Hi Tech Expressions)(beta)">
+		<description>Barbie - Game Girl (1992)(Hi Tech Expressions)(beta)</description>
+		<rom name="Barbie - Game Girl (1992)(Hi Tech Expressions)(beta).gb" size="131072" crc="4660e0ab" md5="1a851b27609bedcb993be91bff5978b0" sha1="24886a5f26f1969e595f420bf963439ba6a693bd"/>
+	</game>
 	<game name="Barbie - Game Girl (1992)(Hi Tech Expressions)[b2]">
 		<description>Barbie - Game Girl (1992)(Hi Tech Expressions)[b2]</description>
 		<rom name="Barbie - Game Girl (1992)(Hi Tech Expressions)[b2].gb" size="131072" crc="0372d188" md5="57377d510761675aa5b265830935a6ca" sha1="8c1f66de6db87d2abead836926d6511bda2079e7"/>
@@ -1119,6 +1131,10 @@
 	<game name="Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(EU-US)[tr ru]">
 		<description>Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(EU-US)[tr ru]</description>
 		<rom name="Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(EU-US)[tr ru].gb" size="131072" crc="5880159e" md5="5fcb86b0b8aa572f47988df5b332f29f" sha1="8a4154c207e5d226bc533c47460b9618d3e8eb23"/>
+	</game>
+	<game name="Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(EU-US)[tr ru][a]">
+		<description>Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(EU-US)[tr ru][a]</description>
+		<rom name="Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(EU-US)[tr ru][a].gb" size="131072" crc="08ed886f" md5="5713d9223f98a1420f3d8d08b42e473f" sha1="1bc027845856046ec6696b89b1c7d21791141b8a"/>
 	</game>
 	<game name="Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(JP)">
 		<description>Bart Simpson's - Escape From Camp Deadly (1991)(Acclaim)(JP)</description>
@@ -1316,6 +1332,10 @@
 		<description>Battle City (1991)(Namco)[tr zh Madcell]</description>
 		<rom name="Battle City (1991)(Namco)[tr zh Madcell].gb" size="32768" crc="aff420e7" md5="841e6de9713332a6f612fbee75e33eb3" sha1="7b23db3ef80575600db27b6e93aca26fb6b86671"/>
 	</game>
+	<game name="Battle City (1991)(Namco)[tr zh]">
+		<description>Battle City (1991)(Namco)[tr zh]</description>
+		<rom name="Battle City (1991)(Namco)[tr zh].gb" size="32768" crc="180ca1ee" md5="7ce5e4c6a8494c87db739fbc7a09dc62" sha1="10a0c87e5b7ee686501afba883200dabf2acec50"/>
+	</game>
 	<game name="Battle Crusher (1995)(Banpresto)(JP)">
 		<description>Battle Crusher (1995)(Banpresto)(JP)</description>
 		<rom name="Battle Crusher (1995)(Banpresto)(JP).gb" size="262144" crc="a33361a8" md5="b20c8c0b6006154d66c9d0885b82e777" sha1="9ebdfaa38f193e3eea2e8cf8beb894f316359016"/>
@@ -1383,6 +1403,10 @@
 	<game name="Battle Pingpong (1990)(Quest)(JP)[tr pl]">
 		<description>Battle Pingpong (1990)(Quest)(JP)[tr pl]</description>
 		<rom name="Battle Pingpong (1990)(Quest)(JP)[tr pl].gb" size="65536" crc="57d723de" md5="0cd8fe5a74698ceacbce5ffd315169bb" sha1="3c459ed61bc34a73faa0ce50b158e65024fff6b9"/>
+	</game>
+	<game name="Battle Ships (1998)(Bit Managers - Laguna - Infogrames)(M4)(proto)">
+		<description>Battle Ships (1998)(Bit Managers - Laguna - Infogrames)(M4)(proto)</description>
+		<rom name="Battle Ships (1998)(Bit Managers - Laguna - Infogrames)(M4)(proto).gb" size="131072" crc="1f8ccb71" md5="08db8175b8903f68c3f874e0a39bed39" sha1="4c04f79c670661fa46b17f7f980e6e7e88e886e7"/>
 	</game>
 	<game name="Battle Space (1992)(Namcot)(JP)">
 		<description>Battle Space (1992)(Namcot)(JP)</description>
@@ -1728,6 +1752,10 @@
 		<description>Black Forest Tale (1993)(Sachen)</description>
 		<rom name="Black Forest Tale (1993)(Sachen).gb" size="65536" crc="3d4e1779" md5="69bc0e2220c5c246af12047f36501044" sha1="f5b46d061498b37e0c6eb0513c63720db17b5e52"/>
 	</game>
+	<game name="Blade Warrior (1988)(Image Works)(proto)">
+		<description>Blade Warrior (1988)(Image Works)(proto)</description>
+		<rom name="Blade Warrior (1988)(Image Works)(proto).gb" size="32768" crc="cfd54dbc" md5="39f9e3e6f9b12259e49908f4fab488fc" sha1="53c1e67430f923f74a611e675ca0cad8d0b13d76"/>
+	</game>
 	<game name="Blades of Steel (1991)(Konami)">
 		<description>Blades of Steel (1991)(Konami)</description>
 		<rom name="Blades of Steel (1991)(Konami).gb" size="131072" crc="f7be0002" md5="6e8166c3783d1807d0a8c3b649e583c1" sha1="d030c46bc225fc92aa431276d9ae5812a30d6007"/>
@@ -1751,6 +1779,10 @@
 	<game name="Blaster Master Boy (1991)(Sunsoft)(US)">
 		<description>Blaster Master Boy (1991)(Sunsoft)(US)</description>
 		<rom name="Blaster Master Boy (1991)(Sunsoft)(US).gb" size="131072" crc="3b2c7118" md5="c4868bf46a993b4c33a9a8af5341282a" sha1="21b1e574a6f4543651e96de65994e7b0b7a6a0f6"/>
+	</game>
+	<game name="Blaster Master Boy (1991)(Sunsoft)(US)(beta)">
+		<description>Blaster Master Boy (1991)(Sunsoft)(US)(beta)</description>
+		<rom name="Blaster Master Boy (1991)(Sunsoft)(US)(beta).gb" size="131072" crc="4ea70173" md5="7522878c2206817ec8440d442a65c306" sha1="f568f9c7fe9ef9726d602727beca13d6978cd770"/>
 	</game>
 	<game name="Blaster Master Boy (1991)(Sunsoft)(US)[a]">
 		<description>Blaster Master Boy (1991)(Sunsoft)(US)[a]</description>
@@ -1843,6 +1875,14 @@
 	<game name="Bomb Jack (1992)(Infogrames)">
 		<description>Bomb Jack (1992)(Infogrames)</description>
 		<rom name="Bomb Jack (1992)(Infogrames).gb" size="32768" crc="9bd8815e" md5="7615154dc9afb1a7d7d2fe63b76c68e4" sha1="a2b2799e867777a5a19155ed1f2245630fc03560"/>
+	</game>
+	<game name="Bomb Jack (1992)(Infogrames)(beta)">
+		<description>Bomb Jack (1992)(Infogrames)(beta)</description>
+		<rom name="Bomb Jack (1992)(Infogrames)(beta).gb" size="32768" crc="7ca8e543" md5="3ce1af74e7f2d498d08ff797dde87a1e" sha1="6fc3794149f5e75ad82b4a7d47ad5497e1ee4e6a"/>
+	</game>
+	<game name="Bomb Jack (1992)(Infogrames)(beta)[a]">
+		<description>Bomb Jack (1992)(Infogrames)(beta)[a]</description>
+		<rom name="Bomb Jack (1992)(Infogrames)(beta)[a].gb" size="32768" crc="ffa0e67a" md5="b199980b6e3fde27da5fb8d6d2b49356" sha1="a4c25218b2c35d6bd4fcf93ebdf81dfe22d4259a"/>
 	</game>
 	<game name="Bomb Jack (1992)(Infogrames)[a2]">
 		<description>Bomb Jack (1992)(Infogrames)[a2]</description>
@@ -2315,6 +2355,10 @@
 	<game name="Bubble Ghost (1990)(Infogrames)(EU)">
 		<description>Bubble Ghost (1990)(Infogrames)(EU)</description>
 		<rom name="Bubble Ghost (1990)(Infogrames)(EU).gb" size="32768" crc="874d0d6f" md5="e4ba52d3c6d5cd7aad2d3c398c9b7a0e" sha1="f93e37b60025c67d7fbfc035ed727c9a39d8c9f1"/>
+	</game>
+	<game name="Bubble Ghost (1990)(Infogrames)(EU)(beta)">
+		<description>Bubble Ghost (1990)(Infogrames)(EU)(beta)</description>
+		<rom name="Bubble Ghost (1990)(Infogrames)(EU)(beta).gb" size="32768" crc="4a083f6f" md5="2d83537ba548e4118ea3e8ae0a309dfe" sha1="f5d063c70cecadda43d27d0c24f561a8f32b10f2"/>
 	</game>
 	<game name="Bubble Ghost (1990)(Infogrames)(EU)[a]">
 		<description>Bubble Ghost (1990)(Infogrames)(EU)[a]</description>
@@ -3239,6 +3283,10 @@
 	<game name="Cosmo Tank (1990)(Atlus)(EU-US)">
 		<description>Cosmo Tank (1990)(Atlus)(EU-US)</description>
 		<rom name="Cosmo Tank (1990)(Atlus)(EU-US).gb" size="131072" crc="2e767d25" md5="b340bad71c781bd1394d95241ed1adce" sha1="48a8f5c50a237f11c8e18efd03a5282f493312bc"/>
+	</game>
+	<game name="Cosmo Tank (1990)(Atlus)(EU-US)(beta)">
+		<description>Cosmo Tank (1990)(Atlus)(EU-US)(beta)</description>
+		<rom name="Cosmo Tank (1990)(Atlus)(EU-US)(beta).gb" size="131072" crc="1c6770f0" md5="20d658fa55a9a61c59f888537039d8a7" sha1="863bf21877b5f5993b9e64710f304b8db194d2e7"/>
 	</game>
 	<game name="Cosmo Tank (1990)(Atlus)(EU-US)[tr ru]">
 		<description>Cosmo Tank (1990)(Atlus)(EU-US)[tr ru]</description>
@@ -4356,6 +4404,10 @@
 		<description>Dropzone (1992)(Mindscape)(US)</description>
 		<rom name="Dropzone (1992)(Mindscape)(US).gb" size="32768" crc="6cb45fc6" md5="8b20f7ae1cbfc0b5be6629c0f1553e27" sha1="703be7960b363f187737f7ee5fd4af60b6c98428"/>
 	</game>
+	<game name="Dropzone (1992)(Mindscape)(US)(beta)">
+		<description>Dropzone (1992)(Mindscape)(US)(beta)</description>
+		<rom name="Dropzone (1992)(Mindscape)(US)(beta).gb" size="131072" crc="374f80b0" md5="03be859e5b1448e7508aa4d83b424f07" sha1="ac64c854dfea6387f262a2870f85c369d2cd14f5"/>
+	</game>
 	<game name="Dropzone (1992)(Mindscape)(US)[a]">
 		<description>Dropzone (1992)(Mindscape)(US)[a]</description>
 		<rom name="Dropzone (1992)(Mindscape)(US)[a].gb" size="32768" crc="19e7d17d" md5="00ca38e8fa3cd84e5d1d654847cc4260" sha1="dbf866f7ec3f7655c846160240c184c5896b2b3e"/>
@@ -4439,6 +4491,10 @@
 	<game name="Dungeon Land (1992)(Enix)(JP)[b]">
 		<description>Dungeon Land (1992)(Enix)(JP)[b]</description>
 		<rom name="Dungeon Land (1992)(Enix)(JP)[b].gb" size="131072" crc="9e1945de" md5="441a04a3add9b230f9cd70b4964a0294" sha1="253ccdafdaf1cb30433d51b00139adca7c89149e"/>
+	</game>
+	<game name="Dungeon Warrior (1996)(Rebellion)(proto)">
+		<description>Dungeon Warrior (1996)(Rebellion)(proto)</description>
+		<rom name="Dungeon Warrior (1996)(Rebellion)(proto).gb" size="65536" crc="2910429c" md5="486143fef63cbc535deb928eeade5555" sha1="21a6fba83faa7649fbb2e75176649bcd7d846d25"/>
 	</game>
 	<game name="DX Bakenou Z Rev 0 (1992)(Asmik)(JP)">
 		<description>DX Bakenou Z Rev 0 (1992)(Asmik)(JP)</description>
@@ -5808,6 +5864,10 @@
 		<description>Ghostbusters II (1990)(Activision)(EU-US)</description>
 		<rom name="Ghostbusters II (1990)(Activision)(EU-US).gb" size="131072" crc="5821ecd4" md5="0841a527b116a52ad26de023b20b1a42" sha1="1e2aa42b7e0f974f45fbca35160cda6d5964f0ad"/>
 	</game>
+	<game name="Ghostbusters II (1990)(Activision)(EU-US)(beta)">
+		<description>Ghostbusters II (1990)(Activision)(EU-US)(beta)</description>
+		<rom name="Ghostbusters II (1990)(Activision)(EU-US)(beta).gb" size="131072" crc="41423376" md5="ff8ac71f09453b667856a8539192101f" sha1="c96b152f5351eeec19e1b020c9e0d51d582e2e8c"/>
+	</game>
 	<game name="Ghostbusters II (1990)(Activision)(EU-US)[b]">
 		<description>Ghostbusters II (1990)(Activision)(EU-US)[b]</description>
 		<rom name="Ghostbusters II (1990)(Activision)(EU-US)[b].gb" size="131072" crc="cc7c50c6" md5="e2f43efc6569b8bdc2f8fe401f35badd" sha1="f36008ae0257b43874520d1f21babb64fc18f454"/>
@@ -6835,6 +6895,14 @@
 	<game name="Jet Pack (1991)(Jaleco)(beta)">
 		<description>Jet Pack (1991)(Jaleco)(beta)</description>
 		<rom name="Jet Pack (1991)(Jaleco)(beta).gb" size="131072" crc="1c223204" md5="cd40bda7a113c2279d5ffd1cfa0cfdc7" sha1="df7abbcaaccd5cff4c55bb331fa5d3049fb92896"/>
+	</game>
+	<game name="Jet Pack Jack (1991)(Rebellion)(proto)">
+		<description>Jet Pack Jack (1991)(Rebellion)(proto)</description>
+		<rom name="Jet Pack Jack (1991)(Rebellion)(proto).gb" size="131072" crc="2040e99b" md5="9fae2cc970ba45b0d7ba79a68e0e9104" sha1="da739097364e31f3be5851461170eaccbcd2aeb3"/>
+	</game>
+	<game name="Jet Pak Man (1991)(Rebellion)(proto)">
+		<description>Jet Pak Man (1991)(Rebellion)(proto)</description>
+		<rom name="Jet Pak Man (1991)(Rebellion)(proto).gb" size="32768" crc="e40dfc1b" md5="3f2f5ec07a222c281796691bb43249f9" sha1="0080f76961164810d6c0543d951a465cfa1cab54"/>
 	</game>
 	<game name="Jetsons, The - Robot Panic (1992)(Taito)(EU-US)">
 		<description>Jetsons, The - Robot Panic (1992)(Taito)(EU-US)</description>
@@ -7872,6 +7940,10 @@
 		<description>Lawnmower Man, The (1993)(Sales Curve)</description>
 		<rom name="Lawnmower Man, The (1993)(Sales Curve).gb" size="131072" crc="134f91d7" md5="0bd1cf9c439b7095a64b4f76a5d16021" sha1="6e63a725fc802966986e6ed6917a7b976794f403"/>
 	</game>
+	<game name="Lawnmower Man, The (1993)(Sales Curve)(beta)">
+		<description>Lawnmower Man, The (1993)(Sales Curve)(beta)</description>
+		<rom name="Lawnmower Man, The (1993)(Sales Curve)(beta).gb" size="131072" crc="1cac0775" md5="bc4576a905da6160758264e6b070f8d0" sha1="589eedd3919dd29cbdf6fd9c2fa6b4f1c258fc97"/>
+	</game>
 	<game name="Lawnmower Man, The (1993)(Sales Curve)[a2]">
 		<description>Lawnmower Man, The (1993)(Sales Curve)[a2]</description>
 		<rom name="Lawnmower Man, The (1993)(Sales Curve)[a2].gb" size="131072" crc="0ff52620" md5="a018da2a7a75ad5792fa53f6c974dfc2" sha1="6f4e98497d8400c51bed4ac8e3062c5749a391bb"/>
@@ -8039,6 +8111,10 @@
 	<game name="Legend of Zelda, The - Link's Awakening Rev 0 (1993)(Nintendo)(US)[tr ru]">
 		<description>Legend of Zelda, The - Link's Awakening Rev 0 (1993)(Nintendo)(US)[tr ru]</description>
 		<rom name="Legend of Zelda, The - Link's Awakening Rev 0 (1993)(Nintendo)(US)[tr ru].gb" size="1048576" crc="48df2cdf" md5="c3c849962b3272dfed3a185a561aac0d" sha1="79610196e920d6f394918c99b962ca77abbbf9e5"/>
+	</game>
+	<game name="Legend of Zelda, The - Link's Awakening Rev 0 (1993)(Nintendo)(US)[tr ru][a]">
+		<description>Legend of Zelda, The - Link's Awakening Rev 0 (1993)(Nintendo)(US)[tr ru][a]</description>
+		<rom name="Legend of Zelda, The - Link's Awakening Rev 0 (1993)(Nintendo)(US)[tr ru][a].gb" size="524288" crc="104bf2da" md5="bcb4671c7c4d6beec05342d2817d7c53" sha1="5ca3db67da977c355aa57a8adee6a3c6af84c677"/>
 	</game>
 	<game name="Legend of Zelda, The - Link's Awakening Rev 1 (1993)(Nintendo)(JP)">
 		<description>Legend of Zelda, The - Link's Awakening Rev 1 (1993)(Nintendo)(JP)</description>
@@ -8251,6 +8327,10 @@
 	<game name="Loopz (1990)(Mindscape)">
 		<description>Loopz (1990)(Mindscape)</description>
 		<rom name="Loopz (1990)(Mindscape).gb" size="32768" crc="531a3e16" md5="7e68c061d77a2e8925442a9b6fa0a0ed" sha1="dd2ddac2310409287299c287f1959196e0b4d14e"/>
+	</game>
+	<game name="Loopz (1990)(Mindscape)(beta)">
+		<description>Loopz (1990)(Mindscape)(beta)</description>
+		<rom name="Loopz (1990)(Mindscape)(beta).gb" size="32768" crc="15e28642" md5="f9f226d0534e8152b280388e39573e92" sha1="01f87439294a2a06604ae0fd41df203713460510"/>
 	</game>
 	<game name="Lost World, The - Jurassic Park (1997)(THQ)">
 		<description>Lost World, The - Jurassic Park (1997)(THQ)</description>
@@ -8984,6 +9064,10 @@
 		<description>Metal Masters (1993)(Infogrames)</description>
 		<rom name="Metal Masters (1993)(Infogrames).gb" size="131072" crc="bf6866dc" md5="680c8fbb0bc15c850121ef2c929df177" sha1="caae5811b2d2b884b691ea7d940ecb86647cd250"/>
 	</game>
+	<game name="Metal Masters (1993)(Infogrames)(beta)">
+		<description>Metal Masters (1993)(Infogrames)(beta)</description>
+		<rom name="Metal Masters (1993)(Infogrames)(beta).gb" size="131072" crc="3378064b" md5="200626cc703cebb4e3f31b725a705220" sha1="572c820f7ec7a3c96df9af441da244befa5223b9"/>
+	</game>
 	<game name="Metroid II - Return of Samus (1991)(Nintendo)">
 		<description>Metroid II - Return of Samus (1991)(Nintendo)</description>
 		<rom name="Metroid II - Return of Samus (1991)(Nintendo).gb" size="262144" crc="dee05370" md5="9639948ad274fa15281f549e5f9c4d87" sha1="74a2fad86b9a4c013149b1e214bc4600efb1066d"/>
@@ -9164,6 +9248,10 @@
 		<description>Mickey's Chase (1992)(Kemco)(US)[tr ru]</description>
 		<rom name="Mickey's Chase (1992)(Kemco)(US)[tr ru].gb" size="131072" crc="6cf10f97" md5="1e21c11f016ab197e73588c70de5e1db" sha1="89985d86ffae387663edb8b95d54ca8e24143462"/>
 	</game>
+	<game name="Mickey's Ultimate Challenge (1993-11-12)(Hi Tech)(beta)">
+		<description>Mickey's Ultimate Challenge (1993-11-12)(Hi Tech)(beta)</description>
+		<rom name="Mickey's Ultimate Challenge (1993-11-12)(Hi Tech)(beta).gb" size="131072" crc="3fac2661" md5="f7094136499601a6e45db03d1edb98b8" sha1="e6809004a3af32235e55a300f53b421a00c57b98"/>
+	</game>
 	<game name="Mickey's Ultimate Challenge (1994)(Hi Tech)">
 		<description>Mickey's Ultimate Challenge (1994)(Hi Tech)</description>
 		<rom name="Mickey's Ultimate Challenge (1994)(Hi Tech).gb" size="262144" crc="23e9d625" md5="f7d266bc81c150796ae373bddd0a9a84" sha1="cebdc7b9f5764aebab116ba0a5d06c67cd4bea84"/>
@@ -9219,6 +9307,10 @@
 	<game name="Mighty Morphin Power Rangers (1994)(Bandai)">
 		<description>Mighty Morphin Power Rangers (1994)(Bandai)</description>
 		<rom name="Mighty Morphin Power Rangers (1994)(Bandai).gb" size="262144" crc="c60d032a" md5="5b83db9958eefbd72a82c4893e79d9e1" sha1="ef88476d9a1a26b67f3535ae7afcf5156578e38c"/>
+	</game>
+	<game name="Mighty Morphin Power Rangers (1994)(Bandai)(beta)">
+		<description>Mighty Morphin Power Rangers (1994)(Bandai)(beta)</description>
+		<rom name="Mighty Morphin Power Rangers (1994)(Bandai)(beta).gb" size="262144" crc="caab9ac9" md5="bd8873b840455cb6464574c14448f8cb" sha1="be42f45d8038ce28461ed36ba9164854632aebe0"/>
 	</game>
 	<game name="Mighty Morphin Power Rangers (1994)(Bandai)[a2]">
 		<description>Mighty Morphin Power Rangers (1994)(Bandai)[a2]</description>
@@ -9295,6 +9387,10 @@
 	<game name="Milon's Secret Castle (1993)(Hudson)(JP)">
 		<description>Milon's Secret Castle (1993)(Hudson)(JP)</description>
 		<rom name="Milon's Secret Castle (1993)(Hudson)(JP).gb" size="131072" crc="f188c94c" md5="3f2335f849fd02769099ac3bd6d81337" sha1="95e6473824b7671140c738e0d3bfdbe2b1f39480"/>
+	</game>
+	<game name="Mind Bender (1991-03-04)(Gremlin)(proto)">
+		<description>Mind Bender (1991-03-04)(Gremlin)(proto)</description>
+		<rom name="Mind Bender (1991-03-04)(Gremlin)(proto).gb" size="32768" crc="984ec5d6" md5="9b68b316b7af37e1428e899e90e7f7a9" sha1="235f61e7ccc6f9cffe6c30a0abc778f6745d3a5a"/>
 	</game>
 	<game name="Miner 2049er (1991)(Mindscape)">
 		<description>Miner 2049er (1991)(Mindscape)</description>
@@ -10400,6 +10496,10 @@
 		<description>Ninja Taro (1992)(Sammy)(beta)</description>
 		<rom name="Ninja Taro (1992)(Sammy)(beta).gb" size="131072" crc="61598b3d" md5="a83273edb8b89c84145d619d72ee19fe" sha1="d93b6718e9c8a2505f4da73b99f57866111948af"/>
 	</game>
+	<game name="Ninja Taro (1992)(Sammy)(beta)[a]">
+		<description>Ninja Taro (1992)(Sammy)(beta)[a]</description>
+		<rom name="Ninja Taro (1992)(Sammy)(beta)[a].gb" size="131072" crc="f15b708a" md5="e977b90b7b582de86068a6b0e6c5b16c" sha1="602ba627007d37f7a2eb456102b3afa79d50ce2f"/>
+	</game>
 	<game name="Ninja Taro (1992)(Sammy)[o2]">
 		<description>Ninja Taro (1992)(Sammy)[o2]</description>
 		<rom name="Ninja Taro (1992)(Sammy)[o2].gb" size="139264" crc="60d36049" md5="9db40d57d457c1c0461c26fbfdde3239" sha1="e605a7b91c2d27c9d7f8158d024cd6b5244821ff"/>
@@ -10575,6 +10675,10 @@
 	<game name="Otto's Ottifanten - Baby Bruno's Nightmare (1998)(Infogrames)(EU)(M4)">
 		<description>Otto's Ottifanten - Baby Bruno's Nightmare (1998)(Infogrames)(EU)(M4)</description>
 		<rom name="Otto's Ottifanten - Baby Bruno's Nightmare (1998)(Infogrames)(EU)(M4).gb" size="262144" crc="0c228a78" md5="a9e795191670fe5994700c9cd8b7fbfd" sha1="93edd0772a3a65df17ec5877e2bcfafda3020169"/>
+	</game>
+	<game name="Otto's Ottifanten - Baby Bruno's Nightmare (1998)(Infogrames)(EU)(M4)(beta)">
+		<description>Otto's Ottifanten - Baby Bruno's Nightmare (1998)(Infogrames)(EU)(M4)(beta)</description>
+		<rom name="Otto's Ottifanten - Baby Bruno's Nightmare (1998)(Infogrames)(EU)(M4)(beta).gb" size="262144" crc="f23e5f91" md5="e98c2c5e838713bc68be569c295a14a0" sha1="22a18f5eb589347fa596432d249b0abca69aa93b"/>
 	</game>
 	<game name="Out of Gas (1992)(FCI)(US)">
 		<description>Out of Gas (1992)(FCI)(US)</description>
@@ -11007,6 +11111,10 @@
 	<game name="Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)">
 		<description>Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)</description>
 		<rom name="Pinball - Revenge of the 'Gator (1990)(HAL Laboratory).gb" size="65536" crc="79804305" md5="113d8f894df6b8c3641b2ba1fe60c250" sha1="493834db1c3c7859086a1c570a4bf5e5f6dd332b"/>
+	</game>
+	<game name="Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)(beta)">
+		<description>Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)(beta)</description>
+		<rom name="Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)(beta).gb" size="65536" crc="048d3ab0" md5="4eb8d56e6cf1e54665e995cf0cb30108" sha1="7f25663b3c1c15a3ee4f1bb719741823eea71ebb"/>
 	</game>
 	<game name="Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)[b2]">
 		<description>Pinball - Revenge of the 'Gator (1990)(HAL Laboratory)[b2]</description>
@@ -12247,6 +12355,10 @@
 	<game name="Race Drivin' (1992)(THQ)">
 		<description>Race Drivin' (1992)(THQ)</description>
 		<rom name="Race Drivin' (1992)(THQ).gb" size="131072" crc="6775ccd6" md5="74d409740ce00448d42b25ebb31e7bcd" sha1="67111295fe2095861256b46e7417e4c1d115a6fe"/>
+	</game>
+	<game name="Race Drivin' (1992)(THQ)(beta)">
+		<description>Race Drivin' (1992)(THQ)(beta)</description>
+		<rom name="Race Drivin' (1992)(THQ)(beta).gb" size="131072" crc="8c217639" md5="9f53c54e829ecdbd15baa3faafebb25e" sha1="e1e7dce263d4a99ef04a7803f0e9bdc5d5dce2ed"/>
 	</game>
 	<game name="Race Drivin' (1992)(THQ)[b2]">
 		<description>Race Drivin' (1992)(THQ)[b2]</description>
@@ -13708,6 +13820,10 @@
 		<description>Spider-Man 3 - Invasion of the Spider-Slayers (1993)(LJN)(EU-US)[o]</description>
 		<rom name="Spider-Man 3 - Invasion of the Spider-Slayers (1993)(LJN)(EU-US)[o].gb" size="262144" crc="2d687a16" md5="f26baedfbcb9b814d4c7c301e3bee313" sha1="ad05617a1593908676b62fa4b68afb7603d9be0b"/>
 	</game>
+	<game name="Spider-Man 3 - Invasion of the Spider-Slayers (1993-04-11)(LJN)(EU-US)(beta)">
+		<description>Spider-Man 3 - Invasion of the Spider-Slayers (1993-04-11)(LJN)(EU-US)(beta)</description>
+		<rom name="Spider-Man 3 - Invasion of the Spider-Slayers (1993-04-11)(LJN)(EU-US)(beta).gb" size="131072" crc="bf2d1f10" md5="0127c54d0bd22db6ecda3796e68861c6" sha1="34740dc60663ef33c42573a26e7b207f2cfe4a16"/>
+	</game>
 	<game name="Spider-Man and the X-Men in Arcade's Revenge (1993)(JLN)">
 		<description>Spider-Man and the X-Men in Arcade's Revenge (1993)(JLN)</description>
 		<rom name="Spider-Man and the X-Men in Arcade's Revenge (1993)(JLN).gb" size="131072" crc="1009c6c0" md5="634532de88aa7c35bd9231ee5356ae8a" sha1="fb3770e2da5c668d23e5f96a4806a6d3db24eaeb"/>
@@ -13899,6 +14015,10 @@
 	<game name="Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)">
 		<description>Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)</description>
 		<rom name="Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US).gb" size="131072" crc="3a5a56cb" md5="c9791e6cd453aeef19c722924521d381" sha1="8a50eb7863bf6abf329f218aea8bbd354a1bd970"/>
+	</game>
+	<game name="Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)(beta)">
+		<description>Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)(beta)</description>
+		<rom name="Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)(beta).gb" size="131072" crc="89e73128" md5="fdca76344c5f158f1deed749b03ac398" sha1="8366108fcf9e5cb0f95d221b5e9800e801cd9634"/>
 	</game>
 	<game name="Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)[b]">
 		<description>Star Trek - The Next Generation (1993)(Absolute Entertainment)(EU-US)[b]</description>
@@ -15024,6 +15144,10 @@
 		<description>Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)</description>
 		<rom name="Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US).gb" size="262144" crc="44f51c73" md5="0221de99d11f50f79430c8ff9b430994" sha1="08aabd7be3d4b78a8b124a58afae4fec758b225f"/>
 	</game>
+	<game name="Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)(beta)">
+		<description>Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)(beta)</description>
+		<rom name="Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)(beta).gb" size="262144" crc="ee25b752" md5="b051d85bf46335e0c00429abb313c213" sha1="7fd1df99ed3bc088c737f0ef8b7f0caa95d73b65"/>
+	</game>
 	<game name="Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)[b2]">
 		<description>Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)[b2]</description>
 		<rom name="Teenage Mutant Ninja Turtles II - Back from the Sewers (1991)(Konami)(US)[b2].gb" size="262144" crc="dca70cbb" md5="0268715a8277d58650ff3257997d7c56" sha1="6eaf389c03be48085db8d703d5d6b2ed4ac85671"/>
@@ -15268,6 +15392,14 @@
 		<description>Tiny Toon Adventures (1991)(Konami)(JP)</description>
 		<rom name="Tiny Toon Adventures (1991)(Konami)(JP).gb" size="131072" crc="fb13462b" md5="1ceb3148a1b68b2ba9eada0393f987fc" sha1="08948315649160c62546f541f173808595f75149"/>
 	</game>
+	<game name="Tiny Toon Adventures (1991-07-16)(Konami)(beta)">
+		<description>Tiny Toon Adventures (1991-07-16)(Konami)(beta)</description>
+		<rom name="Tiny Toon Adventures (1991-07-16)(Konami)(beta).gb" size="131072" crc="4e4a17b5" md5="454e1f0a2af6070b408694e7e05482be" sha1="cb9753abd9f5ba69f310d7309a2a824caafa7f54"/>
+	</game>
+	<game name="Tiny Toon Adventures (1991-09-06)(Konami)(beta)">
+		<description>Tiny Toon Adventures (1991-09-06)(Konami)(beta)</description>
+		<rom name="Tiny Toon Adventures (1991-09-06)(Konami)(beta).gb" size="131072" crc="7bf96ca9" md5="707e941e70f9a0c3dbd112cbf4c88f36" sha1="2d15917713d9f7ba62b6b54b4bd845617515e847"/>
+	</game>
 	<game name="Tiny Toon Adventures - Dokidoki Sport Festival (1994)(Konami)(JP)">
 		<description>Tiny Toon Adventures - Dokidoki Sport Festival (1994)(Konami)(JP)</description>
 		<rom name="Tiny Toon Adventures - Dokidoki Sport Festival (1994)(Konami)(JP).gb" size="131072" crc="3fa10931" md5="72dfa391aabb34d0a047443ee11c83ac" sha1="e4b8d9bed45083472141f6856a13b04825164166"/>
@@ -15375,6 +15507,10 @@
 	<game name="Tom and Jerry - Frantic Antics! (1993)(Hi Tech)">
 		<description>Tom and Jerry - Frantic Antics! (1993)(Hi Tech)</description>
 		<rom name="Tom and Jerry - Frantic Antics! (1993)(Hi Tech).gb" size="131072" crc="c2dbd1aa" md5="cb61afd7708d90d976f585edebcaaa89" sha1="9f8adf286e5ce5868c758b1c2f195ef596a3df2b"/>
+	</game>
+	<game name="Tom and Jerry - Frantic Antics! (1993)(Hi Tech)(beta)">
+		<description>Tom and Jerry - Frantic Antics! (1993)(Hi Tech)(beta)</description>
+		<rom name="Tom and Jerry - Frantic Antics! (1993)(Hi Tech)(beta).gb" size="131072" crc="4415cc6b" md5="7e5cd07ccb647c0c281309630d70af68" sha1="56dd5f7346ea60e6d5e081462c4fa73389777494"/>
 	</game>
 	<game name="Tom and Jerry Part 2 (1993)(Altron)(JP)">
 		<description>Tom and Jerry Part 2 (1993)(Altron)(JP)</description>
@@ -15791,6 +15927,10 @@
 	<game name="Ultima - Runes of Virtue II (1993)(Origin)(JP)[b]">
 		<description>Ultima - Runes of Virtue II (1993)(Origin)(JP)[b]</description>
 		<rom name="Ultima - Runes of Virtue II (1993)(Origin)(JP)[b].gb" size="262144" crc="1a10bf8a" md5="7527d2d1c1cea725ec96da90f6d64a86" sha1="bcc86d3573d8fa771387a4d4ea27209c10664d70"/>
+	</game>
+	<game name="Ultra Golf (1991-11-20)(Konami)(US)(beta)">
+		<description>Ultra Golf (1991-11-20)(Konami)(US)(beta)</description>
+		<rom name="Ultra Golf (1991-11-20)(Konami)(US)(beta).gb" size="131072" crc="d9ddb091" md5="6550d03ed6c62fade08ca7647e57a068" sha1="b29e5da6f794a010d858f4398da85145f20d8c55"/>
 	</game>
 	<game name="Ultra Golf (1992)(Konami)(US)">
 		<description>Ultra Golf (1992)(Konami)(US)</description>
@@ -16299,6 +16439,10 @@
 	<game name="World Beach Volley - 1992 GB Cup (1992)(IGS)(EU)">
 		<description>World Beach Volley - 1992 GB Cup (1992)(IGS)(EU)</description>
 		<rom name="World Beach Volley - 1992 GB Cup (1992)(IGS)(EU).gb" size="131072" crc="4023e085" md5="54cdfd90c8038846714643b2a68c6bb8" sha1="0d98dd2a489d0c26f153203e14d5997eb2365847"/>
+	</game>
+	<game name="World Beach Volley - 1992 GB Cup (1992)(IGS)(EU)(beta)">
+		<description>World Beach Volley - 1992 GB Cup (1992)(IGS)(EU)(beta)</description>
+		<rom name="World Beach Volley - 1992 GB Cup (1992)(IGS)(EU)(beta).gb" size="131072" crc="d654cbcd" md5="4ba0ac0dfb3bcee737db0971105f468c" sha1="011555cecb84616eb32f25c7db203bb82874292a"/>
 	</game>
 	<game name="World Bowling (1989)(Athena)(JP)">
 		<description>World Bowling (1989)(Athena)(JP)</description>
