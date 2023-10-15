@@ -4,3 +4,4 @@ Please do not report issues or merge requests here use the offical channels link
 Compared to the offical release:
 - Script folder is removed
 - all DAT filenames are renamed to get rid of dates encoded in the filename (see rename.sh)
+- all files use unix newline to ease GIT use
