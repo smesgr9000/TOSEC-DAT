@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Educational - [Z64]</name>
-		<description>Commodore C64 - Educational - [Z64] (TOSEC-v2022-12-23)</description>
+		<description>Commodore C64 - Educational - [Z64] (TOSEC-v2024-04-13)</description>
 		<category>TOSEC</category>
-		<version>2022-12-23</version>
+		<version>2024-04-13</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -132,6 +132,15 @@
 		<rom name="a!Geometric (1995)(CP Verlag)[cr AFL].z64" size="39502" crc="88ce7a90" md5="e6ff7a2a944c379f2897c95c040f1333" sha1="9ff8e254b9e0dc24b07eb2ebb2c8d2fed8260128"/>
 		<rom name="b!Geometric (1995)(CP Verlag)[cr AFL].z64" size="10146" crc="9fea860b" md5="ed1dae601a7fde60692c315cb840ee3c" sha1="638041dc7320b7f6abe10632d2dd1a91af90a429"/>
 		<rom name="x!Geometric (1995)(CP Verlag)[cr AFL].z64" size="576" crc="6c61b423" md5="80969e8273299881c5d938ce0253b927" sha1="e6e963fc949ab610f72f5d5b0bc481f20b3bd6a9"/>
+	</game>
+	<game name="Halley Project, The (1986)(Mindscape)">
+		<description>Halley Project, The (1986)(Mindscape)</description>
+		<rom name="1!!Halley Project, The (1986)(Mindscape).z64" size="42615" crc="dc078df2" md5="35790863b4864779b85cadb45c9400db" sha1="e8e672e5e7005d896fb00aee9d710da5306762cf"/>
+		<rom name="2!!Halley Project, The (1986)(Mindscape).z64" size="42615" crc="c3e08af9" md5="bb018e157a3e6943889c70cc8c1ade91" sha1="0ecd63dded41812d0cc1b21fe8492e5b71db6e88"/>
+		<rom name="3!!Halley Project, The (1986)(Mindscape).z64" size="41637" crc="31b277c4" md5="dafc114e5f54113e028e05d01f1e45d5" sha1="a52761c4b1565ffa4c93d510306f808dba91ab1b"/>
+		<rom name="4!!Halley Project, The (1986)(Mindscape).z64" size="44827" crc="b0bfb902" md5="edf8c844452743463e4c70ccf805de2b" sha1="3a7e9324131385ba3ce5c13da492fd143a1de54c"/>
+		<rom name="5!!Halley Project, The (1986)(Mindscape).z64" size="42219" crc="0d816649" md5="29037a14370a75f47b10bb4228d85328" sha1="7faf49592a398e9ed1c8e9fdeccad0dfa71de677"/>
+		<rom name="6!!Halley Project, The (1986)(Mindscape).z64" size="17397" crc="e7f092b4" md5="0681b80fcba41bd9e45814fa1b386e6c" sha1="c3da4afcffc1645e3f50b77e8c696d340428158e"/>
 	</game>
 	<game name="Ham Radio Study Guide (1986)(The Lanz Company)">
 		<description>Ham Radio Study Guide (1986)(The Lanz Company)</description>
@@ -362,19 +371,19 @@
 		<rom name="3!Studio Funzioni (19xx)(-)(it).z64" size="36429" crc="a4751bdc" md5="932d5de40019f6943b126cec51b6fa52" sha1="871286e72c7147b27e17b9bc841fe14293d75ddd"/>
 		<rom name="4!Studio Funzioni (19xx)(-)(it).z64" size="41732" crc="5218b99b" md5="6343ea8bf362cbb65b29c7f9c3562093" sha1="d0bc86b76491adc84a5fd7f2b2f40e42d4010320"/>
 	</game>
-	<game name="Tetrados (1992-09)(CP-Verlag)[cr MOD]">
-		<description>Tetrados (1992-09)(CP-Verlag)[cr MOD]</description>
-		<rom name="1!Tetrados (1992-09)(CP-Verlag)[cr MOD].z64" size="2944" crc="24b381b1" md5="8681efc2afeb5b860c4d7d37c438df31" sha1="d0ed71584d26edfbee31202e476a2640aabfc469"/>
-		<rom name="2!Tetrados (1992-09)(CP-Verlag)[cr MOD].z64" size="43392" crc="06a5411c" md5="7753d52c96a0b026f25a318ef7e9cac6" sha1="c2173c18a7bf63f2ee7156540a5bafb2a9deb552"/>
-		<rom name="3!Tetrados (1992-09)(CP-Verlag)[cr MOD].z64" size="15232" crc="0d6ebd09" md5="e147824f2fb00eb667a5f4081a8579d2" sha1="bd735aa08c4232acdebb6c6e18f28d22a6cc2e76"/>
-		<rom name="4!Tetrados (1992-09)(CP-Verlag)[cr MOD].z64" size="1408" crc="7e15aa30" md5="46460aaf4c278a4cd035ac01e01d61be" sha1="22a23de63198dabdf31fd2ee91922c1b6cf2619f"/>
+	<game name="Tetrados (1992-09)(CP Verlag)[cr MOD]">
+		<description>Tetrados (1992-09)(CP Verlag)[cr MOD]</description>
+		<rom name="1!Tetrados (1992-09)(CP Verlag)[cr MOD].z64" size="2944" crc="24b381b1" md5="8681efc2afeb5b860c4d7d37c438df31" sha1="d0ed71584d26edfbee31202e476a2640aabfc469"/>
+		<rom name="2!Tetrados (1992-09)(CP Verlag)[cr MOD].z64" size="43392" crc="06a5411c" md5="7753d52c96a0b026f25a318ef7e9cac6" sha1="c2173c18a7bf63f2ee7156540a5bafb2a9deb552"/>
+		<rom name="3!Tetrados (1992-09)(CP Verlag)[cr MOD].z64" size="15232" crc="0d6ebd09" md5="e147824f2fb00eb667a5f4081a8579d2" sha1="bd735aa08c4232acdebb6c6e18f28d22a6cc2e76"/>
+		<rom name="4!Tetrados (1992-09)(CP Verlag)[cr MOD].z64" size="1408" crc="7e15aa30" md5="46460aaf4c278a4cd035ac01e01d61be" sha1="22a23de63198dabdf31fd2ee91922c1b6cf2619f"/>
 	</game>
-	<game name="Tetrados (1992-09)(CP-Verlag)[cr Success][t +3]">
-		<description>Tetrados (1992-09)(CP-Verlag)[cr Success][t +3]</description>
-		<rom name="1!Tetrados (1992-09)(CP-Verlag)[cr Success][t +3].z64" size="38364" crc="fcf3ae2e" md5="072dcf2da2a0be0a6a57ab9bd0076d2d" sha1="f50319351ae36594c3d7a24750e1684867e35c51"/>
-		<rom name="2!Tetrados (1992-09)(CP-Verlag)[cr Success][t +3].z64" size="32763" crc="abcbcf41" md5="d1bcb325431f76936becaf5e2b64bffe" sha1="92c4c94a1c5f38298da561e9ffdccbddc4a7cd91"/>
-		<rom name="3!Tetrados (1992-09)(CP-Verlag)[cr Success][t +3].z64" size="30469" crc="1d740305" md5="f0530ff6ece7047be5b3f304a795f6f0" sha1="254b0ba3724dbea01586714c48f32465675229c0"/>
-		<rom name="4!Tetrados (1992-09)(CP-Verlag)[cr Success][t +3].z64" size="41875" crc="78b185c6" md5="a3dbec8483dc3d4cb56c4fc65efa4cf0" sha1="fa3e5d247d0a3d879a89a170dd7180487a08ae5f"/>
+	<game name="Tetrados (1992-09)(CP Verlag)[cr Success][t +3]">
+		<description>Tetrados (1992-09)(CP Verlag)[cr Success][t +3]</description>
+		<rom name="1!Tetrados (1992-09)(CP Verlag)[cr Success][t +3].z64" size="38364" crc="fcf3ae2e" md5="072dcf2da2a0be0a6a57ab9bd0076d2d" sha1="f50319351ae36594c3d7a24750e1684867e35c51"/>
+		<rom name="2!Tetrados (1992-09)(CP Verlag)[cr Success][t +3].z64" size="32763" crc="abcbcf41" md5="d1bcb325431f76936becaf5e2b64bffe" sha1="92c4c94a1c5f38298da561e9ffdccbddc4a7cd91"/>
+		<rom name="3!Tetrados (1992-09)(CP Verlag)[cr Success][t +3].z64" size="30469" crc="1d740305" md5="f0530ff6ece7047be5b3f304a795f6f0" sha1="254b0ba3724dbea01586714c48f32465675229c0"/>
+		<rom name="4!Tetrados (1992-09)(CP Verlag)[cr Success][t +3].z64" size="41875" crc="78b185c6" md5="a3dbec8483dc3d4cb56c4fc65efa4cf0" sha1="fa3e5d247d0a3d879a89a170dd7180487a08ae5f"/>
 	</game>
 	<game name="Think Cross (1991)(Ascon Software)[cr DTC][t +2 DTC]">
 		<description>Think Cross (1991)(Ascon Software)[cr DTC][t +2 DTC]</description>

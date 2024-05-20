@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - [P00]</name>
-		<description>Commodore C64 - Applications - [P00] (TOSEC-v2022-01-31)</description>
+		<description>Commodore C64 - Applications - [P00] (TOSEC-v2024-02-24)</description>
 		<category>TOSEC</category>
-		<version>2022-01-31</version>
+		<version>2024-02-24</version>
 		<author>Duncan Twain - DesertWolf - Apache - Hunt4Gold</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -40,9 +40,9 @@
 		<description>Advanced Art Studio v1.2b (1987)(EEC)[a2]</description>
 		<rom name="Advanced Art Studio v1.2b (1987)(EEC)[a2].p00" size="24986" crc="d4b1f208" md5="6e95da177479f1ef20a0d486e342a433" sha1="217f96d7bef845204660e740c888b27ce8f2bf95"/>
 	</game>
-	<game name="Adventure Creator (1984)(Spinnaker Software)">
-		<description>Adventure Creator (1984)(Spinnaker Software)</description>
-		<rom name="Adventure Creator (1984)(Spinnaker Software).p00" size="23269" crc="bea18e45" md5="66d34c78406e7c3f3cd23b1a6f62e286" sha1="bd5b030b39528d6483e7e23a47e916e09ccb81d4"/>
+	<game name="Adventure Creator (1984)(Spinnaker)">
+		<description>Adventure Creator (1984)(Spinnaker)</description>
+		<rom name="Adventure Creator (1984)(Spinnaker).p00" size="23269" crc="bea18e45" md5="66d34c78406e7c3f3cd23b1a6f62e286" sha1="bd5b030b39528d6483e7e23a47e916e09ccb81d4"/>
 	</game>
 	<game name="Animator (1987)(The Highlanders)">
 		<description>Animator (1987)(The Highlanders)</description>
@@ -300,6 +300,10 @@
 		<description>Mad Format (19xx)(Proxyon)</description>
 		<rom name="Mad Format (19xx)(Proxyon).p00" size="2000" crc="3d95aeb5" md5="d22015de28de10abc641a1384df2eaa2" sha1="c5e6d6f4cf1177116648a3ce1baf02082535c84c"/>
 	</game>
+	<game name="Maverick - Illegal Sector Editor (1989)(KJPB)">
+		<description>Maverick - Illegal Sector Editor (1989)(KJPB)</description>
+		<rom name="Maverick - Illegal Sector Editor (1989)(KJPB).p00" size="14713" crc="04167796" md5="50927cd5ab4d90451341345617bc09a7" sha1="5005c11ed8277d6e35e874b600833944cc9fa9d3"/>
+	</game>
 	<game name="MDD Intro Maker (1992-02-21)(Mighty Demolition Department)">
 		<description>MDD Intro Maker (1992-02-21)(Mighty Demolition Department)</description>
 		<rom name="MDD Intro Maker (1992-02-21)(Mighty Demolition Department).p00" size="10412" crc="a9458ad8" md5="d3af35c9ff349b66a3e3042f9d7f69ff" sha1="cdcd8d72b0c0c7f4beac2a6909f8abb1a365a4c1"/>
@@ -335,6 +339,10 @@
 	<game name="Online Super Copier (1988)(Mafia Joe)">
 		<description>Online Super Copier (1988)(Mafia Joe)</description>
 		<rom name="Online Super Copier (1988)(Mafia Joe).p00" size="9407" crc="d790f3db" md5="5827aa95c2c0f8ba7fa2ce9c8a018673" sha1="dbf8a7470edbf01ccabd8b315f929ea569c1f046"/>
+	</game>
+	<game name="Paint Magic+ (1997-08-20)(Alivers - Black - Mac)">
+		<description>Paint Magic+ (1997-08-20)(Alivers - Black - Mac)</description>
+		<rom name="Paint Magic+ (1997-08-20)(Alivers - Black - Mac).p00" size="7019" crc="32e2ab99" md5="98025c1160831823e31221a8e96d9ed5" sha1="a4c07df9e77059c41d41b4fb49f4bce4ff821e1b"/>
 	</game>
 	<game name="Profi-Writer (1986)(ISP)">
 		<description>Profi-Writer (1986)(ISP)</description>
@@ -467,22 +475,6 @@
 	<game name="Voda II (19xx)(Beograd Cracking Service)">
 		<description>Voda II (19xx)(Beograd Cracking Service)</description>
 		<rom name="Voda II (19xx)(Beograd Cracking Service).p00" size="1499" crc="c8aadb76" md5="91283f2b8c27a8c50dac6b33934fe055" sha1="40f77833a70127ca44eda84291019989293b5bcf"/>
-	</game>
-	<game name="War Cars Construction Kit (1988)(Firebird)">
-		<description>War Cars Construction Kit (1988)(Firebird)</description>
-		<rom name="War Cars Construction Kit (1988)(Firebird).p00" size="33802" crc="3187ce70" md5="6d76d546bad653b5f0f331cbc270722b" sha1="e39ef1ee6f7b4a849337e27a195fd3c3cfae3e3f"/>
-	</game>
-	<game name="War Cars Construction Kit (1988)(Firebird)[cr Hotline]">
-		<description>War Cars Construction Kit (1988)(Firebird)[cr Hotline]</description>
-		<rom name="War Cars Construction Kit (1988)(Firebird)[cr Hotline].p00" size="27374" crc="92260230" md5="16d8fe24cb251df7e23d79ebcb316483" sha1="6253f6fea5746b883693151262c2ac8de7720844"/>
-	</game>
-	<game name="War Cars Construction Kit (1988)(Firebird)[cr Ikari]">
-		<description>War Cars Construction Kit (1988)(Firebird)[cr Ikari]</description>
-		<rom name="War Cars Construction Kit (1988)(Firebird)[cr Ikari].p00" size="35487" crc="bb8bf434" md5="3d5c30c394dda821104d303ec6e8aa2e" sha1="9ae374f24fe55d04577230768a40c4ee6d665b4f"/>
-	</game>
-	<game name="War Cars Construction Kit (1988)(Firebird)[cr TIC][t +2 TFAC]">
-		<description>War Cars Construction Kit (1988)(Firebird)[cr TIC][t +2 TFAC]</description>
-		<rom name="War Cars Construction Kit (1988)(Firebird)[cr TIC][t +2 TFAC].p00" size="35514" crc="2e5f1733" md5="aa6f4d8af3fdefccc4b84e3a51c88251" sha1="55e3d9a70b06770244bc9482985e995423138759"/>
 	</game>
 	<game name="ZAP 1501 Fast Loader (19xx)(-)">
 		<description>ZAP 1501 Fast Loader (19xx)(-)</description>

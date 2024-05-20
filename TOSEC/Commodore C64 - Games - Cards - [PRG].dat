@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Cards - [PRG]</name>
-		<description>Commodore C64 - Games - Cards - [PRG] (TOSEC-v2023-06-10)</description>
+		<description>Commodore C64 - Games - Cards - [PRG] (TOSEC-v2024-03-12)</description>
 		<category>TOSEC</category>
-		<version>2023-06-10</version>
+		<version>2024-03-12</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -84,9 +84,9 @@
 		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8 - BYC][t]</description>
 		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8 - BYC][t].prg" size="24511" crc="0f1027dd" md5="914bff572f3591cf1097324e36a3edc9" sha1="70683ae79d8f7df9e4986be4c5f547909b848358"/>
 	</game>
-	<game name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8]">
-		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8]</description>
-		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8].prg" size="37842" crc="4d7a83aa" md5="b0758e51540b5c1a0a33a1025bb56fed" sha1="77881591ad259f1522c12bf2f5453405eba297f2"/>
+	<game name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8]">
+		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8]</description>
+		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8].prg" size="37842" crc="4d7a83aa" md5="b0758e51540b5c1a0a33a1025bb56fed" sha1="77881591ad259f1522c12bf2f5453405eba297f2"/>
 	</game>
 	<game name="Acey-Deucy (1980)(Vince Mills)[BASIC]">
 		<description>Acey-Deucy (1980)(Vince Mills)[BASIC]</description>
@@ -107,6 +107,10 @@
 	<game name="Autowuste (19xx)(-)(de)">
 		<description>Autowuste (19xx)(-)(de)</description>
 		<rom name="Autowuste (19xx)(-)(de).prg" size="1218" crc="7b6fa6c6" md5="d155678e31195ae507b8dd8b30623d0a" sha1="45044426605bd132638fa3299a9face6932ebddb"/>
+	</game>
+	<game name="Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)">
+		<description>Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)</description>
+		<rom name="Baccarat C-64 (1983)(CPU - Roeske Verlag)(de).prg" size="8866" crc="8c9919b6" md5="6ed593d42c2af1c21e4999214edf6a52" sha1="c98255ffe6cf8a5bad9960c9418cd71ca4f35e89"/>
 	</game>
 	<game name="Bauern-Legen (19xx)(-)(de)">
 		<description>Bauern-Legen (19xx)(-)(de)</description>
@@ -300,10 +304,6 @@
 		<description>Canfield (1988)(Compute!)</description>
 		<rom name="Canfield (1988)(Compute!).prg" size="10825" crc="fe21ce58" md5="40aa25923c04d9c23a74703e4b09126b" sha1="0097cacaaa78200e7add6af868edc257f820491d"/>
 	</game>
-	<game name="Card Sharks (1988)(Accolade)">
-		<description>Card Sharks (1988)(Accolade)</description>
-		<rom name="Card Sharks (1988)(Accolade).prg" size="1341" crc="c7c91623" md5="5453a3736db6cede4357921add73a3ce" sha1="13e4c32088398bc10bb2478ff455e21533e965e3"/>
-	</game>
 	<game name="Cards at War (1985)(Tab Books)">
 		<description>Cards at War (1985)(Tab Books)</description>
 		<rom name="Cards at War (1985)(Tab Books).prg" size="2536" crc="10dea245" md5="11a77dfba76069d32595555b205ef5cb" sha1="53287232144890320eaa674798ab92fdbda47efd"/>
@@ -331,6 +331,10 @@
 	<game name="Comp-u-taire (1984)(Commonwealth Computer Inc.)">
 		<description>Comp-u-taire (1984)(Commonwealth Computer Inc.)</description>
 		<rom name="Comp-u-taire (1984)(Commonwealth Computer Inc.).prg" size="10858" crc="a0d9cf33" md5="40d6f7458fadd758a34c6b1f3b8fa0a3" sha1="5d39953cde482cf1d2c7c6459e490a23f544c298"/>
+	</game>
+	<game name="Computer Baccarat (1983)(Stuart, Chuck)">
+		<description>Computer Baccarat (1983)(Stuart, Chuck)</description>
+		<rom name="Computer Baccarat (1983)(Stuart, Chuck).prg" size="5817" crc="2fcc0245" md5="167c817baa37a9d0274ff43a3045f971" sha1="4561cf7d363ca09b7d07fb486c871f7a7e1f52ad"/>
 	</game>
 	<game name="Computer Blackjack (1982)(-)">
 		<description>Computer Blackjack (1982)(-)</description>
@@ -492,6 +496,14 @@
 		<description>Go Fish (1984)(Interface Publications)</description>
 		<rom name="Go Fish (1984)(Interface Publications).prg" size="3130" crc="10fd1408" md5="37eb06d68bc7f34480be98631c226fc6" sha1="4f52bf0f0497947c80bb595d8eaa491a64e61873"/>
 	</game>
+	<game name="Hartenjagen v1 (19xx)(-)(nl)">
+		<description>Hartenjagen v1 (19xx)(-)(nl)</description>
+		<rom name="Hartenjagen v1 (19xx)(-)(nl).prg" size="4152" crc="e3984207" md5="52027d03fcdd46c89b273efb4aeb16bf" sha1="60a2d9ef42759ab966e57a2063655c272e0db867"/>
+	</game>
+	<game name="Hartenjagen v2 (19xx)(-)(nl)">
+		<description>Hartenjagen v2 (19xx)(-)(nl)</description>
+		<rom name="Hartenjagen v2 (19xx)(-)(nl).prg" size="5909" crc="f6c8e018" md5="d079878fec754f270e299bef2f27f330" sha1="7af97195b4df9aaae40a26ee16cfeb23ee7b900f"/>
+	</game>
 	<game name="High Rise or Three Card Brag (1984)(Cascade)">
 		<description>High Rise or Three Card Brag (1984)(Cascade)</description>
 		<rom name="High Rise or Three Card Brag (1984)(Cascade).prg" size="5482" crc="d5f5e295" md5="a14b5c7b64cb00a55a827acfc50e4011" sha1="fa93538164e60ce65d3c5701ea096b7884171617"/>
@@ -596,13 +608,13 @@
 		<description>Knock Thirty One (1989)(Compute!)</description>
 		<rom name="Knock Thirty One (1989)(Compute!).prg" size="4761" crc="1b283ef8" md5="a5ac2ce17e860fbd9bac80aa95192a00" sha1="222312d0acfa0156f49e58e94d09beba2fe96346"/>
 	</game>
-	<game name="Las Vegas Video Poker Casino (1986)(Mastertronic)">
-		<description>Las Vegas Video Poker Casino (1986)(Mastertronic)</description>
-		<rom name="Las Vegas Video Poker Casino (1986)(Mastertronic).prg" size="29860" crc="09597b94" md5="987f5fba32ea8205908f540d7374384f" sha1="7b71a8d03b37c0ed371c0e9bf83bc8cc7e142c35"/>
+	<game name="Las Vegas Video Poker (1986)(Mastertronic)">
+		<description>Las Vegas Video Poker (1986)(Mastertronic)</description>
+		<rom name="Las Vegas Video Poker (1986)(Mastertronic).prg" size="29860" crc="09597b94" md5="987f5fba32ea8205908f540d7374384f" sha1="7b71a8d03b37c0ed371c0e9bf83bc8cc7e142c35"/>
 	</game>
-	<game name="Las Vegas Video Poker Casino (1986)(Mastertronic)[a]">
-		<description>Las Vegas Video Poker Casino (1986)(Mastertronic)[a]</description>
-		<rom name="Las Vegas Video Poker Casino (1986)(Mastertronic)[a].prg" size="23954" crc="9c6098f2" md5="64b653fb9c5f64eb174b5aa4052658bc" sha1="dc4169a2e9e573f0a651bcc43758a3c5017ba472"/>
+	<game name="Las Vegas Video Poker (1986)(Mastertronic)[a]">
+		<description>Las Vegas Video Poker (1986)(Mastertronic)[a]</description>
+		<rom name="Las Vegas Video Poker (1986)(Mastertronic)[a].prg" size="23954" crc="9c6098f2" md5="64b653fb9c5f64eb174b5aa4052658bc" sha1="dc4169a2e9e573f0a651bcc43758a3c5017ba472"/>
 	</game>
 	<game name="Magic Poker 64 (1989)(CP Verlag)">
 		<description>Magic Poker 64 (1989)(CP Verlag)</description>

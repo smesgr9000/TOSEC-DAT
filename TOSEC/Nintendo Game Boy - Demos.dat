@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Demos</name>
-		<description>Nintendo Game Boy - Demos (TOSEC-v2023-06-14)</description>
+		<description>Nintendo Game Boy - Demos (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -60,9 +60,21 @@
 		<description>bcd_test (2020-07-27)(Toxa)(MIT)</description>
 		<rom name="bcd_test (2020-07-27)(Toxa)(MIT).gb" size="32768" crc="f5263741" md5="6ea6b913533167c377e1ba251f8b7f77" sha1="e61fc923c74dce84d8ec78a7ccdce93234367d4c"/>
 	</game>
-	<game name="Big Scroller (1998)(Anders Granlund)">
-		<description>Big Scroller (1998)(Anders Granlund)</description>
-		<rom name="Big Scroller (1998)(Anders Granlund).gb" size="32768" crc="a729d9fc" md5="d6d839eaac2d01ff3db44caebeaa6882" sha1="1fda6359c483ce5e04b3db08cfaf2f3576a33179"/>
+	<game name="Big Scroller (1998)(Granlund, Anders)">
+		<description>Big Scroller (1998)(Granlund, Anders)</description>
+		<rom name="Big Scroller (1998)(Granlund, Anders).gb" size="32768" crc="a729d9fc" md5="d6d839eaac2d01ff3db44caebeaa6882" sha1="1fda6359c483ce5e04b3db08cfaf2f3576a33179"/>
+	</game>
+	<game name="Bung Greetings Demo (19xx)(Bung)(HK)">
+		<description>Bung Greetings Demo (19xx)(Bung)(HK)</description>
+		<rom name="Bung Greetings Demo (19xx)(Bung)(HK).gb" size="65536" crc="1ae05af4" md5="b6da1be691ee98480f943e4fcdf5222d" sha1="bb01f845d330377749aeb6df1f7bea0eff78bb89"/>
+	</game>
+	<game name="Bung New Year's Greetings Demo (19xx)(Bung)(HK)">
+		<description>Bung New Year's Greetings Demo (19xx)(Bung)(HK)</description>
+		<rom name="Bung New Year's Greetings Demo (19xx)(Bung)(HK).gb" size="65536" crc="493d4a1e" md5="0d327db8aabf20a0f6c4698f594b939c" sha1="737402fe70924f893fc212393eeb7f46f225745a"/>
+	</game>
+	<game name="Chorus Continues, The (2023-07)(Inversion)">
+		<description>Chorus Continues, The (2023-07)(Inversion)</description>
+		<rom name="Chorus Continues, The (2023-07)(Inversion).gb" size="262144" crc="af657bd0" md5="02c423e791da8109b988fed631689ea0" sha1="048fc3b2bb7b1a5e0367dedadeb7796b5c92f8e5"/>
 	</game>
 	<game name="CyberBullying (2021-11-29)(S_TN)">
 		<description>CyberBullying (2021-11-29)(S_TN)</description>
@@ -79,6 +91,14 @@
 	<game name="DMG P-01 (2013)(Genesis Project)">
 		<description>DMG P-01 (2013)(Genesis Project)</description>
 		<rom name="DMG P-01 (2013)(Genesis Project).gb" size="131072" crc="781b5e6e" md5="1465c42e7e0a066db56bfc9dff9836ab" sha1="0061ab0dd45c02e22511ba88338ec739b10d0d82"/>
+	</game>
+	<game name="Doctor GB Card Demo (19xx)(Bung)(HK)">
+		<description>Doctor GB Card Demo (19xx)(Bung)(HK)</description>
+		<rom name="Doctor GB Card Demo (19xx)(Bung)(HK).gb" size="32768" crc="b5dfdc26" md5="84b3043cc7da78ef20df223c1fc5e5a0" sha1="1d403b254971faa5834bc48adfd42cc0bbed3fe4"/>
+	</game>
+	<game name="Doctor GB Card Demo (19xx)(Bung)(HK)[a]">
+		<description>Doctor GB Card Demo (19xx)(Bung)(HK)[a]</description>
+		<rom name="Doctor GB Card Demo (19xx)(Bung)(HK)[a].gb" size="32768" crc="3592390b" md5="faf003b4a560ac647f9545752384e52c" sha1="a6e3b81b8664f41eb18770cd5757ed4d8338be54"/>
 	</game>
 	<game name="dog (2022-01-07)(KINU06)">
 		<description>dog (2022-01-07)(KINU06)</description>
@@ -119,6 +139,10 @@
 	<game name="Game Boy Window as a Giant Sprite (2021-06-05)(bbbbbr)">
 		<description>Game Boy Window as a Giant Sprite (2021-06-05)(bbbbbr)</description>
 		<rom name="Game Boy Window as a Giant Sprite (2021-06-05)(bbbbbr).gb" size="32768" crc="bec067ba" md5="406876a0c80df1f580244deda5f126ea" sha1="4e8ea10add31d10ca1a8aa6a7c60f8db6c6286c3"/>
+	</game>
+	<game name="GB Raycaster (2015)(haroldo-ok)">
+		<description>GB Raycaster (2015)(haroldo-ok)</description>
+		<rom name="GB Raycaster (2015)(haroldo-ok).gb" size="65536" crc="0f1f683a" md5="da0ceafbd960dbb025aa81630ac91cd0" sha1="acbb1a4bb26b4e3e741dd332a5b7b7abf4b499d1"/>
 	</game>
 	<game name="GB Studio Tracks Vol. 1 (2020-09-12)(VHVS)">
 		<description>GB Studio Tracks Vol. 1 (2020-09-12)(VHVS)</description>
@@ -188,9 +212,9 @@
 		<description>Kirby XXL (1998)(H. Mulder)</description>
 		<rom name="Kirby XXL (1998)(H. Mulder).gb" size="32768" crc="47893b7f" md5="2b7f158b2e4569c8eab9bcac8ba36346" sha1="2ff1546dd30bc15ff9882730a00f9817c54eaaa5"/>
 	</game>
-	<game name="Landscape (1998)(Anders Granlund)">
-		<description>Landscape (1998)(Anders Granlund)</description>
-		<rom name="Landscape (1998)(Anders Granlund).gb" size="32768" crc="1371dd03" md5="16655d35e6c5a6b0b369ecbbbb211c33" sha1="2af3d108f6e865019c1da7a7ae8c2d07f1414990"/>
+	<game name="Landscape (1998)(Granlund, Anders)">
+		<description>Landscape (1998)(Granlund, Anders)</description>
+		<rom name="Landscape (1998)(Granlund, Anders).gb" size="32768" crc="1371dd03" md5="16655d35e6c5a6b0b369ecbbbb211c33" sha1="2af3d108f6e865019c1da7a7ae8c2d07f1414990"/>
 	</game>
 	<game name="Lost &amp; found Punch-Out!! for GameBoy (2021-04-01)(Maxfilm Games)">
 		<description>Lost &amp; found Punch-Out!! for GameBoy (2021-04-01)(Maxfilm Games)</description>
@@ -208,9 +232,9 @@
 		<description>Monkey Cowboys Extreme (2006)(Jumalauta)</description>
 		<rom name="Monkey Cowboys Extreme (2006)(Jumalauta).gb" size="131072" crc="bcc9d387" md5="5bd45647c293ce8ccf01b0ef50c55231" sha1="712ce9ae073b031a645ea8eefd7541ad34cc2990"/>
 	</game>
-	<game name="Murdera (2006)(Matt Current)">
-		<description>Murdera (2006)(Matt Current)</description>
-		<rom name="Murdera (2006)(Matt Current).gb" size="131072" crc="c2889322" md5="520d4920b7d8c7d878165fb8c1db063c" sha1="0f338ac4d6909d9266265955bd778a5ea0d866b3"/>
+	<game name="Murdera (2006)(Current, Matt)">
+		<description>Murdera (2006)(Current, Matt)</description>
+		<rom name="Murdera (2006)(Current, Matt).gb" size="131072" crc="c2889322" md5="520d4920b7d8c7d878165fb8c1db063c" sha1="0f338ac4d6909d9266265955bd778a5ea0d866b3"/>
 	</game>
 	<game name="Music for Marzipan Beef Reverser (2022-04-12)(sloopygoop)">
 		<description>Music for Marzipan Beef Reverser (2022-04-12)(sloopygoop)</description>
@@ -268,9 +292,9 @@
 		<description>Pre-Teen Wasteland v5 (2021-11-06)(sloopygoop)</description>
 		<rom name="Pre-Teen Wasteland v5 (2021-11-06)(sloopygoop).gbc" size="524288" crc="33c2f009" md5="a4a2229031550e04870c028b54775e13" sha1="01e1c4bf435ecc8db7e748663de238babdde42a7"/>
 	</game>
-	<game name="Punk (1998)(Anders Granlund)">
-		<description>Punk (1998)(Anders Granlund)</description>
-		<rom name="Punk (1998)(Anders Granlund).gb" size="524288" crc="3f20126e" md5="ce2798f4b8b9163b7850e88c8d07cc80" sha1="9f2857fe697fd76028c2d7bb56085547bb57527a"/>
+	<game name="Punk (1998)(Granlund, Anders)">
+		<description>Punk (1998)(Granlund, Anders)</description>
+		<rom name="Punk (1998)(Granlund, Anders).gb" size="524288" crc="3f20126e" md5="ce2798f4b8b9163b7850e88c8d07cc80" sha1="9f2857fe697fd76028c2d7bb56085547bb57527a"/>
 	</game>
 	<game name="Raiders of Cael Grand (2021-06-14)(therurik)">
 		<description>Raiders of Cael Grand (2021-06-14)(therurik)</description>
@@ -343,6 +367,10 @@
 	<game name="Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en)">
 		<description>Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en)</description>
 		<rom name="Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en).gb" size="262144" crc="f835a6cf" md5="0f9005e93abb71219544a68236f15f18" sha1="0ec5b736d9417353623556c6bb575ada28411c27"/>
+	</game>
+	<game name="Star Control Spaceship Combat (2015)(haroldo-ok)">
+		<description>Star Control Spaceship Combat (2015)(haroldo-ok)</description>
+		<rom name="Star Control Spaceship Combat (2015)(haroldo-ok).gb" size="65536" crc="362bc25b" md5="86d44bf9c39fcf4e193c9e504d839d74" sha1="d2de91050ccd779176da52898662ce61333c4ac6"/>
 	</game>
 	<game name="Syntax Pocket Party, The (2020)(Beige)">
 		<description>Syntax Pocket Party, The (2020)(Beige)</description>

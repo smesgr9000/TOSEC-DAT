@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Applications - [WOZ]</name>
-		<description>Apple II - Applications - [WOZ] (TOSEC-v2023-06-14)</description>
+		<description>Apple II - Applications - [WOZ] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -408,9 +408,13 @@
 		<description>Beagle Graphics (1985-03-01)(Beagle Bros)(IIE)(US)(Side B)(ProDOS)[128K]</description>
 		<rom name="Beagle Graphics (1985-03-01)(Beagle Bros)(IIE)(US)(Side B)(ProDOS)[128K].woz" size="234803" crc="15a72816" md5="a02240239dedcbd51904d88b8fe11343" sha1="d25652fb110ef71df11066a3fd5dd2cd3bd5d5b1"/>
 	</game>
-	<game name="BIG &amp; little v1.0 (1990)(Sunburst Communications)(II+)[128K]">
-		<description>BIG &amp; little v1.0 (1990)(Sunburst Communications)(II+)[128K]</description>
-		<rom name="BIG &amp; little v1.0 (1990)(Sunburst Communications)(II+)[128K].woz" size="235570" crc="d5483c2c" md5="a786813acd1ecfb01602723e31f21f5a" sha1="30b70c74e7d439701b72474f3cb638812d5345ee"/>
+	<game name="Beastiary (1985)(Game Designers' Workshop)(US)">
+		<description>Beastiary (1985)(Game Designers' Workshop)(US)</description>
+		<rom name="Beastiary (1985)(Game Designers' Workshop)(US).woz" size="234867" crc="ce031009" md5="4d1009c3eb9cf9cc3157df94dd4b4a9e" sha1="1286a07759747cbfe492a464120852db530951e6"/>
+	</game>
+	<game name="BIG &amp; little v1.0 (1990)(Sunburst Communications)(II+)(US)[128K]">
+		<description>BIG &amp; little v1.0 (1990)(Sunburst Communications)(II+)(US)[128K]</description>
+		<rom name="BIG &amp; little v1.0 (1990)(Sunburst Communications)(II+)(US)[128K].woz" size="235570" crc="d5483c2c" md5="a786813acd1ecfb01602723e31f21f5a" sha1="30b70c74e7d439701b72474f3cb638812d5345ee"/>
 	</game>
 	<game name="Big Mac (19xx)(Bredon, G.)[language card version]">
 		<description>Big Mac (19xx)(Bredon, G.)[language card version]</description>
@@ -419,6 +423,10 @@
 	<game name="Big U, The (1985-12-02)(Beagle Bros.)(IIE)(US)[128K]">
 		<description>Big U, The (1985-12-02)(Beagle Bros.)(IIE)(US)[128K]</description>
 		<rom name="Big U, The (1985-12-02)(Beagle Bros.)(IIE)(US)[128K].woz" size="234779" crc="0a170abc" md5="2580ec4e802e6514a1748fdb3d9897b6" sha1="842ae5aee7a96a1e9dffbdd41d58a056050c8426"/>
+	</game>
+	<game name="Billboard v0.0 (1982)(Pacifico Micro Systems)(II+)[48K]">
+		<description>Billboard v0.0 (1982)(Pacifico Micro Systems)(II+)[48K]</description>
+		<rom name="Billboard v0.0 (1982)(Pacifico Micro Systems)(II+)[48K].woz" size="234805" crc="df4c95b3" md5="b0003dacbb15fca8b2c6bace755164ed" sha1="cebf7826013688c9e9c2cfa3dc72d9c3e312b7b9"/>
 	</game>
 	<game name="Blazing Paddles (1984)(Baudville)(II+)[48K]">
 		<description>Blazing Paddles (1984)(Baudville)(II+)[48K]</description>
@@ -568,9 +576,21 @@
 		<description>Complete Scarsdale Medical Diet, The (1985)(Bantam Electronic Publishing)(Disk 1 of 2)</description>
 		<rom name="Complete Scarsdale Medical Diet, The (1985)(Bantam Electronic Publishing)(Disk 1 of 2).woz" size="233216" crc="3b29eeb9" md5="70b1b977916e7eea4970916ca8083df6" sha1="f3511c4002a2e2f23bdace6f2c4ff4b7efc2683b"/>
 	</game>
+	<game name="Copy II Plus v1.0 (1981)(Central Point Software)(US)[48K][13-sector]">
+		<description>Copy II Plus v1.0 (1981)(Central Point Software)(US)[48K][13-sector]</description>
+		<rom name="Copy II Plus v1.0 (1981)(Central Point Software)(US)[48K][13-sector].woz" size="15165" crc="85758f41" md5="1572d93ece25d767a9713ab5119e1ec1" sha1="ae0492531ab0587c86f9287498eccbdcb80f7bc5"/>
+	</game>
+	<game name="Copy II Plus v1.0 (1981)(Central Point Software)(US)[48K][16-sector]">
+		<description>Copy II Plus v1.0 (1981)(Central Point Software)(US)[48K][16-sector]</description>
+		<rom name="Copy II Plus v1.0 (1981)(Central Point Software)(US)[48K][16-sector].woz" size="15165" crc="f48e1925" md5="d53d706449f000f8c813221a7f95865c" sha1="37ff946e01129a0811450507392f35a157d75288"/>
+	</game>
 	<game name="Copy II Plus v2 (1981)(Central Point Software)(US)[48K]">
 		<description>Copy II Plus v2 (1981)(Central Point Software)(US)[48K]</description>
 		<rom name="Copy II Plus v2 (1981)(Central Point Software)(US)[48K].woz" size="15140" crc="ae1aaf91" md5="f9a76d3443553f6659f81b0fdee59a3b" sha1="643ea0b293754108be3a7e58e403e4cf958baa18"/>
+	</game>
+	<game name="Copy II Plus v2.2 (1981)(Central Point Software)(US)[48K]">
+		<description>Copy II Plus v2.2 (1981)(Central Point Software)(US)[48K]</description>
+		<rom name="Copy II Plus v2.2 (1981)(Central Point Software)(US)[48K].woz" size="15165" crc="340b1801" md5="597c90e299fe985a334f2215bfbeb56c" sha1="c4742f940d13214e840351831ef978a29a29cf82"/>
 	</game>
 	<game name="Copy II Plus v6.0 beta 1 (1985)(Central Point Software)(II+)(US)(beta)[64K]">
 		<description>Copy II Plus v6.0 beta 1 (1985)(Central Point Software)(II+)(US)(beta)[64K]</description>
@@ -720,17 +740,17 @@
 		<description>DISASM (19xx)(Rak-Ware)(US)(Side A)</description>
 		<rom name="DISASM (19xx)(Rak-Ware)(US)(Side A).woz" size="234801" crc="4ba960fc" md5="46d4f8317e959ffef109e8e3e870d7df" sha1="fc876ebd2973ec3f61508ff2358b10273e26d2ca"/>
 	</game>
-	<game name="Disk Arranger v2.0 (1984-04)(Penguin Software)[a][AKA Catalog Organizer]">
-		<description>Disk Arranger v2.0 (1984-04)(Penguin Software)[a][AKA Catalog Organizer]</description>
-		<rom name="Disk Arranger v2.0 (1984-04)(Penguin Software)[a][AKA Catalog Organizer].woz" size="234559" crc="85d9888b" md5="98cf8874da0485cdd2ea7b0f03b9e6a2" sha1="d5074026fdabe47f7f1e1d8bceb1de1286011650"/>
+	<game name="Disk Arranger v2.0 (1984-04)(Penguin Software)(US)[a][AKA Catalog Organizer]">
+		<description>Disk Arranger v2.0 (1984-04)(Penguin Software)(US)[a][AKA Catalog Organizer]</description>
+		<rom name="Disk Arranger v2.0 (1984-04)(Penguin Software)(US)[a][AKA Catalog Organizer].woz" size="234559" crc="85d9888b" md5="98cf8874da0485cdd2ea7b0f03b9e6a2" sha1="d5074026fdabe47f7f1e1d8bceb1de1286011650"/>
 	</game>
-	<game name="Disk Arranger v2.0 (1984-04)(Penguin Software)[AKA Catalog Organizer]">
-		<description>Disk Arranger v2.0 (1984-04)(Penguin Software)[AKA Catalog Organizer]</description>
-		<rom name="Disk Arranger v2.0 (1984-04)(Penguin Software)[AKA Catalog Organizer].woz" size="234559" crc="c07ccec3" md5="7506c489caad9a27f46ff11a0fd1a270" sha1="1c5330a0185eff4fd585d12913a9b5309fdc3bdd"/>
+	<game name="Disk Arranger v2.0 (1984-04)(Penguin Software)(US)[AKA Catalog Organizer]">
+		<description>Disk Arranger v2.0 (1984-04)(Penguin Software)(US)[AKA Catalog Organizer]</description>
+		<rom name="Disk Arranger v2.0 (1984-04)(Penguin Software)(US)[AKA Catalog Organizer].woz" size="234559" crc="c07ccec3" md5="7506c489caad9a27f46ff11a0fd1a270" sha1="1c5330a0185eff4fd585d12913a9b5309fdc3bdd"/>
 	</game>
-	<game name="Disk Arranger v2.1 (1984-11)(Penguin Software)">
-		<description>Disk Arranger v2.1 (1984-11)(Penguin Software)</description>
-		<rom name="Disk Arranger v2.1 (1984-11)(Penguin Software).woz" size="234559" crc="bb94a2e5" md5="2a47e54533370a90f35a0ab255b100ed" sha1="1c7ff4004789ff1021a9dda7172901c252a3f58c"/>
+	<game name="Disk Arranger v2.1 (1984-11)(Penguin Software)(US)">
+		<description>Disk Arranger v2.1 (1984-11)(Penguin Software)(US)</description>
+		<rom name="Disk Arranger v2.1 (1984-11)(Penguin Software)(US).woz" size="234559" crc="bb94a2e5" md5="2a47e54533370a90f35a0ab255b100ed" sha1="1c7ff4004789ff1021a9dda7172901c252a3f58c"/>
 	</game>
 	<game name="Disk arrRanger Version 2.1 Source Files (1984-11-23)(Swanson, William)">
 		<description>Disk arrRanger Version 2.1 Source Files (1984-11-23)(Swanson, William)</description>
@@ -924,6 +944,30 @@
 		<description>Frame-Up v1.4 (1982)(Beagle Bros)(US)[48K]</description>
 		<rom name="Frame-Up v1.4 (1982)(Beagle Bros)(US)[48K].woz" size="241452" crc="144d3cfb" md5="be521d5de4aa5fe6b9fef73ac740d5be" sha1="fc901a491ca52c7fd37e3a3db2b36f8166b2ac10"/>
 	</game>
+	<game name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K]">
+		<description>General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K]</description>
+		<rom name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K].woz" size="234847" crc="e71e7111" md5="aedd4a7c66f05b159740457c8bcc2acd" sha1="f79592ae8aafd19b60d252b67e978a8a05e2dcc3"/>
+	</game>
+	<game name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 2 of 3)(Working Programs)[48K]">
+		<description>General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 2 of 3)(Working Programs)[48K]</description>
+		<rom name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 2 of 3)(Working Programs)[48K].woz" size="234844" crc="4388c213" md5="beb7566b8727ee547e2f60cc4c008e04" sha1="63f5db0a6c536fbb5dddb7786dded1cf7ecba752"/>
+	</game>
+	<game name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Sample Data Disk)[48K]">
+		<description>General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Sample Data Disk)[48K]</description>
+		<rom name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Sample Data Disk)[48K].woz" size="234844" crc="8005f8d6" md5="8779de0987280b15c95e2f190c3df0e3" sha1="748cfb2ec592b89965648f202176ff3753b46500"/>
+	</game>
+	<game name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K]">
+		<description>General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K]</description>
+		<rom name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K].woz" size="234830" crc="d396367b" md5="bb0daa4f9fbff99fcef8a496a939045b" sha1="5286b6d91f3bb2093f8261dd9aaf3f94c6d54be3"/>
+	</game>
+	<game name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 2 of 3)(Sample Data Disk)[48K]">
+		<description>General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 2 of 3)(Sample Data Disk)[48K]</description>
+		<rom name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 2 of 3)(Sample Data Disk)[48K].woz" size="234827" crc="d6f7e87e" md5="e08facfc887ef72cdce71b7efe524d10" sha1="378ecce44fed423c2232c8c8318261135303aa29"/>
+	</game>
+	<game name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Blank Forms Disk)[48K]">
+		<description>General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Blank Forms Disk)[48K]</description>
+		<rom name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Blank Forms Disk)[48K].woz" size="234827" crc="ba173d43" md5="5ad4a931794b4213b3165c2d1ff0ece1" sha1="2d493dc03d2b9fe1aa6184a676e112a75d264e7e"/>
+	</game>
 	<game name="Get Rich! Insurance v1.0 (1984)(Continental Software)">
 		<description>Get Rich! Insurance v1.0 (1984)(Continental Software)</description>
 		<rom name="Get Rich! Insurance v1.0 (1984)(Continental Software).woz" size="233216" crc="ea1f1eef" md5="b14bb9a0d14eba7df031b07466d8e3ab" sha1="c702b203c1084ff36528e4d2ec5c0f68f72ebaf4"/>
@@ -932,9 +976,9 @@
 		<description>GraFORTH II (1981)(Lutus, Paul)</description>
 		<rom name="GraFORTH II (1981)(Lutus, Paul).woz" size="241457" crc="59aa2f5a" md5="1158223616114d4a47cf10fb8c5792d6" sha1="4c7120514c9f99ec1d0c3ec11eb937284767b72d"/>
 	</game>
-	<game name="Graph-It! (1987)(TimeWorks)(IIE)">
-		<description>Graph-It! (1987)(TimeWorks)(IIE)</description>
-		<rom name="Graph-It! (1987)(TimeWorks)(IIE).woz" size="233216" crc="0fdda92b" md5="08dd115ff152c9172aae4a5c13e14f36" sha1="eb34544f8e5eadc8f896362e7a2191244c716802"/>
+	<game name="Graph-It! (1987)(Timeworks)(IIE)(US)">
+		<description>Graph-It! (1987)(Timeworks)(IIE)(US)</description>
+		<rom name="Graph-It! (1987)(Timeworks)(IIE)(US).woz" size="233216" crc="0fdda92b" md5="08dd115ff152c9172aae4a5c13e14f36" sha1="eb34544f8e5eadc8f896362e7a2191244c716802"/>
 	</game>
 	<game name="Graphic Dump for the IDS 460 Printer (19xx)(Farnsworth Computer)">
 		<description>Graphic Dump for the IDS 460 Printer (19xx)(Farnsworth Computer)</description>
@@ -952,13 +996,17 @@
 		<description>Graphics Converter (1988)(Pelican Software)(IIE)(US)(Side B)[a][128K]</description>
 		<rom name="Graphics Converter (1988)(Pelican Software)(IIE)(US)(Side B)[a][128K].woz" size="233216" crc="152bb595" md5="976ebebab4f83723ef668b1150c0584b" sha1="0055f2ab2f93ba37904c0848a04353939cfea9fd"/>
 	</game>
-	<game name="Graphics Magician, The v02.01.83 (1983)(Penguin Software)">
-		<description>Graphics Magician, The v02.01.83 (1983)(Penguin Software)</description>
-		<rom name="Graphics Magician, The v02.01.83 (1983)(Penguin Software).woz" size="233216" crc="84da714f" md5="e86de0e85439d07e10e5b2e9a76ad7a9" sha1="455c91aaf213192c4b350e9b9f25e2a4149b3b33"/>
+	<game name="Graphics Magician, The v02.01.83 (1983)(Penguin Software)(US)">
+		<description>Graphics Magician, The v02.01.83 (1983)(Penguin Software)(US)</description>
+		<rom name="Graphics Magician, The v02.01.83 (1983)(Penguin Software)(US).woz" size="233216" crc="84da714f" md5="e86de0e85439d07e10e5b2e9a76ad7a9" sha1="455c91aaf213192c4b350e9b9f25e2a4149b3b33"/>
 	</game>
 	<game name="Graphics Processing System (1982)(Stoneware)(Special Features Disk)">
 		<description>Graphics Processing System (1982)(Stoneware)(Special Features Disk)</description>
 		<rom name="Graphics Processing System (1982)(Stoneware)(Special Features Disk).woz" size="233216" crc="a5b473d2" md5="8e14052a6da0b80d3fef5ce9deb8e911" sha1="21502a48c386d3d4acec400310a7f5ad8612b0c1"/>
+	</game>
+	<game name="Graphics Tablet, The - Demo Disk (1979)(Apple)[13-sector]">
+		<description>Graphics Tablet, The - Demo Disk (1979)(Apple)[13-sector]</description>
+		<rom name="Graphics Tablet, The - Demo Disk (1979)(Apple)[13-sector].woz" size="234864" crc="06eb1927" md5="6265b9bd0f11072ff372d0244767fe1e" sha1="4c4c59358ffd96a56b2457405b6a1ec123f84be3"/>
 	</game>
 	<game name="GraphicWriter v1.2 (1982)(Computer Stations)">
 		<description>GraphicWriter v1.2 (1982)(Computer Stations)</description>
@@ -968,13 +1016,17 @@
 		<description>Graphiti Is Yours (1983)(Micro Power &amp; Light)</description>
 		<rom name="Graphiti Is Yours (1983)(Micro Power &amp; Light).woz" size="233216" crc="6f94df83" md5="6218c384c310292e2c71f2201fa0b9c5" sha1="df7f6c5ed7e78a1e7d4fc39d85377646ad128973"/>
 	</game>
-	<game name="Grid Designer (1986)(Channelmark Corporation)(IIE)(Side A)[128K]">
-		<description>Grid Designer (1986)(Channelmark Corporation)(IIE)(Side A)[128K]</description>
-		<rom name="Grid Designer (1986)(Channelmark Corporation)(IIE)(Side A)[128K].woz" size="235492" crc="f14916ed" md5="cb6d3c21d363a9437f090d92a3425219" sha1="aa53b2db4d48dd637559019b6bf4e4c9075e6f8b"/>
+	<game name="Grid Designer (1986)(Channelmark Corporation)(IIE)(US)(Side A)[128K]">
+		<description>Grid Designer (1986)(Channelmark Corporation)(IIE)(US)(Side A)[128K]</description>
+		<rom name="Grid Designer (1986)(Channelmark Corporation)(IIE)(US)(Side A)[128K].woz" size="235492" crc="f14916ed" md5="cb6d3c21d363a9437f090d92a3425219" sha1="aa53b2db4d48dd637559019b6bf4e4c9075e6f8b"/>
 	</game>
-	<game name="Grid Designer (1986)(Channelmark Corporation)(IIE)(Side B)[128K]">
-		<description>Grid Designer (1986)(Channelmark Corporation)(IIE)(Side B)[128K]</description>
-		<rom name="Grid Designer (1986)(Channelmark Corporation)(IIE)(Side B)[128K].woz" size="235492" crc="167fb041" md5="1aba4b0ea37ceb040c56d60fcce6f707" sha1="bb86027d48926e41f27552a3d40bc70808068c4f"/>
+	<game name="Grid Designer (1986)(Channelmark Corporation)(IIE)(US)(Side B)[128K]">
+		<description>Grid Designer (1986)(Channelmark Corporation)(IIE)(US)(Side B)[128K]</description>
+		<rom name="Grid Designer (1986)(Channelmark Corporation)(IIE)(US)(Side B)[128K].woz" size="235492" crc="167fb041" md5="1aba4b0ea37ceb040c56d60fcce6f707" sha1="bb86027d48926e41f27552a3d40bc70808068c4f"/>
+	</game>
+	<game name="Guitar Wizard v11611 (1986)(Baudville)(II+)[64K]">
+		<description>Guitar Wizard v11611 (1986)(Baudville)(II+)[64K]</description>
+		<rom name="Guitar Wizard v11611 (1986)(Baudville)(II+)[64K].woz" size="241507" crc="e3e8d0b7" md5="24114532ca03f74106d57058a33b539a" sha1="5d6fdf0461f9d3a18676ac40633b975d46f5c192"/>
 	</game>
 	<game name="Hayden Design Programs (1981)(Sams Software)">
 		<description>Hayden Design Programs (1981)(Sams Software)</description>
@@ -1052,18 +1104,6 @@
 		<description>Letter Post (1983)(Bell &amp; Howell)</description>
 		<rom name="Letter Post (1983)(Bell &amp; Howell).woz" size="241491" crc="56378639" md5="57e224f94d0f0d62c65d3454b96051fa" sha1="71222baa7901073f2fdc4629aedf12c1c7fea379"/>
 	</game>
-	<game name="Library Magic (1987)(McCarthy-McCormack)(Side A)">
-		<description>Library Magic (1987)(McCarthy-McCormack)(Side A)</description>
-		<rom name="Library Magic (1987)(McCarthy-McCormack)(Side A).woz" size="233260" crc="e367b2bd" md5="8898138c64a0d260770e879280ecadf3" sha1="91c1a498e2d3df3e5c825796c2dcc38ec5794104"/>
-	</game>
-	<game name="Library Magic (1987)(McCarthy-McCormack)(Side A)[a]">
-		<description>Library Magic (1987)(McCarthy-McCormack)(Side A)[a]</description>
-		<rom name="Library Magic (1987)(McCarthy-McCormack)(Side A)[a].woz" size="234540" crc="fa919284" md5="1a4759c21e5b9190ffce5031b9d06654" sha1="1a750c71eb630a23581271b7e099a2ae90116f8c"/>
-	</game>
-	<game name="Library Magic (1987)(McCarthy-McCormack)(Side B)">
-		<description>Library Magic (1987)(McCarthy-McCormack)(Side B)</description>
-		<rom name="Library Magic (1987)(McCarthy-McCormack)(Side B).woz" size="233260" crc="776f9e15" md5="eb2a1296638662412ac61f8a1801dc74" sha1="4e81244c99279fa1f3f78307fd49ccf4304795ba"/>
-	</game>
 	<game name="List Handler Utilities, The (1982)(Silicon Valley Systems)(US)">
 		<description>List Handler Utilities, The (1982)(Silicon Valley Systems)(US)</description>
 		<rom name="List Handler Utilities, The (1982)(Silicon Valley Systems)(US).woz" size="233216" crc="deaab484" md5="a275fe7cca1b512dfd972f837a6dad18" sha1="bb96d71c819d83b6b05a6821f7f46705baad1392"/>
@@ -1072,9 +1112,9 @@
 		<description>List Handler, The v1.4 (1982)(Silicon Valley Systems)(US)</description>
 		<rom name="List Handler, The v1.4 (1982)(Silicon Valley Systems)(US).woz" size="233216" crc="768e8c7b" md5="ea6213372c22af3c0a8b5e69c4ffcd0f" sha1="7b5668d31163514b36f162d79fadc99049521351"/>
 	</game>
-	<game name="Locksmith v4.1 (1983)(Omega MicroWare)[48K]">
-		<description>Locksmith v4.1 (1983)(Omega MicroWare)[48K]</description>
-		<rom name="Locksmith v4.1 (1983)(Omega MicroWare)[48K].woz" size="108291" crc="fa9116e7" md5="ed9d6b8b2f6f1e611654105d0005e593" sha1="6f6528a640bd4a5643b339e59a5ba99f8fba2d01"/>
+	<game name="Locksmith v4.1 (1983)(Omega MicroWare)(US)[48K]">
+		<description>Locksmith v4.1 (1983)(Omega MicroWare)(US)[48K]</description>
+		<rom name="Locksmith v4.1 (1983)(Omega MicroWare)(US)[48K].woz" size="108291" crc="fa9116e7" md5="ed9d6b8b2f6f1e611654105d0005e593" sha1="6f6528a640bd4a5643b339e59a5ba99f8fba2d01"/>
 	</game>
 	<game name="Locksmith v5.0 Rev C (1983)(Omega MicroWare)(II+)(US)">
 		<description>Locksmith v5.0 Rev C (1983)(Omega MicroWare)(II+)(US)</description>
@@ -1116,9 +1156,9 @@
 		<description>Magic Mailer v1.1 (1982)(ArtSci)(II+)</description>
 		<rom name="Magic Mailer v1.1 (1982)(ArtSci)(II+).woz" size="235445" crc="dbf52fe0" md5="61f08294f92530733a1253fecdeee9cc" sha1="87f42c34243eeb1414f7eec73e2454a7c0c6ef09"/>
 	</game>
-	<game name="Magic Slate Data Disk 40-Column (1984)(Sunburst Communications)">
-		<description>Magic Slate Data Disk 40-Column (1984)(Sunburst Communications)</description>
-		<rom name="Magic Slate Data Disk 40-Column (1984)(Sunburst Communications).woz" size="233216" crc="969418fd" md5="d19c066c99c702c46e90c34811639c1c" sha1="9a295f9fb3bcaaeb9c970709e309e24e8e525f03"/>
+	<game name="Magic Slate Data Disk 40-Column (1984)(Sunburst Communications)(US)">
+		<description>Magic Slate Data Disk 40-Column (1984)(Sunburst Communications)(US)</description>
+		<rom name="Magic Slate Data Disk 40-Column (1984)(Sunburst Communications)(US).woz" size="233216" crc="969418fd" md5="d19c066c99c702c46e90c34811639c1c" sha1="9a295f9fb3bcaaeb9c970709e309e24e8e525f03"/>
 	</game>
 	<game name="Magic Slate II v1.0a (1988)(Sunburst Communications)(IIE)(US)[20-column]">
 		<description>Magic Slate II v1.0a (1988)(Sunburst Communications)(IIE)(US)[20-column]</description>
@@ -1292,6 +1332,14 @@
 		<description>Monsters and Make Believe Plus v2.0 (1988)(Pelican Software)(IIE)(US)(Side B)[128K]</description>
 		<rom name="Monsters and Make Believe Plus v2.0 (1988)(Pelican Software)(IIE)(US)(Side B)[128K].woz" size="233216" crc="d05c8f06" md5="aa611cae085624dec0f65ea649d44d97" sha1="6c7ac1f50fe0630253f02685c7cdf146aa0bfac7"/>
 	</game>
+	<game name="Monsters and Make Believe v1.1 (1987)(Pelican Software)(II+)(US)(Side A)(Program)[64K]">
+		<description>Monsters and Make Believe v1.1 (1987)(Pelican Software)(II+)(US)(Side A)(Program)[64K]</description>
+		<rom name="Monsters and Make Believe v1.1 (1987)(Pelican Software)(II+)(US)(Side A)(Program)[64K].woz" size="241978" crc="24644551" md5="f7f90328b3e7eaa377749110aea250bc" sha1="0ecb20ae1c028fcd81907edffe94905ecefef6e1"/>
+	</game>
+	<game name="Monsters and Make Believe v1.1 (1987)(Pelican Software)(II+)(US)(Side B)(Art)[64K]">
+		<description>Monsters and Make Believe v1.1 (1987)(Pelican Software)(II+)(US)(Side B)(Art)[64K]</description>
+		<rom name="Monsters and Make Believe v1.1 (1987)(Pelican Software)(II+)(US)(Side B)(Art)[64K].woz" size="234810" crc="5265be79" md5="dad08bfb6bda7eace4fdc8161a317ac4" sha1="078c2b20162a076866cbc444ce76eda1e1f443cf"/>
+	</game>
 	<game name="Monstrous Monsters v1.0 (1990)(Queue)(IIE)(US)(Disk 1 of 2 Side A)(Program)[128K]">
 		<description>Monstrous Monsters v1.0 (1990)(Queue)(IIE)(US)(Disk 1 of 2 Side A)(Program)[128K]</description>
 		<rom name="Monstrous Monsters v1.0 (1990)(Queue)(IIE)(US)(Disk 1 of 2 Side A)(Program)[128K].woz" size="233216" crc="c47843c0" md5="ba2db557a337308a113b7c98322d6a52" sha1="5c70dc9a98c25f568e9f64bf0f3c3705232f6c27"/>
@@ -1368,6 +1416,10 @@
 		<description>Music Construction Set (1983)(Electronic Arts)(II+)</description>
 		<rom name="Music Construction Set (1983)(Electronic Arts)(II+).woz" size="228826" crc="1fc3323e" md5="ba7198fcfa07b10ca3c7e4713b617d35" sha1="126564bccb26dffaa1373bd203ce737775070185"/>
 	</game>
+	<game name="Music Construction Set rev 2 (1983)(Electronic Arts)(II+)[48K][mouse, Mockinboard C, printers]">
+		<description>Music Construction Set rev 2 (1983)(Electronic Arts)(II+)[48K][mouse, Mockinboard C, printers]</description>
+		<rom name="Music Construction Set rev 2 (1983)(Electronic Arts)(II+)[48K][mouse, Mockinboard C, printers].woz" size="228119" crc="0cf2b1ed" md5="887b65aba24e78ac2c6469ce4c7fa673" sha1="678ea44676fe6b5d04252d686d34e68dfc423584"/>
+	</game>
 	<game name="Music II (19xx)(Microproducts)">
 		<description>Music II (19xx)(Microproducts)</description>
 		<rom name="Music II (19xx)(Microproducts).woz" size="234837" crc="fe8399c9" md5="ff963382c28032627ca7255686486318" sha1="026ccdaf01dca4e3be3bda2843edc9d53ea9f9f3"/>
@@ -1387,6 +1439,30 @@
 	<game name="Negotiation Edge, The (1984)(Human Edge)(II+)(Disk 3 of 3)(Output 2)">
 		<description>Negotiation Edge, The (1984)(Human Edge)(II+)(Disk 3 of 3)(Output 2)</description>
 		<rom name="Negotiation Edge, The (1984)(Human Edge)(II+)(Disk 3 of 3)(Output 2).woz" size="241467" crc="d01e9c42" md5="a00a6a6b4dc07b60804cbe4e594515bf" sha1="1bd01c9f50d98db121f84dcbd581648ff4bed561"/>
+	</game>
+	<game name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side A)(Program Disk)[128K]">
+		<description>New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side A)(Program Disk)[128K]</description>
+		<rom name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side A)(Program Disk)[128K].woz" size="741888" crc="b82d6052" md5="e39b69439300042d40b6a0f1bd50e43c" sha1="c9b31e9348e57dd6b304b5e1fe390c7f7a5ff3c4"/>
+	</game>
+	<game name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side B)(Program Disk)[128K]">
+		<description>New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side B)(Program Disk)[128K]</description>
+		<rom name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side B)(Program Disk)[128K].woz" size="234847" crc="07e774c0" md5="e52b91c922d37b96e9e25d81865c8ccc" sha1="32d4bbb6a72b5aedccc48fc9624dd4f2dc11898b"/>
+	</game>
+	<game name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side A)(Data Disk)[128K]">
+		<description>New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side A)(Data Disk)[128K]</description>
+		<rom name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side A)(Data Disk)[128K].woz" size="234845" crc="8c07482d" md5="374e273f1d6203858cdfca447906e261" sha1="36dd7b636890dace7418d2b8bbdfa2ed4b97bebc"/>
+	</game>
+	<game name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side B)(Data Disk)[128K]">
+		<description>New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side B)(Data Disk)[128K]</description>
+		<rom name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side B)(Data Disk)[128K].woz" size="234845" crc="d623b1f0" md5="5e5e9b3c7c095fc2f22c2168c7c9e70b" sha1="e7172c5b3f8efddbdb64e63c2f730462fa65ade3"/>
+	</game>
+	<game name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side A)(Data Disk)[128K]">
+		<description>New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side A)(Data Disk)[128K]</description>
+		<rom name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side A)(Data Disk)[128K].woz" size="234845" crc="f058bd81" md5="e9567a7202dbae512ff4c31ee51a1b0f" sha1="2251ca1478d44551bf9f24f0b7aa781effeceaa0"/>
+	</game>
+	<game name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side B)(Data Disk)[128K]">
+		<description>New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side B)(Data Disk)[128K]</description>
+		<rom name="New Print Shop, The (1990)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side B)(Data Disk)[128K].woz" size="234845" crc="cff0795c" md5="ee15d7cdf97282cd43251573bb7cd97e" sha1="8a2b1edb430e437cd00df1d29d1a9ce90ef5f6a8"/>
 	</game>
 	<game name="Nikrom Disk Drive Analyzer (1984)(Nikrom Technical Products)(II+)">
 		<description>Nikrom Disk Drive Analyzer (1984)(Nikrom Technical Products)(II+)</description>
@@ -1564,6 +1640,10 @@
 		<description>Phi Beta Filer (1983)(Scarborough Systems)(II+)(Disk 2 of 2)</description>
 		<rom name="Phi Beta Filer (1983)(Scarborough Systems)(II+)(Disk 2 of 2).woz" size="242168" crc="99f30904" md5="ed3b7791569da92275df3e605fb9db9f" sha1="35508fbcf38e079638c413c6e6f6e75fd425d345"/>
 	</game>
+	<game name="Picture Perfect (1987)(Mindplay)(II+)(US)[48K]">
+		<description>Picture Perfect (1987)(Mindplay)(II+)(US)[48K]</description>
+		<rom name="Picture Perfect (1987)(Mindplay)(II+)(US)[48K].woz" size="234818" crc="c02b205d" md5="e4ee6697032f7558f78f91dc5cee9163" sha1="fa42a9da9b89516b403dbca748f5ac60113ce072"/>
+	</game>
 	<game name="Picture Place (1988)(Hi-Tech Expressions)(IIE)">
 		<description>Picture Place (1988)(Hi-Tech Expressions)(IIE)</description>
 		<rom name="Picture Place (1988)(Hi-Tech Expressions)(IIE).woz" size="233216" crc="0e037a28" md5="2ecb44e5740395381ae9bdf3c1068e19" sha1="3a07010dcafa81524a031f3a88fce42d2b3dfac0"/>
@@ -1700,6 +1780,14 @@
 		<description>Print Shop Companion, The v1.2 (1985)(Brøderbund)(II+)(US)(Side B)[64K]</description>
 		<rom name="Print Shop Companion, The v1.2 (1985)(Brøderbund)(II+)(US)(Side B)[64K].woz" size="234794" crc="a06b52a9" md5="d967815b7d59b63f7da6688ab6e5d863" sha1="1c6f461fbd4c78dd48480c334f0d5f1df2cf591e"/>
 	</game>
+	<game name="Print Shop, The (1984)(Brøderbund)(US)(Side A)(Program)">
+		<description>Print Shop, The (1984)(Brøderbund)(US)(Side A)(Program)</description>
+		<rom name="Print Shop, The (1984)(Brøderbund)(US)(Side A)(Program).woz" size="234816" crc="b1963c7c" md5="4596fa09784f055d890256b617057687" sha1="7650acea735fdaa6c1f13454f0ced4f353628b54"/>
+	</game>
+	<game name="Print Shop, The (1984)(Brøderbund)(US)(Side B)(Demo)">
+		<description>Print Shop, The (1984)(Brøderbund)(US)(Side B)(Demo)</description>
+		<rom name="Print Shop, The (1984)(Brøderbund)(US)(Side B)(Demo).woz" size="234816" crc="e5e6b8de" md5="853f40f69ad61a181ab29b3661a214e5" sha1="4bdedf2395ed4cb80d5d9f475b290622d835a461"/>
+	</game>
 	<game name="Print Your Own Bingo Plus (1988-01-23)(Hartley Courseware)(II+)[48K]">
 		<description>Print Your Own Bingo Plus (1988-01-23)(Hartley Courseware)(II+)[48K]</description>
 		<rom name="Print Your Own Bingo Plus (1988-01-23)(Hartley Courseware)(II+)[48K].woz" size="234819" crc="8e7c9cda" md5="f773467d4c52cd23334f7c6713582e67" sha1="5f3546a8724aca2e8f7db8488e8ae4a934bf7e85"/>
@@ -1744,9 +1832,9 @@
 		<description>Printrix v1.11 (1987)(Data Transforms)(IIE)(US)(Disk 4 of 4)</description>
 		<rom name="Printrix v1.11 (1987)(Data Transforms)(IIE)(US)(Disk 4 of 4).woz" size="233216" crc="bb9ab24e" md5="1f56faf08c1d59da874d4845ae6e7c18" sha1="fe9b026c65d7329f3f2b345208ad1eddc4b59df1"/>
 	</game>
-	<game name="Pro Disk Arranger v1.5 (1984-11)(Penguin Software)">
-		<description>Pro Disk Arranger v1.5 (1984-11)(Penguin Software)</description>
-		<rom name="Pro Disk Arranger v1.5 (1984-11)(Penguin Software).woz" size="233216" crc="f2baeba3" md5="8e92f5b6d5cdfced175f60e2e587f351" sha1="67e64d98557f1f03048a70242023190f3e290efb"/>
+	<game name="Pro Disk Arranger v1.5 (1984-11)(Penguin Software)(US)">
+		<description>Pro Disk Arranger v1.5 (1984-11)(Penguin Software)(US)</description>
+		<rom name="Pro Disk Arranger v1.5 (1984-11)(Penguin Software)(US).woz" size="233216" crc="f2baeba3" md5="8e92f5b6d5cdfced175f60e2e587f351" sha1="67e64d98557f1f03048a70242023190f3e290efb"/>
 	</game>
 	<game name="Pro Football Pointspread Prediction System (1982)(Systems Design Lab)(II+)(Disk 1 of 2)(System)[48K]">
 		<description>Pro Football Pointspread Prediction System (1982)(Systems Design Lab)(II+)(Disk 1 of 2)(System)[48K]</description>
@@ -1816,37 +1904,37 @@
 		<description>ProTERM v3.0 (1991)(InSync)</description>
 		<rom name="ProTERM v3.0 (1991)(InSync).woz" size="234832" crc="0bf60d4a" md5="d715788f0ecf8496e442ceebc6d22785" sha1="731dfb95c1977eef89cfd94630ed009049dc51f6"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 1 of 4)(Side A)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 1 of 4)(Side A)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 1 of 4)(Side A).woz" size="233216" crc="3493d6d9" md5="02b950cd72ae8e96caca81c011f6776d" sha1="eb26eb16babce4b468e334c64dff4ca552f26857"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 1 of 4)(Side A)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 1 of 4)(Side A)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 1 of 4)(Side A).woz" size="233216" crc="3493d6d9" md5="02b950cd72ae8e96caca81c011f6776d" sha1="eb26eb16babce4b468e334c64dff4ca552f26857"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 1 of 4)(Side B)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 1 of 4)(Side B)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 1 of 4)(Side B).woz" size="233216" crc="cfebb572" md5="044f11882a0f1d64da33e35f7eccd838" sha1="aaca69fa8c782913433a6a37135805317ca9f363"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 1 of 4)(Side B)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 1 of 4)(Side B)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 1 of 4)(Side B).woz" size="233216" crc="cfebb572" md5="044f11882a0f1d64da33e35f7eccd838" sha1="aaca69fa8c782913433a6a37135805317ca9f363"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 2 of 4)(Side A)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 2 of 4)(Side A)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 2 of 4)(Side A).woz" size="233216" crc="0f869e6f" md5="c51a2e3ffa01aae0e9c1b56129479643" sha1="31812d941c8ed94fc28e7ef5b9e0d3b60f688b4d"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 2 of 4)(Side A)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 2 of 4)(Side A)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 2 of 4)(Side A).woz" size="233216" crc="0f869e6f" md5="c51a2e3ffa01aae0e9c1b56129479643" sha1="31812d941c8ed94fc28e7ef5b9e0d3b60f688b4d"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 2 of 4)(Side B)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 2 of 4)(Side B)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 2 of 4)(Side B).woz" size="233216" crc="f2be6a06" md5="a36a47cde34a8984d90b8573ac3fe028" sha1="2e4f52e3fa8fde58ab3aae2f4a2fd02818dac57f"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 2 of 4)(Side B)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 2 of 4)(Side B)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 2 of 4)(Side B).woz" size="233216" crc="f2be6a06" md5="a36a47cde34a8984d90b8573ac3fe028" sha1="2e4f52e3fa8fde58ab3aae2f4a2fd02818dac57f"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 3 of 4)(Side A)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 3 of 4)(Side A)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 3 of 4)(Side A).woz" size="233216" crc="0d2dad6d" md5="02f979ce223d11b78bd520bb8c0cd0a4" sha1="611db97fdf743e1d60b05dfc84790a8eef018ab7"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 3 of 4)(Side A)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 3 of 4)(Side A)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 3 of 4)(Side A).woz" size="233216" crc="0d2dad6d" md5="02f979ce223d11b78bd520bb8c0cd0a4" sha1="611db97fdf743e1d60b05dfc84790a8eef018ab7"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 3 of 4)(Side B)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 3 of 4)(Side B)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 3 of 4)(Side B).woz" size="233216" crc="e6a567e1" md5="fcfc3773f1abfca85dc8dd5e3ffe37e2" sha1="f787145178efb1bafca90fc1f3d88d35bf296af7"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 3 of 4)(Side B)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 3 of 4)(Side B)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 3 of 4)(Side B).woz" size="233216" crc="e6a567e1" md5="fcfc3773f1abfca85dc8dd5e3ffe37e2" sha1="f787145178efb1bafca90fc1f3d88d35bf296af7"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 4 of 4)(Side A)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 4 of 4)(Side A)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 4 of 4)(Side A).woz" size="233216" crc="24fcdee8" md5="269008c458481f486a208c9287177c44" sha1="3743f022af6766e46514e6e2953180b2d6816383"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 4 of 4)(Side A)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 4 of 4)(Side A)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 4 of 4)(Side A).woz" size="233216" crc="24fcdee8" md5="269008c458481f486a208c9287177c44" sha1="3743f022af6766e46514e6e2953180b2d6816383"/>
 	</game>
-	<game name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 4 of 4)(Side B)">
-		<description>Publish It 2 (1988)(Timeworks)(IIEE)(Disk 4 of 4)(Side B)</description>
-		<rom name="Publish It 2 (1988)(Timeworks)(IIEE)(Disk 4 of 4)(Side B).woz" size="233216" crc="89bceab5" md5="3cf90351c6e6bef99a0c3a9ed64487b9" sha1="5ecf24cbb848f9987450d83af2ea8e1aaa2d7d5d"/>
+	<game name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 4 of 4)(Side B)">
+		<description>Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 4 of 4)(Side B)</description>
+		<rom name="Publish It! 2 (1988)(Timeworks)(IIEE)(US)(Disk 4 of 4)(Side B).woz" size="233216" crc="89bceab5" md5="3cf90351c6e6bef99a0c3a9ed64487b9" sha1="5ecf24cbb848f9987450d83af2ea8e1aaa2d7d5d"/>
 	</game>
 	<game name="Sales Edge, The (1983)(Human Edge)(II+)(Disk 1 of 3)(Program)">
 		<description>Sales Edge, The (1983)(Human Edge)(II+)(Disk 1 of 3)(Program)</description>
@@ -1867,6 +1955,10 @@
 	<game name="Secret Filer (1984)(Scholastic)(II+)(US)">
 		<description>Secret Filer (1984)(Scholastic)(II+)(US)</description>
 		<rom name="Secret Filer (1984)(Scholastic)(II+)(US).woz" size="234811" crc="eb7b32c2" md5="06dc63ae2058eb2eaffb26894d9eb79a" sha1="f2dd9304e66c9bbc95b5774a8be8a8bf37d46f6e"/>
+	</game>
+	<game name="Seiko Wrist Terminal Data Manager v1.00 (19xx)(Seiko)">
+		<description>Seiko Wrist Terminal Data Manager v1.00 (19xx)(Seiko)</description>
+		<rom name="Seiko Wrist Terminal Data Manager v1.00 (19xx)(Seiko).woz" size="234821" crc="55d31caa" md5="7672c059cabe898d497f193e603f3f93" sha1="bcfa59f2b08d1e5de8da21b43333770fa7156357"/>
 	</game>
 	<game name="Senior Analyst (19xx)(Business Solutions)(Disk 1 of 2)">
 		<description>Senior Analyst (19xx)(Business Solutions)(Disk 1 of 2)</description>
@@ -1932,21 +2024,61 @@
 		<description>Snoopy Writer (1985)(Random House)(II+)(US)(Side B)(Story Disk)</description>
 		<rom name="Snoopy Writer (1985)(Random House)(II+)(US)(Side B)(Story Disk).woz" size="233458" crc="3eed5969" md5="96c4abb33aa05009312f83d0f49464b1" sha1="9b6e20300c29fce91eaa7c3c3ecd30ccdfedc432"/>
 	</game>
+	<game name="Story Maker rev 2 (1984)(Scholastic)(II+)(Disk 1 of 2)(Program)[64K]">
+		<description>Story Maker rev 2 (1984)(Scholastic)(II+)(Disk 1 of 2)(Program)[64K]</description>
+		<rom name="Story Maker rev 2 (1984)(Scholastic)(II+)(Disk 1 of 2)(Program)[64K].woz" size="234832" crc="b44ba3e3" md5="5e3bd6401025844887f0965c1259b4ed" sha1="6a77003d1d17921aa622699a342b36a8483c5ba8"/>
+	</game>
+	<game name="Story Maker rev 2 (1984)(Scholastic)(II+)(Disk 2 of 2)(Picture Gallery)[64K]">
+		<description>Story Maker rev 2 (1984)(Scholastic)(II+)(Disk 2 of 2)(Picture Gallery)[64K]</description>
+		<rom name="Story Maker rev 2 (1984)(Scholastic)(II+)(Disk 2 of 2)(Picture Gallery)[64K].woz" size="234840" crc="d25f95b5" md5="0b67123f926f3f6d6bfb40ff82c0e9e8" sha1="4e9249e2524057855d4ae12bae2fec5fcc5d8e58"/>
+	</game>
 	<game name="Suntracker (1983)(Zephyr Services)(US)">
 		<description>Suntracker (1983)(Zephyr Services)(US)</description>
 		<rom name="Suntracker (1983)(Zephyr Services)(US).woz" size="233216" crc="b786a086" md5="40a302231b488b7aa1633e528ee91b90" sha1="c8c63d1a33f5d3555e3bbc05f52e23337839bc4c"/>
 	</game>
-	<game name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side A)[64K]">
-		<description>Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side A)[64K]</description>
-		<rom name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side A)[64K].woz" size="235451" crc="03275984" md5="869e5cab0a49f4347f22fa15e86ad205" sha1="24e3bc40e0ae968ce2f506d8ba339bf9a920d2c2"/>
+	<game name="Super Dungeon Plot v4.1.0 (2023-04-01)(Gordon, Dan)">
+		<description>Super Dungeon Plot v4.1.0 (2023-04-01)(Gordon, Dan)</description>
+		<rom name="Super Dungeon Plot v4.1.0 (2023-04-01)(Gordon, Dan).woz" size="234496" crc="a441dcdb" md5="760d7ccced2ba06eed253efb062403f6" sha1="b016a0e0cf3521d5746216b4cc931b1b8861f64f"/>
 	</game>
-	<game name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side B)[64K]">
-		<description>Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side B)[64K]</description>
-		<rom name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side B)[64K].woz" size="235451" crc="be95255b" md5="da2b09009d884b7d69cd0c6f00fa75e7" sha1="18fe07406b29be9c51a6fe7b6233f47938263cde"/>
+	<game name="Super Mario Bros. Print World (1991)(Hi-Tech Expressions)(II+)(Side A)[64K]">
+		<description>Super Mario Bros. Print World (1991)(Hi-Tech Expressions)(II+)(Side A)[64K]</description>
+		<rom name="Super Mario Bros. Print World (1991)(Hi-Tech Expressions)(II+)(Side A)[64K].woz" size="235451" crc="03275984" md5="869e5cab0a49f4347f22fa15e86ad205" sha1="24e3bc40e0ae968ce2f506d8ba339bf9a920d2c2"/>
+	</game>
+	<game name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side A)[a][64K]">
+		<description>Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side A)[a][64K]</description>
+		<rom name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side A)[a][64K].woz" size="234821" crc="1e13d4cf" md5="6bd437c9c787803eebc05896b17e0f59" sha1="f20fd3183e773f206452524feecdb41a5b4330ad"/>
+	</game>
+	<game name="Super Mario Bros. Print World (1991)(Hi-Tech Expressions)(II+)(Side B)[64K]">
+		<description>Super Mario Bros. Print World (1991)(Hi-Tech Expressions)(II+)(Side B)[64K]</description>
+		<rom name="Super Mario Bros. Print World (1991)(Hi-Tech Expressions)(II+)(Side B)[64K].woz" size="235451" crc="be95255b" md5="da2b09009d884b7d69cd0c6f00fa75e7" sha1="18fe07406b29be9c51a6fe7b6233f47938263cde"/>
+	</game>
+	<game name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side B)[a][64K]">
+		<description>Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side B)[a][64K]</description>
+		<rom name="Super Mario Bros. Print World (1981)(Hi-Tech Expressions)(II+)(Side B)[a][64K].woz" size="234821" crc="91fc42ab" md5="c94a27c05ceffed9a9ffb7613bc7a1d4" sha1="b641c1bfa89f99b63973b53115e9b15ca7269bc5"/>
+	</game>
+	<game name="Super-Text II Form Letter Module (1984)(MUSE Software)(II+)(US)[48K]">
+		<description>Super-Text II Form Letter Module (1984)(MUSE Software)(II+)(US)[48K]</description>
+		<rom name="Super-Text II Form Letter Module (1984)(MUSE Software)(II+)(US)[48K].woz" size="234817" crc="cb8449b7" md5="1c10793b6f71175a02f56a7a4453f575" sha1="15485265a5ce4114018ab38b65ecb1eb6798d54e"/>
+	</game>
+	<game name="SuperCalc 3a v1.00 (1985)(Computer Associates International)(IIEE)(Graph Disk)">
+		<description>SuperCalc 3a v1.00 (1985)(Computer Associates International)(IIEE)(Graph Disk)</description>
+		<rom name="SuperCalc 3a v1.00 (1985)(Computer Associates International)(IIEE)(Graph Disk).woz" size="241510" crc="e7827265" md5="0a4914364ef71277c998971101656be6" sha1="5ae210cdb5990e251bc3137e6e65246032a5c582"/>
+	</game>
+	<game name="SuperCalc 3a v1.00 (1985)(Computer Associates International)(IIEE)(Program Disk)">
+		<description>SuperCalc 3a v1.00 (1985)(Computer Associates International)(IIEE)(Program Disk)</description>
+		<rom name="SuperCalc 3a v1.00 (1985)(Computer Associates International)(IIEE)(Program Disk).woz" size="241512" crc="4690fcbf" md5="2dfe22c1fcca684b4d49a34800a92705" sha1="4d6e01f2ea4c1c7605e8cafdac67c505c60cdba2"/>
+	</game>
+	<game name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side A)(Program)[128K]">
+		<description>SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side A)(Program)[128K]</description>
+		<rom name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side A)(Program)[128K].woz" size="234822" crc="085e9680" md5="8890f90d280a5274a28cc5ac146c565a" sha1="6e40af4db4713ea4b8017541382e5ecd4c1531db"/>
 	</game>
 	<game name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[128K]">
 		<description>SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[128K]</description>
 		<rom name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[128K].woz" size="233216" crc="05f1795f" md5="bfd185324b1e903cffc037ec40e2ee78" sha1="cfd71f2ad57355f817b693d79d299ae0611ae9a7"/>
+	</game>
+	<game name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[a2][128K]">
+		<description>SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[a2][128K]</description>
+		<rom name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[a2][128K].woz" size="234822" crc="33d98cf1" md5="ef36833cc8440930fb65868d6a29fa5b" sha1="d6f761690967ec7676a0c639a1625eecbca02374"/>
 	</game>
 	<game name="SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[a][128K]">
 		<description>SuperPrint! (1987)(Scholastic)(IIE)(US)(Disk 1 of 3 Side B)(Work Area)[a][128K]</description>
@@ -2008,6 +2140,10 @@
 		<description>SuperPrint! v1.2 (1987)(Scholastic)(IIE)(US)(Disk 3 of 3 Side B)[128K]</description>
 		<rom name="SuperPrint! v1.2 (1987)(Scholastic)(IIE)(US)(Disk 3 of 3 Side B)[128K].woz" size="234822" crc="71a89557" md5="b8901810615ad3582836badab84fc6f4" sha1="f9b71a69feda92d9accc6b4416185b55cc0b51a9"/>
 	</game>
+	<game name="Swashbuckler (1981)(Datamost)(II+)(US)[cr][b][48K]">
+		<description>Swashbuckler (1981)(Datamost)(II+)(US)[cr][b][48K]</description>
+		<rom name="Swashbuckler (1981)(Datamost)(II+)(US)[cr][b][48K].woz" size="234559" crc="1e9d0aa1" md5="677cc69a7cbf3bf2e80fcec823a18c86" sha1="b94203c788624bed9906dd7ede839577e1be2161"/>
+	</game>
 	<game name="Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side A)[128K]">
 		<description>Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side A)[128K]</description>
 		<rom name="Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side A)[128K].woz" size="234815" crc="ed0742c0" md5="c0459f744fcb883eeae40caebdf597ea" sha1="f1949d5ca927a7f0dd59f62afa2c9e851b131528"/>
@@ -2016,21 +2152,26 @@
 		<description>Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side B)[128K]</description>
 		<rom name="Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side B)[128K].woz" size="234815" crc="38316b19" md5="ad112e83128a58d2b5ded3a0a7a433bf" sha1="c7b5c1a6132231ba67533c28b26cff32c1f8548a"/>
 	</game>
-	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 1 of 4)">
-		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 1 of 4)</description>
-		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 1 of 4).woz" size="233216" crc="07ed5ac0" md5="245a5e62bfa8fe5a37dae2f04f6e9345" sha1="98c02b6c516bcceda1d09c7ed90897bc0a4e48f8"/>
+	
+	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 1 of 4)">
+		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 1 of 4)</description>
+		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 1 of 4).woz" size="233216" crc="07ed5ac0" md5="245a5e62bfa8fe5a37dae2f04f6e9345" sha1="98c02b6c516bcceda1d09c7ed90897bc0a4e48f8"/>
 	</game>
-	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 2 of 4)">
-		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 2 of 4)</description>
-		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 2 of 4).woz" size="233216" crc="7aac47e5" md5="31830b42c5c92c3a0ec37477574bf975" sha1="459f11cda94597630777d8061b72334194207c9b"/>
+	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 2 of 4)">
+		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 2 of 4)</description>
+		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 2 of 4).woz" size="233216" crc="7aac47e5" md5="31830b42c5c92c3a0ec37477574bf975" sha1="459f11cda94597630777d8061b72334194207c9b"/>
 	</game>
-	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 3 of 4)">
-		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 3 of 4)</description>
-		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 3 of 4).woz" size="233216" crc="afa812f5" md5="4d837827db32b05621cb1d0f3eee6d79" sha1="1cd4ef92beb3153cb29c7e9a0a9a6d65e4615701"/>
+	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 3 of 4)">
+		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 3 of 4)</description>
+		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 3 of 4).woz" size="233216" crc="afa812f5" md5="4d837827db32b05621cb1d0f3eee6d79" sha1="1cd4ef92beb3153cb29c7e9a0a9a6d65e4615701"/>
 	</game>
-	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 4 of 4)">
-		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 4 of 4)</description>
-		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(Disk 4 of 4).woz" size="233216" crc="b2cdba78" md5="5c813b3002261c79f5053de5251f3991" sha1="193226b07d1372004a6fbdd6928b176371079a7c"/>
+	<game name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 4 of 4)">
+		<description>Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 4 of 4)</description>
+		<rom name="Sylvia Porter's Financial Series Vol. 3 - Swiftax (1986)(Timeworks)(IIE)(US)(Disk 4 of 4).woz" size="233216" crc="b2cdba78" md5="5c813b3002261c79f5053de5251f3991" sha1="193226b07d1372004a6fbdd6928b176371079a7c"/>
+	</game>
+	<game name="T-Net Bulletin Board System (1986)(Sentral Research &amp; Development)">
+		<description>T-Net Bulletin Board System (1986)(Sentral Research &amp; Development)</description>
+		<rom name="T-Net Bulletin Board System (1986)(Sentral Research &amp; Development).woz" size="234559" crc="170fd280" md5="1df339c789875224d1cc4cc8fa9faa44" sha1="02eb2249b4eabcbe34b9b8c7a2761b299ce55a7f"/>
 	</game>
 	<game name="Take 1 v06401 (1984)(Baudville)(II+)[64K]">
 		<description>Take 1 v06401 (1984)(Baudville)(II+)[64K]</description>
@@ -2039,6 +2180,18 @@
 	<game name="Take 1 v06431 (1984)(Baudville)(II+)[64K]">
 		<description>Take 1 v06431 (1984)(Baudville)(II+)[64K]</description>
 		<rom name="Take 1 v06431 (1984)(Baudville)(II+)[64K].woz" size="241401" crc="fdffb536" md5="ce594a3507964d1b92792fe34f2a2f90" sha1="0b0598525c9f94634458c76b7af528644ad1fd7d"/>
+	</game>
+	<game name="Tax Planner, The v1.0 (1980)(Apple)(US)[A2D0040]">
+		<description>Tax Planner, The v1.0 (1980)(Apple)(US)[A2D0040]</description>
+		<rom name="Tax Planner, The v1.0 (1980)(Apple)(US)[A2D0040].woz" size="234815" crc="f6958260" md5="a8c9a0beaa4c9abd7352313664cbfc45" sha1="d69d85202e07b22e35ab4ca0cceb7206b28ca53d"/>
+	</game>
+	<game name="Tax Planner, The v1.0 (1980)(Apple)(US)[A2D0040][backup]">
+		<description>Tax Planner, The v1.0 (1980)(Apple)(US)[A2D0040][backup]</description>
+		<rom name="Tax Planner, The v1.0 (1980)(Apple)(US)[A2D0040][backup].woz" size="234857" crc="897f9309" md5="c3ba75134bd2872f3a552003b30256ab" sha1="d66974b563aef981ddc87bd65d4da76ac77b6962"/>
+	</game>
+	<game name="Tax Planner, The v1.0 (1980)(Apple)(US)[a][A2D0040]">
+		<description>Tax Planner, The v1.0 (1980)(Apple)(US)[a][A2D0040]</description>
+		<rom name="Tax Planner, The v1.0 (1980)(Apple)(US)[a][A2D0040].woz" size="234815" crc="854f7a70" md5="31ebeaaf69fe6f2833dc74d2cb4f8129" sha1="235b8827c1140890cc6284587768ff350dcf6596"/>
 	</game>
 	<game name="Tax Preparer v3.0 (1983)(HowardSoft)(Side A)">
 		<description>Tax Preparer v3.0 (1983)(HowardSoft)(Side A)</description>
@@ -2055,6 +2208,18 @@
 	<game name="TellStar II Level II (1982)(Scharf Software Systems)(II+)">
 		<description>TellStar II Level II (1982)(Scharf Software Systems)(II+)</description>
 		<rom name="TellStar II Level II (1982)(Scharf Software Systems)(II+).woz" size="233260" crc="3f1cce56" md5="4b1504c29d812fc7d02f93b00bd325cf" sha1="8c0b27cf277886445651b7034babc6f4209c486a"/>
+	</game>
+	<game name="Text Express (19xx)(JPD Machine Linguistics)(IIE)">
+		<description>Text Express (19xx)(JPD Machine Linguistics)(IIE)</description>
+		<rom name="Text Express (19xx)(JPD Machine Linguistics)(IIE).woz" size="234559" crc="057ba5df" md5="6fcd142ab73aeb84ec37cea082444519" sha1="f28c5fdc335fd746fdd4df2ba231794763bab860"/>
+	</game>
+	<game name="Time Liner (1986)(Tom Snyder Productions)">
+		<description>Time Liner (1986)(Tom Snyder Productions)</description>
+		<rom name="Time Liner (1986)(Tom Snyder Productions).woz" size="241500" crc="8b3202d3" md5="e6f4b04dcbb9dc8fe5dfbed794cec473" sha1="dc9ede63af8c3d256464f0de8c1b8f43575f4162"/>
+	</game>
+	<game name="Time Liner (1986)(Tom Snyder Productions)[a]">
+		<description>Time Liner (1986)(Tom Snyder Productions)[a]</description>
+		<rom name="Time Liner (1986)(Tom Snyder Productions)[a].woz" size="241500" crc="5ba2f6dd" md5="fc084898635cc70d3a477b8083f492a1" sha1="e51c664abfb9a0ba1422fa32cbf6fcb71bf9e552"/>
 	</game>
 	<game name="TimeOut DeskTools II v1.1 (1988)(Beagle Bros)(IIE)[128K][800K]">
 		<description>TimeOut DeskTools II v1.1 (1988)(Beagle Bros)(IIE)[128K][800K]</description>
@@ -2192,6 +2357,10 @@
 		<description>Tip Disk #1 (1982)(Beagle Bros)(II+)(US)[48K]</description>
 		<rom name="Tip Disk #1 (1982)(Beagle Bros)(II+)(US)[48K].woz" size="234793" crc="d0df82c8" md5="dfc0eb6f7e276cdf763de8c4caa1960c" sha1="e273cc4bd94dfec583cf3f114a82e841a7fd3f3e"/>
 	</game>
+	<game name="Trader (1985)(Game Designers' Workshop)(US)">
+		<description>Trader (1985)(Game Designers' Workshop)(US)</description>
+		<rom name="Trader (1985)(Game Designers' Workshop)(US).woz" size="234898" crc="64dd9ae3" md5="709117d8df857279069d29eff8503f19" sha1="083e6a724195f6a6a56dbf00394c459864772b4a"/>
+	</game>
 	<game name="Triple-Dump (1984)(Beagle Bros)(II+)(US)(Side A)[48K][DOS 3.3]">
 		<description>Triple-Dump (1984)(Beagle Bros)(II+)(US)(Side A)[48K][DOS 3.3]</description>
 		<rom name="Triple-Dump (1984)(Beagle Bros)(II+)(US)(Side A)[48K][DOS 3.3].woz" size="241477" crc="aeae3e95" md5="025a8f82be4922a3b3d49345a0e95347" sha1="1aaa376a7896286c25f5b605ffec5993664122f5"/>
@@ -2200,9 +2369,17 @@
 		<description>Triple-Dump (1984)(Beagle Bros)(II+)(US)(Side B)[48K][DOS 3.3]</description>
 		<rom name="Triple-Dump (1984)(Beagle Bros)(II+)(US)(Side B)[48K][DOS 3.3].woz" size="234821" crc="a95efa38" md5="3feeae5389a381beeaaac0e179169ee0" sha1="9b6fbc125aef5f68f456185fd1a41e62d6ea25d6"/>
 	</game>
-	<game name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(II+)(US)(Disk 2 of 2)(Data)">
-		<description>Troll Printmaker - Holiday Fun (1994)(Troll Associates)(II+)(US)(Disk 2 of 2)(Data)</description>
-		<rom name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(II+)(US)(Disk 2 of 2)(Data).woz" size="233216" crc="8467f2c6" md5="50b415f0dabe8191ad5dd09aef0b224c" sha1="9228f2e80a9c445ca31baf50ae1c9712cf932331"/>
+	<game name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 1 of 2)(Program)[128K]">
+		<description>Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 1 of 2)(Program)[128K]</description>
+		<rom name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 1 of 2)(Program)[128K].woz" size="234952" crc="cc6585d0" md5="f200daac89acfb422ffe9e3de87e118c" sha1="95b0dec2ec64a26810050014b10f06df2d89489b"/>
+	</game>
+	<game name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 2 of 2)(Data)[128K]">
+		<description>Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 2 of 2)(Data)[128K]</description>
+		<rom name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 2 of 2)(Data)[128K].woz" size="234980" crc="519bbe93" md5="21c7f5a9a3e08aee37f64334fb1b21f4" sha1="f5d9c9179b31fff7436da523a4ae5ee21fc26265"/>
+	</game>
+	<game name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 2 of 2)(Data)[a][128K]">
+		<description>Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 2 of 2)(Data)[a][128K]</description>
+		<rom name="Troll Printmaker - Holiday Fun (1994)(Troll Associates)(IIE)(US)(Disk 2 of 2)(Data)[a][128K].woz" size="233216" crc="8467f2c6" md5="50b415f0dabe8191ad5dd09aef0b224c" sha1="9228f2e80a9c445ca31baf50ae1c9712cf932331"/>
 	</game>
 	<game name="Typefaces for Apple Mechanic (1982)(Beagle Bros)(II+)(US)[48K][req Apple Mechanic]">
 		<description>Typefaces for Apple Mechanic (1982)(Beagle Bros)(II+)(US)[48K][req Apple Mechanic]</description>
@@ -2276,6 +2453,10 @@
 		<description>Visidex v1.01 (1981)(Personal Software)</description>
 		<rom name="Visidex v1.01 (1981)(Personal Software).woz" size="233216" crc="6a4c9681" md5="bdf69c0e147d04486a69e5511af13247" sha1="16e31b1b7c4eeb0f1fe5c474e532e5a7dd737bad"/>
 	</game>
+	<game name="Visidex v1.01 (1981)(Personal Software)[a]">
+		<description>Visidex v1.01 (1981)(Personal Software)[a]</description>
+		<rom name="Visidex v1.01 (1981)(Personal Software)[a].woz" size="234811" crc="cae3a03d" md5="b9de68d5fa3ea27d525d03922031f918" sha1="587c2ef962c1a405fd861cf9c729e278ea8f3459"/>
+	</game>
 	<game name="Visualizer IIe v1.1 (1987)(PBI Software)(IIE)">
 		<description>Visualizer IIe v1.1 (1987)(PBI Software)(IIE)</description>
 		<rom name="Visualizer IIe v1.1 (1987)(PBI Software)(IIE).woz" size="233216" crc="71933b2a" md5="80ea55936e74b99200d699a11e92584d" sha1="d9a86e0f1593be88c52a07d6a712c79543d8ad38"/>
@@ -2283,6 +2464,14 @@
 	<game name="VT-100 Emulator (1980)(Apple)(II+)[48K]">
 		<description>VT-100 Emulator (1980)(Apple)(II+)[48K]</description>
 		<rom name="VT-100 Emulator (1980)(Apple)(II+)[48K].woz" size="234860" crc="37089e69" md5="642690ac44289f7818748310e7e75b89" sha1="df084bce3dab8256dc6e35e02febbea6674c9113"/>
+	</game>
+	<game name="Walt Disney's Card &amp; Party Shop (1986)(Bantam Software)(II+)(US)(Disk 1 of 2 Side A)(Program Disk)[48K]">
+		<description>Walt Disney's Card &amp; Party Shop (1986)(Bantam Software)(II+)(US)(Disk 1 of 2 Side A)(Program Disk)[48K]</description>
+		<rom name="Walt Disney's Card &amp; Party Shop (1986)(Bantam Software)(II+)(US)(Disk 1 of 2 Side A)(Program Disk)[48K].woz" size="234861" crc="e1120666" md5="1b68dbc42f52970fb180bc32631420bc" sha1="d287e203ec6b975979e12cbedb783f157d6e655b"/>
+	</game>
+	<game name="Walt Disney's Card &amp; Party Shop (1986)(Bantam Software)(II+)(US)(Disk 1 of 2 Side B)(Program Disk)[48K]">
+		<description>Walt Disney's Card &amp; Party Shop (1986)(Bantam Software)(II+)(US)(Disk 1 of 2 Side B)(Program Disk)[48K]</description>
+		<rom name="Walt Disney's Card &amp; Party Shop (1986)(Bantam Software)(II+)(US)(Disk 1 of 2 Side B)(Program Disk)[48K].woz" size="234861" crc="1cd1097e" md5="f79093c00a095715fdb16bac7c830c26" sha1="213c1dca7a0832e5bf7c4c1c6d862345095c5d96"/>
 	</game>
 	<game name="Webster's New World Spelling Checker v1.4 (1985)(Simon and Schuster)(IIE)(Disk 1 of 3)">
 		<description>Webster's New World Spelling Checker v1.4 (1985)(Simon and Schuster)(IIE)(Disk 1 of 3)</description>
@@ -2323,6 +2512,14 @@
 	<game name="Wizplus (1982)(Datamost)(II+)[64K]">
 		<description>Wizplus (1982)(Datamost)(II+)[64K]</description>
 		<rom name="Wizplus (1982)(Datamost)(II+)[64K].woz" size="234735" crc="444350da" md5="2e94daa577f47dc5ad330f6ee1195736" sha1="78a3b32406189517b176e7da2cb04178a7fd67ad"/>
+	</game>
+	<game name="Write Stuff, The (1984)(Harper &amp; Row)">
+		<description>Write Stuff, The (1984)(Harper &amp; Row)</description>
+		<rom name="Write Stuff, The (1984)(Harper &amp; Row).woz" size="261461" crc="989a293c" md5="5795be9efcb6f5ac92da4759b8949d4f" sha1="f302e608a7af54a61d4e1bd10f0e5f104262decd"/>
+	</game>
+	<game name="Write Stuff, The (1984)(Harper &amp; Row)[a]">
+		<description>Write Stuff, The (1984)(Harper &amp; Row)[a]</description>
+		<rom name="Write Stuff, The (1984)(Harper &amp; Row)[a].woz" size="261461" crc="09965482" md5="b50cf7d95a8fb06fea402b1dd7adbf11" sha1="fc2ef8bb4e601e451e43612cf0e1e65d575120b0"/>
 	</game>
 	<game name="Writer's Choice v1.0 (1986)(Personal Choice Software)(II+)(Side A)[req 80-col]">
 		<description>Writer's Choice v1.0 (1986)(Personal Choice Software)(II+)(Side A)[req 80-col]</description>

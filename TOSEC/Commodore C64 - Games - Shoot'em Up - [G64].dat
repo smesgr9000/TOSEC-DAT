@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Shoot&apos;em Up - [G64]</name>
-		<description>Commodore C64 - Games - Shoot&apos;em Up - [G64] (TOSEC-v2023-05-19)</description>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [G64] (TOSEC-v2024-03-15)</description>
 		<category>TOSEC</category>
-		<version>2023-05-19</version>
+		<version>2024-03-15</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1012,9 +1012,9 @@
 		<description>Purple Heart (1988)(CRL)(Side A)[cr F4CG]</description>
 		<rom name="Purple Heart (1988)(CRL)(Side A)[cr F4CG].g64" size="333744" crc="b057e265" md5="e16a7981a4476eddb948a4f31f32b700" sha1="4ef7bcf164bb65bff3140516dc8d865ba99cf962"/>
 	</game>
-	<game name="Raid Over Moscow (1984)(Access Software)[cr Antiram]">
-		<description>Raid Over Moscow (1984)(Access Software)[cr Antiram]</description>
-		<rom name="Raid Over Moscow (1984)(Access Software)[cr Antiram].g64" size="333744" crc="405ec7cc" md5="a89e4e6667219df367ee6f8cfad83394" sha1="479db813f6734908803e21b22258a623c33cb130"/>
+	<game name="Raid over Moscow (1984)(Access)[cr Antiram]">
+		<description>Raid over Moscow (1984)(Access)[cr Antiram]</description>
+		<rom name="Raid over Moscow (1984)(Access)[cr Antiram].g64" size="333744" crc="405ec7cc" md5="a89e4e6667219df367ee6f8cfad83394" sha1="479db813f6734908803e21b22258a623c33cb130"/>
 	</game>
 	<game name="Rescue on Fractalus (1985)(Lucasfilm)">
 		<description>Rescue on Fractalus (1985)(Lucasfilm)</description>
@@ -1180,9 +1180,9 @@
 		<description>Solar Star (1987)(Microdaft)[a]</description>
 		<rom name="Solar Star (1987)(Microdaft)[a].g64" size="333744" crc="a07a5b12" md5="bf3ac91b666deca08bf95726d5634b26" sha1="201c0560deccc7eda27aea9e1c37871afc5f6f69"/>
 	</game>
-	<game name="Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX]">
-		<description>Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX]</description>
-		<rom name="Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX].g64" size="333744" crc="041edd6f" md5="289d78a1c78592b0dc656b0a88528443" sha1="66b1389a4dc5adbe0b968237699bcc0cad57aa7d"/>
+	<game name="Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX]">
+		<description>Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX]</description>
+		<rom name="Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX].g64" size="333744" crc="041edd6f" md5="289d78a1c78592b0dc656b0a88528443" sha1="66b1389a4dc5adbe0b968237699bcc0cad57aa7d"/>
 	</game>
 	<game name="Speed Rumbler, The (1987)(Capcom)(Disk 1 of 2 Side A)[cr HTL]">
 		<description>Speed Rumbler, The (1987)(Capcom)(Disk 1 of 2 Side A)[cr HTL]</description>
@@ -1419,5 +1419,9 @@
 	<game name="X-Out (1989)(Rainbow Arts)(Side A)[cr Dytec][t +2 Dytec]">
 		<description>X-Out (1989)(Rainbow Arts)(Side A)[cr Dytec][t +2 Dytec]</description>
 		<rom name="X-Out (1989)(Rainbow Arts)(Side A)[cr Dytec][t +2 Dytec].g64" size="333744" crc="e40a5cb7" md5="21fab1cb0fa183bbc1f5fe47b8f9c8fc" sha1="1555983ecd6b6b36d0bbc7f6ae00deae9d89657f"/>
+	</game>
+	<game name="X-Out (1989)(Rainbow Arts)[cr Duplex - Oracle][t +3]">
+		<description>X-Out (1989)(Rainbow Arts)[cr Duplex - Oracle][t +3]</description>
+		<rom name="X-Out (1989)(Rainbow Arts)[cr Duplex - Oracle][t +3].g64" size="278234" crc="1aa3f18a" md5="c6ac5ed8b5f7215026ad223797c83add" sha1="ab09484a10b412a3217ca35f5b01edfc8ecb198b"/>
 	</game>
 </datafile>

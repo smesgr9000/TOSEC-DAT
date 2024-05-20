@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - [PRG]</name>
-		<description>Commodore C64 - Applications - [PRG] (TOSEC-v2023-06-14)</description>
+		<description>Commodore C64 - Applications - [PRG] (TOSEC-v2024-04-12)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-04-12</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -796,6 +796,10 @@
 		<description>Accesinus (1988-12-24)(Across)</description>
 		<rom name="Accesinus (1988-12-24)(Across).prg" size="13459" crc="ccc39e39" md5="7c6e1494972c7ee3d0a957eb732840f8" sha1="57760028db60247863b4642b63340aafad04c915"/>
 	</game>
+	<game name="Accuracy Note Writer v1.0 (19xx)(ACY)">
+		<description>Accuracy Note Writer v1.0 (19xx)(ACY)</description>
+		<rom name="Accuracy Note Writer v1.0 (19xx)(ACY).prg" size="6478" crc="d25be21a" md5="db02bc62ec5ee5a6879daadd6daf8ef7" sha1="2b7e4e40ba6b63528fe3527b6d27c6b2f30c2cae"/>
+	</game>
 	<game name="Ace Noter v1.0 (1992)(Spirit)">
 		<description>Ace Noter v1.0 (1992)(Spirit)</description>
 		<rom name="Ace Noter v1.0 (1992)(Spirit).prg" size="14593" crc="bc1748c2" md5="20ad3cdaf932eb5d0567ee097aa9d293" sha1="794a72401211cbfbf4d262ab303a3a46f9acdc48"/>
@@ -851,6 +855,10 @@
 	<game name="Adam&apos;s Family Editor (19xx)(Adasie)">
 		<description>Adam&apos;s Family Editor (19xx)(Adasie)</description>
 		<rom name="Adam&apos;s Family Editor (19xx)(Adasie).prg" size="8931" crc="4be6aaf8" md5="d90b759e44963e714e613ed94bbe5808" sha1="75972871eb0d145b51bd7f322626f9907fff500a"/>
+	</game>
+	<game name="Address Manager (1983)(Abrasco)">
+		<description>Address Manager (1983)(Abrasco)</description>
+		<rom name="Address Manager (1983)(Abrasco).prg" size="9898" crc="423f47d1" md5="537877c874aa04be6c3de84b229b6759" sha1="ddc946843c451f1545025dc9e65edf3d31f643e0"/>
 	</game>
 	<game name="Address Register v4.0 (19xx)(Viking)[Hu]">
 		<description>Address Register v4.0 (19xx)(Viking)[Hu]</description>
@@ -1008,9 +1016,9 @@
 		<description>Advanced Note Maker v1.2 (1991)(Bonzai)</description>
 		<rom name="Advanced Note Maker v1.2 (1991)(Bonzai).prg" size="13974" crc="a101fa3a" md5="5fd6fec7d7a98fd04418247bb2f05197" sha1="48d3acf374e215df5a23371f17d8c884db60ed0b"/>
 	</game>
-	<game name="Adventure Creator (1984)(Spinnaker Software)">
-		<description>Adventure Creator (1984)(Spinnaker Software)</description>
-		<rom name="Adventure Creator (1984)(Spinnaker Software).prg" size="23243" crc="26c17b5c" md5="12c7a670da1cf8f1619d4a445cf96e53" sha1="35577aa79e77668168bc4a021096ec9be6ae46ec"/>
+	<game name="Adventure Creator (1984)(Spinnaker)">
+		<description>Adventure Creator (1984)(Spinnaker)</description>
+		<rom name="Adventure Creator (1984)(Spinnaker).prg" size="23243" crc="26c17b5c" md5="12c7a670da1cf8f1619d4a445cf96e53" sha1="35577aa79e77668168bc4a021096ec9be6ae46ec"/>
 	</game>
 	<game name="AFL - Noter V1.0 (1994)(Alpha Flight)">
 		<description>AFL - Noter V1.0 (1994)(Alpha Flight)</description>
@@ -1348,6 +1356,10 @@
 		<description>Art Studio v1.1 (19xx)(Rainbird)[a]</description>
 		<rom name="Art Studio v1.1 (19xx)(Rainbird)[a].prg" size="37677" crc="8ab9c71b" md5="c02572f6acb93fe12327a91436faea5f" sha1="8d0280a713b33adbc5f63a70c426625fe6529f81"/>
 	</game>
+	<game name="Art Studio v1.1 (19xx)(Rainbird)[a2]">
+		<description>Art Studio v1.1 (19xx)(Rainbird)[a2]</description>
+		<rom name="Art Studio v1.1 (19xx)(Rainbird)[a2].prg" size="37678" crc="75ef702b" md5="2ed91e74b66dba47ccd64c5b71d6b15e" sha1="d15187a738035d0e8919d17559847fe68094c79e"/>
+	</game>
 	<game name="Art Studio, The v1.1 (1986)(OCP)[cr CCS]">
 		<description>Art Studio, The v1.1 (1986)(OCP)[cr CCS]</description>
 		<rom name="Art Studio, The v1.1 (1986)(OCP)[cr CCS].prg" size="42282" crc="ed575d1f" md5="5723165dd48b8a308d42a4d0e3d7cd5b" sha1="77b6a72f4337f9ae0cdb2abf478ef71a0fb48e02"/>
@@ -1579,6 +1591,10 @@
 	<game name="Bad Reception TV V0.7 (2017-11-01)(Bamse)">
 		<description>Bad Reception TV V0.7 (2017-11-01)(Bamse)</description>
 		<rom name="Bad Reception TV V0.7 (2017-11-01)(Bamse).prg" size="3277" crc="1895fd8c" md5="686229dcf777b0900ffde3d552469491" sha1="4fb9675886f0ea4389b667852fdff141f7f66328"/>
+	</game>
+	<game name="Bad Reception TV v0.7116 (2017-11-01)(Bamse)">
+		<description>Bad Reception TV v0.7116 (2017-11-01)(Bamse)</description>
+		<rom name="Bad Reception TV v0.7116 (2017-11-01)(Bamse).prg" size="40786" crc="291c06b6" md5="0b6851ce955914aac36f9c3697e4970d" sha1="c754aa1888bde105c04ad8ce16ad288262271c82"/>
 	</game>
 	<game name="Ballistic (19xx)(-)">
 		<description>Ballistic (19xx)(-)</description>
@@ -2052,6 +2068,10 @@
 		<description>Boulder Dash Construction Kit (19xx)(-)[h SCI]</description>
 		<rom name="Boulder Dash Construction Kit (19xx)(-)[h SCI].prg" size="19761" crc="34a7713e" md5="9e2a02ea6610cbef18d5c898b7fa2b6e" sha1="88e2679b0eb75c3d50763a4fb4068a93e41590af"/>
 	</game>
+	<game name="Boulder Dash Construction Kit (19xx)(-)[h SCI][a]">
+		<description>Boulder Dash Construction Kit (19xx)(-)[h SCI][a]</description>
+		<rom name="Boulder Dash Construction Kit (19xx)(-)[h SCI][a].prg" size="18983" crc="1c6b2647" md5="2e74ff57e93049cb40ed01ac9e61dd29" sha1="9d809582afb4a751ceeec1ae2a2e8b3257a569e7"/>
+	</game>
 	<game name="Box Check Sprite A (2010-02-26)(tlr)">
 		<description>Box Check Sprite A (2010-02-26)(tlr)</description>
 		<rom name="Box Check Sprite A (2010-02-26)(tlr).prg" size="1762" crc="52d0ce66" md5="824436af2c7a1e0aeb04bd8d09ca656a" sha1="521d42d157486ae3266c241da5559118041bac89"/>
@@ -2232,9 +2252,9 @@
 		<description>Byte-Compactor (1985)(2703)[o]</description>
 		<rom name="Byte-Compactor (1985)(2703)[o].prg" size="3840" crc="d635d27d" md5="0410bac679707d811c185de20d927adb" sha1="90c9a9fac6758294b3378445222e959f51ee67a1"/>
 	</game>
-	<game name="Bytepress (19xx)(The Syndicate)">
-		<description>Bytepress (19xx)(The Syndicate)</description>
-		<rom name="Bytepress (19xx)(The Syndicate).prg" size="1732" crc="a082738e" md5="58f3648a894673b66528eda3d5522d98" sha1="9ba22f6793fd75e515bbe1b2e888967c50cb0dbc"/>
+	<game name="Bytepress, The (1986)(The Syndicate)">
+		<description>Bytepress, The (1986)(The Syndicate)</description>
+		<rom name="Bytepress, The (1986)(The Syndicate).prg" size="1732" crc="a082738e" md5="58f3648a894673b66528eda3d5522d98" sha1="9ba22f6793fd75e515bbe1b2e888967c50cb0dbc"/>
 	</game>
 	<game name="Bytepress, The II (1988)(Jewels)">
 		<description>Bytepress, The II (1988)(Jewels)</description>
@@ -2264,9 +2284,9 @@
 		<description>C4MRP Compressor V2.0 (19xx)(-)</description>
 		<rom name="C4MRP Compressor V2.0 (19xx)(-).prg" size="1803" crc="f01a73ac" md5="192d030b89d61a2664040109c51d913e" sha1="1a284356498866c65ec04ebc7d4ca1809229f2dc"/>
 	</game>
-	<game name="C4MRP Compressor v3.0 (19xx)(Motiv8)">
-		<description>C4MRP Compressor v3.0 (19xx)(Motiv8)</description>
-		<rom name="C4MRP Compressor v3.0 (19xx)(Motiv8).prg" size="9330" crc="a435c873" md5="c60e63fe568240fac6c2570cf276a275" sha1="770bcc08091e5a5546108ecc14ea8600a40f1771"/>
+	<game name="C4MRP Compressor v3.0 (19xx)(Motiv 8)">
+		<description>C4MRP Compressor v3.0 (19xx)(Motiv 8)</description>
+		<rom name="C4MRP Compressor v3.0 (19xx)(Motiv 8).prg" size="9330" crc="a435c873" md5="c60e63fe568240fac6c2570cf276a275" sha1="770bcc08091e5a5546108ecc14ea8600a40f1771"/>
 	</game>
 	<game name="C64 4Bit Audio Digitizer (1987)(Nightfall)">
 		<description>C64 4Bit Audio Digitizer (1987)(Nightfall)</description>
@@ -2735,6 +2755,10 @@
 	<game name="Char-Wandler v2.0 (1989-09-26)(Diamant Designs)">
 		<description>Char-Wandler v2.0 (1989-09-26)(Diamant Designs)</description>
 		<rom name="Char-Wandler v2.0 (1989-09-26)(Diamant Designs).prg" size="18933" crc="69313c0b" md5="1349bbef3d7e8cee8e65ec3230b776d1" sha1="4069405ed255a1ba3f8c55b5ad1689a5b123293f"/>
+	</game>
+	<game name="Charwandler v2.1 (1998-02-07)(Angels)">
+		<description>Charwandler v2.1 (1998-02-07)(Angels)</description>
+		<rom name="Charwandler v2.1 (1998-02-07)(Angels).prg" size="7468" crc="18bd9292" md5="48a33c3c036a8e2a9733b9c503ee3130" sha1="77ac8d1a720646cad143a696634d209e9a6a3756"/>
 	</game>
 	<game name="Charwriter Beta (1999)(CTR)">
 		<description>Charwriter Beta (1999)(CTR)</description>
@@ -3460,10 +3484,6 @@
 		<description>Cruel Cruncher v2.5+ (19xx)(Faces)</description>
 		<rom name="Cruel Cruncher v2.5+ (19xx)(Faces).prg" size="5740" crc="2dd13694" md5="ce6aba9dbaa05e4b5a3515b7cd62c585" sha1="a4009e9c8475a617b4a22879187621d7cffa5326"/>
 	</game>
-	<game name="Cruel Cruncher v2.9 (1994)(Empire)[o]">
-		<description>Cruel Cruncher v2.9 (1994)(Empire)[o]</description>
-		<rom name="Cruel Cruncher v2.9 (1994)(Empire)[o].prg" size="4864" crc="08f4854b" md5="08269f533945d2e59eb51b8dbd8c52ef" sha1="08111713e6d5bc1229cf0b22d0323203a3204712"/>
-	</game>
 	<game name="Cruel Cruncher v2.9 (1994-08-15)(Empire)">
 		<description>Cruel Cruncher v2.9 (1994-08-15)(Empire)</description>
 		<rom name="Cruel Cruncher v2.9 (1994-08-15)(Empire).prg" size="4992" crc="d691b06e" md5="9ed401b5f1d6bea0845ce54eb8b460be" sha1="62c867be3ba2ec23de4307360349e3f450c13ee4"/>
@@ -3471,6 +3491,10 @@
 	<game name="Cruel Cruncher v2.9 (1994-08-15)(Empire)[a]">
 		<description>Cruel Cruncher v2.9 (1994-08-15)(Empire)[a]</description>
 		<rom name="Cruel Cruncher v2.9 (1994-08-15)(Empire)[a].prg" size="4797" crc="383863df" md5="9fa427d1d088932d6c0732d250049896" sha1="0bdddde1edfd0192070cd7074f919604cca91e5e"/>
+	</game>
+	<game name="Cruel Cruncher v2.9 (1994-08-15)(Empire)[o]">
+		<description>Cruel Cruncher v2.9 (1994-08-15)(Empire)[o]</description>
+		<rom name="Cruel Cruncher v2.9 (1994-08-15)(Empire)[o].prg" size="4864" crc="08f4854b" md5="08269f533945d2e59eb51b8dbd8c52ef" sha1="08111713e6d5bc1229cf0b22d0323203a3204712"/>
 	</game>
 	<game name="Cruel Cruncher v3.6 (1989)(-)">
 		<description>Cruel Cruncher v3.6 (1989)(-)</description>
@@ -3704,9 +3728,9 @@
 		<description>D64 Disk Image to 1541 Disk (19xx)(-)</description>
 		<rom name="D64 Disk Image to 1541 Disk (19xx)(-).prg" size="5147" crc="b211f387" md5="510825a74c890951e54cf6c0a27c1784" sha1="1147fdd332b893112b1eee01f38d315ccfa4d931"/>
 	</game>
-	<game name="D64 Maker v1.0 (1996)(Motiv8)[Installation]">
-		<description>D64 Maker v1.0 (1996)(Motiv8)[Installation]</description>
-		<rom name="D64 Maker v1.0 (1996)(Motiv8)[Installation].prg" size="20818" crc="abc7293e" md5="c97f862f27a06eaa7e33f3109ed6bdb6" sha1="c7441c4676c14c31c36ca83724e04ac013da33eb"/>
+	<game name="D64 Maker v1.0 (1996)(Motiv 8)[Installation]">
+		<description>D64 Maker v1.0 (1996)(Motiv 8)[Installation]</description>
+		<rom name="D64 Maker v1.0 (1996)(Motiv 8)[Installation].prg" size="20818" crc="abc7293e" md5="c97f862f27a06eaa7e33f3109ed6bdb6" sha1="c7441c4676c14c31c36ca83724e04ac013da33eb"/>
 	</game>
 	<game name="D642SD V0.1 (2020-10-18)(Zaindlmaier)">
 		<description>D642SD V0.1 (2020-10-18)(Zaindlmaier)</description>
@@ -3796,9 +3820,9 @@
 		<description>Darksqueezer v3.0 (1989)(WOW)</description>
 		<rom name="Darksqueezer v3.0 (1989)(WOW).prg" size="7280" crc="6d7febdf" md5="0a3913ea4fb539bf616e568a09e36351" sha1="d93b417ec319e7d821ad67fd8605e67dc0478df7"/>
 	</game>
-	<game name="Darksqueezer v3.1 (19xx)(Motiv8)">
-		<description>Darksqueezer v3.1 (19xx)(Motiv8)</description>
-		<rom name="Darksqueezer v3.1 (19xx)(Motiv8).prg" size="14005" crc="026fb293" md5="2e75e41232d3604b876ba363db93170c" sha1="6c98fa8cabc7140eb2b946549a96fd175e203533"/>
+	<game name="Darksqueezer v3.1 (19xx)(Motiv 8)">
+		<description>Darksqueezer v3.1 (19xx)(Motiv 8)</description>
+		<rom name="Darksqueezer v3.1 (19xx)(Motiv 8).prg" size="14005" crc="026fb293" md5="2e75e41232d3604b876ba363db93170c" sha1="6c98fa8cabc7140eb2b946549a96fd175e203533"/>
 	</game>
 	<game name="Darksqueezer, The v2.0 (1989)(The Paradroid)">
 		<description>Darksqueezer, The v2.0 (1989)(The Paradroid)</description>
@@ -3960,21 +3984,21 @@
 		<description>Delta-Force Compactor 250, The (1987)(The Delta Force)</description>
 		<rom name="Delta-Force Compactor 250, The (1987)(The Delta Force).prg" size="4097" crc="302841a3" md5="63189a7f173a5fce173b4923c0dc696c" sha1="a19607db8ddd9b929c14250af8ed998d3de94574"/>
 	</game>
-	<game name="Delux Driver v2.0 (19xx)(Vibrants)">
-		<description>Delux Driver v2.0 (19xx)(Vibrants)</description>
-		<rom name="Delux Driver v2.0 (19xx)(Vibrants).prg" size="7587" crc="28f0ce68" md5="dca10a8c2fbec4d2707ce55d2904d742" sha1="c28bc24abe3438683d0995843fd279818351b9c4"/>
+	<game name="Delux Driver, The v2.0 (19xx)(Vibrants)">
+		<description>Delux Driver, The v2.0 (19xx)(Vibrants)</description>
+		<rom name="Delux Driver, The v2.0 (19xx)(Vibrants).prg" size="7587" crc="28f0ce68" md5="dca10a8c2fbec4d2707ce55d2904d742" sha1="c28bc24abe3438683d0995843fd279818351b9c4"/>
 	</game>
-	<game name="Delux Driver v4.4 (19xx)(Vibrants)">
-		<description>Delux Driver v4.4 (19xx)(Vibrants)</description>
-		<rom name="Delux Driver v4.4 (19xx)(Vibrants).prg" size="12547" crc="993b9b7b" md5="d4ad7c6f129f58e0eb74aeaab412b936" sha1="6eac43cb7a5322efd8ee3a8ab19a0ef23b5cff76"/>
+	<game name="Delux Driver, The v4.4 (19xx)(Vibrants)">
+		<description>Delux Driver, The v4.4 (19xx)(Vibrants)</description>
+		<rom name="Delux Driver, The v4.4 (19xx)(Vibrants).prg" size="12547" crc="993b9b7b" md5="d4ad7c6f129f58e0eb74aeaab412b936" sha1="6eac43cb7a5322efd8ee3a8ab19a0ef23b5cff76"/>
 	</game>
-	<game name="Delux Driver v5.0 (19xx)(Vibrants)">
-		<description>Delux Driver v5.0 (19xx)(Vibrants)</description>
-		<rom name="Delux Driver v5.0 (19xx)(Vibrants).prg" size="9734" crc="ba56c9b9" md5="9143cc2c2df815b15c3a14604034408c" sha1="316d068b519de86ef126cb320091f11d246dd17e"/>
+	<game name="Delux Driver, The v5.0 (19xx)(Vibrants)">
+		<description>Delux Driver, The v5.0 (19xx)(Vibrants)</description>
+		<rom name="Delux Driver, The v5.0 (19xx)(Vibrants).prg" size="9734" crc="ba56c9b9" md5="9143cc2c2df815b15c3a14604034408c" sha1="316d068b519de86ef126cb320091f11d246dd17e"/>
 	</game>
-	<game name="Delux Driver v5.1 (19xx)(Vibrants)">
-		<description>Delux Driver v5.1 (19xx)(Vibrants)</description>
-		<rom name="Delux Driver v5.1 (19xx)(Vibrants).prg" size="9737" crc="7173a482" md5="5ed964d2f4c38f8e882f97fd24e79fc3" sha1="30396de37dff0418545a5e66c6eda234a3790e2a"/>
+	<game name="Delux Driver, The v5.1 (19xx)(Vibrants)">
+		<description>Delux Driver, The v5.1 (19xx)(Vibrants)</description>
+		<rom name="Delux Driver, The v5.1 (19xx)(Vibrants).prg" size="9737" crc="7173a482" md5="5ed964d2f4c38f8e882f97fd24e79fc3" sha1="30396de37dff0418545a5e66c6eda234a3790e2a"/>
 	</game>
 	<game name="Deluxe 1x2 Font Editor (1992)(Small Change)">
 		<description>Deluxe 1x2 Font Editor (1992)(Small Change)</description>
@@ -4172,9 +4196,9 @@
 		<description>Dir Master (1992)(W.O.W)</description>
 		<rom name="Dir Master (1992)(W.O.W).prg" size="9382" crc="749d0bb2" md5="b598e50efcbd1c653d6b7289ce5561d8" sha1="0679c853bb5eeb74a55bad550163d03a868fd0b6"/>
 	</game>
-	<game name="Dir Master (1996)(Motiv8)">
-		<description>Dir Master (1996)(Motiv8)</description>
-		<rom name="Dir Master (1996)(Motiv8).prg" size="8298" crc="a5d43cb7" md5="4ac1e161a5287922a17f907851d0343e" sha1="83a62e22f2d24c5df70b466444cc06f9cd1997ea"/>
+	<game name="Dir Master (1996)(Motiv 8)">
+		<description>Dir Master (1996)(Motiv 8)</description>
+		<rom name="Dir Master (1996)(Motiv 8).prg" size="8298" crc="a5d43cb7" md5="4ac1e161a5287922a17f907851d0343e" sha1="83a62e22f2d24c5df70b466444cc06f9cd1997ea"/>
 	</game>
 	<game name="Dir Master (19xx)(Markt &amp; Technik)">
 		<description>Dir Master (19xx)(Markt &amp; Technik)</description>
@@ -4188,17 +4212,17 @@
 		<description>Dir Master V2.0 (1989)(Unicess)</description>
 		<rom name="Dir Master V2.0 (1989)(Unicess).prg" size="17434" crc="a3b62512" md5="b016c5fa5194793d43deb1325ce3fc4d" sha1="f157744f0345d9cbe6a9d8cdd4f9d3a16a0b5e75"/>
 	</game>
-	<game name="Dir Master v4.1 (19xx)(-)">
-		<description>Dir Master v4.1 (19xx)(-)</description>
-		<rom name="Dir Master v4.1 (19xx)(-).prg" size="7500" crc="f8ac0ecb" md5="5a548ffbb35b9b0b669b67e343088253" sha1="68151ed6d982f1a2b38279eea1aaf026b6b7142b"/>
-	</game>
-	<game name="Dir Master v4.1 (19xx)(-)[a]">
-		<description>Dir Master v4.1 (19xx)(-)[a]</description>
-		<rom name="Dir Master v4.1 (19xx)(-)[a].prg" size="7500" crc="b64bf267" md5="3a70baa07392b908eb6493312f1fbc62" sha1="980f84142e19cab203f07c63fa1ed1ba7206e5ab"/>
-	</game>
 	<game name="Dir Master v8.4 (19xx)(Hitmen)">
 		<description>Dir Master v8.4 (19xx)(Hitmen)</description>
 		<rom name="Dir Master v8.4 (19xx)(Hitmen).prg" size="17930" crc="2b8333ea" md5="d515b8f57b56d7af3e906f3edc6c8b20" sha1="96d71b61e10e07f6d0bc478c6225e2cfaaa3f3ed"/>
+	</game>
+	<game name="Dir Master, The v4.1 (19xx)(-)">
+		<description>Dir Master, The v4.1 (19xx)(-)</description>
+		<rom name="Dir Master, The v4.1 (19xx)(-).prg" size="7500" crc="f8ac0ecb" md5="5a548ffbb35b9b0b669b67e343088253" sha1="68151ed6d982f1a2b38279eea1aaf026b6b7142b"/>
+	</game>
+	<game name="Dir Master, The v4.1 (19xx)(-)[a]">
+		<description>Dir Master, The v4.1 (19xx)(-)[a]</description>
+		<rom name="Dir Master, The v4.1 (19xx)(-)[a].prg" size="7500" crc="b64bf267" md5="3a70baa07392b908eb6493312f1fbc62" sha1="980f84142e19cab203f07c63fa1ed1ba7206e5ab"/>
 	</game>
 	<game name="Dir Master+ (19xx)(Wim Taymans)">
 		<description>Dir Master+ (19xx)(Wim Taymans)</description>
@@ -4676,9 +4700,9 @@
 		<description>DMC 7.1 beta (1995)(Unreal)</description>
 		<rom name="DMC 7.1 beta (1995)(Unreal).prg" size="23146" crc="52dcc594" md5="1da23ffc76027c68301a36d040ee968b" sha1="9ae5fb96c88cf679631bd518750a0340c798963a"/>
 	</game>
-	<game name="DMC Pro Music Plaver v4.01+ (1996)(Motiv8)">
-		<description>DMC Pro Music Plaver v4.01+ (1996)(Motiv8)</description>
-		<rom name="DMC Pro Music Plaver v4.01+ (1996)(Motiv8).prg" size="13017" crc="0f314ed6" md5="298837485b9d8374576d433156b56be2" sha1="e88e2d76b640fc6d6d66d5bc4238c17a8689a68a"/>
+	<game name="DMC Pro Music Plaver v4.01+ (1996)(Motiv 8)">
+		<description>DMC Pro Music Plaver v4.01+ (1996)(Motiv 8)</description>
+		<rom name="DMC Pro Music Plaver v4.01+ (1996)(Motiv 8).prg" size="13017" crc="0f314ed6" md5="298837485b9d8374576d433156b56be2" sha1="e88e2d76b640fc6d6d66d5bc4238c17a8689a68a"/>
 	</game>
 	<game name="DMC Pro. Music Player v4.01 (1995-09-27)(Xlcus Software and Design)">
 		<description>DMC Pro. Music Player v4.01 (1995-09-27)(Xlcus Software and Design)</description>
@@ -4768,37 +4792,37 @@
 		<description>DMC v5 (1993)(-)[a]</description>
 		<rom name="DMC v5 (1993)(-)[a].prg" size="10176" crc="2c7c491d" md5="532989fba26c3724b09ab557001e97f7" sha1="2f1c1c0de7c8fc453af9fc0c95e92a5b0cc550e8"/>
 	</game>
-	<game name="DMC v5.0 Depack (19xx)(Motiv8)">
-		<description>DMC v5.0 Depack (19xx)(Motiv8)</description>
-		<rom name="DMC v5.0 Depack (19xx)(Motiv8).prg" size="7979" crc="43d7419e" md5="86d837d9e2b24ba1ec04ca965742ab56" sha1="65302ba7be91187f8a6db7694f98ce47d7e1c3a4"/>
+	<game name="DMC v5.0 Depack (19xx)(Motiv 8)">
+		<description>DMC v5.0 Depack (19xx)(Motiv 8)</description>
+		<rom name="DMC v5.0 Depack (19xx)(Motiv 8).prg" size="7979" crc="43d7419e" md5="86d837d9e2b24ba1ec04ca965742ab56" sha1="65302ba7be91187f8a6db7694f98ce47d7e1c3a4"/>
 	</game>
-	<game name="DMC v5.0 Packer (1992)(Motiv8)">
-		<description>DMC v5.0 Packer (1992)(Motiv8)</description>
-		<rom name="DMC v5.0 Packer (1992)(Motiv8).prg" size="15521" crc="d164914b" md5="af1556222f2366160c765de736e82238" sha1="2165069a04bf26ff5d0978bd7e409805c41188c6"/>
+	<game name="DMC v5.0 Packer (1992)(Motiv 8)">
+		<description>DMC v5.0 Packer (1992)(Motiv 8)</description>
+		<rom name="DMC v5.0 Packer (1992)(Motiv 8).prg" size="15521" crc="d164914b" md5="af1556222f2366160c765de736e82238" sha1="2165069a04bf26ff5d0978bd7e409805c41188c6"/>
 	</game>
-	<game name="DMC v5.0 Packer (1992)(Motiv8)[a]">
-		<description>DMC v5.0 Packer (1992)(Motiv8)[a]</description>
-		<rom name="DMC v5.0 Packer (1992)(Motiv8)[a].prg" size="6798" crc="247f9b46" md5="1caa22b14fc2f83922a339b14cc76551" sha1="aa30780860246e57947b7fc2ed476880672ad9f9"/>
+	<game name="DMC v5.0 Packer (1992)(Motiv 8)[a]">
+		<description>DMC v5.0 Packer (1992)(Motiv 8)[a]</description>
+		<rom name="DMC v5.0 Packer (1992)(Motiv 8)[a].prg" size="6798" crc="247f9b46" md5="1caa22b14fc2f83922a339b14cc76551" sha1="aa30780860246e57947b7fc2ed476880672ad9f9"/>
 	</game>
-	<game name="DMC v5.0 Packer (1992)(Motiv8)[a2]">
-		<description>DMC v5.0 Packer (1992)(Motiv8)[a2]</description>
-		<rom name="DMC v5.0 Packer (1992)(Motiv8)[a2].prg" size="15523" crc="47ffc999" md5="62204c1bdb0bd39721dda16d8e186136" sha1="77df3fb199be8cfecdba402d5f0c73863dc91e75"/>
+	<game name="DMC v5.0 Packer (1992)(Motiv 8)[a2]">
+		<description>DMC v5.0 Packer (1992)(Motiv 8)[a2]</description>
+		<rom name="DMC v5.0 Packer (1992)(Motiv 8)[a2].prg" size="15523" crc="47ffc999" md5="62204c1bdb0bd39721dda16d8e186136" sha1="77df3fb199be8cfecdba402d5f0c73863dc91e75"/>
 	</game>
-	<game name="DMC v5.1+ Pack Patcher (19xx)(Motiv8)">
-		<description>DMC v5.1+ Pack Patcher (19xx)(Motiv8)</description>
-		<rom name="DMC v5.1+ Pack Patcher (19xx)(Motiv8).prg" size="14955" crc="8a300b6d" md5="2d940e5598907cf5c202d4911fa6773d" sha1="09c615d5efd2409066536004eb3645221c74aadd"/>
+	<game name="DMC v5.1+ Pack Patcher (19xx)(Motiv 8)">
+		<description>DMC v5.1+ Pack Patcher (19xx)(Motiv 8)</description>
+		<rom name="DMC v5.1+ Pack Patcher (19xx)(Motiv 8).prg" size="14955" crc="8a300b6d" md5="2d940e5598907cf5c202d4911fa6773d" sha1="09c615d5efd2409066536004eb3645221c74aadd"/>
 	</game>
-	<game name="DMC v5.1+ Pack Patcher (19xx)(Motiv8)[o]">
-		<description>DMC v5.1+ Pack Patcher (19xx)(Motiv8)[o]</description>
-		<rom name="DMC v5.1+ Pack Patcher (19xx)(Motiv8)[o].prg" size="14956" crc="e18bc263" md5="be5e1bdb7e3184fa0b27e187b68ef8a1" sha1="1689e8df06b73855c79289692c10aa401693f8d8"/>
+	<game name="DMC v5.1+ Pack Patcher (19xx)(Motiv 8)[o]">
+		<description>DMC v5.1+ Pack Patcher (19xx)(Motiv 8)[o]</description>
+		<rom name="DMC v5.1+ Pack Patcher (19xx)(Motiv 8)[o].prg" size="14956" crc="e18bc263" md5="be5e1bdb7e3184fa0b27e187b68ef8a1" sha1="1689e8df06b73855c79289692c10aa401693f8d8"/>
 	</game>
-	<game name="DMC v5.1+ Patch 2 (1995)(Motiv8)">
-		<description>DMC v5.1+ Patch 2 (1995)(Motiv8)</description>
-		<rom name="DMC v5.1+ Patch 2 (1995)(Motiv8).prg" size="12501" crc="6dc1cfbe" md5="05e74adfed78c507f6670a09e1f662a6" sha1="242465fe9bdfd3f849148327716602b1435a5920"/>
+	<game name="DMC v5.1+ Patch 2 (1995)(Motiv 8)">
+		<description>DMC v5.1+ Patch 2 (1995)(Motiv 8)</description>
+		<rom name="DMC v5.1+ Patch 2 (1995)(Motiv 8).prg" size="12501" crc="6dc1cfbe" md5="05e74adfed78c507f6670a09e1f662a6" sha1="242465fe9bdfd3f849148327716602b1435a5920"/>
 	</game>
-	<game name="DMC v5.1+ Patch 2 (1995)(Motiv8)[o]">
-		<description>DMC v5.1+ Patch 2 (1995)(Motiv8)[o]</description>
-		<rom name="DMC v5.1+ Patch 2 (1995)(Motiv8)[o].prg" size="12502" crc="feb6b0c9" md5="8622dc0e1b8de0d4a13c512ed27eed27" sha1="2c4639741e85334587dbffa73378baef03608044"/>
+	<game name="DMC v5.1+ Patch 2 (1995)(Motiv 8)[o]">
+		<description>DMC v5.1+ Patch 2 (1995)(Motiv 8)[o]</description>
+		<rom name="DMC v5.1+ Patch 2 (1995)(Motiv 8)[o].prg" size="12502" crc="feb6b0c9" md5="8622dc0e1b8de0d4a13c512ed27eed27" sha1="2c4639741e85334587dbffa73378baef03608044"/>
 	</game>
 	<game name="DMC v5.1x Split-Relocator v1.1 (1991)(Onslaught)">
 		<description>DMC v5.1x Split-Relocator v1.1 (1991)(Onslaught)</description>
@@ -4808,9 +4832,9 @@
 		<description>DMC v5.1Y (1999)(Onslaught)</description>
 		<rom name="DMC v5.1Y (1999)(Onslaught).prg" size="5550" crc="286c2d85" md5="b187437aade529c7b27be47f3f4a02f6" sha1="a597a7df66859ff67487c4d24a5a45f420ba1b2f"/>
 	</game>
-	<game name="DMC v7.0 (19xx)(Motiv8)">
-		<description>DMC v7.0 (19xx)(Motiv8)</description>
-		<rom name="DMC v7.0 (19xx)(Motiv8).prg" size="16800" crc="4af04a16" md5="3c382df50f5b1b52b98762e19a2dc0e6" sha1="4e86004708856c89a66e4de408e526d6657f9ff2"/>
+	<game name="DMC v7.0 (19xx)(Motiv 8)">
+		<description>DMC v7.0 (19xx)(Motiv 8)</description>
+		<rom name="DMC v7.0 (19xx)(Motiv 8).prg" size="16800" crc="4af04a16" md5="3c382df50f5b1b52b98762e19a2dc0e6" sha1="4e86004708856c89a66e4de408e526d6657f9ff2"/>
 	</game>
 	<game name="DMC-Driver v1.0 (1997)(Onlsaught)">
 		<description>DMC-Driver v1.0 (1997)(Onlsaught)</description>
@@ -5003,6 +5027,10 @@
 	<game name="Drum-Master, The (1990)(F4CG)[a]">
 		<description>Drum-Master, The (1990)(F4CG)[a]</description>
 		<rom name="Drum-Master, The (1990)(F4CG)[a].prg" size="25571" crc="2dcbb34a" md5="20144ed91c6490dadc36f40cae8d9ef4" sha1="ff98a8539a310f0aa14af538944febdcb73f9e73"/>
+	</game>
+	<game name="Drum-Master, The (1990)(F4CG)[a2]">
+		<description>Drum-Master, The (1990)(F4CG)[a2]</description>
+		<rom name="Drum-Master, The (1990)(F4CG)[a2].prg" size="31029" crc="144f4b4d" md5="52c49e5ce5e6c8e3ca3cbaf484636ee8" sha1="8022e9d52d1f765938f67a299d780b75597ab889"/>
 	</game>
 	<game name="Dual Copier (1986)(-)">
 		<description>Dual Copier (1986)(-)</description>
@@ -5552,6 +5580,10 @@
 		<description>Extacy Funny Noter v0.6 (19xx)(Extacy)</description>
 		<rom name="Extacy Funny Noter v0.6 (19xx)(Extacy).prg" size="19520" crc="87724622" md5="4be8e91a7582afcb428eaa70e17dfed7" sha1="f830eee1aab645b88e605d6aee825d41d98d7c53"/>
 	</game>
+	<game name="Extend Notewriter Disk (19xx)(Censor Design)">
+		<description>Extend Notewriter Disk (19xx)(Censor Design)</description>
+		<rom name="Extend Notewriter Disk (19xx)(Censor Design).prg" size="9114" crc="52258404" md5="c50bbad65be3af0166a2cf06fa5d3efb" sha1="f845590eeb35ff37c493786eab44fc8d8ebf7210"/>
+	</game>
 	<game name="Extended Background Editor V1.5 (1991-05)(Style)">
 		<description>Extended Background Editor V1.5 (1991-05)(Style)</description>
 		<rom name="Extended Background Editor V1.5 (1991-05)(Style).prg" size="6407" crc="d91f852c" md5="c281d0a5c05e94f2815a9f6ac0db54b1" sha1="437bc681891d06780484eef273310576e4c0ed50"/>
@@ -5719,6 +5751,10 @@
 	<game name="Faces v2.2 (1991)(Shazam!)[o]">
 		<description>Faces v2.2 (1991)(Shazam!)[o]</description>
 		<rom name="Faces v2.2 (1991)(Shazam!)[o].prg" size="3328" crc="1addaca2" md5="67642a6856be8caf816074151877044c" sha1="6663d0e70eefa2b30fc74e40a10dbb0e0126dfb1"/>
+	</game>
+	<game name="Faces v2.2 (19xx)(Faces)">
+		<description>Faces v2.2 (19xx)(Faces)</description>
+		<rom name="Faces v2.2 (19xx)(Faces).prg" size="2796" crc="7513c60b" md5="501b804cc4f9e9228532aa7104c36156" sha1="43ef93959a2bfd3dbef50ea5e20ecb56a3d40367"/>
 	</game>
 	<game name="Faces-Writer v2 (19xx)(Faces)">
 		<description>Faces-Writer v2 (19xx)(Faces)</description>
@@ -6167,6 +6203,10 @@
 	<game name="File Copier (1986)(Tango Soft Systems)">
 		<description>File Copier (1986)(Tango Soft Systems)</description>
 		<rom name="File Copier (1986)(Tango Soft Systems).prg" size="11114" crc="479a64b5" md5="1008808767bf7c4f2694ccb2eaa2c443" sha1="2d503cedb05e73320f9a6c13dffbf3f7aa55a4fd"/>
+	</game>
+	<game name="File Copier (1986)(Tango Soft Systems)[a]">
+		<description>File Copier (1986)(Tango Soft Systems)[a]</description>
+		<rom name="File Copier (1986)(Tango Soft Systems)[a].prg" size="10528" crc="4491f57f" md5="10822b7b93a65fdac807ac3a08ef529c" sha1="a573308c40afb596e377ec266ce7aab7d2bb5560"/>
 	</game>
 	<game name="File Copier (1987)(RSD)">
 		<description>File Copier (1987)(RSD)</description>
@@ -6680,6 +6720,34 @@
 		<description>Fullscreen Editor v3.0 (19xx)(Chromance)</description>
 		<rom name="Fullscreen Editor v3.0 (19xx)(Chromance).prg" size="3759" crc="a028cff9" md5="b9114d1506371159f7cb64c6a8f5b752" sha1="5729fc0b4696741c584e253fd57ea8d34da2db0c"/>
 	</game>
+	<game name="FunkPaint 0.39d (2008-08-23)(Singular)">
+		<description>FunkPaint 0.39d (2008-08-23)(Singular)</description>
+		<rom name="FunkPaint 0.39d (2008-08-23)(Singular).prg" size="11718" crc="ebca633c" md5="291cada54df013f9bce1617659d047d4" sha1="54e9d28d887508730544312909df0fae7e8428e4"/>
+	</game>
+	<game name="FunkPaint 0.40k (2012-03-18)(Singular)">
+		<description>FunkPaint 0.40k (2012-03-18)(Singular)</description>
+		<rom name="FunkPaint 0.40k (2012-03-18)(Singular).prg" size="12640" crc="793fa003" md5="0fd7ddf9ba5a0b7b21e067e8473731d8" sha1="06c9df2a91d72cd355675a05fcd138940e49adc4"/>
+	</game>
+	<game name="FunkPaint 0.43a (2015-04-04)(Singular)">
+		<description>FunkPaint 0.43a (2015-04-04)(Singular)</description>
+		<rom name="FunkPaint 0.43a (2015-04-04)(Singular).prg" size="14254" crc="063578d8" md5="3df8d51b93f55e953430a67c7cd6ea76" sha1="4776d2cc4358ba14b7f716dc74f5d9c4097f1ccb"/>
+	</game>
+	<game name="FunkPaint 0.43b (2015-04-05)(Singular)">
+		<description>FunkPaint 0.43b (2015-04-05)(Singular)</description>
+		<rom name="FunkPaint 0.43b (2015-04-05)(Singular).prg" size="14533" crc="9fd1c87e" md5="432fff09b3445b692890d8746877de27" sha1="e13fb8669091b68fd9d1e1a4f72f3fc45b1067b7"/>
+	</game>
+	<game name="FunkPaint 0.44a (2016-03-07)(Singular)">
+		<description>FunkPaint 0.44a (2016-03-07)(Singular)</description>
+		<rom name="FunkPaint 0.44a (2016-03-07)(Singular).prg" size="13964" crc="e620bcbe" md5="8f8aa5bd14b3d5de1e37ec3fc4fcd74e" sha1="256f0b19ef7bc8aea8bbc5a0a10804c2972f4bd0"/>
+	</game>
+	<game name="FunkPaint 0.45a (2017-09-24)(Singular)">
+		<description>FunkPaint 0.45a (2017-09-24)(Singular)</description>
+		<rom name="FunkPaint 0.45a (2017-09-24)(Singular).prg" size="13516" crc="7f7ef0f8" md5="1b0690ec722a7827d38446acd00939cd" sha1="76a23d0b99b16e9d16177ae397be5f4a6506e6d5"/>
+	</game>
+	<game name="FunkPaint 0.45d (2019-08-18)(Singular)">
+		<description>FunkPaint 0.45d (2019-08-18)(Singular)</description>
+		<rom name="FunkPaint 0.45d (2019-08-18)(Singular).prg" size="14828" crc="88db380b" md5="57ba297b20da14a67994914e08c0b9f9" sha1="cd81ee9a2ad2afd0dac3e7f986c960d9e162ce2c"/>
+	</game>
 	<game name="Funktionstasten (19xx)(-)">
 		<description>Funktionstasten (19xx)(-)</description>
 		<rom name="Funktionstasten (19xx)(-).prg" size="833" crc="10fab2db" md5="ffb393363632a6cc1156920446c901bc" sha1="3f84e34ab6ceafb76e695692b92a5972ffb086a4"/>
@@ -6867,6 +6935,10 @@
 	<game name="Game Controller Tester V1.0 (2019-07-19)(Pastbytes)">
 		<description>Game Controller Tester V1.0 (2019-07-19)(Pastbytes)</description>
 		<rom name="Game Controller Tester V1.0 (2019-07-19)(Pastbytes).prg" size="3646" crc="ebe460ee" md5="a514e777071b9ba283bd25b080128c63" sha1="25a3cf8f46c03e9cfe64fe07df80cc45d2962629"/>
+	</game>
+	<game name="Game Graphic Designer, The (1990-10-30)(Softec)">
+		<description>Game Graphic Designer, The (1990-10-30)(Softec)</description>
+		<rom name="Game Graphic Designer, The (1990-10-30)(Softec).prg" size="33822" crc="3ba25a1d" md5="bb964012759304e32291b2e0ceab9185" sha1="fa6d56d460b4da13ac0deada042df3e301c18a40"/>
 	</game>
 	<game name="Games-Trainer Kollosion (1985)(Section 8)">
 		<description>Games-Trainer Kollosion (1985)(Section 8)</description>
@@ -7096,10 +7168,6 @@
 		<description>Graphic Adventure Creator, The (1986)(Incentive Software)[cr Tuerk&apos;s Cracker Incorperation]</description>
 		<rom name="Graphic Adventure Creator, The (1986)(Incentive Software)[cr Tuerk&apos;s Cracker Incorperation].prg" size="35456" crc="28b16d28" md5="67cd9f72bccc11f47c8e640627d8eb08" sha1="54cc0b4c01d5ea7876b207e013d5ad37d95e8cd0"/>
 	</game>
-	<game name="Graphic Designer (1990)(Softec)">
-		<description>Graphic Designer (1990)(Softec)</description>
-		<rom name="Graphic Designer (1990)(Softec).prg" size="33822" crc="3ba25a1d" md5="bb964012759304e32291b2e0ceab9185" sha1="fa6d56d460b4da13ac0deada042df3e301c18a40"/>
-	</game>
 	<game name="Graphic Editor (1988-07-26)(Hotline - International Network of Chaos)">
 		<description>Graphic Editor (1988-07-26)(Hotline - International Network of Chaos)</description>
 		<rom name="Graphic Editor (1988-07-26)(Hotline - International Network of Chaos).prg" size="35657" crc="29f5d1c6" md5="722c53fdf584b2ff4e9bb5545b74640d" sha1="60efbb45a974609c3604d9c384a13b379ac584e5"/>
@@ -7128,9 +7196,9 @@
 		<description>Graphics Basic v1.07 (1983)(HES)</description>
 		<rom name="Graphics Basic v1.07 (1983)(HES).prg" size="17282" crc="e1ac26e2" md5="545ccaa4c43465c2893f98e5fdbb5306" sha1="c4cbddb5a61f6438f363229777be42dc33aed8db"/>
 	</game>
-	<game name="Graphics Editor (1983)(Rabbit Software)">
-		<description>Graphics Editor (1983)(Rabbit Software)</description>
-		<rom name="Graphics Editor (1983)(Rabbit Software).prg" size="9406" crc="ec4665fd" md5="b732fbd8b7ed4c379cebccfa6c36b362" sha1="ba9cdbcc12c2faac6a2d036eae50b13241df3224"/>
+	<game name="Graphics Editor (1983)(Rabbit)">
+		<description>Graphics Editor (1983)(Rabbit)</description>
+		<rom name="Graphics Editor (1983)(Rabbit).prg" size="9406" crc="ec4665fd" md5="b732fbd8b7ed4c379cebccfa6c36b362" sha1="ba9cdbcc12c2faac6a2d036eae50b13241df3224"/>
 	</game>
 	<game name="Graphics Editor v1.00 (1987)(The Vision)">
 		<description>Graphics Editor v1.00 (1987)(The Vision)</description>
@@ -7680,13 +7748,13 @@
 		<description>Ice Machine, The (19xx)(SCS)</description>
 		<rom name="Ice Machine, The (19xx)(SCS).prg" size="29449" crc="582acd63" md5="645765c3ff9deb042ad844a8bc8476ef" sha1="9a88736eef9d184e6fddcbb6c3e8edd18316e245"/>
 	</game>
-	<game name="Icewriter Light, The v4.91 (19xx)(Motiv8)">
-		<description>Icewriter Light, The v4.91 (19xx)(Motiv8)</description>
-		<rom name="Icewriter Light, The v4.91 (19xx)(Motiv8).prg" size="26971" crc="986cf44d" md5="74a5183ac06c3b74e1c5967f746be393" sha1="74b03595372c0f55758fa5db6d2aba895dd2e958"/>
+	<game name="Icewriter Light, The v4.91 (19xx)(Motiv 8)">
+		<description>Icewriter Light, The v4.91 (19xx)(Motiv 8)</description>
+		<rom name="Icewriter Light, The v4.91 (19xx)(Motiv 8).prg" size="26971" crc="986cf44d" md5="74a5183ac06c3b74e1c5967f746be393" sha1="74b03595372c0f55758fa5db6d2aba895dd2e958"/>
 	</game>
-	<game name="Icewriter Light, The v4.91 (19xx)(Motiv8)[o]">
-		<description>Icewriter Light, The v4.91 (19xx)(Motiv8)[o]</description>
-		<rom name="Icewriter Light, The v4.91 (19xx)(Motiv8)[o].prg" size="26972" crc="6f277165" md5="2d8d7a5072791450a35f5ba5380281c6" sha1="0e995e2a622b0062699ad358ceb0da5edc3ec0e2"/>
+	<game name="Icewriter Light, The v4.91 (19xx)(Motiv 8)[o]">
+		<description>Icewriter Light, The v4.91 (19xx)(Motiv 8)[o]</description>
+		<rom name="Icewriter Light, The v4.91 (19xx)(Motiv 8)[o].prg" size="26972" crc="6f277165" md5="2d8d7a5072791450a35f5ba5380281c6" sha1="0e995e2a622b0062699ad358ceb0da5edc3ec0e2"/>
 	</game>
 	<game name="Ice-Writer v2.0 (19xx)(Iceman)">
 		<description>Ice-Writer v2.0 (19xx)(Iceman)</description>
@@ -7700,13 +7768,13 @@
 		<description>Icewriter V4.0 (1994)(Motiv 8)</description>
 		<rom name="Icewriter V4.0 (1994)(Motiv 8).prg" size="22250" crc="1345e79d" md5="aa30fdef591ede1a9c233ccaf891d59c" sha1="43ae236f02c2ad11122ea4db7aeffe04190f1dfc"/>
 	</game>
-	<game name="Icewriter v4.0 (19xx)(Motiv8)">
-		<description>Icewriter v4.0 (19xx)(Motiv8)</description>
-		<rom name="Icewriter v4.0 (19xx)(Motiv8).prg" size="9662" crc="18f55888" md5="7b4567f7b9036f3803abc1656c7d588c" sha1="bd883402bc4906a9e0df59b940ac474e63991e54"/>
+	<game name="Icewriter v4.0 (1994)(Motiv 8)[a]">
+		<description>Icewriter v4.0 (1994)(Motiv 8)[a]</description>
+		<rom name="Icewriter v4.0 (1994)(Motiv 8)[a].prg" size="9662" crc="18f55888" md5="7b4567f7b9036f3803abc1656c7d588c" sha1="bd883402bc4906a9e0df59b940ac474e63991e54"/>
 	</game>
-	<game name="Icewriter, The v4.9 (1995)(Motiv8)">
-		<description>Icewriter, The v4.9 (1995)(Motiv8)</description>
-		<rom name="Icewriter, The v4.9 (1995)(Motiv8).prg" size="20398" crc="ef62128c" md5="a329e3b65ef4640f9d2bbf5f840bd83e" sha1="2bf6c85371f9e53fd79151d72051468f9b807e25"/>
+	<game name="Icewriter, The v4.9 (1995)(Motiv 8)">
+		<description>Icewriter, The v4.9 (1995)(Motiv 8)</description>
+		<rom name="Icewriter, The v4.9 (1995)(Motiv 8).prg" size="20398" crc="ef62128c" md5="a329e3b65ef4640f9d2bbf5f840bd83e" sha1="2bf6c85371f9e53fd79151d72051468f9b807e25"/>
 	</game>
 	<game name="Icolor Editor V1.0 (1997-08-25)(Kreciki)">
 		<description>Icolor Editor V1.0 (1997-08-25)(Kreciki)</description>
@@ -8024,9 +8092,9 @@
 		<description>Intro Linker V4.0 (19xx)(The Wanderer Group)</description>
 		<rom name="Intro Linker V4.0 (19xx)(The Wanderer Group).prg" size="8671" crc="b8f24608" md5="608e6dffe5a8d6fcaef83498eef35690" sha1="0fff780af2e88b2703ad906627910b7d2e2557cd"/>
 	</game>
-	<game name="Intro Maker 02 (1987)(Alpha Flight 1970)">
-		<description>Intro Maker 02 (1987)(Alpha Flight 1970)</description>
-		<rom name="Intro Maker 02 (1987)(Alpha Flight 1970).prg" size="10994" crc="f1521f72" md5="1767a76cbebe9cbec4c382ed1a48f9da" sha1="3d7569669687786063463d865b282b1bbe15fc77"/>
+	<game name="Intro Maker 02 (1988-02-11)(Alpha Flight - The Avengers - The Danse Society)">
+		<description>Intro Maker 02 (1988-02-11)(Alpha Flight - The Avengers - The Danse Society)</description>
+		<rom name="Intro Maker 02 (1988-02-11)(Alpha Flight - The Avengers - The Danse Society).prg" size="10994" crc="f1521f72" md5="1767a76cbebe9cbec4c382ed1a48f9da" sha1="3d7569669687786063463d865b282b1bbe15fc77"/>
 	</game>
 	<game name="Intro Maker 06 (1987)(Alpha Flight 1970)">
 		<description>Intro Maker 06 (1987)(Alpha Flight 1970)</description>
@@ -8235,6 +8303,10 @@
 	<game name="Just a Packer V2.0 (1994)(Agony Design)">
 		<description>Just a Packer V2.0 (1994)(Agony Design)</description>
 		<rom name="Just a Packer V2.0 (1994)(Agony Design).prg" size="2503" crc="25498952" md5="896d102ab775ebb71b53c32699473c9a" sha1="5941ebbd59920bcc1d3584cb28310b492dcf44d8"/>
+	</game>
+	<game name="Just-An-Ed (19xx)(F4CG)">
+		<description>Just-An-Ed (19xx)(F4CG)</description>
+		<rom name="Just-An-Ed (19xx)(F4CG).prg" size="11124" crc="6ee07e94" md5="b2e835cc80b6d262121aa30ff6035d7b" sha1="ed6bf6efb7ad7ff6da70e209f98fafdaebf389f0"/>
 	</game>
 	<game name="Kalafior Edytor (2000)(Lasser)(pl)">
 		<description>Kalafior Edytor (2000)(Lasser)(pl)</description>
@@ -8724,9 +8796,9 @@
 		<description>Level-Cruncher v4.0 (19xx)(Triangle)</description>
 		<rom name="Level-Cruncher v4.0 (19xx)(Triangle).prg" size="3825" crc="ac5a4c4c" md5="fad153aa43a8c9d48d94693ac008f5a4" sha1="386f66add9619846b982f5674aa7d35de6ec064a"/>
 	</game>
-	<game name="Level-Cruncher, The AB v1.0 (19xx)(Motiv8)">
-		<description>Level-Cruncher, The AB v1.0 (19xx)(Motiv8)</description>
-		<rom name="Level-Cruncher, The AB v1.0 (19xx)(Motiv8).prg" size="6426" crc="d3c3c2a9" md5="ee2f4cf8cbdb2078aa4b121c5d3b51b9" sha1="77ed4b243cff968ace5a67f0ed5453d50d56aa50"/>
+	<game name="Level-Cruncher, The AB v1.0 (19xx)(Motiv 8)">
+		<description>Level-Cruncher, The AB v1.0 (19xx)(Motiv 8)</description>
+		<rom name="Level-Cruncher, The AB v1.0 (19xx)(Motiv 8).prg" size="6426" crc="d3c3c2a9" md5="ee2f4cf8cbdb2078aa4b121c5d3b51b9" sha1="77ed4b243cff968ace5a67f0ed5453d50d56aa50"/>
 	</game>
 	<game name="Level-Crusher v1.0 (19xx)(Taboo)">
 		<description>Level-Crusher v1.0 (19xx)(Taboo)</description>
@@ -9536,6 +9608,10 @@
 		<description>Matrix Rain Title Card Creator (2021-12-18)(Durandal)</description>
 		<rom name="Matrix Rain Title Card Creator (2021-12-18)(Durandal).prg" size="3220" crc="eeb37bae" md5="804a8a8dadc9b105ad52f9ef4bcc1e6b" sha1="8b07ba3c93502cfcf3b21f25525c8a8fcc41baeb"/>
 	</game>
+	<game name="Maverick - Illegal Sector Editor (1989)(KJPB)">
+		<description>Maverick - Illegal Sector Editor (1989)(KJPB)</description>
+		<rom name="Maverick - Illegal Sector Editor (1989)(KJPB).prg" size="14687" crc="a1a30e12" md5="b7d142f3fa00f2955de8fd412dcf6094" sha1="d8921274f928c9237e2dd8252627b416db82bb5f"/>
+	</game>
 	<game name="Maverick 1581 Single Drive Copier+ SCPU (19xx)(Cyberpunx)">
 		<description>Maverick 1581 Single Drive Copier+ SCPU (19xx)(Cyberpunx)</description>
 		<rom name="Maverick 1581 Single Drive Copier+ SCPU (19xx)(Cyberpunx).prg" size="6366" crc="8a2dd1a3" md5="ece3840e8cd250c449f11c902d53f008" sha1="88e58706913cea88ed305bab91184eab478ca3af"/>
@@ -10176,9 +10252,9 @@
 		<description>Music-Cruncher v3.00 (1996)(Spiders)</description>
 		<rom name="Music-Cruncher v3.00 (1996)(Spiders).prg" size="7347" crc="c382c411" md5="768886db28e80c0ca0ab9f1b247b9524" sha1="21e636c6fda7becf4ac14fb7a19d6454cc10c2d7"/>
 	</game>
-	<game name="Mus-Ice-Player v1.5 (19xx)(Motiv8)">
-		<description>Mus-Ice-Player v1.5 (19xx)(Motiv8)</description>
-		<rom name="Mus-Ice-Player v1.5 (19xx)(Motiv8).prg" size="8540" crc="88f51dfe" md5="f4dcacb109a87727ee4521a7ea0bb5c5" sha1="8f7d4cbefe1fa5edb67061ff5e1e75013649b89a"/>
+	<game name="Mus-Ice-Player v1.5 (1995)(Motiv 8)">
+		<description>Mus-Ice-Player v1.5 (1995)(Motiv 8)</description>
+		<rom name="Mus-Ice-Player v1.5 (1995)(Motiv 8).prg" size="8540" crc="88f51dfe" md5="f4dcacb109a87727ee4521a7ea0bb5c5" sha1="8f7d4cbefe1fa5edb67061ff5e1e75013649b89a"/>
 	</game>
 	<game name="Musicmaster (1983-06)(-)">
 		<description>Musicmaster (1983-06)(-)</description>
@@ -10692,9 +10768,9 @@
 		<description>Pack It (19xx)(International Cracking Entertainment)</description>
 		<rom name="Pack It (19xx)(International Cracking Entertainment).prg" size="18702" crc="e9b8286e" md5="e8cac1e116c9db6aa0e238c0b6026ed4" sha1="ef22831f3d4dde8bcb459b8587a326a939d2157d"/>
 	</game>
-	<game name="Packer (2075)--6 (19xx)(Copyklau)">
-		<description>Packer (2075)--6 (19xx)(Copyklau)</description>
-		<rom name="Packer (2075)--6 (19xx)(Copyklau).prg" size="976" crc="bb434470" md5="f3d9d9d2e9452f7fd65542df1d868e7c" sha1="e282ab6ae595b79e1dc29d26e8dc608579215b45"/>
+	<game name="Packer II (19xx)(Copyklau)">
+		<description>Packer II (19xx)(Copyklau)</description>
+		<rom name="Packer II (19xx)(Copyklau).prg" size="976" crc="bb434470" md5="f3d9d9d2e9452f7fd65542df1d868e7c" sha1="e282ab6ae595b79e1dc29d26e8dc608579215b45"/>
 	</game>
 	<game name="Packer V3.0 (19xx)(Radwar)">
 		<description>Packer V3.0 (19xx)(Radwar)</description>
@@ -10763,6 +10839,10 @@
 	<game name="Paint Magic (2001)(Mark Riley)[o]">
 		<description>Paint Magic (2001)(Mark Riley)[o]</description>
 		<rom name="Paint Magic (2001)(Mark Riley)[o].prg" size="8320" crc="effdbe78" md5="9c1e928dac4c1369252f957531fa95a9" sha1="658dea4673522c8c7cedaa2b6339c5fec4fc2ea1"/>
+	</game>
+	<game name="Paint Magic+ (1997-08-20)(Alivers - Black - Mac)">
+		<description>Paint Magic+ (1997-08-20)(Alivers - Black - Mac)</description>
+		<rom name="Paint Magic+ (1997-08-20)(Alivers - Black - Mac).prg" size="6993" crc="cfb63617" md5="73fb3f7dc7936ff9dba83bf1b732fb8f" sha1="02bbc445ece46acfb31447ce6149bda9951ccf9e"/>
 	</game>
 	<game name="Paint Your Disk V1.00 (1998)(Samar Productions)">
 		<description>Paint Your Disk V1.00 (1998)(Samar Productions)</description>
@@ -11280,9 +11360,9 @@
 		<description>Q-Noter v1.02 (1992)(TAT)</description>
 		<rom name="Q-Noter v1.02 (1992)(TAT).prg" size="3435" crc="071ccf85" md5="0ac38671999ecfda9d0e20764ba591f7" sha1="52bc7cc5768f24d70e6d744c1ce347dbebc2da42"/>
 	</game>
-	<game name="Q-Noter v1.1 (1991)(Case)">
-		<description>Q-Noter v1.1 (1991)(Case)</description>
-		<rom name="Q-Noter v1.1 (1991)(Case).prg" size="6058" crc="18781795" md5="91228e0e2edf09ec95b52d3faec81a03" sha1="bfecbef8724e884604651537be57445ca63478d0"/>
+	<game name="Q-Noter v1.1 (1992)(The Ancient Temple)">
+		<description>Q-Noter v1.1 (1992)(The Ancient Temple)</description>
+		<rom name="Q-Noter v1.1 (1992)(The Ancient Temple).prg" size="6058" crc="18781795" md5="91228e0e2edf09ec95b52d3faec81a03" sha1="bfecbef8724e884604651537be57445ca63478d0"/>
 	</game>
 	<game name="Q-Noter v2.0 (1992)(The Ancient Temple)">
 		<description>Q-Noter v2.0 (1992)(The Ancient Temple)</description>
@@ -11852,9 +11932,9 @@
 		<description>Scroll-Master v2.3 (1991)(Visage)</description>
 		<rom name="Scroll-Master v2.3 (1991)(Visage).prg" size="6395" crc="33c9a64b" md5="c27d6a7d9f072b1a88574fa97d289d02" sha1="ea123a1ae5de764af0bf41df1c182654fa8f9869"/>
 	</game>
-	<game name="Scroll-Writer v1.0 (1995)(Motiv8)">
-		<description>Scroll-Writer v1.0 (1995)(Motiv8)</description>
-		<rom name="Scroll-Writer v1.0 (1995)(Motiv8).prg" size="9705" crc="18ca5a5b" md5="a23107b421c80e9ddf79d3c262edfab4" sha1="1fe462309794332128e0aa56ec08da6e97a0256d"/>
+	<game name="Scroll-Writer v1.0 (1995)(Motiv 8)">
+		<description>Scroll-Writer v1.0 (1995)(Motiv 8)</description>
+		<rom name="Scroll-Writer v1.0 (1995)(Motiv 8).prg" size="9705" crc="18ca5a5b" md5="a23107b421c80e9ddf79d3c262edfab4" sha1="1fe462309794332128e0aa56ec08da6e97a0256d"/>
 	</game>
 	<game name="Scrollwriter v2.0 (1989)(Shades)">
 		<description>Scrollwriter v2.0 (1989)(Shades)</description>
@@ -12167,6 +12247,14 @@
 	<game name="Single Normal (19xx)(Science 451)">
 		<description>Single Normal (19xx)(Science 451)</description>
 		<rom name="Single Normal (19xx)(Science 451).prg" size="13095" crc="310a9b41" md5="af53c8d4f2e40c1bd10ce8bd5e866801" sha1="b22152d6ce110412f18420082eebaa494188119d"/>
+	</game>
+	<game name="Singular Browser V0.2 (2007-03-22)(Singular)">
+		<description>Singular Browser V0.2 (2007-03-22)(Singular)</description>
+		<rom name="Singular Browser V0.2 (2007-03-22)(Singular).prg" size="15477" crc="f024e0c7" md5="333b69ca48aa84c3cf781ae88e1e49d8" sha1="b74ff66fba2183457f10de43acf3a6f2d7146af6"/>
+	</game>
+	<game name="Singular Browser v0.3 (2007-03-23)(Singular)">
+		<description>Singular Browser v0.3 (2007-03-23)(Singular)</description>
+		<rom name="Singular Browser v0.3 (2007-03-23)(Singular).prg" size="15496" crc="c744a7dc" md5="49052540420fe982750000247fca41b7" sha1="7d61af862ee787f4e05cd3dc5ea1cbf32888f00c"/>
 	</game>
 	<game name="Sinormal (1988)(Abnormal)">
 		<description>Sinormal (1988)(Abnormal)</description>
@@ -12635,6 +12723,10 @@
 	<game name="Spectacular Copy (19xx)(Senz, Stephan)[a2]">
 		<description>Spectacular Copy (19xx)(Senz, Stephan)[a2]</description>
 		<rom name="Spectacular Copy (19xx)(Senz, Stephan)[a2].prg" size="9575" crc="d76289eb" md5="8fefadf5c2bc288c82c8bbb8534de2c6" sha1="589256e50d6359f85eb8e274688a0f961872c7b2"/>
+	</game>
+	<game name="Spectacular Copy (19xx)(Senz, Stephan)[a3]">
+		<description>Spectacular Copy (19xx)(Senz, Stephan)[a3]</description>
+		<rom name="Spectacular Copy (19xx)(Senz, Stephan)[a3].prg" size="9576" crc="0599db16" md5="b94339e2f569491939ad852583c2de0c" sha1="9a52ebcecd809142f1d24c7b69f849d4191c46a1"/>
 	</game>
 	<game name="Spectrum 48k (1982)(Sinclair Research)">
 		<description>Spectrum 48k (1982)(Sinclair Research)</description>
@@ -13188,13 +13280,13 @@
 		<description>Super Writer v3.0 (19xx)(Shazam!)</description>
 		<rom name="Super Writer v3.0 (19xx)(Shazam!).prg" size="9051" crc="fad2f990" md5="2d04668059b4392be86937768b9940b8" sha1="ce18fbaec24b5f6ae9bd472db9c782dbef5a02f3"/>
 	</game>
-	<game name="Super Writer v3.1 (19xx)(Shazahn)">
-		<description>Super Writer v3.1 (19xx)(Shazahn)</description>
-		<rom name="Super Writer v3.1 (19xx)(Shazahn).prg" size="16160" crc="a28ea004" md5="be2570312a5d3e268c5d97246d711302" sha1="538104172971a80fac636f559e0221587015981a"/>
-	</game>
 	<game name="Super Writer v3.1 (19xx)(Shazam!)">
 		<description>Super Writer v3.1 (19xx)(Shazam!)</description>
 		<rom name="Super Writer v3.1 (19xx)(Shazam!).prg" size="10440" crc="0707732d" md5="af0666e948f7a301f88b819485675831" sha1="c5547a6ead729e6d1efe14b955115d3b70865a3c"/>
+	</game>
+	<game name="Super Writer v3.1 (19xx)(Shazam!)[a]">
+		<description>Super Writer v3.1 (19xx)(Shazam!)[a]</description>
+		<rom name="Super Writer v3.1 (19xx)(Shazam!)[a].prg" size="16160" crc="a28ea004" md5="be2570312a5d3e268c5d97246d711302" sha1="538104172971a80fac636f559e0221587015981a"/>
 	</game>
 	<game name="Super Zipper v8.0+ (1993)(Oneway)">
 		<description>Super Zipper v8.0+ (1993)(Oneway)</description>
@@ -13471,6 +13563,10 @@
 	<game name="Tape-Disk 64 (1983)(-)">
 		<description>Tape-Disk 64 (1983)(-)</description>
 		<rom name="Tape-Disk 64 (1983)(-).prg" size="1006" crc="2b55a91a" md5="946fbd8004bbd865f890c9c26c6d1450" sha1="bc3fbb5513b365f1f8ea7df1afca45c227fa7199"/>
+	</game>
+	<game name="TASM Decoder (19xx)(Angels)">
+		<description>TASM Decoder (19xx)(Angels)</description>
+		<rom name="TASM Decoder (19xx)(Angels).prg" size="1128" crc="76fbbe6f" md5="b3b618156758ecc6f8b81e46a1be77e7" sha1="774acbc7374cb9c2640150fb336c1a4d09f1a001"/>
 	</game>
 	<game name="TASM v5.2 Fix (19xx)(-)">
 		<description>TASM v5.2 Fix (19xx)(-)</description>
@@ -13928,13 +14024,13 @@
 		<description>Tracker Preview 0f (1998-11)(Hitmen)[a]</description>
 		<rom name="Tracker Preview 0f (1998-11)(Hitmen)[a].prg" size="23870" crc="a9a91b46" md5="12ae72d7212866a2f09efc16277ba6bc" sha1="cc47288e85e7fd208702b8120ae2bc07d2d2eb97"/>
 	</game>
-	<game name="Trackplayer v0.3c (19xx)(Motiv8)">
-		<description>Trackplayer v0.3c (19xx)(Motiv8)</description>
-		<rom name="Trackplayer v0.3c (19xx)(Motiv8).prg" size="15516" crc="baa51100" md5="e4604df96a31f24366387b62809ece63" sha1="cdf3e4dc056cc888eb2bc07fed67ad2d6bb75b47"/>
+	<game name="Trackplayer v0.3c (19xx)(Motiv 8)">
+		<description>Trackplayer v0.3c (19xx)(Motiv 8)</description>
+		<rom name="Trackplayer v0.3c (19xx)(Motiv 8).prg" size="15516" crc="baa51100" md5="e4604df96a31f24366387b62809ece63" sha1="cdf3e4dc056cc888eb2bc07fed67ad2d6bb75b47"/>
 	</game>
-	<game name="Trackplayer v0.3c (19xx)(Motiv8)[o]">
-		<description>Trackplayer v0.3c (19xx)(Motiv8)[o]</description>
-		<rom name="Trackplayer v0.3c (19xx)(Motiv8)[o].prg" size="15517" crc="d2b84a9c" md5="c606693504777afeb01de2323eac0796" sha1="a483dd8f63f5b58a754a1a49796146a9aaf39347"/>
+	<game name="Trackplayer v0.3c (19xx)(Motiv 8)[o]">
+		<description>Trackplayer v0.3c (19xx)(Motiv 8)[o]</description>
+		<rom name="Trackplayer v0.3c (19xx)(Motiv 8)[o].prg" size="15517" crc="d2b84a9c" md5="c606693504777afeb01de2323eac0796" sha1="a483dd8f63f5b58a754a1a49796146a9aaf39347"/>
 	</game>
 	<game name="Trackplayer v3.0 (19xx)(Haos)">
 		<description>Trackplayer v3.0 (19xx)(Haos)</description>
@@ -15059,14 +15155,6 @@
 	<game name="W.H.O&apos;s Compactor v3.23 (1985)(E.C.A.)[o]">
 		<description>W.H.O&apos;s Compactor v3.23 (1985)(E.C.A.)[o]</description>
 		<rom name="W.H.O&apos;s Compactor v3.23 (1985)(E.C.A.)[o].prg" size="3072" crc="0db4c77f" md5="6748a96d1385b44603ff8363306df947" sha1="706094f4779e7d8dc4ef829856130bc548297998"/>
-	</game>
-	<game name="War Cars Construction Kit (1988)(Firebird)">
-		<description>War Cars Construction Kit (1988)(Firebird)</description>
-		<rom name="War Cars Construction Kit (1988)(Firebird).prg" size="33776" crc="472b5625" md5="d6bf1685b07717fce00d51f87abe6021" sha1="841c2244ff23aa63dc9bcfd7c7140945fbd900c7"/>
-	</game>
-	<game name="War Cars Construction Kit (1988)(Firebird)[cr ACE]">
-		<description>War Cars Construction Kit (1988)(Firebird)[cr ACE]</description>
-		<rom name="War Cars Construction Kit (1988)(Firebird)[cr ACE].prg" size="30606" crc="ab3901b2" md5="f3c2ef579203c01f6c860b57b3320d6b" sha1="7923f19cae441547910aa1f3e1a7c4f84fc50db6"/>
 	</game>
 	<game name="War Cars Construction Kit 3 (1988)(Firebird)">
 		<description>War Cars Construction Kit 3 (1988)(Firebird)</description>

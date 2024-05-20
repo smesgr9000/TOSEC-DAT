@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Sports - [NBZ]</name>
-		<description>Commodore C64 - Games - Sports - [NBZ] (TOSEC-v2023-06-10)</description>
+		<description>Commodore C64 - Games - Sports - [NBZ] (TOSEC-v2023-10-21)</description>
 		<category>TOSEC</category>
-		<version>2023-06-10</version>
+		<version>2023-10-21</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -31,10 +31,6 @@
 	<game name="4th &amp; Inches - Team Construction Disk (1988)(Accolade)">
 		<description>4th &amp; Inches - Team Construction Disk (1988)(Accolade)</description>
 		<rom name="4th &amp; Inches - Team Construction Disk (1988)(Accolade).nbz" size="20685" crc="4b0e15eb" md5="73489dd9b6b3f95d3463d2ad2d30eb54" sha1="e826202a0892e49b83b1969e57d041773eef6c59"/>
-	</game>
-	<game name="ABC Monday Night Football (19xx)(Data East)(Side A)">
-		<description>ABC Monday Night Football (19xx)(Data East)(Side A)</description>
-		<rom name="ABC Monday Night Football (19xx)(Data East)(Side A).nbz" size="202040" crc="79273ddd" md5="f1c1bec3f87a04fcb068ea66c37a9d2e" sha1="467d6d281afcb0b28d99e17be08f79c88905b944"/>
 	</game>
 	<game name="Alternative World Games (1987)(Gremlin)(Side B)[cr NCS]">
 		<description>Alternative World Games (1987)(Gremlin)(Side B)[cr NCS]</description>
@@ -324,6 +320,10 @@
 		<description>MicroLeague Baseball (1984)(Microleague Sports)(Disk 4 of 5 Side A)</description>
 		<rom name="MicroLeague Baseball (1984)(Microleague Sports)(Disk 4 of 5 Side A).nbz" size="94354" crc="85b58076" md5="15b41ec40959ff13b1fca7729c1f1cfc" sha1="f53d377b01624473f86a3d7067ee8ee7dee7a207"/>
 	</game>
+	<game name="Monday Night Football (1990)(Data East)(Side A)">
+		<description>Monday Night Football (1990)(Data East)(Side A)</description>
+		<rom name="Monday Night Football (1990)(Data East)(Side A).nbz" size="202040" crc="79273ddd" md5="f1c1bec3f87a04fcb068ea66c37a9d2e" sha1="467d6d281afcb0b28d99e17be08f79c88905b944"/>
+	</game>
 	<game name="Monday Night Football (1990)(Data East)(Side A)[cr Intense]">
 		<description>Monday Night Football (1990)(Data East)(Side A)[cr Intense]</description>
 		<rom name="Monday Night Football (1990)(Data East)(Side A)[cr Intense].nbz" size="177899" crc="bbd5d53b" md5="c208bf70172f0f2695c9dca933a287e3" sha1="ab43db21f574d72dc4c49465ada5412bd58381ef"/>
@@ -332,9 +332,9 @@
 		<description>Monday Night Football (1990)(Data East)(Side A)[cr Intense][a]</description>
 		<rom name="Monday Night Football (1990)(Data East)(Side A)[cr Intense][a].nbz" size="172609" crc="cea51d46" md5="17d0a2b7734f672aac18deb14fc8d600" sha1="ba6513df1eb7336e16ef9251d39fa3adecae3460"/>
 	</game>
-	<game name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer]">
-		<description>Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer]</description>
-		<rom name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer].nbz" size="157398" crc="52b66509" md5="b254b6409ad97e12db4bbf8f3dbcfd9b" sha1="573e761d0d7398e3112edcaad882e0ff4907ad27"/>
+	<game name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer]">
+		<description>Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer]</description>
+		<rom name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer].nbz" size="157398" crc="52b66509" md5="b254b6409ad97e12db4bbf8f3dbcfd9b" sha1="573e761d0d7398e3112edcaad882e0ff4907ad27"/>
 	</game>
 	<game name="One on One (1984)(Electronic Arts)(Side A)">
 		<description>One on One (1984)(Electronic Arts)(Side A)</description>

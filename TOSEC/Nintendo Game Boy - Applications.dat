@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Applications</name>
-		<description>Nintendo Game Boy - Applications (TOSEC-v2022-12-21)</description>
+		<description>Nintendo Game Boy - Applications (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-12-21</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -24,6 +24,14 @@
 		<description>2440 ROM Pack (19xx)(-)[7981-5001-70]</description>
 		<rom name="2440 ROM Pack (19xx)(-)[7981-5001-70].gb" size="32768" crc="7a9359ea" md5="62cc2571732bb10a5bc6dbdd7876b5dc" sha1="c15325e2e0ad2c8bd4323ef2390df28e578dcdb8"/>
 	</game>
+	<game name="Action Replay Pro (1999)(Datel)[p]">
+		<description>Action Replay Pro (1999)(Datel)[p]</description>
+		<rom name="Action Replay Pro (1999)(Datel)[p].gb" size="16384" crc="2ea05daa" md5="eed84ed6a1a34809832ac6de11a9ea89" sha1="e947b9264092168950ad1ce23bbe3d8ccfed765e"/>
+	</game>
+	<game name="Books of the Bible for Gameboy v1.4 (200x)(Newport, Danny H.)(PD)">
+		<description>Books of the Bible for Gameboy v1.4 (200x)(Newport, Danny H.)(PD)</description>
+		<rom name="Books of the Bible for Gameboy v1.4 (200x)(Newport, Danny H.)(PD).gb" size="32768" crc="1da7f24a" md5="0b5663b9ff5e45f886876563771181df" sha1="93da6f8d825b2990e12eedf831dc4bed261e6739"/>
+	</game>
 	<game name="BrainFox (2021-09-30)(Ypris)">
 		<description>BrainFox (2021-09-30)(Ypris)</description>
 		<rom name="BrainFox (2021-09-30)(Ypris).gb" size="32768" crc="7cd56bff" md5="9f4cb593f64636256c8f396ee1d99930" sha1="60ba55644982a3a56ec7d2accdd471830b3ab765"/>
@@ -32,9 +40,29 @@
 		<description>Button Test (2022-01-04)(bbbbbr)</description>
 		<rom name="Button Test (2022-01-04)(bbbbbr).gb" size="65536" crc="5b21e638" md5="ea3540c9410041097a4a87d1d895c6dd" sha1="c7ce39a356bd2a45ba52b498d6cf9fadc8091dd1"/>
 	</game>
+	<game name="Calculator (19xx)(-)">
+		<description>Calculator (19xx)(-)</description>
+		<rom name="Calculator (19xx)(-).gb" size="32768" crc="dce47d39" md5="5a4d3e46edae34a7dd6acd01d4b1c843" sha1="fb21bbf3cacc52a81bbe0c7d33280e8d703f0fcc"/>
+	</game>
 	<game name="DIGIT CLOCK (2021-06-20)(NotImplementedLife)">
 		<description>DIGIT CLOCK (2021-06-20)(NotImplementedLife)</description>
 		<rom name="DIGIT CLOCK (2021-06-20)(NotImplementedLife).gb" size="32768" crc="f14544a4" md5="d16e65e2ac5aaaf2137c1d04e547b8ad" sha1="dd41a7b1a0bc8a5f17aed4e89a2d1e04f838feaf"/>
+	</game>
+	<game name="DiTech Interface (2000)(Aprilia)[b]">
+		<description>DiTech Interface (2000)(Aprilia)[b]</description>
+		<rom name="DiTech Interface (2000)(Aprilia)[b].gb" size="262144" crc="2e47d2d3" md5="0de7a22ef6e01db6017cfd3f571061b1" sha1="a921679b79191991eb75de3b6b21443f322a3699"/>
+	</game>
+	<game name="Doctor GB Card 16M Loader (19xx)(Bung)(HK)[p]">
+		<description>Doctor GB Card 16M Loader (19xx)(Bung)(HK)[p]</description>
+		<rom name="Doctor GB Card 16M Loader (19xx)(Bung)(HK)[p].gb" size="32768" crc="1bddf36f" md5="a230f5ea1f13b2f1ee94ea05ed494a7c" sha1="c298eacc0c73e648e81fbf5192aec3b6a438e053"/>
+	</game>
+	<game name="Doctor GB Card 4M (19xx)(Bung)(HK)[p]">
+		<description>Doctor GB Card 4M (19xx)(Bung)(HK)[p]</description>
+		<rom name="Doctor GB Card 4M (19xx)(Bung)(HK)[p].gb" size="524288" crc="5d2e8cff" md5="2d7edcd2bb9fab77364011f6043b4b73" sha1="43962a7459c8ccc0e5988060abd0f8668f30dfde"/>
+	</game>
+	<game name="Game Boy Aging Cartridge v1.1 (19xx)(Nintendo)(en-ja)">
+		<description>Game Boy Aging Cartridge v1.1 (19xx)(Nintendo)(en-ja)</description>
+		<rom name="Game Boy Aging Cartridge v1.1 (19xx)(Nintendo)(en-ja).gb" size="32768" crc="4db33858" md5="2ba27abe03688caa433e9e3d500db4a0" sha1="3f27a044131548d528783f0d43f918f04418519e"/>
 	</game>
 	<game name="Game Boy Camera (1998)(Nintendo)(EU-US)[SGB]">
 		<description>Game Boy Camera (1998)(Nintendo)(EU-US)[SGB]</description>
@@ -56,17 +84,121 @@
 		<description>Game Boy Datenlogger 1 (200x)(-)(DE)</description>
 		<rom name="Game Boy Datenlogger 1 (200x)(-)(DE).gb" size="32768" crc="9ab28af0" md5="137d38365425885d5d86b16dc380d5c5" sha1="bfeba84926a72498ea65fcae767df8ba13f28d49"/>
 	</game>
-	<game name="Game Boy Digital Sampling Oscilloscope v3.6 (200x)(-)(EU)">
-		<description>Game Boy Digital Sampling Oscilloscope v3.6 (200x)(-)(EU)</description>
-		<rom name="Game Boy Digital Sampling Oscilloscope v3.6 (200x)(-)(EU).gb" size="32768" crc="572ea59c" md5="acc04aebb20cb829dca77bb554f60653" sha1="68128bd8b01970054590a88b785d553456b68ec1"/>
+	<game name="Game Boy Digital Sampling Oscilloscope rev H2.2 rev S3.6 (demo-playable) (2000-10)(Willis, S.G.)(EU)">
+		<description>Game Boy Digital Sampling Oscilloscope rev H2.2 rev S3.6 (demo-playable) (2000-10)(Willis, S.G.)(EU)</description>
+		<rom name="Game Boy Digital Sampling Oscilloscope rev H2.2 rev S3.6 (demo-playable) (2000-10)(Willis, S.G.)(EU).gb" size="32768" crc="a800444b" md5="142a57ae12384a07ec4b1e1b567f6915" sha1="db3e76bced7bd9844aedf23345c4307403006600"/>
+	</game>
+	<game name="Game Boy Digital Sampling Oscilloscope v3.6 (2000-10)(Willis, S.G.)(EU)">
+		<description>Game Boy Digital Sampling Oscilloscope v3.6 (2000-10)(Willis, S.G.)(EU)</description>
+		<rom name="Game Boy Digital Sampling Oscilloscope v3.6 (2000-10)(Willis, S.G.)(EU).gb" size="32768" crc="572ea59c" md5="acc04aebb20cb829dca77bb554f60653" sha1="68128bd8b01970054590a88b785d553456b68ec1"/>
 	</game>
 	<game name="Game Boy Test Cartridge (1990)(Nintendo)(EU-US)(proto)">
 		<description>Game Boy Test Cartridge (1990)(Nintendo)(EU-US)(proto)</description>
 		<rom name="Game Boy Test Cartridge (1990)(Nintendo)(EU-US)(proto).gb" size="32768" crc="ae13a5c3" md5="d36c2b60c8e71fd40b965ead209b2a1e" sha1="ce9c211852b4357b1356bb015db6f675def69c9f"/>
 	</game>
+	<game name="gb-bootrom-dumper (2021-07-03)(nezza)">
+		<description>gb-bootrom-dumper (2021-07-03)(nezza)</description>
+		<rom name="gb-bootrom-dumper (2021-07-03)(nezza).gb" size="32768" crc="443fb734" md5="788045bd32b34c49c5d912f026cfb8ca" sha1="ad3391312d684cb43329e04686b366e932ebf6b6"/>
+	</game>
 	<game name="GbDices (2020-06-20)(Pollorenzo)">
 		<description>GbDices (2020-06-20)(Pollorenzo)</description>
 		<rom name="GbDices (2020-06-20)(Pollorenzo).gb" size="1048576" crc="0688f621" md5="b226ee11b4d8baea4cebf07ce9c54ca6" sha1="0c9fca21e7d169efa49cbfe33e9845379b073f47"/>
+	</game>
+	<game name="Hello Kitty - Pocket Camera (1999)(Sanrio)(JP)(proto)">
+		<description>Hello Kitty - Pocket Camera (1999)(Sanrio)(JP)(proto)</description>
+		<rom name="Hello Kitty - Pocket Camera (1999)(Sanrio)(JP)(proto).gb" size="1048576" crc="257ad445" md5="0a323bddc4f0159cea76cf44ed0c1a3c" sha1="3c416b44c7dc05701e0f1e1b29e87a505dcde442"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Berlitz French Translator (1989)(GameTek)(EU-US)">
+		<description>InfoGenius Productivity Pak - Berlitz French Translator (1989)(GameTek)(EU-US)</description>
+		<rom name="InfoGenius Productivity Pak - Berlitz French Translator (1989)(GameTek)(EU-US).gb" size="131072" crc="80485fda" md5="7ec2171517a50bbe35b319e0bcfa625c" sha1="ea77a00e9982ffa710ce9e179d4614419f9e1a35"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Berlitz French Translator (1989)(GameTek)(EU-US)(proto)">
+		<description>InfoGenius Productivity Pak - Berlitz French Translator (1989)(GameTek)(EU-US)(proto)</description>
+		<rom name="InfoGenius Productivity Pak - Berlitz French Translator (1989)(GameTek)(EU-US)(proto).gb" size="131072" crc="d600edc6" md5="484d70a54f125271a24c5ec870cf8a32" sha1="ecf723d2da9be058396568b3ee91b715ea9d89e3"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Berlitz Japanese Translator (19xx)(GameTek)(EU-US)(proto)">
+		<description>InfoGenius Productivity Pak - Berlitz Japanese Translator (19xx)(GameTek)(EU-US)(proto)</description>
+		<rom name="InfoGenius Productivity Pak - Berlitz Japanese Translator (19xx)(GameTek)(EU-US)(proto).gb" size="131072" crc="ea539f03" md5="50d0748e807295cfb01335c58fc9b520" sha1="9a02b19b83448e94c4877c36dd3d2e6891f8e48f"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Berlitz Spanish Translator (1989)(GameTek)(EU-US)">
+		<description>InfoGenius Productivity Pak - Berlitz Spanish Translator (1989)(GameTek)(EU-US)</description>
+		<rom name="InfoGenius Productivity Pak - Berlitz Spanish Translator (1989)(GameTek)(EU-US).gb" size="131072" crc="058eeedb" md5="82ffec2fa00b08e001aa73bdc8ffa60a" sha1="ff229bc70ef30154ef4b4d4f9a4f0eb86015682e"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Frommer's Travel Guide (1991)(Gametek)(US)">
+		<description>InfoGenius Productivity Pak - Frommer's Travel Guide (1991)(Gametek)(US)</description>
+		<rom name="InfoGenius Productivity Pak - Frommer's Travel Guide (1991)(Gametek)(US).gb" size="262144" crc="40242e35" md5="5c4ed53347a60e467df77024f05e23ba" sha1="e4155270a59b0998b3eeffea779c33713eddf2e6"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Personal Organizer and Phone Book (1991)(Gametek)(US)">
+		<description>InfoGenius Productivity Pak - Personal Organizer and Phone Book (1991)(Gametek)(US)</description>
+		<rom name="InfoGenius Productivity Pak - Personal Organizer and Phone Book (1991)(Gametek)(US).gb" size="65536" crc="ca436939" md5="976a32b5043c440b9eca90b085ba747b" sha1="9f65e16785e82fbddc27d811f051f60f4812fcb4"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)">
+		<description>InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)</description>
+		<rom name="InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US).gb" size="131072" crc="754496bb" md5="70cf0bbc9f4a2bbc4c89649406b09e59" sha1="654e6f36c1260afba14640cf25c05c31a4075eb6"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)[b2]">
+		<description>InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)[b2]</description>
+		<rom name="InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)[b2].gb" size="131072" crc="13bf0573" md5="7a29d38269f5116270a969c13719feb7" sha1="8cb2be5017fe3c1d9a860d74e2780234f9890461"/>
+	</game>
+	<game name="InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)[b]">
+		<description>InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)[b]</description>
+		<rom name="InfoGenius Productivity Pak - Spell Checker and Calculator (1991)(Gametek)(US)[b].gb" size="131072" crc="819f1072" md5="bb24c4e585fe239b7cc6a529bb9a374b" sha1="f49313f70412dee594f759996b54b7975565c2af"/>
+	</game>
+	<game name="InfoGenius Systems - Personal Organizer with Phone Book (1991)(Gametek)(EU)">
+		<description>InfoGenius Systems - Personal Organizer with Phone Book (1991)(Gametek)(EU)</description>
+		<rom name="InfoGenius Systems - Personal Organizer with Phone Book (1991)(Gametek)(EU).gb" size="65536" crc="bfd65534" md5="872e582831a17faee1df663c39a73e99" sha1="434d2acb7c2c23ae58222254f2e2ca2f4ceddc61"/>
+	</game>
+	<game name="InfoGenius Systems - Personal Organizer with Phone Book (1991)(Gametek)(EU)[b]">
+		<description>InfoGenius Systems - Personal Organizer with Phone Book (1991)(Gametek)(EU)[b]</description>
+		<rom name="InfoGenius Systems - Personal Organizer with Phone Book (1991)(Gametek)(EU)[b].gb" size="65536" crc="fc43515a" md5="954129a97a90bb4afa5ad5c569c8b23c" sha1="6bb0c0a931bda822ac74583c3b4c83ba2058c734"/>
+	</game>
+	<game name="Mega Memory (1999)(Datel)[p]">
+		<description>Mega Memory (1999)(Datel)[p]</description>
+		<rom name="Mega Memory (1999)(Datel)[p].gb" size="32768" crc="dba81e98" md5="b783d5b3d52f43200500d773d36cc000" sha1="7690ccaa54b71188d07cb546d3c4d42c1d6363a8"/>
+	</game>
+	<game name="Minolta 2085 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2085 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2085 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="de660a82" md5="56e82954ece9a4a247ccd531ec6aa1ea" sha1="d0e586988108b7238bebcac055cb7c6982abf81c"/>
+	</game>
+	<game name="Minolta 2156 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2156 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2156 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="3af37d46" md5="3b716f2729fb25ef75ba53c5115bff89" sha1="c4b46446553bf6c25e3b3c1d5cd450a205ff6692"/>
+	</game>
+	<game name="Minolta 2420 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2420 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2420 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="5bd13f4f" md5="6bf40d108ca2eb5d7efc495832880f24" sha1="b5994db5e190bef18bb7f3d1c25f8b14ef4b9b22"/>
+	</game>
+	<game name="Minolta 2429 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2429 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2429 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="e0dc1323" md5="73dbcd6a642ed4c751aa27ff08fbef3e" sha1="f3a394cee80a1de435fd3c90e3ca31b0672665f9"/>
+	</game>
+	<game name="Minolta 2440 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2440 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2440 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="37c305dc" md5="0d189c53d017a4a68b836a82cb1d9780" sha1="494b8392c67a6e91ccf198b82b8f9e515dd7e02a"/>
+	</game>
+	<game name="Minolta 2463 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2463 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2463 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="7e5429d3" md5="37f377c7b462b69f01bc365177fb1ff8" sha1="828f068b0fe5d8c88862f505e982e2cb1568689b"/>
+	</game>
+	<game name="Minolta 2468 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2468 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2468 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="cd622b15" md5="43a4301aa781930da85273605ab87cab" sha1="51480e67f459b966bf2e18ec5092c135557c12d7"/>
+	</game>
+	<game name="Minolta 2472-73 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2472-73 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2472-73 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="15493e75" md5="a33a6aae3b61ef7ea70a9438e9c65b0d" sha1="b242bcf33d46b5642392e526d7466e63f0b6a718"/>
+	</game>
+	<game name="Minolta 2476 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2476 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2476 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="6c3501df" md5="8fa0d3974375c863bf301b4455ef3a18" sha1="2ac3148a2593e062ffd8ed116da4eb749277c434"/>
+	</game>
+	<game name="Minolta 2481 Adj. Program (19xx)(Minolta)(US)">
+		<description>Minolta 2481 Adj. Program (19xx)(Minolta)(US)</description>
+		<rom name="Minolta 2481 Adj. Program (19xx)(Minolta)(US).gb" size="32768" crc="67e5a203" md5="bc19f4674a1ce73f1557e75fbd572370" sha1="4d1a3176e4232984a14580382152ce5313a620e6"/>
+	</game>
+	<game name="Minolta SLR Data Copy (19xx)(Minolta)(US)">
+		<description>Minolta SLR Data Copy (19xx)(Minolta)(US)</description>
+		<rom name="Minolta SLR Data Copy (19xx)(Minolta)(US).gb" size="32768" crc="76f0ff74" md5="25e0dcb19fa8967455e0a3668b33edf7" sha1="a0ada0dd3cdfd1e0908e90cd512fa094f5396e1e"/>
 	</game>
 	<game name="Oblique Strategies GB (2022-07-02)(Flowers, Nicky)">
 		<description>Oblique Strategies GB (2022-07-02)(Flowers, Nicky)</description>
@@ -95,6 +227,14 @@
 	<game name="Super Game Boy Sound FX Test ROM (2022-07-20)(bbbbbr)">
 		<description>Super Game Boy Sound FX Test ROM (2022-07-20)(bbbbbr)</description>
 		<rom name="Super Game Boy Sound FX Test ROM (2022-07-20)(bbbbbr).gb" size="32768" crc="5bddaa98" md5="ad0b77babea93af409ffc62476bd05dc" sha1="835b3feb28be401285b6a2a8756f839b2d9ead5f"/>
+	</game>
+	<game name="Vision-8 for Gameboy (2015)(haroldo-ok)">
+		<description>Vision-8 for Gameboy (2015)(haroldo-ok)</description>
+		<rom name="Vision-8 for Gameboy (2015)(haroldo-ok).gb" size="32768" crc="f9147de5" md5="f160ab7073ab27127597853c7f9abf03" sha1="a27c5350b33ecfcc30afa56db8a718c97517a6e3"/>
+	</game>
+	<game name="WorkBoy v8.87 (1992)(Fabtek)(US)(proto)">
+		<description>WorkBoy v8.87 (1992)(Fabtek)(US)(proto)</description>
+		<rom name="WorkBoy v8.87 (1992)(Fabtek)(US)(proto).gb" size="131072" crc="e81ec588" md5="9cbd5ff8ff720dfdf4580338626d353b" sha1="5b20683d09bc3bb57dfdd0ea8b9fa5eda620014f"/>
 	</game>
 	<game name="Wyattmon Database (2022-03-09)(Wyattoons)">
 		<description>Wyattmon Database (2022-03-09)(Wyattoons)</description>

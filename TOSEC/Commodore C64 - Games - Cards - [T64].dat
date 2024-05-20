@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Cards - [T64]</name>
-		<description>Commodore C64 - Games - Cards - [T64] (TOSEC-v2023-06-10)</description>
+		<description>Commodore C64 - Games - Cards - [T64] (TOSEC-v2024-03-12)</description>
 		<category>TOSEC</category>
-		<version>2023-06-10</version>
+		<version>2024-03-12</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -84,6 +84,10 @@
 		<description>21 - Blackjack (1983)(Hoard W. Sams &amp; Co.)</description>
 		<rom name="21 - Blackjack (1983)(Hoard W. Sams &amp; Co.).t64" size="5563" crc="4f73b52e" md5="9e613bf978a8fe3d04a3dd53dd7bc501" sha1="e50f272bb52ff177bdd7a3f4d1c0d707360a183b"/>
 	</game>
+	<game name="21 (1984)(Mikrodata)(no)[cr Endurion]">
+		<description>21 (1984)(Mikrodata)(no)[cr Endurion]</description>
+		<rom name="21 (1984)(Mikrodata)(no)[cr Endurion].t64" size="7687" crc="0ede89ce" md5="ff65b7a6c81806acdf65fcac437a6f4a" sha1="b7de4be9927909366a142e19f53dd90e55dc21ef"/>
+	</game>
 	<game name="21 (19xx)(Scott Hossner)">
 		<description>21 (19xx)(Scott Hossner)</description>
 		<rom name="21 (19xx)(Scott Hossner).t64" size="13317" crc="e57c4753" md5="51869269b9df586a944b2630ff5a67f2" sha1="0a8cc02d1f35a23d26bc6ed0c3371c5d18fa9b44"/>
@@ -124,13 +128,13 @@
 		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8 - BYC][t]</description>
 		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8 - BYC][t].t64" size="24605" crc="bbe44ed4" md5="4b2974659fe5ffba7a2b24ef4c84e401" sha1="c4ff2fd9f8f043417eb6655ffa1f453e6e2e7cc5"/>
 	</game>
-	<game name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8]">
-		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8]</description>
-		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8].t64" size="38864" crc="a8624e3e" md5="9fa94a8326094c6b1d0c664a8cd3927c" sha1="672c3464952e6d09bea0b18a67621a8c5750a24b"/>
+	<game name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8]">
+		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8]</description>
+		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8].t64" size="38864" crc="a8624e3e" md5="9fa94a8326094c6b1d0c664a8cd3927c" sha1="672c3464952e6d09bea0b18a67621a8c5750a24b"/>
 	</game>
-	<game name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8][a]">
-		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8][a]</description>
-		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv8][a].t64" size="37936" crc="214b14ca" md5="c29db82a917e6b528cdc1e529a20ace5" sha1="1b51574382953d63e68bc4a76d7b147d406e26bc"/>
+	<game name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8][a]">
+		<description>Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8][a]</description>
+		<rom name="Ace of Hearts (demo) (1992)(Olsen, Martin)[cr Motiv 8][a].t64" size="37936" crc="214b14ca" md5="c29db82a917e6b528cdc1e529a20ace5" sha1="1b51574382953d63e68bc4a76d7b147d406e26bc"/>
 	</game>
 	<game name="Acey Ducey (1978)(Creative Computing)[cr Rio Baan]">
 		<description>Acey Ducey (1978)(Creative Computing)[cr Rio Baan]</description>
@@ -188,13 +192,17 @@
 		<description>Baccarat (19xx)(-)(de)</description>
 		<rom name="Baccarat (19xx)(-)(de).t64" size="3177" crc="d0392e30" md5="df5855c45a89ade9dd64521c5b30382b" sha1="4a7629ee57fad65b787cfa8607b37242fa2b52e6"/>
 	</game>
+	<game name="Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)">
+		<description>Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)</description>
+		<rom name="Baccarat C-64 (1983)(CPU - Roeske Verlag)(de).t64" size="8960" crc="a1fdcd35" md5="4c576d7c39e69dbbbf850de944ba35f0" sha1="636354abf97cd770c1e865b94f5fea9674ed3ebf"/>
+	</game>
+	<game name="Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)[a]">
+		<description>Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)[a]</description>
+		<rom name="Baccarat C-64 (1983)(CPU - Roeske Verlag)(de)[a].t64" size="37546" crc="e4b5f1a6" md5="eec31fcbc1e8a865276df6e45b77dbe3" sha1="7f9a4437b6163f3df9a243da7dab62ab44795140"/>
+	</game>
 	<game name="Baccarat C-64 (1984)(Courbois)(nl)">
 		<description>Baccarat C-64 (1984)(Courbois)(nl)</description>
 		<rom name="Baccarat C-64 (1984)(Courbois)(nl).t64" size="7437" crc="36e3171f" md5="ed3b1d63b2de692a789fa72742420f5a" sha1="0046ca2edf333a5fe040527c6969023a980720c4"/>
-	</game>
-	<game name="Baccarat C-64 (1984)(Roeske Verlag - CPU)(de)">
-		<description>Baccarat C-64 (1984)(Roeske Verlag - CPU)(de)</description>
-		<rom name="Baccarat C-64 (1984)(Roeske Verlag - CPU)(de).t64" size="37546" crc="e4b5f1a6" md5="eec31fcbc1e8a865276df6e45b77dbe3" sha1="7f9a4437b6163f3df9a243da7dab62ab44795140"/>
 	</game>
 	<game name="Bacrat (1979)(Creative Computing)[cr Rio Baan]">
 		<description>Bacrat (1979)(Creative Computing)[cr Rio Baan]</description>
@@ -292,6 +300,10 @@
 		<description>Black Jack (1984)(Ing. W. Hofacker GmbH)(de)</description>
 		<rom name="Black Jack (1984)(Ing. W. Hofacker GmbH)(de).t64" size="2463" crc="b2ffc2ed" md5="e44b5ccb874c6414331db17c8c13e772" sha1="a526fbe43717f32a8e9843d0f5673e730b86bea4"/>
 	</game>
+	<game name="Black Jack (1985)(Ny Elektronik ApS - SOFT Special)(da)[cr Rio Baan]">
+		<description>Black Jack (1985)(Ny Elektronik ApS - SOFT Special)(da)[cr Rio Baan]</description>
+		<rom name="Black Jack (1985)(Ny Elektronik ApS - SOFT Special)(da)[cr Rio Baan].t64" size="8853" crc="dd44bb00" md5="c0d8c32c514630364141c9a8b4a5ebc6" sha1="8e69149bc0cc4ccec25817c26d343b2103bb6f74"/>
+	</game>
 	<game name="Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM]">
 		<description>Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM]</description>
 		<rom name="Black Jack (1988)(Carlo Barazzetta &amp; Lorenzo Barazzetta)(it)[cr DOM].t64" size="9080" crc="677fe6ea" md5="3b3238a551b0a53aef5e39acd23412c5" sha1="fc133467e7eafc5da6a5fdadc913c9229390b2ac"/>
@@ -343,6 +355,10 @@
 	<game name="Black Jack &apos;84 (1984)(Factory)">
 		<description>Black Jack &apos;84 (1984)(Factory)</description>
 		<rom name="Black Jack &apos;84 (1984)(Factory).t64" size="3806" crc="d20ef03c" md5="7fb709874911de844bcf0a75ff22bc8f" sha1="83ded972ff5d676a99da32c1e687b13bdfea6cf0"/>
+	</game>
+	<game name="Black on Black - The Card Game (2023)(Roscher, Martin)(PD)[cr EX]">
+		<description>Black on Black - The Card Game (2023)(Roscher, Martin)(PD)[cr EX]</description>
+		<rom name="Black on Black - The Card Game (2023)(Roscher, Martin)(PD)[cr EX].t64" size="11851" crc="410b05c9" md5="dfa5e7d0d981404a9bd4625fbee26faa" sha1="11162227f773b370689adbfe499eb3ca2d02834d"/>
 	</game>
 	<game name="Blackjack - 17 &amp; 4 (1980)(Andreas Dripke)(de)">
 		<description>Blackjack - 17 &amp; 4 (1980)(Andreas Dripke)(de)</description>
@@ -632,21 +648,21 @@
 		<description>Canfield (1988)(Compute!)</description>
 		<rom name="Canfield (1988)(Compute!).t64" size="10919" crc="a5d6e49b" md5="11e18cf78d2c9de4dd54f3e2669110e2" sha1="d1376be13c74e668181cacbb000ef5cc4ab3dd3f"/>
 	</game>
+	<game name="Cara de Poker (1985)(Editorial Gustavo Gili, S.A.)(es)">
+		<description>Cara de Poker (1985)(Editorial Gustavo Gili, S.A.)(es)</description>
+		<rom name="Cara de Poker (1985)(Editorial Gustavo Gili, S.A.)(es).t64" size="2493" crc="84393748" md5="dd01e52344b6d591d579c73d9e7db554" sha1="07cbfb7b2301fbbf1201cf48337a6cee6ece4c38"/>
+	</game>
 	<game name="Card Duel (2005)(Watkin, M.)">
 		<description>Card Duel (2005)(Watkin, M.)</description>
 		<rom name="Card Duel (2005)(Watkin, M.).t64" size="1965" crc="a3180d6f" md5="d5f9080a763f06e4c3897b69e3806695" sha1="d9836d33190652ac15da8265cd2e1471f05a2acd"/>
 	</game>
-	<game name="Card Sharks (1988)(Accolade)">
-		<description>Card Sharks (1988)(Accolade)</description>
-		<rom name="Card Sharks (1988)(Accolade).t64" size="1435" crc="440c05a0" md5="5515b9c4e88353fabd91fc2bc4a20295" sha1="e5f205e6207ac5313f774de97dd8cbcf54b6aaf1"/>
-	</game>
-	<game name="Card Sharks (1988)(Accolade)[a]">
-		<description>Card Sharks (1988)(Accolade)[a]</description>
-		<rom name="Card Sharks (1988)(Accolade)[a].t64" size="2363" crc="c21eacb4" md5="c6009cbe361e24842a6d6f3a106fd390" sha1="abb9f877630d2a87a19ee13ce0327e9988597595"/>
-	</game>
 	<game name="Cards (1984)(Guild Publishing)[cr Rio Baan]">
 		<description>Cards (1984)(Guild Publishing)[cr Rio Baan]</description>
 		<rom name="Cards (1984)(Guild Publishing)[cr Rio Baan].t64" size="5423" crc="b0293cd2" md5="78fd0e75d19a2439261db1781fc86fb5" sha1="58b26a933c2ebe4740c6ce1df2145ab6933c81bf"/>
+	</game>
+	<game name="Cards (1984)(Sigma Technical Press)[cr Rio Baan]">
+		<description>Cards (1984)(Sigma Technical Press)[cr Rio Baan]</description>
+		<rom name="Cards (1984)(Sigma Technical Press)[cr Rio Baan].t64" size="6219" crc="f2cd0046" md5="ca021a21741768b09e538c8206d0575a" sha1="9c03bbb9a5082588bdc13d94844200839d52018e"/>
 	</game>
 	<game name="Cards at War (1985)(Tab Books)">
 		<description>Cards at War (1985)(Tab Books)</description>
@@ -695,6 +711,10 @@
 	<game name="Computer Baccarat (1983)(Stuart, Chuck)">
 		<description>Computer Baccarat (1983)(Stuart, Chuck)</description>
 		<rom name="Computer Baccarat (1983)(Stuart, Chuck).t64" size="11953" crc="6641d0bf" md5="549baccec5512d52030a701b39c10226" sha1="037636f67dec0f7d5d26fb02d0e7871a1b2b4512"/>
+	</game>
+	<game name="Computer Baccarat (1983)(Stuart, Chuck)[a]">
+		<description>Computer Baccarat (1983)(Stuart, Chuck)[a]</description>
+		<rom name="Computer Baccarat (1983)(Stuart, Chuck)[a].t64" size="5911" crc="c9cd6c9b" md5="d9935b834baf091e7ff2e3713531860a" sha1="e8b033fdc5534a766c66ce27ce54f33434af80fa"/>
 	</game>
 	<game name="Computer Blackjack (1982)(-)">
 		<description>Computer Blackjack (1982)(-)</description>
@@ -976,13 +996,33 @@
 		<description>Go Fish (1986)(Franklin Watts)[cr Rio Baan]</description>
 		<rom name="Go Fish (1986)(Franklin Watts)[cr Rio Baan].t64" size="4784" crc="9f4d51b5" md5="5e91b4512c48777547143b1420cb528e" sha1="aa5288c3faae5574ddc568edf7f216694888e734"/>
 	</game>
+	<game name="Golf Patience (1990)(Commodore Computing International)[cr Rio Baan]">
+		<description>Golf Patience (1990)(Commodore Computing International)[cr Rio Baan]</description>
+		<rom name="Golf Patience (1990)(Commodore Computing International)[cr Rio Baan].t64" size="3247" crc="2695e498" md5="665c5f1fc7a50f7fd6d90fc8491058ef" sha1="27352246f79a835fb3f4e5f826b2f02c22f49849"/>
+	</game>
 	<game name="Grand Slam - Bridge Player (1984)(Serin Software)[cr ASS]">
 		<description>Grand Slam - Bridge Player (1984)(Serin Software)[cr ASS]</description>
 		<rom name="Grand Slam - Bridge Player (1984)(Serin Software)[cr ASS].t64" size="19638" crc="69db84cf" md5="69f3aa35795f18f5bc080174550414e4" sha1="d650aaf79c3ba5727293acc38ce9dd0c38269df3"/>
 	</game>
+	<game name="Hard Foam (2022)(Paalvast, Alexander)(PD)[cr BLZ]">
+		<description>Hard Foam (2022)(Paalvast, Alexander)(PD)[cr BLZ]</description>
+		<rom name="Hard Foam (2022)(Paalvast, Alexander)(PD)[cr BLZ].t64" size="9392" crc="b2135683" md5="633946e6bc4ee1a17f41889b3adc2eb2" sha1="cb02f6f39975360b66032f816c52f82976f14a34"/>
+	</game>
+	<game name="Harpan (19xx)(Baker, Robert)(sv)[cr PGN]">
+		<description>Harpan (19xx)(Baker, Robert)(sv)[cr PGN]</description>
+		<rom name="Harpan (19xx)(Baker, Robert)(sv)[cr PGN].t64" size="9181" crc="6a6fc3ee" md5="d8196647eb0388a472b4e7534aa7a186" sha1="382073aa08224ecf42400299e9737251dc6b5cf0"/>
+	</game>
 	<game name="Hartenjagen (1984)(Courbois)(nl)">
 		<description>Hartenjagen (1984)(Courbois)(nl)</description>
 		<rom name="Hartenjagen (1984)(Courbois)(nl).t64" size="12780" crc="7977f28a" md5="86cea3cece8315a9e572d66d5e6954a3" sha1="9e01173f09a3ea8705fcb7a47a6a2b612ac25769"/>
+	</game>
+	<game name="Hartenjagen (19xx)(-)(nl)">
+		<description>Hartenjagen (19xx)(-)(nl)</description>
+		<rom name="Hartenjagen (19xx)(-)(nl).t64" size="10185" crc="c7765858" md5="daee7fee626f4952f81518867f2482a2" sha1="bb6057ca22389826d56102e8542bca5160bd5b25"/>
+	</game>
+	<game name="Hartenjagen v1 (19xx)(-)(nl)">
+		<description>Hartenjagen v1 (19xx)(-)(nl)</description>
+		<rom name="Hartenjagen v1 (19xx)(-)(nl).t64" size="4246" crc="1826657f" md5="30fc3bced1d1f303859cdf53e0bda521" sha1="b683fd3efa43782d4bb1b3d6a23e067ca629b7ac"/>
 	</game>
 	<game name="High Card (1983)(COMPUTE! Publications)">
 		<description>High Card (1983)(COMPUTE! Publications)</description>
@@ -1031,6 +1071,10 @@
 	<game name="Hijopoker (1987)(Ediciones Ingelek - Tu Micro Commodore)(es)[cr Rio Baan]">
 		<description>Hijopoker (1987)(Ediciones Ingelek - Tu Micro Commodore)(es)[cr Rio Baan]</description>
 		<rom name="Hijopoker (1987)(Ediciones Ingelek - Tu Micro Commodore)(es)[cr Rio Baan].t64" size="3206" crc="2c81c6ea" md5="8df9009644e2419e45544122992106e5" sha1="d5ec3f475cf13349ac344b0ca46761bd311d44dc"/>
+	</game>
+	<game name="Hi-Lo (1985)(PCW - Sunshine Publications)[cr Rio Baan]">
+		<description>Hi-Lo (1985)(PCW - Sunshine Publications)[cr Rio Baan]</description>
+		<rom name="Hi-Lo (1985)(PCW - Sunshine Publications)[cr Rio Baan].t64" size="5278" crc="02b13158" md5="1151ee2855f52d19ff4c8ce1e008d536" sha1="ea812135959aa367fa4d8e9ed7a822a72e93e1d7"/>
 	</game>
 	<game name="Hi-Lo (1986)(Ving&apos;s Soft)">
 		<description>Hi-Lo (1986)(Ving&apos;s Soft)</description>
@@ -1124,6 +1168,10 @@
 		<description>Katko (1985)(Tecnopress Oy)(fi)</description>
 		<rom name="Katko (1985)(Tecnopress Oy)(fi).t64" size="4097" crc="2c36c4a8" md5="64673addf2e295b6519d415448b90b8f" sha1="55ed0b49a94dc847480383855f51b941c3aba5cc"/>
 	</game>
+	<game name="Katko (198x)(-)(fi)">
+		<description>Katko (198x)(-)(fi)</description>
+		<rom name="Katko (198x)(-)(fi).t64" size="6240" crc="4bc44cf4" md5="088d2df885f054d6fde4b352dae4f5a3" sha1="6500e19ea55e5542c1174b4e1981a1939831d360"/>
+	</game>
 	<game name="King Cribbage (1983)(Hayden Book Company)">
 		<description>King Cribbage (1983)(Hayden Book Company)</description>
 		<rom name="King Cribbage (1983)(Hayden Book Company).t64" size="18176" crc="ad26e6b0" md5="8badc957f6ce50077faff85abeb5b8a0" sha1="48ab9c2c2dad71fd3ed46f1398cea8ec1365b3c3"/>
@@ -1168,9 +1216,9 @@
 		<description>Kunstauktion (19xx)(Matthes)(de)</description>
 		<rom name="Kunstauktion (19xx)(Matthes)(de).t64" size="23318" crc="c6c43b6b" md5="385a77f011ef08f64d90afd54aa92f69" sha1="93a4716a1308228d7423414783da54acccc1ae02"/>
 	</game>
-	<game name="Las Vegas Video Poker Casino (1986)(Mastertronic)">
-		<description>Las Vegas Video Poker Casino (1986)(Mastertronic)</description>
-		<rom name="Las Vegas Video Poker Casino (1986)(Mastertronic).t64" size="24048" crc="b5ef4b7f" md5="21b6be17eb1fcfe4f86ddce3a1e19315" sha1="565f9298ca0628b35fa23f9b483327df13c80f83"/>
+	<game name="Las Vegas Video Poker (1986)(Mastertronic)">
+		<description>Las Vegas Video Poker (1986)(Mastertronic)</description>
+		<rom name="Las Vegas Video Poker (1986)(Mastertronic).t64" size="24048" crc="b5ef4b7f" md5="21b6be17eb1fcfe4f86ddce3a1e19315" sha1="565f9298ca0628b35fa23f9b483327df13c80f83"/>
 	</game>
 	<game name="Las Vegas-Style Blackjack (19xx)(-)">
 		<description>Las Vegas-Style Blackjack (19xx)(-)</description>
@@ -1183,6 +1231,10 @@
 	<game name="Magic Poker 64 (1989)(CP Verlag)">
 		<description>Magic Poker 64 (1989)(CP Verlag)</description>
 		<rom name="Magic Poker 64 (1989)(CP Verlag).t64" size="6094" crc="e27cc006" md5="ccb06de8d1eb807ca01f09bc1ca35149" sha1="d8b97f4d61182dcec375bc85e305b7720eb9f738"/>
+	</game>
+	<game name="Maija (1984)(Jaakkola, Jorma)(fi)">
+		<description>Maija (1984)(Jaakkola, Jorma)(fi)</description>
+		<rom name="Maija (1984)(Jaakkola, Jorma)(fi).t64" size="3675" crc="ed2ade99" md5="e4e56c020107f649c9ed2e032841ac08" sha1="c63219e2282912ae8d2c2c6359e1a0e4af379c31"/>
 	</game>
 	<game name="Manilla (19xx)(-)">
 		<description>Manilla (19xx)(-)</description>
@@ -1360,6 +1412,10 @@
 		<description>Poker (1984)(Mantra Software)(it)</description>
 		<rom name="Poker (1984)(Mantra Software)(it).t64" size="6210" crc="9da1620a" md5="db313c7464f70c1e915589c10665cdb9" sha1="8f46ccaee31e78bd4ec420311f874be43e05357a"/>
 	</game>
+	<game name="Poker (1984)(Sigma Technical Press)[cr Rio Baan]">
+		<description>Poker (1984)(Sigma Technical Press)[cr Rio Baan]</description>
+		<rom name="Poker (1984)(Sigma Technical Press)[cr Rio Baan].t64" size="6112" crc="4c13ce2e" md5="9c405eafd7b12a5e82f11ae9245db0a9" sha1="019c13fee3d1f29fc1b47c28f5c92b0940e7d802"/>
+	</game>
 	<game name="Poker (1985)(Courbois)(nl)">
 		<description>Poker (1985)(Courbois)(nl)</description>
 		<rom name="Poker (1985)(Courbois)(nl).t64" size="5560" crc="0a899487" md5="508bb996073e1192227ac17b497abeff" sha1="14095d1a41abe738026d6a0e276aba6a38ecb7f0"/>
@@ -1431,6 +1487,10 @@
 	<game name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a]">
 		<description>Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a]</description>
 		<rom name="Poker 4 (1987)(Systems Editoriale)(de-it)[cr Frantic][a].t64" size="27146" crc="42961a8c" md5="aa1d0ea15f42be63941c08f297cdb467" sha1="0714be2ed163795604b70872407b9105c00ceeca"/>
+	</game>
+	<game name="Poker 64 (1984)(S+S Soft Vertriebs)(de)">
+		<description>Poker 64 (1984)(S+S Soft Vertriebs)(de)</description>
+		<rom name="Poker 64 (1984)(S+S Soft Vertriebs)(de).t64" size="13018" crc="b349d101" md5="11c6081671e895debaa123d9704f2bc9" sha1="e2498e3f7b357b725d6c39809ef83bfd9f86fb3f"/>
 	</game>
 	<game name="Poker Americano (1985)(Electronic Games - JCE)(it)[cr Rio Baan]">
 		<description>Poker Americano (1985)(Electronic Games - JCE)(it)[cr Rio Baan]</description>
@@ -1535,6 +1595,10 @@
 	<game name="Pontoon (1984)(Interface Publications - Virgin Books)[cr Rio Baan]">
 		<description>Pontoon (1984)(Interface Publications - Virgin Books)[cr Rio Baan]</description>
 		<rom name="Pontoon (1984)(Interface Publications - Virgin Books)[cr Rio Baan].t64" size="2157" crc="39a37f6c" md5="95878e6ac2035fc5b0977a84dd4d2f7c" sha1="6f774084ea60428d26b51ce5e13109ef56a8eed7"/>
+	</game>
+	<game name="Pontoon (1985)(64 Tape Computing - Datacompaniet)(no)">
+		<description>Pontoon (1985)(64 Tape Computing - Datacompaniet)(no)</description>
+		<rom name="Pontoon (1985)(64 Tape Computing - Datacompaniet)(no).t64" size="9417" crc="eb25c128" md5="0dcd1c44afaf016ecec9d2c04da07087" sha1="5ebb1a0d875a49b535745020604479a328679959"/>
 	</game>
 	<game name="Pontoon (1985)(Argus Press - 64 Tape Computing)">
 		<description>Pontoon (1985)(Argus Press - 64 Tape Computing)</description>

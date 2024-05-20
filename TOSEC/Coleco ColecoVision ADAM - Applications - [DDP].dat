@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Coleco ColecoVision ADAM - Applications - [DDP]</name>
-		<description>Coleco ColecoVision ADAM - Applications - [DDP] (TOSEC-v2018-03-08)</description>
+		<description>Coleco ColecoVision ADAM - Applications - [DDP] (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2018-03-08</version>
+		<version>2023-08-29</version>
 		<author>Grendel - Cid - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -20,16 +20,84 @@
 		<description>Address Book (1984)(Coleco)</description>
 		<rom name="Address Book (1984)(Coleco).ddp" size="262144" crc="8fba1389" md5="9f6012dee39aa7035dfbf200cf956ce7" sha1="47b5737eafd9e778aba2a05c93f4551a4b3eb21a"/>
 	</game>
+	<game name="Auto-Aid for SmartBASIC v1.0 (1984)(Futurevision)">
+		<description>Auto-Aid for SmartBASIC v1.0 (1984)(Futurevision)</description>
+		<rom name="Auto-Aid for SmartBASIC v1.0 (1984)(Futurevision).ddp" size="262144" crc="394284af" md5="baa56eec5617492a5b0865682d90c7b1" sha1="3c98d98665fe4e12265455419f460e97faf79c41"/>
+	</game>
+	<game name="Autobackup - Autoload (198x)(Walters Software)">
+		<description>Autobackup - Autoload (198x)(Walters Software)</description>
+		<rom name="Autobackup - Autoload (198x)(Walters Software).ddp" size="262144" crc="55b9ccf1" md5="52d7f07f6dbd104b456014a5fe39ca73" sha1="a1196b2c9a91042e1c549afbf3a0d40413dc24a9"/>
+	</game>
+	<game name="Autobackup - Autosave (198x)(Walters Software)">
+		<description>Autobackup - Autosave (198x)(Walters Software)</description>
+		<rom name="Autobackup - Autosave (198x)(Walters Software).ddp" size="262144" crc="13f5f1ad" md5="5b064a4d44fff278b77a469627ee3faa" sha1="2a7c0fb50fbd1a9d64fb1d53b1354222b5f426f7"/>
+	</game>
+	<game name="Coleco Game Backup Tape (1984)(Coleco)">
+		<description>Coleco Game Backup Tape (1984)(Coleco)</description>
+		<rom name="Coleco Game Backup Tape (1984)(Coleco).ddp" size="262144" crc="cda050a1" md5="a556c4d1e5d8a8b1f99d92d3e133ac18" sha1="2227328bf2f15eb8bf784e1fc331c1a8a3f2867b"/>
+	</game>
 	<game name="CopyCart+ v1.1 (19xx)(-)">
 		<description>CopyCart+ v1.1 (19xx)(-)</description>
 		<rom name="CopyCart+ v1.1 (19xx)(-).ddp" size="262144" crc="68e33a4d" md5="838588d2add4364cc9d8d1718a17e7a9" sha1="609435b33a088b888d15daaa215371381e1ec193"/>
+	</game>
+	<game name="E.O.S. Disk Manager (1984)(Coleco)">
+		<description>E.O.S. Disk Manager (1984)(Coleco)</description>
+		<rom name="E.O.S. Disk Manager (1984)(Coleco).ddp" size="262144" crc="53fbaf72" md5="fab1de066fd0c26221ca23b2afea129d" sha1="a78466b931597543f4de77620031175173ad2bc0"/>
+	</game>
+	<game name="Extended BASIC Utilities v1.0 (198x)(Extended Software)">
+		<description>Extended BASIC Utilities v1.0 (198x)(Extended Software)</description>
+		<rom name="Extended BASIC Utilities v1.0 (198x)(Extended Software).ddp" size="262144" crc="fd48e2c4" md5="f52eb5dc0def384b1dfa101502871a95" sha1="516b9ea4aa64a8269da1ff354774667806973795"/>
+	</game>
+	<game name="Label Works, The (198x)(Walters Software)">
+		<description>Label Works, The (198x)(Walters Software)</description>
+		<rom name="Label Works, The (198x)(Walters Software).ddp" size="262144" crc="eedbf0d0" md5="d5893faf45ae04ba96d0c26b367115b7" sha1="2d0904aac4794d24dd24e6116f36f9b38d366fa1"/>
+	</game>
+	<game name="M.A.L. Powerpaint Calendar '93 (1993)(Maine ADAM Library)(US)">
+		<description>M.A.L. Powerpaint Calendar '93 (1993)(Maine ADAM Library)(US)</description>
+		<rom name="M.A.L. Powerpaint Calendar '93 (1993)(Maine ADAM Library)(US).ddp" size="262144" crc="a6fcadf5" md5="e2b066fb6fa5588beebd287897f9db75" sha1="2bae8ff1e3764241aab9fc6b50eae854738d4081"/>
+	</game>
+	<game name="M.A.L. Powerpaint Calendar '98 (1998)(Maine ADAM Library)(US)">
+		<description>M.A.L. Powerpaint Calendar '98 (1998)(Maine ADAM Library)(US)</description>
+		<rom name="M.A.L. Powerpaint Calendar '98 (1998)(Maine ADAM Library)(US).ddp" size="262144" crc="f6be0e9c" md5="8cc757aa4f3abd96836e3845fec6033e" sha1="06d777c5799db4565b6954f6ff9b0da92ce7b92d"/>
+	</game>
+	<game name="Multicart Backup (19xx)(-)">
+		<description>Multicart Backup (19xx)(-)</description>
+		<rom name="Multicart Backup (19xx)(-).ddp" size="262144" crc="f9f1ce7e" md5="f09a27b48c4f0f0c7398e4c6a962cdf1" sha1="ec1fb7636de040860c01230b3a05426f896f91c6"/>
+	</game>
+	<game name="Recipe Filer (1984)(Coleco)">
+		<description>Recipe Filer (1984)(Coleco)</description>
+		<rom name="Recipe Filer (1984)(Coleco).ddp" size="262144" crc="a9c479bc" md5="5f01ec89ee8671f94463ee7c6f6eb28d" sha1="543c2f66103f598dfcbe2bf9e39af5266b778e6a"/>
 	</game>
 	<game name="Smart Letters and Forms (1984)(Coleco)">
 		<description>Smart Letters and Forms (1984)(Coleco)</description>
 		<rom name="Smart Letters and Forms (1984)(Coleco).ddp" size="262144" crc="8271b8d4" md5="3273bbdbcd66469fb064ad6e0bd89dd1" sha1="4b982126a4f27c6350f91b680c1d48d0c2f627f8"/>
 	</game>
+	<game name="SmartBASIC v1.0 (1983)(Coleco)">
+		<description>SmartBASIC v1.0 (1983)(Coleco)</description>
+		<rom name="SmartBASIC v1.0 (1983)(Coleco).ddp" size="262144" crc="aa52c12f" md5="0744108a1e2ba472db71fef5b653727e" sha1="bce8367bde3ac49f27480cb5d6a21a657e44255b"/>
+	</game>
+	<game name="SmartBASIC v1.0 (1983)(Coleco)[a]">
+		<description>SmartBASIC v1.0 (1983)(Coleco)[a]</description>
+		<rom name="SmartBASIC v1.0 (1983)(Coleco)[a].ddp" size="262144" crc="e27df400" md5="dbb1061b6971dab2b85ba47261444105" sha1="280e5c07f0323f819c9a552445135bbfc8728d1c"/>
+	</game>
 	<game name="SmartLOGO (1984)(LOGO Computer Systems)">
 		<description>SmartLOGO (1984)(LOGO Computer Systems)</description>
 		<rom name="SmartLOGO (1984)(LOGO Computer Systems).ddp" size="262144" crc="15377f7e" md5="fa676eb8bdd6d9bf6b3f93d106d6a3a1" sha1="6cdd5489c560afa0024a4489e23332ea70e21f05"/>
+	</game>
+	<game name="SmartSpeller (19xx)(Strategic Software)">
+		<description>SmartSpeller (19xx)(Strategic Software)</description>
+		<rom name="SmartSpeller (19xx)(Strategic Software).ddp" size="262144" crc="45616de4" md5="b50d22384d6db1b8f8181bbcbef34c82" sha1="883a987c71cf6e148ecc5ec88d17e05a25ab407d"/>
+	</game>
+	<game name="SmartType v1.1 (1985)(Reedy Software)">
+		<description>SmartType v1.1 (1985)(Reedy Software)</description>
+		<rom name="SmartType v1.1 (1985)(Reedy Software).ddp" size="262144" crc="ab1a4ffd" md5="c2497c561909b86528697f3c6d6ad6c7" sha1="d14ec9688be8d37339a6d9338a242a108df5e46c"/>
+	</game>
+	<game name="SmartWriter Elite v1.0 (19xx)(Walters Software)">
+		<description>SmartWriter Elite v1.0 (19xx)(Walters Software)</description>
+		<rom name="SmartWriter Elite v1.0 (19xx)(Walters Software).ddp" size="262144" crc="0644a754" md5="5c4675e0e48adc4322efc730fe61bb58" sha1="c76a1e20a08eeccbf017ca89a1bbe120f974db7f"/>
+	</game>
+	<game name="Stellar 5 (1985)(Hanania Enterprises)">
+		<description>Stellar 5 (1985)(Hanania Enterprises)</description>
+		<rom name="Stellar 5 (1985)(Hanania Enterprises).ddp" size="262144" crc="c54fbe05" md5="7c52b0cb1d891d80f1076ea6a8457235" sha1="9a3a553822c103c17af199ced00d8c6a97fa09ae"/>
 	</game>
 </datafile>

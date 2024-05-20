@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>NEC PC-8801 - Games - [T88]</name>
-		<description>NEC PC-8801 - Games - [T88] (TOSEC-v2021-07-25)</description>
+		<description>NEC PC-8801 - Games - [T88] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2021-07-25</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="3156 Coro Coro (1985-10)(Square)(JP)">
+		<description>3156 Coro Coro (1985-10)(Square)(JP)</description>
+		<rom name="3156 Coro Coro (1985-10)(Square)(JP).t88" size="39765" crc="fe75afd7" md5="a702277870e3132aa8b2aa17c60352ff" sha1="53416e69807eb5e24e09fbef9ee11ee52b542c56"/>
+	</game>
 	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
 		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
 		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).t88" size="14197" crc="6f0797f6" md5="9631c7644e1a89266104df3b5120e7c7" sha1="35bad4eafe3a8374d47cc792f58d17d5909a3752"/>
@@ -19,5 +23,9 @@
 	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]">
 		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]</description>
 		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny].t88" size="6501" crc="2e2312ed" md5="2edfb0e24beeedfa633bde7a3531ac65" sha1="a45faaf7ccf8b6458e35218b9b00ac23ec2fc7d2"/>
+	</game>
+	<game name="Stinger (2023-11-06)(Caruso, Fabrizio)">
+		<description>Stinger (2023-11-06)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-11-06)(Caruso, Fabrizio).t88" size="18372" crc="9002a38a" md5="ef29458a452247c3267cdb50e1350204" sha1="ebe3956bee1bd8ca7ec822669ca50da939ff5c28"/>
 	</game>
 </datafile>

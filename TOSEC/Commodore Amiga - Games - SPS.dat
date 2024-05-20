@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Games - SPS</name>
-		<description>Commodore Amiga - Games - SPS (TOSEC-v2023-06-04)</description>
+		<description>Commodore Amiga - Games - SPS (TOSEC-v2024-02-19)</description>
 		<category>TOSEC</category>
-		<version>2023-06-04</version>
+		<version>2024-02-19</version>
 		<author>Belgarath - idoru - mai - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -241,13 +241,13 @@
 		<description>Advanced Fruit Machine Simulator (1991)(Codemasters)[no title screen][0622]</description>
 		<rom name="AdvancedFruitMachineSimulator.ipf" size="1049304" crc="4fee32f9" md5="3f53fd8a8045c1279240cdcd543e0bab" sha1="e9d4042298788e90c77e3db82580d1af14d78d76"/>
 	</game>
-	<game name="Advanced Ski Simulator (1990)(Codemasters)[0094]">
-		<description>Advanced Ski Simulator (1990)(Codemasters)[0094]</description>
-		<rom name="AdvancedSkiSimulator.ipf" size="1049304" crc="9317ab6d" md5="2952fa7b59118329f5db4845821740f0" sha1="7c4208be7d3eb197261230c5c7f06b592112bc9b"/>
-	</game>
-	<game name="Advanced Ski Simulator (1990)(Codemasters)[a][1805]">
-		<description>Advanced Ski Simulator (1990)(Codemasters)[a][1805]</description>
+	<game name="Advanced Ski Simulator v1 (1989)(Codemasters)[1805]">
+		<description>Advanced Ski Simulator v1 (1989)(Codemasters)[1805]</description>
 		<rom name="AdvancedSkiSimulator.ipf" size="1049214" crc="bfdd0d61" md5="daf8ad4fa070df87a5ee2c8c8ac3a0a4" sha1="b1bcf33054c09263ba6161be6eedc5c9c2a9c61f"/>
+	</game>
+	<game name="Advanced Ski Simulator v2 (1990)(Codemasters)[0094]">
+		<description>Advanced Ski Simulator v2 (1990)(Codemasters)[0094]</description>
+		<rom name="AdvancedSkiSimulator.ipf" size="1049304" crc="9317ab6d" md5="2952fa7b59118329f5db4845821740f0" sha1="7c4208be7d3eb197261230c5c7f06b592112bc9b"/>
 	</game>
 	<game name="Advantage Tennis (1991)(Infogrames)(M3)[2261]">
 		<description>Advantage Tennis (1991)(Infogrames)(M3)[2261]</description>
@@ -1149,15 +1149,15 @@
 		<description>Barbarian II - The Dungeon of Drax (1989)(Palace)[compilation Heroes][1829]</description>
 		<rom name="BarbarianII-TheDungeonOfDrax.ipf" size="1049612" crc="b6c6d4c1" md5="86cad3590b038e4c4ac567cfc09af75a" sha1="56e6a3b6c299d388a7963c5c17867bd0f35d8dc5"/>
 	</game>
-	<game name="Barbarian II - The Dungeon of Drax (1989)(Palace)[compilation NRJ Vol. 4][1828]">
-		<description>Barbarian II - The Dungeon of Drax (1989)(Palace)[compilation NRJ Vol. 4][1828]</description>
-		<rom name="BarbarianII-TheDungeonOfDrax_DiskA.ipf" size="1049304" crc="99d31c95" md5="819b2477c8fe4b2b23af83f8888349f9" sha1="25fdd7aee9d293c65178ad3ac1258acf1221d373"/>
-		<rom name="BarbarianII-TheDungeonOfDrax_DiskB.ipf" size="1049612" crc="5038e1db" md5="fb08c14cf96048a2e232b6fc17142041" sha1="2c3c972be8e3a177a561498a8148713d76fc401b"/>
-	</game>
 	<game name="Barbarian II - The Dungeon of Drax (1989-08-04)(Palace)[2264]">
 		<description>Barbarian II - The Dungeon of Drax (1989-08-04)(Palace)[2264]</description>
 		<rom name="BarbarianII-TheDungeonOfDrax_Disk1.ipf" size="1048872" crc="8ab8f63e" md5="44db01983a7805f1cbe67cfc61e40119" sha1="cf96f1d0617c0b53c895865ce566edcee1933bd5"/>
 		<rom name="BarbarianII-TheDungeonOfDrax_Disk2.ipf" size="1049180" crc="99fd349b" md5="18f15e1b0c9bab2412738e4c3bad567f" sha1="0917a7a901c286ef794e803fa5b851997c558807"/>
+	</game>
+	<game name="Barbarian II - The Dungeon of Drax (1992)(Infogrames)(FR)(en)[compilation NRJ Vol. 4][1828]">
+		<description>Barbarian II - The Dungeon of Drax (1992)(Infogrames)(FR)(en)[compilation NRJ Vol. 4][1828]</description>
+		<rom name="BarbarianII-TheDungeonOfDrax_DiskA.ipf" size="1049304" crc="99d31c95" md5="819b2477c8fe4b2b23af83f8888349f9" sha1="25fdd7aee9d293c65178ad3ac1258acf1221d373"/>
+		<rom name="BarbarianII-TheDungeonOfDrax_DiskB.ipf" size="1049612" crc="5038e1db" md5="fb08c14cf96048a2e232b6fc17142041" sha1="2c3c972be8e3a177a561498a8148713d76fc401b"/>
 	</game>
 	<game name="Bard's Tale Construction Set, The (1992)(Interplay)[2919]">
 		<description>Bard's Tale Construction Set, The (1992)(Interplay)[2919]</description>
@@ -1989,16 +1989,16 @@
 		<description>Bubble Bobble (1988)(Taito)(US)[1342]</description>
 		<rom name="BubbleBobble.ipf" size="1049304" crc="6db9c287" md5="1f1d4ad4fc330ba4a69d86b8891498d4" sha1="26509459e01a6ac68a3492f041ebab7bf56eb1d8"/>
 	</game>
-	<game name="Bubble Bobble (1989)(Firebird)[2518]">
-		<description>Bubble Bobble (1989)(Firebird)[2518]</description>
+	<game name="Bubble Bobble (1989)(Firebird)(PAL)[2518]">
+		<description>Bubble Bobble (1989)(Firebird)(PAL)[2518]</description>
 		<rom name="BubbleBobble.ipf" size="1049214" crc="98768b66" md5="5709044debc5969dbb747ab2724189c4" sha1="3ea078917d1a0ccc8251b512f3407b570b695e92"/>
 	</game>
 	<game name="Bubble Bobble (1989)(Firebird)[compilation Jatte Hits][1343]">
 		<description>Bubble Bobble (1989)(Firebird)[compilation Jatte Hits][1343]</description>
 		<rom name="BubbleBobble.ipf" size="1049304" crc="f8e97de2" md5="ebb161f1c1d003e36206a7708302fefb" sha1="bded07aeabd9d5b5ecdaaed8d53bcfbe9facacc7"/>
 	</game>
-	<game name="Bubble Bobble (1991)(The Hit Squad)[budget][1344]">
-		<description>Bubble Bobble (1991)(The Hit Squad)[budget][1344]</description>
+	<game name="Bubble Bobble (1991)(The Hit Squad)(PAL)[budget][1344]">
+		<description>Bubble Bobble (1991)(The Hit Squad)(PAL)[budget][1344]</description>
 		<rom name="BubbleBobble.ipf" size="1049180" crc="6dc5d808" md5="d97623e19a2e9eaa9ffd8b365ce7016d" sha1="55eca2f5936e5231418d8b741a272d26447f0054"/>
 	</game>
 	<game name="Bubble Dizzy v1.01 (1991)(Codemasters)[1644]">
@@ -3495,8 +3495,8 @@
 		<rom name="Deliverance_Disk1.ipf" size="1035983" crc="43407d52" md5="880b2acc0142ad91272aef85037f299d" sha1="e4a6d2689473f51f9762044c84cb927adfd77b82"/>
 		<rom name="Deliverance_Disk2.ipf" size="1035900" crc="af0c32d2" md5="ad8e0c06122f8be091ac7cd6b7d15fff" sha1="416841227f473f5b888610e4702ad93ea71a3ef6"/>
 	</game>
-	<game name="Deluxe Monopoly (1991)(Leisure Genius)[compilation Board Genius][1124]">
-		<description>Deluxe Monopoly (1991)(Leisure Genius)[compilation Board Genius][1124]</description>
+	<game name="Deluxe Monopoly (1991)(Beau Jolly)[compilation Board Genius][1124]">
+		<description>Deluxe Monopoly (1991)(Beau Jolly)[compilation Board Genius][1124]</description>
 		<rom name="DeluxeMonopoly.ipf" size="1049214" crc="15afa481" md5="b0fdc20266d387d3839eaa32729f0440" sha1="c8fd086477fe7ca5b8f988976180bc3fd42086a9"/>
 	</game>
 	<game name="Deluxe Strip Poker (1988-11-24)(CDS)[1022]">
@@ -4297,14 +4297,14 @@
 		<rom name="Entity_DisqueDisk3-4-DONNEES-DATA.ipf" size="1049612" crc="77922992" md5="ff9f2cfa7019e51f5f804ba9a03ffdc5" sha1="d9e624a02c137388844163ca30a9e7dde4698fb7"/>
 		<rom name="Entity_DisqueDisk4-4-DONNEES-DATA-.ipf" size="1049612" crc="a6431cb4" md5="974c3043939bfcaf7ef5cdc8ee334386" sha1="e79dc81ea2660eb20c5303b18c718b9c2722d7ab"/>
 	</game>
-	<game name="Epic (1992)(Ocean)[1819]">
-		<description>Epic (1992)(Ocean)[1819]</description>
+	<game name="Epic v2 (1992)(Ocean)[1819]">
+		<description>Epic v2 (1992)(Ocean)[1819]</description>
 		<rom name="Epic_Disk1.ipf" size="1057459" crc="8e9a67d6" md5="f7b380964dfc157eb7570a14e690978b" sha1="46ea80026be4d01e0d447ccd595edf28d6504a29"/>
 		<rom name="Epic_Disk2.ipf" size="1049612" crc="621a1ddc" md5="e61253ee4687f3d216d64e18d3b763b8" sha1="50ce479501da14ca46b82e81912eecaa5873a821"/>
 		<rom name="Epic_Disk3.ipf" size="1049612" crc="c399045c" md5="ea60094081f475827b30d0e33d08c897" sha1="75c33ea6630628085c09ae36be2be9df1fcf9e80"/>
 	</game>
-	<game name="Epic (1992)(Ocean)[compilation Epic-Language Lab][1820]">
-		<description>Epic (1992)(Ocean)[compilation Epic-Language Lab][1820]</description>
+	<game name="Epic v3 (1992)(Ocean)[compilation Epic-Language Lab][1820]">
+		<description>Epic v3 (1992)(Ocean)[compilation Epic-Language Lab][1820]</description>
 		<rom name="Epic_Disk1.ipf" size="1049612" crc="3d4a26cc" md5="9b89b7123a327dc6aed34ada3493bf1f" sha1="10cedcd97acf3b8b41fb0a4260422e224f72334e"/>
 		<rom name="Epic_Disk2.ipf" size="1049612" crc="08091a6c" md5="c67d080b528956f4a37b0ad132e97693" sha1="e49084dd2f986a025bc06f2a5d6316d2fc412a4d"/>
 		<rom name="Epic_Disk3.ipf" size="1049612" crc="d5ede3e8" md5="aca06ee9d110183b9b427d88adb3b600" sha1="c9b31341667c17b6beb45b6b4080e4e58b3f6b31"/>
@@ -4442,8 +4442,8 @@
 		<rom name="Exodus3010_Disk1.ipf" size="1049612" crc="c7f76916" md5="4e7c0afdb2dcbca10504596b4ed8fb51" sha1="4e2cd2a49bdc7b5387cb7b9c1e12bea7a0283e9e"/>
 		<rom name="Exodus3010_Disk2.ipf" size="1049612" crc="513f63ce" md5="8bb0d6cb6406b19d9c64ee36d0d71edb" sha1="e7358c9e29867d273fc7c3cac8094cf4d777fbfb"/>
 	</game>
-	<game name="Exolon (1988)(Hewson)[0015]">
-		<description>Exolon (1988)(Hewson)[0015]</description>
+	<game name="Exolon (1989)(Hewson)[b doscopy][reissue][0015]">
+		<description>Exolon (1989)(Hewson)[b doscopy][reissue][0015]</description>
 		<rom name="Exolon.ipf" size="1049304" crc="a1c406fb" md5="e8b8544dc4b4d5ed1897c16c2d85b412" sha1="fd0dac95dc149c99427cda7978f548cb7a9a6069"/>
 	</game>
 	<game name="Exolon (1989)(United Software)(DE)(en)[2038]">
@@ -5367,8 +5367,8 @@
 		<rom name="GhostbustersII_Disk1of2.ipf" size="1049514" crc="bafa2784" md5="fba272c6d8f0c5bd77389f831960e1a4" sha1="34bc6219edcbb4ae614ad2cca4e15fecad03a66f"/>
 		<rom name="GhostbustersII_Disk2of2.ipf" size="1049514" crc="03bc4687" md5="69600359c545dc8eab60e9d02236b68a" sha1="df697f8b3dddb7a920826566eb7a15cfaae7fbb9"/>
 	</game>
-	<game name="Ghosts 'N Goblins (1990)(Elite)[0031]">
-		<description>Ghosts 'N Goblins (1990)(Elite)[0031]</description>
+	<game name="Ghosts 'N Goblins (1990)(Elite)[0.5Mb Slow][0031]">
+		<description>Ghosts 'N Goblins (1990)(Elite)[0.5Mb Slow][0031]</description>
 		<rom name="Box_back.jpg" size="816007" crc="0cae01d7" md5="d0c6e939d9230c272749eccfe2d7942b" sha1="9d58ae42999acffe217a240aba7e0f955497653f"/>
 		<rom name="Box_front.jpg" size="628905" crc="0200bdd8" md5="34a02485e4fdcbf48c9d40480ee2ccd0" sha1="b81c04628b0668fae6c01a137f35eabb45899960"/>
 		<rom name="Box_side_bottom.jpg" size="79500" crc="b6576480" md5="b6dcdec1bed9dbe97895e97c9cab6833" sha1="dae94a1747a28568becf7124507086b4723292af"/>
@@ -5517,8 +5517,8 @@
 		<rom name="Gods_Disk1.ipf" size="1049304" crc="b0f8f9a1" md5="f6d0c7adca08f5b2e02f44d643dab63e" sha1="13cc7957c33247e27a49f5e9c1743f2a33413ac1"/>
 		<rom name="Gods_Disk2.ipf" size="1049612" crc="621077ab" md5="3de6cc26b7fb5228f52baac06ca96272" sha1="ee9d3f0c5f07ab840b679605252c0dc7bbc870aa"/>
 	</game>
-	<game name="Gold of the Aztecs, The (1990)(U.S. Gold)[1649]">
-		<description>Gold of the Aztecs, The (1990)(U.S. Gold)[1649]</description>
+	<game name="Gold of the Aztecs, The v1.0 (1990-07-01)(U.S. Gold)[1649]">
+		<description>Gold of the Aztecs, The v1.0 (1990-07-01)(U.S. Gold)[1649]</description>
 		<rom name="GoldOfTheAztecs,The_DiskA.ipf" size="971946" crc="3728d2b5" md5="3eca4158640ff8fecde6b9a5f89b3851" sha1="e87ac0e0a903d7d66d25f27d1be7d5af7dd44639"/>
 		<rom name="GoldOfTheAztecs,The_DiskB.ipf" size="1010504" crc="e4c3cbe7" md5="71dd6bda84ee7b9aa97765de5d77b62e" sha1="fee276703db57065cd50f695c18db2e589a30c2f"/>
 	</game>
@@ -5559,8 +5559,8 @@
 		<description>Graffiti Man (1987)(Rainbow Arts)[compilation 5th Anniversary][2168]</description>
 		<rom name="GraffitiMan.ipf" size="1049612" crc="ecaad5ce" md5="b1b235e661d1cbc944a64e99977d805c" sha1="7b0ecf99ac1feb27a46cea77472710ed59f072c1"/>
 	</game>
-	<game name="Graham Gooch World Class Cricket (1993)(Audiogenic)[1248]">
-		<description>Graham Gooch World Class Cricket (1993)(Audiogenic)[1248]</description>
+	<game name="Graham Gooch World Class Cricket (1993-07-21)(Audiogenic)[1248]">
+		<description>Graham Gooch World Class Cricket (1993-07-21)(Audiogenic)[1248]</description>
 		<rom name="GrahamGoochWorldClassCricket.ipf" size="1048314" crc="2324da8a" md5="d2bd43caee2229890a424e6e4c7d11ca" sha1="30e60dd495cbd4d7e40ef0d803ca359eddffe790"/>
 	</game>
 	<game name="Graham Gooch's Second Innings (1993)(Audiogenic)[data disk][1874]">
@@ -6698,8 +6698,8 @@
 		<description>Ishido - The Way of Stones (1990)(Accolade)[0877]</description>
 		<rom name="Ishido-TheWayOfStones.ipf" size="1049180" crc="bceeea5f" md5="28323135343c3d5a6f3dae1d5a2669f9" sha1="3e9d1103d84302ae1c5dfcd649a95cb07b02c232"/>
 	</game>
-	<game name="Island of Lost Hope, The v1.01 (1989)(Digital Concepts)[1318]">
-		<description>Island of Lost Hope, The v1.01 (1989)(Digital Concepts)[1318]</description>
+	<game name="Island of Lost Hope, The v1.01 (1990-02-10)(Digital Concepts)[1318]">
+		<description>Island of Lost Hope, The v1.01 (1990-02-10)(Digital Concepts)[1318]</description>
 		<rom name="IslandOfLostHope,The_Disk1.ipf" size="1049612" crc="bb374c11" md5="4fd5c2c256ea229b56bf16fd5774b696" sha1="c12ac27e2696ebb8a00dc130df6c30aca15aaa7e"/>
 		<rom name="IslandOfLostHope,The_Disk2.ipf" size="1049612" crc="0ee138db" md5="3633907233340d5cf3ed08fc3963ef53" sha1="ca8aec8487404281505fd0014b131346bd17a5aa"/>
 	</game>
@@ -6890,8 +6890,8 @@
 		<description>Jinxter v1.2 (1987)(Rainbird)[0963]</description>
 		<rom name="Jinxter.ipf" size="1049612" crc="44a3b55f" md5="40b1a404d8b8c8536f2f6d753b08301b" sha1="33ff662b5029a021c945c33c0112c08b8be669cc"/>
 	</game>
-	<game name="Joan of Arc (1989)(Rainbow Arts)[2793]">
-		<description>Joan of Arc (1989)(Rainbow Arts)[2793]</description>
+	<game name="Joan of Arc (1989)(GO!)[2793]">
+		<description>Joan of Arc (1989)(GO!)[2793]</description>
 		<rom name="JoanOfArc_Disk1.ipf" size="1049304" crc="3a5b4e61" md5="ba70481d6bb4a2853c07316f1a6f5bb4" sha1="d765117c16df8059bd4a891241b553a99395e730"/>
 		<rom name="JoanOfArc_Disk2.ipf" size="1049612" crc="a26de6ed" md5="c05354a1a6b4ed5a10873fe57aff97a0" sha1="9fa28cca50edf4061a8412186011f115670de458"/>
 	</game>
@@ -6999,6 +6999,10 @@
 		<rom name="K240_Disk1.ipf" size="1049612" crc="59ed601d" md5="3776862a4ae610cc1c1b542f9915ddbe" sha1="c902e3d3b024c36fd5168f52e3120904094f6dfe"/>
 		<rom name="K240_Disk2.ipf" size="1049612" crc="4c4222c5" md5="86a4061db17dc77b91cbc600e171f7f2" sha1="a82c8b2ed7c828e290ed304bfa4398a6eaaeb7c7"/>
 		<rom name="K240_Disk3.ipf" size="1049612" crc="4360d3d5" md5="c9107baf5a0e96a81ad6550f2690d90b" sha1="3355fed232344270675a4a8d86dbb120407fb952"/>
+	</game>
+	<game name="Kalas Puffs Expressen (1991)(SuperSoft)(SE)[1041]">
+		<description>Kalas Puffs Expressen (1991)(SuperSoft)(SE)[1041]</description>
+		<rom name="KalasPuffsExpressen.ipf" size="1049612" crc="ea5b3ca3" md5="b6b5a955d9416dfefba30ed252653621" sha1="b8311f20dc78a8324725a377407a11cba09c9ab5"/>
 	</game>
 	<game name="Kamikaze (1990)(Codemasters)[1573]">
 		<description>Kamikaze (1990)(Codemasters)[1573]</description>
@@ -7221,13 +7225,13 @@
 		<description>Killing Machine (1992)(Atlantis)[2504]</description>
 		<rom name="KillingMachine.ipf" size="1049180" crc="d14aa034" md5="5b85302ddc1c54d7f4fb06c5f1875708" sha1="0103449eb1340f1c2dd2c577309ddda20fa07f2f"/>
 	</game>
-	<game name="King of Chicago, The (1987)(Cinemaware)[1416]">
-		<description>King of Chicago, The (1987)(Cinemaware)[1416]</description>
+	<game name="King of Chicago, The (1987-12)(Cinemaware)(NTSC)[1416]">
+		<description>King of Chicago, The (1987-12)(Cinemaware)(NTSC)[1416]</description>
 		<rom name="KingOfChicago,The_Reel1.ipf" size="1049612" crc="d317fe0e" md5="f43360654ec8f7bcaee01fbdb3248b2f" sha1="d054330b965d784832ba557db2d04a44554d9323"/>
 		<rom name="KingOfChicago,The_Reel2.ipf" size="1049612" crc="b0868fc4" md5="e979a6a7bb2c245671837c9ad1bc1eee" sha1="50382b3ac218af04115bc593ab630e4240543f02"/>
 	</game>
-	<game name="King of Chicago, The (1987)(Cinemaware)[a][1795]">
-		<description>King of Chicago, The (1987)(Cinemaware)[a][1795]</description>
+	<game name="King of Chicago, The (1988-01)(Cinemaware)[1795]">
+		<description>King of Chicago, The (1988-01)(Cinemaware)[1795]</description>
 		<rom name="KingOfChicago,The_Reel1.ipf" size="1049612" crc="d5d60c98" md5="ebb4ff197019a6fac0fe520689a421aa" sha1="989d2008ffb30cbc84782c292da260b9d205bada"/>
 		<rom name="KingOfChicago,The_Reel2.ipf" size="1049612" crc="fbfeecc4" md5="f3c3f2753f4eff21c96cb307619e7fbc" sha1="d452be12fbe60fe772846c005252feae14477f35"/>
 	</game>
@@ -7976,22 +7980,22 @@
 		<rom name="LureOfTheTemptress_DiskB.ipf" size="1024012" crc="cc0cfa99" md5="a9e41e6c2071413350c372d8d913b279" sha1="2351b7c18437f1c69e732d3d849e84fc189a610d"/>
 		<rom name="LureOfTheTemptress_DiskC.ipf" size="1024012" crc="750f8f55" md5="78b16a61b7bfada1b8ca0e5c24c9c1c1" sha1="99dfee37ce547cfcd74750af86b6dee7d3e94e58"/>
 	</game>
-	<game name="Lure of the Temptress (1992-06-18)(Virgin)(FR)[2040]">
-		<description>Lure of the Temptress (1992-06-18)(Virgin)(FR)[2040]</description>
+	<game name="Lure of the Temptress (1992-06-18)(Ubi Soft)(FR)[2040]">
+		<description>Lure of the Temptress (1992-06-18)(Ubi Soft)(FR)[2040]</description>
 		<rom name="LureOfTheTemptress_BootDisk.ipf" size="1024172" crc="d6fd59bc" md5="8279240394dc40cf0b5b69715feb1c82" sha1="6017338132c627259712594c095b3f77a8472cce"/>
 		<rom name="LureOfTheTemptress_DiskA.ipf" size="1024012" crc="5b713bb0" md5="567d0ee1792a3071bf532dcdcea8c186" sha1="8a34fdfd7ec6d39f3a852ce08ba3821b3eb0f7b1"/>
 		<rom name="LureOfTheTemptress_DiskB.ipf" size="1024012" crc="022b7c71" md5="ecc31a06522ebb3a7a4e13638a124bb5" sha1="c9d81e9a2553f7d55814ac258c00223d5a27c82c"/>
 		<rom name="LureOfTheTemptress_DiskC.ipf" size="1024012" crc="3e2170ef" md5="1496e59199992b3a8878e08ad0dc0b57" sha1="257e0ce912c42b5c60de270ec711276a54bedb4f"/>
 	</game>
-	<game name="Lure of the Temptress (1992-07-07)(Virgin)(IT)[2028]">
-		<description>Lure of the Temptress (1992-07-07)(Virgin)(IT)[2028]</description>
+	<game name="Lure of the Temptress (1992-07-07)(Leader)(IT)[2028]">
+		<description>Lure of the Temptress (1992-07-07)(Leader)(IT)[2028]</description>
 		<rom name="LureOfTheTemptress_BootDisk.ipf" size="1024172" crc="42f7ea44" md5="a3a45ef705e75a0e744ecd308c9979f6" sha1="a5689578d097d19d3f3aebdaf3e62c7cb204c896"/>
 		<rom name="LureOfTheTemptress_DiskA.ipf" size="1024012" crc="b7505bb8" md5="5bae43ecca14fb07a8186de4e959afd7" sha1="16e99be7ac027f74fadfadf091bbf14642ede05d"/>
 		<rom name="LureOfTheTemptress_DiskB.ipf" size="1024012" crc="9406e7e7" md5="40df126fd4e07fe60c990c5c6d5302a7" sha1="f3ce99cd0f9599513784adbf0068ec6bf3d2a6a5"/>
 		<rom name="LureOfTheTemptress_DiskC.ipf" size="1024012" crc="ef9b357b" md5="de388f166343f897652645a3c35bf1f1" sha1="35d92501682a1e9771149e9931b148f103c5bc30"/>
 	</game>
-	<game name="Lure of the Temptress (1992-08-06)(Virgin)[compilation Greatest, The][2030]">
-		<description>Lure of the Temptress (1992-08-06)(Virgin)[compilation Greatest, The][2030]</description>
+	<game name="Lure of the Temptress (1993)(Beau Jolly)[compilation The Greatest][2030]">
+		<description>Lure of the Temptress (1993)(Beau Jolly)[compilation The Greatest][2030]</description>
 		<rom name="LureOfTheTemptress_BootDisk.ipf" size="1024172" crc="ff1f6fef" md5="c2bf46b8debac8aebd183965e70b4608" sha1="5b240e86d9b4c8adf173f7c290648fef364c9cb6"/>
 		<rom name="LureOfTheTemptress_DiskA.ipf" size="1024012" crc="f7b1b298" md5="df038cddcce2c2c86a9428ae3eab24c6" sha1="60dc49a364f3a81ce53ccda034b3c1410708e842"/>
 		<rom name="LureOfTheTemptress_DiskB.ipf" size="1024012" crc="3e10fd66" md5="3515cf2df635f40b5c0bde1f23cadb5f" sha1="62caa6317bbfc6f6ab15070f60a07213f7ab6c50"/>
@@ -8689,8 +8693,8 @@
 		<description>Multi-Player Soccer Manager (1991)(CDS)[1047]</description>
 		<rom name="Multi-PlayerSoccerManager.ipf" size="1049612" crc="ee66d70f" md5="01c2e71913ffa0827a511f67e70e5ffc" sha1="5d4e067e9fdfc4d99adfc5cb456cfae4efdda4ca"/>
 	</game>
-	<game name="Munsters, The (1989)(Again Again)[compilation Kids Pack][1265]">
-		<description>Munsters, The (1989)(Again Again)[compilation Kids Pack][1265]</description>
+	<game name="Munsters, The (1992)(Alternative)[compilation Kids Pack][1265]">
+		<description>Munsters, The (1992)(Alternative)[compilation Kids Pack][1265]</description>
 		<rom name="Munsters,The.ipf" size="1049612" crc="7d486239" md5="4c65e8aa1c02b53003127fe185a5a0d0" sha1="88f958ffbe5955332074140ba9b8c5dfcd0c7344"/>
 	</game>
 	<game name="Murder (1990)(U.S. Gold)[0136]">
@@ -8766,8 +8770,8 @@
 		<description>Naughty Ones (1994)(Interactivision)[1048]</description>
 		<rom name="NaughtyOnes.ipf" size="1049612" crc="b6fee07b" md5="0ad4d81de797cda8ec94b31a44bf3a7d" sha1="e4b1aebd47482f2275cb8d82ba532a8e2271d7e0"/>
 	</game>
-	<game name="Navy Moves (1989)(Dinamic)[compilation Top Hits][2428]">
-		<description>Navy Moves (1989)(Dinamic)[compilation Top Hits][2428]</description>
+	<game name="Navy Moves (1989)(Ubi Soft)[compilation Top Hits][2428]">
+		<description>Navy Moves (1989)(Ubi Soft)[compilation Top Hits][2428]</description>
 		<rom name="NavyMoves.ipf" size="1049180" crc="29ce83e1" md5="faf7922807a98d02958e0b549660aae2" sha1="5186ab12927af7ed55ae0d4ed81124a02126f316"/>
 	</game>
 	<game name="Navy Moves (1992)(The Hit Squad)[budget][2430]">
@@ -8804,12 +8808,12 @@
 		<description>Neighbours (1991)(Impulze)[1798]</description>
 		<rom name="Neighbours.ipf" size="1049304" crc="ac1ad190" md5="1c7c54a527690a510feb4b31ca309de0" sha1="0b831c12351234e3c9792646eeb3f6ae3fc0b4ec"/>
 	</game>
-	<game name="Netherworld (1989)(Hewson)[2033]">
-		<description>Netherworld (1989)(Hewson)[2033]</description>
+	<game name="Netherworld (1988)(Hewson)[2033]">
+		<description>Netherworld (1988)(Hewson)[2033]</description>
 		<rom name="Netherworld.ipf" size="1049682" crc="82d6626d" md5="72c8803e6f52c93a8fa4aa89d2e8b6b9" sha1="215019aea6ec9838fde9c1834e9038a5b744347f"/>
 	</game>
-	<game name="Netherworld (1989)(Hewson)[compilation Premier Collection][2037]">
-		<description>Netherworld (1989)(Hewson)[compilation Premier Collection][2037]</description>
+	<game name="Netherworld (1988)(Hewson)[compilation Premier Collection][2037]">
+		<description>Netherworld (1988)(Hewson)[compilation Premier Collection][2037]</description>
 		<rom name="Netherworld.ipf" size="1049180" crc="2e4d3fa3" md5="cb16e689c18dd8ddc2d46393824ec64a" sha1="ddad190ada2430582c652886a40fc46e5b9a8715"/>
 	</game>
 	<game name="Neuromancer (1989)(Interplay)[2604]">
@@ -9846,8 +9850,8 @@
 		<description>Ports of Call v1.1 (1987)(Aegis)[compilation A600 Smart Start][2489]</description>
 		<rom name="PortsOfCall.ipf" size="1049612" crc="02a40d4c" md5="1580ba26d828f330c4315ab145f4f2b2" sha1="2af98277820e91785185007f1f6f8b62b42c0ff1"/>
 	</game>
-	<game name="Postman Pat (1989)(Alternative)[compilation Kids Pack][1092]">
-		<description>Postman Pat (1989)(Alternative)[compilation Kids Pack][1092]</description>
+	<game name="Postman Pat (1992)(Alternative)[compilation Kids Pack][1092]">
+		<description>Postman Pat (1992)(Alternative)[compilation Kids Pack][1092]</description>
 		<rom name="PostmanPat.ipf" size="396794" crc="6013fa79" md5="575d0872f982afcad2499abc0ee1894e" sha1="9467ea7e504658e2db40af8006a7a64fa65eed2e"/>
 	</game>
 	<game name="Postman Pat 3 - To the Rescue! (1992)(Alternative)[2614]">
@@ -10575,8 +10579,8 @@
 		<description>Rick Dangerous 2 (1993)(Kixx)[budget][1877]</description>
 		<rom name="RickDangerous2.ipf" size="1049304" crc="47842756" md5="995ff2a9c614e9732de6577091294d88" sha1="d22ac9b5765aa1eef3402fd433c4611775ba2669"/>
 	</game>
-	<game name="Rick Davis's World Trophy Soccer (1989)(Melbourne House)[1716]">
-		<description>Rick Davis's World Trophy Soccer (1989)(Melbourne House)[1716]</description>
+	<game name="Rick Davis's World Trophy Soccer (1989)(Melbourne House)(US)[1716]">
+		<description>Rick Davis's World Trophy Soccer (1989)(Melbourne House)(US)[1716]</description>
 		<rom name="RickDavissWorldTrophySoccer.ipf" size="1049612" crc="0c57d3be" md5="b0b7067481d32ba91c5b7e79204249be" sha1="e55e492436743aa7208f1610f0414b647d34d728"/>
 	</game>
 	<game name="Rings of Medusa v1.02 (1989)(Starbyte)(DE)[2825]">
@@ -12541,6 +12545,10 @@
 		<description>Stone Age (1992)(Eclipse)[3033]</description>
 		<rom name="StoneAge.ipf" size="1008605" crc="47688571" md5="4ea1d7e97116e849c9833e82bf05e6b9" sha1="f01bfca44a627b1b8bbdf52b722aadcc584145d7"/>
 	</game>
+	<game name="Stoppt Den Calippo Fresser (1992)(CompuTec Verlag)(DE)[0817]">
+		<description>Stoppt Den Calippo Fresser (1992)(CompuTec Verlag)(DE)[0817]</description>
+		<rom name="StopptDenCalippoFresser.ipf" size="1049612" crc="0f49f3c5" md5="056e0bdfd9ecf6bf7919ae0056f50727" sha1="ee85330aaafef05895d8e7aacbe3f2acb74c29d8"/>
+	</game>
 	<game name="Storm Across Europe - The War in Europe - 1939-45 v1.0 (1990)(SSI)[2279]">
 		<description>Storm Across Europe - The War in Europe - 1939-45 v1.0 (1990)(SSI)[2279]</description>
 		<rom name="StormAcrossEurope-TheWarInEurope-1939-45.ipf" size="1049180" crc="a0ceec82" md5="d78c7e9a310299e6936114924d75843d" sha1="2cb4fcc4a928357ec7ff7f6540025e2d25fc7dc0"/>
@@ -12920,8 +12928,8 @@
 		<rom name="SuspiciousCargo_Disk1.ipf" size="1049180" crc="bd3c7d3f" md5="ee3b42840d7a23b1f184043150c0bd3e" sha1="87ad5d8cdc1b94e78677e2899309e1608e2861f5"/>
 		<rom name="SuspiciousCargo_Disk2.ipf" size="1049180" crc="6cb51c7d" md5="a9442ea4ceed2e8ad31011e764853764" sha1="b09aa5ebd83f5f8da8ee35aa4deaac000aa46925"/>
 	</game>
-	<game name="Swap (1991)(Microids)(FR)(en)[compilation NRJ Vol. 4][2146]">
-		<description>Swap (1991)(Microids)(FR)(en)[compilation NRJ Vol. 4][2146]</description>
+	<game name="Swap (1992)(Infogrames)(FR)(en)[compilation NRJ Vol. 4][2146]">
+		<description>Swap (1992)(Infogrames)(FR)(en)[compilation NRJ Vol. 4][2146]</description>
 		<rom name="Swap.ipf" size="1049180" crc="21808fd6" md5="39feca9964cbc8069b61a9ea5a3b1df5" sha1="f8075a12b1a7fb18c12920a87bd4b5e9e8d312af"/>
 	</game>
 	<game name="Swap v2.1 (1991)(Palace)[1822]">
@@ -13072,8 +13080,8 @@
 		<description>Team Yankee (1990)(Empire)[0150]</description>
 		<rom name="TeamYankee.ipf" size="1049180" crc="7fa3c872" md5="8fc5db4f38e88808a1638d2f15ac1d7a" sha1="02b6c385b0d1e740b9125f9c34af1823728d012c"/>
 	</game>
-	<game name="Tearaway Thomas (1992)(DMI)[2690]">
-		<description>Tearaway Thomas (1992)(DMI)[2690]</description>
+	<game name="Tearaway Thomas (1992)(Global Software)[2690]">
+		<description>Tearaway Thomas (1992)(Global Software)[2690]</description>
 		<rom name="TearawayThomas.ipf" size="1049180" crc="b26f7ec7" md5="8684dd2d282f723329276ce1070399dd" sha1="2d0bd2aec48f3be8a0f3b367f3b37114fa6d5bfb"/>
 	</game>
 	<game name="Tee Off! (1989)(Energize)[1710]">
@@ -13106,8 +13114,8 @@
 		<description>Tennis Cup (1989)(Electronic Zoo)[0737]</description>
 		<rom name="TennisCup.ipf" size="1047216" crc="470f635e" md5="46df75a6113441e312cb8b52a332b682" sha1="795672ab8c5e5c05116d01fa035e347bd372c5d8"/>
 	</game>
-	<game name="Tennis Cup (1989)(Loriciel)(FR)[compilation NRJ][1638]">
-		<description>Tennis Cup (1989)(Loriciel)(FR)[compilation NRJ][1638]</description>
+	<game name="Tennis Cup (1992)(Infogrames)(FR)[compilation NRJ Vol. 4][1638]">
+		<description>Tennis Cup (1992)(Infogrames)(FR)[compilation NRJ Vol. 4][1638]</description>
 		<rom name="TennisCup.ipf" size="1049180" crc="37c4e712" md5="8800d88bfbb674e3f553d84b94c17c3b" sha1="2e4294d8a21f8d153f3edece144a9cc048eef511"/>
 	</game>
 	<game name="Tennis Cup II (1992)(Loriciel)[0738]">
@@ -13115,15 +13123,15 @@
 		<rom name="TennisCupII_DiscA.ipf" size="1049612" crc="ac9566f4" md5="a9705f6840fe9cd4cb28e10679c1db54" sha1="3a27fbfd042ff78079cfbbc907bf62a5e0dfd3df"/>
 		<rom name="TennisCupII_DiscB.ipf" size="1049612" crc="ec577e3d" md5="f0fb93f863fa68414bac997f9027cb21" sha1="f000dadfab9bf2f64e11c43a0cb0ee106d877ca9"/>
 	</game>
-	<game name="Terminator 2 - Judgment Day (1991)(Ocean)[1339]">
-		<description>Terminator 2 - Judgment Day (1991)(Ocean)[1339]</description>
-		<rom name="Terminator2-JudgmentDay_CBMAMIGADISK1.ipf" size="1049304" crc="3fa3575b" md5="2c0df307ed3fd70736e0c4386577734d" sha1="18092bc6a00fa495edb5190f11487d727f0d61db"/>
-		<rom name="Terminator2-JudgmentDay_CBMAMIGADISK2.ipf" size="1049612" crc="f741bb75" md5="f80c60ab16721c7a0f6214b8088f441f" sha1="dfcc16862430ea4160988530505c9a209c48abff"/>
-	</game>
-	<game name="Terminator 2 - Judgment Day (1991)(Ocean)[a][2598]">
-		<description>Terminator 2 - Judgment Day (1991)(Ocean)[a][2598]</description>
+	<game name="Terminator 2 - Judgment Day v1 (1991)(Ocean)[2598]">
+		<description>Terminator 2 - Judgment Day v1 (1991)(Ocean)[2598]</description>
 		<rom name="Terminator2-JudgmentDay_Disk1.ipf" size="1048872" crc="bc030f08" md5="d0a59d36f582a4db462297577d9f22e6" sha1="89468621848ee15b8252adae4d4a4c05f321e244"/>
 		<rom name="Terminator2-JudgmentDay_Disk2.ipf" size="1042734" crc="3689e049" md5="7b34f11c2c94e711f7c6ae74c75d49ef" sha1="40e032726432a25282fdb7c07b335a12cc7470be"/>
+	</game>
+	<game name="Terminator 2 - Judgment Day v2 (1991)(Ocean)[1339]">
+		<description>Terminator 2 - Judgment Day v2 (1991)(Ocean)[1339]</description>
+		<rom name="Terminator2-JudgmentDay_CBMAMIGADISK1.ipf" size="1049304" crc="3fa3575b" md5="2c0df307ed3fd70736e0c4386577734d" sha1="18092bc6a00fa495edb5190f11487d727f0d61db"/>
+		<rom name="Terminator2-JudgmentDay_CBMAMIGADISK2.ipf" size="1049612" crc="f741bb75" md5="f80c60ab16721c7a0f6214b8088f441f" sha1="dfcc16862430ea4160988530505c9a209c48abff"/>
 	</game>
 	<game name="Terminator 2 - The Arcade Game (1993)(Virgin)[0151]">
 		<description>Terminator 2 - The Arcade Game (1993)(Virgin)[0151]</description>

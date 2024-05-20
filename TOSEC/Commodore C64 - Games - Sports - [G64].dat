@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Sports - [G64]</name>
-		<description>Commodore C64 - Games - Sports - [G64] (TOSEC-v2023-06-10)</description>
+		<description>Commodore C64 - Games - Sports - [G64] (TOSEC-v2023-10-21)</description>
 		<category>TOSEC</category>
-		<version>2023-06-10</version>
+		<version>2023-10-21</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -59,18 +59,6 @@
 	<game name="4th &amp; Inches (1987)(Accolade)[cr ESI]">
 		<description>4th &amp; Inches (1987)(Accolade)[cr ESI]</description>
 		<rom name="4th &amp; Inches (1987)(Accolade)[cr ESI].g64" size="333744" crc="6f081aa7" md5="14f4930ff62f0e839bb80f0e4ae308ec" sha1="e8752bc45432588c0d39f57ec148f6817c5469b8"/>
-	</game>
-	<game name="ABC Monday Night Football (19xx)(Data East)(Side A)">
-		<description>ABC Monday Night Football (19xx)(Data East)(Side A)</description>
-		<rom name="ABC Monday Night Football (19xx)(Data East)(Side A).g64" size="333744" crc="3459cc1b" md5="e47501898431d956762932c69e1aa21e" sha1="196b5cc5ea0ef1d9e939c224d979c175382f7f09"/>
-	</game>
-	<game name="ABC Monday Night Football (19xx)(Data East)(Side A)[a]">
-		<description>ABC Monday Night Football (19xx)(Data East)(Side A)[a]</description>
-		<rom name="ABC Monday Night Football (19xx)(Data East)(Side A)[a].g64" size="333744" crc="7613a461" md5="3f735bf2b7a7a8cfef5bb1e5f58f7f15" sha1="3b88a7bb3f88c89ba3ba350d3ff33c9ceae7c3d9"/>
-	</game>
-	<game name="ABC Monday Night Football (19xx)(Data East)(Side A)[a2]">
-		<description>ABC Monday Night Football (19xx)(Data East)(Side A)[a2]</description>
-		<rom name="ABC Monday Night Football (19xx)(Data East)(Side A)[a2].g64" size="278234" crc="14140aa2" md5="8435bdcaded12d7a9b0650b66a3724fc" sha1="4436c653550aaa3bc983575315ed4d45a67cf194"/>
 	</game>
 	<game name="ADIDAS Championship Football (1990)(Ocean)[cr Nato]">
 		<description>ADIDAS Championship Football (1990)(Ocean)[cr Nato]</description>
@@ -1136,13 +1124,13 @@
 		<description>Liverpool (1987)(P.M. Corbishley)[a]</description>
 		<rom name="Liverpool (1987)(P.M. Corbishley)[a].g64" size="333744" crc="6fe9f28a" md5="af250a71ee60d9178253bb1e6da96c30" sha1="61accfe338dd8041fe52bb4026634bd0dde91c52"/>
 	</game>
-	<game name="Long Life (1994)(576 kByte)(Side B)[cr AVT]">
-		<description>Long Life (1994)(576 kByte)(Side B)[cr AVT]</description>
-		<rom name="Long Life (1994)(576 kByte)(Side B)[cr AVT].g64" size="333744" crc="e7fc3f7a" md5="e8136ba5ddb282cdf39a058e694601ad" sha1="96a85f1563843ca41ee4658393db06591569a3fc"/>
+	<game name="Long Life (1994)(576 KByte)(Side B)[cr AVT]">
+		<description>Long Life (1994)(576 KByte)(Side B)[cr AVT]</description>
+		<rom name="Long Life (1994)(576 KByte)(Side B)[cr AVT].g64" size="333744" crc="e7fc3f7a" md5="e8136ba5ddb282cdf39a058e694601ad" sha1="96a85f1563843ca41ee4658393db06591569a3fc"/>
 	</game>
-	<game name="Long Life (1994)(576 kByte)(Side B)[cr AVT][a]">
-		<description>Long Life (1994)(576 kByte)(Side B)[cr AVT][a]</description>
-		<rom name="Long Life (1994)(576 kByte)(Side B)[cr AVT][a].g64" size="333744" crc="a935afff" md5="54caadfc96cdb56cfb607e0503afb5f1" sha1="fc538da3e762e2bddfde58214217397e0be7398f"/>
+	<game name="Long Life (1994)(576 KByte)(Side B)[cr AVT][a]">
+		<description>Long Life (1994)(576 KByte)(Side B)[cr AVT][a]</description>
+		<rom name="Long Life (1994)(576 KByte)(Side B)[cr AVT][a].g64" size="333744" crc="a935afff" md5="54caadfc96cdb56cfb607e0503afb5f1" sha1="fc538da3e762e2bddfde58214217397e0be7398f"/>
 	</game>
 	<game name="Magic Johnson&apos;s MVP (1990)(Virgin Mastertronic)(Side A)[cr ASS]">
 		<description>Magic Johnson&apos;s MVP (1990)(Virgin Mastertronic)(Side A)[cr ASS]</description>
@@ -1368,6 +1356,18 @@
 		<description>Mini-Putt (1987)(Accolade)(Side B)[cr ESI][a3]</description>
 		<rom name="Mini-Putt (1987)(Accolade)(Side B)[cr ESI][a3].g64" size="333744" crc="fa80ec6e" md5="6f982265983af065f150f98d3cad6304" sha1="6b30889051e6e293b73e989f0aad5dadfcb487fe"/>
 	</game>
+	<game name="Monday Night Football (1990)(Data East)(Side A)">
+		<description>Monday Night Football (1990)(Data East)(Side A)</description>
+		<rom name="Monday Night Football (1990)(Data East)(Side A).g64" size="333744" crc="3459cc1b" md5="e47501898431d956762932c69e1aa21e" sha1="196b5cc5ea0ef1d9e939c224d979c175382f7f09"/>
+	</game>
+	<game name="Monday Night Football (1990)(Data East)(Side A)[a]">
+		<description>Monday Night Football (1990)(Data East)(Side A)[a]</description>
+		<rom name="Monday Night Football (1990)(Data East)(Side A)[a].g64" size="333744" crc="7613a461" md5="3f735bf2b7a7a8cfef5bb1e5f58f7f15" sha1="3b88a7bb3f88c89ba3ba350d3ff33c9ceae7c3d9"/>
+	</game>
+	<game name="Monday Night Football (1990)(Data East)(Side A)[a2]">
+		<description>Monday Night Football (1990)(Data East)(Side A)[a2]</description>
+		<rom name="Monday Night Football (1990)(Data East)(Side A)[a2].g64" size="278234" crc="14140aa2" md5="8435bdcaded12d7a9b0650b66a3724fc" sha1="4436c653550aaa3bc983575315ed4d45a67cf194"/>
+	</game>
 	<game name="Monday Night Football (1990)(Data East)(Side A)[cr Intense]">
 		<description>Monday Night Football (1990)(Data East)(Side A)[cr Intense]</description>
 		<rom name="Monday Night Football (1990)(Data East)(Side A)[cr Intense].g64" size="333744" crc="3f8951b3" md5="eeaa870bf64541d9d8f75737f3dc9627" sha1="9f4a011be90991ec9d6bd7084e5d3e98471c59bf"/>
@@ -1404,21 +1404,21 @@
 		<description>Mondu&apos;s Fight Palace (1990)(Activision)(Side A)[cr I+T][a]</description>
 		<rom name="Mondu&apos;s Fight Palace (1990)(Activision)(Side A)[cr I+T][a].g64" size="333744" crc="9e119ab5" md5="aa138c151b264f7f596b5616f96ec5d6" sha1="640f4c4a9bee9a7cd3b38db6fe79d76ccd84d00b"/>
 	</game>
-	<game name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer]">
-		<description>Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer]</description>
-		<rom name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer].g64" size="333744" crc="2c7d5b98" md5="88ecb25b776eef044199ddf54afa0470" sha1="eef907cd10f7c56cd527089c883c1b31689f397e"/>
+	<game name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer]">
+		<description>Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer]</description>
+		<rom name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer].g64" size="333744" crc="2c7d5b98" md5="88ecb25b776eef044199ddf54afa0470" sha1="eef907cd10f7c56cd527089c883c1b31689f397e"/>
 	</game>
-	<game name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a]">
-		<description>Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a]</description>
-		<rom name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a].g64" size="325814" crc="67a62eb9" md5="da0ef4b33bf6dca80a18586943b0d714" sha1="6c8d6eea24defba943b72a34dcaa811d5be742ef"/>
+	<game name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a]">
+		<description>Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a]</description>
+		<rom name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a].g64" size="325814" crc="67a62eb9" md5="da0ef4b33bf6dca80a18586943b0d714" sha1="6c8d6eea24defba943b72a34dcaa811d5be742ef"/>
 	</game>
-	<game name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a2]">
-		<description>Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a2]</description>
-		<rom name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a2].g64" size="333744" crc="b4cc9530" md5="da6a62b61f6f28200ce24ab955704c7f" sha1="417e0f223965850d175833a3ba0701306a4f24a7"/>
+	<game name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a2]">
+		<description>Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a2]</description>
+		<rom name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a2].g64" size="333744" crc="b4cc9530" md5="da6a62b61f6f28200ce24ab955704c7f" sha1="417e0f223965850d175833a3ba0701306a4f24a7"/>
 	</game>
-	<game name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a3]">
-		<description>Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a3]</description>
-		<rom name="Omni-Play Basketball (1989-10-05)(Mindscape)(Side A)[cr Lazer][a3].g64" size="333744" crc="689bf8c1" md5="a65077d77d875a5a7ff836144d8430aa" sha1="c0a603f27b9580cd22f84d923ae96578c2e9e949"/>
+	<game name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a3]">
+		<description>Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a3]</description>
+		<rom name="Omni-Play Basketball (1989)(Mindscape)(Side A)[cr Lazer][a3].g64" size="333744" crc="689bf8c1" md5="a65077d77d875a5a7ff836144d8430aa" sha1="c0a603f27b9580cd22f84d923ae96578c2e9e949"/>
 	</game>
 	<game name="One on One (1984)(Electronic Arts)">
 		<description>One on One (1984)(Electronic Arts)</description>

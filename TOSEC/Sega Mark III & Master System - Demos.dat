@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Sega Mark III &amp; Master System - Demos</name>
-		<description>Sega Mark III &amp; Master System - Demos (TOSEC-v2022-06-08)</description>
+		<description>Sega Mark III &amp; Master System - Demos (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
+		<version>2024-01-15</version>
 		<author>Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -27,6 +27,10 @@
 	<game name="Background Test (2002)(Enri)(PD)">
 		<description>Background Test (2002)(Enri)(PD)</description>
 		<rom name="Background Test (2002)(Enri)(PD).bin" size="32768" crc="5f1120c8" md5="f427238b9fec7b05e1e72a28529789d5" sha1="d5a8965ccc3a5e209ff27e951061e4aa8d58633a"/>
+	</game>
+	<game name="Backword (2015)(haroldo-ok)">
+		<description>Backword (2015)(haroldo-ok)</description>
+		<rom name="Backword (2015)(haroldo-ok).bin" size="32768" crc="83f39454" md5="bb5a0e9e8c9c0b92a6785b29fa7c4539" sha1="780b5e9902d56fcf098e22701ee2849cf958f8ac"/>
 	</game>
 	<game name="BASIC Demo (1997)(SMSC)(PD)">
 		<description>BASIC Demo (1997)(SMSC)(PD)</description>
@@ -68,9 +72,9 @@
 		<description>Cycle Counter (200x)(FluBBa)(PD)</description>
 		<rom name="Cycle Counter (200x)(FluBBa)(PD).bin" size="32768" crc="7694ed1c" md5="fb80d50cd4b6ae829d2503b8360c2072" sha1="acd8e2f4985a2181fdde21b9906f7ae3d5bfbed9"/>
 	</game>
-	<game name="DCEvolution.net Intro (2004)(Apathy - Maze - Tzvetkov, Ventzislav)(PD)">
-		<description>DCEvolution.net Intro (2004)(Apathy - Maze - Tzvetkov, Ventzislav)(PD)</description>
-		<rom name="DCEvolution.net Intro (2004)(Apathy - Maze - Tzvetkov, Ventzislav)(PD).bin" size="32768" crc="7cc2a20b" md5="09e8a6f3054e7e36bd267c50d407552f" sha1="a0da40b93630017227da9777b109ed29dc04eea1"/>
+	<game name="DCEvolution.net Intro (2004)(Apathy - Void)(PD)">
+		<description>DCEvolution.net Intro (2004)(Apathy - Void)(PD)</description>
+		<rom name="DCEvolution.net Intro (2004)(Apathy - Void)(PD).bin" size="32768" crc="7cc2a20b" md5="09e8a6f3054e7e36bd267c50d407552f" sha1="a0da40b93630017227da9777b109ed29dc04eea1"/>
 	</game>
 	<game name="Elite Gaiden v0.1 (2002)(Bittencourt, Ricardo)(PD)">
 		<description>Elite Gaiden v0.1 (2002)(Bittencourt, Ricardo)(PD)</description>
@@ -120,6 +124,22 @@
 		<description>Line Interrupt Test #1 v1.00 (2006)(MacDonald, Charles)(PD)</description>
 		<rom name="Line Interrupt Test #1 v1.00 (2006)(MacDonald, Charles)(PD).bin" size="32768" crc="c264580f" md5="d0343b176518391a9d7493dac7c8c2a9" sha1="ebae1289aefbe590605c3aaff31f677abacff954"/>
 	</game>
+	<game name="lorez (2015)(haroldo-ok)">
+		<description>lorez (2015)(haroldo-ok)</description>
+		<rom name="lorez (2015)(haroldo-ok).bin" size="8801" crc="a05efb23" md5="86c9d3c3a4c4b23ccdac727e3156f529" sha1="5bb3ece75ae58650e893d71948056b260b3b5099"/>
+	</game>
+	<game name="maze3d (2008-01-21)(haroldo-ok)">
+		<description>maze3d (2008-01-21)(haroldo-ok)</description>
+		<rom name="maze3d (2008-01-21)(haroldo-ok).bin" size="34140" crc="1d38b843" md5="ac83cbac3dc10e873f7923f8b3f5b1c7" sha1="fd919e5f1850c61ba35913ff45f686bd05fe3d95"/>
+	</game>
+	<game name="MegaMania (2015)(haroldo-ok)">
+		<description>MegaMania (2015)(haroldo-ok)</description>
+		<rom name="MegaMania (2015)(haroldo-ok).bin" size="65536" crc="9ef355d7" md5="287365d51f47305700747364edd2ec64" sha1="f6e9e5814bd04a3fbd6b5fad33967dddbe722cc0"/>
+	</game>
+	<game name="Naga Date Dungeon Gallery Demo (2017-02-28)(Denebola Interactive)">
+		<description>Naga Date Dungeon Gallery Demo (2017-02-28)(Denebola Interactive)</description>
+		<rom name="Naga Date Dungeon Gallery Demo (2017-02-28)(Denebola Interactive).bin" size="163840" crc="6f85bec6" md5="7997a3bca44531caa796db782f6e0f49" sha1="ae6f962fb992ba4c5d0892a815ec9fc5c3748d83"/>
+	</game>
 	<game name="Nine Pixels v0.99 (2006)(Warren, Nicolas)">
 		<description>Nine Pixels v0.99 (2006)(Warren, Nicolas)</description>
 		<rom name="Nine Pixels v0.99 (2006)(Warren, Nicolas).bin" size="131072" crc="82ae5acd" md5="a852951a8b7c9a153017499a2c4aa729" sha1="124012c8611db1e5a5013012fd8b10f4bfcc2e02"/>
@@ -164,6 +184,14 @@
 		<description>Picture Demo (200x)(FluBBa)(PD)</description>
 		<rom name="Picture Demo (200x)(FluBBa)(PD).bin" size="131072" crc="2a2ac7e1" md5="d3f34efb8174eda427d01382ceb6e3a9" sha1="14213dffac2fbc5be8b19b755ba5407c0d91a76c"/>
 	</game>
+	<game name="Road Blaster v0.01 (demo) (2015)(haroldo-ok)">
+		<description>Road Blaster v0.01 (demo) (2015)(haroldo-ok)</description>
+		<rom name="Road Blaster v0.01 (demo) (2015)(haroldo-ok).bin" size="1142667" crc="b4e626e2" md5="7e81bb367778d9c50460ef07a8b89477" sha1="f48347353f40f63d7ca9d1d5064198e0b04a28fc"/>
+	</game>
+	<game name="rpg-battle-poc v0.1 (2022-03-04)(haroldo-ok)">
+		<description>rpg-battle-poc v0.1 (2022-03-04)(haroldo-ok)</description>
+		<rom name="rpg-battle-poc v0.1 (2022-03-04)(haroldo-ok).bin" size="32768" crc="4b38f272" md5="157d15354b62a3a63f2a5fa503387030" sha1="9daf19d6b355f7d26aaee806f4cc6b05c7a7e7f9"/>
+	</game>
 	<game name="SALY v1.00 (2003)(Klemp, Marc)(PD)">
 		<description>SALY v1.00 (2003)(Klemp, Marc)(PD)</description>
 		<rom name="SALY v1.00 (2003)(Klemp, Marc)(PD).bin" size="32768" crc="7cbd4432" md5="60b8edb10321ed656bd5cae80064911a" sha1="8630c3135021f51b84d2722b25a9c4081c5d1062"/>
@@ -171,6 +199,10 @@
 	<game name="Scroll Test v1.00 (2001)(MacDonald, Charles)(PD)">
 		<description>Scroll Test v1.00 (2001)(MacDonald, Charles)(PD)</description>
 		<rom name="Scroll Test v1.00 (2001)(MacDonald, Charles)(PD).bin" size="32768" crc="6841ce1d" md5="78c8f7bc29dfe042d33e260804fd4077" sha1="fb5a3c57794b1c47c19e0e107279a455c60fde7d"/>
+	</game>
+	<game name="Sega Master System APA Library (2015)(Pinheiro, Haroldo O.)">
+		<description>Sega Master System APA Library (2015)(Pinheiro, Haroldo O.)</description>
+		<rom name="Sega Master System APA Library (2015)(Pinheiro, Haroldo O.).bin" size="13774" crc="d103e93a" md5="40a50ff3a61af0fd54a44af7b9adeb6a" sha1="9983e26ce6b32a699762e7fd9dccfd149cc03b0c"/>
 	</game>
 	<game name="Sega Tween v1.00 (2007)(Ryves, Ben)(PD)">
 		<description>Sega Tween v1.00 (2007)(Ryves, Ben)(PD)</description>
@@ -220,6 +252,10 @@
 		<description>Sound Test v1.1 (2001)(Warren, Nicolas)(PD)</description>
 		<rom name="Sound Test v1.1 (2001)(Warren, Nicolas)(PD).bin" size="32768" crc="1b1efc66" md5="8a0d188d7cf4951da197f999ff3bc817" sha1="b9a4612bcf172323e65fa77dad2a91d57cf1edf9"/>
 	</game>
+	<game name="sortem (2015)(haroldo-ok)">
+		<description>sortem (2015)(haroldo-ok)</description>
+		<rom name="sortem (2015)(haroldo-ok).bin" size="4833" crc="eac5429e" md5="21e72ef06d50dbc1e517193d78abd21c" sha1="aa3be277c5674eb5d18274097376147026a5be1d"/>
+	</game>
 	<game name="Sprite &amp; Priority Test v1.00 (2001)(MacDonald, Charles)(PD)">
 		<description>Sprite &amp; Priority Test v1.00 (2001)(MacDonald, Charles)(PD)</description>
 		<rom name="Sprite &amp; Priority Test v1.00 (2001)(MacDonald, Charles)(PD).bin" size="32768" crc="d6a8dd98" md5="f1d7ca9fff24b6afb7943f5e351db04d" sha1="be0f850af3a10c96124ce01b12a534be8f33a29b"/>
@@ -239,6 +275,10 @@
 	<game name="Text Demo (1997)(SMSC)(PD)">
 		<description>Text Demo (1997)(SMSC)(PD)</description>
 		<rom name="Text Demo (1997)(SMSC)(PD).bin" size="32768" crc="357f000b" md5="f365b86b16024d4fb611931b79b9d1a4" sha1="f4516eb564fc944e21ee783439ea03b2c930389d"/>
+	</game>
+	<game name="TML2 Test (2015)(haroldo-ok)">
+		<description>TML2 Test (2015)(haroldo-ok)</description>
+		<rom name="TML2 Test (2015)(haroldo-ok).bin" size="32768" crc="e64e5f3e" md5="d9dbfc552c6546906f7f7ca3078e073e" sha1="c88ea616462accb710b2c3888c07d3ef5aed1b10"/>
 	</game>
 	<game name="Twenty Three vs. Ten (2007)(Opius)">
 		<description>Twenty Three vs. Ten (2007)(Opius)</description>

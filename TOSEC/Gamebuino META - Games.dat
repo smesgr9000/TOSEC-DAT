@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Gamebuino META - Games</name>
+		<description>Gamebuino META - Games (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Anarch v1.01 (2019-11)(drummyfish)(PD)">
+		<description>Anarch v1.01 (2019-11)(drummyfish)(PD)</description>
+		<rom name="Anarch.bin" size="215280" crc="0bf087f8" md5="d5977161d0b8631850fc6f688b55d8f8" sha1="266cc6ce4878fa1d486241c833eb707a1ef07069"/>
+		<rom name="ICON.BMP" size="4234" crc="7ec23ea7" md5="8eb2ac03c606fa2be9bdd1556b91ad90" sha1="65d702619904b8662f4bf53af15ad18dd51906b8"/>
+		<rom name="TITLESCREEN.BMP" size="20618" crc="17a5b695" md5="4cc50b388734160458f6c544f45a6364" sha1="3b6253d011f2a699d564be1c699b51092cd00ef7"/>
+	</game>
+	<game name="Pogo Knight (2023-05-31)(lucentbeam)">
+		<description>Pogo Knight (2023-05-31)(lucentbeam)</description>
+		<rom name="Pogo Knight (2023-05-31)(lucentbeam).bin" size="222132" crc="7e89c444" md5="a1ea03b9735cd1f20251227dd07a823e" sha1="6aac9323d81d933456481ab53face6ffae405945"/>
+	</game>
+	<game name="Rocketman Orb Catcher (2023-07-25)(jpfli)">
+		<description>Rocketman Orb Catcher (2023-07-25)(jpfli)</description>
+		<rom name="Rocketman Orb Catcher (2023-07-25)(jpfli).bin" size="178532" crc="cbf8c6d0" md5="91ea9ac6aeee35d2624dec97c266c819" sha1="17f3dc496bbc1bdbb273c75abf7a8c7d7dbea027"/>
+	</game>
+</datafile>

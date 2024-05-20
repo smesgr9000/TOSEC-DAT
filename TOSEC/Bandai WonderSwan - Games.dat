@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Bandai WonderSwan - Games</name>
-		<description>Bandai WonderSwan - Games (TOSEC-v2022-06-08)</description>
+		<description>Bandai WonderSwan - Games (TOSEC-v2023-11-07)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
-		<author>Cassiel - etabeta - Newpain - mictlantecuhtle</author>
+		<version>2023-11-07</version>
+		<author>Cassiel - etabeta - Newpain - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -52,6 +52,10 @@
 		<description>Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A]</description>
 		<rom name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A].bin" size="2097152" crc="7f3a14c0" md5="bb9f130931b2b7d1f646f44d1667ad63" sha1="39e9a897b681b2c326b052827d7c534f22290286"/>
 	</game>
+	<game name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[h][SWJ-BAN01A]">
+		<description>Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[h][SWJ-BAN01A]</description>
+		<rom name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[h][SWJ-BAN01A].bin" size="2097152" crc="f19c61ec" md5="6e2a633e67303cab414a7fa7b5a5fb8e" sha1="908268f023196cc9e54995185798a9b1c6dde1d4"/>
+	</game>
 	<game name="Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B]">
 		<description>Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B]</description>
 		<rom name="Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B].bin" size="2097152" crc="27b3cc18" md5="f647a51827915109d1bc6a05c076eda4" sha1="e212bba4fac51bbfcf440966da0e67b1686dcfc5"/>
@@ -59,6 +63,10 @@
 	<game name="Chocobo no Fushigi na Dungeon for WonderSwan Rev 1 (1999)(Bandai)[SWJ-BAN002]">
 		<description>Chocobo no Fushigi na Dungeon for WonderSwan Rev 1 (1999)(Bandai)[SWJ-BAN002]</description>
 		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan Rev 1 (1999)(Bandai)[SWJ-BAN002].bin" size="2097152" crc="a607a350" md5="6d7d60c65e5a5cc92f83a62c434577b5" sha1="a8c4f423429a8683cfebd05370ea122613349033"/>
+	</game>
+	<game name="Chocobo no Fushigi na Dungeon for WonderSwan Rev 1 (1999)(Bandai)[tr en][SWJ-BAN002]">
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan Rev 1 (1999)(Bandai)[tr en][SWJ-BAN002]</description>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan Rev 1 (1999)(Bandai)[tr en][SWJ-BAN002].bin" size="2097152" crc="ac2e344c" md5="ee0334d932ad9763965a8888e2cccb27" sha1="bac3ef43033974b6e2d9652a824f5411be0af0e2"/>
 	</game>
 	<game name="Chocobo no Fushigi na Dungeon for WonderSwan Rev 2 (1999)(Bandai)[SWJ-BAN002]">
 		<description>Chocobo no Fushigi na Dungeon for WonderSwan Rev 2 (1999)(Bandai)[SWJ-BAN002]</description>
@@ -127,6 +135,10 @@
 	<game name="Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[SWJ-BAN032]">
 		<description>Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[SWJ-BAN032]</description>
 		<rom name="Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[SWJ-BAN032].bin" size="2097152" crc="56ce1bc5" md5="0ae28388d68fb56bee38cc96faf37f90" sha1="521754084afc6321ae329421b9d2ab0f0cac8c70"/>
+	</game>
+	<game name="Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[tr en][SWJ-BAN032]">
+		<description>Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[tr en][SWJ-BAN032]</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[tr en][SWJ-BAN032].bin" size="2097152" crc="f715d5dc" md5="609c484ae93c8fc1c346adfd171adc73" sha1="df71612f7fc4d27cd5103bb0ea3f9874a657b913"/>
 	</game>
 	<game name="Digimon Adventure 02 - Tag Tamers Rev 1 (2000)(Bandai)[SWJ-BAN032]">
 		<description>Digimon Adventure 02 - Tag Tamers Rev 1 (2000)(Bandai)[SWJ-BAN032]</description>
@@ -244,6 +256,10 @@
 		<description>Harobots (1999)(Sunrise)[SWJ-SRV001]</description>
 		<rom name="Harobots (1999)(Sunrise)[SWJ-SRV001].bin" size="2097152" crc="aa525c04" md5="0eb951b486fe25f37371835be81eed75" sha1="1f42c5694a798de8ff3c68f63dfc7395be1669a5"/>
 	</game>
+	<game name="Harobots (1999)(Sunrise)[h][SWJ-SRV001]">
+		<description>Harobots (1999)(Sunrise)[h][SWJ-SRV001]</description>
+		<rom name="Harobots (1999)(Sunrise)[h][SWJ-SRV001].bin" size="2097152" crc="c3b1bbef" md5="325facd00c986e3fc2596393ea3a183a" sha1="941ce287a43e745e4170cc8a09de9f78c172ad37"/>
+	</game>
 	<game name="Harobots Rev 1 (1999)(Sunrise)[SWJ-SRV001]">
 		<description>Harobots Rev 1 (1999)(Sunrise)[SWJ-SRV001]</description>
 		<rom name="Harobots Rev 1 (1999)(Sunrise)[SWJ-SRV001].bin" size="2097152" crc="f75ce82c" md5="b9020cfae65fe791bd52723cbff31707" sha1="ecbaf210f92c75a55df9dff4777ea364596ae0c9"/>
@@ -279,6 +295,10 @@
 	<game name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[t +6 Sekret][SWJ-BAN008]">
 		<description>Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[t +6 Sekret][SWJ-BAN008]</description>
 		<rom name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[t +6 Sekret][SWJ-BAN008].bin" size="1048576" crc="411da7a4" md5="d624be02ddb26fa457155a9ca4acea9a" sha1="7d6ed2b5d9e484a633dc78870c40092666b62b97"/>
+	</game>
+	<game name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[tr en][SWJ-BAN008]">
+		<description>Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[tr en][SWJ-BAN008]</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[tr en][SWJ-BAN008].bin" size="1048576" crc="d4e0cb07" md5="a33445feef853e11fb75f255e1460be5" sha1="0690e73285e0587e93b1f4c813b3484467d2eaca"/>
 	</game>
 	<game name="Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001]">
 		<description>Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001]</description>
@@ -476,6 +496,10 @@
 		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[SWJ-BAN013]</description>
 		<rom name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[SWJ-BAN013].bin" size="2097152" crc="cd206a9e" md5="523004d48e9d606e1557c2c57af6790b" sha1="9f8829aa8ea523e8370cbb2acd2acce056bb7958"/>
 	</game>
+	<game name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[tr en][SWJ-BAN013]">
+		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[tr en][SWJ-BAN013]</description>
+		<rom name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[tr en][SWJ-BAN013].bin" size="2097152" crc="e4cadcfe" md5="059431df38618a938aeb3e7d64c40028" sha1="6e9c7a0fc899edd0fa8e9ab0a64d5f02949770e1"/>
+	</game>
 	<game name="Sangokushi for WonderSwan (1999-04-01)(Koei)[SWJ-KEX002]">
 		<description>Sangokushi for WonderSwan (1999-04-01)(Koei)[SWJ-KEX002]</description>
 		<rom name="Sangokushi for WonderSwan (1999-04-01)(Koei)[SWJ-KEX002].bin" size="524288" crc="e385ee88" md5="9434714e17547ebf3a67baf63c8a6d04" sha1="d064b94f31b15564c9a3dbd3a68690244ea043ac"/>
@@ -576,6 +600,10 @@
 		<description>Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002]</description>
 		<rom name="Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002].bin" size="1048576" crc="8d83014f" md5="5558b39b21cc90b0b2f0a4358c043eec" sha1="54dd6e3fe81a8a384a0ffdd7a39211a5de9174c7"/>
 	</game>
+	<game name="Space Invaders (1999-05-13)(Sun Soft)[t][SWJ-SUN002]">
+		<description>Space Invaders (1999-05-13)(Sun Soft)[t][SWJ-SUN002]</description>
+		<rom name="Space Invaders (1999-05-13)(Sun Soft)[t][SWJ-SUN002].bin" size="1048576" crc="ea96a79c" md5="ddbbd69a88cc0dc694c558d72e891a35" sha1="50384a64dd4b3a1b546b08ec2f7fce9b1f1c7db7"/>
+	</game>
 	<game name="Super Robot Taisen Compact (1999)(Banpresto)[SWJ-BPR001]">
 		<description>Super Robot Taisen Compact (1999)(Banpresto)[SWJ-BPR001]</description>
 		<rom name="Super Robot Taisen Compact (1999)(Banpresto)[SWJ-BPR001].bin" size="2097152" crc="8a8c5aa8" md5="4f678ef6dd98bd4c0ebad56271528857" sha1="a957111681951eb6a971a6b4f75bca7f89b29628"/>
@@ -583,6 +611,10 @@
 	<game name="Super Robot Taisen Compact Rev 1 (1999)(Banpresto)[SWJ-BPR001]">
 		<description>Super Robot Taisen Compact Rev 1 (1999)(Banpresto)[SWJ-BPR001]</description>
 		<rom name="Super Robot Taisen Compact Rev 1 (1999)(Banpresto)[SWJ-BPR001].bin" size="2097152" crc="7572e478" md5="5c4c57fbc68c5248cace4cb325236a83" sha1="c4a21084bff1f2a63784fe7d11e046f305ad310a"/>
+	</game>
+	<game name="Super Robot Taisen Compact (1999)(Banpresto)[h][SWJ-BPR001]">
+		<description>Super Robot Taisen Compact (1999)(Banpresto)[h][SWJ-BPR001]</description>
+		<rom name="Super Robot Taisen Compact (1999)(Banpresto)[h][SWJ-BPR001].bin" size="2097152" crc="efe05ab1" md5="109be6b79d729b4bd177901c71afb66c" sha1="9741e127064dbc118e99780ca166d8f149720c54"/>
 	</game>
 	<game name="Super Robot Taisen Compact Rev 2 (1999)(Banpresto)[SWJ-BPR001]">
 		<description>Super Robot Taisen Compact Rev 2 (1999)(Banpresto)[SWJ-BPR001]</description>

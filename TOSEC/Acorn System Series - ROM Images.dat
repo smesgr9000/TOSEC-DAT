@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn System Series - ROM Images</name>
+		<description>Acorn System Series - ROM Images (TOSEC-v2023-08-29)</description>
+		<category>TOSEC</category>
+		<version>2023-08-29</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ADE (198x)(Acorn)(GB)[GO C000]">
+		<description>ADE (198x)(Acorn)(GB)[GO C000]</description>
+		<rom name="ADE (198x)(Acorn)(GB)[GO C000].rom" size="4096" crc="14c21b46" md5="4dd2a88b58bee25572cfc8d10235667b" sha1="6745f62ee27611222ba96b9115666b1f4c49ae67"/>
+	</game>
+	<game name="Econet v2.40 (1981)(Acorn)(GB)[GO E000]">
+		<description>Econet v2.40 (1981)(Acorn)(GB)[GO E000]</description>
+		<rom name="Econet v2.40 (1981)(Acorn)(GB)[GO E000].rom" size="4096" crc="cab18b7d" md5="a75661d0e371f45eab43ec47cee682df" sha1="173ef3525300b11596399358973d7573a3be71e3"/>
+	</game>
+	<game name="Econet v3.40 (198x)(Acorn)(GB)[GO E000]">
+		<description>Econet v3.40 (198x)(Acorn)(GB)[GO E000]</description>
+		<rom name="Econet v3.40 (198x)(Acorn)(GB)[GO E000].rom" size="4096" crc="e38eade1" md5="211c32f2cb2f4d130e634ede66f53d9d" sha1="ba11b8d3e112d622b4e9db598360c6be8bfe66cd"/>
+	</game>
+	<game name="Econet v3.50 (198x)(Acorn)(GB)[GO E000]">
+		<description>Econet v3.50 (198x)(Acorn)(GB)[GO E000]</description>
+		<rom name="Econet v3.50 (198x)(Acorn)(GB)[GO E000].rom" size="4096" crc="b109d797" md5="27b14cb0a5d8daf17cb5a1bfced1cf0a" sha1="5975a85d4e4ff2350c04012e8f4629520ec38ace"/>
+	</game>
+	<game name="System 3 Econet v1.48 (198x)(Acorn)(GB)[GO A000]">
+		<description>System 3 Econet v1.48 (198x)(Acorn)(GB)[GO A000]</description>
+		<rom name="System 3 Econet v1.48 (198x)(Acorn)(GB)[GO A000].rom" size="4096" crc="5aed8523" md5="81b044fa14714797e7a9863772ff3ee0" sha1="6cb71bf25cf936a04a8e5ac58e08293f2081fae5"/>
+	</game>
+</datafile>

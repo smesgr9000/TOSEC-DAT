@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple III - Applications - [DSK]</name>
-		<description>Apple III - Applications - [DSK] (TOSEC-v2020-07-12)</description>
+		<description>Apple III - Applications - [DSK] (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2020-07-12</version>
+		<version>2023-08-29</version>
 		<author>TKaos - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,29 +16,137 @@
 		<description>512K Memory Test v2.1 (198x)(-)</description>
 		<rom name="512K Memory Test v2.1 (198x)(-).dsk" size="143360" crc="40a69a50" md5="55fbf82422f34485bafc8ecc9b036c67" sha1="e8174fd28598ba1776d03a6e358ca50b58f61865"/>
 	</game>
-	<game name="Apple Business BASIC v1.1 (1981)(Apple Computer)">
-		<description>Apple Business BASIC v1.1 (1981)(Apple Computer)</description>
-		<rom name="Apple Business BASIC v1.1 (1981)(Apple Computer).dsk" size="143360" crc="e826032e" md5="6960e8c0b17333083d1d835b3dc1627c" sha1="3a88a3bf8bb1e6948010203ea7e64ce557031184"/>
+	<game name="Apple Business BASIC v1.1 (1981)(Apple)">
+		<description>Apple Business BASIC v1.1 (1981)(Apple)</description>
+		<rom name="Apple Business BASIC v1.1 (1981)(Apple).dsk" size="143360" crc="e826032e" md5="6960e8c0b17333083d1d835b3dc1627c" sha1="3a88a3bf8bb1e6948010203ea7e64ce557031184"/>
 	</game>
-	<game name="Apple III Confidence Program v1.1 (1981)(Apple Computer)">
-		<description>Apple III Confidence Program v1.1 (1981)(Apple Computer)</description>
-		<rom name="Apple III Confidence Program v1.1 (1981)(Apple Computer).dsk" size="143360" crc="cbf10a5a" md5="990aad6ffc6d6f290164d78371c6ad97" sha1="8be26f2ec7f0b8425dc4f0c44a48dcda105f8c9a"/>
+	<game name="Apple III Business BASIC v1.1 (1981)(Apple)[a]">
+		<description>Apple III Business BASIC v1.1 (1981)(Apple)[a]</description>
+		<rom name="Apple III Business BASIC v1.1 (1981)(Apple)[a].dsk" size="143360" crc="fde763ff" md5="81f0f7d5213e20a007778f0359669709" sha1="d142ed3033cdd7ccf09c3ed3e9e85a4c9c274747"/>
 	</game>
-	<game name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 1 of 3)">
-		<description>Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 1 of 3)</description>
-		<rom name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 1 of 3).dsk" size="143360" crc="82a2a887" md5="6ceb471da35b1b3077cf3f5357806435" sha1="1d7f3bba9646c010462b18246649a029aad9b425"/>
+	<game name="Apple III Business BASIC v1.23 (1981)(Apple)">
+		<description>Apple III Business BASIC v1.23 (1981)(Apple)</description>
+		<rom name="Apple III Business BASIC v1.23 (1981)(Apple).dsk" size="143360" crc="dbcdf07d" md5="b63446ed0d67133853bec87686c2653c" sha1="5d6933ea8f6d14e1d029f5cf071df4301d8b40a0"/>
 	</game>
-	<game name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 2 of 3)">
-		<description>Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 2 of 3)</description>
-		<rom name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 2 of 3).dsk" size="143360" crc="cda241a2" md5="3a1d731ed420ef20b53c4d6b2c87f990" sha1="df08271d6a5086c92172db9cd1bcffd4c6690edd"/>
+	<game name="Apple III COBOL v1.0 (1982)(Apple)(Animator)">
+		<description>Apple III COBOL v1.0 (1982)(Apple)(Animator)</description>
+		<rom name="Apple III COBOL v1.0 (1982)(Apple)(Animator).dsk" size="143360" crc="330ad9bc" md5="ed5dc8ecf254d1f5cd10105385293133" sha1="a92c82b6cdcf562ddc8138b06dcc993d64de64df"/>
 	</game>
-	<game name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 3 of 3)">
-		<description>Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 3 of 3)</description>
-		<rom name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 3 of 3).dsk" size="143360" crc="2f9e2245" md5="87ef5376f2d81c0bc64533c05da4fadf" sha1="8714321f70cb2c34b32f475b80d175f9c6bdd5da"/>
+	<game name="Apple III COBOL v1.0 (1982)(Apple)(Boot)">
+		<description>Apple III COBOL v1.0 (1982)(Apple)(Boot)</description>
+		<rom name="Apple III COBOL v1.0 (1982)(Apple)(Boot).dsk" size="143360" crc="cc1deac3" md5="1a1295ec24bfc17379b3246d73cd878f" sha1="a454780123f014a0c3669456498ff9f6ec389225"/>
 	</game>
-	<game name="Apple III Software Revision Utility vA01 (1983-02-01)(Apple Computer)">
-		<description>Apple III Software Revision Utility vA01 (1983-02-01)(Apple Computer)</description>
-		<rom name="Apple III Software Revision Utility vA01 (1983-02-01)(Apple Computer).dsk" size="143360" crc="aaafe293" md5="3581ec07e75eb38d336c9d7386310542" sha1="31e617dcc0a6d6797dd955cbf65fce7fa2ef28db"/>
+	<game name="Apple III COBOL v1.0 (1982)(Apple)(Compiler)">
+		<description>Apple III COBOL v1.0 (1982)(Apple)(Compiler)</description>
+		<rom name="Apple III COBOL v1.0 (1982)(Apple)(Compiler).dsk" size="143360" crc="e5103a62" md5="d19c1ef9f186042041ea150ea097b967" sha1="24ecea9651fe122ccdb346cc885157043b7a8d9f"/>
+	</game>
+	<game name="Apple III COBOL v1.0 (1982)(Apple)(Demo)">
+		<description>Apple III COBOL v1.0 (1982)(Apple)(Demo)</description>
+		<rom name="Apple III COBOL v1.0 (1982)(Apple)(Demo).dsk" size="143360" crc="9e843c79" md5="a406ef94ccd8ba103f36455926831041" sha1="26056f84df89bb6ce129ac8ebf59bb23ca3c10ba"/>
+	</game>
+	<game name="Apple III COBOL v1.0 (1982)(Apple)(Forms)">
+		<description>Apple III COBOL v1.0 (1982)(Apple)(Forms)</description>
+		<rom name="Apple III COBOL v1.0 (1982)(Apple)(Forms).dsk" size="143360" crc="e666f682" md5="10b41b37adf5b87de020964ab12265df" sha1="7800f9a597395155ea717b6dc3620d0b060f1f28"/>
+	</game>
+	<game name="Apple III Confidence Program v1.1 (1981)(Apple)">
+		<description>Apple III Confidence Program v1.1 (1981)(Apple)</description>
+		<rom name="Apple III Confidence Program v1.1 (1981)(Apple).dsk" size="143360" crc="cbf10a5a" md5="990aad6ffc6d6f290164d78371c6ad97" sha1="8be26f2ec7f0b8425dc4f0c44a48dcda105f8c9a"/>
+	</game>
+	<game name="Apple III Dealer Diagnostics (1981)(Apple)">
+		<description>Apple III Dealer Diagnostics (1981)(Apple)</description>
+		<rom name="Apple III Dealer Diagnostics (1981)(Apple).dsk" size="143360" crc="f1977d7e" md5="046972f5958186e73b573dde9f03baa9" sha1="e6d935cf749b3724de53a79aa85846a89b7315bd"/>
+	</game>
+	<game name="Apple III Dealer Diagnostics v2 (1981)(Apple)">
+		<description>Apple III Dealer Diagnostics v2 (1981)(Apple)</description>
+		<rom name="Apple III Dealer Diagnostics v2 (1981)(Apple).dsk" size="143360" crc="7720ebc9" md5="0ddcf83380163a1a7134cb7d75f44d37" sha1="5b952570914d64094acf13fdddb7aaa4f9ac028b"/>
+	</game>
+	<game name="Apple III Pascal v1.0 (1981)(Apple)(Disk 1 of 3)[b corrupt filer]">
+		<description>Apple III Pascal v1.0 (1981)(Apple)(Disk 1 of 3)[b corrupt filer]</description>
+		<rom name="Apple III Pascal v1.0 (1981)(Apple)(Disk 1 of 3)[b corrupt filer].dsk" size="143360" crc="0c48891d" md5="10ffe3a13db8bceaa813f5ccbde2b527" sha1="ff2c0dc39967b1ddd5dd1dd769dd11d8d916d0e8"/>
+	</game>
+	<game name="Apple III Pascal v1.0 (1981)(Apple)(Disk 2 of 3)">
+		<description>Apple III Pascal v1.0 (1981)(Apple)(Disk 2 of 3)</description>
+		<rom name="Apple III Pascal v1.0 (1981)(Apple)(Disk 2 of 3).dsk" size="143360" crc="21078d63" md5="caf3a930171d2ff22abe6c01cd5a26fd" sha1="31796584aec644164e7a38c409e5386bda9d4573"/>
+	</game>
+	<game name="Apple III Pascal v1.0 (1981)(Apple)(Disk 3 of 3)">
+		<description>Apple III Pascal v1.0 (1981)(Apple)(Disk 3 of 3)</description>
+		<rom name="Apple III Pascal v1.0 (1981)(Apple)(Disk 3 of 3).dsk" size="143360" crc="cdeacadf" md5="ac28b7c435c073076c6a1d09ce04c766" sha1="b5718073de0b3e17f34cda9c4a745341b316737b"/>
+	</game>
+	<game name="Apple III Pascal v1.1 (1983-04)(Apple)(Disk 1 of 3)">
+		<description>Apple III Pascal v1.1 (1983-04)(Apple)(Disk 1 of 3)</description>
+		<rom name="Apple III Pascal v1.1 (1983-04)(Apple)(Disk 1 of 3).dsk" size="143360" crc="82a2a887" md5="6ceb471da35b1b3077cf3f5357806435" sha1="1d7f3bba9646c010462b18246649a029aad9b425"/>
+	</game>
+	<game name="Apple III Pascal v1.1 (1983-04)(Apple)(Disk 2 of 3)">
+		<description>Apple III Pascal v1.1 (1983-04)(Apple)(Disk 2 of 3)</description>
+		<rom name="Apple III Pascal v1.1 (1983-04)(Apple)(Disk 2 of 3).dsk" size="143360" crc="cda241a2" md5="3a1d731ed420ef20b53c4d6b2c87f990" sha1="df08271d6a5086c92172db9cd1bcffd4c6690edd"/>
+	</game>
+	<game name="Apple III Pascal v1.1 (1983-04)(Apple)(Disk 3 of 3)">
+		<description>Apple III Pascal v1.1 (1983-04)(Apple)(Disk 3 of 3)</description>
+		<rom name="Apple III Pascal v1.1 (1983-04)(Apple)(Disk 3 of 3).dsk" size="143360" crc="2f9e2245" md5="87ef5376f2d81c0bc64533c05da4fadf" sha1="8714321f70cb2c34b32f475b80d175f9c6bdd5da"/>
+	</game>
+	<game name="Apple III Pascal v1.2 Update (1984)(Apple)(Disk 1 of 2)">
+		<description>Apple III Pascal v1.2 Update (1984)(Apple)(Disk 1 of 2)</description>
+		<rom name="Apple III Pascal v1.2 Update (1984)(Apple)(Disk 1 of 2).dsk" size="143360" crc="f1cc8dc2" md5="ef97212856fccb340528b3204304b4da" sha1="3abdc0de4329bf8c9e1772619931166f96952ac4"/>
+	</game>
+	<game name="Apple III Pascal v1.2 Update (1984)(Apple)(Disk 2 of 2)">
+		<description>Apple III Pascal v1.2 Update (1984)(Apple)(Disk 2 of 2)</description>
+		<rom name="Apple III Pascal v1.2 Update (1984)(Apple)(Disk 2 of 2).dsk" size="143360" crc="076dabf8" md5="4ebbd0e40f5b703a1a14a79b099e43d8" sha1="c809392f957c508ad4b7a4648dda89e4c246aaae"/>
+	</game>
+	<game name="Apple III Plus Dealer Diagnostic (198x)(Apple)">
+		<description>Apple III Plus Dealer Diagnostic (198x)(Apple)</description>
+		<rom name="Apple III Plus Dealer Diagnostic (198x)(Apple).dsk" size="143360" crc="23ecd846" md5="3cdfbb2eca0de1fa2db6260664a65776" sha1="8b9e8ac471256dc4a5966c9f69ac75bee4e59e65"/>
+	</game>
+	<game name="Apple III Software Revision Utility vA00 (1982-02-01)(Apple)">
+		<description>Apple III Software Revision Utility vA00 (1982-02-01)(Apple)</description>
+		<rom name="Apple III Software Revision Utility vA00 (1982-02-01)(Apple).dsk" size="143360" crc="c5af4b86" md5="a66994fed3e22d2ebbfcd4adc4a7eb4c" sha1="3cc07542917987eb628d6efdf4872381069faded"/>
+	</game>
+	<game name="Apple III Software Revision Utility vA01 (1983-02-01)(Apple)">
+		<description>Apple III Software Revision Utility vA01 (1983-02-01)(Apple)</description>
+		<rom name="Apple III Software Revision Utility vA01 (1983-02-01)(Apple).dsk" size="143360" crc="aaafe293" md5="3581ec07e75eb38d336c9d7386310542" sha1="31e617dcc0a6d6797dd955cbf65fce7fa2ef28db"/>
+	</game>
+	<game name="Apple III System Demonstrations v1.1 (1981-02)(Apple)">
+		<description>Apple III System Demonstrations v1.1 (1981-02)(Apple)</description>
+		<rom name="Apple III System Demonstrations v1.1 (1981-02)(Apple).dsk" size="143360" crc="5c220cfa" md5="386db054b29ec666af8c04033fe4cfd8" sha1="4198e768ea0be357675107a8a9e0fb9657e25568"/>
+	</game>
+	<game name="Apple III System Utilities v1.1 (1981)(Apple)(Disk 1 of 2)">
+		<description>Apple III System Utilities v1.1 (1981)(Apple)(Disk 1 of 2)</description>
+		<rom name="Apple III System Utilities v1.1 (1981)(Apple)(Disk 1 of 2).dsk" size="143360" crc="754dab94" md5="8c5275dc930b99ed69ad825f0790bdf1" sha1="b517db1c50491b893d274b718c63f66dba98fcd5"/>
+	</game>
+	<game name="Apple III System Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data)">
+		<description>Apple III System Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data)</description>
+		<rom name="Apple III System Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data).dsk" size="143360" crc="9f3e8ad2" md5="a0daf17e8f136a9f3872fb4ac2f61280" sha1="a5d5b29f5e1c3019bd79732edf708df381fee653"/>
+	</game>
+	<game name="Apple III System Utilities v1.3 (1983)(Apple)">
+		<description>Apple III System Utilities v1.3 (1983)(Apple)</description>
+		<rom name="Apple III System Utilities v1.3 (1983)(Apple).dsk" size="143360" crc="e5f25bd1" md5="5144eda293952931277b0e92c64cfd9e" sha1="450d2cb602692fae61202914f512769f91454539"/>
+	</game>
+	<game name="Apple III Utilitaire de Revision du SOS vA01 (1983-02-01)(Apple)(FR)">
+		<description>Apple III Utilitaire de Revision du SOS vA01 (1983-02-01)(Apple)(FR)</description>
+		<rom name="Apple III Utilitaire de Revision du SOS vA01 (1983-02-01)(Apple)(FR).dsk" size="143360" crc="23e1b06e" md5="76f6abb6a3d0a10d5b8928b715128c2e" sha1="10460800eccb2cfb56d7178a918d3da6aed80ba8"/>
+	</game>
+	<game name="Backup III (1982)(Apple)">
+		<description>Backup III (1982)(Apple)</description>
+		<rom name="Backup III (1982)(Apple).dsk" size="143360" crc="93435bc0" md5="867c2588ff0837d1e1b76c1492993731" sha1="0a9deecbf1d76ffd2d389f55bff158ad580dd2e8"/>
+	</game>
+	<game name="CF-IDE Drive Management Utility v1.01 (20xx)(-)">
+		<description>CF-IDE Drive Management Utility v1.01 (20xx)(-)</description>
+		<rom name="CF-IDE Drive Management Utility v1.01 (20xx)(-).dsk" size="143360" crc="edc74921" md5="4b31a281bcbd3efa92a2dc1843e62a29" sha1="c5bee7ab7208de347ddc62db6dc1ad5d3dd61969"/>
+	</game>
+	<game name="CF-IDE Drive Management Utility v1.40a (20xx)(-)">
+		<description>CF-IDE Drive Management Utility v1.40a (20xx)(-)</description>
+		<rom name="CF-IDE Drive Management Utility v1.40a (20xx)(-).dsk" size="143360" crc="94f2a748" md5="140bacec0d706e356456bd8bcc63b9b9" sha1="6fe5ac6d3ec3f7768e75fc4ebf1f072626007777"/>
+	</game>
+	<game name="Draw On III (1985)(On Three)(US)(Disk 1 of 2)">
+		<description>Draw On III (1985)(On Three)(US)(Disk 1 of 2)</description>
+		<rom name="Draw On III (1985)(On Three)(US)(Disk 1 of 2).dsk" size="143360" crc="2e46742d" md5="cfcf15cdec53aff7e46b3643e99b7a91" sha1="d98a18c796add6cbb5eb331cb13e7fa644c6cd0f"/>
+	</game>
+	<game name="Draw On III v2.1 (1985)(On Three)(US)(Disk 1 of 2)">
+		<description>Draw On III v2.1 (1985)(On Three)(US)(Disk 1 of 2)</description>
+		<rom name="Draw On III v2.1 (1985)(On Three)(US)(Disk 1 of 2).dsk" size="143360" crc="4737a783" md5="3c1c43804f6fef3805340c6a0cfdd9c6" sha1="a3bbeb70424f8c48c003a13079e997413a43ac49"/>
+	</game>
+	<game name="Draw On III v2.1 (1985)(On Three)(US)(Disk 2 of 2)">
+		<description>Draw On III v2.1 (1985)(On Three)(US)(Disk 2 of 2)</description>
+		<rom name="Draw On III v2.1 (1985)(On Three)(US)(Disk 2 of 2).dsk" size="143360" crc="11114994" md5="fdcc73a76bf3cc922add1e44acf8afa3" sha1="2e08fbd4685101e25f0fda4ea014c1e17fee542e"/>
 	</game>
 	<game name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 1 of 2)">
 		<description>Easy Pieces v1.0 (1984)(Haba Systems)(Disk 1 of 2)</description>
@@ -47,6 +155,38 @@
 	<game name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 2 of 2)">
 		<description>Easy Pieces v1.0 (1984)(Haba Systems)(Disk 2 of 2)</description>
 		<rom name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 2 of 2).dsk" size="143360" crc="1ff5c4be" md5="4620088391a7d87fe0c8f93944deb899" sha1="0f3188ec2a447cf4154a76ab7a749719987b23f9"/>
+	</game>
+	<game name="ExerSOS v1.0 (1982)(Apple Computer)">
+		<description>ExerSOS v1.0 (1982)(Apple Computer)</description>
+		<rom name="ExerSOS v1.0 (1982)(Apple Computer).dsk" size="143360" crc="d338f850" md5="58a3a50574fb3c7a8b2ed7b4fe2ccdf2" sha1="8c3764521f271833b1b6d2f29b8340527ac4b89c"/>
+	</game>
+	<game name="Fixer.0001 (1984)(Pira-Soft)">
+		<description>Fixer.0001 (1984)(Pira-Soft)</description>
+		<rom name="Fixer.0001 (1984)(Pira-Soft).dsk" size="143360" crc="c03da6ab" md5="e1a972377baace8f699f52c148d1b18d" sha1="0e578dbc778f66d6715d87f16ce0b6a24dc0e939"/>
+	</game>
+	<game name="Gameport III Modification Diskette v1.1 (19xx)(-)">
+		<description>Gameport III Modification Diskette v1.1 (19xx)(-)</description>
+		<rom name="Gameport III Modification Diskette v1.1 (19xx)(-).dsk" size="143360" crc="09a38118" md5="21704e06dbe0ec6897af9d1fde41e922" sha1="9d6f2c5e72870972404ca65b08c9b80e2c5b2b1d"/>
+	</game>
+	<game name="Lazarus III v2.0 (1983)(On Three)(US)(Side 1)">
+		<description>Lazarus III v2.0 (1983)(On Three)(US)(Side 1)</description>
+		<rom name="Lazarus III v2.0 (1983)(On Three)(US)(Side 1).dsk" size="143360" crc="c4870912" md5="cdd69fcde06bc1e92f77f25baba79ab1" sha1="8835cd011ddaac1c17080439e47d003f1382d47b"/>
+	</game>
+	<game name="Lazarus III v2.0 (1983)(On Three)(US)(Side 2)">
+		<description>Lazarus III v2.0 (1983)(On Three)(US)(Side 2)</description>
+		<rom name="Lazarus III v2.0 (1983)(On Three)(US)(Side 2).dsk" size="143360" crc="ac3dc16d" md5="7edc00a91c624d3f3ac0783573db45c1" sha1="3a8f179843ad99150a76851c5c5a513503ca5b43"/>
+	</game>
+	<game name="QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)">
+		<description>QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)</description>
+		<rom name="QuickFile (1982)(Apple)(Disk 1 of 3)(Boot).dsk" size="143360" crc="b37d45f1" md5="595181bdf0ddb6f7ff98702b175e82f8" sha1="c8e0373531ec1a77ae358055561466706c89e0da"/>
+	</game>
+	<game name="QuickFile (1982)(Apple)(Disk 2 of 3)(Program)">
+		<description>QuickFile (1982)(Apple)(Disk 2 of 3)(Program)</description>
+		<rom name="QuickFile (1982)(Apple)(Disk 2 of 3)(Program).dsk" size="143360" crc="8a25ba9a" md5="4409c03f8bdf60066f68e2e11cb5e61b" sha1="fee6d7d985d29efb112ba3492b862fccb0586971"/>
+	</game>
+	<game name="QuickFile (1982)(Apple)(Disk 3 of 3)(Data)">
+		<description>QuickFile (1982)(Apple)(Disk 3 of 3)(Data)</description>
+		<rom name="QuickFile (1982)(Apple)(Disk 3 of 3)(Data).dsk" size="143360" crc="5f7a2442" md5="9772c0ffa4c90e507b32f45559bf5a10" sha1="0f1a491eb895001700f4e69059cd3a52a914d9a0"/>
 	</game>
 	<game name="Titan III Plus IIe Startup Disk (1985)(Titan Technologies)">
 		<description>Titan III Plus IIe Startup Disk (1985)(Titan Technologies)</description>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Diskmags - Scene - [Z64]</name>
-		<description>Commodore C64 - Diskmags - Scene - [Z64] (TOSEC-v2023-06-14)</description>
+		<description>Commodore C64 - Diskmags - Scene - [Z64] (TOSEC-v2024-04-01)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-04-01</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1270,6 +1270,13 @@
 		<rom name="2!Corruption #12 (1992)(Dominators).z64" size="33729" crc="8f796731" md5="696c307089dcef13f29df7a337075638" sha1="938708f31ceecb45d73aa4caa4c6bc58148eae34"/>
 		<rom name="3!Corruption #12 (1992)(Dominators).z64" size="25754" crc="bd38c388" md5="07641363100979d7eecccac2ca2f6e46" sha1="f21d48c839158d45ed82dc2b6287d5da9956dfb4"/>
 		<rom name="4!Corruption #12 (1992)(Dominators).z64" size="25571" crc="247bd90a" md5="fed19a661a039da7bb33d217f943a0ef" sha1="50ca54d25e8f0281a9ce356c215d035d5c4c7b87"/>
+	</game>
+	<game name="Corruption #12 (1992)(Dominators)[a]">
+		<description>Corruption #12 (1992)(Dominators)[a]</description>
+		<rom name="1!Corruption #12 (1992)(Dominators)[a].z64" size="35924" crc="fb790346" md5="7f870034dab858078f079a6d3f58a688" sha1="426f6db48c2048de650aa9c5f28862af3e8eb99d"/>
+		<rom name="2!Corruption #12 (1992)(Dominators)[a].z64" size="28214" crc="503794b6" md5="9e7c42b6efb61009805af8bde321dd84" sha1="a9f52aa1c6c9bf9200b0fa325a600caed65affc7"/>
+		<rom name="3!Corruption #12 (1992)(Dominators)[a].z64" size="25739" crc="956e8076" md5="758936c601354194bf77f15d91125113" sha1="cd8681d8253f24c196ae8809bfdf58db9eec9d7a"/>
+		<rom name="4!Corruption #12 (1992)(Dominators)[a].z64" size="36515" crc="c55ac3e2" md5="97c73a33040af19aa1dbf54c90998651" sha1="1afde34a98c6396a5a20c871deb9d64a9abc9121"/>
 	</game>
 	<game name="Coupe #1 (19xx)(X-Ray)">
 		<description>Coupe #1 (19xx)(X-Ray)</description>
@@ -2617,24 +2624,17 @@
 	</game>
 	<game name="Expose #5 (1992-10-27)(Style)">
 		<description>Expose #5 (1992-10-27)(Style)</description>
-		<rom name="1!Expose #5 (1992-10-27)(Style).z64" size="43392" crc="aac9b10a" md5="ec62e3970fccf991452820255b098d33" sha1="768188606e653f6709453f41c49b08d55ede9c88"/>
+		<rom name="1!Expose #5 (1992-10-27)(Style).z64" size="43344" crc="ea9af431" md5="47b064e36f250375e2a9aa0a3911ecb8" sha1="c7b43c68277461f5fbe5f0af2d13ddda5139901c"/>
 		<rom name="2!Expose #5 (1992-10-27)(Style).z64" size="43392" crc="de1f077a" md5="e4d43794767c52b3d744162ad8323d4a" sha1="c74827040adc6c55a4501fd2a1dd27e4bbe8b953"/>
-		<rom name="3!Expose #5 (1992-10-27)(Style).z64" size="40576" crc="6a0fcdec" md5="9328d697dd82f57ca4767b347171351a" sha1="d6091c8906288ed24a55f6ef3133b7ca9fe7efb5"/>
-		<rom name="4!Expose #5 (1992-10-27)(Style).z64" size="44288" crc="c6459452" md5="0bcccffd3013ed8d6836098b1e1d4dad" sha1="abcfee5dde67be1442b19bf8f14836f6980524b0"/>
+		<rom name="3!Expose #5 (1992-10-27)(Style).z64" size="10414" crc="bc0a1af8" md5="99d82b0bccf44eede14331434e5ddc52" sha1="f4f25845cb9e27b01dbc1dcc06b6f28f064f5963"/>
+		<rom name="4!Expose #5 (1992-10-27)(Style).z64" size="43904" crc="7ded8b31" md5="3bd5cbc8728a1f8eb32ddd0deb808136" sha1="87682da462df708a182e9ca374d673976679d32c"/>
 	</game>
 	<game name="Expose #5 (1992-10-27)(Style)[a]">
 		<description>Expose #5 (1992-10-27)(Style)[a]</description>
-		<rom name="1!Expose #5 (1992-10-27)(Style)[a].z64" size="43520" crc="8ddd5be1" md5="d4bae4ddc326119639a1241d414a3f1a" sha1="23f1021391e45fe054d0de987feea47be3992bfd"/>
+		<rom name="1!Expose #5 (1992-10-27)(Style)[a].z64" size="43344" crc="ea9af431" md5="47b064e36f250375e2a9aa0a3911ecb8" sha1="c7b43c68277461f5fbe5f0af2d13ddda5139901c"/>
 		<rom name="2!Expose #5 (1992-10-27)(Style)[a].z64" size="43520" crc="cf6b32ea" md5="116c0c14bfd09143ee231e7273b542f7" sha1="f3e32d3c6948ad8bfbda15a1cb665d0e8c04c9a9"/>
-		<rom name="3!Expose #5 (1992-10-27)(Style)[a].z64" size="40704" crc="841a4285" md5="8838d50149f5a9311b7342d626cf6825" sha1="1c6547b59bb7a7dcef6cf251c2a9b03697175818"/>
-		<rom name="4!Expose #5 (1992-10-27)(Style)[a].z64" size="44416" crc="26b21ea1" md5="3234433889b34b1d7c61be32e5069c56" sha1="3b999e84dcd94009041ed15399967501aebc1669"/>
-	</game>
-	<game name="Expose #5 (1992-10-27)(Style)[a2]">
-		<description>Expose #5 (1992-10-27)(Style)[a2]</description>
-		<rom name="1!Expose #5 (1992-10-27)(Style)[a2].z64" size="43392" crc="44a2a51d" md5="42cb48afe01f50f341b99ebbb5af5043" sha1="eb7aa104caa7ba5297cf6210843142147929ebe5"/>
-		<rom name="2!Expose #5 (1992-10-27)(Style)[a2].z64" size="43392" crc="de1f077a" md5="e4d43794767c52b3d744162ad8323d4a" sha1="c74827040adc6c55a4501fd2a1dd27e4bbe8b953"/>
-		<rom name="3!Expose #5 (1992-10-27)(Style)[a2].z64" size="10414" crc="bc0a1af8" md5="99d82b0bccf44eede14331434e5ddc52" sha1="f4f25845cb9e27b01dbc1dcc06b6f28f064f5963"/>
-		<rom name="4!Expose #5 (1992-10-27)(Style)[a2].z64" size="43904" crc="7ded8b31" md5="3bd5cbc8728a1f8eb32ddd0deb808136" sha1="87682da462df708a182e9ca374d673976679d32c"/>
+		<rom name="3!Expose #5 (1992-10-27)(Style)[a].z64" size="40576" crc="6a0fcdec" md5="9328d697dd82f57ca4767b347171351a" sha1="d6091c8906288ed24a55f6ef3133b7ca9fe7efb5"/>
+		<rom name="4!Expose #5 (1992-10-27)(Style)[a].z64" size="44288" crc="c6459452" md5="0bcccffd3013ed8d6836098b1e1d4dad" sha1="abcfee5dde67be1442b19bf8f14836f6980524b0"/>
 	</game>
 	<game name="Extacy Land #3 (1993)(Extacy)">
 		<description>Extacy Land #3 (1993)(Extacy)</description>
@@ -2865,6 +2865,13 @@
 		<rom name="c!Inner Circle #3 (1997-02-14)(Dark Crystal).z64" size="31152" crc="04f24f04" md5="f212f493c01d2ddd4753a223f2b3db67" sha1="94a51db0d610255462b1ec15d644c47373a2448d"/>
 		<rom name="d!Inner Circle #3 (1997-02-14)(Dark Crystal).z64" size="14854" crc="bc100497" md5="859c3b6f82d983f686e24c5d7781d408" sha1="84f9535372a30a53d9a8e5844b3c187087ac8809"/>
 		<rom name="x!Inner Circle #3 (1997-02-14)(Dark Crystal).z64" size="702" crc="1838ab20" md5="32dcc214870f842a7e6fd1543b47f11d" sha1="c000fc5c8b06ab8939981898667b9e3753e1f3aa"/>
+	</game>
+	<game name="Inside Connection, The #03 (1992)(Myriad)">
+		<description>Inside Connection, The #03 (1992)(Myriad)</description>
+		<rom name="1!Inside Connection, The #03 (1992)(Myriad).z64" size="1516" crc="6c9ccaa4" md5="0ada6d37c894e5fff2162751e13c43f3" sha1="d0fdffd4559e6a46a3765916fb3541d2ae4ab592"/>
+		<rom name="2!Inside Connection, The #03 (1992)(Myriad).z64" size="3008" crc="56583930" md5="34ea0ad7aaef787995b333f45a5ad59a" sha1="05f989560cd89df33410c06c54878ce67fff1b65"/>
+		<rom name="3!Inside Connection, The #03 (1992)(Myriad).z64" size="11355" crc="f52bf753" md5="7a4321b8448792a57451de241e13083b" sha1="9af6d5ce6990cf48420db32c9c3d957565614262"/>
+		<rom name="4!Inside Connection, The #03 (1992)(Myriad).z64" size="1664" crc="bbfb132e" md5="055cd8b601ed5a23b03b0e31e54c2318" sha1="bea2dd9bc91f0aa1b7327afcac36b85cbfda85ef"/>
 	</game>
 	<game name="Insider #4 (1995-01-13)(Reflex)(Side A)">
 		<description>Insider #4 (1995-01-13)(Reflex)(Side A)</description>

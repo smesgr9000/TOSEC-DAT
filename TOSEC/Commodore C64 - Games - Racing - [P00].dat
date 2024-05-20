@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [P00]</name>
-		<description>Commodore C64 - Games - Racing - [P00] (TOSEC-v2023-05-30)</description>
+		<description>Commodore C64 - Games - Racing - [P00] (TOSEC-v2024-03-15)</description>
 		<category>TOSEC</category>
-		<version>2023-05-30</version>
+		<version>2024-03-15</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -112,13 +112,13 @@
 		<description>Auto Racer (19xx)(-)(it)</description>
 		<rom name="Auto Racer (19xx)(-)(it).p00" size="19075" crc="c5fccdbb" md5="6b5d5e20d2c367663fe8aab958340b0d" sha1="c28a34487d4f7a168e93489fc1a778ce171793d7"/>
 	</game>
-	<game name="Autotest Simulator (1991)(Byte-Back)[cr DOM][t +3 DOM]">
-		<description>Autotest Simulator (1991)(Byte-Back)[cr DOM][t +3 DOM]</description>
-		<rom name="Autotest Simulator (1991)(Byte-Back)[cr DOM][t +3 DOM].p00" size="34275" crc="54f30a30" md5="ebc88710c9b7b5e76f8e60fc8c4dc29f" sha1="4825bf331542e9576f951ca5f1d6297fd75fb8b0"/>
+	<game name="Autotest (1991)(Byte-Back)[cr DOM][t +3 DOM]">
+		<description>Autotest (1991)(Byte-Back)[cr DOM][t +3 DOM]</description>
+		<rom name="Autotest (1991)(Byte-Back)[cr DOM][t +3 DOM].p00" size="34275" crc="e23114b1" md5="610ab05c933a776f0bd73f22033435e4" sha1="c31222168b642924cc695672a12d468886637531"/>
 	</game>
-	<game name="Autotest Simulator (1991)(Byte-Back)[cr DOM][t +3 DOM][a]">
-		<description>Autotest Simulator (1991)(Byte-Back)[cr DOM][t +3 DOM][a]</description>
-		<rom name="Autotest Simulator (1991)(Byte-Back)[cr DOM][t +3 DOM][a].p00" size="34275" crc="e23114b1" md5="610ab05c933a776f0bd73f22033435e4" sha1="c31222168b642924cc695672a12d468886637531"/>
+	<game name="Autotest (1991)(Byte-Back)[cr DOM][t +3 DOM][a]">
+		<description>Autotest (1991)(Byte-Back)[cr DOM][t +3 DOM][a]</description>
+		<rom name="Autotest (1991)(Byte-Back)[cr DOM][t +3 DOM][a].p00" size="34275" crc="54f30a30" md5="ebc88710c9b7b5e76f8e60fc8c4dc29f" sha1="4825bf331542e9576f951ca5f1d6297fd75fb8b0"/>
 	</game>
 	<game name="Badlands (1990)(Domark)">
 		<description>Badlands (1990)(Domark)</description>
@@ -286,11 +286,7 @@
 	</game>
 	<game name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL]">
 		<description>Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL]</description>
-		<rom name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL].p00" size="32997" crc="30327dab" md5="1c5e11d950982cc134b34c5a526aed27" sha1="b9634a3658b408975d0d11c409ea7f496c0e6d1f"/>
-	</game>
-	<game name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL][a]">
-		<description>Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL][a]</description>
-		<rom name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL][a].p00" size="32997" crc="1de33063" md5="d3c1288a82f9ff9360b3b5a9d97e5e20" sha1="87253bbe6030b76151b6a5c8981569a1b837f01f"/>
+		<rom name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[cr HTL].p00" size="32997" crc="1de33063" md5="d3c1288a82f9ff9360b3b5a9d97e5e20" sha1="87253bbe6030b76151b6a5c8981569a1b837f01f"/>
 	</game>
 	<game name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369]">
 		<description>Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369]</description>
@@ -299,6 +295,10 @@
 	<game name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369][a]">
 		<description>Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369][a]</description>
 		<rom name="Cosmic Causeway - Trailblazer II (1987)(Gremlin)[h SAP 2369][a].p00" size="30202" crc="4181c3c6" md5="b0c34044e3e5292b0e4dc0994b192603" sha1="5e979444535f64e9082f21f5ba7d9bcaebda7c7e"/>
+	</game>
+	<game name="Crash and Crush (1989)(Addictsoft)[cr Unity]">
+		<description>Crash and Crush (1989)(Addictsoft)[cr Unity]</description>
+		<rom name="Crash and Crush (1989)(Addictsoft)[cr Unity].p00" size="34979" crc="f5df4f5d" md5="6a5ce8d000bebb81ee056b85def70de6" sha1="310f8ea1f63043c49fa8368ab2c29696c99d99e1"/>
 	</game>
 	<game name="Crash Race (1987)(Commodore Disc)(de)[cr ULT+BIG]">
 		<description>Crash Race (1987)(Commodore Disc)(de)[cr ULT+BIG]</description>
@@ -400,21 +400,21 @@
 		<description>Elektra Glide (1986)(English Software)[cr REM][t +1 REM][Docs]</description>
 		<rom name="Elektra Glide (1986)(English Software)[cr REM][t +1 REM][Docs].p00" size="31987" crc="83b84e03" md5="db3f1cf777fc674d65eb4c14aff0e910" sha1="b50e3c36708f0b30c680b3801b0ba11b3489dc2c"/>
 	</game>
-	<game name="Enduro Racer (1987)(Sega - Activision)">
-		<description>Enduro Racer (1987)(Sega - Activision)</description>
-		<rom name="Enduro Racer (1987)(Sega - Activision).p00" size="32846" crc="191bbc20" md5="db4094862c313ba4d193d0cd66cad0cb" sha1="89252c39f0d004e30edec2cc7ed7576c5a3cbbf4"/>
+	<game name="Enduro Racer (1987)(Activision - SEGA)">
+		<description>Enduro Racer (1987)(Activision - SEGA)</description>
+		<rom name="Enduro Racer (1987)(Activision - SEGA).p00" size="32846" crc="191bbc20" md5="db4094862c313ba4d193d0cd66cad0cb" sha1="89252c39f0d004e30edec2cc7ed7576c5a3cbbf4"/>
 	</game>
-	<game name="Enduro Racer (1987)(Sega - Activision)[cr FLT]">
-		<description>Enduro Racer (1987)(Sega - Activision)[cr FLT]</description>
-		<rom name="Enduro Racer (1987)(Sega - Activision)[cr FLT].p00" size="36350" crc="6a654a5e" md5="c72e1e0665c060049b9ff7e716e6d6a1" sha1="bc675ff7c202c6415f31303aec52c86fb9d9036c"/>
+	<game name="Enduro Racer (1987)(Activision - SEGA)[cr FLT]">
+		<description>Enduro Racer (1987)(Activision - SEGA)[cr FLT]</description>
+		<rom name="Enduro Racer (1987)(Activision - SEGA)[cr FLT].p00" size="36350" crc="6a654a5e" md5="c72e1e0665c060049b9ff7e716e6d6a1" sha1="bc675ff7c202c6415f31303aec52c86fb9d9036c"/>
 	</game>
-	<game name="Enduro Racer (1987)(Sega - Activision)[cr Relax][t +1 Relax]">
-		<description>Enduro Racer (1987)(Sega - Activision)[cr Relax][t +1 Relax]</description>
-		<rom name="Enduro Racer (1987)(Sega - Activision)[cr Relax][t +1 Relax].p00" size="34431" crc="8ec1b938" md5="49dcf2aaae6b2f4a378f01b85bcf4a50" sha1="126ecb82a88ee7e5a56056e062a55feb327159e9"/>
+	<game name="Enduro Racer (1987)(Activision - SEGA)[cr Relax][t +1 Relax]">
+		<description>Enduro Racer (1987)(Activision - SEGA)[cr Relax][t +1 Relax]</description>
+		<rom name="Enduro Racer (1987)(Activision - SEGA)[cr Relax][t +1 Relax].p00" size="34431" crc="8ec1b938" md5="49dcf2aaae6b2f4a378f01b85bcf4a50" sha1="126ecb82a88ee7e5a56056e062a55feb327159e9"/>
 	</game>
-	<game name="Enduro Racer (1987)(Sega - Activision)[cr TWR][t +2 TWR]">
-		<description>Enduro Racer (1987)(Sega - Activision)[cr TWR][t +2 TWR]</description>
-		<rom name="Enduro Racer (1987)(Sega - Activision)[cr TWR][t +2 TWR].p00" size="35165" crc="c4d6c8ee" md5="c7b829096ea80ee174e33c9cd035836a" sha1="5a95c19c1b626a31b5c36863efe446393249746f"/>
+	<game name="Enduro Racer (1987)(Activision - SEGA)[cr TWR][t +2 TWR]">
+		<description>Enduro Racer (1987)(Activision - SEGA)[cr TWR][t +2 TWR]</description>
+		<rom name="Enduro Racer (1987)(Activision - SEGA)[cr TWR][t +2 TWR].p00" size="35165" crc="c4d6c8ee" md5="c7b829096ea80ee174e33c9cd035836a" sha1="5a95c19c1b626a31b5c36863efe446393249746f"/>
 	</game>
 	<game name="F40 Pursuit - Crazy Cars II (19xx)(-)[cr X-Factor]">
 		<description>F40 Pursuit - Crazy Cars II (19xx)(-)[cr X-Factor]</description>
@@ -492,13 +492,13 @@
 		<description>Grand Prix (1988)(Barazzetta, Carlo - Barazzetta, Lorenzo)[cr Assix]</description>
 		<rom name="Grand Prix (1988)(Barazzetta, Carlo - Barazzetta, Lorenzo)[cr Assix].p00" size="21029" crc="3f285b3f" md5="412ece018d5ea4911fe673bd2b10b34a" sha1="4a496b6d4633a0b37cb5343216e57166339e79de"/>
 	</game>
-	<game name="Grand Prix (1991)(D&amp;H Games)[cr Triangle]">
-		<description>Grand Prix (1991)(D&amp;H Games)[cr Triangle]</description>
-		<rom name="Grand Prix (1991)(D&amp;H Games)[cr Triangle].p00" size="21824" crc="fcb16c84" md5="1dfe5be7ca46e67b49797b5aade3ae2c" sha1="b6d5635898de8c271dbb9563308e6f23c62dc874"/>
+	<game name="Grand Prix (1990)(D&amp;H Games)[cr Triangle]">
+		<description>Grand Prix (1990)(D&amp;H Games)[cr Triangle]</description>
+		<rom name="Grand Prix (1990)(D&amp;H Games)[cr Triangle].p00" size="21824" crc="fcb16c84" md5="1dfe5be7ca46e67b49797b5aade3ae2c" sha1="b6d5635898de8c271dbb9563308e6f23c62dc874"/>
 	</game>
-	<game name="Grand Prix (1991)(D&amp;H Games)[cr Triangle][a]">
-		<description>Grand Prix (1991)(D&amp;H Games)[cr Triangle][a]</description>
-		<rom name="Grand Prix (1991)(D&amp;H Games)[cr Triangle][a].p00" size="21824" crc="fbd16f47" md5="4e13ba9e9d65c8b060bedc06f1997e67" sha1="55762861f6921bec7b92050006cf1f85022ae244"/>
+	<game name="Grand Prix (1990)(D&amp;H Games)[cr Triangle][a]">
+		<description>Grand Prix (1990)(D&amp;H Games)[cr Triangle][a]</description>
+		<rom name="Grand Prix (1990)(D&amp;H Games)[cr Triangle][a].p00" size="21824" crc="fbd16f47" md5="4e13ba9e9d65c8b060bedc06f1997e67" sha1="55762861f6921bec7b92050006cf1f85022ae244"/>
 	</game>
 	<game name="Grand Prix 500cc (1987)(Microids)">
 		<description>Grand Prix 500cc (1987)(Microids)</description>
@@ -1392,9 +1392,9 @@
 		<description>Super Monaco Grand Prix (1991)(US Gold)</description>
 		<rom name="Super Monaco Grand Prix (1991)(US Gold).p00" size="48364" crc="c520705d" md5="454c8d3b19f54021b40b61e0d652e460" sha1="27dd90651a3facd010863ba977d4b50cb29ce097"/>
 	</game>
-	<game name="Super Race (1983)(Courbois)">
-		<description>Super Race (1983)(Courbois)</description>
-		<rom name="Super Race (1983)(Courbois).p00" size="6314" crc="e5bdcde1" md5="6fdd5861aa91b6599b0b5d8a38a6927a" sha1="b9529c5259ec27eea41766fbb69cb3a56627e138"/>
+	<game name="Super Race (1983)(Courbois)(nl)">
+		<description>Super Race (1983)(Courbois)(nl)</description>
+		<rom name="Super Race (1983)(Courbois)(nl).p00" size="6314" crc="e5bdcde1" md5="6fdd5861aa91b6599b0b5d8a38a6927a" sha1="b9529c5259ec27eea41766fbb69cb3a56627e138"/>
 	</game>
 	<game name="Super Scramble Simulator (1989)(Gremlin)[cr INC+HTL]">
 		<description>Super Scramble Simulator (1989)(Gremlin)[cr INC+HTL]</description>
@@ -1448,9 +1448,17 @@
 		<description>Track Racer (1986)(Barrett, Terry P. - Colwill, Steve W. - Petry, Dirk - Herpel, Karlheinz)(de)(PD)</description>
 		<rom name="Track Racer (1986)(Barrett, Terry P. - Colwill, Steve W. - Petry, Dirk - Herpel, Karlheinz)(de)(PD).p00" size="4444" crc="2a41dc8f" md5="e7d3640de14e842519456ed6d920d68a" sha1="6f9d1e6fc0100340bba6a8486977290ae45be458"/>
 	</game>
+	<game name="Trailblazer II (1987)(Mr. Chip)[cr HTL][t +1]">
+		<description>Trailblazer II (1987)(Mr. Chip)[cr HTL][t +1]</description>
+		<rom name="Trailblazer II (1987)(Mr. Chip)[cr HTL][t +1].p00" size="32997" crc="30327dab" md5="1c5e11d950982cc134b34c5a526aed27" sha1="b9634a3658b408975d0d11c409ea7f496c0e6d1f"/>
+	</game>
 	<game name="Tunnel Run (1984)(RUN-CW Communications)">
 		<description>Tunnel Run (1984)(RUN-CW Communications)</description>
 		<rom name="Tunnel Run (1984)(RUN-CW Communications).p00" size="2465" crc="ac42214e" md5="2e1b7327a40be5b74d7a13bbdda98652" sha1="049bb3d3caa686dd32c45c4e081c8f4b09bf933c"/>
+	</game>
+	<game name="Turbo 64 (1983)(Limbic Systems UK)">
+		<description>Turbo 64 (1983)(Limbic Systems UK)</description>
+		<rom name="Turbo 64 (1983)(Limbic Systems UK).p00" size="27986" crc="f550b246" md5="00f63434f7e339cb3aa413fb1aa80410" sha1="e03952c53eb1fcbd8d85876efc40e9790e72362d"/>
 	</game>
 	<game name="Turbo Esprit (1986)(Durell)">
 		<description>Turbo Esprit (1986)(Durell)</description>
@@ -1475,10 +1483,6 @@
 	<game name="Turbo Racer (1986)(Tronic)">
 		<description>Turbo Racer (1986)(Tronic)</description>
 		<rom name="Turbo Racer (1986)(Tronic).p00" size="9005" crc="589c2011" md5="f7db9a408c72d98b78c3237e12fcd7fa" sha1="adef6c544a2b9c1ea31a9b66d2448a9500a060b2"/>
-	</game>
-	<game name="Turbo Sixty Four (1983)(Limbic Systems UK)">
-		<description>Turbo Sixty Four (1983)(Limbic Systems UK)</description>
-		<rom name="Turbo Sixty Four (1983)(Limbic Systems UK).p00" size="27986" crc="f550b246" md5="00f63434f7e339cb3aa413fb1aa80410" sha1="e03952c53eb1fcbd8d85876efc40e9790e72362d"/>
 	</game>
 	<game name="Velocopter (1985)(Sonnenverlag)(de)">
 		<description>Velocopter (1985)(Sonnenverlag)(de)</description>

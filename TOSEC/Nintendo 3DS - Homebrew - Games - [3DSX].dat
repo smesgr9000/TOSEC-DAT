@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Nintendo 3DS - Homebrew - Games - [3DSX]</name>
-		<description>Nintendo 3DS - Homebrew - Games - [3DSX] (TOSEC-v2023-06-14)</description>
+		<description>Nintendo 3DS - Homebrew - Games - [3DSX] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="3DS Shooter Game (2021-09-27)(DarkSparks)">
+		<description>3DS Shooter Game (2021-09-27)(DarkSparks)</description>
+		<rom name="3DS Shooter Game (2021-09-27)(DarkSparks).3dsx" size="700396" crc="57cce229" md5="53c590828affb8aa9c9f0dc33713b965" sha1="0301d093f93320580c383668f46353f7a52ae8ee"/>
+	</game>
 	<game name="Dzzee v1.2.0 (2021-10-16)(thp)">
 		<description>Dzzee v1.2.0 (2021-10-16)(thp)</description>
 		<rom name="Dzzee v1.2.0 (2021-10-16)(thp).3dsx" size="269764" crc="9e13ff5d" md5="90223a23b2cdb558eab2c590d31cf04a" sha1="0a80124a532d7fb02e2413a8005fbacc95275c8c"/>
@@ -29,6 +33,153 @@
 		<description>OpenLara (2020-11-10)(XProger)(BSD2)</description>
 		<rom name="OpenLara (2020-11-10)(XProger)(BSD2).3dsx" size="1182168" crc="f4f62a72" md5="9b1232d50b0150179bea3eab38bbd731" sha1="fe7a7d943cae63dee1f373451311165df120bc48"/>
 	</game>
+	<game name="PixelRush (2017-05-26)(Chopsuey)">
+		<description>PixelRush (2017-05-26)(Chopsuey)</description>
+		<rom name="game\3ds.lua" size="4951" crc="d143ee19" md5="d8cc2d20ca1c4ef9c216813437e89dac" sha1="92c8eecacb13f76a62f0507bf3a4559dc8e0ccd3"/>
+		<rom name="game\audio\background.mp3" size="779918" crc="9a185681" md5="4cabff0d048298189588de62d7af03e0" sha1="bef17ae685d434571f5f9bbe48386c3d47c99cde"/>
+		<rom name="game\audio\background.ogg" size="479470" crc="1b66269e" md5="97c9c99c9c3d0f8eddc6fbaab8768ce5" sha1="0d667c48f0b9a6f3b7c3e708f2c55e0817e00202"/>
+		<rom name="game\audio\background_.ogg" size="9443259" crc="17384dcc" md5="8080b1e48ed82779b75b4384cf478068" sha1="71d73ba3425a5660ea305406e786441c01d2a9ba"/>
+		<rom name="game\audio\background_old (2).ogg" size="649109" crc="edfbc957" md5="71027ce9e3bd5103ce51fd7f6cebc179" sha1="37e9958c05e60ac290ee9d704afe8ef7e529a837"/>
+		<rom name="game\audio\background_old.ogg" size="9443259" crc="17384dcc" md5="8080b1e48ed82779b75b4384cf478068" sha1="71d73ba3425a5660ea305406e786441c01d2a9ba"/>
+		<rom name="game\audio\block.ogg" size="43044" crc="6992d781" md5="2a44d0472387dca2464b7c81675063c7" sha1="2a8ad68f55ae1637f7177da0b337972f57aceddf"/>
+		<rom name="game\audio\item.ogg" size="27925" crc="cce8a7c5" md5="6157d5f72890539a75ca829976ec5dac" sha1="6217a50e7a79137c9536b5cc38ef84503cc00c20"/>
+		<rom name="game\audio\menue.ogg" size="17051" crc="b10fb244" md5="3b3b4f5e605e62e213e8bc71df8d2db3" sha1="9255fe5a72b8565dca263ebc092a99176a9641e5"/>
+		<rom name="game\audio\nm.ogg" size="28653" crc="df8a3189" md5="934e775fe9e83356b75b3fa27da0fa2f" sha1="2cd47e649edc598043589239fa0f1f1abb7e8d67"/>
+		<rom name="game\audio\nm__.ogg" size="28653" crc="df8a3189" md5="934e775fe9e83356b75b3fa27da0fa2f" sha1="2cd47e649edc598043589239fa0f1f1abb7e8d67"/>
+		<rom name="game\audio\start.ogg" size="37494" crc="3e26bead" md5="42efec95294e95e9f61f26dc14c2f4f9" sha1="7ac5f539578ee685cc1262f240a2e8ea3ceab02c"/>
+		<rom name="game\credits.txt" size="255" crc="e28fc2c3" md5="eb9470685e6cf3969d2147af224f35a6" sha1="e6bd4e9f10b1fc42541c0cedd55b6c851ec081f6"/>
+		<rom name="game\grafiken\about_top.png" size="3879" crc="4b424ba6" md5="f286aee98594aca8ed536795cab2e96f" sha1="983181257713c255dee0350e7eb6e94fd3bec75d"/>
+		<rom name="game\grafiken\astro_1.png" size="943" crc="a9f1fe21" md5="0734fcd3743470bc417ce38a7f65ec12" sha1="3208abb73d6df28c8382bb1d5597c44857134521"/>
+		<rom name="game\grafiken\astro_2.png" size="971" crc="a4d061ea" md5="c71fe739574738ba32f409c0a723c4b8" sha1="0798c1a30527107d49ee2407357adbdc8dad0673"/>
+		<rom name="game\grafiken\astro_3.png" size="1030" crc="daec8252" md5="b0fd823813d2da4871196f27a2a01617" sha1="17d7dfaf663c672bb47512be5989beabd7006bcc"/>
+		<rom name="game\grafiken\astro_4.png" size="653" crc="fc5bc118" md5="675bcb5f6372245ed4ebe23e210c7e71" sha1="2174d2610159b50cf301350922fe208c907da04d"/>
+		<rom name="game\grafiken\astro_5.png" size="899" crc="185dbd12" md5="b9afdbf01f2bcaa3df707f64ffbb10f6" sha1="74cf17d311396791c7cd65ab53a1ba076e84fda7"/>
+		<rom name="game\grafiken\astro_6.png" size="1147" crc="9ecebaaf" md5="dc87ca4151b76e1b48636d2a0fd39273" sha1="e0469af1d7a9e1a277a406f4079bc4071c0135a5"/>
+		<rom name="game\grafiken\astro_7.png" size="932" crc="e7ebeca4" md5="f4284652f016b9618e8cb502add709d5" sha1="41911f37e4b313ba342d7a8e677a1d78a67db47d"/>
+		<rom name="game\grafiken\astro_8.png" size="957" crc="0fb5b078" md5="2a3d957942d8774e02c036013b6af937" sha1="e7a23454a3c703ca6c01d6e87123f874d5cd594d"/>
+		<rom name="game\grafiken\boost.png" size="302" crc="72d1f4a4" md5="3d2a8d784bbed6bc21a02d6643f442fc" sha1="5fa04ae7fe6e4963e4eae2e726e5fbe65274a90c"/>
+		<rom name="game\grafiken\bottomlinebg.png" size="640" crc="a38ec652" md5="84b8554679d915d061b31b27064ecbb3" sha1="8ede14faf52b64af3cce5e4dddcd26190e369c9d"/>
+		<rom name="game\grafiken\bottomlinebg_alt.png" size="1623" crc="8cb9821d" md5="e60bf90b79e404cdb1a5a4bac1b4f9f3" sha1="5a18dfd4ea8dcd98d4d57e45bc0e65510629ff6b"/>
+		<rom name="game\grafiken\fow_bottom.png" size="4136" crc="b7d0981b" md5="de6f792e826fd42082dae9684b560945" sha1="dc51a545cf8278f01be6088ada34b25fad783c85"/>
+		<rom name="game\grafiken\fow_top.png" size="9225" crc="05bcd482" md5="7e9866dc7fb990ff22167fbab01a43bb" sha1="61e06e096a9e02cef16f6c0cdd47c6388376b4ba"/>
+		<rom name="game\grafiken\gameover_bottom.png" size="3400" crc="d69c02a9" md5="b07eb55537506346bf1d9714c42f4cf0" sha1="59780e30b740d68cf2c73058e0cfcdb4b70475ce"/>
+		<rom name="game\grafiken\gameover_top.png" size="1516" crc="a2b5c52d" md5="16275d31f381554b9e8dfdf2b39db8c2" sha1="ea9cb8ea575c207dc0377cb3b613ad55adc85339"/>
+		<rom name="game\grafiken\heart.png" size="237" crc="29be6658" md5="de80ed574764823a3570acb67b2a61cf" sha1="fac6fd255a71724131d4d28bbf2fd7af55c093b5"/>
+		<rom name="game\grafiken\konfetti_bg.png" size="2289" crc="641592cc" md5="045340f86c0d510214fccede745fac05" sha1="eed1fd68380d9792dff660b53908a4feffae0dfe"/>
+		<rom name="game\grafiken\life.pdn" size="3996" crc="459730b8" md5="5832ed0583baff9d49a07d237c14d178" sha1="caa702ecf188226d7788a61e7dee4922d739e311"/>
+		<rom name="game\grafiken\life.png" size="390" crc="5f2336cf" md5="da6208ce8cd91396eba9f574ebcc76ad" sha1="ebe67908593289be142f26e18b4c5c7b493c5973"/>
+		<rom name="game\grafiken\life_small.png" size="382" crc="6021b16e" md5="640d7330e2c85f44f9e11ae2d9929766" sha1="96a933d7a05eca0294950134cfefc10e6b0b55f8"/>
+		<rom name="game\grafiken\men_alt\men_info.png" size="1854" crc="fcdaa3e4" md5="4f96c17f1a373812721919a2dcd8f345" sha1="efc0c0aaa3428fb6edc597096f8e45aba882ee68"/>
+		<rom name="game\grafiken\men_alt\men_info_g.png" size="1854" crc="e1960791" md5="300c26ea3f72e71e5355573bf6db6ebf" sha1="02e6cba02189ef72f78739bf25bea0109edfd1a8"/>
+		<rom name="game\grafiken\men_alt\men_quit.png" size="1811" crc="8a8a9142" md5="375bca79befaa6a939130d81e94f28a7" sha1="e9d15172c9aa12c241aebbea64fbec3c1d22f9d5"/>
+		<rom name="game\grafiken\men_alt\men_quit_g.png" size="1811" crc="415f3783" md5="21699f1e4a8b50752c3695a3cc1c7adb" sha1="42aa6e832fd7d016f0e4c5605fd5eeac75fb76dc"/>
+		<rom name="game\grafiken\men_alt\men_start.png" size="1769" crc="a3a0a54f" md5="10a5cd6db03875a974e8e9d6a20fee34" sha1="64ec4e5bb189276c33c654c621282c16f4d2abdc"/>
+		<rom name="game\grafiken\men_alt\men_start_g.png" size="1769" crc="13a73171" md5="c4a6acfec3648ecdf843fcc3fe04bfa6" sha1="899ee75dc767577dd756c5cecc061089298e60a4"/>
+		<rom name="game\grafiken\men_info.png" size="2843" crc="c16eab91" md5="bc44435b137580824d3fc0430038ee03" sha1="a125a24910c489acb2ebfe567f8f0a055d5fd0c3"/>
+		<rom name="game\grafiken\men_info_g.png" size="2754" crc="f2060f5e" md5="b1df0cf821f555d235b92f606026e6f6" sha1="7269516ecac1b2536693a906c0c69eb6f2957f01"/>
+		<rom name="game\grafiken\men_quit.png" size="2561" crc="03f0b8d0" md5="f3452e037b9d348ced7efefe9e6630d1" sha1="f3aa359a0de50642be0ac921bf07a58b3186fe39"/>
+		<rom name="game\grafiken\men_quit_g.png" size="2676" crc="60a5be64" md5="2ed8233d893eefd5f814d35b185b43bd" sha1="a39884a18676dc557ed9fbf03c0ed6e67f897803"/>
+		<rom name="game\grafiken\men_start.png" size="2141" crc="becb154a" md5="f8e6e2749b311d7d8187af30588c3890" sha1="5c421ad1037c5e9e93bc456192fdf27bfae8208e"/>
+		<rom name="game\grafiken\men_start_g.png" size="2079" crc="c3ef9432" md5="dfd9e2459b38a2a209557ab7a40ac7d2" sha1="7e4ed890026234c14e9f57928b0a758e443b687a"/>
+		<rom name="game\grafiken\menue_top.png" size="7778" crc="2a6f4777" md5="c8fb379a4d007e11ba29ba26f060d8cc" sha1="d7b919c7eb7ac98e45e7c8676ea8654c1484571e"/>
+		<rom name="game\grafiken\pause_bottom.png" size="4598" crc="5bbcd67b" md5="8b3e5d2ccbae6232948f32ce29848500" sha1="c606757b358b2f7bb1dfcdca1a3059333d1ee39f"/>
+		<rom name="game\grafiken\pause_top.png" size="2436" crc="ce490822" md5="fbe0fabd6a8fd5e85cc600bbd98fc46a" sha1="55ff8b657f3fda15fc3054dba2826844f30dd4b8"/>
+		<rom name="game\grafiken\quit_top.png" size="2422" crc="44ce37f9" md5="f6ee275b869e67869d341b1e5bb2f655" sha1="d28a0a2dde7c9f569bec72bf01cc402df1706216"/>
+		<rom name="game\grafiken\shield.png" size="254" crc="c1f1abab" md5="2b920533f181df926826674ff11763d3" sha1="5cc7e9e6037c935519b90352d5a1a2f6798edd8b"/>
+		<rom name="game\grafiken\speed_go.png" size="570" crc="fcdcff9b" md5="9b1df4463b4112fce889e3478b3d2986" sha1="1dec37cc0feea10e1552adb89e2cbd692916930b"/>
+		<rom name="game\grafiken\top_headbg_px.png" size="1470" crc="1784166e" md5="5e8c041780fcd33650ec6114998f262d" sha1="221d39eca17395ca16f29338d5bdd4589543a9b8"/>
+		<rom name="game\hs\highscore_cla.txt" size="1" crc="f4dbdf21" md5="cfcd208495d565ef66e7dff9f98764da" sha1="b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"/>
+		<rom name="game\hs\highscore_cle.txt" size="1" crc="f4dbdf21" md5="cfcd208495d565ef66e7dff9f98764da" sha1="b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"/>
+		<rom name="game\hs\multi_hs_cla.txt" size="1" crc="f4dbdf21" md5="cfcd208495d565ef66e7dff9f98764da" sha1="b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"/>
+		<rom name="game\hs\multi_hs_cle.txt" size="1" crc="f4dbdf21" md5="cfcd208495d565ef66e7dff9f98764da" sha1="b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"/>
+		<rom name="game\main.lua" size="41387" crc="18a49449" md5="2aec8bc3744e988c3d7940348ad093d0" sha1="9c1cbf99f40f659de63b09fd193e2092c01bf67d"/>
+		<rom name="game\pixel.ttf" size="25056" crc="64136ac9" md5="7e25a42428c05e2a92745afe1e976e65" sha1="3111fdb6478c49deb7fb9ec79660f7bcae9fef79"/>
+		<rom name="LICENSE" size="1118" crc="7b1e3bd3" md5="28354aa0ddb0ffcc8acc7e6caf901844" sha1="f4d0dcd5fdf0750a5fe7572a9d937ad3a979dae7"/>
+		<rom name="licenses\ctrulib-LICENSE" size="796" crc="494e4f3e" md5="a028a4ecc380a054522fb227a2b51be2" sha1="735795b1e8ac75fe76acb5d12e460d598a143e40"/>
+		<rom name="licenses\ctrulua-LICENSE" size="35146" crc="7ea4c6f6" md5="4fe869ee987a340198fb0d54c55c47f1" sha1="1de7bacb4fbbd7b6d391a69abfe174c2509ec303"/>
+		<rom name="licenses\lovedos-LICENSE" size="1047" crc="c4e9cdc5" md5="fa652d22e24fbf3f4345de88023679ce" sha1="18c1b2518d37a064dc7b83e77a8c96b2550b49df"/>
+		<rom name="licenses\lua-compat-5.2-LICENSE" size="1081" crc="2c14e4ba" md5="c845ab6d12bf14c2244e7da962622550" sha1="6150bcbd979d72d0578d6467d410856cdbb010e0"/>
+		<rom name="licenses\lua-LICENSE" size="1065" crc="64df5fce" md5="7e913e8ba832fa1751464c7d85a76b82" sha1="13cea3864b07ecf691f8b4b4aed5f88329e973b0"/>
+		<rom name="licenses\sf2dlib-LICENSE" size="1109" crc="918cd5bf" md5="b9a591e6125ef1e1b22a46e36e97b157" sha1="cd6d721fbc35ab358914ff1c9ae44cd642cf1e82"/>
+		<rom name="licenses\sfillib-LICENSE" size="1109" crc="918cd5bf" md5="b9a591e6125ef1e1b22a46e36e97b157" sha1="cd6d721fbc35ab358914ff1c9ae44cd642cf1e82"/>
+		<rom name="licenses\sftdlib-LICENSE" size="1109" crc="918cd5bf" md5="b9a591e6125ef1e1b22a46e36e97b157" sha1="cd6d721fbc35ab358914ff1c9ae44cd642cf1e82"/>
+		<rom name="PixelRush.3dsx" size="1552224" crc="d0e0d671" md5="b7ccf2704f7ab4b82134722f45bbb337" sha1="d71939329802ef6ad3b532a3d3d76b6ae391f593"/>
+		<rom name="PixelRush.smdh" size="14016" crc="38c983ba" md5="5c2331d6ddbeaa74cc30bee3b25ef696" sha1="0d37d992f371bb51f689f567de49cdb11da5973c"/>
+	</game>
+	<game name="PoPip (2023-07-08)(Nehemek)">
+		<description>PoPip (2023-07-08)(Nehemek)</description>
+		<rom name="PoPip (2023-07-08)(Nehemek).3dsx" size="6220155" crc="cca6d535" md5="0101bd50cd8eb61fe66efb3ddf7494eb" sha1="afc36d6a0ffa75c47878e3282224c2d8c17ec35e"/>
+	</game>
+	<game name="ravimid (2016-09-02)(Ill Teteka)">
+		<description>ravimid (2016-09-02)(Ill Teteka)</description>
+		<rom name="game\boss.lua" size="768" crc="e779484f" md5="9660b0bd9e5059f2d256119b39738cdd" sha1="1cce71f398b04ed87b762eefdfea9353b9c68f35"/>
+		<rom name="game\boss.png" size="47525" crc="6490b624" md5="a4c310c3767f02665d1fef8ff903fee9" sha1="ce3d9172b5cf960436ea7f9412fa2a39b925af88"/>
+		<rom name="game\boss2.png" size="48089" crc="d30ec6de" md5="f7b5b7729cdda67065da3aaefd45a096" sha1="2478eb12e6889c18f2b52abf5688bec7d9365dfd"/>
+		<rom name="game\bullet.lua" size="3217" crc="1d41e061" md5="2dee9d9f79e59941045f7a05665afa5b" sha1="5612798f9c6845ae41e9428ba2fe423ebd6010d8"/>
+		<rom name="game\click.wav" size="1339" crc="cfcbf522" md5="e68311f4bd915a59c818c98effa9411b" sha1="5c2467ffd8cfe652410e134493f0ed1a6c23903e"/>
+		<rom name="game\death1.png" size="4009" crc="8e5bb6b5" md5="fa7f72ce3638ced5d1c0f59b54d006da" sha1="346addb0e008234340391629f323635796311c2b"/>
+		<rom name="game\death2.png" size="4299" crc="ebe07d56" md5="52c8f7fa56e4648d31f8a84fd7e5f859" sha1="1124aa6320631370b2016772aa12ebd7ea3e740f"/>
+		<rom name="game\end.png" size="49720" crc="d6eec077" md5="28c2821c17451118b5c25a4b22d46387" sha1="bc4ed696306036e93211df64a2a8d7e1c849a904"/>
+		<rom name="game\end2.png" size="6427" crc="065bdb77" md5="5aa86da20b83c06425d9f516b776be8c" sha1="02356612e12362dc7146b5196acf5f4d8fba541b"/>
+		<rom name="game\fire.lua" size="1458" crc="15ebe830" md5="dda88d2db87d72035c203e2b196d3c71" sha1="4824b6367b8734fade12eebb48b11eb1f6269c83"/>
+		<rom name="game\fire1.png" size="5038" crc="53a986bc" md5="f1f670b745f924ad310d72ff7cc0f01a" sha1="7bf7a473053f2f6977ee1798b8743757bd6d475b"/>
+		<rom name="game\fire2.png" size="5016" crc="9973fb15" md5="3e8130a2a8a791bac7355027075c0ab2" sha1="5eb669fad8cafe61dfe11877bf0b3b0ac7b0881b"/>
+		<rom name="game\game.lua" size="12140" crc="35699755" md5="a1b21dc49c00e3a61b8e285a681db80f" sha1="ca97be50aec9a39c258922b136364de5f010454e"/>
+		<rom name="game\gunshot2.wav" size="3845" crc="a7a82d5f" md5="9875da24e9cb48dcb79872e42b853ec5" sha1="e788578e52e998bafbbe3d834dea4425b9f70508"/>
+		<rom name="game\gunshot3.wav" size="6474" crc="5e9965a9" md5="1590644ad20c6d37e5f5db120b16fd52" sha1="d17260bc1a6ed6a9e773b3e0b1b4630151e562cc"/>
+		<rom name="game\guy1.png" size="3137" crc="437ff884" md5="c646782eaac9eaf15ed30f1439200325" sha1="633e11f47a408685ffdc25d7d1937ec28ae55d07"/>
+		<rom name="game\guy2.png" size="3143" crc="ad5e61f5" md5="0a4dfcd393bb547830e4a3a8e6b7b208" sha1="663b6d772e90b791de09906c2478d1928d8756f1"/>
+		<rom name="game\guy3.png" size="3154" crc="e6608215" md5="8168783216c6be6b7cbc4bfbbe6bedc9" sha1="19346e47ccee9b0043c050736875c2659aeb4ff3"/>
+		<rom name="game\guy4.png" size="2948" crc="68066403" md5="5cd587fa58e94f70b1f3c0361fa72e9a" sha1="4654520a4d707bc059ec2dc77fb568dd4fbeccbe"/>
+		<rom name="game\level1.png" size="22987" crc="8b6799e4" md5="9ee189fa2fb320177c77beb4dfa85e06" sha1="2f7ca7c70bb51b3904daf441dcc7b16c06b7079a"/>
+		<rom name="game\level2.png" size="41071" crc="201adda5" md5="7d4c0cd50c938d21817a1bc8d35797c3" sha1="9f0adfde6f92c22fb9a9170a6d5fa4d9d4a1df6a"/>
+		<rom name="game\main.lua" size="1299" crc="8ec5dafb" md5="144dee7906538fac25bff6d89de67eaf" sha1="c7ef0f32a1f625ac9db9aafa15c5f927d5d96363"/>
+		<rom name="game\main.ogg" size="501971" crc="4f5e4601" md5="27bdf924036c5c2f639e54178be6de61" sha1="450129802ec2f246b1498ab8fcae230c89349a60"/>
+		<rom name="game\me.png" size="5479" crc="858e8bfc" md5="8d910e1cdef311bfd4b9eec2c52cf57d" sha1="c8ae01a82977cc537938d9a1d4592aee326bb877"/>
+		<rom name="game\pill.lua" size="3591" crc="cd3b7fe9" md5="3a287d2a8a6e425e3412c703273450c2" sha1="6e10a33d030edaa49debdb1c34f44323bd437015"/>
+		<rom name="game\pill1.png" size="2928" crc="9500e12b" md5="596ef3b4308720d6e4bbd065a314e88e" sha1="c63ebc49732994f2637796e003d0b43b3473a4b5"/>
+		<rom name="game\pill2.png" size="2925" crc="e9528d74" md5="49c1bbad6ecbfa853e326d3c0ef2348d" sha1="155be161cb6517746c88702f7479ff1155513ebd"/>
+		<rom name="game\pill3.png" size="2933" crc="d1204746" md5="73ae9742498bf88d958214e7634e1e01" sha1="27def56db0d6914c4cd2b6d5bf90bdbd764a27fb"/>
+		<rom name="game\pill4.png" size="2925" crc="1c646119" md5="d3ccc0b887d487b12e177853b4f1838a" sha1="01697ea9b085d179962b01a8cd86f919c264ae3a"/>
+		<rom name="game\pill5.png" size="2924" crc="b180691a" md5="0d6dd0051274bdefe14215a73a9cf586" sha1="15b10c8a2dfed77bc614cf523dec29235608559a"/>
+		<rom name="game\pill6.png" size="2924" crc="d1632f09" md5="dc411e1353990da594324d56ed02c6b0" sha1="b9cf902072011631e981beedf0dae0b8c9663d6a"/>
+		<rom name="game\pill7.png" size="2924" crc="e3a5a3d3" md5="2fe9f32fd5dbe2c50bc2e2c62e4bd809" sha1="60ce9dc86032410a42766d8d0ca4d60a8336c6cf"/>
+		<rom name="game\title.ogg" size="256086" crc="4d945d81" md5="b256d87ea6fc179f6ba4ab2c25e8dc75" sha1="7c30d45fb4ea6631822cedba7043303b4610ecef"/>
+		<rom name="game\title.png" size="7559" crc="8585cc93" md5="726ee139af18810b5babc5761a31c502" sha1="4e34c372d69d19209da74a4d35c61cdee5f0c7b2"/>
+		<rom name="game\title2.png" size="4817" crc="60ed2bec" md5="da594ed3919183c2c25f5ad57c880564" sha1="b65ceddde25f21e234c822c413a2704ff9d8f84c"/>
+		<rom name="game\toast.wav" size="362772" crc="1f3aaff4" md5="e3bfa5f53cd4da4ea4cff0cbf1e749a9" sha1="8b510aad5b4e236cc5f84111fceb03a6847a329d"/>
+		<rom name="game\walle.png" size="4312" crc="b1681059" md5="e445e7671db5153e6fc6c654285a32a3" sha1="9261742c5ecf774674255969a54810c23b6a7dc2"/>
+		<rom name="ravimid.3dsx" size="1566240" crc="255ea319" md5="308ebc4d8b084110edc4e35b7f72f27a" sha1="074dc1bb6d2a47f7275e99c250653be0a24cdf86"/>
+		<rom name="ravimid.smdh" size="14016" crc="a2b3ae7a" md5="2622bd67e9552c2202502e37a3f9c5ff" sha1="b6a971782eb4b15c7c95e2a02671c1601601ca2a"/>
+	</game>
+	<game name="Rock, Paper, Scissors 3DS (2016-06-29)(gnmmarechal)">
+		<description>Rock, Paper, Scissors 3DS (2016-06-29)(gnmmarechal)</description>
+		<rom name="index.lua" size="4663" crc="59093ee6" md5="d886b64e4e25f05a09cf9e5c9958d85d" sha1="f73fab54ae8cff24225cc6a467bf020ba55c6f46"/>
+		<rom name="media\bg.png" size="63254" crc="c140ed05" md5="831d7fca283bde718023f375a8de38b2" sha1="eaff64a36a1cd51b1c48daf3f1cde791e94208b7"/>
+		<rom name="media\credits.pdn" size="126693" crc="a2148f19" md5="7a47fd7290ec9f5cb7733ad55e63ad53" sha1="1b21a28ba580055996a0a64fe2801a68e894b1bd"/>
+		<rom name="media\credits.png" size="78003" crc="40abfe14" md5="4105aff11b8c8c2c3c762e494d54a999" sha1="135ae87418c014ee82d7cf3cad86d4af0a119932"/>
+		<rom name="media\draw.png" size="75001" crc="b0b9f4bf" md5="664940754ff04831b8adbb4bcc281a53" sha1="e97ec5b00037a1bae9040363c88ba8e0e7aa2b9d"/>
+		<rom name="media\game.pdn" size="139687" crc="d8941d3f" md5="10b6825e65ce9a37e0298acffec8ac84" sha1="7afb21ad90faae3c3708c7dea0ccaa887f02f656"/>
+		<rom name="media\game.png" size="73334" crc="c0936fb8" md5="146050e9019be56a38ac0e8ef1884550" sha1="5bdf4a1891157d37d0b88fcd05b9cc38c5fad928"/>
+		<rom name="media\keybl.pdn" size="130134" crc="1bd47619" md5="70b7cfda6e369db39e1784280ce1f5b7" sha1="662478f0eec0b8e3dcf15756f38a07abe0b788eb"/>
+		<rom name="media\keybl.png" size="3136" crc="cf07b76b" md5="c42bb80f190db75f9732c41ea115db3b" sha1="48f907a9487ce430eb51f0adf0bd30296f68f718"/>
+		<rom name="media\losep.png" size="73211" crc="86cb36bb" md5="e55b258e1961756d76f56967c5ed40ca" sha1="376bc7bd2147560144e814e2b7bfa38ad989e857"/>
+		<rom name="media\loser.pdn" size="130293" crc="81eec883" md5="ae6aacb46f500459f9a42b72b7d7ade6" sha1="6b41f7321c6cf2f07f940b4dc43405687ce00269"/>
+		<rom name="media\loser.png" size="73764" crc="13db48bd" md5="31f20ef0fd04b7c1ef1dd47b9ed80cc0" sha1="189724cae8658edc633ec54972cd6fcf1041b234"/>
+		<rom name="media\loses.png" size="73799" crc="7a8dae80" md5="1f34a44cdea5a9025da08e78f5a8b97f" sha1="f843232f336aa615c220f85f14bb7f867ba381ca"/>
+		<rom name="media\menu.pdn" size="116752" crc="7d7f58bb" md5="75be69a5bbc61873b9a856da0fd711bf" sha1="9789bb7c3eed78e609ee6581fbeb9b9d3c77c41a"/>
+		<rom name="media\menu.png" size="71896" crc="d59abbee" md5="bf57395275b5e1e95542cf575914f3c3" sha1="f4e90b67d3e84404e104b0e687b6bf2418e4dffc"/>
+		<rom name="media\rules.png" size="73869" crc="6a70ee14" md5="092aca33fe4a8ba0b105062b71ace8e0" sha1="ee37bd6ec16c60a7e9e4e79c510295dd3c0be4c7"/>
+		<rom name="media\title.png" size="65283" crc="686602db" md5="92d4bcb1c3353e65e884640b56163f2f" sha1="b91441310293e4120ddc0c9bee06f43d7a04f424"/>
+		<rom name="media\winp.pdn" size="126966" crc="7df7fb1f" md5="d2992f9d67534f1c18e0ddfcd6571c94" sha1="86a29c144b63a81aa0f89b1c198995c7097c02b4"/>
+		<rom name="media\winp.png" size="74112" crc="3cffcde0" md5="e6112b887a87590487d0f09e93455c3b" sha1="8125a84eb285f1aa31dd3cc824772953e305f39e"/>
+		<rom name="media\winr.pdn" size="125741" crc="dcdb5709" md5="72a88f3cee2b8fa6c621c5c920d3a4da" sha1="625311d3ab8cd906d4fe015c68c6c3eff802bcb9"/>
+		<rom name="media\winr.png" size="73520" crc="45d103db" md5="fe519b96c5b5b6fc1cbfaee3fdf9b212" sha1="b39160761dcd169007eb2137ff6c9ff143e28727"/>
+		<rom name="media\wins.pdn" size="127826" crc="132169df" md5="f5f8b7d1bd1e3930838d4c702e1ebed0" sha1="88f083561a327fe6d51303063d9467c749e92f6f"/>
+		<rom name="media\wins.png" size="73527" crc="f0378218" md5="d1134e082ae3fd83cad07e5733fb7876" sha1="160b38b02c7719b37071b9941ee48292c377a2d4"/>
+		<rom name="rps3d.3dsx" size="1497660" crc="92fd401e" md5="e33ac6584cb4e88b51f4d6139bfbce35" sha1="f27b165908664bd6ab8af9a4d62db4ae179b4917"/>
+		<rom name="rps3d.smdh" size="14016" crc="a38d3eb4" md5="91698793b422660c3fd2e1a4df148042" sha1="9bfe8de177c0bcd4fcabc723889ad64649819d73"/>
+	</game>
 	<game name="Spodge v1.1 (2021-09-14)(Techcrafter)">
 		<description>Spodge v1.1 (2021-09-14)(Techcrafter)</description>
 		<rom name="Spodge v1.1 (2021-09-14)(Techcrafter).3dsx" size="529540" crc="6dfa5f91" md5="ae050512114b7fe272acd0f894c111e9" sha1="9a2d1b110a96b046eba983922e917408b9c65714"/>
@@ -37,5 +188,36 @@
 		<description>That Rabbit Game (2011)(thp)</description>
 		<rom name="That Rabbit Game (2011)(thp).3dsx" size="1842848" crc="48cd4770" md5="74c72a46c8cbe7f3c826dca8ac0cf9ff" sha1="06fde5b3e3af1122144c76d028928fe792e45cef"/>
 		<rom name="That Rabbit Game (2011)(thp).smdh" size="14016" crc="34230b67" md5="01ab7018ce9d6e6ecf006c5e48855779" sha1="7b89d48434a3d115588b9ba2de2b62e3236689da"/>
+	</game>
+	<game name="YOU ARE A DIRTY COWARD (2021-02-12)(Ill Teteka)">
+		<description>YOU ARE A DIRTY COWARD (2021-02-12)(Ill Teteka)</description>
+		<rom name="dirty-coward.3dsx" size="1566240" crc="255ea319" md5="308ebc4d8b084110edc4e35b7f72f27a" sha1="074dc1bb6d2a47f7275e99c250653be0a24cdf86"/>
+		<rom name="dirty-coward.smdh" size="14016" crc="f6ab5c62" md5="4954eacfb4db6f9c6df26c3e282d7a87" sha1="7c9aafc72db0c283bf1d9bc1e3d6e55bf1402091"/>
+		<rom name="game\main.lua" size="10041" crc="925c4827" md5="b9a166c22a674e936bc95b5b2b2e263e" sha1="597ad4e009a53413dab4e3d74169d67fb3224ed7"/>
+		<rom name="game\music\intro.wav" size="980554" crc="3753612a" md5="12c93b5178af19dafce934ae0f8b9b2a" sha1="555bc16356bd3dd6eac8f1a6b829878a916c5831"/>
+		<rom name="game\music\loop.wav" size="1306218" crc="af7af68f" md5="59f35ab4a6af8e47cb266758cd55a047" sha1="fa8d50fe4b50a3132569460ffa1ce5523097702a"/>
+		<rom name="game\sfx\ending.wav" size="1049272" crc="e9f96b66" md5="ec62d51c506f3bf88dfad799739afa43" sha1="21e5b52f57160e9b3e851ca4e93af68d36ab68f2"/>
+		<rom name="game\sfx\ending_speech.wav" size="663240" crc="ac355a34" md5="c461b4b34f7d30c56292708afca23674" sha1="11634082fea5b868b9017255fb3e5fb9b5bbf35e"/>
+		<rom name="game\sfx\intro_speech.wav" size="1268768" crc="e75454e0" md5="e66d59298aefa8b3842c8faff16b3ecb" sha1="efed61e953a8b342ff2fbac01c4a9dd5098cdb9b"/>
+		<rom name="game\sfx\knob_squek.wav" size="136472" crc="1ee51012" md5="77bd9795a74e65dc537e381df4f67c87" sha1="47ff8f3ebecb3f9f23b23cad8084d85c691ac6f6"/>
+		<rom name="game\sfx\scream_1.wav" size="32664" crc="c0da38c9" md5="9ab1caad4a857468783a139f98c9aea4" sha1="3d467e38b9e0b1dd515839fd5d87eba709cd0422"/>
+		<rom name="game\sfx\scream_2.wav" size="128444" crc="a9f31326" md5="e283206f15d5d954e8c221e07ed4dac9" sha1="56fad9660640bfe238afaf8ad60ecce592ac5f09"/>
+		<rom name="game\sfx\scream_3.wav" size="91824" crc="aa873efc" md5="ccd6c7ab318831ac2e42ce9320fb0adc" sha1="162aba2bd384edcf7af9f4257f34e83a16f9407c"/>
+		<rom name="game\sfx\scream_4.wav" size="147448" crc="9357154d" md5="a1c31e24e8f9ab08e323454d05901e55" sha1="1fabccd781c03735e49c0fb6256dddf1d7691013"/>
+		<rom name="game\sfx\scream_5.wav" size="108976" crc="39e22856" md5="16d733f2038840dfca1753380b4b2d36" sha1="03c8b36d69e59ca8bb923891d7eacd7a5658cc78"/>
+		<rom name="game\sfx\scream_6.wav" size="1191344" crc="765c8db0" md5="fceacc19f3705ce7f8a0a19700f6b453" sha1="d655adb154ee91d7416fd01ccdd4ef32ca50e150"/>
+		<rom name="game\sfx\shower.wav" size="993412" crc="b629f6f9" md5="6a33b264ff160e3e7bf60834adac28d7" sha1="af460e1f008f89fb82255d02b813ff953afac7ba"/>
+		<rom name="game\sprites\a.png" size="291" crc="60b597cd" md5="b432cdd7bdff6fdee8cc8487af703019" sha1="621b9f00ea2696c92f4d14098dbb4975b4ade4f9"/>
+		<rom name="game\sprites\are.png" size="460" crc="fee1148e" md5="3da2cd12a07b8780dc7119bbbbe11a38" sha1="1f209ff8b70fe633c6031043e61756b57275171e"/>
+		<rom name="game\sprites\broom.png" size="5349" crc="585f04e4" md5="cc76cda30b19cc363584212184d9d223" sha1="caeb24c10afbe64cf303d2ee96d8d1fa711caf85"/>
+		<rom name="game\sprites\broom2.png" size="1639" crc="c9338d8d" md5="e6c8d83e57ec0041f72b4a4cdd3bc0e2" sha1="f3d75b8bc651c654fc3f6aa98ef33ccc8d9a8051"/>
+		<rom name="game\sprites\coward.png" size="2038" crc="c6b5840e" md5="d7679ab799e6d6d4df2ab44181945624" sha1="728f7baa5161c798a6d1b1f4619383bfee9b0679"/>
+		<rom name="game\sprites\dirty.png" size="1512" crc="b739e3b1" md5="59a5b1d024653b3a899a7c51a3a01e21" sha1="c68b12a42e3e680482a0e26ad15b00e586ab1763"/>
+		<rom name="game\sprites\handle.png" size="137" crc="47613238" md5="8d4c10a13a46ba415c63e04dc277d414" sha1="370485859e1463aac19e97640395135f6cd2ec7c"/>
+		<rom name="game\sprites\hom.png" size="1115" crc="8f564caa" md5="7da8b6700d067ed79c035aedcfe7b3fc" sha1="7b5c5ba5c6a005721ee41f68ea77e1dbdfd23897"/>
+		<rom name="game\sprites\homun.png" size="1213" crc="34d0ac98" md5="6e9c11b3baefe9b7df580002711b9cd3" sha1="5333d187f089b25b49499961425081dd767c41d5"/>
+		<rom name="game\sprites\level.png" size="11206" crc="03c5c709" md5="f6f20404af7719420fb6c116b066be75" sha1="bf6dfdad05b234daacb335020f6131d0c2053797"/>
+		<rom name="game\sprites\showered.png" size="1634" crc="4e6ad42b" md5="4243fc5e3a009dd3cdaa36863b2e086c" sha1="a75c5990df4831bce5190b184c2e0813d659e01a"/>
+		<rom name="game\sprites\you.png" size="532" crc="a51a3a51" md5="0eb2a33ef0bfaf8b19d7cbb569d1c4cc" sha1="4aea5cb5589efba86eadb426dfb90f983c66ca28"/>
 	</game>
 </datafile>

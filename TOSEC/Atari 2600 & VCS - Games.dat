@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Atari 2600 &amp; VCS - Games</name>
-		<description>Atari 2600 &amp; VCS - Games (TOSEC-v2023-06-19)</description>
+		<description>Atari 2600 &amp; VCS - Games (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-19</version>
+		<version>2024-01-15</version>
 		<author>NLS - madmagician - Cassiel - mictlantecuhtle - smesgr</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -88,6 +88,18 @@
 		<description>2-in-1 - Frostbite &amp; River Raid (19xx)(Genus)(PAL)[b]</description>
 		<rom name="2-in-1 - Frostbite &amp; River Raid (19xx)(Genus)(PAL)[b].a26" size="8192" crc="3ff2a0bf" md5="9c40bf810f761ffc9c1b69c4647a8b84" sha1="f8e4f7b0f34f18c1a84b97f1b3fbe6f342b16103"/>
 	</game>
+	<game name="3-D Genesis (1983)(Amiga)(US)(proto)">
+		<description>3-D Genesis (1983)(Amiga)(US)(proto)</description>
+		<rom name="3-D Genesis (1983)(Amiga)(US)(proto).a26" size="8192" crc="931a0bdc" md5="cac9928a84e1001817b223f0cecaa3f2" sha1="0e146e5eb1a68cba4f8fa55ec6f125438efcfcb4"/>
+	</game>
+	<game name="3-D Ghost Attack (1983)(Amiga)(US)(proto)">
+		<description>3-D Ghost Attack (1983)(Amiga)(US)(proto)</description>
+		<rom name="3-D Ghost Attack (1983)(Amiga)(US)(proto).a26" size="16384" crc="11396d94" md5="fcbdf405f0fc2027b0ea45bb5af94c1a" sha1="29e431c27ddb8649ec3f15966011505822907139"/>
+	</game>
+	<game name="3-D Havoc (1983)(Amiga)(US)(proto)">
+		<description>3-D Havoc (1983)(Amiga)(US)(proto)</description>
+		<rom name="3-D Havoc (1983)(Amiga)(US)(proto).a26" size="8192" crc="f75ddad1" md5="60cd61a2dfccb0e2736434f9792c1672" sha1="ce616d66d4ed90ddc972ea22555df73f6b41af8c"/>
+	</game>
 	<game name="3-D Tic-Tac-Toe (1978)(Atari - Sears)(NTSC)[CX2618, 49-75123]">
 		<description>3-D Tic-Tac-Toe (1978)(Atari - Sears)(NTSC)[CX2618, 49-75123]</description>
 		<rom name="3-D Tic-Tac-Toe (1978)(Atari - Sears)(NTSC)[CX2618, 49-75123].a26" size="2048" crc="58805709" md5="0db4f4150fecf77e4ce72ca4d04c052f" sha1="21d983f2f52b84c22ecae84b0943678ae2c31c10"/>
@@ -107,6 +119,14 @@
 	<game name="3-D Tic-Tac-Toe (1978)(Atari)(PAL)[p][o]">
 		<description>3-D Tic-Tac-Toe (1978)(Atari)(PAL)[p][o]</description>
 		<rom name="3-D Tic-Tac-Toe (1978)(Atari)(PAL)[p][o].a26" size="4096" crc="418e6638" md5="402b1ca3c230a60fb279d4a2a10fa677" sha1="e5a370e4f9531836e5b12951e44ea4a4afe9f5d7"/>
+	</game>
+	<game name="3-D Zapper (1982-12-15)(U.S. Games)(proto)">
+		<description>3-D Zapper (1982-12-15)(U.S. Games)(proto)</description>
+		<rom name="3-D Zapper (1982-12-15)(U.S. Games)(proto).a26" size="4096" crc="93c49a58" md5="4f32b24869d8c1310fecf039c6424db6" sha1="5bef293d891747e790cc083f1d663efe372cec3b"/>
+	</game>
+	<game name="3-D Zapper (198x)(U.S. Games)(proto)">
+		<description>3-D Zapper (198x)(U.S. Games)(proto)</description>
+		<rom name="3-D Zapper (198x)(U.S. Games)(proto).a26" size="4096" crc="4f405595" md5="50c7edc9f9dc0369abcdab3b4efeb5e9" sha1="af75d0e4b9c3f46d444121c9cf96ceb3a349fc1d"/>
 	</game>
 	<game name="32-in-1 - 00 - UFO (1988)(Atari)(PAL)[b][aka Space Jockey]">
 		<description>32-in-1 - 00 - UFO (1988)(Atari)(PAL)[b][aka Space Jockey]</description>
@@ -360,6 +380,10 @@
 		<description>32-in-1 Game Cartridge (1988)(Atari)(PAL)[CX26163]</description>
 		<rom name="32-in-1 Game Cartridge (1988)(Atari)(PAL)[CX26163].a26" size="65536" crc="eaef28ea" md5="291bcdb05f2b37cdf9452d2bf08e0321" sha1="97ffc252438a5c9361096a1151bdbf79bd717cb3"/>
 	</game>
+	<game name="4 Game in One (1983)(BitCorp)(PAL)">
+		<description>4 Game in One (1983)(BitCorp)(PAL)</description>
+		<rom name="4 Game in One (1983)(BitCorp)(PAL).a26" size="4096" crc="23a8d1af" md5="90578a63441de4520be5324e8f015352" sha1="3fcff056232bb7dca13e84ebe9bb2dc6bb5cd5fd"/>
+	</game>
 	<game name="4 Game in One (Dark Green) - Rodeo Champ &amp; Open Sesame &amp; Bobby is Going Home &amp; Festival (1983)(Bit)(PAL)[p][aka 4 Pak (Dark Green)][P460]">
 		<description>4 Game in One (Dark Green) - Rodeo Champ &amp; Open Sesame &amp; Bobby is Going Home &amp; Festival (1983)(Bit)(PAL)[p][aka 4 Pak (Dark Green)][P460]</description>
 		<rom name="4 Game in One (Dark Green) - Rodeo Champ &amp; Open Sesame &amp; Bobby is Going Home &amp; Festival (1983)(Bit)(PAL)[p][aka 4 Pak (Dark Green)][P460].a26" size="16384" crc="69ca1a92" md5="703f0f7af350b0fa29dfe5fbf45d0d75" sha1="b6193826df511f39077013369e625e56577f2f36"/>
@@ -384,6 +408,22 @@
 		<description>A-Team, The (1984-03-30)(Atari)(NTSC)(proto)[aka Saboteur][CX26133]</description>
 		<rom name="A-Team, The (1984-03-30)(Atari)(NTSC)(proto)[aka Saboteur][CX26133].a26" size="8192" crc="74ea91dd" md5="c00734a2233ef683d9b6e622ac97a5c8" sha1="53413577afe7def1d390e3892c45822405513c07"/>
 	</game>
+	<game name="A-VCS-tec Challenge (2006-08-26)(Quernhorst, Simon)(NTSC)">
+		<description>A-VCS-tec Challenge (2006-08-26)(Quernhorst, Simon)(NTSC)</description>
+		<rom name="A-VCS-tec Challenge (2006-08-26)(Quernhorst, Simon)(NTSC).a26" size="8192" crc="878a4c36" md5="cb81972e2cd9b175ded45d7f0892da42" sha1="2707f30ef2eabe2d211c8bf312d7605802379ef4"/>
+	</game>
+	<game name="A-VCS-tec Challenge (2006-08-26)(Quernhorst, Simon)(PAL)">
+		<description>A-VCS-tec Challenge (2006-08-26)(Quernhorst, Simon)(PAL)</description>
+		<rom name="A-VCS-tec Challenge (2006-08-26)(Quernhorst, Simon)(PAL).a26" size="8192" crc="128898c3" md5="e316102d5677928144db8c722532193e" sha1="59251ed6b26eaafca7b4265019f4585ad2adc496"/>
+	</game>
+	<game name="A-VCS-tec Challenge v005 (2003-01-10)(Quernhorst, Simon)(alpha)">
+		<description>A-VCS-tec Challenge v005 (2003-01-10)(Quernhorst, Simon)(alpha)</description>
+		<rom name="A-VCS-tec Challenge v005 (2003-01-10)(Quernhorst, Simon)(alpha).a26" size="8192" crc="b469dfdc" md5="537ed1e0d80e6c9f752b33ea7acbe079" sha1="3607f46475f4b1b8989f7327f90ca53a4ac0e9fe"/>
+	</game>
+	<game name="Abre-te, Sesamo! (1983)(CCE)(BR)[p]">
+		<description>Abre-te, Sesamo! (1983)(CCE)(BR)[p]</description>
+		<rom name="Abre-te, Sesamo! (1983)(CCE)(BR)[p].a26" size="4096" crc="8cf511a4" md5="52385334ac9e9b713e13ffa4cc5cb940" sha1="cc00c5138fd1a3b723c5f1acc90ff8e6e87942c1"/>
+	</game>
 	<game name="Ace (2003)(Rotschkar, Manuel)(NTSC)(PD)[h Driving Controller][Combat]">
 		<description>Ace (2003)(Rotschkar, Manuel)(NTSC)(PD)[h Driving Controller][Combat]</description>
 		<rom name="Ace (2003)(Rotschkar, Manuel)(NTSC)(PD)[h Driving Controller][Combat].a26" size="2048" crc="abcc15dc" md5="355b527d114c33952f62f9d4770d25fa" sha1="c80f6833c8f24b204f51e8ba0230ffb83c12081f"/>
@@ -407,6 +447,10 @@
 	<game name="Action Force (1983)(Parker Bros)(PAL)[paddle][aka G.I. Joe - Cobra Strike][931511]">
 		<description>Action Force (1983)(Parker Bros)(PAL)[paddle][aka G.I. Joe - Cobra Strike][931511]</description>
 		<rom name="Action Force (1983)(Parker Bros)(PAL)[paddle][aka G.I. Joe - Cobra Strike][931511].a26" size="4096" crc="896446cf" md5="b9f6fa399b8cd386c235983ec45e4355" sha1="9e6fb047ee9fa0a454ca23673ed9693430032dc6"/>
+	</game>
+	<game name="Actionauts (1984-06-22)(Imagic)(US)">
+		<description>Actionauts (1984-06-22)(Imagic)(US)</description>
+		<rom name="Actionauts (1984-06-22)(Imagic)(US).a26" size="4096" crc="ceddf26b" md5="a1bcbe0bfe6570da2661fc4de2f74e8a" sha1="1804ad169e2af9e14876ffb1261817b7eb846f1b"/>
 	</game>
 	<game name="Adventure (1978)(Atari - Sears)(NTSC)[CX2613, 49-75154]">
 		<description>Adventure (1978)(Atari - Sears)(NTSC)[CX2613, 49-75154]</description>
@@ -504,13 +548,25 @@
 		<description>Air-Sea Battle (1977)(Atari)(PAL)[p]</description>
 		<rom name="Air-Sea Battle (1977)(Atari)(PAL)[p].a26" size="4096" crc="b090c2ec" md5="e5fcc62e1d73706be7b895e887e90f84" sha1="055c7e4186626fdb022a89eb8d8c3078acb58112"/>
 	</game>
+	<game name="Air-Sea Battle ~ Target Fun (2003)(Atari)(JP-US)[Atari Anthology]">
+		<description>Air-Sea Battle ~ Target Fun (2003)(Atari)(JP-US)[Atari Anthology]</description>
+		<rom name="Air-Sea Battle ~ Target Fun (2003)(Atari)(JP-US)[Atari Anthology].a26" size="2048" crc="2a2a9f81" md5="835967c3a2475d852286f04b1b8c62d9" sha1="fe70d356b84c9bef28497332c6b36d9b52a0205d"/>
+	</game>
 	<game name="Airlock (1982)(Data Age)(NTSC)[DA1004]">
 		<description>Airlock (1982)(Data Age)(NTSC)[DA1004]</description>
 		<rom name="Airlock (1982)(Data Age)(NTSC)[DA1004].a26" size="4096" crc="25c90ce7" md5="4d77f291dca1518d7d8e47838695f54b" sha1="0376c242819b785310b8af43c03b1d1156bd5f02"/>
 	</game>
+	<game name="Airlock (1982)(Data Age)(US)(proto)">
+		<description>Airlock (1982)(Data Age)(US)(proto)</description>
+		<rom name="Airlock (1982)(Data Age)(US)(proto).a26" size="4096" crc="b6ae31c6" md5="8c7e5e2329f4f4e06cbcc994a30fd352" sha1="09ae3715873a88386b3bc11e429f82919b91fa1a"/>
+	</game>
 	<game name="Airlock (1982)(Data Age)[b]">
 		<description>Airlock (1982)(Data Age)[b]</description>
 		<rom name="Airlock (1982)(Data Age)[b].a26" size="4094" crc="cd8f05d5" md5="1c2675e39621cffdf855873e9e79da73" sha1="060aa030555a90b3ea9c00dd5cb2bfd61933b9a6"/>
+	</game>
+	<game name="Airlock (1983)(Gameworld)(EU)">
+		<description>Airlock (1983)(Gameworld)(EU)</description>
+		<rom name="Airlock (1983)(Gameworld)(EU).a26" size="4096" crc="a2d4390b" md5="62899430338e0538ee93397867d85957" sha1="a94b103806d33546aa8fac0056cd57b818bfed8c"/>
 	</game>
 	<game name="Alice's Abenteuer - Lilly Adventure (1983)(StarSoft - Quelle)(PAL)(DE)[732.273 8, 600273, 781644]">
 		<description>Alice's Abenteuer - Lilly Adventure (1983)(StarSoft - Quelle)(PAL)(DE)[732.273 8, 600273, 781644]</description>
@@ -572,6 +628,14 @@
 		<description>Alligator People (1983)(20th Century Fox)(NTSC)(proto)</description>
 		<rom name="Alligator People (1983)(20th Century Fox)(NTSC)(proto).a26" size="4096" crc="b3f6d395" md5="e1a51690792838c5c687da80cd764d78" sha1="a1795d6371ddb0bc93ba6df70299cc548dc88b99"/>
 	</game>
+	<game name="Alpha Beam with Ernie (1982-12-22)(Atari)(JP-US)(proto)">
+		<description>Alpha Beam with Ernie (1982-12-22)(Atari)(JP-US)(proto)</description>
+		<rom name="Alpha Beam with Ernie (1982-12-22)(Atari)(JP-US)(proto).a26" size="8192" crc="85f1cb08" md5="8f5ac5139419c5d49bacc296e342a247" sha1="7118f2401a0d34996762d9838d2f4bacf745fde3"/>
+	</game>
+	<game name="Alpha Beam with Ernie (1983-06-03)(Atari)(EU)(proto)">
+		<description>Alpha Beam with Ernie (1983-06-03)(Atari)(EU)(proto)</description>
+		<rom name="Alpha Beam with Ernie (1983-06-03)(Atari)(EU)(proto).a26" size="8192" crc="1651f45e" md5="df95e4af466c809619299f49ece92365" sha1="ea1124a3eac39133f59d664545c33cc514022067"/>
+	</game>
 	<game name="Alternate Adventure (2005)(Pac-Man Plus)(NTSC)[h][Adventure]">
 		<description>Alternate Adventure (2005)(Pac-Man Plus)(NTSC)[h][Adventure]</description>
 		<rom name="Alternate Adventure (2005)(Pac-Man Plus)(NTSC)[h][Adventure].a26" size="4096" crc="74a6c354" md5="a5cb94a0730c7cef1d22a633e06211c8" sha1="b6e52169f400e0a6217755825ed9e829636b0b1d"/>
@@ -608,6 +672,58 @@
 		<description>Amidar DS - Faster Enemies (2003)(Jentzsch, Thomas)(NTSC)[h][Amidar]</description>
 		<rom name="Amidar DS - Faster Enemies (2003)(Jentzsch, Thomas)(NTSC)[h][Amidar].a26" size="4096" crc="851ccf3d" md5="93b9229fc0ea4fb959d604f83f8f603c" sha1="f4688fc8278a2c2040b3eaf90ef7323f6523555a"/>
 	</game>
+	<game name="Amoeba Jump (2018-06-26)(Dionoid)[Retron 77]">
+		<description>Amoeba Jump (2018-06-26)(Dionoid)[Retron 77]</description>
+		<rom name="Amoeba Jump (2018-06-26)(Dionoid)[Retron 77].a26" size="4096" crc="4e7b271c" md5="7761418d46af069b8cd80c29fe6cd814" sha1="57e093068be21f68faee4e5566a65f8a92a955e5"/>
+	</game>
+	<game name="Amoeba Jump (2018-07-10)(Dionoid)(NTSC)">
+		<description>Amoeba Jump (2018-07-10)(Dionoid)(NTSC)</description>
+		<rom name="Amoeba Jump (2018-07-10)(Dionoid)(NTSC).a26" size="4096" crc="bd556b76" md5="ebbbdf4a936732eba7c16523507b1111" sha1="a0e55971bac368902eb11838174f62d10e401a0a"/>
+	</game>
+	<game name="Amoeba Jump (2018-07-10)(Dionoid)(PAL50)">
+		<description>Amoeba Jump (2018-07-10)(Dionoid)(PAL50)</description>
+		<rom name="Amoeba Jump (2018-07-10)(Dionoid)(PAL50).a26" size="4096" crc="0366ad7c" md5="ccdc570cd66b12d97755caa88a3667ea" sha1="db7fcf14696c6d982d4ddc37e4841eef5efe3029"/>
+	</game>
+	<game name="Amoeba Jump (2018-07-10)(Dionoid)(PAL60)">
+		<description>Amoeba Jump (2018-07-10)(Dionoid)(PAL60)</description>
+		<rom name="Amoeba Jump (2018-07-10)(Dionoid)(PAL60).a26" size="4096" crc="fa04ae89" md5="ca0035430dad7dd4f9391f232091d216" sha1="a4d87f3c130f4ed89b8e1c4d8f7c6bed87a88bca"/>
+	</game>
+	<game name="Amoeba Jump v0.1 (201x)(Dionoid)">
+		<description>Amoeba Jump v0.1 (201x)(Dionoid)</description>
+		<rom name="Amoeba Jump v0.1 (201x)(Dionoid).a26" size="4096" crc="4ffbb09b" md5="2649013b983ce353473168d2a0ce2bd3" sha1="a69d25f01d02ee022d3cca20542ea347ea1892de"/>
+	</game>
+	<game name="Amoeba Jump v1.0 (2018-10-04)(Dionoid)(NTSC)">
+		<description>Amoeba Jump v1.0 (2018-10-04)(Dionoid)(NTSC)</description>
+		<rom name="Amoeba Jump v1.0 (2018-10-04)(Dionoid)(NTSC).a26" size="4096" crc="07caa266" md5="5f88a812de688ddc605d4114fab8b16d" sha1="5d62d704ded2e551179892f211e656b451e94524"/>
+	</game>
+	<game name="Amoeba Jump v1.0 (2018-10-04)(Dionoid)(PAL)">
+		<description>Amoeba Jump v1.0 (2018-10-04)(Dionoid)(PAL)</description>
+		<rom name="Amoeba Jump v1.0 (2018-10-04)(Dionoid)(PAL).a26" size="4096" crc="901680b6" md5="817155b4bbe542fd44ef940169602093" sha1="0aa2381702efa92ef4f6ea8c6b283efa1c02ce78"/>
+	</game>
+	<game name="Amoeba Jump v1.1 (2018-10-06)(Dionoid)(NTSC)">
+		<description>Amoeba Jump v1.1 (2018-10-06)(Dionoid)(NTSC)</description>
+		<rom name="Amoeba Jump v1.1 (2018-10-06)(Dionoid)(NTSC).a26" size="4096" crc="515fa592" md5="3b395ae0cc96eddea898ff2da4332481" sha1="b8dd13fe98dc818f1894a0df0530f5e12264661e"/>
+	</game>
+	<game name="Amoeba Jump v1.1 (2018-10-06)(Dionoid)(PAL)">
+		<description>Amoeba Jump v1.1 (2018-10-06)(Dionoid)(PAL)</description>
+		<rom name="Amoeba Jump v1.1 (2018-10-06)(Dionoid)(PAL).a26" size="4096" crc="e592d6c8" md5="4d39a281703687b285a1f132690ef498" sha1="3ab427fb531030b60a7c2dc5c42e76519a03c40b"/>
+	</game>
+	<game name="Amoeba Jump v1.2 (2018-10-07)(Dionoid)(NTSC)">
+		<description>Amoeba Jump v1.2 (2018-10-07)(Dionoid)(NTSC)</description>
+		<rom name="Amoeba Jump v1.2 (2018-10-07)(Dionoid)(NTSC).a26" size="4096" crc="a5617694" md5="03e976a52dbfb5ee03d92fd6c0e9a405" sha1="3f9ed9d8ece40cad7907c01b8a559110caf59a3e"/>
+	</game>
+	<game name="Amoeba Jump v1.2 (2018-10-07)(Dionoid)(PAL)">
+		<description>Amoeba Jump v1.2 (2018-10-07)(Dionoid)(PAL)</description>
+		<rom name="Amoeba Jump v1.2 (2018-10-07)(Dionoid)(PAL).a26" size="4096" crc="3644c33a" md5="04bff96f7e878aaf4d65dce325c8645a" sha1="78fc003879b084e6e6477c16ba840f58712803ae"/>
+	</game>
+	<game name="Amoeba Jump v1.3 (201x)(Dionoid)(NTSC)">
+		<description>Amoeba Jump v1.3 (201x)(Dionoid)(NTSC)</description>
+		<rom name="Amoeba Jump v1.3 (201x)(Dionoid)(NTSC).a26" size="4096" crc="e4349cef" md5="539f3c42c4e15f450ed93cb96ce93af5" sha1="dccbfb28358ca8339920b584cf64465905ce1354"/>
+	</game>
+	<game name="Amoeba Jump v1.3 (201x)(Dionoid)(PAL)">
+		<description>Amoeba Jump v1.3 (201x)(Dionoid)(PAL)</description>
+		<rom name="Amoeba Jump v1.3 (201x)(Dionoid)(PAL).a26" size="4096" crc="77112941" md5="0c72cc3a6658c1abd4b735ef55fa72e4" sha1="b04b1181950e2bb898ea23ff11de93c9b56fdc65"/>
+	</game>
 	<game name="Amoebaoids (2005)(Jamcat)(NTSC)[h][Asteroids]">
 		<description>Amoebaoids (2005)(Jamcat)(NTSC)[h][Asteroids]</description>
 		<rom name="Amoebaoids (2005)(Jamcat)(NTSC)[h][Asteroids].a26" size="8192" crc="1c2bb11b" md5="fc9f6211869d0345a98889125b60234f" sha1="9919f5f359d474317b5676e624f18628fb7a27ca"/>
@@ -615,6 +731,10 @@
 	<game name="Ancipital - Ode to Yak the Hairy (2004)(GodMedia)(NTSC)[h][Bezerk]">
 		<description>Ancipital - Ode to Yak the Hairy (2004)(GodMedia)(NTSC)[h][Bezerk]</description>
 		<rom name="Ancipital - Ode to Yak the Hairy (2004)(GodMedia)(NTSC)[h][Bezerk].a26" size="4096" crc="32fc4255" md5="cb55dc9c78492747c561a6ad6e7db044" sha1="a147bbed14e5286da026a7a29769b462e99507ff"/>
+	</game>
+	<game name="AndroMan on the Moon (1984)(Androbot)(US)(proto)">
+		<description>AndroMan on the Moon (1984)(Androbot)(US)(proto)</description>
+		<rom name="AndroMan on the Moon (1984)(Androbot)(US)(proto).a26" size="8192" crc="18344a20" md5="0866e22f6f56f92ea1a14c8d8d01d29c" sha1="3d3623fa0d87ea02f2a080d959a127223e757b3f"/>
 	</game>
 	<game name="Anglen (198x)(Ariola)(PAL)(DE)[aka Fishing Derby][PGP237]">
 		<description>Anglen (198x)(Ariola)(PAL)(DE)[aka Fishing Derby][PGP237]</description>
@@ -627,6 +747,14 @@
 	<game name="Angriff der Luftflotten (198x)(Quelle)(PAL)(DE)[aka Paris Attack, aka M.A.D.][495.463 2, 746381]">
 		<description>Angriff der Luftflotten (198x)(Quelle)(PAL)(DE)[aka Paris Attack, aka M.A.D.][495.463 2, 746381]</description>
 		<rom name="Angriff der Luftflotten (198x)(Quelle)(PAL)(DE)[aka Paris Attack, aka M.A.D.][495.463 2, 746381].a26" size="4096" crc="74fe8262" md5="adf1afac3bdd7b36d2eda5949f1a0fa3" sha1="ac58ac94ceab78725a1182cc7b907376c011b0c8"/>
+	</game>
+	<game name="Angry Video Game Nerd K.O. Boxing (2009-09-06)(Devin)(NTSC)">
+		<description>Angry Video Game Nerd K.O. Boxing (2009-09-06)(Devin)(NTSC)</description>
+		<rom name="Angry Video Game Nerd K.O. Boxing (2009-09-06)(Devin)(NTSC).a26" size="32768" crc="53f02c00" md5="6a7e6fc102bf7459f89419c548a79e2c" sha1="bbcac5c5b2384ab6aa83574e6b9486c4b60822d4"/>
+	</game>
+	<game name="Angry Video Game Nerd K.O. Boxing (2009-09-06)(Devin)(PAL60)">
+		<description>Angry Video Game Nerd K.O. Boxing (2009-09-06)(Devin)(PAL60)</description>
+		<rom name="Angry Video Game Nerd K.O. Boxing (2009-09-06)(Devin)(PAL60).a26" size="32768" crc="9a8505b6" md5="27279303df0884b2423c2ed1fb7ddc92" sha1="f723b83145bd43e2fb4767e35bcb25958c8b2d03"/>
 	</game>
 	<game name="Anguna 2600 (2017)(Bite the Chili Productions)(NCSA)">
 		<description>Anguna 2600 (2017)(Bite the Chili Productions)(NCSA)</description>
@@ -703,6 +831,14 @@
 	<game name="Assault (1983)(Bomb - Onbase)(NTSC)[aka Sky Alien][CA281]">
 		<description>Assault (1983)(Bomb - Onbase)(NTSC)[aka Sky Alien][CA281]</description>
 		<rom name="Assault (1983)(Bomb - Onbase)(NTSC)[aka Sky Alien][CA281].a26" size="4096" crc="ab3a2b77" md5="de78b3a064d374390ac0710f95edde92" sha1="0c03eba97df5178eec5d4d0aea4a6fe2f961c88f"/>
+	</game>
+	<game name="Assembloids r9 (2018-10-20)(PriorArt)(NTSC)">
+		<description>Assembloids r9 (2018-10-20)(PriorArt)(NTSC)</description>
+		<rom name="Assembloids r9 (2018-10-20)(PriorArt)(NTSC).a26" size="4096" crc="d4d27332" md5="2e161d0d4c23e2292a33d0148ef089bf" sha1="6cd92ad0f8d1e2ae596e9ac8e11ada9408c31546"/>
+	</game>
+	<game name="Assembloids r9 (2018-10-20)(PriorArt)(PAL)">
+		<description>Assembloids r9 (2018-10-20)(PriorArt)(PAL)</description>
+		<rom name="Assembloids r9 (2018-10-20)(PriorArt)(PAL).a26" size="4096" crc="c106ab8f" md5="35f2237213a6771500e324184c37d8b8" sha1="46e789a5843d5ce002932fd05386c580f3aeb026"/>
 	</game>
 	<game name="Aster-Hawk (2002)(Morgan, Charles)(NTSC)[h][Asteroids]">
 		<description>Aster-Hawk (2002)(Morgan, Charles)(NTSC)[h][Asteroids]</description>
@@ -807,6 +943,10 @@
 	<game name="Atari Video Cube (1982)(Atari - GCC)(NTSC)[CX2670]">
 		<description>Atari Video Cube (1982)(Atari - GCC)(NTSC)[CX2670]</description>
 		<rom name="Atari Video Cube (1982)(Atari - GCC)(NTSC)[CX2670].a26" size="4096" crc="272ae37f" md5="3f540a30fdee0b20aed7288e4a5ea528" sha1="d1563c24208766cf8d28de7af995021a9f89d7e1"/>
+	</game>
+	<game name="Atari Video Cube (2003)(Atari)(EU-US)[Atari Anthology]">
+		<description>Atari Video Cube (2003)(Atari)(EU-US)[Atari Anthology]</description>
+		<rom name="Atari Video Cube (2003)(Atari)(EU-US)[Atari Anthology].a26" size="4096" crc="8172299e" md5="7e860c06fcd1ab31c6975daec7fa1e84" sha1="ac141bb18cacc5d197ff4f9b5bef18683c989474"/>
 	</game>
 	<game name="AtariAge Combat Redux Design Contest - 5-11under_1 (2004)(5-11under)(NTSC)[h][Combat]">
 		<description>AtariAge Combat Redux Design Contest - 5-11under_1 (2004)(5-11under)(NTSC)[h][Combat]</description>
@@ -3064,6 +3204,14 @@
 		<description>Atlantis II (1982)(Imagic - Koble, Dennis)(NTSC)</description>
 		<rom name="Atlantis II (1982)(Imagic - Koble, Dennis)(NTSC).a26" size="4096" crc="ba5566aa" md5="826481f6fc53ea47c9f272f7050eedf7" sha1="f4e838de9159c149ac080ab85e4f830d5b299963"/>
 	</game>
+	<game name="Atom Smasher (1984)(Video Soft)(proto)[b]">
+		<description>Atom Smasher (1984)(Video Soft)(proto)[b]</description>
+		<rom name="Atom Smasher (1984)(Video Soft)(proto)[b].a26" size="8192" crc="1712423a" md5="6ceb7d6a54e9a5e62d26874d1cc88dbc" sha1="ff2a4cec8005a1b04c20671f9d06aefebbb0fda1"/>
+	</game>
+	<game name="Atom Smasher (1984)(Video Soft)(proto)[f stack pointer]">
+		<description>Atom Smasher (1984)(Video Soft)(proto)[f stack pointer]</description>
+		<rom name="Atom Smasher (1984)(Video Soft)(proto)[f stack pointer].a26" size="8192" crc="f2456e02" md5="2cc3049b7feb8e92f1870f1972629757" sha1="c0466c0d87b4faf2319d5ee1bc940db54fea03d8"/>
+	</game>
 	<game name="Attack Of The Mutant Space Urchins (2002)(Laws, Barry Jr)[h][Alien]">
 		<description>Attack Of The Mutant Space Urchins (2002)(Laws, Barry Jr)[h][Alien]</description>
 		<rom name="Attack Of The Mutant Space Urchins (2002)(Laws, Barry Jr)[h][Alien].a26" size="4096" crc="f2626825" md5="a7cf2b9afdbb3a161bf418dbcf0321dc" sha1="9cd7a54e2b25cbe042d02299dfcacf2521a89d1b"/>
@@ -3188,6 +3336,14 @@
 		<description>Battlezone (1983)(Atari)(PAL)[a]</description>
 		<rom name="Battlezone (1983)(Atari)(PAL)[a].a26" size="8192" crc="e71358d3" md5="2319922df4d0c820b3e5f15faa870cc3" sha1="5cac793eb076c3ee559ec4eb7276629eae849d8f"/>
 	</game>
+	<game name="Battlezone (1983-05-02)(Atari)(JP-US)(proto)">
+		<description>Battlezone (1983-05-02)(Atari)(JP-US)(proto)</description>
+		<rom name="Battlezone (1983-05-02)(Atari)(JP-US)(proto).a26" size="8192" crc="c1e6d7cf" md5="e434c0e161dd3c3fb435eb6bad2e182c" sha1="fafd522e36a4888dfc2a40b1d5879ee8a33d7931"/>
+	</game>
+	<game name="Battlezone (1983-05-12)(Atari)(JP-US)(proto)">
+		<description>Battlezone (1983-05-12)(Atari)(JP-US)(proto)</description>
+		<rom name="Battlezone (1983-05-12)(Atari)(JP-US)(proto).a26" size="8192" crc="63f31af6" md5="5b85e987e2b1618769d97ba9182333d0" sha1="3e226d8ffa975b937d808f73f79b3f052c3b067e"/>
+	</game>
 	<game name="Battlezone TC (2002)(Jentzsch, Thomas)(NTSC)[h Two Joysticks][Battlezone]">
 		<description>Battlezone TC (2002)(Jentzsch, Thomas)(NTSC)[h Two Joysticks][Battlezone]</description>
 		<rom name="Battlezone TC (2002)(Jentzsch, Thomas)(NTSC)[h Two Joysticks][Battlezone].a26" size="16384" crc="6a5f1668" md5="6015a9cef783e97e98a2aa2cf070ae06" sha1="89726488e57088bd670d436d9ad313ed664bf048"/>
@@ -3248,6 +3404,14 @@
 		<description>Beat 'Em and Eat 'Em (1982)(Mystique - Playaround)[b]</description>
 		<rom name="Beat 'Em and Eat 'Em (1982)(Mystique - Playaround)[b].a26" size="4095" crc="4340dbac" md5="8bc6891710415bfc27e4f4c3b9db1a3f" sha1="a55c214abf3e6df990b707890a0d457f27174b30"/>
 	</game>
+	<game name="Beat'Em and Eat'Em (1982)(Mystique)(AU)">
+		<description>Beat'Em and Eat'Em (1982)(Mystique)(AU)</description>
+		<rom name="Beat'Em and Eat'Em (1982)(Mystique)(AU).a26" size="4096" crc="461c9f2c" md5="b4f31ea8a6cc9f1fd4d5585a87c3b487" sha1="8b7d6a0c5e14c52ddb18e7be7c84f45abef94bc0"/>
+	</game>
+	<game name="Beat'Em and Eat'Em (1983)(Dynacom)(BR)">
+		<description>Beat'Em and Eat'Em (1983)(Dynacom)(BR)</description>
+		<rom name="Beat'Em and Eat'Em (1983)(Dynacom)(BR).a26" size="4096" crc="e4f66058" md5="6c25f58fd184632ca76020f589bb3767" sha1="8e8e334fa481698d0adb7f9cb7852e49ac462eb9"/>
+	</game>
 	<game name="Berenstain Bears (1983)(Coleco)(NTSC)[Requires Kid Vid Controller and Audio Tape Files]">
 		<description>Berenstain Bears (1983)(Coleco)(NTSC)[Requires Kid Vid Controller and Audio Tape Files]</description>
 		<rom name="Berenstain Bears (1983)(Coleco)(NTSC)[Requires Kid Vid Controller and Audio Tape Files].a26" size="8192" crc="29d28baf" md5="ee6665683ebdb539e89ba620981cb0f6" sha1="c3afd7909b72b49ca7d4485465b622d5e55f8913"/>
@@ -3267,6 +3431,10 @@
 	<game name="Bermuda Triangle (1982)(Data Age)(NTSC)">
 		<description>Bermuda Triangle (1982)(Data Age)(NTSC)</description>
 		<rom name="Bermuda Triangle (1982)(Data Age)(NTSC).a26" size="4096" crc="0fcb5b94" md5="b8ed78afdb1e6cfe44ef6e3428789d5f" sha1="fcad0e5130de24f06b98fb86a7c3214841ca42e2"/>
+	</game>
+	<game name="Bermuda Triangle (1983)(Gameworld)(EU)">
+		<description>Bermuda Triangle (1983)(Gameworld)(EU)</description>
+		<rom name="Bermuda Triangle (1983)(Gameworld)(EU).a26" size="4096" crc="a8c0aec9" md5="36c993dc328933e4dd6374a8ffe224f4" sha1="9a566ae9354fc94da9fe7a53db49dba57f53c260"/>
 	</game>
 	<game name="Berzerk (1982)(Atari)(NTSC)">
 		<description>Berzerk (1982)(Atari)(NTSC)</description>
@@ -3332,6 +3500,18 @@
 		<description>Bi! Bi! (198x)(Rainbow Vision - StarSoft)(PAL)[292]</description>
 		<rom name="Bi! Bi! (198x)(Rainbow Vision - StarSoft)(PAL)[292].a26" size="4096" crc="1e02bcb9" md5="2fae44c5ff4353096b503efe66092fa4" sha1="168b89b16c4b829d630b545bdcc534338bcfcdbb"/>
 	</game>
+	<game name="Big Bird's Egg Catch (1982-12-08)(Atari)(JP-US)(proto)">
+		<description>Big Bird's Egg Catch (1982-12-08)(Atari)(JP-US)(proto)</description>
+		<rom name="Big Bird's Egg Catch (1982-12-08)(Atari)(JP-US)(proto).a26" size="8192" crc="9de03520" md5="afd2cf258d51ae4965ee21abba3627ab" sha1="a3ab3699d945ac356aeff637046f197f9d6f7063"/>
+	</game>
+	<game name="Big Bird's Egg Catch (1983-05-02)(Atari)(JP-US)(proto)">
+		<description>Big Bird's Egg Catch (1983-05-02)(Atari)(JP-US)(proto)</description>
+		<rom name="Big Bird's Egg Catch (1983-05-02)(Atari)(JP-US)(proto).a26" size="8192" crc="eeb65efa" md5="151fa3218d8d7600114eb5bcd79c85cb" sha1="aafb88ef8f95b1051cb8b6a153b165215c95c7bd"/>
+	</game>
+	<game name="Big Bird's Egg Catch (1983-05-17)(Atari)(JP-US)(proto)">
+		<description>Big Bird's Egg Catch (1983-05-17)(Atari)(JP-US)(proto)</description>
+		<rom name="Big Bird's Egg Catch (1983-05-17)(Atari)(JP-US)(proto).a26" size="8192" crc="3a4038ac" md5="0b17ed42984000da8b727ca46143f87a" sha1="e2b0304de695cea7c98344642254b7f181e928d2"/>
+	</game>
 	<game name="Big Dig (2002-10-20)(Tumber, Christopher)(NTSC)">
 		<description>Big Dig (2002-10-20)(Tumber, Christopher)(NTSC)</description>
 		<rom name="Big Dig (2002-10-20)(Tumber, Christopher)(NTSC).a26" size="4096" crc="71ff02f7" md5="23e4ca038aba11982e1694559f3be10f" sha1="83f4c84ebd34aa3ed62430f4bd1aa3417353bdaf"/>
@@ -3367,6 +3547,10 @@
 	<game name="Biplane Air Raiders (2005)(Jamcat)(NTSC)[h][Air Raiders]">
 		<description>Biplane Air Raiders (2005)(Jamcat)(NTSC)[h][Air Raiders]</description>
 		<rom name="Biplane Air Raiders (2005)(Jamcat)(NTSC)[h][Air Raiders].a26" size="4096" crc="cbe74e78" md5="d88699dfff25c7e99dbcc7b5d284ce66" sha1="9a66ea891c25c041a88e5ec0d295e9ffeecaba15"/>
+	</game>
+	<game name="Birthday Mania (1984)(Tokar, Robert A.)(US)">
+		<description>Birthday Mania (1984)(Tokar, Robert A.)(US)</description>
+		<rom name="Birthday Mania (1984)(Tokar, Robert A.)(US).a26" size="4096" crc="a9400431" md5="a6239810564638de7e4c54e66b3014e4" sha1="d51e8f48f985557da31a70ed79b044dd52381b25"/>
 	</game>
 	<game name="Black Hole (198x)(StarSoft)(PAL)[aka Cosmic Ark]">
 		<description>Black Hole (198x)(StarSoft)(PAL)[aka Cosmic Ark]</description>
@@ -3428,6 +3612,10 @@
 		<description>Blueprint (1983)(CBS Electronics)(PAL)</description>
 		<rom name="Blueprint (1983)(CBS Electronics)(PAL).a26" size="8192" crc="71139a5e" md5="2432f33fd278dea5fe6ae94073627fcc" sha1="1b7bdc477b5b8488fc1c5566ca910297dc81f488"/>
 	</game>
+	<game name="Blueprint (1983)(CBS Electronics)(US)(proto)">
+		<description>Blueprint (1983)(CBS Electronics)(US)(proto)</description>
+		<rom name="Blueprint (1983)(CBS Electronics)(US)(proto).a26" size="8192" crc="5a95a4f4" md5="345488d3b014b684a181108f0ef823cb" sha1="66753a7fffaa432bdacdb18e7dcf0976e27d8abe"/>
+	</game>
 	<game name="BMX Air Master (1989)(Atari)(PAL)">
 		<description>BMX Air Master (1989)(Atari)(PAL)</description>
 		<rom name="BMX Air Master (1989)(Atari)(PAL).a26" size="16384" crc="db722dd7" md5="4f89b897444e7c3b36aed469b8836839" sha1="30d52041c59a240a8ebe2749e4de32bbc74988ee"/>
@@ -3451,6 +3639,10 @@
 	<game name="Bobby is Going Home (19xx)(CCE)(NTSC)[f NTSC Jentzsch, Thomas]">
 		<description>Bobby is Going Home (19xx)(CCE)(NTSC)[f NTSC Jentzsch, Thomas]</description>
 		<rom name="Bobby is Going Home (19xx)(CCE)(NTSC)[f NTSC Jentzsch, Thomas].a26" size="4096" crc="97559337" md5="afe776db50e3378cd6f29c7cdd79104a" sha1="0dbc3d06b906be0819ccb428f45cc09019d357be"/>
+	</game>
+	<game name="Bobby is Going Home (1983)(Bit Corporation)(US)">
+		<description>Bobby is Going Home (1983)(Bit Corporation)(US)</description>
+		<rom name="Bobby is Going Home (1983)(Bit Corporation)(US).a26" size="4096" crc="99a2a654" md5="521f4dd1eb84a09b2b19959a41839aad" sha1="6c4a96aec21f6cede3f43cd12842bc7238648770"/>
 	</game>
 	<game name="Bobby is Going Home (19xx)(CCE)(PAL)">
 		<description>Bobby is Going Home (19xx)(CCE)(PAL)</description>
@@ -4346,7 +4538,7 @@
 	</game>
 	<game name="Cosmic Ark (1982)(Imagic)(NTSC)[a selectable star field][IA3204]">
 		<description>Cosmic Ark (1982)(Imagic)(NTSC)[a selectable star field][IA3204]</description>
-		<rom name="Cosmic Ark (1982)(Imagic)(NTSC)[a selectable star field][IA3204].a26" size="4096" crc32="f1421b2f" md5="7d903411807704e725cf3fafbeb97255" sha1="4340fdd768d66bcae7e5464c3149d427a32a848a"/>
+		<rom name="Cosmic Ark (1982)(Imagic)(NTSC)[a selectable star field][IA3204].a26" size="4096" crc="f1421b2f" md5="7d903411807704e725cf3fafbeb97255" sha1="4340fdd768d66bcae7e5464c3149d427a32a848a"/>
 	</game>
 	<game name="Cosmic Ark (1982)(Imagic)(PAL)">
 		<description>Cosmic Ark (1982)(Imagic)(PAL)</description>
@@ -4693,20 +4885,20 @@
 		<rom name="Deadly Duck (1982)(20th Century Fox)(NTSC)[a].a26" size="4096" crc="250758d2" md5="80cd42881e670e4b74a9ccd10d0d7b2e" sha1="9e4ced9e3675d335d7fdd7051ab035db3621543d"/>
 	</game>
 	<game name="Death Derby (2001-09-22)(Saunders, Glenn)(PD)(alpha)">
-		<description>Death Derby (2001-09-22)(Saunders, Glenn)(PD)(alpha)</description>
-		<rom name="Death Derby (2001-09-22)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="e5dec87e" md5="ff4ed162386c795b4fb434903295b571" sha1="fa45703412c6b3e7dd8e60138d27d061e789319a"/>
+        <description>Death Derby (2001-09-22)(Saunders, Glenn)(PD)(alpha)</description>
+        <rom name="Death Derby (2001-09-22)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="e5dec87e" md5="ff4ed162386c795b4fb434903295b571" sha1="fa45703412c6b3e7dd8e60138d27d061e789319a"/>
 	</game>
 	<game name="Death Derby (2001-09-23)(Saunders, Glenn)(PD)(alpha)">
-		<description>Death Derby (2001-09-23)(Saunders, Glenn)(PD)(alpha)</description>
-		<rom name="Death Derby (2001-09-23)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="a1d548dd" md5="19829cfe884e30219c868b2d9a5b3540" sha1="49df3faa4dab1e119f10a5582eed14f7ee015199"/>
+        <description>Death Derby (2001-09-23)(Saunders, Glenn)(PD)(alpha)</description>
+        <rom name="Death Derby (2001-09-23)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="a1d548dd" md5="19829cfe884e30219c868b2d9a5b3540" sha1="49df3faa4dab1e119f10a5582eed14f7ee015199"/>
 	</game>
 	<game name="Death Derby (2001-10-06)(Saunders, Glenn)(PD)(alpha)">
-		<description>Death Derby (2001-10-06)(Saunders, Glenn)(PD)(alpha)</description>
-		<rom name="Death Derby (2001-10-06)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="6e399718" md5="d05e371765929bf5d39c91c6ea189bec" sha1="b11e94b3738147ddd0c2ac34b4aa7ac5291244b4"/>
+        <description>Death Derby (2001-10-06)(Saunders, Glenn)(PD)(alpha)</description>
+        <rom name="Death Derby (2001-10-06)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="6e399718" md5="d05e371765929bf5d39c91c6ea189bec" sha1="b11e94b3738147ddd0c2ac34b4aa7ac5291244b4"/>
 	</game>
 	<game name="Death Derby (2001-10-14)(Saunders, Glenn)(PD)(alpha)">
-		<description>Death Derby (2001-10-14)(Saunders, Glenn)(PD)(alpha)</description>
-		<rom name="Death Derby (2001-10-14)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="9d25561b" md5="1edfbde1dba5498c14dcb80277cd9b99" sha1="caa68467c08152aa90d1865b6c36aa68fcc53454"/>
+        <description>Death Derby (2001-10-14)(Saunders, Glenn)(PD)(alpha)</description>
+        <rom name="Death Derby (2001-10-14)(Saunders, Glenn)(PD)(alpha).a26" size="4096" crc="9d25561b" md5="1edfbde1dba5498c14dcb80277cd9b99" sha1="caa68467c08152aa90d1865b6c36aa68fcc53454"/>
 	</game>
 	<game name="Death Derby (2001-10-21)(Saunders, Glenn)(PD)(alpha)">
 		<description>Death Derby (2001-10-21)(Saunders, Glenn)(PD)(alpha)</description>
@@ -4767,6 +4959,22 @@
 	<game name="Decathlon (1983)(Activision)(NTSC)[AG-930-04, AZ-030]">
 		<description>Decathlon (1983)(Activision)(NTSC)[AG-930-04, AZ-030]</description>
 		<rom name="Decathlon (1983)(Activision)(NTSC)[AG-930-04, AZ-030].a26" size="8192" crc="91b8f1b2" md5="ac7c2260378975614192ca2bc3d20e0b" sha1="717656f561823edaa69240471c3106963f5c307e"/>
+	</game>
+	<game name="Decathlon (1983)(Activision)(SECAM)">
+		<description>Decathlon (1983)(Activision)(SECAM)</description>
+		<rom name="Decathlon (1983)(Activision)(SECAM).a26" size="8192" crc="716d9d1d" md5="ede4ab11ca346bd023b2c21d941e0c50" sha1="7da9cc2383d09835d345ec7d6e76d223591d2a2a"/>
+	</game>
+	<game name="Decathlon (1983)(Activision)(US)">
+		<description>Decathlon (1983)(Activision)(US)</description>
+		<rom name="Decathlon (1983)(Activision)(US).a26" size="8192" crc="3feb39b1" md5="525f2dfc8b21b0186cff2568e0509bfc" sha1="e0d47565df935c064bc4055636f37a0432ab3727"/>
+	</game>
+	<game name="Defend Your Castle (2016)(Mr. Atari)(NTSC)">
+		<description>Defend Your Castle (2016)(Mr. Atari)(NTSC)</description>
+		<rom name="Defend Your Castle (2016)(Mr. Atari)(NTSC).a26" size="4096" crc="6504a2ce" md5="fa7d241a357080aac84b8a4c2b2b107a" sha1="f6396aae78847986b8fe189e71e8a0c5ff7d7c25"/>
+	</game>
+	<game name="Defend Your Castle (2016)(Mr. Atari)(PAL)">
+		<description>Defend Your Castle (2016)(Mr. Atari)(PAL)</description>
+		<rom name="Defend Your Castle (2016)(Mr. Atari)(PAL).a26" size="4096" crc="a8d90005" md5="6bdae9630019c31b5094529b424f8808" sha1="127448c28b09bd8a8ccb2e3b8d13b06e0bfe5d01"/>
 	</game>
 	<game name="Defender (1981)(Atari)(NTSC)">
 		<description>Defender (1981)(Atari)(NTSC)</description>
@@ -5331,6 +5539,22 @@
 	<game name="Elk Attack (1987)(Atari)(NTSC)(proto)">
 		<description>Elk Attack (1987)(Atari)(NTSC)(proto)</description>
 		<rom name="Elk Attack (1987)(Atari)(NTSC)(proto).a26" size="8192" crc="02ddde9f" md5="7eafc9827e8d5b1336905939e097aae7" sha1="3983e109fc0b38c0b559a09a001f3e5f2bb1dc2a"/>
+	</game>
+	<game name="Emelie and Maxwell in The Case of the Haunted Bakery (2017-08-13)(Denebola Interactive)(NTSC)">
+		<description>Emelie and Maxwell in The Case of the Haunted Bakery (2017-08-13)(Denebola Interactive)(NTSC)</description>
+		<rom name="Emelie and Maxwell in The Case of the Haunted Bakery (2017-08-13)(Denebola Interactive)(NTSC).a26" size="16384" crc="8edb3143" md5="d4aa10c32371a579d8b3da00d65f112d" sha1="8fb6baa2b9a31e3872cda0051da6149910f24201"/>
+	</game>
+	<game name="Emelie and Maxwell in The Case of the Haunted Bakery (2017-08-13)(Denebola Interactive)(PAL)">
+		<description>Emelie and Maxwell in The Case of the Haunted Bakery (2017-08-13)(Denebola Interactive)(PAL)</description>
+		<rom name="Emelie and Maxwell in The Case of the Haunted Bakery (2017-08-13)(Denebola Interactive)(PAL).a26" size="16384" crc="7b6e6f2d" md5="b2a36ea814278033867765e264189b03" sha1="a0d0a2ce11c08e7cd966284ed1e5ebaf9f3d531e"/>
+	</game>
+	<game name="Encaved (2007)(Quernhorst, Simon)(NTSC)">
+		<description>Encaved (2007)(Quernhorst, Simon)(NTSC)</description>
+		<rom name="Encaved (2007)(Quernhorst, Simon)(NTSC).a26" size="4096" crc="e15779d2" md5="42305d986c54af9afb57ce59e8f305a7" sha1="09b430ee36a7fc7ecbcb0976812f55821ed6719d"/>
+	</game>
+	<game name="Encaved (2007)(Quernhorst, Simon)(PAL)">
+		<description>Encaved (2007)(Quernhorst, Simon)(PAL)</description>
+		<rom name="Encaved (2007)(Quernhorst, Simon)(PAL).a26" size="4096" crc="c6cb6bd4" md5="1cb5d322d1f95fd53a62c438505fa8d2" sha1="64f5b1d0c8ff14fc943cfc11c67f2095b428e5a1"/>
 	</game>
 	<game name="Encounter at L5 (1982)(Data Age)(NTSC)">
 		<description>Encounter at L5 (1982)(Data Age)(NTSC)</description>
@@ -6340,6 +6564,10 @@
 		<description>Gigolo (1982)(Playaround)(NTSC)</description>
 		<rom name="Gigolo (1982)(Playaround)(NTSC).a26" size="4096" crc="4e16a8dc" md5="1c8c42d1aee5010b30e7f1992d69216e" sha1="b64ed2d5a2f8fdac4ff0ce56939ba72e343fec33"/>
 	</game>
+	<game name="Give Me My Pancake! (2017)(Mr. Atari)">
+		<description>Give Me My Pancake! (2017)(Mr. Atari)</description>
+		<rom name="Give Me My Pancake! (2017)(Mr. Atari).a26" size="4096" crc="731d3cab" md5="d2e369e97041698b1a02c0004cc3abf9" sha1="323deedeb5466c74c9657551afd1e1c9cb2af937"/>
+	</game>
 	<game name="Glacier Patrol (1983)(Telegames)(NTSC)">
 		<description>Glacier Patrol (1983)(Telegames)(NTSC)</description>
 		<rom name="Glacier Patrol (1983)(Telegames)(NTSC).a26" size="4096" crc="44e77fd6" md5="5e0c37f534ab5ccc4661768e2ddf0162" sha1="3a3d7206afee36786026d6287fe956c2ebc80ea7"/>
@@ -7336,6 +7564,10 @@
 		<description>Hungrigen Froesche, Die (1983)(Starsoft - Quelle)(PAL)(DE)[aka Frogs &amp; Flies][043.151 0, 874.382 5]</description>
 		<rom name="Hungrigen Froesche, Die (1983)(Starsoft - Quelle)(PAL)(DE)[aka Frogs &amp; Flies][043.151 0, 874.382 5].a26" size="4096" crc="c8e341b7" md5="834a2273e97aec3181ee127917b4b269" sha1="72be5b871d9bd4120c9bbf5203412dca56150191"/>
 	</game>
+	<game name="I Project (2008)(Quernhorst, Simon)(PAL)">
+		<description>I Project (2008)(Quernhorst, Simon)(PAL)</description>
+		<rom name="I Project (2008)(Quernhorst, Simon)(PAL).a26" size="4096" crc="85a008ea" md5="f036115e04dd7741b480b3563acd36b3" sha1="f533f927f510f135a91afeab8a1dcb85791dfa82"/>
+	</game>
 	<game name="Ikari Warriors (1990)(Atari)(PAL)[b]">
 		<description>Ikari Warriors (1990)(Atari)(PAL)[b]</description>
 		<rom name="Ikari Warriors (1990)(Atari)(PAL)[b].a26" size="16383" crc="39b47e39" md5="17deb4af3a8ffb3a9e6f371346fa61f0" sha1="54016ff91b83fc5fc656273c8af021d99fe06c5b"/>
@@ -7343,6 +7575,22 @@
 	<game name="International Soccer (1982)(Mattel - Telegames)(NTSC)[p][aka Soccer, aka Championship Soccer][5687 A279]">
 		<description>International Soccer (1982)(Mattel - Telegames)(NTSC)[p][aka Soccer, aka Championship Soccer][5687 A279]</description>
 		<rom name="International Soccer (1982)(Mattel - Telegames)(NTSC)[p][aka Soccer, aka Championship Soccer][5687 A279].a26" size="4096" crc="ebc723c0" md5="3f6dbf448f25e2bd06dea44248eb122d" sha1="9d725002e94b04e29d8cbce3c71d3bb2a84352fa"/>
+	</game>
+	<game name="Invaders (1997-04-10)(Mooney, Erik)(PD)(alpha)">
+		<description>Invaders (1997-04-10)(Mooney, Erik)(PD)(alpha)</description>
+		<rom name="Invaders (1997-04-10)(Mooney, Erik)(PD)(alpha).a26" size="4096" crc="1f100061" md5="8874b68751fd2ba6d3306a263ae57a7d" sha1="ea367bd52624c52a54cf2c32ff4682d827a95826"/>
+	</game>
+	<game name="Invaders (1997-04-12)(Mooney, Erik)(PD)(alpha)">
+		<description>Invaders (1997-04-12)(Mooney, Erik)(PD)(alpha)</description>
+		<rom name="Invaders (1997-04-12)(Mooney, Erik)(PD)(alpha).a26" size="4096" crc="84264ab4" md5="6d475019ea30d0b29f695e9dcfd8f730" sha1="e805c96921645a6c24295b3bf93ff64cdbf7836e"/>
+	</game>
+	<game name="Invaders (1997-04-24)(Mooney, Erik)(PD)(beta)">
+		<description>Invaders (1997-04-24)(Mooney, Erik)(PD)(beta)</description>
+		<rom name="Invaders (1997-04-24)(Mooney, Erik)(PD)(beta).a26" size="4096" crc="ea7502a5" md5="62992392ea651a16aa724a92e4596ed6" sha1="9498d80353325a8b8ee091443e94530ee086f443"/>
+	</game>
+	<game name="Invaders v2.1 (1998-01-11)(Mooney, Erik)(PD)">
+		<description>Invaders v2.1 (1998-01-11)(Mooney, Erik)(PD)</description>
+		<rom name="Invaders v2.1 (1998-01-11)(Mooney, Erik)(PD).a26" size="4096" crc="dcf35785" md5="4868a81e1b6031ed66ecd60547e6ec85" sha1="19fc37f2a24e31a59a17f9cbf3cc03416a8bab9a"/>
 	</game>
 	<game name="James Bond 007 (1983)(Parker Bros)[b]">
 		<description>James Bond 007 (1983)(Parker Bros)[b]</description>
@@ -7371,6 +7619,26 @@
 	<game name="Kampf um die Schatzinsel (198x)(Starsoft - Quelle - Suntek)(PAL)[aka Duck Shoot, aka Treasure Island][719.163 8, SS-026]">
 		<description>Kampf um die Schatzinsel (198x)(Starsoft - Quelle - Suntek)(PAL)[aka Duck Shoot, aka Treasure Island][719.163 8, SS-026]</description>
 		<rom name="Kampf um die Schatzinsel (198x)(Starsoft - Quelle - Suntek)(PAL)[aka Duck Shoot, aka Treasure Island][719.163 8, SS-026].a26" size="4096" crc="907f1d90" md5="1bb91bae919ddbd655fa25c54ea6f532" sha1="d1437e291fbc1927fcce14abc21a58a423e15368"/>
+	</game>
+	<game name="Kelly Kangaroo v0.3 (2018-02-23)(Denebola Interactive)(NTSC)">
+		<description>Kelly Kangaroo v0.3 (2018-02-23)(Denebola Interactive)(NTSC)</description>
+		<rom name="Kelly Kangaroo v0.3 (2018-02-23)(Denebola Interactive)(NTSC).a26" size="32768" crc="8025a0a1" md5="09119ecd35d4368922e663a3748602d9" sha1="5d05921171007642b4f0aadfb508259e93e80fe7"/>
+	</game>
+	<game name="Kelly Kangaroo v0.4 (2018-03-06)(Denebola Interactive)(NTSC)">
+		<description>Kelly Kangaroo v0.4 (2018-03-06)(Denebola Interactive)(NTSC)</description>
+		<rom name="Kelly Kangaroo v0.4 (2018-03-06)(Denebola Interactive)(NTSC).a26" size="32768" crc="77aec80a" md5="414d64416448b024a3a94bfbace95f7e" sha1="e4a0bf4acaf235a7975a29634339d938d7b967e6"/>
+	</game>
+	<game name="Kelly Kangaroo v0.5 (2018-03-06)(Denebola Interactive)(NTSC)">
+		<description>Kelly Kangaroo v0.5 (2018-03-06)(Denebola Interactive)(NTSC)</description>
+		<rom name="Kelly Kangaroo v0.5 (2018-03-06)(Denebola Interactive)(NTSC).a26" size="32768" crc="7401719d" md5="1fb6687ff57210f91f50585e9afc762e" sha1="298af4a576e65c022d74ca645a3986783223df14"/>
+	</game>
+	<game name="Kelly Kangaroo v0.6 (2018-03-09)(Denebola Interactive)(NTSC)">
+		<description>Kelly Kangaroo v0.6 (2018-03-09)(Denebola Interactive)(NTSC)</description>
+		<rom name="Kelly Kangaroo v0.6 (2018-03-09)(Denebola Interactive)(NTSC).a26" size="32768" crc="fcb219c6" md5="c411ec2fed53fa14c1fde93a8a975345" sha1="7ebb5e591f0d9b4349d16ee8da50a8fab7c9c30f"/>
+	</game>
+	<game name="KITE! (2009)(Quernhorst, Simon)(PAL)">
+		<description>KITE! (2009)(Quernhorst, Simon)(PAL)</description>
+		<rom name="KITE! (2009)(Quernhorst, Simon)(PAL).a26" size="4096" crc="e827e04b" md5="b3ff7cef2f04711ee683d040da5276fc" sha1="da93a0c332484e6dcf589311252ba251323dc161"/>
 	</game>
 	<game name="Kleine Bar, Der (1983)(Starsoft - Quelle)(PAL)(DE)[aka Frostbite][685.640 5]">
 		<description>Kleine Bar, Der (1983)(Starsoft - Quelle)(PAL)(DE)[aka Frostbite][685.640 5]</description>
@@ -7508,6 +7776,10 @@
 		<description>Medieval Mayhem (2006-04-28)(Spice, Darrell Jr.)(PAL)[a]</description>
 		<rom name="Medieval Mayhem (2006-04-28)(Spice, Darrell Jr.)(PAL)[a].a26" size="32768" crc="9e49185b" md5="55e4d56513f3fdf66400ebf9af079337" sha1="8305a3781aadf44f01104f25469d53bfe014fc76"/>
 	</game>
+	<game name="Mental Kombat (2002)(Quernhorst, Simon)">
+		<description>Mental Kombat (2002)(Quernhorst, Simon)</description>
+		<rom name="Mental Kombat (2002)(Quernhorst, Simon).a26" size="4096" crc="13f4b30d" md5="dfaf2e8345de4c98f8ead3a850dff702" sha1="54e00364a116cfa74b7c61aab634b3cf8992d513"/>
+	</game>
 	<game name="Midnight Magic (1984)(Atari)[b]">
 		<description>Midnight Magic (1984)(Atari)[b]</description>
 		<rom name="Midnight Magic (1984)(Atari)[b].a26" size="16383" crc="bc87be40" md5="72ac009e84c1c85d7e4fd81c2c852204" sha1="25a35110f19f4d9578113182027d1e028a9ec9b7"/>
@@ -7531,6 +7803,26 @@
 	<game name="Miner 2049er Volume II (1983)(Tigervision)[b]">
 		<description>Miner 2049er Volume II (1983)(Tigervision)[b]</description>
 		<rom name="Miner 2049er Volume II (1983)(Tigervision)[b].a26" size="8192" crc="230fef51" md5="2723e442d55d741a8e2d9293108cd5ed" sha1="3fb556372ed5e5bbc859eeab4b90e122edaee90a"/>
+	</game>
+	<game name="Minesweeper v0.9 (19xx)(Gust, Soeren)(PD)(beta)">
+		<description>Minesweeper v0.9 (19xx)(Gust, Soeren)(PD)(beta)</description>
+		<rom name="Minesweeper v0.9 (19xx)(Gust, Soeren)(PD)(beta).a26" size="4096" crc="b01f99bd" md5="635cc7a0db33773959d739d04eff96c2" sha1="39cbdda6bbc0cddf471b20fc6c020bfaa330fa5a"/>
+	</game>
+	<game name="Minesweeper v0.99 (1997)(Gust, Soeren)(GPLv2)(beta)">
+		<description>Minesweeper v0.99 (1997)(Gust, Soeren)(GPLv2)(beta)</description>
+		<rom name="Minesweeper v0.99 (1997)(Gust, Soeren)(GPLv2)(beta).a26" size="4096" crc="7c5bdcf2" md5="ac5f78bae0638cf3f2a0c8d07eb4df69" sha1="1e57986f44c23e75f1183beacaae895b934884ce"/>
+	</game>
+	<game name="Minigun Miner (2023-05-07)(Dr. Ludos)(NTSC)">
+		<description>Minigun Miner (2023-05-07)(Dr. Ludos)(NTSC)</description>
+		<rom name="Minigun Miner (2023-05-07)(Dr. Ludos)(NTSC).a26" size="8192" crc="c9ca9488" md5="b7d59ee1b9469355daaff8ccb01a06cb" sha1="ead7078d13b3bc55e54210297061f1cc1335da4d"/>
+	</game>
+	<game name="Minigun Miner (2023-05-07)(Dr. Ludos)(PAL)">
+		<description>Minigun Miner (2023-05-07)(Dr. Ludos)(PAL)</description>
+		<rom name="Minigun Miner (2023-05-07)(Dr. Ludos)(PAL).a26" size="8192" crc="5577939a" md5="b182a812a86186b1588ee091d84808d5" sha1="5fdd6fd4ac8d7e38c0c7ac9e712110b1558d256c"/>
+	</game>
+	<game name="Minigun Miner (2023-05-07)(Dr. Ludos)(SECAM)">
+		<description>Minigun Miner (2023-05-07)(Dr. Ludos)(SECAM)</description>
+		<rom name="Minigun Miner (2023-05-07)(Dr. Ludos)(SECAM).a26" size="8192" crc="27ad2149" md5="5025a472a33e4535a40af26f2b5712aa" sha1="9424d275e2727553c1d9827909206d64204138d0"/>
 	</game>
 	<game name="Miss Piggy's Wedding (1983)(Atari)(proto)[b][CX26113]">
 		<description>Miss Piggy's Wedding (1983)(Atari)(proto)[b][CX26113]</description>
@@ -7615,6 +7907,10 @@
 	<game name="My Way (198x)(Otto)[781627]">
 		<description>My Way (198x)(Otto)[781627]</description>
 		<rom name="My Way (198x)(Otto)[781627].a26" size="4096" crc="420ff853" md5="1e0ef01e330e5b91387f75f700ccaf8f" sha1="683fa09578bcdd129500c51fdc5dd059ff2f7c68"/>
+	</game>
+	<game name="Myst VCS (2023-08-16)(VMW Productions)">
+		<description>Myst VCS (2023-08-16)(VMW Productions)</description>
+		<rom name="Myst VCS (2023-08-16)(VMW Productions).a26" size="16384" crc="4f2aba5b" md5="ac8b54d6994ae6c799687cdc37e393c2" sha1="bb8d1cd1648080cfdaef2f6ab38700aef0bfc3d1"/>
 	</game>
 	<game name="Nemo in Sea (2003)(Nova32 Animation Studios)(MX)(en)">
 		<description>Nemo in Sea (2003)(Nova32 Animation Studios)(MX)(en)</description>
@@ -7758,7 +8054,7 @@
 	</game>
 	<game name="Pole Position (1983)(Atari)(PAL)[CX2694]">
 		<description>Pole Position (1983)(Atari)(PAL)[CX2694]</description>
-		<rom name="Pole Position (1983)(Atari)(PAL)[CX2694].a26" size="8192" crc32="2a8053ce" md5="25b52bf8dd215bcbd59c9abdb55c44f8" sha1="b27e301c2936aab5e219dc80b09907d711885c07"/>
+		<rom name="Pole Position (1983)(Atari)(PAL)[CX2694].a26" size="8192" crc="2a8053ce" md5="25b52bf8dd215bcbd59c9abdb55c44f8" sha1="b27e301c2936aab5e219dc80b09907d711885c07"/>
 	</game>
 	<game name="Pole Position (1983)(Atari)[b]">
 		<description>Pole Position (1983)(Atari)[b]</description>
@@ -7786,7 +8082,7 @@
 	</game>
 	<game name="Q-Bert (1983)(Parker Bros)(PAL)[931517]">
 		<description>Q-Bert (1983)(Parker Bros)(PAL)[931517]</description>
-		<rom name="Q-Bert (1983)(Parker Bros)(PAL)[931517].a26" size="4096" crc32="541fbe98" md5="8b40a9ca1cfcd14822e2547eaa9df5c1" sha1="e5d0f615fed46efca3cc931a1e5f7ebcce73d586"/>
+		<rom name="Q-Bert (1983)(Parker Bros)(PAL)[931517].a26" size="4096" crc="541fbe98" md5="8b40a9ca1cfcd14822e2547eaa9df5c1" sha1="e5d0f615fed46efca3cc931a1e5f7ebcce73d586"/>
 	</game>
 	<game name="Q-Bert (1983)(Parker Bros)(PAL)[b]">
 		<description>Q-Bert (1983)(Parker Bros)(PAL)[b]</description>
@@ -7804,6 +8100,54 @@
 		<description>Quest for the Lost Pyramids of Atlantis - Demo Screens (19xx)(SeaGtGruff)(PD)[possible unknown mode]</description>
 		<rom name="Quest for the Lost Pyramids of Atlantis - Demo Screens (19xx)(SeaGtGruff)(PD)[possible unknown mode].a26" size="16384" crc="7ea3097f" md5="126fc17d9066c49da688decafd67c2b3" sha1="c4775dd5c57b3d3b8e13223eb73add23f5e7f5bc"/>
 	</game>
+	<game name="Radial Pong v1 (2002-06-30)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v1 (2002-06-30)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v1 (2002-06-30)(Johnston, Jeffry)(FW).a26" size="4096" crc="461c6686" md5="200309c8fba0f248c13751ed4fc69bab" sha1="0629c4efee622098bdc6ab1a37e2808f5abed1f5"/>
+	</game>
+	<game name="Radial Pong v10 (2002-07-06)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v10 (2002-07-06)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v10 (2002-07-06)(Johnston, Jeffry)(FW).a26" size="4096" crc="502edc97" md5="0f14c03050b35d6b1d8850b07578722d" sha1="720ade744c7e7ad25c9ea61b9d3596cf771fa0af"/>
+	</game>
+	<game name="Radial Pong v11 (2002-07-07)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v11 (2002-07-07)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v11 (2002-07-07)(Johnston, Jeffry)(FW).a26" size="4096" crc="f5a7ef88" md5="43f33c6dfdeaf5138ce6e6968ad7c5ce" sha1="e0405311f875db0ca85ceb9ab809adc0f4da75dd"/>
+	</game>
+	<game name="Radial Pong v12 (2002-07-12)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v12 (2002-07-12)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v12 (2002-07-12)(Johnston, Jeffry)(FW).a26" size="4096" crc="8eccfbc4" md5="32199271dc980eb31a2cc96e10a9e244" sha1="e910accd46e6c6f6e68bcb53482ae04caa83524a"/>
+	</game>
+	<game name="Radial Pong v2 (2002-07-01)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v2 (2002-07-01)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v2 (2002-07-01)(Johnston, Jeffry)(FW).a26" size="4096" crc="2d131fc6" md5="6337927ad909aa739d6d0044699a916d" sha1="c78b03cb0662771b124d50f1b2906505321c5cae"/>
+	</game>
+	<game name="Radial Pong v3 (2002-07-03)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v3 (2002-07-03)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v3 (2002-07-03)(Johnston, Jeffry)(FW).a26" size="4096" crc="7060717b" md5="f1e375d921858467166e53bcec05803f" sha1="4b499681e57ed6184b457b22c0276c99096c2cec"/>
+	</game>
+	<game name="Radial Pong v4 (2002-07-04)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v4 (2002-07-04)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v4 (2002-07-04)(Johnston, Jeffry)(FW).a26" size="4096" crc="0e7ad449" md5="481f9a742052801cc5f3defb41cb638e" sha1="0675355d08bc0e03c65fd6626d53e40d134855b5"/>
+	</game>
+	<game name="Radial Pong v5 (2002-07-04)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v5 (2002-07-04)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v5 (2002-07-04)(Johnston, Jeffry)(FW).a26" size="4096" crc="3f042d50" md5="fd9b321cee5fbb32c39ba3ca5d9ec7cf" sha1="56913b44fd3611189acf95917f6924105967de2f"/>
+	</game>
+	<game name="Radial Pong v6 (2002-07-04)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v6 (2002-07-04)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v6 (2002-07-04)(Johnston, Jeffry)(FW).a26" size="4096" crc="7e3c77d5" md5="64b8e19c767191ccdc97acc6904c397b" sha1="bf4c796a62710953707396a22778ed2e3f1a7ca3"/>
+	</game>
+	<game name="Radial Pong v7 (2002-07-05)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v7 (2002-07-05)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v7 (2002-07-05)(Johnston, Jeffry)(FW).a26" size="4096" crc="c87edf2d" md5="2450dfa1df70d12b60683185775efed8" sha1="fa2d23eb39d69bf3e000ce1dab1c464874be24aa"/>
+	</game>
+	<game name="Radial Pong v8 (2002-07-05)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v8 (2002-07-05)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v8 (2002-07-05)(Johnston, Jeffry)(FW).a26" size="4096" crc="ba0a9e5f" md5="9f9ee0f60c119c831e80694b6678ca1a" sha1="8d32b36e2ab0ea69a44257a0d1be6abb1ddfb37a"/>
+	</game>
+	<game name="Radial Pong v9 (2002-07-06)(Johnston, Jeffry)(FW)">
+		<description>Radial Pong v9 (2002-07-06)(Johnston, Jeffry)(FW)</description>
+		<rom name="Radial Pong v9 (2002-07-06)(Johnston, Jeffry)(FW).a26" size="4096" crc="06b75a1a" md5="05824fcbe615dbca836d061a140a50e0" sha1="57123ec96aa882e6adb8de41e085cea8fc9b65c3"/>
+	</game>
 	<game name="Rainbow Invaders v0.99 (2006-02-20)(Mogno, Silvio)(NTSC)(PD)">
 		<description>Rainbow Invaders v0.99 (2006-02-20)(Mogno, Silvio)(NTSC)(PD)</description>
 		<rom name="Rainbow Invaders v0.99 (2006-02-20)(Mogno, Silvio)(NTSC)(PD).a26" size="4096" crc="f40261eb" md5="f9b163795c979c25e2f1f93a386b76d7" sha1="1a64a7e325b933d76bee27fc40eddd925523249b"/>
@@ -7815,6 +8159,14 @@
 	<game name="Rampage! (1989)(Activision)[b]">
 		<description>Rampage! (1989)(Activision)[b]</description>
 		<rom name="Rampage! (1989)(Activision)[b].a26" size="16384" crc="6b404a7b" md5="0cb3211ec39a66e225e8faa9fbdb0757" sha1="71e8726589d8994d7de5d5f61e5d1db0df2d71d7"/>
+	</game>
+	<game name="Raster Fahndung (2006)(Quernhorst, Simon)(NTSC)">
+		<description>Raster Fahndung (2006)(Quernhorst, Simon)(NTSC)</description>
+		<rom name="Raster Fahndung (2006)(Quernhorst, Simon)(NTSC).a26" size="4096" crc="b72d422c" md5="3139b57ba2a7e49da21e3302e989855e" sha1="6bf84808d251b1f7cbd08d9410273e1c9017c72b"/>
+	</game>
+	<game name="Raster Fahndung (2006)(Quernhorst, Simon)(PAL)">
+		<description>Raster Fahndung (2006)(Quernhorst, Simon)(PAL)</description>
+		<rom name="Raster Fahndung (2006)(Quernhorst, Simon)(PAL).a26" size="4096" crc="b8b326de" md5="32f712bd5ff53e3f5e3bdd839eeafb45" sha1="4079700236198b8993f96f8aac8471ea130e837a"/>
 	</game>
 	<game name="Ratte und die Karotten, Die (1983)(Starsoft - Quelle)(PAL)(DE)[aka Gopher][687.463 0]">
 		<description>Ratte und die Karotten, Die (1983)(Starsoft - Quelle)(PAL)(DE)[aka Gopher][687.463 0]</description>
@@ -7830,7 +8182,7 @@
 	</game>
 	<game name="RealSports Soccer (1983)(Atari)(PAL)[CX2667P]">
 		<description>RealSports Soccer (1983)(Atari)(PAL)[CX2667P]</description>
-		<rom name="RealSports Soccer (1983)(Atari)(PAL)[CX2667P].a26" size="8192" crc32="aeaabe99" md5="6272f348a9a7f2d500a4006aa93e0d08" sha1="fa6e3a4840e562834bd816c1a9a8e25371b71423"/>
+		<rom name="RealSports Soccer (1983)(Atari)(PAL)[CX2667P].a26" size="8192" crc="aeaabe99" md5="6272f348a9a7f2d500a4006aa93e0d08" sha1="fa6e3a4840e562834bd816c1a9a8e25371b71423"/>
 	</game>
 	<game name="RealSports Tennis (1983)(Atari)(PAL)[CX2680]">
 		<description>RealSports Tennis (1983)(Atari)(PAL)[CX2680]</description>
@@ -7922,7 +8274,7 @@
 	</game>
 	<game name="Space Cavern (1982)(Apollo)[AP-2002]">
 		<description>Space Cavern (1982)(Apollo)[AP-2002]</description>
-		<rom name="Space Cavern (1982)(Apollo)[AP-2002].a26" size="4096" crc32="3b0ffd89" md5="df6a28a89600affe36d94394ef597214" sha1="b757b883ee114054c650027f3b9a8f15548cbf32"/>
+		<rom name="Space Cavern (1982)(Apollo)[AP-2002].a26" size="4096" crc="3b0ffd89" md5="df6a28a89600affe36d94394ef597214" sha1="b757b883ee114054c650027f3b9a8f15548cbf32"/>
 	</game>
 	<game name="Space Invaders (1980)(Atari)(PAL)[CX2632]">
 		<description>Space Invaders (1980)(Atari)(PAL)[CX2632]</description>
@@ -7946,7 +8298,7 @@
 	</game>
 	<game name="Space War (1978)(Atari)(PAL)[CX2604]">
 		<description>Space War (1978)(Atari)(PAL)[CX2604]</description>
-		<rom name="Space War (1978)(Atari)(PAL)[CX2604].a26" size="2048" crc32="0c84be58" md5="f9677b2ec8728a703eb710274474613d" sha1="9a3210df35866f81eb2cbe8a4d677d70e755924a"/>
+		<rom name="Space War (1978)(Atari)(PAL)[CX2604].a26" size="2048" crc="0c84be58" md5="f9677b2ec8728a703eb710274474613d" sha1="9a3210df35866f81eb2cbe8a4d677d70e755924a"/>
 	</game>
 	<game name="Space War (1978)(Atari)[b2]">
 		<description>Space War (1978)(Atari)[b2]</description>
@@ -7987,6 +8339,18 @@
 	<game name="Star Wars - The Battle of Alderaan (2001)(Laws, Barry Jr.)(NTSC)[h][Star Strike]">
 		<description>Star Wars - The Battle of Alderaan (2001)(Laws, Barry Jr.)(NTSC)[h][Star Strike]</description>
 		<rom name="Star Wars - The Battle of Alderaan (2001)(Laws, Barry Jr.)(NTSC)[h][Star Strike].a26" size="4096" crc="97403039" md5="ffc0ff4305dd46b4b459885bd1818e2e" sha1="4be17e5d9e3dab73053bbf1aa74ec4d861cb61be"/>
+	</game>
+	<game name="Stargate (1984)(Atari)(PAL)[CX26120]">
+		<description>Stargate (1984)(Atari)(PAL)[CX26120]</description>
+		<rom name="Stargate (1984)(Atari)(PAL)[CX26120].a26" size="8192" crc="d3f6a968" md5="493de059b32f84ab29cde6213964aeee" sha1="07920046ed55519797274117f2f8c8c7e530f623"/>
+	</game>
+	<game name="Stepz 2600 v1.1 (2022-09-29)(Arlasoft)(NTSC)">
+		<description>Stepz 2600 v1.1 (2022-09-29)(Arlasoft)(NTSC)</description>
+		<rom name="Stepz 2600 v1.1 (2022-09-29)(Arlasoft)(NTSC).a26" size="4096" crc="29660d67" md5="e796d7f745bf67b96d1ddbc6b5001ba7" sha1="7da70f2aa2eac1e3ab656a288896b9e7dbefcc0a"/>
+	</game>
+	<game name="Stepz 2600 v1.1 (2022-09-29)(Arlasoft)(PAL)">
+		<description>Stepz 2600 v1.1 (2022-09-29)(Arlasoft)(PAL)</description>
+		<rom name="Stepz 2600 v1.1 (2022-09-29)(Arlasoft)(PAL).a26" size="4096" crc="452ee806" md5="64d2d84bdfe5960818a71b5bfa77accd" sha1="56b6f7cb01e90e7f9c362284e10ab49370337272"/>
 	</game>
 	<game name="Strahlen der Teufelsvoegel (1983)(Quelle)(PAL)[p][463.860 7]">
 		<description>Strahlen der Teufelsvoegel (1983)(Quelle)(PAL)[p][463.860 7]</description>
@@ -8072,6 +8436,10 @@
 		<description>Thrust v1.2 (2000-09-18)(Jentzsch, Thomas)(PD)</description>
 		<rom name="Thrust v1.2 (2000-09-18)(Jentzsch, Thomas)(PD).a26" size="16384" crc="36a5c1c5" md5="e1e09e2f280e8e142121a377d0dc1b46" sha1="7423a5ddd917bbdc0eea29fd8e27becfd38aec58"/>
 	</game>
+	<game name="Tom&amp;Tom 2600 (2022-09-16)(Arlasoft)">
+		<description>Tom&amp;Tom 2600 (2022-09-16)(Arlasoft)</description>
+		<rom name="Tom&amp;Tom 2600 (2022-09-16)(Arlasoft).a26" size="4096" crc="1680a841" md5="d3b64eb0b2a26f5ea41588aedebe0607" sha1="376c0bfa8d32b4608c69d033c772f7ca65f8548f"/>
+	</game>
 	<game name="Top Gun (1983)(Quelle)[p][626.502 9]">
 		<description>Top Gun (1983)(Quelle)[p][626.502 9]</description>
 		<rom name="Top Gun (1983)(Quelle)[p][626.502 9].a26" size="4096" crc="8f78ee32" md5="e0b24c3f40a46cda52e29835ab7ad660" sha1="e853954eae7d0b7839787f0569888a739e56cfaf"/>
@@ -8128,6 +8496,10 @@
 		<description>Wabbit (1982)(Apollo)[b]</description>
 		<rom name="Wabbit (1982)(Apollo)[b].a26" size="4095" crc="9f8b7df3" md5="7d79d987001c8020a3cd3736f970f922" sha1="9524475a8306866e6e51bc714d90bdd0b3590958"/>
 	</game>
+	<game name="Winter Fortress v0.5 (2018-01-28)(Denebola Interactive)">
+		<description>Winter Fortress v0.5 (2018-01-28)(Denebola Interactive)</description>
+		<rom name="Winter Fortress v0.5 (2018-01-28)(Denebola Interactive).a26" size="16384" crc="946e008a" md5="ed4522e3882e157737917b254d2e072f" sha1="9bf6499feea9703087fbee0e3b6c44228fb4f2dd"/>
+	</game>
 	<game name="Winter Games (1987)(Epyx)(PAL)">
 		<description>Winter Games (1987)(Epyx)(PAL)</description>
 		<rom name="Winter Games (1987)(Epyx)(PAL).a26" size="16384" crc="964ff099" md5="8c36ed2352801031516695d1eeefe617" sha1="b5d3d0c0841697b940fe80eae249a884d6a889c8"/>
@@ -8135,10 +8507,6 @@
 	<game name="World End (1983)(Otto)(PAL)[781778]">
 		<description>World End (1983)(Otto)(PAL)[781778]</description>
 		<rom name="World End (1983)(Otto)(PAL)[781778].a26" size="4096" crc="dcc36508" md5="130c5742cd6cbe4877704d733d5b08ca" sha1="0e981d6baa7e3e218608eb46ad51fb30675babac"/>
-	</game>
-	<game name="Wuestenschlacht (1983)(Quelle)(PAL)[p][262.794 1]">
-		<description>Wuestenschlacht (1983)(Quelle)(PAL)[p][262.794 1]</description>
-		<rom name="Wuestenschlacht (1983)(Quelle)(PAL)[p][262.794 1].a26" size="4096" crc="43a24f04" md5="5c0520c00163915a4336e481ca4e7ef4" sha1="bc483097f94f2bf9c4d3366b3bd25200f2e2f22a"/>
 	</game>
 	<game name="Xevious (1983)(Atari)(NTSC)(proto)[CX2695]">
 		<description>Xevious (1983)(Atari)(NTSC)(proto)[CX2695]</description>
@@ -8148,6 +8516,10 @@
 		<description>Xevious (1983)(CCE)(NTSC)(BR)</description>
 		<rom name="Xevious (1983)(CCE)(NTSC)(BR).a26" size="8192" crc="8bd51ecc" md5="24385ba7f5109fbe76aadc0a375de573" sha1="c4f956cc6a78f3d7b5c2fb16de58ed7cdb6c82a8"/>
 	</game>
+	<game name="Wuestenschlacht (1983)(Quelle)(PAL)[p][262.794 1]">
+        <description>Wuestenschlacht (1983)(Quelle)(PAL)[p][262.794 1]</description>
+        <rom name="Wuestenschlacht (1983)(Quelle)(PAL)[p][262.794 1].a26" size="4096" crc="43a24f04" md5="5c0520c00163915a4336e481ca4e7ef4" sha1="bc483097f94f2bf9c4d3366b3bd25200f2e2f22a"/>
+    </game>
 	<game name="Zaxxon (1982)(Coleco - CBS Electronics)(NTSC)[2454]">
 		<description>Zaxxon (1982)(Coleco - CBS Electronics)(NTSC)[2454]</description>
 		<rom name="Zaxxon (1982)(Coleco - CBS Electronics)(NTSC)[2454].a26" size="8192" crc="265aa87f" md5="eea0da9b987d661264cce69a7c13c3bd" sha1="58c2f6abc5599cd35c0e722f24bcc128ac8f9a30"/>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Graphics - [D64]</name>
-		<description>Commodore C64 - Graphics - [D64] (TOSEC-v2023-05-19)</description>
+		<description>Commodore C64 - Graphics - [D64] (TOSEC-v2024-04-01)</description>
 		<category>TOSEC</category>
-		<version>2023-05-19</version>
+		<version>2024-04-01</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -4019,6 +4019,10 @@
 	<game name="Char-Disk 1 (1989-08-13)(The MeatBall)">
 		<description>Char-Disk 1 (1989-08-13)(The MeatBall)</description>
 		<rom name="Char-Disk 1 (1989-08-13)(The MeatBall).d64" size="174848" crc="4fb3fb81" md5="174ab3caea3c9ec670986d66facfa343" sha1="cdf492d4af1bebae0849ca452e9ff24525b57470"/>
+	</game>
+	<game name="Charge Amarda (2008)(Cosine)">
+		<description>Charge Amarda (2008)(Cosine)</description>
+		<rom name="Charge Amarda (2008)(Cosine).d64" size="174848" crc="39882b38" md5="df2c0acaabb51a736a9033d9b7c0c13e" sha1="7579ab4e5819f2037cda1975fcfb0cf0121f8604"/>
 	</game>
 	<game name="Chariot Logo (1992)(Chariot)">
 		<description>Chariot Logo (1992)(Chariot)</description>
@@ -8188,13 +8192,13 @@
 		<description>Epicaleptica (2006-10-14)(Oetoekaet)</description>
 		<rom name="Epicaleptica (2006-10-14)(Oetoekaet).d64" size="174848" crc="83cdac02" md5="29b8ea1d03558b9ce8cfb4f523d9cf59" sha1="190a289dfa12d630d0cef27808a64a1f58c75e30"/>
 	</game>
-	<game name="Equalizer (19xx)(-)">
-		<description>Equalizer (19xx)(-)</description>
-		<rom name="Equalizer (19xx)(-).d64" size="174848" crc="b2ca04d2" md5="eb683cddd1a703ddd3a2994dfbdd75aa" sha1="0f672249c5906c8d7c036914270269faf3e2f863"/>
-	</game>
 	<game name="Equalizer, The (19xx)(-)">
 		<description>Equalizer, The (19xx)(-)</description>
 		<rom name="Equalizer, The (19xx)(-).d64" size="174848" crc="39b195e8" md5="a62d749fedf494dad7a7018d208caace" sha1="0a0d0a793c867e16635fd5f4346643bbca0e3f30"/>
+	</game>
+	<game name="Equalizer, The (19xx)(-)[a]">
+		<description>Equalizer, The (19xx)(-)[a]</description>
+		<rom name="Equalizer, The (19xx)(-)[a].d64" size="174848" crc="b2ca04d2" md5="eb683cddd1a703ddd3a2994dfbdd75aa" sha1="0f672249c5906c8d7c036914270269faf3e2f863"/>
 	</game>
 	<game name="Equinoxe Logo (19xx)(Sharon)">
 		<description>Equinoxe Logo (19xx)(Sharon)</description>
@@ -9008,9 +9012,9 @@
 		<description>First Picture Party Show, The (1986)(Marvellous Cracking Corporation)</description>
 		<rom name="First Picture Party Show, The (1986)(Marvellous Cracking Corporation).d64" size="174848" crc="d66072d2" md5="97cd6e1481c80f4694875e0cf1f7faaf" sha1="dd620757ce9012b5ed472ec0b04646fed12af692"/>
 	</game>
-	<game name="First Samurai Pic (1992)(Hysteric)">
-		<description>First Samurai Pic (1992)(Hysteric)</description>
-		<rom name="First Samurai Pic (1992)(Hysteric).d64" size="174848" crc="27b76d33" md5="102f3b115321c3c85018848daaf5310d" sha1="127cab7398c21b44c8006d4edd4f06cdf16c04b5"/>
+	<game name="First Samurai - Picture (1992)(Hysteric)">
+		<description>First Samurai - Picture (1992)(Hysteric)</description>
+		<rom name="First Samurai - Picture (1992)(Hysteric).d64" size="174848" crc="27b76d33" md5="102f3b115321c3c85018848daaf5310d" sha1="127cab7398c21b44c8006d4edd4f06cdf16c04b5"/>
 	</game>
 	<game name="First TRC Logo (1991)(Scooter)">
 		<description>First TRC Logo (1991)(Scooter)</description>
@@ -10015,6 +10019,10 @@
 	<game name="Galivan Pic (1987)(Calva)">
 		<description>Galivan Pic (1987)(Calva)</description>
 		<rom name="Galivan Pic (1987)(Calva).d64" size="174848" crc="10fd2640" md5="139f7709d66506e2396ee2581b11b3a7" sha1="ffc28abb9477e6e051a794d8c6f5b5ef2c802430"/>
+	</game>
+	<game name="Galivan Pic (1987)(Skar)">
+		<description>Galivan Pic (1987)(Skar)</description>
+		<rom name="Galivan Pic (1987)(Skar).prg" size="6753" crc="58dd037a" md5="a22ae5ef5806966aeec75efc526d06be" sha1="6da96b575437ec1d930acf05ef7d7c36f7b2cb15"/>
 	</game>
 	<game name="Gallery, The (1992)(Axel - Conquistadores)">
 		<description>Gallery, The (1992)(Axel - Conquistadores)</description>
@@ -12416,9 +12424,9 @@
 		<description>I&apos;m Too Old for This Shit! (2011-03-17)(Genesis Project - Vision)</description>
 		<rom name="I&apos;m Too Old for This Shit! (2011-03-17)(Genesis Project - Vision).d64" size="174848" crc="df9be865" md5="8a974d550c30113d8d67c49dc94150ba" sha1="f41e99635d29c6cc83e64aede75da6a88ec9a7e1"/>
 	</game>
-	<game name="Image Logo (1992-06)(Brainbombs [fake rebuild])">
-		<description>Image Logo (1992-06)(Brainbombs [fake rebuild])</description>
-		<rom name="Image Logo (1992-06)(Brainbombs [fake rebuild]).d64" size="174848" crc="88e0fa03" md5="3bfdea5984b506e4f1fc02f3bd650806" sha1="edb1d43c1b8264c48b8b4e4595a614485199a41f"/>
+	<game name="Image Logo (1992-06)(Brainbombs)[fake rebuild]">
+		<description>Image Logo (1992-06)(Brainbombs)[fake rebuild]</description>
+		<rom name="Image Logo (1992-06)(Brainbombs)[fake rebuild].d64" size="174848" crc="88e0fa03" md5="3bfdea5984b506e4f1fc02f3bd650806" sha1="edb1d43c1b8264c48b8b4e4595a614485199a41f"/>
 	</game>
 	<game name="Imagine (1998-09-09)(Faith Design)">
 		<description>Imagine (1998-09-09)(Faith Design)</description>
@@ -12823,6 +12831,10 @@
 	<game name="Ispace Logo (19xx)(Unicess)">
 		<description>Ispace Logo (19xx)(Unicess)</description>
 		<rom name="Ispace Logo (19xx)(Unicess).d64" size="174848" crc="02592f2a" md5="15a3af478d4342d1190f4cc93d32dcd4" sha1="1eeb4fe6aa8526338f9917633d92bd3083c5121e"/>
+	</game>
+	<game name="It Came From Hell (demo) (199x)(Shaun Pearson)">
+		<description>It Came From Hell (demo) (199x)(Shaun Pearson)</description>
+		<rom name="It Came From Hell (demo) (199x)(Shaun Pearson).d64" size="174848" crc="211c4d05" md5="a4909ef955f807f6b6d6bba5a3b6e7c9" sha1="afcf495a9eedfff0ba5a094a12496799bea55380"/>
 	</game>
 	<game name="Itching Fury (2012-04-28)(Beardswitcher)">
 		<description>Itching Fury (2012-04-28)(Beardswitcher)</description>
@@ -15360,9 +15372,9 @@
 		<description>Logo for CFA (1989-08)(Babygang)</description>
 		<rom name="Logo for CFA (1989-08)(Babygang).d64" size="174848" crc="1ac47b5e" md5="09804561fccbc0e7603eda41adc10e14" sha1="98dd24115a3d2dd6da41e310d16fba5b93b610bf"/>
 	</game>
-	<game name="Logo for CFA (19xx)(Army - A-Team)">
-		<description>Logo for CFA (19xx)(Army - A-Team)</description>
-		<rom name="Logo for CFA (19xx)(Army - A-Team).d64" size="174848" crc="daa861e8" md5="bea8a852d85b9b633c0fa67a0b152c0a" sha1="c9eb2036c1f4827c9e0698a3ee33c93e7073b670"/>
+	<game name="Logo for CFA (19xx)(A-Team - Army)">
+		<description>Logo for CFA (19xx)(A-Team - Army)</description>
+		<rom name="Logo for CFA (19xx)(A-Team - Army).d64" size="174848" crc="daa861e8" md5="bea8a852d85b9b633c0fa67a0b152c0a" sha1="c9eb2036c1f4827c9e0698a3ee33c93e7073b670"/>
 	</game>
 	<game name="Logo for Chaos #1 (1989-08-09)(Texiax)">
 		<description>Logo for Chaos #1 (1989-08-09)(Texiax)</description>
@@ -15544,9 +15556,9 @@
 		<description>Logo for Future Vision (1989-08)(Babygang)</description>
 		<rom name="Logo for Future Vision (1989-08)(Babygang).d64" size="174848" crc="dd459267" md5="72eda198418c741fff0f1409298c95cf" sha1="2f71ccbb14195fc382f84a9757553111689a008e"/>
 	</game>
-	<game name="Logo for Gloom (19xx)(Army - A-Team)">
-		<description>Logo for Gloom (19xx)(Army - A-Team)</description>
-		<rom name="Logo for Gloom (19xx)(Army - A-Team).d64" size="174848" crc="49e7b438" md5="50168e34b8a5fb939beeffdb26923e8c" sha1="9013a05392ae2772c573d0d643520d27a19c9921"/>
+	<game name="Logo for Gloom (19xx)(A-Team - Army)">
+		<description>Logo for Gloom (19xx)(A-Team - Army)</description>
+		<rom name="Logo for Gloom (19xx)(A-Team - Army).d64" size="174848" crc="49e7b438" md5="50168e34b8a5fb939beeffdb26923e8c" sha1="9013a05392ae2772c573d0d643520d27a19c9921"/>
 	</game>
 	<game name="Logo for Gloom (19xx)(The Koktail Crackers)">
 		<description>Logo for Gloom (19xx)(The Koktail Crackers)</description>
@@ -15896,9 +15908,9 @@
 		<description>Logo for Tracer (1989)(Contex)</description>
 		<rom name="Logo for Tracer (1989)(Contex).d64" size="174848" crc="4b250fc2" md5="e2229aa2def90ff42afc25636611f313" sha1="1b899fe1aea0b27a6fdfa055170fce763b9321d8"/>
 	</game>
-	<game name="Logo for Trans-X (19xx)(Army - A-Team)">
-		<description>Logo for Trans-X (19xx)(Army - A-Team)</description>
-		<rom name="Logo for Trans-X (19xx)(Army - A-Team).d64" size="174848" crc="d0bc3c4f" md5="841dfeb0afd178867ac40873dede0905" sha1="d39d3121d2282059aea0e85442c11df6449b0541"/>
+	<game name="Logo for Trans-X (19xx)(A-Team - Army)">
+		<description>Logo for Trans-X (19xx)(A-Team - Army)</description>
+		<rom name="Logo for Trans-X (19xx)(A-Team - Army).d64" size="174848" crc="d0bc3c4f" md5="841dfeb0afd178867ac40873dede0905" sha1="d39d3121d2282059aea0e85442c11df6449b0541"/>
 	</game>
 	<game name="Logo for Traxion (1989)(Bionic Force)">
 		<description>Logo for Traxion (1989)(Bionic Force)</description>
@@ -17747,6 +17759,14 @@
 	<game name="Mindless (2003-08-10)(Poison)">
 		<description>Mindless (2003-08-10)(Poison)</description>
 		<rom name="Mindless (2003-08-10)(Poison).d64" size="174848" crc="ccd87310" md5="c3a8c7fea6a440470e4f07a10f6a7d16" sha1="4cdb422f8df176490e60524944483b07e287269a"/>
+	</game>
+	<game name="Mindsmear (demo) (1986)(Zzap 64)[a][April fools]">
+		<description>Mindsmear (demo) (1986)(Zzap 64)[a][April fools]</description>
+		<rom name="Mindsmear (demo) (1986)(Zzap 64)[a][April fools].d64" size="174848" crc="428ea970" md5="6ff77f062286791846f9e04d0eed2877" sha1="f07c86002ebb6cb31470d3097cd3af4ce81945be"/>
+	</game>
+	<game name="Mindsmear (demo) (1986)(Zzap 64)[April fools]">
+		<description>Mindsmear (demo) (1986)(Zzap 64)[April fools]</description>
+		<rom name="Mindsmear (demo) (1986)(Zzap 64)[April fools].d64" size="174848" crc="557e8789" md5="a9ae0655ccd5b2bb1777a96a18c7fbc9" sha1="532b095c7791c070d777c219cd40d84455418e0a"/>
 	</game>
 	<game name="Mini Kuelen-Show (1985)(AHP)">
 		<description>Mini Kuelen-Show (1985)(AHP)</description>
@@ -22116,6 +22136,10 @@
 		<description>Rei (1998-04-16)(Carcass)</description>
 		<rom name="Rei (1998-04-16)(Carcass).d64" size="174848" crc="1b0104e8" md5="7a1255173779671f1e0ee610b419f339" sha1="644f19af080d76742bf3c851c0c0711cf3a9b6f4"/>
 	</game>
+	<game name="Reisplanner (2001-11-25)(Phantasy)">
+		<description>Reisplanner (2001-11-25)(Phantasy)</description>
+		<rom name="Reisplanner (2001-11-25)(Phantasy).d64" size="174848" crc="dbd5d1c3" md5="9fb4cdb585e596589ca15bb4a62da669" sha1="b85298591a44fae08389957eaf6a05044a665d71"/>
+	</game>
 	<game name="Relaxed (19xx)(Neil)">
 		<description>Relaxed (19xx)(Neil)</description>
 		<rom name="Relaxed (19xx)(Neil).d64" size="174848" crc="cf048937" md5="7a1d6f2c9fde17dc6ce39441f94bc7fc" sha1="b2b0a8567bf2f477b4c1b351b73032c85df71d6c"/>
@@ -25064,6 +25088,10 @@
 		<description>Super Bild 5 (1987)(Pegasus)</description>
 		<rom name="Super Bild 5 (1987)(Pegasus).d64" size="174848" crc="c8cd5451" md5="0c1c82cc6ad4d4700ef63a66dbb93f53" sha1="722e9ba0d51603262dd4e47b21b18f82b88f0262"/>
 	</game>
+	<game name="Super Black Belt Karate (1983)(Computer Applications)[Picture]">
+		<description>Super Black Belt Karate (1983)(Computer Applications)[Picture]</description>
+		<rom name="Super Black Belt Karate (1983)(Computer Applications)[Picture].d64" size="174848" crc="808b03b3" md5="13925dc973df6e853e9be0c0270f055e" sha1="6a2b290229d285f31615abdbabafc9acdb1e5e25"/>
+	</game>
 	<game name="Super Dia Show I (19xx)(TCK)">
 		<description>Super Dia Show I (19xx)(TCK)</description>
 		<rom name="Super Dia Show I (19xx)(TCK).d64" size="174848" crc="70d9d82c" md5="02dbdf27286f6ea89047675b3024db5d" sha1="568e8adfb2f37ece30fbfeff76b99341e7cbb832"/>
@@ -26796,6 +26824,10 @@
 		<description>Ultravox (1986)(-)</description>
 		<rom name="Ultravox (1986)(-).d64" size="174848" crc="9ac1de7c" md5="da68ba9b328bf2815df9cccc260bd1cc" sha1="cb1a999a2c1624b56487221b37fb586d0718707c"/>
 	</game>
+	<game name="Uncle Clyde (19xx)(-)">
+		<description>Uncle Clyde (19xx)(-)</description>
+		<rom name="Uncle Clyde (19xx)(-).d64" size="174848" crc="5ecdaa67" md5="a634958a20c1730c91675806439b43ef" sha1="cf595bc999faa65436c8dfd24b992c38de9b4771"/>
+	</game>
 	<game name="Uncle Ervil (2021-02-04)(Suicyco Industries)">
 		<description>Uncle Ervil (2021-02-04)(Suicyco Industries)</description>
 		<rom name="Uncle Ervil (2021-02-04)(Suicyco Industries).d64" size="174848" crc="11a31155" md5="b69dc8ae7236bcb5d5968a4e381692e1" sha1="7f2b069595f454f22c3d21caabb6c72526e50627"/>
@@ -27123,6 +27155,14 @@
 	<game name="Utopish Style (1999)(Civitas - Willow)">
 		<description>Utopish Style (1999)(Civitas - Willow)</description>
 		<rom name="Utopish Style (1999)(Civitas - Willow).d64" size="174848" crc="22e5a674" md5="646f6e179e192b52be743834889b7f22" sha1="0674645a5c19d5746c24fb2548271c7186a57188"/>
+	</game>
+	<game name="Utopish Style (1999)(Civitas - Willow)[a]">
+		<description>Utopish Style (1999)(Civitas - Willow)[a]</description>
+		<rom name="Utopish Style (1999)(Civitas - Willow)[a].d64" size="174848" crc="e57304bc" md5="666f88b3175df16a1da23d4e68b5dcdd" sha1="d893ac7e4a55243e90e8ae869848bb5b9bf63c63"/>
+	</game>
+	<game name="Utopish Style (1999)(Civitas - Willow)[a2]">
+		<description>Utopish Style (1999)(Civitas - Willow)[a2]</description>
+		<rom name="Utopish Style (1999)(Civitas - Willow)[a2].d64" size="174848" crc="f58a64bf" md5="cf89fb70eb46d31be5f624533402c089" sha1="6dab68066391fad85d4f36633cc852fb3ef6dcd5"/>
 	</game>
 	<game name="Utter Rubarb (19xx)(Rubarb)">
 		<description>Utter Rubarb (19xx)(Rubarb)</description>

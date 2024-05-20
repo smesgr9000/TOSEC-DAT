@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Educational - [LNX]</name>
-		<description>Commodore C64 - Educational - [LNX] (TOSEC-v2023-06-14)</description>
+		<description>Commodore C64 - Educational - [LNX] (TOSEC-v2024-03-11)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-03-11</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -44,9 +44,9 @@
 		<description>Addgar (1994)(CP Verlag)[cr LXT][t +3 LXT][Docs]</description>
 		<rom name="Addgar (1994)(CP Verlag)[cr LXT][t +3 LXT][Docs].lnx" size="48652" crc="a4a9c2bc" md5="c125a378ebac930de3bfb312f3e7ed91" sha1="23bab3ae9f8bc5276c91b8f1723bbc0aa09e2bf7"/>
 	</game>
-	<game name="Adroit (demo) (1991)(Broers, Bas)[cr Tropic]">
-		<description>Adroit (demo) (1991)(Broers, Bas)[cr Tropic]</description>
-		<rom name="Adroit (demo) (1991)(Broers, Bas)[cr Tropic].lnx" size="13894" crc="e4dbace1" md5="8c12bb6b887c9e67dd7f3858951d2e35" sha1="e0745c3ad483b373c10c2afddf57486cf582ef61"/>
+	<game name="Adroit (demo) (1991)(Internal Affairs)[cr Tropic]">
+		<description>Adroit (demo) (1991)(Internal Affairs)[cr Tropic]</description>
+		<rom name="Adroit (demo) (1991)(Internal Affairs)[cr Tropic].lnx" size="13894" crc="e4dbace1" md5="8c12bb6b887c9e67dd7f3858951d2e35" sha1="e0745c3ad483b373c10c2afddf57486cf582ef61"/>
 	</game>
 	<game name="Alfabet (19xx)(-)(de)">
 		<description>Alfabet (19xx)(-)(de)</description>
@@ -280,9 +280,9 @@
 		<description>Capture (1995)(XL.C.US Software)[cr AVT]</description>
 		<rom name="Capture (1995)(XL.C.US Software)[cr AVT].lnx" size="23514" crc="60094ce2" md5="56c2b6b0da7624d32fe54e829b4fb20d" sha1="7dfa693d152b81868e51c12d596c29669e5ae9cd"/>
 	</game>
-	<game name="Capture (1995)(XL.C.US Software)[cr Motiv8]">
-		<description>Capture (1995)(XL.C.US Software)[cr Motiv8]</description>
-		<rom name="Capture (1995)(XL.C.US Software)[cr Motiv8].lnx" size="17973" crc="c3f8a99d" md5="44e6b58a2011ee488ae26424e8cc79fe" sha1="28362c1e18e314796416c40a4df5cf504b71675b"/>
+	<game name="Capture (1995)(XL.C.US Software)[cr Motiv 8]">
+		<description>Capture (1995)(XL.C.US Software)[cr Motiv 8]</description>
+		<rom name="Capture (1995)(XL.C.US Software)[cr Motiv 8].lnx" size="17973" crc="c3f8a99d" md5="44e6b58a2011ee488ae26424e8cc79fe" sha1="28362c1e18e314796416c40a4df5cf504b71675b"/>
 	</game>
 	<game name="Capture (19xx)(-)[cr AVT][f NTSC-PAL][b]">
 		<description>Capture (19xx)(-)[cr AVT][f NTSC-PAL][b]</description>
@@ -343,6 +343,14 @@
 	<game name="Colee (demo) (19xx)(Magna Media)[cr F4CG][t +3 F4CG]">
 		<description>Colee (demo) (19xx)(Magna Media)[cr F4CG][t +3 F4CG]</description>
 		<rom name="Colee (demo) (19xx)(Magna Media)[cr F4CG][t +3 F4CG].lnx" size="21467" crc="ec1a3c27" md5="289c8e1a2c9399dd1fc8a14a9bd04f5b" sha1="8011b140ec6453760a19c8156125a9d7b6a7b956"/>
+	</game>
+	<game name="Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC]">
+		<description>Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC]</description>
+		<rom name="Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC].lnx" size="18114" crc="5045296e" md5="526a434fba4a2f2e050343ebe0c1f80a" sha1="752e8d864a1a92f51f3dca84da28a37901507574"/>
+	</game>
+	<game name="Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC][a]">
+		<description>Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC][a]</description>
+		<rom name="Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC][a].lnx" size="18220" crc="bb604886" md5="01dbd572b279632e233d57022178d4a0" sha1="e9a1cf12fa261b121b45a9cfeaef5126e081adb2"/>
 	</game>
 	<game name="Colouration (1995)(XL.C.US Software)[cr AVT][f NTSC-PAL]">
 		<description>Colouration (1995)(XL.C.US Software)[cr AVT][f NTSC-PAL]</description>
@@ -456,9 +464,9 @@
 		<description>Cubulus (1991)(Software 2000)[cr CHR]</description>
 		<rom name="Cubulus (1991)(Software 2000)[cr CHR].lnx" size="15020" crc="f599c19a" md5="2737e6c45f04ddec757a072582776b60" sha1="d4e94125e8f204997fc2d3d286e55b0606d4afb5"/>
 	</game>
-	<game name="Danger! High Voltage (demo) (1992)(-)[cr CHR]">
-		<description>Danger! High Voltage (demo) (1992)(-)[cr CHR]</description>
-		<rom name="Danger! High Voltage (demo) (1992)(-)[cr CHR].lnx" size="23140" crc="167407f6" md5="2f65467d9ef13cda3e88d08e7c3d6faf" sha1="759c58eb07c55e7e24493a29b88f9b22b78b1648"/>
+	<game name="Danger! High Voltage (demo) (1992)(Tajti, Attila)[cr CHR]">
+		<description>Danger! High Voltage (demo) (1992)(Tajti, Attila)[cr CHR]</description>
+		<rom name="Danger! High Voltage (demo) (1992)(Tajti, Attila)[cr CHR].lnx" size="23140" crc="167407f6" md5="2f65467d9ef13cda3e88d08e7c3d6faf" sha1="759c58eb07c55e7e24493a29b88f9b22b78b1648"/>
 	</game>
 	<game name="Deri Colours (1990)(CP Verlag)[cr Laser][t +3 Laser]">
 		<description>Deri Colours (1990)(CP Verlag)[cr Laser][t +3 Laser]</description>
@@ -612,9 +620,9 @@
 		<description>Five a Row (1992)(Magic Disk)[cr RSI&amp;V]</description>
 		<rom name="Five a Row (1992)(Magic Disk)[cr RSI&amp;V].lnx" size="34855" crc="a26feefe" md5="8fa85d02caa9fdb9982de61a5a979b68" sha1="6ad571a87f4f4241cf4529dc92be3dfb4bbecc58"/>
 	</game>
-	<game name="Flagmania (demo) (1995)(Metin, Ufuk)[cr Accuracy]">
-		<description>Flagmania (demo) (1995)(Metin, Ufuk)[cr Accuracy]</description>
-		<rom name="Flagmania (demo) (1995)(Metin, Ufuk)[cr Accuracy].lnx" size="9214" crc="4daf11c3" md5="4c51eaac22bcfbc0bd1aff2f478847eb" sha1="7e58777382774ad748d863ea26c15dbd1f3e65d5"/>
+	<game name="Flagmania (demo) (1995)(Accuracy Arts)[cr Accuracy]">
+		<description>Flagmania (demo) (1995)(Accuracy Arts)[cr Accuracy]</description>
+		<rom name="Flagmania (demo) (1995)(Accuracy Arts)[cr Accuracy].lnx" size="9214" crc="4daf11c3" md5="4c51eaac22bcfbc0bd1aff2f478847eb" sha1="7e58777382774ad748d863ea26c15dbd1f3e65d5"/>
 	</game>
 	<game name="Foton (1991)(Trash Productions)[cr CHR][t +1 CHR]">
 		<description>Foton (1991)(Trash Productions)[cr CHR][t +1 CHR]</description>
@@ -732,13 +740,13 @@
 		<description>Hi Ska Do (1991)(CP Verlag)[cr Laser]</description>
 		<rom name="Hi Ska Do (1991)(CP Verlag)[cr Laser].lnx" size="26638" crc="dd4ff912" md5="690d4db32cb1e71a00ea60485661840d" sha1="00fb95ed4a1ea4f24fdc2aa6305b45195dc44cd1"/>
 	</game>
-	<game name="Hyper Agressive (1992)(CP Verlag)[cr Device]">
-		<description>Hyper Agressive (1992)(CP Verlag)[cr Device]</description>
-		<rom name="Hyper Agressive (1992)(CP Verlag)[cr Device].lnx" size="37701" crc="ec4704fd" md5="68e636e7411dc750551af96d800d35d7" sha1="dc0c4c063c20ee3c9d99e4edd8f90bbf0d6a228c"/>
+	<game name="Hyper Aggressive (1992)(CP Verlag - Game On)[cr Device]">
+		<description>Hyper Aggressive (1992)(CP Verlag - Game On)[cr Device]</description>
+		<rom name="Hyper Aggressive (1992)(CP Verlag - Game On)[cr Device].lnx" size="37701" crc="ec4704fd" md5="68e636e7411dc750551af96d800d35d7" sha1="dc0c4c063c20ee3c9d99e4edd8f90bbf0d6a228c"/>
 	</game>
-	<game name="Hyper Agressive (1992)(CP Verlag)[cr RSI]">
-		<description>Hyper Agressive (1992)(CP Verlag)[cr RSI]</description>
-		<rom name="Hyper Agressive (1992)(CP Verlag)[cr RSI].lnx" size="42322" crc="f0deac97" md5="cea1118270bbb2d81197f9ac3adc4e9b" sha1="7c11cc945e69c409986c741a505ee73e6fd961b1"/>
+	<game name="Hyper Aggressive (1992)(CP Verlag - Game On)[cr RSI]">
+		<description>Hyper Aggressive (1992)(CP Verlag - Game On)[cr RSI]</description>
+		<rom name="Hyper Aggressive (1992)(CP Verlag - Game On)[cr RSI].lnx" size="42322" crc="f0deac97" md5="cea1118270bbb2d81197f9ac3adc4e9b" sha1="7c11cc945e69c409986c741a505ee73e6fd961b1"/>
 	</game>
 	<game name="Iduna (demo) (1993)(Tonies, Martijn)[cr SCS+TRC]">
 		<description>Iduna (demo) (1993)(Tonies, Martijn)[cr SCS+TRC]</description>
@@ -840,6 +848,10 @@
 		<description>KYB - Kick Your Brain (demo) (1996)(Torun, Artur)[cr FLT]</description>
 		<rom name="KYB - Kick Your Brain (demo) (1996)(Torun, Artur)[cr FLT].lnx" size="13555" crc="71cb9842" md5="2f263bd5322c3c4c40f2bc316bf36ee9" sha1="f7ff2926124eba16823ff5f668f0d2da7f51aee7"/>
 	</game>
+	<game name="Laced Tiles (demo) (1995)(Magna Media)">
+		<description>Laced Tiles (demo) (1995)(Magna Media)</description>
+		<rom name="Laced Tiles (demo) (1995)(Magna Media).lnx" size="36405" crc="a27d4f6b" md5="64560408fe6bca5278725c8043c9a82b" sha1="0fc945bf670eb4cb8cee9c778aeec0fc3f289a0c"/>
+	</game>
 	<game name="Last G (1995)(Vanderaart, John)[cr CHR]">
 		<description>Last G (1995)(Vanderaart, John)[cr CHR]</description>
 		<rom name="Last G (1995)(Vanderaart, John)[cr CHR].lnx" size="15176" crc="e2160c71" md5="4d34d59b917fc8223a6085a52d892024" sha1="c57360093a8625068aefb5c3096978beed6277d5"/>
@@ -864,13 +876,13 @@
 		<description>Logic (1993)(CP Verlag)[cr CHR]</description>
 		<rom name="Logic (1993)(CP Verlag)[cr CHR].lnx" size="27108" crc="33ee5f00" md5="400456a7076b8689429159e82b62d4ff" sha1="2d0f1e88a79ce6fb63bf42324dfeccaad5e2d2dd"/>
 	</game>
-	<game name="Lotti (1995)(Levente, Méhész)[cr SCS+TRC]">
-		<description>Lotti (1995)(Levente, Méhész)[cr SCS+TRC]</description>
-		<rom name="Lotti (1995)(Levente, Méhész)[cr SCS+TRC].lnx" size="16780" crc="be6faed7" md5="3b03153a64cbe15884ab944338670c88" sha1="d9dc7e16332835efd9733a3fa1c423110448cb95"/>
+	<game name="Lotti (1995)(Thunders)[cr SCS+TRC]">
+		<description>Lotti (1995)(Thunders)[cr SCS+TRC]</description>
+		<rom name="Lotti (1995)(Thunders)[cr SCS+TRC].lnx" size="16780" crc="be6faed7" md5="3b03153a64cbe15884ab944338670c88" sha1="d9dc7e16332835efd9733a3fa1c423110448cb95"/>
 	</game>
-	<game name="Lotti (1995)(Levente, Méhész)[cr SCS+TRC][a]">
-		<description>Lotti (1995)(Levente, Méhész)[cr SCS+TRC][a]</description>
-		<rom name="Lotti (1995)(Levente, Méhész)[cr SCS+TRC][a].lnx" size="16873" crc="aaf24cf5" md5="063fb554faaae5823fa4e37afc52d7f8" sha1="cf21e11c7700b2eff26e7e4d000243cb796a251c"/>
+	<game name="Lotti (1995)(Thunders)[cr SCS+TRC][a]">
+		<description>Lotti (1995)(Thunders)[cr SCS+TRC][a]</description>
+		<rom name="Lotti (1995)(Thunders)[cr SCS+TRC][a].lnx" size="16873" crc="aaf24cf5" md5="063fb554faaae5823fa4e37afc52d7f8" sha1="cf21e11c7700b2eff26e7e4d000243cb796a251c"/>
 	</game>
 	<game name="Madix (1991)(Commodore Disc)[cr ULT+BIG]">
 		<description>Madix (1991)(Commodore Disc)[cr ULT+BIG]</description>
@@ -1076,13 +1088,13 @@
 		<description>Move Out (1991)(CP Verlag)[cr CHR]</description>
 		<rom name="Move Out (1991)(CP Verlag)[cr CHR].lnx" size="24709" crc="a8e1f182" md5="3913a83bb65117ac40efa1750eb8e711" sha1="c8a1c78a6ae34145f57a7c9598d2568cb29664ff"/>
 	</game>
-	<game name="Muistipeli (1991)(Petri Hassinen)[cr TBT+FF]">
-		<description>Muistipeli (1991)(Petri Hassinen)[cr TBT+FF]</description>
-		<rom name="Muistipeli (1991)(Petri Hassinen)[cr TBT+FF].lnx" size="6214" crc="51b3a119" md5="a600a206536e30cc61c2623910b3f42a" sha1="4cc2d149094c2c04aa43c4b14e16a72da780c02c"/>
+	<game name="Muistipeli (1991)(Hassinen, Petri)[cr TBT+FF]">
+		<description>Muistipeli (1991)(Hassinen, Petri)[cr TBT+FF]</description>
+		<rom name="Muistipeli (1991)(Hassinen, Petri)[cr TBT+FF].lnx" size="6214" crc="51b3a119" md5="a600a206536e30cc61c2623910b3f42a" sha1="4cc2d149094c2c04aa43c4b14e16a72da780c02c"/>
 	</game>
-	<game name="Muistipeli (1991)(Petri Hassinen)[cr TBT+FF][a]">
-		<description>Muistipeli (1991)(Petri Hassinen)[cr TBT+FF][a]</description>
-		<rom name="Muistipeli (1991)(Petri Hassinen)[cr TBT+FF][a].lnx" size="6214" crc="9fcf9f8e" md5="1372e6154688c7516b5db1023ee7304e" sha1="71cd581206a006119cae8d964b7e090e3ef2cab6"/>
+	<game name="Muistipeli (1991)(Hassinen, Petri)[cr TBT+FF][a]">
+		<description>Muistipeli (1991)(Hassinen, Petri)[cr TBT+FF][a]</description>
+		<rom name="Muistipeli (1991)(Hassinen, Petri)[cr TBT+FF][a].lnx" size="6214" crc="9fcf9f8e" md5="1372e6154688c7516b5db1023ee7304e" sha1="71cd581206a006119cae8d964b7e090e3ef2cab6"/>
 	</game>
 	<game name="Needle in the Haystack (1998)(Schmitt, Dirk)[cr F4CG][t +2 F4CG]">
 		<description>Needle in the Haystack (1998)(Schmitt, Dirk)[cr F4CG][t +2 F4CG]</description>
@@ -1320,21 +1332,21 @@
 		<description>Remember (19xx)(-)[cr Riff Raffs][a]</description>
 		<rom name="Remember (19xx)(-)[cr Riff Raffs][a].lnx" size="4815" crc="c4e274a6" md5="10c71246aeb04d2b5c54c06183cd4499" sha1="e5590c34c60538dfb82cd6c8f686dc6473e66f9f"/>
 	</game>
-	<game name="Roll It (1990)(Markt &amp; Technik)[cr Gulas]">
-		<description>Roll It (1990)(Markt &amp; Technik)[cr Gulas]</description>
-		<rom name="Roll It (1990)(Markt &amp; Technik)[cr Gulas].lnx" size="9105" crc="0efc5965" md5="57bfaf8b3336941a4da28da878738ee8" sha1="509a2e08e86461b64cc5c7d581688b42e5f4d20a"/>
+	<game name="Roll It (1990)(64&apos;er - Markt &amp; Technik)[cr Gulas]">
+		<description>Roll It (1990)(64&apos;er - Markt &amp; Technik)[cr Gulas]</description>
+		<rom name="Roll It (1990)(64&apos;er - Markt &amp; Technik)[cr Gulas].lnx" size="9105" crc="0efc5965" md5="57bfaf8b3336941a4da28da878738ee8" sha1="509a2e08e86461b64cc5c7d581688b42e5f4d20a"/>
 	</game>
-	<game name="Roll It (1990)(Markt &amp; Technik)[cr Shitmen]">
-		<description>Roll It (1990)(Markt &amp; Technik)[cr Shitmen]</description>
-		<rom name="Roll It (1990)(Markt &amp; Technik)[cr Shitmen].lnx" size="15742" crc="010172a3" md5="53d56c0f6bae2095cb7ad1b3837fae7f" sha1="458c5f588ac7ab9dae3a2be8c6916980888bc5a5"/>
+	<game name="Roll It (1990)(64&apos;er - Markt &amp; Technik)[cr Shitmen]">
+		<description>Roll It (1990)(64&apos;er - Markt &amp; Technik)[cr Shitmen]</description>
+		<rom name="Roll It (1990)(64&apos;er - Markt &amp; Technik)[cr Shitmen].lnx" size="15742" crc="010172a3" md5="53d56c0f6bae2095cb7ad1b3837fae7f" sha1="458c5f588ac7ab9dae3a2be8c6916980888bc5a5"/>
 	</game>
-	<game name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC]">
-		<description>Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC]</description>
-		<rom name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC].lnx" size="22737" crc="0f0bb807" md5="978289e213b9c2141c8a46c011584f4e" sha1="a954800ee46a47f95c622d10d4610ac69d5df01e"/>
+	<game name="Roloid (1995)(Thunders)(PD)[cr SCS+TRC][t +2 SCS+TRC]">
+		<description>Roloid (1995)(Thunders)(PD)[cr SCS+TRC][t +2 SCS+TRC]</description>
+		<rom name="Roloid (1995)(Thunders)(PD)[cr SCS+TRC][t +2 SCS+TRC].lnx" size="22861" crc="9300b8ea" md5="e21b9ed597f84cbbd8ce7eb29c068643" sha1="cf22e21a2167a0e0e930800e75916db0eb82bcbb"/>
 	</game>
-	<game name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC][a]">
-		<description>Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC][a]</description>
-		<rom name="Roloid (1995)(Levente, Méhész)(PD)[cr SCS+TRC][t +2 SCS+TRC][a].lnx" size="22861" crc="9300b8ea" md5="e21b9ed597f84cbbd8ce7eb29c068643" sha1="cf22e21a2167a0e0e930800e75916db0eb82bcbb"/>
+	<game name="Roloid (1995)(Thunders)(PD)[cr SCS+TRC][t +2 SCS+TRC][a]">
+		<description>Roloid (1995)(Thunders)(PD)[cr SCS+TRC][t +2 SCS+TRC][a]</description>
+		<rom name="Roloid (1995)(Thunders)(PD)[cr SCS+TRC][t +2 SCS+TRC][a].lnx" size="22737" crc="0f0bb807" md5="978289e213b9c2141c8a46c011584f4e" sha1="a954800ee46a47f95c622d10d4610ac69d5df01e"/>
 	</game>
 	<game name="Rotation Craze (1994)(Loadstar)[cr M8][Z64 Part 1-4]">
 		<description>Rotation Craze (1994)(Loadstar)[cr M8][Z64 Part 1-4]</description>
@@ -1472,9 +1484,9 @@
 		<description>Summix (1993)(Reiser, Daniel)[cr Therapy]</description>
 		<rom name="Summix (1993)(Reiser, Daniel)[cr Therapy].lnx" size="89519" crc="911c1d55" md5="d4c17a5e632d42b44d957e81f3db8e04" sha1="0c2848d3a0eac202a4c0c6042fced5b4271803b6"/>
 	</game>
-	<game name="Super Nova - Insanity II (199x)(Commodore Scene)[cr AFL]">
-		<description>Super Nova - Insanity II (199x)(Commodore Scene)[cr AFL]</description>
-		<rom name="Super Nova - Insanity II (199x)(Commodore Scene)[cr AFL].lnx" size="31079" crc="879e14df" md5="93cc2ad87853ff3f2818fba77d21c1ac" sha1="834eb78ebff09427bbc40bb1f97b714b55b5b0f2"/>
+	<game name="Super Nova - Insanity II (1998)(Commodore Scene)[cr AFL]">
+		<description>Super Nova - Insanity II (1998)(Commodore Scene)[cr AFL]</description>
+		<rom name="Super Nova - Insanity II (1998)(Commodore Scene)[cr AFL].lnx" size="31079" crc="879e14df" md5="93cc2ad87853ff3f2818fba77d21c1ac" sha1="834eb78ebff09427bbc40bb1f97b714b55b5b0f2"/>
 	</game>
 	<game name="Swap (1991)(Palace)[cr DTC]">
 		<description>Swap (1991)(Palace)[cr DTC]</description>
@@ -1496,13 +1508,13 @@
 		<description>System-4 (1992)(CP Verlag)[cr LXT]</description>
 		<rom name="System-4 (1992)(CP Verlag)[cr LXT].lnx" size="25958" crc="529049f5" md5="6fd764f1abbfe7a1344498ff78944c16" sha1="a7629adc4c33ef674e47c9ab369a8a61a107a303"/>
 	</game>
-	<game name="Tangram (1987)(Markt &amp; Technik)(de)">
-		<description>Tangram (1987)(Markt &amp; Technik)(de)</description>
-		<rom name="Tangram (1987)(Markt &amp; Technik)(de).lnx" size="3908" crc="d0e4906f" md5="8c7ba6dbb32cac0cf48a42acf28cb112" sha1="ba57d6f9dfb0830fcd2ce28bda1a0f352991b478"/>
+	<game name="Tangram (1987)(64&apos;er - Markt &amp; Technik)(de)">
+		<description>Tangram (1987)(64&apos;er - Markt &amp; Technik)(de)</description>
+		<rom name="Tangram (1987)(64&apos;er - Markt &amp; Technik)(de).lnx" size="3908" crc="5d63ab05" md5="6437527c86174e8f7ff590ee61205080" sha1="c334c6f3c8153c5469bf5dc68f4c5d46609c2f66"/>
 	</game>
-	<game name="Tangram (1987)(Markt &amp; Technik)(de)[a]">
-		<description>Tangram (1987)(Markt &amp; Technik)(de)[a]</description>
-		<rom name="Tangram (1987)(Markt &amp; Technik)(de)[a].lnx" size="3908" crc="5d63ab05" md5="6437527c86174e8f7ff590ee61205080" sha1="c334c6f3c8153c5469bf5dc68f4c5d46609c2f66"/>
+	<game name="Tangram (1987)(64&apos;er - Markt &amp; Technik)(de)[a]">
+		<description>Tangram (1987)(64&apos;er - Markt &amp; Technik)(de)[a]</description>
+		<rom name="Tangram (1987)(64&apos;er - Markt &amp; Technik)(de)[a].lnx" size="3908" crc="d0e4906f" md5="8c7ba6dbb32cac0cf48a42acf28cb112" sha1="ba57d6f9dfb0830fcd2ce28bda1a0f352991b478"/>
 	</game>
 	<game name="Tanis Puzzle (demo) (1995)(Byte Brothers)[cr Pandora]">
 		<description>Tanis Puzzle (demo) (1995)(Byte Brothers)[cr Pandora]</description>
@@ -1552,9 +1564,9 @@
 		<description>Tilt (1991)(Genias)[cr Chromance]</description>
 		<rom name="Tilt (1991)(Genias)[cr Chromance].lnx" size="29358" crc="33a6f266" md5="47aa4f89f46b533d1d7a82fef3d2d9cc" sha1="83b929c1b01e0ddb6ed2d2dab8c1781d84a6e2df"/>
 	</game>
-	<game name="Tilt (1991)(Genias)[cr F4CG]">
-		<description>Tilt (1991)(Genias)[cr F4CG]</description>
-		<rom name="Tilt (1991)(Genias)[cr F4CG].lnx" size="36513" crc="60659903" md5="3c4a818a363ce4b8f063c1a83533f0fd" sha1="9db2d440f1139210e1a3f8346a7b70b196bf6bad"/>
+	<game name="Tilt (1991)(Genias)[cr F4CG][t +2 Empire]">
+		<description>Tilt (1991)(Genias)[cr F4CG][t +2 Empire]</description>
+		<rom name="Tilt (1991)(Genias)[cr F4CG][t +2 Empire].lnx" size="36513" crc="60659903" md5="3c4a818a363ce4b8f063c1a83533f0fd" sha1="9db2d440f1139210e1a3f8346a7b70b196bf6bad"/>
 	</game>
 	<game name="Tip-Trick (1991)(Software Agency)[cr Action+EMP][t +2 Action+EMP]">
 		<description>Tip-Trick (1991)(Software Agency)[cr Action+EMP][t +2 Action+EMP]</description>
@@ -1620,9 +1632,9 @@
 		<description>Tube Madness (1991)(CP Verlag)[cr LXT][t +3 LXT]</description>
 		<rom name="Tube Madness (1991)(CP Verlag)[cr LXT][t +3 LXT].lnx" size="42365" crc="4982d410" md5="4cf0b1c534e01d84ee6d68a4192a73a4" sha1="dc32f10681626eaf38e4e2f70c38498f4bbc398b"/>
 	</game>
-	<game name="Turme von Hanoi, Die (1989)(Markt &amp; Technik)(de)">
-		<description>Turme von Hanoi, Die (1989)(Markt &amp; Technik)(de)</description>
-		<rom name="Turme von Hanoi, Die (1989)(Markt &amp; Technik)(de).lnx" size="2794" crc="a8e63f69" md5="7637a32470bb5eea9a9c1e0855a32f89" sha1="2ac5ec1d451fc9c33c66765d540af64662a08486"/>
+	<game name="Turme von Hanoi, Die (1989)(64&apos;er - Markt &amp; Technik)(de)">
+		<description>Turme von Hanoi, Die (1989)(64&apos;er - Markt &amp; Technik)(de)</description>
+		<rom name="Turme von Hanoi, Die (1989)(64&apos;er - Markt &amp; Technik)(de).lnx" size="2794" crc="a8e63f69" md5="7637a32470bb5eea9a9c1e0855a32f89" sha1="2ac5ec1d451fc9c33c66765d540af64662a08486"/>
 	</game>
 	<game name="Turn It 2 - Future Edition (1991)(Kingsoft)[cr Hitmen]">
 		<description>Turn It 2 - Future Edition (1991)(Kingsoft)[cr Hitmen]</description>
@@ -1680,9 +1692,9 @@
 		<description>Vision (demo-playable) (1995)(Magna Media)[cr SCS+TRC][LNX]</description>
 		<rom name="Vision (demo-playable) (1995)(Magna Media)[cr SCS+TRC][LNX].lnx" size="68110" crc="00af8f48" md5="13b0eb77837149220ceaa0189bd6b85d" sha1="97c3d366fbac086cfdf4b34ee2d6c56533e9cc5f"/>
 	</game>
-	<game name="Word (1999)(Markt &amp; Technik)[cr LXT+ONS][f NTSC LXT][t +3 ONS]">
-		<description>Word (1999)(Markt &amp; Technik)[cr LXT+ONS][f NTSC LXT][t +3 ONS]</description>
-		<rom name="Word (1999)(Markt &amp; Technik)[cr LXT+ONS][f NTSC LXT][t +3 ONS].lnx" size="41971" crc="30ada0f2" md5="7d8a231f8b4982244c6032365c36cd76" sha1="8b53160b958f1697000aad5357c326ee70862311"/>
+	<game name="Word (1999)(Magna Media)[cr LXT+ONS][f NTSC LXT][t +3 ONS]">
+		<description>Word (1999)(Magna Media)[cr LXT+ONS][f NTSC LXT][t +3 ONS]</description>
+		<rom name="Word (1999)(Magna Media)[cr LXT+ONS][f NTSC LXT][t +3 ONS].lnx" size="41971" crc="30ada0f2" md5="7d8a231f8b4982244c6032365c36cd76" sha1="8b53160b958f1697000aad5357c326ee70862311"/>
 	</game>
 	<game name="Words Don&apos;t Come Easy (1997)(Trash Productions)[cr LXT][t +2 LXT]">
 		<description>Words Don&apos;t Come Easy (1997)(Trash Productions)[cr LXT][t +2 LXT]</description>
@@ -1736,16 +1748,16 @@
 		<description>Zgadula (demo) (1994)(Miracle)(pl)[cr L]</description>
 		<rom name="Zgadula (demo) (1994)(Miracle)(pl)[cr L].lnx" size="15700" crc="6ff6b37b" md5="0ab2e7a5d72c138af1937aa99ac5e071" sha1="53a265d86b056e52e6037e8a9978e9fc5b5bf892"/>
 	</game>
-	<game name="Zoomerang (1991)(Colin Jones)">
-		<description>Zoomerang (1991)(Colin Jones)</description>
-		<rom name="Zoomerang (1991)(Colin Jones).lnx" size="16841" crc="0466c576" md5="05f1ba239c63e127cbb81f3e0d372d3f" sha1="14fb1470a1158fd39c6176ed5f33fb65885d80fd"/>
+	<game name="Zoomerang (1991)(Atlantis)">
+		<description>Zoomerang (1991)(Atlantis)</description>
+		<rom name="Zoomerang (1991)(Atlantis).lnx" size="16841" crc="0466c576" md5="05f1ba239c63e127cbb81f3e0d372d3f" sha1="14fb1470a1158fd39c6176ed5f33fb65885d80fd"/>
 	</game>
-	<game name="Zoomerang (1991)(Colin Jones)[a]">
-		<description>Zoomerang (1991)(Colin Jones)[a]</description>
-		<rom name="Zoomerang (1991)(Colin Jones)[a].lnx" size="23038" crc="7c9506b1" md5="bfc1949b09a39568c4f923db60647650" sha1="617f144f528a148ab09bec93815b08ffbee151d7"/>
+	<game name="Zoomerang (1991)(Atlantis)[a]">
+		<description>Zoomerang (1991)(Atlantis)[a]</description>
+		<rom name="Zoomerang (1991)(Atlantis)[a].lnx" size="23038" crc="7c9506b1" md5="bfc1949b09a39568c4f923db60647650" sha1="617f144f528a148ab09bec93815b08ffbee151d7"/>
 	</game>
-	<game name="Zoomerang (1991)(Colin Jones)[cr CHR]">
-		<description>Zoomerang (1991)(Colin Jones)[cr CHR]</description>
-		<rom name="Zoomerang (1991)(Colin Jones)[cr CHR].lnx" size="15732" crc="cd3ca11c" md5="d7de3c5a40127601ffe0d935eff35781" sha1="045ed43f38189bdee5f0514224d4a19532d5440e"/>
+	<game name="Zoomerang (1991)(Atlantis)[cr CHR]">
+		<description>Zoomerang (1991)(Atlantis)[cr CHR]</description>
+		<rom name="Zoomerang (1991)(Atlantis)[cr CHR].lnx" size="15732" crc="cd3ca11c" md5="d7de3c5a40127601ffe0d935eff35781" sha1="045ed43f38189bdee5f0514224d4a19532d5440e"/>
 	</game>
 </datafile>

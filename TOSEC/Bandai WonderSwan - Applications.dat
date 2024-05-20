@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Bandai WonderSwan - Applications</name>
-		<description>Bandai WonderSwan - Applications (TOSEC-v2021-07-25)</description>
+		<description>Bandai WonderSwan - Applications (TOSEC-v2023-11-07)</description>
 		<category>TOSEC</category>
-		<version>2021-07-25</version>
-		<author>mictlantecuhtle</author>
+		<version>2023-11-07</version>
+		<author>mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -16,6 +16,22 @@
 		<description>BANDAI Default Splash Screen (1999)(Bandai)</description>
 		<rom name="BANDAI Default Splash Screen (1999)(Bandai).bin" size="1048576" crc="d4d04cac" md5="d3f378d4fc706723ebdc22d991e67d40" sha1="afece274cbd58facd8e9b1223dd0992e9f091f65"/>
 	</game>
+	<game name="ieepview v0.2 (2022-06-25)(asie)(PL)(en)(FW)">
+		<description>ieepview v0.2 (2022-06-25)(asie)(PL)(en)(FW)</description>
+		<rom name="ieepview v0.2 (2022-06-25)(asie)(PL)(en)(FW).bin" size="131072" crc="bf104305" md5="ed0a86284b6627f8e2588d205a3b1064" sha1="6bbb7fa6234cc1f6195730d4650ff7be2a499399"/>
+	</game>
+	<game name="ieepview v0.3 (2022-06-26)(asie)(PL)(en)(FW)">
+		<description>ieepview v0.3 (2022-06-26)(asie)(PL)(en)(FW)</description>
+		<rom name="ieepview v0.3 (2022-06-26)(asie)(PL)(en)(FW).bin" size="131072" crc="226e3762" md5="f858a97e166ea585f11bd820164e4f04" sha1="89b52289a7d8aca50bf9bdf0159082ac1890e632"/>
+	</game>
+	<game name="ieepview v0.3.1 (2022-06-26)(asie)(PL)(en)(FW)">
+		<description>ieepview v0.3.1 (2022-06-26)(asie)(PL)(en)(FW)</description>
+		<rom name="ieepview v0.3.1 (2022-06-26)(asie)(PL)(en)(FW).bin" size="131072" crc="a5bb231b" md5="a88662f830e503c2b11f8d82d9db1f8e" sha1="52ffc44991204bb942ab77ceec45a55382085e84"/>
+	</game>
+	<game name="ieepview v0.3.2 (2023-03-11)(asie)(PL)(en)(FW)">
+		<description>ieepview v0.3.2 (2023-03-11)(asie)(PL)(en)(FW)</description>
+		<rom name="ieepview v0.3.2 (2023-03-11)(asie)(PL)(en)(FW).bin" size="131072" crc="d59f883c" md5="cd236f4905233912bccf3cf9d64d6147" sha1="58fecb60eb77961176b356b1d4412b5d2b81a36b"/>
+	</game>
 	<game name="MobileWonderGate Rev 1 (19xx)(NTT DoCoMo)[SWJ-SCC001]">
 		<description>MobileWonderGate Rev 1 (19xx)(NTT DoCoMo)[SWJ-SCC001]</description>
 		<rom name="MobileWonderGate Rev 1 (19xx)(NTT DoCoMo)[SWJ-SCC001].bin" size="2097152" crc="80de367d" md5="b1b20bb24be3767ab5bfcfca54b51c54" sha1="92d4a6ff6f2b1152d8935025f38f910155e5d709"/>
@@ -23,6 +39,14 @@
 	<game name="Tenori-on (2000)(Toshio Iwai &amp; BBKY)(en)">
 		<description>Tenori-on (2000)(Toshio Iwai &amp; BBKY)(en)</description>
 		<rom name="Tenori-on (2000)(Toshio Iwai &amp; BBKY)(en).bin" size="524288" crc="6fe79bb1" md5="8b5c2993d6eccf6a03f377f9c99d5a92" sha1="c0104db6e176cfa64a95e4c9bc9382beae4d70d1"/>
+	</game>
+	<game name="WonderSwan TimingTest v0.1.0 (2022-12-13)(Peip, Robert - Ahlström, Fredrik)">
+		<description>WonderSwan TimingTest v0.1.0 (2022-12-13)(Peip, Robert - Ahlström, Fredrik)</description>
+		<rom name="WonderSwan TimingTest v0.1.0 (2022-12-13)(Peip, Robert - Ahlström, Fredrik).bin" size="65536" crc="b3a0c84b" md5="5ca9e246af1b28bd3d9589a1520fc837" sha1="945c7e80b0a6bda76fcc0703b079b6dbc5ee67b2"/>
+	</game>
+	<game name="WonderSwan TimingTest v0.2.0 (2023-01-14)(Peip, Robert - Ahlström, Fredrik)">
+		<description>WonderSwan TimingTest v0.2.0 (2023-01-14)(Peip, Robert - Ahlström, Fredrik)</description>
+		<rom name="WonderSwan TimingTest v0.2.0 (2023-01-14)(Peip, Robert - Ahlström, Fredrik).bin" size="65536" crc="c6c4a134" md5="a8fb20c567c73dfa8effe222a03cd676" sha1="5adeeb9db0493f2d558165f905ef3d6e82e15053"/>
 	</game>
 	<game name="WonderWitch - FreyaOS Program v1.0.0 (200x)(Qute)">
 		<description>WonderWitch - FreyaOS Program v1.0.0 (200x)(Qute)</description>
@@ -56,6 +80,10 @@
 		<description>WonderWitch - FreyaOS Program v1.1.5 (200x)(Qute)</description>
 		<rom name="WonderWitch - FreyaOS Program v1.1.5 (200x)(Qute).bin" size="524288" crc="45ba7287" md5="dcc8ea5ccb5815f41692467775789770" sha1="905cca29fd6188b2c6237b1fb71e89d7b6a1f842"/>
 	</game>
+<game name="WonderWitch - FreyaOS Program v1.1.5 (200x)(Qute)[a]">
+		<description>WonderWitch - FreyaOS Program v1.1.5 (200x)(Qute)[a]</description>
+		<rom name="WonderWitch - FreyaOS Program v1.1.5 (200x)(Qute)[a].bin" size="524288" crc="69ee37c4" md5="808f9342ff6782ba9c11c5b32cd61651" sha1="51c37aae9a416544aca4071c51a80e742143abf6"/>
+	</game>
 	<game name="WonderWitch - FreyaOS Program v1.1.6 (200x)(Qute)">
 		<description>WonderWitch - FreyaOS Program v1.1.6 (200x)(Qute)</description>
 		<rom name="WonderWitch - FreyaOS Program v1.1.6 (200x)(Qute).bin" size="524288" crc="6480bf70" md5="08ec42043bf68583b830d4e9c2fd3e48" sha1="7913dcda7ec702e152a48e2df0cd721035138c54"/>
@@ -63,5 +91,13 @@
 	<game name="WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)">
 		<description>WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)</description>
 		<rom name="WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute).bin" size="524288" crc="8e5e9633" md5="5670b16583073b43dc1b486ebee87660" sha1="d9dd280972ec45e56de98f3d425533dd49713caf"/>
+	</game>
+	<game name="WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)[a2]">
+		<description>WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)[a2]</description>
+		<rom name="WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)[a2].bin" size="524288" crc="a20ad370" md5="d37695128a5b1f86c6e85edf931f0971" sha1="253c383438690a25bda7a20d612f77b9c5272f02"/>
+	</game>
+	<game name="WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)[a]">
+		<description>WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)[a]</description>
+		<rom name="WonderWitch - FreyaOS Program v1.2.0 (200x)(Qute)[a].bin" size="524288" crc="8abeb52b" md5="6e60fb1ef85698709f5d5b22b9c4c7ac" sha1="aee22bb6149b3173b33c7408ea41e220db9a6fcc"/>
 	</game>
 </datafile>

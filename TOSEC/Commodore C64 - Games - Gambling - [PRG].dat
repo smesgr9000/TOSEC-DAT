@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Gambling - [PRG]</name>
-		<description>Commodore C64 - Games - Gambling - [PRG] (TOSEC-v2023-05-30)</description>
+		<description>Commodore C64 - Games - Gambling - [PRG] (TOSEC-v2024-03-11)</description>
 		<category>TOSEC</category>
-		<version>2023-05-30</version>
+		<version>2024-03-11</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -232,6 +232,10 @@
 		<description>Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr TAL+Ikari+INC]</description>
 		<rom name="Cash &apos;n&apos; Grab (1990)(Zeppelin Games)[cr TAL+Ikari+INC].prg" size="34476" crc="c789ddbb" md5="3482e9eea132f463e03493250e7a307a" sha1="8411840d9ea6b02bb702efc9cdfce4c5828f1e57"/>
 	</game>
+	<game name="Cash-Bash (1987)(Codemasters)[cr Sci 666+Ikari]">
+		<description>Cash-Bash (1987)(Codemasters)[cr Sci 666+Ikari]</description>
+		<rom name="Cash-Bash (1987)(Codemasters)[cr Sci 666+Ikari].prg" size="29476" crc="2081d855" md5="45a56f697a0a0361252d42212de233b5" sha1="05753a0d1cdfa89788a6a2ab610c29ee3085f2d6"/>
+	</game>
 	<game name="Casino Simulator (1990)(Byte-Back)[cr FTS]">
 		<description>Casino Simulator (1990)(Byte-Back)[cr FTS]</description>
 		<rom name="Casino Simulator (1990)(Byte-Back)[cr FTS].prg" size="30160" crc="954e59f5" md5="ba175eb81de6bbca9bc7482db5f82aee" sha1="7e72f33a0f6b68d79b2da7fa7bd70f5dc6c1b19c"/>
@@ -408,10 +412,6 @@
 		<description>Domino (1988)(CP Verlag)(de)[cr BB]</description>
 		<rom name="Domino (1988)(CP Verlag)(de)[cr BB].prg" size="13606" crc="327e744b" md5="bbdaf0c39e07abd1849cbc85f9bdd97d" sha1="45d9fa5beb995731741ccede0f6e381e7a7de427"/>
 	</game>
-	<game name="Dominoes (1978)(Richter, M.)">
-		<description>Dominoes (1978)(Richter, M.)</description>
-		<rom name="Dominoes (1978)(Richter, M.).prg" size="9122" crc="804742f2" md5="fe2857f4e5f5e77580fbbaa3ba201885" sha1="bc302b2e113fe1fe6b91701d9447a60d93d44368"/>
-	</game>
 	<game name="Dominoes (1985)(Roy Titchard)">
 		<description>Dominoes (1985)(Roy Titchard)</description>
 		<rom name="Dominoes (1985)(Roy Titchard).prg" size="11743" crc="c151fc4b" md5="aff3a392886887712494d4358f12b346" sha1="bdc9b2849dacee3a61752548645d3c931d6c4905"/>
@@ -419,6 +419,10 @@
 	<game name="Dominoes (1988)(Commercial Data Systems)">
 		<description>Dominoes (1988)(Commercial Data Systems)</description>
 		<rom name="Dominoes (1988)(Commercial Data Systems).prg" size="9845" crc="0bd72d21" md5="e601bf3e095878259570669c53a326ec" sha1="365eba41acb01ec731a869d3f3d7a05956214e9c"/>
+	</game>
+	<game name="Dominoes (198x)(Richter, M.)">
+		<description>Dominoes (198x)(Richter, M.)</description>
+		<rom name="Dominoes (198x)(Richter, M.).prg" size="9122" crc="804742f2" md5="fe2857f4e5f5e77580fbbaa3ba201885" sha1="bc302b2e113fe1fe6b91701d9447a60d93d44368"/>
 	</game>
 	<game name="Dominoes (1997)(Art Designs)">
 		<description>Dominoes (1997)(Art Designs)</description>
@@ -448,33 +452,9 @@
 		<description>Dominoes (1997)(Art Designs)[cr Onslaught]</description>
 		<rom name="Dominoes (1997)(Art Designs)[cr Onslaught].prg" size="30519" crc="f1b71e79" md5="172a491be5378e5b361757ea9eb9cf7d" sha1="f351fe3e845800c4bf4c35f55cd16e572ba05edf"/>
 	</game>
-	<game name="Double Take (1987)(Ocean)">
-		<description>Double Take (1987)(Ocean)</description>
-		<rom name="Double Take (1987)(Ocean).prg" size="3649" crc="f2798d8e" md5="4fd035ee9b67dfed8cb672e8f77e72da" sha1="5874bd826ea6d8307dc92fd6dfbb1085d4fd38c0"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[a]">
-		<description>Double Take (1987)(Ocean)[a]</description>
-		<rom name="Double Take (1987)(Ocean)[a].prg" size="47828" crc="e29cd816" md5="ee0e2e32ddd36119611c324472f22dc6" sha1="aed6bf19991e9a9a0d36c67613dff7a354a031af"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[a2]">
-		<description>Double Take (1987)(Ocean)[a2]</description>
-		<rom name="Double Take (1987)(Ocean)[a2].prg" size="48731" crc="e44f3444" md5="212f599d4b20c4281c30958770e2ad5f" sha1="299f3f55ba11e5f1b3a99d7536bcac42100cd71c"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[a3]">
-		<description>Double Take (1987)(Ocean)[a3]</description>
-		<rom name="Double Take (1987)(Ocean)[a3].prg" size="48752" crc="8cb83cb6" md5="afa1aeea551b78b2884f7ee2e72a458b" sha1="1ab52a7ca85ac287cb79ce8c036e4cccd85de68f"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[cr CCW]">
-		<description>Double Take (1987)(Ocean)[cr CCW]</description>
-		<rom name="Double Take (1987)(Ocean)[cr CCW].prg" size="48374" crc="9e8cc527" md5="e928c9ef341560b1263d4bf03f8c4cc3" sha1="e6d23f4174a9f4b8cec3b595889e95fe4ca910e4"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[cr HTL][t +1 HTL]">
-		<description>Double Take (1987)(Ocean)[cr HTL][t +1 HTL]</description>
-		<rom name="Double Take (1987)(Ocean)[cr HTL][t +1 HTL].prg" size="49170" crc="30795977" md5="cba21d7d06c98c77ed3303a01c6e536d" sha1="592b4ccbc62f6461c52117c93d5932457d444629"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[cr Light Circle]">
-		<description>Double Take (1987)(Ocean)[cr Light Circle]</description>
-		<rom name="Double Take (1987)(Ocean)[cr Light Circle].prg" size="48143" crc="68592634" md5="a5e2f2c089e22a24a7d714e9eb0ebf02" sha1="8d14d917ff686cdfa4887f131abeca0c17d2be14"/>
+	<game name="Double Take (1988)(COMPUTE! Publications - COMPUTE!&apos;s Gazette)">
+		<description>Double Take (1988)(COMPUTE! Publications - COMPUTE!&apos;s Gazette)</description>
+		<rom name="Double Take (1988)(COMPUTE! Publications - COMPUTE!&apos;s Gazette).prg" size="3649" crc="f2798d8e" md5="4fd035ee9b67dfed8cb672e8f77e72da" sha1="5874bd826ea6d8307dc92fd6dfbb1085d4fd38c0"/>
 	</game>
 	<game name="Drop the Lot (19xx)(-)">
 		<description>Drop the Lot (19xx)(-)</description>
@@ -1036,9 +1016,9 @@
 		<description>Pferde Bahn (1986)(Verlag Heinz Heise)(de)[cr ASS]</description>
 		<rom name="Pferde Bahn (1986)(Verlag Heinz Heise)(de)[cr ASS].prg" size="5928" crc="d5aa46c4" md5="f1145ce2776f8dffbab61ddc0edf2ad9" sha1="be5476bf77adf4a3bf84f937d0a5fbdeb9a29f97"/>
 	</game>
-	<game name="Pferderennen (1989)(Markt &amp; Technik - 64&apos;er)(de)">
-		<description>Pferderennen (1989)(Markt &amp; Technik - 64&apos;er)(de)</description>
-		<rom name="Pferderennen (1989)(Markt &amp; Technik - 64&apos;er)(de).prg" size="1237" crc="cb6a7c38" md5="544881b4219a6a073a8a70c6bf062dab" sha1="4abc012db85491be7df1158f7ab1e5c08c08b8fc"/>
+	<game name="Pferderennen (1989)(64&apos;er - Markt &amp; Technik)(de)">
+		<description>Pferderennen (1989)(64&apos;er - Markt &amp; Technik)(de)</description>
+		<rom name="Pferderennen (1989)(64&apos;er - Markt &amp; Technik)(de).prg" size="1237" crc="cb6a7c38" md5="544881b4219a6a073a8a70c6bf062dab" sha1="4abc012db85491be7df1158f7ab1e5c08c08b8fc"/>
 	</game>
 	<game name="Pferderennen (19xx)(-)(de)(PD)">
 		<description>Pferderennen (19xx)(-)(de)(PD)</description>
@@ -1108,6 +1088,10 @@
 		<description>Pot Fun (1992)(CP Verlag - Game On)[cr Hysteric - NOT]</description>
 		<rom name="Pot Fun (1992)(CP Verlag - Game On)[cr Hysteric - NOT].prg" size="34432" crc="1b3b43bb" md5="94c9cf8366537af01003c45816869893" sha1="48de382b0188dc00628953d3ea04ed08556dc60c"/>
 	</game>
+	<game name="Pot Fun (1992)(CP Verlag - Game On)[cr Laser]">
+		<description>Pot Fun (1992)(CP Verlag - Game On)[cr Laser]</description>
+		<rom name="Pot Fun (1992)(CP Verlag - Game On)[cr Laser].prg" size="27105" crc="ec13fdb8" md5="064ec4d0132daf42a92940ba899cde83" sha1="a98347b95a1f8470258f867fd28465aa43135d17"/>
+	</game>
 	<game name="Pot Fun (1992)(CP Verlag - Game On)[cr Success]">
 		<description>Pot Fun (1992)(CP Verlag - Game On)[cr Success]</description>
 		<rom name="Pot Fun (1992)(CP Verlag - Game On)[cr Success].prg" size="29207" crc="5f356054" md5="d34573c1a4bd5fac93f846cb85cc27cb" sha1="a5691632976dd68837ca1b0db2119b2c9a19757f"/>
@@ -1115,10 +1099,6 @@
 	<game name="Pot Fun (1992)(CP Verlag - Game On)[h ACR]">
 		<description>Pot Fun (1992)(CP Verlag - Game On)[h ACR]</description>
 		<rom name="Pot Fun (1992)(CP Verlag - Game On)[h ACR].prg" size="26856" crc="874785af" md5="a4c70068b7743b00ef05523d39590c5b" sha1="7f43906cdc6c0d8b1c92d6936faef7c3352c7fb9"/>
-	</game>
-	<game name="Pot Fun (1992)(CP Verlag)[cr Laser]">
-		<description>Pot Fun (1992)(CP Verlag)[cr Laser]</description>
-		<rom name="Pot Fun (1992)(CP Verlag)[cr Laser].prg" size="27105" crc="ec13fdb8" md5="064ec4d0132daf42a92940ba899cde83" sha1="a98347b95a1f8470258f867fd28465aa43135d17"/>
 	</game>
 	<game name="Power Play (1984)(Interface Publications)">
 		<description>Power Play (1984)(Interface Publications)</description>
@@ -1139,6 +1119,10 @@
 	<game name="Quarterhorse (1984)(-)">
 		<description>Quarterhorse (1984)(-)</description>
 		<rom name="Quarterhorse (1984)(-).prg" size="7877" crc="5b0d517f" md5="73424f22a1d17f3bcf23c52c7d91eea6" sha1="bd99efda8beb128b5b6aa66691b0d31d4fb569e6"/>
+	</game>
+	<game name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[cr Ving Chhoy]">
+		<description>Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[cr Ving Chhoy]</description>
+		<rom name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[cr Ving Chhoy].prg" size="13969" crc="4bff615e" md5="a284da186079e90f539ab89e9b7ad24a" sha1="d46597e632879fb023801fd70386ff72915036fb"/>
 	</game>
 	<game name="Riddle of the Sphinx (1984)(Longman Group)[cr ASS]">
 		<description>Riddle of the Sphinx (1984)(Longman Group)[cr ASS]</description>
@@ -1216,9 +1200,9 @@
 		<description>Roulette Wheel (1983)(Lawrenceville Press)</description>
 		<rom name="Roulette Wheel (1983)(Lawrenceville Press).prg" size="1049" crc="7300540e" md5="c8a23d1635b8878aa53c2f9fb105e856" sha1="33edb61bd783223ae9ea1cd26efbae2e8f493abd"/>
 	</game>
-	<game name="Ruleta (1985)(Load&apos;N&apos;Run)(es)">
-		<description>Ruleta (1985)(Load&apos;N&apos;Run)(es)</description>
-		<rom name="Ruleta (1985)(Load&apos;N&apos;Run)(es).prg" size="33659" crc="97173081" md5="189018efb01184de321bf14862998106" sha1="a61b079672450be8b3e418151e26d441a3359647"/>
+	<game name="Ruleta (1985)(Load &apos;n&apos; Run)(es)">
+		<description>Ruleta (1985)(Load &apos;n&apos; Run)(es)</description>
+		<rom name="Ruleta (1985)(Load &apos;n&apos; Run)(es).prg" size="33659" crc="97173081" md5="189018efb01184de321bf14862998106" sha1="a61b079672450be8b3e418151e26d441a3359647"/>
 	</game>
 	<game name="Rulette (198x)(Dave Barnes)(da)[BASIC]">
 		<description>Rulette (198x)(Dave Barnes)(da)[BASIC]</description>
@@ -1836,24 +1820,24 @@
 		<description>Zilch (1992)(Incubus-TSR)</description>
 		<rom name="Zilch (1992)(Incubus-TSR).prg" size="13606" crc="c1274d95" md5="fbd01660166ef37dd571d5d58a128f6a" sha1="2dfeb48796597e9ce76a40aa702951e389e0244f"/>
 	</game>
-	<game name="Zillion (1993)(CP Verlag)">
-		<description>Zillion (1993)(CP Verlag)</description>
-		<rom name="Zillion (1993)(CP Verlag).prg" size="18375" crc="0a6cf3e9" md5="7305cccf6e4eaad7cd84d0e21ae72cf5" sha1="6a8e0a9895e7ce1d5b06720d60ae823e1ad03353"/>
+	<game name="Zillion (1993)(CP Verlag - Magic Disk 64)">
+		<description>Zillion (1993)(CP Verlag - Magic Disk 64)</description>
+		<rom name="Zillion (1993)(CP Verlag - Magic Disk 64).prg" size="18375" crc="0a6cf3e9" md5="7305cccf6e4eaad7cd84d0e21ae72cf5" sha1="6a8e0a9895e7ce1d5b06720d60ae823e1ad03353"/>
 	</game>
-	<game name="Zillion (1993)(CP Verlag)[a]">
-		<description>Zillion (1993)(CP Verlag)[a]</description>
-		<rom name="Zillion (1993)(CP Verlag)[a].prg" size="17450" crc="83dea174" md5="4f2fc8b19d99d38ad29e2f45872c83f7" sha1="146b7495bc4d04baf8d72b321eeb58443116c412"/>
+	<game name="Zillion (1993)(CP Verlag - Magic Disk 64)[a]">
+		<description>Zillion (1993)(CP Verlag - Magic Disk 64)[a]</description>
+		<rom name="Zillion (1993)(CP Verlag - Magic Disk 64)[a].prg" size="17450" crc="83dea174" md5="4f2fc8b19d99d38ad29e2f45872c83f7" sha1="146b7495bc4d04baf8d72b321eeb58443116c412"/>
 	</game>
-	<game name="Zillion (1993)(CP Verlag)[a2]">
-		<description>Zillion (1993)(CP Verlag)[a2]</description>
-		<rom name="Zillion (1993)(CP Verlag)[a2].prg" size="25074" crc="4c7e8ffa" md5="b0507d37b4d37178f3f3de8c99deda99" sha1="2505539abfea72b732c4a1b8dbfa202fae81d578"/>
+	<game name="Zillion (1993)(CP Verlag - Magic Disk 64)[a2]">
+		<description>Zillion (1993)(CP Verlag - Magic Disk 64)[a2]</description>
+		<rom name="Zillion (1993)(CP Verlag - Magic Disk 64)[a2].prg" size="25074" crc="4c7e8ffa" md5="b0507d37b4d37178f3f3de8c99deda99" sha1="2505539abfea72b732c4a1b8dbfa202fae81d578"/>
 	</game>
-	<game name="Zillion (1993)(CP Verlag)[cr AFL+C0D]">
-		<description>Zillion (1993)(CP Verlag)[cr AFL+C0D]</description>
-		<rom name="Zillion (1993)(CP Verlag)[cr AFL+C0D].prg" size="32696" crc="3eecdbac" md5="802cf44c0df780309189bab26d1e66d0" sha1="020e57955c41272ba6d6b52590b37885230100a8"/>
+	<game name="Zillion (1993)(CP Verlag - Magic Disk 64)[cr AFL+C0D]">
+		<description>Zillion (1993)(CP Verlag - Magic Disk 64)[cr AFL+C0D]</description>
+		<rom name="Zillion (1993)(CP Verlag - Magic Disk 64)[cr AFL+C0D].prg" size="32696" crc="3eecdbac" md5="802cf44c0df780309189bab26d1e66d0" sha1="020e57955c41272ba6d6b52590b37885230100a8"/>
 	</game>
-	<game name="Zillion (1993)(CP Verlag)[cr TRC]">
-		<description>Zillion (1993)(CP Verlag)[cr TRC]</description>
-		<rom name="Zillion (1993)(CP Verlag)[cr TRC].prg" size="20867" crc="ca9f3b4c" md5="600b7ac0240456b6ee4377caf0baa309" sha1="d698d26d541e71a1c1765163aa2e24a804d24f4f"/>
+	<game name="Zillion (1993)(CP Verlag - Magic Disk 64)[cr TRC]">
+		<description>Zillion (1993)(CP Verlag - Magic Disk 64)[cr TRC]</description>
+		<rom name="Zillion (1993)(CP Verlag - Magic Disk 64)[cr TRC].prg" size="20867" crc="ca9f3b4c" md5="600b7ac0240456b6ee4377caf0baa309" sha1="d698d26d541e71a1c1765163aa2e24a804d24f4f"/>
 	</game>
 </datafile>

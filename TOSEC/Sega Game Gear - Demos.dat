@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sega Game Gear - Demos</name>
-		<description>Sega Game Gear - Demos (TOSEC-v2022-06-08)</description>
+		<description>Sega Game Gear - Demos (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
-		<author>Cassiel - mictlantecuhtle</author>
+		<version>2024-01-15</version>
+		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -147,5 +147,17 @@
 	<game name="Windows for GG v4.0 (1999)(Kemp, Victor)(PD)">
 		<description>Windows for GG v4.0 (1999)(Kemp, Victor)(PD)</description>
 		<rom name="Windows for GG v4.0 (1999)(Kemp, Victor)(PD).bin" size="32768" crc="f366b29d" md5="6dcc9dad807dac324f1bf859a0a0418c" sha1="1eb67ff1aedc0360319ec75067fa9090db428bab"/>
+	</game>
+	<game name="XPMCK v12 - Scotland (19xx)(mic_)(PD)">
+		<description>XPMCK v12 - Scotland (19xx)(mic_)(PD)</description>
+		<rom name="XPMCK v12 - Scotland (19xx)(mic_)(PD).gg" size="32768" crc="48ddb3ec" md5="0ac03f6f045a22b5c7f434a3fdd9db31" sha1="d39a5a15166522127403799e3b6a1a09d59b784b"/>
+	</game>
+	<game name="XPMCK v15 - Scotland (19xx)(mic_)(PD)">
+		<description>XPMCK v15 - Scotland (19xx)(mic_)(PD)</description>
+		<rom name="XPMCK v15 - Scotland (19xx)(mic_)(PD).gg" size="32768" crc="bada8d24" md5="a2925b7a3808792cd327a502f35092c9" sha1="e28b3f719d3e98ab55b415498f3397dcd4c06cb6"/>
+	</game>
+	<game name="XPMCK vx (2008)(Mic)">
+		<description>XPMCK vx (2008)(Mic)</description>
+		<rom name="XPMCK vx (2008)(Mic).gg" size="32768" crc="fea4fb43" md5="5814749f678be7710466fc26b64a279b" sha1="e9937c6674edaf7e60bb977a7bb02726cdef3e58"/>
 	</game>
 </datafile>

@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Pokitto Oy Pokitto - Games - [Multipart]</name>
+		<description>Pokitto Oy Pokitto - Games - [Multipart] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1 on 1 Racer (2021-08-29)(FManga)">
+		<description>1 on 1 Racer (2021-08-29)(FManga)</description>
+		<rom name="1on1.bin" size="131428" crc="091db920" md5="ee454a4146360444f6a5d9efffb2ea27" sha1="52f690befe0e47027ff855f8f15f0fc0a000b1b4"/>
+		<rom name="data\0.png" size="116409" crc="9381928c" md5="93509c41ace07542428e26abcc59fede" sha1="a2cef098ba6afd3e850ea77b1cb3b1145d450462"/>
+		<rom name="data\1on1.i16" size="7566" crc="b6cf33b7" md5="e9e058c63cc985098da1425cd2d0387d" sha1="f1f9b475856c435c7824083607265b7076f99162"/>
+		<rom name="data\1on1Settings.ini" size="46" crc="80bbc906" md5="7dbdcd47153fd11e940c1e4fbefdca2a" sha1="7b70f4c987584b10348789151fe00809cf2710c6"/>
+		<rom name="data\logo.i16" size="387200" crc="860d2b2f" md5="c099c22f2e4c867c8d9cc16f67e5a03e" sha1="a5b5c141a839ba6afa6c4a49e2c10729ba35c765"/>
+		<rom name="data\menu.i16" size="154882" crc="37f99979" md5="b0af7debe770d13f4790b017d9226ee2" sha1="5c5940cf2a12615afd9d5f2d6e7e3bdb031d3e32"/>
+	</game>
+	<game name="1nvader v1.0 (2022-07-15)(PressPlayOnTape)">
+		<description>1nvader v1.0 (2022-07-15)(PressPlayOnTape)</description>
+		<rom name="1nvader.pop" size="639654" crc="714381cd" md5="cda3c9e9b08aa47eac865a2c12f8be59" sha1="a0aea1cf8d23141e6e7c08ce19e83987f799b7d7"/>
+		<rom name="music\1nvad_00.raw" size="62513" crc="28ce6105" md5="24428624b99c73cad21109346e161cef" sha1="1ce2e494bc272b75b13d657d575ec5e07c67daa5"/>
+		<rom name="music\1nvad_01.raw" size="129024" crc="929688f9" md5="f0da6c6b5330ed7f88ae95d610211dde" sha1="9d9fa0c1d0621cc0906d8de451dac98f05ee724a"/>
+		<rom name="music\1nvad_02.raw" size="946413" crc="0d4b2edc" md5="ef2b3d321eb7cb02cd94bb7d8dba454a" sha1="a32c5b832224d1b724be5e25cbc6f02dc3257efe"/>
+	</game>
+	<game name="Abbaye des Morts, L' (2018-11-24)(HomineLudens)">
+		<description>Abbaye des Morts, L' (2018-11-24)(HomineLudens)</description>
+		<rom name="abbaye.bin" size="199224" crc="14a263c0" md5="572cf3feb7a4f461f96b99d279fa3604" sha1="5a072a13f18aa07b2adcfe6274419b356577a7da"/>
+		<rom name="abbaye\enemies.bin" size="5250" crc="ac18ab70" md5="4a778961e279e2d5842e4ffb1f663b2a" sha1="fe6dc4f7976b4d0d8f3c48fa7755dd8d0c498ea6"/>
+		<rom name="abbaye\gfx\blueparch.gfx" size="19360" crc="c35c7a6c" md5="0319e6161da4df8ddab555090faae097" sha1="0667d204efc44789e6f989b958b979924e91ea9c"/>
+		<rom name="abbaye\gfx\ending.gfx" size="19360" crc="8496fd10" md5="7559f9613c92aa5ab17bc1948164cc32" sha1="af637ec7bc43f60429177577d6fcf14e648d724a"/>
+		<rom name="abbaye\gfx\gameover.gfx" size="19360" crc="3c3e9f9c" md5="b51dbec45bd5f6bef6365586e96ba938" sha1="cfe5cea31e9b94a172997e659e06e31b29759815"/>
+		<rom name="abbaye\gfx\gfxintro1.gfx" size="19360" crc="c7b0b9a3" md5="92d32026569312754aba0784e86d21ad" sha1="6e4544eb74e556bd00ddc276e08ba0ba699d4ec2"/>
+		<rom name="abbaye\gfx\history.gfx" size="19360" crc="a1af05ee" md5="cd753132f32ce070cb01d4f3871e514c" sha1="0102ee1548b48fa370c4226bbeef3838037f1d9f"/>
+		<rom name="abbaye\gfx\intro1_hc.gfx" size="19360" crc="c4572409" md5="d5d84bd5b1e6fd7c380086db429b1635" sha1="d11e5db4472edb64fc77df4d05d62b9b1c207d4b"/>
+		<rom name="abbaye\gfx\intro1_lc.gfx" size="19360" crc="b057e80a" md5="516c2c852bb76d6d8fb25664a81700d3" sha1="284747dc2bbc7f85cb6539027dc998e174cb86db"/>
+		<rom name="abbaye\gfx\intro2_hc.gfx" size="19360" crc="8fadb83f" md5="6daf8ddb54e92663c86317a1378d43ab" sha1="eafe8cf8e304fe6bbf7a5aae2dec7b81da9c29ab"/>
+		<rom name="abbaye\gfx\intro2_lc.gfx" size="19360" crc="395dc383" md5="781df6ede3032e339d90310e6e8e84a1" sha1="ce6feed8a420ed09f1fce470a915e3eba23deb36"/>
+		<rom name="abbaye\gfx\parchment.gfx" size="19360" crc="243da331" md5="f3d2e43e4f1a5a9033eb77ba6822f300" sha1="68356c58aad448d820bf5edd2661497095fc68f1"/>
+		<rom name="abbaye\gfx\parchment1.gfx" size="19360" crc="0930b6c1" md5="a36b5ed43c22a73aaa57985917a7172c" sha1="c69b5f54698cc32ad06e252545140472af32a33b"/>
+		<rom name="abbaye\gfx\parchment2.gfx" size="19360" crc="0a5ace8b" md5="eabc11dcb5906cf914880f4185193bc4" sha1="1a27572c2ed83e4604633a039e2fc4eb03015dd2"/>
+		<rom name="abbaye\gfx\parchment3.gfx" size="19360" crc="866edfcb" md5="5e3d4bf921209b3a18c02eeb3148d4e5" sha1="dacdbc83cb84332747428531496b1e56f97eee5f"/>
+		<rom name="abbaye\gfx\parchment4.gfx" size="19360" crc="6d723a0e" md5="d7b9f6e781304ba56c746e0b45ef5201" sha1="e9e81c231d935b9ad97be75da36790b49f972a56"/>
+		<rom name="abbaye\gfx\parchment5.gfx" size="19360" crc="91c49280" md5="6a115e509e03fefab368376dc66114f8" sha1="966866cf9d8bfe301f5dda9cffee4088dacc8871"/>
+		<rom name="abbaye\gfx\parchment6.gfx" size="19360" crc="a7112928" md5="1fdf82a8124dffc7175c3b20812e2938" sha1="c86964959d6aa51a5b89a5a130d7202e15786ed1"/>
+		<rom name="abbaye\gfx\parchmentpause.gfx" size="19360" crc="a2d526d7" md5="6c5bc3186caf785b7a5a0f598e968f6b" sha1="80bc825e8fc97bf3a29508347f3360ebd0675012"/>
+		<rom name="abbaye\gfx\redparch.gfx" size="19360" crc="b8c15c6c" md5="cc6ae8d1703e7c464c3f9f6410c4298e" sha1="5cb91bdb4f6ef2a7a632d7a45df0fe16fcb9ce74"/>
+		<rom name="abbaye\map.bin" size="38500" crc="e1ea92da" md5="9a6d41f97f34491c7f2a4ebb743d87be" sha1="9cceb84689aba23b1f371261fa904a264a23e63e"/>
+		<rom name="abbaye\music\0_PrayerofHopeN.raw" size="58315" crc="0c0bc722" md5="3b721ff1901ec7def472c92f208d721b" sha1="3bda48d47b1b8fca429d4887225eea8641b3e52b"/>
+		<rom name="abbaye\music\1_AreaIChurchN.raw" size="112060" crc="b0240a22" md5="617babb889101202f8a73dd7466f5f29" sha1="f15b7463edb1a23ad6479ee103451f6811be6a35"/>
+		<rom name="abbaye\music\2_GameOverV2N.raw" size="53814" crc="501c994c" md5="afa06b8249d227c0df8331964f856857" sha1="242d666274b1d465fc425b094c8673e61b24978f"/>
+		<rom name="abbaye\music\3_HangmansTree.raw" size="16131" crc="b63848ac" md5="5ac7689a174451796321cab266ca48d2" sha1="a66c79eafe42520594766e0b21d46df4c406148e"/>
+		<rom name="abbaye\music\4_AreaIICavesV2N.raw" size="205631" crc="99c7e968" md5="4edcd39dcaa252f5d745c904e707d082" sha1="c21e12377c36392de592be4ccc1a1fac798e4154"/>
+		<rom name="abbaye\music\5_EvilFightN.raw" size="162598" crc="8d26a40c" md5="9d5031c1884b0c95fcfd7505620da925" sha1="f40278f11a01b128cacba873811d7460917a84de"/>
+		<rom name="abbaye\music\6_AreaIIIHellN.raw" size="250264" crc="1dde1290" md5="ee8048180cf3fec8aff764b8a03bcfe9" sha1="95fa1696ab31bf404efe9b73c1770e0f6979b57d"/>
+		<rom name="abbaye\music\7_ManhuntwoodN.raw" size="22674" crc="4c9593e6" md5="d549d7393fabd7e35b3f61b8e66d878f" sha1="0236259feeb17ade23ae7ce13f2facf8feb39c3c"/>
+		<rom name="abbaye\music\8_MainTitleN.raw" size="44701" crc="09044a57" md5="80859baae078e71114c169d11149f516" sha1="d9176c1d279f40850df3fe3fe523149060b3cabd"/>
+		<rom name="abbaye\music\8_onedeathn.raw" size="16030" crc="bd26412f" md5="3340edbb5b7cb384323114f96e1dd1f8" sha1="f22c19d0f1491b9bbe4378f607d13ba8f1e8c05a"/>
+		<rom name="abbaye\music\9_MainTitleN.raw" size="44701" crc="ed2a2984" md5="7e39e99780bb026b68a134086380cd31" sha1="1bff9229153c15eb4225933e806e294dcfe77a98"/>
+		<rom name="abbaye\music\9_ManhuntN.raw" size="57265" crc="e8228f59" md5="26fc46198e7cda4291333c56571d4ea7" sha1="8b75681e4566faaecf2c657a0e99a5887ad23415"/>
+		<rom name="abbayelc.bin" size="199224" crc="27a0e265" md5="5202b6045fb554fe9ce7d574cfe61df3" sha1="f245114c8892baba73aaa75b2956ea6a195f4a95"/>
+	</game>
+	<game name="Aqua Pokitty (2019-10-14)(jvdw007)">
+		<description>Aqua Pokitty (2019-10-14)(jvdw007)</description>
+		<rom name="Aqua16.bin" size="208256" crc="d219dc00" md5="20a40f73542f78d020c72cbbbef1448d" sha1="1c58691f6942818b685dec5b1adad6e726e9ee8c"/>
+		<rom name="ReadMe.txt" size="1628" crc="82eba980" md5="a726bcc731cc836412a0c10cf643b889" sha1="8e4d715d80fd39f82c22d25ff50462586e8a01fa"/>
+	</game>
+	<game name="Arcadia Strikers v2 (demo-playable) (2021-04-20)(gibs)[CD-ROM Version]">
+		<description>Arcadia Strikers v2 (demo-playable) (2021-04-20)(gibs)[CD-ROM Version]</description>
+		<rom name="ArcadiaStrikers.pop" size="290907" crc="945ed204" md5="cfe8b328c2237aeba7b8a1f821a300b0" sha1="cb00ba356cf8d06ca8ae8d768b622b2b48da4eb3"/>
+		<rom name="EEP.ROM" size="4096" crc="d92fef4a" md5="b9fca8489707cf071ec1b4ec0cc64f89" sha1="8cdf10b32fee707f0054c65942e4d50e57a08f2b"/>
+		<rom name="music\ArcadiaStrikers\galagherz22chiptune.raw" size="2503116" crc="e2309340" md5="714a8ac17cf85192f6855739faf75859" sha1="5f026da9366a86004102382f6b8a43ed8ba4cdb9"/>
+		<rom name="music\ArcadiaStrikers\ingame5.raw" size="2733120" crc="3421e38b" md5="979cf71ac07384811f3ba18fba22c106" sha1="3a048cb543838ad314010116525711ad147c4dc5"/>
+		<rom name="music\ArcadiaStrikers\NarationMusicVoiceMixed.raw" size="338278" crc="ab1ac033" md5="a21e4043270421beb0f1f9dec7d82ada" sha1="47e9e52f0929fecdbec9d9edddb7c331a2fd25c3"/>
+		<rom name="music\ArcadiaStrikers\tittlescreen.raw" size="2066239" crc="e4ae728c" md5="55854f83f117310947c2c4e1efdaa01f" sha1="95a9f3e85daafd83e285ef661d1c96385c776ffd"/>
+		<rom name="music\ArcadiaStrikers\voiceV2GameOver.raw" size="33151" crc="4ae3ecdd" md5="e7bc860643a2849254d42368460965d3" sha1="56e8f8707aea717defb02a60bece9caace83495b"/>
+		<rom name="music\ArcadiaStrikers\voiceV2GetReady.raw" size="32256" crc="34c8629d" md5="db34fe8c9be61907565d540033ab387a" sha1="3f79195dc707a3955b096572ad67fbdc9e92a441"/>
+		<rom name="music\ArcadiaStrikers\voicev2PowerSpeed.raw" size="30976" crc="a6eb44bd" md5="c6afef60e33bc796a55201db303103ec" sha1="c5779bcf2bbf55ba982924a1b04b1420ef6eff99"/>
+		<rom name="music\ArcadiaStrikers\voiceV2PowerUp.raw" size="27968" crc="d9c1a24a" md5="7298d73c6a9e70c8e676736511409830" sha1="d87e1d8d9f8622e7975cd525c157edeb6c4c738c"/>
+		<rom name="music\ArcadiaStrikers\voiceV2protection.raw" size="23155" crc="a5f5cd01" md5="8a3c9b2a7f710a8f7cf111a553332974" sha1="329d25af31d1e92f71ed5311280fb63d403be8c5"/>
+		<rom name="music\ArcadiaStrikers\voiceV2SpeedUp.raw" size="28593" crc="d38dfd70" md5="418963b4411e62f5c16d6d5b2bc58533" sha1="103369f9c6e56abeb2bd53d16e0d36aec5dd6bd3"/>
+	</game>
+	<game name="Armadillo (2021-07-20)(FManga)">
+		<description>Armadillo (2021-07-20)(FManga)</description>
+		<rom name="Armadillo.bin" size="146208" crc="eff96b78" md5="22b8b2efb4e998aba304546cde280753" sha1="32f6056bc3b0b1af7878443a91b836b6c8ba88d6"/>
+		<rom name="data\level_up.raw" size="8286" crc="81572598" md5="63f4813b080e5c19b72fe3266cb644d1" sha1="50819748854c9e00fe79e2f634c577ee02d725a0"/>
+		<rom name="data\logo.i16" size="387200" crc="860d2b2f" md5="c099c22f2e4c867c8d9cc16f67e5a03e" sha1="a5b5c141a839ba6afa6c4a49e2c10729ba35c765"/>
+		<rom name="data\logo.raw" size="10367" crc="ed4e8bb9" md5="a62b1af775e2ba938b1a3940d599df39" sha1="335d43a6b35d86d52491913d65f7588daa2f9d11"/>
+		<rom name="data\menu.i16" size="154882" crc="1a772491" md5="758a18cc7fcacbfe85086b5a3b159755" sha1="5d51ce5773ee6836776c4b33ecfc98ee24b7939f"/>
+		<rom name="data\menu.png" size="97164" crc="90b9f671" md5="2e08441c538dcbedb355e59cc1c63999" sha1="a463b1d1ce6888a3693c3867d15de8ab1d4f99f4"/>
+		<rom name="data\mission_1.i16" size="542080" crc="a0acc8ce" md5="456416020a14cdbdb8d447409d7b7b2e" sha1="fe649f0bdf50e0d0c043e3f01b5e0e4c32fc2f70"/>
+		<rom name="data\mission_2.i16" size="464640" crc="a3614c92" md5="34e9ffd462e1e0511f9ce5db5879fd15" sha1="8cde97d3f723241fc8a911a1d4da4c2b7822607a"/>
+		<rom name="data\mission_3.i16" size="232320" crc="0a3ec75c" md5="7411b49409d2f854d648bba0e73a86fe" sha1="c22cd0c32df60ea9063dd54f309ed46b236e90c2"/>
+		<rom name="data\mission_4.i16" size="542080" crc="66c75006" md5="376068b65d776e77a2b9b55b27d9df81" sha1="5a34683faa6d4163ed26c3c6e70bff0dfa99a81e"/>
+		<rom name="data\mission_5.i16" size="309760" crc="c262b64e" md5="9968e1250f7856e30976436becdea8d6" sha1="ae88ac0c91f38ba615bebc642ea87b7e796ed680"/>
+		<rom name="data\mission_6.i16" size="309760" crc="c54030ca" md5="dc5598dd7a468881ec71716375477f10" sha1="098b773917cd1a10ed36de758028e74a92f86c22"/>
+		<rom name="data\mission_7.i16" size="232320" crc="94618845" md5="eecbb7c296d08299c736755aea6ab4e5" sha1="8019f4cbe8a86b90fe43b6747312086e47a1f45b"/>
+		<rom name="data\p0.i8" size="4096" crc="6006c5a1" md5="f3ff79d2ec7713da1d64ac24b27488b4" sha1="833cf84050deb425e1547b83212e23a7e4047787"/>
+		<rom name="data\p1.i8" size="4096" crc="0e66a259" md5="1c7a1ff733a6ff6208121185208b2cc3" sha1="208a445701cb451da9c264150685786d66e2005e"/>
+		<rom name="data\p10.i8" size="4096" crc="3cb4064c" md5="643f2729e7a5ce0c8810797ac8841bc7" sha1="2de5f6eee5cef874c21afb0c0eb5290bb9d195a1"/>
+		<rom name="data\p11.i8" size="4096" crc="b5f540de" md5="aaf24ab1010c97ceaf4e876e5acd87b9" sha1="7a9a6d4fed9558a779fcc3daade54930ce10d702"/>
+		<rom name="data\p12.i8" size="4096" crc="14cae9eb" md5="d54ba1d356cc84cc30514c37bd5bebf3" sha1="20c7a00e3fc52400db4465cd83431eae0d2870a0"/>
+		<rom name="data\p13.i8" size="4096" crc="d8d940bd" md5="00ac1df584b16e38befbdca2ae16ab18" sha1="4a9d4587750df4e086428e98ef2d3a6cd07d5632"/>
+		<rom name="data\p14.i8" size="4096" crc="b01e13e3" md5="d813c69991cb1b467bd18428387af6ca" sha1="91dfe17ad5ebe0ec698df6f6a9dffbb931acaaca"/>
+		<rom name="data\p15.i8" size="4096" crc="96697a7b" md5="a20439a915a3a920a7c3f7793b756643" sha1="12f61ae2c2c98553b75cc65395a61a0cf7401324"/>
+		<rom name="data\p16.i8" size="4096" crc="9de12889" md5="e537f00e7c9612d9609dc6f15aa628fb" sha1="097a1a45ae8993a6fa5808e55cf6ae1aa9c98c20"/>
+		<rom name="data\p17.i8" size="4096" crc="cc1852cc" md5="fe8c53f2fa39b20a69a3eac225af66b1" sha1="5bbf069f27bab139deec86708e6438907d79a175"/>
+		<rom name="data\p18.i8" size="4096" crc="7bff7811" md5="5c145d6cb2b6b7d4feb20acd200d185b" sha1="8d8632568bf0bdb03ee82a2d050607040bdfbee1"/>
+		<rom name="data\p19.i8" size="4096" crc="744bfef3" md5="829a49a65dfe4ace87fd7a54d87e7922" sha1="496204c0874fc5b20ad32c540c15683592dfda6d"/>
+		<rom name="data\p2.i8" size="4096" crc="c90c6288" md5="2686bdca6884591f09512fb050e25f6f" sha1="fa3a4ef4409b305362bed6ef3ad3f7d6983424ad"/>
+		<rom name="data\p20.i8" size="4096" crc="1a48fe61" md5="784c1df9d15676e5e5e116cca921d287" sha1="5a8ffaf37db89b2d7415e97e1b6029b14dda56db"/>
+		<rom name="data\p21.i8" size="4096" crc="a9824b45" md5="ab30ae0ae9dc743bf2a7eabe5ce75b43" sha1="3ed3a3b12a0f79b681261b78afd29f4abf929fdc"/>
+		<rom name="data\p22.i8" size="4096" crc="eec0de92" md5="d2a66c9471da2f457bff9fcea40cfa75" sha1="af88d0eba898bb1e7168d4616444a7df9fc646cb"/>
+		<rom name="data\p23.i8" size="4096" crc="6deed822" md5="b8a1845de429d403ea1686b6d6a18e7d" sha1="feafd82c3f19b7c5037fa78d19f52ba426d41a94"/>
+		<rom name="data\p24.i8" size="4096" crc="57902291" md5="05f431cd75af43120573f1d92d4cfa0a" sha1="176824416be238e1fa3b144ef0f99477fd739eca"/>
+		<rom name="data\p25.i8" size="4096" crc="96c89c3a" md5="4dbafb2aee5afe065f44585b08486aaf" sha1="292662ae1cf90cae7bb0aea0c9d0cd2b8fbfb8ee"/>
+		<rom name="data\p26.i8" size="4096" crc="2807d7f3" md5="2c38941c45e8319a4271910f0b65c68d" sha1="bf8ff3984571f0f45f740be54872176ec321900f"/>
+		<rom name="data\p27.i8" size="4096" crc="bd10ceb8" md5="2184c638c6eccd77f29ff5698c03ce23" sha1="22f3c2db531328e092756b477c5d6200dd04f8d5"/>
+		<rom name="data\p28.i8" size="4096" crc="8e4137c0" md5="a896d2bcece736ac45212a1db08a7cec" sha1="94268335cecf2b4e7925b9574b96464bbfbafb48"/>
+		<rom name="data\p29.i8" size="4096" crc="16030955" md5="6b1e5d03ee59dd58e702baae27ea58b6" sha1="2ea87cfa6a3eccc890f32a90ac761377f2ac7512"/>
+		<rom name="data\p3.i8" size="4096" crc="985b07b5" md5="09b29db6e280f38c2257e56b9fdbcd1d" sha1="1078e3ecea8ebcababc7dfa643a810c3b26bcd49"/>
+		<rom name="data\p30.i8" size="4096" crc="5604f4d1" md5="346be2616e362f6e9c33b8d8861331a8" sha1="e860bfe9e7a984f1b00e06af17fa5884620e019b"/>
+		<rom name="data\p31.i8" size="4096" crc="392ab172" md5="742c734d769611d7a434ae43dafedaf2" sha1="fa7e39967231f3d6332af0a997ee914a0117f479"/>
+		<rom name="data\p32.i8" size="4096" crc="951a5760" md5="42c6423e8896f76357d5b85e39abcd75" sha1="bbf152de2d2f7b28b1b015a3d7bf7f9af8c0677e"/>
+		<rom name="data\p33.i8" size="4096" crc="2e902dc3" md5="f513261450c90e7792bd76c775a216b3" sha1="b8870b0f4b1be65a0e7f8d3d8932dafd4023dd49"/>
+		<rom name="data\p34.i8" size="4096" crc="9ae66bcb" md5="2a995134e7515ff3884d34b2384e6fb6" sha1="1d89d0b6bd087b5483e6f44fa849a3e308f69138"/>
+		<rom name="data\p35.i8" size="4096" crc="8263f7de" md5="3d39c6a79f6f6504bb8dac3132ff2554" sha1="ba4fc7d06ee52b1460a8e36a3ead77627dbeeacb"/>
+		<rom name="data\p36.i8" size="4096" crc="1eee47ce" md5="e28e2a7e74b5a0cd7699fb4311ab8c65" sha1="cb31130e0166556c7b76b84ea59e532b70dcb8ce"/>
+		<rom name="data\p37.i8" size="4096" crc="e1e59cbc" md5="d0734b4ef28bf7d4ea78ed19ee6e1a50" sha1="abba357d0c31c0d3a5b078931bd6cc037da23611"/>
+		<rom name="data\p38.i8" size="4096" crc="d10718c8" md5="4fe37ed7f702e6b9506d79206f6b0853" sha1="867576ccf5704d99232c749c3bc4cc65ef137d55"/>
+		<rom name="data\p39.i8" size="4096" crc="c3d38032" md5="030c5638fb3ba68b899952a8162a10d9" sha1="167dec41cd5c7b1a38850dd7bf4a96d3e31eb9f4"/>
+		<rom name="data\p4.i8" size="4096" crc="26645e56" md5="d41f8d4988a637c2af971e4ad26de5e5" sha1="92fbe8369ab8280c4f084b7d8ca31bfd65d38006"/>
+		<rom name="data\p40.i8" size="4096" crc="2e9d0257" md5="d1007fd72634d3a358b344e9676f00d1" sha1="df99b4b0f2cfa0139cc0873f5500b0dbd65bc578"/>
+		<rom name="data\p41.i8" size="4096" crc="4147bc12" md5="d36de151bc1f9ec3954f6f0aca8a6be5" sha1="32838d998a9dba314042c4145de6059024981988"/>
+		<rom name="data\p42.i8" size="4096" crc="0a907278" md5="9db96397c99703dea260bc7464ebb8bf" sha1="11dd6c56ae5466ed5632b07c68b8a437ce1ecb26"/>
+		<rom name="data\p43.i8" size="4096" crc="d24081b0" md5="81f9fb2a107327220653bd5b369e45e0" sha1="da0ebbcfcb411385398cbc661e9fe4de58325854"/>
+		<rom name="data\p44.i8" size="4096" crc="9fc8444f" md5="ba75f871c7934d127321831a75d26b6d" sha1="197316e2717df13301f4215fc8237e7584979710"/>
+		<rom name="data\p45.i8" size="4096" crc="2bb9aee1" md5="4d59ba57c201e8e58fb46b06d062a4e0" sha1="8ea074cd186163b7ee7c8fa06f267fb50cbd2b84"/>
+		<rom name="data\p46.i8" size="4096" crc="68fae287" md5="a62f7073a55a1c8c733c63f545e75fe8" sha1="527eb6632cdb4c3718da1f4e48052a5308047c4c"/>
+		<rom name="data\p47.i8" size="4096" crc="c9b7dea9" md5="95fd58595e51ca7815e2d8dbd2c0d3da" sha1="266effcb00ff2bbdd5a082f7a178256492154b9a"/>
+		<rom name="data\p48.i8" size="4096" crc="5ec47249" md5="644a0ae2a2fe38cacada7dbfa2328c6f" sha1="6b6dc32b9ca1111d7189d65312e7f73c35a19127"/>
+		<rom name="data\p49.i8" size="4096" crc="15ad9409" md5="b122d0ea4b94cd7cc1e0803283400c92" sha1="99162bf834218fc9ae17308995167abdad9f8485"/>
+		<rom name="data\p5.i8" size="4096" crc="75765352" md5="4fbe6631c615a1708d0d817a898f7aef" sha1="6d1474e70f4b67a7453fdc378761a36e80b4e2ef"/>
+		<rom name="data\p50.i8" size="4096" crc="3c58388e" md5="0e076891a51c23f4c22b3533c0c3f860" sha1="0df05955c7b2c815693b02626528c4f77af7bb7d"/>
+		<rom name="data\p51.i8" size="4096" crc="53615451" md5="5e152f9719e625b5d6b87a9fb5a03bf4" sha1="676fbdeb9bf6d3d7943369b1bd42ae3b5a9ca5f8"/>
+		<rom name="data\p52.i8" size="4096" crc="9d0d9e61" md5="18c264eadf29a2eab21c80165d6d539a" sha1="8b48a4ad0af7843cba2b63f745e5fb9d99441260"/>
+		<rom name="data\p53.i8" size="4096" crc="118c662a" md5="099fb8a05bca16c774c8797da53d31d3" sha1="0693ad0e0f7d4c4188949e2f470e2e46adf5e17a"/>
+		<rom name="data\p54.i8" size="4096" crc="095c2806" md5="d1c4d5c8c176840769ba8fa4595eb6d7" sha1="7c6e1b32914c1b97d4e88367493c725edf762dba"/>
+		<rom name="data\p55.i8" size="4096" crc="cf4528fd" md5="187b0b413edda2ac2330865d521c2c7c" sha1="4a25a1e7e89c36c6dc526eb12ee8b03fd009538a"/>
+		<rom name="data\p6.i8" size="4096" crc="7acb13bf" md5="7bc9c4806b8aec941458fcd714439426" sha1="ce95301e73b4c392a3c120e865cfa8af90348237"/>
+		<rom name="data\p7.i8" size="4096" crc="bbcc0026" md5="6a18613eacf9f84f1d4ba8ba92225b62" sha1="a2fe567b776b4b4d0068b4389466f370694d97f1"/>
+		<rom name="data\p8.i8" size="4096" crc="fb1e3f1b" md5="e7d1275f61195415bee786fb728c6777" sha1="b45d7152f734f13513f720b340badcf1647bface"/>
+		<rom name="data\p9.i8" size="4096" crc="3f11a235" md5="f90c2d14b53b301ba7732020719214ae" sha1="d23a678b26ef583bf9a38df4359bd569768a2cbd"/>
+		<rom name="data\power_up.raw" size="8141" crc="6e3eae90" md5="58bf83c2625133dcb23f2f8dafd8b6d7" sha1="4b1440c980729c979cba50822b7b793ffcd8388e"/>
+		<rom name="data\ready.raw" size="5006" crc="91f80fa3" md5="1bd638fe64a84c77ecb5f2ae00722dc1" sha1="68a54e5ee2c9863508bc5cf1f598307c10c0357d"/>
+		<rom name="data\war_call_for_backup.raw" size="10434" crc="f0cf26dc" md5="d4262189a0f7a3b67ab9937de430d49f" sha1="65b97d8b269f90aa30ac69c1cea3b9ea8bf6a00b"/>
+		<rom name="data\war_cover_me.raw" size="6167" crc="8d32b627" md5="04e99c60ce7626e84a18b4e6e96164b3" sha1="cd49dab2af955f5bafc2425fdd1cfc121406a377"/>
+		<rom name="data\war_get_down.raw" size="8751" crc="9bd695ee" md5="b3977353e776bcac355c0ae09ecaad19" sha1="af3bb6bbd3301b91d430e4f4448f03c5bf235d70"/>
+		<rom name="data\war_look_out.raw" size="6196" crc="6fbaae6a" md5="889ebcc61ad4842bb783a1e24efbc5c7" sha1="e8be37467ecc8ee1150158a63ddcb16ca46839d7"/>
+		<rom name="data\war_target_destroyed.raw" size="13569" crc="b25330ab" md5="6d6032b2f5c99141fddef9c1e75a30ea" sha1="2106b6e976f469d75ed6a2653c07796384162478"/>
+		<rom name="data\war_target_engaged.raw" size="11334" crc="bab78c18" md5="a4aab92425d7debe0f519468a21caeb7" sha1="36ae6e0b2cab5f826a90827d26cb8de4c4806008"/>
+		<rom name="data\war_watch_my_back.raw" size="9766" crc="37421544" md5="44ded793ba7674fe04f38e641d179c96" sha1="9bbf4beca5ef007705970cbf5ea36b91b77e3e07"/>
+	</game>
+	<game name="Button City (2021-08-29)(lucentbeam)[Jam Version]">
+		<description>Button City (2021-08-29)(lucentbeam)[Jam Version]</description>
+		<rom name="data\buttoncity\bcarcade.raw" size="540896" crc="6767a818" md5="14da548d167f7c1840a77d21220e4f84" sha1="4014c55f0d074b62276f336dada6263837102cd0"/>
+		<rom name="data\buttoncity\bctown.raw" size="849598" crc="a785a9fa" md5="6f05fa6df615294e8ace34df166a5711" sha1="4e0bd65ee0541637a076bdc1c3392e0aeafd4c9e"/>
+		<rom name="data\buttoncity\bcupcycle.raw" size="325580" crc="1a887756" md5="27db34fde43dba2f1c977b39fcc4dae5" sha1="f4691eb874837e3912e6447b0e81e06ad7887b1b"/>
+		<rom name="data\buttoncity\blip.raw" size="2571" crc="d7f34407" md5="9f9c896a3c002f3f5c52c0a2a1f6ba5f" sha1="700a7350d47929d443cfa08f438e318dc1c71091"/>
+		<rom name="data\buttoncity\cancel.raw" size="2571" crc="7daf234d" md5="0972e91246b97661f3a216e9b6237b6e" sha1="eb89b5c44301d4c77c26b7324a5accad0bc3998d"/>
+		<rom name="data\buttoncity\collect.raw" size="9467" crc="fa4bc535" md5="202f4815678bff7c726f269a5f294920" sha1="a55f1879fc178526c9a79754d58f6ffb68bb7f62"/>
+		<rom name="data\buttoncity\confirm.raw" size="2536" crc="54edac77" md5="0026d2f6259e636a3202129376441f80" sha1="3b96bf13373cdaafdeb190b0f2a696b52b10401a"/>
+		<rom name="data\buttoncity\door.raw" size="4197" crc="dd2881d5" md5="857b4660e309de7f19051c894aacc782" sha1="21ed1fe56f92323e5222bb72e42a27446d4c001f"/>
+		<rom name="data\buttoncity\hurt.raw" size="6231" crc="ae9360d8" md5="0b5fcff72b145c6d3cc6ea5482434770" sha1="bd8d841a4ca7368ab632b1b88df0631eebce11e0"/>
+		<rom name="data\buttoncity\prismabops.raw" size="761856" crc="2a11f5a6" md5="ece5c2afcc2c4f8705a37be6e22ac591" sha1="34c7a3d8b198c56d1430b06ca6ac714041a7bcfd"/>
+		<rom name="data\buttoncity\timeup.raw" size="33283" crc="5a082f93" md5="0231b95b8bfd793b66fbb5b19f7b5156" sha1="fe5090b946dbaa468bcdcc18e2701ae6185ae727"/>
+		<rom name="data\buttoncity\wind.raw" size="330132" crc="c6ad238b" md5="0eaf76c576ec55f1c57f81924b18f1c9" sha1="765ff2aad2f8fa0c7e6c23bef74f541c2c79a33e"/>
+		<rom name="data\buttoncity\zoomin.raw" size="7249" crc="4fa4adc3" md5="db79a406fb1d6d75f8bb13146315001a" sha1="db79e0020eab22d8821182030f0dbe8752fd2f67"/>
+		<rom name="data\buttoncity\zoomout.raw" size="7249" crc="93faab0d" md5="f33acdd794c38c6154d097b6f55ea2a0" sha1="a96419b580977542dc1f43d42abc2cdd61cc364e"/>
+		<rom name="pokitto-button-city.bin" size="238676" crc="28a2f001" md5="4e5229c3478cffe0fab9a3f463bb78b7" sha1="b0821019239787b26b46c15af3e66d44d83cc727"/>
+	</game>
+	<game name="Button City (2021-08-30)(lucentbeam)">
+		<description>Button City (2021-08-30)(lucentbeam)</description>
+		<rom name="data\buttoncity\bcarcade.raw" size="540896" crc="6767a818" md5="14da548d167f7c1840a77d21220e4f84" sha1="4014c55f0d074b62276f336dada6263837102cd0"/>
+		<rom name="data\buttoncity\bctown.raw" size="849598" crc="a785a9fa" md5="6f05fa6df615294e8ace34df166a5711" sha1="4e0bd65ee0541637a076bdc1c3392e0aeafd4c9e"/>
+		<rom name="data\buttoncity\bcupcycle.raw" size="325580" crc="1a887756" md5="27db34fde43dba2f1c977b39fcc4dae5" sha1="f4691eb874837e3912e6447b0e81e06ad7887b1b"/>
+		<rom name="data\buttoncity\blip.raw" size="2571" crc="d7f34407" md5="9f9c896a3c002f3f5c52c0a2a1f6ba5f" sha1="700a7350d47929d443cfa08f438e318dc1c71091"/>
+		<rom name="data\buttoncity\cancel.raw" size="2571" crc="7daf234d" md5="0972e91246b97661f3a216e9b6237b6e" sha1="eb89b5c44301d4c77c26b7324a5accad0bc3998d"/>
+		<rom name="data\buttoncity\collect.raw" size="9467" crc="fa4bc535" md5="202f4815678bff7c726f269a5f294920" sha1="a55f1879fc178526c9a79754d58f6ffb68bb7f62"/>
+		<rom name="data\buttoncity\confirm.raw" size="2536" crc="54edac77" md5="0026d2f6259e636a3202129376441f80" sha1="3b96bf13373cdaafdeb190b0f2a696b52b10401a"/>
+		<rom name="data\buttoncity\door.raw" size="4197" crc="dd2881d5" md5="857b4660e309de7f19051c894aacc782" sha1="21ed1fe56f92323e5222bb72e42a27446d4c001f"/>
+		<rom name="data\buttoncity\hurt.raw" size="6231" crc="ae9360d8" md5="0b5fcff72b145c6d3cc6ea5482434770" sha1="bd8d841a4ca7368ab632b1b88df0631eebce11e0"/>
+		<rom name="data\buttoncity\prismabops.raw" size="761856" crc="2a11f5a6" md5="ece5c2afcc2c4f8705a37be6e22ac591" sha1="34c7a3d8b198c56d1430b06ca6ac714041a7bcfd"/>
+		<rom name="data\buttoncity\timeup.raw" size="33283" crc="5a082f93" md5="0231b95b8bfd793b66fbb5b19f7b5156" sha1="fe5090b946dbaa468bcdcc18e2701ae6185ae727"/>
+		<rom name="data\buttoncity\wind.raw" size="330132" crc="c6ad238b" md5="0eaf76c576ec55f1c57f81924b18f1c9" sha1="765ff2aad2f8fa0c7e6c23bef74f541c2c79a33e"/>
+		<rom name="data\buttoncity\zoomin.raw" size="7249" crc="4fa4adc3" md5="db79a406fb1d6d75f8bb13146315001a" sha1="db79e0020eab22d8821182030f0dbe8752fd2f67"/>
+		<rom name="data\buttoncity\zoomout.raw" size="7249" crc="93faab0d" md5="f33acdd794c38c6154d097b6f55ea2a0" sha1="a96419b580977542dc1f43d42abc2cdd61cc364e"/>
+		<rom name="pokitto-button-city.bin" size="224976" crc="638e6d72" md5="08d41e7767384c881fda32b56e5ad3e8" sha1="7fcd07620ffc4075b7f9a0c6056619d49bf2b6ae"/>
+	</game>
+	<game name="Button City v1.1 (2021-10-03)(lucentbeam)">
+		<description>Button City v1.1 (2021-10-03)(lucentbeam)</description>
+		<rom name="data\buttoncity\bcarcade.raw" size="540896" crc="6767a818" md5="14da548d167f7c1840a77d21220e4f84" sha1="4014c55f0d074b62276f336dada6263837102cd0"/>
+		<rom name="data\buttoncity\bctown.raw" size="849598" crc="a785a9fa" md5="6f05fa6df615294e8ace34df166a5711" sha1="4e0bd65ee0541637a076bdc1c3392e0aeafd4c9e"/>
+		<rom name="data\buttoncity\bcupcycle.raw" size="325580" crc="1a887756" md5="27db34fde43dba2f1c977b39fcc4dae5" sha1="f4691eb874837e3912e6447b0e81e06ad7887b1b"/>
+		<rom name="data\buttoncity\blip.raw" size="2571" crc="d7f34407" md5="9f9c896a3c002f3f5c52c0a2a1f6ba5f" sha1="700a7350d47929d443cfa08f438e318dc1c71091"/>
+		<rom name="data\buttoncity\cancel.raw" size="2571" crc="7daf234d" md5="0972e91246b97661f3a216e9b6237b6e" sha1="eb89b5c44301d4c77c26b7324a5accad0bc3998d"/>
+		<rom name="data\buttoncity\collect.raw" size="9467" crc="fa4bc535" md5="202f4815678bff7c726f269a5f294920" sha1="a55f1879fc178526c9a79754d58f6ffb68bb7f62"/>
+		<rom name="data\buttoncity\confirm.raw" size="2536" crc="54edac77" md5="0026d2f6259e636a3202129376441f80" sha1="3b96bf13373cdaafdeb190b0f2a696b52b10401a"/>
+		<rom name="data\buttoncity\door.raw" size="4197" crc="dd2881d5" md5="857b4660e309de7f19051c894aacc782" sha1="21ed1fe56f92323e5222bb72e42a27446d4c001f"/>
+		<rom name="data\buttoncity\hurt.raw" size="6231" crc="ae9360d8" md5="0b5fcff72b145c6d3cc6ea5482434770" sha1="bd8d841a4ca7368ab632b1b88df0631eebce11e0"/>
+		<rom name="data\buttoncity\prismabops.raw" size="761856" crc="2a11f5a6" md5="ece5c2afcc2c4f8705a37be6e22ac591" sha1="34c7a3d8b198c56d1430b06ca6ac714041a7bcfd"/>
+		<rom name="data\buttoncity\timeup.raw" size="33283" crc="5a082f93" md5="0231b95b8bfd793b66fbb5b19f7b5156" sha1="fe5090b946dbaa468bcdcc18e2701ae6185ae727"/>
+		<rom name="data\buttoncity\wind.raw" size="330132" crc="c6ad238b" md5="0eaf76c576ec55f1c57f81924b18f1c9" sha1="765ff2aad2f8fa0c7e6c23bef74f541c2c79a33e"/>
+		<rom name="data\buttoncity\zoomin.raw" size="7249" crc="4fa4adc3" md5="db79a406fb1d6d75f8bb13146315001a" sha1="db79e0020eab22d8821182030f0dbe8752fd2f67"/>
+		<rom name="data\buttoncity\zoomout.raw" size="7249" crc="93faab0d" md5="f33acdd794c38c6154d097b6f55ea2a0" sha1="a96419b580977542dc1f43d42abc2cdd61cc364e"/>
+		<rom name="pokitto-button-city.pop" size="275907" crc="824d1ac5" md5="f5b6af06c7a8306948002d0e72a6c335" sha1="dc7fb643aeb1a597b287791e0e220261762855fb"/>
+	</game>
+	<game name="Button City v1.2.1 (2021-10-08)(lucentbeam)">
+		<description>Button City v1.2.1 (2021-10-08)(lucentbeam)</description>
+		<rom name="button-city-pokitto-v1.2.1.pop" size="251161" crc="52438912" md5="5ec9fe24187e22e7cf8ee6c1cea07410" sha1="13ed1b1977cd41a723324deaad6844ad23d030fe"/>
+		<rom name="data\buttoncity\bcarcade.raw" size="386619" crc="62c72377" md5="c7003617774230ca9559531fe5362509" sha1="50cdb34d1b8dc32d00a43eb66c1fe76e318a40a8"/>
+		<rom name="data\buttoncity\bctown.raw" size="616489" crc="ac1798cd" md5="53645dcce6928ef648ade65a0fe508b7" sha1="d7b2aa97c91cfd94549a3c71b721022ef29891c3"/>
+		<rom name="data\buttoncity\bcupcycle.raw" size="236095" crc="a89d1166" md5="a2327e30241fae1a30499fb09ab4992f" sha1="3b5391a85d6a661c0f7a5a0c10dbe4c2749589ac"/>
+		<rom name="data\buttoncity\blip.raw" size="1840" crc="18e01c01" md5="e59a3e03bbbc76a8704a141b9aab2d46" sha1="a679ea8ca311003437976b39d679d1200ab1986d"/>
+		<rom name="data\buttoncity\cancel.raw" size="1865" crc="7de8b67e" md5="6db5d91e9be7d48b786428de00206118" sha1="4604514cdf04584e0d8a8e7910045565812ac75f"/>
+		<rom name="data\buttoncity\collect.raw" size="6869" crc="7b444947" md5="d94a65caee7b9be11eabc1acc66f6d80" sha1="7fd479d96e9c59ac200454efaf42d790d27cc7e9"/>
+		<rom name="data\buttoncity\confirm.raw" size="1865" crc="38b55b5e" md5="a3931934fe884e84c5cf9fcbe09422af" sha1="bde4acb3a21361d1e1447ea45a7a137edd94e071"/>
+		<rom name="data\buttoncity\crash.raw" size="6122" crc="6ddc9a32" md5="ea28a8d457379f8ba26d728164ee6aff" sha1="2845a5ddf1a28f55283cb7964c9870b228cca649"/>
+		<rom name="data\buttoncity\door.raw" size="3045" crc="d948fde1" md5="fe9c9eea635d7d0f35d6bdbf110fa3b5" sha1="8bc72bf919b25f6d4316ff30abf113a68a25d139"/>
+		<rom name="data\buttoncity\english.bin" size="32767" crc="b4bfc856" md5="0b0f5b951f3d968903b70d725e1c3967" sha1="569026be810a4e62b4e40cc97c34e53873c4d5b7"/>
+		<rom name="data\buttoncity\french.bin" size="32767" crc="1f037159" md5="340a077a2efc3a88175faf2d283bbdc7" sha1="6b92145f3b7a44d45509cebd9c544ef0a6d451a7"/>
+		<rom name="data\buttoncity\hurt.raw" size="4521" crc="e41de721" md5="bb782d0a7c23d4a76e89846eca9847a4" sha1="57f65d9b23a5a76e9d601f908b8dd7cae3d347c1"/>
+		<rom name="data\buttoncity\italian.bin" size="32767" crc="fe5bf5fe" md5="e331d53d8e0cbd0702fad6b600bc07af" sha1="7722bba710c1f8f3e7277a522caac8986a312e8a"/>
+		<rom name="data\buttoncity\jump.raw" size="2338" crc="103c1742" md5="e032175f713f2ce9fafac98993ad4d4e" sha1="c5636712c1c9dd639431a841cacc7709ed8ad76d"/>
+		<rom name="data\buttoncity\prismabops.raw" size="549776" crc="c417d3b6" md5="a0e296dde58f9e6bfd8440acece3b53d" sha1="8853f71d56952f01f027a425a9a00b343dfcf226"/>
+		<rom name="data\buttoncity\strike.raw" size="5515" crc="0d12e07a" md5="287bd94989c8c3296cd758a859b9f378" sha1="0c9da63321115edd58f5d752d4bdb07be8bc30d5"/>
+		<rom name="data\buttoncity\timeup.raw" size="24151" crc="398e93fb" md5="38962854d0bbc4c7e733a81ed9d08180" sha1="4551cafa1252547d8d932ff93e91b27c8d556374"/>
+		<rom name="data\buttoncity\wind.raw" size="180679" crc="731360d8" md5="fa500cd38d66de248cee594bfcbd5d85" sha1="d7780a28147485975b086029e98b72eb55099d9f"/>
+		<rom name="data\buttoncity\woosh.raw" size="3193" crc="e47d21cc" md5="9792ce60d0bb9bd500fd38645526fde9" sha1="4af53487159c44b9149e750c3b20d8e105e2fe00"/>
+		<rom name="data\buttoncity\zoomin.raw" size="5260" crc="d63797d3" md5="f2a4cfe62b9a49bb6116b8e084c602fe" sha1="f58992531bc7eb266bf9b69c908cdbf7523adaec"/>
+		<rom name="data\buttoncity\zoomout.raw" size="5260" crc="d7a5e43b" md5="f3ef9c2c8efb6e4e4a7af6eba2155f79" sha1="5f276535e4ffd8bd549f38f893c43cfe3e756922"/>
+	</game>
+	<game name="Celeste Classic (2019-04-11)(bl_ackrain)">
+		<description>Celeste Classic (2019-04-11)(bl_ackrain)</description>
+		<rom name="Celeste.bin" size="223248" crc="1cd66c0e" md5="e874acff9779d861c274da243d0d17e0" sha1="6a82e6ad92dd858c5c736b12b0a4e1948ce111f9"/>
+		<rom name="Celeste\music\music0.raw" size="515328" crc="b4b6c810" md5="0dd28c1caf824f6436844f81dafbcf2e" sha1="12fc187c7256205f8bc7c59b3b30f0e74328b947"/>
+		<rom name="Celeste\music\music10.raw" size="421632" crc="f891feff" md5="91b8434d7214b1ddbe44356614f59d13" sha1="13a77b3274e39a0969a8de9cfd52244fdd15931e"/>
+		<rom name="Celeste\music\music20.raw" size="655872" crc="01684543" md5="0a6a141475a0239c4db09167ec1e9101" sha1="9f989fab58407885bfe85191f80e05bcef79917f"/>
+		<rom name="Celeste\music\music30.raw" size="327936" crc="32a93e1d" md5="ca189ea45cd92b3e4078463c68c4c4a2" sha1="b48c993ffe324d8705f29fc3965ce86bc127392b"/>
+		<rom name="Celeste\music\music40.raw" size="93696" crc="d5a563ef" md5="654d4c31c7d94a56ad2be12c7e3e24d7" sha1="df789f245e3fa9b6f2e9bb18e86c68d7a3dad4b8"/>
+	</game>
+	<game name="Celeste Classic (2019-08-21)(bl_ackrain)">
+		<description>Celeste Classic (2019-08-21)(bl_ackrain)</description>
+		<rom name="Celeste.bin" size="223248" crc="1cd66c0e" md5="e874acff9779d861c274da243d0d17e0" sha1="6a82e6ad92dd858c5c736b12b0a4e1948ce111f9"/>
+		<rom name="Celeste\music\music0.raw" size="515328" crc="b4b6c810" md5="0dd28c1caf824f6436844f81dafbcf2e" sha1="12fc187c7256205f8bc7c59b3b30f0e74328b947"/>
+		<rom name="Celeste\music\music10.raw" size="421632" crc="f891feff" md5="91b8434d7214b1ddbe44356614f59d13" sha1="13a77b3274e39a0969a8de9cfd52244fdd15931e"/>
+		<rom name="Celeste\music\music20.raw" size="655872" crc="01684543" md5="0a6a141475a0239c4db09167ec1e9101" sha1="9f989fab58407885bfe85191f80e05bcef79917f"/>
+		<rom name="Celeste\music\music30.raw" size="327936" crc="32a93e1d" md5="ca189ea45cd92b3e4078463c68c4c4a2" sha1="b48c993ffe324d8705f29fc3965ce86bc127392b"/>
+		<rom name="Celeste\music\music40.raw" size="93696" crc="d5a563ef" md5="654d4c31c7d94a56ad2be12c7e3e24d7" sha1="df789f245e3fa9b6f2e9bb18e86c68d7a3dad4b8"/>
+		<rom name="Celeste_v1.0.pop" size="483251" crc="99c5b51f" md5="95a0fd5adc923519a21090280c1477ea" sha1="9de8818436c0afe784f57e3895f1a155bfc7209c"/>
+	</game>
+	<game name="Columns &amp; Coffins (2017-10-01)(adekto)">
+		<description>Columns &amp; Coffins (2017-10-01)(adekto)</description>
+		<rom name="coffins.bin" size="83008" crc="14a9f050" md5="38a2aeeb953db740ec2760b06466964b" sha1="c569b1715b908a95a00c599525f9b1e28cbf24df"/>
+		<rom name="coffins\COFFINS.SND" size="2931552" crc="54257492" md5="6e468ba0cd828634071a1429c272b46d" sha1="121cd865f2d9c94bd215fdadd9a2a8c5bff2f37e"/>
+	</game>
+	<game name="Crabator (2017-10-01)(R0d0t - jonne)">
+		<description>Crabator (2017-10-01)(R0d0t - jonne)</description>
+		<rom name="crabator.bin" size="51560" crc="7c7da94b" md5="b890729eaae50307298b235bf736f5e0" sha1="d5ae520f41b14d427736a404c5a6fa7f6e2bccda"/>
+		<rom name="music\bitburnr.snd" size="3013904" crc="61252ad5" md5="77566cdb4e997a9de6410af03bc6e453" sha1="598dc5af4adc99f466d03473ee5e9c40c10a4210"/>
+	</game>
+	<game name="Dark Ritual v1.1 (2020-07-24)(PressPlayOnTape)">
+		<description>Dark Ritual v1.1 (2020-07-24)(PressPlayOnTape)</description>
+		<rom name="DarkRitual.pop" size="976169" crc="08518e40" md5="5ae38133b68db58f70d8cf7d887932b2" sha1="c55a3151e44d8807b106cadbe68efa59c6f9a4e0"/>
+		<rom name="music\darkrit1.raw" size="558316" crc="c62f568f" md5="b5f9bc4e0a7e94f243a7a0ddb5cdf1ad" sha1="7d8ac709ad904546333ac001f58624f0716e0606"/>
+		<rom name="music\darkrit2.raw" size="8141" crc="62a86e00" md5="91246af87822700f18fcf1b465721491" sha1="408bb4752a6cf1336566d9960372322159adcf3e"/>
+		<rom name="music\darkrit3.raw" size="3866" crc="65db663e" md5="3f927c31b15a85c5d4c9bc04c12121d0" sha1="731ec7ea553cce301baa791b4c82ac137a4ddbb2"/>
+		<rom name="music\darkrit4.raw" size="5468" crc="1b26d40b" md5="3df41feab807ff06db9ce66c643782b6" sha1="2179025dba367b706defba35b71c3ba72f59c0de"/>
+		<rom name="music\darkrit5.raw" size="4104" crc="662701cc" md5="7452e09b49c76b59a6c6b3c6f0c0c335" sha1="031563e86f4dc30dfa5467da33d2cd5d69afd4dd"/>
+		<rom name="music\darkrit6.raw" size="4167" crc="06a14c8f" md5="8154a15144e04d970c29faccf9879014" sha1="de2dbbeb80860bfc6e0eae3fb917b6b20f824e21"/>
+		<rom name="music\darkrit7.raw" size="9928" crc="4ec31fb0" md5="e3fa2b821056c5832a26565097402494" sha1="c6c9b78abaf8569dc6a33f2e087394f9a2beeca0"/>
+		<rom name="music\darkrit8.raw" size="4171" crc="1ccd5538" md5="e77cde7e0afa0fd79e311f2c95c98d91" sha1="223e5fda0320f284c8533b3de798d885bd8c798b"/>
+		<rom name="music\darkrit9.raw" size="20608" crc="bb826c36" md5="2472dd53fcba5230eae30eae7d87b9b0" sha1="b37ae27cddd99b5836c2e2741514c1c52b798b6b"/>
+		<rom name="music\darkritA.raw" size="301767" crc="45c86615" md5="d0fc167d5e3dfc395eb36abd17ec695d" sha1="6998bcd4b6625b5ed3fa408559286cdd640adc7d"/>
+		<rom name="music\darkritB.raw" size="20689" crc="131a07ee" md5="4ecc30ad4b18ce8d8b5de721a728c149" sha1="9aa546763c7bd22c7edc30163556ac108397bded"/>
+		<rom name="music\darkritC.raw" size="575112" crc="5ca11eb8" md5="c67dabe733e4627fc30fe75124b5a403" sha1="55d0c20b0edf6384da5b1218ff72b355b5ec7a24"/>
+		<rom name="music\darkritD.raw" size="547944" crc="3f93c481" md5="2722bd4c95c487969a7e015d0db7f930" sha1="e250682a4aedfce7253ef56a487916c184433664"/>
+		<rom name="music\darkritE.raw" size="1953024" crc="905686c1" md5="bd5ab2e240b3f8d646ad50dedb5f6990" sha1="d5c2591b59d95470828ae3683bc17e742beb76e1"/>
+	</game>
+	<game name="Dark Trails v1.1 (2021-09-11)(PressPlayOnTape)">
+		<description>Dark Trails v1.1 (2021-09-11)(PressPlayOnTape)</description>
+		<rom name="DarkTrails.pop" size="583685" crc="7ecbd678" md5="177a0d7184f70dcee7c8b459beab2f7e" sha1="4bffd6bd0c9a933f7d98677ccbc4deecf0fd5e0e"/>
+		<rom name="music\DarkB_01.raw" size="207936" crc="fd53a82f" md5="0d237d0581a10898f90b899f123df155" sha1="8e417d851feea1e8bc21a998ba5b5976f38d113e"/>
+	</game>
+	<game name="DK-101 v0.99 (2021-01-15)(gibs)">
+		<description>DK-101 v0.99 (2021-01-15)(gibs)</description>
+		<rom name="dk-101.pop" size="261549" crc="7e25e80e" md5="dcc6e85291ba4e1be1adbba68c3762f3" sha1="18475d6e67785147150ba6567dbf3eee31cf3242"/>
+		<rom name="dk-101\dk-101_hellsbells.raw" size="98766" crc="23c9ff9e" md5="da926a310412f17d50a9f02a06bb0228" sha1="acc9244aa8fa87e36ff58a486f5c4bad7510735c"/>
+		<rom name="dk-101\dk-101_menu.raw" size="496154" crc="f3bc41b4" md5="1f96eec4c5e25e2dc37bd91a0611a6e9" sha1="79b62a06a3bede22ed642a5265b6f70311208b55"/>
+	</game>
+	<game name="Dragonbounty v1.1a (2022-07-29)(lucentbeam)">
+		<description>Dragonbounty v1.1a (2022-07-29)(lucentbeam)</description>
+		<rom name="data\dragonbounty\die.raw" size="8620" crc="df1c593d" md5="eb3d7749305d4ec94097b135a39aeff0" sha1="1aed1c708b7a933d13138bcf5e8a186f22a86aac"/>
+		<rom name="data\dragonbounty\ding1.raw" size="4401" crc="7acdab6d" md5="c11af1005af5f7f65c3164d21bc0cfec" sha1="6571b875f04769e69ad7d07b9458f4de57da2a76"/>
+		<rom name="data\dragonbounty\ding2.raw" size="5683" crc="52b9b204" md5="13a019c3a4e1c2ece20ea9556357f377" sha1="ed6048d6c541ab6bfb8d37f3d205a3a2bed5b3a8"/>
+		<rom name="data\dragonbounty\ding3.raw" size="7053" crc="be330e29" md5="351db368d66dd7eb83fac30a8e3ac02d" sha1="3177f220c9cf43360967018d6f60d0166994858a"/>
+		<rom name="data\dragonbounty\ding4.raw" size="8195" crc="cc1b3e26" md5="a9ca00934cfc152ce561484f8ffeaad4" sha1="5fc06fce278965f563469e00177f430ecd41532e"/>
+		<rom name="data\dragonbounty\fire.raw" size="3794" crc="50b17718" md5="31f04672100fc5a3b4d2b7afa84fc8e0" sha1="21553988e900cb40ba10293bf86d43b9a220e479"/>
+		<rom name="data\dragonbounty\footstep.raw" size="2046" crc="c5a65f4c" md5="a6f0443138433eb3073728fd76398b84" sha1="4ac53af1bd5a6d9f5b80a0f6bf616a810dbb9592"/>
+		<rom name="data\dragonbounty\jump.raw" size="3881" crc="d5b5b726" md5="d3078df04325f9c02587df4da15b0d5a" sha1="159a049c937aaa78255df039f3e043ff23321405"/>
+		<rom name="dragonbounty.bin" size="77732" crc="c7d03240" md5="4c362410a1ef08dc15753b0e3d068331" sha1="7ef2dfb069f2b7607536082708e5b1155b1f703a"/>
+	</game>
+	<game name="Endless Forms Most Pokittoful (2019-09-23)(jvdw007)">
+		<description>Endless Forms Most Pokittoful (2019-09-23)(jvdw007)</description>
+		<rom name="efmp14.bin" size="196128" crc="ccc0c90b" md5="161f6faf06a9ee5585cbf65c09685dcc" sha1="44f314d9e6a67266893492f7eead8d730a9f84b8"/>
+		<rom name="Readme.txt" size="1496" crc="4bbb659a" md5="f8071653440aa3761ee20105e25eb836" sha1="ff9e2b6e9465a806dad2cb1e77934f15c35d6578"/>
+	</game>
+	<game name="FireWorks v1.0 (2022-09-14)(PressPlayOnTape)">
+		<description>FireWorks v1.0 (2022-09-14)(PressPlayOnTape)</description>
+		<rom name="FireWorks.pop" size="543632" crc="587208c1" md5="45e41d3337e87ea4bcb2e15f666dfb3b" sha1="bd079ffb43f20a677b5fe2fe216a8a9c62eb9f8f"/>
+		<rom name="music\Fwork_01.raw" size="1889029" crc="34f503d2" md5="9ed2f4a9342a248b7f4751b56eb4b2f0" sha1="ee369ca01b1c29358324436a2e849c8ba3a9557f"/>
+		<rom name="music\Fwork_02.raw" size="69664" crc="c33470e8" md5="c89985985e8cdd495867ab832238ed61" sha1="888d04e374f6117be2813d88a332dc7bd9826af6"/>
+		<rom name="music\Fwork_03.raw" size="91022" crc="ff71aa81" md5="51887c5deca2d602f97636155f6fb947" sha1="c01d8229e40b415b8cc7e973517f95115a77c641"/>
+	</game>
+	<game name="Galaxy Fighter v1.0.2 (2020-01-27)(PressPlayOnTape)">
+		<description>Galaxy Fighter v1.0.2 (2020-01-27)(PressPlayOnTape)</description>
+		<rom name="GalaxyFighters.pop" size="806960" crc="b326780b" md5="efaf7aa7df90d586738b970211fc86dd" sha1="72e2e704cba5eb45eea76fe40acb64b8fb64d4c3"/>
+		<rom name="music\galaxy1.raw" size="50348" crc="9789a11b" md5="860026bebd92c8baddd3b17a21403b33" sha1="44b22b4bb0cd8a9a07eb615e5885212cedc901da"/>
+		<rom name="music\galaxy2.raw" size="120631" crc="e561210d" md5="c34ede4bedcd280e9be14c04381f09f0" sha1="49ae8dbf360234d190e620b3e12e8c157ceaf45c"/>
+		<rom name="music\galaxy3.raw" size="119748" crc="2fd2489a" md5="0501f111bfef8ccd8bc16c0a2792647d" sha1="801af26d5c3345fe2697a87b353f53b70c4fe313"/>
+		<rom name="music\galaxy4.raw" size="7720" crc="0798e208" md5="034ad9c7052c147acd21afbad00d07f7" sha1="aa626711163eb63ecd7011323c92915c6592b8a3"/>
+		<rom name="music\galaxy5.raw" size="54433" crc="c4cc3124" md5="6f89defbfa0dce5993880f2f7f70122b" sha1="9f34db6bc7268a490ada55983f1a27f40e753500"/>
+		<rom name="music\galaxy6.raw" size="52768" crc="88274db7" md5="271fe542991adc971a770a83217860cc" sha1="f8e63383191589c0c87a67465cdbaa09b46d73c8"/>
+		<rom name="music\galaxy7.raw" size="32707" crc="2fb2c452" md5="7bf99f4601cc7bc2a41a16a9c49cc4eb" sha1="51d973ec799eb5e7757d42faa1d8839ef90cd222"/>
+		<rom name="music\galaxy8.raw" size="44049" crc="29fff260" md5="8cf00f1a252d86d33faed8d4bc311135" sha1="286a7388efb5bf509024ccc61ee5a33d259aaf60"/>
+		<rom name="music\galaxy9.raw" size="17691" crc="4e4220e2" md5="de2edfadf04d47a65d6946f16a0c18e8" sha1="2749f1af81b6d6e84bc9e152e8ce69fefff55658"/>
+		<rom name="music\galaxyA.raw" size="22089" crc="35da6ae3" md5="98888d517acb86dab064902fff60c4b6" sha1="197376765d742219314845ba36ef98c4da29ca5d"/>
+	</game>
+	<game name="Hex, The v1.2 (2021-07-08)(PressPlayOnTape)">
+		<description>Hex, The v1.2 (2021-07-08)(PressPlayOnTape)</description>
+		<rom name="music\Hex_01.raw" size="1340021" crc="9118a089" md5="7d6cc6a08e1ee549acf007beda73ec23" sha1="29b9817c5ca2fb018d59a258ddeba37601d17cd6"/>
+		<rom name="music\Hex_02.raw" size="1140584" crc="65e855cd" md5="99dcf5bc22fbb372375b8e36c57cdf3f" sha1="16a17af1b831fafcc0a6f6ad4950888a751a4a6b"/>
+		<rom name="music\Hex_03.raw" size="2603776" crc="bdc9ec5a" md5="a086b652d03492904694ed19629f7295" sha1="75b289c950a6a30d7b1774ad2f0e6e30f8bff9a3"/>
+		<rom name="TheHex.pop" size="667003" crc="315dcdf6" md5="216f0ba590744175d2539d012efe1423" sha1="998b9fe856ab96dd6d62de7c2da7d9a17cd30ccc"/>
+	</game>
+	<game name="Joe Goes Pop! (2020-11-30)(spinal)">
+		<description>Joe Goes Pop! (2020-11-30)(spinal)</description>
+		<rom name="_Joe_Goes_Pop_.bin" size="160608" crc="074abf37" md5="9495b6b0dc815646166656907f28920b" sha1="0e6ce8d5451ff8a5d5ff5d47d30c9ede6f7a32ff"/>
+		<rom name="_Joe_Goes_Pop_.pop" size="446425" crc="c5a38152" md5="98f417fada81ada733868edd43a0d51c" sha1="fb108995730b14e1a2dd505eac12b26b2256c420"/>
+		<rom name="music\joegoespop\yummy.raw" size="1834560" crc="bf749269" md5="aec5fe714c1849ab9108d50e961fbfe6" sha1="ed40f573d1d2a0e21d095b721965ebd4355983b2"/>
+	</game>
+	<game name="Karateka v1.0.0 (2020-08-25)(PressPlayOnTape)">
+		<description>Karateka v1.0.0 (2020-08-25)(PressPlayOnTape)</description>
+		<rom name="Karateka.pop" size="977003" crc="9cbd0866" md5="c921edcd4f8c30fa222b7420213902d6" sha1="63a626120856328a47ce1511b862568124375780"/>
+		<rom name="music\karate00.raw" size="58329" crc="720a12f7" md5="666018dc30d3dc3c63c253ed113d00a6" sha1="d9e94c950b492ac7304af41fa96053506edb12e7"/>
+		<rom name="music\karate01.img" size="4842" crc="5f8fde18" md5="c87e223ea8dfac800bb39d41396bf86a" sha1="e770748b82a719248179b4a6d4ca34e9db5061a9"/>
+		<rom name="music\karate01.raw" size="99805" crc="3cf965ff" md5="c3355d4feceb3c3dd6f02b51b8d33efa" sha1="79a911a77f760c63348c49a91838f5a189d70348"/>
+		<rom name="music\karate02.img" size="4842" crc="35f46906" md5="bdf8f32b8f0dff7168804a608c5ec47c" sha1="c0429e7365c76d636ad8d3b9bf23a6563f3d4531"/>
+		<rom name="music\karate02.raw" size="195899" crc="1ea2fc89" md5="2cd3c5964eb34bc6875e7b30ad266093" sha1="3b3ac6d5d8d4f4900de7a168d961abc4d28ba624"/>
+		<rom name="music\karate03.img" size="4842" crc="cc8ba0ae" md5="661eec8d13bce1cb1cb57bc783a2b191" sha1="f8b7632a2b8230391f0b9118644ac53cf99c8741"/>
+		<rom name="music\karate03.raw" size="86629" crc="bd701231" md5="43d0edcfa365811ece15dac3d31f6857" sha1="bf61a5a59cf2f01de524dc46a87fb99755aaf710"/>
+		<rom name="music\karate04.img" size="2037" crc="89efe0aa" md5="3a38445d7cba272af1a0be044726a989" sha1="caf5518b536f7eee67dc5c371bca013cdbe65b44"/>
+		<rom name="music\karate04.raw" size="82400" crc="6b73e040" md5="b56ffebbcec6756b3ca64b31f0e08b23" sha1="65e7195310fc09e85d77b23a53474a7bb53f2762"/>
+		<rom name="music\karate05.img" size="4842" crc="5e2f1363" md5="ec6951aeefc918f85641a09ba5959b82" sha1="5057254c74a8542e09bcdd4d82271b3a538de84a"/>
+		<rom name="music\karate05.raw" size="291590" crc="b6b73df3" md5="e4b3cd34be1ed4155f0116881487c29b" sha1="d3dc716d6ef1b31d6a928af42f37384b63c238cf"/>
+		<rom name="music\karate06.raw" size="69400" crc="28b0fc42" md5="40a2d75a60c6a8123897f4770bd6b959" sha1="51046043933940b2c8331ce38729b45b7773711c"/>
+		<rom name="music\karate07.raw" size="57452" crc="b654e58e" md5="565bb7d8911ab3afb8dcb1a3794926eb" sha1="2aed14859c75192335c0f9d51a4cd1004bc9e465"/>
+		<rom name="music\karate09.raw" size="24122" crc="067733a9" md5="61df46bd967f0b471fad40b15c62ef89" sha1="dd6743195fa6c2ba88719eaaef90ba30a8fc6885"/>
+		<rom name="music\karate11.raw" size="11381" crc="caaa070f" md5="b28fb6d3baeca6394b7c3d6778639ff2" sha1="e8efcc1b5c588a3339dd99ccbbf8dc8215c0d239"/>
+		<rom name="music\karate16.raw" size="195592" crc="1bdc3c09" md5="18bfbfbb59afce36cd821bb9bd165ab9" sha1="0d91a3b776e1a9107625dfcd79b91c74586f23b0"/>
+		<rom name="music\karate17.raw" size="193760" crc="627a6df5" md5="5d2786ef7e3a0a60f421c55a5a80a920" sha1="80536a1c75819100fad3985d91e30fce52d489f4"/>
+		<rom name="music\karate18.raw" size="154346" crc="4ec11c47" md5="048e243a428180265518d02a995fa66b" sha1="c92cc4ef9efa3248e4989dbaebead6b0acd50b6e"/>
+		<rom name="music\karate19.raw" size="88853" crc="c09174c2" md5="f48d8bf7c985c0bbb237458c9a0151a3" sha1="397044f6af2bd7d87549dd6b632a5586514ef909"/>
+		<rom name="music\karate20.raw" size="9117" crc="0c41fc28" md5="6c026105eaa84ddc8a388f29f5e15880" sha1="fa7642a00c4ae736f1c72d5fd1ff0269880c7594"/>
+	</game>
+	<game name="Kong II v1.0.4 (2020-03-15)(PressPlayOnTape)">
+		<description>Kong II v1.0.4 (2020-03-15)(PressPlayOnTape)</description>
+		<rom name="Kong-II.pop" size="571819" crc="a0c85dc7" md5="b704774db1556e861e14c917b33c071f" sha1="ccaacc4958b5d1f9cb6dbe8e0c98c5486513fc06"/>
+		<rom name="music\kong2_1.raw" size="27138" crc="1e31aab7" md5="7cc7e44f105cdc695c168d4cd5113852" sha1="53d69693a036d3263da142b37c1fa2c6d550ca11"/>
+		<rom name="music\kong2_2.raw" size="23577" crc="408883a6" md5="5c3c61a8b1639f6084e5946237ae3779" sha1="28f19750848b65b02a29ee0b4eb975a3e8aa542e"/>
+		<rom name="music\kong2_3.raw" size="16591" crc="c0a8d9b6" md5="50867b52307cc940519a61555d43a3d9" sha1="f7a6741b72134b0f70965bb38c19ecab1d9740ec"/>
+		<rom name="music\kong2_4.raw" size="2" crc="97e20994" md5="688ec893e933aff724805d614e43f68e" sha1="df254daba2299f3ff2367e284efc53a3296d136b"/>
+	</game>
+	<game name="LeWord v1.2 (2022-04-10)(PressPlayOnTape)">
+		<description>LeWord v1.2 (2022-04-10)(PressPlayOnTape)</description>
+		<rom name="LeWord.pop" size="552469" crc="6b2c8f8c" md5="07585534b45c4ee4364d2b936cdc6aad" sha1="1f36435cc03ef005d55e3257cc0593f188df1cde"/>
+		<rom name="music\LeWord00.img" size="15462" crc="39aa6f40" md5="65166d6c57268b3ba9d3951cfe22ab54" sha1="9663d2c1e67cf6400b67d3c3ee476f55a5878a3e"/>
+		<rom name="music\LeWord01.img" size="30180" crc="49e2b415" md5="40cf5ede1b71da9b255fe76647e034d3" sha1="34e331795b8d970cbd1f39fe2a3ff496af3e2707"/>
+		<rom name="music\LeWord02.raw" size="3105599" crc="b6bfd4e9" md5="8766c3497f7768450048e50a5fb4c209" sha1="f2857c883253b98013318cf279d7f13d650bb044"/>
+		<rom name="music\LeWord03.raw" size="2939641" crc="aa19f669" md5="5f05374196d282bcda0ad333c1253747" sha1="dcf923e37edbedafe2daf0f02df83d1b3fd6d234"/>
+		<rom name="music\LeWord04.raw" size="3096672" crc="378b35e1" md5="9cb56aaab342394680aae06a7ccff32a" sha1="54819e4d05cbf9a50ad036de2af1cf566f2cb503"/>
+	</game>
+	<game name="Lights Out v1.0 (2020-05-06)(PressPlayOnTape)">
+		<description>Lights Out v1.0 (2020-05-06)(PressPlayOnTape)</description>
+		<rom name="LightsOut.pop" size="473348" crc="d6d19492" md5="ff4eea9437a2f6b26e60be642502b2be" sha1="52e21fb7a61ee1885f75935ded6d141d45a70e93"/>
+		<rom name="music\lights1.raw" size="3285995" crc="aff8d1e5" md5="64d713d32468e247e194aa7743626615" sha1="5c5989f7d9915dd18058c59618934d69355a9616"/>
+		<rom name="music\lights2.raw" size="83636" crc="32a61714" md5="0186d485a84ce1f2b0f346b78792116a" sha1="75f2b25cd5ab37372a81f276634b4877ad72eae2"/>
+	</game>
+	<game name="Mechator v1.0 (2022-12-25)(lucentbeam)">
+		<description>Mechator v1.0 (2022-12-25)(lucentbeam)</description>
+		<rom name="data\mechator\bomber.raw" size="13199" crc="89d8cb3b" md5="9031add0f0cd2daef32e21a30706d8ce" sha1="37978f61963ff3a854d601c4158ca4e4e43a0857"/>
+		<rom name="data\mechator\boss.raw" size="600001" crc="5b187bbf" md5="13a9306f0557ff3ee2f8627454b9a068" sha1="0bc762c60f79782a42b138557c2fe4239e6b3f1d"/>
+		<rom name="data\mechator\cancel.raw" size="945" crc="98467fad" md5="042a45540a3fdd792c25d9e64be08665" sha1="1007e37051fc290dbd111097d790beda88bed3ed"/>
+		<rom name="data\mechator\canyon.raw" size="315077" crc="1a5c0e29" md5="0a87bc7f20d08a7d43be1a7982e6e8ff" sha1="55ce4859ea4afa9faf3389029249c41a2fdf90bf"/>
+		<rom name="data\mechator\confirm.raw" size="1095" crc="cf3ad70b" md5="dc033493b521d57f3648d6eb714e7fe1" sha1="d9632f044787a674ca0eb234e2ecc4c2ebbdf214"/>
+		<rom name="data\mechator\deny.raw" size="1004" crc="c5b40660" md5="532fd64e55244131803079ec0f09cc68" sha1="efc0bf0c07bb2be2d79581864bfc13728c574b99"/>
+		<rom name="data\mechator\enemy_shoot.raw" size="2271" crc="0ea5f9f7" md5="3a369e2e402620bf42ad1284a6283349" sha1="06ddd1ac5bfc9581c2856e4c075248b7cce53fd6"/>
+		<rom name="data\mechator\enemy_shoot_big.raw" size="4298" crc="755c0191" md5="880fe4861ce4a886a3c40f93a89cac0a" sha1="9a49ccfa99937fe7356a475d37be48990de405d0"/>
+		<rom name="data\mechator\explosion_big.raw" size="4685" crc="e1631736" md5="782a0e9abd7dc1743bff53ba28dc54e8" sha1="1717a07210f93914ffeec798fa88249493341892"/>
+		<rom name="data\mechator\explosion_small.raw" size="2878" crc="e6a495a6" md5="c559dbdf2110f59cb2391df04b6ba263" sha1="d8b6387550f0e66f0e55f86cb2a70c40cc0858ee"/>
+		<rom name="data\mechator\get_dollar.raw" size="2099" crc="844ebe61" md5="668881fb902a339931aae7dc8dde759f" sha1="0f0401341c64672bcb82e149a71e5a2f8c3cdd84"/>
+		<rom name="data\mechator\get_item.raw" size="6285" crc="38d1fce8" md5="dcd9c2393cb2c7d275ceb5714e79d060" sha1="94b96220cc7676fa76e1532b3b1e87c9099aeac5"/>
+		<rom name="data\mechator\grenade.raw" size="3693" crc="7924e538" md5="35e59f8b2e67956837c703815a802078" sha1="2420c05bcf3d0201aacb4ac26e914bd7132cfd22"/>
+		<rom name="data\mechator\laser.raw" size="4124" crc="8a6b6057" md5="c202971209d526562b7e6be148af0404" sha1="b00199a8ba569edc4314255ada2b73f9cdf57cfe"/>
+		<rom name="data\mechator\laser_charge.raw" size="1907" crc="3d689ac0" md5="11044fa7b7b0bf508fd24ff166eb30c7" sha1="5e29f650b2f5f3d5163ca138457db74c1b05ffce"/>
+		<rom name="data\mechator\missile.raw" size="3460" crc="779325b8" md5="e98c35276a2f346b5c370aaeb9bdd84b" sha1="2093f7773e8174ee2ce7f30a9fe410ac37de4916"/>
+		<rom name="data\mechator\ocean.raw" size="505113" crc="b4c4bf0e" md5="51150052eb3564d374d4c3e704430161" sha1="5a9cff72d14a908fff035185e7077fb0118f913c"/>
+		<rom name="data\mechator\overworld.raw" size="337921" crc="927f87d7" md5="175423aca801d12c996d3c8816f0c452" sha1="2dc6c70e001c28c66a6203141b6ad53abe86497e"/>
+		<rom name="data\mechator\overworld_main.raw" size="603430" crc="c9a18e36" md5="d282045183a431e7cefdfd4d7174d9df" sha1="86b3b48622308ce4673b564896364fac290ae6eb"/>
+		<rom name="data\mechator\playergun.raw" size="1360" crc="8bd6b113" md5="474963bbb8d92462f787bc97728a1f4e" sha1="a47131e35b71f91c011bf750616d268a338e40a9"/>
+		<rom name="data\mechator\playergun_2x.raw" size="1679" crc="efd4fbad" md5="693e1ffd55f4426eb42d941ce6591cdc" sha1="b9f45357132348201014fb3c31362e204212dac2"/>
+		<rom name="data\mechator\playerhit.raw" size="1811" crc="97831135" md5="fe5cb444bb2f21cc328e9e9b31f5cdea" sha1="542bdc8b45fa62a0b521f31e2f6ef7cb831a55b3"/>
+		<rom name="data\mechator\playerhit2.raw" size="2171" crc="8e43d689" md5="3ef30e1255bb7b093e180e8d6493bc6d" sha1="5d489e0afa8134b5eaa3262aec6e41b9fa79682e"/>
+		<rom name="data\mechator\ring.raw" size="16005" crc="eb9dd489" md5="6adc1afe5f8351b82c57cb713e73b0e2" sha1="777c7b3b7a68f1a43339f7cdf9be1a7e261c476c"/>
+		<rom name="data\mechator\select.raw" size="476" crc="2013ad89" md5="763560bc640d596689132ddfabf6863e" sha1="3efccc0d56c313b031c0954d44469e1aa7c0838e"/>
+		<rom name="data\mechator\storm.raw" size="453818" crc="374bf0e4" md5="3b68dd84af4913269a1656b97d0b672e" sha1="8db221a210ab598e273cdce047ddae2f167b916b"/>
+		<rom name="data\mechator\swamp.raw" size="192001" crc="a376f011" md5="48cfa96e6135a10eaa867ea59f7e2242" sha1="5ec4cfab15f91c9764a05adae00c5afe8e334633"/>
+		<rom name="mechator.pop" size="280198" crc="0f799150" md5="95c857547213713b8cdfdd52f224fce9" sha1="7a3a76908bacc2383ceecaa5d549a2e31478f1e8"/>
+	</game>
+	<game name="Mine Sweeper v1.0.0 (2020-06-13)(PressPlayOnTape)">
+		<description>Mine Sweeper v1.0.0 (2020-06-13)(PressPlayOnTape)</description>
+		<rom name="MineSweeper.pop" size="568581" crc="bfadd176" md5="204d546cc06a7e40ca7f476d9504c1a1" sha1="33b8b05d311f206e68ec71513335bea20c3022fd"/>
+		<rom name="music\mineswe1.raw" size="20689" crc="131a07ee" md5="4ecc30ad4b18ce8d8b5de721a728c149" sha1="9aa546763c7bd22c7edc30163556ac108397bded"/>
+		<rom name="music\mineswe2.raw" size="54687" crc="1ad4d26e" md5="b2e2fc9fbd49bbac692b7cde60c78eb6" sha1="869a7937075940cb67b9733251d3f7ddef44bbc3"/>
+		<rom name="music\mineswe3.raw" size="2570" crc="0321dfbf" md5="0daa47bc73705bc04304c21cb4bbad6a" sha1="adc993808a3344735f6fab0d2bc9623dead54498"/>
+		<rom name="music\mineswe4.raw" size="2744" crc="e622dfe9" md5="a2dd8ff2f44ba2fde55693d08f266be2" sha1="86da272501dfa41d782ac5b36668a32fd3c9010c"/>
+		<rom name="music\mineswe5.raw" size="229213" crc="165c2048" md5="5b41c52afe7298da7496408de9eaa5fd" sha1="39e4d6a2f323f37d6e6e760f9afa4b51710aea5d"/>
+		<rom name="music\mineswe6.raw" size="2551" crc="c20c1dbf" md5="0709c7327df0ff013160d4cc07f720b9" sha1="dcd8571fd851f67b1147a7ca32e01f9b231b75a9"/>
+		<rom name="music\mineswe7.raw" size="629114" crc="079cfa50" md5="390dce002d7b7574b3006a94c00d01bd" sha1="75c88a2fdbff04e434cb0a00eded22d55c4e1bcf"/>
+	</game>
+	<game name="Mini Rogue v1.0 (2021-10-05)(PressPlayOnTape)">
+		<description>Mini Rogue v1.0 (2021-10-05)(PressPlayOnTape)</description>
+		<rom name="MiniRogue.pop" size="735943" crc="3f9fbf37" md5="d4786ac968552ac528753928e7339e8e" sha1="c7343cbc954b6b404052d81f359167260d2f60b8"/>
+		<rom name="music\MiniR_00.raw" size="3019680" crc="9cb472c9" md5="871f1fa4d2c9b26351da535b376adce4" sha1="04ef7d94e015849ec93eeb0aadf614ea10820c45"/>
+		<rom name="music\MiniR_01.raw" size="2344032" crc="ad4edd2b" md5="209eda964c2149fddb98803f5182404a" sha1="2ee150c2f5ae94b7bad8e8b28b88045752b3b6a8"/>
+		<rom name="music\MiniR_02.raw" size="2559212" crc="056b38f6" md5="5a8f760c341e407b129bbd086450a4be" sha1="45f04653f259588310c683c92b0eb484fd004008"/>
+		<rom name="music\MiniR_03.raw" size="1462050" crc="58072af6" md5="6ac51cf870fcfd3e5005c72a4c414426" sha1="5ad751bcdca6f6375cff2fced7226678b619941d"/>
+		<rom name="music\MiniR_04.raw" size="1985184" crc="3b9f7744" md5="a5ce0efd233622df73792dc8fb9fc7bc" sha1="5c89bcd3f6686b30a4eb056d65db6f904af0e41e"/>
+	</game>
+	<game name="Moondrop Dale (2021-08-24)(torbuntu)[vJam]">
+		<description>Moondrop Dale (2021-08-24)(torbuntu)[vJam]</description>
+		<rom name="Moondrop Dale.pop" size="205751" crc="14a76747" md5="c0cc41d9512dfa5bed56e911b45098d3" sha1="9f66d40381d56ae469342143eb3e3c1e39da51b9"/>
+		<rom name="music\mddal.raw" size="470621" crc="92d80782" md5="da43ba7781aeaf3ac6cbf0e139e80b48" sha1="e11603ec8bc150ed4bacd1ac723bd74546cd6848"/>
+		<rom name="music\mdgard.raw" size="779632" crc="238a3ccb" md5="8e71c7b07f8763fc2f28be8ad6a2af59" sha1="a5e87b6b921bee1e24d74869143579f0200d1ab7"/>
+		<rom name="music\mdintro.raw" size="423957" crc="c783b8e5" md5="19cac7d586cbe7525cc805258478f77d" sha1="8e82ca9c69c62fa40d23561d797ce766d8d673d2"/>
+		<rom name="music\mdrain.raw" size="530443" crc="5f257885" md5="5a9e66b8821c68b6cc5067f454c47be0" sha1="7cacee2af8c6f3f0ebcf6472a20c5c3e105d5b10"/>
+	</game>
+	<game name="Moondrop Dale (2021-09-01)(torbuntu)">
+		<description>Moondrop Dale (2021-09-01)(torbuntu)</description>
+		<rom name="Moondrop Dale.pop" size="207353" crc="bbf8e3b7" md5="4b568f848f6f27cb397a67736f42eb87" sha1="bf3c398388d817de4f9f7c702a1dd1c711eb5fb6"/>
+		<rom name="music\mddal.raw" size="470621" crc="92d80782" md5="da43ba7781aeaf3ac6cbf0e139e80b48" sha1="e11603ec8bc150ed4bacd1ac723bd74546cd6848"/>
+		<rom name="music\mdgard.raw" size="779632" crc="238a3ccb" md5="8e71c7b07f8763fc2f28be8ad6a2af59" sha1="a5e87b6b921bee1e24d74869143579f0200d1ab7"/>
+		<rom name="music\mdintro.raw" size="423957" crc="c783b8e5" md5="19cac7d586cbe7525cc805258478f77d" sha1="8e82ca9c69c62fa40d23561d797ce766d8d673d2"/>
+		<rom name="music\mdrain.raw" size="530443" crc="5f257885" md5="5a9e66b8821c68b6cc5067f454c47be0" sha1="7cacee2af8c6f3f0ebcf6472a20c5c3e105d5b10"/>
+	</game>
+	<game name="Nano Phage Zero (2020-05-25)(torbuntu)[bin]">
+		<description>Nano Phage Zero (2020-05-25)(torbuntu)[bin]</description>
+		<rom name="music\npz-a.raw" size="54857" crc="4bc7a6d6" md5="cb7a1283d3c136c295b04c7989922e9c" sha1="983058516106d8fc6856d18a3274e8b8354495e0"/>
+		<rom name="music\npz-e.raw" size="59077" crc="6a4a164e" md5="69fd6632cce688c0b515a7f1217dab9b" sha1="333590a6740320319ff426bf36a0f6417373934a"/>
+		<rom name="music\npz-lift.raw" size="76800" crc="82001f12" md5="31dc3de9c90a4067d0c139a073452bbe" sha1="3764d46d1f572a37a3950b8decd3e6d60de2089a"/>
+		<rom name="music\npz-t.raw" size="218337" crc="5558e3a3" md5="9ab4b98ad065dbfffeab6ade0beb0d46" sha1="9d414faeb13a46b38342d7f9ab72632785a8cf82"/>
+		<rom name="NanoPhageZero.bin" size="166460" crc="a7d0d43d" md5="da9eff1d773ea85386472bc724111ded" sha1="02a17f8f6145970e659b166472e54db4bbb70972"/>
+	</game>
+	<game name="Nano Phage Zero (2020-05-25)(torbuntu)[pop]">
+		<description>Nano Phage Zero (2020-05-25)(torbuntu)[pop]</description>
+		<rom name="music\npz-a.raw" size="54857" crc="4bc7a6d6" md5="cb7a1283d3c136c295b04c7989922e9c" sha1="983058516106d8fc6856d18a3274e8b8354495e0"/>
+		<rom name="music\npz-e.raw" size="59077" crc="6a4a164e" md5="69fd6632cce688c0b515a7f1217dab9b" sha1="333590a6740320319ff426bf36a0f6417373934a"/>
+		<rom name="music\npz-lift.raw" size="76800" crc="82001f12" md5="31dc3de9c90a4067d0c139a073452bbe" sha1="3764d46d1f572a37a3950b8decd3e6d60de2089a"/>
+		<rom name="music\npz-t.raw" size="218337" crc="5558e3a3" md5="9ab4b98ad065dbfffeab6ade0beb0d46" sha1="9d414faeb13a46b38342d7f9ab72632785a8cf82"/>
+		<rom name="NanoPhageZero.pop" size="211320" crc="84e36d1f" md5="7077a51842ca4b7accbae46edaa97a38" sha1="1d7633081fcd0a2acf635f80639b4cbc6b3817ab"/>
+	</game>
+	<game name="One Button Shooter v1.3 (2022-08-07)(PressPlayOnTape)">
+		<description>One Button Shooter v1.3 (2022-08-07)(PressPlayOnTape)</description>
+		<rom name="music\OBS_00.raw" size="409945" crc="e77185c7" md5="a0f05fb3d986ace1d14f15ff76992420" sha1="dbc08e8184a7077a0b3fc2a94e1d1fb04041cf2e"/>
+		<rom name="music\OBS_01.raw" size="1419796" crc="2f5ae07c" md5="2527981e03be175d38f66627bacf2558" sha1="63a2ea37c73057dc863bac450b060d854ca54fd3"/>
+		<rom name="music\OBS_02.raw" size="20053" crc="46d40eee" md5="36e8cf064e3c1b13c8ef7e79e398d401" sha1="0e00d64acacddbb01725689064aa0aa6b0e52e08"/>
+		<rom name="OBS.pop" size="713458" crc="2931ad00" md5="04d7e2a2dfc6b5300b634d636b40af93" sha1="ef702a4a7c4f3e3c7f8c5f31d22b6573d2ff3598"/>
+	</game>
+	<game name="Planet Escape v0.5.5 (2020-11-28)(wuuff)">
+		<description>Planet Escape v0.5.5 (2020-11-28)(wuuff)</description>
+		<rom name="music\pe_track1.raw" size="1468709" crc="94f4e56c" md5="75f3eb22f1a93537b444129901cb114f" sha1="43b803602e5b0905e42807d2c5b077ca7fa4a75a"/>
+		<rom name="planet_escape_0.5.5.pop" size="295329" crc="1a2397c7" md5="102f8c973355b3e6497cf4d441e9c563" sha1="86c0dc3b9f734f01116894d9a90568822876ded1"/>
+	</game>
+	<game name="Planet Escape v0.6.0 (2021-07-05)(wuuff)">
+		<description>Planet Escape v0.6.0 (2021-07-05)(wuuff)</description>
+		<rom name="music\pe_track1.raw" size="1435883" crc="e87206c1" md5="da92fa3c59e3c31a101624cc28d07e57" sha1="5f63d19a5cb1473627287e5155cb687887d5ea5f"/>
+		<rom name="music\pe_track2.raw" size="1600366" crc="a86fcfe7" md5="9e058647f2c423ea16640f464a7b29d4" sha1="8c3a39d3983320ba580a30d9e4c9be3b4fcc51d5"/>
+		<rom name="music\pe_track3.raw" size="1760032" crc="3734f8a5" md5="4da2756a83a46e1f704cd47525ef6237" sha1="4541761da45c40cb97dc3a7ebae2723f4855e2e8"/>
+		<rom name="music\pe_track4.raw" size="2203665" crc="df07b535" md5="63dadc4280a31f3ff43bea33c52cb411" sha1="308bbc563fd8e20947c6d7b082d8a578b8e291be"/>
+		<rom name="planet_escape_0.6.0.pop" size="340761" crc="4bc72daa" md5="4a7d352ac17ce15a44f9b68e5e9b3d84" sha1="237b1ee53d06a2300f78759d2382f571988c176e"/>
+	</game>
+	<game name="Planet Escape v0.6.5 (2022-03-20)(wuuff)">
+		<description>Planet Escape v0.6.5 (2022-03-20)(wuuff)</description>
+		<rom name="music\pe_track1.raw" size="1435883" crc="e87206c1" md5="da92fa3c59e3c31a101624cc28d07e57" sha1="5f63d19a5cb1473627287e5155cb687887d5ea5f"/>
+		<rom name="music\pe_track2.raw" size="1600366" crc="a86fcfe7" md5="9e058647f2c423ea16640f464a7b29d4" sha1="8c3a39d3983320ba580a30d9e4c9be3b4fcc51d5"/>
+		<rom name="music\pe_track3.raw" size="1760032" crc="3734f8a5" md5="4da2756a83a46e1f704cd47525ef6237" sha1="4541761da45c40cb97dc3a7ebae2723f4855e2e8"/>
+		<rom name="music\pe_track4.raw" size="2203665" crc="df07b535" md5="63dadc4280a31f3ff43bea33c52cb411" sha1="308bbc563fd8e20947c6d7b082d8a578b8e291be"/>
+		<rom name="planet_escape_0.6.5.pop" size="343545" crc="21fca9ed" md5="cc2338df83a4ac8a763a03bba2987f0c" sha1="8fbe70de0426f40be3767eaa950d873fced2b82e"/>
+	</game>
+	<game name="Planet Escape v0.6.9 (2022-09-24)(wuuff)">
+		<description>Planet Escape v0.6.9 (2022-09-24)(wuuff)</description>
+		<rom name="music\pe_track1.raw" size="1435883" crc="e87206c1" md5="da92fa3c59e3c31a101624cc28d07e57" sha1="5f63d19a5cb1473627287e5155cb687887d5ea5f"/>
+		<rom name="music\pe_track2.raw" size="1600366" crc="a86fcfe7" md5="9e058647f2c423ea16640f464a7b29d4" sha1="8c3a39d3983320ba580a30d9e4c9be3b4fcc51d5"/>
+		<rom name="music\pe_track3.raw" size="1760032" crc="3734f8a5" md5="4da2756a83a46e1f704cd47525ef6237" sha1="4541761da45c40cb97dc3a7ebae2723f4855e2e8"/>
+		<rom name="music\pe_track4.raw" size="2203665" crc="df07b535" md5="63dadc4280a31f3ff43bea33c52cb411" sha1="308bbc563fd8e20947c6d7b082d8a578b8e291be"/>
+		<rom name="planet_escape_0.6.9.pop" size="343273" crc="0fabde30" md5="0718bb893acee69f1e3175b16485302a" sha1="d64f0b1e6cc92a032eab1e7d759020239b8bb58e"/>
+	</game>
+	<game name="Pokabalt (2020-02-10)(jvdw007)">
+		<description>Pokabalt (2020-02-10)(jvdw007)</description>
+		<rom name="build.bin" size="196864" crc="277efebf" md5="3e36416cac280cffa4af5adac4c88435" sha1="40a7ba7a4861a6bf4279b1488e96009655073c79"/>
+		<rom name="music\pokabalt.wav" size="1711933" crc="dea2fe9b" md5="dc483bee96076077b8988e565aafa724" sha1="819ffb04c37f6d6a7a5fae17944b51b94db1119d"/>
+		<rom name="ReadMe.txt" size="903" crc="d43c2efb" md5="ed70fcb491187929bff78e108c3bd15c" sha1="9b93c3e7cef149bf370094d90c5049aa4f0f3532"/>
+	</game>
+	<game name="Pokaquarium (2019-08-29)(jvdw007)">
+		<description>Pokaquarium (2019-08-29)(jvdw007)</description>
+		<rom name="paq21.bin" size="212320" crc="ba4bc457" md5="2e6b66896b9679c89ba916054f4bd999" sha1="87204128dcfae4985853fe29f8582d6aa3c020a1"/>
+		<rom name="pokaquar\gSong.wav" size="1962711" crc="b0e785fe" md5="a93187aae44f6c14bf7c0dea6881003a" sha1="892fa5eee6762b061c5cac0180ad46e7f51c34bb"/>
+		<rom name="pokaquar\mSong.wav" size="85377" crc="3449933e" md5="c6731394bfaa4e301da948f7c16d2c9c" sha1="acdb41557319d4cc4683c14f14d93b734e7140b1"/>
+		<rom name="readme.txt" size="2185" crc="4e58ef6e" md5="bce2b314ae6c57cdf27d4467b22385f5" sha1="55b82113475db701e84157b998b7b5eb88ed2007"/>
+	</game>
+	<game name="Pokit Wars (2018-03-06)(trelemar)">
+		<description>Pokit Wars (2018-03-06)(trelemar)</description>
+		<rom name="file_out.war" size="144" crc="d7c8897f" md5="2c4d931c2027a6d6e462d5282ae7f4bf" sha1="2f1de2701cc1318b7efe68f041639162b0e0255b"/>
+		<rom name="wars.bin" size="81348" crc="6b220e70" md5="f9d7386d1dc860e433b4a08d7ec25f14" sha1="ea90c0c8fe0735bb9e618fb8f3257077f00df733"/>
+	</game>
+	<game name="Pokitto Grand Prix v1.0.4 (2019-01-03)(Hansi)">
+		<description>Pokitto Grand Prix v1.0.4 (2019-01-03)(Hansi)</description>
+		<rom name="pgpdata\tracks\techno\sprite01.bmp" size="698" crc="6ece2931" md5="07a0819e651e658d93e5405416b2bd62" sha1="bb9d374fdfd02eb37405839b39d8a35d70f6bae8"/>
+		<rom name="pgpdata\tracks\techno\sprite02.bmp" size="698" crc="5535fbd6" md5="9b84a76aea497ab29e3f90333c05aeb0" sha1="654cf9cd2bf89b7554dcf2d82fbf99c9940a090e"/>
+		<rom name="pgpdata\tracks\techno\tex01.bmp" size="806" crc="cd090294" md5="4e8934e4393af6e657c4a5593ae7c24d" sha1="59fbfe650f43a7dcbcff6441cc6aeaf5e6930c27"/>
+		<rom name="pgpdata\tracks\techno\tex02.bmp" size="518" crc="7483d82a" md5="677b3ceb483d59a1a409b025a27bdd14" sha1="218070c7351e7814404166f7bc6ab492bb0533b6"/>
+		<rom name="pgpdata\tracks\techno\tex03.bmp" size="518" crc="00450ddd" md5="d1ab951d1985fa88676048d3c356d3be" sha1="80190afb61bf713d36ba86cdc86c630327813d1a"/>
+		<rom name="pgpdata\tracks\techno\tex04.bmp" size="806" crc="705c8143" md5="38a1e3ac67fa5c0251f77897c446469c" sha1="6ff9302229b74bc331e4c6648f9f60587f314d33"/>
+		<rom name="pgpdata\tracks\techno\tex05.bmp" size="806" crc="d4cb81b1" md5="ec85123bf1c0bd0e3276b0ddf359c13c" sha1="61f5fa84435ebbb6cef4f1445485911743646ef7"/>
+		<rom name="pgpdata\tracks\techno\track.txt" size="1073" crc="5cb0fa37" md5="060e36231c5be2d5c42e84b6376e68a5" sha1="04091011b4c39f5b4661b79724eda8c96e23527d"/>
+		<rom name="pgpdata\tracks\techno\track.txt.bak" size="1073" crc="8dae22ed" md5="9916fe1218dbaca91f23de74d426899f" sha1="d36ece65d06cf117d55bb0500d0a8950d76570b1"/>
+		<rom name="PokitGP.bin" size="137568" crc="fab1222f" md5="8514dad619193afa918297409fa0106c" sha1="e9ccf01a2bd4a71752eccbbd1011c54e29104035"/>
+	</game>
+	<game name="Pokitto Grand Prix v1.1.2 (2019-04-04)(Hansi)[with all tracks]">
+		<description>Pokitto Grand Prix v1.1.2 (2019-04-04)(Hansi)[with all tracks]</description>
+		<rom name="pgpdata\tracks\bzone\bkground.bmp" size="710" crc="31b88d7b" md5="f7aca1fd0133c7ab5f1d4fad3c5f5a2e" sha1="f1649f478292eba480a50bb494cf8ffd1d87e3d0"/>
+		<rom name="pgpdata\tracks\bzone\objects.txt" size="744" crc="5e6cbb98" md5="9e8a927a83ad8e722f296e6cd8facd35" sha1="f71a9f7c4fcd7bf3444260044706dc9383b7505b"/>
+		<rom name="pgpdata\tracks\bzone\sprite01.bmp" size="870" crc="c38c0383" md5="186f1c34e1d492d8b44f56880d8bf9af" sha1="3b941285ea71d77c23d6ec47ee2c908b80e0435b"/>
+		<rom name="pgpdata\tracks\bzone\sprite02.bmp" size="1222" crc="9a6fba92" md5="be96e728b6575002e70ff32fc02e5361" sha1="c28e5dc13b9dffbe1fbe50ad1230bb41be340fc3"/>
+		<rom name="pgpdata\tracks\bzone\tex01.bmp" size="582" crc="2c85af26" md5="40df82bfa0532922562cbb7657c6905b" sha1="32c3e247f121b77c8fc115c197cc2b25c0710c93"/>
+		<rom name="pgpdata\tracks\bzone\tex02.bmp" size="294" crc="c52a9124" md5="d908d99e2722f72496fc0c9018a71de1" sha1="10fb22a16cace8628ca52c284cf7b1d6ab6eb001"/>
+		<rom name="pgpdata\tracks\bzone\tex03.bmp" size="294" crc="da64a899" md5="0fbe77bc7bc2759198ea11ee8eaa75a3" sha1="c50b46e7263a8812f6ba93bff373324a89e34bdf"/>
+		<rom name="pgpdata\tracks\bzone\tex04.bmp" size="582" crc="14bca240" md5="b0ff4a48c2288d0c81e7628653378750" sha1="24c4cfbe90a7a13883154b0b7a6e4be2b1f8b198"/>
+		<rom name="pgpdata\tracks\bzone\tex05.bmp" size="582" crc="983c7a63" md5="435295d0438b15b24825a3e1b4f93f9f" sha1="b1ed1a0411eda7c874e1892578eb815fe7ba56f4"/>
+		<rom name="pgpdata\tracks\bzone\track.txt" size="1072" crc="3df95973" md5="9961e1c47778a5ba14b20c7ccc68fc33" sha1="b40a59734f65fae4aa91180b6a16af142a90ff73"/>
+		<rom name="pgpdata\tracks\Cyclotron\bkground.bmp" size="1026" crc="f58322d2" md5="0ea04a20768389bda2cd6573a53082ed" sha1="45ce1bc5f7d5f516444213ca3729d5b0f9060351"/>
+		<rom name="pgpdata\tracks\Cyclotron\objects.txt" size="518" crc="86f948c4" md5="72b86fc0033a9f1fc4e9756b4b7eef9a" sha1="516d56fadb568c345eda7f0c6159a085dd5a15da"/>
+		<rom name="pgpdata\tracks\Cyclotron\sprite01.bmp" size="790" crc="7cc9c890" md5="fc1ea2455562b74330bc25a111208400" sha1="4561aa9c46f8816888cfefbb771d1d70824f41d0"/>
+		<rom name="pgpdata\tracks\Cyclotron\sprite02.bmp" size="790" crc="13c4b47d" md5="65bfe38c6cf2f6cad2c3b2eee933958f" sha1="ce10d547491d2c2fe86ac431b24f854381d2278e"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex01.bmp" size="898" crc="ded3f964" md5="73c00cead6b6df66eeea3476912a07b3" sha1="7f8af02b6552d9108bfcf25c8cef801e46f0bd87"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex02.bmp" size="610" crc="02bbd71e" md5="acac890cd5e33925ab535f300d296636" sha1="6454ce547c1faf1c84c1ee103417e6efc041c6ce"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex03.bmp" size="610" crc="bd0d299c" md5="96eed5d3133ac191b9e665b5c3848367" sha1="1301e49177cdd9129d5cf0efd75668792eb82143"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex04.bmp" size="898" crc="5fdaea78" md5="ea026a549b8854981904752d2d09dd6a" sha1="dd85969af397516f580c05d4247ad53e8db0bf71"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex05.bmp" size="898" crc="d194e83b" md5="143e00688947a2bc6a19864948285398" sha1="bf2db95c4788eeb3e87231eaf6734486862db479"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex06.bmp" size="610" crc="1171c21c" md5="1435096a21703b00d0542c31f1c2fffe" sha1="de895e8e149cc76a5438a1a5a62e7cc08d4c49ac"/>
+		<rom name="pgpdata\tracks\Cyclotron\tex07.bmp" size="610" crc="91c4a6b9" md5="fdbf11851bb71a1fac31f6f14b87bc76" sha1="b4fd964e489f2fe4609a4c6e2f53b29a3ea86f11"/>
+		<rom name="pgpdata\tracks\Cyclotron\track.txt" size="1171" crc="5877080b" md5="a8263c7c312d97d2c6576133a426750f" sha1="ac79c63ccba766ae8662283c796b2377b3cab3a8"/>
+		<rom name="pgpdata\tracks\hothlap\bkground.bmp" size="918" crc="c38ec959" md5="eb2b6846f49c05b2276f848830f04553" sha1="bde0723fda5dfd61a4f416149d574a39ea6b578c"/>
+		<rom name="pgpdata\tracks\hothlap\objects.txt" size="764" crc="b122b4d7" md5="98c28cbf0b86e2de3b780ad993845c04" sha1="99e56d83f917d8c6d4cc326a7ceac93664de9c27"/>
+		<rom name="pgpdata\tracks\hothlap\sprite01.bmp" size="1430" crc="226d6cc8" md5="a5f9bf866f5b17c4f11bec6f5030897d" sha1="8c8d50ea36233fadffb6f524309252f4a49564af"/>
+		<rom name="pgpdata\tracks\hothlap\sprite02.bmp" size="1430" crc="6d659ed0" md5="3923d0b881e5d33e424a91071a3ff1b9" sha1="de79fdf958dede6f1afa33e3e67ea1f6c099c4fd"/>
+		<rom name="pgpdata\tracks\hothlap\tex01.bmp" size="790" crc="703e7746" md5="39773282f9390ef08c6eab68b0fb7a54" sha1="739bb789ab14a920d144a230c631ac9e8ea76ed0"/>
+		<rom name="pgpdata\tracks\hothlap\tex02.bmp" size="502" crc="f4cd4e82" md5="2eb6aa7626231a54abfc29f03979dc9a" sha1="cafa775abc8e072b8f4fad08783c213b7b55e2ff"/>
+		<rom name="pgpdata\tracks\hothlap\tex03.bmp" size="502" crc="c6e0ad59" md5="b6f76a5eac6255985bb0b30edb208194" sha1="c63036042ded34537d037bbcd7e794b229d157b1"/>
+		<rom name="pgpdata\tracks\hothlap\tex04.bmp" size="790" crc="a1f59877" md5="25ef7dab6596e43305b7a967d6c02a84" sha1="e11a445729ea7849a69c2bc503046aa3a30c1b19"/>
+		<rom name="pgpdata\tracks\hothlap\tex05.bmp" size="790" crc="472e771a" md5="ab5bf4f0031c622d902b80bb69974ad8" sha1="4d8f825640c6677291731837e4ef5b1d39c5791f"/>
+		<rom name="pgpdata\tracks\hothlap\track.txt" size="1069" crc="d8b78b16" md5="bbdba611adfa3490cc2a87689d2c2296" sha1="8a5c457ccde1fde29cc7f7a734d215ef462171c4"/>
+		<rom name="pgpdata\tracks\Ice_spee\bkground.bmp" size="982" crc="831f66f6" md5="4e46facd8e1c9b63cb8f611ac78d5779" sha1="3edef1c9c246be39c55f1cef3817344d1b485fba"/>
+		<rom name="pgpdata\tracks\Ice_spee\objects.txt" size="400" crc="10661536" md5="417f6b37e3885a06acef5413cc7a4e04" sha1="0ed7ecfb6f8554dddf5a4cd7d4fc6174d412b202"/>
+		<rom name="pgpdata\tracks\Ice_spee\sprite01.bmp" size="1238" crc="f5366277" md5="a097e7c3fd07640f326969e154f6098a" sha1="a8756f8e3f1dce51e07df56efbb7178130e18868"/>
+		<rom name="pgpdata\tracks\Ice_spee\sprite02.bmp" size="686" crc="b0b65572" md5="ba2e4bdfe4b36fe80a7e41fe55069b49" sha1="d19e4bdbf92220a81c1f8dba4746bfc75d1da3fa"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex01.bmp" size="854" crc="672f7f17" md5="a64972993a47437f2d724196911b83d1" sha1="e81faf8d991d1b1c24186d7eff435d03d0501712"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex02.bmp" size="566" crc="020d857c" md5="5427166b53fbc09152d30efa4c313e3d" sha1="491377688d8b6961de6ac169407b7082c41b491a"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex03.bmp" size="566" crc="eeb8e806" md5="645e8853ae8f269f0e3fda00519cd2d6" sha1="621f6b458ae9176294d5750d4718d49f9ae0f850"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex04.bmp" size="854" crc="2b836439" md5="e5eb5d9fd79860a55b72cc03fbbf92b6" sha1="51373370200cc6f0b474b8986b15e91dffdb8f20"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex05.bmp" size="854" crc="4cf0d99b" md5="99277e33902e187100e4a2ddea5b88c7" sha1="2de8b883a037612c5f2ff1e99152009670a989a6"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex06.bmp" size="566" crc="6bf22b9b" md5="4681479d94b2ac993746db97a95095e8" sha1="85d44f85a1bce38cc8298229af23baa23426fb81"/>
+		<rom name="pgpdata\tracks\Ice_spee\tex07.bmp" size="566" crc="db11a7d4" md5="854b3592cd879c2d12662b6e2bf3f1e4" sha1="f021aa8d115af1ab8bef7c382c7022aa1281ce54"/>
+		<rom name="pgpdata\tracks\Ice_spee\track.txt" size="1167" crc="009d5568" md5="4a6af9cdc155c2c9cdabc7db2a947a8a" sha1="e680faadf045a4ad1afb60af0f2ae5c622bfc157"/>
+		<rom name="pgpdata\tracks\Mars_dri\bkground.bmp" size="1402" crc="3b9f5a46" md5="641f1b15f927ea5ff2f5cd26d95bddbb" sha1="9bac1b2457255e83dd67d109fd5707a7c52577b0"/>
+		<rom name="pgpdata\tracks\Mars_dri\objects.txt" size="577" crc="15170121" md5="66347e6e815854597264e8822fa0defc" sha1="27fdc35ac356aaa4aaa13824d10594a257dddeb7"/>
+		<rom name="pgpdata\tracks\Mars_dri\sprite01.bmp" size="1370" crc="86db8f91" md5="825917e22302d1ea5afa411c331d19cd" sha1="3a1523e5b5fb69d2a6a0c6f113fae4dfd869f793"/>
+		<rom name="pgpdata\tracks\Mars_dri\sprite02.bmp" size="1914" crc="e9d72d53" md5="9309f1c5df010a45f25aa88963d4c6de" sha1="c18282f799d8a1d0983b110499b8e4f81d53daee"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex01.bmp" size="1274" crc="6afb9e86" md5="77c897c3e12b504851578ba6ff674b2d" sha1="6b5aa50858ff022063d33fefeee1246ffda77574"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex02.bmp" size="986" crc="e29d5424" md5="0d1496dc15444d73e190ea1909befcbe" sha1="264dcf873631355cf96357eede84ee1cbce77bd2"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex03.bmp" size="986" crc="fcb72bde" md5="896e19ca81577b796ef67968377cb7d8" sha1="0b7fc3b90faf7b83cdf68bee84d5884c690f2add"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex04.bmp" size="1274" crc="2fbc4cd0" md5="430131e8cdf7570f71a4aefb79cc6479" sha1="f75bc12a48fb94bf84f7b9696f4afb83c5cf58f3"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex05.bmp" size="1274" crc="0e7c1b99" md5="1f1cc09afafc13e4e0f3cb6e8437e099" sha1="d55e0db5b8c0a8c7f7407e2e1598ca3337b04ff2"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex06.bmp" size="986" crc="cd2c5b95" md5="f76d5fef4df37824d9e03d2b05a2423c" sha1="62b8d1e93ff6bcf617fb3571ca55849a31f07aa5"/>
+		<rom name="pgpdata\tracks\Mars_dri\tex07.bmp" size="986" crc="5299b786" md5="0d9d6f78a8e6a2de7afc721766351880" sha1="65359be9922405914f4e479e85917bb802f46c84"/>
+		<rom name="pgpdata\tracks\Mars_dri\track.txt" size="1170" crc="7cb03d33" md5="89a24977557d2de3ac98baf911798b93" sha1="2d2be4d39ce395b835a43debb4337847663d13ea"/>
+		<rom name="pgpdata\tracks\MorkLak\bkground.bmp" size="686" crc="a1379838" md5="7aec52c9ca913bc24d6cfbbae1d8509f" sha1="82da36295cf0f48d58da78fc65d2b59ae3aab6e8"/>
+		<rom name="pgpdata\tracks\MorkLak\objects.txt" size="608" crc="0c755e79" md5="cf95b387f9e77553c4b3a6d3ba5cb24b" sha1="1099ca4ce164625101357af45cc9b593ff0772c0"/>
+		<rom name="pgpdata\tracks\MorkLak\sprite01.bmp" size="1038" crc="f1e76390" md5="cd63c1c821808794826f6e344a8855d5" sha1="68b6231b9a7949f8963261b0612c9b181772394a"/>
+		<rom name="pgpdata\tracks\MorkLak\sprite02.bmp" size="1070" crc="735ff6cb" md5="9e8deca5f8b396ccaa4a775ca2f55f5e" sha1="a8f969fdd52702e2f9fa2a9621c3c8ba04d68870"/>
+		<rom name="pgpdata\tracks\MorkLak\tex01.bmp" size="558" crc="5ab37de2" md5="b20bb4ba44a4bde4f4cb5956903b2907" sha1="34261469d6dd481b30bb1c4183a1009a009a8d57"/>
+		<rom name="pgpdata\tracks\MorkLak\tex02.bmp" size="270" crc="94f3115c" md5="77a47c72bdb16f356d49afc3b11397bd" sha1="7c2c6120c8d8293a49fbb865e758c770bc3618be"/>
+		<rom name="pgpdata\tracks\MorkLak\tex03.bmp" size="270" crc="d881b4aa" md5="50a0c7e598c5ddfb76d2353aaa783e6f" sha1="4f010dd61041af2ba6212fbeb2895220de004215"/>
+		<rom name="pgpdata\tracks\MorkLak\tex04.bmp" size="558" crc="79e4b443" md5="abaf727d2bbe93c3ec766e9a45f2e831" sha1="a8afa6c243b6822fce7688ebedc437c52d3b318b"/>
+		<rom name="pgpdata\tracks\MorkLak\tex05.bmp" size="558" crc="8e582b8d" md5="d14ef8727d75d27d96378c6b54865d16" sha1="213adeedeac9aa1bf3663b0e9ac02d214b303fd2"/>
+		<rom name="pgpdata\tracks\MorkLak\track.txt" size="1070" crc="76ef94e3" md5="a6ad41951fc60e3f64d87a9d01e0044c" sha1="393facd5ba641300b8ee935d5954b66bd23348af"/>
+		<rom name="pgpdata\tracks\outrun\bkground.bmp" size="1390" crc="370adea3" md5="babe14c79b19e096b2694eac96150fa4" sha1="1fe0846db434bc8418741f51d8426306615e592b"/>
+		<rom name="pgpdata\tracks\outrun\objects.txt" size="517" crc="aa5cf157" md5="3ad368cc32c7e41434e813b39e958b46" sha1="a532c1f124637013f1b1a264bba10a99182e1ce6"/>
+		<rom name="pgpdata\tracks\outrun\sprite01.bmp" size="1498" crc="2fc40ed4" md5="6543d2e63feb544dc0ab5acda268de1d" sha1="4b55e851c70e98c52889178a39eb41e2368f5cc8"/>
+		<rom name="pgpdata\tracks\outrun\sprite02.bmp" size="1622" crc="dd1d9b62" md5="8022bb9882d43dc866115c9e10bea249" sha1="d4380abe084de751e375fb53292f97c6e3c0fc0c"/>
+		<rom name="pgpdata\tracks\outrun\tex01.bmp" size="1262" crc="a59fbdbc" md5="09d0adb5e799d9e8dca2f1fc0bc89ee9" sha1="2cc8004955fb480181dd53ce5b01ab9944fc064f"/>
+		<rom name="pgpdata\tracks\outrun\tex02.bmp" size="974" crc="7c2c6720" md5="78024e79da295bd47f3d64e06b30eaca" sha1="91b9c55447a5884b5aeb5a88757846ade879b323"/>
+		<rom name="pgpdata\tracks\outrun\tex03.bmp" size="974" crc="04ee6b2d" md5="6cc040cd815c4ac3e55f0c0817e458fd" sha1="6733ae7767c84ed463708b83520cd0e6c273b229"/>
+		<rom name="pgpdata\tracks\outrun\tex04.bmp" size="1262" crc="46508662" md5="a51e4e100dab765bfc07a0412e2739c2" sha1="a5fe47d7f98c5a37afa38434a02ab8feb457d03d"/>
+		<rom name="pgpdata\tracks\outrun\tex05.bmp" size="1262" crc="be005e0d" md5="a65b03046d724831bc15100c1127c410" sha1="1f0d610f08db8b1320b948fe56265b2959b8933c"/>
+		<rom name="pgpdata\tracks\outrun\track.txt" size="1068" crc="668694a5" md5="48201dbdef78f43afaf1802661d4a6a7" sha1="8e1af4cd359bc880744c3dea5ca19820df05b343"/>
+		<rom name="pgpdata\tracks\Scantack\bkground.bmp" size="814" crc="afa430d5" md5="a9115371f60e528281606abb72602570" sha1="31789290f456f76aee212e44a5d4f9ee7ebc8437"/>
+		<rom name="pgpdata\tracks\Scantack\objects.txt" size="197" crc="3c3af82f" md5="d8e5403bde9eb4eafdaeb2a21af496ef" sha1="f7347756593befc83e2a352c76a21ad7b1d9f4f6"/>
+		<rom name="pgpdata\tracks\Scantack\sprite01.bmp" size="706" crc="d3c4a6fa" md5="e49fb47df853cc0a3f58dd9d1cfb666a" sha1="5ce772f7b32c9407199a428620d297147b573fde"/>
+		<rom name="pgpdata\tracks\Scantack\sprite02.bmp" size="706" crc="d8638972" md5="4f7a228da29ed9d83e78ac696724097e" sha1="bdad98c5ccbee2568a45105c762197f2601d8680"/>
+		<rom name="pgpdata\tracks\Scantack\tex01.bmp" size="814" crc="fcaa9807" md5="48ab1db88ecfd0cbfd6f10e86ab84b08" sha1="4b0ea6bbf352b406ab3339156c737cd7d6f078aa"/>
+		<rom name="pgpdata\tracks\Scantack\tex02.bmp" size="526" crc="77f843df" md5="a466814de5bb242b6ee8fac2e285727b" sha1="3a0a0be5989113e9361ecc15b2c48ab777386e91"/>
+		<rom name="pgpdata\tracks\Scantack\tex03.bmp" size="526" crc="c84ebd5d" md5="a403644ba8594235955e5e4e52c3ea6d" sha1="361612a57c87fcb511a41629d1a1a3f5b914a4e0"/>
+		<rom name="pgpdata\tracks\Scantack\tex04.bmp" size="814" crc="7da38b1b" md5="beba1d73604fd21cdee496163e40eee1" sha1="c7f34bbdf34b42024c3c653e79cde8ac3753ef31"/>
+		<rom name="pgpdata\tracks\Scantack\tex05.bmp" size="814" crc="f3ed8958" md5="4912c1d52d51caa7ee7f858c4fef659b" sha1="24c9fa8f058dfece2ce7703d87bcdcaa439f23d2"/>
+		<rom name="pgpdata\tracks\Scantack\track.txt" size="1071" crc="e05a4f8a" md5="39575aa61b57887d68fd6a25102010bc" sha1="97ec3c072c33202760110c38560bb08714e66e99"/>
+		<rom name="pgpdata\tracks\Virus\bkground.bmp" size="714" crc="9d45f2c3" md5="d2d668110e150a1e385561bf252bcde4" sha1="96c01d91f5cabf8e2a712f036d7af6249153cc07"/>
+		<rom name="pgpdata\tracks\Virus\objects.txt" size="608" crc="9afbea5d" md5="fa158d5fcc1db97cd6bdaa4d14cf1807" sha1="14feeeaa8f2c69422e4da2ccadd870bd7667bdb7"/>
+		<rom name="pgpdata\tracks\Virus\sprite01.bmp" size="474" crc="bdcff44e" md5="e27f3a0686bf9d4858df7529de545932" sha1="8a0300d0b03448c748483e727bfa79c5519be84e"/>
+		<rom name="pgpdata\tracks\Virus\sprite02.bmp" size="970" crc="f1f16400" md5="17f8b0444141b4d54f0cdcd73ec11aaf" sha1="0f8ab427b6153b00ef3f9ee7aacbdbd9d4d8a44a"/>
+		<rom name="pgpdata\tracks\Virus\tex01.bmp" size="586" crc="b29fc499" md5="576f2f610f5a4513d96ae8e137c47293" sha1="ad0fac26bfa1c2f275fe8fb986a7a2e87720ad1b"/>
+		<rom name="pgpdata\tracks\Virus\tex02.bmp" size="298" crc="849f9b64" md5="a75320cffc992bdaebe2de6af7f32f56" sha1="1c8f8e872cd6153ce331bc885feacc44a7ee28a3"/>
+		<rom name="pgpdata\tracks\Virus\tex03.bmp" size="298" crc="9bd1a2d9" md5="a5d1b2a65d93fb5af5feae07905dfe4b" sha1="a4b2895c403e553492ff6f1d31e18abbb7d21ca6"/>
+		<rom name="pgpdata\tracks\Virus\tex04.bmp" size="586" crc="a0d46354" md5="a563ad19c85729a3e468462ef6c4c595" sha1="49af0e52b215bf2809c6e48061e3762dbd2b3fe8"/>
+		<rom name="pgpdata\tracks\Virus\tex05.bmp" size="586" crc="88d060f2" md5="76778c42cc2f8f481b9aed84771d48e8" sha1="33800ee01677955408d1d007016f0af12d2bdfd4"/>
+		<rom name="pgpdata\tracks\Virus\track.txt" size="1067" crc="43557563" md5="1ab6a5575fe752bed846fdcbf8ad7d9f" sha1="415949142086c54db7f2cd821c4e338511d24ea5"/>
+		<rom name="PokitGP.pop" size="423039" crc="2a1f44a4" md5="1f26998436e966a39eb793671c9050a3" sha1="ad763d0127988eb91d11faed9a6aa34f1a9f4fee"/>
+	</game>
+	<game name="Pokittobloids (2019-08-16)(jvdw007)">
+		<description>Pokittobloids (2019-08-16)(jvdw007)</description>
+		<rom name="pokittobloids\Bloids.bin" size="195064" crc="632bb196" md5="42aac78a703484a0cde79d291f3686cb" sha1="7a0701c19a9e1aacb297cbd84f19019b86028de3"/>
+		<rom name="pokittobloids\bloids\gameSong.wav" size="1273538" crc="b8bd2ecd" md5="3d490b9642322aa705968c8683a9d19f" sha1="882c7960abb4a18f40bb3c8979b7f91f3239235b"/>
+		<rom name="pokittobloids\bloids\menuSong.wav" size="409800" crc="87f8e907" md5="dfbc7e416b160ed663d6d2ef532c99f4" sha1="24ae62a520ea28c843c9a823edaebcc4a2faace9"/>
+		<rom name="pokittobloids\readme.txt" size="968" crc="e12134b7" md5="fcfaeb8b1de15cf116bdeb31043fa5c5" sha1="a4906c6ea5b94a9d2846cbaaf41199c0c9c23f58"/>
+	</game>
+	<game name="Prelude to a Dream - Chapter 1 (2021-03-08)(tuxinator2009)(MIT)">
+		<description>Prelude to a Dream - Chapter 1 (2021-03-08)(tuxinator2009)(MIT)</description>
+		<rom name="data\preludetoadream.pak" size="17781708" crc="0f217cea" md5="ef63c0aecf935e1c98367f981b7dc6e0" sha1="e9f6acc370d754aa108c70d962531d84a9f60a3f"/>
+		<rom name="data\preludetoadream.sav" size="512" crc="b2aa7578" md5="bf619eac0cdf3f68d496ea9344137e8b" sha1="5c3eb80066420002bc3dcc7ca4ab6efad7ed4ae5"/>
+		<rom name="Install.txt" size="133" crc="09004fdc" md5="a7be5991d2e4da6d54743b987db0e07a" sha1="9b793b1bbbb848ab4d688dbc517b27013d8e42b9"/>
+		<rom name="PreludeToADream.pop" size="445450" crc="0d48af08" md5="f6d7818bfa21f3ca414753da887b4afe" sha1="0220a2f8f8757fe45790886c2c7565c0bb805769"/>
+	</game>
+	<game name="Prelude to a Dream - Chapter 2 (2021-05-05)(tuxinator2009)(MIT)">
+		<description>Prelude to a Dream - Chapter 2 (2021-05-05)(tuxinator2009)(MIT)</description>
+		<rom name="data\preludetoadream.pak" size="18061782" crc="17a725c2" md5="39d03c75990cb012d03a251a37282584" sha1="772aa7a647dbf3e47d6f2ca895679f869411a53e"/>
+		<rom name="Install.txt" size="133" crc="09004fdc" md5="a7be5991d2e4da6d54743b987db0e07a" sha1="9b793b1bbbb848ab4d688dbc517b27013d8e42b9"/>
+		<rom name="PreludeToADream.pop" size="435056" crc="a2da3df7" md5="0d861a524c0f0ccd841c3f59865677f2" sha1="d0df8eaa6c8ac008e85332c9359a8fcc8e509830"/>
+	</game>
+	<game name="Prelude to a Dream - Chapter 2 (2021-05-07)(tuxinator2009)(MIT)">
+		<description>Prelude to a Dream - Chapter 2 (2021-05-07)(tuxinator2009)(MIT)</description>
+		<rom name="data\preludetoadream.pak" size="18061782" crc="8d5da9b7" md5="77279c0e49c8891ede64906a1e1f2698" sha1="d748a75f897c51cccea9b9bf77b942225d5989d5"/>
+		<rom name="Install.txt" size="133" crc="09004fdc" md5="a7be5991d2e4da6d54743b987db0e07a" sha1="9b793b1bbbb848ab4d688dbc517b27013d8e42b9"/>
+		<rom name="PreludeToADream.pop" size="435056" crc="a2da3df7" md5="0d861a524c0f0ccd841c3f59865677f2" sha1="d0df8eaa6c8ac008e85332c9359a8fcc8e509830"/>
+	</game>
+	<game name="R0xitto (2021-01-06)(jvdw007)">
+		<description>R0xitto (2021-01-06)(jvdw007)</description>
+		<rom name="music\rox.wav" size="2768030" crc="08d7c87c" md5="d3b95ada8ac06d472dc584fbd3ee6b2c" sha1="6d5111a2886053ab299a307253bc7b880b90ab6d"/>
+		<rom name="R0xitto27.bin" size="197860" crc="b436edcc" md5="7461ea7c572d0e4ff27506e01322a52b" sha1="f068f4545678a4db0ea44288b15179ef537238d4"/>
+		<rom name="ReadMe.txt" size="1777" crc="eee3f08a" md5="db5173bb2ee7f84e36f852cf3360577a" sha1="fb0e0ba461c89c58ebef93558d03655bb9c2e34f"/>
+	</game>
+	<game name="Recreation (2021-08-29)(Carbonacat)">
+		<description>Recreation (2021-08-29)(Carbonacat)</description>
+		<rom name="data\logo.i16" size="387200" crc="860d2b2f" md5="c099c22f2e4c867c8d9cc16f67e5a03e" sha1="a5b5c141a839ba6afa6c4a49e2c10729ba35c765"/>
+		<rom name="data\menu.i16" size="154882" crc="1a772491" md5="758a18cc7fcacbfe85086b5a3b159755" sha1="5d51ce5773ee6836776c4b33ecfc98ee24b7939f"/>
+		<rom name="data\menu.png" size="110040" crc="faf1c29c" md5="305bb38294457fdf79fd4fa7f373f372" sha1="bd7f4f85078c0449b9c7545ac0725e79430a2018"/>
+		<rom name="readme.txt" size="2600" crc="6648d366" md5="dbff61dc233b72f4b514cbf0da0657ad" sha1="1286d1f962ee06dea7c26b6c114a38cf5db9d68d"/>
+		<rom name="Recreation.bin" size="143208" crc="e3adfd44" md5="5f24be3c464aaf96be0cb5e05f8e45d2" sha1="4e73fee6414c95ae9d162d6ce915e3c9af845eff"/>
+		<rom name="Recreation.pop" size="426426" crc="984f7c4f" md5="9f2378eaac545ecb0a029b32133b8cc9" sha1="6eaeebfc3d18947af8ca7ace43600396df5e56c5"/>
+		<rom name="screenshots\Screenshot 2021-08-29 at 22.42.09.png" size="6663" crc="e1529d8f" md5="0b7a79cadfbb6f518e54d254b3dfaf24" sha1="a22f49810e74ec062cfd5fafa4eacf3e40dfa437"/>
+		<rom name="screenshots\Screenshot 2021-08-29 at 22.43.42.png" size="13575" crc="6c190486" md5="b8c1d122d3231d70a65c33839897e596" sha1="b70ac0b828fd4c7fb489657aa23b77188738da02"/>
+		<rom name="screenshots\Screenshot 2021-08-29 at 22.45.23.png" size="11889" crc="14a7ddea" md5="2558a82a15caba78f0ccdaf318c07e41" sha1="1eb11f26f80fadeebc267c72a13f39df4b544e86"/>
+	</game>
+	<game name="Regicide v1.4 (2021-10-08)(PressPlayOnTape)">
+		<description>Regicide v1.4 (2021-10-08)(PressPlayOnTape)</description>
+		<rom name="music\Regic_01.raw" size="1724709" crc="0fce46d0" md5="76971b4685b582c979dba6e1569a60d1" sha1="15c85ae0912475242b08f7147c93955a1972b5ac"/>
+		<rom name="music\Regic_02.raw" size="119843" crc="707e8f42" md5="9586ae96f5cd0a076fb4b8bd7b86cde4" sha1="e8f07eb7a21eba5f53b9d414b4440d3e42ea3f31"/>
+		<rom name="music\Regic_03.raw" size="19362" crc="d93586eb" md5="4a31968117caebc8b1a84aea470ffdb7" sha1="1aa02c3180d9e9cf38b5cb9e86cbd54408ea51df"/>
+		<rom name="music\Regic_04.raw" size="19362" crc="93100c11" md5="b0b8ba8e01806924699448d38c119e6a" sha1="24856f93c14dd32bfa4c973745ea9ef1baba54cd"/>
+		<rom name="music\Regic_05.raw" size="19362" crc="e438b010" md5="2b7702dfe35e0728d283414cabab94e4" sha1="27827115411d032561b60b830f00cd495fcd32b9"/>
+		<rom name="music\Regic_06.raw" size="19362" crc="e1b369f0" md5="e1653beea965e37f1d8143e4eb51bab9" sha1="e5184d89b95325d2bacdc074fc37e253cde4253b"/>
+		<rom name="music\Regic_07.raw" size="19362" crc="27f5e59b" md5="08a1ef5152bff67b382ed52d9d18d8ad" sha1="746b3fd624bc5ed220a88b227cb2cea6fc051f26"/>
+		<rom name="music\Regic_08.raw" size="19362" crc="56dcd123" md5="9258fbc9f0fdb22316cda90c0fb89889" sha1="5531b5e244e5216f1fd2d37700be6b039fb0dd23"/>
+		<rom name="music\Regic_09.raw" size="19362" crc="9f235827" md5="23784fc532c5c1b6d99bbd228a705848" sha1="dbd707c181984fc65efee18f6079364f1122463d"/>
+		<rom name="music\Regic_10.raw" size="19362" crc="732afd83" md5="8a18ecf78e4aecd083ec000b29af6dec" sha1="451a8b4ddb9fa7a4a07bc15dc0296f85ae3be3b8"/>
+		<rom name="music\Regic_11.raw" size="19362" crc="dd1d9937" md5="9c7da5dc32e6605ab0ead92839a41100" sha1="968d8933ed5691e20d176857f7e7aeae96c308bb"/>
+		<rom name="music\Regic_12.raw" size="19362" crc="209b1bf9" md5="0032939e22580b648f69d119767dd584" sha1="0078c6f3cb4df23651bf694baddb390b9aebf250"/>
+		<rom name="music\Regic_13.raw" size="19362" crc="c9803c5d" md5="6aeefcb4c6e585184e749dfa5854f1c0" sha1="7e2d39408875000a981d562a3eadb62fee39713a"/>
+		<rom name="music\Regic_14.raw" size="19362" crc="ef825dbd" md5="18502a06337eedadf473be22acc1a634" sha1="30dc5dd15b1fcab16141a9705e844f8bdc6a2133"/>
+		<rom name="music\Regic_15.raw" size="19362" crc="10e0b521" md5="c162a9a7064240ddf82b59982d0e4ca0" sha1="7dfce641676dad9f2b9c68c21184df716616ef45"/>
+		<rom name="music\Regic_16.raw" size="19362" crc="23a31723" md5="c955cc0ebe502b78935cedf205a99070" sha1="f805105156aeb08f4cdc64faef5ef80f809950ce"/>
+		<rom name="music\Regic_17.raw" size="19362" crc="ec06ed58" md5="6a68a863b63ef39c310b1ccd1655ed74" sha1="74274a2f8db5aaf25c54116665311af2cc52992c"/>
+		<rom name="music\Regic_18.raw" size="19362" crc="198adc4f" md5="e1a272132cb9604851a0fcd5b83c68f0" sha1="25cf160bc47b35f936e93b5152b91d9538920198"/>
+		<rom name="Regicide.pop" size="567973" crc="1eafa079" md5="b8104f694b8067e6be40b9c55b378805" sha1="c36969279f9ef5a2054a0d0c12da980e8bce372f"/>
+	</game>
+	<game name="Road Trip v1.0 (2021-05-12)(PressPlayOnTape)">
+		<description>Road Trip v1.0 (2021-05-12)(PressPlayOnTape)</description>
+		<rom name="music\roadtr01.raw" size="321183" crc="76c550fa" md5="2c11876aa62b10a3457d45b60a111113" sha1="14a82c04db96bbc03d75d0a293ce28b650bb65f0"/>
+		<rom name="music\roadtr02.raw" size="1409472" crc="692b829c" md5="47380fb14ac259a901be7d819f36d968" sha1="0fcff0d64de91c6ab5e5e58412c8b219b11a5793"/>
+		<rom name="music\roadtr03.raw" size="3931200" crc="d0100c72" md5="6c0cfc74f72ccf52ebdfe541c741754d" sha1="e111f6fd497b038cf0615fb36eca62481440b4f3"/>
+		<rom name="music\roadtr04.raw" size="3344256" crc="f7f04e5c" md5="be6be1ff29165e257c2b395f334bf274" sha1="c431f6f9960e2d98eeb4235c411a4f91a210812f"/>
+		<rom name="music\roadtr05.raw" size="3544128" crc="5456873c" md5="fec3bf2bcaf8afdaa13e6a2fd9ede7ea" sha1="0f4663ce54300e3d1f86a31cc521d695d7b05653"/>
+		<rom name="music\roadtr20.raw" size="38331" crc="2e99ca5b" md5="7739cf6921a74ce6a09aa403d661efac" sha1="9744ec86753d2266ba8aeb04bfb76b2fbff33613"/>
+		<rom name="music\roadtr21.raw" size="36174" crc="c0f50f36" md5="574b787b0310f0752bc9588dff06caea" sha1="de2fe21d4f329b149bd06be4c2cb5e6f5b65f9c2"/>
+		<rom name="music\roadtr22.raw" size="16924" crc="b700408f" md5="6d7bdc6d9df62662a86e051d625f7ff5" sha1="daa6b5db30da152d737e9eb5ae6bd982f5ddc8aa"/>
+		<rom name="music\roadtr23.raw" size="20362" crc="8e38201b" md5="1cff60b76eb0e676a22f7e25609067f5" sha1="b56f0df18388a5d10464ebee30e03f3ceebc2c44"/>
+		<rom name="music\roadtr24.raw" size="19002" crc="f7cb657c" md5="2f7be767505b32e3cc637be0511ae960" sha1="5aff7edceb4bd472fefc2d93991bee1c60afb24a"/>
+		<rom name="music\roadtr25.raw" size="22541" crc="ed9c8115" md5="3944f286a72a3dbe69afc51f959d58f6" sha1="8049d34b3bf5a724a10eb38bb3020c840dbea864"/>
+		<rom name="music\roadtr26.raw" size="34755" crc="548340c1" md5="eb57c50a532a54e7f8e2bb220d739e71" sha1="3998217f6ec4f31d9bbc926c4c39a8d8bbc02d5e"/>
+		<rom name="music\roadtr27.raw" size="18482" crc="9c08d653" md5="06f3de56c8fcfdc1d8f8068663acd2aa" sha1="13c850fc8474b8b0276958208a89212b381e5de2"/>
+		<rom name="music\roadtr28.raw" size="45228" crc="ab98c119" md5="ca1900055d015d710849851d3c475bdb" sha1="ccab5b7fbc8e3d9427b67f87e9b248be6577334a"/>
+		<rom name="music\roadtr29.raw" size="16157" crc="ae6d9a81" md5="2d0a473d602af20ec99017427d5eae91" sha1="29c3a5eb96681e17da9dd14d14e4293a66f2370a"/>
+		<rom name="music\roadtr30.raw" size="29222" crc="dbb42abe" md5="7604a56bc9b5c5673becb43369d99d49" sha1="01cdca35d0f51ef5143afc823882039b5b9db747"/>
+		<rom name="music\roadtr31.raw" size="31497" crc="9f78fb40" md5="e04dfa6eed5c7cdd7d6fb49e3198547d" sha1="9174e812ea28747290bf84b718cb897ee19723d2"/>
+		<rom name="music\roadtr32.raw" size="16665" crc="bc1dd43d" md5="29b353cc9c789832b78ccc93ab04693c" sha1="b99aef498456a9a2326d8f1f34c95f3db3373cce"/>
+		<rom name="RoadTrip.pop" size="805931" crc="e27b2238" md5="5e8966a291b8c7c45e37e07da25813d0" sha1="1620a39268cc4dde82996e50ca31cbcc1f4ffb55"/>
+	</game>
+	<game name="Scopa v1.0 (2020-11-05)(PressPlayOnTape)">
+		<description>Scopa v1.0 (2020-11-05)(PressPlayOnTape)</description>
+		<rom name="music\SCOP_08K.raw" size="1613212" crc="0c0f3355" md5="5c21c653e68f7efe053841d553065ee9" sha1="efedb2330730f44ec5e8ab284d3028d695cb8114"/>
+		<rom name="music\SCOP_CDS.img" size="1026420" crc="f5d50746" md5="be407417679d1d94529f3d9301dc6402" sha1="37679c64445e42f43e7bc817777460b6307b4ce0"/>
+		<rom name="music\SCOP_D01.raw" size="2081" crc="795188e5" md5="edbba4ab9be377e33c7825a1e3b8975d" sha1="fe38657b0bcf673d280fc588ed87d00b77b3a816"/>
+		<rom name="music\SCOP_D02.raw" size="4084" crc="412af05d" md5="36b6a06ecf8b354f55a7fca9767c876b" sha1="2f8cffb55e8dcf483e8354206d3bc28eac64e367"/>
+		<rom name="music\SCOP_D03.raw" size="9730" crc="c512f2a2" md5="6241d7ede516bfeafd4a372ee4e3c5b5" sha1="7c8407dd4afc958aa8e123cdae143e8eba701f54"/>
+		<rom name="music\SCOP_D04.raw" size="2301" crc="1ae11dc6" md5="2e6729667cfde547820cb253cc8b3a61" sha1="9e801bcbfb9fc5ec7d30d91dba48eb28683fbc0b"/>
+		<rom name="music\SCOP_D05.raw" size="6207" crc="15a88324" md5="bd36b990aef4741d2cb3b81bbe93cb69" sha1="5e93ef85f79c244279c2dc1ee02991ebd6211112"/>
+		<rom name="Scopa.pop" size="715791" crc="69c3f776" md5="d8883c2e624d906c42387b02934f8dd0" sha1="629312162635847cae0de204d166a7416192b5d7"/>
+	</game>
+	<game name="Scrambler v1.0 (2022-08-07)(PressPlayOnTape)">
+		<description>Scrambler v1.0 (2022-08-07)(PressPlayOnTape)</description>
+		<rom name="music\Scram_01.raw" size="205824" crc="189dea18" md5="ed953b366fb0777e3120113ad562f98a" sha1="3e647e9767f750cf60088363f381a9db144d54b1"/>
+		<rom name="music\Scram_02.raw" size="13484" crc="91324741" md5="bb5d5240a8134b0967fb7988e4889333" sha1="0d7b4ec49584169188215635250e9e8f0b17fdb1"/>
+		<rom name="Scrambler.pop" size="589214" crc="d7af55be" md5="52e1de268edcad9844f452032fe0456e" sha1="f9e0463dac90a2bcc21a3e6b00ea69c201a750a3"/>
+	</game>
+	<game name="Space Cab v1.0.2 (2021-01-13)(PressPlayOnTape)">
+		<description>Space Cab v1.0.2 (2021-01-13)(PressPlayOnTape)</description>
+		<rom name="music\SPCAB_EXPORT\Instructions.txt" size="560" crc="6bbbb79e" md5="ce0e777f34b339d05fe6f1f5739682d3" sha1="d8ec178de1813d74508e8952075029b8d7e8170d"/>
+		<rom name="music\SPCAB_FILES\SPCAB000.raw" size="235" crc="a21a7821" md5="3bb36f588f03c5ff5f6c7865b87164fd" sha1="492ac4154e46002322c55f0ed89126ffca13b13b"/>
+		<rom name="music\SPCAB_FILES\SPCAB001.raw" size="318" crc="59d831cb" md5="81201dec6203469d86b0a9d3783e75ed" sha1="65dcd1726abce855dee562487aecdef80a46d1bd"/>
+		<rom name="music\SPCAB_FILES\SPCAB002.raw" size="330" crc="25c946db" md5="1e3ced133808f3a4365c3677f0859bb1" sha1="64760d5cc16d48e3b7e575f7a6f36bfaccd8e7c9"/>
+		<rom name="music\SPCAB_FILES\SPCAB003.raw" size="322" crc="790d2b41" md5="523524e3030835adead53024bcd53104" sha1="91e93245936a67241471be3e76bd4c3c8e62d4a1"/>
+		<rom name="music\SPCAB_FILES\SPCAB004.raw" size="322" crc="074c515a" md5="8326619df116601ab3686bb8a7a79bea" sha1="a9cecf9d73761f83bef5e80d932c48f21ba62b5e"/>
+		<rom name="music\SPCAB_FILES\SPCAB005.raw" size="322" crc="2d802de9" md5="26102b95cbcc792d84514a2af519e2ad" sha1="8faef44722df6f67ddbbdc090833a43a1536ff00"/>
+		<rom name="music\SPCAB_FILES\SPCAB006.raw" size="318" crc="c5c28349" md5="5d37a430722733bc36a6883683ebb105" sha1="bf5d98b42583d018c4068623d3a237d00d1a1ae7"/>
+		<rom name="music\SPCAB_FILES\SPCAB007.raw" size="322" crc="72b1ca60" md5="a644a29e0cd0fd2af7154a4cadb3df80" sha1="bd659bd715e076a561727622fd0d6388083d1af7"/>
+		<rom name="music\SPCAB_FILES\SPCAB008.raw" size="322" crc="d3480b3d" md5="34d869a51894718fe9800b5b580daba6" sha1="e8082ff5b2d044e436ce1d784a10f35f0cd618da"/>
+		<rom name="music\SPCAB_FILES\SPCAB009.raw" size="322" crc="9f3185ea" md5="32875cfe1ff87bafceb1eb463801b323" sha1="9954f507fad8b063cc891544f8a99d9b630b7135"/>
+		<rom name="music\SPCAB_FILES\SPCAB010.raw" size="326" crc="370158b5" md5="844c4881d0a8603d8da3ed6b1e2ef49b" sha1="b383dae442ae1f20ff411503d2cd9e83cbd6d93f"/>
+		<rom name="music\SPCAB_FILES\SPCAB011.raw" size="322" crc="bbb9b80a" md5="a82d39aa5dce736f05c8abdaa2dddb92" sha1="93c2445a111176cf9d3be85ffbce7307ba809459"/>
+		<rom name="music\SPCAB_FILES\SPCAB012.raw" size="347" crc="14306935" md5="352b236fb4bdca7f4f9ee1ec860085b2" sha1="45a90129ce8750051a6238dc700e3b0d87c372cf"/>
+		<rom name="music\SPCAB_FILES\SPCABF01.raw" size="10263" crc="6685bfcb" md5="af78533853c289b536f3ee96b4cf7d95" sha1="c416839c79abfa46b87d5bdb98e2e6bcbff386dc"/>
+		<rom name="music\SPCAB_FILES\SPCABF02.raw" size="6316" crc="dfc156b4" md5="70a583b49a42be1ae00cdec4a1b81aed" sha1="db4bded78eb1d04d5d6bf13282e02034e2ba6f64"/>
+		<rom name="music\SPCAB_FILES\SPCABF10.raw" size="12777" crc="411d1c4d" md5="00ab36bc165c1c6fcb6cd4b7086f38cc" sha1="37060e03bd919512e3f94512268dd74f4008d152"/>
+		<rom name="music\SPCAB_FILES\SPCABF11.raw" size="23181" crc="793cb5cd" md5="7bec9fc247b181153bf73f3e0cde3f01" sha1="71af100399beb0d37cd52dfd304a7bd9b07b5bc0"/>
+		<rom name="music\SPCAB_FILES\SPCABF12.raw" size="19831" crc="e6571bb0" md5="b516313f39ce9a8f297b60525a0027f6" sha1="825f9a26ea5e6d5311518ef44eee4480809ef313"/>
+		<rom name="music\SPCAB_FILES\SPCABF13.raw" size="22384" crc="1e4cfc05" md5="bc79ae5e9caf2a01dbdb3a11ab415f09" sha1="198b5ebd336d41629bdffa2245eba827399849f6"/>
+		<rom name="music\SPCAB_FILES\SPCABF14.raw" size="21989" crc="86fe1b8e" md5="b77f90c0308585e4cc78ecd2b2bde07a" sha1="89774dc14c472a8e3177dfbdce58b4a8509afb39"/>
+		<rom name="music\SPCAB_FILES\SPCABF15.raw" size="24230" crc="134b801a" md5="4c2bb48daeb5cd98619687d55fea30ba" sha1="77b1284fdcef6bfb0ffacfe4684d9684e5237a00"/>
+		<rom name="music\SPCAB_FILES\SPCABF16.raw" size="23034" crc="cc32c5a7" md5="9b4ee8a0298759b406014dba6175c181" sha1="b06bdda241bd17826c747d140c2e2af587675765"/>
+		<rom name="music\SPCAB_FILES\SPCABF17.raw" size="22036" crc="2190573f" md5="0fa1384817d0de60f9a6fe8b95e3b54d" sha1="d8e4f65f6405297b1ffcc25367618060d1b3f87b"/>
+		<rom name="music\SPCAB_FILES\SPCABF18.raw" size="22500" crc="a1a42a7c" md5="1839a4d80c8def4a97ad750631c73396" sha1="a5669cf40a8351e8d47faf62a1a6e952a098002b"/>
+		<rom name="music\SPCAB_FILES\SPCABF19.raw" size="21386" crc="d6eadafa" md5="76074d3f1400ee6f82f710794a304e4d" sha1="7876c5002e3b87be0566f8522580ab97f5aef890"/>
+		<rom name="music\SPCAB_FILES\SPCABF20.raw" size="16759" crc="0a2125b6" md5="a062f938d4003e1414ca0e4e487c2273" sha1="89b64996c3820989b48dad4eaadea8bc84e7cdc0"/>
+		<rom name="music\SPCAB_FILES\SPCABF21.raw" size="13374" crc="19d5c079" md5="0a6c280a9305aaf6bfad0c7c09a6e2a8" sha1="25f201d35ad0faa3e3930da19f59bcee4a039c99"/>
+		<rom name="music\SPCAB_FILES\SPCABF22.raw" size="17927" crc="ac651427" md5="15bbcaa6dcafbd6bb7bfe5988e3d1987" sha1="d2b4cdc74fb14e491c5fda5dfbfd150a1546255c"/>
+		<rom name="music\SPCAB_FILES\SPCABF23.raw" size="16811" crc="9a40b5c1" md5="9caaa9c5b53c84e8715f3dca3f578954" sha1="4a56873466f05c52e2cf60506f9536bde8d2a9da"/>
+		<rom name="music\SPCAB_FILES\SPCABF24.raw" size="16254" crc="9349fe0d" md5="437058cb3022eb62977473fbe9dc5bd4" sha1="d1fe857f7632ea359bb26d89ccf5f2fe9efeef49"/>
+		<rom name="music\SPCAB_FILES\SPCABF25.raw" size="16254" crc="9c6bd28d" md5="0644069245061d68336ee23eb0f0763a" sha1="1f1a07776b39998bb775ba3ccf4850dabe2b2887"/>
+		<rom name="music\SPCAB_FILES\SPCABF26.raw" size="14257" crc="117ad746" md5="b9e255a9caca15b6159a07e20d213c50" sha1="9a7599636e670a6b92efb37fdd5670383da646e8"/>
+		<rom name="music\SPCAB_FILES\SPCABF27.raw" size="16642" crc="c6080d57" md5="5052a11b0268cfa63b8648137b03bcd2" sha1="68caa2b1c4220df0bf6388da72df29e84ec7d0f9"/>
+		<rom name="music\SPCAB_FILES\SPCABF28.raw" size="17756" crc="2158371c" md5="7ae64932b1dd395c64db3e289431b993" sha1="5af97f0e7251d939c2bde08a5ba3b0ecf4982e6a"/>
+		<rom name="music\SPCAB_FILES\SPCABF29.raw" size="17283" crc="df9c1ef6" md5="e76f952ea2946f265b1878c2f2df8c3a" sha1="3b786f2e774fdf2abfc51826cc0f5373653e8cb4"/>
+		<rom name="music\SPCAB_FILES\SPCABLVL.raw" size="393" crc="c502301f" md5="d31c8bbadddfccdcbf18545b9843ad8d" sha1="e33c79aa69c72363176371c999c593947111360c"/>
+		<rom name="music\SPCAB_FILES\SPCABM01.raw" size="9270" crc="39f131dd" md5="bffda1ca6ac4c142472fc8d24e3d54b2" sha1="b18bc326376ede32ff22cb4474bbf182b073f4c2"/>
+		<rom name="music\SPCAB_FILES\SPCABM02.raw" size="6464" crc="b418ee15" md5="7e66adc0bf876caa7045118a55095fc3" sha1="003e3986285fc8704016688a5d07ff71f679ee31"/>
+		<rom name="music\SPCAB_FILES\SPCABM10.raw" size="17344" crc="b30c446c" md5="240bc1a58ec8a4a096bf115918b5556d" sha1="16bbaa0d18d8a5fba58b0d11af84528daa665a56"/>
+		<rom name="music\SPCAB_FILES\SPCABM11.raw" size="11652" crc="4fbcd851" md5="553bab285c16a7b7b8f9d61bb3ea9c51" sha1="269b0788c3f9d6eda6cb18168a4c372cef4fcede"/>
+		<rom name="music\SPCAB_FILES\SPCABM12.raw" size="11355" crc="f6272da2" md5="24ea05bb1f5873f77b82e9e4a251621e" sha1="5a324c955319b8f141e2679a465a3eeb6759c173"/>
+		<rom name="music\SPCAB_FILES\SPCABM13.raw" size="11226" crc="662c26bd" md5="1b24c8fa2b04637fbe7c1d6d562b3a3d" sha1="b41f7ff3dccaca00364b70a22c49e0971b67f6b3"/>
+		<rom name="music\SPCAB_FILES\SPCABM14.raw" size="13140" crc="1add4dfd" md5="a7586ce8c8df9725d457f7fe2fe5bb8b" sha1="4efa43dba26904b52a2a39b30634c6ca95574898"/>
+		<rom name="music\SPCAB_FILES\SPCABM15.raw" size="13480" crc="90b78641" md5="6ead4155d151bbcb5643c6ee60ff6052" sha1="5c589b8e02be6d08c82d04857c9e1382101c1db9"/>
+		<rom name="music\SPCAB_FILES\SPCABM16.raw" size="13693" crc="b35f318f" md5="7e4de5e0a28cb8ac8df6fc13bce1d388" sha1="a9783a326019eef7be02968148f4c3cd57f73c2a"/>
+		<rom name="music\SPCAB_FILES\SPCABM17.raw" size="11567" crc="68f609a0" md5="b6aa54b2195826472204a3c6ffce3415" sha1="92764f0341c520511634bdc332ba166a468020f7"/>
+		<rom name="music\SPCAB_FILES\SPCABM18.raw" size="12332" crc="fe3e6760" md5="fa242a57ddabae6e77eccf3aad84983e" sha1="2327650566f5febab8b3002f4f2e10df735bc026"/>
+		<rom name="music\SPCAB_FILES\SPCABM19.raw" size="11822" crc="36cf6aa5" md5="ba112704315b85645bd7230289b513f1" sha1="7b0d64876c3c6ff9276ea16e76cc01fff58d4627"/>
+		<rom name="music\SPCAB_FILES\SPCABM20.raw" size="13629" crc="480664ac" md5="5f722f5884dbf5f22642d029f2ccfce2" sha1="4eebd91dccd69abe0b064d00533fd49e7274cd2a"/>
+		<rom name="music\SPCAB_FILES\SPCABM21.raw" size="22071" crc="00ed777c" md5="15211ba76fe83ca5bc034949ab450e8f" sha1="4cf549e13ffd404a3283cfa7d00bf82494d66be8"/>
+		<rom name="music\SPCAB_FILES\SPCABM22.raw" size="22777" crc="ddb593a8" md5="5a717c9336e6767db9e492a9752c439f" sha1="c3f9fdef9d6ca9e27143137d5075e25d65af3b06"/>
+		<rom name="music\SPCAB_FILES\SPCABM23.raw" size="23006" crc="b9cfab6f" md5="26e40365e6e1ca7ae02f526f1c4fe8c8" sha1="6837fe611c29ec6f5175feacb60a9e6e99cd8e5e"/>
+		<rom name="music\SPCAB_FILES\SPCABM24.raw" size="22538" crc="260dcfcc" md5="f158e93ce6fff722a4181efb6d89b17e" sha1="742f7ba5c4e662e26a5ad8c59b554a200242c2bd"/>
+		<rom name="music\SPCAB_FILES\SPCABM25.raw" size="23006" crc="de90e490" md5="a10c5f51fb1132743e8896924d4639ee" sha1="1c3a8dab7eb81e59432ce73bcca414ebf269b1eb"/>
+		<rom name="music\SPCAB_FILES\SPCABM26.raw" size="23431" crc="768066fc" md5="5746a3b0dbcc52af57ed636cd20ba03e" sha1="fe2d0c125f1a3835a082b06fc6cc791e44fcf896"/>
+		<rom name="music\SPCAB_FILES\SPCABM27.raw" size="20838" crc="45625b0b" md5="4ee8b8d4bd5694634d18c43df063003b" sha1="9cc578c7718127320f608d44c1832c3ac13cab38"/>
+		<rom name="music\SPCAB_FILES\SPCABM28.raw" size="21347" crc="0af0a671" md5="fcbdd0df96493f140cb44a19d211b27b" sha1="2d1ac0ab4e1ffa7ebf702bbd03e6b24f9a684f67"/>
+		<rom name="music\SPCAB_FILES\SPCABM29.raw" size="22666" crc="779ed197" md5="229f2d8ac40f73a5364d37fc18ecfef8" sha1="f98859cd35a73c64ccae00cf0d11753c1b879c38"/>
+		<rom name="music\SPCAB_FILES\SPCABS00.raw" size="18219" crc="d93e2b8e" md5="3dff922f7ce525415330c0460436fdc7" sha1="c8e8ef98bae0664fa7c703a5d1f51597e2717b5e"/>
+		<rom name="music\SPCAB_FILES\SPCABS01.raw" size="10475" crc="1003d042" md5="a40aa5ea2063aa360456686a2aa9c2f8" sha1="8449e677bf18ba70707b561ff9c5c9a208ee232a"/>
+		<rom name="music\SPCAB_FILES\SPCABS02.raw" size="12312" crc="beff8011" md5="849ce8823bb1829381f5f5654db93925" sha1="f4b934b12b68caaf4169a7191e713047597982bd"/>
+		<rom name="music\SPCAB_FILES\SPCABS03.raw" size="24820" crc="babdad23" md5="812c0a661e9577e75adb0a1c0954ae2f" sha1="7510b1d837952cf6786d7f252decc80a08d5c3b6"/>
+		<rom name="music\SPCAB_FILES\SPCABS04.raw" size="27363" crc="99794608" md5="0f499902be18526275222ded13bf4d36" sha1="279ccbe0301a75ede1537ae1d37a164ffcdfd202"/>
+		<rom name="music\SPCAB_FILES\SPCABS05.raw" size="50168" crc="8a7f85c0" md5="2cc7b327614fc7ffeab59d654c8e57ed" sha1="3a845435f5e4ba54ccf237affacd53ee5f2d6448"/>
+		<rom name="music\SPCAB_FILES\SPCABS06.raw" size="172039" crc="dbdbc0f6" md5="df835983e4f899426aaa83d38d227f81" sha1="6ca8727dc64cb558f1231155385292178210c423"/>
+		<rom name="music\SPCAB_FILES\SPCABTMP.raw" size="318" crc="42db1f0a" md5="d3be9f727e0d8a6888f549a990d02053" sha1="4877089eaf1f79623e8367c2e7418a960ff518ef"/>
+		<rom name="music\SPCAB_IMPORT\Instructions.txt" size="560" crc="6bbbb79e" md5="ce0e777f34b339d05fe6f1f5739682d3" sha1="d8ec178de1813d74508e8952075029b8d7e8170d"/>
+		<rom name="SpaceCab.pop" size="833527" crc="c45fdd10" md5="f9fa5c08a921922c4149b57634f6e85f" sha1="cdd9afcec5d8134629bcfc6dff48d0ea77895b11"/>
+	</game>
+	<game name="Stack Shift v1.2 (2019-09-30)(PressPlayOnTape)">
+		<description>Stack Shift v1.2 (2019-09-30)(PressPlayOnTape)</description>
+		<rom name="music\Stack_01.raw" size="1285" crc="bb4c113e" md5="018144373a3e0a9ca66c4755f8387d04" sha1="70ffda8117ce7aca7e972f0171ab502aeb6fe619"/>
+		<rom name="music\Stack_02.raw" size="1576" crc="6769db12" md5="3fed4304f19e2c85f88afc999c68d88f" sha1="417f6974fd865899dda54849869a992e5aa668c3"/>
+		<rom name="music\Stack_03.raw" size="2338" crc="5882fd24" md5="7a05c704b8152ae92e4a8a358def51b9" sha1="9f8e526a9c35631e3425d0491d08118e3e60f109"/>
+		<rom name="music\Stack_04.raw" size="2736" crc="749847b9" md5="e793cfa465723983651d723a66e43383" sha1="0026c8b55b0acb4a058562fb774ba6dbb4679d7e"/>
+		<rom name="music\Stack_05.raw" size="3209128" crc="37a48b7b" md5="f6cb90fe03111986a47b90a0a8edbb6a" sha1="22cc2df5a5f4c0ec136a0d1cf573f55a25b2c297"/>
+		<rom name="music\Stack_06.raw" size="2400684" crc="7fb6904b" md5="bbb69ef72a2b0720e52dca80122e28fa" sha1="642ad0889636f9273e26d43127f7eb75f8c2dfeb"/>
+		<rom name="music\Stack_07.raw" size="2820519" crc="45e4dff0" md5="c32cee70618c61b9145c2d9ece8588ac" sha1="63e980dd2b7b50bc7d804821c8ce6ae387f2f901"/>
+		<rom name="music\Stack_08.raw" size="8395" crc="8f59481a" md5="f6a03cd9d904c242c8e0bf49e91d0879" sha1="d2d95d71a800c7b2ede02a7f7e488512dba1c207"/>
+		<rom name="music\Stack_09.raw" size="21529" crc="a68da830" md5="a222ad325615b61e5e76e8eafbe68dfe" sha1="b4d0c1d8da8eec0b7953d54ba2b21e242a2e2315"/>
+		<rom name="music\Stack_10.raw" size="11851" crc="7c1460e9" md5="4280877e921ed63b14eb4be909c75744" sha1="dc2845146f560dcab9473b3738620754eed61b29"/>
+		<rom name="StackShift.pop" size="620941" crc="8cbd7751" md5="ca21b638aadac2b6d49a55957b705ef3" sha1="49a611462d58d4b333d4a6bdfb61b87147f4038a"/>
+	</game>
+	<game name="Starbase Defender v1.0.0 (2021-02-18)(lucentbeam)">
+		<description>Starbase Defender v1.0.0 (2021-02-18)(lucentbeam)</description>
+		<rom name="music\stardef0.raw" size="129075" crc="2abc4a1b" md5="08adc27ffcd9217f59cd896e1b249b93" sha1="0a854367fd0a17f760d2fd94812ce3e1be5d2372"/>
+		<rom name="music\stardef1.raw" size="72605" crc="a3af8a63" md5="887942b6451f08af11f92a7a71b88a71" sha1="9ad74ad52760da121c6375d5b30867f97d125bd1"/>
+		<rom name="music\stardef2.raw" size="460800" crc="5486de1c" md5="3785229525a29a236302fa455c7456cc" sha1="44c2efc17cf5c0276064bc6e7b478c00e9687b4e"/>
+		<rom name="music\stardef3.raw" size="326400" crc="560c542d" md5="4a921497136b682b1b7b2007c3321344" sha1="d763e7f10935e4b437a1384ec205425bf477f2b3"/>
+		<rom name="stardef.pop" size="271462" crc="4af2d3d9" md5="991c92c1e5fff1ac90e4c28292186f66" sha1="dc566742139ae3b640fab47fdc330c6039a21778"/>
+	</game>
+	<game name="Villainy of Cat Food Inc, The (2020-05-01)(ServalKatze)">
+		<description>Villainy of Cat Food Inc, The (2020-05-01)(ServalKatze)</description>
+		<rom name="drama_8bit.wav" size="82150" crc="77ecede0" md5="9e296086d3b8ba15ecd32e76e76ac3d8" sha1="d7de85e3afec7cfff7b29521282ccd80780a9318"/>
+		<rom name="intro_8bit.wav" size="490820" crc="c0b448da" md5="ce8fae9c5c9bb123b84c2ffad2184299" sha1="fdfd6e623bc2ea40ffbb27a30c59b49a83af847a"/>
+		<rom name="office_8bit.wav" size="817758" crc="e86e2608" md5="301eec89ddfed0e443d63a3685c62511" sha1="69823816a5af2a4436878c047fdff9507cafecc8"/>
+		<rom name="outro_8bit.wav" size="2289344" crc="8cfbdef2" md5="5a9ac2c1bf64e5c22de58521d3346cd0" sha1="1f63629a29906b79b6164aea0c416f391f5f3556"/>
+		<rom name="sneak_8bit.wav" size="123016" crc="b0adfa16" md5="e9f065241eb5d7469353bc9f9cde4fc0" sha1="dbedc69e94c6a1549d4563dfb3872c9f41d9ac79"/>
+		<rom name="storage_8bit.wav" size="736024" crc="48cd24c5" md5="5a9c4590c5f09d2711d3cac477ff14f2" sha1="ce7b954861d4eaf57642c3cd15146e8360b3c7d6"/>
+		<rom name="vocfi.bin" size="193240" crc="c6a31ede" md5="01febbcea2c22a0f6d820c96f00138d5" sha1="5559f630dc55f936e95026157c53fe9a5b3d540c"/>
+	</game>
+	<game name="Villainy of Cat Food Inc, The (2020-05-02)(ServalKatze)">
+		<description>Villainy of Cat Food Inc, The (2020-05-02)(ServalKatze)</description>
+		<rom name="vocfi.bin" size="193320" crc="c5f954d8" md5="616f819e32ab4afee3cad21f2a181a67" sha1="40909576b662a966661e48183fde265d9b5ca220"/>
+		<rom name="vocfi\drama.wav" size="82150" crc="77ecede0" md5="9e296086d3b8ba15ecd32e76e76ac3d8" sha1="d7de85e3afec7cfff7b29521282ccd80780a9318"/>
+		<rom name="vocfi\intro.wav" size="490820" crc="c0b448da" md5="ce8fae9c5c9bb123b84c2ffad2184299" sha1="fdfd6e623bc2ea40ffbb27a30c59b49a83af847a"/>
+		<rom name="vocfi\offic.wav" size="817758" crc="e86e2608" md5="301eec89ddfed0e443d63a3685c62511" sha1="69823816a5af2a4436878c047fdff9507cafecc8"/>
+		<rom name="vocfi\outro.wav" size="2289344" crc="8cfbdef2" md5="5a9ac2c1bf64e5c22de58521d3346cd0" sha1="1f63629a29906b79b6164aea0c416f391f5f3556"/>
+		<rom name="vocfi\sneak.wav" size="123016" crc="b0adfa16" md5="e9f065241eb5d7469353bc9f9cde4fc0" sha1="dbedc69e94c6a1549d4563dfb3872c9f41d9ac79"/>
+		<rom name="vocfi\stora.wav" size="736024" crc="48cd24c5" md5="5a9c4590c5f09d2711d3cac477ff14f2" sha1="ce7b954861d4eaf57642c3cd15146e8360b3c7d6"/>
+	</game>
+	<game name="Villainy of Cat Food Inc, The (2020-05-03)(ServalKatze)">
+		<description>Villainy of Cat Food Inc, The (2020-05-03)(ServalKatze)</description>
+		<rom name="music\vocfi1.raw" size="40889" crc="7f28c718" md5="527a3a990ab4ae9c141101a12493b031" sha1="e171867969578382792d62743a8dfd7952c732ab"/>
+		<rom name="music\vocfi2.raw" size="245223" crc="77391549" md5="dd28f40e7de02c293a8952ade793d147" sha1="23a7a590ae0fe52c06891d1b314919548bba9e4a"/>
+		<rom name="music\vocfi3.raw" size="408857" crc="f6ec8e13" md5="fa926f3690412f8331055363ceb94f2d" sha1="f096a5e8f7f26e46c2b186a39a25f2a346f3c091"/>
+		<rom name="music\vocfi4.raw" size="572325" crc="90d4cc87" md5="3be769e3854a1994d14c2ec9aec75955" sha1="50e12ffd0f0f6fe6bbd3121f87a906ec1a7020d0"/>
+		<rom name="music\vocfi5.raw" size="61486" crc="41953f5a" md5="6585c39f1712bb14846d9c1b9df99545" sha1="28a9196d5b32c25f880b64e9fef1dc8f70b02ad9"/>
+		<rom name="music\vocfi6.raw" size="367990" crc="822835c9" md5="8ebbfabc474caa1586b55689701d9b03" sha1="5ff215c58ebd2500718b764fb20bd57a03b3b64a"/>
+		<rom name="vocfi.pop" size="393403" crc="6975e108" md5="64c4dc939bce8ab539d0bb9c6ace4d25" sha1="03e5a9aa9d12f05f10b98f35e3dd992aaf4171a0"/>
+	</game>
+	<game name="Villainy of Cat Food Inc, The (2020-12-03)(ServalKatze)">
+		<description>Villainy of Cat Food Inc, The (2020-12-03)(ServalKatze)</description>
+		<rom name="music\vocfi1.raw" size="41053" crc="067ef5a9" md5="6d54a6674d4aba97959e15263e746555" sha1="392685479dfbbd3e42d9b0d09e1c8a4df957139b"/>
+		<rom name="music\vocfi2.raw" size="245388" crc="172e65a3" md5="75e5339676aee89ab432994535121f92" sha1="7a1117d175e864b48c6ffb3a81c090cf57409beb"/>
+		<rom name="music\vocfi3.raw" size="408857" crc="664fa985" md5="975782eae4397d64d9a2aa152245e234" sha1="a208c13a06415341cb917c4ccfcb645b0d97a651"/>
+		<rom name="music\vocfi4.raw" size="572325" crc="b6947fac" md5="19e1981d09d0fb9ae7c97bebe857092e" sha1="6e705fc93b0f5c1f29106f5b69b54e3d1d3c68f3"/>
+		<rom name="music\vocfi5.raw" size="61486" crc="18289ee4" md5="95cce685571fe785a9739c12641c42e7" sha1="18d4b4059ce93a8fb09c7745eb4a590b9bc198d9"/>
+		<rom name="music\vocfi6.raw" size="367990" crc="eb371fc8" md5="2c18cfda881c7430b61fa6a7294b26c5" sha1="57a70d4f49c5ded70359c4ad7cb639e26675ef54"/>
+		<rom name="vocfi.pop" size="399471" crc="7f9ed132" md5="789d68e353ac546269e409d6f71827ef" sha1="5a28d5f17801a4a1d78eb0e2bf24a284c7d17a09"/>
+	</game>
+</datafile>

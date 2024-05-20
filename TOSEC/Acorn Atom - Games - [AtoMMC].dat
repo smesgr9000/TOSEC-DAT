@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Atom - Games - [AtoMMC]</name>
+		<description>Acorn Atom - Games - [AtoMMC] (TOSEC-v2023-08-29)</description>
+		<category>TOSEC</category>
+		<version>2023-08-29</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Forward to the Past (2022-02-21)(Sloanysoft)(GB)">
+		<description>Forward to the Past (2022-02-21)(Sloanysoft)(GB)</description>
+		<rom name="FWCODE" size="30685" crc="6c816b76" md5="52e5a52790e344783824a42b1db27b2f" sha1="98e6f151866386a1675e42d18c1dc09fd3ef833e"/>
+		<rom name="FWRUN" size="80" crc="127ea067" md5="1088c06dda1cddc6a9000b8a74160fad" sha1="68f9367329b8cfd82ff61393b59854861e22e1b1"/>
+		<rom name="FWSCR" size="6166" crc="7f767bcc" md5="577f732475a33ad591bd936934d5fa94" sha1="86db7721fa8d0f1b5461008f6e951a52995f350d"/>
+	</game>
+	<game name="Gherbert Groundhog in Save the Date (2023-04-06)(PuttyCAD)(GB)">
+		<description>Gherbert Groundhog in Save the Date (2023-04-06)(PuttyCAD)(GB)</description>
+		<rom name="GGCODE" size="31368" crc="fe9e060d" md5="6ce9bd5e7d69347925439ae61692170a" sha1="4169998f25a9d2806894236d5c78a1f2d330d8df"/>
+		<rom name="GGRUN" size="80" crc="afd61b6d" md5="8673465dcdb394c2ca215600599816f8" sha1="cde191b59d24af94bbadc02175603cdfd436c3da"/>
+		<rom name="GGSCR" size="6166" crc="fd87965b" md5="63ada1209502a51f43e2ad91ed3ed3d0" sha1="73a4f77b4666a2730610ed4c684287c8f7d198e5"/>
+	</game>
+	<game name="Janky Joe in Retro Hell (2023-04-21)(Sloanysoft)(GB)">
+		<description>Janky Joe in Retro Hell (2023-04-21)(Sloanysoft)(GB)</description>
+		<rom name="JJCODE" size="31437" crc="4019fe3e" md5="8b4eefd23ecda61e88428539103d76b9" sha1="74ed9955f5fc99b0cc33bb572f6dc9e4a62bcbdd"/>
+		<rom name="JJDAT" size="7190" crc="75a98776" md5="d32745b4ead8c749d6a12e11658b9ae4" sha1="3f0faaacb6d97f62000e159a4c858ac349512094"/>
+		<rom name="JJRUN" size="412" crc="de29674a" md5="ab549c920511ba7b90a1e0f870c28dcd" sha1="c95a23c0d0776013df778d88ab1f0441ca6c2f7c"/>
+		<rom name="JJSCR" size="6166" crc="34244da8" md5="de6337b3bfe5f8228b7640ab9c90e6a8" sha1="a4428db9b9fcd71bce612d5a0b330bc5922dfe76"/>
+	</game>
+	<game name="Man with the Golden Joystick, The (2022-03-04)(Sloanysoft)(GB)">
+		<description>Man with the Golden Joystick, The (2022-03-04)(Sloanysoft)(GB)</description>
+		<rom name="HICODE" size="31046" crc="047d3ed3" md5="83c4612c7fae8ce5139b6bc246ed2d2d" sha1="688ce9718ac0fe5a60bd28f3345019b0ea2ca5bc"/>
+		<rom name="HIRUN" size="80" crc="a436ec65" md5="83fd4a679f246c43ce7f9a7e237ac3eb" sha1="1dbea02e875e7000ac3faadf64565516383a3d5e"/>
+		<rom name="HISCR" size="6166" crc="db83e189" md5="ad681ea52af343ee99c091286357d13b" sha1="0e187fa5c28ba092bc4fe5540146fb2174f1b638"/>
+	</game>
+</datafile>

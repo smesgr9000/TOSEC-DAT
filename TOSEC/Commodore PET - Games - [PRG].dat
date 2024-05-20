@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore PET - Games - [PRG]</name>
-		<description>Commodore PET - Games - [PRG] (TOSEC-v2022-12-24)</description>
+		<description>Commodore PET - Games - [PRG] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-12-24</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle - Tomse - DesertWolf - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -36,9 +36,9 @@
 		<description>Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott)</description>
 		<rom name="Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott).prg" size="18136" crc="77410fb3" md5="e791fd0919782dbc2a427d893c6ad92a" sha1="04f665461bc92143bc31a5a533deda1ae4fc9b1e"/>
 	</game>
-	<game name="Afo (19xx)(TPUG)(en-jp)[8k]">
-		<description>Afo (19xx)(TPUG)(en-jp)[8k]</description>
-		<rom name="Afo (19xx)(TPUG)(en-jp)[8k].prg" size="6294" crc="5d9b6170" md5="845078986b3ff7e1874149dfe3ab30cc" sha1="19bc1a22a71089debacee61d6b60331ab93861b5"/>
+	<game name="Afo (19xx)(TPUG)(en-ja)[8k]">
+		<description>Afo (19xx)(TPUG)(en-ja)[8k]</description>
+		<rom name="Afo (19xx)(TPUG)(en-ja)[8k].prg" size="6294" crc="5d9b6170" md5="845078986b3ff7e1874149dfe3ab30cc" sha1="19bc1a22a71089debacee61d6b60331ab93861b5"/>
 	</game>
 	<game name="Arrow (1980)(Butterfield, Jim)">
 		<description>Arrow (1980)(Butterfield, Jim)</description>
@@ -83,10 +83,6 @@
 	<game name="ASCII Chase (2017-06-09)(Caruso, Fabrizio)">
 		<description>ASCII Chase (2017-06-09)(Caruso, Fabrizio)</description>
 		<rom name="ASCII Chase (2017-06-09)(Caruso, Fabrizio).prg" size="17719" crc="a1c37f71" md5="c95cafd815ddc404166d98c8f32dd624" sha1="1c2a6369d64d290c2c67f6b1e361f584185f796d"/>
-	</game>
-	<game name="ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a]">
-		<description>ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a]</description>
-		<rom name="ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a].prg" size="17719" crc="a1c37f71" md5="c95cafd815ddc404166d98c8f32dd624" sha1="1c2a6369d64d290c2c67f6b1e361f584185f796d"/>
 	</game>
 	<game name="ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]">
 		<description>ASCII Chase (2017-06-09)(Caruso, Fabrizio)[a2]</description>
@@ -247,10 +243,6 @@
 	<game name="Cross Chase (2017-08-26)(Caruso, Fabrizio)">
 		<description>Cross Chase (2017-08-26)(Caruso, Fabrizio)</description>
 		<rom name="Cross Chase (2017-08-26)(Caruso, Fabrizio).prg" size="17148" crc="c9466000" md5="e439821fc8f96ba73e8057e476131b66" sha1="bd34ff792150c75bc900f022709b7998951fe142"/>
-	</game>
-	<game name="Cross Chase (2017-08-27)(Caruso, Fabrizio)">
-		<description>Cross Chase (2017-08-27)(Caruso, Fabrizio)</description>
-		<rom name="Cross Chase (2017-08-27)(Caruso, Fabrizio).prg" size="17148" crc="c9466000" md5="e439821fc8f96ba73e8057e476131b66" sha1="bd34ff792150c75bc900f022709b7998951fe142"/>
 	</game>
 	<game name="Cross Chase (2017-09-15)(Caruso, Fabrizio)">
 		<description>Cross Chase (2017-09-15)(Caruso, Fabrizio)</description>
@@ -436,6 +428,10 @@
 		<description>Schlange (19xx)(-)(DE)</description>
 		<rom name="Schlange (19xx)(-)(DE).prg" size="4179" crc="079af1e5" md5="d72e93563de6c2dd441ba2c77ebc6979" sha1="fba514cc63126f1dc12d944f5f33ad27f7be0995"/>
 	</game>
+	<game name="Shuriken (2023-07-29)(Caruso, Fabrizio)[16K]">
+		<description>Shuriken (2023-07-29)(Caruso, Fabrizio)[16K]</description>
+		<rom name="Shuriken (2023-07-29)(Caruso, Fabrizio)[16K].prg" size="11852" crc="03e3a845" md5="24200afb15a888996dff0b6b49bb6ef5" sha1="0ba378a61591d6e4da38d0d7cf9f52602b3f13ff"/>
+	</game>
 	<game name="Space Invaders (19xx)(-)">
 		<description>Space Invaders (19xx)(-)</description>
 		<rom name="Space Invaders (19xx)(-).prg" size="7169" crc="ae18b292" md5="8cb3b4d93ef36edd43da614753a0f83b" sha1="e8894f47d5a6d541b50e423bb865bc11664fd65d"/>
@@ -455,5 +451,13 @@
 	<game name="Sternenfalle (19xx)(-)(DE)">
 		<description>Sternenfalle (19xx)(-)(DE)</description>
 		<rom name="Sternenfalle (19xx)(-)(DE).prg" size="770" crc="1b58ee72" md5="f8628dcda1b5cf016de6cbf6f0faa2a0" sha1="4efdf1a1d87660ddf2f0e89f254625fd88346288"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[16K]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[16K]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[16K].prg" size="12226" crc="b294ce03" md5="7ad873c3709d0a66ead88b9c71ee9220" sha1="9c4fb3d2682e20cc7df76002fb1daeb6194f5bb6"/>
+	</game>
+	<game name="Stinger (2023-10-22)(Caruso, Fabrizio)[16K]">
+		<description>Stinger (2023-10-22)(Caruso, Fabrizio)[16K]</description>
+		<rom name="Stinger (2023-10-22)(Caruso, Fabrizio)[16K].prg" size="12307" crc="6f813782" md5="f3966b40e27c44bc1a026270262086b5" sha1="6a46451795e0cb3c22c804f2d57b3a99f9501c10"/>
 	</game>
 </datafile>

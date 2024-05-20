@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Firmware</name>
-		<description>Nintendo Game Boy - Firmware (TOSEC-v2021-07-25)</description>
+		<description>Nintendo Game Boy - Firmware (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2021-07-25</version>
+		<version>2024-01-15</version>
 		<author>Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,9 +16,13 @@
 		<description>Game Genie BIOS v2.1 (19xx)(-)(US)</description>
 		<rom name="Game Genie BIOS v2.1 (19xx)(-)(US).gb" size="8192" crc="bc491c4b" md5="49e512bb8b0dcc6a8d26d873623d0590" sha1="50e2ceb9b83f953d304d5bc6a25065bafad89490"/>
 	</game>
-	<game name="GameShark BIOS (19xx)(-)(US)">
-		<description>GameShark BIOS (19xx)(-)(US)</description>
-		<rom name="GameShark BIOS (19xx)(-)(US).gb" size="131072" crc="d6909596" md5="6ae8105f21bf0b80a6f64fabc4094c4b" sha1="09a6dae5e5faae1c4b5cf20e1b913b1c5e72297e"/>
+	<game name="GameShark BIOS (19xx)(-)(US)[b]">
+		<description>GameShark BIOS (19xx)(-)(US)[b]</description>
+		<rom name="GameShark BIOS (19xx)(-)(US)[b].gb" size="131072" crc="d6909596" md5="6ae8105f21bf0b80a6f64fabc4094c4b" sha1="09a6dae5e5faae1c4b5cf20e1b913b1c5e72297e"/>
+	</game>
+	<game name="Maxstation Boot ROM (19xx)(Gang Feng)(TW)[p]">
+		<description>Maxstation Boot ROM (19xx)(Gang Feng)(TW)[p]</description>
+		<rom name="Maxstation Boot ROM (19xx)(Gang Feng)(TW)[p].gb" size="256" crc="783e69c2" md5="77a7021db824010a678791f6d062943d" sha1="1776bd61b8db71fc4c4d4b5feab4a21b3c1fd95b"/>
 	</game>
 	<game name="Nintendo Game Boy BIOS (1989)(Nintendo)">
 		<description>Nintendo Game Boy BIOS (1989)(Nintendo)</description>
