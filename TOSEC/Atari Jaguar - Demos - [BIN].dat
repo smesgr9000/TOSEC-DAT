@@ -2,17 +2,16 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 
 <datafile>
-<header>
+	<header>
 		<name>Atari Jaguar - Demos - [BIN]</name>
-		<description>Atari Jaguar - Demos - [BIN] (TOSEC-v2022-06-08)</description>
+		<description>Atari Jaguar - Demos - [BIN] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
+		<version>2024-01-15</version>
 		<author>Cid - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-		
 	<game name="96Kb Demo (19xx)(Mr Spock)(PD)[$4000]">
 		<description>96Kb Demo (19xx)(Mr Spock)(PD)[$4000]</description>
 		<rom name="96Kb Demo (19xx)(Mr Spock)(PD)[$4000].bin" size="88288" crc="323aa72d" md5="a9e5929779d2bdd737ebc2428e078b57" sha1="dbb54254d9b66fa69be717b9b6a6665aaa7af71e"/>
@@ -41,9 +40,17 @@
 		<description>Blitter 2 (199x)(-)(PD)[a]</description>
 		<rom name="Blitter 2 (199x)(-)(PD)[a].bin" size="4928" crc="54e5f9d0" md5="4b1a4917f1c354d42ca12f7a0d1432b1" sha1="05742ebd34a34804db2832866f3d814bf7cba331"/>
 	</game>
-	<game name="Clicks 4 (199x)(Matthias Domin)(PD)[BIN]">
-		<description>Clicks 4 (199x)(Matthias Domin)(PD)[BIN]</description>
-		<rom name="Clicks 4 (199x)(Matthias Domin)(PD)[BIN].bin" size="106212" crc="30bd7c4c" md5="4f40da5046342952fde0f7e34e673f74" sha1="e4eb1a565eb5af8a29211323050a4849e6286f2b"/>
+	<game name="Clicks 4 (199x)(Domin, Matthias)(PD)[BIN]">
+		<description>Clicks 4 (199x)(Domin, Matthias)(PD)[BIN]</description>
+		<rom name="Clicks 4 (199x)(Domin, Matthias)(PD)[BIN].bin" size="106212" crc="30bd7c4c" md5="4f40da5046342952fde0f7e34e673f74" sha1="e4eb1a565eb5af8a29211323050a4849e6286f2b"/>
+	</game>
+	<game name="cornellBoxJAG (2023-08)(atariBDSM)[final version]">
+		<description>cornellBoxJAG (2023-08)(atariBDSM)[final version]</description>
+		<rom name="cornellBoxJAG (2023-08)(atariBDSM)[final version].bin" size="256" crc="2b1006dc" md5="6445fbe96a502d687684de3efe371811" sha1="c2e73c3d1a0616f159acf06091aaccee91ae1f66"/>
+	</game>
+	<game name="cornellBoxJAG (2023-08)(atariBDSM)[party version]">
+		<description>cornellBoxJAG (2023-08)(atariBDSM)[party version]</description>
+		<rom name="cornellBoxJAG (2023-08)(atariBDSM)[party version].bin" size="256" crc="d000dee2" md5="40c23c9c8ae3879bd16c4d6c6eae36d9" sha1="a25ed987963b6e623ba933c8dafc1531a7fab334"/>
 	</game>
 	<game name="Demo 1 (199x)(Mr.Well's)(PD)">
 		<description>Demo 1 (199x)(Mr.Well's)(PD)</description>
@@ -81,12 +88,16 @@
 		<description>Mandelbrot Demo (19xx)(-)(PD)</description>
 		<rom name="Mandelbrot Demo (19xx)(-)(PD).bin" size="15286" crc="39181742" md5="b818ee3a25e8a8778f259daecc1d82d2" sha1="25d28a524ff7dbde258f795bd820998801bf3cc4"/>
 	</game>
-	<game name="PAULA Preview Demo (19xx)(Robert Jurziga)(PD)">
-		<description>PAULA Preview Demo (19xx)(Robert Jurziga)(PD)</description>
-		<rom name="PAULA Preview Demo (19xx)(Robert Jurziga)(PD).bin" size="419296" crc="da061a4e" md5="36f44db5594385424f2ff3922f5fbdea" sha1="77c5b429882da81ba2e502577d8ed5c18fde143b"/>
+	<game name="PAULA Preview Demo (19xx)(Jurziga, Robert)(PD)">
+		<description>PAULA Preview Demo (19xx)(Jurziga, Robert)(PD)</description>
+		<rom name="PAULA Preview Demo (19xx)(Jurziga, Robert)(PD).bin" size="419296" crc="da061a4e" md5="36f44db5594385424f2ff3922f5fbdea" sha1="77c5b429882da81ba2e502577d8ed5c18fde143b"/>
 	</game>
-	<game name="PAULA Preview Demo 2 (19xx)(Robert Jurziga)(PD)">
-		<description>PAULA Preview Demo 2 (19xx)(Robert Jurziga)(PD)</description>
-		<rom name="PAULA Preview Demo 2 (19xx)(Robert Jurziga)(PD).bin" size="419776" crc="3cf18719" md5="a8bb71206a9491f5d168a43b557b587c" sha1="db686ee2db1308456c7b49dc81bf858632aec7a2"/>
+	<game name="PAULA Preview Demo 2 (19xx)(Jurziga, Robert)(PD)">
+		<description>PAULA Preview Demo 2 (19xx)(Jurziga, Robert)(PD)</description>
+		<rom name="PAULA Preview Demo 2 (19xx)(Jurziga, Robert)(PD).bin" size="419776" crc="3cf18719" md5="a8bb71206a9491f5d168a43b557b587c" sha1="db686ee2db1308456c7b49dc81bf858632aec7a2"/>
+	</game>
+	<game name="Retro Gaming Connexion 2006 Demo (2006)(Orion_)">
+		<description>Retro Gaming Connexion 2006 Demo (2006)(Orion_)</description>
+		<rom name="Retro Gaming Connexion 2006 Demo (2006)(Orion_).bin" size="348032" crc="6208c06e" md5="8102ec0aa734f1664e4925e5acddab4f" sha1="00fa0a5d17dd45efbceb5a8a76ce671081e70252"/>
 	</game>
 </datafile>

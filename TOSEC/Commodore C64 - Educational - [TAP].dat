@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Educational - [TAP]</name>
-		<description>Commodore C64 - Educational - [TAP] (TOSEC-v2023-06-14)</description>
+		<description>Commodore C64 - Educational - [TAP] (TOSEC-v2024-03-17)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-03-17</version>
 		<author>Duncan Twain - DesertWolf - Apache</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -23,6 +23,10 @@
 	<game name="BBC Mastermind (1983)(Ivan Berg Software)">
 		<description>BBC Mastermind (1983)(Ivan Berg Software)</description>
 		<rom name="BBC Mastermind (1983)(Ivan Berg Software).tap" size="566982" crc="2c4d0079" md5="bdef1dd28289afd27b16c5faff8e7f99" sha1="b450489e79c33b074424a58255ce2ee52d534c34"/>
+	</game>
+	<game name="Belegerd (1985)(Defcom)(nl)">
+		<description>Belegerd (1985)(Defcom)(nl)</description>
+		<rom name="Belegerd (1985)(Defcom)(nl).tap" size="501087" crc="ad7c5da4" md5="e8145ab851ee163cff25bc175a04323d" sha1="801ccbf4acb17e2b5c12b4395b6784a357d98ff3"/>
 	</game>
 	<game name="Bilder Puzzle (1984)(Europa Computer-Club)(de)">
 		<description>Bilder Puzzle (1984)(Europa Computer-Club)(de)</description>
@@ -56,6 +60,10 @@
 		<description>Blue Angel 69 (1989)(Magic Bytes)[a2]</description>
 		<rom name="Blue Angel 69 (1989)(Magic Bytes)[a2].tap" size="821037" crc="13de1e7d" md5="29201f60ca9ba623a5e520e3fef01cd0" sha1="1e264b4c59122ad067dcb2833baf372e702e237b"/>
 	</game>
+	<game name="BMX Rekencross (1985)(Longman - Malmberg)(nl)">
+		<description>BMX Rekencross (1985)(Longman - Malmberg)(nl)</description>
+		<rom name="BMX Rekencross (1985)(Longman - Malmberg)(nl).tap" size="338598" crc="ff480a8c" md5="a58094c5200d9629d0bd98f9eaf3eaaf" sha1="daa2ab0c4e419602f2f344e6a49f00fef1f3d90e"/>
+	</game>
 	<game name="Boggles - The Mind Boggler (1984)(Cascade)">
 		<description>Boggles - The Mind Boggler (1984)(Cascade)</description>
 		<rom name="Boggles - The Mind Boggler (1984)(Cascade).tap" size="317862" crc="98fb62ee" md5="5e14d9a0a4903844c03b64e72de62c6a" sha1="351c127d12df5a445649e64c21d8bae15602a451"/>
@@ -83,6 +91,94 @@
 	<game name="Clever Clogs - Whizz Quiz (1983)(Argus Press Software)">
 		<description>Clever Clogs - Whizz Quiz (1983)(Argus Press Software)</description>
 		<rom name="Clever Clogs - Whizz Quiz (1983)(Argus Press Software).tap" size="1521952" crc="f068d7a2" md5="910f65d4714c340a452b2d50b8b14830" sha1="9978cfd3e9acff53ed71818408f0d92f0b653274"/>
+	</game>
+	<game name="Computer Insegna - Algebra 1 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Algebra 1 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Algebra 1 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="700063" crc="54341bbb" md5="c573e056e34b73abdc9490b3e59a087c" sha1="ea8c7ece95973418c5a7db2d627e37cd49bc41d3"/>
+	</game>
+	<game name="Computer Insegna - Algebra 1 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Algebra 1 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Algebra 1 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="900506" crc="0b8d0906" md5="f6edc5b9e82463a4244f42a0ab96187e" sha1="266c531492725bff77d74b40aa1a2bca3f28fe55"/>
+	</game>
+	<game name="Computer Insegna - Algebra 1 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Algebra 1 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Algebra 1 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="779586" crc="a6bd1ed0" md5="d4366b6c38820ee5359ea6f74620e83b" sha1="e6ac0bb43194b87d31247ee6dbfa2c107021531c"/>
+	</game>
+	<game name="Computer Insegna - Algebra 1 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Algebra 1 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Algebra 1 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="779348" crc="5361dd2a" md5="a64b1f42d2389efe5be1314e6fbcdef4" sha1="fef654e00f24244c3243ddaf53965e9be301edcc"/>
+	</game>
+	<game name="Computer Insegna - Algebra 2 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Algebra 2 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Algebra 2 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="530820" crc="cadd2e37" md5="ea839b65d58047e578f39fc5e0639d69" sha1="d5ed959fedafd8fb112a27b36e8de7fcdf2ce660"/>
+	</game>
+	<game name="Computer Insegna - Algebra 2 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Algebra 2 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Algebra 2 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="530866" crc="da3ab899" md5="8c622e8f6ff0554057387161be955276" sha1="3b4dd8535b6e27b47a0ffc4638830289b50226b4"/>
+	</game>
+	<game name="Computer Insegna - Algebra 2 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Algebra 2 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Algebra 2 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="555063" crc="829b6f3c" md5="b9fc8ec91d05434946afab31ae05b4e6" sha1="39d0f444233e1f24da5b60f52a25370c24c0a501"/>
+	</game>
+	<game name="Computer Insegna - Algebra 2 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Algebra 2 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Algebra 2 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="554946" crc="255944c9" md5="6bb088f64418c7dda05215ff0fbef399" sha1="d3f77be81c7dad9d1da11473a12c9a01a3295a1d"/>
+	</game>
+	<game name="Computer Insegna - Algebra 3 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Algebra 3 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Algebra 3 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="860791" crc="7c0ee250" md5="318aae4e9966a9d4dbf49f19a3f631ab" sha1="f4d9147ee47767af99101339184999044691e686"/>
+	</game>
+	<game name="Computer Insegna - Algebra 3 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Algebra 3 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Algebra 3 - Primo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="854430" crc="96baebdc" md5="90323e2c82030edc90f156a3370efd8c" sha1="58af9143fe812db7016c7d77f4690a9f180344de"/>
+	</game>
+	<game name="Computer Insegna - Algebra 3 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Algebra 3 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Algebra 3 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="908987" crc="eaf822c1" md5="09af4102388b933b12b9f382168c3846" sha1="29e81409773635f38bd5fbdd491b47aedfeef6fd"/>
+	</game>
+	<game name="Computer Insegna - Algebra 3 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Algebra 3 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Algebra 3 - Secondo Volume (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="908083" crc="ba886260" md5="f9c7dd039f10ae2a946bf6fb3d492679" sha1="221f466841e9345d8cca6798298fb459f00543db"/>
+	</game>
+	<game name="Computer Insegna - Il Tema - Word Processing (1984)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Il Tema - Word Processing (1984)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Il Tema - Word Processing (1984)(Arti Grafiche Ricordi)(it)(Side A).tap" size="3104088" crc="3d74ccd7" md5="424b0c6b3a3fa3cb862c39550b91d37d" sha1="6272d62105c36a723c99babc279e24c204a39844"/>
+	</game>
+	<game name="Computer Insegna - Il Tema - Word Processing (1984)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Il Tema - Word Processing (1984)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Il Tema - Word Processing (1984)(Arti Grafiche Ricordi)(it)(Side B).tap" size="217702" crc="74a175d6" md5="73c79298460e34ab6dfb9b8f15578f3c" sha1="a19d4b2363296a3f72867fc77efc642c9867b5e6"/>
+	</game>
+	<game name="Computer Insegna - L&apos;Odissea (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - L&apos;Odissea (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - L&apos;Odissea (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="2341048" crc="7a0b172d" md5="0ba5de68a73175d1e1989e300d6412c3" sha1="c337e963c62279b7e63809b777d83c071efed1c3"/>
+	</game>
+	<game name="Computer Insegna - L&apos;Odissea (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - L&apos;Odissea (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - L&apos;Odissea (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="978434" crc="33f11a8f" md5="4cac40fb4045e98b0cd9ceca903ab7fd" sha1="06918f6a058a509af3090695ab622845c41445cc"/>
+	</game>
+	<game name="Computer Insegna - Matematica 1 (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Matematica 1 (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Matematica 1 (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="3514478" crc="5f923353" md5="a8b360c51860f72683c9f7ab16c2ead3" sha1="8d366db550004bc6070c02d911ac6cf83a7099c7"/>
+	</game>
+	<game name="Computer Insegna - Matematica 1 (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Matematica 1 (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Matematica 1 (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="2647800" crc="85243f00" md5="665ff9de5084493750fa8cff071bca24" sha1="8064f37376ed78d35dc04f93a6413e22c4787af3"/>
+	</game>
+	<game name="Computer Insegna - Matematica 2 (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Matematica 2 (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Matematica 2 (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="2508153" crc="b5355837" md5="a9f3571a09bbe6ed73113fd26c5ea36a" sha1="1cb9201a10529770e234146764ad23e835f6fea0"/>
+	</game>
+	<game name="Computer Insegna - Matematica 2 (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Matematica 2 (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Matematica 2 (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="2370339" crc="f2d9c9a3" md5="f822b91e0eb63b8b75510ae14fd786b2" sha1="022ab2ff1332cd5e46f51e8d50f7f1fb157f4e1e"/>
+	</game>
+	<game name="Computer Insegna - Matematica 3 (1985)(Arti Grafiche Ricordi)(it)(Side A)">
+		<description>Computer Insegna - Matematica 3 (1985)(Arti Grafiche Ricordi)(it)(Side A)</description>
+		<rom name="Computer Insegna - Matematica 3 (1985)(Arti Grafiche Ricordi)(it)(Side A).tap" size="1953150" crc="adbabd3d" md5="c9f2faf894b4981720facfb10dcf5b7b" sha1="61fcba4b2ac570cb556521d83d8b00d3806c4bcf"/>
+	</game>
+	<game name="Computer Insegna - Matematica 3 (1985)(Arti Grafiche Ricordi)(it)(Side B)">
+		<description>Computer Insegna - Matematica 3 (1985)(Arti Grafiche Ricordi)(it)(Side B)</description>
+		<rom name="Computer Insegna - Matematica 3 (1985)(Arti Grafiche Ricordi)(it)(Side B).tap" size="2419912" crc="4be58ae9" md5="c652066ed798fc54f4816179292293ab" sha1="6c2e533f30920a38f6a168330e09a23fc4041d09"/>
 	</game>
 	<game name="Connect 4 (1984)(Atlantis)">
 		<description>Connect 4 (1984)(Atlantis)</description>
@@ -136,13 +232,17 @@
 		<description>Every Second Counts (1988)(Domark - TV Games)[a]</description>
 		<rom name="Every Second Counts (1988)(Domark - TV Games)[a].tap" size="901121" crc="727f5608" md5="760d1532e748204072792bb1b1de6b1a" sha1="0d667e69dedabba939960ded7893285a12fe9056"/>
 	</game>
-	<game name="Exchange (1984)(Cascade)">
-		<description>Exchange (1984)(Cascade)</description>
-		<rom name="Exchange (1984)(Cascade).tap" size="188822" crc="a509926b" md5="8bd710b807f027f340dc4e9612cb1585" sha1="9e9224031ca8818ce6f199ac9753ac3c874da6da"/>
+	<game name="Exchange (1984)(Cascade Games)">
+		<description>Exchange (1984)(Cascade Games)</description>
+		<rom name="Exchange (1984)(Cascade Games).tap" size="188822" crc="a509926b" md5="8bd710b807f027f340dc4e9612cb1585" sha1="9e9224031ca8818ce6f199ac9753ac3c874da6da"/>
 	</game>
 	<game name="Eye (1988)(Endurance)">
 		<description>Eye (1988)(Endurance)</description>
 		<rom name="Eye (1988)(Endurance).tap" size="704828" crc="9f45fdc1" md5="e392462a935a6fde77d414afb91a2488" sha1="47aa32df947a7c94121751002159d814c4b8c896"/>
+	</game>
+	<game name="French is Fun (1984)(CDS Software)">
+		<description>French is Fun (1984)(CDS Software)</description>
+		<rom name="French is Fun (1984)(CDS Software).tap" size="1038066" crc="4c6e125c" md5="b25075e0def26a9d060a8d0a3f26223f" sha1="dd83df6540e90122a8bb66ec33ea298f531ba9ae"/>
 	</game>
 	<game name="Fun School 2 - 6 to 8s (198x)(DES)(Side A)">
 		<description>Fun School 2 - 6 to 8s (198x)(DES)(Side A)</description>
@@ -304,9 +404,9 @@
 		<description>Get Ready to Read with BJ Bear (1984)(Commodore Business Machines)(Tape 4 of 4)[Level 4]</description>
 		<rom name="Get Ready to Read with BJ Bear (1984)(Commodore Business Machines)(Tape 4 of 4)[Level 4].tap" size="1165314" crc="411da83e" md5="09b6c0af572a06ff70eb26bab366435e" sha1="ba7f2c3b5e7e77064a208ca89f78284ec35f6787"/>
 	</game>
-	<game name="Hangman (1984)(Cascade)">
-		<description>Hangman (1984)(Cascade)</description>
-		<rom name="Hangman (1984)(Cascade).tap" size="218902" crc="8ed9ac55" md5="16a6c2e180371e08406c1cfdff1d75f5" sha1="caf1bea255271b276e39530e39430d44bb62cc1a"/>
+	<game name="Hangman (1984)(Cascade Games)">
+		<description>Hangman (1984)(Cascade Games)</description>
+		<rom name="Hangman (1984)(Cascade Games).tap" size="218902" crc="8ed9ac55" md5="16a6c2e180371e08406c1cfdff1d75f5" sha1="caf1bea255271b276e39530e39430d44bb62cc1a"/>
 	</game>
 	<game name="Humpty Dumpty Mystery (1984)(Commodore)">
 		<description>Humpty Dumpty Mystery (1984)(Commodore)</description>
@@ -524,6 +624,82 @@
 		<description>Paste-Man Pat (1988)(Silverbird)[a]</description>
 		<rom name="Paste-Man Pat (1988)(Silverbird)[a].tap" size="2025148" crc="30a52174" md5="3f57a4053c332c3e726617b33aa22501" sha1="2e4a0ae728a6c89cd49ab864661f5b6b716b534c"/>
 	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 1 of 10 Side A)(Inleiding Kennismaking)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 1 of 10 Side A)(Inleiding Kennismaking)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 1 of 10 Side A)(Inleiding Kennismaking).tap" size="281995" crc="27365274" md5="a61fcc73f700560ab06fc0837f01d539" sha1="1db32e7e8153f52fd07c1f9ca8a47972b709e753"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 1 of 10 Side B)(Inleiding Kennismaking)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 1 of 10 Side B)(Inleiding Kennismaking)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 1 of 10 Side B)(Inleiding Kennismaking).tap" size="281996" crc="fee4bf2e" md5="3f8c5f279053a9b27d7b89dc7e65e814" sha1="3dcbd982f91035500d5c792c2626b0def616976a"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 10 of 10 Side A)(De toekomst)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 10 of 10 Side A)(De toekomst)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 10 of 10 Side A)(De toekomst).tap" size="1117279" crc="bec3a5b2" md5="ed05fb12f3cfa7c90dfd169dbfd32200" sha1="98728f843056c7b4988869761920c57203aad699"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 10 of 10 Side B)(De toekomst)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 10 of 10 Side B)(De toekomst)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 10 of 10 Side B)(De toekomst).tap" size="1117280" crc="6334d307" md5="132dc67b29dfb81d12fe258466b1af1a" sha1="1ed932c2104c963d796c5502fbf12ce39054c328"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 2 of 10 Side A)(Werken Met Bestanden #1)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 2 of 10 Side A)(Werken Met Bestanden #1)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 2 of 10 Side A)(Werken Met Bestanden #1).tap" size="672266" crc="97bc6a0e" md5="399a6992f081286bacc3b3980fee3e28" sha1="6aa3aec645dff5524bd70134d5bb94893400e402"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 2 of 10 Side B)(Werken Met Bestanden #1)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 2 of 10 Side B)(Werken Met Bestanden #1)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 2 of 10 Side B)(Werken Met Bestanden #1).tap" size="672265" crc="afa4c294" md5="c8364efec4c3a0b6080e0257ae659eaf" sha1="7c8e436d17ddab68db90c2b32385dff304d692a9"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 3 of 10 Side A)(Werken Met Bestanden #2)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 3 of 10 Side A)(Werken Met Bestanden #2)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 3 of 10 Side A)(Werken Met Bestanden #2).tap" size="299828" crc="b5196a06" md5="1f75d95b8faf81ae8642c487b07b03b3" sha1="2d488f5065e2c659d2439a480baf5d2a34680727"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 4 of 10 Side A)(Tekstverwerking #1)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 4 of 10 Side A)(Tekstverwerking #1)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 4 of 10 Side A)(Tekstverwerking #1).tap" size="347158" crc="04d84ead" md5="d6c6ca3939b915e40156f76157e05106" sha1="bbbb022e5af3704e67217121f767d7760e11e3f3"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 4 of 10 Side B)(Tekstverwerking #1)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 4 of 10 Side B)(Tekstverwerking #1)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 4 of 10 Side B)(Tekstverwerking #1).tap" size="347157" crc="f8c11faa" md5="141fcc64dd7aed3a057ac14b059c0c5f" sha1="ba396136137a4f8fa3b4c20af118d7a5b313d9ac"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 5 of 10 Side A)(Tekstverwerking #2)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 5 of 10 Side A)(Tekstverwerking #2)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 5 of 10 Side A)(Tekstverwerking #2).tap" size="350573" crc="a5b1695a" md5="61113d67cee80eae58dcb4be7089e804" sha1="f31ff82d201179cb600f80bad8696f62a2fc7959"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 5 of 10 Side B)(Tekstverwerking #2)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 5 of 10 Side B)(Tekstverwerking #2)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 5 of 10 Side B)(Tekstverwerking #2).tap" size="350573" crc="c41fa673" md5="c77a1f233cf8e44c97943d1957156bb7" sha1="00d895ab836370d5011a71c58974a80945ad08e0"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 6 of 10 Side A)(Administratieve-Financiële Toepassingen)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 6 of 10 Side A)(Administratieve-Financiële Toepassingen)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 6 of 10 Side A)(Administratieve-Financiële Toepassingen).tap" size="426341" crc="690f34fb" md5="d4fdaef3cb10fc7c7e9de8f5d62601bb" sha1="d1a8da4945c31719d872777e87c1d5af393fc3f7"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 6 of 10 Side B)(Administratieve-Financiële Toepassingen)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 6 of 10 Side B)(Administratieve-Financiële Toepassingen)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 6 of 10 Side B)(Administratieve-Financiële Toepassingen).tap" size="426326" crc="7dc25ac2" md5="fe27c83c5c7c00dc5189ffd63c65075b" sha1="64481541aa93b91f21535b9d4f3c5f2907309849"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 7 of 10 Side A)(Spreadsheet #1)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 7 of 10 Side A)(Spreadsheet #1)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 7 of 10 Side A)(Spreadsheet #1).tap" size="384529" crc="e14694b5" md5="c8707fd16ee1697d03210490992e07f3" sha1="c7971c7df4cbf2f3d35adccae53977a6476fc7c4"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 7 of 10 Side B)(Spreadsheet #1)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 7 of 10 Side B)(Spreadsheet #1)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 7 of 10 Side B)(Spreadsheet #1).tap" size="384529" crc="f7a2649e" md5="08e7af83cb189b2887f15cff08c0c34d" sha1="a714ea4c0abd992d21150c1fd376d38723b65b57"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 8 of 10 Side A)(Spreadsheet #2)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 8 of 10 Side A)(Spreadsheet #2)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 8 of 10 Side A)(Spreadsheet #2).tap" size="686850" crc="5ebaa080" md5="b0c7c28213d6f57e0bc46de76ec03dfb" sha1="ee1f59994d283cedc2fb24100e4b1578a4c9e68d"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 8 of 10 Side B)(Spreadsheet #2)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 8 of 10 Side B)(Spreadsheet #2)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 8 of 10 Side B)(Spreadsheet #2).tap" size="686848" crc="6d52b559" md5="7bd932568d3eab8a8075af0c63c95a73" sha1="1e9730e29c41b4209d35a2581cac63ce7f8a0ac5"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 9 of 10 Side A)(De Beginselen Van Basic)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 9 of 10 Side A)(De Beginselen Van Basic)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 9 of 10 Side A)(De Beginselen Van Basic).tap" size="458746" crc="b4bf72a3" md5="470028182ff6fafc0a4307b03faaa59a" sha1="19679acecfd85808384f086f97b9af6c78abfaaa"/>
+	</game>
+	<game name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 9 of 10 Side B)(De Beginselen Van Basic)">
+		<description>Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 9 of 10 Side B)(De Beginselen Van Basic)</description>
+		<rom name="Personal Computer Pakket (1985)(Intermediair)(NL)(Tape 9 of 10 Side B)(De Beginselen Van Basic).tap" size="458746" crc="158078e8" md5="8535aa5d117d58a1ae61e5c7920380ca" sha1="39ae7e65994a9f41475d6c32359f334aaeb80fa3"/>
+	</game>
 	<game name="Physics - O-Level Revision and CSE (1984)(Longman Group - Longman Software)(Disk 1 of 3 Side A)">
 		<description>Physics - O-Level Revision and CSE (1984)(Longman Group - Longman Software)(Disk 1 of 3 Side A)</description>
 		<rom name="Physics - O-Level Revision and CSE (1984)(Longman Group - Longman Software)(Disk 1 of 3 Side A).tap" size="1066947" crc="50d9f9ce" md5="0501d2288ab80cd18dc1d05775794b65" sha1="ee1526c2b761f7b59552cddefb6c5dd941e37c29"/>
@@ -628,13 +804,13 @@
 		<description>Pub Trivia (1989)(Codemasters)[u][a]</description>
 		<rom name="Pub Trivia (1989)(Codemasters)[u][a].tap" size="65536" crc="ae14a4ee" md5="757e9da416c2b6ccbd693e0cfade82e0" sha1="f907d5a3db21029d0761dfe0cf828b6e421ba997"/>
 	</game>
-	<game name="Puzznic (1990)(Ocean Software Ltd)">
-		<description>Puzznic (1990)(Ocean Software Ltd)</description>
-		<rom name="Puzznic (1990)(Ocean Software Ltd).tap" size="726358" crc="24ea9b8b" md5="edec9940f94bfee2b8fea22d9a624d80" sha1="10a6ac797212b5d42e50f33e1c0dd13a3c87b0a4"/>
-	</game>
 	<game name="Puzznic (1990)(Ocean)">
 		<description>Puzznic (1990)(Ocean)</description>
 		<rom name="Puzznic (1990)(Ocean).tap" size="726374" crc="5d9e0ae5" md5="b7ecb127267d252ccc71a0e1d27df688" sha1="11231272e1c36821320c38a5490377e21986acf8"/>
+	</game>
+	<game name="Puzznic (1990)(Ocean)[a]">
+		<description>Puzznic (1990)(Ocean)[a]</description>
+		<rom name="Puzznic (1990)(Ocean)[a].tap" size="726358" crc="24ea9b8b" md5="edec9940f94bfee2b8fea22d9a624d80" sha1="10a6ac797212b5d42e50f33e1c0dd13a3c87b0a4"/>
 	</game>
 	<game name="Question of Sport, A (1988)(Elite)">
 		<description>Question of Sport, A (1988)(Elite)</description>
@@ -664,17 +840,21 @@
 		<description>Real You, The (1985)(Collins Software)(Side B)</description>
 		<rom name="Real You, The (1985)(Collins Software)(Side B).tap" size="1041869" crc="a651e618" md5="9beede732bda386cc395f4e77329f3a3" sha1="80435ad8eb7034b8fd2beec1390bc48293ea002b"/>
 	</game>
-	<game name="Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)">
-		<description>Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)</description>
-		<rom name="Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software).tap" size="336942" crc="b394f809" md5="5a0bfdab618e3b32893cbd1916ba7ee6" sha1="3a20cd6a7b711e212e2cdcd04c068537ff4687f6"/>
+	<game name="Romper Room&apos;s I Love My Alphabet (1984)(First Star)">
+		<description>Romper Room&apos;s I Love My Alphabet (1984)(First Star)</description>
+		<rom name="Romper Room&apos;s I Love My Alphabet (1984)(First Star).tap" size="336942" crc="b394f809" md5="5a0bfdab618e3b32893cbd1916ba7ee6" sha1="3a20cd6a7b711e212e2cdcd04c068537ff4687f6"/>
 	</game>
-	<game name="Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)[a]">
-		<description>Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)[a]</description>
-		<rom name="Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)[a].tap" size="336941" crc="1f910358" md5="3dbeb41b9484edacc054084d9afd9fd0" sha1="1f55d3f37b58c5ef71161653b4f1c6edcea8abea"/>
+	<game name="Romper Room&apos;s I Love My Alphabet (1984)(First Star)[a]">
+		<description>Romper Room&apos;s I Love My Alphabet (1984)(First Star)[a]</description>
+		<rom name="Romper Room&apos;s I Love My Alphabet (1984)(First Star)[a].tap" size="336941" crc="1f910358" md5="3dbeb41b9484edacc054084d9afd9fd0" sha1="1f55d3f37b58c5ef71161653b4f1c6edcea8abea"/>
 	</game>
-	<game name="Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)[a2]">
-		<description>Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)[a2]</description>
-		<rom name="Romper Room&apos;s I Love My Alphabet (1984)(Beyond Software)[a2].tap" size="330805" crc="1524cf67" md5="01b5e7df5549d6a6f760513ca27dae7b" sha1="2c660f0293389f7f32258fd5c1b112fc10ab7c48"/>
+	<game name="Romper Room&apos;s I Love My Alphabet (1984)(First Star)[a2]">
+		<description>Romper Room&apos;s I Love My Alphabet (1984)(First Star)[a2]</description>
+		<rom name="Romper Room&apos;s I Love My Alphabet (1984)(First Star)[a2].tap" size="330805" crc="1524cf67" md5="01b5e7df5549d6a6f760513ca27dae7b" sha1="2c660f0293389f7f32258fd5c1b112fc10ab7c48"/>
+	</game>
+	<game name="Ruimterekenen (1984)(Longman - Malmberg)(nl)">
+		<description>Ruimterekenen (1984)(Longman - Malmberg)(nl)</description>
+		<rom name="Ruimterekenen (1984)(Longman - Malmberg)(nl).tap" size="294766" crc="c85b8b93" md5="210d504411726c1c203facf7422d48e1" sha1="e6ca4defa87e480d681ccb903cf702c8c050155d"/>
 	</game>
 	<game name="Saint &amp; Greavsie (1989)(Grandslam Entertainment)(Side A)">
 		<description>Saint &amp; Greavsie (1989)(Grandslam Entertainment)(Side A)</description>

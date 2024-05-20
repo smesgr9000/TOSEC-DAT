@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [Z64]</name>
-		<description>Commodore C64 - Games - Racing - [Z64] (TOSEC-v2022-12-25)</description>
+		<description>Commodore C64 - Games - Racing - [Z64] (TOSEC-v2024-03-05)</description>
 		<category>TOSEC</category>
-		<version>2022-12-25</version>
+		<version>2024-03-05</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -19,33 +19,47 @@
 		<rom name="3!4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC][h MSI].z64" size="33880" crc="089f3c81" md5="406452526d5f606019f802ef7e70df33" sha1="6747df9c4293355c4486816d0ee3f0d1b22d781e"/>
 		<rom name="4!4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC][h MSI].z64" size="5079" crc="a59d1a9b" md5="679d5914cb3725f146c9f24ecaa65fb3" sha1="3a228d6406a49d04b1bb2587a67c29ef7557c21a"/>
 	</game>
-	<game name="Bburago Rally (1995)(576 kByte)[cr CHR][t +2 CHR]">
-		<description>Bburago Rally (1995)(576 kByte)[cr CHR][t +2 CHR]</description>
-		<rom name="1!Bburago Rally (1995)(576 kByte)[cr CHR][t +2 CHR].z64" size="43169" crc="6bcdf250" md5="c08ea1bec4bb00c23adbe83532fd8d9f" sha1="0b06068b1b5d1b31d03d14daa32ef1337f565d36"/>
-		<rom name="2!Bburago Rally (1995)(576 kByte)[cr CHR][t +2 CHR].z64" size="43347" crc="64a47a2a" md5="d171311571996085376dde048e4f2fad" sha1="02ba8c3dfeefbd12115e997fb74e526075f3b500"/>
-		<rom name="3!Bburago Rally (1995)(576 kByte)[cr CHR][t +2 CHR].z64" size="40976" crc="c5f85f34" md5="63fac782edd577854e5321928046c835" sha1="867d7015a46e07ace128609341acaa515be4e26a"/>
-		<rom name="4!Bburago Rally (1995)(576 kByte)[cr CHR][t +2 CHR].z64" size="45053" crc="8953f57d" md5="96fdae7942c9795a68850b46e0586f66" sha1="9caa0cfe2f9e4a7d9405e891ae7355aaee7ee4b4"/>
+	<game name="4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC+Ikari]">
+		<description>4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC+Ikari]</description>
+		<rom name="1!4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC+Ikari].z64" size="31969" crc="0c5419d8" md5="257a075d5fb5fd89e54ab3d9a454b3e5" sha1="c9d668976d40ec73c6be9830842b4b2849909d70"/>
+		<rom name="2!4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC+Ikari].z64" size="37183" crc="f2e6d579" md5="ee6ff6ca5352699abf692394a3f3ce66" sha1="e3efc85292cbb00b0650afc3ed355c0274861df8"/>
+		<rom name="3!4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC+Ikari].z64" size="31681" crc="a059750b" md5="2f5f63fd0e75a83916332a7eeb13cb67" sha1="147fe7a468cd86cdadf3b1555b87f36af7a54190"/>
+		<rom name="4!4x4 Off-Road Racing (1988)(Epyx)(Side A)[cr INC+Ikari].z64" size="35587" crc="51435ed9" md5="a5f8857bb078f07e43551fc0cab8d07e" sha1="fc647d11196d11937ff54bf58dd0eb02b85bd8b2"/>
 	</game>
-	<game name="Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS]">
-		<description>Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS]</description>
-		<rom name="1!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS].z64" size="43193" crc="e3a72334" md5="56de250b39825aa04d318a6990950cef" sha1="8dc917ff8a4ca8b1e1ba1b79d1db75b0b8a58c04"/>
-		<rom name="2!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS].z64" size="43121" crc="09bf1cea" md5="f31930942e2247269e6d95dbff1e2d06" sha1="f295cac4682b37cca93879a14ddfe5fcb6e9ce6a"/>
-		<rom name="3!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS].z64" size="40418" crc="953ee44d" md5="b9e8e1f3422a6cf09bb6582b3ada9b91" sha1="e82d6ed6f32e8cf8e3fab77feb0962642046eee3"/>
-		<rom name="4!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS].z64" size="38588" crc="ff928762" md5="c0fc22c1e2c8058487a135d9066349ae" sha1="a5c4b2effbf7d2bf64e56703fe1f0772c70576fe"/>
+	<game name="4x4 Off-Road Racing (1988)(Epyx)(Side B)">
+		<description>4x4 Off-Road Racing (1988)(Epyx)(Side B)</description>
+		<rom name="1!4x4 Off-Road Racing (1988)(Epyx)(Side B)[cr INC+Ikari][a4].z64" size="30224" crc="cc1211ec" md5="29ae56a5d3455ffb95fdfc9bffad6f0f" sha1="22fe52808f144ba6ec670e97ab167f17564125ca"/>
+		<rom name="2!4x4 Off-Road Racing (1988)(Epyx)(Side B)[cr INC+Ikari][a4].z64" size="38835" crc="f5b90aac" md5="7470ea4134bcc03af1e67955f561b900" sha1="d46c46af82a8172230086f7ae961bae70773156c"/>
+		<rom name="3!4x4 Off-Road Racing (1988)(Epyx)(Side B)[cr INC+Ikari][a4].z64" size="33218" crc="91145b42" md5="c1bbce17b3c43db7f2934bbcfc9f8cad" sha1="44039267ec26ae48731eb55c054793230e8d00a9"/>
+		<rom name="4!4x4 Off-Road Racing (1988)(Epyx)(Side B)[cr INC+Ikari][a4].z64" size="43377" crc="bbdc0786" md5="a98739b9a8de4335d8983f07cec43a9d" sha1="83955caced3bf2338a02391dd0213be28ef8bbd0"/>
 	</game>
-	<game name="Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a]">
-		<description>Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a]</description>
-		<rom name="1!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a].z64" size="43193" crc="d8bd7f1e" md5="453e0d83a56bbd10908d0105a175f646" sha1="7a364be69a143c7042824066e8c950a95f48272d"/>
-		<rom name="2!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a].z64" size="43121" crc="09bf1cea" md5="f31930942e2247269e6d95dbff1e2d06" sha1="f295cac4682b37cca93879a14ddfe5fcb6e9ce6a"/>
-		<rom name="3!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a].z64" size="40343" crc="16606e57" md5="c93866884135200e4f685c83702d9277" sha1="39fae91ced15ad23d2e4e9908c52b2640e20755c"/>
-		<rom name="4!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a].z64" size="38588" crc="ff928762" md5="c0fc22c1e2c8058487a135d9066349ae" sha1="a5c4b2effbf7d2bf64e56703fe1f0772c70576fe"/>
+	<game name="Bburago Rally (1995)(576 KByte)[cr CHR][t +2 CHR]">
+		<description>Bburago Rally (1995)(576 KByte)[cr CHR][t +2 CHR]</description>
+		<rom name="1!Bburago Rally (1995)(576 KByte)[cr CHR][t +2 CHR].z64" size="43169" crc="6bcdf250" md5="c08ea1bec4bb00c23adbe83532fd8d9f" sha1="0b06068b1b5d1b31d03d14daa32ef1337f565d36"/>
+		<rom name="2!Bburago Rally (1995)(576 KByte)[cr CHR][t +2 CHR].z64" size="43347" crc="64a47a2a" md5="d171311571996085376dde048e4f2fad" sha1="02ba8c3dfeefbd12115e997fb74e526075f3b500"/>
+		<rom name="3!Bburago Rally (1995)(576 KByte)[cr CHR][t +2 CHR].z64" size="40976" crc="c5f85f34" md5="63fac782edd577854e5321928046c835" sha1="867d7015a46e07ace128609341acaa515be4e26a"/>
+		<rom name="4!Bburago Rally (1995)(576 KByte)[cr CHR][t +2 CHR].z64" size="45053" crc="8953f57d" md5="96fdae7942c9795a68850b46e0586f66" sha1="9caa0cfe2f9e4a7d9405e891ae7355aaee7ee4b4"/>
 	</game>
-	<game name="Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a2]">
-		<description>Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a2]</description>
-		<rom name="1!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a2].z64" size="43169" crc="6bcdf250" md5="c08ea1bec4bb00c23adbe83532fd8d9f" sha1="0b06068b1b5d1b31d03d14daa32ef1337f565d36"/>
-		<rom name="2!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a2].z64" size="43346" crc="ce350228" md5="777d65962f988e4eaf0c2ef583ab161c" sha1="fbba61ead4574d31f338d22dc6b69692c0ad5989"/>
-		<rom name="3!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a2].z64" size="40986" crc="dc149e3a" md5="7b53dd867b3e395f2d95bf36ac5333b2" sha1="47a95b7611a7d502138a9394229a26e703017b38"/>
-		<rom name="4!Bburago Rally (1995)(576 kByte)[cr ONS][t +4 ONS][a2].z64" size="45053" crc="8953f57d" md5="96fdae7942c9795a68850b46e0586f66" sha1="9caa0cfe2f9e4a7d9405e891ae7355aaee7ee4b4"/>
+	<game name="Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS]">
+		<description>Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS]</description>
+		<rom name="1!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS].z64" size="43193" crc="e3a72334" md5="56de250b39825aa04d318a6990950cef" sha1="8dc917ff8a4ca8b1e1ba1b79d1db75b0b8a58c04"/>
+		<rom name="2!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS].z64" size="43121" crc="09bf1cea" md5="f31930942e2247269e6d95dbff1e2d06" sha1="f295cac4682b37cca93879a14ddfe5fcb6e9ce6a"/>
+		<rom name="3!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS].z64" size="40418" crc="953ee44d" md5="b9e8e1f3422a6cf09bb6582b3ada9b91" sha1="e82d6ed6f32e8cf8e3fab77feb0962642046eee3"/>
+		<rom name="4!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS].z64" size="38588" crc="ff928762" md5="c0fc22c1e2c8058487a135d9066349ae" sha1="a5c4b2effbf7d2bf64e56703fe1f0772c70576fe"/>
+	</game>
+	<game name="Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a]">
+		<description>Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a]</description>
+		<rom name="1!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a].z64" size="43193" crc="d8bd7f1e" md5="453e0d83a56bbd10908d0105a175f646" sha1="7a364be69a143c7042824066e8c950a95f48272d"/>
+		<rom name="2!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a].z64" size="43121" crc="09bf1cea" md5="f31930942e2247269e6d95dbff1e2d06" sha1="f295cac4682b37cca93879a14ddfe5fcb6e9ce6a"/>
+		<rom name="3!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a].z64" size="40343" crc="16606e57" md5="c93866884135200e4f685c83702d9277" sha1="39fae91ced15ad23d2e4e9908c52b2640e20755c"/>
+		<rom name="4!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a].z64" size="38588" crc="ff928762" md5="c0fc22c1e2c8058487a135d9066349ae" sha1="a5c4b2effbf7d2bf64e56703fe1f0772c70576fe"/>
+	</game>
+	<game name="Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a2]">
+		<description>Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a2]</description>
+		<rom name="1!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a2].z64" size="43169" crc="6bcdf250" md5="c08ea1bec4bb00c23adbe83532fd8d9f" sha1="0b06068b1b5d1b31d03d14daa32ef1337f565d36"/>
+		<rom name="2!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a2].z64" size="43346" crc="ce350228" md5="777d65962f988e4eaf0c2ef583ab161c" sha1="fbba61ead4574d31f338d22dc6b69692c0ad5989"/>
+		<rom name="3!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a2].z64" size="40986" crc="dc149e3a" md5="7b53dd867b3e395f2d95bf36ac5333b2" sha1="47a95b7611a7d502138a9394229a26e703017b38"/>
+		<rom name="4!Bburago Rally (1995)(576 KByte)[cr ONS][t +4 ONS][a2].z64" size="45053" crc="8953f57d" md5="96fdae7942c9795a68850b46e0586f66" sha1="9caa0cfe2f9e4a7d9405e891ae7355aaee7ee4b4"/>
 	</game>
 	<game name="Buggy Boy (1990)(Elite)">
 		<description>Buggy Boy (1990)(Elite)</description>
@@ -68,33 +82,33 @@
 		<rom name="3!Chase HQ 2 (1990)(Ocean)[cr Legend][h NEI][t +4 Legend].z64" size="40832" crc="3a2aa88f" md5="95dabf85a2174209c408a0d96bb78fa0" sha1="3d81ff949465547b29aff8a40ec7d4920bd55d3d"/>
 		<rom name="4!Chase HQ 2 (1990)(Ocean)[cr Legend][h NEI][t +4 Legend].z64" size="44160" crc="dfa85a5c" md5="f3dfadf1a3fddb300fa4d3c65808ecc2" sha1="3dec901cc68fc32c6a9889a68d460d41101e1552"/>
 	</game>
-	<game name="Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP]">
-		<description>Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP]</description>
-		<rom name="1!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="35419" crc="c1e1d459" md5="b79cb8e58270a4868b5215fc4af437a6" sha1="c57a5fe57afbc05d9b0fa6050874b344a5ec80a1"/>
-		<rom name="2!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="43323" crc="ba589d87" md5="0c6abc5f231c48d4327481e9e1916467" sha1="d9151c7a56d6e4e7515239ec81004f61290e99d9"/>
-		<rom name="3!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="40006" crc="807a1717" md5="f97bb1db65c39a9573bfcbded436e84a" sha1="2984e2016e69fa417d8e6bf63d3c98eb89d7d281"/>
-		<rom name="4!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="44631" crc="592a645e" md5="29ef351c14f2d5fff43f88651c5f236c" sha1="519a171b4c9f817e05148212af1d30f8a9122de6"/>
+	<game name="Crazy Cars III (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP]">
+		<description>Crazy Cars III (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP]</description>
+		<rom name="1!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="35419" crc="c1e1d459" md5="b79cb8e58270a4868b5215fc4af437a6" sha1="c57a5fe57afbc05d9b0fa6050874b344a5ec80a1"/>
+		<rom name="2!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="43323" crc="ba589d87" md5="0c6abc5f231c48d4327481e9e1916467" sha1="d9151c7a56d6e4e7515239ec81004f61290e99d9"/>
+		<rom name="3!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="40006" crc="807a1717" md5="f97bb1db65c39a9573bfcbded436e84a" sha1="2984e2016e69fa417d8e6bf63d3c98eb89d7d281"/>
+		<rom name="4!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][f NTSC][t +3 EMP].z64" size="44631" crc="592a645e" md5="29ef351c14f2d5fff43f88651c5f236c" sha1="519a171b4c9f817e05148212af1d30f8a9122de6"/>
 	</game>
-	<game name="Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][t +2 SCS]">
-		<description>Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][t +2 SCS]</description>
-		<rom name="1!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="43337" crc="3db55c72" md5="11ccab8328d0fc18c35f0f54c846ad3b" sha1="fe5a2b9511109f3870699990be2cebe115c1f1eb"/>
-		<rom name="2!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="43334" crc="8d03a682" md5="bc59b1eba0960ce4381570f2f882da6b" sha1="db7b80947e213f689f01636dc35c269e13fee866"/>
-		<rom name="3!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="40128" crc="723959b2" md5="0469a6ba256c37f02c196ab9b20f6e16" sha1="cd4d718b6649d7ce217ea736afb251ce86bd2bcf"/>
-		<rom name="4!Crazy Cars 3 (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="32464" crc="9dae73ca" md5="39355dddbf1e595fcbaa2e335d51d9a2" sha1="9196caaa001e95608d19278d94f287f26caf5a99"/>
+	<game name="Crazy Cars III (1992)(Titus)(Side A)[cr SCS][t +2 SCS]">
+		<description>Crazy Cars III (1992)(Titus)(Side A)[cr SCS][t +2 SCS]</description>
+		<rom name="1!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="43337" crc="3db55c72" md5="11ccab8328d0fc18c35f0f54c846ad3b" sha1="fe5a2b9511109f3870699990be2cebe115c1f1eb"/>
+		<rom name="2!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="43334" crc="8d03a682" md5="bc59b1eba0960ce4381570f2f882da6b" sha1="db7b80947e213f689f01636dc35c269e13fee866"/>
+		<rom name="3!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="40128" crc="723959b2" md5="0469a6ba256c37f02c196ab9b20f6e16" sha1="cd4d718b6649d7ce217ea736afb251ce86bd2bcf"/>
+		<rom name="4!Crazy Cars III (1992)(Titus)(Side A)[cr SCS][t +2 SCS].z64" size="32464" crc="9dae73ca" md5="39355dddbf1e595fcbaa2e335d51d9a2" sha1="9196caaa001e95608d19278d94f287f26caf5a99"/>
 	</game>
-	<game name="Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP]">
-		<description>Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP]</description>
-		<rom name="1!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="41709" crc="e74c820d" md5="0f745fab5c8de4ee6914c18e9940fac5" sha1="0e9f8d9c42bc10b546e4a4f1ac5dbf39bf1c0989"/>
-		<rom name="2!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="41506" crc="0749ec07" md5="12f4210a5197cd58777676b4876ed505" sha1="3ff855526843e17e5c683dfeeca676dd9542893a"/>
-		<rom name="3!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="40821" crc="f4023363" md5="546fa015ecb652367f05c101f91003ed" sha1="bb252924c00681aff9655843a81f7e6006d50343"/>
-		<rom name="4!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="24814" crc="00a9d445" md5="15b78a62f0e9a0831f0c9989f3e4543d" sha1="b6ff665366cdc5266d9d588c0dd37f94716d4051"/>
+	<game name="Crazy Cars III (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP]">
+		<description>Crazy Cars III (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP]</description>
+		<rom name="1!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="41709" crc="e74c820d" md5="0f745fab5c8de4ee6914c18e9940fac5" sha1="0e9f8d9c42bc10b546e4a4f1ac5dbf39bf1c0989"/>
+		<rom name="2!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="41506" crc="0749ec07" md5="12f4210a5197cd58777676b4876ed505" sha1="3ff855526843e17e5c683dfeeca676dd9542893a"/>
+		<rom name="3!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="40821" crc="f4023363" md5="546fa015ecb652367f05c101f91003ed" sha1="bb252924c00681aff9655843a81f7e6006d50343"/>
+		<rom name="4!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][f NTSC][t +3 EMP].z64" size="24814" crc="00a9d445" md5="15b78a62f0e9a0831f0c9989f3e4543d" sha1="b6ff665366cdc5266d9d588c0dd37f94716d4051"/>
 	</game>
-	<game name="Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][t +2 SCS]">
-		<description>Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][t +2 SCS]</description>
-		<rom name="1!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="41929" crc="776e1c91" md5="aa640f39b095f8c98e243db896adae68" sha1="5aba0ddf69b987eb3eb9b9a44e6b2499feb960b6"/>
-		<rom name="2!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="43340" crc="b9d415ea" md5="ca7d2c90441d127aad42039bebb24e74" sha1="9e89687481ac74160125289e92c6367047532b2b"/>
-		<rom name="3!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="41630" crc="2cc804f6" md5="3a5894f2ffd595bdf8821d8f65c0f4ad" sha1="2a155919c5a7258b4e47075f264d5ccaa5e1ff2f"/>
-		<rom name="4!Crazy Cars 3 (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="26180" crc="ae58f28a" md5="70a633d611f74c5c777ff5409bb55f8a" sha1="5bc49a311318519b007a9dac926096dee6f9f3b7"/>
+	<game name="Crazy Cars III (1992)(Titus)(Side B)[cr SCS][t +2 SCS]">
+		<description>Crazy Cars III (1992)(Titus)(Side B)[cr SCS][t +2 SCS]</description>
+		<rom name="1!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="41929" crc="776e1c91" md5="aa640f39b095f8c98e243db896adae68" sha1="5aba0ddf69b987eb3eb9b9a44e6b2499feb960b6"/>
+		<rom name="2!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="43340" crc="b9d415ea" md5="ca7d2c90441d127aad42039bebb24e74" sha1="9e89687481ac74160125289e92c6367047532b2b"/>
+		<rom name="3!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="41630" crc="2cc804f6" md5="3a5894f2ffd595bdf8821d8f65c0f4ad" sha1="2a155919c5a7258b4e47075f264d5ccaa5e1ff2f"/>
+		<rom name="4!Crazy Cars III (1992)(Titus)(Side B)[cr SCS][t +2 SCS].z64" size="26180" crc="ae58f28a" md5="70a633d611f74c5c777ff5409bb55f8a" sha1="5bc49a311318519b007a9dac926096dee6f9f3b7"/>
 	</game>
 	<game name="Cycles, The - International Grand Prix Racing (1991)(Accolade)[cr Action][h EMP]">
 		<description>Cycles, The - International Grand Prix Racing (1991)(Accolade)[cr Action][h EMP]</description>

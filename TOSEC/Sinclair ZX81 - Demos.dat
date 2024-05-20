@@ -4,17 +4,17 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX81 - Demos</name>
-		<description>Sinclair ZX81 - Demos (TOSEC-v2011-09-24)</description>
+		<description>Sinclair ZX81 - Demos (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2011-09-24</version>
+		<version>2024-01-15</version>
 		<author>jugaor - Dziuber - Cassiel</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-	<game name="3D Fractals v2.0 (19xx)(Gregory C. Harder)">
-		<description>3D Fractals v2.0 (19xx)(Gregory C. Harder)</description>
-		<rom name="3D Fractals v2.0 (19xx)(Gregory C. Harder).p" size="11588" crc="6520bcb9" md5="252e10e0ac890abf4045fa467d1a5cb8" sha1="39e7d25689617846319af5dbb8bfbe4110954d21"/>
+	<game name="3D Fractals v2.0 (19xx)(Harder, Gregory C.)">
+		<description>3D Fractals v2.0 (19xx)(Harder, Gregory C.)</description>
+		<rom name="3D Fractals v2.0 (19xx)(Harder, Gregory C.).p" size="11588" crc="6520bcb9" md5="252e10e0ac890abf4045fa467d1a5cb8" sha1="39e7d25689617846319af5dbb8bfbe4110954d21"/>
 	</game>
 	<game name="Assembler Demo (19xx)(-)(de)">
 		<description>Assembler Demo (19xx)(-)(de)</description>
@@ -24,13 +24,17 @@
 		<description>Assembler Demo - Bild Invertieren (19xx)(-)(de)</description>
 		<rom name="Assembler Demo - Bild Invertieren (19xx)(-)(de).p" size="1066" crc="ff7782fe" md5="ff8a935d3969f204f994ff63c62dd542" sha1="1accdbe818d6afe122354ef52ec146e1328a5084"/>
 	</game>
-	<game name="Bi-Plot - WRX16-V2D Dual Hi-Res Demo (1987)(Fred Nachbaur)">
-		<description>Bi-Plot - WRX16-V2D Dual Hi-Res Demo (1987)(Fred Nachbaur)</description>
-		<rom name="Bi-Plot - WRX16-V2D Dual Hi-Res Demo (1987)(Fred Nachbaur).p" size="4513" crc="c47d8df7" md5="b284c430067c7350dce09ac74e15c4db" sha1="e3178385d9e3d2ff9c5d6117a4d8007402099629"/>
+	<game name="Bi-Plot - WRX16-V2D Dual Hi-Res Demo (1987)(Nachbaur, Fred)">
+		<description>Bi-Plot - WRX16-V2D Dual Hi-Res Demo (1987)(Nachbaur, Fred)</description>
+		<rom name="Bi-Plot - WRX16-V2D Dual Hi-Res Demo (1987)(Nachbaur, Fred).p" size="4513" crc="c47d8df7" md5="b284c430067c7350dce09ac74e15c4db" sha1="e3178385d9e3d2ff9c5d6117a4d8007402099629"/>
 	</game>
-	<game name="Coral Basic Interpreter Demo (1987)(Carlo Delhez)">
-		<description>Coral Basic Interpreter Demo (1987)(Carlo Delhez)</description>
-		<rom name="Coral Basic Interpreter Demo (1987)(Carlo Delhez).p" size="5005" crc="4d5ef6cd" md5="8e2d30fc54a4e8fff5058d57fa3d6fa0" sha1="8fbbabed5de86dce9d8e91c20842f49a14da44cc"/>
+	<game name="CHESSZOOM 1K v1.0 (2023-08-20)(PROSM)">
+		<description>CHESSZOOM 1K v1.0 (2023-08-20)(PROSM)</description>
+		<rom name="CHESSZOOM 1K v1.0 (2023-08-20)(PROSM).p" size="931" crc="219de84a" md5="f903629048f6d9eda5a9cd36283aa5b2" sha1="0b6ccc1999b6cb1453eab4ed8f20cde5f5882084"/>
+	</game>
+	<game name="Coral Basic Interpreter Demo (1987)(Delhez, Carlo)">
+		<description>Coral Basic Interpreter Demo (1987)(Delhez, Carlo)</description>
+		<rom name="Coral Basic Interpreter Demo (1987)(Delhez, Carlo).p" size="5005" crc="4d5ef6cd" md5="8e2d30fc54a4e8fff5058d57fa3d6fa0" sha1="8fbbabed5de86dce9d8e91c20842f49a14da44cc"/>
 	</game>
 	<game name="Data Handler Demo (19xx)(-)(nl)">
 		<description>Data Handler Demo (19xx)(-)(nl)</description>
@@ -48,17 +52,21 @@
 		<description>Demonstration of Scrolling (19xx)(-)</description>
 		<rom name="Demonstration of Scrolling (19xx)(-).p" size="1131" crc="e04f26b2" md5="5d83b894543e48fd763f062e712e917f" sha1="ee13c72716168902ea2ed4f0b6a4391f08666e43"/>
 	</game>
+	<game name="Essentials (2012)(Revival Studios)">
+		<description>Essentials (2012)(Revival Studios)</description>
+		<rom name="Essentials (2012)(Revival Studios).p" size="14775" crc="9f8dd564" md5="d4a39aca5b2340a3e9465f3e0863a836" sha1="b4880eceee727f6d8c372d9897af214a1c28a18a"/>
+	</game>
 	<game name="Example of Saving Variables on Tape (19xx)(-)">
 		<description>Example of Saving Variables on Tape (19xx)(-)</description>
 		<rom name="Example of Saving Variables on Tape (19xx)(-).p" size="1256" crc="a429b6ed" md5="666a1656e661bae4d9237994f4218407" sha1="cdec1c0f2785efbebe81138f8f981864e1796dd2"/>
 	</game>
-	<game name="Extended Basic Level 2 Demo (1983)(Frits Beniest)(nl)">
-		<description>Extended Basic Level 2 Demo (1983)(Frits Beniest)(nl)</description>
-		<rom name="Extended Basic Level 2 Demo (1983)(Frits Beniest)(nl).p" size="13085" crc="52cf0cbf" md5="9c8dd643b479cc273e2aaeb1db53afab" sha1="83aeaca25f37472cde4dcfde3e7f7dd34e4d8466"/>
+	<game name="Extended Basic Level 2 Demo (1983)(Beniest, Frits)(nl)">
+		<description>Extended Basic Level 2 Demo (1983)(Beniest, Frits)(nl)</description>
+		<rom name="Extended Basic Level 2 Demo (1983)(Beniest, Frits)(nl).p" size="13085" crc="52cf0cbf" md5="9c8dd643b479cc273e2aaeb1db53afab" sha1="83aeaca25f37472cde4dcfde3e7f7dd34e4d8466"/>
 	</game>
-	<game name="Extended Basic Level 2 Demo (1993)(Frits Beniest)(nl)[a]">
-		<description>Extended Basic Level 2 Demo (1993)(Frits Beniest)(nl)[a]</description>
-		<rom name="Extended Basic Level 2 Demo (1993)(Frits Beniest)(nl)[a].p" size="13208" crc="4924bff0" md5="7030c170484b9cd3d879d1aa4e020c14" sha1="a75190b3fa2c390f265430221c7955581f1645a4"/>
+	<game name="Extended Basic Level 2 Demo (1993)(Beniest, Frits)(nl)[a]">
+		<description>Extended Basic Level 2 Demo (1993)(Beniest, Frits)(nl)[a]</description>
+		<rom name="Extended Basic Level 2 Demo (1993)(Beniest, Frits)(nl)[a].p" size="13208" crc="4924bff0" md5="7030c170484b9cd3d879d1aa4e020c14" sha1="a75190b3fa2c390f265430221c7955581f1645a4"/>
 	</game>
 	<game name="FOR-NEXT Demonstration (19xx)(-)">
 		<description>FOR-NEXT Demonstration (19xx)(-)</description>
@@ -84,17 +92,17 @@
 		<description>Graphics Toolkit Demo (19xx)(-)</description>
 		<rom name="Graphics Toolkit Demo (19xx)(-).p" size="3137" crc="fecebb8f" md5="60a1f9a6d255cb1326f366c5c5e742b0" sha1="3a735b7f814387e7eebbc82d51df3015378eabc7"/>
 	</game>
-	<game name="MCoder II Demo (1992)(Carlo Delhez)">
-		<description>MCoder II Demo (1992)(Carlo Delhez)</description>
-		<rom name="MCoder II Demo (1992)(Carlo Delhez).p" size="7952" crc="227b3b3d" md5="d6d1f884f7fbaba53edf81b0cc9720a6" sha1="1e9f2d0dd51d1fdcbfc30705f93690209cb9bb64"/>
+	<game name="MCoder II Demo (1992)(Delhez, Carlo)">
+		<description>MCoder II Demo (1992)(Delhez, Carlo)</description>
+		<rom name="MCoder II Demo (1992)(Delhez, Carlo).p" size="7952" crc="227b3b3d" md5="d6d1f884f7fbaba53edf81b0cc9720a6" sha1="1e9f2d0dd51d1fdcbfc30705f93690209cb9bb64"/>
 	</game>
 	<game name="Meditor Demo (1983)(A. Krebs)(de)">
 		<description>Meditor Demo (1983)(A. Krebs)(de)</description>
 		<rom name="Meditor Demo (1983)(A. Krebs)(de).p" size="12209" crc="6bda971f" md5="1a811b539b249cbf223fd4ee4156ee68" sha1="d054117d0d8a49509bf8dd446396e65c8c17965f"/>
 	</game>
-	<game name="Mini Demo of the WRX-16 Bitmapped (19xx)(Wilf Rigter)">
-		<description>Mini Demo of the WRX-16 Bitmapped (19xx)(Wilf Rigter)</description>
-		<rom name="Mini Demo of the WRX-16 Bitmapped (19xx)(Wilf Rigter).p" size="969" crc="bca101f4" md5="e01c2769e59339bd597c99e095af2922" sha1="df56c01f4f26a8cceaa30aeaf3e35b025908a625"/>
+	<game name="Mini Demo of the WRX-16 Bitmapped (19xx)(Rigter, Wilf)">
+		<description>Mini Demo of the WRX-16 Bitmapped (19xx)(Rigter, Wilf)</description>
+		<rom name="Mini Demo of the WRX-16 Bitmapped (19xx)(Rigter, Wilf).p" size="969" crc="bca101f4" md5="e01c2769e59339bd597c99e095af2922" sha1="df56c01f4f26a8cceaa30aeaf3e35b025908a625"/>
 	</game>
 	<game name="Scroll Test (19xx)(-)">
 		<description>Scroll Test (19xx)(-)</description>
@@ -116,32 +124,36 @@
 		<description>Sprites Demo (19xx)(-)</description>
 		<rom name="Sprites Demo (19xx)(-).p" size="15363" crc="322e13f9" md5="8f16efe9f90aa6a58c1c5fc15e4eb1f8" sha1="c836b780b75d6aea9ecc28d68a0413c931ae18a5"/>
 	</game>
-	<game name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Gregory C. Harder - Fred Nachbaur)">
-		<description>SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Gregory C. Harder - Fred Nachbaur)</description>
-		<rom name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Gregory C. Harder - Fred Nachbaur).p" size="13498" crc="73752c1e" md5="03fa29f58d852214f7bce72bbd5a2b89" sha1="314d24a2706bb27d26777957531f9ad4840ca8b2"/>
+	<game name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Harder, Gregory C. - Nachbaur, Fred)">
+		<description>SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Harder, Gregory C. - Nachbaur, Fred)</description>
+		<rom name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Harder, Gregory C. - Nachbaur, Fred).p" size="13498" crc="73752c1e" md5="03fa29f58d852214f7bce72bbd5a2b89" sha1="314d24a2706bb27d26777957531f9ad4840ca8b2"/>
 	</game>
-	<game name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Gregory C. Harder - Fred Nachbaur)[a]">
-		<description>SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Gregory C. Harder - Fred Nachbaur)[a]</description>
-		<rom name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Gregory C. Harder - Fred Nachbaur)[a].p" size="13496" crc="3854b2ee" md5="e369469f3944bafd48cea670829771b2" sha1="0ec12b885a0e475a8513ad006aae031562bcbe29"/>
+	<game name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Harder, Gregory C. - Nachbaur, Fred)[a]">
+		<description>SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Harder, Gregory C. - Nachbaur, Fred)[a]</description>
+		<rom name="SRAM Hi-Res Extended BASIC v3.0 Demo (1983)(Harder, Gregory C. - Nachbaur, Fred)[a].p" size="13496" crc="3854b2ee" md5="e369469f3944bafd48cea670829771b2" sha1="0ec12b885a0e475a8513ad006aae031562bcbe29"/>
 	</game>
-	<game name="Volcano Dancing (1983)(H. Dursch)(de)">
-		<description>Volcano Dancing (1983)(H. Dursch)(de)</description>
-		<rom name="Volcano Dancing (1983)(H. Dursch)(de).p" size="8588" crc="0e35b093" md5="683066c613f823431c167868940f9169" sha1="7ef8a2be87af790b576e1f7e7b61c715e23bd1c8"/>
+	<game name="Twirl Demo (2010)(Revival Studios)">
+		<description>Twirl Demo (2010)(Revival Studios)</description>
+		<rom name="Twirl Demo (2010)(Revival Studios).p" size="12711" crc="9faf1b03" md5="312e99203e2807b9dbe081b021472551" sha1="5523eec88d177a819380bec7460740ce187c40c9"/>
 	</game>
-	<game name="WRX Demo v1.0 (1996)(Wilf Rigter)">
-		<description>WRX Demo v1.0 (1996)(Wilf Rigter)</description>
-		<rom name="WRX Demo v1.0 (1996)(Wilf Rigter).p" size="838" crc="d4eee8e5" md5="e9a2b79b316f09a7a01adc09b3585072" sha1="e1a4db0e5c42c1811d7bbc9f16bead3d3abeb065"/>
+	<game name="Volcano Dancing (1983)(Dursch, H.)(de)">
+		<description>Volcano Dancing (1983)(Dursch, H.)(de)</description>
+		<rom name="Volcano Dancing (1983)(Dursch, H.)(de).p" size="8588" crc="0e35b093" md5="683066c613f823431c167868940f9169" sha1="7ef8a2be87af790b576e1f7e7b61c715e23bd1c8"/>
 	</game>
-	<game name="ZX Stuff Demo (19xx)(H. Stamm - Ch. Zwerschke)(de)">
-		<description>ZX Stuff Demo (19xx)(H. Stamm - Ch. Zwerschke)(de)</description>
-		<rom name="ZX Stuff Demo (19xx)(H. Stamm - Ch. Zwerschke)(de).p" size="5336" crc="725b5a94" md5="93d39e6d77005af26ba647bcf0e812b2" sha1="e083f06d84fefd949bbf545b775b25df85affb97"/>
+	<game name="WRX Demo v1.0 (1996)(Rigter, Wilf)">
+		<description>WRX Demo v1.0 (1996)(Rigter, Wilf)</description>
+		<rom name="WRX Demo v1.0 (1996)(Rigter, Wilf).p" size="838" crc="d4eee8e5" md5="e9a2b79b316f09a7a01adc09b3585072" sha1="e1a4db0e5c42c1811d7bbc9f16bead3d3abeb065"/>
+	</game>
+	<game name="ZX Stuff Demo (19xx)(Stamm, H. - Zwerschke, Ch.)(de)">
+		<description>ZX Stuff Demo (19xx)(Stamm, H. - Zwerschke, Ch.)(de)</description>
+		<rom name="ZX Stuff Demo (19xx)(Stamm, H. - Zwerschke, Ch.)(de).p" size="5336" crc="725b5a94" md5="93d39e6d77005af26ba647bcf0e812b2" sha1="e083f06d84fefd949bbf545b775b25df85affb97"/>
 	</game>
 	<game name="ZX-81 Bug Demonstration (19xx)(-)">
 		<description>ZX-81 Bug Demonstration (19xx)(-)</description>
 		<rom name="ZX-81 Bug Demonstration (19xx)(-).p" size="5381" crc="292090e2" md5="4777d0f9c678ad6b98bc9f99c4aeb247" sha1="c6b56316985fadd02bf7cc889375539df646ef14"/>
 	</game>
-	<game name="ZX-81 Hi-Res Package v2 - Hokey Demo (1996)(Kevin Baker)[16K]">
-		<description>ZX-81 Hi-Res Package v2 - Hokey Demo (1996)(Kevin Baker)[16K]</description>
-		<rom name="ZX-81 Hi-Res Package v2 - Hokey Demo (1996)(Kevin Baker)[16K].p" size="9110" crc="d0ba6bf8" md5="cd6eb9eaf719870deeab863da8addf4e" sha1="79e722f42a2554eb8c79e4727e0e57bf6ef54ed0"/>
+	<game name="ZX-81 Hi-Res Package v2 - Hokey Demo (1996)(Baker, Kevin)[16K]">
+		<description>ZX-81 Hi-Res Package v2 - Hokey Demo (1996)(Baker, Kevin)[16K]</description>
+		<rom name="ZX-81 Hi-Res Package v2 - Hokey Demo (1996)(Baker, Kevin)[16K].p" size="9110" crc="d0ba6bf8" md5="cd6eb9eaf719870deeab863da8addf4e" sha1="79e722f42a2554eb8c79e4727e0e57bf6ef54ed0"/>
 	</game>
 </datafile>

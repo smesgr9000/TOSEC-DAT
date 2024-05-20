@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Cracktros - [D64]</name>
-		<description>Commodore C64 - Cracktros - [D64] (TOSEC-v2023-06-14)</description>
+		<description>Commodore C64 - Cracktros - [D64] (TOSEC-v2024-03-17)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-03-17</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -284,9 +284,9 @@
 		<description>Aidon Intro (19xx)(Aidon)</description>
 		<rom name="Aidon Intro (19xx)(Aidon).d64" size="174848" crc="5cae0c11" md5="52e8b06e8a89be814fcfb2b21b06794c" sha1="4d3afbf65c24f86b00782f679e230650358e8ce0"/>
 	</game>
-	<game name="Airwalk Greets (1991)(Brainbombs [fake rebuild])">
-		<description>Airwalk Greets (1991)(Brainbombs [fake rebuild])</description>
-		<rom name="Airwalk Greets (1991)(Brainbombs [fake rebuild]).d64" size="174848" crc="c49c331d" md5="812646d3ee8db174323a376396e223be" sha1="859fb31931f66a1113a2f3b896aada7d39a5f299"/>
+	<game name="Airwalk Greets (1991)(Brainbombs)[fake rebuild]">
+		<description>Airwalk Greets (1991)(Brainbombs)[fake rebuild]</description>
+		<rom name="Airwalk Greets (1991)(Brainbombs)[fake rebuild].d64" size="174848" crc="c49c331d" md5="812646d3ee8db174323a376396e223be" sha1="859fb31931f66a1113a2f3b896aada7d39a5f299"/>
 	</game>
 	<game name="Al Beast 1 (19xx)(Jax)">
 		<description>Al Beast 1 (19xx)(Jax)</description>
@@ -587,18 +587,6 @@
 	<game name="Bart Intro (19xx)(Dynamix)">
 		<description>Bart Intro (19xx)(Dynamix)</description>
 		<rom name="Bart Intro (19xx)(Dynamix).d64" size="174848" crc="c698b996" md5="eb590e99209db933c327112bf745b54f" sha1="d07b92cf067753e8f2976d6cf002381626036ec1"/>
-	</game>
-	<game name="BBS Intro Better Mouse Trap (19xx)(Roy Batty)">
-		<description>BBS Intro Better Mouse Trap (19xx)(Roy Batty)</description>
-		<rom name="BBS Intro Better Mouse Trap (19xx)(Roy Batty).d64" size="174848" crc="1b489c2d" md5="6d376d5c00e51cae357e9af6a38d6197" sha1="65f94e8514ad4a1959c0300431710ec51b828d52"/>
-	</game>
-	<game name="BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a]">
-		<description>BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a]</description>
-		<rom name="BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a].d64" size="174848" crc="88b86cc5" md5="7af419d494694bd908935d71d37eecc0" sha1="982cc96ff132e51d0f721bacd1a949416834d568"/>
-	</game>
-	<game name="BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a2]">
-		<description>BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a2]</description>
-		<rom name="BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a2].d64" size="174848" crc="2848c699" md5="de4d6b93120aed3a75eb82bf7ab806f8" sha1="c98de8e426c69f6cc00a93243bd5d56f8461fca1"/>
 	</game>
 	<game name="BBS Intro Dragon&apos;s Den (19xx)(Carcass)">
 		<description>BBS Intro Dragon&apos;s Den (19xx)(Carcass)</description>
@@ -6000,17 +5988,13 @@
 		<description>New Intro - Midas, A (1989-09)(Acid Crew)[a]</description>
 		<rom name="New Intro - Midas, A (1989-09)(Acid Crew)[a].d64" size="174848" crc="65735c6e" md5="b5d994206c8aa287dd79ef0a8c1194ad" sha1="00cd9fbe3d54de67720c9b34473cf4e9d17efb80"/>
 	</game>
-	<game name="New Intro #02 (1989-02-13)(Unit5)">
-		<description>New Intro #02 (1989-02-13)(Unit5)</description>
-		<rom name="New Intro #02 (1989-02-13)(Unit5).d64" size="174848" crc="4f9ae538" md5="714bfbe4cbc530328b8af6a75e03c13c" sha1="61c108040b7d86f311902918ac81a3346b157f6f"/>
+	<game name="New Intro #02 (1989-02-13)(Unit 5)">
+		<description>New Intro #02 (1989-02-13)(Unit 5)</description>
+		<rom name="New Intro #02 (1989-02-13)(Unit 5).d64" size="174848" crc="4f9ae538" md5="714bfbe4cbc530328b8af6a75e03c13c" sha1="61c108040b7d86f311902918ac81a3346b157f6f"/>
 	</game>
 	<game name="New Intro #2 (1989)(Orion)">
 		<description>New Intro #2 (1989)(Orion)</description>
 		<rom name="New Intro #2 (1989)(Orion).d64" size="174848" crc="1960feaa" md5="5112f8a3e9a94b19f026a612c1bf5727" sha1="c7feab55d81d6151d9235e096bc1d5a21c2e33a9"/>
-	</game>
-	<game name="New Intro (1), A (1988-11-07)(New Formula Crew)">
-		<description>New Intro (1), A (1988-11-07)(New Formula Crew)</description>
-		<rom name="New Intro (1), A (1988-11-07)(New Formula Crew).d64" size="174848" crc="5bbd4c4b" md5="37fb67539ab112745961119ced2d31f4" sha1="1ea365928ac7ab9c473b12cc01e2f4a76035e472"/>
 	</game>
 	<game name="New Intro (1986)(Megaforce Crackings)">
 		<description>New Intro (1986)(Megaforce Crackings)</description>
@@ -6500,9 +6484,9 @@
 		<description>New Intro! (1990)(ICE)</description>
 		<rom name="New Intro! (1990)(ICE).d64" size="174848" crc="e53f59ec" md5="f8ec784a3272c3dd0cf01c8e969bebc1" sha1="dce9d537bd9f4559efdb845fb9fe5a83b7c8be1b"/>
 	</game>
-	<game name="New Intro! (J) (1991-03-09)(Jaguar)">
-		<description>New Intro! (J) (1991-03-09)(Jaguar)</description>
-		<rom name="New Intro! (J) (1991-03-09)(Jaguar).d64" size="174848" crc="c02b7dc6" md5="fd2be8ba9797fbb10e860a5a9ac9dc12" sha1="f38529a46956111294e203fa9b40e80f07358167"/>
+	<game name="New Intro! (1991-03-09)(Jaguar)">
+		<description>New Intro! (1991-03-09)(Jaguar)</description>
+		<rom name="New Intro! (1991-03-09)(Jaguar).d64" size="174848" crc="c02b7dc6" md5="fd2be8ba9797fbb10e860a5a9ac9dc12" sha1="f38529a46956111294e203fa9b40e80f07358167"/>
 	</game>
 	<game name="New Intro!, The (1988-10-17)(Manowar)">
 		<description>New Intro!, The (1988-10-17)(Manowar)</description>
@@ -6527,6 +6511,10 @@
 	<game name="New Intro, A (1988-05-29)(Power Station)">
 		<description>New Intro, A (1988-05-29)(Power Station)</description>
 		<rom name="New Intro, A (1988-05-29)(Power Station).d64" size="174848" crc="702e468f" md5="b220d05380c4101faf5555f12e516736" sha1="e82b261ce5f1149c100cd8bd445d56734be805b0"/>
+	</game>
+	<game name="New Intro, A (1988-11-07)(New Formula Crew)">
+		<description>New Intro, A (1988-11-07)(New Formula Crew)</description>
+		<rom name="New Intro, A (1988-11-07)(New Formula Crew).d64" size="174848" crc="5bbd4c4b" md5="37fb67539ab112745961119ced2d31f4" sha1="1ea365928ac7ab9c473b12cc01e2f4a76035e472"/>
 	</game>
 	<game name="New Intro, A (1989)(Fright)">
 		<description>New Intro, A (1989)(Fright)</description>
@@ -7760,9 +7748,9 @@
 		<description>SLS-Intro (1988)(Stainless Steel)</description>
 		<rom name="SLS-Intro (1988)(Stainless Steel).d64" size="174848" crc="06472fc7" md5="f20e72de1381f59311b5ecd816d38988" sha1="9445e0fb894269ac5a545c7050898baf1e6b83d2"/>
 	</game>
-	<game name="Small (Big) Intro 2 (1989)(The Dominators)">
-		<description>Small (Big) Intro 2 (1989)(The Dominators)</description>
-		<rom name="Small (Big) Intro 2 (1989)(The Dominators).d64" size="174848" crc="6d43c8fe" md5="ad805c6afe77bba24bc02ad3f10fb685" sha1="9f849c96ccd1ff52e2416813e7dea2f5f655248c"/>
+	<game name="Small -Big- Intro 2 (1989)(The Dominators)">
+		<description>Small -Big- Intro 2 (1989)(The Dominators)</description>
+		<rom name="Small -Big- Intro 2 (1989)(The Dominators).d64" size="174848" crc="6d43c8fe" md5="ad805c6afe77bba24bc02ad3f10fb685" sha1="9f849c96ccd1ff52e2416813e7dea2f5f655248c"/>
 	</game>
 	<game name="Small One (1989-11-16)(TERA)">
 		<description>Small One (1989-11-16)(TERA)</description>

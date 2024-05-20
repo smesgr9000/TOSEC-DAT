@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Operating Systems - [DSK]</name>
-		<description>Apple II - Operating Systems - [DSK] (TOSEC-v2023-06-14)</description>
+		<description>Apple II - Operating Systems - [DSK] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -95,6 +95,14 @@
 	<game name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3)">
 		<description>Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3)</description>
 		<rom name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3).dsk" size="143360" crc="8b18dadc" md5="9d90b8dade735785450e37609e5cd519" sha1="f43421a7ccdc57b8e7d1bd20be2fbad043274653"/>
+	</game>
+	<game name="CPM-65 (2023-09-10)(Given, David)(IIE)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2023-09-10)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2023-09-10)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="ca332ab4" md5="7afa5c8d28b3487ddcaf0a0c01c1ea3d" sha1="61c23baeccbea6d6f0a79e9edc7b4e1b756788c4"/>
+	</game>
+	<game name="CPM-65 (2023-10-01)(Given, David)(IIE)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2023-10-01)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2023-10-01)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="1fe6dccb" md5="c85e56eb6854dcb2e7bcb4589287d47d" sha1="72a7e8e7d49f42bd33db578b768d53b213c307ca"/>
 	</game>
 	<game name="David-DOS (1982)(David Data)">
 		<description>David-DOS (1982)(David Data)</description>
@@ -276,6 +284,14 @@
 		<description>GEOS (1988)(Berkeley Softworks)(Disk 4 of 4 Side B)</description>
 		<rom name="GEOS (1988)(Berkeley Softworks)(Disk 4 of 4 Side B).dsk" size="143360" crc="f83bdff7" md5="21fbf719ae87cc63caa489555d3b4abc" sha1="adf86edee7339404966c43d9f8b23c9f0009d07e"/>
 	</game>
+	<game name="GEOS for the Apple II - Demonstration Disk (1988)(Berkeley Softworks)(IIE)(Side 1)[cr passport]">
+		<description>GEOS for the Apple II - Demonstration Disk (1988)(Berkeley Softworks)(IIE)(Side 1)[cr passport]</description>
+		<rom name="GEOS for the Apple II - Demonstration Disk (1988)(Berkeley Softworks)(IIE)(Side 1)[cr passport].dsk" size="143360" crc="e4d58d4e" md5="c11292ae429d3d65789a6acd635c8045" sha1="3a09cd0135142681ad8e00065535387f5d585129"/>
+	</game>
+	<game name="GEOS for the Apple II - Demonstration Disk (1988)(Berkeley Softworks)(IIE)(Side 2)">
+		<description>GEOS for the Apple II - Demonstration Disk (1988)(Berkeley Softworks)(IIE)(Side 2)</description>
+		<rom name="GEOS for the Apple II - Demonstration Disk (1988)(Berkeley Softworks)(IIE)(Side 2).dsk" size="143360" crc="764deeea" md5="cb77f59240a9db8a7cb5a70951ebb7b5" sha1="5122ded7859b12a9a56ddbdbdc3cb324d09b985b"/>
+	</game>
 	<game name="ProDOS User's Disk (1983)(Apple)">
 		<description>ProDOS User's Disk (1983)(Apple)</description>
 		<rom name="ProDOS User's Disk (1983)(Apple).dsk" size="143360" crc="f5b7a316" md5="550d532060ab8d4fa22e925b85c3312a" sha1="0b7a71735e811dd4d8d36fe331062c12b41d151e"/>
@@ -284,6 +300,18 @@
 		<description>ProDOS User's Disk (1983)(Apple)[a2]</description>
 		<rom name="ProDOS User's Disk (1983)(Apple)[a2].dsk" size="143360" crc="8d84aff4" md5="67f6db2ffc2b74a09c5a92b8fa4a2c2d" sha1="f942a96e93c9c95111539154c46bbf8a35b09f97"/>
 	</game>
+	<game name="ProDOS v1.1.1 (1983)(Apple)(Basic Programming Examples)">
+		<description>ProDOS v1.1.1 (1983)(Apple)(Basic Programming Examples)</description>
+		<rom name="ProDOS v1.1.1 (1983)(Apple)(Basic Programming Examples).dsk" size="143360" crc="fb56bda0" md5="d25efe00c1149d5613d332ef642ef164" sha1="35be78e81cf99fafb454b1d8dc6d51380c1979c4"/>
+	</game>
+	<game name="ProDOS v1.1.1 (1983)(Apple)(User's Disk)">
+		<description>ProDOS v1.1.1 (1983)(Apple)(User's Disk)</description>
+		<rom name="ProDOS v1.1.1 (1983)(Apple)(User's Disk).dsk" size="143360" crc="56a8724d" md5="d60030aa575437941cb2014b79e4ec81" sha1="1985e15c95e3875a16c5e55e62b2ca9f4860e9b4"/>
+	</game>
+	<game name="ProDOS v2.4.1 (2016)(Apple - Brooks, John)">
+		<description>ProDOS v2.4.1 (2016)(Apple - Brooks, John)</description>
+		<rom name="ProDOS v2.4.1 (2016)(Apple - Brooks, John).dsk" size="143360" crc="066cfa27" md5="d196a753c80a6ba37bdc72fa57ac35a2" sha1="88d0d66867e607d6ee1117f61b83f8fe37d29f69"/>
+	</game>
 	<game name="ProDOS User's Disk (1983)(Apple)[a]">
 		<description>ProDOS User's Disk (1983)(Apple)[a]</description>
 		<rom name="ProDOS User's Disk (1983)(Apple)[a].dsk" size="143360" crc="5fc6d331" md5="f5e2dbe22819895b253a35893c5b68e9" sha1="cff0059003616766e0813a0c8ad1534559e5cfab"/>
@@ -291,6 +319,10 @@
 	<game name="ProntoDOS Boot Slot 6 Drive 2 (1995)(Deckard)">
 		<description>ProntoDOS Boot Slot 6 Drive 2 (1995)(Deckard)</description>
 		<rom name="ProntoDOS Boot Slot 6 Drive 2 (1995)(Deckard).dsk" size="143360" crc="0fb0784b" md5="5a5b0a460028f46eae02588356d8580a" sha1="74bf6a5c76fc8808a751a944337ba70e489e1c30"/>
+	</game>
+	<game name="Softcard CPM 60K v2.23 (1982)(Microsoft)[CPM]">
+		<description>Softcard CPM 60K v2.23 (1982)(Microsoft)[CPM]</description>
+		<rom name="Softcard CPM 60K v2.23 (1982)(Microsoft)[CPM].dsk" size="143360" crc="ccf6a764" md5="ffbbf04c9067b39cbcc109f72be958db" sha1="f8e8683913dabe68b5f00b8566e81149d22618a6"/>
 	</game>
 	<game name="XINU OS (1987-07-03)(Toomey, Warren)(AU)">
 		<description>XINU OS (1987-07-03)(Toomey, Warren)(AU)</description>

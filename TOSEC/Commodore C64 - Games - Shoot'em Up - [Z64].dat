@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Shoot&apos;em Up - [Z64]</name>
-		<description>Commodore C64 - Games - Shoot&apos;em Up - [Z64] (TOSEC-v2023-05-19)</description>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [Z64] (TOSEC-v2024-04-13)</description>
 		<category>TOSEC</category>
-		<version>2023-05-19</version>
+		<version>2024-04-13</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -167,6 +167,13 @@
 		<rom name="2!Apache Strike (1989)(Activision)[cr Triangle].z64" size="42449" crc="3a76f9fb" md5="4d3311c09ef1928f642bcba1625eeb5f" sha1="06acfae5dbd17eaa2c163252606ee4bfe13219b2"/>
 		<rom name="3!Apache Strike (1989)(Activision)[cr Triangle].z64" size="37041" crc="8e007fd9" md5="aa90700c83b24ff3df7bc22765cac058" sha1="63d8edeeeacd6fd98b1c92cd8fb1896a701b883c"/>
 		<rom name="4!Apache Strike (1989)(Activision)[cr Triangle].z64" size="43852" crc="431d9814" md5="385244b5b96d240a118647c1d6d9b71a" sha1="3f940c6e275d3e5123418bdb4995c293e5617878"/>
+	</game>
+	<game name="Armalyte (1988)(Thalamus)[cr Ikari][t +3 Ikari]">
+		<description>Armalyte (1988)(Thalamus)[cr Ikari][t +3 Ikari]</description>
+		<rom name="1!Armalyte (1988)(Thalamus)[cr Ikari][t +3 Ikari].z64" size="39830" crc="33b40e3e" md5="d0162d3177f94be18a5c7048c4157c75" sha1="38a0ad5b9c2765b5206f699b871fc6a2a1eb0625"/>
+		<rom name="2!Armalyte (1988)(Thalamus)[cr Ikari][t +3 Ikari].z64" size="43346" crc="046bb797" md5="78d577bb58140f5b40f451678d91bc3f" sha1="10a8b057b37b574dc49a1766574812ae214fa3a7"/>
+		<rom name="3!Armalyte (1988)(Thalamus)[cr Ikari][t +3 Ikari].z64" size="39978" crc="1673c72c" md5="8ac3927cac019f9745f3250a9545bbfa" sha1="89fb6492264cd9b9f69a58ef0e7a585e28db4cf4"/>
+		<rom name="4!Armalyte (1988)(Thalamus)[cr Ikari][t +3 Ikari].z64" size="43902" crc="89b64a9f" md5="bc733d986d8df837297c51aa66ba6874" sha1="743ec04f75a16ab9df59e656d864262a8a147aea"/>
 	</game>
 	<game name="Armalyte (1988)(Thalamus)[cr Triangle][t +4 Triangle]">
 		<description>Armalyte (1988)(Thalamus)[cr Triangle][t +4 Triangle]</description>
@@ -396,26 +403,26 @@
 		<rom name="c!Cool World (1992)(Ocean)[cr TSM][f NTSC][t +4 Legend][a].z64" size="15363" crc="78189457" md5="a96594c298da1ba246e31c32cbe26166" sha1="927b1ded4c3521582575d6743344470c0f6379eb"/>
 		<rom name="x!Cool World (1992)(Ocean)[cr TSM][f NTSC][t +4 Legend][a].z64" size="702" crc="e6fb3e4b" md5="91962f51fa356b05e0f0bf38c614cbe0" sha1="c35a1d85567b47e6f140c87c764199f6bcd9daa7"/>
 	</game>
-	<game name="Crack Down (1990)(US Gold)[cr Laser][t +5 Laser]">
-		<description>Crack Down (1990)(US Gold)[cr Laser][t +5 Laser]</description>
-		<rom name="1!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser].z64" size="762" crc="6a7d4ea3" md5="ef0a5b32801f2ad4df5e15269cdbae13" sha1="a69b192ba50e36d19ef8af3dbcc342ef274f2b41"/>
-		<rom name="2!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser].z64" size="43346" crc="cbc0034d" md5="9c1f39e8a79d6eac4eba49b0e3ea367f" sha1="23eefe99150dababc2d22a2048d7cde8652116d6"/>
-		<rom name="3!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser].z64" size="6348" crc="98b487d7" md5="43edb55b802f72934c0422e4d787c95d" sha1="fdf054a4bf0312e4b70b3439777926cd1b7083e2"/>
-		<rom name="4!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser].z64" size="527" crc="592094b5" md5="0cae9f355cf09bc153272c4b8d2b97cd" sha1="c0e55bff8e598693033535ccd5ccc169c8329fb4"/>
+	<game name="Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser]">
+		<description>Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser]</description>
+		<rom name="1!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser].z64" size="762" crc="6a7d4ea3" md5="ef0a5b32801f2ad4df5e15269cdbae13" sha1="a69b192ba50e36d19ef8af3dbcc342ef274f2b41"/>
+		<rom name="2!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser].z64" size="43346" crc="cbc0034d" md5="9c1f39e8a79d6eac4eba49b0e3ea367f" sha1="23eefe99150dababc2d22a2048d7cde8652116d6"/>
+		<rom name="3!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser].z64" size="6348" crc="98b487d7" md5="43edb55b802f72934c0422e4d787c95d" sha1="fdf054a4bf0312e4b70b3439777926cd1b7083e2"/>
+		<rom name="4!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser].z64" size="527" crc="592094b5" md5="0cae9f355cf09bc153272c4b8d2b97cd" sha1="c0e55bff8e598693033535ccd5ccc169c8329fb4"/>
 	</game>
-	<game name="Crack Down (1990)(US Gold)[cr Laser][t +5 Laser][a]">
-		<description>Crack Down (1990)(US Gold)[cr Laser][t +5 Laser][a]</description>
-		<rom name="1!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser][a].z64" size="22948" crc="64e9d897" md5="db2663adb0c4d522e6a2e3937f471314" sha1="0a37fc5fa6c903df91cdb1b4d3bab36ce01f99ed"/>
-		<rom name="2!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser][a].z64" size="45767" crc="62ecafca" md5="62cd730c91597fa1ac72c68db8ac1185" sha1="774a8343374f11fe5a659a67bae285fe03243af4"/>
-		<rom name="3!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser][a].z64" size="6348" crc="98b487d7" md5="43edb55b802f72934c0422e4d787c95d" sha1="fdf054a4bf0312e4b70b3439777926cd1b7083e2"/>
-		<rom name="4!Crack Down (1990)(US Gold)[cr Laser][t +5 Laser][a].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
+	<game name="Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser][a]">
+		<description>Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser][a]</description>
+		<rom name="1!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser][a].z64" size="22948" crc="64e9d897" md5="db2663adb0c4d522e6a2e3937f471314" sha1="0a37fc5fa6c903df91cdb1b4d3bab36ce01f99ed"/>
+		<rom name="2!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser][a].z64" size="45767" crc="62ecafca" md5="62cd730c91597fa1ac72c68db8ac1185" sha1="774a8343374f11fe5a659a67bae285fe03243af4"/>
+		<rom name="3!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser][a].z64" size="6348" crc="98b487d7" md5="43edb55b802f72934c0422e4d787c95d" sha1="fdf054a4bf0312e4b70b3439777926cd1b7083e2"/>
+		<rom name="4!Crack Down (1990)(SEGA - US Gold)[cr Laser][t +5 Laser][a].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
 	</game>
-	<game name="Crack Down (1990)(US Gold)[cr Mirage][t +4 Mirage]">
-		<description>Crack Down (1990)(US Gold)[cr Mirage][t +4 Mirage]</description>
-		<rom name="1!Crack Down (1990)(US Gold)[cr Mirage][t +4 Mirage].z64" size="28049" crc="0000ae1e" md5="118d735934e4096ae46c598734cb93fc" sha1="6fbe1c14ceb36dfad3a9f3f057703a49fc0f4c0c"/>
-		<rom name="2!Crack Down (1990)(US Gold)[cr Mirage][t +4 Mirage].z64" size="30224" crc="23c67044" md5="8860f2dcaa606900dab997bc2377af36" sha1="272c6a6a6cabecd5a21f5f526381215bf5dbaabd"/>
-		<rom name="3!Crack Down (1990)(US Gold)[cr Mirage][t +4 Mirage].z64" size="34637" crc="ecbd1fa5" md5="f99383d51434b7f155009f429652d275" sha1="22afbf136082e7d83d2769020122c3ecdf3b5b44"/>
-		<rom name="4!Crack Down (1990)(US Gold)[cr Mirage][t +4 Mirage].z64" size="21643" crc="e77a2a31" md5="fed216e9804ca154d0d56c859dcf22b6" sha1="a7232be862af62db6f0870ea6383bff6df7cfd3f"/>
+	<game name="Crack Down (1990)(SEGA - US Gold)[cr Mirage][t +4 Mirage]">
+		<description>Crack Down (1990)(SEGA - US Gold)[cr Mirage][t +4 Mirage]</description>
+		<rom name="1!Crack Down (1990)(SEGA - US Gold)[cr Mirage][t +4 Mirage].z64" size="28049" crc="0000ae1e" md5="118d735934e4096ae46c598734cb93fc" sha1="6fbe1c14ceb36dfad3a9f3f057703a49fc0f4c0c"/>
+		<rom name="2!Crack Down (1990)(SEGA - US Gold)[cr Mirage][t +4 Mirage].z64" size="30224" crc="23c67044" md5="8860f2dcaa606900dab997bc2377af36" sha1="272c6a6a6cabecd5a21f5f526381215bf5dbaabd"/>
+		<rom name="3!Crack Down (1990)(SEGA - US Gold)[cr Mirage][t +4 Mirage].z64" size="34637" crc="ecbd1fa5" md5="f99383d51434b7f155009f429652d275" sha1="22afbf136082e7d83d2769020122c3ecdf3b5b44"/>
+		<rom name="4!Crack Down (1990)(SEGA - US Gold)[cr Mirage][t +4 Mirage].z64" size="21643" crc="e77a2a31" md5="fed216e9804ca154d0d56c859dcf22b6" sha1="a7232be862af62db6f0870ea6383bff6df7cfd3f"/>
 	</game>
 	<game name="Crush (1999)(Smash Designs)[cr LXT+EXC][t +5 LXT+EXC]">
 		<description>Crush (1999)(Smash Designs)[cr LXT+EXC][t +5 LXT+EXC]</description>
@@ -592,19 +599,19 @@
 		<rom name="3!Eon (1993)(Kingsoft)[cr RSI][t +6 RSI].z64" size="39759" crc="a1028f46" md5="32c911f2ec328dcb7b9c78bfe2e666a9" sha1="a85c1eb9a11f9cd55ca68f779cf960df4e6f33c1"/>
 		<rom name="4!Eon (1993)(Kingsoft)[cr RSI][t +6 RSI].z64" size="20417" crc="2e155a57" md5="63c035112ceeec63217f6e2a5757b04e" sha1="365706f775f863b4d98be0c788b568a5a370685f"/>
 	</game>
-	<game name="E-Swat (1990)(US Gold)[cr F4CG][h Destiny][t +3 F4CG]">
-		<description>E-Swat (1990)(US Gold)[cr F4CG][h Destiny][t +3 F4CG]</description>
-		<rom name="1!E-Swat (1990)(US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="43348" crc="4aca69c1" md5="4f258ef812f860fc6acfd2c8edb041b7" sha1="f94085bfcd1a8ab3398566590d7f129ec91ddd49"/>
-		<rom name="2!E-Swat (1990)(US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="43346" crc="1b9abe8d" md5="c9ff66f7df5581f49a865f7d76df491f" sha1="ca7ec0858a39f8f5a609640d1a7f9dd893af2676"/>
-		<rom name="3!E-Swat (1990)(US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="39884" crc="c14c6c63" md5="52f7857c8bd39623d7fbd1df0f626a10" sha1="2af63e5f03ffc7963dbdf977aae2b055ec5bfec5"/>
-		<rom name="4!E-Swat (1990)(US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="14414" crc="ff833fe5" md5="881a620935fe450a3b49150f93dc3751" sha1="58dd2bd3623cf20e2177a0cef9838e628547ba56"/>
+	<game name="ESWAT (1990)(SEGA - US Gold)[cr F4CG][h Destiny][t +3 F4CG]">
+		<description>ESWAT (1990)(SEGA - US Gold)[cr F4CG][h Destiny][t +3 F4CG]</description>
+		<rom name="1!ESWAT (1990)(SEGA - US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="43348" crc="4aca69c1" md5="4f258ef812f860fc6acfd2c8edb041b7" sha1="f94085bfcd1a8ab3398566590d7f129ec91ddd49"/>
+		<rom name="2!ESWAT (1990)(SEGA - US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="43346" crc="1b9abe8d" md5="c9ff66f7df5581f49a865f7d76df491f" sha1="ca7ec0858a39f8f5a609640d1a7f9dd893af2676"/>
+		<rom name="3!ESWAT (1990)(SEGA - US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="39884" crc="c14c6c63" md5="52f7857c8bd39623d7fbd1df0f626a10" sha1="2af63e5f03ffc7963dbdf977aae2b055ec5bfec5"/>
+		<rom name="4!ESWAT (1990)(SEGA - US Gold)[cr F4CG][h Destiny][t +3 F4CG].z64" size="14414" crc="ff833fe5" md5="881a620935fe450a3b49150f93dc3751" sha1="58dd2bd3623cf20e2177a0cef9838e628547ba56"/>
 	</game>
-	<game name="Fire &amp; Forget II - The Death Convoy (1990)(Titus)[cr TSM][t +3 TSM]">
-		<description>Fire &amp; Forget II - The Death Convoy (1990)(Titus)[cr TSM][t +3 TSM]</description>
-		<rom name="1!Fire &amp; Forget II - The Death Convoy (1990)(Titus)[cr TSM][t +3 TSM].z64" size="30550" crc="038c249a" md5="3cc6b23d076e6df7d51afb1103e478a9" sha1="a13e6e7948b055620b6c72d3a314302b9320892b"/>
-		<rom name="2!Fire &amp; Forget II - The Death Convoy (1990)(Titus)[cr TSM][t +3 TSM].z64" size="3812" crc="b638870a" md5="265c4817454d690dcabda09f437a546e" sha1="9453d94b6befaab6fe7374e4b687efde8365f4ea"/>
-		<rom name="3!Fire &amp; Forget II - The Death Convoy (1990)(Titus)[cr TSM][t +3 TSM].z64" size="34633" crc="9beef89b" md5="96ec16ede88bb7fc5a6fd017ccdb297c" sha1="f1fa2cb6d4ef2d57a2faa4a2b2028d54156271cf"/>
-		<rom name="4!Fire &amp; Forget II - The Death Convoy (1990)(Titus)[cr TSM][t +3 TSM].z64" size="24814" crc="99fc29d8" md5="a11f27935cda1e5d30e4e1574d0d67d9" sha1="ce6b198e16c98433e8992d2835675ce6a95ec81e"/>
+	<game name="Fire &amp; Forget II - The Death Convoy (1990)(Titus)(Disk 1 of 2 Side A)[cr TSM][t +3 TSM]">
+		<description>Fire &amp; Forget II - The Death Convoy (1990)(Titus)(Disk 1 of 2 Side A)[cr TSM][t +3 TSM]</description>
+		<rom name="1!Fire &amp; Forget II - The Death Convoy (1990)(Titus)(Disk 1 of 2 Side A)[cr TSM][t +3 TSM].z64" size="30550" crc="038c249a" md5="3cc6b23d076e6df7d51afb1103e478a9" sha1="a13e6e7948b055620b6c72d3a314302b9320892b"/>
+		<rom name="2!Fire &amp; Forget II - The Death Convoy (1990)(Titus)(Disk 1 of 2 Side A)[cr TSM][t +3 TSM].z64" size="3812" crc="b638870a" md5="265c4817454d690dcabda09f437a546e" sha1="9453d94b6befaab6fe7374e4b687efde8365f4ea"/>
+		<rom name="3!Fire &amp; Forget II - The Death Convoy (1990)(Titus)(Disk 1 of 2 Side A)[cr TSM][t +3 TSM].z64" size="34633" crc="9beef89b" md5="96ec16ede88bb7fc5a6fd017ccdb297c" sha1="f1fa2cb6d4ef2d57a2faa4a2b2028d54156271cf"/>
+		<rom name="4!Fire &amp; Forget II - The Death Convoy (1990)(Titus)(Disk 1 of 2 Side A)[cr TSM][t +3 TSM].z64" size="24814" crc="99fc29d8" md5="a11f27935cda1e5d30e4e1574d0d67d9" sha1="ce6b198e16c98433e8992d2835675ce6a95ec81e"/>
 	</game>
 	<game name="Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC]">
 		<description>Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC]</description>
@@ -612,6 +619,13 @@
 		<rom name="2!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC].z64" size="36480" crc="4acbfd65" md5="b4986ec2a36f8020683ac25c89738fdb" sha1="cc304684fd66e6b72697f43c43c8224389751a24"/>
 		<rom name="3!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC].z64" size="34560" crc="2ec33408" md5="8507a17df4fd263d69713e71c02060c0" sha1="c58e8513795caed68ba58b57dc16288cb0b3a612"/>
 		<rom name="4!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC].z64" size="28544" crc="0a02c29a" md5="c183c551740cd7c3338218c1c99fd67d" sha1="060bd1b612a07e990f3889ecb7e8f5269346eed1"/>
+	</game>
+	<game name="Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC][a]">
+		<description>Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC][a]</description>
+		<rom name="1!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC][a].z64" size="38272" crc="d5e2543b" md5="129283588c4db8def2e62a34b9a15648" sha1="498c42cbee3e5ecb2fa84ddecced81abcac98c88"/>
+		<rom name="2!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC][a].z64" size="36359" crc="1c35102f" md5="d900cf26916fc9e0400e892332dbb3e7" sha1="5a7e91db46152a30a94c04446761565a48e4ab96"/>
+		<rom name="3!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC][a].z64" size="34560" crc="2ec33408" md5="8507a17df4fd263d69713e71c02060c0" sha1="c58e8513795caed68ba58b57dc16288cb0b3a612"/>
+		<rom name="4!Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side A)[cr ATC][a].z64" size="28495" crc="f6ed218c" md5="3b39d149820ba1a00cf70aa296845cc4" sha1="9d00adcfc97fb825c58b5fb05ba012cd2d7c0319"/>
 	</game>
 	<game name="Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side B)[cr ATC]">
 		<description>Fire King (1989)(Electronic Arts)(Disk 1 of 2 Side B)[cr ATC]</description>
@@ -633,6 +647,13 @@
 		<rom name="2!Flying Shark (1987)(Firebird)[cr The Goonies][t +5][Picture].z64" size="41000" crc="6b37bb88" md5="cefae490b72097044a9d4572dc33246b" sha1="29f5ad4a6f231d15d1f49e0750fc7f745459c792"/>
 		<rom name="3!Flying Shark (1987)(Firebird)[cr The Goonies][t +5][Picture].z64" size="38862" crc="07590669" md5="b198c7c86a71626a696bf396a2a1e13d" sha1="c286649673662cd35be60b91b62c77b5e5883943"/>
 		<rom name="4!Flying Shark (1987)(Firebird)[cr The Goonies][t +5][Picture].z64" size="24711" crc="d9562c2a" md5="e233d7cf4ec9ba75ed0eab11660c53f2" sha1="4e3d3caed4263ae702e79f84e227d206d8178ab1"/>
+	</game>
+	<game name="Forbidden Forest (1983)(Cosmi)">
+		<description>Forbidden Forest (1983)(Cosmi)</description>
+		<rom name="1!Forbidden Forest (1983)(Cosmi).z64" size="508" crc="98c2f6f6" md5="05d2da586735909ac2ca1a091335c915" sha1="bcee8eeec68fc369761b018fd10532ab1a95e1da"/>
+		<rom name="2!Forbidden Forest (1983)(Cosmi).z64" size="24253" crc="c481799e" md5="f66ed2846924e079d5a420fe93182524" sha1="9ca5a1720a9264941519bb6d943d678a486bd38d"/>
+		<rom name="3!Forbidden Forest (1983)(Cosmi).z64" size="27419" crc="63be5129" md5="c242b8c2f280d652b39bacb961c030af" sha1="bbef05597bcba9b190d33f4aa4c0950593e7785f"/>
+		<rom name="4!Forbidden Forest (1983)(Cosmi).z64" size="527" crc="974eb09e" md5="6fe77b431a86378ecbf6b599669bb6a6" sha1="2eedca8cd3a4a2579d972e596c2fdc85c2860e37"/>
 	</game>
 	<game name="Forbidden Forest 2 - Beyond the Forbidden Forest (1983)(Cosmi)">
 		<description>Forbidden Forest 2 - Beyond the Forbidden Forest (1983)(Cosmi)</description>
@@ -675,6 +696,20 @@
 		<rom name="2!G.I. Joe (1985)(Epyx)(Side B)[cr S8][a].z64" size="43013" crc="183c3aeb" md5="7cbc7b967f4ea5cff473616eba0d5777" sha1="e85be8abe763c827bd2f487024ea66c8324932b2"/>
 		<rom name="3!G.I. Joe (1985)(Epyx)(Side B)[cr S8][a].z64" size="39631" crc="639c614b" md5="6b585346f9712492c9aad5c573a10325" sha1="40e2fabdf8e473f8299a03c09abcae674536b583"/>
 		<rom name="4!G.I. Joe (1985)(Epyx)(Side B)[cr S8][a].z64" size="39032" crc="daa0dbe3" md5="dd37687d3c714b4d03351a6b53eca372" sha1="973c63679d6cb2173c6aabc9466def6c8a124a73"/>
+	</game>
+	<game name="Galencia (2017)(Protovision)">
+		<description>Galencia (2017)(Protovision)</description>
+		<rom name="1!Galencia (2017)(Protovision).z64" size="17120" crc="7b1b6e43" md5="0469d656f910c3cf269714210d16ab2e" sha1="c45591b0424735aee86de3b88ec88f1e38d206c1"/>
+		<rom name="2!Galencia (2017)(Protovision).z64" size="43346" crc="870f599d" md5="2bc646f4a94330235275c61045202c7d" sha1="03ab2b3424fdf2c54e693dbb149530e594cc3c26"/>
+		<rom name="3!Galencia (2017)(Protovision).z64" size="39941" crc="138f9a19" md5="1afc27b2999cdb18b45b853ae24007cf" sha1="b90fb9e7afcf4d72b45533d2044efc968ac7d42c"/>
+		<rom name="4!Galencia (2017)(Protovision).z64" size="10812" crc="724423a5" md5="b18e1dab51d120afa62f90e11bd151e6" sha1="632d866f5f425432a48f3e350fd9e6f0aa2eacde"/>
+	</game>
+	<game name="Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs]">
+		<description>Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs]</description>
+		<rom name="1!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="43337" crc="d48f4407" md5="bcb727f552b30857d35e25c3923e56e4" sha1="ffdf977f089afb389916f6437fc79f2a2db5021f"/>
+		<rom name="2!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="43346" crc="50300300" md5="c9854f0fb917b2c46bdb5274563f7b55" sha1="aa4ab8dcdd4cba2da1a4a726d4d66c1799ee6208"/>
+		<rom name="3!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="41738" crc="77eda8c7" md5="285f312b8587edbf121b32d14d76fc4f" sha1="7531d54b3e61de913bb31c01ce2f11ec592e0a0e"/>
+		<rom name="4!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="45149" crc="95d52359" md5="13708d07e325d6ef200ba189287add64" sha1="8222f64e5fdf816fef7318854bbeb726f60d2a3d"/>
 	</game>
 	<game name="Garrison (1988)(Rainbow Arts)[cr Mayhem+BB]">
 		<description>Garrison (1988)(Rainbow Arts)[cr Mayhem+BB]</description>
@@ -864,19 +899,19 @@
 		<rom name="3!Koronis Rift (1986)(Lucasfilm)[cr REM][t +5 REM][Docs].z64" size="39907" crc="a34ce15f" md5="94a1c9ac42ff0711293bf3f110ffb3f2" sha1="73b62dbe9e13fe4c741456693c50020274fd5398"/>
 		<rom name="4!Koronis Rift (1986)(Lucasfilm)[cr REM][t +5 REM][Docs].z64" size="1826" crc="847c4e44" md5="3e441b96310374aa560b28d3c888ee5e" sha1="7acaa5c1670b928184515f48e30202b594d96691"/>
 	</game>
-	<game name="L.A. Police Dept (1991)(Interceptor)[cr X][t +7 X]">
-		<description>L.A. Police Dept (1991)(Interceptor)[cr X][t +7 X]</description>
-		<rom name="1!L.A. Police Dept (1991)(Interceptor)[cr X][t +7 X].z64" size="508" crc="7d0df890" md5="de8d056d1e3546df15e0d71ad7ef0a56" sha1="98f5aace71e645fae90272a02d21ed9ae84c6e49"/>
-		<rom name="2!L.A. Police Dept (1991)(Interceptor)[cr X][t +7 X].z64" size="26482" crc="7f651b17" md5="2876f6083799d14936501bc18b0c491a" sha1="49888d98eb855985e78f1aecebfe974613f499b0"/>
-		<rom name="3!L.A. Police Dept (1991)(Interceptor)[cr X][t +7 X].z64" size="6432" crc="5d243fe9" md5="ec89a21053c2b4ba8ef25de9877005d1" sha1="3c3dd1e843cdb3ac53c663cfa07b277b53495942"/>
-		<rom name="4!L.A. Police Dept (1991)(Interceptor)[cr X][t +7 X].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
+	<game name="LA Police Dept. (1991)(Players)[cr X][t +7 X]">
+		<description>LA Police Dept. (1991)(Players)[cr X][t +7 X]</description>
+		<rom name="1!LA Police Dept. (1991)(Players)[cr X][t +7 X].z64" size="508" crc="7d0df890" md5="de8d056d1e3546df15e0d71ad7ef0a56" sha1="98f5aace71e645fae90272a02d21ed9ae84c6e49"/>
+		<rom name="2!LA Police Dept. (1991)(Players)[cr X][t +7 X].z64" size="26482" crc="7f651b17" md5="2876f6083799d14936501bc18b0c491a" sha1="49888d98eb855985e78f1aecebfe974613f499b0"/>
+		<rom name="3!LA Police Dept. (1991)(Players)[cr X][t +7 X].z64" size="6432" crc="5d243fe9" md5="ec89a21053c2b4ba8ef25de9877005d1" sha1="3c3dd1e843cdb3ac53c663cfa07b277b53495942"/>
+		<rom name="4!LA Police Dept. (1991)(Players)[cr X][t +7 X].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
 	</game>
-	<game name="Last Duel (1988)(US Gold)[cr Future][t +2 Future]">
-		<description>Last Duel (1988)(US Gold)[cr Future][t +2 Future]</description>
-		<rom name="1!Last Duel (1988)(US Gold)[cr Future][t +2 Future].z64" size="509" crc="2ff58fc5" md5="f5bc81d57b004723353f6f7867f10822" sha1="f7719f993f3394725d8a7c441019563bc993ba60"/>
-		<rom name="2!Last Duel (1988)(US Gold)[cr Future][t +2 Future].z64" size="35186" crc="2cb85a2c" md5="1dce221b226ba2191b97f6e7ce0a9640" sha1="ec494a145db470a34e8a3cce2f7fa6143bf2fc1e"/>
-		<rom name="3!Last Duel (1988)(US Gold)[cr Future][t +2 Future].z64" size="35527" crc="4f165d15" md5="d13555cc33eb81d13bf52ce81a8d4b71" sha1="0b4991d414a9055776daed41d260958af17efb64"/>
-		<rom name="4!Last Duel (1988)(US Gold)[cr Future][t +2 Future].z64" size="640" crc="0d41d1a9" md5="279e1b01b025984460522c974386c70f" sha1="eb170d212df721eb97223c1772b527bd1106ce20"/>
+	<game name="Last Duel (1988)(Capcom)[cr Future][t +2 Future]">
+		<description>Last Duel (1988)(Capcom)[cr Future][t +2 Future]</description>
+		<rom name="1!Last Duel (1988)(Capcom)[cr Future][t +2 Future].z64" size="509" crc="2ff58fc5" md5="f5bc81d57b004723353f6f7867f10822" sha1="f7719f993f3394725d8a7c441019563bc993ba60"/>
+		<rom name="2!Last Duel (1988)(Capcom)[cr Future][t +2 Future].z64" size="35186" crc="2cb85a2c" md5="1dce221b226ba2191b97f6e7ce0a9640" sha1="ec494a145db470a34e8a3cce2f7fa6143bf2fc1e"/>
+		<rom name="3!Last Duel (1988)(Capcom)[cr Future][t +2 Future].z64" size="35527" crc="4f165d15" md5="d13555cc33eb81d13bf52ce81a8d4b71" sha1="0b4991d414a9055776daed41d260958af17efb64"/>
+		<rom name="4!Last Duel (1988)(Capcom)[cr Future][t +2 Future].z64" size="640" crc="0d41d1a9" md5="279e1b01b025984460522c974386c70f" sha1="eb170d212df721eb97223c1772b527bd1106ce20"/>
 	</game>
 	<game name="Lenitive (1993)(Mystery Arts)[cr Success]">
 		<description>Lenitive (1993)(Mystery Arts)[cr Success]</description>
@@ -919,6 +954,13 @@
 		<rom name="2!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD].z64" size="26639" crc="5cf3bae0" md5="b7f73ad256e66245d5cf482fcf7bd838" sha1="eb966a20a89972f499ab4c394b1285ba6960ce63"/>
 		<rom name="3!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD].z64" size="39800" crc="66343d72" md5="72da626b7425cb3bcbe85e13cc962b85" sha1="2c1d66d07c1cb5d1e4ed16b1b3437d5fb904fb52"/>
 		<rom name="4!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD].z64" size="5940" crc="4c7f704c" md5="0a2ec379238b3ab7038734348f3170fc" sha1="622832a32fea29de89646a0f2044e09b9f557eca"/>
+	</game>
+	<game name="LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD][a]">
+		<description>LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD][a]</description>
+		<rom name="1!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD][a].z64" size="1243" crc="51c35567" md5="828a44ebd9bbd3c5eecdab92cbd71dc6" sha1="d0b12b78085701b9bd94cc010bdc71db153004a8"/>
+		<rom name="2!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD][a].z64" size="26639" crc="5cf3bae0" md5="b7f73ad256e66245d5cf482fcf7bd838" sha1="eb966a20a89972f499ab4c394b1285ba6960ce63"/>
+		<rom name="3!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD][a].z64" size="39806" crc="046cc0e3" md5="129fd52a36b074740184c5ab8d196f82" sha1="e844c193704b7f7dd3652fa7780e9c6472b7f283"/>
+		<rom name="4!LuftrauserZ (2017)(RGCD &amp; Vlambeer)[cr 3AD][a].z64" size="5940" crc="4c7f704c" md5="0a2ec379238b3ab7038734348f3170fc" sha1="622832a32fea29de89646a0f2044e09b9f557eca"/>
 	</game>
 	<game name="MACH - Maneuverable Armed Computer Humans (1987)(Starvision)[cr BB]">
 		<description>MACH - Maneuverable Armed Computer Humans (1987)(Starvision)[cr BB]</description>
@@ -969,12 +1011,12 @@
 		<rom name="3!Mega Thrusterball (1994)(Loadstar)[cr Legend - TSM][t +4].z64" size="39808" crc="59c0d714" md5="aaf25ec221b5e1a9b0bee5f2302957a1" sha1="5422f6bfbde12635b7cf364edef9d162bee1bcb9"/>
 		<rom name="4!Mega Thrusterball (1994)(Loadstar)[cr Legend - TSM][t +4].z64" size="9984" crc="8ae49bd8" md5="ca031d5fdc6c4f95dfb7c6c49e8ebe48" sha1="317dcb43ea4ca06f47a4b456bf3a328f0962b11f"/>
 	</game>
-	<game name="Mercs (1991)(US Gold)[cr Legend+NEI][t +3]">
-		<description>Mercs (1991)(US Gold)[cr Legend+NEI][t +3]</description>
-		<rom name="1!Mercs (1991)(US Gold)[cr Legend+NEI][t +3].z64" size="512" crc="591b8bd2" md5="f906f7d1322c0077d8d574ca14a3a99f" sha1="a34b62c7f41e4f3592d6db170d3220bbb40ee17c"/>
-		<rom name="2!Mercs (1991)(US Gold)[cr Legend+NEI][t +3].z64" size="38246" crc="f2b9f8f8" md5="9b183ce097e0b8bacc349be5ab9d57a8" sha1="4d2df55330ac5eb8a67b41a890957198c6796a0f"/>
-		<rom name="3!Mercs (1991)(US Gold)[cr Legend+NEI][t +3].z64" size="39874" crc="4768ae24" md5="f160b46c1e5576f9cc081ea8d876b49c" sha1="4f13f5bf045bcdf7b4d96432dd73bad5e70b9b2c"/>
-		<rom name="4!Mercs (1991)(US Gold)[cr Legend+NEI][t +3].z64" size="7667" crc="d85211c3" md5="134fbdfa77fbb3e536191a9785e73fac" sha1="9f3619fa17ce2e22a41c315c5168bf6169746c3f"/>
+	<game name="Mercs (1991)(Capcom - US Gold)[cr Legend+NEI][t +3]">
+		<description>Mercs (1991)(Capcom - US Gold)[cr Legend+NEI][t +3]</description>
+		<rom name="1!Mercs (1991)(Capcom - US Gold)[cr Legend+NEI][t +3].z64" size="512" crc="591b8bd2" md5="f906f7d1322c0077d8d574ca14a3a99f" sha1="a34b62c7f41e4f3592d6db170d3220bbb40ee17c"/>
+		<rom name="2!Mercs (1991)(Capcom - US Gold)[cr Legend+NEI][t +3].z64" size="38246" crc="f2b9f8f8" md5="9b183ce097e0b8bacc349be5ab9d57a8" sha1="4d2df55330ac5eb8a67b41a890957198c6796a0f"/>
+		<rom name="3!Mercs (1991)(Capcom - US Gold)[cr Legend+NEI][t +3].z64" size="39874" crc="4768ae24" md5="f160b46c1e5576f9cc081ea8d876b49c" sha1="4f13f5bf045bcdf7b4d96432dd73bad5e70b9b2c"/>
+		<rom name="4!Mercs (1991)(Capcom - US Gold)[cr Legend+NEI][t +3].z64" size="7667" crc="d85211c3" md5="134fbdfa77fbb3e536191a9785e73fac" sha1="9f3619fa17ce2e22a41c315c5168bf6169746c3f"/>
 	</game>
 	<game name="Metallic Legend (demo-playable) (19xx)(Serkan &amp; Erkan Dogan)[cr SCS+TRC]">
 		<description>Metallic Legend (demo-playable) (19xx)(Serkan &amp; Erkan Dogan)[cr SCS+TRC]</description>
@@ -1100,6 +1142,13 @@
 		<rom name="2!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="1514" crc="0bcb3024" md5="e7ddccf68777ea084408ad43a47a647d" sha1="537542def734a5df1134f3c6a20a5172dbd4c0d6"/>
 		<rom name="3!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="26633" crc="bf9e6561" md5="3a85cf29105b662f56518249b24febe6" sha1="025025ce9c2c3e0d23dd714d06e9ffe5bfc0cc42"/>
 		<rom name="4!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="19290" crc="8ce5d160" md5="f898791ca2465aa5cdb798b3059d8ed5" sha1="3959c23a68916b56a1471df880bcf530b56a8d1a"/>
+	</game>
+	<game name="No Mercy (1989)(Double Density)[cr EXC][t +5 Legend]">
+		<description>No Mercy (1989)(Double Density)[cr EXC][t +5 Legend]</description>
+		<rom name="1!No Mercy (1989)(Double Density)[cr EXC][t +5 Legend].z64" size="43348" crc="8694deee" md5="4953a412389592752e4c5de561286add" sha1="27f4c911c56241147efb8d8b56dc6f22fa67a3a4"/>
+		<rom name="2!No Mercy (1989)(Double Density)[cr EXC][t +5 Legend].z64" size="43346" crc="183e62b9" md5="784274dff52acf714348e8238ecc240a" sha1="0956e29845edcffb05a62fc9aed2e9abb243091d"/>
+		<rom name="3!No Mercy (1989)(Double Density)[cr EXC][t +5 Legend].z64" size="39964" crc="68db23f6" md5="904f19d74c3b022689a01514c0d95e30" sha1="a5f1538fcb4c13432ab48e8c8bb3573913d4b49f"/>
+		<rom name="4!No Mercy (1989)(Double Density)[cr EXC][t +5 Legend].z64" size="45152" crc="4810ace8" md5="4be56f2025d645c1cb02b5d1986c7e6a" sha1="1aa533595da71d65a33ec237a33bbaef3117c407"/>
 	</game>
 	<game name="Operation Thunderbolt (1990)(Ocean - Taito)[cr I+T][h Sharks][t +3 I+T]">
 		<description>Operation Thunderbolt (1990)(Ocean - Taito)[cr I+T][h Sharks][t +3 I+T]</description>
@@ -1234,12 +1283,12 @@
 		<rom name="3!Quota (1995)(Binary Zone)(PD)[cr Cosine+PTG].z64" size="17036" crc="e2ea5d91" md5="b9f7eecf81f9525b9fee3945e61945ca" sha1="d69a04dcefe7b9d991f21f2e64f42a1a814419fe"/>
 		<rom name="4!Quota (1995)(Binary Zone)(PD)[cr Cosine+PTG].z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
 	</game>
-	<game name="Raid Over Moscow (1984)(Access Software)[cr ESI]">
-		<description>Raid Over Moscow (1984)(Access Software)[cr ESI]</description>
-		<rom name="1!Raid Over Moscow (1984)(Access Software)[cr ESI].z64" size="31035" crc="a2c331e0" md5="4d9c8c328d190076726a1269d96e854d" sha1="c1127fee48cda52f7e9d59d36dc6b0e8f4f40981"/>
-		<rom name="2!Raid Over Moscow (1984)(Access Software)[cr ESI].z64" size="21542" crc="e6af4b83" md5="c78d0835a2e416c1a24ce0c8597f97bb" sha1="1cfe24ca2f02cff4e5667e53a3a608abaa99c31b"/>
-		<rom name="3!Raid Over Moscow (1984)(Access Software)[cr ESI].z64" size="24549" crc="7d2c2acd" md5="ecb485e167dfa17bede5a1fe821b28ca" sha1="b4a0c0e2d789f928e5b08dfda6e1c1f01f30105d"/>
-		<rom name="4!Raid Over Moscow (1984)(Access Software)[cr ESI].z64" size="20811" crc="8b2af6cc" md5="b05acdc6a055f27b372f2747f69b53f3" sha1="bb725f34d33ea296763d38e28fc4efc1f09f5d0d"/>
+	<game name="Raid over Moscow (1984)(Access)[cr ESI]">
+		<description>Raid over Moscow (1984)(Access)[cr ESI]</description>
+		<rom name="1!Raid over Moscow (1984)(Access)[cr ESI].z64" size="31035" crc="a2c331e0" md5="4d9c8c328d190076726a1269d96e854d" sha1="c1127fee48cda52f7e9d59d36dc6b0e8f4f40981"/>
+		<rom name="2!Raid over Moscow (1984)(Access)[cr ESI].z64" size="21542" crc="e6af4b83" md5="c78d0835a2e416c1a24ce0c8597f97bb" sha1="1cfe24ca2f02cff4e5667e53a3a608abaa99c31b"/>
+		<rom name="3!Raid over Moscow (1984)(Access)[cr ESI].z64" size="24549" crc="7d2c2acd" md5="ecb485e167dfa17bede5a1fe821b28ca" sha1="b4a0c0e2d789f928e5b08dfda6e1c1f01f30105d"/>
+		<rom name="4!Raid over Moscow (1984)(Access)[cr ESI].z64" size="20811" crc="8b2af6cc" md5="b05acdc6a055f27b372f2747f69b53f3" sha1="bb725f34d33ea296763d38e28fc4efc1f09f5d0d"/>
 	</game>
 	<game name="Rambo III - The Rescue (1988)(Ocean)[cr USA]">
 		<description>Rambo III - The Rescue (1988)(Ocean)[cr USA]</description>
@@ -1381,6 +1430,13 @@
 		<rom name="2!Robocop (1989)(Ocean)[cr FBR-DCS][Z64 Part 1-4].z64" size="43346" crc="965f50af" md5="a0351574fe03a47a7ec1e1fbe8c24af4" sha1="43cd580a76b4ecc247daa45c8e3cdf68e2d3002e"/>
 		<rom name="3!Robocop (1989)(Ocean)[cr FBR-DCS][Z64 Part 1-4].z64" size="39784" crc="e977b576" md5="34f89b1b96c75e95e6316e78d6c07e7c" sha1="69c34bfe0192a29f9d3290c87c134dbc184f3189"/>
 		<rom name="4!Robocop (1989)(Ocean)[cr FBR-DCS][Z64 Part 1-4].z64" size="37682" crc="e87ac0ba" md5="a629739006c842731fa07ef5c3bc5bcd" sha1="583f4954ccf228bd958251847fa879c538e953d3"/>
+	</game>
+	<game name="Robocop 2 (1990)(Ocean)[cr I+T][h Vermeer][t +2 I+T]">
+		<description>Robocop 2 (1990)(Ocean)[cr I+T][h Vermeer][t +2 I+T]</description>
+		<rom name="1!Robocop 2 (1990)(Ocean)[cr I+T][h Vermeer][t +2 I+T].z64" size="27635" crc="d7081d9a" md5="f1425de54766ccc42b488d7d70da43e3" sha1="ffc4593c81605044dc1fbccff77b5290709299e4"/>
+		<rom name="2!Robocop 2 (1990)(Ocean)[cr I+T][h Vermeer][t +2 I+T].z64" size="43346" crc="36909527" md5="b1087468a4dec1e8002d33802063885e" sha1="93ebb67a42c278976bacda0510f57f1e1fda65f6"/>
+		<rom name="3!Robocop 2 (1990)(Ocean)[cr I+T][h Vermeer][t +2 I+T].z64" size="40270" crc="707b7337" md5="a3ba8d3873de01f7ed6baefff144d8a7" sha1="9ce4049580c038952dd87fca584ed0ca07ac6e3c"/>
+		<rom name="4!Robocop 2 (1990)(Ocean)[cr I+T][h Vermeer][t +2 I+T].z64" size="28133" crc="4887db9a" md5="93725f7ace5cfad32cd3ebb7efdab921" sha1="9f2866a506d401360116c502c001dabe38e19d53"/>
 	</game>
 	<game name="Robocop 2 (1990)(Ocean)[cr Legend - NEI][t +6]">
 		<description>Robocop 2 (1990)(Ocean)[cr Legend - NEI][t +6]</description>
@@ -1537,19 +1593,19 @@
 		<rom name="3!Snare (1989)(Thalamus)[cr Triad][t +2 Triad].z64" size="29186" crc="91adbc9e" md5="b138c5b474790492d78c31ae8593f184" sha1="a59042459bea9a6269c319d714c423e1851af921"/>
 		<rom name="4!Snare (1989)(Thalamus)[cr Triad][t +2 Triad].z64" size="640" crc="6b395ea3" md5="dcccbc98ce7dd4ad6bf3e91bf575a98f" sha1="663b580b8b5159ffb906e546f86581cd4380f2cd"/>
 	</game>
-	<game name="Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX]">
-		<description>Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX]</description>
-		<rom name="1!Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX].z64" size="1516" crc="ae45ec4d" md5="a3e259d1a25004575b894527aafa5489" sha1="cd39db61756fbe7b20d0c796973d5a3e3eb76a8e"/>
-		<rom name="2!Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX].z64" size="24887" crc="dfa7bcdb" md5="667e80cad36070d74821055c18647050" sha1="282ae3a0d808a826819c645d2630cc0bad443f86"/>
-		<rom name="3!Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX].z64" size="31991" crc="8dce1aba" md5="20e353a1021602b44d1910ba99a8cb43" sha1="6da880ac603c632fffd04756fd8dc8293523f56a"/>
-		<rom name="4!Sonic Boom (1990)(Activision)[cr CTX][t +2 CTX].z64" size="1664" crc="bbfb132e" md5="055cd8b601ed5a23b03b0e31e54c2318" sha1="bea2dd9bc91f0aa1b7327afcac36b85cbfda85ef"/>
+	<game name="Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX]">
+		<description>Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX]</description>
+		<rom name="1!Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX].z64" size="1516" crc="ae45ec4d" md5="a3e259d1a25004575b894527aafa5489" sha1="cd39db61756fbe7b20d0c796973d5a3e3eb76a8e"/>
+		<rom name="2!Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX].z64" size="24887" crc="dfa7bcdb" md5="667e80cad36070d74821055c18647050" sha1="282ae3a0d808a826819c645d2630cc0bad443f86"/>
+		<rom name="3!Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX].z64" size="31991" crc="8dce1aba" md5="20e353a1021602b44d1910ba99a8cb43" sha1="6da880ac603c632fffd04756fd8dc8293523f56a"/>
+		<rom name="4!Sonic Boom (1990)(Activision - SEGA)[cr CTX][t +2 CTX].z64" size="1664" crc="bbfb132e" md5="055cd8b601ed5a23b03b0e31e54c2318" sha1="bea2dd9bc91f0aa1b7327afcac36b85cbfda85ef"/>
 	</game>
-	<game name="Sonic Boom (1990)(Activision)[cr Triad][t +4 Triad]">
-		<description>Sonic Boom (1990)(Activision)[cr Triad][t +4 Triad]</description>
-		<rom name="1!Sonic Boom (1990)(Activision)[cr Triad][t +4 Triad].z64" size="508" crc="dee81f44" md5="420913108a541f8e9d3855ec91f5f55d" sha1="caeff55a98063d7a37332c5c891aeabdeef3a935"/>
-		<rom name="2!Sonic Boom (1990)(Activision)[cr Triad][t +4 Triad].z64" size="506" crc="72d92239" md5="ef4bae7508940492d5452b4f13965cab" sha1="cce3457bf3438387de045937efbb29777794819a"/>
-		<rom name="3!Sonic Boom (1990)(Activision)[cr Triad][t +4 Triad].z64" size="18806" crc="95271d3c" md5="73cbf7c03a73ea2a3e168a8f62740554" sha1="08f4f8c93146119599f62eadf3773036987431d3"/>
-		<rom name="4!Sonic Boom (1990)(Activision)[cr Triad][t +4 Triad].z64" size="32363" crc="51442c8c" md5="b2009e688fae233a80ae033ec1f124e3" sha1="2bf40a88822e680ed3d8bc80b95533ff9093540e"/>
+	<game name="Sonic Boom (1990)(Activision - SEGA)[cr Triad][t +4 Triad]">
+		<description>Sonic Boom (1990)(Activision - SEGA)[cr Triad][t +4 Triad]</description>
+		<rom name="1!Sonic Boom (1990)(Activision - SEGA)[cr Triad][t +4 Triad].z64" size="508" crc="dee81f44" md5="420913108a541f8e9d3855ec91f5f55d" sha1="caeff55a98063d7a37332c5c891aeabdeef3a935"/>
+		<rom name="2!Sonic Boom (1990)(Activision - SEGA)[cr Triad][t +4 Triad].z64" size="506" crc="72d92239" md5="ef4bae7508940492d5452b4f13965cab" sha1="cce3457bf3438387de045937efbb29777794819a"/>
+		<rom name="3!Sonic Boom (1990)(Activision - SEGA)[cr Triad][t +4 Triad].z64" size="18806" crc="95271d3c" md5="73cbf7c03a73ea2a3e168a8f62740554" sha1="08f4f8c93146119599f62eadf3773036987431d3"/>
+		<rom name="4!Sonic Boom (1990)(Activision - SEGA)[cr Triad][t +4 Triad].z64" size="32363" crc="51442c8c" md5="b2009e688fae233a80ae033ec1f124e3" sha1="2bf40a88822e680ed3d8bc80b95533ff9093540e"/>
 	</game>
 	<game name="Space Gun (1992)(Ocean)[cr DTC][t +3 DTC]">
 		<description>Space Gun (1992)(Ocean)[cr DTC][t +3 DTC]</description>
@@ -1592,6 +1648,13 @@
 		<rom name="2!Star Trek - Strategic Operations Simulator (demo) (1983)(Sega)[a].z64" size="43281" crc="40133185" md5="92d7b81a2259f926cb5d1f963829c181" sha1="08548220f37ddef91cf4ff3c3de993dabc9105e9"/>
 		<rom name="3!Star Trek - Strategic Operations Simulator (demo) (1983)(Sega)[a].z64" size="35934" crc="37453249" md5="5289f7b17ba646a082c4840cc925636f" sha1="4f223c2d00da70a47237611c0c407ce87bbcc02e"/>
 		<rom name="4!Star Trek - Strategic Operations Simulator (demo) (1983)(Sega)[a].z64" size="1577" crc="48a155aa" md5="54f0c27c1571123e630a9a1b7107efc8" sha1="533d8a1a40b950ed0aa4071e0d96ebafed9652cc"/>
+	</game>
+	<game name="Stoppt den Calippo Fresser (1992)(Comad)[cr RBW][t +3 Alan]">
+		<description>Stoppt den Calippo Fresser (1992)(Comad)[cr RBW][t +3 Alan]</description>
+		<rom name="1!Stoppt den Calippo Fresser (1992)(Comad)[cr RBW][t +3 Alan].z64" size="41744" crc="5ed9af13" md5="4487fae7654669feca8a1b6254fb836a" sha1="544df90c7b097f1d8bd93e992efe5b040a52fdb4"/>
+		<rom name="2!Stoppt den Calippo Fresser (1992)(Comad)[cr RBW][t +3 Alan].z64" size="43346" crc="f63b7fb4" md5="96f08cbe7a000c65d2ffd7011f0f0b2f" sha1="e4835e7ab6df21b1c0ebfcffbbd69e2ef720687d"/>
+		<rom name="3!Stoppt den Calippo Fresser (1992)(Comad)[cr RBW][t +3 Alan].z64" size="39851" crc="7fa17cd7" md5="668e75904a8c3ceb86812a6a533491b4" sha1="bf203ddafc6669d668c4f9e4e5f69fd88f70c2dc"/>
+		<rom name="4!Stoppt den Calippo Fresser (1992)(Comad)[cr RBW][t +3 Alan].z64" size="41240" crc="fbfd46a0" md5="daf5eeef97e54becbb4b965b03831dcb" sha1="ebc685416aeae5d6a173aff948524fcd04b2534f"/>
 	</game>
 	<game name="Stoppt den Calippo Fresser (1992)(Comad)[cr SCS][t +4 SCS]">
 		<description>Stoppt den Calippo Fresser (1992)(Comad)[cr SCS][t +4 SCS]</description>
@@ -1881,6 +1944,13 @@
 		<rom name="2!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr Triangle].z64" size="43346" crc="dbfbaebf" md5="39164bbb9b825e9114653e81053b80dd" sha1="6c6ff794d1e0120cab9d4987b393c2b843b713a3"/>
 		<rom name="3!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr Triangle].z64" size="40048" crc="26913331" md5="6e5af2eabfa4574baa2bd410607d0546" sha1="64ea064fe504df279657dab08c37273d43a59941"/>
 		<rom name="4!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr Triangle].z64" size="40377" crc="4aa08439" md5="8cf4cc114cf2986e28a3fcb0e3612cb0" sha1="6a2ebffe90ada3035a04ee1a56a8fd6893c8e719"/>
+	</game>
+	<game name="Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr X-R][t +6 X-R]">
+		<description>Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr X-R][t +6 X-R]</description>
+		<rom name="1!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr X-R][t +6 X-R].z64" size="28581" crc="9b51ad43" md5="99cc032da4b0aad4dcb496c8090de623" sha1="5d5867fb24777eed58fc1a2a68d162b01a79fbdf"/>
+		<rom name="2!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr X-R][t +6 X-R].z64" size="42938" crc="b3e409d9" md5="f5a37210d716694de5d0eb72fc2f99d0" sha1="558da6b33f870bf110ab95a177bc191f613801d9"/>
+		<rom name="3!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr X-R][t +6 X-R].z64" size="39335" crc="3c10640b" md5="2d4b73dc6b99d1ee6673454333eff72f" sha1="26f6703ec723886ad41399580c959877a38bab9d"/>
+		<rom name="4!Turrican II - The Final Fight (1991)(Rainbow Arts)(Side B)[cr X-R][t +6 X-R].z64" size="32410" crc="6f52e929" md5="fbc9263b82a292db360110341ff745a9" sha1="3d3aed7ada3872919c574e88bcfb530e3b78288c"/>
 	</game>
 	<game name="Victory Road (1987)(Data East)[cr NFI]">
 		<description>Victory Road (1987)(Data East)[cr NFI]</description>

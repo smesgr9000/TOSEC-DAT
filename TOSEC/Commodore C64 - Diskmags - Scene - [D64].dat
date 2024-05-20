@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Diskmags - Scene - [D64]</name>
-		<description>Commodore C64 - Diskmags - Scene - [D64] (TOSEC-v2023-06-14)</description>
+		<description>Commodore C64 - Diskmags - Scene - [D64] (TOSEC-v2024-03-11)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-03-11</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1900,6 +1900,10 @@
 		<description>Are We the Best #01 (1991)(Chromance)[a2]</description>
 		<rom name="Are We the Best #01 (1991)(Chromance)[a2].d64" size="174848" crc="e0da5f65" md5="2235ae51f741adb0815b45621e417264" sha1="39206a52bc6fea3dcbd47f3fe0601e13b48e28db"/>
 	</game>
+	<game name="Are We the Best #01 (1991)(Chromance)[a3]">
+		<description>Are We the Best #01 (1991)(Chromance)[a3]</description>
+		<rom name="Are We the Best #01 (1991)(Chromance)[a3].d64" size="174848" crc="fe49ef5b" md5="2df51f1d70d8e9fe654f513c26a994af" sha1="544554c8b2e27b136e286333e6d413833ce19e9e"/>
+	</game>
 	<game name="Are We the Best #02 (1991)(Chromance)">
 		<description>Are We the Best #02 (1991)(Chromance)</description>
 		<rom name="Are We the Best #02 (1991)(Chromance).d64" size="174848" crc="77e474df" md5="31bc4539fecb0dfe62b820233417d3a5" sha1="9c57de0f103ee848373f3c6b33287cfc8feca949"/>
@@ -1914,19 +1918,11 @@
 	</game>
 	<game name="Are We the Best #03 (1991)(Chromance)">
 		<description>Are We the Best #03 (1991)(Chromance)</description>
-		<rom name="Are We the Best #03 (1991)(Chromance).d64" size="174848" crc="775962b0" md5="b44474df4929e1603e02237eb51ee5d1" sha1="7b6dd0e8f95608393b6b23aa822b5765f4eeb0d2"/>
+		<rom name="Are We the Best #03 (1991)(Chromance).d64" size="174848" crc="28ece75e" md5="47941e01ce2b5f704ebe8bf7674ed0c1" sha1="abd5b778330b991c5b058645c4f032075517d24a"/>
 	</game>
 	<game name="Are We the Best #03 (1991)(Chromance)[a]">
 		<description>Are We the Best #03 (1991)(Chromance)[a]</description>
 		<rom name="Are We the Best #03 (1991)(Chromance)[a].d64" size="174848" crc="fe301ea0" md5="a5725d5779c3fba1a33771f081c7e689" sha1="72cdba9726af917ab3688bddd420ae9393ebb649"/>
-	</game>
-	<game name="Are We the Best #03 (1991)(Chromance)[a2]">
-		<description>Are We the Best #03 (1991)(Chromance)[a2]</description>
-		<rom name="Are We the Best #03 (1991)(Chromance)[a2].d64" size="174848" crc="252554ec" md5="8148f4c4615d4b4cb10fb0e327929a62" sha1="502dc3dce6ab7c0a7af2a5feca2c114d13463229"/>
-	</game>
-	<game name="Are We the Best #03 (1991)(Chromance)[a3]">
-		<description>Are We the Best #03 (1991)(Chromance)[a3]</description>
-		<rom name="Are We the Best #03 (1991)(Chromance)[a3].d64" size="174848" crc="28ece75e" md5="47941e01ce2b5f704ebe8bf7674ed0c1" sha1="abd5b778330b991c5b058645c4f032075517d24a"/>
 	</game>
 	<game name="Are We the Best #04 (1991)(Chromance)">
 		<description>Are We the Best #04 (1991)(Chromance)</description>
@@ -1938,7 +1934,27 @@
 	</game>
 	<game name="Are We the Best #04 (1991)(Chromance)[a2]">
 		<description>Are We the Best #04 (1991)(Chromance)[a2]</description>
-		<rom name="Are We the Best #04 (1991)(Chromance)[a2].d64" size="174848" crc="fe49ef5b" md5="2df51f1d70d8e9fe654f513c26a994af" sha1="544554c8b2e27b136e286333e6d413833ce19e9e"/>
+		<rom name="Are We the Best #04 (1991)(Chromance)[a2].d64" size="174848" crc="775962b0" md5="b44474df4929e1603e02237eb51ee5d1" sha1="7b6dd0e8f95608393b6b23aa822b5765f4eeb0d2"/>
+	</game>
+	<game name="Are We the Best #04 (1991)(Chromance)[a3]">
+		<description>Are We the Best #04 (1991)(Chromance)[a3]</description>
+		<rom name="Are We the Best #04 (1991)(Chromance)[a3].d64" size="174848" crc="7edfa199" md5="1a5be8bd94d2aaadfb53c9500727ba77" sha1="97daf3e897d7c6a71dddeab8e704f6005ec68b2e"/>
+	</game>
+	<game name="Are We the Best #04 (1991)(Chromance)[a4]">
+		<description>Are We the Best #04 (1991)(Chromance)[a4]</description>
+		<rom name="Are We the Best #04 (1991)(Chromance)[a4].d64" size="174848" crc="08c23ed4" md5="59e92dbaaa4cc1e23cee2315285d6a75" sha1="6481b02ea43e7ba9cb0f06556cc1f0a4615f48dc"/>
+	</game>
+	<game name="Are We the Best #04 (1991)(Chromance)[a5]">
+		<description>Are We the Best #04 (1991)(Chromance)[a5]</description>
+		<rom name="Are We the Best #04 (1991)(Chromance)[a5].d64" size="174848" crc="1c9949dd" md5="b508f3eb96a7c42a0aea66a4b0cbc9da" sha1="7fe39c9c69eaf1310ba02516ce075d442e55e2ba"/>
+	</game>
+	<game name="Are We the Best #04 (1991)(Chromance)[a6]">
+		<description>Are We the Best #04 (1991)(Chromance)[a6]</description>
+		<rom name="Are We the Best #04 (1991)(Chromance)[a6].d64" size="174848" crc="6c36b376" md5="f31b2a876fbd50bce3e7416892624bd6" sha1="8c13955ca31912a0f991b09c649d3b21b080a052"/>
+	</game>
+	<game name="Are We the Best #04 (1991)(Chromance)[a7]">
+		<description>Are We the Best #04 (1991)(Chromance)[a7]</description>
+		<rom name="Are We the Best #04 (1991)(Chromance)[a7].d64" size="174848" crc="252554ec" md5="8148f4c4615d4b4cb10fb0e327929a62" sha1="502dc3dce6ab7c0a7af2a5feca2c114d13463229"/>
 	</game>
 	<game name="Are We the Best #05 (1991)(Chromance)">
 		<description>Are We the Best #05 (1991)(Chromance)</description>
@@ -1970,27 +1986,11 @@
 	</game>
 	<game name="Are We the Best #06 (1992)(Chromance)[a3]">
 		<description>Are We the Best #06 (1992)(Chromance)[a3]</description>
-		<rom name="Are We the Best #06 (1992)(Chromance)[a3].d64" size="174848" crc="6c36b376" md5="f31b2a876fbd50bce3e7416892624bd6" sha1="8c13955ca31912a0f991b09c649d3b21b080a052"/>
+		<rom name="Are We the Best #06 (1992)(Chromance)[a3].d64" size="174848" crc="eb0bc213" md5="b66e8d29f7d92e9042cb2cd0cd9f7e35" sha1="a79965d9639d272ee0c944f248b83dd417f3ebf3"/>
 	</game>
 	<game name="Are We the Best #06 (1992)(Chromance)[a4]">
 		<description>Are We the Best #06 (1992)(Chromance)[a4]</description>
-		<rom name="Are We the Best #06 (1992)(Chromance)[a4].d64" size="174848" crc="7edfa199" md5="1a5be8bd94d2aaadfb53c9500727ba77" sha1="97daf3e897d7c6a71dddeab8e704f6005ec68b2e"/>
-	</game>
-	<game name="Are We the Best #06 (1992)(Chromance)[a5]">
-		<description>Are We the Best #06 (1992)(Chromance)[a5]</description>
-		<rom name="Are We the Best #06 (1992)(Chromance)[a5].d64" size="174848" crc="ff50b51a" md5="eb5bd1ba0af95244d9fc6473a7b5770d" sha1="93b6df4f3d8964d8a580d86fee465afeda933c0e"/>
-	</game>
-	<game name="Are We the Best #06 (1992)(Chromance)[a6]">
-		<description>Are We the Best #06 (1992)(Chromance)[a6]</description>
-		<rom name="Are We the Best #06 (1992)(Chromance)[a6].d64" size="174848" crc="eb0bc213" md5="b66e8d29f7d92e9042cb2cd0cd9f7e35" sha1="a79965d9639d272ee0c944f248b83dd417f3ebf3"/>
-	</game>
-	<game name="Are We the Best #06 (1992)(Chromance)[a7]">
-		<description>Are We the Best #06 (1992)(Chromance)[a7]</description>
-		<rom name="Are We the Best #06 (1992)(Chromance)[a7].d64" size="174848" crc="08c23ed4" md5="59e92dbaaa4cc1e23cee2315285d6a75" sha1="6481b02ea43e7ba9cb0f06556cc1f0a4615f48dc"/>
-	</game>
-	<game name="Are We the Best #06 (1992)(Chromance)[a8]">
-		<description>Are We the Best #06 (1992)(Chromance)[a8]</description>
-		<rom name="Are We the Best #06 (1992)(Chromance)[a8].d64" size="174848" crc="1c9949dd" md5="b508f3eb96a7c42a0aea66a4b0cbc9da" sha1="7fe39c9c69eaf1310ba02516ce075d442e55e2ba"/>
+		<rom name="Are We the Best #06 (1992)(Chromance)[a4].d64" size="174848" crc="ff50b51a" md5="eb5bd1ba0af95244d9fc6473a7b5770d" sha1="93b6df4f3d8964d8a580d86fee465afeda933c0e"/>
 	</game>
 	<game name="Are We the Best #07 (1992)(Chromance)">
 		<description>Are We the Best #07 (1992)(Chromance)</description>
@@ -4912,10 +4912,6 @@
 		<description>Chaos Chronicle #1 (1990)(INC)[a]</description>
 		<rom name="Chaos Chronicle #1 (1990)(INC)[a].d64" size="174848" crc="98157451" md5="b37fdfa68aba92449fc37117f4ab8e48" sha1="f77e9c1f97ef9093108b5fdd2c53e755849103e1"/>
 	</game>
-	<game name="Chaos Chronicle #1,2,3 (1990)(INC)">
-		<description>Chaos Chronicle #1,2,3 (1990)(INC)</description>
-		<rom name="Chaos Chronicle #1,2,3 (1990)(INC).d64" size="174848" crc="eb4fdc42" md5="4d877779ff0ae9d1a9f1d93a14cdd70c" sha1="39553cb6aef73af948ae3c831f906bcc10fdbcfc"/>
-	</game>
 	<game name="Chaos Chronicle #2 (1990)(INC)">
 		<description>Chaos Chronicle #2 (1990)(INC)</description>
 		<rom name="Chaos Chronicle #2 (1990)(INC).d64" size="174848" crc="84103c6f" md5="8794ed6331326349f1a0b72a7843a003" sha1="aeda1d529d0995856c211b3f92011e265a4d70e6"/>
@@ -5159,6 +5155,10 @@
 	<game name="Chaotic Country #1 (1993-02-01)(Craftmen Company)(hu)">
 		<description>Chaotic Country #1 (1993-02-01)(Craftmen Company)(hu)</description>
 		<rom name="Chaotic Country #1 (1993-02-01)(Craftmen Company)(hu).d64" size="174848" crc="e32f8ce0" md5="79dd70ea9820166edb17c4fc38c192b3" sha1="ed936843b1249d09c8d432add3d0cc25985d2b97"/>
+	</game>
+	<game name="Chaotic Country #1 (2023-05)(Black - Harry)(hu)">
+		<description>Chaotic Country #1 (2023-05)(Black - Harry)(hu)</description>
+		<rom name="Chaotic Country #1 (2023-05)(Black - Harry)(hu).d64" size="174848" crc="98aea1b3" md5="68aa375b6567983def583a2c14c847b0" sha1="b296a89599153c722b64f1b65d18271ab704ed49"/>
 	</game>
 	<game name="Chaotic Country #10 (1994)(Therapy)(Side A)">
 		<description>Chaotic Country #10 (1994)(Therapy)(Side A)</description>
@@ -12792,17 +12792,17 @@
 		<description>Envoyer #01 (1990)(Unit 5)[note]</description>
 		<rom name="Envoyer #01 (1990)(Unit 5)[note].d64" size="174848" crc="f19a3b0b" md5="415c1ac2910f58c383aa4aa06b945c64" sha1="1b05cef952b55db66912ac80b5cd504371aab827"/>
 	</game>
-	<game name="Envoyer #02 (19xx)(Unit5)">
-		<description>Envoyer #02 (19xx)(Unit5)</description>
-		<rom name="Envoyer #02 (19xx)(Unit5).d64" size="174848" crc="e38fb277" md5="d63f41801f7bc70072cc8aa10e310812" sha1="c1c39f11134d83bd8014080604bbb6335dad962e"/>
+	<game name="Envoyer #02 (19xx)(Unit 5)">
+		<description>Envoyer #02 (19xx)(Unit 5)</description>
+		<rom name="Envoyer #02 (19xx)(Unit 5).d64" size="174848" crc="e38fb277" md5="d63f41801f7bc70072cc8aa10e310812" sha1="c1c39f11134d83bd8014080604bbb6335dad962e"/>
 	</game>
-	<game name="Envoyer #02 (19xx)(Unit5)[a]">
-		<description>Envoyer #02 (19xx)(Unit5)[a]</description>
-		<rom name="Envoyer #02 (19xx)(Unit5)[a].d64" size="174848" crc="8463c0d7" md5="6d96e05f65bdbc44a803fd28d3c4c431" sha1="baf5c2c00208712c9245d4010e0c847f00b66e9e"/>
+	<game name="Envoyer #02 (19xx)(Unit 5)[a]">
+		<description>Envoyer #02 (19xx)(Unit 5)[a]</description>
+		<rom name="Envoyer #02 (19xx)(Unit 5)[a].d64" size="174848" crc="8463c0d7" md5="6d96e05f65bdbc44a803fd28d3c4c431" sha1="baf5c2c00208712c9245d4010e0c847f00b66e9e"/>
 	</game>
-	<game name="Envoyer #02 (19xx)(Unit5)[a2]">
-		<description>Envoyer #02 (19xx)(Unit5)[a2]</description>
-		<rom name="Envoyer #02 (19xx)(Unit5)[a2].d64" size="174848" crc="25545483" md5="784838fc57132f1fcc0c3653ab1589a0" sha1="42f6d2fba4e7f9c59e81e454957aa5804c607bbe"/>
+	<game name="Envoyer #02 (19xx)(Unit 5)[a2]">
+		<description>Envoyer #02 (19xx)(Unit 5)[a2]</description>
+		<rom name="Envoyer #02 (19xx)(Unit 5)[a2].d64" size="174848" crc="25545483" md5="784838fc57132f1fcc0c3653ab1589a0" sha1="42f6d2fba4e7f9c59e81e454957aa5804c607bbe"/>
 	</game>
 	<game name="Epic #1 (1992)(Dream)">
 		<description>Epic #1 (1992)(Dream)</description>
@@ -17048,6 +17048,10 @@
 		<description>Hack! #002 (1991-11-30)(Hackers with Attitudes)[a3]</description>
 		<rom name="Hack! #002 (1991-11-30)(Hackers with Attitudes)[a3].d64" size="174848" crc="0322f737" md5="cee8905ac1a7178378009a4cfc2eacdf" sha1="495b2d23a13d86da99cf28932c6baf2b483f08dc"/>
 	</game>
+	<game name="Hack! #003 (1991-12-24)(Hackers With Attitudes)">
+		<description>Hack! #003 (1991-12-24)(Hackers With Attitudes)</description>
+		<rom name="Hack! #003 (1991-12-24)(Hackers With Attitudes).d64" size="174848" crc="2eb5a60a" md5="1c047e920c2e99cfd44baba79672b284" sha1="66986d16155822d0af86ef6b70ce956a0d9ec3cc"/>
+	</game>
 	<game name="Hack! #004 (1992-01-31)(Hackers With Attitudes)">
 		<description>Hack! #004 (1992-01-31)(Hackers With Attitudes)</description>
 		<rom name="Hack! #004 (1992-01-31)(Hackers With Attitudes).d64" size="174848" crc="e00a2433" md5="3a8aaa7215ea5622d054ce5a2e7b1c77" sha1="fb45365c2bdffc82ffb2ac28f127bfcf1f752fc5"/>
@@ -18876,10 +18880,6 @@
 		<description>Influx #02 (1989-07)(Influx Staff)</description>
 		<rom name="Influx #02 (1989-07)(Influx Staff).d64" size="174848" crc="e43ca1f5" md5="4cffabbe74f0524fb3548c64fd2c3175" sha1="2ab345f7b12b1807c31270f8e6e55f1e49c367fc"/>
 	</game>
-	<game name="Influx #02 (1989-07)(Influx Staff) &amp; Influx #03 (1989-08-01)(Influx Staff)">
-		<description>Influx #02 (1989-07)(Influx Staff) &amp; Influx #03 (1989-08-01)(Influx Staff)</description>
-		<rom name="Influx #02 (1989-07)(Influx Staff) &amp; Influx #03 (1989-08-01)(Influx Staff).d64" size="174848" crc="7c42d786" md5="30841101e9f98c3c2dd6d2e97bb71f24" sha1="33c99f534bb280c291e0cc9b8d158e99db307d79"/>
-	</game>
 	<game name="Influx #02 (1989-07)(Influx Staff)[b]">
 		<description>Influx #02 (1989-07)(Influx Staff)[b]</description>
 		<rom name="Influx #02 (1989-07)(Influx Staff)[b].d64" size="174848" crc="3ed257ea" md5="47a4adb4bf6a6b9c2c4f19123ceafa55" sha1="8f6408229888712d76551119fb734d22482d337a"/>
@@ -19184,9 +19184,9 @@
 		<description>Inside Connection, The #03 (1992)(Myriad)[a4]</description>
 		<rom name="Inside Connection, The #03 (1992)(Myriad)[a4].d64" size="174848" crc="33fcbeb1" md5="7cdf037b7027a09fb80e96eacefbd753" sha1="f5e8b1f90d102baed48753f1e3dc2cbd766f473b"/>
 	</game>
-	<game name="Inside Connection, The #3 (19xx)(-)">
-		<description>Inside Connection, The #3 (19xx)(-)</description>
-		<rom name="Inside Connection, The #3 (19xx)(-).d64" size="174848" crc="8f7f2a7b" md5="07bbd287a176e1f4b966a3ae140ecc63" sha1="76ee9a71adf6c685d62cde13c0ab95244ea23314"/>
+	<game name="Inside Connection, The #03 (1992)(Myriad)[a5]">
+		<description>Inside Connection, The #03 (1992)(Myriad)[a5]</description>
+		<rom name="Inside Connection, The #03 (1992)(Myriad)[a5].d64" size="174848" crc="8f7f2a7b" md5="07bbd287a176e1f4b966a3ae140ecc63" sha1="76ee9a71adf6c685d62cde13c0ab95244ea23314"/>
 	</game>
 	<game name="Inside View #1 (1990-06)(United Artists)">
 		<description>Inside View #1 (1990-06)(United Artists)</description>
@@ -19684,17 +19684,13 @@
 		<description>Internal #04 (1991-02)(Warriors of the Wasteland)</description>
 		<rom name="Internal #04 (1991-02)(Warriors of the Wasteland).d64" size="174848" crc="9c0d5a27" md5="4b898c79259e3c43c11f7bd85206ff45" sha1="d3d83d8cd855d40f3f149439f9135fc78fbef960"/>
 	</game>
-	<game name="Internal #04 (1991-02)(Warriors of the Wasteland) &amp; Internal #05 (1991-03)(Warriors of the Wasteland)">
-		<description>Internal #04 (1991-02)(Warriors of the Wasteland) &amp; Internal #05 (1991-03)(Warriors of the Wasteland)</description>
-		<rom name="Internal #04 (1991-02)(Warriors of the Wasteland) &amp; Internal #05 (1991-03)(Warriors of the Wasteland).d64" size="174848" crc="520f86b2" md5="3b364e178558504d415fe29844993819" sha1="b6a3a76606ef161024a1489b7c465f01e549c469"/>
-	</game>
 	<game name="Internal #04 (1991-02)(Warriors of the Wasteland)[a]">
 		<description>Internal #04 (1991-02)(Warriors of the Wasteland)[a]</description>
 		<rom name="Internal #04 (1991-02)(Warriors of the Wasteland)[a].d64" size="174848" crc="962845bb" md5="a93a33461193d0e5db0755dd27e3364c" sha1="80c896e524619609ba639f5a5716635c57b92d97"/>
 	</game>
-	<game name="Internal #04 (1991-02)(Warriors of the Wasteland)[a3]">
-		<description>Internal #04 (1991-02)(Warriors of the Wasteland)[a3]</description>
-		<rom name="Internal #04 (1991-02)(Warriors of the Wasteland)[a3].d64" size="174848" crc="fa281ae1" md5="d803193ee69263e2f3d9b3920ce83b28" sha1="b5f28481eaa07169835ed9f9309021a610e05aa2"/>
+	<game name="Internal #04 (1991-02)(Warriors of the Wasteland)[a2]">
+		<description>Internal #04 (1991-02)(Warriors of the Wasteland)[a2]</description>
+		<rom name="Internal #04 (1991-02)(Warriors of the Wasteland)[a2].d64" size="174848" crc="fa281ae1" md5="d803193ee69263e2f3d9b3920ce83b28" sha1="b5f28481eaa07169835ed9f9309021a610e05aa2"/>
 	</game>
 	<game name="Internal #05 (1991-03)(Warriors of the Wasteland)">
 		<description>Internal #05 (1991-03)(Warriors of the Wasteland)</description>
@@ -21139,6 +21135,10 @@
 	<game name="Linear #02 (1992-07-28)(DWI)[a]">
 		<description>Linear #02 (1992-07-28)(DWI)[a]</description>
 		<rom name="Linear #02 (1992-07-28)(DWI)[a].d64" size="174848" crc="d258c88a" md5="8436d548afc7c0b8664b69771f2363d1" sha1="025ab8af89c292471222c9343151b9cbfdbe4aa6"/>
+	</game>
+	<game name="Linear #03 (1992)(Downloading While Intoxicated)">
+		<description>Linear #03 (1992)(Downloading While Intoxicated)</description>
+		<rom name="Linear #03 (1992)(Downloading While Intoxicated).d64" size="174848" crc="212fcc52" md5="cb90c74632e0bb3ee98cb343328729de" sha1="19abc809a049433680a3bf8703df450c21eb7090"/>
 	</game>
 	<game name="Linear #04 (1992-08-31)(Downloading While Intoxicated)">
 		<description>Linear #04 (1992-08-31)(Downloading While Intoxicated)</description>
@@ -23278,7 +23278,7 @@
 	</game>
 	<game name="Mamba #19 (1991)(Enigma)[a4]">
 		<description>Mamba #19 (1991)(Enigma)[a4]</description>
-		<rom name="Mamba #19 (1991)(Enigma)[a4].d64" size="174848" crc="c37da05b" md5="e2be0d1536eefd6b98f31a99688a21b6" sha1="15622557940a56297d0c3d92d867cfd81009c676"/>
+		<rom name="Mamba #19 (1991)(Enigma)[a4].d64" size="174848" crc="2244f830" md5="0e8779f437d9eb5214bbce09aad144d4" sha1="ce6091a45ff081774f37e8b029025ccf1b721211"/>
 	</game>
 	<game name="Mamba #19 (1991)(Enigma)[a5]">
 		<description>Mamba #19 (1991)(Enigma)[a5]</description>
@@ -23295,10 +23295,6 @@
 	<game name="Mamba #19 (1991)(Enigma)[a8]">
 		<description>Mamba #19 (1991)(Enigma)[a8]</description>
 		<rom name="Mamba #19 (1991)(Enigma)[a8].d64" size="174848" crc="a011edab" md5="ac1ebbe22182e7feae91017972b69492" sha1="717cf045c233882032b8de28170530d6d1ccf809"/>
-	</game>
-	<game name="Mamba #19 (1991)(Enigma)[a9]">
-		<description>Mamba #19 (1991)(Enigma)[a9]</description>
-		<rom name="Mamba #19 (1991)(Enigma)[a9].d64" size="174848" crc="2244f830" md5="0e8779f437d9eb5214bbce09aad144d4" sha1="ce6091a45ff081774f37e8b029025ccf1b721211"/>
 	</game>
 	<game name="Mamba #20 (19xx)(Enigma)">
 		<description>Mamba #20 (19xx)(Enigma)</description>
@@ -24668,21 +24664,29 @@
 		<description>Moonlight #03 (1993)(Triass)</description>
 		<rom name="Moonlight #03 (1993)(Triass).d64" size="174848" crc="8fc38bee" md5="db7770e0574861865fdc1df73bd995e7" sha1="c7a8d19ac6bbedb20d2542cfffb847a6a6cf83f4"/>
 	</game>
-	<game name="Moonlight #04 (19xx)(Gothic Designs)">
-		<description>Moonlight #04 (19xx)(Gothic Designs)</description>
-		<rom name="Moonlight #04 (19xx)(Gothic Designs).d64" size="174848" crc="67591dce" md5="2086da61aff621aa2ab8d8e5692132dc" sha1="490405d5c92b696b58324968d4314b7bc09cf9cb"/>
+	<game name="Moonlight #04 (1993-04)(Gothic Design)">
+		<description>Moonlight #04 (1993-04)(Gothic Design)</description>
+		<rom name="Moonlight #04 (1993-04)(Gothic Design).d64" size="174848" crc="67591dce" md5="2086da61aff621aa2ab8d8e5692132dc" sha1="490405d5c92b696b58324968d4314b7bc09cf9cb"/>
 	</game>
-	<game name="Moonlight #04 (19xx)(Gothic Designs)[a]">
-		<description>Moonlight #04 (19xx)(Gothic Designs)[a]</description>
-		<rom name="Moonlight #04 (19xx)(Gothic Designs)[a].d64" size="174848" crc="38a2fa2b" md5="6160f675d67cac68bcd0752d2da1e4a4" sha1="37d9dcf6f8a73e1bff909739159cc26d5d55135d"/>
+	<game name="Moonlight #04 (1993-04)(Gothic Design)[a]">
+		<description>Moonlight #04 (1993-04)(Gothic Design)[a]</description>
+		<rom name="Moonlight #04 (1993-04)(Gothic Design)[a].d64" size="175531" crc="f9732ad0" md5="1f3a91836ebbbee17970234e7999b065" sha1="6e4ae964358c52cb054c4713a8a3304dd14c6b5a"/>
 	</game>
-	<game name="Moonlight #04 (19xx)(Gothic Designs)[a2]">
-		<description>Moonlight #04 (19xx)(Gothic Designs)[a2]</description>
-		<rom name="Moonlight #04 (19xx)(Gothic Designs)[a2].d64" size="174848" crc="28918a8b" md5="c665486afea5142c7158d2fb9e69fc4a" sha1="6f27535b4b2720ac0d02fa87835cf8177fc0a6d5"/>
+	<game name="Moonlight #04 (1993-04)(Gothic Design)[a2]">
+		<description>Moonlight #04 (1993-04)(Gothic Design)[a2]</description>
+		<rom name="Moonlight #04 (1993-04)(Gothic Design)[a2].d64" size="174848" crc="38a2fa2b" md5="6160f675d67cac68bcd0752d2da1e4a4" sha1="37d9dcf6f8a73e1bff909739159cc26d5d55135d"/>
 	</game>
-	<game name="Moonlight #04 (19xx)(Gothic Designs)[a3]">
-		<description>Moonlight #04 (19xx)(Gothic Designs)[a3]</description>
-		<rom name="Moonlight #04 (19xx)(Gothic Designs)[a3].d64" size="174848" crc="9a1ba021" md5="66ccb550cd3fcc6d855de63a3df2e036" sha1="c98f84c93975c54336493feca7fc12c791545e62"/>
+	<game name="Moonlight #04 (1993-04)(Gothic Design)[a3]">
+		<description>Moonlight #04 (1993-04)(Gothic Design)[a3]</description>
+		<rom name="Moonlight #04 (1993-04)(Gothic Design)[a3].d64" size="174848" crc="9a1ba021" md5="66ccb550cd3fcc6d855de63a3df2e036" sha1="c98f84c93975c54336493feca7fc12c791545e62"/>
+	</game>
+	<game name="Moonlight #04 (1993-04)(Gothic Design)[a4]">
+		<description>Moonlight #04 (1993-04)(Gothic Design)[a4]</description>
+		<rom name="Moonlight #04 (1993-04)(Gothic Design)[a4].d64" size="174848" crc="041dfe75" md5="ba17c9b91d57d8add974bc1f1139a581" sha1="4a83056e23444d5a25b808221de8289ebc225d6a"/>
+	</game>
+	<game name="Moonlight #04 (1993-04)(Gothic Design)[a5]">
+		<description>Moonlight #04 (1993-04)(Gothic Design)[a5]</description>
+		<rom name="Moonlight #04 (1993-04)(Gothic Design)[a5].d64" size="174848" crc="28918a8b" md5="c665486afea5142c7158d2fb9e69fc4a" sha1="6f27535b4b2720ac0d02fa87835cf8177fc0a6d5"/>
 	</game>
 	<game name="Moonlight #04 (19xx)(Trias)(hu)">
 		<description>Moonlight #04 (19xx)(Trias)(hu)</description>
@@ -24775,14 +24779,6 @@
 	<game name="Moonlight #3 (1993-02-01)(Gothic Design)[a2]">
 		<description>Moonlight #3 (1993-02-01)(Gothic Design)[a2]</description>
 		<rom name="Moonlight #3 (1993-02-01)(Gothic Design)[a2].d64" size="174848" crc="9b93c40b" md5="0d948a718ca05a4f63d6b65e6adf1c7b" sha1="f1a6b32e5b27f4668317a5a5cac66dd4d1255c5b"/>
-	</game>
-	<game name="Moonlight #4 (1993-04)(Gothic Design)">
-		<description>Moonlight #4 (1993-04)(Gothic Design)</description>
-		<rom name="Moonlight #4 (1993-04)(Gothic Design).d64" size="174848" crc="041dfe75" md5="ba17c9b91d57d8add974bc1f1139a581" sha1="4a83056e23444d5a25b808221de8289ebc225d6a"/>
-	</game>
-	<game name="Moonlight #4 (1993-04)(Gothic Design)[a]">
-		<description>Moonlight #4 (1993-04)(Gothic Design)[a]</description>
-		<rom name="Moonlight #4 (1993-04)(Gothic Design)[a].d64" size="175531" crc="f9732ad0" md5="1f3a91836ebbbee17970234e7999b065" sha1="6e4ae964358c52cb054c4713a8a3304dd14c6b5a"/>
 	</game>
 	<game name="Moonlight #6 (1993-09-06)(Gothic Design)">
 		<description>Moonlight #6 (1993-09-06)(Gothic Design)</description>
@@ -25624,6 +25620,10 @@
 		<description>Newsline #00 (1992-06-27)(TempesT)(preview)</description>
 		<rom name="Newsline #00 (1992-06-27)(TempesT)(preview).d64" size="174848" crc="6170a71f" md5="a638540737c0b3a925b88ac5d4b22076" sha1="4b96824a4235900d9f481a88910ac7a946b734e0"/>
 	</game>
+	<game name="Newspaper #01 (1997-11-03)(EXclusive ON)(Side B)">
+		<description>Newspaper #01 (1997-11-03)(EXclusive ON)(Side B)</description>
+		<rom name="Newspaper #01 (1997-11-03)(EXclusive ON)(Side B).d64" size="174848" crc="eef269c8" md5="6ec1153e16727640f6b63207ac508c34" sha1="d4adde72b52f8dc05d735ed9fa1934e4c0b3d212"/>
+	</game>
 	<game name="Newspaper #01 (1997-11-03)(SCHN &amp; Exon)(Side A)">
 		<description>Newspaper #01 (1997-11-03)(SCHN &amp; Exon)(Side A)</description>
 		<rom name="Newspaper #01 (1997-11-03)(SCHN &amp; Exon)(Side A).d64" size="174848" crc="34dc260e" md5="a0e73c5be9814d1bd485eb01f5de9490" sha1="dc8daa2b3e16b2ca14aad3fabbbc86d4a609f6ed"/>
@@ -25656,9 +25656,29 @@
 		<description>Newspaper #03 (1998-02-20)(SCHN &amp; Exon)(Side B)</description>
 		<rom name="Newspaper #03 (1998-02-20)(SCHN &amp; Exon)(Side B).d64" size="174848" crc="3c7c0edc" md5="35036f7a15377ef0989f3d0f5b15b537" sha1="54bd643bafc7c7fc9c61711cbac962bc99226e7a"/>
 	</game>
+	<game name="Newspaper #04 (1998-04-25)(EXclusive ON)(Side A)">
+		<description>Newspaper #04 (1998-04-25)(EXclusive ON)(Side A)</description>
+		<rom name="Newspaper #04 (1998-04-25)(EXclusive ON)(Side A).d64" size="174848" crc="7c556eea" md5="515975ed1d97a466aea8e3f6e70e287b" sha1="259bfc93f7e46ec4577d071abe6c92734443f330"/>
+	</game>
+	<game name="Newspaper #04 (1998-04-25)(EXclusive ON)(Side B)">
+		<description>Newspaper #04 (1998-04-25)(EXclusive ON)(Side B)</description>
+		<rom name="Newspaper #04 (1998-04-25)(EXclusive ON)(Side B).d64" size="174848" crc="248b05f0" md5="bd6729e3e894be196cb800d15db0226a" sha1="6cdd32eba506859bba81151284dfb375f403dab2"/>
+	</game>
 	<game name="Newspaper #04 (1998-04-25)(SCHN &amp; Exon)(Side A)">
 		<description>Newspaper #04 (1998-04-25)(SCHN &amp; Exon)(Side A)</description>
 		<rom name="Newspaper #04 (1998-04-25)(SCHN &amp; Exon)(Side A).d64" size="174848" crc="959c844a" md5="b409ae58650661365ee3e19e372964fb" sha1="c74ffbb2524ee612a793d8651cf2f2c62bfeb774"/>
+	</game>
+	<game name="Newspaper #05 (1998-11-03)(EXclusive ON)">
+		<description>Newspaper #05 (1998-11-03)(EXclusive ON)</description>
+		<rom name="Newspaper #05 (1998-11-03)(EXclusive ON).d64" size="174848" crc="f12f12f7" md5="691410142b3e62426e1c12f2c1fb62fc" sha1="3a27df7c4343082333f32c0d260cae49a25cb747"/>
+	</game>
+	<game name="Newspaper #05 (1998-11-03)(EXclusive ON)[a]">
+		<description>Newspaper #05 (1998-11-03)(EXclusive ON)[a]</description>
+		<rom name="Newspaper #05 (1998-11-03)(EXclusive ON)[a].d64" size="174848" crc="61be25c6" md5="0a286498b07ddb5ec624d28397781408" sha1="c1dbbb4febfe43732bb6c856c09dd48eadfd5c26"/>
+	</game>
+	<game name="Newspaper #05+ (1998)(Smiejaca Sie Twarz - EXclusive ON)">
+		<description>Newspaper #05+ (1998)(Smiejaca Sie Twarz - EXclusive ON)</description>
+		<rom name="Newspaper #05+ (1998)(Smiejaca Sie Twarz - EXclusive ON).d64" size="174848" crc="a331eebb" md5="facd16269bd630eb6a801e7c75153692" sha1="f397b4138e1166053d8ba8511f716e95b76cca23"/>
 	</game>
 	<game name="Newspaper #06 (2000)(Exon)(Disk 1 of 2 Side A)">
 		<description>Newspaper #06 (2000)(Exon)(Disk 1 of 2 Side A)</description>
@@ -25684,13 +25704,53 @@
 		<description>Newspaper #06 (2000)(Exon)(Disk 2 of 2 Side B)[a]</description>
 		<rom name="Newspaper #06 (2000)(Exon)(Disk 2 of 2 Side B)[a].d64" size="174848" crc="43e0fb20" md5="f2fc77571b16dca8e7f634fbc5007d78" sha1="2e003250e99b63e084e525fbffa5df01cd08c4d4"/>
 	</game>
-	<game name="Newspaper #07 (2002)(SCHN &amp; Exon)(Side A)">
-		<description>Newspaper #07 (2002)(SCHN &amp; Exon)(Side A)</description>
-		<rom name="Newspaper #07 (2002)(SCHN &amp; Exon)(Side A).d64" size="174848" crc="63dc58b7" md5="f5297739865860f07ca5ee90c2b9d26f" sha1="a2154952645b6ed68bad3efad14cfeba9fd9fcd9"/>
+	<game name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side A)">
+		<description>Newspaper #07 (2002-04-10)(EXclusive ON)(Side A)</description>
+		<rom name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side A).d64" size="174848" crc="c3d9dc80" md5="0299b7f9cd3109f10be3fd50b68556fe" sha1="f1a33c9542be39e1c893f01ab38ebbcb358c9754"/>
 	</game>
-	<game name="Newspaper #07 (2002)(SCHN &amp; Exon)(Side B)">
-		<description>Newspaper #07 (2002)(SCHN &amp; Exon)(Side B)</description>
-		<rom name="Newspaper #07 (2002)(SCHN &amp; Exon)(Side B).d64" size="174848" crc="948da3c4" md5="76e5a492c2018cb2a9b55f59ec16cc68" sha1="385313162890f10ad0c3d025d5f62b4d19ae4d58"/>
+	<game name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side A)[a]">
+		<description>Newspaper #07 (2002-04-10)(EXclusive ON)(Side A)[a]</description>
+		<rom name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side A)[a].d64" size="174848" crc="63dc58b7" md5="f5297739865860f07ca5ee90c2b9d26f" sha1="a2154952645b6ed68bad3efad14cfeba9fd9fcd9"/>
+	</game>
+	<game name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side B)">
+		<description>Newspaper #07 (2002-04-10)(EXclusive ON)(Side B)</description>
+		<rom name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side B).d64" size="174848" crc="948da3c4" md5="76e5a492c2018cb2a9b55f59ec16cc68" sha1="385313162890f10ad0c3d025d5f62b4d19ae4d58"/>
+	</game>
+	<game name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side B)[a]">
+		<description>Newspaper #07 (2002-04-10)(EXclusive ON)(Side B)[a]</description>
+		<rom name="Newspaper #07 (2002-04-10)(EXclusive ON)(Side B)[a].d64" size="174848" crc="d9e64487" md5="4c7cec336d3a510a25e9ff6366ecb054" sha1="53d4170b87d78553b4313f9aa3a1dacacab18929"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 1 of 4)">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 1 of 4)</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 1 of 4).d64" size="174848" crc="c05de023" md5="a9b77dd56e6681b578dabb8bb5b1e652" sha1="4be3fd433ea0038109c36e1febeeabae972374f4"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 1 of 4)[a]">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 1 of 4)[a]</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 1 of 4)[a].d64" size="174848" crc="77fcd0e1" md5="8c18ba617e7e81b2f94ffb959fb5615a" sha1="e6b363be075b171e175d27a6c589441190d29020"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 2 of 4)">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 2 of 4)</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 2 of 4).d64" size="174848" crc="3bb226db" md5="36cd39d6107dfaff4df771f31ac53450" sha1="f2c6b2d00e1a8f5523b7799ee6c0d5d9949ce7fb"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 2 of 4)[a]">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 2 of 4)[a]</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 2 of 4)[a].d64" size="174848" crc="813a86f7" md5="6851fb8d0addbc1a0cbd8e54dd4a277b" sha1="7d663c34e172b26af37af570d22d9fdc2fcee078"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 3 of 4)">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 3 of 4)</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 3 of 4).d64" size="174848" crc="cafcdaa4" md5="7bfc4d254c75bf52f2ab340153627954" sha1="9c3e8ac2db7235edd562a3deea709cc525c531f9"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 3 of 4)[a]">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 3 of 4)[a]</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 3 of 4)[a].d64" size="174848" crc="d9e1d4ee" md5="76f18428d2d7e6c59c0b09d0e6c0eef7" sha1="5aea34110c43228ea25198f33804c5d906b946ba"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 4 of 4)">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 4 of 4)</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 4 of 4).d64" size="174848" crc="0b7be28b" md5="64862100361fc054191b6b5247875406" sha1="4531ec4b06a116b49f0fdee10d2c8c98f792ea14"/>
+	</game>
+	<game name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 4 of 4)[a]">
+		<description>Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 4 of 4)[a]</description>
+		<rom name="Newspaper #08 (2002-11-24)(EXclusive ON)(Disk 4 of 4)[a].d64" size="174848" crc="9b7a9a7e" md5="d2e0bb67c4a92e481d34470229129ebd" sha1="920be2ac2635bd853824e8b8c5b5d36a873677ce"/>
 	</game>
 	<game name="Newspaper #09 (2003)(Exon)(Side A)">
 		<description>Newspaper #09 (2003)(Exon)(Side A)</description>
@@ -25699,70 +25759,6 @@
 	<game name="Newspaper #09 (2003)(Exon)(Side B)">
 		<description>Newspaper #09 (2003)(Exon)(Side B)</description>
 		<rom name="Newspaper #09 (2003)(Exon)(Side B).d64" size="174848" crc="3bfd7b93" md5="0a487e4691dbe385f4a3823c943de09f" sha1="f285030f4319e4dfb5878aad65cb267868ed14c8"/>
-	</game>
-	<game name="Newspaper #1 (1997-11-03)(EXclusive ON)(Side B)">
-		<description>Newspaper #1 (1997-11-03)(EXclusive ON)(Side B)</description>
-		<rom name="Newspaper #1 (1997-11-03)(EXclusive ON)(Side B).d64" size="174848" crc="eef269c8" md5="6ec1153e16727640f6b63207ac508c34" sha1="d4adde72b52f8dc05d735ed9fa1934e4c0b3d212"/>
-	</game>
-	<game name="Newspaper #4 (1998-04-25)(EXclusive ON)(Side A)">
-		<description>Newspaper #4 (1998-04-25)(EXclusive ON)(Side A)</description>
-		<rom name="Newspaper #4 (1998-04-25)(EXclusive ON)(Side A).d64" size="174848" crc="7c556eea" md5="515975ed1d97a466aea8e3f6e70e287b" sha1="259bfc93f7e46ec4577d071abe6c92734443f330"/>
-	</game>
-	<game name="Newspaper #4 (1998-04-25)(EXclusive ON)(Side B)">
-		<description>Newspaper #4 (1998-04-25)(EXclusive ON)(Side B)</description>
-		<rom name="Newspaper #4 (1998-04-25)(EXclusive ON)(Side B).d64" size="174848" crc="248b05f0" md5="bd6729e3e894be196cb800d15db0226a" sha1="6cdd32eba506859bba81151284dfb375f403dab2"/>
-	</game>
-	<game name="Newspaper #5 (1998-11-03)(EXclusive ON)">
-		<description>Newspaper #5 (1998-11-03)(EXclusive ON)</description>
-		<rom name="Newspaper #5 (1998-11-03)(EXclusive ON).d64" size="174848" crc="f12f12f7" md5="691410142b3e62426e1c12f2c1fb62fc" sha1="3a27df7c4343082333f32c0d260cae49a25cb747"/>
-	</game>
-	<game name="Newspaper #5 (1998-11-03)(EXclusive ON)[a]">
-		<description>Newspaper #5 (1998-11-03)(EXclusive ON)[a]</description>
-		<rom name="Newspaper #5 (1998-11-03)(EXclusive ON)[a].d64" size="174848" crc="61be25c6" md5="0a286498b07ddb5ec624d28397781408" sha1="c1dbbb4febfe43732bb6c856c09dd48eadfd5c26"/>
-	</game>
-	<game name="Newspaper #5+ (1998)(Smiejaca Sie Twarz - EXclusive ON)">
-		<description>Newspaper #5+ (1998)(Smiejaca Sie Twarz - EXclusive ON)</description>
-		<rom name="Newspaper #5+ (1998)(Smiejaca Sie Twarz - EXclusive ON).d64" size="174848" crc="a331eebb" md5="facd16269bd630eb6a801e7c75153692" sha1="f397b4138e1166053d8ba8511f716e95b76cca23"/>
-	</game>
-	<game name="Newspaper #7 (2002-04-10)(EXclusive ON)(Side A)">
-		<description>Newspaper #7 (2002-04-10)(EXclusive ON)(Side A)</description>
-		<rom name="Newspaper #7 (2002-04-10)(EXclusive ON)(Side A).d64" size="174848" crc="c3d9dc80" md5="0299b7f9cd3109f10be3fd50b68556fe" sha1="f1a33c9542be39e1c893f01ab38ebbcb358c9754"/>
-	</game>
-	<game name="Newspaper #7 (2002-04-10)(EXclusive ON)(Side B)">
-		<description>Newspaper #7 (2002-04-10)(EXclusive ON)(Side B)</description>
-		<rom name="Newspaper #7 (2002-04-10)(EXclusive ON)(Side B).d64" size="174848" crc="d9e64487" md5="4c7cec336d3a510a25e9ff6366ecb054" sha1="53d4170b87d78553b4313f9aa3a1dacacab18929"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 1 of 4)">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 1 of 4)</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 1 of 4).d64" size="174848" crc="c05de023" md5="a9b77dd56e6681b578dabb8bb5b1e652" sha1="4be3fd433ea0038109c36e1febeeabae972374f4"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 1 of 4)[a]">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 1 of 4)[a]</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 1 of 4)[a].d64" size="174848" crc="77fcd0e1" md5="8c18ba617e7e81b2f94ffb959fb5615a" sha1="e6b363be075b171e175d27a6c589441190d29020"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 2 of 4)">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 2 of 4)</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 2 of 4).d64" size="174848" crc="3bb226db" md5="36cd39d6107dfaff4df771f31ac53450" sha1="f2c6b2d00e1a8f5523b7799ee6c0d5d9949ce7fb"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 2 of 4)[a]">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 2 of 4)[a]</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 2 of 4)[a].d64" size="174848" crc="813a86f7" md5="6851fb8d0addbc1a0cbd8e54dd4a277b" sha1="7d663c34e172b26af37af570d22d9fdc2fcee078"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 3 of 4)">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 3 of 4)</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 3 of 4).d64" size="174848" crc="cafcdaa4" md5="7bfc4d254c75bf52f2ab340153627954" sha1="9c3e8ac2db7235edd562a3deea709cc525c531f9"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 3 of 4)[a]">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 3 of 4)[a]</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 3 of 4)[a].d64" size="174848" crc="d9e1d4ee" md5="76f18428d2d7e6c59c0b09d0e6c0eef7" sha1="5aea34110c43228ea25198f33804c5d906b946ba"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 4 of 4)">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 4 of 4)</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 4 of 4).d64" size="174848" crc="0b7be28b" md5="64862100361fc054191b6b5247875406" sha1="4531ec4b06a116b49f0fdee10d2c8c98f792ea14"/>
-	</game>
-	<game name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 4 of 4)[a]">
-		<description>Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 4 of 4)[a]</description>
-		<rom name="Newspaper #8 (2002-11-24)(EXclusive ON)(Disk 4 of 4)[a].d64" size="174848" crc="9b7a9a7e" md5="d2e0bb67c4a92e481d34470229129ebd" sha1="920be2ac2635bd853824e8b8c5b5d36a873677ce"/>
 	</game>
 	<game name="Newstyle #01 (1990-04)(Duplex)">
 		<description>Newstyle #01 (1990-04)(Duplex)</description>
@@ -26938,23 +26934,19 @@
 	</game>
 	<game name="Opinion #3 (19xx)(Mystic)">
 		<description>Opinion #3 (19xx)(Mystic)</description>
-		<rom name="Opinion #3 (19xx)(Mystic).d64" size="174848" crc="b524d665" md5="530c5f19740f238ff8e2c508e105336b" sha1="23121272e5c978a1b6871f772182b5b6b38f4890"/>
-	</game>
-	<game name="Opinion #3 (19xx)(Mystic)[a]">
-		<description>Opinion #3 (19xx)(Mystic)[a]</description>
-		<rom name="Opinion #3 (19xx)(Mystic)[a].d64" size="174848" crc="030b05c9" md5="95cf18af3c7612244d6394b982b28bc2" sha1="389a574accc7ca0b5c975125797a8a09e0971800"/>
-	</game>
-	<game name="Opinion #3 (19xx)(Mystic)[a2]">
-		<description>Opinion #3 (19xx)(Mystic)[a2]</description>
-		<rom name="Opinion #3 (19xx)(Mystic)[a2].d64" size="174848" crc="b340a6d7" md5="fc96bb4ca6e50607b18a17de1e2d11fa" sha1="5ce1d15bfcd3812a965b2009961644a261f863d0"/>
+		<rom name="Opinion #3 (19xx)(Mystic).d64" size="174848" crc="030b05c9" md5="95cf18af3c7612244d6394b982b28bc2" sha1="389a574accc7ca0b5c975125797a8a09e0971800"/>
 	</game>
 	<game name="Opinion #3 V2 (1992-09)(Secure)">
 		<description>Opinion #3 V2 (1992-09)(Secure)</description>
 		<rom name="Opinion #3 V2 (1992-09)(Secure).d64" size="174848" crc="0affa7b3" md5="54031a1b11550ca099762143023d4158" sha1="6c344ec865b2405daecd739bf9089ef25b529e19"/>
 	</game>
-	<game name="Opinion #4 (19xx)(Mystic)">
-		<description>Opinion #4 (19xx)(Mystic)</description>
-		<rom name="Opinion #4 (19xx)(Mystic).d64" size="174848" crc="a5d43c48" md5="fe793147be7f90382145f0985c937960" sha1="54f9ae60ea29038d6e118ae511cd86ede6f32cc3"/>
+	<game name="Opinions #4 (1991)(Mystic)">
+		<description>Opinions #4 (1991)(Mystic)</description>
+		<rom name="Opinions #4 (1991)(Mystic).d64" size="174848" crc="70ef9f91" md5="4726c010d1215c5a31e3a819e638a5d5" sha1="7a6c9d86503fb983f2bf49bcc76060a4f37cfddf"/>
+	</game>
+	<game name="Opinions #4 (1991)(Mystic)[a]">
+		<description>Opinions #4 (1991)(Mystic)[a]</description>
+		<rom name="Opinions #4 (1991)(Mystic)[a].d64" size="174848" crc="a5d43c48" md5="fe793147be7f90382145f0985c937960" sha1="54f9ae60ea29038d6e118ae511cd86ede6f32cc3"/>
 	</game>
 	<game name="Orbservant #1 (1991)(Orbs)">
 		<description>Orbservant #1 (1991)(Orbs)</description>
@@ -31632,37 +31624,37 @@
 		<description>Recoil #2 (1991)(Omega)[a]</description>
 		<rom name="Recoil #2 (1991)(Omega)[a].d64" size="174848" crc="6e304be6" md5="8e13e34710030c40ba3d56c83efe42de" sha1="817d692d3e70c9fbfcef68fca8a4bec07ea224f7"/>
 	</game>
+	<game name="Recollection #1 (2006-03-16)(Jazzcat)(Side A)">
+		<description>Recollection #1 (2006-03-16)(Jazzcat)(Side A)</description>
+		<rom name="Recollection #1 (2006-03-16)(Jazzcat)(Side A).d64" size="174848" crc="490ae29c" md5="5eff335fafe792c9bf9d5cb64b2b9215" sha1="f3e178f2482dcc3c014fe2f52ab7520d27c9c81d"/>
+	</game>
+	<game name="Recollection #1 (2006-03-16)(Jazzcat)(Side A)[a]">
+		<description>Recollection #1 (2006-03-16)(Jazzcat)(Side A)[a]</description>
+		<rom name="Recollection #1 (2006-03-16)(Jazzcat)(Side A)[a].d64" size="174848" crc="617ea573" md5="98b97868cf55ebff7ff7f64f2237a8b5" sha1="b0e404f471abfb450af66bb23b936a7af05ccaaf"/>
+	</game>
+	<game name="Recollection #1 (2006-03-16)(Jazzcat)(Side B)">
+		<description>Recollection #1 (2006-03-16)(Jazzcat)(Side B)</description>
+		<rom name="Recollection #1 (2006-03-16)(Jazzcat)(Side B).d64" size="174848" crc="774b50da" md5="36ef600b7833fad6b5e87986650b22ce" sha1="7cd52b0ee37b8a5c037c9ffe46d9e9b805e13b22"/>
+	</game>
+	<game name="Recollection #2 (2006-10-28)(Jazzcat)(Side A)">
+		<description>Recollection #2 (2006-10-28)(Jazzcat)(Side A)</description>
+		<rom name="Recollection #2 (2006-10-28)(Jazzcat)(Side A).d64" size="174848" crc="2d1dd10b" md5="3d16158b0f736d4740724623a8d8473a" sha1="0f995949a96730bfec8802e70d224c95cd3833c0"/>
+	</game>
+	<game name="Recollection #2 (2006-10-28)(Jazzcat)(Side B)">
+		<description>Recollection #2 (2006-10-28)(Jazzcat)(Side B)</description>
+		<rom name="Recollection #2 (2006-10-28)(Jazzcat)(Side B).d64" size="174848" crc="75955366" md5="182e0be70d4ac5c44cf92dde240d220d" sha1="4ff27bc335f862d00554e4709d94a44a8ab545aa"/>
+	</game>
+	<game name="Recollection #3 (2010-10-03)(Jazzcat)(Side A)">
+		<description>Recollection #3 (2010-10-03)(Jazzcat)(Side A)</description>
+		<rom name="Recollection #3 (2010-10-03)(Jazzcat)(Side A).d64" size="174848" crc="deb43972" md5="044626e2fbfa6263dd50b89fe59fd842" sha1="5012216ca5aaaf68d867117c944174d4606e5e22"/>
+	</game>
+	<game name="Recollection #3 (2010-10-03)(Jazzcat)(Side B)">
+		<description>Recollection #3 (2010-10-03)(Jazzcat)(Side B)</description>
+		<rom name="Recollection #3 (2010-10-03)(Jazzcat)(Side B).d64" size="174848" crc="5313567d" md5="b32b1c204bbb1b1182e407f98db3510c" sha1="f328ab418df8f0ee8b565e65fba62a468331b3ff"/>
+	</game>
 	<game name="Recollection Goodie Bag (2010)(Jazzcat)">
 		<description>Recollection Goodie Bag (2010)(Jazzcat)</description>
 		<rom name="Recollection Goodie Bag (2010)(Jazzcat).d64" size="174848" crc="aecf213d" md5="c40767703a5df847133a14bd3b0f5443" sha1="3b2f977f87f3b9684f3bda33de6f3b33e34da1ed"/>
-	</game>
-	<game name="Recollection Issue #1 (2006-03-16)(Jazzcat)(Side A)">
-		<description>Recollection Issue #1 (2006-03-16)(Jazzcat)(Side A)</description>
-		<rom name="Recollection Issue #1 (2006-03-16)(Jazzcat)(Side A).d64" size="174848" crc="490ae29c" md5="5eff335fafe792c9bf9d5cb64b2b9215" sha1="f3e178f2482dcc3c014fe2f52ab7520d27c9c81d"/>
-	</game>
-	<game name="Recollection Issue #1 (2006-03-16)(Jazzcat)(Side A)[a]">
-		<description>Recollection Issue #1 (2006-03-16)(Jazzcat)(Side A)[a]</description>
-		<rom name="Recollection Issue #1 (2006-03-16)(Jazzcat)(Side A)[a].d64" size="174848" crc="617ea573" md5="98b97868cf55ebff7ff7f64f2237a8b5" sha1="b0e404f471abfb450af66bb23b936a7af05ccaaf"/>
-	</game>
-	<game name="Recollection Issue #1 (2006-03-16)(Jazzcat)(Side B)">
-		<description>Recollection Issue #1 (2006-03-16)(Jazzcat)(Side B)</description>
-		<rom name="Recollection Issue #1 (2006-03-16)(Jazzcat)(Side B).d64" size="174848" crc="774b50da" md5="36ef600b7833fad6b5e87986650b22ce" sha1="7cd52b0ee37b8a5c037c9ffe46d9e9b805e13b22"/>
-	</game>
-	<game name="Recollection Issue #2 (2006-10-28)(Jazzcat)(Side A)">
-		<description>Recollection Issue #2 (2006-10-28)(Jazzcat)(Side A)</description>
-		<rom name="Recollection Issue #2 (2006-10-28)(Jazzcat)(Side A).d64" size="174848" crc="2d1dd10b" md5="3d16158b0f736d4740724623a8d8473a" sha1="0f995949a96730bfec8802e70d224c95cd3833c0"/>
-	</game>
-	<game name="Recollection Issue #2 (2006-10-28)(Jazzcat)(Side B)">
-		<description>Recollection Issue #2 (2006-10-28)(Jazzcat)(Side B)</description>
-		<rom name="Recollection Issue #2 (2006-10-28)(Jazzcat)(Side B).d64" size="174848" crc="75955366" md5="182e0be70d4ac5c44cf92dde240d220d" sha1="4ff27bc335f862d00554e4709d94a44a8ab545aa"/>
-	</game>
-	<game name="Recollection Issue #3 (2010-10-03)(Jazzcat)(Side A)">
-		<description>Recollection Issue #3 (2010-10-03)(Jazzcat)(Side A)</description>
-		<rom name="Recollection Issue #3 (2010-10-03)(Jazzcat)(Side A).d64" size="174848" crc="deb43972" md5="044626e2fbfa6263dd50b89fe59fd842" sha1="5012216ca5aaaf68d867117c944174d4606e5e22"/>
-	</game>
-	<game name="Recollection Issue #3 (2010-10-03)(Jazzcat)(Side B)">
-		<description>Recollection Issue #3 (2010-10-03)(Jazzcat)(Side B)</description>
-		<rom name="Recollection Issue #3 (2010-10-03)(Jazzcat)(Side B).d64" size="174848" crc="5313567d" md5="b32b1c204bbb1b1182e407f98db3510c" sha1="f328ab418df8f0ee8b565e65fba62a468331b3ff"/>
 	</game>
 	<game name="Red Pepper #1 (1991-11-25)(Divine Style)">
 		<description>Red Pepper #1 (1991-11-25)(Divine Style)</description>
@@ -31683,6 +31675,10 @@
 	<game name="Reflex #3 (19xx)(-)">
 		<description>Reflex #3 (19xx)(-)</description>
 		<rom name="Reflex #3 (19xx)(-).d64" size="174848" crc="bc856866" md5="c450829c8233f248153f93c2ad769bdd" sha1="008ce9d40c20f1469a46a8e4a47577b4696dc2d8"/>
+	</game>
+	<game name="Reflex Magazine #1 (1988-10-07)(-)">
+		<description>Reflex Magazine #1 (1988-10-07)(-)</description>
+		<rom name="Reflex Magazine #1 (1988-10-07)(-).d64" size="174848" crc="70098adf" md5="7267599adbf820f958c0ad247e30c898" sha1="f2412e801f9df4a3c4b0158bc704ddcb4313cee5"/>
 	</game>
 	<game name="Reformation - Recycletion (1994-11-07)(Fairlight)">
 		<description>Reformation - Recycletion (1994-11-07)(Fairlight)</description>
@@ -32575,6 +32571,14 @@
 	<game name="reMETA #15 (2023-06-12)(Lethargy)">
 		<description>reMETA #15 (2023-06-12)(Lethargy)</description>
 		<rom name="reMETA #15 (2023-06-12)(Lethargy).d64" size="174848" crc="88bc471a" md5="83a55058a3d07755616e408462dbb014" sha1="36f5aaa4ae238d469613ba6a2eae9e66fa0cf36a"/>
+	</game>
+	<game name="reMETA #16 (2023-07-17)(Lethargy)">
+		<description>reMETA #16 (2023-07-17)(Lethargy)</description>
+		<rom name="reMETA #16 (2023-07-17)(Lethargy).d64" size="174848" crc="4f850dc9" md5="f468e2eb3f46989590758f78f53ffd07" sha1="45f53822752aadbb37a19fb70a2253f36c158e12"/>
+	</game>
+	<game name="reMETA #17 (2023-09-13)(Lethargy)">
+		<description>reMETA #17 (2023-09-13)(Lethargy)</description>
+		<rom name="reMETA #17 (2023-09-13)(Lethargy).d64" size="174848" crc="3365a4f4" md5="43ccbc9034fd2127b5570d1622cb8134" sha1="69ea19ee1271ec964289d98c4e1023b462f8fcba"/>
 	</game>
 	<game name="reMETA #2 (2018-09-12)(Lethargy)">
 		<description>reMETA #2 (2018-09-12)(Lethargy)</description>
@@ -33675,6 +33679,10 @@
 	<game name="Scene Observer #02 (1992-07-24)(Oxyron)[a2]">
 		<description>Scene Observer #02 (1992-07-24)(Oxyron)[a2]</description>
 		<rom name="Scene Observer #02 (1992-07-24)(Oxyron)[a2].d64" size="174848" crc="40167131" md5="5d0081c7b5e16a48a11b3c1c5b965ef0" sha1="73dcf004b1d7bdb6106c04e83859270b70d94ebb"/>
+	</game>
+	<game name="Scene Observer #02 (1992-07-24)(Oxyron)[a3]">
+		<description>Scene Observer #02 (1992-07-24)(Oxyron)[a3]</description>
+		<rom name="Scene Observer #02 (1992-07-24)(Oxyron)[a3].d64" size="174848" crc="8f4baae5" md5="eaa37d868ce419c92960f0b2d7f7c257" sha1="e575ca57ff96608f104e3956e8036b0861ca1fbb"/>
 	</game>
 	<game name="Scene Observer #03 (1992)(Oxyron)">
 		<description>Scene Observer #03 (1992)(Oxyron)</description>
@@ -36556,9 +36564,9 @@
 		<description>Smiling Panda #5 (1992)(Twin Eagles)(Side B)</description>
 		<rom name="Smiling Panda #5 (1992)(Twin Eagles)(Side B).d64" size="174848" crc="dc368de6" md5="c5b9a42a33a3667c4738c02d780dc15f" sha1="1bf83681871d6f37fbb79a00891f6ab3aa1dd9b5"/>
 	</game>
-	<game name="Smooth Criminal #01 (1989-11-05)(Unit5)">
-		<description>Smooth Criminal #01 (1989-11-05)(Unit5)</description>
-		<rom name="Smooth Criminal #01 (1989-11-05)(Unit5).d64" size="174848" crc="d662cfc9" md5="90db8acff744b1e8c2c7727f3dbd6a93" sha1="0fca6ef3a037405fe0a459e1ee99f83e9094fe5c"/>
+	<game name="Smooth Criminal #01 (1989-11-05)(Unit 5)">
+		<description>Smooth Criminal #01 (1989-11-05)(Unit 5)</description>
+		<rom name="Smooth Criminal #01 (1989-11-05)(Unit 5).d64" size="174848" crc="d662cfc9" md5="90db8acff744b1e8c2c7727f3dbd6a93" sha1="0fca6ef3a037405fe0a459e1ee99f83e9094fe5c"/>
 	</game>
 	<game name="Smooth Criminal #02 (1989)(Zone 45)">
 		<description>Smooth Criminal #02 (1989)(Zone 45)</description>
@@ -36879,10 +36887,6 @@
 	<game name="Soulnews #07 (1991-05-30)(Compagnions)">
 		<description>Soulnews #07 (1991-05-30)(Compagnions)</description>
 		<rom name="Soulnews #07 (1991-05-30)(Compagnions).d64" size="174848" crc="66ba49cb" md5="60e06b55c4b8b7f0f6760df40eba31c3" sha1="8324080d86cbfc634351a8b99dd505b7629796ae"/>
-	</game>
-	<game name="Soulnews #07 (1991-05-30)(Compagnions) &amp; World News #07 (19xx)(-)">
-		<description>Soulnews #07 (1991-05-30)(Compagnions) &amp; World News #07 (19xx)(-)</description>
-		<rom name="Soulnews #07 (1991-05-30)(Compagnions) &amp; World News #07 (19xx)(-).d64" size="174848" crc="32613fd7" md5="96aca998fd7fed3b4bf8bcc122eade80" sha1="a5af9a0505cd1593bb70f6470477f5f6164f0e15"/>
 	</game>
 	<game name="Soulnews #08 (1991)(Compagnions)">
 		<description>Soulnews #08 (1991)(Compagnions)</description>
@@ -37231,10 +37235,6 @@
 	<game name="Spotlight #3 (1991)(X-Ray)">
 		<description>Spotlight #3 (1991)(X-Ray)</description>
 		<rom name="Spotlight #3 (1991)(X-Ray).d64" size="174848" crc="59740c09" md5="5bcf76a07c494652b7aacbdcc3aed6e3" sha1="5e9acd3f64164326337c974807e4600b29f8618b"/>
-	</game>
-	<game name="Spotlight #3 (1991)(X-Ray) &amp; Soulnews #11 (1992)(Compagnions)">
-		<description>Spotlight #3 (1991)(X-Ray) &amp; Soulnews #11 (1992)(Compagnions)</description>
-		<rom name="Spotlight #3 (1991)(X-Ray) &amp; Soulnews #11 (1992)(Compagnions).d64" size="174848" crc="65310810" md5="3ebbde064ac64e24f2b8ca198066bccd" sha1="2b7d19255aef7364958b343fa007c50539732cc5"/>
 	</game>
 	<game name="Static #1 (1991)(Chrome)">
 		<description>Static #1 (1991)(Chrome)</description>
@@ -42028,6 +42028,10 @@
 		<description>Vandalism News #08 (1992)(Bodycount)[a2]</description>
 		<rom name="Vandalism News #08 (1992)(Bodycount)[a2].d64" size="174848" crc="cc1b6659" md5="4df4fe9a40f80716f7f45a04b1495d3f" sha1="5e4f2a1e9a54d9debcac08a47c4f71246253f0c0"/>
 	</game>
+	<game name="Vandalism News #08 (1993)(Bodycount - Vandalism News Staff)">
+		<description>Vandalism News #08 (1993)(Bodycount - Vandalism News Staff)</description>
+		<rom name="Vandalism News #08 (1993)(Bodycount - Vandalism News Staff).d64" size="175531" crc="2b947ca7" md5="c159c315f5b8b597519bbf0d9024792d" sha1="60cf9c5b3cb4f90a6a94ae5de542ea4ccd04b093"/>
+	</game>
 	<game name="Vandalism News #09 (1992)(Bodycount)">
 		<description>Vandalism News #09 (1992)(Bodycount)</description>
 		<rom name="Vandalism News #09 (1992)(Bodycount).d64" size="174848" crc="a07b4fd7" md5="80c3be2458b937d8d9b70e772f3170d9" sha1="7e0482047e559d0f4e7747c8617556998b4fa0d6"/>
@@ -42039,6 +42043,10 @@
 	<game name="Vandalism News #09 (1992)(Bodycount)[a2]">
 		<description>Vandalism News #09 (1992)(Bodycount)[a2]</description>
 		<rom name="Vandalism News #09 (1992)(Bodycount)[a2].d64" size="174848" crc="df7269d9" md5="61e3985362394999710cc0c4eff93066" sha1="bb9f87e575dc7c132c13a12ad572993bf76b6b91"/>
+	</game>
+	<game name="Vandalism News #09 (1993-03)(Bodycount - Vandalism News Staff)">
+		<description>Vandalism News #09 (1993-03)(Bodycount - Vandalism News Staff)</description>
+		<rom name="Vandalism News #09 (1993-03)(Bodycount - Vandalism News Staff).d64" size="174848" crc="5f775a95" md5="37784be9a8e449d90c87f337a6035f08" sha1="6e06b3ff024444e86a8132ca6cbd0800c52f1aa0"/>
 	</game>
 	<game name="Vandalism News #10 (1993-07)(Bodycount)">
 		<description>Vandalism News #10 (1993-07)(Bodycount)</description>
@@ -43308,14 +43316,6 @@
 		<description>Vandalism News #70 (2019-11-05)(Offence - Onslaught - Vandalism News Staff)(Disk 3 of 3 Side B)</description>
 		<rom name="Vandalism News #70 (2019-11-05)(Offence - Onslaught - Vandalism News Staff)(Disk 3 of 3 Side B).d64" size="174848" crc="a9bac7d7" md5="fd583f73b20d2985cc1cb6c72144a234" sha1="a8690f0ff98a031fa38e37e108a9f03029272bb9"/>
 	</game>
-	<game name="Vandalism News #8 (1993)(Bodycount - Vandalism News Staff)">
-		<description>Vandalism News #8 (1993)(Bodycount - Vandalism News Staff)</description>
-		<rom name="Vandalism News #8 (1993)(Bodycount - Vandalism News Staff).d64" size="175531" crc="2b947ca7" md5="c159c315f5b8b597519bbf0d9024792d" sha1="60cf9c5b3cb4f90a6a94ae5de542ea4ccd04b093"/>
-	</game>
-	<game name="Vandalism News #9 (1993-03)(Bodycount - Vandalism News Staff)">
-		<description>Vandalism News #9 (1993-03)(Bodycount - Vandalism News Staff)</description>
-		<rom name="Vandalism News #9 (1993-03)(Bodycount - Vandalism News Staff).d64" size="174848" crc="5f775a95" md5="37784be9a8e449d90c87f337a6035f08" sha1="6e06b3ff024444e86a8132ca6cbd0800c52f1aa0"/>
-	</game>
 	<game name="Vanity News #1 (19xx)(Bonycount)">
 		<description>Vanity News #1 (19xx)(Bonycount)</description>
 		<rom name="Vanity News #1 (19xx)(Bonycount).d64" size="174848" crc="3de04f76" md5="edd6232357c4af67130a83ffb1d72924" sha1="2285071882889eab8f064f62d5ac89dfe77ae3eb"/>
@@ -43855,6 +43855,10 @@
 	<game name="Violence #6 (2022-09)(Alivers)(hu)">
 		<description>Violence #6 (2022-09)(Alivers)(hu)</description>
 		<rom name="Violence #6 (2022-09)(Alivers)(hu).d64" size="174848" crc="9dd66e89" md5="8a8f58354ece6be32503bbcdd21a80d6" sha1="67edbc3971dd46cb4cf34be2c161df59accc9228"/>
+	</game>
+	<game name="Violence #7 (2023-08-31)(Alivers)(hu)">
+		<description>Violence #7 (2023-08-31)(Alivers)(hu)</description>
+		<rom name="Violence #7 (2023-08-31)(Alivers)(hu).d64" size="174848" crc="c99be7f5" md5="adaa7bb8ac12706d3802f49b7e7f9bf2" sha1="836be454820f61ad11909b16b55863c7ab391e76"/>
 	</game>
 	<game name="Virgin Credit Cards #001 (1991-12-18)(Hackers with Attitude)">
 		<description>Virgin Credit Cards #001 (1991-12-18)(Hackers with Attitude)</description>

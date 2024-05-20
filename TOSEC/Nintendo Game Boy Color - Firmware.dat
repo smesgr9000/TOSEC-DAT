@@ -4,16 +4,44 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy Color - Firmware</name>
-		<description>Nintendo Game Boy Color - Firmware (TOSEC-v2011-09-27)</description>
+		<description>Nintendo Game Boy Color - Firmware (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2011-09-27</version>
-		<author>Cassiel</author>
+		<version>2024-01-15</version>
+		<author>Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="Challenger GB (19xx)(-)">
+		<description>Challenger GB (19xx)(-)</description>
+		<rom name="Challenger GB (19xx)(-).gbc" size="32768" crc="59579caa" md5="bb3d567c4476a73151d88b1f42243fd5" sha1="d88c4f29a8d383b2becfe4123671c5ce1f5fdf7b"/>
+	</game>
+	<game name="GameShark Online (19xx)(Interact)(US)">
+		<description>GameShark Online (19xx)(Interact)(US)</description>
+		<rom name="GameShark Online (19xx)(Interact)(US).gbc" size="81920" crc="c37d21d9" md5="f7db0c6343b12fbef11605077af5d9a2" sha1="22f00e604acb827a48d4c9e109ba622f59a9d0a9"/>
+	</game>
+	<game name="Genius GB Backup Station (19xx)(-)(TW)[p]">
+		<description>Genius GB Backup Station (19xx)(-)(TW)[p]</description>
+		<rom name="Genius GB Backup Station (19xx)(-)(TW)[p].gbc" size="524288" crc="8f3902f2" md5="bcb9bb36dbf9d1659ab37a926ce5c68b" sha1="915c141e6dd188b580befdd034705e5c747027cf"/>
+	</game>
 	<game name="Nintendo Game Boy Color BIOS (1998)(Nintendo)">
 		<description>Nintendo Game Boy Color BIOS (1998)(Nintendo)</description>
 		<rom name="Nintendo Game Boy Color BIOS (1998)(Nintendo).bin" size="2304" crc="41884e46" md5="dbfce9db9deaa2567f6a84fde55f9680" sha1="1293d68bf9643bc4f36954c1e80e38f39864528d"/>
+	</game>
+	<game name="Nintendo Game Boy Color BIOS (1998)(Nintendo)(JP)">
+		<description>Nintendo Game Boy Color BIOS (1998)(Nintendo)(JP)</description>
+		<rom name="Nintendo Game Boy Color BIOS (1998)(Nintendo)(JP).gbc" size="2304" crc="e8ef5318" md5="7c773f3c0b01cb73bca8e83227287b7f" sha1="df5a0d2d49de38fbd31cc2aab8e62c8550e655c0"/>
+	</game>
+	<game name="Nintendo Game Boy Color BIOS (1999)(Nintendo)[Pokémon Stadium]">
+		<description>Nintendo Game Boy Color BIOS (1999)(Nintendo)[Pokémon Stadium]</description>
+		<rom name="Nintendo Game Boy Color BIOS (1999)(Nintendo)[Pokémon Stadium].gbc" size="1008" crc="b18c78e8" md5="99ef61da48d0d05b5337b237543bc1e8" sha1="d24f388ac71b1cbc9b1d258fd10be13f8cdd3328"/>
+	</game>
+	<game name="Nintendo Game Boy Color BIOS (2007)(Nintendo)(beta)[Virtual Console]">
+		<description>Nintendo Game Boy Color BIOS (2007)(Nintendo)(beta)[Virtual Console]</description>
+		<rom name="Nintendo Game Boy Color BIOS (2007)(Nintendo)(beta)[Virtual Console].gbc" size="2304" crc="e95dc95d" md5="48991ee7b1813d0cba5b099df6578668" sha1="f5f33729a956131d9c44310f0ae3bb0599e9ec3e"/>
+	</game>
+	<game name="Touch Boy System ROM (19xx)(Hachi Shi Co)(TW)[p]">
+		<description>Touch Boy System ROM (19xx)(Hachi Shi Co)(TW)[p]</description>
+		<rom name="Touch Boy System ROM (19xx)(Hachi Shi Co)(TW)[p].gbc" size="131072" crc="4a5f1e2b" md5="7eee78b22cde947bdf09005189bcf5f7" sha1="dce8de70944e45b5687edef09370b6449f39a918"/>
 	</game>
 </datafile>

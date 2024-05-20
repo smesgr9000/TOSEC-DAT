@@ -4,20 +4,832 @@
 <datafile>
 	<header>
 		<name>IBM PC Compatibles - Games - [MFM]</name>
-		<description>IBM PC Compatibles - Games - [MFM] (TOSEC-v2018-11-15)</description>
+		<description>IBM PC Compatibles - Games - [MFM] (TOSEC-v2024-04-20)</description>
 		<category>TOSEC</category>
-		<version>2018-11-15</version>
-		<author>mictlantecuhtle</author>
+		<version>2024-04-20</version>
+		<author>mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-	<game name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 2)[3.5''][cp][Interp. 2.936][sn 3129289101202698]">
-		<description>Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 2)[3.5''][cp][Interp. 2.936][sn 3129289101202698]</description>
-		<rom name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 2)[3.5''][cp][Interp. 2.936][sn 3129289101202698].mfm" size="2229387" crc="aa32aaab" md5="3f360a8aee8f5e69002ee729c1c781a6" sha1="c58cd7462aea635197d7e138ac8cb2b3b7596b43"/>
+	<game name="2400 A.D. (1988)(Origin)[m][cp bootlock]">
+		<description>2400 A.D. (1988)(Origin)[m][cp bootlock]</description>
+		<rom name="2400 A.D. (1988)(Origin)[m][cp bootlock].mfm" size="1125398" crc="f973540d" md5="7110e314bfe5e10d922e2766dec16fbe" sha1="9f2f72fc2387415c4812d6b42074b6d37dc37892"/>
+	</game>
+	<game name="3-D Helicopter Simulator v1.00 (1987)(Sierra)[cp bootlock]">
+		<description>3-D Helicopter Simulator v1.00 (1987)(Sierra)[cp bootlock]</description>
+		<rom name="3-D Helicopter Simulator v1.00 (1987)(Sierra)[cp bootlock].mfm" size="1091030" crc="1b228f08" md5="2a532ab92a86b3271bc3798bacc9d9ef" sha1="5b56efbccc8f7bd9445c1129f9addc74369a3074"/>
+	</game>
+	<game name="3-D Helicopter Simulator v1.10 (1987)(Sierra)[cp bootlock]">
+		<description>3-D Helicopter Simulator v1.10 (1987)(Sierra)[cp bootlock]</description>
+		<rom name="3-D Helicopter Simulator v1.10 (1987)(Sierra)[cp bootlock].mfm" size="1095385" crc="d8a47d33" md5="a4628dc5939bab612e3c5f30f2cd356c" sha1="15467b31150842b7e2821db11f39b8779edddb99"/>
+	</game>
+	<game name="3-D Helicopter Simulator v1.10 (1987)(Sierra)[m][cp bootlock]">
+		<description>3-D Helicopter Simulator v1.10 (1987)(Sierra)[m][cp bootlock]</description>
+		<rom name="3-D Helicopter Simulator v1.10 (1987)(Sierra)[m][cp bootlock].mfm" size="2171609" crc="ff567ea6" md5="407b53452fc8a9c468ddda271541f542" sha1="22df1e0ed4474a10c7ede948f703799822df57de"/>
+	</game>
+	<game name="4th &amp; Inches (1988)(Accolade)[cp bootlock]">
+		<description>4th &amp; Inches (1988)(Accolade)[cp bootlock]</description>
+		<rom name="4th &amp; Inches (1988)(Accolade)[cp bootlock].mfm" size="2172562" crc="98be547d" md5="49e146917c2c3f64fc5f9736f6276900" sha1="cc9336fd1511ce45908a317c5bc8c89b39a38f6b"/>
+	</game>
+	<game name="Adventure in Serenia (1982)(IBM - On-Line Systems)[cp bootlock][autoboot]">
+		<description>Adventure in Serenia (1982)(IBM - On-Line Systems)[cp bootlock][autoboot]</description>
+		<rom name="Adventure in Serenia (1982)(IBM - On-Line Systems)[cp bootlock][autoboot].mfm" size="512216" crc="da7098d1" md5="736d157005329b038e5f30836b590a52" sha1="577a62d53381c7fe1d790e2c093138278fb89007"/>
+	</game>
+	<game name="Amnesia (1986)(Electronic Arts)(Disk 1 of 2)[autoboot]">
+		<description>Amnesia (1986)(Electronic Arts)(Disk 1 of 2)[autoboot]</description>
+		<rom name="Amnesia (1986)(Electronic Arts)(Disk 1 of 2)[autoboot].mfm" size="1025741" crc="d803b80b" md5="8699232dc4374ff4029ac5bbd55d87a4" sha1="95cf71e544c21bba82920772b50e302271d4e696"/>
+	</game>
+	<game name="Amnesia (1986)(Electronic Arts)(Disk 2 of 2)[autoboot]">
+		<description>Amnesia (1986)(Electronic Arts)(Disk 2 of 2)[autoboot]</description>
+		<rom name="Amnesia (1986)(Electronic Arts)(Disk 2 of 2)[autoboot].mfm" size="1025228" crc="f05eb972" md5="8f79afacad4fab1ca0b3aede2c5c35a3" sha1="bf9955ebbc554f91472042cd5326edc4b42374a8"/>
+	</game>
+	<game name="Apollo 18 - Mission to the Moon (1988)(Accolade)[cp bootlock]">
+		<description>Apollo 18 - Mission to the Moon (1988)(Accolade)[cp bootlock]</description>
+		<rom name="Apollo 18 - Mission to the Moon (1988)(Accolade)[cp bootlock].mfm" size="1080364" crc="11162a67" md5="dd3d497ca79e02f740e06aa1c973924d" sha1="95caba38ec945252410c828a5ebe2c8329a08abe"/>
+	</game>
+	<game name="Archon - The Light and the Dark (1984)(Electronic Arts - Free Fall Associates)[cp bootlock][autoboot]">
+		<description>Archon - The Light and the Dark (1984)(Electronic Arts - Free Fall Associates)[cp bootlock][autoboot]</description>
+		<rom name="Archon - The Light and the Dark (1984)(Electronic Arts - Free Fall Associates)[cp bootlock][autoboot].mfm" size="550743" crc="7ca357fd" md5="9372954c223c86b708ae85182d385345" sha1="985c089fdce9065430f7d4e31f591cbd1c08c60b"/>
+	</game>
+	<game name="Arkanoid (1988)(Discovery)[a][cp bootlock]">
+		<description>Arkanoid (1988)(Discovery)[a][cp bootlock]</description>
+		<rom name="Arkanoid (1988)(Discovery)[a][cp bootlock].mfm" size="1100534" crc="c8e83905" md5="063eb32712d24f86a894a1a1260d93da" sha1="e3e35643c2727cab9e786a9d76c0845625a729cd"/>
+	</game>
+	<game name="Arkanoid (1988)(Discovery)[cp bootlock]">
+		<description>Arkanoid (1988)(Discovery)[cp bootlock]</description>
+		<rom name="Arkanoid (1988)(Discovery)[cp bootlock].mfm" size="1025236" crc="586ce401" md5="7ef9e4b979c0777279b81584d82b1123" sha1="e8e2e562f46f51b4440d64a87c143357e2f4a86e"/>
+	</game>
+	<game name="Arkanoid II - Revenge of Doh (1989)(Taito)[cp bootlock]">
+		<description>Arkanoid II - Revenge of Doh (1989)(Taito)[cp bootlock]</description>
+		<rom name="Arkanoid II - Revenge of Doh (1989)(Taito)[cp bootlock].mfm" size="2050260" crc="bde1db83" md5="79e8cc0cd82dad185b571d884ca9994c" sha1="bb18fd9168f34b67d93e4d8a084806f45c4a9799"/>
+	</game>
+	<game name="Ballyhoo r97 (1985-12-18)(Infocom)">
+		<description>Ballyhoo r97 (1985-12-18)(Infocom)</description>
+		<rom name="Ballyhoo r97 (1985-12-18)(Infocom).mfm" size="1604485" crc="798b494d" md5="464ccb2c5d21aceca07a23311d8b1290" sha1="8007baf15b4bf45453c7ba904cf04a13e17c0763"/>
+	</game>
+	<game name="Batman - The Caped Crusader (1989)(Ocean)(Disk 1 of 2)[cp bootlock]">
+		<description>Batman - The Caped Crusader (1989)(Ocean)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Batman - The Caped Crusader (1989)(Ocean)(Disk 1 of 2)[cp bootlock].mfm" size="1095998" crc="3482178b" md5="800c54c4a884a81fcf0c2f78f6935bad" sha1="bf66eca664ee9a8c630637ccf2de54c7fae87a9e"/>
+	</game>
+	<game name="Batman - The Caped Crusader (1989)(Ocean)(Disk 2 of 2)[cp bootlock]">
+		<description>Batman - The Caped Crusader (1989)(Ocean)(Disk 2 of 2)[cp bootlock]</description>
+		<rom name="Batman - The Caped Crusader (1989)(Ocean)(Disk 2 of 2)[cp bootlock].mfm" size="1115659" crc="92ab6a4e" md5="86b8453f917343250b52270e0b5bc19f" sha1="52b3269ad49e9d1a607aacd0219b5b9a12ad77ac"/>
+	</game>
+	<game name="BC's Quest for Tires (1984)(Sierra)[cp bootlock][autoboot]">
+		<description>BC's Quest for Tires (1984)(Sierra)[cp bootlock][autoboot]</description>
+		<rom name="BC's Quest for Tires (1984)(Sierra)[cp bootlock][autoboot].mfm" size="537816" crc="1adef7c9" md5="76c5614234088ab9da90c44791c88da1" sha1="b3231cd9f80745c40c9ddc0c9223736b1705d84e"/>
+	</game>
+	<game name="Black Cauldron, The v1.1m (1986)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot]">
+		<description>Black Cauldron, The v1.1m (1986)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot]</description>
+		<rom name="Black Cauldron, The v1.1m (1986)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot].mfm" size="1095384" crc="06261a8d" md5="2fbb296fbfbffa5339167c1a6001db24" sha1="921318ebfdf9a798424e0d68a426ef2ee38f5697"/>
+	</game>
+	<game name="Black Cauldron, The v2.0 (1987)(Sierra)[cp bootlock]">
+		<description>Black Cauldron, The v2.0 (1987)(Sierra)[cp bootlock]</description>
+		<rom name="Black Cauldron, The v2.0 (1987)(Sierra)[cp bootlock].mfm" size="1126401" crc="e71783a3" md5="3928030917831d1ed6406171031f1665" sha1="b8fe3931d2f97d14899690eebc25c4e68c72d956"/>
+	</game>
+	<game name="Blood Money (1989)(Psygnosis)[cp bootlock]">
+		<description>Blood Money (1989)(Psygnosis)[cp bootlock]</description>
+		<rom name="Blood Money (1989)(Psygnosis)[cp bootlock].mfm" size="2152105" crc="564ecd6b" md5="102aa6d28d4a158947ba829d9835e439" sha1="2b660cf2812fd197ef474c15714032df40fdd3d8"/>
+	</game>
+	<game name="Boulder Dash Construction Kit (1987)(First Star)">
+		<description>Boulder Dash Construction Kit (1987)(First Star)</description>
+		<rom name="Boulder Dash Construction Kit (1987)(First Star).mfm" size="520463" crc="d0304bb0" md5="cff12a09a743005b64efa0faac81f08c" sha1="63125ff4d396e232765937164456a5a73cebb3f0"/>
+	</game>
+	<game name="Bruce Lee (1984)(Datasoft)[autoboot]">
+		<description>Bruce Lee (1984)(Datasoft)[autoboot]</description>
+		<rom name="Bruce Lee (1984)(Datasoft)[autoboot].mfm" size="1605108" crc="fbd4bff2" md5="05f1af72069019aa6c848a6ee2aa553d" sha1="bd5168f615411fdd483286e94d901818e27ea91d"/>
+	</game>
+	<game name="Bubble Bobble (1989)(Taito)(Disk 1 of 2)[cp bootlock]">
+		<description>Bubble Bobble (1989)(Taito)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Bubble Bobble (1989)(Taito)(Disk 1 of 2)[cp bootlock].mfm" size="1100417" crc="eec6238e" md5="a1e51e8c259598a84b251d88cbd35ed8" sha1="929c3e4671808c748f79a688646894c150ff86ff"/>
+	</game>
+	<game name="Bubble Bobble (1989)(Taito)[cp bootlock]">
+		<description>Bubble Bobble (1989)(Taito)[cp bootlock]</description>
+		<rom name="Bubble Bobble (1989)(Taito)[cp bootlock].mfm" size="2172798" crc="2c6183bd" md5="f9ce239f56ff1627faf3e6af87fc31d3" sha1="f70c267c0965b36fc7f80964b87f95cdb15e9e3f"/>
+	</game>
+	<game name="Bundesliga Manager (1990)(Software 2000)(DE)(Disk 1 of 2)">
+		<description>Bundesliga Manager (1990)(Software 2000)(DE)(Disk 1 of 2)</description>
+		<rom name="Bundesliga Manager (1990)(Software 2000)(DE)(Disk 1 of 2).mfm" size="2404046" crc="f0cb0b78" md5="71c2c86eb10c21fe03cb9b715b61eeee" sha1="5251bd64d890106f14946157370691080bf122b5"/>
+	</game>
+	<game name="Bundesliga Manager (1990)(Software 2000)(DE)(Disk 2 of 2)">
+		<description>Bundesliga Manager (1990)(Software 2000)(DE)(Disk 2 of 2)</description>
+		<rom name="Bundesliga Manager (1990)(Software 2000)(DE)(Disk 2 of 2).mfm" size="3783439" crc="1542912f" md5="1ae40e55bfcdba20fce988ead97d078f" sha1="059e6c54239e11ad5dcbd43fe2e4f574cd922475"/>
+	</game>
+	<game name="California Games v1.01 (1988)(Epyx)[m][cp bootlock]">
+		<description>California Games v1.01 (1988)(Epyx)[m][cp bootlock]</description>
+		<rom name="California Games v1.01 (1988)(Epyx)[m][cp bootlock].mfm" size="1100529" crc="fcefe4a5" md5="7fe1b48b34b344dd71c57fad8f8176b2" sha1="e42f30464c2d4758af21c23ecbbdf3f2c7d4678e"/>
+	</game>
+	<game name="Carl Lewis Challenge, The (1992)(Psynogis)(Disk 3 of 5)[cp bootlock]">
+		<description>Carl Lewis Challenge, The (1992)(Psynogis)(Disk 3 of 5)[cp bootlock]</description>
+		<rom name="Carl Lewis Challenge, The (1992)(Psynogis)(Disk 3 of 5)[cp bootlock].mfm" size="1100662" crc="4eeba05a" md5="c642a54de5f764dd6f6fddec2e9c63da" sha1="a09c1cae1cd115165c8997bfb25d51cfdad2f338"/>
+	</game>
+	<game name="Centipede (1983)(Atari)">
+		<description>Centipede (1983)(Atari)</description>
+		<rom name="Centipede (1983)(Atari).mfm" size="815187" crc="f2b1fcd8" md5="3924d6a4e5076da12270ad8700b2a2cf" sha1="8297e3061f0610ae96ec694faaff7104c47e4db0"/>
+	</game>
+	<game name="Championship Lode Runner (1984)(Broderbund)[m][cp bootlock][autoboot]">
+		<description>Championship Lode Runner (1984)(Broderbund)[m][cp bootlock][autoboot]</description>
+		<rom name="Championship Lode Runner (1984)(Broderbund)[m][cp bootlock][autoboot].mfm" size="550536" crc="7dec9bb3" md5="52c7fcb9e679683ba37405db9c684b11" sha1="6c762db3818dad5c4602f04752562b444e22ac3e"/>
+	</game>
+	<game name="Commando (1986)(Capcom - Data East - Quicksilver)[autoboot]">
+		<description>Commando (1986)(Capcom - Data East - Quicksilver)[autoboot]</description>
+		<rom name="Commando (1986)(Capcom - Data East - Quicksilver)[autoboot].mfm" size="1617569" crc="ad2ca8af" md5="57c9d9e733c2f2c72096f27b08fd5c55" sha1="c74b3e2a8c71b96ee54c452052006fa4f763aefd"/>
+	</game>
+	<game name="Crossfire (1982)(On-Line Software)[cp bootlock][autoboot]">
+		<description>Crossfire (1982)(On-Line Software)[cp bootlock][autoboot]</description>
+		<rom name="Crossfire (1982)(On-Line Software)[cp bootlock][autoboot].mfm" size="512224" crc="2ce6fb74" md5="8e6ce957caa2878d2b3bd7b046b3e820" sha1="c19cec90611baaef853f038c98d31870ea8aa07a"/>
+	</game>
+	<game name="Cutthroats r23 (1984-08-09)(Infocom)[cp bootlock][autoboot]">
+		<description>Cutthroats r23 (1984-08-09)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Cutthroats r23 (1984-08-09)(Infocom)[cp bootlock][autoboot].mfm" size="512180" crc="fa259928" md5="7fac8b097b47e4104251a6ac519d2490" sha1="95baee90c5927583598097643345b1b6661a2d6c"/>
+	</game>
+	<game name="Deadline - An Interlogic Mystery r26 (1982-11-08)(Infocom)[cp bootlock][autoboot]">
+		<description>Deadline - An Interlogic Mystery r26 (1982-11-08)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Deadline - An Interlogic Mystery r26 (1982-11-08)(Infocom)[cp bootlock][autoboot].mfm" size="512209" crc="e804ea98" md5="69c847e83ec18ef8b05ecb4eb2b17dfc" sha1="5ac4d063369c746248ac8ac88d5d7b09800517ba"/>
+	</game>
+	<game name="Deadline - An Interlogic Mystery r27 (1983-10-05)(Infocom)[cp bootlock][autoboot]">
+		<description>Deadline - An Interlogic Mystery r27 (1983-10-05)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Deadline - An Interlogic Mystery r27 (1983-10-05)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="afe0b8d9" md5="0be9eb0ed7da04403f56cf71ed01bf3b" sha1="90202288053254e036253565bdc919c0ac1f83a2"/>
+	</game>
+	<game name="Death Sword (1988)(Palace)[cp bootlock]">
+		<description>Death Sword (1988)(Palace)[cp bootlock]</description>
+		<rom name="Death Sword (1988)(Palace)[cp bootlock].mfm" size="1125897" crc="b63cf339" md5="8b47297465fc0ce85d75c0ab558229ea" sha1="254f5cb41bec443eeee1b3ee592fcc1ae8361f64"/>
+	</game>
+	<game name="Destroyer (1987)(Epyx)[cp bootlock]">
+		<description>Destroyer (1987)(Epyx)[cp bootlock]</description>
+		<rom name="Destroyer (1987)(Epyx)[cp bootlock].mfm" size="1113138" crc="0a7e99ef" md5="5b8237e81983c00406562436208b5774" sha1="7aeac365c74b5dde55a9b49358303ee077984594"/>
+	</game>
+	<game name="Donald Duck's Playground v1.0Q (1986)(Sierra)[cp bootlock][autoboot]">
+		<description>Donald Duck's Playground v1.0Q (1986)(Sierra)[cp bootlock][autoboot]</description>
+		<rom name="Donald Duck's Playground v1.0Q (1986)(Sierra)[cp bootlock][autoboot].mfm" size="1069784" crc="53229133" md5="0e1a0fde6dd7e5f61c11e1e8d152d187" sha1="29aed5deed887d13a14f0a32b855645519de3c6a"/>
+	</game>
+	<game name="Enchanter - Interlogic Fantasy r10 (1983-08-10)(Infocom)[cp bootlock][autoboot]">
+		<description>Enchanter - Interlogic Fantasy r10 (1983-08-10)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Enchanter - Interlogic Fantasy r10 (1983-08-10)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="cd69ff18" md5="908dcf696226d4d76a344bfc1b664e16" sha1="a4fe68775807e68475bf973b5c54728fecb44695"/>
+	</game>
+	<game name="Enchanter - Interlogic Fantasy r16 (1983-11-18)(Infocom)[cp bootlock][autoboot]">
+		<description>Enchanter - Interlogic Fantasy r16 (1983-11-18)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Enchanter - Interlogic Fantasy r16 (1983-11-18)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="416835cc" md5="0fdcc3541a45923370e4842df25e523b" sha1="df557c2f46194a5a505a2b61b9f2fdb34da9a4dc"/>
+	</game>
+	<game name="F-15 Strike Eagle - Air Combat in The Jet Age (1985)(Microprose)(CGA)[autoboot]">
+		<description>F-15 Strike Eagle - Air Combat in The Jet Age (1985)(Microprose)(CGA)[autoboot]</description>
+		<rom name="F-15 Strike Eagle - Air Combat in The Jet Age (1985)(Microprose)(CGA)[autoboot].mfm" size="1101381" crc="66c0ba61" md5="2e3a81322d465e51b8a67ba438d5e65c" sha1="2df23287dab18bbd454164553a799fea5c2d7b89"/>
+	</game>
+	<game name="F-15 Strike Eagle - Air Combat in The Jet Age v402.01 (1985)(Microprose)(EGA)[autoboot]">
+		<description>F-15 Strike Eagle - Air Combat in The Jet Age v402.01 (1985)(Microprose)(EGA)[autoboot]</description>
+		<rom name="F-15 Strike Eagle - Air Combat in The Jet Age v402.01 (1985)(Microprose)(EGA)[autoboot].mfm" size="2108676" crc="8765e92b" md5="949fb8a17a965f70d5dc7d077fab7d70" sha1="8b1f619cf2cbbef2067dde9ef1aecec836fff329"/>
+	</game>
+	<game name="Faery Tale Adventure, The (1988)(Microillusions)(Disk 1 of 2)[cp manual][Disk A-B]">
+		<description>Faery Tale Adventure, The (1988)(Microillusions)(Disk 1 of 2)[cp manual][Disk A-B]</description>
+		<rom name="Faery Tale Adventure, The (1988)(Microillusions)(Disk 1 of 2)[cp manual][Disk A-B].mfm" size="2264600" crc="d038f0eb" md5="ec01a0d51e54b0260310f39d61f3f938" sha1="ddd26fc0955ec224a7f4ef51e8e29cf492693b8b"/>
+	</game>
+	<game name="Faery Tale Adventure, The (1988)(Microillusions)(Disk 2 of 2)[cp manual][Disk C]">
+		<description>Faery Tale Adventure, The (1988)(Microillusions)(Disk 2 of 2)[cp manual][Disk C]</description>
+		<rom name="Faery Tale Adventure, The (1988)(Microillusions)(Disk 2 of 2)[cp manual][Disk C].mfm" size="2262101" crc="a8088bfc" md5="3ae3f789c14a0951901f31587ed2df99" sha1="f923e1012ba0b67f520814c5a441fb79b75b34dc"/>
+	</game>
+	<game name="Fast Break (1988)(Accolade)[cp bootlock]">
+		<description>Fast Break (1988)(Accolade)[cp bootlock]</description>
+		<rom name="Fast Break (1988)(Accolade)[cp bootlock].mfm" size="2172606" crc="f7169a25" md5="b397c269e5a15b9ad94d69aaffacf41f" sha1="2a5713d92233a67a8eb7b3da68bf6cb1667bcd64"/>
+	</game>
+	<game name="Final Assault (1988)(Infogrames)[cp bootlock]">
+		<description>Final Assault (1988)(Infogrames)[cp bootlock]</description>
+		<rom name="Final Assault (1988)(Infogrames)[cp bootlock].mfm" size="1125858" crc="25328320" md5="cc9d4877000e448cb46b13831c423182" sha1="7c8c8a433b43d1ccf0cb7136312f202329542f44"/>
+	</game>
+	<game name="Final Assault (1988)(Infogrames)[m][cp bootlock]">
+		<description>Final Assault (1988)(Infogrames)[m][cp bootlock]</description>
+		<rom name="Final Assault (1988)(Infogrames)[m][cp bootlock].mfm" size="2158423" crc="1d179f8e" md5="bdd1f7bfab915e49ccb0b00731cbda99" sha1="3db34c820fada26e4cd798eeae69f65a96dcb233"/>
+	</game>
+	<game name="Frogger (1983)(Sega - Sierra)[cp bootlock][autoboot]">
+		<description>Frogger (1983)(Sega - Sierra)[cp bootlock][autoboot]</description>
+		<rom name="Frogger (1983)(Sega - Sierra)[cp bootlock][autoboot].mfm" size="512195" crc="9a5a1019" md5="528e02d27eaa7130c957d5d7cba76116" sha1="4ba18b0a20043f8b0f936b26cf0c702e4454d54e"/>
+	</game>
+	<game name="Games, The - Summer Edition (1988)(Epyx)(Disk 1 of 4)[cp bootlock]">
+		<description>Games, The - Summer Edition (1988)(Epyx)(Disk 1 of 4)[cp bootlock]</description>
+		<rom name="Games, The - Summer Edition (1988)(Epyx)(Disk 1 of 4)[cp bootlock].mfm" size="1125892" crc="83462183" md5="ecaea0178ed66b2e598a99f158de8c6b" sha1="6029a6b89923c4d3aeb755c2abb73192a241837e"/>
+	</game>
+	<game name="Gettysburg - The Turning Point v 2.0 (1986)(SSI)">
+		<description>Gettysburg - The Turning Point v 2.0 (1986)(SSI)</description>
+		<rom name="Gettysburg - The Turning Point v 2.0 (1986)(SSI).mfm" size="1100746" crc="252d7267" md5="207a65f163bbf449844e6f3f0e3e9e68" sha1="4620359121c5e842f1d516bf82df815b283c2689"/>
+	</game>
+	<game name="GFL Championship Football (1987)(Activision)[m][cp bootlock]">
+		<description>GFL Championship Football (1987)(Activision)[m][cp bootlock]</description>
+		<rom name="GFL Championship Football (1987)(Activision)[m][cp bootlock].mfm" size="1112783" crc="032c3eb7" md5="adf8d2a1b1dc1fbe156befd030854726" sha1="0c82e3092a00e14dc0b713f02a5e3aa0037d5383"/>
+	</game>
+	<game name="Ghostbusters (1985)(Activision)[cp bootlock][autoboot]">
+		<description>Ghostbusters (1985)(Activision)[cp bootlock][autoboot]</description>
+		<rom name="Ghostbusters (1985)(Activision)[cp bootlock][autoboot].mfm" size="563303" crc="e7b0ec1b" md5="fdc871bd9a9fb592953c1e53b5f4d90b" sha1="058f73213daf0687f37f0612780af0d7781ff2f7"/>
+	</game>
+	<game name="Grand Prix Circuit (1988)(Accolade - DSI)(Disk 1 of 2)[m][cp bootlock]">
+		<description>Grand Prix Circuit (1988)(Accolade - DSI)(Disk 1 of 2)[m][cp bootlock]</description>
+		<rom name="Grand Prix Circuit (1988)(Accolade - DSI)(Disk 1 of 2)[m][cp bootlock].mfm" size="1086422" crc="68df982c" md5="bf67dafc6fb3ca528184ce579a98afc4" sha1="25991a5ed567573967c1a99fd0d107681440f64c"/>
+	</game>
+	<game name="Grand Prix Circuit (1988)(Accolade - DSI)(Disk 2 of 2)[cp bootlock]">
+		<description>Grand Prix Circuit (1988)(Accolade - DSI)(Disk 2 of 2)[cp bootlock]</description>
+		<rom name="Grand Prix Circuit (1988)(Accolade - DSI)(Disk 2 of 2)[cp bootlock].mfm" size="1081264" crc="27f32dd4" md5="b8a35b85619fbd64a0a2eccd9b351434" sha1="0e61539f956bc7056e8244cd783503b62bc66e96"/>
+	</game>
+	<game name="Grand Prix Circuit (1988)(Accolade - DSI)[cp bootlock]">
+		<description>Grand Prix Circuit (1988)(Accolade - DSI)[cp bootlock]</description>
+		<rom name="Grand Prix Circuit (1988)(Accolade - DSI)[cp bootlock].mfm" size="2110569" crc="2f6d6e93" md5="964d1aee449fc37b7a40a064f7ddd1e1" sha1="3197c0fa4deb004f277fd6f38388738871e9af4f"/>
+	</game>
+	<game name="Hard Ball (1987)(Accolade)[cp bootlock]">
+		<description>Hard Ball (1987)(Accolade)[cp bootlock]</description>
+		<rom name="Hard Ball (1987)(Accolade)[cp bootlock].mfm" size="2150287" crc="31c2e6a0" md5="dbcf02ff346ec366f9976d36e2453bc6" sha1="ba1778f6c73e11ec8cc494ac9cf93cbb09f258ea"/>
+	</game>
+	<game name="Hitchhiker's Guide to The Galaxy, The r56 (1984-12-21)(Infocom)[cp bootlock][autoboot]">
+		<description>Hitchhiker's Guide to The Galaxy, The r56 (1984-12-21)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Hitchhiker's Guide to The Galaxy, The r56 (1984-12-21)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="633d4b8d" md5="af62db68915761049773c71fbac33873" sha1="301b2028c14f10f90a47217979dce49a5ccaf507"/>
+	</game>
+	<game name="Impossible Mission II (1988)(Epix)(Disk 1 of 2)(Disk 1-2)[cp bootlock]">
+		<description>Impossible Mission II (1988)(Epix)(Disk 1 of 2)(Disk 1-2)[cp bootlock]</description>
+		<rom name="Impossible Mission II (1988)(Epix)(Disk 1 of 2)(Disk 1-2)[cp bootlock].mfm" size="2152000" crc="2139e4b8" md5="a80b6eb9013cfe3df02c41fc0182c116" sha1="bc9e94ee6aa097e2bccd8741fd9aeb2ca8211d64"/>
+	</game>
+	<game name="Incredible Machine, The (1992)(Sierra)[cp manual]">
+		<description>Incredible Machine, The (1992)(Sierra)[cp manual]</description>
+		<rom name="Incredible Machine, The (1992)(Sierra)[cp manual].mfm" size="4227341" crc="67a17e7b" md5="931d7a0b45024c2df86a8aaf7fbcdb66" sha1="40bec05235ff5056edee74b5c8269823b23448e7"/>
+	</game>
+	<game name="Infidel r22 (1983-09-16)(Infocom)[cp bootlock][autoboot]">
+		<description>Infidel r22 (1983-09-16)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Infidel r22 (1983-09-16)(Infocom)[cp bootlock][autoboot].mfm" size="512184" crc="d9a8d69d" md5="9afcf3e5bd4412d3854c5e883016e941" sha1="79d3caf46ef95ebf698540b9a8056fa3f54e64ac"/>
+	</game>
+	<game name="Infiltrator (1987)(Chris Gray)">
+		<description>Infiltrator (1987)(Chris Gray)</description>
+		<rom name="Infiltrator (1987)(Chris Gray).mfm" size="2217033" crc="9796264b" md5="8f7e8e1e442031393345724fedab0f60" sha1="267250122b1c6e4fcd31a9201520f26c862d1896"/>
+	</game>
+	<game name="Julius Erwing and Larry Bird Go One-on-One (1984)(Electronic Arts)[cp bootlock][autoboot]">
+		<description>Julius Erwing and Larry Bird Go One-on-One (1984)(Electronic Arts)[cp bootlock][autoboot]</description>
+		<rom name="Julius Erwing and Larry Bird Go One-on-One (1984)(Electronic Arts)[cp bootlock][autoboot].mfm" size="512738" crc="0cd915e4" md5="39439aa2582104ed04d7159576b405d2" sha1="7a8c59e9c226334c96fe2d2ec11b5e881a690730"/>
+	</game>
+	<game name="Jumpman (1984)(Epyx - Mirror Images)[cp bootlock][autoboot]">
+		<description>Jumpman (1984)(Epyx - Mirror Images)[cp bootlock][autoboot]</description>
+		<rom name="Jumpman (1984)(Epyx - Mirror Images)[cp bootlock][autoboot].mfm" size="1125228" crc="59b75613" md5="35ab80e642e06fed4dbc41a744161f66" sha1="125bdc76f441bff6c5c45bb1c304661f3eaab3c9"/>
+	</game>
+	<game name="Karateka (1986)(Broderbund)[cp bootlock]">
+		<description>Karateka (1986)(Broderbund)[cp bootlock]</description>
+		<rom name="Karateka (1986)(Broderbund)[cp bootlock].mfm" size="1125754" crc="688574a3" md5="beaa09cc21e8fb3ba9424c5dc18aaa5c" sha1="50422f51b2c58b4411346a75799729d356e4e2a4"/>
+	</game>
+	<game name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][CGA-RGB]">
+		<description>King's Quest (1984)(Sierra)[cp bootlock][autoboot][CGA-RGB]</description>
+		<rom name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][CGA-RGB].mfm" size="1126402" crc="c1a3c32b" md5="63873382b690a088c281afa0aa5beec8" sha1="7d9ea6a034d22d47f579d662f0dadf4ff0808fc2"/>
+	</game>
+	<game name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][CGA]">
+		<description>King's Quest (1984)(Sierra)[cp bootlock][autoboot][CGA]</description>
+		<rom name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][CGA].mfm" size="1024724" crc="f3bc4e4b" md5="72f03f863b58d9d654f443843f72d6f5" sha1="2a00648b0619966b53fa9a13759f0f3ab1885b90"/>
+	</game>
+	<game name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][PCjr-Tandy]">
+		<description>King's Quest (1984)(Sierra)[cp bootlock][autoboot][PCjr-Tandy]</description>
+		<rom name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][PCjr-Tandy].mfm" size="1112855" crc="026f8b9c" md5="f9a2ce8a0351792de92fc840254056ab" sha1="e6bc968a20f6753ca7947e62a85892e3cba6b62a"/>
+	</game>
+	<game name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][PCjr]">
+		<description>King's Quest (1984)(Sierra)[cp bootlock][autoboot][PCjr]</description>
+		<rom name="King's Quest (1984)(Sierra)[cp bootlock][autoboot][PCjr].mfm" size="1125320" crc="8733ad28" md5="e772547899af3343c240b1be36d0cdbe" sha1="5a57bcd2d9d386f69139aebb2f2b8e6ca8071e58"/>
+	</game>
+	<game name="King's Quest I v1.0U (1986-11-13)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>King's Quest I v1.0U (1986-11-13)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="King's Quest I v1.0U (1986-11-13)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1095384" crc="7cc9dc79" md5="d59ae54fda79b59b70521c60240dee56" sha1="396f3ddddb684b207443d21fd8f80e1d6840ae9c"/>
+	</game>
+	<game name="King's Quest I v2.0F (1987-05-05)(Sierra)(Disk 1 of 2)[a][cp bootlock]">
+		<description>King's Quest I v2.0F (1987-05-05)(Sierra)(Disk 1 of 2)[a][cp bootlock]</description>
+		<rom name="King's Quest I v2.0F (1987-05-05)(Sierra)(Disk 1 of 2)[a][cp bootlock].mfm" size="1095384" crc="cdd022dc" md5="52d721b7f7aec53c728c5ff1dfd8776c" sha1="78fa5b8adaef7c4dc9b9c64a58cc7c9b63f0c838"/>
+	</game>
+	<game name="King's Quest I v2.0F (1987-05-05)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>King's Quest I v2.0F (1987-05-05)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="King's Quest I v2.0F (1987-05-05)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1095384" crc="e89a9033" md5="0f287646260b8888e683596f6a53c147" sha1="0e0607371bbb39108642b49875e78892fd12c054"/>
+	</game>
+	<game name="King's Quest I v2.0F (1987-05-05)(Sierra)[a][cp bootlock]">
+		<description>King's Quest I v2.0F (1987-05-05)(Sierra)[a][cp bootlock]</description>
+		<rom name="King's Quest I v2.0F (1987-05-05)(Sierra)[a][cp bootlock].mfm" size="2171608" crc="ba01dbe5" md5="42091c6a2ea69fa18c55a60c8640294f" sha1="be1e8ec8235bb2541a5b30ad176097fd8c9a7cbb"/>
+	</game>
+	<game name="King's Quest I v2.0F (1987-05-05)(Sierra)[cp bootlock]">
+		<description>King's Quest I v2.0F (1987-05-05)(Sierra)[cp bootlock]</description>
+		<rom name="King's Quest I v2.0F (1987-05-05)(Sierra)[cp bootlock].mfm" size="2171608" crc="f63acb25" md5="b8a19ff7e31189c943588f4c249bd500" sha1="c1e2c186f1902b0269b03830c020a273cca4b62f"/>
+	</game>
+	<game name="King's Quest II - Romancing the Throne v1.00 (1985)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot][Tandy]">
+		<description>King's Quest II - Romancing the Throne v1.00 (1985)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot][Tandy]</description>
+		<rom name="King's Quest II - Romancing the Throne v1.00 (1985)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot][Tandy].mfm" size="1113561" crc="b088de82" md5="e6308668a862a4d8c3e02e95a887c30d" sha1="7a49cf8a3a0d5eb69e5916547fc769aabd57bf24"/>
+	</game>
+	<game name="King's Quest II - Romancing the Throne v1.1h (1985)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot]">
+		<description>King's Quest II - Romancing the Throne v1.1h (1985)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot]</description>
+		<rom name="King's Quest II - Romancing the Throne v1.1h (1985)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot].mfm" size="1088277" crc="92476529" md5="8c181649e8cc5a05f77adfa42b449de3" sha1="914dfcbbdc53e81c3d46fa58b23587acb14430fc"/>
+	</game>
+	<game name="King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 1 of 2)[a][cp bootlock]">
+		<description>King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 1 of 2)[a][cp bootlock]</description>
+		<rom name="King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 1 of 2)[a][cp bootlock].mfm" size="1095384" crc="56f78e1a" md5="14e81a4a266e1d0243de1854ace32e1b" sha1="f5796368dd30649f57f3a9489cedce3560394447"/>
+	</game>
+	<game name="King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1095384" crc="c64fe2b7" md5="c682dcae6beaabc7c36c4ce83418ef17" sha1="de8f423cd5b12bd78e50877efb29d1c5c34cbf1d"/>
+	</game>
+	<game name="King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 2 of 2)[cp bootlock]">
+		<description>King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 2 of 2)[cp bootlock]</description>
+		<rom name="King's Quest II - Romancing The Throne v2.2 (1987)(Sierra)(Disk 2 of 2)[cp bootlock].mfm" size="2171608" crc="d7ec27cc" md5="d1e9fb96b363f91bf5bb23afbae44d8b" sha1="20413694488fc9510d22e05b72a8eef4e958f747"/>
+	</game>
+	<game name="King's Quest III - To Heir is Human v1.01 (1986-11-10)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>King's Quest III - To Heir is Human v1.01 (1986-11-10)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="King's Quest III - To Heir is Human v1.01 (1986-11-10)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="0d7b38ce" md5="a04017adfc6c9feade499aedf5f42e7a" sha1="3b3959966f4427bb3c42dc06ca41f23dd43d979f"/>
+	</game>
+	<game name="King's Quest III - To Heir is Human v2.00 (1987-05-26)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>King's Quest III - To Heir is Human v2.00 (1987-05-26)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="King's Quest III - To Heir is Human v2.00 (1987-05-26)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="cd2982b2" md5="0a2224be94b28be06ebe9775a226235b" sha1="156d005bf9bf5e54e94ce939bca79c0655d8d6db"/>
+	</game>
+	<game name="King's Quest III - To Heir is Human v2.00 (1987-05-29)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>King's Quest III - To Heir is Human v2.00 (1987-05-29)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="King's Quest III - To Heir is Human v2.00 (1987-05-29)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="2171608" crc="42aaf312" md5="0362b39d5c85dfa774f3147fd3d8ebe4" sha1="7d9f26d36c055b9a82679ff7acc5d5eff0e54c71"/>
+	</game>
+	<game name="King's Quest III - To Heir is Human v2.14 (1988-03-18)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>King's Quest III - To Heir is Human v2.14 (1988-03-18)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="King's Quest III - To Heir is Human v2.14 (1988-03-18)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="2171656" crc="a3ad5bcc" md5="a3944d717f304b6ce9e7484824cb7d74" sha1="9e6f6e275de9689fc3dc126897baeaac9ecd3c6c"/>
+	</game>
+	<game name="King's Quest III - To Heir is Human v2.14 (1988-03-18)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>King's Quest III - To Heir is Human v2.14 (1988-03-18)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="King's Quest III - To Heir is Human v2.14 (1988-03-18)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="bb398401" md5="bc0ede563486d0bd571a1aafff9f674a" sha1="dd25586c11ede4b052f8949e49b01244b862b8c2"/>
+	</game>
+	<game name="L.A. Crackdown (1988)(Epyx)[cp bootlock]">
+		<description>L.A. Crackdown (1988)(Epyx)[cp bootlock]</description>
+		<rom name="L.A. Crackdown (1988)(Epyx)[cp bootlock].mfm" size="1114639" crc="b0e82953" md5="8fd448a1ccc5c6c80bd8cd6835176a1a" sha1="9444c1efcc08ffda6dde80c1bde84f88fea7adcb"/>
+	</game>
+	<game name="Last Ninja, The v1.0 (1988)(Activision)(Disk 1 of 2)[cp bootlock]">
+		<description>Last Ninja, The v1.0 (1988)(Activision)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Last Ninja, The v1.0 (1988)(Activision)(Disk 1 of 2)[cp bootlock].mfm" size="1115368" crc="9a0127dd" md5="c477100ed34c972e1d942521f05f766b" sha1="1352574674205f2b7ee39a69d8ed0958950244ce"/>
+	</game>
+	<game name="Last Ninja, The v1.0 (1988)(Activision)[cp bootlock]">
+		<description>Last Ninja, The v1.0 (1988)(Activision)[cp bootlock]</description>
+		<rom name="Last Ninja, The v1.0 (1988)(Activision)[cp bootlock].mfm" size="2167481" crc="896f8882" md5="3c28cf1f17cde726bdb16ddc182b292f" sha1="d42fc9e1415d3bfd6ba67edb85c5e9129cbfab66"/>
+	</game>
+	<game name="Last Ninja, The v1.1 (1988)(Activision)[cp bootlock]">
+		<description>Last Ninja, The v1.1 (1988)(Activision)[cp bootlock]</description>
+		<rom name="Last Ninja, The v1.1 (1988)(Activision)[cp bootlock].mfm" size="2111202" crc="1ffcf7c6" md5="c65bb0445cdfe076edf36eae91578b52" sha1="d95d6dae901a2b025ce5f31a71cf665c97b64b4c"/>
+	</game>
+	<game name="Lemmings (1991-05-11)(Psygnosis)(Disk 1 of 3)[cp bootlock]">
+		<description>Lemmings (1991-05-11)(Psygnosis)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Lemmings (1991-05-11)(Psygnosis)(Disk 1 of 3)[cp bootlock].mfm" size="1049284" crc="670d8e26" md5="e3a750f921af046340be1aaa49fd1ec8" sha1="cb5747bde6111839aea7648ff1b4548d3a990244"/>
+	</game>
+	<game name="Lemmings (1991-05-11)(Psygnosis)[cp bootlock]">
+		<description>Lemmings (1991-05-11)(Psygnosis)[cp bootlock]</description>
+		<rom name="Lemmings (1991-05-11)(Psygnosis)[cp bootlock].mfm" size="2101167" crc="47f9237f" md5="2277cd60d709ed8b5eea334c87c85366" sha1="55e418b93692b81c9330e2ab880182c7169006de"/>
+	</game>
+	<game name="Lemmings (1991-07-30)(Psygnosis)(Disk 1 of 3)[cp bootlock]">
+		<description>Lemmings (1991-07-30)(Psygnosis)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Lemmings (1991-07-30)(Psygnosis)(Disk 1 of 3)[cp bootlock].mfm" size="1101043" crc="c274cf06" md5="bfe0577f77aec5f461a3df840139ff52" sha1="8c3f9e072ba838968f7f8c7d0f2c33d679db4dbe"/>
+	</game>
+	<game name="Lemmings (1991-07-30)(Psygnosis)[cp bootlock]">
+		<description>Lemmings (1991-07-30)(Psygnosis)[cp bootlock]</description>
+		<rom name="Lemmings (1991-07-30)(Psygnosis)[cp bootlock].mfm" size="2152085" crc="01854e40" md5="2d3b004769006c3af5bcbafff641a8a9" sha1="04cc49dc90bc9aaf95e07e8248ded21e3f23cc7e"/>
+	</game>
+	<game name="Lode Runner (1983)(Broderbund)[m][cp bootlock][autoboot]">
+		<description>Lode Runner (1983)(Broderbund)[m][cp bootlock][autoboot]</description>
+		<rom name="Lode Runner (1983)(Broderbund)[m][cp bootlock][autoboot].mfm" size="550347" crc="d3843022" md5="4187a0bdbea6d4d2a444323a7e4ff29a" sha1="db2536d03d22ce5b01e986f7e3ea232fb1f1a089"/>
+	</game>
+	<game name="M.U.L.E. (1985)(IBM)[cp bootlock][autoboot]">
+		<description>M.U.L.E. (1985)(IBM)[cp bootlock][autoboot]</description>
+		<rom name="M.U.L.E. (1985)(IBM)[cp bootlock][autoboot].mfm" size="512216" crc="87f77236" md5="56b4b97ccf0d7cf387f454969548b7fa" sha1="2f701bdc95ce15dd24a94caa0a2544a89ed3a230"/>
+	</game>
+	<game name="Marble Madness (1986)(Atari - Electronic Arts)[cp bootlock][autoboot]">
+		<description>Marble Madness (1986)(Atari - Electronic Arts)[cp bootlock][autoboot]</description>
+		<rom name="Marble Madness (1986)(Atari - Electronic Arts)[cp bootlock][autoboot].mfm" size="2162896" crc="1e7926de" md5="21fbb1a4d5901e9a35fd363fa4b42522" sha1="cd9b87d2d16ce1587553292c7e3a88c21f11c2ad"/>
+	</game>
+	<game name="Mean 18 - Golf Simulation (1986)(Accolade)(Disk 1 )[cp bootlock]">
+		<description>Mean 18 - Golf Simulation (1986)(Accolade)(Disk 1 )[cp bootlock]</description>
+		<rom name="Mean 18 - Golf Simulation (1986)(Accolade)(Disk 1 )[cp bootlock].mfm" size="1125834" crc="42c8cc7c" md5="af989e0e1cdcb141775f7c4292984972" sha1="51214a0d4e7fc5a596795a82855a9b2b4c4cb907"/>
+	</game>
+	<game name="Mean 18 - Golf Simulation (1986)(Accolade)[cp bootlock]">
+		<description>Mean 18 - Golf Simulation (1986)(Accolade)[cp bootlock]</description>
+		<rom name="Mean 18 - Golf Simulation (1986)(Accolade)[cp bootlock].mfm" size="2172672" crc="66222835" md5="fed1eff4304d1a0c7085462c2709ba3e" sha1="ee4d3319f6c731191c3a20b3c80620d027c0bf9c"/>
+	</game>
+	<game name="Mickey's Space Adventure (1985)(Sierra)[a][cp bootlock]">
+		<description>Mickey's Space Adventure (1985)(Sierra)[a][cp bootlock]</description>
+		<rom name="Mickey's Space Adventure (1985)(Sierra)[a][cp bootlock].mfm" size="2172599" crc="bd2a38d1" md5="1ff7708faf92a672614aa947d2afdfe8" sha1="6eb573f438aaa74fd9db41b810af0b4216612c4b"/>
+	</game>
+	<game name="Mickey's Space Adventure (1985)(Sierra)[cp bootlock]">
+		<description>Mickey's Space Adventure (1985)(Sierra)[cp bootlock]</description>
+		<rom name="Mickey's Space Adventure (1985)(Sierra)[cp bootlock].mfm" size="2171608" crc="02ff750d" md5="7b61d3efb92c29ab4dc74fde2cae72c2" sha1="ac0a8d4863d3155816eb2b58961a141e43cb4b4a"/>
+	</game>
+	<game name="Might &amp; Magic - Book One - Secret of the Inner Sanctum (1987)(New World Computing)(Disk 1 of 2)[cp bootlock]">
+		<description>Might &amp; Magic - Book One - Secret of the Inner Sanctum (1987)(New World Computing)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Might &amp; Magic - Book One - Secret of the Inner Sanctum (1987)(New World Computing)(Disk 1 of 2)[cp bootlock].mfm" size="1125789" crc="a8a42ce4" md5="02e46f72dcca7d1308b03ded0de83716" sha1="892f7c60c33cf52d4fcfdd88698dfcc0e770367e"/>
+	</game>
+	<game name="Might and Magic - Book Two v1.01 (1989)(New World Computing)[cp bootlock]">
+		<description>Might and Magic - Book Two v1.01 (1989)(New World Computing)[cp bootlock]</description>
+		<rom name="Might and Magic - Book Two v1.01 (1989)(New World Computing)[cp bootlock].mfm" size="1125880" crc="930913ae" md5="25aaec5bcb0dee32ada9577752a8162c" sha1="935ef169885934ab6052f05527ca4ff013b90b2b"/>
+	</game>
+	<game name="Mini-Putt - The Ultimate Challenge ! (1987)(Accolade)[cp bootlock]">
+		<description>Mini-Putt - The Ultimate Challenge ! (1987)(Accolade)[cp bootlock]</description>
+		<rom name="Mini-Putt - The Ultimate Challenge ! (1987)(Accolade)[cp bootlock].mfm" size="1126394" crc="348ad633" md5="a9655f48d1fbe9bde79198237863efab" sha1="c092a835446f8a3cc11215683296f8853c297a92"/>
+	</game>
+	<game name="Mr. Cool (1984)(Sierra)[cp bootlock][autoboot]">
+		<description>Mr. Cool (1984)(Sierra)[cp bootlock][autoboot]</description>
+		<rom name="Mr. Cool (1984)(Sierra)[cp bootlock][autoboot].mfm" size="550290" crc="8d7e0d36" md5="655c9d091021783ba54014e372fb25c7" sha1="f55594d7817d67b18731e4fafbbf76fbf08ed7b4"/>
+	</game>
+	<game name="Ms. Pac-Man (1983)(Atari)[Namco Version]">
+		<description>Ms. Pac-Man (1983)(Atari)[Namco Version]</description>
+		<rom name="Ms. Pac-Man (1983)(Atari)[Namco Version].mfm" size="512248" crc="1836b0b8" md5="8c277d0680a501bb3a58ff7691072804" sha1="71b170d4137301d6dc253ee7814952168c2c474f"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 1 of 4)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 1 of 4)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 1 of 4).mfm" size="3535954" crc="78236a19" md5="086fb9f19c76a1f3c13422c8085d0ce4" sha1="0bef2cab30d1d1cfb188070d48a5168dde1b29d2"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 1 of 6)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 1 of 6)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 1 of 6).mfm" size="2257766" crc="43b04e25" md5="134fc9195f6a8f4cb305c81ca881a045" sha1="af1597abf1a39779951d65f0919ef2c9dd52ecaf"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 2 of 4)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 2 of 4)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 2 of 4).mfm" size="3535934" crc="dd5ca3b7" md5="d5fd3d64f9c214f70dcafb28021c9832" sha1="24635e9177648c45da8102e75fb5d7d385dd7d87"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 2 of 6)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 2 of 6)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 2 of 6).mfm" size="2262211" crc="0bc940c5" md5="a6d3a19ab7ac05ec9b938e6f8568497c" sha1="25effb291eaf7372bd176ed82580013c7e791c07"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 3 of 4)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 3 of 4)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 3 of 4).mfm" size="3535954" crc="317d414b" md5="811930713f208bce3357b4463e8b3d0d" sha1="e93a12b1afc89bb95cf976b523f15459bfdf826e"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 3 of 6)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 3 of 6)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 3 of 6).mfm" size="2420419" crc="2e70eb50" md5="623df080849d331ec8644b0a18bc072b" sha1="a333e0a0a7a5f7111240a9c16e076ea4c9f3f72a"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 4 of 4)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 4 of 4)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 4 of 4).mfm" size="3536085" crc="33653d06" md5="78aba4f04aeba3129e4257543b270dbe" sha1="751e2ffdccaea7d7b1574e300bba52d255ddee41"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 4 of 6)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 4 of 6)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 4 of 6).mfm" size="2261035" crc="b5a0b38f" md5="ea7ac37613fb0a2071982007b233a082" sha1="a7303ce3cad633453c589853308c6fa554d496c3"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 5 of 6)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 5 of 6)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 5 of 6).mfm" size="2253540" crc="a1196cf0" md5="254fe83f3d0ba8110d58ed96c0d144db" sha1="fc0a14388f7dec8e811145b8eb6e3a5d19eccc61"/>
+	</game>
+	<game name="Nova 9 (1991)(Dynamix)(Disk 6 of 6)">
+		<description>Nova 9 (1991)(Dynamix)(Disk 6 of 6)</description>
+		<rom name="Nova 9 (1991)(Dynamix)(Disk 6 of 6).mfm" size="2260536" crc="d035f2df" md5="89d342cf79a7e492ea36d952e3ce70f1" sha1="609eb8c7c6d1b1d6708162069ded6de118d83e12"/>
+	</game>
+	<game name="Oil's Well v1.0 (1984)(Sierra)[cp bootlock][autoboot]">
+		<description>Oil's Well v1.0 (1984)(Sierra)[cp bootlock][autoboot]</description>
+		<rom name="Oil's Well v1.0 (1984)(Sierra)[cp bootlock][autoboot].mfm" size="512224" crc="a6a736ac" md5="fb2056fdc71ef5475784e39488ac50d3" sha1="cbae6b58677bd7b78b5c88d9296a86f49def2639"/>
+	</game>
+	<game name="Omnicron Conspiracy (1989)(Image Works)(Disk 1 of 4)[cp bootlock]">
+		<description>Omnicron Conspiracy (1989)(Image Works)(Disk 1 of 4)[cp bootlock]</description>
+		<rom name="Omnicron Conspiracy (1989)(Image Works)(Disk 1 of 4)[cp bootlock].mfm" size="1125376" crc="761d56ac" md5="2b14524a7692658d87cacc959e13eb04" sha1="bf10885ce0995c34adf34812774c63ec0cb18e9f"/>
+	</game>
+	<game name="Operation Wolf (1989)(Taito)(Disk 1 of 2)[cp bootlock]">
+		<description>Operation Wolf (1989)(Taito)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Operation Wolf (1989)(Taito)(Disk 1 of 2)[cp bootlock].mfm" size="1100537" crc="048742ab" md5="b4a8d37986e02e70c8fea302bcc72fa5" sha1="551aa6dd94fb3d17fe052ac55842bfac82f769ef"/>
+	</game>
+	<game name="Operation Wolf (1989)(Taito)[m][cp bootlock]">
+		<description>Operation Wolf (1989)(Taito)[m][cp bootlock]</description>
+		<rom name="Operation Wolf (1989)(Taito)[m][cp bootlock].mfm" size="2172605" crc="0b6df0a6" md5="b7be024b2813a2d338bb51aeda10dfa8" sha1="d6dc150670785e12ca4ca5185c67df1b9a26a083"/>
+	</game>
+	<game name="Pinball Construction Set (1985)(Electronic Arts)[cp bootlock][autoboot]">
+		<description>Pinball Construction Set (1985)(Electronic Arts)[cp bootlock][autoboot]</description>
+		<rom name="Pinball Construction Set (1985)(Electronic Arts)[cp bootlock][autoboot].mfm" size="550907" crc="655d3a40" md5="bcef85921ba14cba45a2a739aa017114" sha1="5e1f5a57c3db410aefd750d35b2729a2a4af1bfc"/>
+	</game>
+	<game name="Pitstop II (1984)(Epyx - Synergistic)[cp bootlock][autoboot]">
+		<description>Pitstop II (1984)(Epyx - Synergistic)[cp bootlock][autoboot]</description>
+		<rom name="Pitstop II (1984)(Epyx - Synergistic)[cp bootlock][autoboot].mfm" size="512274" crc="a774a6cf" md5="c30f1191d7e5bbc7901b786b9aebc1d3" sha1="00ca15d1f632eb0cd677e95adf6e3ea7a10524bf"/>
+	</game>
+	<game name="Planetfall r26 (1983-10-14)(Infocom)[cp bootlock][autoboot]">
+		<description>Planetfall r26 (1983-10-14)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Planetfall r26 (1983-10-14)(Infocom)[cp bootlock][autoboot].mfm" size="512195" crc="e3fbe239" md5="67b54d4d04fec004ddddfc4f2051ada1" sha1="48b8024a9d7e9e49c63eda1a86985cbb8f794ac3"/>
+	</game>
+	<game name="Planetfall r29 (1984-01-18)(Infocom)[cp bootlock][autoboot]">
+		<description>Planetfall r29 (1984-01-18)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Planetfall r29 (1984-01-18)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="cbcf9745" md5="c3983cb695c0ff669abc144c1280b6a2" sha1="92eeab0be9028193ce7df01b85063a00cd6f2b0c"/>
+	</game>
+	<game name="Puzznic (1990)(Taito)[m][cp bootlock]">
+		<description>Puzznic (1990)(Taito)[m][cp bootlock]</description>
+		<rom name="Puzznic (1990)(Taito)[m][cp bootlock].mfm" size="1100533" crc="74caaa2c" md5="205f3fdd22cdb3966348edd38e21124b" sha1="fdd7996161cf7fe4ca4aff9f650be0ab625e77a8"/>
+	</game>
+	<game name="Qix (1989)(Taito)[cp bootlock]">
+		<description>Qix (1989)(Taito)[cp bootlock]</description>
+		<rom name="Qix (1989)(Taito)[cp bootlock].mfm" size="1100551" crc="562dbeec" md5="9acf4de81f2210a161eedcca460a08d8" sha1="23750e937abe982c7643838178933428c14af614"/>
+	</game>
+	<game name="Rack 'Em (1988)(Accolade)[m][cp bootlock]">
+		<description>Rack 'Em (1988)(Accolade)[m][cp bootlock]</description>
+		<rom name="Rack 'Em (1988)(Accolade)[m][cp bootlock].mfm" size="1099941" crc="97f9887e" md5="2b0d90179c83e391ddbe86260bd4d8a9" sha1="083a43b075e9b2ead00dbc4a2c19651631a4439f"/>
+	</game>
+	<game name="Rambo III (1989)(Taito)(Disk 1 of 2)[cp bootlock]">
+		<description>Rambo III (1989)(Taito)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Rambo III (1989)(Taito)(Disk 1 of 2)[cp bootlock].mfm" size="1090722" crc="908b623f" md5="ee48b9419c2f9fa96948ec2c4c2af499" sha1="d9ba4280f079b594d005409ebf414f75d5c57adb"/>
+	</game>
+	<game name="Rampage v1.0 (1988-03-17)(Activision)[cp bootlock]">
+		<description>Rampage v1.0 (1988-03-17)(Activision)[cp bootlock]</description>
+		<rom name="Rampage v1.0 (1988-03-17)(Activision)[cp bootlock].mfm" size="1081282" crc="c03f1cc7" md5="c6bff3a9746ce9b26d60ea776abaac87" sha1="85319ae9a3821b4c4c807d2bc702ed8cc5b39fb1"/>
+	</game>
+	<game name="Rampage v1.2 (1989-02-28)(Activision)[m][cp bootlock]">
+		<description>Rampage v1.2 (1989-02-28)(Activision)[m][cp bootlock]</description>
+		<rom name="Rampage v1.2 (1989-02-28)(Activision)[m][cp bootlock].mfm" size="1088209" crc="ee8b24ef" md5="9c746225bf18415db091d727438496b9" sha1="11871ea730c0566503e6d8450e8e3796715a8da2"/>
+	</game>
+	<game name="Renegade (1988)(Taito)(Disk 1 of 2)[cp bootlock]">
+		<description>Renegade (1988)(Taito)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Renegade (1988)(Taito)(Disk 1 of 2)[cp bootlock].mfm" size="1086069" crc="31232a14" md5="dd7a34ae0018d4f3a95ed146aed06573" sha1="a5d40946f1db59709f94df1f1b92dd2b0aaf61c1"/>
+	</game>
+	<game name="Revenge of the Defender (1989)(Epyx)(Disk 1 of 3)[cp bootlock]">
+		<description>Revenge of the Defender (1989)(Epyx)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Revenge of the Defender (1989)(Epyx)(Disk 1 of 3)[cp bootlock].mfm" size="1090759" crc="38bf8799" md5="3e8299bc4d4da20d3560358d779616bf" sha1="48b162ebbc6829247b6f7f734f14d0444c5a57a3"/>
+	</game>
+	<game name="Rogue v1.49 (1985)(Epyx)[m][cp bootlock]">
+		<description>Rogue v1.49 (1985)(Epyx)[m][cp bootlock]</description>
+		<rom name="Rogue v1.49 (1985)(Epyx)[m][cp bootlock].mfm" size="537816" crc="ee1af3b6" md5="4eb438219e1971b0b5560d06cbdce0d8" sha1="ffa5adabc15fa23e568d885ee550ebdcc6041d7b"/>
+	</game>
+	<game name="Seastalker - X and The Ultramarine Bioceptor r15 (1984-05-01)(Infocom)[cp bootlock][autoboot]">
+		<description>Seastalker - X and The Ultramarine Bioceptor r15 (1984-05-01)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Seastalker - X and The Ultramarine Bioceptor r15 (1984-05-01)(Infocom)[cp bootlock][autoboot].mfm" size="512168" crc="67505f92" md5="e224ce3c7646452fb4beffdac433f1f1" sha1="b033a0e34d929f7b307ebdbacee2ca73c7eaab86"/>
+	</game>
+	<game name="Serve &amp; Volley (1988)(Accolade)[m][cp bootlock]">
+		<description>Serve &amp; Volley (1988)(Accolade)[m][cp bootlock]</description>
+		<rom name="Serve &amp; Volley (1988)(Accolade)[m][cp bootlock].mfm" size="1100598" crc="dcd362ac" md5="01889bf4f8da8f8405397d4bd244162a" sha1="3828e03c6b1bdece26962a89487ffa70c9bc738d"/>
+	</game>
+	<game name="Seven Cities of Gold, The (1985)(Electronic Arts - Ozark Softscape)[cp bootlock][autoboot]">
+		<description>Seven Cities of Gold, The (1985)(Electronic Arts - Ozark Softscape)[cp bootlock][autoboot]</description>
+		<rom name="Seven Cities of Gold, The (1985)(Electronic Arts - Ozark Softscape)[cp bootlock][autoboot].mfm" size="1101271" crc="d6a6a9b4" md5="851939b3dffc674c5cc996726d1ac3a6" sha1="69d413cf378972f6cae24976612f113f8016ffc4"/>
+	</game>
+	<game name="Sierra Championship Boxing (1985)(Sierra)[cp bootlock][autoboot]">
+		<description>Sierra Championship Boxing (1985)(Sierra)[cp bootlock][autoboot]</description>
+		<rom name="Sierra Championship Boxing (1985)(Sierra)[cp bootlock][autoboot].mfm" size="1095384" crc="0dc94eb1" md5="7c4a6c32642897aba6fbb1dda06b78a2" sha1="d1ca1543466c42c74093b5258913b8852e11b48b"/>
+	</game>
+	<game name="Sky Shark (1988)(Taito)(Disk 1 of 2)(A)[cp bootlock]">
+		<description>Sky Shark (1988)(Taito)(Disk 1 of 2)(A)[cp bootlock]</description>
+		<rom name="Sky Shark (1988)(Taito)(Disk 1 of 2)(A)[cp bootlock].mfm" size="1100511" crc="99c4cbac" md5="0e558b7d7b552de73aa52d4e4662338f" sha1="55da2a0554275d1b5314d7b569bbd6a8f891e284"/>
+	</game>
+	<game name="Sorcerer r4 (1984-01-31)(Infocom)[a][cp bootlock][autoboot]">
+		<description>Sorcerer r4 (1984-01-31)(Infocom)[a][cp bootlock][autoboot]</description>
+		<rom name="Sorcerer r4 (1984-01-31)(Infocom)[a][cp bootlock][autoboot].mfm" size="1616686" crc="e82de2f4" md5="1fb8e4b20834559f1e78d5b004c01d02" sha1="b8b3d63aae51c45975a3578a3b96a54495bcdef8"/>
+	</game>
+	<game name="Sorcerer r4 (1984-01-31)(Infocom)[cp bootlock][autoboot]">
+		<description>Sorcerer r4 (1984-01-31)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Sorcerer r4 (1984-01-31)(Infocom)[cp bootlock][autoboot].mfm" size="512185" crc="859c3ee0" md5="82780b84214f3c9e8ea615798f78ca2b" sha1="9a91bd51193d0adf9d7b5084fdcc9d5480a23348"/>
+	</game>
+	<game name="Sorcerer r6 (1984-05-08)(Infocom)[cp bootlock][autoboot]">
+		<description>Sorcerer r6 (1984-05-08)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Sorcerer r6 (1984-05-08)(Infocom)[cp bootlock][autoboot].mfm" size="512216" crc="5a242a2f" md5="01ea0adbe2c5ee86290ba59beba1b61a" sha1="efa3ca8e043686406b362aead6dab9aaaaec6cbb"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0A (1987)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0A (1987)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0A (1987)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="e7e27ab3" md5="ea442b6218f2e3ce842ef45842bd892b" sha1="80301771e8b62b6f604cee7634a87e77847160bf"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0C (1987)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0C (1987)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0C (1987)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="2171608" crc="1e200204" md5="8d837c7dfda5c75d2215858dc7042235" sha1="b0e2d6cc2710b0993e6973e3c3185c43a1f98d8a"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0C (1987)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0C (1987)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0C (1987)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="bb2b628e" md5="f2adf43969bbe441595ef2d6c0a0813b" sha1="352ea2fb525e4da077c46e6b478b2382a6d1c1f6"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0D (1987)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0D (1987)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0D (1987)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="2120408" crc="d099777e" md5="024804b3d5c344e047f98e2bded6a5be" sha1="7e43e20fac0c1d86fb7b75712491cdc66bcbe5f6"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0D (1987)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0D (1987)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0D (1987)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="1701b713" md5="cccc3090776a926746b7a8c954dce21b" sha1="56bc72ede42c3b8a2b39333830e18b1fa635bb11"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0F (1988)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0F (1988)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0F (1988)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="2171608" crc="96c03f92" md5="9b320621d9d29f7e2688bd4d0a1691cb" sha1="9186271038d1fd9afacdc63626e4956cc0ce6495"/>
+	</game>
+	<game name="Space Quest - Chapter Two - Vohaul's Revenge v2.0F (1988)(Sierra)(Disk 1 of 3)[cp bootlock]">
+		<description>Space Quest - Chapter Two - Vohaul's Revenge v2.0F (1988)(Sierra)(Disk 1 of 3)[cp bootlock]</description>
+		<rom name="Space Quest - Chapter Two - Vohaul's Revenge v2.0F (1988)(Sierra)(Disk 1 of 3)[cp bootlock].mfm" size="1095384" crc="fdaa2a47" md5="61632ef68255e5ad12be32b38f7ae742" sha1="cf5dc9d1caf88861b4a87a12a0fa3d58ef7a80d3"/>
+	</game>
+	<game name="Space Quest Chapter I - The Sarien Encounter v1.0X (1986-08-21)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Space Quest Chapter I - The Sarien Encounter v1.0X (1986-08-21)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Space Quest Chapter I - The Sarien Encounter v1.0X (1986-08-21)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1095384" crc="2ee320f5" md5="b3c245ccb0daeb39d509606829923f8b" sha1="5a6640ad8165b64084ac17c4a3ab3e6364520fcf"/>
+	</game>
+	<game name="Space Quest Chapter I - The Sarien Encounter v1.1A (1986-11-07)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Space Quest Chapter I - The Sarien Encounter v1.1A (1986-11-07)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Space Quest Chapter I - The Sarien Encounter v1.1A (1986-11-07)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1095384" crc="aa5c02ce" md5="62f122cc11ce636d7bc4869dce196d81" sha1="fa09175bb616016d6289194cf10b898adb881e9e"/>
+	</game>
+	<game name="Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1095384" crc="0470c319" md5="340d0b6544225c073a64e840e3a829ac" sha1="f8a2ed9f78f507a93f9e37a15a076f51407999d1"/>
+	</game>
+	<game name="Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)[a][cp bootlock]">
+		<description>Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)[a][cp bootlock]</description>
+		<rom name="Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)[a][cp bootlock].mfm" size="2171608" crc="1d8000ac" md5="15a6dbf67bf44ab7ceadb704301a5a45" sha1="f8fc3e6e8aaf7fd6c3987bf5a96c03160713e63b"/>
+	</game>
+	<game name="Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)[cp bootlock]">
+		<description>Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)[cp bootlock]</description>
+		<rom name="Space Quest Chapter I - The Sarien Encounter v2.2 (1987-12-01)(Sierra)[cp bootlock].mfm" size="1095384" crc="58d5d35f" md5="93081633c1d8f1a86009b2f0543d8c84" sha1="43ec8cd63cb166642b48b8273903d7ecb1b9e310"/>
 	</game>
 	<game name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 3)[5.25''][cp][Interp. 2.936][sn 3129289100100732]">
 		<description>Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 3)[5.25''][cp][Interp. 2.936][sn 3129289100100732]</description>
 		<rom name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 3)[5.25''][cp][Interp. 2.936][sn 3129289100100732].mfm" size="2882752" crc="7da46c43" md5="11b106d9c4d4a7b4770c0fe38ea37b69" sha1="931fa509a3a4f5627777f571a298065c024ba6b4"/>
+	</game>
+	<game name="Space Racer v1.0 (1988)(Broderbund - Loriciel)[cp bootlock]">
+		<description>Space Racer v1.0 (1988)(Broderbund - Loriciel)[cp bootlock]</description>
+		<rom name="Space Racer v1.0 (1988)(Broderbund - Loriciel)[cp bootlock].mfm" size="1024728" crc="c6d8fa35" md5="51146bdf046343fa2e5a00a65fbbef5a" sha1="14ea28b79918bb565a315f4c96f3ddf9a30d1782"/>
+	</game>
+	<game name="Star Wars v1.0 (1988)(Domark)[cp bootlock]">
+		<description>Star Wars v1.0 (1988)(Domark)[cp bootlock]</description>
+		<rom name="Star Wars v1.0 (1988)(Domark)[cp bootlock].mfm" size="2250641" crc="193ba38c" md5="1f1830a684a49ba396a9ad0af14ca60c" sha1="37001a277d8e2b5a84e8e5cb628e7a55ae6b864a"/>
+	</game>
+	<game name="Star Wars v1.01 (1989)(Domark)[cp bootlock]">
+		<description>Star Wars v1.01 (1989)(Domark)[cp bootlock]</description>
+		<rom name="Star Wars v1.01 (1989)(Domark)[cp bootlock].mfm" size="1086415" crc="638d7af7" md5="78431178cf14de6cd08128caebe46245" sha1="dbe3e240b52fd9ca7522221b55a3870b4178fb67"/>
+	</game>
+	<game name="Starcross r17 (1982-10-21)(Infocom)[cp bootlock][autoboot]">
+		<description>Starcross r17 (1982-10-21)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Starcross r17 (1982-10-21)(Infocom)[cp bootlock][autoboot].mfm" size="512215" crc="3986df65" md5="8cb2522a2b3ff0164280ad53d12a66d5" sha1="0655e27a6cf9edaf47340c84b2caea4ecae130e5"/>
+	</game>
+	<game name="Street Sports Baseball (1987)(Epyx)[cp bootlock]">
+		<description>Street Sports Baseball (1987)(Epyx)[cp bootlock]</description>
+		<rom name="Street Sports Baseball (1987)(Epyx)[cp bootlock].mfm" size="1088262" crc="8a5f89b6" md5="12b0ddcd9d6e0f8b41448407747a814c" sha1="ec1370c8d1b4b015d0f99dee47e8beaef4ece282"/>
+	</game>
+	<game name="Street Sports Basketball (1987)(Epyx)[cp bootlock]">
+		<description>Street Sports Basketball (1987)(Epyx)[cp bootlock]</description>
+		<rom name="Street Sports Basketball (1987)(Epyx)[cp bootlock].mfm" size="1113368" crc="448e31e7" md5="2dc8a33bf80774fcb8fb04868de2a6d1" sha1="2d6171a2bf07384dd53f36cbd5fc341d45e3d4a7"/>
+	</game>
+	<game name="Sub Battle Simulator v1.50 (1987)(Epyx)[cp bootlock][autoboot]">
+		<description>Sub Battle Simulator v1.50 (1987)(Epyx)[cp bootlock][autoboot]</description>
+		<rom name="Sub Battle Simulator v1.50 (1987)(Epyx)[cp bootlock][autoboot].mfm" size="1075928" crc="c77222e2" md5="d31513e95bc8ef88e0d2c87cd3c47851" sha1="d1a64dde3b54e25cf156b18b497f21769bfa8aa8"/>
+	</game>
+	<game name="Summer Games II (1986)(Epyx)[m][cp bootlock][autoboot]">
+		<description>Summer Games II (1986)(Epyx)[m][cp bootlock][autoboot]</description>
+		<rom name="Summer Games II (1986)(Epyx)[m][cp bootlock][autoboot].mfm" size="1113292" crc="2974433c" md5="c6914e9129aa5fb8a23dff00e6a6bf3f" sha1="04df22d1c35e05164d196ea1fe355522e7c21de3"/>
+	</game>
+	<game name="Super Boulder Dash (1986)(Electronic Arts)[a][cp bootlock][autoboot]">
+		<description>Super Boulder Dash (1986)(Electronic Arts)[a][cp bootlock][autoboot]</description>
+		<rom name="Super Boulder Dash (1986)(Electronic Arts)[a][cp bootlock][autoboot].mfm" size="1101058" crc="9d27435f" md5="32fb75d77b1c4c02c1ab96500848283c" sha1="a86fbcd889d3f7aaa40d7ad0731b279ec7129e5e"/>
+	</game>
+	<game name="Super Boulder Dash (1986)(Electronic Arts)[cp bootlock][autoboot]">
+		<description>Super Boulder Dash (1986)(Electronic Arts)[cp bootlock][autoboot]</description>
+		<rom name="Super Boulder Dash (1986)(Electronic Arts)[cp bootlock][autoboot].mfm" size="1126985" crc="19b15af9" md5="7eb529bddfa8cc8178b7cfc6122fbf26" sha1="038ab8e3ed626a6f7bb1b439873c7ddc43ac5249"/>
+	</game>
+	<game name="Suspect r14 (1984-10-05)(Infocom)[cp bootlock][autoboot]">
+		<description>Suspect r14 (1984-10-05)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Suspect r14 (1984-10-05)(Infocom)[cp bootlock][autoboot].mfm" size="512183" crc="c1f1cf8d" md5="37af580a36297f2cdd43048382c2a65a" sha1="62236a7aa87c07fead1f5ef2f20bf7a5b326b9f7"/>
+	</game>
+	<game name="Suspended r8 (1983-05-21)(Infocom)[cp bootlock][autoboot]">
+		<description>Suspended r8 (1983-05-21)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Suspended r8 (1983-05-21)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="0bf19e86" md5="3e052c4f64cc73fae37094d376c9a142" sha1="6cc32192ea689f6ab85453fb1207d375406e5d24"/>
+	</game>
+	<game name="Tag Team Wrestling (1984)(Data East)[autoboot]">
+		<description>Tag Team Wrestling (1984)(Data East)[autoboot]</description>
+		<rom name="Tag Team Wrestling (1984)(Data East)[autoboot].mfm" size="554109" crc="9f40fb29" md5="7121ca412333c4d41e746344d5b0f650" sha1="752c84b2a5f0b7064006f7204527d02445afaa1c"/>
+	</game>
+	<game name="Test Drive II - The Duel (1989)(Accolade)(Disk 1 of 2)(Program Disk)[cp bootlock]">
+		<description>Test Drive II - The Duel (1989)(Accolade)(Disk 1 of 2)(Program Disk)[cp bootlock]</description>
+		<rom name="Test Drive II - The Duel (1989)(Accolade)(Disk 1 of 2)(Program Disk)[cp bootlock].mfm" size="1126450" crc="f5f596f0" md5="9015e4639de2cadc59aa989b20cb7264" sha1="18b2e74983054ac0b7cddd52efd2630dfdb08608"/>
+	</game>
+	<game name="Test Drive II - The Duel (1989)(Accolade)(Disk 2 of 2)(Play Disk)[cp bootlock]">
+		<description>Test Drive II - The Duel (1989)(Accolade)(Disk 2 of 2)(Play Disk)[cp bootlock]</description>
+		<rom name="Test Drive II - The Duel (1989)(Accolade)(Disk 2 of 2)(Play Disk)[cp bootlock].mfm" size="1126379" crc="a74f481a" md5="ffb476275585598ec6efd613d6ea50b2" sha1="c207bba6ebd2c7b7da065cff023ba7c491dc96cb"/>
+	</game>
+	<game name="Test Drive II - The Duel (1989)(Accolade)[cp bootlock]">
+		<description>Test Drive II - The Duel (1989)(Accolade)[cp bootlock]</description>
+		<rom name="Test Drive II - The Duel (1989)(Accolade)[cp bootlock].mfm" size="2111307" crc="93a824a9" md5="9688a1ad18706443a59bc0aa949d337b" sha1="3c62ef60b72cebe7db542285492108d90c6843a6"/>
+	</game>
+	<game name="Test Drive v1.0 (1987)(Accolade)(Disk 1 of 2)[cp bootlock]">
+		<description>Test Drive v1.0 (1987)(Accolade)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Test Drive v1.0 (1987)(Accolade)(Disk 1 of 2)[cp bootlock].mfm" size="1125422" crc="21647421" md5="63ca5c6d8ef196b4a6a8dfe553f2227b" sha1="be1eed185fb97a74d896041ad7c237bce48ad76e"/>
+	</game>
+	<game name="Test Drive v1.0 (1987)(Accolade)(Disk 2 of 2)[cp bootlock]">
+		<description>Test Drive v1.0 (1987)(Accolade)(Disk 2 of 2)[cp bootlock]</description>
+		<rom name="Test Drive v1.0 (1987)(Accolade)(Disk 2 of 2)[cp bootlock].mfm" size="1126391" crc="cc54be2e" md5="8e915d3a0ba2e479cb331e7eb98baa0f" sha1="42510ebec3c0e6be837b61bf885aad4a837f5eae"/>
+	</game>
+	<game name="Test Drive v1.0 (1987)(Accolade)[cp bootlock]">
+		<description>Test Drive v1.0 (1987)(Accolade)[cp bootlock]</description>
+		<rom name="Test Drive v1.0 (1987)(Accolade)[cp bootlock].mfm" size="2172629" crc="45e47384" md5="8faf6308e926a8d4327f466348514a5f" sha1="0fd236859057f75106265692a75e51cad867f7e0"/>
+	</game>
+	<game name="Test Drive v1.1 (1988)(Accolade)(Disk 1 of 2)[cp bootlock]">
+		<description>Test Drive v1.1 (1988)(Accolade)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Test Drive v1.1 (1988)(Accolade)(Disk 1 of 2)[cp bootlock].mfm" size="1126385" crc="831c0f87" md5="e5aa1f04d165045d100328426f903775" sha1="eb237241de2e8086d7ed508e4d386f8365fa0cff"/>
+	</game>
+	<game name="Test Drive v1.1 (1988)(Accolade)(Disk 2 of 2)[cp bootlock]">
+		<description>Test Drive v1.1 (1988)(Accolade)(Disk 2 of 2)[cp bootlock]</description>
+		<rom name="Test Drive v1.1 (1988)(Accolade)(Disk 2 of 2)[cp bootlock].mfm" size="1125969" crc="946b1dbb" md5="fa22e9b58a205d18cecb5fcd641f5130" sha1="ba9627f25dd790bb92a37452532ca86bbfde7882"/>
+	</game>
+	<game name="Thexder (1987)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Thexder (1987)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Thexder (1987)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1126570" crc="5a403059" md5="f31ee0832f5fd62da1d60b61c4649561" sha1="0732c6c6300b7625c4b665ab588d60c21512a823"/>
+	</game>
+	<game name="Thexder (1987)(Sierra)[cp bootlock]">
+		<description>Thexder (1987)(Sierra)[cp bootlock]</description>
+		<rom name="Thexder (1987)(Sierra)[cp bootlock].mfm" size="2171608" crc="bba81b7c" md5="ca01373de76064eaac6cc79547739f10" sha1="0441f01f10d407f53db8549003fc253534f6ef82"/>
+	</game>
+	<game name="Thexder Rev C (1987)(Sierra)(Disk 1 of 2)[cp bootlock]">
+		<description>Thexder Rev C (1987)(Sierra)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Thexder Rev C (1987)(Sierra)(Disk 1 of 2)[cp bootlock].mfm" size="1125874" crc="d71dd8a9" md5="be42807f680337e41e72fb446ace0704" sha1="8af9b9c10951f336fc3d6c1eb627481ef8cc5240"/>
+	</game>
+	<game name="Thexder Rev C (1987)(Sierra)[cp bootlock]">
+		<description>Thexder Rev C (1987)(Sierra)[cp bootlock]</description>
+		<rom name="Thexder Rev C (1987)(Sierra)[cp bootlock].mfm" size="2172555" crc="5a6002b6" md5="f545f42f67f0d6ceebf2f4c681de836f" sha1="f58fd4ce8e03fe26203d54b58cd40cf4d4cb2ab8"/>
+	</game>
+	<game name="Thunder Hawk (1991)(Core Design)(M4)(Disk 1 of 2)[cp manual]">
+		<description>Thunder Hawk (1991)(Core Design)(M4)(Disk 1 of 2)[cp manual]</description>
+		<rom name="Thunder Hawk (1991)(Core Design)(M4)(Disk 1 of 2)[cp manual].mfm" size="4246440" crc="f5a89edb" md5="e2256f6dd65a0306eeca53d81b5465bc" sha1="a484355acba8feaea0309c8fbcac6d9ab1edb8b8"/>
+	</game>
+	<game name="Thunder Hawk (1991)(Core Design)(M4)(Disk 2 of 2)[cp manual]">
+		<description>Thunder Hawk (1991)(Core Design)(M4)(Disk 2 of 2)[cp manual]</description>
+		<rom name="Thunder Hawk (1991)(Core Design)(M4)(Disk 2 of 2)[cp manual].mfm" size="4312032" crc="af736d24" md5="44a5559e22b03e600655c557d98b85eb" sha1="9cd7a03fd44b908a654d13bdb7e41f15fa16d648"/>
+	</game>
+	<game name="Times of Lore (1989)(Origin)[cp bootlock]">
+		<description>Times of Lore (1989)(Origin)[cp bootlock]</description>
+		<rom name="Times of Lore (1989)(Origin)[cp bootlock].mfm" size="2053336" crc="4a8b598e" md5="b97c0e29fd391545590cdff5687df92a" sha1="9b52b7d232cbc89dec875fb1350776a86b3e37f9"/>
+	</game>
+	<game name="TKO (1989)(Accolade)[m][cp bootlock]">
+		<description>TKO (1989)(Accolade)[m][cp bootlock]</description>
+		<rom name="TKO (1989)(Accolade)[m][cp bootlock].mfm" size="1090784" crc="9974e578" md5="6f396034ac32e7ff4443dfff13af5332" sha1="bd8051cb7fc2cdc096ca2b3d0ae988b3ad6d1f8f"/>
+	</game>
+	<game name="Ultima I - The First Age of Darkness (1986)(Origin)[cp bootlock]">
+		<description>Ultima I - The First Age of Darkness (1986)(Origin)[cp bootlock]</description>
+		<rom name="Ultima I - The First Age of Darkness (1986)(Origin)[cp bootlock].mfm" size="1208304" crc="3241f819" md5="36c163ac1c876f195e83c4a186eb8d8b" sha1="ea4a24144e073f02977943cf0dfddf1f41916af3"/>
+	</game>
+	<game name="Ultima II (1985)(Origin)(Disk 1 of 3)(Program Master Disk)[cp bootlock]">
+		<description>Ultima II (1985)(Origin)(Disk 1 of 3)(Program Master Disk)[cp bootlock]</description>
+		<rom name="Ultima II (1985)(Origin)(Disk 1 of 3)(Program Master Disk)[cp bootlock].mfm" size="1095385" crc="5904913d" md5="f2761797a6650b0b672cdca0c2ab4fa6" sha1="c0ddce657fe7476e4f23411aba45b049423f440a"/>
+	</game>
+	<game name="Ultima II - The Revenge of the Enchantress (1989)(Origin)(Disk 1 of 2)[cp bootlock]">
+		<description>Ultima II - The Revenge of the Enchantress (1989)(Origin)(Disk 1 of 2)[cp bootlock]</description>
+		<rom name="Ultima II - The Revenge of the Enchantress (1989)(Origin)(Disk 1 of 2)[cp bootlock].mfm" size="1125873" crc="08c2c9d6" md5="5d6586ed655f5f53d07b6753e6575737" sha1="cebe0e5afbd3a2a60520e076fd60545208d296fe"/>
+	</game>
+	<game name="Ultima III - Exodus (1983)(Origin)[cp bootlock]">
+		<description>Ultima III - Exodus (1983)(Origin)[cp bootlock]</description>
+		<rom name="Ultima III - Exodus (1983)(Origin)[cp bootlock].mfm" size="1125388" crc="21a77ef1" md5="df90565c702060a41db2abe8a2fd32e4" sha1="4fb584a57edeadc5a704474882ccaae61eb60741"/>
+	</game>
+	<game name="Ultima IV - Quest for the Avatar (1987)(Origin)(Disk 1 of 2)(Program Disk)[cp bootlock]">
+		<description>Ultima IV - Quest for the Avatar (1987)(Origin)(Disk 1 of 2)(Program Disk)[cp bootlock]</description>
+		<rom name="Ultima IV - Quest for the Avatar (1987)(Origin)(Disk 1 of 2)(Program Disk)[cp bootlock].mfm" size="1125375" crc="dc56dab7" md5="23b8811e03d436b24d0cef57462225b4" sha1="792bd0841582b793688bb2f73bb1a93d202e7f9a"/>
+	</game>
+	<game name="Ultima IV - Quest for the Avatar (1987)(Origin)[cp bootlock]">
+		<description>Ultima IV - Quest for the Avatar (1987)(Origin)[cp bootlock]</description>
+		<rom name="Ultima IV - Quest for the Avatar (1987)(Origin)[cp bootlock].mfm" size="2167548" crc="ef5103e0" md5="325709ecb4711f964a8c30be610530a2" sha1="d82cefa853d28916fd8ed79c50f584951397b755"/>
+	</game>
+	<game name="Ultima V - Warriors of Destiny v1.14 (1988)(Origin)(Disk 1 of 4)(Program Disk)[cp bootlock]">
+		<description>Ultima V - Warriors of Destiny v1.14 (1988)(Origin)(Disk 1 of 4)(Program Disk)[cp bootlock]</description>
+		<rom name="Ultima V - Warriors of Destiny v1.14 (1988)(Origin)(Disk 1 of 4)(Program Disk)[cp bootlock].mfm" size="1125863" crc="e54e55f9" md5="056f36962a19395c10d103d10853421e" sha1="160d11b4c32566e101af35126755e004b6ea570c"/>
+	</game>
+	<game name="Ultima V - Warriors of Destiny v1.16 (1988)(Origin)(Disk 1 of 2)(Program Disk)[cp bootlock]">
+		<description>Ultima V - Warriors of Destiny v1.16 (1988)(Origin)(Disk 1 of 2)(Program Disk)[cp bootlock]</description>
+		<rom name="Ultima V - Warriors of Destiny v1.16 (1988)(Origin)(Disk 1 of 2)(Program Disk)[cp bootlock].mfm" size="2157785" crc="89cbf05a" md5="02d29bf649ad0a825e923ecb4bbe08b7" sha1="1e292daf8c9f8a4b629bd8956c57ce769de3a979"/>
+	</game>
+	<game name="Ultima V - Warriors of Destiny v1.16 (1988)(Origin)(Disk 1 of 4)(Program Disk)[cp bootlock]">
+		<description>Ultima V - Warriors of Destiny v1.16 (1988)(Origin)(Disk 1 of 4)(Program Disk)[cp bootlock]</description>
+		<rom name="Ultima V - Warriors of Destiny v1.16 (1988)(Origin)(Disk 1 of 4)(Program Disk)[cp bootlock].mfm" size="1126409" crc="f84289c6" md5="8da1f552ae79ef6685b1cb26aaf9748a" sha1="a2791a10cbb18b3499d635710bc2537a19d5b242"/>
+	</game>
+	<game name="Ulysses and the Golden Fleece (1981)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot]">
+		<description>Ulysses and the Golden Fleece (1981)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot]</description>
+		<rom name="Ulysses and the Golden Fleece (1981)(Sierra)(Disk 1 of 2)[cp bootlock][autoboot].mfm" size="550319" crc="79109b07" md5="3861171ac5826d02f05c176d65341742" sha1="14403fc16768c80aec02e9e437003d2e72cce7ab"/>
+	</game>
+	<game name="Winnie the Pooh in the Hundred Acre Wood (1985)(Sierra)[m][cp bootlock]">
+		<description>Winnie the Pooh in the Hundred Acre Wood (1985)(Sierra)[m][cp bootlock]</description>
+		<rom name="Winnie the Pooh in the Hundred Acre Wood (1985)(Sierra)[m][cp bootlock].mfm" size="1095384" crc="9566043c" md5="f1e2740c5ed921aeab8e047c3da03f34" sha1="99c7fceefebfecb57fc60bd9cf1d5bcb2f946327"/>
+	</game>
+	<game name="Winter Games (1986)(Epyx)[a][autoboot]">
+		<description>Winter Games (1986)(Epyx)[a][autoboot]</description>
+		<rom name="Winter Games (1986)(Epyx)[a][autoboot].mfm" size="2111187" crc="136fee23" md5="b19a364d3a6858ea2ee36e8232137f6c" sha1="10c8d3eb4afa02f96f877aa469ab77275fadefc6"/>
+	</game>
+	<game name="Winter Games (1986)(Epyx)[autoboot]">
+		<description>Winter Games (1986)(Epyx)[autoboot]</description>
+		<rom name="Winter Games (1986)(Epyx)[autoboot].mfm" size="2152021" crc="2c470644" md5="ae439a8579b6c763d9f526c24e77d8bb" sha1="258c88b9581426ba6a199bf1872bcb5908521f43"/>
+	</game>
+	<game name="Witness, The - An Interlogic Mystery r21 (1983-12-08)(Infocom)[cp bootlock][autoboot]">
+		<description>Witness, The - An Interlogic Mystery r21 (1983-12-08)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Witness, The - An Interlogic Mystery r21 (1983-12-08)(Infocom)[cp bootlock][autoboot].mfm" size="562516" crc="e741210d" md5="f0f9334f9827b9862d314fe295ce9b57" sha1="90686d8dfb53c3211917992cdaddab1e01073378"/>
+	</game>
+	<game name="Wizard and the Princess, The (1984)(Melbourne House)[cp bootlock][autoboot]">
+		<description>Wizard and the Princess, The (1984)(Melbourne House)[cp bootlock][autoboot]</description>
+		<rom name="Wizard and the Princess, The (1984)(Melbourne House)[cp bootlock][autoboot].mfm" size="1024673" crc="7f21984d" md5="6560e865fdaad2a70e2c9abd2a50f14b" sha1="97e23ef3e5269645988c0a9a31ba707307e787cd"/>
+	</game>
+	<game name="World Games (1986)(Epyx)[a][cp bootlock][autoboot]">
+		<description>World Games (1986)(Epyx)[a][cp bootlock][autoboot]</description>
+		<rom name="World Games (1986)(Epyx)[a][cp bootlock][autoboot].mfm" size="2172713" crc="a6cf2065" md5="1045174cd17e43b5c80e19108e40b40e" sha1="bd0310f27c7b8caad9688294a3cf2e7ee1ca1d92"/>
+	</game>
+	<game name="World Games (1986)(Epyx)[cp bootlock][autoboot]">
+		<description>World Games (1986)(Epyx)[cp bootlock][autoboot]</description>
+		<rom name="World Games (1986)(Epyx)[cp bootlock][autoboot].mfm" size="1083633" crc="4181dd27" md5="fb93c03e44ea23b6ee8fe5c753f5582f" sha1="9bfbef66b559df918e38cd5cff1cac515902f064"/>
+	</game>
+	<game name="World Tour Golf (1986)(Electronic Arts)[cp bootlock]">
+		<description>World Tour Golf (1986)(Electronic Arts)[cp bootlock]</description>
+		<rom name="World Tour Golf (1986)(Electronic Arts)[cp bootlock].mfm" size="1125709" crc="75f76735" md5="3981ae251acaf896c8d37b80078383dc" sha1="82d1b3ab220b2d639d001a9e81b76b76abafe3fb"/>
+	</game>
+	<game name="World's Greatest Baseball Game, The (1985)(Epyx)[cp bootlock][autoboot]">
+		<description>World's Greatest Baseball Game, The (1985)(Epyx)[cp bootlock][autoboot]</description>
+		<rom name="World's Greatest Baseball Game, The (1985)(Epyx)[cp bootlock][autoboot].mfm" size="1024728" crc="3619cb46" md5="8e2979e3511b73e9fd15f5b47b9fd88f" sha1="a7d20aba8feebcf1cd553cf1b19745c5882e7cbb"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire r75 (1983-09-29)(Infocom)[cp bootlock][autoboot]">
+		<description>Zork I - The Great Underground Empire r75 (1983-09-29)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Zork I - The Great Underground Empire r75 (1983-09-29)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="69209c8b" md5="f05fb1cc9f4a75b9fb7f7a13ec8ffd1f" sha1="9657e72be52166f7727addd07bcffb96940d7628"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire r88 (1984-07-26)(Infocom)[cp bootlock][autoboot]">
+		<description>Zork I - The Great Underground Empire r88 (1984-07-26)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Zork I - The Great Underground Empire r88 (1984-07-26)(Infocom)[cp bootlock][autoboot].mfm" size="562575" crc="fa8edd66" md5="56bb69665c3f49ebc64224aa753da2b7" sha1="51148b1bdd415190e94a091ffeb32b676090548c"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz r19 (1982-07-21)(Infocom)[cp bootlock][autoboot]">
+		<description>Zork II - The Wizard of Frobozz r19 (1982-07-21)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Zork II - The Wizard of Frobozz r19 (1982-07-21)(Infocom)[cp bootlock][autoboot].mfm" size="537816" crc="0f4f3f90" md5="aec1b9f7bd0240b840171607621607de" sha1="db59b5ca1fa8151140a4bec601ec25c0ae09ec85"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz r22 (1983-03-31)(Infocom)[cp bootlock][autoboot]">
+		<description>Zork II - The Wizard of Frobozz r22 (1983-03-31)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Zork II - The Wizard of Frobozz r22 (1983-03-31)(Infocom)[cp bootlock][autoboot].mfm" size="537764" crc="325f1569" md5="5b0cad9849a208996452cdce5a9f827a" sha1="f5daf1b6a62093b331e006f7b282bd188ec0e4c9"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz r48 (1984-09-04)(Infocom)[cp bootlock][autoboot]">
+		<description>Zork II - The Wizard of Frobozz r48 (1984-09-04)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Zork II - The Wizard of Frobozz r48 (1984-09-04)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="17e908b8" md5="1e18fdd05910b49638cdbf8a67b5b79d" sha1="14f0be92f806e33e17b182f1f485345aef9db11e"/>
+	</game>
+	<game name="Zork III - The Dungeon Master r16 (1983-04-10)(Infocom)[cp bootlock][autoboot]">
+		<description>Zork III - The Dungeon Master r16 (1983-04-10)(Infocom)[cp bootlock][autoboot]</description>
+		<rom name="Zork III - The Dungeon Master r16 (1983-04-10)(Infocom)[cp bootlock][autoboot].mfm" size="512217" crc="fa59fba0" md5="c3ab36c7d7b51b2b7643d18bc7c8d07d" sha1="00c7c0bd4c7245c48d2d16266f1517406d9cc35b"/>
 	</game>
 </datafile>

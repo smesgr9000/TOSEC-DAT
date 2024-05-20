@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Boulder Dash - [T64]</name>
-		<description>Commodore C64 - Games - Boulder Dash - [T64] (TOSEC-v2023-05-30)</description>
+		<description>Commodore C64 - Games - Boulder Dash - [T64] (TOSEC-v2024-03-15)</description>
 		<category>TOSEC</category>
-		<version>2023-05-30</version>
+		<version>2024-03-15</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -752,6 +752,10 @@
 		<description>BoulderBrain (1988)(Liepa, P. &amp; Bond, A.)</description>
 		<rom name="BoulderBrain (1988)(Liepa, P. &amp; Bond, A.).t64" size="28037" crc="a1b70988" md5="d95ac6420993ff1103d8d6fea51b323d" sha1="07ff021cf61570edc93505ff614ee32e807d93a4"/>
 	</game>
+	<game name="Bouldercraft (demo) (2022)(Heikkilä, Ville)[cr LXT]">
+		<description>Bouldercraft (demo) (2022)(Heikkilä, Ville)[cr LXT]</description>
+		<rom name="Bouldercraft (demo) (2022)(Heikkilä, Ville)[cr LXT].t64" size="13460" crc="e5e6fe38" md5="529b58b7b57f9a7c669ea792c7ef9e73" sha1="7a95b1f65b8b558fb0c66e1494977e60361488e4"/>
+	</game>
 	<game name="Boulderdan 1 (19xx)(Liepa, Peter &amp; Tavernier, Daniel)">
 		<description>Boulderdan 1 (19xx)(Liepa, Peter &amp; Tavernier, Daniel)</description>
 		<rom name="Boulderdan 1 (19xx)(Liepa, Peter &amp; Tavernier, Daniel).t64" size="57565" crc="66a1ccaa" md5="5a6762895d9d0c2b69c85221adb55633" sha1="6d9aacacebb7a6e193f2f371352bd9f874ce3f8a"/>
@@ -796,10 +800,6 @@
 		<description>Boulderhead 3 (1987)(Liepa, Peter &amp; The Blockheads)[a]</description>
 		<rom name="Boulderhead 3 (1987)(Liepa, Peter &amp; The Blockheads)[a].t64" size="19454" crc="b38272ce" md5="f3978b5365dc93a48cbdd67e2827a388" sha1="60b7a0428b7f9a1c72dd7504031555fbe103d9a9"/>
 	</game>
-	<game name="Brutalo Boulder Dash (19xx)(Liepa, Peter &amp; Sub7)">
-		<description>Brutalo Boulder Dash (19xx)(Liepa, Peter &amp; Sub7)</description>
-		<rom name="Brutalo Boulder Dash (19xx)(Liepa, Peter &amp; Sub7).t64" size="16212" crc="318dd87b" md5="8332349e400336f745b024d21e18dde5" sha1="09f8518566c092de27a4f53d70fad00c25773617"/>
-	</game>
 	<game name="Brutalo Boulder Dash (19xx)(Sub7)">
 		<description>Brutalo Boulder Dash (19xx)(Sub7)</description>
 		<rom name="Brutalo Boulder Dash (19xx)(Sub7).t64" size="25715" crc="2488aeee" md5="041ed5e84c5ba9a1475944becd0de9fc" sha1="03284446944ad11f02f344c815c113f7bfb5038c"/>
@@ -815,6 +815,10 @@
 	<game name="Brutalo Boulder Dash (19xx)(Sub7)[a3]">
 		<description>Brutalo Boulder Dash (19xx)(Sub7)[a3]</description>
 		<rom name="Brutalo Boulder Dash (19xx)(Sub7)[a3].t64" size="24787" crc="d1043042" md5="39871a569c13f6cf853546c296f63b9e" sha1="432425852c95d3c8fc14a6d6170c6361951d0cc2"/>
+	</game>
+	<game name="Brutalo Boulder Dash (19xx)(Sub7)[a4]">
+		<description>Brutalo Boulder Dash (19xx)(Sub7)[a4]</description>
+		<rom name="Brutalo Boulder Dash (19xx)(Sub7)[a4].t64" size="16212" crc="318dd87b" md5="8332349e400336f745b024d21e18dde5" sha1="09f8518566c092de27a4f53d70fad00c25773617"/>
 	</game>
 	<game name="BulderJones (2002)(Tognon, Stefano)(PD)">
 		<description>BulderJones (2002)(Tognon, Stefano)(PD)</description>
@@ -900,6 +904,10 @@
 		<description>Crazy Dream 03 (19xx)(Liepa, Peter &amp; Roth, Marek)</description>
 		<rom name="Crazy Dream 03 (19xx)(Liepa, Peter &amp; Roth, Marek).t64" size="21002" crc="6ae63202" md5="7ccc39872ec551fb9ea5d794651407c8" sha1="88ddf4a0240127080224dc524ebe076da8ea8494"/>
 	</game>
+	<game name="Diamond Jones (1992)(64&apos;er - Markt &amp; Technik)[cr BLZ]">
+		<description>Diamond Jones (1992)(64&apos;er - Markt &amp; Technik)[cr BLZ]</description>
+		<rom name="Diamond Jones (1992)(64&apos;er - Markt &amp; Technik)[cr BLZ].t64" size="7673" crc="3a9edeb5" md5="cddc5aea7653f1a6fc645d4f32f93ad7" sha1="99376279e7612ce4ad530586461be005b2d0655c"/>
+	</game>
 	<game name="Diamond Jones (1992)(Markt &amp; Technik)">
 		<description>Diamond Jones (1992)(Markt &amp; Technik)</description>
 		<rom name="Diamond Jones (1992)(Markt &amp; Technik).t64" size="2141" crc="8374136b" md5="23fdf5e1ff327b3e6f17e73f6e176dcd" sha1="1bb6b32bb80c8ec03798d7c576d69b265eac679a"/>
@@ -908,13 +916,13 @@
 		<description>Diamond Jones (1992)(Markt &amp; Technik)[a]</description>
 		<rom name="Diamond Jones (1992)(Markt &amp; Technik)[a].t64" size="3069" crc="fdabe86d" md5="e2687851adbabb544254cac1467b385c" sha1="e7cd4a701ac1356d98cd1eab43a4fbad4b71377c"/>
 	</game>
-	<game name="Diamond Jones II (1993)(Markt &amp; Technik)">
-		<description>Diamond Jones II (1993)(Markt &amp; Technik)</description>
-		<rom name="Diamond Jones II (1993)(Markt &amp; Technik).t64" size="6375" crc="4914e90e" md5="c9d63ca6176d4271d4561c66ce2a74c8" sha1="932a990ebb6d6ead67087f5130a5367e7367baf7"/>
+	<game name="Diamond Jones II (1993)(64&apos;er - Markt &amp; Technik)">
+		<description>Diamond Jones II (1993)(64&apos;er - Markt &amp; Technik)</description>
+		<rom name="Diamond Jones II (1993)(64&apos;er - Markt &amp; Technik).t64" size="6375" crc="4914e90e" md5="c9d63ca6176d4271d4561c66ce2a74c8" sha1="932a990ebb6d6ead67087f5130a5367e7367baf7"/>
 	</game>
-	<game name="Diamond Jones II (1993)(Markt &amp; Technik)[cr TBT]">
-		<description>Diamond Jones II (1993)(Markt &amp; Technik)[cr TBT]</description>
-		<rom name="Diamond Jones II (1993)(Markt &amp; Technik)[cr TBT].t64" size="5447" crc="62c83c29" md5="f6fcd0d85bfb972d732e5e2d12320028" sha1="1c30dadc9bfd70ee787135c970d3a8c3785348c8"/>
+	<game name="Diamond Jones II (1993)(64&apos;er - Markt &amp; Technik)[cr TBT]">
+		<description>Diamond Jones II (1993)(64&apos;er - Markt &amp; Technik)[cr TBT]</description>
+		<rom name="Diamond Jones II (1993)(64&apos;er - Markt &amp; Technik)[cr TBT].t64" size="5447" crc="62c83c29" md5="f6fcd0d85bfb972d732e5e2d12320028" sha1="1c30dadc9bfd70ee787135c970d3a8c3785348c8"/>
 	</game>
 	<game name="Diego-Dash #15 (1988)(Liepa, Peter &amp; Lord Diego)">
 		<description>Diego-Dash #15 (1988)(Liepa, Peter &amp; Lord Diego)</description>
@@ -1104,13 +1112,13 @@
 		<description>Final Boulder 18 (1992)(Liepa, P.)</description>
 		<rom name="Final Boulder 18 (1992)(Liepa, P.).t64" size="24794" crc="c2f296d6" md5="772f00a0a683bdd551bac5c0d13bdfa8" sha1="0803d7c0a555d0a7c1106a8dc3dc19c0d8448227"/>
 	</game>
-	<game name="FlaschBier (1985)(Werner Soft)[cr CCG]">
-		<description>FlaschBier (1985)(Werner Soft)[cr CCG]</description>
-		<rom name="FlaschBier (1985)(Werner Soft)[cr CCG].t64" size="24681" crc="a9e968a4" md5="7243c0e582abe3c29f2bfbe24a6f1b73" sha1="60a61f47a8e3b78b3522ea3806c388f0a498a0a8"/>
+	<game name="FlaschBier (1985)(Wernersoft)[cr CCG]">
+		<description>FlaschBier (1985)(Wernersoft)[cr CCG]</description>
+		<rom name="FlaschBier (1985)(Wernersoft)[cr CCG].t64" size="24681" crc="a9e968a4" md5="7243c0e582abe3c29f2bfbe24a6f1b73" sha1="60a61f47a8e3b78b3522ea3806c388f0a498a0a8"/>
 	</game>
-	<game name="FlaschBier (1985)(Werner Soft)[cr CCG][a]">
-		<description>FlaschBier (1985)(Werner Soft)[cr CCG][a]</description>
-		<rom name="FlaschBier (1985)(Werner Soft)[cr CCG][a].t64" size="21736" crc="3dd3d6cb" md5="2dc70d3ec5b44add02ebbd697eadf6ae" sha1="a2d84b116fa624e76d857226224c9c8d3956e5c6"/>
+	<game name="FlaschBier (1985)(Wernersoft)[cr CCG][a]">
+		<description>FlaschBier (1985)(Wernersoft)[cr CCG][a]</description>
+		<rom name="FlaschBier (1985)(Wernersoft)[cr CCG][a].t64" size="21736" crc="3dd3d6cb" md5="2dc70d3ec5b44add02ebbd697eadf6ae" sha1="a2d84b116fa624e76d857226224c9c8d3956e5c6"/>
 	</game>
 	<game name="Flaschbier (198x)(Wernersoft)">
 		<description>Flaschbier (198x)(Wernersoft)</description>
@@ -1580,13 +1588,13 @@
 		<description>No One&apos;s Boulder 02 (1986)(Liepa, Peter &amp; No One)[a]</description>
 		<rom name="No One&apos;s Boulder 02 (1986)(Liepa, Peter &amp; No One)[a].t64" size="17663" crc="9e4e5442" md5="a2b136f4e7c2197a2c7d36cbfba26604" sha1="25bfe9d4f45a7268f79b992e81d59a0ab92bed52"/>
 	</game>
-	<game name="No One&apos;s Boulder 03 (1986)(Liepa, Peter &amp; No One)">
-		<description>No One&apos;s Boulder 03 (1986)(Liepa, Peter &amp; No One)</description>
-		<rom name="No One&apos;s Boulder 03 (1986)(Liepa, Peter &amp; No One).t64" size="13740" crc="1d147ba9" md5="6d1c37cc47963dcc437f16c435ca865a" sha1="937cbcf6e11bb34b56cf17b1d1aa337ca9b83efe"/>
+	<game name="No One&apos;s Boulder 03 (1986)(No One)">
+		<description>No One&apos;s Boulder 03 (1986)(No One)</description>
+		<rom name="No One&apos;s Boulder 03 (1986)(No One).t64" size="14668" crc="edceb5e0" md5="27aa8103765fd75d57228178eee3422a" sha1="322ab3f4b31050c85036518cc7b82153ef4af25a"/>
 	</game>
-	<game name="No One&apos;s Boulder 03 (1986)(Liepa, Peter &amp; No One)[a]">
-		<description>No One&apos;s Boulder 03 (1986)(Liepa, Peter &amp; No One)[a]</description>
-		<rom name="No One&apos;s Boulder 03 (1986)(Liepa, Peter &amp; No One)[a].t64" size="14668" crc="edceb5e0" md5="27aa8103765fd75d57228178eee3422a" sha1="322ab3f4b31050c85036518cc7b82153ef4af25a"/>
+	<game name="No One&apos;s Boulder 03 (1986)(No One)[a]">
+		<description>No One&apos;s Boulder 03 (1986)(No One)[a]</description>
+		<rom name="No One&apos;s Boulder 03 (1986)(No One)[a].t64" size="13740" crc="1d147ba9" md5="6d1c37cc47963dcc437f16c435ca865a" sha1="937cbcf6e11bb34b56cf17b1d1aa337ca9b83efe"/>
 	</game>
 	<game name="No One&apos;s Boulder 04 (1986)(Liepa, Peter &amp; No One)">
 		<description>No One&apos;s Boulder 04 (1986)(Liepa, Peter &amp; No One)</description>
@@ -1620,21 +1628,21 @@
 		<description>No One&apos;s Boulder 06 (1987)(Liepa, Peter &amp; No One)[a]</description>
 		<rom name="No One&apos;s Boulder 06 (1987)(Liepa, Peter &amp; No One)[a].t64" size="19455" crc="65b65df0" md5="290bf4c029ef5081fd0823bc578d360e" sha1="e8dfeceb881a67e14074be60b497ec5ea353a213"/>
 	</game>
-	<game name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)">
-		<description>No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)</description>
-		<rom name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One).t64" size="18526" crc="048d04d7" md5="d6a7a43dffd06db096902176f15323f5" sha1="8c188101143821f7716b4da6407dda0de438f9f3"/>
+	<game name="No One&apos;s Boulder 07 (1987)(No One)(PD)">
+		<description>No One&apos;s Boulder 07 (1987)(No One)(PD)</description>
+		<rom name="No One&apos;s Boulder 07 (1987)(No One)(PD).t64" size="18526" crc="048d04d7" md5="d6a7a43dffd06db096902176f15323f5" sha1="8c188101143821f7716b4da6407dda0de438f9f3"/>
 	</game>
-	<game name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[a]">
-		<description>No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[a]</description>
-		<rom name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[a].t64" size="19454" crc="9c13f033" md5="d2f4efa64cd5fcecf9c64c7a09027908" sha1="ab756dcca06ef7cb826aa0d41804aa941828f905"/>
+	<game name="No One&apos;s Boulder 07 (1987)(No One)(PD)[a]">
+		<description>No One&apos;s Boulder 07 (1987)(No One)(PD)[a]</description>
+		<rom name="No One&apos;s Boulder 07 (1987)(No One)(PD)[a].t64" size="19454" crc="9c13f033" md5="d2f4efa64cd5fcecf9c64c7a09027908" sha1="ab756dcca06ef7cb826aa0d41804aa941828f905"/>
 	</game>
-	<game name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[cr RCC]">
-		<description>No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[cr RCC]</description>
-		<rom name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[cr RCC].t64" size="22559" crc="88547970" md5="617ac18b67a019caccbbf1d69a563f8a" sha1="537a8f2b65c319ddd25abd3ec8301ca6f1e97a9f"/>
+	<game name="No One&apos;s Boulder 07 (1987)(No One)(PD)[cr RCC]">
+		<description>No One&apos;s Boulder 07 (1987)(No One)(PD)[cr RCC]</description>
+		<rom name="No One&apos;s Boulder 07 (1987)(No One)(PD)[cr RCC].t64" size="21631" crc="04db247e" md5="f2181bf260491cf3df14af28351b201c" sha1="93d772a8909031df05579e541b50779205ffadf2"/>
 	</game>
-	<game name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[cr RCC][a]">
-		<description>No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[cr RCC][a]</description>
-		<rom name="No One&apos;s Boulder 07 (1987)(Liepa, Peter &amp; No One)[cr RCC][a].t64" size="21631" crc="04db247e" md5="f2181bf260491cf3df14af28351b201c" sha1="93d772a8909031df05579e541b50779205ffadf2"/>
+	<game name="No One&apos;s Boulder 07 (1987)(No One)(PD)[cr RCC][a]">
+		<description>No One&apos;s Boulder 07 (1987)(No One)(PD)[cr RCC][a]</description>
+		<rom name="No One&apos;s Boulder 07 (1987)(No One)(PD)[cr RCC][a].t64" size="22559" crc="88547970" md5="617ac18b67a019caccbbf1d69a563f8a" sha1="537a8f2b65c319ddd25abd3ec8301ca6f1e97a9f"/>
 	</game>
 	<game name="No One&apos;s Boulder 08 (1987)(Liepa, Peter &amp; No One)">
 		<description>No One&apos;s Boulder 08 (1987)(Liepa, Peter &amp; No One)</description>
@@ -1672,49 +1680,49 @@
 		<description>No One&apos;s Boulder 09 (1987)(Liepa, Peter &amp; No One)[cr RCC][a]</description>
 		<rom name="No One&apos;s Boulder 09 (1987)(Liepa, Peter &amp; No One)[cr RCC][a].t64" size="21576" crc="7857c986" md5="131ac6a715edcd97ffee89f30288ab48" sha1="28cd5d23a6b40478fe49c2434e870bf90da1f4bb"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One).t64" size="21810" crc="958b1064" md5="e06d6b481a618803389936be9f2e7b1c" sha1="74b2c57ba46a137b21e419ab9c89bd6b3961bda1"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD).t64" size="22738" crc="95cd24b9" md5="467a9730ad968863166a257952dd85a3" sha1="8bfb0d1604566dd7871ebab258486b132bb29263"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[a]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[a]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[a].t64" size="22738" crc="95cd24b9" md5="467a9730ad968863166a257952dd85a3" sha1="8bfb0d1604566dd7871ebab258486b132bb29263"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[a]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[a]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[a].t64" size="21810" crc="958b1064" md5="e06d6b481a618803389936be9f2e7b1c" sha1="74b2c57ba46a137b21e419ab9c89bd6b3961bda1"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr 5211]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr 5211]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr 5211].t64" size="13634" crc="a5c61f71" md5="6f86c307dbf73986fee1387b7864968d" sha1="fbd225798df5b7f27d718d3ca1a788a38f8df979"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr 5211]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr 5211]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr 5211].t64" size="13634" crc="a5c61f71" md5="6f86c307dbf73986fee1387b7864968d" sha1="fbd225798df5b7f27d718d3ca1a788a38f8df979"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr 5211][a]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr 5211][a]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr 5211][a].t64" size="28646" crc="1cd6478b" md5="51ca283fb646e9d358eacc719b57e7db" sha1="9b970a6251286b2067d69f30751d1c24a1135327"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr 5211][a]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr 5211][a]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr 5211][a].t64" size="28646" crc="1cd6478b" md5="51ca283fb646e9d358eacc719b57e7db" sha1="9b970a6251286b2067d69f30751d1c24a1135327"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro].t64" size="18525" crc="d5a55082" md5="5f7e08bab480585e45c9a136468e7684" sha1="c129a159150f214a4df756348e0b0c8d9a4c195d"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro].t64" size="18525" crc="d5a55082" md5="5f7e08bab480585e45c9a136468e7684" sha1="c129a159150f214a4df756348e0b0c8d9a4c195d"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a].t64" size="18557" crc="5c677a2c" md5="e7be944446ba2f285a01d1edfd7c2cc3" sha1="bdd29cd2f757f1141e956c60a81ea248163877c1"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a].t64" size="18557" crc="5c677a2c" md5="e7be944446ba2f285a01d1edfd7c2cc3" sha1="bdd29cd2f757f1141e956c60a81ea248163877c1"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a2]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a2]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a2].t64" size="26112" crc="0ae47081" md5="e1e467b4b208bffb33ac29e89105ac62" sha1="2c679adb16cdf13651544dd5c5f82b0d639247d8"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a2]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a2]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a2].t64" size="25184" crc="d67064ef" md5="6758f3ca3ac6707cae612d3834d541cf" sha1="cc25796067691d6e802d4b5af6bbdd5434b4dc71"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a3]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a3]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a3].t64" size="25184" crc="6b3583c6" md5="998f0699f4a74deeb63d677f47360717" sha1="7828d379bd8f752bbffa1880c5b97426d122c0be"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a3]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a3]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a3].t64" size="26112" crc="0ae47081" md5="e1e467b4b208bffb33ac29e89105ac62" sha1="2c679adb16cdf13651544dd5c5f82b0d639247d8"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a4]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a4]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr Don Pedro][a4].t64" size="25184" crc="d67064ef" md5="6758f3ca3ac6707cae612d3834d541cf" sha1="cc25796067691d6e802d4b5af6bbdd5434b4dc71"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a4]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a4]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr Don Pedro][a4].t64" size="25184" crc="6b3583c6" md5="998f0699f4a74deeb63d677f47360717" sha1="7828d379bd8f752bbffa1880c5b97426d122c0be"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr RCC]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr RCC]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr RCC].t64" size="27414" crc="49f860f4" md5="03a4d4e34b479640fe45e6505b0ee997" sha1="7c96cd9499c70555a65e34b60b98cd0f22af50d6"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr RCC]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr RCC]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr RCC].t64" size="27414" crc="49f860f4" md5="03a4d4e34b479640fe45e6505b0ee997" sha1="7c96cd9499c70555a65e34b60b98cd0f22af50d6"/>
 	</game>
-	<game name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr RCC][a]">
-		<description>No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr RCC][a]</description>
-		<rom name="No One&apos;s Boulder 10 (1987)(Liepa, Peter &amp; No One)[cr RCC][a].t64" size="26486" crc="ba944dfa" md5="2e9c2c90c42a7ad6aef23000c5c3c467" sha1="7389904ea423a85df6a1cf157f2fe93147ab636a"/>
+	<game name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr RCC][a]">
+		<description>No One&apos;s Boulder 10 (1987)(No One)(PD)[cr RCC][a]</description>
+		<rom name="No One&apos;s Boulder 10 (1987)(No One)(PD)[cr RCC][a].t64" size="26486" crc="ba944dfa" md5="2e9c2c90c42a7ad6aef23000c5c3c467" sha1="7389904ea423a85df6a1cf157f2fe93147ab636a"/>
 	</game>
 	<game name="No One&apos;s Boulder 11 (1987)(Liepa, Peter &amp; No One)">
 		<description>No One&apos;s Boulder 11 (1987)(Liepa, Peter &amp; No One)</description>
@@ -2219,6 +2227,10 @@
 	<game name="Rockman II (1987)(Edizioni Società SIPE srl - Hit Parade 64)(it)">
 		<description>Rockman II (1987)(Edizioni Società SIPE srl - Hit Parade 64)(it)</description>
 		<rom name="Rockman II (1987)(Edizioni Società SIPE srl - Hit Parade 64)(it).t64" size="15337" crc="9463fca3" md5="d18123170702ed74aed5d3f18d83c164" sha1="f839789e966d9c4a965fde11740f74473391f97c"/>
+	</game>
+	<game name="Rocky (1985)(Infopress - Load&apos;N&apos;Run Mecsa)(es)">
+		<description>Rocky (1985)(Infopress - Load&apos;N&apos;Run Mecsa)(es)</description>
+		<rom name="Rocky (1985)(Infopress - Load&apos;N&apos;Run Mecsa)(es).t64" size="16351" crc="f7ba7fc2" md5="ce25875df96f08f7e6a80b2c0dfff90e" sha1="659a26ff49765b1b60164950129fd442aecf1a06"/>
 	</game>
 	<game name="Run to Goldy (1988)(Schulz, Ulrich)[cr TRX]">
 		<description>Run to Goldy (1988)(Schulz, Ulrich)[cr TRX]</description>

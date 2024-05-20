@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Educational - [ADF]</name>
-		<description>Commodore Amiga - Educational - [ADF] (TOSEC-v2023-02-20)</description>
+		<description>Commodore Amiga - Educational - [ADF] (TOSEC-v2024-03-21)</description>
 		<category>TOSEC</category>
-		<version>2023-02-20</version>
+		<version>2024-03-21</version>
 		<author>idoru - mai - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -120,6 +120,10 @@
 		<description>Across the U.S.A (1990)(Coktel Vision)</description>
 		<rom name="Across the U.S.A (1990)(Coktel Vision).adf" size="901120" crc="b3721e77" md5="eb58420ec0045c92cef9c9ac11af23be" sha1="74908075f50c05648f281d8e6a34029acfe47ef3"/>
 	</game>
+	<game name="ADI English 12-13 Years (1993)(Europress)(Disk 1 of 2)(Environment)">
+		<description>ADI English 12-13 Years (1993)(Europress)(Disk 1 of 2)(Environment)</description>
+		<rom name="ADI English 12-13 Years (1993)(Europress)(Disk 1 of 2)(Environment).adf" size="901120" crc="59a800d1" md5="7c38d6c6c1a83932e5f6646ac2c6fbd2" sha1="5027cc78d71d879c2d23d8f3b57f31c98a6ce86a"/>
+	</game>
 	<game name="ADI Junior Helps with Counting - 6 to 7 Years (1994)(Europress)(Disk 1 of 3)[cr AJO]">
 		<description>ADI Junior Helps with Counting - 6 to 7 Years (1994)(Europress)(Disk 1 of 3)[cr AJO]</description>
 		<rom name="ADI Junior Helps with Counting - 6 to 7 Years (1994)(Europress)(Disk 1 of 3)[cr AJO].adf" size="901120" crc="83a542a0" md5="822b75625cb44a8049d196ddbf537581" sha1="531e85ff5936cf8002502e744c32e3d7285bd110"/>
@@ -167,6 +171,14 @@
 	<game name="ADI Junior Helps with Reading - 6 to 7 Years (1994)(Europress)(Disk 3 of 3)[b corrupt file]">
 		<description>ADI Junior Helps with Reading - 6 to 7 Years (1994)(Europress)(Disk 3 of 3)[b corrupt file]</description>
 		<rom name="ADI Junior Helps with Reading - 6 to 7 Years (1994)(Europress)(Disk 3 of 3)[b corrupt file].adf" size="901120" crc="fb8918d2" md5="ebd3f0113f24eeb28c8ac40e918802f2" sha1="ab30bdce6dc3499a99b12b0022fa661e7e889229"/>
+	</game>
+	<game name="ADI Maths 11-12 Years (1993)(Europress)(Disk 1 of 2)(Environment)">
+		<description>ADI Maths 11-12 Years (1993)(Europress)(Disk 1 of 2)(Environment)</description>
+		<rom name="ADI Maths 11-12 Years (1993)(Europress)(Disk 1 of 2)(Environment).adf" size="901120" crc="8b4d49bd" md5="5795e50f054a3c6941f7b2039dcd822d" sha1="29f3d170bfdc6d9082c2105cc86b56334f7f074a"/>
+	</game>
+	<game name="ADI Maths 12-13 Years (1993)(Europress)(Disk 1 of 2)(Environment)">
+		<description>ADI Maths 12-13 Years (1993)(Europress)(Disk 1 of 2)(Environment)</description>
+		<rom name="ADI Maths 12-13 Years (1993)(Europress)(Disk 1 of 2)(Environment).adf" size="901120" crc="daf911d0" md5="f70f316101619b8cfb8bc941f679afbf" sha1="20492bc405597bc8879e6dbdb55d9bd280c20aa5"/>
 	</game>
 	<game name="Adventures in Math (1991)(Free Spirit)(Disk 1 of 2)[h SR]">
 		<description>Adventures in Math (1991)(Free Spirit)(Disk 1 of 2)[h SR]</description>
@@ -324,33 +336,41 @@
 		<description>Antal (1991)(FG-Soft - SPAB)(SE)</description>
 		<rom name="Antal (1991)(FG-Soft - SPAB)(SE).adf" size="901120" crc="1c49fdcf" md5="561b193a0744bc67c53c8fa7943b9db2" sha1="f897e2966c7c47fa62d3a46776b31e1b22176a09"/>
 	</game>
-	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a2][AMOS]">
-		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a2][AMOS]</description>
-		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a2][AMOS].adf" size="901120" crc="cb0c1232" md5="8c1b5af62ff61ed5d0d4c32ba4e3ab48" sha1="942789feca140252b1376c6efd465a5d25938e5a"/>
+	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a intro][AMOS]">
+		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a intro][AMOS]</description>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a intro][AMOS].adf" size="901120" crc="6d7f445d" md5="43d3de23a8c5280475d2be2b2a11c1a2" sha1="12932bef042c270dbaca41680395c1f447a026c1"/>
 	</game>
-	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a3][AMOS]">
-		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a3][AMOS]</description>
-		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a3][AMOS].adf" size="901120" crc="cd3761cf" md5="dda5431ee9bcc1f6de804b271f5c7776" sha1="83e49e1ada5316bedbc7516636e37a04bdfecf88"/>
-	</game>
-	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a4][AMOS]">
-		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a4][AMOS]</description>
-		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a4][AMOS].adf" size="901120" crc="0e8bf09e" md5="d5d94bef0b49eab5a8ff2b96cfc873d9" sha1="b2f2c49c7cf3d2d121bc52e4afccb5a21800f5e4"/>
+	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a removed files][AMOS]">
+		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a removed files][AMOS]</description>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a removed files][AMOS].adf" size="901120" crc="0e8bf09e" md5="d5d94bef0b49eab5a8ff2b96cfc873d9" sha1="b2f2c49c7cf3d2d121bc52e4afccb5a21800f5e4"/>
 	</game>
 	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a][AMOS]">
 		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a][AMOS]</description>
-		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a][AMOS].adf" size="901120" crc="52e37c52" md5="06f1709db498705922e25fe8f50b2ea2" sha1="4bd5491978e580d5a704d0ae04560c3f8cd065a8"/>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[a][AMOS].adf" size="901120" crc="cb0c1232" md5="8c1b5af62ff61ed5d0d4c32ba4e3ab48" sha1="942789feca140252b1376c6efd465a5d25938e5a"/>
 	</game>
 	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[AMOS]">
 		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[AMOS]</description>
-		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[AMOS].adf" size="901120" crc="a7847fd2" md5="4b7b4ae88dd03bc8471ab0c5acc8a325" sha1="62fb39d041943725c6fedb2e5d919d2e3baf369b"/>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[AMOS].adf" size="901120" crc="52e37c52" md5="06f1709db498705922e25fe8f50b2ea2" sha1="4bd5491978e580d5a704d0ae04560c3f8cd065a8"/>
 	</game>
 	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[h ORB][AMOS]">
 		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[h ORB][AMOS]</description>
 		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[h ORB][AMOS].adf" size="901120" crc="05aa62df" md5="0c5fa9e87f599696030a12b6bed56866" sha1="55a6410b444c5b656e6765bdb09ec52600e4d6d8"/>
 	</game>
-	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)(AS_Extras)[AMOS]">
-		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)(AS_Extras)[AMOS]</description>
-		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)(AS_Extras)[AMOS].adf" size="901120" crc="2a3a9350" md5="454e49e94830789441baa47e643e114a" sha1="a02dd14fc87d08f692e2331d5ffaf59f9af15f6d"/>
+	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[m doscopy][AMOS]">
+		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[m doscopy][AMOS]</description>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[m doscopy][AMOS].adf" size="901120" crc="a7847fd2" md5="4b7b4ae88dd03bc8471ab0c5acc8a325" sha1="62fb39d041943725c6fedb2e5d919d2e3baf369b"/>
+	</game>
+	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[m][AMOS]">
+		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[m][AMOS]</description>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 1 of 2)[m][AMOS].adf" size="901120" crc="cd3761cf" md5="dda5431ee9bcc1f6de804b271f5c7776" sha1="83e49e1ada5316bedbc7516636e37a04bdfecf88"/>
+	</game>
+	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)">
+		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)</description>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2).adf" size="901120" crc="fe1cee7c" md5="c42337d38e89e52eb07f4e9da984ea75" sha1="2d79266879ec8935e49ad3ebfae9483b5a7d01c3"/>
+	</game>
+	<game name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)[m doscopy]">
+		<description>Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)[m doscopy]</description>
+		<rom name="Art School v1.1 (1994)(CarterSoft - F1 Licenceware)(LW)(Disk 2 of 2)[m doscopy].adf" size="901120" crc="2a3a9350" md5="454e49e94830789441baa47e643e114a" sha1="a02dd14fc87d08f692e2331d5ffaf59f9af15f6d"/>
 	</game>
 	<game name="Ask Me Another (1994)(Mears, Gina - F1 Licenceware)(LW)[AMOS]">
 		<description>Ask Me Another (1994)(Mears, Gina - F1 Licenceware)(LW)[AMOS]</description>
@@ -391,6 +411,90 @@
 	<game name="Atlas v2.0 (1991)(SPAB)(SE)">
 		<description>Atlas v2.0 (1991)(SPAB)(SE)</description>
 		<rom name="Atlas v2.0 (1991)(SPAB)(SE).adf" size="901120" crc="1a890e3f" md5="5ab4b3315fa5440f300a60226661e1cd" sha1="54735336356ad40a86bb62a4e50aee680c8b1755"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 1 of 7)(System)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 1 of 7)(System)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 1 of 7)(System).adf" size="901120" crc="51907db5" md5="1fe2ae19121927c46e7d43538c603a6a" sha1="c9a3be4df932f8a5b9a4b8c5badf1f1396969faa"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 2 of 7)(1)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 2 of 7)(1)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 2 of 7)(1).adf" size="901120" crc="cb7216e9" md5="2528c0c6a0fc20302eb07c7a719bd53a" sha1="f1057285e2ec79293187122e7f7fca56be98df2f"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 3 of 7)(2)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 3 of 7)(2)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 3 of 7)(2).adf" size="901120" crc="5be5f1d6" md5="f997212cfefb4e13016291d135c64ab9" sha1="7005236545c4d52168e7f66bca40a449449b22d1"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 4 of 7)(3)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 4 of 7)(3)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 4 of 7)(3).adf" size="901120" crc="ca4658dd" md5="ef5b066075ef3eb085c2385d5751c6de" sha1="e5911225404965a25643777e5bea81102981a13d"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 5 of 7)(4)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 5 of 7)(4)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 5 of 7)(4).adf" size="901120" crc="ebff5484" md5="fbb5beb55c062aaa80d9ccd1395c7156" sha1="0d989d5a6323a476a4e84155e6e086385fc69e7c"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 6 of 7)(5)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 6 of 7)(5)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 6 of 7)(5).adf" size="901120" crc="b3410d54" md5="968cb19aa8f62b415cd3c82eab434443" sha1="f39c4591a2abf3d3b697706dbdafed0023c08f5c"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 7 of 7)(Extras)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 7 of 7)(Extras)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(NTSC)(Disk 7 of 7)(Extras).adf" size="901120" crc="36558ba8" md5="8c6ce3ebf668be4252845147de235607" sha1="8f922c6b57560eb5b23bd7c1bab6eaa1725d6c96"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 1 of 7)(System)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 1 of 7)(System)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 1 of 7)(System).adf" size="901120" crc="8b42dfcf" md5="72f9ef32bd60e6b03cd353520b253e90" sha1="b98e2b3305ea310c22bbe6bc79d8f2e712bed745"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 2 of 7)(1)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 2 of 7)(1)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 2 of 7)(1).adf" size="901120" crc="672ab09c" md5="ea038e5173a7273a19d6bb56e6f4e0b8" sha1="388c5c0d32a210948d0c54016167e8d3e880beaf"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 3 of 7)(2)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 3 of 7)(2)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 3 of 7)(2).adf" size="901120" crc="0033a7ab" md5="604ef828af693b28b22aa2ee627c6bb6" sha1="b1f17e6431e626ca70a526908e262979067010de"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 4 of 7)(3)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 4 of 7)(3)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 4 of 7)(3).adf" size="901120" crc="7ca538fc" md5="42b93e51431c62619330dc366ef0a4c3" sha1="3db9b08be4b2832ff774da0a0f456de11b6bffc4"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 5 of 7)(4)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 5 of 7)(4)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 5 of 7)(4).adf" size="901120" crc="d90e76ae" md5="13c6302e152dab0a7759e51cba3248d3" sha1="075c7f1db9a9ef3d30620565c7c7058676049e82"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 6 of 7)(5)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 6 of 7)(5)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 6 of 7)(5).adf" size="901120" crc="58e714b8" md5="1339d10e399f9b8373a980141b45fab9" sha1="5e6fcd294cb10b6a45beeeabd294c3cb480014dc"/>
+	</game>
+	<game name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 7 of 7)(Extras)">
+		<description>Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 7 of 7)(Extras)</description>
+		<rom name="Audio Gallery - German (199x)(FairBrothers)(PAL)(Disk 7 of 7)(Extras).adf" size="901120" crc="633866ec" md5="dca26133b24aa7a4068fa9d56db7698c" sha1="1cf91207b909d2ba1c9c9522ae7d42cc1dfc8659"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 1 of 7)(System)">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 1 of 7)(System)</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 1 of 7)(System).adf" size="901120" crc="d59c73d1" md5="79d40a239dd8e3cb8aee7999b67b6489" sha1="7c42f0e76a86153ca1a5a6ba0d3ac4720b750d91"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 2 of 7)(1)[b corrupt file]">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 2 of 7)(1)[b corrupt file]</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 2 of 7)(1)[b corrupt file].adf" size="901120" crc="ed821256" md5="51294bbdeb1583d323bfb28648cb7f26" sha1="de81c3a704d6a6ab66f4d695494e7f3d5fcd2407"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 3 of 7)(2)">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 3 of 7)(2)</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 3 of 7)(2).adf" size="901120" crc="f2f19d0f" md5="90383da7a620b7c33b88507937bf1422" sha1="9b886de44b2cf35eae9cf1ac16a555627e4111e4"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 4 of 7)(3)">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 4 of 7)(3)</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 4 of 7)(3).adf" size="901120" crc="d6662562" md5="11257e00870f02e08abc6c2badc78dba" sha1="2b52e5c7fdc2f9dd63a8ccc399be57e3ad09a841"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 5 of 7)(4)">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 5 of 7)(4)</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 5 of 7)(4).adf" size="901120" crc="fb50aee6" md5="99c84f36280a0ff126bb56d744bfe365" sha1="a3ca2c2c63430b2afaa339591935866b3066285a"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 6 of 7)(5)">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 6 of 7)(5)</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 6 of 7)(5).adf" size="901120" crc="c64bdea1" md5="9f3df4bb21ed62a28d4dfa88ac5464da" sha1="87ebab9f7d6ef5206cf5d6d87612d55286283cd6"/>
+	</game>
+	<game name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 7 of 7)(Extras)">
+		<description>Audio Gallery - Japanese (1991)(FairBrothers)(Disk 7 of 7)(Extras)</description>
+		<rom name="Audio Gallery - Japanese (1991)(FairBrothers)(Disk 7 of 7)(Extras).adf" size="901120" crc="733a18ba" md5="a336bbbf8e515fa3b4e9c95df0b2d930" sha1="b98416041606445b12e2419fdd6fc23b0d08ce12"/>
 	</game>
 	<game name="Australian Animals Computer Colouring Book (1989)(Artscape Studios)[WB, IFF images &amp; brushes]">
 		<description>Australian Animals Computer Colouring Book (1989)(Artscape Studios)[WB, IFF images &amp; brushes]</description>
@@ -572,6 +676,10 @@
 		<description>Canailloux-1 v1.7 (1997)(CGP)</description>
 		<rom name="Canailloux-1 v1.7 (1997)(CGP).adf" size="901120" crc="f67fadc2" md5="52546d5dc86b58c87bc99e828674b36f" sha1="41048c802bc1d21f5d2a9b224a26253a8f49e24a"/>
 	</game>
+	<game name="Care Bears, The (1992)(Murray, Mark)[AMOS]">
+		<description>Care Bears, The (1992)(Murray, Mark)[AMOS]</description>
+		<rom name="Care Bears, The (1992)(Murray, Mark)[AMOS].adf" size="901120" crc="92f37961" md5="8d5e2c7e775b36e0c31f44aa5ddbba9f" sha1="f668d3c7456c24bb42567ae9cd6f3b8f0fb53704"/>
+	</game>
 	<game name="Castors Juniors dans la Foret, Les (1989)(Coktel Vision)(FR)[cr Defjam]">
 		<description>Castors Juniors dans la Foret, Les (1989)(Coktel Vision)(FR)[cr Defjam]</description>
 		<rom name="Castors Juniors dans la Foret, Les (1989)(Coktel Vision)(FR)[cr Defjam].adf" size="901120" crc="1b4c6e51" md5="55be4ab35df8621d9d708e1dda7cfef9" sha1="96fa75adbdf29d7ab06aa306a343d35c34b09b09"/>
@@ -676,17 +784,17 @@
 		<description>Decimal Dungeon (1986)(Unicorn)[h Three Amigos - New Age]</description>
 		<rom name="Decimal Dungeon (1986)(Unicorn)[h Three Amigos - New Age].adf" size="901120" crc="f9f1443e" md5="b303c1764c2ea985d1d770515ae5abbc" sha1="e980288e6ed325ae660b8a07868f0da00f81097c"/>
 	</game>
-	<game name="Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h Enigma]">
-		<description>Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h Enigma]</description>
-		<rom name="Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h Enigma].adf" size="901120" crc="6ea696b4" md5="4b0b0322ea459ed329aa80fc2fb98837" sha1="d2a980c7b96cb147c059495dfee9543a01dd0e68"/>
+	<game name="Decouvre les Pays du Monde (1990)(ESAT)(FR)[h Enigma]">
+		<description>Decouvre les Pays du Monde (1990)(ESAT)(FR)[h Enigma]</description>
+		<rom name="Decouvre les Pays du Monde (1990)(ESAT)(FR)[h Enigma].adf" size="901120" crc="6ea696b4" md5="4b0b0322ea459ed329aa80fc2fb98837" sha1="d2a980c7b96cb147c059495dfee9543a01dd0e68"/>
 	</game>
-	<game name="Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h PNA]">
-		<description>Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h PNA]</description>
-		<rom name="Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h PNA].adf" size="901120" crc="a08c6a2f" md5="10b83cf1ddce64dad2ea91b1377f255e" sha1="e43e11f571d63b0fb06e4f1972f0f3ad27758376"/>
+	<game name="Decouvre les Pays du Monde (1990)(ESAT)(FR)[h PNA]">
+		<description>Decouvre les Pays du Monde (1990)(ESAT)(FR)[h PNA]</description>
+		<rom name="Decouvre les Pays du Monde (1990)(ESAT)(FR)[h PNA].adf" size="901120" crc="a08c6a2f" md5="10b83cf1ddce64dad2ea91b1377f255e" sha1="e43e11f571d63b0fb06e4f1972f0f3ad27758376"/>
 	</game>
-	<game name="Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h PNA][a hacktxt]">
-		<description>Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h PNA][a hacktxt]</description>
-		<rom name="Decouvre les Pays du Monde (1990)(Esat Software)(FR)[h PNA][a hacktxt].adf" size="901120" crc="cfdda76c" md5="9c91d6bbca6b717495488ef49ecdace6" sha1="5a84b515d2fe2a9c2c4b58ba8543d3d963e4844f"/>
+	<game name="Decouvre les Pays du Monde (1990)(ESAT)(FR)[h PNA][a hacktxt]">
+		<description>Decouvre les Pays du Monde (1990)(ESAT)(FR)[h PNA][a hacktxt]</description>
+		<rom name="Decouvre les Pays du Monde (1990)(ESAT)(FR)[h PNA][a hacktxt].adf" size="901120" crc="cfdda76c" md5="9c91d6bbca6b717495488ef49ecdace6" sha1="5a84b515d2fe2a9c2c4b58ba8543d3d963e4844f"/>
 	</game>
 	<game name="Denver Presente - Je Decouvre les Couleurs (1990)(Loriciel)(FR)[cr]">
 		<description>Denver Presente - Je Decouvre les Couleurs (1990)(Loriciel)(FR)[cr]</description>
@@ -928,6 +1036,10 @@
 		<description>Drovers, The - Historical Droving Simulation v1.1 (1993-03-21)(MEU Cymru)</description>
 		<rom name="Drovers, The - Historical Droving Simulation v1.1 (1993-03-21)(MEU Cymru).adf" size="901120" crc="2e947acd" md5="46e859e5f1af02dcf65621d5234384b3" sha1="c45606e090eb9a1ceeda19bafef944638786d368"/>
 	</game>
+	<game name="Earth Around Us, The (1995-05)(Kingsmill, Tony)(SW)">
+		<description>Earth Around Us, The (1995-05)(Kingsmill, Tony)(SW)</description>
+		<rom name="Earth Around Us, The (1995-05)(Kingsmill, Tony)(SW).adf" size="901120" crc="1d122089" md5="831c564d5210428fef6c00e88ad10242" sha1="c7e107b6ee6919581ea662602588c10df39973b7"/>
+	</game>
 	<game name="Easy and Fun - Four in One (1988)(Polyglot)">
 		<description>Easy and Fun - Four in One (1988)(Polyglot)</description>
 		<rom name="Easy and Fun - Four in One (1988)(Polyglot).adf" size="901120" crc="c47f43e2" md5="ae7e853eb842ebb5f58a0876f57a5f4b" sha1="431d08b9e0bd4523ee23cd25b81014ce031c089b"/>
@@ -984,13 +1096,13 @@
 		<description>Erdkunde III (1988)(CD-Soft)(DE)[m bamcopy]</description>
 		<rom name="Erdkunde III (1988)(CD-Soft)(DE)[m bamcopy].adf" size="901120" crc="92ce224c" md5="1f14316bcbc418a7d2eefd7c5dc2cf36" sha1="d05317c68c3a17fb4bfab8e872b8e0e677c8ff9a"/>
 	</game>
-	<game name="eTeacher angielski (1995)(BiLang Software- Nahlik Soft)(AGA)(PL)(Disk 1 of 2)[cr WT]">
-		<description>eTeacher angielski (1995)(BiLang Software- Nahlik Soft)(AGA)(PL)(Disk 1 of 2)[cr WT]</description>
-		<rom name="eTeacher angielski (1995)(BiLang Software- Nahlik Soft)(AGA)(PL)(Disk 1 of 2)[cr WT].adf" size="901120" crc="33636bde" md5="9cc04d49c3d3b302bd362ba0e97be953" sha1="d4df39cafdb9e28927489f173c61417b724be409"/>
+	<game name="eTeacher angielski (1995)(BiLang Software - Nahlik Soft)(AGA)(PL)(Disk 1 of 2)[cr WT]">
+		<description>eTeacher angielski (1995)(BiLang Software - Nahlik Soft)(AGA)(PL)(Disk 1 of 2)[cr WT]</description>
+		<rom name="eTeacher angielski (1995)(BiLang Software - Nahlik Soft)(AGA)(PL)(Disk 1 of 2)[cr WT].adf" size="901120" crc="33636bde" md5="9cc04d49c3d3b302bd362ba0e97be953" sha1="d4df39cafdb9e28927489f173c61417b724be409"/>
 	</game>
-	<game name="eTeacher angielski (1995)(BiLang Software- Nahlik Soft)(AGA)(PL)(Disk 2 of 2)[cr WT]">
-		<description>eTeacher angielski (1995)(BiLang Software- Nahlik Soft)(AGA)(PL)(Disk 2 of 2)[cr WT]</description>
-		<rom name="eTeacher angielski (1995)(BiLang Software- Nahlik Soft)(AGA)(PL)(Disk 2 of 2)[cr WT].adf" size="901120" crc="36f84474" md5="99d8b942ef65668f81aff0a25399afa2" sha1="58e5472063d9477538a03cffb0af3dbd914211ad"/>
+	<game name="eTeacher angielski (1995)(BiLang Software - Nahlik Soft)(AGA)(PL)(Disk 2 of 2)">
+		<description>eTeacher angielski (1995)(BiLang Software - Nahlik Soft)(AGA)(PL)(Disk 2 of 2)</description>
+		<rom name="eTeacher angielski (1995)(BiLang Software - Nahlik Soft)(AGA)(PL)(Disk 2 of 2).adf" size="901120" crc="36f84474" md5="99d8b942ef65668f81aff0a25399afa2" sha1="58e5472063d9477538a03cffb0af3dbd914211ad"/>
 	</game>
 	<game name="Europa Plus v1.0 (1993)(Unsigned Division)(DE)(Disk 1 of 2)[h]">
 		<description>Europa Plus v1.0 (1993)(Unsigned Division)(DE)(Disk 1 of 2)[h]</description>
@@ -1080,9 +1192,17 @@
 		<description>First Shapes v1.00 (1986)(First Byte)[h TKT][v BGS9][b corrupt file]</description>
 		<rom name="First Shapes v1.00 (1986)(First Byte)[h TKT][v BGS9][b corrupt file].adf" size="901120" crc="330a23c4" md5="8950f7f11fb0b36972d33aed57bcf370" sha1="980ca2882ec5ac727d0b35354d4b725dc860c0a1"/>
 	</game>
-	<game name="Fizyka (1995)(Exe)(PL)[cr WT]">
-		<description>Fizyka (1995)(Exe)(PL)[cr WT]</description>
-		<rom name="Fizyka (1995)(Exe)(PL)[cr WT].adf" size="901120" crc="5638d568" md5="9a18cb8f80244d4aca94e5a0127ad004" sha1="c2d6d60cfdcb8d873b199c8806e4f23b67dbe00e"/>
+	<game name="Fizyka (1995)(EXE)(PL)[codes on disk]">
+		<description>Fizyka (1995)(EXE)(PL)[codes on disk]</description>
+		<rom name="Fizyka (1995)(EXE)(PL)[codes on disk].adf" size="901120" crc="4cc2bd41" md5="689fab0a291f9a1456582294c81f055f" sha1="8ca23645c48a7158275e686f4de3963a4ff8659d"/>
+	</game>
+	<game name="Fizyka (1995)(EXE)(PL)[cr WT]">
+		<description>Fizyka (1995)(EXE)(PL)[cr WT]</description>
+		<rom name="Fizyka (1995)(EXE)(PL)[cr WT].adf" size="901120" crc="5638d568" md5="9a18cb8f80244d4aca94e5a0127ad004" sha1="c2d6d60cfdcb8d873b199c8806e4f23b67dbe00e"/>
+	</game>
+	<game name="Fluorite Computer Presentation (199x)(Kingsmill, Tony)(FW)">
+		<description>Fluorite Computer Presentation (199x)(Kingsmill, Tony)(FW)</description>
+		<rom name="Fluorite Computer Presentation (199x)(Kingsmill, Tony)(FW).adf" size="901120" crc="302fc81d" md5="6c872f7ea2f0309fa5ec5da4d7b2b0d3" sha1="1b6cffa0a8d91574977df78821712b3abc3b27ea"/>
 	</game>
 	<game name="Folle Lecture de Don Quichotte, La (1988)(Coktel Vision)(FR)">
 		<description>Folle Lecture de Don Quichotte, La (1988)(Coktel Vision)(FR)</description>
@@ -1356,6 +1476,10 @@
 		<description>GeoMe v1.01 (1993)(Wolf)(DE)(Disk 2 of 2)</description>
 		<rom name="GeoMe v1.01 (1993)(Wolf)(DE)(Disk 2 of 2).adf" size="901120" crc="8845ef6b" md5="e2b3ff2a1ab9a5fc53d111f3448d7e6b" sha1="b511c1af71dc5235005ce31822b5d9fc27d7d546"/>
 	</game>
+	<game name="Geometria (1992)(Alderan)(PL)">
+		<description>Geometria (1992)(Alderan)(PL)</description>
+		<rom name="Geometria (1992)(Alderan)(PL).adf" size="901120" crc="839ac974" md5="2dc0dde12247b765902ae4330ca4e144" sha1="a68f58e0453a3fa0c0a981c1854e3e48df3f4e63"/>
+	</game>
 	<game name="Geometria (1998-01-15)(Faterbit)(PL)[cr WT]">
 		<description>Geometria (1998-01-15)(Faterbit)(PL)[cr WT]</description>
 		<rom name="Geometria (1998-01-15)(Faterbit)(PL)[cr WT].adf" size="901120" crc="39d82c57" md5="a1ea28e58ac6de9f6c87cb2f9c77a5c1" sha1="68b0559c6e941ebeb916f61334da32a4d74d6263"/>
@@ -1363,34 +1487,6 @@
 	<game name="Geometrie I (1989)(CD-Soft)(DE)[h Supreme]">
 		<description>Geometrie I (1989)(CD-Soft)(DE)[h Supreme]</description>
 		<rom name="Geometrie I (1989)(CD-Soft)(DE)[h Supreme].adf" size="901120" crc="2888d3d6" md5="7507f41fe9ec7f573f24ce113b7d43e0" sha1="8662e73dcd687a39b6a4d55b3e17eca19cf75e9a"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 1 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 1 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 1 of 7).adf" size="901120" crc="51907db5" md5="1fe2ae19121927c46e7d43538c603a6a" sha1="c9a3be4df932f8a5b9a4b8c5badf1f1396969faa"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 2 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 2 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 2 of 7).adf" size="901120" crc="cb7216e9" md5="2528c0c6a0fc20302eb07c7a719bd53a" sha1="f1057285e2ec79293187122e7f7fca56be98df2f"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 3 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 3 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 3 of 7).adf" size="901120" crc="5be5f1d6" md5="f997212cfefb4e13016291d135c64ab9" sha1="7005236545c4d52168e7f66bca40a449449b22d1"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 4 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 4 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 4 of 7).adf" size="901120" crc="ca4658dd" md5="ef5b066075ef3eb085c2385d5751c6de" sha1="e5911225404965a25643777e5bea81102981a13d"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 5 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 5 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 5 of 7).adf" size="901120" crc="ebff5484" md5="fbb5beb55c062aaa80d9ccd1395c7156" sha1="0d989d5a6323a476a4e84155e6e086385fc69e7c"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 6 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 6 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 6 of 7).adf" size="901120" crc="b3410d54" md5="968cb19aa8f62b415cd3c82eab434443" sha1="f39c4591a2abf3d3b697706dbdafed0023c08f5c"/>
-	</game>
-	<game name="German Audio Gallery (19xx)(FairBrothers)(Disk 7 of 7)">
-		<description>German Audio Gallery (19xx)(FairBrothers)(Disk 7 of 7)</description>
-		<rom name="German Audio Gallery (19xx)(FairBrothers)(Disk 7 of 7).adf" size="901120" crc="36558ba8" md5="8c6ce3ebf668be4252845147de235607" sha1="8f922c6b57560eb5b23bd7c1bab6eaa1725d6c96"/>
 	</game>
 	<game name="German Master, The v1.0 (1990)(Kosmos)">
 		<description>German Master, The v1.0 (1990)(Kosmos)</description>
@@ -1428,9 +1524,9 @@
 		<description>Goofy's Railway Express (1989)(Disney)(M5)[cr EP][h Warrior]</description>
 		<rom name="Goofy's Railway Express (1989)(Disney)(M5)[cr EP][h Warrior].adf" size="901120" crc="feb3efad" md5="f85678c127e625af63f9da57e50f8fa4" sha1="ae1ce5ae6f0aeaa210be112006af44a9b4a83854"/>
 	</game>
-	<game name="Gramatyka (1998)(-)(PL)[cr WT]">
-		<description>Gramatyka (1998)(-)(PL)[cr WT]</description>
-		<rom name="Gramatyka (1998)(-)(PL)[cr WT].adf" size="901120" crc="152f6c2e" md5="cadd91a5097a3badb799a8a780a7b43b" sha1="66ec0cef80863627e3d667a86ecf9d25739dd549"/>
+	<game name="Gramatyka (1998)(EXE)(PL)[cr WT]">
+		<description>Gramatyka (1998)(EXE)(PL)[cr WT]</description>
+		<rom name="Gramatyka (1998)(EXE)(PL)[cr WT].adf" size="901120" crc="152f6c2e" md5="cadd91a5097a3badb799a8a780a7b43b" sha1="66ec0cef80863627e3d667a86ecf9d25739dd549"/>
 	</game>
 	<game name="Granny's Garden (1989)(4-Mation Education Resources)">
 		<description>Granny's Garden (1989)(4-Mation Education Resources)</description>
@@ -1515,34 +1611,6 @@
 	<game name="Italian Tutor, The v2.0 (1990)(Kosmos)[a]">
 		<description>Italian Tutor, The v2.0 (1990)(Kosmos)[a]</description>
 		<rom name="Italian Tutor, The v2.0 (1990)(Kosmos)[a].adf" size="901120" crc="6ce66205" md5="80ef9f79e9335e782597ea4daf8dd21a" sha1="ccba5d93e39e8e5952d892bff31ff6c575daf8ac"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 1 of 7)">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 1 of 7)</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 1 of 7).adf" size="901120" crc="d59c73d1" md5="79d40a239dd8e3cb8aee7999b67b6489" sha1="7c42f0e76a86153ca1a5a6ba0d3ac4720b750d91"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 2 of 7)[b corrupt file]">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 2 of 7)[b corrupt file]</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 2 of 7)[b corrupt file].adf" size="901120" crc="ed821256" md5="51294bbdeb1583d323bfb28648cb7f26" sha1="de81c3a704d6a6ab66f4d695494e7f3d5fcd2407"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 3 of 7)">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 3 of 7)</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 3 of 7).adf" size="901120" crc="f2f19d0f" md5="90383da7a620b7c33b88507937bf1422" sha1="9b886de44b2cf35eae9cf1ac16a555627e4111e4"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 4 of 7)">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 4 of 7)</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 4 of 7).adf" size="901120" crc="d6662562" md5="11257e00870f02e08abc6c2badc78dba" sha1="2b52e5c7fdc2f9dd63a8ccc399be57e3ad09a841"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 5 of 7)">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 5 of 7)</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 5 of 7).adf" size="901120" crc="fb50aee6" md5="99c84f36280a0ff126bb56d744bfe365" sha1="a3ca2c2c63430b2afaa339591935866b3066285a"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 6 of 7)">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 6 of 7)</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 6 of 7).adf" size="901120" crc="c64bdea1" md5="9f3df4bb21ed62a28d4dfa88ac5464da" sha1="87ebab9f7d6ef5206cf5d6d87612d55286283cd6"/>
-	</game>
-	<game name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 7 of 7)">
-		<description>Japanese Audio Gallery (1991)(FairBrothers)(Disk 7 of 7)</description>
-		<rom name="Japanese Audio Gallery (1991)(FairBrothers)(Disk 7 of 7).adf" size="901120" crc="733a18ba" md5="a336bbbf8e515fa3b4e9c95df0b2d930" sha1="b98416041606445b12e2419fdd6fc23b0d08ce12"/>
 	</game>
 	<game name="Japanese I (1990)(Educational Tutorial Software)[cr SR]">
 		<description>Japanese I (1990)(Educational Tutorial Software)[cr SR]</description>
@@ -1852,6 +1920,10 @@
 		<description>Learn in Space v1.0 (199x)(Paul, Andy)(SW)[AMOS]</description>
 		<rom name="Learn in Space v1.0 (199x)(Paul, Andy)(SW)[AMOS].adf" size="901120" crc="e8730e2b" md5="7056a38185b44e527f677e9acdec8a5a" sha1="9687e0cf343dba82233a7402a53f52ab85221c7e"/>
 	</game>
+	<game name="Learning English - Modern Course - Gym 4, 5 and 6 (1989)(Heureka-Teachware)(DE)[h SCX]">
+		<description>Learning English - Modern Course - Gym 4, 5 and 6 (1989)(Heureka-Teachware)(DE)[h SCX]</description>
+		<rom name="Learning English - Modern Course - Gym 4, 5 and 6 (1989)(Heureka-Teachware)(DE)[h SCX].adf" size="901120" crc="1ecf5c2e" md5="6af79ddd4ec20b6988f8da9cad25f4ac" sha1="5a93676416ea00078fd95100550b5e84e5bf95e1"/>
+	</game>
 	<game name="Let's Spell at Home (1990)(Soft Stuff)">
 		<description>Let's Spell at Home (1990)(Soft Stuff)</description>
 		<rom name="Let's Spell at Home (1990)(Soft Stuff).adf" size="901120" crc="32c0cd50" md5="f2907d09feac3f785286aa39396de3a2" sha1="147eb5f9c416ee8cad2087c2f2446c4a7eadd42b"/>
@@ -1964,9 +2036,17 @@
 		<description>Magister - Rivoluzione Francese e l'Epoca Napoleonica, La (1992)(Edizioni Software)(IT)</description>
 		<rom name="Magister - Rivoluzione Francese e l'Epoca Napoleonica, La (1992)(Edizioni Software)(IT).adf" size="901120" crc="7661fe50" md5="2a5a82de4182083c739c95b8d565c099" sha1="7f932b41aafe89d13c29571fcd1f365a3eff557a"/>
 	</game>
-	<game name="Malowanki (1996)(Game Show)[AMOS]">
-		<description>Malowanki (1996)(Game Show)[AMOS]</description>
-		<rom name="Malowanki (1996)(Game Show)[AMOS].adf" size="901120" crc="df8a9cb9" md5="bd82bcb66e2de06a79d6976806be44a3" sha1="b237c79baeece21f4284460f017d9ac03e2f556e"/>
+	<game name="Malowanki (1996)(Game Show)[h WT][AMOS]">
+		<description>Malowanki (1996)(Game Show)[h WT][AMOS]</description>
+		<rom name="Malowanki (1996)(Game Show)[h WT][AMOS].adf" size="901120" crc="df8a9cb9" md5="bd82bcb66e2de06a79d6976806be44a3" sha1="b237c79baeece21f4284460f017d9ac03e2f556e"/>
+	</game>
+	<game name="Maly Matematyk (1994)(Promic Group)(PL)">
+		<description>Maly Matematyk (1994)(Promic Group)(PL)</description>
+		<rom name="Maly Matematyk (1994)(Promic Group)(PL).adf" size="901120" crc="67e133dd" md5="afb84a922fd27694614689e38e62d56e" sha1="370c4c139ceb4320c4a2a601aa876fc9ea074662"/>
+	</game>
+	<game name="Maly Matematyk (1994)(Promic Group)(PL)[h Mirage]">
+		<description>Maly Matematyk (1994)(Promic Group)(PL)[h Mirage]</description>
+		<rom name="Maly Matematyk (1994)(Promic Group)(PL)[h Mirage].adf" size="901120" crc="59086f97" md5="d754c03c5efb1fe4d6c41e26ff8d72a6" sha1="66fbe0a7b41d7acceb31df3fa3d1bf82485ef313"/>
 	</game>
 	<game name="MasterType (1986)(Scarborough)">
 		<description>MasterType (1986)(Scarborough)</description>
@@ -2844,6 +2924,10 @@
 		<description>Shapes and Colours (199x)(RGB Designs)[h BS1][AMOS]</description>
 		<rom name="Shapes and Colours (199x)(RGB Designs)[h BS1][AMOS].adf" size="901120" crc="6880ce54" md5="c8415094dc3c57ef3037be456dd35d27" sha1="2e6d91602482c74cb50e87c0433a2b0a91fc8bfb"/>
 	</game>
+	<game name="Sharpes and Pictures (1990)(Arc Angel - AMOS PD)(LW)[AMOS]">
+		<description>Sharpes and Pictures (1990)(Arc Angel - AMOS PD)(LW)[AMOS]</description>
+		<rom name="Sharpes and Pictures (1990)(Arc Angel - AMOS PD)(LW)[AMOS].adf" size="901120" crc="5af0d103" md5="ed15fe5e0ed17a5bde7c93d28cd33ece" sha1="65f596f06cad0b64db62b153097ad8b922dcde99"/>
+	</game>
 	<game name="Silhouette (1990)(Gold Disk)">
 		<description>Silhouette (1990)(Gold Disk)</description>
 		<rom name="Silhouette (1990)(Gold Disk).adf" size="901120" crc="9d842355" md5="31e75ea9029763ff40d4ec980a886991" sha1="287481e802fccf695150847e040d7bfd4d7a8e2c"/>
@@ -3160,6 +3244,10 @@
 		<description>Two Can Play (1994)(Mears, Gina - F1 Licenceware)[AMOS]</description>
 		<rom name="Two Can Play (1994)(Mears, Gina - F1 Licenceware)[AMOS].adf" size="901120" crc="47edc257" md5="a7c8bbefcd7cac1d83037ef8de85920a" sha1="e1db0fb8d9a64a092155baa1622bde16cb870b9e"/>
 	</game>
+	<game name="Typing Tutor plus Word Invaders (1986)(Academy Software)">
+		<description>Typing Tutor plus Word Invaders (1986)(Academy Software)</description>
+		<rom name="Typing Tutor plus Word Invaders (1986)(Academy Software).adf" size="901120" crc="d0c783d0" md5="296e9d55d5eaaff2c14b307397417f96" sha1="7100e0e9c755c34c25ac8657e3ddf0a84b9ebbf1"/>
+	</game>
 	<game name="Very First Tutorial, The (1987)(Holz, Juan)[h A-Ha]">
 		<description>Very First Tutorial, The (1987)(Holz, Juan)[h A-Ha]</description>
 		<rom name="Very First Tutorial, The (1987)(Holz, Juan)[h A-Ha].adf" size="901120" crc="3bf9fa4a" md5="5a0cc2a07d6af030efd1903c12e79bbb" sha1="576fade92d27ced5bc2b99597535a74903701f04"/>
@@ -3172,9 +3260,9 @@
 		<description>Vocabulary Adventure III (1985)(Queue)[h TKT]</description>
 		<rom name="Vocabulary Adventure III (1985)(Queue)[h TKT].adf" size="901120" crc="e8d4a067" md5="543e62093a2b7e392c3002f97c6573a2" sha1="08f1e6dbc0ca975395ad8d0c58779c3abf5b2797"/>
 	</game>
-	<game name="Voyage a Travers la France (1991)(Esat Software)(FR)">
-		<description>Voyage a Travers la France (1991)(Esat Software)(FR)</description>
-		<rom name="Voyage a Travers la France (1991)(Esat Software)(FR).adf" size="901120" crc="371a6121" md5="d5cb422e02c0b4d10bf9ff882fbeca7b" sha1="2b3d654aeb70c2de52c1f9b398300293e2066205"/>
+	<game name="Voyage a Travers la France (1991)(ESAT)(FR)">
+		<description>Voyage a Travers la France (1991)(ESAT)(FR)</description>
+		<rom name="Voyage a Travers la France (1991)(ESAT)(FR).adf" size="901120" crc="371a6121" md5="d5cb422e02c0b4d10bf9ff882fbeca7b" sha1="2b3d654aeb70c2de52c1f9b398300293e2066205"/>
 	</game>
 	<game name="Was ist das (1995)(Exe)(PL)(Disk 1 of 3)[cr WT]">
 		<description>Was ist das (1995)(Exe)(PL)(Disk 1 of 3)[cr WT]</description>
@@ -3227,6 +3315,18 @@
 	<game name="Word Master Vocabulary Builder for Grades 3-8, The (1987)(Unicorn)[h ACU]">
 		<description>Word Master Vocabulary Builder for Grades 3-8, The (1987)(Unicorn)[h ACU]</description>
 		<rom name="Word Master Vocabulary Builder for Grades 3-8, The (1987)(Unicorn)[h ACU].adf" size="901120" crc="1d8d3a3c" md5="dd476091c394792a6d8218e90a9d2030" sha1="9842998d09a89a979e4ac4701558d66d2887267c"/>
+	</game>
+	<game name="Word Teacher v1.2 (1991)(Eureka)(PL)[cp manual code]">
+		<description>Word Teacher v1.2 (1991)(Eureka)(PL)[cp manual code]</description>
+		<rom name="Word Teacher v1.2 (1991)(Eureka)(PL)[cp manual code].adf" size="901120" crc="86c4801f" md5="c8edc0435c706a0cd34b4fc09acc4259" sha1="cdfd5f8b8c378aeb9d44708a494d955e39b96ac9"/>
+	</game>
+	<game name="Word Teacher v1.2 (1991)(Eureka)(PL)[cr Top One]">
+		<description>Word Teacher v1.2 (1991)(Eureka)(PL)[cr Top One]</description>
+		<rom name="Word Teacher v1.2 (1991)(Eureka)(PL)[cr Top One].adf" size="901120" crc="a3795c58" md5="2f3f9cc9a1faba17f761fcc5110230f4" sha1="3b711e4b6e37dc08f26ee75f9c42b0340485b8da"/>
+	</game>
+	<game name="Word Teacher v2.0 (1992)(Alderan)(PL)[cr Bald Horse]">
+		<description>Word Teacher v2.0 (1992)(Alderan)(PL)[cr Bald Horse]</description>
+		<rom name="Word Teacher v2.0 (1992)(Alderan)(PL)[cr Bald Horse].adf" size="901120" crc="7f57cc5e" md5="9e8d9f2b2707dfdc114fd57a8bd777bd" sha1="89879c036aaa50a927456990fcf0d12c1f17ca85"/>
 	</game>
 	<game name="Words and Numbers v1.2 (1991-02-16)(Helios)">
 		<description>Words and Numbers v1.2 (1991-02-16)(Helios)</description>
@@ -3335,6 +3435,22 @@
 	<game name="World Geography Adventure II - Europe (1985)(Queue)[h BST]">
 		<description>World Geography Adventure II - Europe (1985)(Queue)[h BST]</description>
 		<rom name="World Geography Adventure II - Europe (1985)(Queue)[h BST].adf" size="901120" crc="fe3786bf" md5="6938b29e0d2d6e32682cb59b4eb351d1" sha1="07bba93ba0bdff4869a1aaf63e850886a1d3e89b"/>
+	</game>
+	<game name="World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)">
+		<description>World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)</description>
+		<rom name="World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW).adf" size="901120" crc="df987afa" md5="47f132db93d1b0ede074b9af8402c6cb" sha1="d6ea1135894d3ad5247e4deb2949cc9447fdadb3"/>
+	</game>
+	<game name="World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)[h PD-Soft]">
+		<description>World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)[h PD-Soft]</description>
+		<rom name="World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)[h PD-Soft].adf" size="901120" crc="fe0e7ea0" md5="5fe88f745abed7f72d9adcac41df172e" sha1="95541eeadf4587586ada0014d1565412a6e2fc22"/>
+	</game>
+	<game name="World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)[h Software 2000]">
+		<description>World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)[h Software 2000]</description>
+		<rom name="World Geography v1.0 (1993-01)(Kingsmill, Tony)(SW)[h Software 2000].adf" size="901120" crc="ee4e9b65" md5="21813e4c6bdbcbf7c9cfafcec18b7177" sha1="d385e32597f271b89771d57806b0af172cdbe876"/>
+	</game>
+	<game name="World Geography v1.4 (1994-06)(Kingsmill, Tony)(SW)">
+		<description>World Geography v1.4 (1994-06)(Kingsmill, Tony)(SW)</description>
+		<rom name="World Geography v1.4 (1994-06)(Kingsmill, Tony)(SW).adf" size="901120" crc="0eb6bf33" md5="6fd51de773a7a66442b64a3dba089379" sha1="a457915e06db12b1404242cea296069d722549ce"/>
 	</game>
 	<game name="World Tour - Africa v1.00 (1990)(Designing Minds)">
 		<description>World Tour - Africa v1.00 (1990)(Designing Minds)</description>

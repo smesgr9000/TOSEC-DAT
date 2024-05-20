@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>APF Imagination Machine - Applications</name>
-		<description>APF Imagination Machine - Applications (TOSEC-v2018-03-08)</description>
+		<description>APF Imagination Machine - Applications (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2018-03-08</version>
+		<version>2023-08-29</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -75,5 +75,9 @@
 	<game name="SY-50 Diagnostics (1979)(APF Electronics)(US)">
 		<description>SY-50 Diagnostics (1979)(APF Electronics)(US)</description>
 		<rom name="SY-50 Diagnostics (1979)(APF Electronics)(US).wav" size="3598780" crc="0b3f3d4e" md5="c0d40812a705927a025a9ff0b17c0646" sha1="9185dc1801d50538b636e9fe5a071fc40425a9ec"/>
+	</game>
+	<game name="SY-50 IM-1 Diagnostics (1979)(APF Electronics)">
+		<description>SY-50 IM-1 Diagnostics (1979)(APF Electronics)</description>
+		<rom name="SY-50 IM-1 Diagnostics (1979)(APF Electronics).wav" size="1135516" crc="cba9e0b0" md5="4338802ddac29eda6014482e91c6cceb" sha1="ae22af1a38721bb7ebdae15302d88b49cd6fc028"/>
 	</game>
 </datafile>

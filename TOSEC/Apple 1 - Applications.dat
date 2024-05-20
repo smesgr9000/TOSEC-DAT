@@ -4,16 +4,52 @@
 <datafile>
 	<header>
 		<name>Apple 1 - Applications</name>
-		<description>Apple 1 - Applications (TOSEC-v2011-08-31)</description>
+		<description>Apple 1 - Applications (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2011-08-31</version>
-		<author>Cassiel</author>
+		<version>2023-08-29</version>
+		<author>Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-	<game name="Apple 1 BASIC (19xx)(Apple)[load at E000.EFFF, enter at E000]">
-		<description>Apple 1 BASIC (19xx)(Apple)[load at E000.EFFF, enter at E000]</description>
-		<rom name="Apple 1 BASIC (19xx)(Apple)[load at E000.EFFF, enter at E000].wav" size="6644776" crc="d8b0a997" md5="c96d0b4d84d87678425ac7ad1350e2a5" sha1="8c90938077aaebe83ea707944c7f4d7d24af25ba"/>
+	<game name="Apple 1 Basic (1976)(Apple)[a2][pn A1T001X][E000.EFFFR, E000R]">
+		<description>Apple 1 Basic (1976)(Apple)[a2][pn A1T001X][E000.EFFFR, E000R]</description>
+		<rom name="Apple 1 Basic (1976)(Apple)[a2][pn A1T001X][E000.EFFFR, E000R].wav" size="3366344" crc="d512ef7a" md5="68c109e3e238f9fed309c93dc525f31c" sha1="67c00ebf944e701ab3e5d2ef584a2fafeaf04a3c"/>
+	</game>
+	<game name="Apple 1 Basic (1976)(Apple)[a][pn A1T001X][E000.EFFFR, E000R]">
+		<description>Apple 1 Basic (1976)(Apple)[a][pn A1T001X][E000.EFFFR, E000R]</description>
+		<rom name="Apple 1 Basic (1976)(Apple)[a][pn A1T001X][E000.EFFFR, E000R].wav" size="3663918" crc="1914635e" md5="fc9aa7b1dedb618bf041ca975c98429f" sha1="e5f112bec9236d42c3b5618df0d4607053b0078f"/>
+	</game>
+	<game name="Apple 1 Basic (1976)(Apple)[pn A1T001X][E000.EFFFR, E000R]">
+		<description>Apple 1 Basic (1976)(Apple)[pn A1T001X][E000.EFFFR, E000R]</description>
+		<rom name="Apple 1 Basic (1976)(Apple)[pn A1T001X][E000.EFFFR, E000R].wav" size="6644780" crc="cd5cf5a4" md5="9b22e3c8ecf80a32faa135964a0e2d3b" sha1="ef58e776683581ea6af869ee7775fc0d3ad577b9"/>
+	</game>
+	<game name="Apple 1 BASIC (19xx)(Apple)[E000.EFFFR, E000R]">
+		<description>Apple 1 BASIC (19xx)(Apple)[E000.EFFFR, E000R]</description>
+		<rom name="Apple 1 BASIC (19xx)(Apple)[E000.EFFFR, E000R].wav" size="6644776" crc="d8b0a997" md5="c96d0b4d84d87678425ac7ad1350e2a5" sha1="8c90938077aaebe83ea707944c7f4d7d24af25ba"/>
+	</game>
+	<game name="Applesoft Lite (2008)(Briel, Vince)[6000.7EFFR, 6000R]">
+		<description>Applesoft Lite (2008)(Briel, Vince)[6000.7EFFR, 6000R]</description>
+		<rom name="Applesoft Lite (2008)(Briel, Vince)[6000.7EFFR, 6000R].wav" size="9679664" crc="098614ca" md5="5c0bbe482358e4f89be2d0a8447db59b" sha1="1b99eea4ef1bd0155615fb49f5d1f6a6f17d9ae4"/>
+	</game>
+	<game name="Dis-Assembler (1976)(Apple)[PN A1T008X][800.09FFR, 09F0R]">
+		<description>Dis-Assembler (1976)(Apple)[PN A1T008X][800.09FFR, 09F0R]</description>
+		<rom name="Dis-Assembler (1976)(Apple)[PN A1T008X][800.09FFR, 09F0R].wav" size="1905164" crc="3fb58ea4" md5="052e040071a623f6f4d31bc85ada227f" sha1="194829241eec0e418469e1fc8e92d5a2721dcb6d"/>
+	</game>
+	<game name="ELIZA (19xx)(-)[req BASIC][4A.00FFR300.3FFFR, E2B3R]">
+		<description>ELIZA (19xx)(-)[req BASIC][4A.00FFR300.3FFFR, E2B3R]</description>
+		<rom name="ELIZA (19xx)(-)[req BASIC][4A.00FFR300.3FFFR, E2B3R].wav" size="18453608" crc="c8cf353e" md5="5c355f3f904d23ea3635f225c3182e15" sha1="aaec29bd2da471facbeb2f6c5292278a62b48f4f"/>
+	</game>
+	<game name="Extended Monitor (1977)(Apple)[PN A1T009X][0800.0FFFR, 0F3DR]">
+		<description>Extended Monitor (1977)(Apple)[PN A1T009X][0800.0FFFR, 0F3DR]</description>
+		<rom name="Extended Monitor (1977)(Apple)[PN A1T009X][0800.0FFFR, 0F3DR].wav" size="2146422" crc="a28f0554" md5="8a6c2af46fc851edc5b4870c7961c6fc" sha1="8f8d729142ba2a97f477c304351a64dc95552e1b"/>
+	</game>
+	<game name="Pasart (19xx)(-)[300.5FFR, 300R]">
+		<description>Pasart (19xx)(-)[300.5FFR, 300R]</description>
+		<rom name="Pasart (19xx)(-)[300.5FFR, 300R].wav" size="2471520" crc="84c241ce" md5="b4e88abd22027faa416bc4711c2fc76e" sha1="c122719952e9acb77891e078366cacd47e77688d"/>
+	</game>
+	<game name="Real-Time Clock and Stopwatch (19xx)(-)[req BASIC][4A.00FFR0300.0FFFR, E2B3R]">
+		<description>Real-Time Clock and Stopwatch (19xx)(-)[req BASIC][4A.00FFR0300.0FFFR, E2B3R]</description>
+		<rom name="Real-Time Clock and Stopwatch (19xx)(-)[req BASIC][4A.00FFR0300.0FFFR, E2B3R].wav" size="4191014" crc="4a3d6dde" md5="8e06b97ef03478fe1556ae03e5b220e7" sha1="980ff8a49db18f52a852aafc75e6e831580bf79f"/>
 	</game>
 </datafile>

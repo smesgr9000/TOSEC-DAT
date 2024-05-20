@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Atari 7800 - Games</name>
-		<description>Atari 7800 - Games (TOSEC-v2023-06-14)</description>
+		<description>Atari 7800 - Games (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
-		<author>Belgarath - Cassiel - mictlantecuhtle - doomwarrior</author>
+		<version>2024-01-15</version>
+		<author>Belgarath - Cassiel - mictlantecuhtle - doomwarrior - smesgr</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -48,6 +48,10 @@
 		<description>Asteroids (1987)(Atari)(NTSC)[a]</description>
 		<rom name="Asteroids (1987)(Atari)(NTSC)[a].a78" size="16512" crc="eac69cf0" md5="85b5587c5a9406ddd079aa6879093cf7" sha1="244136dce7f71c146c4eb8c19b1c56ac3f71f646"/>
 	</game>
+	<game name="Attack of the Petscii Robots (demo-playable) (2023-02-08)(Atari Age)">
+        <description>Attack of the Petscii Robots (demo-playable) (2023-02-08)(Atari Age)</description>
+        <rom name="Attack of the Petscii Robots (demo-playable) (2023-02-08)(Atari Age).a78" size="262272" crc="c8b83c98" md5="6647ae6ebd3961ec0f15fc388baa1077" sha1="ad90cfb70143e5c06d3b4300484895ce82ff9048"/>
+    </game>
 	<game name="Ballblazer (1987)(Atari)(NTSC)">
 		<description>Ballblazer (1987)(Atari)(NTSC)</description>
 		<rom name="Ballblazer (1987)(Atari)(NTSC).a78" size="32896" crc="5b635cb6" md5="8fd2ff3e289f33f53f2792d1a0bc3513" sha1="329782dd80a7ef88b81ab348aba4a0d478f0432f"/>
@@ -776,6 +780,10 @@
 		<description>Sentinel (1991)(Atari)(PAL)[b]</description>
 		<rom name="Sentinel (1991)(Atari)(PAL)[b].a78" size="131200" crc="ba588ff0" md5="967d09d8c03983cf92df73cabbeeea0e" sha1="bf414ce1962f57016b26f545321d49fe13cf1e1e"/>
 	</game>
+	<game name="Shuriken (2023-08-03)(Caruso, Fabrizio)">
+		<description>Shuriken (2023-08-03)(Caruso, Fabrizio)</description>
+		<rom name="Shuriken (2023-08-03)(Caruso, Fabrizio).a78" size="32896" crc="d4b96817" md5="f25b213716ffaa2800343846d116519d" sha1="3eb4383c78172241226df66b0c0c22085b2c7bf4"/>
+	</game>
 	<game name="Space War! Rev 20030930 (2003)(Eric Ball)(PD)">
 		<description>Space War! Rev 20030930 (2003)(Eric Ball)(PD)</description>
 		<rom name="Space War! Rev 20030930 (2003)(Eric Ball)(PD).a78" size="4224" crc="ddcbaf8f" md5="2c1a97e352465c7444643e099fa4892e" sha1="00637d5949985ca0750f9481d6370629cfcbda68"/>
@@ -783,6 +791,22 @@
 	<game name="Space War! Rev 20040318 (2004)(Eric Ball)(PD)">
 		<description>Space War! Rev 20040318 (2004)(Eric Ball)(PD)</description>
 		<rom name="Space War! Rev 20040318 (2004)(Eric Ball)(PD).a78" size="4224" crc="56dd68c8" md5="45af8572859c3f883bc41a9a004ad8c8" sha1="85d6471cf423e4f16ed415bfe529605a39aee0f2"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio).a78" size="32896" crc="17e87cf9" md5="9f4dd0273007c96b0fc1f8946de726c1" sha1="37b9bb00a01fc615874b8a5074c4cc51908b36e8"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[no color]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[no color]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[no color].a78" size="32896" crc="79b22d5a" md5="fe736f7155c8c0a9f72f8ee3ec1470b3" sha1="a0b9d21e2eaf304dab3df6182f634f09fab66454"/>
+	</game>
+	<game name="Stinger (2023-11-02)(Caruso, Fabrizio)">
+		<description>Stinger (2023-11-02)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-11-02)(Caruso, Fabrizio).a78" size="32896" crc="2c98ce80" md5="8f20411a26326459ee3708da1e1adc59" sha1="bcdd587f6da83631207cc2d5e8531688a0e1f700"/>
+	</game>
+	<game name="Stinger (2023-11-02)(Caruso, Fabrizio)[no color]">
+		<description>Stinger (2023-11-02)(Caruso, Fabrizio)[no color]</description>
+		<rom name="Stinger (2023-11-02)(Caruso, Fabrizio)[no color].a78" size="32896" crc="5f127d88" md5="e83f9344daa92dce1b80ac8c57173e84" sha1="dd93203f7e1d07a5c43068dca55c9776cf938413"/>
 	</game>
 	<game name="Summer Games (1987)(Atari)(NTSC)">
 		<description>Summer Games (1987)(Atari)(NTSC)</description>

@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Bandai WonderSwan Color - Games</name>
-		<description>Bandai WonderSwan Color - Games (TOSEC-v2022-06-08)</description>
+		<description>Bandai WonderSwan Color - Games (TOSEC-v2023-10-03)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
-		<author>Cassiel - etabeta - mictlantecuhtle</author>
+		<version>2023-10-03</version>
+		<author>Cassiel - etabeta - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -23,6 +23,10 @@
 	<game name="Arc the Lad - Kishin Fukkatsu (2002-07-04)(Bandai)[SWJ-BANC2A]">
 		<description>Arc the Lad - Kishin Fukkatsu (2002-07-04)(Bandai)[SWJ-BANC2A]</description>
 		<rom name="Arc the Lad - Kishin Fukkatsu (2002-07-04)(Bandai)[SWJ-BANC2A].bin" size="8388608" crc="e2317345" md5="7a1023850bddb3b9547a9be8075da01d" sha1="68981c05d8118d4189100eed462ee6639328dc59"/>
+	</game>
+	<game name="Atop the Witch's Tower WS v1.1 (2023-03-29)(asie)">
+		<description>Atop the Witch's Tower WS v1.1 (2023-03-29)(asie)</description>
+		<rom name="Atop the Witch's Tower WS v1.1 (2023-03-29)(asie).bin" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511"/>
 	</game>
 	<game name="Battle Spirit - Digimon Frontier (2002-12-07)(Bandai)[SWJ-BANC31]">
 		<description>Battle Spirit - Digimon Frontier (2002-12-07)(Bandai)[SWJ-BANC31]</description>
@@ -80,6 +84,10 @@
 		<description>Digimon Tamers - Battle Spirit Ver.1.5 (2002-04-27)(Bandai)[SWJ-BANC30]</description>
 		<rom name="Digimon Tamers - Battle Spirit Ver.1.5 (2002-04-27)(Bandai)[SWJ-BANC30].bin" size="8388608" crc="6caad4a2" md5="7e1be9ec064d8e1e92f26668c8a74326" sha1="3f39ff494a3d8dd9d55a2e7cf86b47f1c8e8a156"/>
 	</game>
+	<game name="Digimon Tamers - Battle Spirit Ver.1.5 (2002-04-27)(Bandai)[tr en][SWJ-BANC30]">
+		<description>Digimon Tamers - Battle Spirit Ver.1.5 (2002-04-27)(Bandai)[tr en][SWJ-BANC30]</description>
+		<rom name="Digimon Tamers - Battle Spirit Ver.1.5 (2002-04-27)(Bandai)[tr en][SWJ-BANC30].bin" size="8388608" crc="ed05bcd0" md5="d4fc8fcf39054f3421aab8e459a27744" sha1="b6b96aa1c435c551167ff31066310e85f44c3cc4"/>
+	</game>
 	<game name="Digimon Tamers - Brave Tamer (2001-12-29)(Bandai)[b][SWJ-BANC1D]">
 		<description>Digimon Tamers - Brave Tamer (2001-12-29)(Bandai)[b][SWJ-BANC1D]</description>
 		<rom name="Digimon Tamers - Brave Tamer (2001-12-29)(Bandai)[b][SWJ-BANC1D].bin" size="4194304" crc="7b4eb80d" md5="a4ae08ab9a823576a4557a7be9b11f92" sha1="bbcef220625a8b66a7af83f37dafe550545502ab"/>
@@ -119,6 +127,10 @@
 	<game name="Digital Monster Card Game - Ver. WonderSwan Color (2002-03-16)(Bandai)[SWJ-BANC22]">
 		<description>Digital Monster Card Game - Ver. WonderSwan Color (2002-03-16)(Bandai)[SWJ-BANC22]</description>
 		<rom name="Digital Monster Card Game - Ver. WonderSwan Color (2002-03-16)(Bandai)[SWJ-BANC22].bin" size="4194304" crc="603cb5e6" md5="52b643d1564b4e093e786e670aa30582" sha1="ba16a0770f7a71dd49e2879799fd04a4f04f7e60"/>
+	</game>
+	<game name="Digital Monster Card Game - Ver. WonderSwan Color (2002-03-16)(Bandai)[tr en][SWJ-BANC22]">
+		<description>Digital Monster Card Game - Ver. WonderSwan Color (2002-03-16)(Bandai)[tr en][SWJ-BANC22]</description>
+		<rom name="Digital Monster Card Game - Ver. WonderSwan Color (2002-03-16)(Bandai)[tr en][SWJ-BANC22].bin" size="4194304" crc="5d06ec0f" md5="c644a7ca69b241373765941c76b806c2" sha1="bec86af7eb71c81321d4eabac10797c621f58ece"/>
 	</game>
 	<game name="Digital Monster Card Game - Ver. WonderSwan Color Rev 2 (2002)(Bandai)[SWJ-BANC22]">
 		<description>Digital Monster Card Game - Ver. WonderSwan Color Rev 2 (2002)(Bandai)[SWJ-BANC22]</description>
@@ -192,9 +204,17 @@
 		<description>Flash Koibito-kun (2000-12-28)(Kobunsha)[SWJ-KBSC01]</description>
 		<rom name="Flash Koibito-kun (2000-12-28)(Kobunsha)[SWJ-KBSC01].bin" size="2097152" crc="69d8d433" md5="ca1526278a8cf00816b1a88a51916b00" sha1="a3d6717efdb8f243fe86b4c3d869a9734a2e02d3"/>
 	</game>
+	<game name="Flash Koibito-kun (2000-12-28)(Kobunsha)[t][SWJ-KBSC01]">
+		<description>Flash Koibito-kun (2000-12-28)(Kobunsha)[t][SWJ-KBSC01]</description>
+		<rom name="Flash Koibito-kun (2000-12-28)(Kobunsha)[t][SWJ-KBSC01].bin" size="2097152" crc="3b5495da" md5="56254bf981e9049f89223466bfc981ca" sha1="9e362aeae160e324c2595252c5213654edb66e48"/>
+	</game>
 	<game name="From TV Animation One Piece - Chopper no Daibouken (2003-10-16)(Bandai)[SWJ-BANC3B]">
 		<description>From TV Animation One Piece - Chopper no Daibouken (2003-10-16)(Bandai)[SWJ-BANC3B]</description>
 		<rom name="From TV Animation One Piece - Chopper no Daibouken (2003-10-16)(Bandai)[SWJ-BANC3B].bin" size="4194304" crc="8e120b5a" md5="f19436970509e5e97b5fd96752aadb8a" sha1="221f48e97ec2c6d0046213956e1f36e923c0dec2"/>
+	</game>
+	<game name="From TV Animation One Piece - Chopper no Daibouken (2003-10-16)(Bandai)[t][SWJ-BANC3B]">
+		<description>From TV Animation One Piece - Chopper no Daibouken (2003-10-16)(Bandai)[t][SWJ-BANC3B]</description>
+		<rom name="From TV Animation One Piece - Chopper no Daibouken (2003-10-16)(Bandai)[t][SWJ-BANC3B].bin" size="4194304" crc="55fa0dde" md5="09d2f23bbbc7aa7be321149a9bb055a0" sha1="2f32df053738d9ce09b414df87b7beb5ee411239"/>
 	</game>
 	<game name="From TV Animation One Piece - Grand Battle Swan Colosseum (2002-07-12)(Bandai)[SWJ-BANC29]">
 		<description>From TV Animation One Piece - Grand Battle Swan Colosseum (2002-07-12)(Bandai)[SWJ-BANC29]</description>
@@ -203,6 +223,14 @@
 	<game name="From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[SWJ-BANC19]">
 		<description>From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[SWJ-BANC19]</description>
 		<rom name="From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[SWJ-BANC19].bin" size="4194304" crc="427056c4" md5="547501367ccf6262a70d0030e68cc75e" sha1="2410690ad46667c52b63402df9e95fc8a75cee62"/>
+	</game>
+	<game name="From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[h2][SWJ-BANC19]">
+		<description>From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[h2][SWJ-BANC19]</description>
+		<rom name="From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[h2][SWJ-BANC19].bin" size="4194304" crc="b27093e9" md5="7f5fbf651f824b9498ec3a89ffae3c8a" sha1="eb3a38ab27d4f4a9c59d12f4b043891a19b33532"/>
+	</game>
+	<game name="From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[h][SWJ-BANC19]">
+		<description>From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[h][SWJ-BANC19]</description>
+		<rom name="From TV Animation One Piece - Niji no Shima Densetsu (2001-09-13)(Bandai)[h][SWJ-BANC19].bin" size="4194304" crc="5b135cf3" md5="e0e27c0ce7427e8b7b7485fa5264a947" sha1="2a9b4ad9330aee7f91c47fd88b094f171513d9b8"/>
 	</game>
 	<game name="From TV Animation One Piece - Treasure Wars (2002-01-03)(Bandai)[SWJ-BANC1E]">
 		<description>From TV Animation One Piece - Treasure Wars (2002-01-03)(Bandai)[SWJ-BANC1E]</description>
@@ -219,6 +247,10 @@
 	<game name="Front Mission (2002-07-12)(Squaresoft)[SWJ-SQRC10]">
 		<description>Front Mission (2002-07-12)(Squaresoft)[SWJ-SQRC10]</description>
 		<rom name="Front Mission (2002-07-12)(Squaresoft)[SWJ-SQRC10].bin" size="8388608" crc="2f9e2560" md5="9bfcf86bf65c9fdae4a0f88fadafd0d8" sha1="3c752694ab651f9a00ccd39c334a2e3ff78f5cb2"/>
+	</game>
+	<game name="Front Mission (2002-07-12)(Squaresoft)[h][SWJ-SQRC10]">
+		<description>Front Mission (2002-07-12)(Squaresoft)[h][SWJ-SQRC10]</description>
+		<rom name="Front Mission (2002-07-12)(Squaresoft)[h][SWJ-SQRC10].bin" size="8388608" crc="7563e7ae" md5="afda24bfd50cce70200bd0bc4ce27881" sha1="80bd8d84f2fd7e81770a39b64636dd3c31ae6685"/>
 	</game>
 	<game name="Gekitou! Crash Gear Turbo - Gear Champion League (2002-08-10)(Wiz)[SWJ-WIZC01]">
 		<description>Gekitou! Crash Gear Turbo - Gear Champion League (2002-08-10)(Wiz)[SWJ-WIZC01]</description>
@@ -248,9 +280,25 @@
 		<description>Guilty Gear Petit (2001-01-25)(Sammy)[SWJ-SUMC07]</description>
 		<rom name="Guilty Gear Petit (2001-01-25)(Sammy)[SWJ-SUMC07].bin" size="2097152" crc="9750bc2a" md5="be0f50bc4470711a31be0bd33c775ad2" sha1="6d8f8fd330f32374b55cf6b998196a7db2131073"/>
 	</game>
+	<game name="Guilty Gear Petit (2001-01-25)(Sammy)[h][SWJ-SUMC07]">
+		<description>Guilty Gear Petit (2001-01-25)(Sammy)[h][SWJ-SUMC07]</description>
+		<rom name="Guilty Gear Petit (2001-01-25)(Sammy)[h][SWJ-SUMC07].bin" size="2097152" crc="4054b42e" md5="1386cdd72264e414507bcace7829ff9a" sha1="69a37772a08f6044e4d81db47d1317b85f28d95d"/>
+	</game>
+	<game name="Guilty Gear Petit (2001-01-25)(Sammy)[t][SWJ-SUMC07]">
+		<description>Guilty Gear Petit (2001-01-25)(Sammy)[t][SWJ-SUMC07]</description>
+		<rom name="Guilty Gear Petit (2001-01-25)(Sammy)[t][SWJ-SUMC07].bin" size="2097152" crc="47e7f6e3" md5="b7704c43686fd1ca1a77d7939078d2a8" sha1="066fd5410cc31a2a1862a35369215d6e893ed3af"/>
+	</game>
 	<game name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[SWJ-SUMC08]">
 		<description>Guilty Gear Petit 2 (2001-09-27)(Sammy)[SWJ-SUMC08]</description>
 		<rom name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[SWJ-SUMC08].bin" size="4194304" crc="d7a12bd5" md5="1eb91e6b46ab5624c7b707ea7b7abe9d" sha1="f7aeab6724154f7ef6a389f9f18b7100045e1064"/>
+	</game>
+	<game name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[h][SWJ-SUMC08]">
+		<description>Guilty Gear Petit 2 (2001-09-27)(Sammy)[h][SWJ-SUMC08]</description>
+		<rom name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[h][SWJ-SUMC08].bin" size="4194304" crc="0aeab061" md5="9decb838b954ce313d56e883b3008ee3" sha1="910d9b6b2619f64493aa73aa5289c1a2f5909e23"/>
+	</game>
+	<game name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[t][SWJ-SUMC08]">
+		<description>Guilty Gear Petit 2 (2001-09-27)(Sammy)[t][SWJ-SUMC08]</description>
+		<rom name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[t][SWJ-SUMC08].bin" size="4194304" crc="0ef67f00" md5="8113c6ed8af2b0c936fa4f652854d317" sha1="475fc8266d4e2ca795fb4b15a0c6a896f6f51dec"/>
 	</game>
 	<game name="Guilty Gear Petit 2 (2001-09-27)(Sammy)[t +4 Sekret][SWJ-SUMC08]">
 		<description>Guilty Gear Petit 2 (2001-09-27)(Sammy)[t +4 Sekret][SWJ-SUMC08]</description>
@@ -267,6 +315,10 @@
 	<game name="Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (2002-02-14)(Squaresoft)[SWJ-SQRC06]">
 		<description>Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (2002-02-14)(Squaresoft)[SWJ-SQRC06]</description>
 		<rom name="Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (2002-02-14)(Squaresoft)[SWJ-SQRC06].bin" size="4194304" crc="31e09bed" md5="6c1b75de270e7e96df161833a5522b7d" sha1="2e3f221d6965f53b29586d2019ee81dec6d1ac30"/>
+	</game>
+	<game name="Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (2002-02-14)(Squaresoft)[h][SWJ-SQRC06]">
+		<description>Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (2002-02-14)(Squaresoft)[h][SWJ-SQRC06]</description>
+		<rom name="Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (2002-02-14)(Squaresoft)[h][SWJ-SQRC06].bin" size="4194304" crc="10042a5e" md5="d3de0f664dc1cd83bc7e8eb00519d352" sha1="4cd917fb69548d1a70c9a99872f1f5b49a531573"/>
 	</game>
 	<game name="Hataraku Chocobo (2000-09-21)(Squaresoft)[SWJ-SQR004]">
 		<description>Hataraku Chocobo (2000-09-21)(Squaresoft)[SWJ-SQR004]</description>
@@ -300,6 +352,10 @@
 		<description>Inuyasha - Fuuun Emaki (2002-07-27)(Bandai)[SWJ-BANC26]</description>
 		<rom name="Inuyasha - Fuuun Emaki (2002-07-27)(Bandai)[SWJ-BANC26].bin" size="4194304" crc="3ff5791f" md5="71578fb7c59a3a3923d03d1d48b5ffd3" sha1="99d5bdde193685a1d09ea73bb79a54b4da82625d"/>
 	</game>
+	<game name="Inuyasha - Fuuun Emaki (2002-07-27)(Bandai)[h][SWJ-BANC26]">
+		<description>Inuyasha - Fuuun Emaki (2002-07-27)(Bandai)[h][SWJ-BANC26]</description>
+		<rom name="Inuyasha - Fuuun Emaki (2002-07-27)(Bandai)[h][SWJ-BANC26].bin" size="4194304" crc="11da81e6" md5="66f4bfca182be4c29d09dddbd78d6fb8" sha1="0692d77f8b1ca4380d0fb8214ad1d09f1965a32d"/>
+	</game>
 	<game name="Inuyasha - Kagome no Sengoku Nikki (2001-11-02)(Bandai)[SWJ-BANC1B]">
 		<description>Inuyasha - Kagome no Sengoku Nikki (2001-11-02)(Bandai)[SWJ-BANC1B]</description>
 		<rom name="Inuyasha - Kagome no Sengoku Nikki (2001-11-02)(Bandai)[SWJ-BANC1B].bin" size="2097152" crc="0c23d551" md5="f1e53c706af452671467b8f4595258d4" sha1="b4fbea1a2c50d8566685f72820b360af4b54f82f"/>
@@ -311,6 +367,18 @@
 	<game name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)">
 		<description>Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)</description>
 		<rom name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute).bin" size="2097152" crc="aa13e9de" md5="282ff1481a55f7483d8defa4c9c1d81b" sha1="1dc66ac8ac21eb651723428657c9b18cb80d9ee0"/>
+	</game>
+	<game name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[h2][u]">
+		<description>Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[h2][u]</description>
+		<rom name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[h2][u].bin" size="524288" crc="32f3093b" md5="46f40cba75b7463cd4e8033c94159327" sha1="1b1de1cc3ce15ee2a158d213d6be2292572ee981"/>
+	</game>
+	<game name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[h][u]">
+		<description>Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[h][u]</description>
+		<rom name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[h][u].bin" size="524288" crc="77635f20" md5="766d738185fad80ca22eed26bc706801" sha1="c251a5980c944d067b3eed711a8cbb206fc3f5c6"/>
+	</game>
+	<game name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[t][u]">
+		<description>Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[t][u]</description>
+		<rom name="Judgement Silversword - Rebirth Edition (2004-02-05)(Qute)[t][u].bin" size="524288" crc="ff6580ea" md5="ba54e16a3043b0e33c567a6412846e98" sha1="e5f0db41df99e59d4117a4f4574b96d29cc3f47e"/>
 	</game>
 	<game name="Judgement Silversword - Rebirth Edition v.rsc21 (2004)(Qute)">
 		<description>Judgement Silversword - Rebirth Edition v.rsc21 (2004)(Qute)</description>
@@ -368,6 +436,10 @@
 		<description>Makai Toushi Sa-Ga (2002-03-20)(Squaresoft)[SWJ-SQRC08]</description>
 		<rom name="Makai Toushi Sa-Ga (2002-03-20)(Squaresoft)[SWJ-SQRC08].bin" size="4194304" crc="1b6f5f30" md5="957137e7d5249c02fecff063e0c86e87" sha1="6b7a9b810c932974cbda4de7178cf0ea5a90e628"/>
 	</game>
+	<game name="Makai Toushi Sa-Ga (2002-03-20)(Squaresoft)[tr en][SWJ-SQRC08]">
+		<description>Makai Toushi Sa-Ga (2002-03-20)(Squaresoft)[tr en][SWJ-SQRC08]</description>
+		<rom name="Makai Toushi Sa-Ga (2002-03-20)(Squaresoft)[tr en][SWJ-SQRC08].bin" size="4194304" crc="a4308378" md5="f1d130f871a4440be635322c73662049" sha1="f800e5305292a81be738f15426269329a8d139b1"/>
+	</game>
 	<game name="Meitantei Conan - Yuugure no Koujo (2001-04-05)(Bandai)[SWJ-BANC0E]">
 		<description>Meitantei Conan - Yuugure no Koujo (2001-04-05)(Bandai)[SWJ-BANC0E]</description>
 		<rom name="Meitantei Conan - Yuugure no Koujo (2001-04-05)(Bandai)[SWJ-BANC0E].bin" size="4194304" crc="9f6e3f8d" md5="6ec4fe6789acab4347355fcb53f10146" sha1="36d8bc2ce7920d940943358d48f056f81055ab34"/>
@@ -387,6 +459,10 @@
 	<game name="Mr. Driller (2001-04-05)(Namco)[SWJ-NMCC01]">
 		<description>Mr. Driller (2001-04-05)(Namco)[SWJ-NMCC01]</description>
 		<rom name="Mr. Driller (2001-04-05)(Namco)[SWJ-NMCC01].bin" size="2097152" crc="5555d95c" md5="9d600bfe28196609fbe4fb5b89486cbc" sha1="209232f1e91c05140529d466c0ef6b7ad3386de1"/>
+	</game>
+	<game name="Mr. Driller (2001-04-05)(Namco)[t][SWJ-NMCC01]">
+		<description>Mr. Driller (2001-04-05)(Namco)[t][SWJ-NMCC01]</description>
+		<rom name="Mr. Driller (2001-04-05)(Namco)[t][SWJ-NMCC01].bin" size="2097152" crc="237f9d72" md5="6a0a5514e727b3f6a1f171236f2d27f7" sha1="8f9344da804856abbaa7ae9ac928014fc909c9df"/>
 	</game>
 	<game name="Mr. Driller (2001-04-05)(Namco)[tr en PmHacks][v0.70-20031209]">
 		<description>Mr. Driller (2001-04-05)(Namco)[tr en PmHacks][v0.70-20031209]</description>
@@ -444,6 +520,18 @@
 		<description>Rockman EXE WS (2003-02-08)(Bandai)[SWJ-BANC35]</description>
 		<rom name="Rockman EXE WS (2003-02-08)(Bandai)[SWJ-BANC35].bin" size="4194304" crc="658c4b98" md5="a66390da2c2defcf092eb107edaf4fa0" sha1="b4a3ff3b72639f27d1a6f449b0335074aeb9e603"/>
 	</game>
+	<game name="Rockman EXE WS (2003-02-08)(Bandai)[tr en][a][SWJ-BANC35]">
+		<description>Rockman EXE WS (2003-02-08)(Bandai)[tr en][a][SWJ-BANC35]</description>
+		<rom name="Rockman EXE WS (2003-02-08)(Bandai)[tr en][a][SWJ-BANC35].bin" size="4194304" crc="4a962513" md5="f25c2cd401f35b15c98e657171660daa" sha1="fde6efb68081f2e11ebc6750953e5cf545ccf9f8"/>
+	</game>
+	<game name="Rockman EXE WS (2003-02-08)(Bandai)[tr en][SWJ-BANC35]">
+		<description>Rockman EXE WS (2003-02-08)(Bandai)[tr en][SWJ-BANC35]</description>
+		<rom name="Rockman EXE WS (2003-02-08)(Bandai)[tr en][SWJ-BANC35].bin" size="4194304" crc="8af2f076" md5="176dbbae7a9f8c8efcc7d89188883605" sha1="093bf3b13f85a9168357f11160ed097a8b51384e"/>
+	</game>
+	<game name="Rockman EXE WS (2003-02-08)(Bandai)[tr pt][SWJ-BANC35]">
+		<description>Rockman EXE WS (2003-02-08)(Bandai)[tr pt][SWJ-BANC35]</description>
+		<rom name="Rockman EXE WS (2003-02-08)(Bandai)[tr pt][SWJ-BANC35].bin" size="4194304" crc="22f779ce" md5="7d096232f88a5141ca9f4bcf64e5f252" sha1="a7789133d9b4ad9c4b965777f91e07eb10fcbfa7"/>
+	</game>
 	<game name="Romancing Sa-Ga (2001-12-20)(Squaresoft)[SWJ-SQRC08]">
 		<description>Romancing Sa-Ga (2001-12-20)(Squaresoft)[SWJ-SQRC08]</description>
 		<rom name="Romancing Sa-Ga (2001-12-20)(Squaresoft)[SWJ-SQRC08].bin" size="4194304" crc="9c98d97d" md5="a4862ef07e13231ae429a98ef667a74a" sha1="06fcc9aad3ae478db6eed27621af4f56a6488a67"/>
@@ -452,6 +540,10 @@
 		<description>RUN=DIM - Return to Earth (2002-02-07)(Digital Dream)[SWJ-DDJC01]</description>
 		<rom name="RUN=DIM - Return to Earth (2002-02-07)(Digital Dream)[SWJ-DDJC01].bin" size="2097152" crc="15c4552e" md5="5898c0dfee65ff9b47ce6ec1be2014d5" sha1="3a41a3b8fc126da07e2a82c21056a45c15efbc98"/>
 	</game>
+	<game name="RUN=DIM - Return to Earth (2002-02-07)(Digital Dream)[h][SWJ-DDJC01]">
+		<description>RUN=DIM - Return to Earth (2002-02-07)(Digital Dream)[h][SWJ-DDJC01]</description>
+		<rom name="RUN=DIM - Return to Earth (2002-02-07)(Digital Dream)[h][SWJ-DDJC01].bin" size="2097152" crc="56150d81" md5="437a17b7d2ceeea61880ed7c72da94c4" sha1="e0d59fc9cd5d3a860ec942890dbfb253ec451ec7"/>
+	</game>
 	<game name="Saint Seiya - Ougon Densetsu Hen - Perfect Edition (2003-07-31)(Bandai)[SWJ-BANC3D]">
 		<description>Saint Seiya - Ougon Densetsu Hen - Perfect Edition (2003-07-31)(Bandai)[SWJ-BANC3D]</description>
 		<rom name="Saint Seiya - Ougon Densetsu Hen - Perfect Edition (2003-07-31)(Bandai)[SWJ-BANC3D].bin" size="2097152" crc="6e8a792d" md5="fd7f1859cb0ee0b63ccb7f36e9a3351d" sha1="8542649963efe0976015759382c180b7c056be9a"/>
@@ -459,6 +551,10 @@
 	<game name="SD Gundam - Operation U.C. (2002-02-16)(Bandai)[SWJ-BANC21]">
 		<description>SD Gundam - Operation U.C. (2002-02-16)(Bandai)[SWJ-BANC21]</description>
 		<rom name="SD Gundam - Operation U.C. (2002-02-16)(Bandai)[SWJ-BANC21].bin" size="2097152" crc="f0acda5c" md5="12c3cca0ef52343509dda1c1fb4c1b65" sha1="152c4d63b1b17f2c717a43efc75d718b614f9ddc"/>
+	</game>
+	<game name="SD Gundam - Operation U.C. (2002-02-16)(Bandai)[h][SWJ-BANC21]">
+		<description>SD Gundam - Operation U.C. (2002-02-16)(Bandai)[h][SWJ-BANC21]</description>
+		<rom name="SD Gundam - Operation U.C. (2002-02-16)(Bandai)[h][SWJ-BANC21].bin" size="2097152" crc="6dd68086" md5="e39bf1555e61de82723e38d6f5833aac" sha1="dac18364cd38ea6dee365504859f76df03568668"/>
 	</game>
 	<game name="SD Gundam Eiyuuden - Kishi Densetsu (2001-03-15)(Bandai)[SWJ-BANC0A]">
 		<description>SD Gundam Eiyuuden - Kishi Densetsu (2001-03-15)(Bandai)[SWJ-BANC0A]</description>
@@ -512,6 +608,10 @@
 		<description>Super Robot Taisen Compact for WonderSwan Color (2001-12-13)(Banpresto)[SWJ-BPRC08]</description>
 		<rom name="Super Robot Taisen Compact for WonderSwan Color (2001-12-13)(Banpresto)[SWJ-BPRC08].bin" size="4194304" crc="16e0d929" md5="59c20a67961e60791360d8d29d937ef0" sha1="bf212cecbbc51ee32ee2655a072f55e7bf70b9ec"/>
 	</game>
+	<game name="Super Robot Taisen Compact for WonderSwan Color (2001-12-13)(Banpresto)[h][SWJ-BPRC08]">
+		<description>Super Robot Taisen Compact for WonderSwan Color (2001-12-13)(Banpresto)[h][SWJ-BPRC08]</description>
+		<rom name="Super Robot Taisen Compact for WonderSwan Color (2001-12-13)(Banpresto)[h][SWJ-BPRC08].bin" size="4194304" crc="76adebd2" md5="3ff4ace2f8064aa2c2c6bbf0824ee188" sha1="3d44dd48e014fb02d34bf02edd76a397698216ed"/>
+	</game>
 	<game name="Swan Driving (2015)(Mihai, Sebastian)">
 		<description>Swan Driving (2015)(Mihai, Sebastian)</description>
 		<rom name="Swan Driving (2015)(Mihai, Sebastian).bin" size="65536" crc="491d7faa" md5="bf058d4cb0bffaacfb016c0a0f2377ca" sha1="f0f08b95c7de6aa0616cfcf2cf266e85e25a3783"/>
@@ -560,6 +660,22 @@
 		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[SWJ-BANC0C]</description>
 		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[SWJ-BANC0C].bin" size="2097152" crc="15e55706" md5="f0ba64cd7b88eab7add0f7af02080072" sha1="c1ad383d337dba8a63295cfb8c7ca8470c893c67"/>
 	</game>
+	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[tr en][a][SWJ-BANC0C]">
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[tr en][a][SWJ-BANC0C]</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[tr en][a][SWJ-BANC0C].bin" size="2097152" crc="086843c8" md5="26f0e833ea8d9b2434ee0e5a26b0f3b9" sha1="734aa076e328f766c2488c934f6b4cfda184aae5"/>
+	</game>
+	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[tr en][SWJ-BANC0C]">
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[tr en][SWJ-BANC0C]</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (2001-03-01)(Bandai)[tr en][SWJ-BANC0C].bin" size="2097152" crc="c0c00ff9" md5="22da61938b31b965aa89778ab96d8a81" sha1="3cf8064776f9a4a4d570ba7647405fc0254b87fc"/>
+	</game>
+	<game name="wondercell v0.1 (2023-06-20)(Kennedy, Joe)">
+		<description>wondercell v0.1 (2023-06-20)(Kennedy, Joe)</description>
+		<rom name="wondercell v0.1 (2023-06-20)(Kennedy, Joe).bin" size="131072" crc="a1768249" md5="c44cad82cd3345221d2b11752eb1fc4f" sha1="524d00e09fa087997fb5bc1cf3d241f52738701c"/>
+	</game>
+	<game name="wondercell v0.2 (2023-07-16)(Kennedy, Joe)">
+		<description>wondercell v0.2 (2023-07-16)(Kennedy, Joe)</description>
+		<rom name="wondercell v0.2 (2023-07-16)(Kennedy, Joe).bin" size="131072" crc="49b527e4" md5="046afffc93bd5aea8c0010aef2a6f718" sha1="877a3aaf60c9704c2e7234e1f6f6b8592c2b16ed"/>
+	</game>
 	<game name="Wondersnake (2001)(Kojote - Slanina, Tomasz)(PD)(beta)">
 		<description>Wondersnake (2001)(Kojote - Slanina, Tomasz)(PD)(beta)</description>
 		<rom name="Wondersnake (2001)(Kojote - Slanina, Tomasz)(PD)(beta).bin" size="524288" crc="e529d0c1" md5="0b17ca57fa138e457fdee25732025d71" sha1="f8e19b686bfc17c97d2a776ef377ef370db000a4"/>
@@ -579,5 +695,9 @@
 	<game name="XI -sai- Little (2001-12-20)(Bandai)[SWJ-BANC1F]">
 		<description>XI -sai- Little (2001-12-20)(Bandai)[SWJ-BANC1F]</description>
 		<rom name="XI -sai- Little (2001-12-20)(Bandai)[SWJ-BANC1F].bin" size="2097152" crc="25e2ba75" md5="3c5e5826998dcf3ee18b9396c860df6f" sha1="97c29917a78918a6905fd61a1466971cfd2a33c6"/>
+	</game>
+	<game name="XI -sai- Little (2001-12-20)(Bandai)[h][SWJ-BANC1F]">
+		<description>XI -sai- Little (2001-12-20)(Bandai)[h][SWJ-BANC1F]</description>
+		<rom name="XI -sai- Little (2001-12-20)(Bandai)[h][SWJ-BANC1F].bin" size="2097152" crc="3fdaf554" md5="3273bace154a59c994d7eda95427ea1a" sha1="2fe4833a0499d3d30699495a02db5bbe626ab709"/>
 	</game>
 </datafile>

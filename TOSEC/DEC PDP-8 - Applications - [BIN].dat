@@ -4,14 +4,34 @@
 <datafile>
 	<header>
 		<name>DEC PDP-8 - Applications - [BIN]</name>
-		<description>DEC PDP-8 - Applications - [BIN] (TOSEC-v2014-01-14)</description>
+		<description>DEC PDP-8 - Applications - [BIN] (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2014-01-14</version>
+		<version>2023-08-29</version>
 		<author>TKaos</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="1-4K MS8-A MOS Memory Test (1977-08-04)(DEC)[maindec-08-djmsa-a-pb]">
+		<description>1-4K MS8-A MOS Memory Test (1977-08-04)(DEC)[maindec-08-djmsa-a-pb]</description>
+		<rom name="1-4K MS8-A MOS Memory Test (1977-08-04)(DEC)[maindec-08-djmsa-a-pb].bin" size="1942" crc="6ea68ace" md5="d1eea2be37835f2f7b48e0ab803b7aeb" sha1="bdac10832378b14c97057f84768f23f3f7988d83"/>
+	</game>
+	<game name="2K to 32K PDP-8A Processor Exerciser (1978-01-13)(DEC)[maindec-08-djexb-a-pb]">
+		<description>2K to 32K PDP-8A Processor Exerciser (1978-01-13)(DEC)[maindec-08-djexb-a-pb]</description>
+		<rom name="2K to 32K PDP-8A Processor Exerciser (1978-01-13)(DEC)[maindec-08-djexb-a-pb].bin" size="4692" crc="7aeb9a0c" md5="f678b01a2f0a9c9d434bcc20d2730370" sha1="097449dc93e114ce8d21e62aa23ff7b2cf50768c"/>
+	</game>
+	<game name="CR8E-CR8F Card Reader Test (1977-01-31)(DEC)[maindec-08-dhcra-a-pb]">
+		<description>CR8E-CR8F Card Reader Test (1977-01-31)(DEC)[maindec-08-dhcra-a-pb]</description>
+		<rom name="CR8E-CR8F Card Reader Test (1977-01-31)(DEC)[maindec-08-dhcra-a-pb].bin" size="3466" crc="304ab475" md5="653ccaf196a3b82036715c57d7e5f1b1" sha1="aadf105ea9a3ef5cf243f6ddfaf9931284b1bf8f"/>
+	</game>
+	<game name="DECwriter -LA30- Exerciser Test (1974-01-02)(DEC)[maindec-08-dhlaa-b-pb]">
+		<description>DECwriter -LA30- Exerciser Test (1974-01-02)(DEC)[maindec-08-dhlaa-b-pb]</description>
+		<rom name="DECwriter -LA30- Exerciser Test (1974-01-02)(DEC)[maindec-08-dhlaa-b-pb].bin" size="5839" crc="f2461b22" md5="75870879b6a02e28723f355f413567b6" sha1="e5a3fdfa1f7c0ef9d7e3a781c73f207e5adaf6ad"/>
+	</game>
+	<game name="DKC8-AA Option Test #1 (1976-11-10)(DEC)[maindec-08-djdka-c-pb1]">
+		<description>DKC8-AA Option Test #1 (1976-11-10)(DEC)[maindec-08-djdka-c-pb1]</description>
+		<rom name="DKC8-AA Option Test #1 (1976-11-10)(DEC)[maindec-08-djdka-c-pb1].bin" size="5448" crc="710bdf48" md5="ea744bee6b2fe2376c721a2163f20791" sha1="b65f5dfdf5b7e3546b06ad30ee89390587836961"/>
+	</game>
 	<game name="Focal 69 (1969)(DEC)(US)">
 		<description>Focal 69 (1969)(DEC)(US)</description>
 		<rom name="Focal 69 (1969)(DEC)(US).bin" size="7937" crc="eb9ed98c" md5="3d6dfa1e4f68c07a0eb31e7fd3473c24" sha1="ef3b07a086ac82c819b7b9566f56421b14fa9d00"/>
@@ -19,5 +39,41 @@
 	<game name="Focal 71 (1971)(DEC)(US)">
 		<description>Focal 71 (1971)(DEC)(US)</description>
 		<rom name="Focal 71 (1971)(DEC)(US).bin" size="8255" crc="bd0dd935" md5="222c85a0cf7d574584b727eab7481698" sha1="74729485add40b2f40dcaf0b9fa01cc2d33dd35f"/>
+	</game>
+	<game name="Highspeed Reader-Punch Tests (1977-06-03)(DEC)[maindec-08-dhpca-a-pb]">
+		<description>Highspeed Reader-Punch Tests (1977-06-03)(DEC)[maindec-08-dhpca-a-pb]</description>
+		<rom name="Highspeed Reader-Punch Tests (1977-06-03)(DEC)[maindec-08-dhpca-a-pb].bin" size="3859" crc="d126e2c0" md5="619405596bb0445e1f3b99bc03bc60d2" sha1="acd139b2396be77db5db78ff2c4f30dd537a2e26"/>
+	</game>
+	<game name="KL8-A Multiple Serial Line Unit Diagnostic (1977-05-20)(DEC)[maindec-08-djkla-c-pb]">
+		<description>KL8-A Multiple Serial Line Unit Diagnostic (1977-05-20)(DEC)[maindec-08-djkla-c-pb]</description>
+		<rom name="KL8-A Multiple Serial Line Unit Diagnostic (1977-05-20)(DEC)[maindec-08-djkla-c-pb].bin" size="8153" crc="599b5643" md5="2fca24d51c844056273e87091511b04d" sha1="dcd740afbb8c93b22d2d36152353213dcdbb34a0"/>
+	</game>
+	<game name="LA180 Printer Diagnostic (1977-05-31)(DEC)[maindec-08-dilac-b-pb]">
+		<description>LA180 Printer Diagnostic (1977-05-31)(DEC)[maindec-08-dilac-b-pb]</description>
+		<rom name="LA180 Printer Diagnostic (1977-05-31)(DEC)[maindec-08-dilac-b-pb].bin" size="6145" crc="86b9dfb2" md5="92dec9ad2c8efb2a182bb4a6e8deb6de" sha1="091bab38bb791e48c1a9faf29f119475df3d5317"/>
+	</game>
+	<game name="LA36 Terminal Diagnostic (1977-04-22)(DEC)[maindec-08-dilab-d-pb]">
+		<description>LA36 Terminal Diagnostic (1977-04-22)(DEC)[maindec-08-dilab-d-pb]</description>
+		<rom name="LA36 Terminal Diagnostic (1977-04-22)(DEC)[maindec-08-dilab-d-pb].bin" size="7885" crc="21851864" md5="5cd571ffa4509e9d04895b6991bb1216" sha1="279e48d3bcec5b6b702721aa6e05b9c1fac25c89"/>
+	</game>
+	<game name="PDP-8-A CPU Test (1977-06-24)(DEC)[maindec-08-djkka-c-pb1]">
+		<description>PDP-8-A CPU Test (1977-06-24)(DEC)[maindec-08-djkka-c-pb1]</description>
+		<rom name="PDP-8-A CPU Test (1977-06-24)(DEC)[maindec-08-djkka-c-pb1].bin" size="4191" crc="91a9b4a3" md5="7cc9be625733dd6e4a2bd2e3e2128e8e" sha1="5bedb950bbad7d4a0571901ce7dfa851caeea805"/>
+	</game>
+	<game name="PDP-8E Extended Memory Address Test -EA8E- (1978-01-09)(DEC)[maindec-08-dhkmc-b-pb]">
+		<description>PDP-8E Extended Memory Address Test -EA8E- (1978-01-09)(DEC)[maindec-08-dhkmc-b-pb]</description>
+		<rom name="PDP-8E Extended Memory Address Test -EA8E- (1978-01-09)(DEC)[maindec-08-dhkmc-b-pb].bin" size="5879" crc="2e6cadbb" md5="8a6995a0b007a47b6976559d3646e96a" sha1="80a3b8b0383d423d25af6469c63913acc6c2b539"/>
+	</game>
+	<game name="PDP-8E Extended Memory Data &amp; Checkerboard Test (1978-01-09)(DEC)[maindec-08-dhkma-c-pb]">
+		<description>PDP-8E Extended Memory Data &amp; Checkerboard Test (1978-01-09)(DEC)[maindec-08-dhkma-c-pb]</description>
+		<rom name="PDP-8E Extended Memory Data &amp; Checkerboard Test (1978-01-09)(DEC)[maindec-08-dhkma-c-pb].bin" size="7369" crc="27e6b3fd" md5="7c7708ddbc6ef9b2ad1d9a150dbc1d18" sha1="097aef0e6496c312e9e6f6157de768c8e772a60e"/>
+	</game>
+	<game name="VT50-VT52 Video Terminal Acceptance Test (1977-08-22)(DEC)[maindec-08-dhvtc-d-pb]">
+		<description>VT50-VT52 Video Terminal Acceptance Test (1977-08-22)(DEC)[maindec-08-dhvtc-d-pb]</description>
+		<rom name="VT50-VT52 Video Terminal Acceptance Test (1977-08-22)(DEC)[maindec-08-dhvtc-d-pb].bin" size="7482" crc="3a5a0bab" md5="49c2d8adb7f9432be2a50c42ca6c3a07" sha1="ca6ba336d3719519666a609a0c14995cfd064ec9"/>
+	</game>
+	<game name="VT55 Video Terminal Acceptance Test (1977-08-24)(DEC)[maindec-08-divtc-a-pb]">
+		<description>VT55 Video Terminal Acceptance Test (1977-08-24)(DEC)[maindec-08-divtc-a-pb]</description>
+		<rom name="VT55 Video Terminal Acceptance Test (1977-08-24)(DEC)[maindec-08-divtc-a-pb].bin" size="3893" crc="cc067f2a" md5="eace445bb2d22c58550c3e645ca8e896" sha1="6ad7308fa9f1d1884fe44aa548fe91ba586d234c"/>
 	</game>
 </datafile>

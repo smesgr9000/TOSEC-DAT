@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Simulation - [TAP]</name>
-		<description>Commodore C64 - Games - Simulation - [TAP] (TOSEC-v2023-04-29)</description>
+		<description>Commodore C64 - Games - Simulation - [TAP] (TOSEC-v2024-03-15)</description>
 		<category>TOSEC</category>
-		<version>2023-04-29</version>
+		<version>2024-03-15</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -32,18 +32,6 @@
 		<description>ACE - Air Combat Emulator (1985)(Cascade)[a4]</description>
 		<rom name="ACE - Air Combat Emulator (1985)(Cascade)[a4].tap" size="637548" crc="523af1c1" md5="50a431a345442ce3fc0b8a10b8a2204c" sha1="63f33e8650587a51d533e1b439dfd3e537d844f2"/>
 	</game>
-	<game name="ACE 2 (1987)(Cascade)">
-		<description>ACE 2 (1987)(Cascade)</description>
-		<rom name="ACE 2 (1987)(Cascade).tap" size="629206" crc="4e11fc1a" md5="900cbda1f1f79310e5cd14c53302386e" sha1="8e083105e9200d7de682d39af1e02ddf2bcedf1d"/>
-	</game>
-	<game name="ACE 2 (1987)(Cascade)[a]">
-		<description>ACE 2 (1987)(Cascade)[a]</description>
-		<rom name="ACE 2 (1987)(Cascade)[a].tap" size="629174" crc="6dfc7cfa" md5="416f93633a3fe0d47f03393d71be1688" sha1="2ca5fe13ffef4659662c81c11f7bae395fa3a4e1"/>
-	</game>
-	<game name="ACE 2 (1987)(Cascade)[a2]">
-		<description>ACE 2 (1987)(Cascade)[a2]</description>
-		<rom name="ACE 2 (1987)(Cascade)[a2].tap" size="629174" crc="9443c9c3" md5="393bb7799326ac237e3c79c3e7240832" sha1="988e99d02d400ed9904c6334b34f33bccf4cf212"/>
-	</game>
 	<game name="ACE 2088 (1988)(Cascade)">
 		<description>ACE 2088 (1988)(Cascade)</description>
 		<rom name="ACE 2088 (1988)(Cascade).tap" size="470658" crc="4f87d426" md5="78b13c6d7e0c6c9ff1ba9b57591172ab" sha1="48255443c60eb5b76644c1d78be7bd2d63eadce9"/>
@@ -63,6 +51,18 @@
 	<game name="ACE 2088 (1988)(Cascade)[a4]">
 		<description>ACE 2088 (1988)(Cascade)[a4]</description>
 		<rom name="ACE 2088 (1988)(Cascade)[a4].tap" size="599008" crc="54b66970" md5="b8ded850a688f3451c11ca7dac92c3cd" sha1="62c3718b8b05d2eacde2f2294e63f19980ad8ebc"/>
+	</game>
+	<game name="ACE II (1987)(Cascade)">
+		<description>ACE II (1987)(Cascade)</description>
+		<rom name="ACE II (1987)(Cascade).tap" size="629206" crc="4e11fc1a" md5="900cbda1f1f79310e5cd14c53302386e" sha1="8e083105e9200d7de682d39af1e02ddf2bcedf1d"/>
+	</game>
+	<game name="ACE II (1987)(Cascade)[a]">
+		<description>ACE II (1987)(Cascade)[a]</description>
+		<rom name="ACE II (1987)(Cascade)[a].tap" size="629174" crc="6dfc7cfa" md5="416f93633a3fe0d47f03393d71be1688" sha1="2ca5fe13ffef4659662c81c11f7bae395fa3a4e1"/>
+	</game>
+	<game name="ACE II (1987)(Cascade)[a2]">
+		<description>ACE II (1987)(Cascade)[a2]</description>
+		<rom name="ACE II (1987)(Cascade)[a2].tap" size="629174" crc="9443c9c3" md5="393bb7799326ac237e3c79c3e7240832" sha1="988e99d02d400ed9904c6334b34f33bccf4cf212"/>
 	</game>
 	<game name="Ace of Aces (1986)(Accolade)">
 		<description>Ace of Aces (1986)(Accolade)</description>
@@ -360,6 +360,10 @@
 		<description>Fighter Bomber (1989)(Activision)(Side B)[a2]</description>
 		<rom name="Fighter Bomber (1989)(Activision)(Side B)[a2].tap" size="1506668" crc="d824dea2" md5="dda23cc808417122c4db5d6b8ca339d5" sha1="8b54e70491a9cd9242076926d5f0092b3817331a"/>
 	</game>
+	<game name="Fighter Pilot (1984)(Aackosoft)(nl)">
+		<description>Fighter Pilot (1984)(Aackosoft)(nl)</description>
+		<rom name="Fighter Pilot (1984)(Aackosoft)(nl).tap" size="526436" crc="d88c857e" md5="dc39fe3f4cc6c683be948d489720e4f7" sha1="084eb4baeda5776a3c6dd64609cfcb7fc2954489"/>
+	</game>
 	<game name="Fighter Pilot (1984)(Digital Integration)">
 		<description>Fighter Pilot (1984)(Digital Integration)</description>
 		<rom name="Fighter Pilot (1984)(Digital Integration).tap" size="521293" crc="da80f57e" md5="660c637c85f84284cc2cd66165dae2f9" sha1="71e81f4658e73a2540482057125ee2dbc4136ea5"/>
@@ -427,6 +431,10 @@
 	<game name="Flight Path 737 (1984)(Anirog)[a3]">
 		<description>Flight Path 737 (1984)(Anirog)[a3]</description>
 		<rom name="Flight Path 737 (1984)(Anirog)[a3].tap" size="625264" crc="eeb6557e" md5="16553520733fc3ae26a2774d9a6bdea1" sha1="ce94a9a45a05e2d1e504cfaa49df8b8f0385d88e"/>
+	</game>
+	<game name="Flight Path 737 (1984)(Anirog)[a4]">
+		<description>Flight Path 737 (1984)(Anirog)[a4]</description>
+		<rom name="Flight Path 737 (1984)(Anirog)[a4].tap" size="610450" crc="97f34bcf" md5="79660c76064e5b920464c7be4d1057f7" sha1="b8888c5b9855e8492d39f3ecc23eabf357a83a98"/>
 	</game>
 	<game name="G-Loc R360 (1992)(Sega - US Gold)[Part 1 - Picture]">
 		<description>G-Loc R360 (1992)(Sega - US Gold)[Part 1 - Picture]</description>
@@ -808,6 +816,10 @@
 		<description>Silent Service (1985)(MicroProse)(Side A)[a2]</description>
 		<rom name="Silent Service (1985)(MicroProse)(Side A)[a2].tap" size="647598" crc="d27f709c" md5="9ee5585e23c8945c5556bcb454fa1569" sha1="e425ebcfb04697ff9cf6e256856bdc39227ffa1c"/>
 	</game>
+	<game name="Silent Service (1985)(MicroProse)(Side A)[a3]">
+		<description>Silent Service (1985)(MicroProse)(Side A)[a3]</description>
+		<rom name="Silent Service (1985)(MicroProse)(Side A)[a3].tap" size="647598" crc="e7a3238f" md5="8e0bc9c55754df822b21a191a3d2099d" sha1="8334cd40fd9428cbebf32ee88a4ef5a89fa65371"/>
+	</game>
 	<game name="Silent Service (1985)(MicroProse)(Side A)[b]">
 		<description>Silent Service (1985)(MicroProse)(Side A)[b]</description>
 		<rom name="Silent Service (1985)(MicroProse)(Side A)[b].tap" size="654963" crc="a6dc46e7" md5="cb187db0b9fcd4dcec8c130d29c4a3f4" sha1="6d15b368893fd82d03651d312e880a5ad4d287fd"/>
@@ -819,6 +831,10 @@
 	<game name="Silent Service (1985)(MicroProse)(Side B)[a]">
 		<description>Silent Service (1985)(MicroProse)(Side B)[a]</description>
 		<rom name="Silent Service (1985)(MicroProse)(Side B)[a].tap" size="125720" crc="98743ed4" md5="70b1f75d0fac97b0f345e6cfb5cb6335" sha1="7e483151cb8b94b80dc8fcd88598568553914e73"/>
+	</game>
+	<game name="Silent Service (1985)(MicroProse)(Side B)[a2]">
+		<description>Silent Service (1985)(MicroProse)(Side B)[a2]</description>
+		<rom name="Silent Service (1985)(MicroProse)(Side B)[a2].tap" size="125718" crc="2f2afb60" md5="645fbe2ef417c728efe822ab2d0b9db5" sha1="bbdff52ab3913a51ddd7ca4f46320d2af095ff4c"/>
 	</game>
 	<game name="Silent Service (1985)(US Gold)">
 		<description>Silent Service (1985)(US Gold)</description>
@@ -944,6 +960,14 @@
 		<description>Space Shuttle - A Journey Into Space (1984)(Activision)[a2]</description>
 		<rom name="Space Shuttle - A Journey Into Space (1984)(Activision)[a2].tap" size="955504" crc="563aed15" md5="6bdb52e106a147c6f1ad01170330a9df" sha1="92cd659a596447931950278e3b6e4781ab573233"/>
 	</game>
+	<game name="Spitfire 40 - Fast (1985)(Mirrorsoft)">
+		<description>Spitfire 40 - Fast (1985)(Mirrorsoft)</description>
+		<rom name="Spitfire 40 - Fast (1985)(Mirrorsoft).tap" size="523743" crc="d91566bc" md5="2bb841f6c94852bb930164ce39f3a38b" sha1="8f45f266eb1668a3e27579d75433dbe43eeee381"/>
+	</game>
+	<game name="Spitfire 40 - Slow (1985)(Mirrorsoft)">
+		<description>Spitfire 40 - Slow (1985)(Mirrorsoft)</description>
+		<rom name="Spitfire 40 - Slow (1985)(Mirrorsoft).tap" size="2739392" crc="598e8de4" md5="e8271da40483e3c9a2403f5c4c66f8fa" sha1="8c7845dafa83045d006fb71ebb1248668c5b22dc"/>
+	</game>
 	<game name="Spitfire &apos;40 (1985)(Mirrorsoft)">
 		<description>Spitfire &apos;40 (1985)(Mirrorsoft)</description>
 		<rom name="Spitfire &apos;40 (1985)(Mirrorsoft).tap" size="329800" crc="53869f12" md5="03b0cfd08af1c445a09bba6fa3a2ae9c" sha1="505eb8f29acc0874ce7f3c8bd41f9c599babe276"/>
@@ -1007,6 +1031,14 @@
 	<game name="Super Huey II (1986)(Cosmi)">
 		<description>Super Huey II (1986)(Cosmi)</description>
 		<rom name="Super Huey II (1986)(Cosmi).tap" size="1314537" crc="aeeac776" md5="33d31a1aaae57ba7f7a0d72f5b262119" sha1="d16ea853d80c235e1dfdeb1722a7c53caea7de3c"/>
+	</game>
+	<game name="Super Huey II (1986)(Cosmi)[a]">
+		<description>Super Huey II (1986)(Cosmi)[a]</description>
+		<rom name="Super Huey II (1986)(Cosmi)[a].tap" size="1314203" crc="88abfc8c" md5="b156d537ddbd5823fe857393d27b1b87" sha1="ecc9dc274b287511cb898c723e28be6b671fa673"/>
+	</game>
+	<game name="Super Huey II (1986)(Cosmi)[a2]">
+		<description>Super Huey II (1986)(Cosmi)[a2]</description>
+		<rom name="Super Huey II (1986)(Cosmi)[a2].tap" size="1314434" crc="0d024939" md5="9b8bc0fc2a6f1b01dcae2b99e4d21952" sha1="18b70fa6b63d410ee55738eb1a51a7300a59329b"/>
 	</game>
 	<game name="Tomahawk (1986)(Digital Integration)">
 		<description>Tomahawk (1986)(Digital Integration)</description>

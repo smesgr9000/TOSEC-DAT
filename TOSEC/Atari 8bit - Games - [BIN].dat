@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Atari 8bit - Games - [BIN]</name>
-		<description>Atari 8bit - Games - [BIN] (TOSEC-v2022-06-12)</description>
+		<description>Atari 8bit - Games - [BIN] (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2022-06-12</version>
+		<version>2023-08-29</version>
 		<author>TKaos - gRzEnIu - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -736,6 +736,10 @@
 		<description>Lode Runner (1987)(Atari)(US)</description>
 		<rom name="Lode Runner (1987)(Atari)(US).bin" size="131088" crc="544dd235" md5="eb01f811aebf328f71b322fb62186ff6" sha1="79d61ceaf6f93f478c2d3083a9db001859f2b816"/>
 	</game>
+	<game name="Lost in Space (2016)(Mr. Atari)(XEGS)">
+		<description>Lost in Space (2016)(Mr. Atari)(XEGS)</description>
+		<rom name="Lost in Space (2016)(Mr. Atari)(XEGS).bin" size="32768" crc="fc3ac830" md5="ddf3f31bac04d25c47f4c77664d04935" sha1="cdaf68bf681243603a8dbb214e62fde8ff3d6552"/>
+	</game>
 	<game name="M-A-S-H (1982)(Romox)(US)">
 		<description>M-A-S-H (1982)(Romox)(US)</description>
 		<rom name="M-A-S-H (1982)(Romox)(US).bin" size="8192" crc="fa041093" md5="8fd0f02a64de6a0001adef63d6809c78" sha1="4280c1fa77fc30b3b353100827e1374c117fd4c3"/>
@@ -904,9 +908,17 @@
 		<description>Popeye (1983)(Parker Brothers)(EU)[!]</description>
 		<rom name="Popeye (1983)(Parker Brothers)(EU)[!].bin" size="16384" crc="a35d5e6a" md5="b6257c0cb22c7941dc9414e17262e20e" sha1="5dcef8b50bc32b305846867ff9039b65841490c0"/>
 	</game>
+	<game name="Popeye (1983-08-29)(Parker Brothers)(US)(proto)">
+		<description>Popeye (1983-08-29)(Parker Brothers)(US)(proto)</description>
+		<rom name="Popeye (1983-08-29)(Parker Brothers)(US)(proto).bin" size="16384" crc="34bcdb96" md5="8bf7924e255fa6ad889eaaa86aa839ee" sha1="a2183d6a89d12c7b6b9fbacc4af1fa61370079e6"/>
+	</game>
 	<game name="Popeye (1983)(Parker Brothers)(US)[!]">
 		<description>Popeye (1983)(Parker Brothers)(US)[!]</description>
 		<rom name="Popeye (1983)(Parker Brothers)(US)[!].bin" size="16384" crc="00fce79a" md5="f823dac145a4f024ab793d6d241123ca" sha1="c1c4499bf7cbb3ebeb1f10eed2fe8962df6a8ad3"/>
+	</game>
+	<game name="Popeye (1983)(Parker Brothers)(US)[WIP8]">
+		<description>Popeye (1983)(Parker Brothers)(US)[WIP8]</description>
+		<rom name="Popeye (1983)(Parker Brothers)(US)[WIP8].bin" size="16384" crc="da07e268" md5="1cb935bb8838efbbd0ee964d58d33109" sha1="7719e2c6102ff8b7ff715a6df6c1e6efe3b0b159"/>
 	</game>
 	<game name="Porky's (1983)(Romox - 20th Century Fox)[ECPC-02033]">
 		<description>Porky's (1983)(Romox - 20th Century Fox)[ECPC-02033]</description>

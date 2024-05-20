@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Sports - [LNX]</name>
-		<description>Commodore C64 - Games - Sports - [LNX] (TOSEC-v2023-04-29)</description>
+		<description>Commodore C64 - Games - Sports - [LNX] (TOSEC-v2024-03-15)</description>
 		<category>TOSEC</category>
-		<version>2023-04-29</version>
+		<version>2024-03-15</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -272,10 +272,6 @@
 		<description>Euro Boss (1991)(Challenge Software)[cr ULT]</description>
 		<rom name="Euro Boss (1991)(Challenge Software)[cr ULT].lnx" size="33022" crc="354cd370" md5="6c87c7f8fa5983c21f9ee810426da808" sha1="6945af2940c03a1202ee7fb09aae782971c409cd"/>
 	</game>
-	<game name="European Soccer Challende (1990)(Players)[cr Illusion]">
-		<description>European Soccer Challende (1990)(Players)[cr Illusion]</description>
-		<rom name="European Soccer Challende (1990)(Players)[cr Illusion].lnx" size="17142" crc="ab49e208" md5="fd6729b5894590fca03cb8a224d7f89f" sha1="4df06ea6ffc408bc89f674f44af280debf9a9bcf"/>
-	</game>
 	<game name="European Soccer Challenge (1990)(Players)[cr F4CG]">
 		<description>European Soccer Challenge (1990)(Players)[cr F4CG]</description>
 		<rom name="European Soccer Challenge (1990)(Players)[cr F4CG].lnx" size="19609" crc="8731b482" md5="8f57dc4e7d6e268d07cf992e0fc51d5c" sha1="ceb77a7a8b761ef39e56141c19b7ec0ec94d3ab4"/>
@@ -283,6 +279,10 @@
 	<game name="European Soccer Challenge (1990)(Players)[cr F4CG][a]">
 		<description>European Soccer Challenge (1990)(Players)[cr F4CG][a]</description>
 		<rom name="European Soccer Challenge (1990)(Players)[cr F4CG][a].lnx" size="19609" crc="474a4400" md5="7a09f58c54398702b300d67ff266bfc8" sha1="0cc65bae4af913b928a9e3a5a228e08147a34850"/>
+	</game>
+	<game name="European Soccer challenge (1990)(Players)[cr Illusion]">
+		<description>European Soccer challenge (1990)(Players)[cr Illusion]</description>
+		<rom name="European Soccer challenge (1990)(Players)[cr Illusion].lnx" size="17142" crc="ab49e208" md5="fd6729b5894590fca03cb8a224d7f89f" sha1="4df06ea6ffc408bc89f674f44af280debf9a9bcf"/>
 	</game>
 	<game name="Exploding Fist II - The Legend Continues (1986)(Melbourne House)[cr REM][t +2 REM][Docs]">
 		<description>Exploding Fist II - The Legend Continues (1986)(Melbourne House)[cr REM][t +2 REM][Docs]</description>
@@ -392,9 +392,9 @@
 		<description>Frank Bruno&apos;s Boxing (1985)(Elite)[cr CRM]</description>
 		<rom name="Frank Bruno&apos;s Boxing (1985)(Elite)[cr CRM].lnx" size="151910" crc="fb58d950" md5="6364f23a056f637e3adba54c13a48459" sha1="6385591b2417669ea79ac565394268be8295ccd7"/>
 	</game>
-	<game name="Gary Lineker&apos;s Hot Shot - Littis Hot Shot (19xx)(Gremlin)[cr Mayhem]">
-		<description>Gary Lineker&apos;s Hot Shot - Littis Hot Shot (19xx)(Gremlin)[cr Mayhem]</description>
-		<rom name="Gary Lineker&apos;s Hot Shot - Littis Hot Shot (19xx)(Gremlin)[cr Mayhem].lnx" size="30974" crc="be594dbe" md5="9cd3255f7129c213f2773a62aaf3516d" sha1="8eb62c666d0ee995c57d32cf8f54c1ac11b2ecb1"/>
+	<game name="Gary Lineker&apos;s Hot Shot (1989)(Gremlin)[cr Mayhem]">
+		<description>Gary Lineker&apos;s Hot Shot (1989)(Gremlin)[cr Mayhem]</description>
+		<rom name="Gary Lineker&apos;s Hot Shot (1989)(Gremlin)[cr Mayhem].lnx" size="30974" crc="be594dbe" md5="9cd3255f7129c213f2773a62aaf3516d" sha1="8eb62c666d0ee995c57d32cf8f54c1ac11b2ecb1"/>
 	</game>
 	<game name="Gary Lineker&apos;s Super Skills (1988)(Gremlin)[cr Triangle]">
 		<description>Gary Lineker&apos;s Super Skills (1988)(Gremlin)[cr Triangle]</description>
@@ -452,21 +452,21 @@
 		<description>Hustler (1983)(Bubble Bus)[cr NO]</description>
 		<rom name="Hustler (1983)(Bubble Bus)[cr NO].lnx" size="6976" crc="56c8d063" md5="31860c1d79a380f3ee6d42110865f4a8" sha1="1846c2ce88e5de348e22cfa406d82b401209af01"/>
 	</game>
-	<game name="Hypa-Ball (1986)(Odin)[cr ILL]">
-		<description>Hypa-Ball (1986)(Odin)[cr ILL]</description>
-		<rom name="Hypa-Ball (1986)(Odin)[cr ILL].lnx" size="44601" crc="f8efb351" md5="29a7f14e41597ae74eccb63ff8838a10" sha1="e9b4b07ba73740173ee63231ffd993b3d25e96e5"/>
+	<game name="Hypa-Ball (1986)(Odin Computer Graphics)[cr ILL]">
+		<description>Hypa-Ball (1986)(Odin Computer Graphics)[cr ILL]</description>
+		<rom name="Hypa-Ball (1986)(Odin Computer Graphics)[cr ILL].lnx" size="44601" crc="f8efb351" md5="29a7f14e41597ae74eccb63ff8838a10" sha1="e9b4b07ba73740173ee63231ffd993b3d25e96e5"/>
 	</game>
-	<game name="Hypa-Ball (1986)(Odin)[cr REM][Docs]">
-		<description>Hypa-Ball (1986)(Odin)[cr REM][Docs]</description>
-		<rom name="Hypa-Ball (1986)(Odin)[cr REM][Docs].lnx" size="36270" crc="bd9ba6d6" md5="035a7a2d77dd6f099f864de5cc205f63" sha1="fb7d9ec7ba0c28c8cff9f88b783e13fa296fec86"/>
+	<game name="Hypa-Ball (1986)(Odin Computer Graphics)[cr REM][Docs]">
+		<description>Hypa-Ball (1986)(Odin Computer Graphics)[cr REM][Docs]</description>
+		<rom name="Hypa-Ball (1986)(Odin Computer Graphics)[cr REM][Docs].lnx" size="36270" crc="bd9ba6d6" md5="035a7a2d77dd6f099f864de5cc205f63" sha1="fb7d9ec7ba0c28c8cff9f88b783e13fa296fec86"/>
 	</game>
-	<game name="Hyper Sports (1985)(Imagine - Konami)[cr L+T][t +1 L+T]">
-		<description>Hyper Sports (1985)(Imagine - Konami)[cr L+T][t +1 L+T]</description>
-		<rom name="Hyper Sports (1985)(Imagine - Konami)[cr L+T][t +1 L+T].lnx" size="46115" crc="626e74b1" md5="d847e158af27c04f1c9ce28367670d0c" sha1="0a1a7fc63f3a875f5ff0e717c02606381f0c4b9c"/>
+	<game name="Hyper Sports (1984)(Imagine - Konami)[cr L+T][t +1 L+T]">
+		<description>Hyper Sports (1984)(Imagine - Konami)[cr L+T][t +1 L+T]</description>
+		<rom name="Hyper Sports (1984)(Imagine - Konami)[cr L+T][t +1 L+T].lnx" size="46115" crc="626e74b1" md5="d847e158af27c04f1c9ce28367670d0c" sha1="0a1a7fc63f3a875f5ff0e717c02606381f0c4b9c"/>
 	</game>
-	<game name="Hyper Sports (1985)(Imagine - Konami)[cr L+T][t +1 L+T][a]">
-		<description>Hyper Sports (1985)(Imagine - Konami)[cr L+T][t +1 L+T][a]</description>
-		<rom name="Hyper Sports (1985)(Imagine - Konami)[cr L+T][t +1 L+T][a].lnx" size="46115" crc="32671ff1" md5="e248437c10217a455a161002d274f5d3" sha1="cda0064af5b5a3b9d771d88734e4fa2de9843a69"/>
+	<game name="Hyper Sports (1984)(Imagine - Konami)[cr L+T][t +1 L+T][a]">
+		<description>Hyper Sports (1984)(Imagine - Konami)[cr L+T][t +1 L+T][a]</description>
+		<rom name="Hyper Sports (1984)(Imagine - Konami)[cr L+T][t +1 L+T][a].lnx" size="46115" crc="32671ff1" md5="e248437c10217a455a161002d274f5d3" sha1="cda0064af5b5a3b9d771d88734e4fa2de9843a69"/>
 	</game>
 	<game name="Hyper Sports &apos;84 (1985)(Imagine)[cr 2703]">
 		<description>Hyper Sports &apos;84 (1985)(Imagine)[cr 2703]</description>
@@ -644,17 +644,17 @@
 		<description>Kick Off 2 (1990)(Anco)[cr DOM]</description>
 		<rom name="Kick Off 2 (1990)(Anco)[cr DOM].lnx" size="49724" crc="3fb407ef" md5="9cc93e3689c0501f32efb4fe47ed10db" sha1="21c011a60c357c1ad725001ad2482815aaa75d5d"/>
 	</game>
-	<game name="Leaderboard Golf (1986)(Access Software)">
-		<description>Leaderboard Golf (1986)(Access Software)</description>
-		<rom name="Leaderboard Golf (1986)(Access Software).lnx" size="45153" crc="e447dc0e" md5="c5b5e5ef9a96b39f21d09219219a10d3" sha1="dcfb15d1507901dea8946d2db79a3506a50f2233"/>
+	<game name="Leaderboard Golf (1986)(Access)">
+		<description>Leaderboard Golf (1986)(Access)</description>
+		<rom name="Leaderboard Golf (1986)(Access).lnx" size="46575" crc="3089b55c" md5="be80d50869847a183e9d648bef07d2e8" sha1="8411d3eb2d2e5610bdeb48b1068a1d17228f9f0c"/>
 	</game>
-	<game name="Leaderboard Golf (1986)(Access Software)[a]">
-		<description>Leaderboard Golf (1986)(Access Software)[a]</description>
-		<rom name="Leaderboard Golf (1986)(Access Software)[a].lnx" size="46575" crc="3089b55c" md5="be80d50869847a183e9d648bef07d2e8" sha1="8411d3eb2d2e5610bdeb48b1068a1d17228f9f0c"/>
+	<game name="Leaderboard Golf (1986)(Access)[a]">
+		<description>Leaderboard Golf (1986)(Access)[a]</description>
+		<rom name="Leaderboard Golf (1986)(Access)[a].lnx" size="45153" crc="e447dc0e" md5="c5b5e5ef9a96b39f21d09219219a10d3" sha1="dcfb15d1507901dea8946d2db79a3506a50f2233"/>
 	</game>
-	<game name="Leaderboard Golf (1986)(Access Software)[cr Sharks]">
-		<description>Leaderboard Golf (1986)(Access Software)[cr Sharks]</description>
-		<rom name="Leaderboard Golf (1986)(Access Software)[cr Sharks].lnx" size="35694" crc="21f56290" md5="9269d2c73dc0ad96203eb6409274beac" sha1="b363158dcbf4e15e50f65e0422bb28924fb60493"/>
+	<game name="Leaderboard Golf (1986)(Access)[cr Sharks]">
+		<description>Leaderboard Golf (1986)(Access)[cr Sharks]</description>
+		<rom name="Leaderboard Golf (1986)(Access)[cr Sharks].lnx" size="35694" crc="21f56290" md5="9269d2c73dc0ad96203eb6409274beac" sha1="b363158dcbf4e15e50f65e0422bb28924fb60493"/>
 	</game>
 	<game name="League Soccer (19xx)(Dave Barnes)">
 		<description>League Soccer (19xx)(Dave Barnes)</description>
@@ -672,9 +672,9 @@
 		<description>Liverpool - The Computer Game (1993)(Grandslam Entertainment)[cr Active]</description>
 		<rom name="Liverpool - The Computer Game (1993)(Grandslam Entertainment)[cr Active].lnx" size="34833" crc="8ddbd81b" md5="f4bc1d8c34131524349fb250ac1b9bd4" sha1="0b22894163afeb47e0171f457bf3515f3d309b53"/>
 	</game>
-	<game name="Long Life (1994)(576 kByte)(Side B)[cr ONS][t +2 ONS][Docs][Z64 Part 4]">
-		<description>Long Life (1994)(576 kByte)(Side B)[cr ONS][t +2 ONS][Docs][Z64 Part 4]</description>
-		<rom name="Long Life (1994)(576 kByte)(Side B)[cr ONS][t +2 ONS][Docs][Z64 Part 4].lnx" size="45406" crc="52a63e8d" md5="f3d53107a35b89bad88841a71d61172e" sha1="4a3077a50ed79e1d4714ab009a5b0c0a5d15df73"/>
+	<game name="Long Life (1994)(576 KByte)(Side B)[cr ONS][t +2 ONS][Docs][Z64 Part 4]">
+		<description>Long Life (1994)(576 KByte)(Side B)[cr ONS][t +2 ONS][Docs][Z64 Part 4]</description>
+		<rom name="Long Life (1994)(576 KByte)(Side B)[cr ONS][t +2 ONS][Docs][Z64 Part 4].lnx" size="45406" crc="52a63e8d" md5="f3d53107a35b89bad88841a71d61172e" sha1="4a3077a50ed79e1d4714ab009a5b0c0a5d15df73"/>
 	</game>
 	<game name="Maltese Joe Plays 3-D Pool (1989)(MicroProse)[cr HTL+INC]">
 		<description>Maltese Joe Plays 3-D Pool (1989)(MicroProse)[cr HTL+INC]</description>
@@ -752,9 +752,9 @@
 		<description>One on One (1984)(Electronic Arts)[cr REM][Docs]</description>
 		<rom name="One on One (1984)(Electronic Arts)[cr REM][Docs].lnx" size="28542" crc="a05f43f1" md5="bcfb37bf688108b58ebfd1211bdb9564" sha1="b8873f64939a539b78662a610142fdf17a19ca26"/>
 	</game>
-	<game name="Over the Net (demo) (1991)(Genias)[cr Navy Seals]">
-		<description>Over the Net (demo) (1991)(Genias)[cr Navy Seals]</description>
-		<rom name="Over the Net (demo) (1991)(Genias)[cr Navy Seals].lnx" size="28791" crc="247cb57d" md5="5aa1910f63578f2c4f93180c2bdec8ff" sha1="d389ba797ad08b9b82c871df84bf35a0e2cfed20"/>
+	<game name="Over the Net (demo) (1991)(Genias - Soundware)[cr Navy Seals]">
+		<description>Over the Net (demo) (1991)(Genias - Soundware)[cr Navy Seals]</description>
+		<rom name="Over the Net (demo) (1991)(Genias - Soundware)[cr Navy Seals].lnx" size="28791" crc="247cb57d" md5="5aa1910f63578f2c4f93180c2bdec8ff" sha1="d389ba797ad08b9b82c871df84bf35a0e2cfed20"/>
 	</game>
 	<game name="Passing Shot (1989)(ImageWorks)[cr Triangle]">
 		<description>Passing Shot (1989)(ImageWorks)[cr Triangle]</description>
@@ -984,10 +984,6 @@
 		<description>Summer Games 2 (1985)(Epyx)[cr Sharks][a3]</description>
 		<rom name="Summer Games 2 (1985)(Epyx)[cr Sharks][a3].lnx" size="151546" crc="c00bd5fe" md5="c9d015b94e8ecdfe4f0460bdcb4d8651" sha1="adc5903facfe66d5924274043dafd87b43807b39"/>
 	</game>
-	<game name="Super Black Belt Karate (1983)(Computer Applications)[h 1001]">
-		<description>Super Black Belt Karate (1983)(Computer Applications)[h 1001]</description>
-		<rom name="Super Black Belt Karate (1983)(Computer Applications)[h 1001].lnx" size="4402" crc="61a38bc2" md5="facf0ca2a5a6879b95a2da5865ccf8ac" sha1="6aae44d2b62e02e3a47a53431170604acdd4a46f"/>
-	</game>
 	<game name="Super Bowl XX (1986)(Ocean)[h 1001]">
 		<description>Super Bowl XX (1986)(Ocean)[h 1001]</description>
 		<rom name="Super Bowl XX (1986)(Ocean)[h 1001].lnx" size="42071" crc="ee69ab3f" md5="b5f38502b3c985a0b7acc7f3896ebc1c" sha1="585a7218a9ebce9a51d0ad06b9e9247d12e86933"/>
@@ -1032,9 +1028,9 @@
 		<description>Thai Boxing (1986)(Anco)[cr YF]</description>
 		<rom name="Thai Boxing (1986)(Anco)[cr YF].lnx" size="83364" crc="1e906398" md5="d5da2913a20500d695a33472644a2354" sha1="a08b20f7be2433a0ba330f2051cf2bd79b777fa2"/>
 	</game>
-	<game name="Toobin&apos; (1989)(Domark)[cr WWE]">
-		<description>Toobin&apos; (1989)(Domark)[cr WWE]</description>
-		<rom name="Toobin&apos; (1989)(Domark)[cr WWE].lnx" size="36113" crc="8ac94475" md5="83f07f736418171aad04bc89376b6263" sha1="6fad99af4e05ee288088c268486be002e42df79e"/>
+	<game name="Toobin&apos; (1989)(Domark - Tengen)[cr WWE]">
+		<description>Toobin&apos; (1989)(Domark - Tengen)[cr WWE]</description>
+		<rom name="Toobin&apos; (1989)(Domark - Tengen)[cr WWE].lnx" size="36113" crc="8ac94475" md5="83f07f736418171aad04bc89376b6263" sha1="6fad99af4e05ee288088c268486be002e42df79e"/>
 	</game>
 	<game name="Trener (1995)(Adersoft)[cr F4CG]">
 		<description>Trener (1995)(Adersoft)[cr F4CG]</description>

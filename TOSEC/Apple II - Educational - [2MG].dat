@@ -4,17 +4,17 @@
 <datafile>
 	<header>
 		<name>Apple II - Educational - [2MG]</name>
-		<description>Apple II - Educational - [2MG] (TOSEC-v2023-06-14)</description>
+		<description>Apple II - Educational - [2MG] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-	<game name="Alge-Blaster (1985)(Davidson &amp; Associates)(US)[cr 4am]">
-		<description>Alge-Blaster (1985)(Davidson &amp; Associates)(US)[cr 4am]</description>
-		<rom name="Alge-Blaster (1985)(Davidson &amp; Associates)(US)[cr 4am].2mg" size="819264" crc="ea796c21" md5="c8670bc73102c76218f6f6880b179fa4" sha1="395572a20a0049a76cc9a72dcb32d50c1b18abe5"/>
+	<game name="Alge-Blaster (1985)(Davidson &amp; Associates)(II+)(US)[cr 4am][64K]">
+		<description>Alge-Blaster (1985)(Davidson &amp; Associates)(II+)(US)[cr 4am][64K]</description>
+		<rom name="Alge-Blaster (1985)(Davidson &amp; Associates)(II+)(US)[cr 4am][64K].2mg" size="819264" crc="ea796c21" md5="c8670bc73102c76218f6f6880b179fa4" sha1="395572a20a0049a76cc9a72dcb32d50c1b18abe5"/>
 	</game>
 	<game name="Alge-Blaster Plus! v1.0 (1989)(Davidson &amp; Associates)(IIE)(US)[cr 4am][128K]">
 		<description>Alge-Blaster Plus! v1.0 (1989)(Davidson &amp; Associates)(IIE)(US)[cr 4am][128K]</description>
@@ -23,6 +23,10 @@
 	<game name="Grammar Gremlins (1987)(Davidson &amp; Associates)(US)[cr 4am]">
 		<description>Grammar Gremlins (1987)(Davidson &amp; Associates)(US)[cr 4am]</description>
 		<rom name="Grammar Gremlins (1987)(Davidson &amp; Associates)(US)[cr 4am].2mg" size="819264" crc="25af0038" md5="40fc574fc4c36dcb8186723e26c687e1" sha1="46364f5894b81cb3dce4efa3397ddaef35a6d75f"/>
+	</game>
+	<game name="Insect World, The (1986)(Ventura Educational Systems)(IIE)(US)[64K]">
+		<description>Insect World, The (1986)(Ventura Educational Systems)(IIE)(US)[64K]</description>
+		<rom name="Insect World, The (1986)(Ventura Educational Systems)(IIE)(US)[64K].2mg" size="819264" crc="3e890bc2" md5="f806284ee69941682455e60e22da7fdd" sha1="d88772269722b8e37078fae6fd1cc4adcd364cb6"/>
 	</game>
 	<game name="Math and Me v1.6 (1988)(Davidson &amp; Associates)(IIE)(US)[128K]">
 		<description>Math and Me v1.6 (1988)(Davidson &amp; Associates)(IIE)(US)[128K]</description>
@@ -44,6 +48,14 @@
 		<description>Pacific Theater (1992)(Entrex Software)(II+)(CA)[64K]</description>
 		<rom name="Pacific Theater (1992)(Entrex Software)(II+)(CA)[64K].2mg" size="819264" crc="a7e74b23" md5="f95795c87851b43c79d48ad0ab5fda3e" sha1="6efbeaba805ae82d381cc3d5ee7b9c2e0ae28ebe"/>
 	</game>
+	<game name="Plant Growth Simulator, The - Elementary Version (1987)(Focus Media)(US)(Side A)">
+		<description>Plant Growth Simulator, The - Elementary Version (1987)(Focus Media)(US)(Side A)</description>
+		<rom name="Plant Growth Simulator, The - Elementary Version (1987)(Focus Media)(US)(Side A).2mg" size="819264" crc="04cbc155" md5="273701db6f1b67b8ebf0ca5050eb44d9" sha1="8c0238fcd515b57d1b51302f75a86675747c6a35"/>
+	</game>
+	<game name="Plant Growth Simulator, The - Elementary Version (1987)(Focus Media)(US)(Side B)">
+		<description>Plant Growth Simulator, The - Elementary Version (1987)(Focus Media)(US)(Side B)</description>
+		<rom name="Plant Growth Simulator, The - Elementary Version (1987)(Focus Media)(US)(Side B).2mg" size="819264" crc="9c6f4355" md5="937830036b29339be9369f191654d2cb" sha1="596001e8bdf990bdd45aa4feb1511f6e647fda88"/>
+	</game>
 	<game name="Quarter Mile v4.0, The (1992)(Barnum Software)(IIE)[cr 4am]">
 		<description>Quarter Mile v4.0, The (1992)(Barnum Software)(IIE)[cr 4am]</description>
 		<rom name="Quarter Mile v4.0, The (1992)(Barnum Software)(IIE)[cr 4am].2mg" size="819264" crc="0ecf0ca5" md5="dc24d32513ce883c3aba9001baf36e09" sha1="09f1df0b1819296037ed00020cfca537bc510793"/>
@@ -52,9 +64,9 @@
 		<description>Read 'N Roll v1.1 (1988)(Davidson &amp; Associates)(IIE)(US)[cr 4am]</description>
 		<rom name="Read 'N Roll v1.1 (1988)(Davidson &amp; Associates)(IIE)(US)[cr 4am].2mg" size="819264" crc="735624d3" md5="01f902d12b2664da46534abf3257316f" sha1="072718512aa329667b1a97940aad95d630b48f0c"/>
 	</game>
-	<game name="Science Corner - Planet Earth (1989)(Society for Visual Education)(US)">
-		<description>Science Corner - Planet Earth (1989)(Society for Visual Education)(US)</description>
-		<rom name="Science Corner - Planet Earth (1989)(Society for Visual Education)(US).2mg" size="819264" crc="d306944f" md5="94ff05419920a4011826241ebd55cf42" sha1="fec2c416d1290a6d0c69916883f930d5872dd980"/>
+	<game name="Science Corner - Planet Earth (1989)(Society for Visual Education)(IIE)(US)[128K]">
+		<description>Science Corner - Planet Earth (1989)(Society for Visual Education)(IIE)(US)[128K]</description>
+		<rom name="Science Corner - Planet Earth (1989)(Society for Visual Education)(IIE)(US)[128K].2mg" size="819264" crc="d306944f" md5="94ff05419920a4011826241ebd55cf42" sha1="fec2c416d1290a6d0c69916883f930d5872dd980"/>
 	</game>
 	<game name="Spell It Plus! (1989)(Davidson &amp; Associates)(IIE)(US)">
 		<description>Spell It Plus! (1989)(Davidson &amp; Associates)(IIE)(US)</description>
@@ -64,9 +76,17 @@
 		<description>Spell It! (1987-06-01)(Davidson &amp; Associates)</description>
 		<rom name="Spell It! (1987-06-01)(Davidson &amp; Associates).2mg" size="819264" crc="5631759c" md5="7dca1f87d6a56449a4e4237346aeaa41" sha1="2916f443a2784caa8ca0289aabbe2a3d55378127"/>
 	</game>
+	<game name="Stickybear Opposites (1989)(Optimum Resource)(II+)(US)">
+		<description>Stickybear Opposites (1989)(Optimum Resource)(II+)(US)</description>
+		<rom name="Stickybear Opposites (1989)(Optimum Resource)(II+)(US).2mg" size="819264" crc="b4213614" md5="a16674f3caae9ddcc461a41e9b906208" sha1="b52c1b0a25429b2a00227de7dc8ff03fcbc924c8"/>
+	</game>
 	<game name="TEAM Vocabulary - Science and Health v1.0 (1990-04-01)(Davidson &amp; Associates)(US)[cr 4am]">
 		<description>TEAM Vocabulary - Science and Health v1.0 (1990-04-01)(Davidson &amp; Associates)(US)[cr 4am]</description>
 		<rom name="TEAM Vocabulary - Science and Health v1.0 (1990-04-01)(Davidson &amp; Associates)(US)[cr 4am].2mg" size="819264" crc="6874ecc3" md5="b1a932106d04a4d3260ae384ecaf85c7" sha1="67b48476a3dc66854fa1b0a2ede529c69cec2f6d"/>
+	</game>
+	<game name="Where in Time is Carmen Sandiego v1.1 (1990)(Brøderbund)(IIE)(US)[cr trex][128K]">
+		<description>Where in Time is Carmen Sandiego v1.1 (1990)(Brøderbund)(IIE)(US)[cr trex][128K]</description>
+		<rom name="Where in Time is Carmen Sandiego v1.1 (1990)(Brøderbund)(IIE)(US)[cr trex][128K].2mg" size="819264" crc="36d3ff6d" md5="68c21bc82d836ef32168b274677f5758" sha1="21051ecf94f598da648355e75e46641351ed3230"/>
 	</game>
 	<game name="Word Attack Plus! French v1.3 (1988)(Davison &amp; Associates)(IIE)[cr 4am]">
 		<description>Word Attack Plus! French v1.3 (1988)(Davison &amp; Associates)(IIE)[cr 4am]</description>

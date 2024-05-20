@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Tangerine Oric-1 &amp; Oric Atmos - Applications - [TAP]</name>
-		<description>Tangerine Oric-1 &amp; Oric Atmos - Applications - [TAP] (TOSEC-v2021-12-11)</description>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Applications - [TAP] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2021-12-11</version>
+		<version>2024-01-15</version>
 		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,6 +16,10 @@
 		<description>10 Old Coctailrecipies (19xx)(GPD-Software)(SE)(en)</description>
 		<rom name="10 Old Coctailrecipies (19xx)(GPD-Software)(SE)(en).tap" size="13307" crc="ba357fd6" md5="0391585a0f086748dfdde790e5ef8f75" sha1="b38dbdc95c6c78ec4eacf5e09044739094561d67"/>
 	</game>
+	<game name="Assembler-BASIC (20xx)(Tzvetkov, Ventzislav)(BG)(en)">
+		<description>Assembler-BASIC (20xx)(Tzvetkov, Ventzislav)(BG)(en)</description>
+		<rom name="Assembler-BASIC (20xx)(Tzvetkov, Ventzislav)(BG)(en).tap" size="893" crc="2e555025" md5="a84386683fb511a3334b1eb42ceafeb4" sha1="9d61b6710cb1f558291a478083a4aa7d4dd416aa"/>
+	</game>
 	<game name="Assemblermonitor WAP v2.3 for LAB 6502 Assembler (1983-11-13)(Bostrom, Anders)">
 		<description>Assemblermonitor WAP v2.3 for LAB 6502 Assembler (1983-11-13)(Bostrom, Anders)</description>
 		<rom name="Assemblermonitor WAP v2.3 for LAB 6502 Assembler (1983-11-13)(Bostrom, Anders).tap" size="5547" crc="455c4d95" md5="09e8548044d302e287fe87243b1da22f" sha1="68bdfdd5abd73dafd6a5ace35cc1273bd0824653"/>
@@ -23,6 +27,10 @@
 	<game name="Author (1983-12)(Tansoft)(GB)">
 		<description>Author (1983-12)(Tansoft)(GB)</description>
 		<rom name="Author (1983-12)(Tansoft)(GB).tap" size="10256" crc="5137e977" md5="eea895b867735999ed9e17f86df4f330" sha1="501e024a0865890db87058bd199451a35a9e2cfc"/>
+	</game>
+	<game name="Binary Show (20xx)(Tzvetkov, Ventzislav)(BG)(en)">
+		<description>Binary Show (20xx)(Tzvetkov, Ventzislav)(BG)(en)</description>
+		<rom name="Binary Show (20xx)(Tzvetkov, Ventzislav)(BG)(en).tap" size="1454" crc="c440f749" md5="1383a9ef6090cee3e20a90afaa31a2ac" sha1="d81f282252fa6b44e947b184cf95a381674ee452"/>
 	</game>
 	<game name="Cargen (19xx)(-)(Atmos)(fr)">
 		<description>Cargen (19xx)(-)(Atmos)(fr)</description>
@@ -48,17 +56,41 @@
 		<description>Deblock 1.1 (19xx)(Liberge, Stephane)(fr)</description>
 		<rom name="Deblock 1.1 (19xx)(Liberge, Stephane)(fr).tap" size="2633" crc="ecd3275d" md5="51debcd4706008b6c3ae78e2ed83549b" sha1="78702a4d6d546d7c818cc627d5657481edca2799"/>
 	</game>
+	<game name="Electric Duet (20xx)(Tzvetkov, Ventzislav)(BG)(en)">
+		<description>Electric Duet (20xx)(Tzvetkov, Ventzislav)(BG)(en)</description>
+		<rom name="Electric Duet (20xx)(Tzvetkov, Ventzislav)(BG)(en).tap" size="213" crc="44260a58" md5="d7e33287eefeaa8f2446a1f9736a70cc" sha1="8c78fc79368701e325f0d3eb2cfb89140800fc80"/>
+	</game>
+	<game name="Electric Duet (20xx)(Tzvetkov, Ventzislav)(BG)(en)[source]">
+		<description>Electric Duet (20xx)(Tzvetkov, Ventzislav)(BG)(en)[source]</description>
+		<rom name="Electric Duet (20xx)(Tzvetkov, Ventzislav)(BG)(en)[source].tap" size="904" crc="bbea8ad1" md5="3a0f31487736e45a4a114c569f428974" sha1="a9fb1a7d8affabeb311d515144cc72963069c18a"/>
+	</game>
 	<game name="Function (19xx)(Phillipe Gomez)(fr)">
 		<description>Function (19xx)(Phillipe Gomez)(fr)</description>
 		<rom name="Function (19xx)(Phillipe Gomez)(fr).tap" size="1207" crc="b726d1fe" md5="9067aa48f2f734bd5e427f1a91b8ce53" sha1="f1d23858a4a5e41bdb414fca2538133fb240693a"/>
+	</game>
+	<game name="FunctionKeys (20xx)(Tzvetkov, Ventzislav)(BG)(en)">
+		<description>FunctionKeys (20xx)(Tzvetkov, Ventzislav)(BG)(en)</description>
+		<rom name="FunctionKeys (20xx)(Tzvetkov, Ventzislav)(BG)(en).tap" size="2512" crc="0a68f11e" md5="e28d75e8e315c02a56eb4aabc2df36bd" sha1="b8cf4197cd5e2c373834089a36f3d006e37e4242"/>
 	</game>
 	<game name="Gestion De Compte Bancaire (1983)(Vismo)(FR)[h JC Robin]">
 		<description>Gestion De Compte Bancaire (1983)(Vismo)(FR)[h JC Robin]</description>
 		<rom name="Gestion De Compte Bancaire (1983)(Vismo)(FR)[h JC Robin].tap" size="13825" crc="ea58ac06" md5="8ac2c038369b0da4f973b33780ebf30f" sha1="6f488f7b06501e4b64b47469a86b4d11a29e0299"/>
 	</game>
+	<game name="Kompresor (20xx)(Tzvetkov, Ventzislav)(BG)(en)">
+		<description>Kompresor (20xx)(Tzvetkov, Ventzislav)(BG)(en)</description>
+		<rom name="Kompresor (20xx)(Tzvetkov, Ventzislav)(BG)(en).tap" size="1074" crc="81030688" md5="59fa274152f340115d8710ec4cb97268" sha1="0d8f70901200bdf83c3289c2f26a506981ef5343"/>
+	</game>
+	<game name="Kompresor (20xx)(Tzvetkov, Ventzislav)(BG)(en)[bas]">
+		<description>Kompresor (20xx)(Tzvetkov, Ventzislav)(BG)(en)[bas]</description>
+		<rom name="Kompresor (20xx)(Tzvetkov, Ventzislav)(BG)(en)[bas].tap" size="3602" crc="f0949854" md5="3579d1b144767f83df42a7999d4fb3ff" sha1="2f58440e3cd474d50a8eee51ffdbb1662c8abc84"/>
+	</game>
 	<game name="Lorigraph (1984-09)(Loriciels)(FR)">
 		<description>Lorigraph (1984-09)(Loriciels)(FR)</description>
 		<rom name="Lorigraph (1984-09)(Loriciels)(FR).tap" size="20244" crc="74a7ca49" md5="c51655e7a5a10e632d78475137d88a3e" sha1="c1fd26574eb8d19ef52453e5489f7f6dd752948a"/>
+	</game>
+	<game name="Monitor (20xx)(Tzvetkov, Ventzislav)(BG)">
+		<description>Monitor (20xx)(Tzvetkov, Ventzislav)(BG)</description>
+		<rom name="Monitor (20xx)(Tzvetkov, Ventzislav)(BG).tap" size="2065" crc="8a2a52bf" md5="871c7d79ed708650fe6d39a8318aa16c" sha1="ad3af13168f896ef4f9895ef08ff474a5ae0da93"/>
 	</game>
 	<game name="Multi Filer (1984)(No Man's Land)(FR)(en)">
 		<description>Multi Filer (1984)(No Man's Land)(FR)(en)</description>
@@ -83,6 +115,10 @@
 	<game name="Oric Mon (1983)(Tansoft)(Atmos)(GB)">
 		<description>Oric Mon (1983)(Tansoft)(Atmos)(GB)</description>
 		<rom name="Oric Mon (1983)(Tansoft)(Atmos)(GB).tap" size="37656" crc="839f2bde" md5="7f43ac88141c1b44e05d8749e3717512" sha1="482e855c705ffdf405b0ba0cf6890c8f9b38da20"/>
+	</game>
+	<game name="Oric Piano (20xx)(Tzvetkov, Ventzislav)(BG)">
+		<description>Oric Piano (20xx)(Tzvetkov, Ventzislav)(BG)</description>
+		<rom name="Oric Piano (20xx)(Tzvetkov, Ventzislav)(BG).tap" size="1483" crc="f49a1b27" md5="7a29fe3f97123ac42a0dc580c924434a" sha1="4b47b68b347dd964eeb5f5ca963c5802584ff17f"/>
 	</game>
 	<game name="Oric-BASIC Plus 1 (1984)(Bertin, G.)(Atmos)">
 		<description>Oric-BASIC Plus 1 (1984)(Bertin, G.)(Atmos)</description>

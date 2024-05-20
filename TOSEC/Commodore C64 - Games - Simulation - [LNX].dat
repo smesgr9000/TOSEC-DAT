@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Simulation - [LNX]</name>
-		<description>Commodore C64 - Games - Simulation - [LNX] (TOSEC-v2023-03-18)</description>
+		<description>Commodore C64 - Games - Simulation - [LNX] (TOSEC-v2023-10-21)</description>
 		<category>TOSEC</category>
-		<version>2023-03-18</version>
+		<version>2023-10-21</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,10 +16,6 @@
 		<description>ACE - Air Combat Emulator (1985)(Cascade)[cr DD+The Bitstoppers]</description>
 		<rom name="ACE - Air Combat Emulator (1985)(Cascade)[cr DD+The Bitstoppers].lnx" size="51169" crc="788bc89d" md5="baea2df253a78b5a3ab6574fcee55fc8" sha1="b787cd028155e4f80d349ab3815459427beef61f"/>
 	</game>
-	<game name="ACE 2 (1987)(Cascade)">
-		<description>ACE 2 (1987)(Cascade)</description>
-		<rom name="ACE 2 (1987)(Cascade).lnx" size="39937" crc="b8d69334" md5="451ca9088033fa58e767626778ac7a5b" sha1="0c718455586d99112b0d2375f6c388f3fbcbde74"/>
-	</game>
 	<game name="ACE 2088 (1988)(Cascade)[cr Lazer]">
 		<description>ACE 2088 (1988)(Cascade)[cr Lazer]</description>
 		<rom name="ACE 2088 (1988)(Cascade)[cr Lazer].lnx" size="41188" crc="0df657c9" md5="a8b8d77e1174971b847b1ec255aff22b" sha1="eb581f2fafd09a40936f762018fcde09f8ed3b36"/>
@@ -27,6 +23,10 @@
 	<game name="ACE 2088 (1988)(Cascade)[cr Sharks][t +4 Sharks]">
 		<description>ACE 2088 (1988)(Cascade)[cr Sharks][t +4 Sharks]</description>
 		<rom name="ACE 2088 (1988)(Cascade)[cr Sharks][t +4 Sharks].lnx" size="52094" crc="28c99fc3" md5="46b5c37b3fb4d367590256c697144c42" sha1="49f7464418c7a853e45bcc0f6878e3d9ff9b0a32"/>
+	</game>
+	<game name="ACE II (1987)(Cascade)">
+		<description>ACE II (1987)(Cascade)</description>
+		<rom name="ACE II (1987)(Cascade).lnx" size="39937" crc="b8d69334" md5="451ca9088033fa58e767626778ac7a5b" sha1="0c718455586d99112b0d2375f6c388f3fbcbde74"/>
 	</game>
 	<game name="Ace of Aces (1986)(Accolade)[cr EMU][f EMU]">
 		<description>Ace of Aces (1986)(Accolade)[cr EMU][f EMU]</description>

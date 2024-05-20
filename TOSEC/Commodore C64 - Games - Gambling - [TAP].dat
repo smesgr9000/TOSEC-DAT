@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Gambling - [TAP]</name>
-		<description>Commodore C64 - Games - Gambling - [TAP] (TOSEC-v2023-04-29)</description>
+		<description>Commodore C64 - Games - Gambling - [TAP] (TOSEC-v2024-03-15)</description>
 		<category>TOSEC</category>
-		<version>2023-04-29</version>
+		<version>2024-03-15</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -84,22 +84,6 @@
 		<description>Dizzy Dice (1987)(Players)[a]</description>
 		<rom name="Dizzy Dice (1987)(Players)[a].tap" size="350535" crc="d13a7695" md5="9cf61f314865ea841789ba68422d7d2f" sha1="8475a709e36a77db78c5f3551493b384b1e6ddd9"/>
 	</game>
-	<game name="Double Take (1987)(Ocean)">
-		<description>Double Take (1987)(Ocean)</description>
-		<rom name="Double Take (1987)(Ocean).tap" size="714946" crc="9bcbc5d0" md5="1c198500402404578d278e8c27145e03" sha1="b1ee23c0305f5c4438e81c23895a6a5c8a314239"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[a]">
-		<description>Double Take (1987)(Ocean)[a]</description>
-		<rom name="Double Take (1987)(Ocean)[a].tap" size="714949" crc="2c808a52" md5="a5687d6fb65cad67199f1c2851a36e21" sha1="134bae8d7bfc58a941c8972188e097fe9cc673f4"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[a2]">
-		<description>Double Take (1987)(Ocean)[a2]</description>
-		<rom name="Double Take (1987)(Ocean)[a2].tap" size="714946" crc="ba846961" md5="47cf474ee32204ab3de5887ead5d6c12" sha1="4c10f24393f8da1f5f55c307ab5b726babdbffe5"/>
-	</game>
-	<game name="Double Take (1987)(Ocean)[a3]">
-		<description>Double Take (1987)(Ocean)[a3]</description>
-		<rom name="Double Take (1987)(Ocean)[a3].tap" size="714939" crc="d6bcac39" md5="bc81c3d7db3e778f139bd2fd96c9973c" sha1="498c32044c277bf155f1090f3812899ad16be5c2"/>
-	</game>
 	<game name="Fruit Machine Simulator (1987)(Codemasters)">
 		<description>Fruit Machine Simulator (1987)(Codemasters)</description>
 		<rom name="Fruit Machine Simulator (1987)(Codemasters).tap" size="918126" crc="3994a8bc" md5="36dcaac2702ade4fd464d71fa0ee0ef3" sha1="93ec349110401b4cdf1a9b5cb27060de590bbd93"/>
@@ -151,10 +135,6 @@
 	<game name="FruitBank (1989)(Digital Designs)">
 		<description>FruitBank (1989)(Digital Designs)</description>
 		<rom name="FruitBank (1989)(Digital Designs).tap" size="349302" crc="99f5d997" md5="a90a0064e1e20a122386c59f22cd5ff9" sha1="380aebe2398c1ce38243c6205dcb8f0cc238f559"/>
-	</game>
-	<game name="Go Racing (1984)(Commodore)">
-		<description>Go Racing (1984)(Commodore)</description>
-		<rom name="Go Racing (1984)(Commodore).tap" size="1024868" crc="486dc667" md5="b5bf962da2fc65b3acd3aac103a5e72a" sha1="dca3d5b8f4e3eabc590d1a829bb0b49431959a0a"/>
 	</game>
 	<game name="Miami Dice (1986)(Bug-Byte)">
 		<description>Miami Dice (1986)(Bug-Byte)</description>
@@ -211,6 +191,18 @@
 	<game name="Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side B)[a]">
 		<description>Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side B)[a]</description>
 		<rom name="Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side B)[a].tap" size="2083152" crc="b8a73451" md5="7d92c3b7f84756b6ff100ae872bb0229" sha1="c704ad8a685604c3898857ff35a2655d5d773b55"/>
+	</game>
+	<game name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)">
+		<description>Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)</description>
+		<rom name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore).tap" size="1024868" crc="33ee6e61" md5="7faa2a6b8d49e40bc328c26d3b39e24f" sha1="fcde2ff31a2e304e01ba1791e6690cb31c3d6f8d"/>
+	</game>
+	<game name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[a]">
+		<description>Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[a]</description>
+		<rom name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[a].tap" size="1024868" crc="486dc667" md5="b5bf962da2fc65b3acd3aac103a5e72a" sha1="dca3d5b8f4e3eabc590d1a829bb0b49431959a0a"/>
+	</game>
+	<game name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[a2]">
+		<description>Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[a2]</description>
+		<rom name="Races, The - Go Racing with Peter O&apos;Sullivan (1984)(Commodore)[a2].tap" size="1024868" crc="1b9d631a" md5="41d4fa7c00c8707c4ae50a941d1bda6f" sha1="e105fc9647d05aec2a8ed744397440f432a4b8b0"/>
 	</game>
 	<game name="Racing Game, The (1989)(Tanglewood)">
 		<description>Racing Game, The (1989)(Tanglewood)</description>
@@ -323,6 +315,10 @@
 	<game name="Vegas Jackpot (1984)(Mastertronic)[b]">
 		<description>Vegas Jackpot (1984)(Mastertronic)[b]</description>
 		<rom name="Vegas Jackpot (1984)(Mastertronic)[b].tap" size="564373" crc="8bde0794" md5="45c3c28d9d038ff670ff3f781cf52420" sha1="10253202d6ae73661854c34c62a3af391e6d32bd"/>
+	</game>
+	<game name="Vegas Jackpot (1984)(Mastertronic)[b][a]">
+		<description>Vegas Jackpot (1984)(Mastertronic)[b][a]</description>
+		<rom name="Vegas Jackpot (1984)(Mastertronic)[b][a].tap" size="564343" crc="5e2cc1bf" md5="8a5fb1f6c1b6150f1e74ed26ada55a74" sha1="80cbc739b3e738b71a4deb6abc43c59aa67aa5a5"/>
 	</game>
 	<game name="Wembley Greyhounds (1990)(Cult Games)">
 		<description>Wembley Greyhounds (1990)(Cult Games)</description>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C128 - Applications - [Z64]</name>
-		<description>Commodore C128 - Applications - [Z64] (TOSEC-v2020-07-02)</description>
+		<description>Commodore C128 - Applications - [Z64] (TOSEC-v2024-04-10)</description>
 		<category>TOSEC</category>
-		<version>2020-07-02</version>
+		<version>2024-04-10</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -97,6 +97,15 @@
 		<rom name="2!SidPlayer (19xx)(Compute!).z64" size="41669" crc="7d0d3012" md5="4ffd54cd6b25a1ecff390dd3da65e0b0" sha1="e476b44f5a62fb27bf68e9a51cb8295b84e8e626"/>
 		<rom name="3!SidPlayer (19xx)(Compute!).z64" size="37311" crc="d9102fc0" md5="472034427e86ee26161e4d547da9659e" sha1="67df11e64be91fdd932d60b442cfc50fd1cac4ef"/>
 		<rom name="4!SidPlayer (19xx)(Compute!).z64" size="41314" crc="410fb674" md5="b48fcf862fecf6c2047d396f09c9f582" sha1="a96ae12a5025dab0eb5375cf2f6b663684b15533"/>
+	</game>
+	<game name="Superbase 128 (1986-08-12)(Precision Software)[autoboot]">
+		<description>Superbase 128 (1986-08-12)(Precision Software)[autoboot]</description>
+		<rom name="1!!super.z64" size="42615" crc="40bd19f3" md5="1b41ac8331fb3864ba4f243e4a04b671" sha1="c5834f4197f4bd6b85705549b64a8926353ccdf7"/>
+		<rom name="2!!super.z64" size="42615" crc="39966c2e" md5="9b7fb90d1e89f7bdd9629456b20d55e3" sha1="bcd6de1c106531e47c7799afcc50060f91cf1ee3"/>
+		<rom name="3!!super.z64" size="28271" crc="ef434943" md5="d2612dc098a5257a2381091f37069b79" sha1="0f31ae4a4f3d3b0621cbdef65e9afc2ed79df9cc"/>
+		<rom name="4!!super.z64" size="44827" crc="5cca42b7" md5="cc4ef09ece02bfc68233f78b18de799f" sha1="41343670b4d9b1fad86fd99ff8c8bce2e2459220"/>
+		<rom name="5!!super.z64" size="42219" crc="e8196d03" md5="ac779cb2444fe2448ca080aff844812a" sha1="1d49c8f5109ab257ffbe32ad5a14f8c8dc871200"/>
+		<rom name="6!!super.z64" size="18677" crc="3a91fc69" md5="81b4a71a8d71b69e755007e5bc967948" sha1="c5517cb9f0d7f4c06db2fb06f16fae7f9c6f5b9c"/>
 	</game>
 	<game name="Vizastar 128 v1.0 (1985)(Vizastar)">
 		<description>Vizastar 128 v1.0 (1985)(Vizastar)</description>

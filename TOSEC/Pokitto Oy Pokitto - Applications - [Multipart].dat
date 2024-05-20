@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Pokitto Oy Pokitto - Applications - [Multipart]</name>
+		<description>Pokitto Oy Pokitto - Applications - [Multipart] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chip-8 Editor (2018-05-23)(jonne)">
+		<description>Chip-8 Editor (2018-05-23)(jonne)</description>
+		<rom name="chip8.bin" size="66920" crc="b9f3b604" md5="8cd728c2d752a0af3f5df868c3d13fac" sha1="607e4dcc376b456b41812c1b6ddc3212c0aa5a07"/>
+		<rom name="chip8rom\15PUZZLE.ch8" size="384" crc="4e8693f1" md5="aaf7c09c7f5f952d0f0c326f9e01b5c0" sha1="ea9af3c09b0d9e265fcd92bcc5d51a2939fdf27a"/>
+		<rom name="chip8rom\_BLITZ.ch8" size="392" crc="dc086177" md5="b2eee6ab824091c00109903d95469b44" sha1="e1628f96a35262b7a0e18ea41f7b4c00cdbc37f3"/>
+		<rom name="chip8rom\_INVADERS.ch8" size="1284" crc="17520216" md5="40b48154b5e4baee161ea7041a1309b1" sha1="016796220af8c1f71b3d286c92698f1855f78697"/>
+		<rom name="chip8rom\_MERLIN.ch8" size="346" crc="24ab5f15" md5="4ffeced951c3f7918470f9be980b928d" sha1="3643ff9ed7d3a17d5be7562122fab5b559c61611"/>
+		<rom name="chip8rom\_VBRIX.ch8" size="508" crc="1903d06b" md5="66416714f06e12f0ec74c119f8978291" sha1="dd4b36469861f8a9be8aad332d4cc1887a3f023a"/>
+		<rom name="chip8rom\BLINKY.ch8" size="2356" crc="9d307e90" md5="e1c84e1156174070661c1f6ca0481ba5" sha1="d40abc54374e4343639f993e897e00904ddf85d9"/>
+		<rom name="chip8rom\BREAKOUT.ch8" size="280" crc="a6bca0f7" md5="3b26819c641e08cce4559aa1c68b09b1" sha1="237756a4014fb3aa82a29246a7cdd534f8dc2dbb"/>
+		<rom name="chip8rom\BRIX.ch8" size="280" crc="aaa44d0b" md5="d677c1b9de941484d718799aebafebf3" sha1="f13766c14aeb02ad8d4d103cb5eadd282d20cddc"/>
+		<rom name="chip8rom\C8PIC.ch8" size="164" crc="9e738d35" md5="d8a0b597809dd34f885544d2b0d9df89" sha1="a82ca5c53e1dcedfab4f65efef02229145771b7d"/>
+		<rom name="chip8rom\CONNECT4.ch8" size="194" crc="9858889b" md5="29c5bf2d8f754dfe923923934513fb2d" sha1="2d10c07b532f4fa7c07a07324ba26ca39fe484fd"/>
+		<rom name="chip8rom\GUESS.ch8" size="148" crc="432e2fe1" md5="0e1e9fcffa803d75d81bc42f25e4b95b" sha1="5260f8931e0e9f41e555b382a14a88368e3ed886"/>
+		<rom name="chip8rom\HIDDEN.ch8" size="850" crc="61861ae5" md5="d3f623110c962a28b86fc63e64bf33f0" sha1="050f07a54371da79f924dd0227b89d07b4f2aed0"/>
+		<rom name="chip8rom\IBM.ch8" size="132" crc="c46ca868" md5="2dbace8066709ac9a264d23281820d32" sha1="1ba58656810b67fd131eb9af3e3987863bf26c90"/>
+		<rom name="chip8rom\KALEID.ch8" size="120" crc="08a93fae" md5="847317965a219266a19d47eb29e72096" sha1="d6fa9dc9005dc0496f39ba52fef56f9fd0a5a158"/>
+		<rom name="chip8rom\MAZE.ch8" size="38" crc="39199fe2" md5="cfbb22d907dcc760179077726a795192" sha1="8b70080adbac44513ec60005734a816372b845ec"/>
+		<rom name="chip8rom\MISSILE.ch8" size="180" crc="6e485c29" md5="ccf8de6e6fe799b56e27b6761251b107" sha1="0d0cc129dad3c45ba672f85fec71a668232212cc"/>
+		<rom name="chip8rom\PONG.ch8" size="246" crc="7d75a857" md5="873436fe95dbed9c43c41673e9edfd4f" sha1="b232ef880bd6060fb45fa6effed7edf0ae95670e"/>
+		<rom name="chip8rom\PONG2.ch8" size="264" crc="69970ad2" md5="e66b29e565b741710eb6d48a3c6757ad" sha1="a60611339661e3ab2d8af024ad1da5880a6f8665"/>
+		<rom name="chip8rom\PUZZLE.ch8" size="184" crc="040ca946" md5="28a67d7f503fe66b999b189848127678" sha1="1293db0ccccbe7dd3fc5a09a2abc5d7b175e18e0"/>
+		<rom name="chip8rom\SYZYGY.ch8" size="946" crc="67e4bf9c" md5="9440bf0cda416b3ecf568cfaa349d4fc" sha1="1bdb4ddaa7049266fa3226851f28855a365cfd12"/>
+		<rom name="chip8rom\TANK.ch8" size="560" crc="a929cb73" md5="0ac0fd0d309c21a6cad14bb28217f5e4" sha1="18b9d15f4c159e1f0ed58c2d8ec1d89325d3a3b6"/>
+		<rom name="chip8rom\TETRIS.ch8" size="494" crc="0ce70772" md5="aef4fc8c2a5e8431f5e0736ab281f2ee" sha1="5f518084744bf3cb8733f6e5454dfd1634320563"/>
+		<rom name="chip8rom\TICTAC.ch8" size="486" crc="3a297a10" md5="4e5b1b1730cfa85e68a43e4766814a98" sha1="429d455a4bc53167942bf6fd934d72b0f648dce3"/>
+		<rom name="chip8rom\UFO.ch8" size="224" crc="331413e7" md5="7e35f93c5a788e7e0027c78e8b76c8fb" sha1="bdb92475acfe11bc7814a2f5eade13fcd09b756a"/>
+		<rom name="chip8rom\UserRom.ch8" size="28" crc="e99f8ef0" md5="fbd1a49c2ff142005c8f955f140756cc" sha1="068a9e4e2a95c7afe4a704406c32a3385fb54f3d"/>
+		<rom name="chip8rom\VERS.ch8" size="230" crc="0dbf7208" md5="486bddc6e25e378838ff3e944db9a443" sha1="ade839585ddeb0e3633177df03c1d91589e629eb"/>
+		<rom name="chip8rom\WIPEOFF.ch8" size="206" crc="b2696048" md5="41d64f82dc3c457e4f8543e081ae8e85" sha1="d666688a8fce468a7d88b536bc1ef5f35ba12031"/>
+	</game>
+</datafile>

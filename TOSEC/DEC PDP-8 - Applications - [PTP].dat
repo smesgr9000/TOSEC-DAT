@@ -4,14 +4,34 @@
 <datafile>
 	<header>
 		<name>DEC PDP-8 - Applications - [PTP]</name>
-		<description>DEC PDP-8 - Applications - [PTP] (TOSEC-v2014-01-14)</description>
+		<description>DEC PDP-8 - Applications - [PTP] (TOSEC-v2023-08-29)</description>
 		<category>TOSEC</category>
-		<version>2014-01-14</version>
+		<version>2023-08-29</version>
 		<author>TKaos</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="BASIC-8 Load-Start (1972)(DEC)">
+		<description>BASIC-8 Load-Start (1972)(DEC)</description>
+		<rom name="BASIC-8 Load-Start (1972)(DEC).ptp" size="10659" crc="faddfd2d" md5="a288d5be7b7214b499adc40d304273cb" sha1="ef7dad27dd7e39570ceb33b56cbd0140d259d663"/>
+	</game>
+	<game name="EDU-10 4K Basic 'New Basic' (1974-06-12)(DEC)">
+		<description>EDU-10 4K Basic 'New Basic' (1974-06-12)(DEC)</description>
+		<rom name="EDU-10 4K Basic 'New Basic' (1974-06-12)(DEC).ptp" size="8478" crc="05305d23" md5="010439126c737fa053517f946a2ae13d" sha1="70d504ddc1c218a3c58e9d7dd77f2d5b09db0092"/>
+	</game>
+	<game name="EDU-10 Basic 'Old Basic' (1972-08-30)(DEC)[copy 1976-03-07]">
+		<description>EDU-10 Basic 'Old Basic' (1972-08-30)(DEC)[copy 1976-03-07]</description>
+		<rom name="EDU-10 Basic 'Old Basic' (1972-08-30)(DEC)[copy 1976-03-07].ptp" size="8723" crc="65b9a02b" md5="14a77d8ab8d1d4c29a8f34c9cf7f0561" sha1="afed6185a8d02aab8b36da7b37adcfd86b685af4"/>
+	</game>
+	<game name="EDU-10 Basic 'Old Basic' (1972-08-30)(DEC)[copy 1976-03-29]">
+		<description>EDU-10 Basic 'Old Basic' (1972-08-30)(DEC)[copy 1976-03-29]</description>
+		<rom name="EDU-10 Basic 'Old Basic' (1972-08-30)(DEC)[copy 1976-03-29].ptp" size="8815" crc="03dd15b3" md5="0c1ecc242f24893854b2a1571b225c51" sha1="10fecdc9662875308f91b6d8ad34e62422072ac5"/>
+	</game>
+	<game name="EDU-20 Basic (197x)(DEC)">
+		<description>EDU-20 Basic (197x)(DEC)</description>
+		<rom name="EDU-20 Basic (197x)(DEC).ptp" size="14838" crc="91e78e92" md5="49ca1e1c061ae69411966679ef8c31a1" sha1="3c70a65e4d583fd4b4b91eeb36e0e1d9e04e1215"/>
+	</game>
 	<game name="Focal 68 (1968)(DEC)(US)">
 		<description>Focal 68 (1968)(DEC)(US)</description>
 		<rom name="Focal 68 (1968)(DEC)(US).ptp" size="8546" crc="00fd1d33" md5="40aeae0cda7539186234a75e97ec01d2" sha1="78e08d772ba0d1f8af57410edc1d47c57eb4e89d"/>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Homebrew - Games</name>
-		<description>Nintendo Game Boy - Homebrew - Games (TOSEC-v2023-06-14)</description>
+		<description>Nintendo Game Boy - Homebrew - Games (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle - newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -55,6 +55,38 @@
 	<game name="7-11 Stories (2022-07-24)(GAB BOY)">
 		<description>7-11 Stories (2022-07-24)(GAB BOY)</description>
 		<rom name="7-11 Stories (2022-07-24)(GAB BOY).gb" size="131072" crc="020e16cd" md5="b19a56ea95006ca07575b5345c2fb0e0" sha1="37110f4dfb7b8f988d67c274c6c87a1978fa16cc"/>
+	</game>
+	<game name="8 Bitty Games No.1 - Yarn Ball (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.1 - Yarn Ball (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.1 - Yarn Ball (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="4e8cdbba" md5="321780192148091f4977e1a6a7cb59a1" sha1="ead98a01661a33c83875bf8ba612725f57438f31"/>
+	</game>
+	<game name="8 Bitty Games No.2 - Orb Catcher (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.2 - Orb Catcher (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.2 - Orb Catcher (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="fe6ee0b9" md5="65528886d1d6e93317159c9625bd2570" sha1="d425a63021312e635fcb594570882c380725fadd"/>
+	</game>
+	<game name="8 Bitty Games No.3 - Tiny Dancer (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.3 - Tiny Dancer (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.3 - Tiny Dancer (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="0e61cc42" md5="b9851af1de4f4dc5ff109d57489f7bdd" sha1="f7fffac754a0cd946c8e52b2eb0253fd6462e5d7"/>
+	</game>
+	<game name="8 Bitty Games No.4 - Dodgeball (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.4 - Dodgeball (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.4 - Dodgeball (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="fc4c49af" md5="096271f08d472ffb23d37b6906e5fc59" sha1="58f2d37f786a69f9230f24db24b7da05d951f878"/>
+	</game>
+	<game name="8 Bitty Games No.5 - Blarble 1290 (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.5 - Blarble 1290 (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.5 - Blarble 1290 (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="c3255426" md5="ff27a79badc5f408302407c08253d2eb" sha1="e552d577f3d5f0124364cfb138d5cd93deb31628"/>
+	</game>
+	<game name="8 Bitty Games No.5 - Blarble 1290 (19xx)(Rodriguez, Patrick)(PD)[a]">
+		<description>8 Bitty Games No.5 - Blarble 1290 (19xx)(Rodriguez, Patrick)(PD)[a]</description>
+		<rom name="8 Bitty Games No.5 - Blarble 1290 (19xx)(Rodriguez, Patrick)(PD)[a].gb" size="65536" crc="f4585a4b" md5="371306a289f6d0a5d11cdd48beda9b9e" sha1="80c10ffb4c8cfa5050c45400e1689a4901faf79c"/>
+	</game>
+	<game name="8 Bitty Games No.6 - Beep Boop Boom Box (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.6 - Beep Boop Boom Box (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.6 - Beep Boop Boom Box (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="1bb7f781" md5="95e4fc7f36413158c9ef1ebecfb7d913" sha1="a6079ceb9622e9e64396ae23f73894339eb0d0e0"/>
+	</game>
+	<game name="8 Bitty Games No.7 - The Ritual (19xx)(Rodriguez, Patrick)(PD)">
+		<description>8 Bitty Games No.7 - The Ritual (19xx)(Rodriguez, Patrick)(PD)</description>
+		<rom name="8 Bitty Games No.7 - The Ritual (19xx)(Rodriguez, Patrick)(PD).gb" size="65536" crc="d55d04f2" md5="6cd98477fd9f6b22c37db94575328b32" sha1="f6b4e451633d686b8d6f526eb8ea6e027a0aae26"/>
 	</game>
 	<game name="A Series of Tubes (2020-06-16)(therurik)">
 		<description>A Series of Tubes (2020-06-16)(therurik)</description>
@@ -331,10 +363,6 @@
 	<game name="Astro Jump (2021-04-04)(Pxl Dev)">
 		<description>Astro Jump (2021-04-04)(Pxl Dev)</description>
 		<rom name="Astro Jump (2021-04-04)(Pxl Dev).gb" size="262144" crc="c35a3b39" md5="9b80d7dbb1eaaa379cfb59fcb032e819" sha1="1bcb4be684626ce061aad105701548fa3a77e254"/>
-	</game>
-	<game name="Astro Jump - The Sequel (2022-04-02)(PxlDev)">
-		<description>Astro Jump - The Sequel (2022-04-02)(PxlDev)</description>
-		<rom name="Astro Jump - The Sequel (2022-04-02)(PxlDev).gb" size="131072" crc="e6a96130" md5="f5e2ceff766584d558eff4eadbc97f2d" sha1="2cd0ef086c4b89497d9497a17d871a6568a9e2d3"/>
 	</game>
 	<game name="Atchafalaya Arcade (2017-12-03)(Duplantis, Tammy)(en-fr)[frc]">
 		<description>Atchafalaya Arcade (2017-12-03)(Duplantis, Tammy)(en-fr)[frc]</description>
@@ -904,9 +932,37 @@
 		<description>Cris Quest (demo-playable) (2021)(Team Coin)[Town Demo v2]</description>
 		<rom name="Cris Quest (demo-playable) (2021)(Team Coin)[Town Demo v2].gb" size="131072" crc="84f185a0" md5="7be1690b93a4aeb3f070be66ba5420d4" sha1="04c976fc68033ebc5f5b6b93420366c5b3a0a30b"/>
 	</game>
+	<game name="Cross Bomber (2023-11-28)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="4a6c6897" md5="b17ddfce3cfc675021d78b8c17720416" sha1="337b88fe4b710d241128899fef4f7ab8ff34995a"/>
+	</game>
+	<game name="Cross Chase (2023-11-28)(Caruso, Fabrizio)">
+		<description>Cross Chase (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="a5d61f8a" md5="6b7eb4d987fd183f46998aa2e5de53e9" sha1="582e0fd1eb47c565cfd037643f0813fd35dd5c49"/>
+	</game>
+	<game name="Cross Horde (2023-11-28)(Caruso, Fabrizio)">
+		<description>Cross Horde (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="96865e9b" md5="44003be7dc694556f8e10c74110411b9" sha1="6f6421a041d9a9a93ad968f54e1d0cdf660d471e"/>
+	</game>
+	<game name="Cross Shoot (2023-11-28)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="96c1f4b1" md5="61a7b21e270467887013d3154e084004" sha1="6a266ef8b5cfc4c6ce980a9390405787337535b8"/>
+	</game>
+	<game name="Cross Snake (2023-11-28)(Caruso, Fabrizio)">
+		<description>Cross Snake (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="106cedaf" md5="29a72d33c2538d8bdcc6b30efa89d28b" sha1="c840386f06cf837dc031f74d971ed4e54651b877"/>
+	</game>
 	<game name="Cross Verbix (2022-12-16)(Caruso, Fabrizio)">
 		<description>Cross Verbix (2022-12-16)(Caruso, Fabrizio)</description>
 		<rom name="Cross Verbix (2022-12-16)(Caruso, Fabrizio).gb" size="32768" crc="13781cf6" md5="8cfb1abe5a28e5c4be184f270d50aedb" sha1="195d06ad1b9afabeea748a0b423f2dc3dd239a79"/>
+	</game>
+	<game name="Cross Verbix (2023-11-28)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="0185cd4e" md5="211bc53d5d85d824c1cbdc10ed3e69d8" sha1="c5fcf44dda508377bc73b9d5a3bd93fa7961957a"/>
+	</game>
+	<game name="Crumbling Tower (2023-04-10)(Lcoh)">
+		<description>Crumbling Tower (2023-04-10)(Lcoh)</description>
+		<rom name="Crumbling Tower (2023-04-10)(Lcoh).gb" size="32768" crc="e6ebb4a2" md5="85c5f1c77f8fadf55730b39bd574990b" sha1="35d227e88648957d5912d33a1c8b530eddc18731"/>
 	</game>
 	<game name="Crush Landing (2020-08-05)(anilanil - gocivici)">
 		<description>Crush Landing (2020-08-05)(anilanil - gocivici)</description>
@@ -951,6 +1007,10 @@
 	<game name="Dangan GB v1.1 (2020-01-01)(snorpung)">
 		<description>Dangan GB v1.1 (2020-01-01)(snorpung)</description>
 		<rom name="Dangan GB v1.1 (2020-01-01)(snorpung).gb" size="262144" crc="5359d6db" md5="c85e5ba3dad5aa705b96da083cdd1a1c" sha1="10029774046dabec2d8c0533caf94091f6e19071"/>
+	</game>
+	<game name="Danielle Gaiden - A DCMMBYIAYM Story (2019)(Toby)(PD)">
+		<description>Danielle Gaiden - A DCMMBYIAYM Story (2019)(Toby)(PD)</description>
+		<rom name="Danielle Gaiden - A DCMMBYIAYM Story (2019)(Toby)(PD).gb" size="1048576" crc="443a68a5" md5="35945d8fdf0d944f13421efe309576f9" sha1="f76c3f9362fdac170a1988604ada0f672cd952d6"/>
 	</game>
 	<game name="Dante's Detour - Chapter 1 (2022-03-18)(IdnitMedia)(proto)">
 		<description>Dante's Detour - Chapter 1 (2022-03-18)(IdnitMedia)(proto)</description>
@@ -1007,6 +1067,14 @@
 	<game name="Death Planet (2019-08-13)(Mackerel Interactive)">
 		<description>Death Planet (2019-08-13)(Mackerel Interactive)</description>
 		<rom name="Death Planet (2019-08-13)(Mackerel Interactive).gb" size="32768" crc="956d9497" md5="e5c07daa704a35dd105604286546d56e" sha1="70c711f073c73f237ca5937e7ac5dc86200bcae5"/>
+	</game>
+	<game name="Deathray v1 - Free Version (demo) (2009)(Pixel H8)(PD)">
+		<description>Deathray v1 - Free Version (demo) (2009)(Pixel H8)(PD)</description>
+		<rom name="Deathray v1 - Free Version (demo) (2009)(Pixel H8)(PD).gb" size="32768" crc="614fe47d" md5="c725c2affa36f3e81ac6fed1b51e836e" sha1="79f9ed163f58cc64ff5c7bf6b9038f6245e358ee"/>
+	</game>
+	<game name="Deathray v1 - Free Version (demo) (2009)(Pixel H8)(PD)[f]">
+		<description>Deathray v1 - Free Version (demo) (2009)(Pixel H8)(PD)[f]</description>
+		<rom name="Deathray v1 - Free Version (demo) (2009)(Pixel H8)(PD)[f].gb" size="32768" crc="5411acba" md5="e0e03e15d09308338a2dc59512f315cb" sha1="bc747934766547c579fdc909eaeb3d281155f1dc"/>
 	</game>
 	<game name="Deep Dungeon v1.3 (2021-09-09)(Lazy Dev Games)">
 		<description>Deep Dungeon v1.3 (2021-09-09)(Lazy Dev Games)</description>
@@ -1372,6 +1440,10 @@
 		<description>Favor for My Hooman, A (2021-05-24)(GameDevClub)(proto)</description>
 		<rom name="Favor for My Hooman, A (2021-05-24)(GameDevClub)(proto).gb" size="1048576" crc="f658ae26" md5="59f1ccff7b5ec7909e89faead3fdef25" sha1="0397798875415e3349c363c74eb6af0e9b1a3a00"/>
 	</game>
+	<game name="FB-GB (20xx)(Alan.H)(PD)">
+		<description>FB-GB (20xx)(Alan.H)(PD)</description>
+		<rom name="FB-GB (20xx)(Alan.H)(PD).gb" size="32768" crc="04e73c3a" md5="ab885ee99231cf3f0bac170a31bf925d" sha1="2411fbb6f1c19852de1618a33a79c7252c7e0f54"/>
+	</game>
 	<game name="Feeding Time (2022-05-29)(Hohenstaufer Studio)">
 		<description>Feeding Time (2022-05-29)(Hohenstaufer Studio)</description>
 		<rom name="Feeding Time (2022-05-29)(Hohenstaufer Studio).gb" size="262144" crc="b9149a21" md5="f8f2578b7550c0b4e2245760eb1940ea" sha1="af5e00107cc0065f918f03b5e09a75ae6f7b5b4c"/>
@@ -1404,6 +1476,10 @@
 		<description>Fix-It-Felix Jr. (2020-10-07)(Davgav)</description>
 		<rom name="Fix-It-Felix Jr. (2020-10-07)(Davgav).gb" size="131072" crc="c8014615" md5="ba2f86e301d723422e92dc2d23fbc976" sha1="7221f5e53f6027183301d06e258c6cb417007b8c"/>
 	</game>
+	<game name="Flappy Bird (20xx)(-)(PD)">
+		<description>Flappy Bird (20xx)(-)(PD)</description>
+		<rom name="Flappy Bird (20xx)(-)(PD).gb" size="32768" crc="0808d123" md5="26baaad2648a94ab01cd525aa6a5f311" sha1="f7f6956e5ef331fcda4d980ca0c50630b4491a32"/>
+	</game>
 	<game name="Flappy Boy (2014)(Martinez, Miguel Angel Perez)">
 		<description>Flappy Boy (2014)(Martinez, Miguel Angel Perez)</description>
 		<rom name="Flappy Boy (2014)(Martinez, Miguel Angel Perez).gb" size="32768" crc="f41c73f1" md5="4c0b53fd1fe4923d880e2fc70418d101" sha1="8603205feb836fe02091719649cb887cc4e344d4"/>
@@ -1423,6 +1499,10 @@
 	<game name="Floppy Game, The (2022-02-11)(GameBuoyGames)">
 		<description>Floppy Game, The (2022-02-11)(GameBuoyGames)</description>
 		<rom name="Floppy Game, The (2022-02-11)(GameBuoyGames).gb" size="1048576" crc="c3c29a3f" md5="65b8ee4cd27255aedf53806a7931bc63" sha1="b4a37b7a8d061879e5b8ba8dcb484d3541ece69a"/>
+	</game>
+	<game name="Florbicorn (2023-06-17)(Zhamul)">
+		<description>Florbicorn (2023-06-17)(Zhamul)</description>
+		<rom name="Florbicorn (2023-06-17)(Zhamul).gb" size="131072" crc="b3e1a0b1" md5="7c1692e8a91444678376d788b6bccce4" sha1="c4d8405a096aeff6b352fae255ec07ffa54d238a"/>
 	</game>
 	<game name="Flurry's Adventure in Icecream Land (2021-03-09)(Potato &amp; Co)">
 		<description>Flurry's Adventure in Icecream Land (2021-03-09)(Potato &amp; Co)</description>
@@ -1471,6 +1551,10 @@
 	<game name="Forgotten Engine Sample Game (2021-03-08)(nowheresoft)">
 		<description>Forgotten Engine Sample Game (2021-03-08)(nowheresoft)</description>
 		<rom name="Forgotten Engine Sample Game (2021-03-08)(nowheresoft).gb" size="262144" crc="399d9414" md5="99e014f8681162757115d5fc98dc9bf0" sha1="bac95adf8e3bf2421fe5a864d5202cea734b7398"/>
+	</game>
+	<game name="Formula Racing (2016)(Refresh)(PD)">
+		<description>Formula Racing (2016)(Refresh)(PD)</description>
+		<rom name="Formula Racing (2016)(Refresh)(PD).gb" size="131072" crc="5b85269c" md5="dff37e143f8a7a38ef7ba09087dd9a67" sha1="d3dee00d003a6a65efc5acd982e42e46a0315f7f"/>
 	</game>
 	<game name="FortBoy (2022-03-14)(Kersjes, Tijn)[7DRL version]">
 		<description>FortBoy (2022-03-14)(Kersjes, Tijn)[7DRL version]</description>
@@ -1744,6 +1828,10 @@
 		<description>Gb Us (2021-11-05)(Coolapple)</description>
 		<rom name="Gb Us (2021-11-05)(Coolapple).gb" size="262144" crc="0687a301" md5="a548925315df20c86bdf6a9a1e506e82" sha1="d29ed9c9c540b592983fd8b25df946fd0572a8eb"/>
 	</game>
+	<game name="gb-wordle (2022-02-06)(nezza)(GPLv3)">
+		<description>gb-wordle (2022-02-06)(nezza)(GPLv3)</description>
+		<rom name="gb-wordle (2022-02-06)(nezza)(GPLv3).gb" size="32768" crc="cc971c0f" md5="aa05bfdc3b5655d4cf6694f54a6262b0" sha1="ba93939b93ab3f3aa5f7aa451d50d9b89220adbc"/>
+	</game>
 	<game name="GB-Wordyl v0.5 (2022-02-12)(bbbbbr)(GPLv3)">
 		<description>GB-Wordyl v0.5 (2022-02-12)(bbbbbr)(GPLv3)</description>
 		<rom name="GB-Wordyl v0.5 (2022-02-12)(bbbbbr)(GPLv3).gb" size="32768" crc="dae17e6f" md5="b8df018abf36cb849bc7b00b1f8f4029" sha1="62ad1725f00eadf42c412a46a7395c96f402c455"/>
@@ -1784,165 +1872,165 @@
 		<description>GB-Wordyl v0.85.1 (2022-03-28)(bbbbbr)(nl)(GPLv3)</description>
 		<rom name="GB-Wordyl v0.85.1 (2022-03-28)(bbbbbr)(nl)(GPLv3).gb" size="32768" crc="d3cc2c08" md5="73212d95df971b1421656f6f8dd661a1" sha1="d689b1c50915c9ad884dbe3e7eebc2f0238f9b90"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(ca)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(ca)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(ca)(GPLv3).gb" size="32768" crc="56566eee" md5="0577dc5ea640f19ef7378be90ed9915b" sha1="0f03c3c1bb604f4cac5d910f5c6fcc47ba01843f"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(ca)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(ca)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(ca)(GPLv3).gb" size="32768" crc="56566eee" md5="0577dc5ea640f19ef7378be90ed9915b" sha1="0f03c3c1bb604f4cac5d910f5c6fcc47ba01843f"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="557e7832" md5="607ea5c6cb7ee1b8506e98e99421348c" sha1="f11922fa8404fa737ae4c20abdae3a2defba9b41"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="557e7832" md5="607ea5c6cb7ee1b8506e98e99421348c" sha1="f11922fa8404fa737ae4c20abdae3a2defba9b41"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(de)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(de)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(de)(GPLv3).gb" size="32768" crc="2ad934f8" md5="705b30ad02a2d0481858847e91b9b7b7" sha1="10c91a2cf9fe0f5bb4c70f6bf4495cc42ba8ad3b"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(de)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(de)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(de)(GPLv3).gb" size="32768" crc="2ad934f8" md5="705b30ad02a2d0481858847e91b9b7b7" sha1="10c91a2cf9fe0f5bb4c70f6bf4495cc42ba8ad3b"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="65e31b22" md5="9dcbec1f9f90dd99817365d1d37f68d7" sha1="2df856e4ef0c9165df3009bb3fbe088c594053aa"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="65e31b22" md5="9dcbec1f9f90dd99817365d1d37f68d7" sha1="2df856e4ef0c9165df3009bb3fbe088c594053aa"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(es)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(es)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(es)(GPLv3).gb" size="32768" crc="94e5a5c8" md5="3347f9441f24fefabd59e2d4a41c0046" sha1="f00b4348dcc3508a2e897c85414fdabc3d6a1e1e"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(es)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(es)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(es)(GPLv3).gb" size="32768" crc="94e5a5c8" md5="3347f9441f24fefabd59e2d4a41c0046" sha1="f00b4348dcc3508a2e897c85414fdabc3d6a1e1e"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="67187701" md5="0d17379a0b8ad0ecdf480f27837b0ae7" sha1="0e41051d7c8169064459e06082a8494d5b5d811a"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="67187701" md5="0d17379a0b8ad0ecdf480f27837b0ae7" sha1="0e41051d7c8169064459e06082a8494d5b5d811a"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(fr)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(fr)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(fr)(GPLv3).gb" size="32768" crc="aacc408c" md5="23d72a13f17c7612aff8c7a76b827b4b" sha1="b17b0305396c970f25056245a3974e914045a286"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(fr)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(fr)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(fr)(GPLv3).gb" size="32768" crc="aacc408c" md5="23d72a13f17c7612aff8c7a76b827b4b" sha1="b17b0305396c970f25056245a3974e914045a286"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="e75afa8c" md5="499dd52f2a829566d1eae857fc3822f5" sha1="081243d027a86484703e4d4cc33cc7e5299185de"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="e75afa8c" md5="499dd52f2a829566d1eae857fc3822f5" sha1="081243d027a86484703e4d4cc33cc7e5299185de"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(GPLv3).gb" size="32768" crc="5945642d" md5="d712a27ea9fdf481a37a3ed2ba5626b4" sha1="8cd857ec53984732e2c4be6042aab83405058f60"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(GPLv3).gb" size="32768" crc="5945642d" md5="d712a27ea9fdf481a37a3ed2ba5626b4" sha1="8cd857ec53984732e2c4be6042aab83405058f60"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="3eb0b7ea" md5="9ceac7f40080bbef2b1119bc388d83d7" sha1="96a5857c36fdf9a261747f4a49b92d13b4aaedfc"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="3eb0b7ea" md5="9ceac7f40080bbef2b1119bc388d83d7" sha1="96a5857c36fdf9a261747f4a49b92d13b4aaedfc"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(it)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(it)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(it)(GPLv3).gb" size="32768" crc="6193a0f2" md5="50e8c26d268c85eb7027bb825bb7501b" sha1="f2f8b56cd2856591e4f1ea2ed8a875428386d2cc"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(it)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(it)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(it)(GPLv3).gb" size="32768" crc="6193a0f2" md5="50e8c26d268c85eb7027bb825bb7501b" sha1="f2f8b56cd2856591e4f1ea2ed8a875428386d2cc"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="432d15d6" md5="9b8d2db741174954a0f272ecf22435fe" sha1="1304b577c41da8eab59c1f4c709a273ad14704ed"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="432d15d6" md5="9b8d2db741174954a0f272ecf22435fe" sha1="1304b577c41da8eab59c1f4c709a273ad14704ed"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(kw)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(kw)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(kw)(GPLv3).gb" size="32768" crc="125fc552" md5="682424b7bb9d8c00e0c99395857d903a" sha1="2681b4571ea653d52d67d8e59077df22281a2e30"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(kw)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(kw)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(kw)(GPLv3).gb" size="32768" crc="125fc552" md5="682424b7bb9d8c00e0c99395857d903a" sha1="2681b4571ea653d52d67d8e59077df22281a2e30"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="89c797b1" md5="32e7131752ee109228317948f50e8755" sha1="ad97410dca9416c003df7632bb800ded6b272f31"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="89c797b1" md5="32e7131752ee109228317948f50e8755" sha1="ad97410dca9416c003df7632bb800ded6b272f31"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(la)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(la)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(la)(GPLv3).gb" size="32768" crc="724ac506" md5="07f69a3cf8a9723cbc9358022ae505d4" sha1="a8d24152e4211c379e06b25eb9d073d157b59d14"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(la)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(la)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(la)(GPLv3).gb" size="32768" crc="724ac506" md5="07f69a3cf8a9723cbc9358022ae505d4" sha1="a8d24152e4211c379e06b25eb9d073d157b59d14"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="0015fdf7" md5="439afaf6883b38cade8e8c6f9e77c1c8" sha1="7c4c22ecbe4cc1c26e47f6d1cd3e09d1763a0ca7"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="0015fdf7" md5="439afaf6883b38cade8e8c6f9e77c1c8" sha1="7c4c22ecbe4cc1c26e47f6d1cd3e09d1763a0ca7"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(nl)(GPLv3)">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(nl)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(nl)(GPLv3).gb" size="32768" crc="9be77d07" md5="e759ab0cbc6d997f395ac6be59781a6a" sha1="0cd29a71e39175fe8960b38f3e8edf89976dde12"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(nl)(GPLv3)">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(nl)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(nl)(GPLv3).gb" size="32768" crc="9be77d07" md5="e759ab0cbc6d997f395ac6be59781a6a" sha1="0cd29a71e39175fe8960b38f3e8edf89976dde12"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="a0179566" md5="4da0d3e819ec9e4f30f847b4fa98964e" sha1="1910b21c12ea98cebb5b8df6b42b29603bef8965"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="a0179566" md5="4da0d3e819ec9e4f30f847b4fa98964e" sha1="1910b21c12ea98cebb5b8df6b42b29603bef8965"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br].gb" size="32768" crc="6deec8e3" md5="20cc2d62a833ff5a661b1b48a76b4d9f" sha1="8644a4a3f429fa85a508fc98d97afb301790fa95"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br].gb" size="32768" crc="6deec8e3" md5="20cc2d62a833ff5a661b1b48a76b4d9f" sha1="8644a4a3f429fa85a508fc98d97afb301790fa95"/>
 	</game>
-	<game name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(pt)(GPLv3)[pt-br]">
-		<description>GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(pt)(GPLv3)[pt-br]</description>
-		<rom name="GB-Wordyl v1.00 (2022-05-25)(bbbbbr)(pt)(GPLv3)[pt-br].gb" size="32768" crc="d1cefc5f" md5="8fe7c485349f3de1b04ee81419579ca2" sha1="0f873df29a08af05e42949a61a8a4c4dc782792b"/>
+	<game name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(pt)(GPLv3)[pt-br]">
+		<description>GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(pt)(GPLv3)[pt-br]</description>
+		<rom name="GB-Wordyl v1.0.0 (2022-05-25)(bbbbbr)(pt)(GPLv3)[pt-br].gb" size="32768" crc="d1cefc5f" md5="8fe7c485349f3de1b04ee81419579ca2" sha1="0f873df29a08af05e42949a61a8a4c4dc782792b"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(ca)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(ca)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(ca)(GPLv3).gb" size="32768" crc="ab7d2082" md5="f0e4ca16c85e3ca9bfd6fd74e58cb2b0" sha1="6b38181ece91449f698832e3b5a5321e40813857"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(ca)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(ca)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(ca)(GPLv3).gb" size="32768" crc="ab7d2082" md5="f0e4ca16c85e3ca9bfd6fd74e58cb2b0" sha1="6b38181ece91449f698832e3b5a5321e40813857"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="af61a73d" md5="55953921ef06168d041c34a1f6999cb3" sha1="02b59496cf18a91ff27e032812050c2dde72818a"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(ca)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="af61a73d" md5="55953921ef06168d041c34a1f6999cb3" sha1="02b59496cf18a91ff27e032812050c2dde72818a"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(de)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(de)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(de)(GPLv3).gb" size="32768" crc="841c5bc1" md5="f4b1812594d53955ecde7957543f08ec" sha1="6b4744aa547fd402fd92758ea62ec004f38f1609"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(de)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(de)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(de)(GPLv3).gb" size="32768" crc="841c5bc1" md5="f4b1812594d53955ecde7957543f08ec" sha1="6b4744aa547fd402fd92758ea62ec004f38f1609"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="56dff24e" md5="a85e49d61666d220e97a2b9678855c6d" sha1="26381f06129d854094af89d59e8ce809bd8b5227"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(de)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="56dff24e" md5="a85e49d61666d220e97a2b9678855c6d" sha1="26381f06129d854094af89d59e8ce809bd8b5227"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(es)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(es)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(es)(GPLv3).gb" size="32768" crc="8094f662" md5="4abc8aad00fd01a119bca444756bbea4" sha1="62cf283b41dac0f6052efb4c5a1e2efc23be57ce"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(es)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(es)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(es)(GPLv3).gb" size="32768" crc="8094f662" md5="4abc8aad00fd01a119bca444756bbea4" sha1="62cf283b41dac0f6052efb4c5a1e2efc23be57ce"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="610ca69f" md5="b567094a63dda7add2dbc0bb007603b3" sha1="eb7d485aa83cca70728762208e3343755335d540"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(es)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="610ca69f" md5="b567094a63dda7add2dbc0bb007603b3" sha1="eb7d485aa83cca70728762208e3343755335d540"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(fr)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(fr)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(fr)(GPLv3).gb" size="32768" crc="72b981e3" md5="7d8bd3520fef11300c4ae50f095973ff" sha1="5043a47f1761c63e54504c22909c920a849dfb93"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(fr)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(fr)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(fr)(GPLv3).gb" size="32768" crc="72b981e3" md5="7d8bd3520fef11300c4ae50f095973ff" sha1="5043a47f1761c63e54504c22909c920a849dfb93"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="8dac5549" md5="18f28d2b5ac41c1b035ff5628d6be1d4" sha1="b8c4c8e7503ead70285359cb368be8a0ff903e65"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(fr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="8dac5549" md5="18f28d2b5ac41c1b035ff5628d6be1d4" sha1="b8c4c8e7503ead70285359cb368be8a0ff903e65"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(GPLv3).gb" size="32768" crc="7587f2da" md5="702bee919d1c9a67069213d6d286af51" sha1="f7557aa778321f9a725ce20532e1308a87dd9abc"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(GPLv3).gb" size="32768" crc="7587f2da" md5="702bee919d1c9a67069213d6d286af51" sha1="f7557aa778321f9a725ce20532e1308a87dd9abc"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="6041fd02" md5="e02e07f344f4f79bb46ccf4c2fafe72a" sha1="14047bc6889913a6ea6eb6a0668ab3597f06c7bf"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="6041fd02" md5="e02e07f344f4f79bb46ccf4c2fafe72a" sha1="14047bc6889913a6ea6eb6a0668ab3597f06c7bf"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(it)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(it)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(it)(GPLv3).gb" size="32768" crc="dda231b1" md5="639f8ef8814e46f1f34e4b6894ca3e3f" sha1="25a5a3e2fef9d01fa45986622830cf408fd690e7"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(it)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(it)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(it)(GPLv3).gb" size="32768" crc="dda231b1" md5="639f8ef8814e46f1f34e4b6894ca3e3f" sha1="25a5a3e2fef9d01fa45986622830cf408fd690e7"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="20a14863" md5="2f6a589596614cb9306139320f9f74a0" sha1="832b240d7ec4f5812ef6d30b533887cf324b7825"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(it)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="20a14863" md5="2f6a589596614cb9306139320f9f74a0" sha1="832b240d7ec4f5812ef6d30b533887cf324b7825"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(kw)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(kw)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(kw)(GPLv3).gb" size="32768" crc="b5706cf9" md5="6ffd66964927e87db21d2045b0d7ef91" sha1="ec7c8757262164f37c69958067537eee61502341"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(kw)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(kw)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(kw)(GPLv3).gb" size="32768" crc="b5706cf9" md5="6ffd66964927e87db21d2045b0d7ef91" sha1="ec7c8757262164f37c69958067537eee61502341"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="e20b1b46" md5="cb1ba099b525c40785d0dc62713dafc2" sha1="6a7f698a997cc90fb10de0b45ca8cc87e4ca75e5"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(kw)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="e20b1b46" md5="cb1ba099b525c40785d0dc62713dafc2" sha1="6a7f698a997cc90fb10de0b45ca8cc87e4ca75e5"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(la)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(la)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(la)(GPLv3).gb" size="32768" crc="0639f43f" md5="2071f5b6a3371ec28811a9fee91198ae" sha1="ea7020ed4d6b1a98a4725a15373f2ae49ee7a9b6"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(la)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(la)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(la)(GPLv3).gb" size="32768" crc="0639f43f" md5="2071f5b6a3371ec28811a9fee91198ae" sha1="ea7020ed4d6b1a98a4725a15373f2ae49ee7a9b6"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="ed4b417a" md5="47abea286e9922edfe613ed71509287f" sha1="44c2669a7ffd316f293a2fa726140ee1ccb6b9eb"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(la)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="ed4b417a" md5="47abea286e9922edfe613ed71509287f" sha1="44c2669a7ffd316f293a2fa726140ee1ccb6b9eb"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(nl)(GPLv3)">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(nl)(GPLv3)</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(nl)(GPLv3).gb" size="32768" crc="8817787d" md5="ce4a2adadf5d55be2679f69c7deccfb2" sha1="53efec377e279f317baea0fe44e8974154fb3375"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(nl)(GPLv3)">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(nl)(GPLv3)</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(nl)(GPLv3).gb" size="32768" crc="8817787d" md5="ce4a2adadf5d55be2679f69c7deccfb2" sha1="53efec377e279f317baea0fe44e8974154fb3375"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="f49c4514" md5="a624f271b716f43826041494b98d2183" sha1="e306378bd26451818ec5ebf125b3c294e05437b7"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(nl)(GPLv3)[no save - bare 32K cart].gb" size="32768" crc="f49c4514" md5="a624f271b716f43826041494b98d2183" sha1="e306378bd26451818ec5ebf125b3c294e05437b7"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br].gb" size="32768" crc="c86e609e" md5="4d333d187089bd32c21c324e292f3812" sha1="fb364eb52bc6e6fc0d19e687f7210b69a94ee81a"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(pt)(GPLv3)[no save - bare 32K cart][pt-br].gb" size="32768" crc="c86e609e" md5="4d333d187089bd32c21c324e292f3812" sha1="fb364eb52bc6e6fc0d19e687f7210b69a94ee81a"/>
 	</game>
-	<game name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(pt)(GPLv3)[pt-br]">
-		<description>GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(pt)(GPLv3)[pt-br]</description>
-		<rom name="GB-Wordyl v1.03 (2022-08-07)(bbbbbr)(pt)(GPLv3)[pt-br].gb" size="32768" crc="cab6692b" md5="fc12d445f9019b4bc7c9ec97e25c7259" sha1="53ed18d8794979ff83d6f8f7b83dd82f121f2a55"/>
+	<game name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(pt)(GPLv3)[pt-br]">
+		<description>GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(pt)(GPLv3)[pt-br]</description>
+		<rom name="GB-Wordyl v1.0.3 (2022-08-07)(bbbbbr)(pt)(GPLv3)[pt-br].gb" size="32768" crc="cab6692b" md5="fc12d445f9019b4bc7c9ec97e25c7259" sha1="53ed18d8794979ff83d6f8f7b83dd82f121f2a55"/>
 	</game>
 	<game name="GBayeux (2021-03-14)(Game portal...)">
 		<description>GBayeux (2021-03-14)(Game portal...)</description>
@@ -1987,6 +2075,10 @@
 	<game name="GIG24 (2021-03-10)(bigmonsterteeth)">
 		<description>GIG24 (2021-03-10)(bigmonsterteeth)</description>
 		<rom name="GIG24 (2021-03-10)(bigmonsterteeth).gb" size="131072" crc="70e2c8ed" md5="8d9107bc010d5793e0f449616695b759" sha1="7b0b7ade54dfee3a018a8edfb613d3be8d509719"/>
+	</game>
+	<game name="Gimme Your Heart (2019)(Nero)(PD)">
+		<description>Gimme Your Heart (2019)(Nero)(PD)</description>
+		<rom name="Gimme Your Heart (2019)(Nero)(PD).gb" size="524288" crc="354bdaf4" md5="b1dcc768b43146abb921bcbd06a75c0b" sha1="fb1de8b420fe872bce4a1d3caa810651f63bb78e"/>
 	</game>
 	<game name="Gloomglow - Prologue v2 (2022-06-13)(Retro Blasted Games)">
 		<description>Gloomglow - Prologue v2 (2022-06-13)(Retro Blasted Games)</description>
@@ -2327,6 +2419,10 @@
 	<game name="Kepler's Castle v1.0 (2020-12-06)(Impergatox)">
 		<description>Kepler's Castle v1.0 (2020-12-06)(Impergatox)</description>
 		<rom name="Kepler's Castle v1.0 (2020-12-06)(Impergatox).gb" size="524288" crc="9502ea78" md5="bc41eea86437a0aeae6fbec3ff133926" sha1="f83c28d86fe3d55091da14d61e41f1b5dc3351ec"/>
+	</game>
+	<game name="Keystone Capers (2015)(haroldo-ok)">
+		<description>Keystone Capers (2015)(haroldo-ok)</description>
+		<rom name="Keystone Capers (2015)(haroldo-ok).gb" size="65536" crc="5444fb12" md5="f9c5c3bf413999964e6d5f2678392120" sha1="1b9411ea4db5b71723cd8e5da5171d3413bf6be2"/>
 	</game>
 	<game name="Khonsu (2021-10-08)(redoctorok)">
 		<description>Khonsu (2021-10-08)(redoctorok)</description>
@@ -2840,6 +2936,10 @@
 		<description>Mountain Climber (2021-03-27)(RetroGamer)(en-es)</description>
 		<rom name="Mountain Climber (2021-03-27)(RetroGamer)(en-es).gb" size="262144" crc="362a84ba" md5="975afeb42d4dca06ab6d0b029def64af" sha1="b4b3afa2379a07acab6965ae8fcf6d2ba82d6d7e"/>
 	</game>
+	<game name="Murder Mansion (2019)(Schneider, J.)(PD)">
+		<description>Murder Mansion (2019)(Schneider, J.)(PD)</description>
+		<rom name="Murder Mansion (2019)(Schneider, J.)(PD).gb" size="1048576" crc="0ab95891" md5="907799c7bd3be7b330145d70296e51cf" sha1="35a99df62628c3eb541d704d1ec795ba1a36e712"/>
+	</game>
 	<game name="Mushroom Town (2022-01-30)(heyoof)">
 		<description>Mushroom Town (2022-01-30)(heyoof)</description>
 		<rom name="Mushroom Town (2022-01-30)(heyoof).gb" size="262144" crc="3d10fd45" md5="d4e193dc36375dc002203387e2a36101" sha1="5e5e5ebe7dd9494e67f15a6734e59adeea73e762"/>
@@ -3107,6 +3207,10 @@
 	<game name="Peasant's Quest v3 (2021-03-29)(wbutz1)">
 		<description>Peasant's Quest v3 (2021-03-29)(wbutz1)</description>
 		<rom name="Peasant's Quest v3 (2021-03-29)(wbutz1).gb" size="262144" crc="073bb11e" md5="ab6293147f378a61f76dabb1fe6948f0" sha1="9c4516ed91a1caf1cf2fc48c71eb690c2a15d65b"/>
+	</game>
+	<game name="Pegged v1.02 (2023-06-09)(Under4Mhz)">
+		<description>Pegged v1.02 (2023-06-09)(Under4Mhz)</description>
+		<rom name="Pegged v1.02 (2023-06-09)(Under4Mhz).gb" size="32768" crc="27b2f3a2" md5="bae4ed0b8279621ed3b7245b6c0396e6" sha1="762e9eeca04a4cc92725ada92ed73c06baa500a2"/>
 	</game>
 	<game name="Perfect Blend (2021-10-25)(Rollins, Bryan)[GobJam Edition]">
 		<description>Perfect Blend (2021-10-25)(Rollins, Bryan)[GobJam Edition]</description>
@@ -3496,6 +3600,10 @@
 		<description>Rewind Time (2022-05-29)(allalonegamez)</description>
 		<rom name="Rewind Time (2022-05-29)(allalonegamez).gb" size="262144" crc="d8ad184a" md5="084bd732797939ad697b9a3d51f01ba4" sha1="903ef8074e58a52bc98dcb9e3f2c88b52fc1335b"/>
 	</game>
+	<game name="Rhobit v0.2 (2022-07-03)(Denebola Interactive)">
+		<description>Rhobit v0.2 (2022-07-03)(Denebola Interactive)</description>
+		<rom name="Rhobit v0.2 (2022-07-03)(Denebola Interactive).gb" size="65536" crc="01519b29" md5="96f419e463d3c8818dd1672fe334ec2a" sha1="b63b9c30967589f2ab44d6d44e29e28038b3e5df"/>
+	</game>
 	<game name="Rhythm (2021-11-06)(Toxa)(MIT)">
 		<description>Rhythm (2021-11-06)(Toxa)(MIT)</description>
 		<rom name="Rhythm (2021-11-06)(Toxa)(MIT).gb" size="32768" crc="528493db" md5="49e175baf7265879d28b9123546213cf" sha1="74a194755eeccbcf1fd52a8cfa2f0219f573d788"/>
@@ -3687,6 +3795,14 @@
 	<game name="Show Some Respect (2022-02-09)(incognitio)">
 		<description>Show Some Respect (2022-02-09)(incognitio)</description>
 		<rom name="Show Some Respect (2022-02-09)(incognitio).gb" size="131072" crc="9b209aa0" md5="661fc24ab204245c201d92613acf9b9e" sha1="da22294bd6d9432336491acac52eb6c4124cd53c"/>
+	</game>
+	<game name="Shuriken (2023-06-30)(Caruso, Fabrizio)">
+		<description>Shuriken (2023-06-30)(Caruso, Fabrizio)</description>
+		<rom name="Shuriken (2023-06-30)(Caruso, Fabrizio).gb" size="32768" crc="c2c72b3d" md5="0a04f6433d50091d6a329d5d2bf71239" sha1="1972afd8151e375b3b3326725910ec462d85b7d5"/>
+	</game>
+	<game name="Shuriken (2023-11-28)(Caruso, Fabrizio)">
+		<description>Shuriken (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Shuriken (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="8a85de99" md5="48455c3db2ed864fbae569c33bcffb46" sha1="86735405aab7c9b586bb613aed29d5099c897236"/>
 	</game>
 	<game name="Siesta (2020-10-21)(The Chromian)">
 		<description>Siesta (2020-10-21)(The Chromian)</description>
@@ -3968,6 +4084,14 @@
 		<description>Stick Adventure (demo-playable) (2021-05-26)(Sourdough Games)</description>
 		<rom name="Stick Adventure (demo-playable) (2021-05-26)(Sourdough Games).gb" size="1048576" crc="d9b319d8" md5="82855bac5a97c81a1aa20bbe71dd7702" sha1="401b8dd9dcbefad48d4d7766b10a40d56b08ff63"/>
 	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio).gb" size="32768" crc="42ef677d" md5="10630f7ecea976cc4cb939dd166429da" sha1="43249b306416c85e6065adc9a3441ce015fa9f66"/>
+	</game>
+	<game name="Stinger (2023-11-28)(Caruso, Fabrizio)">
+		<description>Stinger (2023-11-28)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="85e35576" md5="8d1a63bef0394b5513572c372748aba0" sha1="3fca0f38956ebdf560c6a723c099b2a3a9791526"/>
+	</game>
 	<game name="Stone Constructor v1.1.1 (2020-10-17)(labdoc)">
 		<description>Stone Constructor v1.1.1 (2020-10-17)(labdoc)</description>
 		<rom name="Stone Constructor v1.1.1 (2020-10-17)(labdoc).gb" size="65536" crc="5f5a05bc" md5="cf829b53e06541427c1c0708ae15a263" sha1="57cf1a3f46a3d4c266f3be2d7ba130d2935ca9ab"/>
@@ -4196,6 +4320,14 @@
 		<description>Tobu Tobu Bōzu (2022-05-23)(Bownly)</description>
 		<rom name="Tobu Tobu Bōzu (2022-05-23)(Bownly).gb" size="65536" crc="fbaa7957" md5="c04939867633fcbf03be03ca9f7ff2c6" sha1="711384049bf85e9865adb3cc6fca02cc4a215f70"/>
 	</game>
+	<game name="Tobu Tobu Girl (2017-12-03)(Tangram Games)(DK)(en)(MIT)">
+		<description>Tobu Tobu Girl (2017-12-03)(Tangram Games)(DK)(en)(MIT)</description>
+		<rom name="Tobu Tobu Girl (2017-12-03)(Tangram Games)(DK)(en)(MIT).gb" size="262144" crc="ed12be6c" md5="48ea776eace6f2582b70dc965cf2df1f" sha1="8a8f3c1f21f903ea5a7df8fc8b0a6aa5a602e150"/>
+	</game>
+	<game name="Tobu Tobu Girl Deluxe (2019-10-28)(Tangram Games)(DK)(en)(MIT)">
+		<description>Tobu Tobu Girl Deluxe (2019-10-28)(Tangram Games)(DK)(en)(MIT)</description>
+		<rom name="Tobu Tobu Girl Deluxe (2019-10-28)(Tangram Games)(DK)(en)(MIT).gb" size="262144" crc="16650a8b" md5="c48f26f5079ad1b411c78fbcb2738d67" sha1="fe6eef70d48dda741f7ad3b6cc5e753e8cd13239"/>
+	</game>
 	<game name="Tomb Gator v3 (demo-playable) (2022-05-04)(PewKo Games)[SGB]">
 		<description>Tomb Gator v3 (demo-playable) (2022-05-04)(PewKo Games)[SGB]</description>
 		<rom name="Tomb Gator v3 (demo-playable) (2022-05-04)(PewKo Games)[SGB].gb" size="524288" crc="7d0c206e" md5="be99d5c687854a072025ca997a528279" sha1="ce7296d17c2b9f8460cffc1f0e3b1d6fdb289856"/>
@@ -4360,6 +4492,10 @@
 		<description>VelociRush Time Trials (demo-playable) (2021-05-28)(Goochi)</description>
 		<rom name="VelociRush Time Trials (demo-playable) (2021-05-28)(Goochi).gb" size="524288" crc="86d14201" md5="eb724bf7839a51dafdb7636ed5ff8ea2" sha1="d794508a9a232ab5cd088ac27b76566c5b84a888"/>
 	</game>
+	<game name="Vexed v1.11 (2023-09-05)(Under4Mhz)">
+		<description>Vexed v1.11 (2023-09-05)(Under4Mhz)</description>
+		<rom name="Vexed v1.11 (2023-09-05)(Under4Mhz).gb" size="32768" crc="f36c4a45" md5="d5762658277dfb7639860c9fc5b93564" sha1="8491b883a6b3cfba3e25f419ee8ab0a9a694c1d1"/>
+	</game>
 	<game name="Vinca Rose (2021-10-14)(R., Viktor)">
 		<description>Vinca Rose (2021-10-14)(R., Viktor)</description>
 		<rom name="Vinca Rose (2021-10-14)(R., Viktor).gb" size="524288" crc="9aa6a4f2" md5="9213243fe1065733a016a4198c91ed82" sha1="716c2a717a8ad3d7989a4a8e1e07e0517e4ebbf5"/>
@@ -4515,6 +4651,10 @@
 	<game name="Wizard of Wor (2021-12-15)(WLS)">
 		<description>Wizard of Wor (2021-12-15)(WLS)</description>
 		<rom name="Wizard of Wor (2021-12-15)(WLS).gb" size="524288" crc="bfb1563e" md5="8fc6e8e0f47d0fff71e1fc5e0bc67964" sha1="108eefa154412e3422dce4e63bf34f5826ec1baa"/>
+	</game>
+	<game name="Wolfenstein Maze 3D v1.16 (2023-04-03)(Under4Mhz)">
+		<description>Wolfenstein Maze 3D v1.16 (2023-04-03)(Under4Mhz)</description>
+		<rom name="Wolfenstein Maze 3D v1.16 (2023-04-03)(Under4Mhz).gb" size="524288" crc="92afaab5" md5="3e9b819f8002692f84c20b4795fb23ac" sha1="59e7bfe118d4337c1d876d9dbdbd354845176998"/>
 	</game>
 	<game name="Woolball's Backyard (2019-06-08)(Zhamul)">
 		<description>Woolball's Backyard (2019-06-08)(Zhamul)</description>

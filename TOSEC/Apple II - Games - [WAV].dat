@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Games - [WAV]</name>
-		<description>Apple II - Games - [WAV] (TOSEC-v2023-06-14)</description>
+		<description>Apple II - Games - [WAV] (TOSEC-v2024-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-14</version>
+		<version>2024-01-15</version>
 		<author>mictlantecuhtle - FakeShemp</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -112,9 +112,13 @@
 		<description>Apple Invaders (19xx)(Tsukomo Original Soft)(JP)</description>
 		<rom name="Apple Invaders (19xx)(Tsukomo Original Soft)(JP).wav" size="6003756" crc="4d00a70a" md5="7aceeca00223f4df944a6b1ccda03239" sha1="f53df334c9ae2013547e4640d8facf436f3e22a3"/>
 	</game>
-	<game name="Apple Puck Man (1981-01-11)(Star Craft)(JP)">
-		<description>Apple Puck Man (1981-01-11)(Star Craft)(JP)</description>
-		<rom name="Apple Puck Man (1981-01-11)(Star Craft)(JP).wav" size="13283372" crc="f94b379f" md5="a705a32b6e00ddc5378d1da9012818b6" sha1="dd3e8102aef02adcd01cf84f1738297fb8909a71"/>
+	<game name="Apple Puck Man (1981-01-11)(Star Craft)(JP)[200.1200R]">
+		<description>Apple Puck Man (1981-01-11)(Star Craft)(JP)[200.1200R]</description>
+		<rom name="Apple Puck Man (1981-01-11)(Star Craft)(JP)[200.1200R].wav" size="13283372" crc="f94b379f" md5="a705a32b6e00ddc5378d1da9012818b6" sha1="dd3e8102aef02adcd01cf84f1738297fb8909a71"/>
+	</game>
+	<game name="Apple Puck Man (1981-01-11)(Star Craft)(JP)[a][200.1200R]">
+		<description>Apple Puck Man (1981-01-11)(Star Craft)(JP)[a][200.1200R]</description>
+		<rom name="Apple Puck Man (1981-01-11)(Star Craft)(JP)[a][200.1200R].wav" size="9585196" crc="ceb62bfa" md5="000e7800f3a47243d485411371c8dfd2" sha1="b4619c553ac22af3ad39fa59b919a57d88940fbe"/>
 	</game>
 	<game name="Apple Trek (1978)(Apple)[16K][600-2013-01]">
 		<description>Apple Trek (1978)(Apple)[16K][600-2013-01]</description>
@@ -312,6 +316,10 @@
 		<description>I Got Mine (1979)(Softape)(US)[24K]</description>
 		<rom name="I Got Mine (1979)(Softape)(US)[24K].wav" size="1796652" crc="77c458af" md5="c01702c9d59df9879c9fe04066836ad5" sha1="25e255bea9040f4b119825b03ac139fbc8b2f8e3"/>
 	</game>
+	<game name="Invasion Force (19xx)(Compu-Things)(US)">
+		<description>Invasion Force (19xx)(Compu-Things)(US)</description>
+		<rom name="Invasion Force (19xx)(Compu-Things)(US).wav" size="2487852" crc="ea8a7659" md5="c628eb74467881aee8fdc3517db01a89" sha1="4d1e0aa392e3d9d63d9b5a8f1982343cc80ccdb0"/>
+	</game>
 	<game name="Invasion Orion (1979)(Automated Simulations)(US)(Side A)">
 		<description>Invasion Orion (1979)(Automated Simulations)(US)(Side A)</description>
 		<rom name="Invasion Orion (1979)(Automated Simulations)(US)(Side A).wav" size="6254636" crc="f3fd9354" md5="689aca2c994a232b6d6e8d0c7d1e0a43" sha1="7437e3f2f3da211928aceab2a08b5fcf4cd88a2f"/>
@@ -384,6 +392,10 @@
 		<description>Mahjong (1980)(Tsukumo Original Soft)(JP)</description>
 		<rom name="Mahjong (1980)(Tsukumo Original Soft)(JP).wav" size="13945900" crc="759a0dcd" md5="b1671bb7eaa50d4be3339a53c77d3a11" sha1="c5a7d8fc691bc73c7963bdc4bfbfbd58508b8577"/>
 	</game>
+	<game name="Mahjong (1980)(Tsukumo Original Soft)(JP)[30.4000R]">
+		<description>Mahjong (1980)(Tsukumo Original Soft)(JP)[30.4000R]</description>
+		<rom name="Mahjong (1980)(Tsukumo Original Soft)(JP)[30.4000R].wav" size="6119523" crc="3318254a" md5="ff50ad20ca17090e8b7abe7fda25e91d" sha1="348fe1a7f135bbc46e2ba24db4a791a185b95547"/>
+	</game>
 	<game name="Match Wits (1978)(Programma International)(US)[16K][AP085]">
 		<description>Match Wits (1978)(Programma International)(US)[16K][AP085]</description>
 		<rom name="Match Wits (1978)(Programma International)(US)[16K][AP085].wav" size="4586540" crc="fc57ef8f" md5="0666ee009e4d2899123315b86d73f2ab" sha1="545d34ed634d87326198e728b10cf72ae4744b88"/>
@@ -443,6 +455,10 @@
 	<game name="Oil Tycoon (1980)(Instant Software)(US)[16K][0079A]">
 		<description>Oil Tycoon (1980)(Instant Software)(US)[16K][0079A]</description>
 		<rom name="Oil Tycoon (1980)(Instant Software)(US)[16K][0079A].wav" size="6613036" crc="4b857dff" md5="0bf85f6d9ba89f39cf07a3d26a86dca1" sha1="c07bc0489462f7c64fb6b81eb044be2b89509bde"/>
+	</game>
+	<game name="OREGON78 (2018-09-13)(Thompson, Ted)(US)(GPLv3)">
+		<description>OREGON78 (2018-09-13)(Thompson, Ted)(US)(GPLv3)</description>
+		<rom name="OREGON78 (2018-09-13)(Thompson, Ted)(US)(GPLv3).wav" size="10983884" crc="3ee8a7c2" md5="a85b954b367e8fa22372125d77eb3353" sha1="b0588f0d2e211e79aa94de8279625792f83213f9"/>
 	</game>
 	<game name="Othello (1979)(Softape)(US)(Side 1)[16K][AKA Super Othello][OHS-279]">
 		<description>Othello (1979)(Softape)(US)(Side 1)[16K][AKA Super Othello][OHS-279]</description>
@@ -540,6 +556,10 @@
 		<description>Space Maze (1978)(Powersoft)(US)[16K][ADG0104]</description>
 		<rom name="Space Maze (1978)(Powersoft)(US)[16K][ADG0104].wav" size="7637548" crc="6c98e163" md5="b0198e2ac780cf0185836537cd002d93" sha1="18105e7a3c06bcf6cac3baababb24cb8a8204e45"/>
 	</game>
+	<game name="Space Quest (1980)(The Software House)(GB)">
+		<description>Space Quest (1980)(The Software House)(GB)</description>
+		<rom name="Space Quest (1980)(The Software House)(GB).wav" size="5941804" crc="772e7acd" md5="8524c8428e9ab487d7c3fd842bcbaa11" sha1="b246c5c2c1c4ec9fb86e22ba5a8bbe2bee5b7066"/>
+	</game>
 	<game name="Space Wars (1979)(Instant Software)(US)[8K][0096A]">
 		<description>Space Wars (1979)(Instant Software)(US)[8K][0096A]</description>
 		<rom name="Space Wars (1979)(Instant Software)(US)[8K][0096A].wav" size="1437740" crc="3bc0f44c" md5="d0ba2e4ca83f5327c46b4b8a65005bd2" sha1="bdaffda302bde3c6cc97f9ff4e030164868220c8"/>
@@ -552,9 +572,9 @@
 		<description>Spider Tag (1980)(Programma International)(US)[16K]</description>
 		<rom name="Spider Tag (1980)(Programma International)(US)[16K].wav" size="2875180" crc="fd3828e6" md5="e398ea31e1c357fe08a8c5f33bc0928d" sha1="6de7d0cec32fe7178b2bd1366945fbf74387fee3"/>
 	</game>
-	<game name="Star Blazer (19xx)(Star Craft)(JP)[b loader short][48K]">
-		<description>Star Blazer (19xx)(Star Craft)(JP)[b loader short][48K]</description>
-		<rom name="Star Blazer (19xx)(Star Craft)(JP)[b loader short][48K].wav" size="3793196" crc="461b47f4" md5="b3864e00db45b6a4980dbc75f9fcd021" sha1="5dd90b8b88c2ec2e45ff182a6b5a672fa124d16e"/>
+	<game name="Star Blazer (1981)(Star Craft)(JP)[b loader short][48K]">
+		<description>Star Blazer (1981)(Star Craft)(JP)[b loader short][48K]</description>
+		<rom name="Star Blazer (1981)(Star Craft)(JP)[b loader short][48K].wav" size="3793196" crc="461b47f4" md5="b3864e00db45b6a4980dbc75f9fcd021" sha1="5dd90b8b88c2ec2e45ff182a6b5a672fa124d16e"/>
 	</game>
 	<game name="Star Voyager (1979)(Programma International)(US)[32K][AP111]">
 		<description>Star Voyager (1979)(Programma International)(US)[32K][AP111]</description>
@@ -591,6 +611,10 @@
 	<game name="Super Invader (1979)(Creative Computing)(US)[32K][CS-4006]">
 		<description>Super Invader (1979)(Creative Computing)(US)[32K][CS-4006]</description>
 		<rom name="Super Invader (1979)(Creative Computing)(US)[32K][CS-4006].wav" size="3379244" crc="aa8c7ba1" md5="e4623a1f1b408ef87362d89ff2e93f28" sha1="7db92d5da3f467197cea39284d6c3e30b8d7a468"/>
+	</game>
+	<game name="Super Invasion (19xx)(The Software House)(GB)[200.6000R, 280G]">
+		<description>Super Invasion (19xx)(The Software House)(GB)[200.6000R, 280G]</description>
+		<rom name="Super Invasion (19xx)(The Software House)(GB)[200.6000R, 280G].wav" size="6000172" crc="e97531bd" md5="f64163e8931f923d083f4407d6da477e" sha1="bf5825d504140fc4422ceaf9b174261080c92f2a"/>
 	</game>
 	<game name="Super Othello (1979)(Programma International)(US)[16K][AP120]">
 		<description>Super Othello (1979)(Programma International)(US)[16K][AP120]</description>
