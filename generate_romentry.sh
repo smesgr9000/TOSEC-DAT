@@ -8,5 +8,5 @@ do
     crc=$(crc32 "$line")
     md=($(md5sum "$line"))
     sha=($(sha1sum "$line"))
-    echo -e "\t\t<rom name=\"$line\" size=\"$size\" crc32=\"$crc\" md5=\"$md\" sha1=\"$sha\"/>"
+    echo -e "\t\t<rom name=\"$line\" size=\"$size\" crc=\"$crc\" md5=\"$md\" sha1=\"$sha\"/>"
 done
