@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Allied General (1995)(Mindscape)(GB)[CS090216][Panzer General II].bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

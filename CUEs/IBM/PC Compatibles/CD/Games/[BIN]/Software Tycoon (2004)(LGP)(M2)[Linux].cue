@@ -1,0 +1,4 @@
+FILE "Software Tycoon (2004)(LGP)(M2)[Linux].bin" BINARY
+  TRACK 01 MODE1/2352
+    FLAGS DCP
+    INDEX 01 00:00:00

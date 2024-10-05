@@ -1,0 +1,3 @@
+FILE "Trespasser (1998)(Electronic Arts)(DE)[DWG08801804D].bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

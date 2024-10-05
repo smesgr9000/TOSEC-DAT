@@ -1,0 +1,3 @@
+FILE "Luftwaffe Commander v1.1 (1998)(SSI)(DE).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
