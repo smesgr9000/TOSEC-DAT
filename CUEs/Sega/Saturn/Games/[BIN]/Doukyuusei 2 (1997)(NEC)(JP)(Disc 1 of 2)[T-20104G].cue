@@ -1,0 +1,12 @@
+CATALOG 0000000000000
+FILE "Doukyuusei 2 (1997)(NEC)(JP)(Disc 1 of 2)[T-20104G] (Track 1 of 3).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+FILE "Doukyuusei 2 (1997)(NEC)(JP)(Disc 1 of 2)[T-20104G] (Track 2 of 3).bin" BINARY
+  TRACK 02 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Doukyuusei 2 (1997)(NEC)(JP)(Disc 1 of 2)[T-20104G] (Track 3 of 3).bin" BINARY
+  TRACK 03 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
