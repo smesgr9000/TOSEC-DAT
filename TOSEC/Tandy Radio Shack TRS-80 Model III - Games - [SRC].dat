@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Games - [SRC]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Games - [SRC] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Defender Source Code Demonstration (19xx)(-)[SRC]">
+		<description>Defender Source Code Demonstration (19xx)(-)[SRC]</description>
+		<rom name="DEF1.CMD" size="980" crc="dc7309d8" md5="d5226516945db7c85ef5b7ae8c3ca6f1" sha1="54bd972f8633577b242d9b030c098f51b2fd2e54"/>
+		<rom name="DEF1.SRC" size="8028" crc="50a7d38f" md5="e5093703f19788fa9edaba1253970b90" sha1="d585ba35db7f60dc8a4f3d9621a94f117d7d2f3f"/>
+		<rom name="MOVER.CMD" size="455" crc="1250a9e1" md5="3ccbf4686bf56c756f3ff8d6e75483f3" sha1="d8f30645c329e96a4be65b66af319f134f8d219c"/>
+		<rom name="MOVER.SRC" size="3840" crc="9ab6250b" md5="1e0c0cc60221291cd748baddc1c1d56e" sha1="1dc94f8b26ee5304d47d99cf1c66ae8018032e2b"/>
+	</game>
+	<game name="Introduction Screen to Some Game (19xx)(-)[SRC]">
+		<description>Introduction Screen to Some Game (19xx)(-)[SRC]</description>
+		<rom name="bend.src" size="3072" crc="fcf5c393" md5="df7ec2c9832f8531c2f3ffd5138accb3" sha1="cf06910df3f62c3d70f1c5a1f871a04d393f50f9"/>
+		<rom name="blip.src" size="2920" crc="cdba9c93" md5="4538ee03d1d5d7f1ad03da99bd97a1ed" sha1="4476cfedf891f69dde4721405fc5395f2664c600"/>
+		<rom name="book" size="714" crc="eeb2bced" md5="7d6b5836713953f61f5a059139e3a3fa" sha1="eb5c4853d66df84c9c0a43997e64174cae36c492"/>
+		<rom name="conc.src" size="44024" crc="c1a7c0a8" md5="4ea6710c3dc78f8addc5fbafdbed9913" sha1="a1fd89f987a8feffd08bc8aa2c4c6c2b8146e9de"/>
+		<rom name="conc3.src" size="8010" crc="0b91b63a" md5="ba22ed4f0fa4ecdda75d72594b9cbdcd" sha1="de6284197e22039de4f3862e37554f88cf662089"/>
+		<rom name="flap.src" size="8037" crc="3551dae8" md5="0862def7cc728cec52dda5dd0a27875a" sha1="87e829879d850c5050ac4fdd2be1de247e37d7a4"/>
+		<rom name="mover.src" size="3840" crc="16cbee0f" md5="d06485a819ce64cf1461b873e66acf41" sha1="3cb912384d716354d070db35e80ca58dff6ab017"/>
+		<rom name="pixel.src" size="15129" crc="5a7e0ae5" md5="59c807c301d0a23a9d0decfd2806099f" sha1="b36e87292d0d98a8c0b221fad5e3d85dd2dd635a"/>
+		<rom name="right.src" size="2304" crc="ddfcbf75" md5="773a74b897dbb6239e9013338983ab52" sha1="24340d848cea3fb613e949e377b2cbad557d758c"/>
+		<rom name="scr.src" size="6144" crc="bc700962" md5="1d81526e217d2dde4670e9f48efd2100" sha1="5954c6b7df013ea84608c994ebfa9e1e64792390"/>
+		<rom name="slide.src" size="3072" crc="77108dbb" md5="05237bfe344e7234a937ee2318e20f55" sha1="5ea3d014988f0ff0c5ef81e4102327f223c46fdf"/>
+	</game>
+</datafile>

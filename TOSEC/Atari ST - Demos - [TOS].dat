@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Atari ST - Demos - [TOS]</name>
-		<description>Atari ST - Demos - [TOS] (TOSEC-v2024-01-15)</description>
+		<description>Atari ST - Demos - [TOS] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,6 +16,10 @@
 		<description>300 days to go (2023-09)(SMFX)</description>
 		<rom name="300 days to go (2023-09)(SMFX).tos" size="64260" crc="4dfde270" md5="81b5c8e47624d9a448e5638a4e02c169" sha1="cbc029716c1caa8fc402f188768eb05a8d620755"/>
 	</game>
+	<game name="Bitroll (2024-01)(Bitbendaz)(STe)">
+		<description>Bitroll (2024-01)(Bitbendaz)(STe)</description>
+		<rom name="Bitroll (2024-01)(Bitbendaz)(STe).tos" size="161724" crc="e7ef7643" md5="1932f920ef81cf3ba25f2ac198bee334" sha1="400eccef8470f8d4cc393f96a2c20068d17b46a7"/>
+	</game>
 	<game name="Chip Blip Journey (2021-04-03)(mAZE)">
 		<description>Chip Blip Journey (2021-04-03)(mAZE)</description>
 		<rom name="Chip Blip Journey (2021-04-03)(mAZE).tos" size="127028" crc="c29c2f1a" md5="527ab90195804bcfff4d4af379b925dc" sha1="9d899a495e9956bbb7da3a27e242d057673276ce"/>
@@ -24,16 +28,68 @@
 		<description>Color Boxes (2022-02)(Unlimited Matricks)</description>
 		<rom name="Color Boxes (2022-02)(Unlimited Matricks).tos" size="64" crc="1b18829e" md5="2372d387b5c8450d0f7a41245f51bbd0" sha1="bb6562cade95ae038908a18d6a0666b22f01c338"/>
 	</game>
+	<game name="FREDDEMO (2024-02)(VectoR)">
+		<description>FREDDEMO (2024-02)(VectoR)</description>
+		<rom name="FREDDEMO (2024-02)(VectoR).tos" size="1024" crc="0b79262e" md5="f21ea29fce85ea716cf7aa2d00eea4b5" sha1="d54175fbd49f8c6b0054b9f5cccc53f9d942afe9"/>
+	</game>
+	<game name="Game-of-Life 3D (2023-12)(tecer)">
+		<description>Game-of-Life 3D (2023-12)(tecer)</description>
+		<rom name="Game-of-Life 3D (2023-12)(tecer).tos" size="90144" crc="55871ba6" md5="e0b0d6a0c80e539cade50d9047d7da8e" sha1="cc813b97864cf43ec19b28b856dc3b16ec7ccf80"/>
+	</game>
 	<game name="indecision (2023-08)(SMFX)">
 		<description>indecision (2023-08)(SMFX)</description>
 		<rom name="indecision (2023-08)(SMFX).tos" size="160" crc="e2ac6513" md5="c48ed4a66e447a980bf190c3194e658d" sha1="43532b20664774e3823bbd9a03613cf0c485fc3a"/>
+	</game>
+	<game name="Ika I Compofylla (2024-07)(Newline)">
+		<description>Ika I Compofylla (2024-07)(Newline)</description>
+		<rom name="Ika I Compofylla (2024-07)(Newline).tos" size="59968" crc="ce264ae4" md5="85d559af866fcf2d493c8d60e89fbf0f" sha1="56301a17995dda132a29e5d2ee92800688faf9ec"/>
+	</game>
+	<game name="Ika I Compofylla (2024-07)(Newline)[party ver]">
+		<description>Ika I Compofylla (2024-07)(Newline)[party ver]</description>
+		<rom name="Ika I Compofylla (2024-07)(Newline)[party ver].tos" size="61272" crc="73b39d24" md5="cdab549d288db60b73a04cadce744dae" sha1="f907daf478aa59a2861fd732936bff08223f480b"/>
 	</game>
 	<game name="matka natura (2023-08)(Marquee Design)[no sound]">
 		<description>matka natura (2023-08)(Marquee Design)[no sound]</description>
 		<rom name="matka natura (2023-08)(Marquee Design)[no sound].tos" size="128" crc="9bbb141d" md5="ea9477964beaf13cb7bab22c97e7e3ea" sha1="14052f23959665900db9840fbca2a16e5293bbf7"/>
 	</game>
+	<game name="No Reason to Stop (2023-12)(Jade)">
+		<description>No Reason to Stop (2023-12)(Jade)</description>
+		<rom name="No Reason to Stop (2023-12)(Jade).tos" size="44656" crc="e162185b" md5="c349fc612f399eb52d53333205fe5e56" sha1="5a462be11331ba705a9ca46e0e7ec8a592487a42"/>
+	</game>
+	<game name="OLD (2024-04-06)(Tom - Dubmood)">
+		<description>OLD (2024-04-06)(Tom - Dubmood)</description>
+		<rom name="OLD (2024-04-06)(Tom - Dubmood).tos" size="34448" crc="ab8e5c55" md5="e314202060fdd2c2dd245198a1c6379d" sha1="5062b6e040af23be45d3c7ca9bc979c4cdc17cdc"/>
+	</game>
+	<game name="OVR-COLOR-FULL (2023-12)(Overlanders)">
+		<description>OVR-COLOR-FULL (2023-12)(Overlanders)</description>
+		<rom name="OVR-COLOR-FULL (2023-12)(Overlanders).tos" size="158" crc="18dee8bf" md5="1b843840b2649fa5b2414ac58eeb8915" sha1="f031409a0355361353039e7be58186682c58c053"/>
+	</game>
 	<game name="Pre-Sweety (2023-09-09)(Dead Hackers Society)">
 		<description>Pre-Sweety (2023-09-09)(Dead Hackers Society)</description>
 		<rom name="Pre-Sweety (2023-09-09)(Dead Hackers Society).tos" size="114916" crc="3a5a0d21" md5="43477b4c98c38d2df506405e8cc6c637" sha1="53a7a2aaa23f39ec33ba51cc3caba20ec66992f1"/>
+	</game>
+	<game name="Rickdemo (2024-01)(RectoR)">
+		<description>Rickdemo (2024-01)(RectoR)</description>
+		<rom name="Rickdemo (2024-01)(RectoR).tos" size="62510" crc="3bfc5c37" md5="b4954d86f8a8538365cfd1be210da9de" sha1="52097525e2cf2776bbdedba97d8036a3b5bcc48e"/>
+	</game>
+	<game name="Santas Little Falkiries (2023-12)(Janes OnderGrond)">
+		<description>Santas Little Falkiries (2023-12)(Janes OnderGrond)</description>
+		<rom name="Santas Little Falkiries (2023-12)(Janes OnderGrond).tos" size="102466" crc="cab8a428" md5="fb4511a4d56ae382166b7ca3db7e8ef4" sha1="6f83fb6f31e1acd928acd294ba854c99c69961e3"/>
+	</game>
+	<game name="Series of Raster Effects, A (2024-07-06)(SMFX)">
+		<description>Series of Raster Effects, A (2024-07-06)(SMFX)</description>
+		<rom name="Series of Raster Effects, A (2024-07-06)(SMFX).tos" size="97924" crc="5cb6188b" md5="ebb18c8421052e9be42e61b0980f26d8" sha1="8d1bc8025235f883e12bf0fe93b2806cb5b3584a"/>
+	</game>
+	<game name="smfxboot (2024-05-11)(SMFX)">
+		<description>smfxboot (2024-05-11)(SMFX)</description>
+		<rom name="smfxboot (2024-05-11)(SMFX).tos" size="506" crc="dfc3bb08" md5="49ec1768ffb85cd8d3d55a46e3da6c99" sha1="d905bc69a0c3af432cd5bf3aae23ae954fa8d2d8"/>
+	</game>
+	<game name="TomTechTronic (2024-04-06)(Effect)">
+		<description>TomTechTronic (2024-04-06)(Effect)</description>
+		<rom name="TomTechTronic (2024-04-06)(Effect).tos" size="66125" crc="dcb82eb9" md5="37e6a0bf898245fa0f952019f629c7b5" sha1="0122081b90efc1e6caca14276b66de982108701a"/>
+	</game>
+	<game name="Wedtro (2024-04)(Avena - Effect - D-Bug)">
+		<description>Wedtro (2024-04)(Avena - Effect - D-Bug)</description>
+		<rom name="Wedtro (2024-04)(Avena - Effect - D-Bug).tos" size="39088" crc="36352bd1" md5="f462d860e17da0ddce8458162dbcaf0c" sha1="6146fbb8b5e176bd2693130fcaabf169c437a00e"/>
 	</game>
 </datafile>

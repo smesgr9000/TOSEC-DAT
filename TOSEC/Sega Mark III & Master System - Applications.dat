@@ -4,17 +4,29 @@
 <datafile>
 	<header>
 		<name>Sega Mark III &amp; Master System - Applications</name>
-		<description>Sega Mark III &amp; Master System - Applications (TOSEC-v2017-10-22)</description>
+		<description>Sega Mark III &amp; Master System - Applications (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2017-10-22</version>
+		<version>2025-01-15</version>
 		<author>Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="Checkstate (2001-07-28)(Dave)(PD)">
+		<description>Checkstate (2001-07-28)(Dave)(PD)</description>
+		<rom name="Checkstate (2001-07-28)(Dave)(PD).bin" size="262144" crc="5cb841dd" md5="78e322133a2a0774cd047d801a498b1c" sha1="4afd95fc1d0ee4cd6e110767c8d406ae1d0187b6"/>
+	</game>
+	<game name="Color Check (2001-07-26)(Dave)">
+		<description>Color Check (2001-07-26)(Dave)</description>
+		<rom name="Color Check (2001-07-26)(Dave).bin" size="32768" crc="5c19e8a5" md5="9d521715460a5a67dd5a1f2e174c1d73" sha1="3e53931b414b9a253f7d67e376da037d106a77a9"/>
+	</game>
 	<game name="Color &amp; Switch Test (19xx)(Sega)">
 		<description>Color &amp; Switch Test (19xx)(Sega)</description>
 		<rom name="Color &amp; Switch Test (19xx)(Sega).bin" size="32768" crc="7253c3ec" md5="5142a872da047809a9e121563a7f7cbf" sha1="3d23afcc802cd414849b0eac69ce712bf2fa72ff"/>
+	</game>
+	<game name="DBIOS (2022-04-11)(furrtek)">
+		<description>DBIOS (2022-04-11)(furrtek)</description>
+		<rom name="DBIOS (2022-04-11)(furrtek).bin" size="32768" crc="b0f2b58b" md5="c38f2ef639effb961b841c9b1d5acb68" sha1="f6ebd0df365b7820b6724cdb2c781eb91cf25ff9"/>
 	</game>
 	<game name="Sega Graphic Board v2.0 (1987)(Sega)(proto)">
 		<description>Sega Graphic Board v2.0 (1987)(Sega)(proto)</description>
@@ -44,6 +56,18 @@
 		<description>SMS VGM Player v0.45 (2002)(Maxim)(PD)</description>
 		<rom name="SMS VGM Player v0.45 (2002)(Maxim)(PD).bin" size="32768" crc="7dbde57e" md5="048e050beb33d4c3bb3fe237f80629ee" sha1="715fa8723926319ac73df3a922e8a9b3cfc14c59"/>
 	</game>
+	<game name="SMS VGM Player v2.00 (2024-03-27)(Maxim)">
+		<description>SMS VGM Player v2.00 (2024-03-27)(Maxim)</description>
+		<rom name="SMS VGM Player v2.00 (2024-03-27)(Maxim).bin" size="16384" crc="af801029" md5="4dbb9faf3a73b4bc9abb801f38ec992c" sha1="fbcce3453fcf23de9f227378a700e034f743a094"/>
+	</game>
+	<game name="SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)(NTSC)">
+		<description>SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)(NTSC)</description>
+		<rom name="SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)(NTSC).bin" size="32768" crc="9c8930ee" md5="cea6dc55c99875e4f2e62f697662793a" sha1="4efbd6afc84e8a3175719070c034ba2b5ebf2bbc"/>
+	</game>
+	<game name="SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)(PAL)">
+		<description>SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)(PAL)</description>
+		<rom name="SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)(PAL).bin" size="32768" crc="f0963331" md5="75ae3373750692ab3449cb4dbe23bf13" sha1="9fb041ec0dcf8bafc5a08e0b5890f463b3ebee4e"/>
+	</game>
 	<game name="ToToTEK SMS-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)">
 		<description>ToToTEK SMS-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)</description>
 		<rom name="ToToTEK SMS-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD).bin" size="49152" crc="91f4b50a" md5="e0bfa3308d0a5a2d81391ea4ec114905" sha1="fccdc62428b227c4aadeb21bba1f3ce365895c0e"/>
@@ -55,5 +79,53 @@
 	<game name="ToToTEK SMS-PRO Multi Menu v1.5 (200x)(ToToTEK)[h]">
 		<description>ToToTEK SMS-PRO Multi Menu v1.5 (200x)(ToToTEK)[h]</description>
 		<rom name="ToToTEK SMS-PRO Multi Menu v1.5 (200x)(ToToTEK)[h].bin" size="49152" crc="fe38661a" md5="5124eedb9505a4d589c794c75bdb8295" sha1="cfcb2e75f03d1005927e16e146ac5ca8a1a91b57"/>
+	</game>
+	<game name="YM2413 Testrom (2024-03-27)(Joppy Furr)(MIT)">
+		<description>YM2413 Testrom (2024-03-27)(Joppy Furr)(MIT)</description>
+		<rom name="YM2413 Testrom (2024-03-27)(Joppy Furr)(MIT).bin" size="32768" crc="9d08c137" md5="cf610cd94b9bf15bf6ddc07e233777d5" sha1="107989e16dd06a278cb3484a4d565a2f5c255636"/>
+	</game>
+	<game name="ZEXALL v0.12 (2003)(Maxim - Quinn, Eric)(GPLv2)[SDSC]">
+		<description>ZEXALL v0.12 (2003)(Maxim - Quinn, Eric)(GPLv2)[SDSC]</description>
+		<rom name="ZEXALL v0.12 (2003)(Maxim - Quinn, Eric)(GPLv2)[SDSC].bin" size="32768" crc="05f471de" md5="77974c0d82d6401688af3dd3c11c7fa5" sha1="ae696b32f713c04aa513323c0db06c5cf1c40cea"/>
+	</game>
+	<game name="ZEXALL v0.12 (2003)(Maxim - Quinn, Eric)(GPLv2)[VDP]">
+		<description>ZEXALL v0.12 (2003)(Maxim - Quinn, Eric)(GPLv2)[VDP]</description>
+		<rom name="ZEXALL v0.12 (2003)(Maxim - Quinn, Eric)(GPLv2)[VDP].bin" size="32768" crc="38e4b272" md5="81ada71f3f4c66ddb4a713aa7cc1b63e" sha1="38d4a7fc5ccc2558305dcf614729d805888e84aa"/>
+	</game>
+	<game name="ZEXALL v0.13 (2006)(Maxim - Quinn, Eric)(GPLv2)[SDSC]">
+		<description>ZEXALL v0.13 (2006)(Maxim - Quinn, Eric)(GPLv2)[SDSC]</description>
+		<rom name="ZEXALL v0.13 (2006)(Maxim - Quinn, Eric)(GPLv2)[SDSC].bin" size="32768" crc="5e9448dc" md5="0c7156cd546168a11d069393e95df6bb" sha1="607e0df3bb47c486ea04e0a5d87b6280406d95e2"/>
+	</game>
+	<game name="ZEXALL v0.13 (2006)(Maxim - Quinn, Eric)(GPLv2)[VDP]">
+		<description>ZEXALL v0.13 (2006)(Maxim - Quinn, Eric)(GPLv2)[VDP]</description>
+		<rom name="ZEXALL v0.13 (2006)(Maxim - Quinn, Eric)(GPLv2)[VDP].bin" size="32768" crc="39078689" md5="634dd5dacc22a09e9cd6743a4ba98063" sha1="f68ab72d6948c5ef3ac73728bab53a568565ce37"/>
+	</game>
+	<game name="ZEXALL v0.14 (2007)(Maxim - Quinn, Eric)(GPLv2)">
+		<description>ZEXALL v0.14 (2007)(Maxim - Quinn, Eric)(GPLv2)</description>
+		<rom name="ZEXALL v0.14 (2007)(Maxim - Quinn, Eric)(GPLv2).bin" size="32768" crc="4b065dcc" md5="9fc23aa63648e8aeafb3c45d59bbcc85" sha1="250f9841b8ddb76b406b0b87467d72a8e33532ac"/>
+	</game>
+	<game name="ZEXALL v0.15 (2010)(Maxim - Quinn, Eric)(GPLv2)">
+		<description>ZEXALL v0.15 (2010)(Maxim - Quinn, Eric)(GPLv2)</description>
+		<rom name="ZEXALL v0.15 (2010)(Maxim - Quinn, Eric)(GPLv2).bin" size="32768" crc="7ce4ceda" md5="adb26cee7e85592f7a66a046062ae976" sha1="d2379dac92ed9923c0103171ea9b0e2a84f34341"/>
+	</game>
+	<game name="ZEXALL v0.15 (2010)(Maxim - Quinn, Eric)(GPLv2)[SDSC]">
+		<description>ZEXALL v0.15 (2010)(Maxim - Quinn, Eric)(GPLv2)[SDSC]</description>
+		<rom name="ZEXALL v0.15 (2010)(Maxim - Quinn, Eric)(GPLv2)[SDSC].bin" size="32768" crc="cbe40c4c" md5="6b1b5ac73096a0195947ca2da32ac594" sha1="d5f048b1156039ed8f6d347e8a72583033eada5b"/>
+	</game>
+	<game name="ZEXALL v0.17 (2021-10-17)(Maxim - Quinn, Eric)(GPLv2)">
+		<description>ZEXALL v0.17 (2021-10-17)(Maxim - Quinn, Eric)(GPLv2)</description>
+		<rom name="ZEXALL v0.17 (2021-10-17)(Maxim - Quinn, Eric)(GPLv2).bin" size="65536" crc="8ee793ac" md5="857f7ad7976a9657954b5521b685c70e" sha1="eb7b558f0ce2c13c5f822b0196094a31cb005444"/>
+	</game>
+	<game name="ZEXALL v0.17 (2021-10-17)(Maxim - Quinn, Eric)(GPLv2)[ignore undocumented bits]">
+		<description>ZEXALL v0.17 (2021-10-17)(Maxim - Quinn, Eric)(GPLv2)[ignore undocumented bits]</description>
+		<rom name="ZEXALL v0.17 (2021-10-17)(Maxim - Quinn, Eric)(GPLv2)[ignore undocumented bits].bin" size="65536" crc="d74347a2" md5="1747fa6646f7e17f0777547e68ca18b0" sha1="cb08fd2aa1c02ffa3029c6a1a44f80a058ff66d3"/>
+	</game>
+	<game name="ZEXALL v0.18 (2021-10-19)(Maxim - Quinn, Eric)(GPLv2)">
+		<description>ZEXALL v0.18 (2021-10-19)(Maxim - Quinn, Eric)(GPLv2)</description>
+		<rom name="ZEXALL v0.18 (2021-10-19)(Maxim - Quinn, Eric)(GPLv2).bin" size="65536" crc="51ae75a4" md5="f36f2f78189cfb87ad095c5add57acde" sha1="4447fa254fdd5b71ee205f1f95ebc65a157e383c"/>
+	</game>
+	<game name="ZEXALL v0.18 (2021-10-19)(Maxim - Quinn, Eric)(GPLv2)[ignore undocumented bits]">
+		<description>ZEXALL v0.18 (2021-10-19)(Maxim - Quinn, Eric)(GPLv2)[ignore undocumented bits]</description>
+		<rom name="ZEXALL v0.18 (2021-10-19)(Maxim - Quinn, Eric)(GPLv2)[ignore undocumented bits].bin" size="65536" crc="8c945b97" md5="cb50d897a8bcbb61a75656c636b8c80f" sha1="dffc981dcd172daad4aadb2ad0024f47cc91660e"/>
 	</game>
 </datafile>

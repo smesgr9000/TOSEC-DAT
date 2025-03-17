@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Demos - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Demos - [CMD] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compiled Basic Demo (19xx)(-)[CMD]">
+		<description>Compiled Basic Demo (19xx)(-)[CMD]</description>
+		<rom name="TEST.CMD" size="10804" crc="e60e71bc" md5="ca88c4026deef08e2f9ba25cd0d585ac" sha1="ff53af308a038ac741f4e7a791f195707ffb076c"/>
+		<rom name="TEST.REL" size="1159" crc="89b59f01" md5="c2d09854e871a9873a3c50979a149687" sha1="09c3e2a041f41007fb0c226cef7028e197044690"/>
+	</game>
+	<game name="Fadeout Effect (19xx)(-)[CMD]">
+		<description>Fadeout Effect (19xx)(-)[CMD]</description>
+		<rom name="FADEOUT.CMD" size="310" crc="8f314dc7" md5="53a0bec98cce76bcf52f5a854ed6097d" sha1="28a76813a79f6aecc9b153893e177a4e41819d4f"/>
+		<rom name="FADEOUT.SRC" size="736" crc="c653e334" md5="3c3a41d6bcb567673b48ed3d46dd264b" sha1="bf26ed664f3739ec2876019f3e4ee998a88e26d6"/>
+	</game>
+	<game name="Falling Birds (19xx)(-)[CMD]">
+		<description>Falling Birds (19xx)(-)[CMD]</description>
+		<rom name="BIRD.CMD" size="516" crc="4283c761" md5="882f8ffe759e30da2482e86559fccd20" sha1="174d33d0ab8431c820998a7fe4ca406fdf9de4ec"/>
+		<rom name="BIRD.SRC" size="3072" crc="6120ca44" md5="159adac972339f1493d049e324057300" sha1="ae65a5339c48f21f87747845d87bb21efdcda616"/>
+	</game>
+	<game name="Flagship Graphic (19xx)(-)[CMD]">
+		<description>Flagship Graphic (19xx)(-)[CMD]</description>
+		<rom name="FLAGSHIP.CMD" size="377" crc="99007e1c" md5="ef07476eef43b0191fc6175ed8588042" sha1="e50dbe7ded73e5d9d5a927fd65d8c417ffcc8326"/>
+		<rom name="FLAGSHIP.SRC" size="1289" crc="8301442a" md5="eaad578b6073ed0cb2ddee7ab79bde52" sha1="5e512335eabedd7ea4c8e50b8ffd3b9151ce6186"/>
+	</game>
+	<game name="Flashing Cursor Example of Interrupts (19xx)(-)[CMD]">
+		<description>Flashing Cursor Example of Interrupts (19xx)(-)[CMD]</description>
+		<rom name="INTERUPT.CMD" size="314" crc="8887450b" md5="e3a2f0166b4969211404aaddb8967e93" sha1="305267c2a717d0998aef66390a2d1d25484a17b6"/>
+		<rom name="INTERUPT.SRC" size="1536" crc="f937cccf" md5="99ab45212eb0e7b5fac61cc9368b6346" sha1="450ee0279a022b1ac4e94580b950857c87d5d54d"/>
+	</game>
+	<game name="High Resolution Art (19xx)(Kim Watt)[CMD]">
+		<description>High Resolution Art (19xx)(Kim Watt)[CMD]</description>
+		<rom name="BEAR.HR3" size="2048" crc="d9a02b61" md5="5351f34bb50dd301e310f39298683d9f" sha1="8494f16c7405655883af171f8ff291a0146ddcd3"/>
+		<rom name="HIRES83.CMD" size="7936" crc="ee9acd8e" md5="7d8ba85912c62149f3c71b4b9a2d9724" sha1="237fc059ef5f07078147dd55833dc9b545226c4e"/>
+		<rom name="HIRESART.CMD" size="11776" crc="cb31bf9b" md5="6e36a8c15c8a59b9084e9df62cff247c" sha1="d5f2fe57c9d07bb215f2bfb7ffa892944ba6686c"/>
+	</game>
+	<game name="King George Graphic (19xx)(-)[CMD]">
+		<description>King George Graphic (19xx)(-)[CMD]</description>
+		<rom name="KING.CMD" size="1085" crc="940614b0" md5="a6f5edd6cef8d8671eed70d728e3f9f3" sha1="0b47c792554299d636678147d65f183f700531e8"/>
+	</game>
+	<game name="Night Driving Graphic (19xx)(-)[CMD]">
+		<description>Night Driving Graphic (19xx)(-)[CMD]</description>
+		<rom name="NIGHT.BAS" size="1025" crc="783f66b3" md5="f9ef0d2b206b8b3c454508314dfbbd01" sha1="f153d72763301fc35df0edab2fc4351f36f3e27e"/>
+		<rom name="NIGHT.CMD" size="4096" crc="be4b5626" md5="b029b9019362a5531aefb549dd4447c1" sha1="209414f55c4f18dd480d0259010e40c6d2f9105a"/>
+	</game>
+	<game name="Various Graphic Pictures (19xx)(-)[CMD]">
+		<description>Various Graphic Pictures (19xx)(-)[CMD]</description>
+		<rom name="PICT1.CMD" size="1075" crc="376ae058" md5="06a2976d705102575faf49020e5be19e" sha1="2d8dedd727c100af93cee975d0428cfbc9b21ee1"/>
+		<rom name="PICT2.CMD" size="1075" crc="a97a1ad1" md5="b9a49faf7067d517479878c4d6d25cb9" sha1="9e80522fa2e7672f0b4ebaa9aae24c48bd61e42d"/>
+	</game>
+	<game name="Yellow Rose of Texas (19xx)(-)[CMD]">
+		<description>Yellow Rose of Texas (19xx)(-)[CMD]</description>
+		<rom name="sound4.cmd" size="345" crc="e4c75971" md5="e4bb95b07dea004a86eee3645c081e71" sha1="e68e8ba6935cfa9822818ef67974816dd8f4c26e"/>
+		<rom name="sound4.src" size="1066" crc="54abdd8f" md5="db3c57592968065109b930c61caf664f" sha1="449a8ec38667cbe14d94e8e34de2756f214e744b"/>
+	</game>
+</datafile>

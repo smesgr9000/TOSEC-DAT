@@ -4,14 +4,22 @@
 <datafile>
 	<header>
 		<name>DEC VT-180 - Applications</name>
-		<description>DEC VT-180 - Applications (TOSEC-v2018-07-01)</description>
+		<description>DEC VT-180 - Applications (TOSEC-v2024-07-03)</description>
 		<category>TOSEC</category>
-		<version>2018-07-01</version>
+		<version>2024-07-03</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="Kermit-80 for CP-M v4.11 Configured for VT-180 (19xx)(-)">
+		<description>Kermit-80 for CP-M v4.11 Configured for VT-180 (19xx)(-)</description>
+		<rom name="Kermit-80 for CP-M v4.11 Configured for VT-180 (19xx)(-).imd" size="319454" crc="090baf7c" md5="296e14e2ba7e78e53256e4c25b0f052e" sha1="ee3a225d2a6c25fba871fda07de349be63c1bd00"/>
+	</game>
+	<game name="Multiplan VT180 Dist RX18 (1981)(Microsoft)[BJ-P229A-BV]">
+		<description>Multiplan VT180 Dist RX18 (1981)(Microsoft)[BJ-P229A-BV]</description>
+		<rom name="Multiplan VT180 Dist RX18 (1981)(Microsoft)[BJ-P229A-BV].imd" size="101510" crc="22b619d2" md5="d34ae874a9de63f3f5cadee99c8678fe" sha1="c4f77c90baae1b76d66e5fab3b52bb0e30ee3c08"/>
+	</game>
 	<game name="VT-180 Diag (1979)(Digital Research)">
 		<description>VT-180 Diag (1979)(Digital Research)</description>
 		<rom name="VT-180 Diag (1979)(Digital Research).imd" size="43261" crc="d4c89a9e" md5="7b51925a7e8ccb8a814d52d0d6e170ac" sha1="d11ecba99d4570e19760ca93b8b0a9ecdf157f77"/>
@@ -27,5 +35,13 @@
 	<game name="VT-180 Select (1979)(Digital Research)">
 		<description>VT-180 Select (1979)(Digital Research)</description>
 		<rom name="VT-180 Select (1979)(Digital Research).imd" size="144950" crc="3ff1498e" md5="d95a81b95a1a0113afdb7b8d2d6bcae5" sha1="9d27c16ae05151564d327f09ff94c0ea4ff5f564"/>
+	</game>
+	<game name="VT-18X Diagnostics v5.25 (1982)(DEC)(US)[not original]">
+		<description>VT-18X Diagnostics v5.25 (1982)(DEC)(US)[not original]</description>
+		<rom name="VT-18X Diagnostics v5.25 (1982)(DEC)(US)[not original].imd" size="227474" crc="ec46fcbb" md5="e4d74c449403f0db65e0f74124f0422b" sha1="df93ce765a9218e1b882dc6c7333c7d0d4b32b94"/>
+	</game>
+	<game name="VT18X Diagnostics v5.25 (1982)(DEC)(US)[BU-T040B-MV]">
+		<description>VT18X Diagnostics v5.25 (1982)(DEC)(US)[BU-T040B-MV]</description>
+		<rom name="VT18X Diagnostics v5.25 (1982)(DEC)(US)[BU-T040B-MV].imd" size="43256" crc="dcbd9561" md5="3c2923f9fd34a3b831e6a217ad3a8300" sha1="da50e7d24c29543fe2a271a19b1d5701175b6a48"/>
 	</game>
 </datafile>

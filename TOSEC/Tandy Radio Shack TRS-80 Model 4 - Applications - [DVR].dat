@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [DVR]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [DVR] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Billboard Communications Driver (19xx)(-)[DVR]">
+		<description>Billboard Communications Driver (19xx)(-)[DVR]</description>
+		<rom name="bbs.asm" size="8906" crc="41e26311" md5="86699c97777283e57be1634089cd1021" sha1="75b2798af313a94315a4d7f6ec18ee784c05f0be"/>
+		<rom name="bbs.bas" size="1536" crc="95435c08" md5="0b883188ee6a1ca40ebac4e6aaf9335c" sha1="8cb58e5477f1b69be2ea3224d34043ca1295252a"/>
+		<rom name="bbs.dvr" size="1403" crc="71ae90cd" md5="718bb49b0c5742a258fcf22b5e1f8c9c" sha1="9169b78561fd54fd339573fb1520bb6e7a134d88"/>
+	</game>
+</datafile>

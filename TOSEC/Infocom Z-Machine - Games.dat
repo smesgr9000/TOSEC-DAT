@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Infocom Z-Machine - Games</name>
-		<description>Infocom Z-Machine - Games (TOSEC-v2022-06-08)</description>
+		<description>Infocom Z-Machine - Games (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
+		<version>2025-01-15</version>
 		<author>Archie - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="A1RL0CK (2023-06-06)(Innocenti, Marco)">
+		<description>A1RL0CK (2023-06-06)(Innocenti, Marco)</description>
+		<rom name="A1RL0CK (2023-06-06)(Innocenti, Marco).z5" size="83456" crc="74aa2e7e" md5="5adc81137adbc5d2b2d1411643a19559" sha1="c96560a62c656ea5fbd7017104eb0ea50114cb50"/>
+	</game>
 	<game name="Arthur - The Quest for Excaliber v54 (1989)(Infocom)">
 		<description>Arthur - The Quest for Excaliber v54 (1989)(Infocom)</description>
 		<rom name="arthur.z6" size="270848" crc="546a3755" md5="453e525ef75c64c95a8e07ccc620198a" sha1="84d363dad67e80e7835e530bbb87a5b346a5cc85"/>
@@ -63,6 +67,10 @@
 		<rom name="BeyondZork_WT.txt" size="23215" crc="8ae6afa2" md5="0038534682601a8eb1b2dba8588b361c" sha1="6ed6cd0eeca28dbbf09bc3ba1fe136764aa54ff5"/>
 		<rom name="beyzork.fon" size="17408" crc="50918314" md5="65c1bbbd803ea3a30c933aaab33cd530" sha1="fb6ae2df07110935162446326a8119b49ea31554"/>
 	</game>
+	<game name="Blorp! (2023-06-06)(Sijnstra, Shawn)">
+		<description>Blorp! (2023-06-06)(Sijnstra, Shawn)</description>
+		<rom name="Blorp! (2023-06-06)(Sijnstra, Shawn).z5" size="58368" crc="64e091ef" md5="071ffd771883f27ae9a288ee30e7e4b1" sha1="ab5bec1ca948b881c15fc329308e6f8d27309fb5"/>
+	</game>
 	<game name="Border Zone - A Game of Intrigue v9 (1987)(Infocom)">
 		<description>Border Zone - A Game of Intrigue v9 (1987)(Infocom)</description>
 		<rom name="BorderZone_RM.txt" size="1988" crc="475def74" md5="244857a615fc72953e03833a9039d06c" sha1="a2ad7a00000ccb50c60a7f2c4d0ce3092aeba591"/>
@@ -83,6 +91,10 @@
 	<game name="Bureaucracy - A Paranoid Fantasy v86 (1987)(Infocom)">
 		<description>Bureaucracy - A Paranoid Fantasy v86 (1987)(Infocom)</description>
 		<rom name="BUREAU.z4" size="243144" crc="ead47c88" md5="b143f67c20aaab934f49574da4cc00ae" sha1="4ec0dc3d9bcd693da7ae34aeb995440356c5377b"/>
+	</game>
+	<game name="Clean Getaway, A (2023-06-06)(Bub, Michael)">
+		<description>Clean Getaway, A (2023-06-06)(Bub, Michael)</description>
+		<rom name="Clean Getaway, A (2023-06-06)(Bub, Michael).z3" size="53760" crc="ebf90d3d" md5="71ca6fa759634a3439737ff0668efb9e" sha1="c6868c2f8108422b383d1d6584a80b1a7e23e2a2"/>
 	</game>
 	<game name="Cutthroats v23 (1984)(Infocom)">
 		<description>Cutthroats v23 (1984)(Infocom)</description>
@@ -142,6 +154,14 @@
 		<rom name="Enchanter_RM.txt" size="9655" crc="c462a91e" md5="0b4feb2ab2773473465d0d4af465ad2d" sha1="e22053d4fb3bebde1c66bf43d3e3bdb84eccedb6"/>
 		<rom name="Enchanter_WT.txt" size="12182" crc="a244b213" md5="819ed66f9880028b6c5822da00920881" sha1="5053ffd9a9bcd60edf2410471287fffef8e079d2"/>
 	</game>
+	<game name="Falling to Pieces (2023-06-06)(Girelli, Gianluca)">
+		<description>Falling to Pieces (2023-06-06)(Girelli, Gianluca)</description>
+		<rom name="Falling to Pieces (2023-06-06)(Girelli, Gianluca).z3" size="45056" crc="092d7e0a" md5="b6617f444bfa3bf872cde48d72c126c2" sha1="5e4d01987de45351deaaf76b06a1cd709f592c10"/>
+	</game>
+	<game name="Fantasy Dimension, The (2023-06-06)(Berntsson, Johan)">
+		<description>Fantasy Dimension, The (2023-06-06)(Berntsson, Johan)</description>
+		<rom name="Fantasy Dimension, The (2023-06-06)(Berntsson, Johan).z5" size="62464" crc="bc75b6e9" md5="26bf30eaa70a68c834755d2405e561f7" sha1="e3dc54ed3b83c771afe49459c3c09c242f360755"/>
+	</game>
 	<game name="Four-In-One Sampler I v26 (1984)(Infocom)[840731]">
 		<description>Four-In-One Sampler I v26 (1984)(Infocom)[840731]</description>
 		<rom name="SAMPR26.z3" size="112610" crc="cdfcd26f" md5="ecb00d5e2d40f2d6833b7a135ae215e0" sha1="c843bc6a3484938d9183551528c8942f0537c551"/>
@@ -158,15 +178,24 @@
 		<description>Four-In-One Sampler II v97 (19xx)(Infocom)[870601]</description>
 		<rom name="SAMPLER2.z3" size="125314" crc="d7b95901" md5="c3a056e4039b986127468a05e30a9093" sha1="4671be9d849fd5a3c4e053d49aa6183306b77edc"/>
 	</game>
-	<game name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)">
-		<description>Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)</description>
-		<rom name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan).z3" size="92160" crc="4fe3f02c" md5="dd39fa12d2bf8941d43046a3781488c0" sha1="f7feeee2a1c0402c2815a9ea7436dee725249ae0"/>
-		<rom name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan).z5" size="95232" crc="83f0212d" md5="5ee61773f29d0860225b6a5fddece6d0" sha1="f96a6f9b13171d097904d38de5f0af595540dcf4"/>
+	<game name="Ghosts of Blackwood Manor, The r13 (2024-03-03)(Puddle Soft)">
+		<description>Ghosts of Blackwood Manor, The r13 (2024-03-03)(Puddle Soft)</description>
+		<rom name="Ghosts of Blackwood Manor, The r13 (2024-03-03)(Puddle Soft).z5" size="111616" crc="f591ff13" md5="935a5d157cb910fa0d0fafb2ff96a14b" sha1="a4072d4b49751e61485727cddb9b17470422cff8"/>
 	</game>
 	<game name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)">
 		<description>Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)</description>
 		<rom name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft).z3" size="90624" crc="e7cd356e" md5="0ec7e64dcddb5752e38e03b149028d00" sha1="0ee547580274ae129c6f4d497e060696642fe9e5"/>
 		<rom name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft).z5" size="93696" crc="c4d6461f" md5="0f8224fb5649457d9c5856515d5362ab" sha1="2deb30a1b4ddf8560af69f5e8d1979b84bfb6238"/>
+	</game>
+	<game name="Hibernated 1 Director's Cut r13 (2022-08-14)(Puddle Soft)">
+		<description>Hibernated 1 Director's Cut r13 (2022-08-14)(Puddle Soft)</description>
+		<rom name="Hibernated 1 Director's Cut r13 (2022-08-14)(Puddle Soft).z3" size="91136" crc="5cd8ef2a" md5="6beeae8de6bf5d3f33cdb38b7ccca611" sha1="109246cff677226559410c3d72c9ece6cff1e399"/>
+		<rom name="Hibernated 1 Director's Cut r13 (2022-08-14)(Puddle Soft).z5" size="94208" crc="a13e9a08" md5="fe7d0d4cef4fab06e5c35f940c0bdd76" sha1="41a46c9d3418fbcf3269e306bcf87c855a4adf1b"/>
+	</game>
+	<game name="Hibernated 1 Director's Cut r9 (2021-06-27)(Puddle Soft)">
+		<description>Hibernated 1 Director's Cut r9 (2021-06-27)(Puddle Soft)</description>
+		<rom name="Hibernated 1 Director's Cut r9 (2021-06-27)(Puddle Soft).z3" size="92160" crc="4fe3f02c" md5="dd39fa12d2bf8941d43046a3781488c0" sha1="f7feeee2a1c0402c2815a9ea7436dee725249ae0"/>
+		<rom name="Hibernated 1 Director's Cut r9 (2021-06-27)(Puddle Soft).z5" size="95232" crc="83f0212d" md5="5ee61773f29d0860225b6a5fddece6d0" sha1="f96a6f9b13171d097904d38de5f0af595540dcf4"/>
 	</game>
 	<game name="Hitchhiker's Guide to the Galaxy SG, The v31 (1984)(Infocom)[871119]">
 		<description>Hitchhiker's Guide to the Galaxy SG, The v31 (1984)(Infocom)[871119]</description>
@@ -299,6 +328,10 @@
 	<game name="Leather Goddesses of Phobos v87 (1986)(Infocom)[h]">
 		<description>Leather Goddesses of Phobos v87 (1986)(Infocom)[h]</description>
 		<rom name="LEATHER.DAT" size="129022" crc="94b3f855" md5="8fef6af3c28f5837434a42d80aa271b7" sha1="81d8df2986724b8cf7e3ebcdb50c6c59612839c7"/>
+	</game>
+	<game name="Lucid Knight (2023-06-06)(Cooke, Dee)">
+		<description>Lucid Knight (2023-06-06)(Cooke, Dee)</description>
+		<rom name="Lucid Knight (2023-06-06)(Cooke, Dee).z5" size="67072" crc="6c75b267" md5="83bd0fef5b201201eb03a6d4cff3411e" sha1="33316acf860838008a362265a25c0edcbf1fa273"/>
 	</game>
 	<game name="Lurking Horror, The v203 (1987)(Infocom)[870506]">
 		<description>Lurking Horror, The v203 (1987)(Infocom)[870506]</description>
@@ -544,6 +577,11 @@
 		<rom name="Stationfall_INV.txt" size="37517" crc="ae76696f" md5="819dfd95d346066c646927066134a446" sha1="066c2933a32bc990be5591d8f46055f07591aeee"/>
 		<rom name="Stationfall_RM.txt" size="1149" crc="029f364a" md5="e349f1c75fcff7799975c53a79b1bfe4" sha1="a37b05b6d858d68151df04187128b15aa84fa5b1"/>
 		<rom name="Stationfall_WT.txt" size="10737" crc="b991347c" md5="e5715a16855e33c5259ff5cb8477e923" sha1="7ea0c90773b1632413469a8c2c176d798523fffd"/>
+	</game>
+	<game name="Submarine Sabotage (2023-06-06)(Francis, Garry)">
+		<description>Submarine Sabotage (2023-06-06)(Francis, Garry)</description>
+		<rom name="Submarine Sabotage (2023-06-06)(Francis, Garry).z3" size="65536" crc="9dbf24b1" md5="2880f580409cdf2d8485f2a17c8c9bb3" sha1="aa2c5ad651f4aaf6b244a0d0d08e4c9da03a190b"/>
+		<rom name="Submarine Sabotage (2023-06-06)(Francis, Garry).z5" size="68608" crc="65f213c0" md5="7b9e6057a8303580b929a1789804d3a4" sha1="0d6aa50cd81882e4dac05520d4c3b527cdbf1458"/>
 	</game>
 	<game name="Suspect - An Interactive Mystery v14 (1984)(Infocom)[841005]">
 		<description>Suspect - An Interactive Mystery v14 (1984)(Infocom)[841005]</description>

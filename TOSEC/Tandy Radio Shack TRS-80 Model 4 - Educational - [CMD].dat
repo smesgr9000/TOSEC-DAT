@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Educational - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Educational - [CMD] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Guess a Number ASM Tutorial (19xx)(Mel Patrick)[CMD]">
+		<description>Guess a Number ASM Tutorial (19xx)(Mel Patrick)[CMD]</description>
+		<rom name="GUESS.ASM" size="4915" crc="a41d8df7" md5="52f77ac279df197d56b52d0c043c4b21" sha1="c5f0d1673a65a8ecc0ffde8b35ab504bdb4f6897"/>
+		<rom name="GUESS.CMD" size="1166" crc="b8efb579" md5="c8dc3855349fcb2521f01a9905592bdc" sha1="a4821d1a8a463b75e5be5f861fb2efe4f254a4ee"/>
+		<rom name="GUESS.TXT" size="4820" crc="520c80a4" md5="77ededd4f3a622e85020d10580225427" sha1="9355708807309b0a8970e256ae9a9edacacace50"/>
+		<rom name="GUESS1.ASM" size="8928" crc="24b30a65" md5="c7acdae20ecab2b0358f70552080503a" sha1="e998c32a4923f0eb2e023f7a15394a73fd446726"/>
+		<rom name="GUESS1.CMD" size="1695" crc="6fcbc016" md5="4adbe8b3f68b42dc754a64d144c5c960" sha1="8b6542798ae36e0e089f1108909d43977fbfe96a"/>
+	</game>
+</datafile>

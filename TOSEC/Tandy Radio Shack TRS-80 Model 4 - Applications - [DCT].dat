@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [DCT]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [DCT] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="AlDisk v1.0 (1985)(A Johnson-Big Al Software)">
+		<description>AlDisk v1.0 (1985)(A Johnson-Big Al Software)</description>
+		<rom name="aldisk.dct" size="2743" crc="d114dca1" md5="04551461a02d836815880a45533eb4ce" sha1="0fcbbcdb645a9ba3e05a363ae112e3e4e72902f7"/>
+	</game>
+	<game name="GrafDISK v1.0.0 (1984)(David D Hall)">
+		<description>GrafDISK v1.0.0 (1984)(David D Hall)</description>
+		<rom name="GRAFDISK.DCT" size="1664" crc="a1c5c63b" md5="f4bb66975a149fc0bf6f6b7cc6c746aa" sha1="bc479628cc9612b85ac3309c0380ee9aca49d761"/>
+	</game>
+	<game name="GrafDISK v6.3.0 (19xx)(SVP Enterprizes Inc)[a]">
+		<description>GrafDISK v6.3.0 (19xx)(SVP Enterprizes Inc)[a]</description>
+		<rom name="gdinfo.txt" size="20334" crc="e6ca01c1" md5="5d1840185face5312b5d4726b300fb33" sha1="5329036bfde36ee2745eba789397bef682077152"/>
+		<rom name="gdldsv.doc" size="7294" crc="9a2ffdcb" md5="04bf9b581d169e490e8211262cd71c50" sha1="2d385b63993157c28707aeebbd962695020abce9"/>
+		<rom name="gdload.cmd" size="636" crc="0586708a" md5="24be618735a79094e1e9cdf770008a33" sha1="b3e2051fcf4f1bb97c62916edf010ac593c05987"/>
+		<rom name="gdpatch.txt" size="3585" crc="d479f56d" md5="b28b1d02ab8eb943032132e5865dc97c" sha1="2060fa988a751582c95ffb30440b30c1a59a17d7"/>
+		<rom name="gdsave.cmd" size="549" crc="c021f28a" md5="3e0fcdf0c83af43169957077c737722c" sha1="4ad0de92a2e80e2ec85863a7df7e2d563eb13037"/>
+		<rom name="gdsave.fix" size="255" crc="c088aac3" md5="a44c9886ee67fbab2959c9f420d16541" sha1="fd504d10b88b434f5935c3bcb94af1c8772ea09f"/>
+		<rom name="grafdisk.dct" size="2296" crc="b3e2f7af" md5="5cec210575ad8ddd6e9dd9cbdae3a7be" sha1="7b635fe9697c3e19b124ce97f2fefd3f70810b89"/>
+		<rom name="grafsysb.jcl" size="969" crc="59729092" md5="fff0eb2a02093748d9fadbb4ceec2057" sha1="d23fbd2ba057820e158b4b2d4201b6aa31ade020"/>
+	</game>
+	<game name="GrafDISK v6.3.0 (19xx)(SVP Enterprizes Inc)">
+		<description>GrafDISK v6.3.0 (19xx)(SVP Enterprizes Inc)</description>
+		<rom name="gdinfo.txt" size="21162" crc="a9650911" md5="0e33045daaed27dd3c58810a858492e3" sha1="a2b94b011f72d5dffceb7e26bb1837f72a4105c0"/>
+		<rom name="gdldsv.doc" size="7294" crc="9a2ffdcb" md5="04bf9b581d169e490e8211262cd71c50" sha1="2d385b63993157c28707aeebbd962695020abce9"/>
+		<rom name="gdload.cmd" size="636" crc="0586708a" md5="24be618735a79094e1e9cdf770008a33" sha1="b3e2051fcf4f1bb97c62916edf010ac593c05987"/>
+		<rom name="gdload.fix" size="257" crc="22fba4e2" md5="36e48bb60f8a22010d37c3769cf14917" sha1="0b7856d299c5f7ced016f7b31a431697dda4549f"/>
+		<rom name="gdsave.cmd" size="549" crc="c021f28a" md5="3e0fcdf0c83af43169957077c737722c" sha1="4ad0de92a2e80e2ec85863a7df7e2d563eb13037"/>
+		<rom name="gdsave.fix" size="255" crc="c088aac3" md5="a44c9886ee67fbab2959c9f420d16541" sha1="fd504d10b88b434f5935c3bcb94af1c8772ea09f"/>
+		<rom name="grafdisk.dct" size="2296" crc="414194ba" md5="4a632a4fd2150485a97fb72e5da41c05" sha1="67cdd8be03f887a92b6f36e0314a4c5704306608"/>
+		<rom name="grafsysb.jcl" size="975" crc="529e81de" md5="4cefdc6c3ae307749b958966c062021f" sha1="d824474941ec7f27b33aa5664dacbd3be1ab64fc"/>
+		<rom name="shrtboot.cmd" size="162" crc="88972687" md5="64d233f199bb7d6606fac06d38ef6be9" sha1="6d95e18e33c97c2d653282ead441bd0ac0e67310"/>
+	</game>
+	<game name="GrafDISK v6.3.1 (19xx)(SVP Enterprizes Inc)">
+		<description>GrafDISK v6.3.1 (19xx)(SVP Enterprizes Inc)</description>
+		<rom name="gdsave.cmd" size="549" crc="c021f28a" md5="3e0fcdf0c83af43169957077c737722c" sha1="4ad0de92a2e80e2ec85863a7df7e2d563eb13037"/>
+		<rom name="grafdisk.dct" size="2296" crc="8b3a16ef" md5="802eb0c72a044c101a7e2cab499de8f8" sha1="94a8d163fabdc82b6bf06254a9e8c04e27abf02d"/>
+	</game>
+</datafile>

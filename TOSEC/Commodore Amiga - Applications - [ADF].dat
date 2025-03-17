@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Applications - [ADF]</name>
-		<description>Commodore Amiga - Applications - [ADF] (TOSEC-v2024-03-24)</description>
+		<description>Commodore Amiga - Applications - [ADF] (TOSEC-v2025-01-18)</description>
 		<category>TOSEC</category>
-		<version>2024-03-24</version>
+		<version>2025-01-18</version>
 		<author>idoru - BippyM - Dpainter - Ian - LaRock - Newpain - Sea7 - Wattie - Adderly - mai - 1time - TheCyberDruid - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1436,18 +1436,6 @@
 		<description>Amiga Incoming &amp; Outgoing-Test v2.3 (1991)(QA - BSW)[a]</description>
 		<rom name="Amiga Incoming &amp; Outgoing-Test v2.3 (1991)(QA - BSW)[a].adf" size="901120" crc="2f2e621a" md5="12e26f6ae4023606d60bdbc97dd97f7f" sha1="8981341d49aeac1ec4de0dc9bd86c660bb18ea3c"/>
 	</game>
-	<game name="Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 1 of 3)(System)[b corrupt file]">
-		<description>Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 1 of 3)(System)[b corrupt file]</description>
-		<rom name="Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 1 of 3)(System)[b corrupt file].adf" size="901120" crc="72ad6fd3" md5="b0e3e98e5e952c97df1845a1d3e39606" sha1="f70dcb32cffc4508158d2c67959955ae98f81179"/>
-	</game>
-	<game name="Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 2 of 3)(Graphics)">
-		<description>Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 2 of 3)(Graphics)</description>
-		<rom name="Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 2 of 3)(Graphics).adf" size="901120" crc="ab5d36ea" md5="d52374498b4e934176fbbd40c71d3ae9" sha1="1257085e81ab12304e2bd5aa5bb9e9345065a681"/>
-	</game>
-	<game name="Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 3 of 3)(Drives)">
-		<description>Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 3 of 3)(Drives)</description>
-		<rom name="Amiga Inside &amp; Out (1991)(Alliance - Abacus)(Disk 3 of 3)(Drives).adf" size="901120" crc="5cd20ed1" md5="ae90c66a9d59a919f71774242abfb755" sha1="2273d97514102b34c865750cdfe70924b0a3112a"/>
-	</game>
 	<game name="Amiga Logo v0.4 (1988)(Commodore Amiga)">
 		<description>Amiga Logo v0.4 (1988)(Commodore Amiga)</description>
 		<rom name="Amiga Logo v0.4 (1988)(Commodore Amiga).adf" size="901120" crc="da9fbf11" md5="b29277f8c8510c4f736ab7c1658259eb" sha1="f3d9d28a795125bfbba32ec8a35b0d4fb2564916"/>
@@ -1500,10 +1488,6 @@
 		<description>Amiga Pascal v1.25 (1987)(Commodore)[HD]</description>
 		<rom name="Amiga Pascal v1.25 (1987)(Commodore)[HD].adf" size="901120" crc="7df184fe" md5="7938f8d91829034b0567026dc1dcd226" sha1="89729581c7686419c7ed54a78d49d5ffd24e53ac"/>
 	</game>
-	<game name="Amiga Printers Inside and Out Companion Diskette (1990)(Abacus)[WB]">
-		<description>Amiga Printers Inside and Out Companion Diskette (1990)(Abacus)[WB]</description>
-		<rom name="Amiga Printers Inside and Out Companion Diskette (1990)(Abacus)[WB].adf" size="901120" crc="bf61dc83" md5="4abc1a78ba09f37bb6b49ca8339a120c" sha1="2baef00cf9dfbe8857bf52b906d7d102a2512e44"/>
-	</game>
 	<game name="Amiga ROM Kernel Reference Manual Companion Disk 1 (1990)(Addison-Wesley Publishing)">
 		<description>Amiga ROM Kernel Reference Manual Companion Disk 1 (1990)(Addison-Wesley Publishing)</description>
 		<rom name="Amiga ROM Kernel Reference Manual Companion Disk 1 (1990)(Addison-Wesley Publishing).adf" size="901120" crc="c3dc4ab0" md5="5c903c95f7b9d1b6b42c900fa1a5e257" sha1="b2911a367dd6964b92a1cec1b62519b9730a4804"/>
@@ -1515,6 +1499,10 @@
 	<game name="Amiga Steuer 95 v5.01 (1995)(Mielke, Carsten)">
 		<description>Amiga Steuer 95 v5.01 (1995)(Mielke, Carsten)</description>
 		<rom name="Amiga Steuer 95 v5.01 (1995)(Mielke, Carsten).adf" size="901120" crc="02ddaf18" md5="986253f7f6517216c5a6349df7b59c27" sha1="5c08992a2e1ec651e10923093ec0befd4f6760b6"/>
+	</game>
+	<game name="Amiga Super Denise System Tests (1992)(Commodore)">
+		<description>Amiga Super Denise System Tests (1992)(Commodore)</description>
+		<rom name="Amiga Super Denise System Tests (1992)(Commodore).adf" size="901120" crc="20f6cce0" md5="a402f95cd668e2202e8118a2d7b81107" sha1="5298fc9185bea49041d553a488e71810d0bc1099"/>
 	</game>
 	<game name="Amiga TCP-IP AS225 v1.0 (1990)(Commodore)(Disk 1 of 2)">
 		<description>Amiga TCP-IP AS225 v1.0 (1990)(Commodore)(Disk 1 of 2)</description>
@@ -1876,9 +1864,9 @@
 		<description>Amigo Copy v1.1 (1991-03-25)(Traveling Bits)[h PRD]</description>
 		<rom name="Amigo Copy v1.1 (1991-03-25)(Traveling Bits)[h PRD].adf" size="901120" crc="c2df3ef1" md5="eef9c6e2c31c5cc8273eda8ff8365808" sha1="fa9eea69ebb503269b211d5ed320102220d45dc8"/>
 	</game>
-	<game name="Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 1 of 4)(PL)[h WT]">
-		<description>Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 1 of 4)(PL)[h WT]</description>
-		<rom name="Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 1 of 4)(PL)[h WT].adf" size="901120" crc="9930b590" md5="7e3338140847448e123bad80b6555a9d" sha1="eded2b12e5dcfe0842f6fd2c3dd3013f7bc5b235"/>
+	<game name="Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 1 of 4)(PL)[h WT][HD]">
+		<description>Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 1 of 4)(PL)[h WT][HD]</description>
+		<rom name="Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 1 of 4)(PL)[h WT][HD].adf" size="901120" crc="9930b590" md5="7e3338140847448e123bad80b6555a9d" sha1="eded2b12e5dcfe0842f6fd2c3dd3013f7bc5b235"/>
 	</game>
 	<game name="Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 2 of 4)(PL)[h WT]">
 		<description>Amilopedia v1.0 (1998)(Twin Spark Soft)(Disk 2 of 4)(PL)[h WT]</description>
@@ -3348,9 +3336,9 @@
 		<description>Baud Bandit v1.50 (1990)(Progressive Peripherals)</description>
 		<rom name="Baud Bandit v1.50 (1990)(Progressive Peripherals).adf" size="901120" crc="4b57297f" md5="71c0d07532cfecb8c84d8833ba7df356" sha1="72fae960fce80e269a12dae1c49dd548c32d63c0"/>
 	</game>
-	<game name="BD Editoru v1.0 (demo) (1995)(Atlantida)(PL)[Amiga Review]">
-		<description>BD Editoru v1.0 (demo) (1995)(Atlantida)(PL)[Amiga Review]</description>
-		<rom name="BD Editoru v1.0 (demo) (1995)(Atlantida)(PL)[Amiga Review].adf" size="901120" crc="5e34ecc1" md5="cbea667b791fd7c90f4daa319c9e80db" sha1="45d1851e4a06baa385865c9e131ff15377e66a0f"/>
+	<game name="BD Editoru v1.0 (demo) (1995)(Atlantida)(CZ)[Amiga Review]">
+		<description>BD Editoru v1.0 (demo) (1995)(Atlantida)(CZ)[Amiga Review]</description>
+		<rom name="BD Editoru v1.0 (demo) (1995)(Atlantida)(CZ)[Amiga Review].adf" size="901120" crc="5e34ecc1" md5="cbea667b791fd7c90f4daa319c9e80db" sha1="45d1851e4a06baa385865c9e131ff15377e66a0f"/>
 	</game>
 	<game name="Benchmark Modula-2 - Source Level Debugger v01.00 (1989-06-09)(Avant-Garde)(US)">
 		<description>Benchmark Modula-2 - Source Level Debugger v01.00 (1989-06-09)(Avant-Garde)(US)</description>
@@ -4320,6 +4308,10 @@
 		<description>Citizen Systems Disk (1992)(Citizen Europe)[printer setup][WB]</description>
 		<rom name="Citizen Systems Disk (1992)(Citizen Europe)[printer setup][WB].adf" size="901120" crc="847c2375" md5="2a5703a15be4f430dc0756a59676e9ab" sha1="2951c759c3719525bb9e2025b1ba093ea54a942b"/>
 	</game>
+	<game name="Citta' d'Italia, Le v1.0 (1988)(Umbysoft)[h Pier BBS]">
+		<description>Citta' d'Italia, Le v1.0 (1988)(Umbysoft)[h Pier BBS]</description>
+		<rom name="Citta' d'Italia, Le v1.0 (1988)(Umbysoft)[h Pier BBS].adf" size="901120" crc="11e0a667" md5="9403a2314d0f8086a7b198eb5663cc4f" sha1="e8165b0d7cfcaa8ed93e4ed66136bed5bfefb36d"/>
+	</game>
 	<game name="City Desk v2.01 (1989)(MicroSearch)(Disk 1 of 2)[cr QTX]">
 		<description>City Desk v2.01 (1989)(MicroSearch)(Disk 1 of 2)[cr QTX]</description>
 		<rom name="City Desk v2.01 (1989)(MicroSearch)(Disk 1 of 2)[cr QTX].adf" size="901120" crc="4d41d2e1" md5="101ac545fd74ad3a528ab16ac498a75f" sha1="71b5ec08bca7db3a3e4860da946db805c1cfa4a9"/>
@@ -4819,10 +4811,6 @@
 	<game name="CrossMAC v1.05 (1995-11-13)(Consultron)[WB]">
 		<description>CrossMAC v1.05 (1995-11-13)(Consultron)[WB]</description>
 		<rom name="CrossMAC v1.05 (1995-11-13)(Consultron)[WB].adf" size="901120" crc="84ba9c23" md5="538475a3a1198ba81eb80cc4adf315fd" sha1="7c70a3bba1dc6cdee4f326168f9ff3c25f47f347"/>
-	</game>
-	<game name="Crossword Wizard (1993)(Rush Software)[a]">
-		<description>Crossword Wizard (1993)(Rush Software)[a]</description>
-		<rom name="Crossword Wizard (1993)(Rush Software)[a].adf" size="901120" crc="2fe0b0a5" md5="483727feefc596a945c6f99b0ebf74b9" sha1="fccd05f069857aa432f4674eb8cc961608b15ed4"/>
 	</game>
 	<game name="CSI Workshop Disk - Multi-Forth v1.04 (1986)(Creative Solutions)(Disk 1 of 2)">
 		<description>CSI Workshop Disk - Multi-Forth v1.04 (1986)(Creative Solutions)(Disk 1 of 2)</description>
@@ -5732,13 +5720,13 @@
 		<description>Demo Maniac v1.17 (1994)(Black Legend)(Disk 2 of 2)[b corrupt file]</description>
 		<rom name="Demo Maniac v1.17 (1994)(Black Legend)(Disk 2 of 2)[b corrupt file].adf" size="901120" crc="5b258a98" md5="1d19da6143bb5ff352355496c453be0f" sha1="3282e41a1e9b2fdba396172594b5f373cc46d196"/>
 	</game>
+	<game name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h Divine][HD][faked v2.18]">
+		<description>Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h Divine][HD][faked v2.18]</description>
+		<rom name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h Divine][HD][faked v2.18].adf" size="901120" crc="2a287e43" md5="5d5d3a3015ee8a4d12783dbbc7804893" sha1="9149bdfa2cb5d35a9e60892d7b2a831075c28565"/>
+	</game>
 	<game name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h Dracs]">
 		<description>Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h Dracs]</description>
 		<rom name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h Dracs].adf" size="901120" crc="8a88d106" md5="3e1315dc6cc8cd801c54c999f0aab65b" sha1="e34344b82eab021242df93472c31b53f19ad2997"/>
-	</game>
-	<game name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h v2.18 Divine][HD]">
-		<description>Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h v2.18 Divine][HD]</description>
-		<rom name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr AVT][h v2.18 Divine][HD].adf" size="901120" crc="2a287e43" md5="5d5d3a3015ee8a4d12783dbbc7804893" sha1="9149bdfa2cb5d35a9e60892d7b2a831075c28565"/>
 	</game>
 	<game name="Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr][h Acid][v H.N.Y. 96 Installer 1][faked v2.19]">
 		<description>Demo Maniac v1.23 (1994)(Black Legend)(Disk 1 of 2)[cr][h Acid][v H.N.Y. 96 Installer 1][faked v2.19]</description>
@@ -6095,6 +6083,22 @@
 	<game name="Digi-View v4.02 (1990)(NewTek)(PAL)">
 		<description>Digi-View v4.02 (1990)(NewTek)(PAL)</description>
 		<rom name="Digi-View v4.02 (1990)(NewTek)(PAL).adf" size="901120" crc="8b4d9b57" md5="bc498a8a609209a09ffdb4df6f3befff" sha1="34881e46505fb217c5f687cc3dc3109f24c675d1"/>
+	</game>
+	<game name="DigiLab v1.1 (1993-01-25)(HDP Electronics)(PL)(en)">
+		<description>DigiLab v1.1 (1993-01-25)(HDP Electronics)(PL)(en)</description>
+		<rom name="DigiLab v1.1 (1993-01-25)(HDP Electronics)(PL)(en).adf" size="901120" crc="1e29233e" md5="af15f19d7dc63cd425f450db71924135" sha1="8739607da885cfacdc5d668a03afe3091f1906eb"/>
+	</game>
+	<game name="DigiLab v2.0 (1993)(HDP Electronics)(PL)(en-pl)">
+		<description>DigiLab v2.0 (1993)(HDP Electronics)(PL)(en-pl)</description>
+		<rom name="DigiLab v2.0 (1993)(HDP Electronics)(PL)(en-pl).adf" size="901120" crc="bdf75d4b" md5="778fcd9226a4747c3effdc54f18f916b" sha1="e7cf9a223770c4e1fcf8ab3a8aec8077aa6d0dcd"/>
+	</game>
+	<game name="DigiLab v2.0 (demo-slideshow) (1993)(HDP Electronics)(PL)">
+		<description>DigiLab v2.0 (demo-slideshow) (1993)(HDP Electronics)(PL)</description>
+		<rom name="DigiLab v2.0 (demo-slideshow) (1993)(HDP Electronics)(PL).adf" size="901120" crc="362e2893" md5="252b0e65fc6641d141ef95184e1169f7" sha1="970461143622abecc372d4034dd4cd8408820ea0"/>
+	</game>
+	<game name="DigiLab v3.0 (1996-07-03)(HDP Electronics)(PL)(en-pl)">
+		<description>DigiLab v3.0 (1996-07-03)(HDP Electronics)(PL)(en-pl)</description>
+		<rom name="DigiLab v3.0 (1996-07-03)(HDP Electronics)(PL)(en-pl).adf" size="901120" crc="51091363" md5="6aa7081ca5116d8a0a2456e30969657a" sha1="8d4e8538ecea0900da2bcc9ab8b8ce202c6f984f"/>
 	</game>
 	<game name="Digita AgfaFont Disk Creator (1993)(Digita)(Disk 1 of 3)[a][HD]">
 		<description>Digita AgfaFont Disk Creator (1993)(Digita)(Disk 1 of 3)[a][HD]</description>
@@ -7039,10 +7043,6 @@
 	<game name="DynamicCAD Rev 2.1 (1986)(Drafting Dynamics)(Disk 2 of 2)">
 		<description>DynamicCAD Rev 2.1 (1986)(Drafting Dynamics)(Disk 2 of 2)</description>
 		<rom name="DynamicCAD Rev 2.1 (1986)(Drafting Dynamics)(Disk 2 of 2).adf" size="901120" crc="afa03320" md5="d9e94fab96059b5ab210a641a248366d" sha1="720654149f3e6311ef832aec6e83d36b886c3d45"/>
-	</game>
-	<game name="Dyrektor Opery v1.06 (1995)(Bohdan R. Rau)(PL)">
-		<description>Dyrektor Opery v1.06 (1995)(Bohdan R. Rau)(PL)</description>
-		<rom name="Dyrektor Opery v1.06 (1995)(Bohdan R. Rau)(PL).adf" size="901120" crc="b0a7ba09" md5="952084dba37d68a606f8a706277213ab" sha1="d7e1806add4b2a9dd3fcd979f270f30252dd74ca"/>
 	</game>
 	<game name="E-Z FM Synthesizer v2.28 (1990)(The Other Guys)(NTSC)[cr]">
 		<description>E-Z FM Synthesizer v2.28 (1990)(The Other Guys)(NTSC)[cr]</description>
@@ -8204,6 +8204,14 @@
 		<description>Forge - Texture Designer v1.0 (1994)(Apex Software)</description>
 		<rom name="Forge - Texture Designer v1.0 (1994)(Apex Software).adf" size="901120" crc="66863cfd" md5="2689f8a94965f27402d697db1d6a75e2" sha1="0e367861232caac6769459ad97cf97cd4d01a992"/>
 	</game>
+	<game name="Forms-In-Flight v1.021 (1987)(Micro Magic)[m][WB]">
+		<description>Forms-In-Flight v1.021 (1987)(Micro Magic)[m][WB]</description>
+		<rom name="Forms-In-Flight v1.021 (1987)(Micro Magic)[m][WB].adf" size="901120" crc="79540e69" md5="986b878d487799b04a4135a6b38c000e" sha1="3c21456744957143829927536e7cd2109d79a345"/>
+	</game>
+	<game name="Forms-In-Flight v1.021 (1987)(Micro Magic)[WB]">
+		<description>Forms-In-Flight v1.021 (1987)(Micro Magic)[WB]</description>
+		<rom name="Forms-In-Flight v1.021 (1987)(Micro Magic)[WB].adf" size="901120" crc="ee15b4cd" md5="e07a95c881c214fa53f8922b6e93c394" sha1="8aac5db3bde1ec2e189b9b70b6a2315cf949da58"/>
+	</game>
 	<game name="Forste Trin, De (1987)(Holz, Juan - Horasoft - A-Ha)(DK)[tutorial]">
 		<description>Forste Trin, De (1987)(Holz, Juan - Horasoft - A-Ha)(DK)[tutorial]</description>
 		<rom name="Forste Trin, De (1987)(Holz, Juan - Horasoft - A-Ha)(DK)[tutorial].adf" size="901120" crc="161d3cb2" md5="e1de4afdb9ade0daaefdaca7a76d6a39" sha1="340a33fc64e59e23c1b6aa33965aed14798e279f"/>
@@ -8496,9 +8504,17 @@
 		<description>Goal v2.2 (1994)(Gianni, Massimo)(IT)[KS2.0]</description>
 		<rom name="Goal v2.2 (1994)(Gianni, Massimo)(IT)[KS2.0].adf" size="901120" crc="4e98e5fd" md5="fc66ebb8ee793d62804ea2686e8b3cca" sha1="15948bbf4faededa181cff83373c9f7a151a3684"/>
 	</game>
-	<game name="GoAmiga! Datei v1.01 (1987)(SoftWood Company)[h Detonator 4001]">
-		<description>GoAmiga! Datei v1.01 (1987)(SoftWood Company)[h Detonator 4001]</description>
-		<rom name="GoAmiga! Datei v1.01 (1987)(SoftWood Company)[h Detonator 4001].adf" size="901120" crc="0bf8608e" md5="76333a6a09ae8a8626524e3e29c15345" sha1="a90895a1a1d89d3e1696b1aab7eeef6dee269f9e"/>
+	<game name="GoAmiga! Datei v1.0 (1994)(SoftWood Company)(PL)[h AMIX][v Byte Bandit 1]">
+		<description>GoAmiga! Datei v1.0 (1994)(SoftWood Company)(PL)[h AMIX][v Byte Bandit 1]</description>
+		<rom name="GoAmiga! Datei v1.0 (1994)(SoftWood Company)(PL)[h AMIX][v Byte Bandit 1].adf" size="901120" crc="04a16571" md5="d4cfabb1868a3f2fa005ab088ac5319f" sha1="8fbfec9985a9a432d499f9b3e051c066b05cfea1"/>
+	</game>
+	<game name="GoAmiga! Datei v1.01 (1987)(SoftWood Company)(DE)[h Detonator 4001]">
+		<description>GoAmiga! Datei v1.01 (1987)(SoftWood Company)(DE)[h Detonator 4001]</description>
+		<rom name="GoAmiga! Datei v1.01 (1987)(SoftWood Company)(DE)[h Detonator 4001].adf" size="901120" crc="b652a1e6" md5="9ff93a13486c8cdc52a5e173449cdd1f" sha1="c1745be87c504fbfdb03dd543fd973a811a48d6c"/>
+	</game>
+	<game name="GoAmiga! Datei v1.01 (1987)(SoftWood Company)(DE)[h Detonator 4001][m]">
+		<description>GoAmiga! Datei v1.01 (1987)(SoftWood Company)(DE)[h Detonator 4001][m]</description>
+		<rom name="GoAmiga! Datei v1.01 (1987)(SoftWood Company)(DE)[h Detonator 4001][m].adf" size="901120" crc="0bf8608e" md5="76333a6a09ae8a8626524e3e29c15345" sha1="a90895a1a1d89d3e1696b1aab7eeef6dee269f9e"/>
 	</game>
 	<game name="Gold Disk Office (1990)(Gold Disk)(Disk 1 of 4)(Page)[h Unicorn]">
 		<description>Gold Disk Office (1990)(Gold Disk)(Disk 1 of 4)(Page)[h Unicorn]</description>
@@ -8663,6 +8679,10 @@
 	<game name="GVP IOExtender Install Disk v1.11 (1994)(Great Valley Products)">
 		<description>GVP IOExtender Install Disk v1.11 (1994)(Great Valley Products)</description>
 		<rom name="GVP IOExtender Install Disk v1.11 (1994)(Great Valley Products).adf" size="901120" crc="7fd59206" md5="e542a6e136d673ff60b1f705b14784f9" sha1="eca927f10f3cbe94f2498434c67d07d3ee0c6fe1"/>
+	</game>
+	<game name="GvpInfo v1.40 (1992)(GVP - Willi Burmeister)[h Byte Busters]">
+		<description>GvpInfo v1.40 (1992)(GVP - Willi Burmeister)[h Byte Busters]</description>
+		<rom name="GvpInfo v1.40 (1992)(GVP - Willi Burmeister)[h Byte Busters].adf" size="901120" crc="84169433" md5="ad919aeab083cc2f5fe6e8d5f4a1d722" sha1="77cfaedf0fa96f34028aafb3b66b3c45cb4cb6a0"/>
 	</game>
 	<game name="HAM-E Support Software v2 rev23 (1991)(Black Belt Systems)(Disk 1 of 3)[WB]">
 		<description>HAM-E Support Software v2 rev23 (1991)(Black Belt Systems)(Disk 1 of 3)[WB]</description>
@@ -8907,6 +8927,14 @@
 	<game name="High Speed Pascal v1.0 (1992)(HiSoft)(Disk 2 of 2)[a]">
 		<description>High Speed Pascal v1.0 (1992)(HiSoft)(Disk 2 of 2)[a]</description>
 		<rom name="High Speed Pascal v1.0 (1992)(HiSoft)(Disk 2 of 2)[a].adf" size="901120" crc="59e5d5e2" md5="f78cc6b2bff109dd4d30c2eb710305e4" sha1="fec0a960022ea47db94043648ae8ba15dcafaf48"/>
+	</game>
+	<game name="Hiper Slownik - Angielsko-Polski (1995)(MarkSoft)(PL)">
+		<description>Hiper Slownik - Angielsko-Polski (1995)(MarkSoft)(PL)</description>
+		<rom name="Hiper Slownik - Angielsko-Polski (1995)(MarkSoft)(PL).adf" size="901120" crc="ca341bee" md5="5bc96fbb822f11f1bc9d75b908240dba" sha1="a3895f90aea0243d04cac40ab8260934777a65ca"/>
+	</game>
+	<game name="Hiper Slownik - Polsko-Angielski (1995)(MarkSoft)(PL)">
+		<description>Hiper Slownik - Polsko-Angielski (1995)(MarkSoft)(PL)</description>
+		<rom name="Hiper Slownik - Polsko-Angielski (1995)(MarkSoft)(PL).adf" size="901120" crc="577615e4" md5="1797a8bb7a605b20a923e7693215fc24" sha1="10047e67d868280bbbbe6a5551d5630de6518cc0"/>
 	</game>
 	<game name="HiSoft BASIC AGA v1.04D (1993)(HiSoft)(DE)(Disk 1 of 2)">
 		<description>HiSoft BASIC AGA v1.04D (1993)(HiSoft)(DE)(Disk 1 of 2)</description>
@@ -9704,9 +9732,41 @@
 		<description>Imploder v1.0, The (1989)(Discovery Software)[h PCI]</description>
 		<rom name="Imploder v1.0, The (1989)(Discovery Software)[h PCI].adf" size="901120" crc="5d2b53ed" md5="a66b784181c939a1e5ab3ec5df430241" sha1="6b31e67c6a67d920a067ee1941018384dd2d04a6"/>
 	</game>
+	<game name="In Stereo! (1990)(Softpoint)[cr MAD]">
+		<description>In Stereo! (1990)(Softpoint)[cr MAD]</description>
+		<rom name="In Stereo! (1990)(Softpoint)[cr MAD].adf" size="901120" crc="1d29033b" md5="0f3007ab7abbd784042e99353338cda6" sha1="3d26d6111e5f62e1ec12aff717a36df5067c4e2d"/>
+	</game>
 	<game name="In Stereo! (1990)(Softpoint)[cr MAD][h ACU]">
 		<description>In Stereo! (1990)(Softpoint)[cr MAD][h ACU]</description>
 		<rom name="In Stereo! (1990)(Softpoint)[cr MAD][h ACU].adf" size="901120" crc="340921d5" md5="d91afff8f45ea75c3e4865a0140d1bc6" sha1="ee873914ff1ae0560630d485d3bfbdb3504caf06"/>
+	</game>
+	<game name="In Stereo! (1990)(Softpoint)[cr MAD][h Midnight Maniac - Mayday]">
+		<description>In Stereo! (1990)(Softpoint)[cr MAD][h Midnight Maniac - Mayday]</description>
+		<rom name="In Stereo! (1990)(Softpoint)[cr MAD][h Midnight Maniac - Mayday].adf" size="901120" crc="55ea2c03" md5="3b2d60b19c6e1ebd58635fa3a624e382" sha1="b8e1e4ee4a8658e3bbef1a49fc86d9a72dbbb906"/>
+	</game>
+	<game name="In Stereo! v2.02 gamma (demo) (1990-09-16)(MelmaComputers)[h Apex]">
+		<description>In Stereo! v2.02 gamma (demo) (1990-09-16)(MelmaComputers)[h Apex]</description>
+		<rom name="In Stereo! v2.02 gamma (demo) (1990-09-16)(MelmaComputers)[h Apex].adf" size="901120" crc="2069ba27" md5="4dcf8a638a1838b422c2aff426fccad2" sha1="05bc83e5584556ec0485ebebab0563ba8b7c0ecf"/>
+	</game>
+	<game name="In Stereo! v2.05a internal (demo) (1990-11-12)(MelmaComputers)(Disk 1 of 2)[h TRSI]">
+		<description>In Stereo! v2.05a internal (demo) (1990-11-12)(MelmaComputers)(Disk 1 of 2)[h TRSI]</description>
+		<rom name="In Stereo! v2.05a internal (demo) (1990-11-12)(MelmaComputers)(Disk 1 of 2)[h TRSI].adf" size="901120" crc="ab9f1030" md5="df32fe353fe22e0a8ddbacd57a1438a2" sha1="43b8ac70bfa84a418276a102810442f04bf1b2d1"/>
+	</game>
+	<game name="In Stereo! v2.05a internal (demo) (1990-11-12)(MelmaComputers)(Disk 2 of 2)[h TRSI][b corrupt file]">
+		<description>In Stereo! v2.05a internal (demo) (1990-11-12)(MelmaComputers)(Disk 2 of 2)[h TRSI][b corrupt file]</description>
+		<rom name="In Stereo! v2.05a internal (demo) (1990-11-12)(MelmaComputers)(Disk 2 of 2)[h TRSI][b corrupt file].adf" size="901120" crc="255f7120" md5="991fe3d25be9561cb17fb64b1c65a60c" sha1="cc07470ff0160fc9718b3e295a2cfbd42bc4fc62"/>
+	</game>
+	<game name="In Stereo! v2.10d internal (demo) (1990-12-30)(MelmaComputers)">
+		<description>In Stereo! v2.10d internal (demo) (1990-12-30)(MelmaComputers)</description>
+		<rom name="In Stereo! v2.10d internal (demo) (1990-12-30)(MelmaComputers).adf" size="901120" crc="c1060cd3" md5="caa8477cf8b8a69119e3b58c894751f4" sha1="31a26640f39ef2db4da7a00086bfb12f78d8f552"/>
+	</game>
+	<game name="In Stereo! v2.12d internal (demo) (1991-02-18)(MelmaComputers)[h Apex - Fast Eddie]">
+		<description>In Stereo! v2.12d internal (demo) (1991-02-18)(MelmaComputers)[h Apex - Fast Eddie]</description>
+		<rom name="In Stereo! v2.12d internal (demo) (1991-02-18)(MelmaComputers)[h Apex - Fast Eddie].adf" size="923648" crc="7aaf80c0" md5="655e7a6086b941245fe99f4f82da420a" sha1="48748680af249410b176eafd95d411f077025424"/>
+	</game>
+	<game name="In Stereo! v2.12d internal (demo) (1991-02-18)(MelmaComputers)[h Apex]">
+		<description>In Stereo! v2.12d internal (demo) (1991-02-18)(MelmaComputers)[h Apex]</description>
+		<rom name="In Stereo! v2.12d internal (demo) (1991-02-18)(MelmaComputers)[h Apex].adf" size="901120" crc="7a5a7479" md5="ce84411f842268fd008a99cb802df59e" sha1="f6643dd5c53d1f443de6c2e34acfd60f35976b90"/>
 	</game>
 	<game name="InfoChannel v2.15-N (1990)(Digital Vision)[cr Razor 1911]">
 		<description>InfoChannel v2.15-N (1990)(Digital Vision)[cr Razor 1911]</description>
@@ -9879,6 +9939,18 @@
 	<game name="Internet Surfer Package (1996)(Amiga Technologies)(Disk 3 of 3)[HD]">
 		<description>Internet Surfer Package (1996)(Amiga Technologies)(Disk 3 of 3)[HD]</description>
 		<rom name="Internet Surfer Package (1996)(Amiga Technologies)(Disk 3 of 3)[HD].adf" size="901120" crc="db18702c" md5="a21f2097be98e85474e113fbbff7de10" sha1="5cb8399d9666d2f55705a75c3717833f391dac17"/>
+	</game>
+	<game name="InterSound v1.0 (1990)(InteractiVision)(DK)">
+		<description>InterSound v1.0 (1990)(InteractiVision)(DK)</description>
+		<rom name="InterSound v1.0 (1990)(InteractiVision)(DK).adf" size="901120" crc="b678a9f4" md5="a4e107e0a7fb91de862c769e8b81f201" sha1="4779bde890b4014cf0b2204037e26dd3160b9743"/>
+	</game>
+	<game name="InterSound v1.0 (1990)(Interactivision)(DK)(en)">
+		<description>InterSound v1.0 (1990)(Interactivision)(DK)(en)</description>
+		<rom name="InterSound v1.0 (1990)(Interactivision)(DK)(en).adf" size="901120" crc="67d55a69" md5="206dc20d797756bb5771d6de0bd5251c" sha1="ff2d47cef3cebc004c55148ef9653beea2b053ef"/>
+	</game>
+	<game name="InterSound v1.0 (1990)(InteractiVision)(DK)[a]">
+		<description>InterSound v1.0 (1990)(InteractiVision)(DK)[a]</description>
+		<rom name="InterSound v1.0 (1990)(InteractiVision)(DK)[a].adf" size="901120" crc="6a4151b0" md5="21344a411bf18405fc640ecaada9bf78" sha1="eab6666dfd911a2d6f7693bb609e1884a97ba11d"/>
 	</game>
 	<game name="InterSpread Pro v1.00 (1993)(Interactivision)(Disk 1 of 2)">
 		<description>InterSpread Pro v1.00 (1993)(Interactivision)(Disk 1 of 2)</description>
@@ -10632,6 +10704,10 @@
 		<description>Lion's Fonts (1988)(Lion Kuntz)(Disk 3 of 4)[WB]</description>
 		<rom name="Lion's Fonts (1988)(Lion Kuntz)(Disk 3 of 4)[WB].adf" size="901120" crc="70b0c6f1" md5="1917febc076b64370b032fe25995bc50" sha1="84ec5ead422cf13cb140755c05486a435511efa6"/>
 	</game>
+	<game name="Lissa v1.2 - Generates 3D Lissajous Curves (1992)(Technical Tools)(US)[WB]">
+		<description>Lissa v1.2 - Generates 3D Lissajous Curves (1992)(Technical Tools)(US)[WB]</description>
+		<rom name="Lissa v1.2 - Generates 3D Lissajous Curves (1992)(Technical Tools)(US)[WB].adf" size="901120" crc="9f89286e" md5="f07cce1d67938562096a4ecb096cd9f4" sha1="e65cc9041e5aaf7f983b6b72b73976e2af135c7a"/>
+	</game>
 	<game name="Lockpick v1.0 (1992-03-31)(Eurosoft)[cr SR]">
 		<description>Lockpick v1.0 (1992-03-31)(Eurosoft)[cr SR]</description>
 		<rom name="Lockpick v1.0 (1992-03-31)(Eurosoft)[cr SR].adf" size="901120" crc="361252c7" md5="a297efc1fcd1f006a31d419a545ff8c1" sha1="1b4a9d0d43d95d8cf0351b65ae890e4921fa0d10"/>
@@ -10951,6 +11027,10 @@
 	<game name="Map Master (19xx)(Markoya, Luis)(Disk 3 of 3)(Image II)[req. Imagine]">
 		<description>Map Master (19xx)(Markoya, Luis)(Disk 3 of 3)(Image II)[req. Imagine]</description>
 		<rom name="Map Master (19xx)(Markoya, Luis)(Disk 3 of 3)(Image II)[req. Imagine].adf" size="901120" crc="2cbd13b5" md5="20bce947337bd62c5bf2d0eb70e84cac" sha1="58b51c1b7e85a28c91dae659917ac61138cdec91"/>
+	</game>
+	<game name="Mapa Polski (1993)(TEDD Warszawa)(PL)">
+		<description>Mapa Polski (1993)(TEDD Warszawa)(PL)</description>
+		<rom name="Mapa Polski (1993)(TEDD Warszawa)(PL).adf" size="901120" crc="8a011a41" md5="5a431bddd47e2ce366cc1b839c92d3bf" sha1="03a2957ebe632e9be1edf92c4ac11b236e2dc2a1"/>
 	</game>
 	<game name="Maple V r0.9 (1992)(Waterloo Maple)(Disk 1 of 4)[HD]">
 		<description>Maple V r0.9 (1992)(Waterloo Maple)(Disk 1 of 4)[HD]</description>
@@ -11723,10 +11803,6 @@
 	<game name="Micro Forge Workbench RAM Disk, The v1.0 (1985)(Matthews, D.)">
 		<description>Micro Forge Workbench RAM Disk, The v1.0 (1985)(Matthews, D.)</description>
 		<rom name="Micro Forge Workbench RAM Disk, The v1.0 (1985)(Matthews, D.).adf" size="901120" crc="88811760" md5="0ef82c4d3447b8e737bd0fcb3b4eef3f" sha1="07a1795406db7db58c0c8362d10023136deffa19"/>
-	</game>
-	<game name="Micro Magic (1987)(-)[WB]">
-		<description>Micro Magic (1987)(-)[WB]</description>
-		<rom name="Micro Magic (1987)(-)[WB].adf" size="901120" crc="79540e69" md5="986b878d487799b04a4135a6b38c000e" sha1="3c21456744957143829927536e7cd2109d79a345"/>
 	</game>
 	<game name="Microbots for Turbo Silver (1991)(Antic Publishing)[h Main Source BBS][req. Turbo Silver - Imagine]">
 		<description>Microbots for Turbo Silver (1991)(Antic Publishing)[h Main Source BBS][req. Turbo Silver - Imagine]</description>
@@ -12536,9 +12612,25 @@
 		<description>Novelty Fonts 2 (1988)(Inter-Active Softworks)[WB]</description>
 		<rom name="Novelty Fonts 2 (1988)(Inter-Active Softworks)[WB].adf" size="901120" crc="1c301756" md5="7bb44b392e49f183a77f397a02b2a6b6" sha1="e681ffe67dc3612e100448bc676050296e21fe98"/>
 	</game>
+	<game name="NoVirus v3.00 alpha 3 (1989-07-04)(Wilson, Nic)">
+		<description>NoVirus v3.00 alpha 3 (1989-07-04)(Wilson, Nic)</description>
+		<rom name="NoVirus v3.00 alpha 3 (1989-07-04)(Wilson, Nic).adf" size="901120" crc="88ebfb50" md5="7397e2a70ce166009ffab6d67a908007" sha1="411037dbe3a782af1c82cd7cd4b2e36107380159"/>
+	</game>
 	<game name="NoVirus v3.00a (1990)(Nic Wilson Software)[h NZ Express]">
 		<description>NoVirus v3.00a (1990)(Nic Wilson Software)[h NZ Express]</description>
 		<rom name="NoVirus v3.00a (1990)(Nic Wilson Software)[h NZ Express].adf" size="901120" crc="8330e090" md5="4b6a28c9bae37904a43a8bfc7ccf22e1" sha1="65e76346ad34b10e41b90b712483bd6ea4d2fe0f"/>
+	</game>
+	<game name="NoVirus v3.11 (1990-06-07)(Wilson, Nic)">
+		<description>NoVirus v3.11 (1990-06-07)(Wilson, Nic)</description>
+		<rom name="NoVirus v3.11 (1990-06-07)(Wilson, Nic).adf" size="901120" crc="433e23a1" md5="d4c8d9661060e124002ce7e0d8a0d077" sha1="abc64d36782501fb501f9923ff7c3d0890cc5255"/>
+	</game>
+	<game name="NoVirus v3.52 (1990-04-01)(Wilson, Nic)">
+		<description>NoVirus v3.52 (1990-04-01)(Wilson, Nic)</description>
+		<rom name="NoVirus v3.52 (1990-04-01)(Wilson, Nic).adf" size="901120" crc="fce2102c" md5="37af9c6823ab448fac558dae35534293" sha1="48daa10b28ad7a7471475c85d788dc353ef14c9f"/>
+	</game>
+	<game name="NoVirus v3.54 (1990-06-09)(Wilson, Nic)">
+		<description>NoVirus v3.54 (1990-06-09)(Wilson, Nic)</description>
+		<rom name="NoVirus v3.54 (1990-06-09)(Wilson, Nic).adf" size="901120" crc="e53233ca" md5="67c58f5ce03f2bb21765c1986f89870b" sha1="965cf8cbbd3c15151ee82597d1e1247a878b6ef4"/>
 	</game>
 	<game name="NoVirus v3.61 (1991-11-19)(Pactronics)">
 		<description>NoVirus v3.61 (1991-11-19)(Pactronics)</description>
@@ -12819,6 +12911,10 @@
 	<game name="OnLine! v2.11 (1987)(Micro-Systems Software)[h Mr Root's Crew]">
 		<description>OnLine! v2.11 (1987)(Micro-Systems Software)[h Mr Root's Crew]</description>
 		<rom name="OnLine! v2.11 (1987)(Micro-Systems Software)[h Mr Root's Crew].adf" size="901120" crc="c569e5d1" md5="222b1e1958a93e741a4c8927eea757d2" sha1="fcc436b501479ebeececd11490c102850484debb"/>
+	</game>
+	<game name="Opera v1.06 (1995)(Twin Spark Soft)(PL)[aka Dyrektor Opery]">
+		<description>Opera v1.06 (1995)(Twin Spark Soft)(PL)[aka Dyrektor Opery]</description>
+		<rom name="Opera v1.06 (1995)(Twin Spark Soft)(PL)[aka Dyrektor Opery].adf" size="901120" crc="b0a7ba09" md5="952084dba37d68a606f8a706277213ab" sha1="d7e1806add4b2a9dd3fcd979f270f30252dd74ca"/>
 	</game>
 	<game name="Opticks v1.0 (1988)(Incognito)[h QTX]">
 		<description>Opticks v1.0 (1988)(Incognito)[h QTX]</description>
@@ -13360,6 +13456,10 @@
 		<description>PC-Task v3.10 r2.00 (1995-03)(Quasar)(Disk 2 of 2)[cr Intensity]</description>
 		<rom name="PC-Task v3.10 r2.00 (1995-03)(Quasar)(Disk 2 of 2)[cr Intensity].adf" size="901120" crc="95d1dae5" md5="33300c455af88715e2edeca9fe139340" sha1="1b44f96515e1898eac7aa0f21528d4d0d481ee46"/>
 	</game>
+	<game name="PC-Task v3.10 r2.00 Updater (1995-03)(Quasar)[update disk]">
+		<description>PC-Task v3.10 r2.00 Updater (1995-03)(Quasar)[update disk]</description>
+		<rom name="PC-Task v3.10 r2.00 Updater (1995-03)(Quasar)[update disk].adf" size="901120" crc="25573aca" md5="e21082f1503fb44d6952ace92ecedc9d" sha1="e4c9988309f798c5d809b24c4515e8328b48d88a"/>
+	</game>
 	<game name="PC-Task v4.00 (1997-01)(Quasar)[cr DC][WB]">
 		<description>PC-Task v4.00 (1997-01)(Quasar)[cr DC][WB]</description>
 		<rom name="PC-Task v4.00 (1997-01)(Quasar)[cr DC][WB].adf" size="901120" crc="1f45dad4" md5="46542bd7f6a64c51fbb7c66cd2a13a93" sha1="9db4cfc32e6c8a5fb9914df5f11edeecfe96042c"/>
@@ -13371,6 +13471,10 @@
 	<game name="PCLO Amiga CAD v3.0r (1985)(SoftCircuits)">
 		<description>PCLO Amiga CAD v3.0r (1985)(SoftCircuits)</description>
 		<rom name="PCLO Amiga CAD v3.0r (1985)(SoftCircuits).adf" size="901120" crc="c4748f74" md5="0fc40401ac98de0b9a9515b2c81326dd" sha1="076468e2a3fc03a338eb5ebe239030f8add5f881"/>
+	</game>
+	<game name="PCP - Professional Conversion Pack v2.0 (1991)(ASDG)[req. ADPro]">
+		<description>PCP - Professional Conversion Pack v2.0 (1991)(ASDG)[req. ADPro]</description>
+		<rom name="PCP - Professional Conversion Pack v2.0 (1991)(ASDG)[req. ADPro].adf" size="901120" crc="a3437dc1" md5="92036bc120cd5a3df7b79a124e0b5245" sha1="807530686770fa239520c962110dc8f8de4527ca"/>
 	</game>
 	<game name="PCx - The Professional x86 Emulator v1.0 (demo) (1996-12)(Microcode Solutions)[HD]">
 		<description>PCx - The Professional x86 Emulator v1.0 (demo) (1996-12)(Microcode Solutions)[HD]</description>
@@ -14095,6 +14199,18 @@
 	<game name="Power Computing XLDrive Installation v1.4 (1995)(Power Computing)">
 		<description>Power Computing XLDrive Installation v1.4 (1995)(Power Computing)</description>
 		<rom name="Power Computing XLDrive Installation v1.4 (1995)(Power Computing).adf" size="901120" crc="d93c8e36" md5="ac3cd7622f35e2c3cdb4b06789fa1f73" sha1="17badbb8028988e9a5b57f11f916c6c0ca33c110"/>
+	</game>
+	<game name="Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 1 of 3)[WB]">
+		<description>Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 1 of 3)[WB]</description>
+		<rom name="Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 1 of 3)[WB].adf" size="901120" crc="f62be083" md5="b92067b812d7b9eeb24208e4e86f9164" sha1="9a865c4b12a74aea8bb105dd507000c5c02a0192"/>
+	</game>
+	<game name="Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 2 of 3)">
+		<description>Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 2 of 3)</description>
+		<rom name="Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 2 of 3).adf" size="901120" crc="9ce26e55" md5="333e15bf2f8f5ad661a51c301417a761" sha1="bd1a72db02870a815b1c0e0ae0f956a622349513"/>
+	</game>
+	<game name="Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 3 of 3)">
+		<description>Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 3 of 3)</description>
+		<rom name="Power Stitch 256 Plus v2.0 (1995)(Aspire 2)(Disk 3 of 3).adf" size="901120" crc="60e445d8" md5="91e3521656777dc32ec2c52de1fe7d0e" sha1="4a1c2bad4c381b3e478143b0daeea516617c3510"/>
 	</game>
 	<game name="Power Utilities Nr.I - PowerPacker Professional v3.0a (1990)(United Graphic Artists)(NL)">
 		<description>Power Utilities Nr.I - PowerPacker Professional v3.0a (1990)(United Graphic Artists)(NL)</description>
@@ -15744,145 +15860,149 @@
 		<description>Sanyo Freedisk (1993-07)(BCD Associates)[req. Sanyo GVR-S950]</description>
 		<rom name="Sanyo Freedisk (1993-07)(BCD Associates)[req. Sanyo GVR-S950].adf" size="901120" crc="595edd16" md5="dd565fd1836510bb026152380bedc114" sha1="7a9b11cc0f0c71d2a45e71a34d9b84bc078572fc"/>
 	</game>
-	<game name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 1 of 6)">
-		<description>SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 1 of 6)</description>
-		<rom name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 1 of 6).adf" size="901120" crc="a4bab37b" md5="10b2c517114c08a28e775bbc06ee8cbb" sha1="81cc955fe517540dab3dd0c6da969ba37c769ea6"/>
+	<game name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 1 of 6)">
+		<description>SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 1 of 6)</description>
+		<rom name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 1 of 6).adf" size="901120" crc="a4bab37b" md5="10b2c517114c08a28e775bbc06ee8cbb" sha1="81cc955fe517540dab3dd0c6da969ba37c769ea6"/>
 	</game>
-	<game name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 2 of 6)">
-		<description>SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 2 of 6)</description>
-		<rom name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 2 of 6).adf" size="901120" crc="b404a577" md5="072a53b73a89b9e51a08f908398d67ea" sha1="1b6eef08e724713d759458af1833d02564c194a1"/>
+	<game name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 2 of 6)">
+		<description>SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 2 of 6)</description>
+		<rom name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 2 of 6).adf" size="901120" crc="b404a577" md5="072a53b73a89b9e51a08f908398d67ea" sha1="1b6eef08e724713d759458af1833d02564c194a1"/>
 	</game>
-	<game name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 3 of 6)">
-		<description>SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 3 of 6)</description>
-		<rom name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 3 of 6).adf" size="901120" crc="588fbc72" md5="4e0f94a0fcc17aea4aea03199f49e4bc" sha1="831c929d911c3aad2d8984d41b9078261ef3b829"/>
+	<game name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 3 of 6)">
+		<description>SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 3 of 6)</description>
+		<rom name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 3 of 6).adf" size="901120" crc="588fbc72" md5="4e0f94a0fcc17aea4aea03199f49e4bc" sha1="831c929d911c3aad2d8984d41b9078261ef3b829"/>
 	</game>
-	<game name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 4 of 6)">
-		<description>SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 4 of 6)</description>
-		<rom name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 4 of 6).adf" size="901120" crc="649ba8d4" md5="113a900c908927e16bd525191fe635f7" sha1="6a09d3e4d3010fee4b666de357384d9431c766db"/>
+	<game name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 4 of 6)">
+		<description>SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 4 of 6)</description>
+		<rom name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 4 of 6).adf" size="901120" crc="649ba8d4" md5="113a900c908927e16bd525191fe635f7" sha1="6a09d3e4d3010fee4b666de357384d9431c766db"/>
 	</game>
-	<game name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 5 of 6)">
-		<description>SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 5 of 6)</description>
-		<rom name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 5 of 6).adf" size="901120" crc="e1735e67" md5="573685e1a8e6678d511be9b394ff7874" sha1="f0e2a55db1b49611faade1e43d7e149c45fb276d"/>
+	<game name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 5 of 6)">
+		<description>SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 5 of 6)</description>
+		<rom name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 5 of 6).adf" size="901120" crc="e1735e67" md5="573685e1a8e6678d511be9b394ff7874" sha1="f0e2a55db1b49611faade1e43d7e149c45fb276d"/>
 	</game>
-	<game name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 6 of 6)">
-		<description>SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 6 of 6)</description>
-		<rom name="SAS C Compiler v5.10 (1990)(SAS Institute)(Disk 6 of 6).adf" size="901120" crc="a84ac48e" md5="0803ab8b35ce3582fd22bdc541c5daaa" sha1="108c0d4a537531d529a4ec75cf60ec362b2391f7"/>
+	<game name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 6 of 6)">
+		<description>SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 6 of 6)</description>
+		<rom name="SAS-C Compiler v5.10 (1990)(SAS Institute)(Disk 6 of 6).adf" size="901120" crc="a84ac48e" md5="0803ab8b35ce3582fd22bdc541c5daaa" sha1="108c0d4a537531d529a4ec75cf60ec362b2391f7"/>
 	</game>
-	<game name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 1 of 6)[FD-HD]">
-		<description>SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 1 of 6)[FD-HD]</description>
-		<rom name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 1 of 6)[FD-HD].adf" size="901120" crc="fd82d188" md5="b656ef7a4ee31df23432738c4c427987" sha1="69f2d8506047876ac2a5abb2500e2f36937aef95"/>
+	<game name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 1 of 6)[FD-HD]">
+		<description>SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 1 of 6)[FD-HD]</description>
+		<rom name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 1 of 6)[FD-HD].adf" size="901120" crc="fd82d188" md5="b656ef7a4ee31df23432738c4c427987" sha1="69f2d8506047876ac2a5abb2500e2f36937aef95"/>
 	</game>
-	<game name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 2 of 6)[FD-HD]">
-		<description>SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 2 of 6)[FD-HD]</description>
-		<rom name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 2 of 6)[FD-HD].adf" size="901120" crc="50e27fd5" md5="6561dd62a9853e8813792b72f20c53aa" sha1="a48196828e479c79096f5a6db84b871221c45125"/>
+	<game name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 2 of 6)">
+		<description>SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 2 of 6)</description>
+		<rom name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 2 of 6).adf" size="901120" crc="50e27fd5" md5="6561dd62a9853e8813792b72f20c53aa" sha1="a48196828e479c79096f5a6db84b871221c45125"/>
 	</game>
-	<game name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 3 of 6)[FD-HD]">
-		<description>SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 3 of 6)[FD-HD]</description>
-		<rom name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 3 of 6)[FD-HD].adf" size="901120" crc="e35e0b3c" md5="80a29ccce48238482a23cdf6fee7c43b" sha1="7dca709cfad7e906249c5550e87f72979e159a47"/>
+	<game name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 3 of 6)">
+		<description>SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 3 of 6)</description>
+		<rom name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 3 of 6).adf" size="901120" crc="e35e0b3c" md5="80a29ccce48238482a23cdf6fee7c43b" sha1="7dca709cfad7e906249c5550e87f72979e159a47"/>
 	</game>
-	<game name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 4 of 6)[FD-HD]">
-		<description>SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 4 of 6)[FD-HD]</description>
-		<rom name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 4 of 6)[FD-HD].adf" size="901120" crc="93fead34" md5="1152c33f1af46496649997a72615964d" sha1="40f2e8fc4ffd060752c76f75e4c70693d4435e96"/>
+	<game name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 4 of 6)">
+		<description>SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 4 of 6)</description>
+		<rom name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 4 of 6).adf" size="901120" crc="93fead34" md5="1152c33f1af46496649997a72615964d" sha1="40f2e8fc4ffd060752c76f75e4c70693d4435e96"/>
 	</game>
-	<game name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 5 of 6)[FD-HD]">
-		<description>SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 5 of 6)[FD-HD]</description>
-		<rom name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 5 of 6)[FD-HD].adf" size="901120" crc="55d25bb6" md5="b2dc8f998ab756f03e202d78578057d8" sha1="a2cf2e0d0e2d91f1a347d9305a8abb76e2b45c77"/>
+	<game name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 5 of 6)">
+		<description>SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 5 of 6)</description>
+		<rom name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 5 of 6).adf" size="901120" crc="55d25bb6" md5="b2dc8f998ab756f03e202d78578057d8" sha1="a2cf2e0d0e2d91f1a347d9305a8abb76e2b45c77"/>
 	</game>
-	<game name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 6 of 6)[FD-HD]">
-		<description>SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 6 of 6)[FD-HD]</description>
-		<rom name="SAS C Compiler v5.10a (1990)(SAS Institute)(Disk 6 of 6)[FD-HD].adf" size="901120" crc="db56239f" md5="17369187d8aa6e2adebdae0c6cdc9668" sha1="8f6443b48f688bba6517c8deda4cce3ca92cbde4"/>
+	<game name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 6 of 6)">
+		<description>SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 6 of 6)</description>
+		<rom name="SAS-C Compiler v5.10a (1990)(SAS Institute)(Disk 6 of 6).adf" size="901120" crc="db56239f" md5="17369187d8aa6e2adebdae0c6cdc9668" sha1="8f6443b48f688bba6517c8deda4cce3ca92cbde4"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[HD].adf" size="901120" crc="6fd5d592" md5="82196eac948a9e8e78a030af9e390079" sha1="916c62168fd734c25ce471237aab062839bbd6c2"/>
+	<game name="SAS-C Compiler v5.10b - Update Disk (1991-09-25)(SAS Institute)[req. SAS-C Compiler v5.10a]">
+		<description>SAS-C Compiler v5.10b - Update Disk (1991-09-25)(SAS Institute)[req. SAS-C Compiler v5.10a]</description>
+		<rom name="SAS-C Compiler v5.10b - Update Disk (1991-09-25)(SAS Institute)[req. SAS-C Compiler v5.10a].adf" size="901120" crc="8f220b90" md5="5ffef4944c00f0824ba7dfdbd7e4bd5c" sha1="0fef21e7897ba02536025ed303daef30d853c62e"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[m bamcopy][HD].adf" size="901120" crc="3887629c" md5="da77d4ffb4789df91f853db7ca6511ce" sha1="21727eea06da4fbf6b74472f7d3286de37cc43d6"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[HD].adf" size="901120" crc="6fd5d592" md5="82196eac948a9e8e78a030af9e390079" sha1="916c62168fd734c25ce471237aab062839bbd6c2"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[HD].adf" size="901120" crc="d195dc34" md5="03d6f0c1fc03c04c4027efe8039142c2" sha1="9900ea8bbddf198fe19d28991c40d9c2ab65905e"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 1 of 7)[m bamcopy][HD].adf" size="901120" crc="3887629c" md5="da77d4ffb4789df91f853db7ca6511ce" sha1="21727eea06da4fbf6b74472f7d3286de37cc43d6"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[m bamcopy][HD].adf" size="901120" crc="9a2f777d" md5="c9c6313d9e053a7c2847c8a71bffe63a" sha1="4a353e965e89dad42e45ae772a5ef8a508daad12"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[HD].adf" size="901120" crc="d195dc34" md5="03d6f0c1fc03c04c4027efe8039142c2" sha1="9900ea8bbddf198fe19d28991c40d9c2ab65905e"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD].adf" size="901120" crc="5ea0fe2d" md5="a6d3d0dc66d579020ec74c2f06461ca8" sha1="74d6099c57fe6445d7ad4cd6a793632d75b7cc76"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 2 of 7)[m bamcopy][HD].adf" size="901120" crc="9a2f777d" md5="c9c6313d9e053a7c2847c8a71bffe63a" sha1="4a353e965e89dad42e45ae772a5ef8a508daad12"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD][updated]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD][updated]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD][updated].adf" size="901120" crc="39a35a93" md5="b67206a424a77da6f76d3d4be0d70ff5" sha1="c0d29fa0f0bd4165459be0b8f57d8ad16d39dd0e"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD].adf" size="901120" crc="5ea0fe2d" md5="a6d3d0dc66d579020ec74c2f06461ca8" sha1="74d6099c57fe6445d7ad4cd6a793632d75b7cc76"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[m bamcopy][HD].adf" size="901120" crc="d81c08fb" md5="25067ef5f594b08dc12b5bd2e872ce08" sha1="c9148c2f6b6df6aae8abffde1f0d1d47e02a8660"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD][updated]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD][updated]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[HD][updated].adf" size="901120" crc="39a35a93" md5="b67206a424a77da6f76d3d4be0d70ff5" sha1="c0d29fa0f0bd4165459be0b8f57d8ad16d39dd0e"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[HD].adf" size="901120" crc="c4546cab" md5="de7874848414f3b4eec0186be7c0658f" sha1="30abb8c7ca550e6babcf91e7552ce79303ccdc29"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 3 of 7)[m bamcopy][HD].adf" size="901120" crc="d81c08fb" md5="25067ef5f594b08dc12b5bd2e872ce08" sha1="c9148c2f6b6df6aae8abffde1f0d1d47e02a8660"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[m bamcopy][HD].adf" size="901120" crc="c49f017e" md5="24707fa48e9656474755364137acd49e" sha1="daf14efc6600ddec052070f9f32ce0bf21473333"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[HD].adf" size="901120" crc="c4546cab" md5="de7874848414f3b4eec0186be7c0658f" sha1="30abb8c7ca550e6babcf91e7552ce79303ccdc29"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[HD].adf" size="901120" crc="330d5829" md5="9457852d02ca299da8f102d1cb4bc3fa" sha1="c1705327db6d8ca37d9dc10693a6fe1e0ede5b5c"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 4 of 7)[m bamcopy][HD].adf" size="901120" crc="c49f017e" md5="24707fa48e9656474755364137acd49e" sha1="daf14efc6600ddec052070f9f32ce0bf21473333"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[m bamcopy][HD].adf" size="901120" crc="ade6d837" md5="8f8471617460205976ec9684c59f5141" sha1="fbb06098bb78f47c4f68064da252b328225dbfd5"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[HD].adf" size="901120" crc="330d5829" md5="9457852d02ca299da8f102d1cb4bc3fa" sha1="c1705327db6d8ca37d9dc10693a6fe1e0ede5b5c"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[HD].adf" size="901120" crc="528b81fb" md5="a83e869ad3d16dd814193cdc5e77045f" sha1="7b1d56b423d7eed87fcca9e2e4857ddd2d208521"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 5 of 7)[m bamcopy][HD].adf" size="901120" crc="ade6d837" md5="8f8471617460205976ec9684c59f5141" sha1="fbb06098bb78f47c4f68064da252b328225dbfd5"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[m bamcopy][HD].adf" size="901120" crc="0c08e7e2" md5="83933023e03d109ad40b7849ab962561" sha1="23d0e23ce865f7f582535408e39d7b8dc702feea"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[HD].adf" size="901120" crc="528b81fb" md5="a83e869ad3d16dd814193cdc5e77045f" sha1="7b1d56b423d7eed87fcca9e2e4857ddd2d208521"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[HD].adf" size="901120" crc="ba8d0fb9" md5="0aa79030770753decd862e025007a821" sha1="d7e3c090b5d3b4d56683d62aba437bc554ab95fd"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 6 of 7)[m bamcopy][HD].adf" size="901120" crc="0c08e7e2" md5="83933023e03d109ad40b7849ab962561" sha1="23d0e23ce865f7f582535408e39d7b8dc702feea"/>
 	</game>
-	<game name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[m bamcopy][HD]">
-		<description>SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[m bamcopy][HD]</description>
-		<rom name="SAS C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[m bamcopy][HD].adf" size="901120" crc="75fb594e" md5="0f95f836155925b6d4e2efb77fbb0163" sha1="6da2b3150f9e04c401964f381618515fce5ca7a5"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[HD].adf" size="901120" crc="ba8d0fb9" md5="0aa79030770753decd862e025007a821" sha1="d7e3c090b5d3b4d56683d62aba437bc554ab95fd"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-01)(SAS Institute)(Disk 1 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-01)(SAS Institute)(Disk 1 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-01)(SAS Institute)(Disk 1 of 6)[HD].adf" size="901120" crc="0dd70048" md5="83cfb3686b2b83f715f4e930088adbc5" sha1="3b5ccee575ba4677bddc6ad0ce73da62edc11a5f"/>
+	<game name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[m bamcopy][HD]">
+		<description>SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[m bamcopy][HD]</description>
+		<rom name="SAS-C Compiler v6.0 (1992)(SAS Institute)(Disk 7 of 7)[m bamcopy][HD].adf" size="901120" crc="75fb594e" md5="0f95f836155925b6d4e2efb77fbb0163" sha1="6da2b3150f9e04c401964f381618515fce5ca7a5"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 1 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 1 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 1 of 6)[HD].adf" size="901120" crc="7c95edaf" md5="8571212608c489f32eecaed406c2f265" sha1="7437170c835b853626fae47721aa8fdcc1e2c957"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-01)(SAS Institute)(Disk 1 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-01)(SAS Institute)(Disk 1 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-01)(SAS Institute)(Disk 1 of 6)[HD].adf" size="901120" crc="0dd70048" md5="83cfb3686b2b83f715f4e930088adbc5" sha1="3b5ccee575ba4677bddc6ad0ce73da62edc11a5f"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 2 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 2 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 2 of 6)[HD].adf" size="901120" crc="73d8dde0" md5="aa11fa3a393776854705f34b589bfd10" sha1="0ddc28ed55040a5fe7ee01b617c9401dae095a20"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 1 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 1 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 1 of 6)[HD].adf" size="901120" crc="7c95edaf" md5="8571212608c489f32eecaed406c2f265" sha1="7437170c835b853626fae47721aa8fdcc1e2c957"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 3 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 3 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 3 of 6)[HD].adf" size="901120" crc="ecc7f3ba" md5="d6130a83ff838340343016b8ad207219" sha1="683930be1a50fc1ead50c67dc05391a7650caafe"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 2 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 2 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 2 of 6)[HD].adf" size="901120" crc="73d8dde0" md5="aa11fa3a393776854705f34b589bfd10" sha1="0ddc28ed55040a5fe7ee01b617c9401dae095a20"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 4 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 4 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 4 of 6)[HD].adf" size="901120" crc="888c0a4c" md5="0efb203094d3bcb8427d85a84c6337f4" sha1="25169a13dc157c8c31ebcfadbb0d84b141fa3aeb"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 3 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 3 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 3 of 6)[HD].adf" size="901120" crc="ecc7f3ba" md5="d6130a83ff838340343016b8ad207219" sha1="683930be1a50fc1ead50c67dc05391a7650caafe"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 5 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 5 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 5 of 6)[HD].adf" size="901120" crc="b20eb5e6" md5="3fc3ea729db8ed97af56183a73b856ee" sha1="ca00485c9611281d717664f14912a9253dcd22bd"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 4 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 4 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 4 of 6)[HD].adf" size="901120" crc="888c0a4c" md5="0efb203094d3bcb8427d85a84c6337f4" sha1="25169a13dc157c8c31ebcfadbb0d84b141fa3aeb"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[b missing files][HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[b missing files][HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[b missing files][HD].adf" size="901120" crc="4357b328" md5="04d13e5c1bdf89cb22771a0d91a74730" sha1="1db98a4a5f80592ce13eb310fd9530e08c693f53"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 5 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 5 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 5 of 6)[HD].adf" size="901120" crc="b20eb5e6" md5="3fc3ea729db8ed97af56183a73b856ee" sha1="ca00485c9611281d717664f14912a9253dcd22bd"/>
 	</game>
-	<game name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[HD]">
-		<description>SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[HD]</description>
-		<rom name="SAS C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[HD].adf" size="901120" crc="e7047bad" md5="e9cead203aac9989f80e7bf31e9e04b9" sha1="467e612226cadeb449c9baab1b1ca7769d55c1c4"/>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[b missing files][HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[b missing files][HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[b missing files][HD].adf" size="901120" crc="4357b328" md5="04d13e5c1bdf89cb22771a0d91a74730" sha1="1db98a4a5f80592ce13eb310fd9530e08c693f53"/>
+	</game>
+	<game name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[HD]">
+		<description>SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[HD]</description>
+		<rom name="SAS-C Compiler v6.50 (1993-10-31)(SAS Institute)(Disk 6 of 6)[HD].adf" size="901120" crc="e7047bad" md5="e9cead203aac9989f80e7bf31e9e04b9" sha1="467e612226cadeb449c9baab1b1ca7769d55c1c4"/>
 	</game>
 	<game name="Saxon Publisher (1990)(Saxon Industries)">
 		<description>Saxon Publisher (1990)(Saxon Industries)</description>
@@ -16512,13 +16632,13 @@
 		<description>Secret Security System v1.0 (1998)(Logistic Dreams)(DE)</description>
 		<rom name="Secret Security System v1.0 (1998)(Logistic Dreams)(DE).adf" size="901120" crc="834a8bf6" md5="2fae10b01105e13afc771dc548310668" sha1="c68465468c7f732f69e25e072917487bae2badbf"/>
 	</game>
-	<game name="Secretary v1.0 (1990)(Expert Services)[cr SR]">
-		<description>Secretary v1.0 (1990)(Expert Services)[cr SR]</description>
-		<rom name="Secretary v1.0 (1990)(Expert Services)[cr SR].adf" size="901120" crc="a4b1aa59" md5="cccb9921760ca1c7b88430cb54a088f6" sha1="bc0cfd1e5c65cb0a346df5af7179ac0e9df9cba0"/>
+	<game name="Secretary v1.0 (1990)(Expert Services)(US)[cr SR]">
+		<description>Secretary v1.0 (1990)(Expert Services)(US)[cr SR]</description>
+		<rom name="Secretary v1.0 (1990)(Expert Services)(US)[cr SR].adf" size="901120" crc="a4b1aa59" md5="cccb9921760ca1c7b88430cb54a088f6" sha1="bc0cfd1e5c65cb0a346df5af7179ac0e9df9cba0"/>
 	</game>
-	<game name="Secretary v1.0 (1990)(Expert Services)[cr SR][m]">
-		<description>Secretary v1.0 (1990)(Expert Services)[cr SR][m]</description>
-		<rom name="Secretary v1.0 (1990)(Expert Services)[cr SR][m].adf" size="901120" crc="8a5b2c8a" md5="ee3d0522b2716e238eee83ed47597bce" sha1="7be8a827b0d0387dd15faaa0f1429f03f1f2e0a0"/>
+	<game name="Secretary v1.0 (1990)(Expert Services)(US)[cr SR][m]">
+		<description>Secretary v1.0 (1990)(Expert Services)(US)[cr SR][m]</description>
+		<rom name="Secretary v1.0 (1990)(Expert Services)(US)[cr SR][m].adf" size="901120" crc="8a5b2c8a" md5="ee3d0522b2716e238eee83ed47597bce" sha1="7be8a827b0d0387dd15faaa0f1429f03f1f2e0a0"/>
 	</game>
 	<game name="Secure v1.0 (1992-07)(PSG Designdata HB)(SE)">
 		<description>Secure v1.0 (1992-07)(PSG Designdata HB)(SE)</description>
@@ -17396,6 +17516,10 @@
 		<description>Super Play v1.02 (1993)(Informatica Senzill)(Disk 3 of 3)[cr Ace Team]</description>
 		<rom name="Super Play v1.02 (1993)(Informatica Senzill)(Disk 3 of 3)[cr Ace Team].adf" size="901120" crc="df9674b1" md5="225d4165a0a624bf232216ada3fd79ef" sha1="ea9c7b801a6263b278c684e67a14429fcd966833"/>
 	</game>
+	<game name="Super-Card Ami II v2.1 (1990)(Utilities Unlimited of Oregon)[h Taj Mahal]">
+		<description>Super-Card Ami II v2.1 (1990)(Utilities Unlimited of Oregon)[h Taj Mahal]</description>
+		<rom name="Super-Card Ami II v2.1 (1990)(Utilities Unlimited of Oregon)[h Taj Mahal].adf" size="901120" crc="0784d179" md5="0f26883ce25cd9b36d562ddf6c0e0513" sha1="101d53d21cf0d156e4d357fb550d039ae49333bc"/>
+	</game>
 	<game name="Super-Card Ami II v2.5 (1991)(Utilities Unlimited of Oregon)">
 		<description>Super-Card Ami II v2.5 (1991)(Utilities Unlimited of Oregon)</description>
 		<rom name="Super-Card Ami II v2.5 (1991)(Utilities Unlimited of Oregon).adf" size="901120" crc="54893ee0" md5="6403f92d064010bf48a1895f985323ad" sha1="7eb56768c1f99c26476168e3c24001415e1a592f"/>
@@ -17439,6 +17563,10 @@
 	<game name="Superbase Professional 4 v1.0 (1991-04-05)(Precision Software)(Disk 2 of 2)[cr][WB]">
 		<description>Superbase Professional 4 v1.0 (1991-04-05)(Precision Software)(Disk 2 of 2)[cr][WB]</description>
 		<rom name="Superbase Professional 4 v1.0 (1991-04-05)(Precision Software)(Disk 2 of 2)[cr][WB].adf" size="901120" crc="a3432dbf" md5="6f07228eb4c4dff18a79a7eeb443fecf" sha1="ea85d982929fb89fad6fa944470388286652ced5"/>
+	</game>
+	<game name="Superbase Professional 4 v1.0 beta 3 (1991-03-06)(Precision Software)(PL)">
+		<description>Superbase Professional 4 v1.0 beta 3 (1991-03-06)(Precision Software)(PL)</description>
+		<rom name="Superbase Professional 4 v1.0 beta 3 (1991-03-06)(Precision Software)(PL).adf" size="901120" crc="e982f9ae" md5="cd1ed1ab6b00a84b1d5ecd0b0dc6fc3a" sha1="9f3c9af6704604184d13004250db97b4c77f3ad2"/>
 	</game>
 	<game name="SuperDuper 3.13 (1994)(Vigna, Sebastiano)[WB]">
 		<description>SuperDuper 3.13 (1994)(Vigna, Sebastiano)[WB]</description>
@@ -18112,6 +18240,14 @@
 		<description>Synthia v2.04 (1987-10-29)(The Other Guys)(Disk 2 of 2)[h QTX]</description>
 		<rom name="Synthia v2.04 (1987-10-29)(The Other Guys)(Disk 2 of 2)[h QTX].adf" size="901120" crc="cb554308" md5="7d263c8a354a8ae9ed75ae1d0ba7c523" sha1="bd34129818409fca746b6a7f1b93c659f3092cfb"/>
 	</game>
+	<game name="SYS - Save Your Software v1.1 (1988)(CDC)(DE)(en)">
+		<description>SYS - Save Your Software v1.1 (1988)(CDC)(DE)(en)</description>
+		<rom name="SYS - Save Your Software v1.1 (1988)(CDC)(DE)(en).adf" size="901120" crc="c8fed192" md5="ec73a9ebc38325b7ad615464f51bfc47" sha1="b96d36402a4d9ea27cb7b19478d517f804c64020"/>
+	</game>
+	<game name="SYS - Save Your Software v1.3 (1988)(CDC)(DE)(en)">
+		<description>SYS - Save Your Software v1.3 (1988)(CDC)(DE)(en)</description>
+		<rom name="SYS - Save Your Software v1.3 (1988)(CDC)(DE)(en).adf" size="901120" crc="042bac9f" md5="7c68f152eaf2ef6aa29761f58d55ec1f" sha1="94cd72bf04ce463ef7f300bbbd84f6a652ea7352"/>
+	</game>
 	<game name="System 3 (19xx)(Digita)">
 		<description>System 3 (19xx)(Digita)</description>
 		<rom name="System 3 (19xx)(Digita).adf" size="901120" crc="58035adb" md5="10749c79288c9cc77b9ccd9310716d77" sha1="8c2d46337aa89ff2b194973eb42ad774779a10c0"/>
@@ -18216,9 +18352,49 @@
 		<description>TechnoSound Turbo v3.2 (1993)(New Dimensions)(Disk 2 of 2)</description>
 		<rom name="TechnoSound Turbo v3.2 (1993)(New Dimensions)(Disk 2 of 2).adf" size="901120" crc="b97a02f2" md5="8ec6c1269256c450f2abb45c22238063" sha1="651db9b1efbda3b066495533afaf4e0f20aabd0f"/>
 	</game>
-	<game name="Tel Express v2.0 (1995)(Quedex)">
-		<description>Tel Express v2.0 (1995)(Quedex)</description>
-		<rom name="Tel Express v2.0 (1995)(Quedex).adf" size="901120" crc="bdde733d" md5="0ece4b5d2d2c49af05ec2daa09001826" sha1="56ff3b368fe0bb0621529a27cd174d4b1a27da9e"/>
+	<game name="Tekno Amiga (1990)(Catus)(SE)(Disk 1 of 3)">
+		<description>Tekno Amiga (1990)(Catus)(SE)(Disk 1 of 3)</description>
+		<rom name="Tekno Amiga (1990)(Catus)(SE)(Disk 1 of 3).adf" size="901120" crc="2d279c47" md5="4da24e9ae4bc0e9c25bc3e7b3c6e68a9" sha1="af6d403f46d1a2da906ee1ff7b5926dea14ae205"/>
+	</game>
+	<game name="Tekno Amiga (1990)(Catus)(SE)(Disk 2 of 3)[bootable]">
+		<description>Tekno Amiga (1990)(Catus)(SE)(Disk 2 of 3)[bootable]</description>
+		<rom name="Tekno Amiga (1990)(Catus)(SE)(Disk 2 of 3)[bootable].adf" size="901120" crc="80056f35" md5="db3daac2627bc6d5add3eb3afad51453" sha1="8dbf2c04d5f2432eef37f174ea1af3f6300d737b"/>
+	</game>
+	<game name="Tekno Amiga (1990)(Catus)(SE)(Disk 3 of 3)[bootable]">
+		<description>Tekno Amiga (1990)(Catus)(SE)(Disk 3 of 3)[bootable]</description>
+		<rom name="Tekno Amiga (1990)(Catus)(SE)(Disk 3 of 3)[bootable].adf" size="901120" crc="0624b932" md5="ab984701534a495794b4cc95d68aeace" sha1="72a88a3c89c7908255f9453af4738c39bc548cfa"/>
+	</game>
+	<game name="Tel Express v2.0 (1995)(Quedex)[cr WT]">
+		<description>Tel Express v2.0 (1995)(Quedex)[cr WT]</description>
+		<rom name="Tel Express v2.0 (1995)(Quedex)[cr WT].adf" size="901120" crc="bdde733d" md5="0ece4b5d2d2c49af05ec2daa09001826" sha1="56ff3b368fe0bb0621529a27cd174d4b1a27da9e"/>
+	</game>
+	<game name="TeleGazeta v1.0 (demo-slideshow) (1993-09-27)(TVK Wizualsat)(PL)">
+		<description>TeleGazeta v1.0 (demo-slideshow) (1993-09-27)(TVK Wizualsat)(PL)</description>
+		<rom name="TeleGazeta v1.0 (demo-slideshow) (1993-09-27)(TVK Wizualsat)(PL).adf" size="901120" crc="ba89cbec" md5="6239cc19dba8cd99a994510e5ae0d3f8" sha1="2814cc33e34f31d536d48c259d26e5ed973a866b"/>
+	</game>
+	<game name="TeleGazeta v1.39 (1994-06-12)(TVK Wizualsat)(PL)[password - a]">
+		<description>TeleGazeta v1.39 (1994-06-12)(TVK Wizualsat)(PL)[password - a]</description>
+		<rom name="TeleGazeta v1.39 (1994-06-12)(TVK Wizualsat)(PL)[password - a].adf" size="901120" crc="e877c411" md5="e9373a2c9c27eb9d220c9fa9fb9679c0" sha1="21c15fc1bbff3bd255e1a55c8b4375b448d4bdd6"/>
+	</game>
+	<game name="TeleGazeta v1.57 (1995-08-25)(TVK Wizualsat)(AGA)(PL)[password - asmone]">
+		<description>TeleGazeta v1.57 (1995-08-25)(TVK Wizualsat)(AGA)(PL)[password - asmone]</description>
+		<rom name="TeleGazeta v1.57 (1995-08-25)(TVK Wizualsat)(AGA)(PL)[password - asmone].adf" size="901120" crc="5e854f25" md5="61ede620414096085e5a46c352453d08" sha1="b067ced5b00d1c4f14a9b45250481e3a89e2251a"/>
+	</game>
+	<game name="TeleGazeta v1.59 beta (1997-06-29)(Oomiaiowski, Tomasz)(AGA)(PL)[password - sat]">
+		<description>TeleGazeta v1.59 beta (1997-06-29)(Oomiaiowski, Tomasz)(AGA)(PL)[password - sat]</description>
+		<rom name="TeleGazeta v1.59 beta (1997-06-29)(Oomiaiowski, Tomasz)(AGA)(PL)[password - sat].adf" size="901120" crc="6cf182fc" md5="d662c1760cae2aadff014cd8121fbb8c" sha1="9cbfbfbd22cd144aff4217631367de126289bbf0"/>
+	</game>
+	<game name="TeleGazeta v2.04 (demo-slideshow) (1997-10-11)(Oomiaiowski, Tomasz)(AGA)(PL)">
+		<description>TeleGazeta v2.04 (demo-slideshow) (1997-10-11)(Oomiaiowski, Tomasz)(AGA)(PL)</description>
+		<rom name="TeleGazeta v2.04 (demo-slideshow) (1997-10-11)(Oomiaiowski, Tomasz)(AGA)(PL).adf" size="901120" crc="fe39b743" md5="94a3c166cffc533a2d1040dd5487e9cd" sha1="65639a9f80fefb90cf833610ab2413710eb09e81"/>
+	</game>
+	<game name="TeleGazeta v2.04 test (1997-10-11)(Oomiaiowski, Tomasz)(AGA)(PL)[password - sat]">
+		<description>TeleGazeta v2.04 test (1997-10-11)(Oomiaiowski, Tomasz)(AGA)(PL)[password - sat]</description>
+		<rom name="TeleGazeta v2.04 test (1997-10-11)(Oomiaiowski, Tomasz)(AGA)(PL)[password - sat].adf" size="901120" crc="cc3c918d" md5="faabce832b4f8bab1f03826f14375d27" sha1="1ea0d1d97aa73eddec005cca8ce502490810d393"/>
+	</game>
+	<game name="TeleGazeta v2.05 (demo-slideshow) (1998-01-03)(Oomiaiowski, Tomasz)(AGA)(PL)">
+		<description>TeleGazeta v2.05 (demo-slideshow) (1998-01-03)(Oomiaiowski, Tomasz)(AGA)(PL)</description>
+		<rom name="TeleGazeta v2.05 (demo-slideshow) (1998-01-03)(Oomiaiowski, Tomasz)(AGA)(PL).adf" size="901120" crc="c5b727b2" md5="65ce7f6d84d918311e6cf57ff6b669ea" sha1="091b7bafb2d319dd00f800d169ad69a035f0f674"/>
 	</game>
 	<game name="Templedrum (19xx)(-)[b errdms]">
 		<description>Templedrum (19xx)(-)[b errdms]</description>
@@ -18387,6 +18563,10 @@
 	<game name="Topographie v1.0 (demo) (1995)(Neubauer, Jens)(SW)[WB]">
 		<description>Topographie v1.0 (demo) (1995)(Neubauer, Jens)(SW)[WB]</description>
 		<rom name="Topographie v1.0 (demo) (1995)(Neubauer, Jens)(SW)[WB].adf" size="901120" crc="1aef7e6b" md5="474b9f5b0901fcdcf9f8b8e3809e44b6" sha1="2c8379e0ecdbd3624447e76790e9562f5eca413f"/>
+	</game>
+	<game name="Totomania (1991)(Idea)(IT)[cr Chronos]">
+		<description>Totomania (1991)(Idea)(IT)[cr Chronos]</description>
+		<rom name="Totomania (1991)(Idea)(IT)[cr Chronos].adf" size="901120" crc="ca0f9a5c" md5="97ed77e2a7175fe204317e0e30a35713" sha1="332152e6bf18ddbe405bb29e35d7517ddc42b3f2"/>
 	</game>
 	<game name="Touch Typist v1.0 (1991)(Sector Software)">
 		<description>Touch Typist v1.0 (1991)(Sector Software)</description>
@@ -18595,6 +18775,10 @@
 	<game name="Turbo Silver Pro v3.0A (1988-10-01)(Impulse)[WB]">
 		<description>Turbo Silver Pro v3.0A (1988-10-01)(Impulse)[WB]</description>
 		<rom name="Turbo Silver Pro v3.0A (1988-10-01)(Impulse)[WB].adf" size="901120" crc="c3d87063" md5="f0dcf227aadffce48b7d7a2d00555b55" sha1="225d5d716b57e5694bec3714a7675f29f56b28a5"/>
+	</game>
+	<game name="Turbo-Nibbler v1.0 (1990)(Logo)[h TMA]">
+		<description>Turbo-Nibbler v1.0 (1990)(Logo)[h TMA]</description>
+		<rom name="Turbo-Nibbler v1.0 (1990)(Logo)[h TMA].adf" size="901120" crc="e9368825" md5="21ae7175b94c8249d4cf88cef38ea061" sha1="994f6155426a7c1a113641c2ec9a340337e1e603"/>
 	</game>
 	<game name="TurboAnim v1.1 (demo) (1994)(proDAD)">
 		<description>TurboAnim v1.1 (demo) (1994)(proDAD)</description>
@@ -18896,6 +19080,10 @@
 		<description>Video Creator CD32 (1995)(Almathera)(Disk 6 of 6)[h LGD][HD, CD32 rip]</description>
 		<rom name="Video Creator CD32 (1995)(Almathera)(Disk 6 of 6)[h LGD][HD, CD32 rip].adf" size="901120" crc="5f9a5711" md5="56538786fb46d862f8b92b1f0745cc19" sha1="827f80cb8907f31492717bd8e46eaa8ac0c2f1c6"/>
 	</game>
+	<game name="Video DAC 18 (1993)(Newtronic Technologies - Video Press Multimedia)(IT)">
+		<description>Video DAC 18 (1993)(Newtronic Technologies - Video Press Multimedia)(IT)</description>
+		<rom name="Video DAC 18 (1993)(Newtronic Technologies - Video Press Multimedia)(IT).adf" size="901120" crc="30e6dcc4" md5="e1bc12b12666f760ca252ff6a33a8dbb" sha1="122350e012cb640b502708e11539cbd2487c0a6e"/>
+	</game>
 	<game name="Video Effects 3D v1.0 (1987)(InnoVision Technology)[v SystemZ v4.0]">
 		<description>Video Effects 3D v1.0 (1987)(InnoVision Technology)[v SystemZ v4.0]</description>
 		<rom name="Video Effects 3D v1.0 (1987)(InnoVision Technology)[v SystemZ v4.0].adf" size="901120" crc="23365d9d" md5="53842434a8f128a5616074dde9a18588" sha1="0743b2c7bd812408a89508dcbe0a6f2c89cdfd7b"/>
@@ -19043,6 +19231,18 @@
 	<game name="VIP Professional v1.0 (1986)(VIP Technologies Corporation)[WB]">
 		<description>VIP Professional v1.0 (1986)(VIP Technologies Corporation)[WB]</description>
 		<rom name="VIP Professional v1.0 (1986)(VIP Technologies Corporation)[WB].adf" size="901120" crc="af260dd5" md5="8f8a3826f27046eed3b21d06c9be9a5a" sha1="0a4b7d37598b23dff8bf9938259f635c7533b4df"/>
+	</game>
+	<game name="Virus Control v1.4 (19xx)(Markt &amp; Technik)(DE)">
+		<description>Virus Control v1.4 (19xx)(Markt &amp; Technik)(DE)</description>
+		<rom name="Virus Control v1.4 (19xx)(Markt &amp; Technik)(DE).adf" size="901120" crc="ba86483a" md5="022cdb216f4852e8f0fd5073ce09172e" sha1="bbeb9e6790601d149142ed208734ec69049dd2b0"/>
+	</game>
+	<game name="Virus Control v3.0 (1991)(MSPI)(DE)[h Shut Berlin]">
+		<description>Virus Control v3.0 (1991)(MSPI)(DE)[h Shut Berlin]</description>
+		<rom name="Virus Control v3.0 (1991)(MSPI)(DE)[h Shut Berlin].adf" size="901120" crc="f05f063e" md5="0e068a731ffff711dc1ff13e1d969bd7" sha1="83ac545bbba602864b13f372520ca3f8a0ac7521"/>
+	</game>
+	<game name="Virus Control v4.0 (1992)(MSPI)(DE)[h Tectron]">
+		<description>Virus Control v4.0 (1992)(MSPI)(DE)[h Tectron]</description>
+		<rom name="Virus Control v4.0 (1992)(MSPI)(DE)[h Tectron].adf" size="901120" crc="bfb3a634" md5="6a6ffd6aaa42db048f43c88da96399b4" sha1="d61afe706dfb0c08f60b8d63a7669d1b2e172ab3"/>
 	</game>
 	<game name="Virus Detektor Professional v1.131 (1990)(Dienstleistungen und InformationsTechnologie)(DE)[h EP]">
 		<description>Virus Detektor Professional v1.131 (1990)(Dienstleistungen und InformationsTechnologie)(DE)[h EP]</description>
@@ -19236,6 +19436,10 @@
 		<description>WaveMaker v2.0 (1994)(Stutterheim, Tony)(Disk 6 of 6)[req. Lightwave v3.xx]</description>
 		<rom name="WaveMaker v2.0 (1994)(Stutterheim, Tony)(Disk 6 of 6)[req. Lightwave v3.xx].adf" size="901120" crc="73e91dad" md5="e950976c50fb6b57a85097d03b4fe7da" sha1="a4bdee23e5c29a8ada3113d3349bda951da80c6d"/>
 	</game>
+	<game name="Waves v2.1 (1992)(AmigaByte)[h SGT]">
+		<description>Waves v2.1 (1992)(AmigaByte)[h SGT]</description>
+		<rom name="Waves v2.1 (1992)(AmigaByte)[h SGT].adf" size="901120" crc="ed74187c" md5="c410bbc72d67f73d99d9ba4abe8383fe" sha1="bdcb6b6de82ddb109b2f1e18db352649ad3c750b"/>
+	</game>
 	<game name="Werkbank v3.0 (1993)(BBS de Saen)(AGA)(NL)(Disk 1 of 5)">
 		<description>Werkbank v3.0 (1993)(BBS de Saen)(AGA)(NL)(Disk 1 of 5)</description>
 		<rom name="Werkbank v3.0 (1993)(BBS de Saen)(AGA)(NL)(Disk 1 of 5).adf" size="901120" crc="3766ba83" md5="7c67c4027996257b427c78b4ca65ee0e" sha1="049e6f30bce5d0327f4349bebaedebfcf20c4e85"/>
@@ -19275,6 +19479,10 @@
 	<game name="Wings of War (19xx)(Impulse)(Disk 2 of 2)[h CPY]">
 		<description>Wings of War (19xx)(Impulse)(Disk 2 of 2)[h CPY]</description>
 		<rom name="Wings of War (19xx)(Impulse)(Disk 2 of 2)[h CPY].adf" size="901120" crc="865f6105" md5="0d85b821116663ba2d5957c76febb5ab" sha1="44144b3907ca901cf8f46af1b67c3a5638ccc5fd"/>
+	</game>
+	<game name="Wipe Master (1992)(Byrd's Eye Software)[req. Video Toaster]">
+		<description>Wipe Master (1992)(Byrd's Eye Software)[req. Video Toaster]</description>
+		<rom name="Wipe Master (1992)(Byrd's Eye Software)[req. Video Toaster].adf" size="901120" crc="d6f598f4" md5="d03a7b34a3de1f7e940c6ca9a24232cb" sha1="6800788d0dd248e7137b09c7f184271fef409b09"/>
 	</game>
 	<game name="WolfCopy v1.35b (1993-09-15)(Wolf Software and Design)(DE)">
 		<description>WolfCopy v1.35b (1993-09-15)(Wolf Software and Design)(DE)</description>
@@ -19959,6 +20167,10 @@
 	<game name="X-Copy Professional v5.21 (1991)(Cachet)[inc. Cyclone IV v9.69]">
 		<description>X-Copy Professional v5.21 (1991)(Cachet)[inc. Cyclone IV v9.69]</description>
 		<rom name="X-Copy Professional v5.21 (1991)(Cachet)[inc. Cyclone IV v9.69].adf" size="901120" crc="420ecf3b" md5="0d614c7512ab4776f1f01e7e5b028f38" sha1="ef55310b0418f950da4d1b9848c27aa1d45dbef8"/>
+	</game>
+	<game name="X-Copy Professional v6.7 (1992-04-05)(Cachet)[h Liberty - SGT]">
+		<description>X-Copy Professional v6.7 (1992-04-05)(Cachet)[h Liberty - SGT]</description>
+		<rom name="X-Copy Professional v6.7 (1992-04-05)(Cachet)[h Liberty - SGT].adf" size="901120" crc="2061b440" md5="8372a9685da2acbf1c88056bcffaa510" sha1="0e6fc6e633d84c2f7dae404d86d64b27f9b57ffb"/>
 	</game>
 	<game name="X-Copy Professional X-Mas 92 (1992)(Cachet)(DE)[inc. Cyclone V v11.03]">
 		<description>X-Copy Professional X-Mas 92 (1992)(Cachet)(DE)[inc. Cyclone V v11.03]</description>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [PAS]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [PAS] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Video Library for Pascal (19xx)(Joe Oglevie)[PAS]">
+		<description>Video Library for Pascal (19xx)(Joe Oglevie)[PAS]</description>
+		<rom name="M4CHAR.BAS" size="1984" crc="4d8b0332" md5="053645c4d1e1efe92208458c2e3e9ac7" sha1="cba7e653568351d845d4fa8c24d9623df378227c"/>
+		<rom name="M4CHAR.PAS" size="3864" crc="d6ce3832" md5="3a2b9544a29b875c87d907dd370b8e99" sha1="773bccb0853e580f1650a71ca3c88d3cacc7e7a2"/>
+		<rom name="M4VIDLIB.DOC" size="294" crc="1921da69" md5="bcdf5bcfc77c03427153d81005fc0569" sha1="ff77747a86c0d691cd42f34d4a7396c70c8c9806"/>
+		<rom name="M4VIDLIB.INC" size="2548" crc="f3d3bec1" md5="a452ba97fc8704c314a9e05ffd079d5b" sha1="30ff25519c50186bcdb30eb025627ce9f8a05746"/>
+		<rom name="M4VIDLIB.PAS" size="272" crc="43830614" md5="763d104f6a7ba1fe993183f31e6783a4" sha1="bfa4dd23a29730184a85040fd67efb33f636b9cb"/>
+	</game>
+	<game name="YAPP Yet Another Packet Program v2.0 (1986)(Jeff Jacobsen)[PAS]">
+		<description>YAPP Yet Another Packet Program v2.0 (1986)(Jeff Jacobsen)[PAS]</description>
+		<rom name="YAPP.PAS" size="10246" crc="a442f54e" md5="f8a9bfb28fc28e9e45d8eb8fad114fb3" sha1="fdd1fae677f5bae0e647e305f72fe892fbaf3e87"/>
+		<rom name="YAPPIBM.DOC" size="8811" crc="f7260ad0" md5="0d3529879a8a5d1427985d25fe47ee7a" sha1="cf80feb094569a6112127f2c95aca9397c59fd1c"/>
+		<rom name="YAPPPROT.DOC" size="5520" crc="8f2e82aa" md5="786923ed04a4af2614600a9912206ad9" sha1="eb9df7c6be213da01f88b755d5f2a3944b79ac71"/>
+	</game>
+</datafile>

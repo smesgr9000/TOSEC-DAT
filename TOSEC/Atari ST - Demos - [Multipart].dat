@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Demos - [Multipart]</name>
+		<description>Atari ST - Demos - [Multipart] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dotummin Vitsei (2023-12)(Mace)">
+		<description>Dotummin Vitsei (2023-12)(Mace)</description>
+		<rom name="DOTUMMIN.DAT" size="37946" crc="ec0c9ae2" md5="6be59e579c47a504811769c42719f7b1" sha1="ff1b8c96e8ae45b3dea44121511909b6a4904476"/>
+		<rom name="DOTUMMIN.PRG" size="50390" crc="e8918336" md5="2e28ca2ac237b0f82a28c83867a5311c" sha1="a6fae0130be9db151a086c7368aaa3f5fdd35dea"/>
+	</game>
+	<game name="We Are Going Through the Bins (2023-12)(The Wee Knights)">
+		<description>We Are Going Through the Bins (2023-12)(The Wee Knights)</description>
+		<rom name="BIRDY.TOS" size="48741" crc="a0937422" md5="963d378cf5b04989524610f1391842dc" sha1="7fd6166982515847c0010a3c6dec7d6b64cffa2e"/>
+		<rom name="DATA\PACKAGE1.LNK" size="6613" crc="f698e7ae" md5="aa90fd5891b77a0b3811e5b320ffb475" sha1="0c9172d4339a382828e454ce2902dc2f5043d7ed"/>
+	</game>
+</datafile>

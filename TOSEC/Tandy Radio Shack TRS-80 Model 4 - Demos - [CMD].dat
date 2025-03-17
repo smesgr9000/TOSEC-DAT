@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Demos - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Demos - [CMD] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GFXDemo (1982)(Frank Slinkman)[CMD]">
+		<description>GFXDemo (1982)(Frank Slinkman)[CMD]</description>
+		<rom name="gfxdmo.cmd" size="11588" crc="ecab9857" md5="b20365c336617571f0d4823bf07eb3e4" sha1="d26c870de0d97ede7d8dd1536e5fe4efef23073a"/>
+	</game>
+	<game name="Graphic Demo (19xx)(-)[CMD]">
+		<description>Graphic Demo (19xx)(-)[CMD]</description>
+		<rom name="GRAPH.CMD" size="137" crc="d1cae3bc" md5="535c95643539e355a65ee4646795103d" sha1="9b0191754493f8178b6ae9e5deb8dcdc99274c35"/>
+		<rom name="GRAPH.JCL" size="41" crc="23d9315b" md5="eda65f6b4dd678b9ee1bab4fe0f5e04a" sha1="a499ecbc0499a8508e098f0f2d3fc99f8b42d73c"/>
+		<rom name="GRDEMO.BAS" size="350" crc="4323a017" md5="4765caf76b0574daebf77f685299fa9f" sha1="f92eadfabae80269e5387c41444013b344f0463c"/>
+		<rom name="GSET.BAS" size="645" crc="2f5697a5" md5="f38c0468ff40e0fed617f60a02f47cd5" sha1="ffe458f96136aa91c606aaa867d8bf1909b23a7a"/>
+		<rom name="SET.BAS" size="645" crc="2f5697a5" md5="f38c0468ff40e0fed617f60a02f47cd5" sha1="ffe458f96136aa91c606aaa867d8bf1909b23a7a"/>
+		<rom name="WINDOW.BAS" size="678" crc="3ba81d4f" md5="95734f3e86f6d22a07ad469805702b82" sha1="3f5a64dde2221d6465dc5c6a394c3cd7fa44b0ae"/>
+		<rom name="WINDOW.JCL" size="36" crc="1219bf17" md5="0bb4f72bd1cce7baa1aa21d1cd8503f1" sha1="1b4da27961d218885534c4c425b58a039726ab73"/>
+	</game>
+	<game name="Graphics Demonstration for Hi-Res (19xx)(Jimmy Lyon)[CMD]">
+		<description>Graphics Demonstration for Hi-Res (19xx)(Jimmy Lyon)[CMD]</description>
+		<rom name="GLOAD.CMD" size="325" crc="7c783bfb" md5="b480e425e1ca346390b77a2223797100" sha1="bf587275c071311f0786fd0c0172e20f6406f32a"/>
+		<rom name="GLOAD.SRC" size="3289" crc="ebeafad2" md5="181164995ca24ddac75a6b9c66d62585" sha1="7ed473b8952f8bd185dcefdd388b80950d0942c0"/>
+		<rom name="GPRINT.ASM" size="2560" crc="6da2be63" md5="59480e6c8074d721014da1cac83b803d" sha1="499f5dd7f24a0464441e751e2b71722369116113"/>
+		<rom name="GPRINT.CMD" size="1109" crc="4d1488c5" md5="6b6072f6cbdfa2d7e14da89e1715ee8f" sha1="e9a5928c70e0a90c16dd86d5856c74aa5ec1cc94"/>
+		<rom name="GPRINT.SRC" size="11311" crc="fad0fe30" md5="aa1ecf3d7ab6004d2f6210296a29f787" sha1="f941c3e4e0002996e08feb9632f6fe82c3867cdb"/>
+		<rom name="GRAPHI.DOC" size="3422" crc="e441b3d0" md5="e8fccd1a70f1d893444691c6de603465" sha1="034a650aa52b79d5d065854d184f1113758e97c0"/>
+		<rom name="GROFF.CMD" size="38" crc="e48793fd" md5="cc50a48102c24ce81e9481632d3a6a24" sha1="82c5dfb51e1f204babbf3c0bfc712c61f4e1232a"/>
+		<rom name="GROFF.SRC" size="214" crc="29aef4de" md5="41ad21b5cc377228ab94a3102e0977ab" sha1="9bd6120863e494fd41621c82042a775148b0cf39"/>
+		<rom name="GRON.SRC" size="211" crc="063f0f8b" md5="eab274e38439278c45fb87d5ccc8a440" sha1="27fc536644de1e22024d4d72c5076e3381a36441"/>
+		<rom name="GSAVE.CMD" size="325" crc="ff63b920" md5="2abf21eb3f1d91b05a2fdec4e1c9f7d0" sha1="a97b70dc2f95b79c2b809154a26122f767e7eff8"/>
+		<rom name="GSAVE.SRC" size="3285" crc="b92cd815" md5="5af5801e5dc5dbb6aa24d77eae6ee646" sha1="98bfac7085ceb30005dd663f7abdabb81527fe3d"/>
+	</game>
+	<game name="High Resolution Demo v1.0.1 (1988)(Mike Harrow)[CMD]">
+		<description>High Resolution Demo v1.0.1 (1988)(Mike Harrow)[CMD]</description>
+		<rom name="DEMO.CMD" size="4352" crc="358130f6" md5="bb5b2dee1c492cc1e2462039f81ada6f" sha1="489973575399d8a329e112c333169914f456c37d"/>
+		<rom name="DEMO.TXT" size="321" crc="933fe27f" md5="df4e27d541c28fed0c204e787c3ecd97" sha1="2f367b0f1cdc4c75beb0030a9a6485f9de6c26a9"/>
+		<rom name="DOTS.HR" size="19200" crc="0c36b13d" md5="44f9cc96fd67402a0e84db0ae9067c6c" sha1="3aa828b156e63eb25755b8cb0c8259bf065acf7f"/>
+		<rom name="PAGE1.BUF" size="2048" crc="1b9776b4" md5="536c14633c118705ebb88748e49bc1e9" sha1="09daec23603d2ee9cea681290006fd4c5ee1bc72"/>
+		<rom name="PAGE2.BUF" size="2048" crc="ab0b5d84" md5="099bd881d506765bf968ab5197e011ee" sha1="bbe74ace40bf3c4afbcade094b9af35c6ed3c4f4"/>
+		<rom name="PAGE3.BUF" size="2048" crc="ab808aaa" md5="be66fe861f542e4ee9fcc31728829346" sha1="87853fe643f0951dbf92e7351ca3aa0122b66ba5"/>
+		<rom name="PAGE4.BUF" size="2048" crc="ff1649eb" md5="cbad17e8782a6f134284d18c120ba595" sha1="79022a0d74833887c7fd11d19411f8bd0631ae19"/>
+		<rom name="PAGE5.BUF" size="2048" crc="c1b5563a" md5="2a7b19cea81d99027c2fca187a5a8d5b" sha1="e8b984d32a830272cab9107362ed8e6f9561128a"/>
+		<rom name="PAGE6.BUF" size="2048" crc="53d0306a" md5="3a62fbb767eda5f64b97491ad3a97aad" sha1="1a741839ea5d1dfa4d37f1813175a5cb618a3be7"/>
+		<rom name="PAGE7.BUF" size="2048" crc="5bdd4628" md5="904ae5e2785bf82cc8ac6b33f03c8877" sha1="de848f980e52b960cae3b53f53894a79d3e3e5d1"/>
+		<rom name="PAGE8.BUF" size="2048" crc="8b82f07c" md5="dfe776f06d316ce86366421a331adc84" sha1="40ac0dfcb8ae95b8e59700ac46ee38f1df53ba9d"/>
+		<rom name="PAGE9.BUF" size="2048" crc="225ce511" md5="5563d069d912e8cee8f6393ce070e0a4" sha1="0d2c32857a75cffeea99d4933dba61c73b248e01"/>
+		<rom name="README.NOW" size="2308" crc="e020f276" md5="2e1112780f6d2aeb6ec7582bf7467739" sha1="85a8d6dbf6ac27653ba99e13266f1fd7a6cfa342"/>
+		<rom name="STEADMAN.HR" size="19200" crc="a48bb3e8" md5="8878401949af914a037b4799560e3014" sha1="be82a966d2d30130fbb1a5f19b10202d494045ad"/>
+		<rom name="TRSHOP.HR" size="19200" crc="450319e8" md5="70c160d4f381a413d65cb22ae923633a" sha1="a064aeea91216468b1540150ffe423173a3a85d8"/>
+	</game>
+	<game name="High Resolution Demo v1.2 (19xx)(Mike Harrow)[CMD]">
+		<description>High Resolution Demo v1.2 (19xx)(Mike Harrow)[CMD]</description>
+		<rom name="DEMO.CMD" size="4777" crc="d5cde9a5" md5="7af806126fc20d56549007393e52bece" sha1="a1aac25b15296263940274c1cb60668f27f34d43"/>
+		<rom name="DEMO.TXT" size="373" crc="0257167c" md5="4aee4b96863741953461dd1cb5bcf353" sha1="6929b6d27f0178a56c8c4d80961b186ce8e91d1d"/>
+		<rom name="EAGLE.CHR" size="14312" crc="7b5d948e" md5="8f2d80fd9f646e169d586da30eb23d49" sha1="a8336785ed7ae3014fa1167fc86674f6b74d0648"/>
+		<rom name="MAIN.CHR" size="12148" crc="f2859973" md5="d45ec2e636d5ba2baaf49099d3619e91" sha1="ad4856355538bf9b8e06f7da85c71ebb467801d3"/>
+		<rom name="MODEL4.CHR" size="7497" crc="65de3d9a" md5="b62e458f49ea910d4c28f788539d444c" sha1="90fec358de9c6661f513d7bd7b7dfda0bd43e23c"/>
+		<rom name="PAGE1.BUF" size="2048" crc="55bc4dd3" md5="d87e6657a98d171bf11a96b53dab584e" sha1="a7c4a8ec932820ad699a41854a4d4d8324dbd2f0"/>
+		<rom name="PAGE2.BUF" size="2048" crc="5461f036" md5="ba0054301bfd6495f05228d2b7551e59" sha1="6f2f9cc85235194e2fe7b7d57d123b4ddfc5e5ac"/>
+		<rom name="PAGE3.BUF" size="2048" crc="5aa8b153" md5="c1de8f39ef45aea63d68119a5f89d607" sha1="c4b3f130d7efd0f7ce03c720cc8f0b0dee15825e"/>
+		<rom name="PAGE4.BUF" size="2048" crc="0e3e7212" md5="8583dfc0a3beaec571c643a575a4a322" sha1="930e52048b6293c245c32eaaa56c3dc58129b220"/>
+		<rom name="PAGE5.BUF" size="2048" crc="f12ffe0a" md5="e197ec1c2857917acf538ad6faa7b218" sha1="f2b47e41a872ac755b360d03c12bb5923c08e86f"/>
+		<rom name="PAGE6.BUF" size="2048" crc="812cf1c2" md5="c91da9d7a220b0603c3fdeba89c96e53" sha1="9ad96688fa1ebe212aa97e7e85234b59d9baee09"/>
+		<rom name="PAGE7.BUF" size="2048" crc="aaf57dd1" md5="156b375d8dc098a4210f15640245b524" sha1="0ff403892e6d2ff4f4e3079b92dc0228d6919dde"/>
+		<rom name="PAGE8.BUF" size="2048" crc="7b161835" md5="e75470d7981f0065b4b71d1e4d1f3579" sha1="347b16e7edfe2ab9f0ac7edc8ea8bc5883b21310"/>
+		<rom name="PAGE9.BUF" size="2048" crc="d374dee8" md5="0d349b0950d30ec9befe40c996182e02" sha1="5e2c779dd9b2b59325f3e2166afe0a50d517633c"/>
+		<rom name="README.NOW" size="2721" crc="d5c6daa3" md5="81e334de2c40357abb51c43f0c26b69e" sha1="dd6585cdcdfa5483d0ee1e575d6e4756f4c5f04d"/>
+		<rom name="TRSHOP.CHR" size="7049" crc="18dbe221" md5="7c3b8abe55d0458114ba99e642aae1c2" sha1="9775773ac00650ce66dca594bdb07881e9bf4e6c"/>
+	</game>
+	<game name="High Resolution Demo v1.3 (1988)(Mike Harrow)[CMD]">
+		<description>High Resolution Demo v1.3 (1988)(Mike Harrow)[CMD]</description>
+		<rom name="BLAST.HR" size="19200" crc="e208e4ed" md5="5b22e805752a739e3ab523c2640bc97e" sha1="f0698778fcc70381f04e88485a8f7f0f7fb8db85"/>
+		<rom name="DEMO.CMD" size="4842" crc="61b2ea98" md5="8fb106ef88b21cf7df3673adf86be366" sha1="35600c19c0149ef501689a449b7ce124cac2eca7"/>
+		<rom name="DEMO130.DOC" size="8635" crc="a7b3716c" md5="f5237bcc7e90525d56123e5dccd331d5" sha1="3cda67eea4eb6a2095a86b41166d5558bc374548"/>
+		<rom name="EARTH.HR" size="19200" crc="33b5095d" md5="bf9becb5993cf4033f45816ccf6eadc9" sha1="fee9b95892e17d267ffd9b97c4acf29638f5da46"/>
+		<rom name="NASALG.HR" size="19200" crc="770472cc" md5="f34daea9a9992db2c7830845f52ca5b7" sha1="9e6adbceb2b3be30a6568bb0d5e23f2a0291d458"/>
+		<rom name="README.NOW" size="590" crc="46528bbc" md5="b2a77ca0f3d623b30423a9e2fa7c7d00" sha1="30857b4fb98705ddf200c688be415c6b9a480650"/>
+		<rom name="SCOTTY.HR" size="19200" crc="77e4bd3a" md5="057f04630d1d85455d2971d974003b79" sha1="e1bb9dae8f4c69e97c2bf76b508d91fb8ea72537"/>
+		<rom name="SHOW.TXT" size="89" crc="14ea70e4" md5="2def4f92224f58c05fbf16abee6a26c0" sha1="f3691f482a085e8acaa23ebae60775f837bb62ee"/>
+	</game>
+	<game name="High Resolution Graphic Slide Show (1985)(Matt Reed)[CMD]">
+		<description>High Resolution Graphic Slide Show (1985)(Matt Reed)[CMD]</description>
+		<rom name="HRSLIDE.CMD" size="3840" crc="0f4ac803" md5="d3ec275c3eae53cb1099f067a1cd0f7f" sha1="d5cd27cc44e8b0a0babe694cb65818604a3ca89d"/>
+		<rom name="HRSLIDE.DOC" size="14917" crc="1f386ab5" md5="9bd8864ca4f8d3277a869e913d6eedc8" sha1="804be892fd8fcc0c7cb6c6e129697079d40e9e47"/>
+	</game>
+	<game name="High Resolution Graphics &amp; Orch-90 Mixer (19xx)(Steve Jerkins)[CMD]">
+		<description>High Resolution Graphics &amp; Orch-90 Mixer (19xx)(Steve Jerkins)[CMD]</description>
+		<rom name="CATNTRE.HR" size="19200" crc="ab94f527" md5="810e232c801a1b0850a09ca1bacaee6f" sha1="894b342ed89f5ddfa88032339d7f225c016a82fb"/>
+		<rom name="MAGI.HR" size="19200" crc="e6db2a39" md5="57ff60e3a584243f42818e86626cc948" sha1="e6c64532ba90b7379521ceaeacd7d1229170ba1d"/>
+		<rom name="NUT1.ORC" size="7424" crc="043e2e14" md5="8579461d9c086b15b618422ed850ddb3" sha1="0a0c2b8fae71d73ad7650c8956823f69f3d2b0d1"/>
+		<rom name="NUT2.ORC" size="3840" crc="9e22b507" md5="4597b6b633506fad1fbee7387e98668b" sha1="ece860578ffdef77e58922423849202ee1dadba5"/>
+		<rom name="NUT3.ORC" size="4352" crc="8bd4d24e" md5="58b3852355f6dff00f2da5560d70e89c" sha1="f56cbdb1bb1f62569258964ee10660625e8e494e"/>
+		<rom name="NUT4.ORC" size="3072" crc="a11ff0ce" md5="2f16a4c1a2a366b660921fe3798921f4" sha1="f3d752ac199409291c7ff978930a10ee726ce33f"/>
+		<rom name="NUT5.ORC" size="3072" crc="959be182" md5="3f2ecf9a0a7c6f5894b3420ddb1d9d1e" sha1="32ce11f69832cf41553bd08b23d687753f5eb4b9"/>
+		<rom name="NUT6.ORC" size="1792" crc="c39f9eea" md5="749c059ee59ae47075c73cf0fd9d5159" sha1="a2427c36a0dedcf9fdabaf17b72814336e7a8782"/>
+		<rom name="NUT7.ORC" size="3328" crc="6da81588" md5="c6cfe30285b5b40dcf0ef593137e1ad6" sha1="d965eb54ab8cc612b22275fbe0883f2312d3a84c"/>
+		<rom name="NUT8.ORC" size="9984" crc="35e5c9dc" md5="46f94e6b358ea3ff1108828307733bf2" sha1="ebe8b642c00d7416953e20b1860b823d4274722d"/>
+		<rom name="ORCRUN.CMD" size="1856" crc="1a14a2a7" md5="65b8f2838904b115c51cee359a2435ad" sha1="401995339abc8ce3cd67354650c72c03e43e6654"/>
+		<rom name="PEACE.HR" size="19200" crc="ee62252d" md5="95914db411f77a4e8cfff086311c1378" sha1="68245728a192846b41dcd8dd07c89735f5801d50"/>
+		<rom name="PIANSAN.HR" size="19200" crc="ae5cf0a7" md5="3ee27e27f881df0a275c66e8f6ef529f" sha1="068c7f0f930661df51c7710f06ed642a58116395"/>
+		<rom name="PLAY90.CMD" size="6326" crc="f331b295" md5="0cd79e4c79de43db9df018158427c590" sha1="1fbf80152d2fda2a9f688ab8360310050ab6476e"/>
+		<rom name="ROOFTOP.HR" size="19200" crc="70e42029" md5="5db94682f91ef76071b613fbfdbf2efd" sha1="e9b1bb7d4f1691860d3bfc3d1921315c1844debc"/>
+		<rom name="SCHOLAR.HR" size="19200" crc="f61802b0" md5="f700a49f3b3f3a9f04b9ca732b761ad4" sha1="7821617dc360e1dd362b765842d80f62de342b8e"/>
+		<rom name="SNMGLB.HR" size="19200" crc="ec23a74e" md5="cad17c25e844955a0f6fa8e333c0cea7" sha1="ff534bffecaafb03da05c652a0ac9f70d8760ddd"/>
+		<rom name="START.JCL" size="992" crc="7a1d2964" md5="c78e087050b82ad0416dd5928cf2b4b9" sha1="4968a82696ad6158354a5e759d4f0483edd59aa6"/>
+		<rom name="TRENCAT.HR" size="19200" crc="816052ab" md5="c34a6fb7e485f31a77e48b2018045a72" sha1="4b898023725df7c18fee086ae668d2f528b825b4"/>
+		<rom name="XMAS.JOB" size="601" crc="78fb8a6c" md5="697e82d7c97e3142b9534bd85f7e7b65" sha1="9a9b847d4e24f2348112dfcdbb7a18a5351d52a1"/>
+	</game>
+	<game name="High Resolution Graphics (19xx)(-)[CMD]">
+		<description>High Resolution Graphics (19xx)(-)[CMD]</description>
+		<rom name="XLRHR.CMD" size="1164" crc="18fca1ce" md5="eb4151c7a4351a8c67e1ccc1437df72a" sha1="b75224a4d36cfc7aa7b37dc1bc95e91585947485"/>
+		<rom name="XLRHR.DOC" size="2766" crc="d933fa84" md5="c64582288a120d659b40d7da4324e2e5" sha1="3a6fc0072d529f2af6c57ef7d86a59ea2d4dd901"/>
+	</game>
+	<game name="Sound File- Aura (19xx)(-)[CMD]">
+		<description>Sound File- Aura (19xx)(-)[CMD]</description>
+		<rom name="AURALEE.CMD" size="1152" crc="fa7394e3" md5="fa1d8c1c22a11c574ffe6a13a346f7d8" sha1="94ff50d7637435f7b248c4c49690607f12b097a5"/>
+	</game>
+	<game name="Sound File- Raid (19xx)(-)[CMD]">
+		<description>Sound File- Raid (19xx)(-)[CMD]</description>
+		<rom name="RAIDERS.CMD" size="1536" crc="0ef03375" md5="a4af9decc2b6e6f83ed263ee21f141df" sha1="5207d7301790f9ab91d0d50264a796739b46ceb5"/>
+	</game>
+	<game name="Sound File- Snts (19xx)(-)[CMD]">
+		<description>Sound File- Snts (19xx)(-)[CMD]</description>
+		<rom name="SAINTS.CMD" size="896" crc="5580e3d9" md5="54911e492e0f7ef637c8e91c1ee86999" sha1="f9096d41d0bc045533591186297743dfa45b7ced"/>
+	</game>
+	<game name="Sound File- Sontata (19xx)(-)[CMD]">
+		<description>Sound File- Sontata (19xx)(-)[CMD]</description>
+		<rom name="SONATA.CMD" size="2432" crc="7f19c13d" md5="95bd2fda25a06332223fd1fed6d752cf" sha1="9368303818f45b48f42c2e6cefd8f4cd98f08521"/>
+	</game>
+	<game name="XT.CAD Demonstration (19xx)(-)[CMD]">
+		<description>XT.CAD Demonstration (19xx)(-)[CMD]</description>
+		<rom name="demo.cmd" size="4678" crc="a68dabb9" md5="9258bc6d7b4f35977dd8919839d01e45" sha1="f9129107c4bb579aed3900b691da07870ffe46e5"/>
+		<rom name="demo.key" size="7252" crc="f3611f50" md5="040cb9a644b5094c210dfb81a6f8d166" sha1="098685bdb2274ce9c32dcb9fe6fefc135bc40107"/>
+		<rom name="sample1.tc" size="1358" crc="4a9c51b8" md5="382a52c0c97c11971861bf6350423be8" sha1="28ef547410cbcb987c9b84e2ad8eb418858faa6a"/>
+		<rom name="sample2.tc" size="7042" crc="d76c2003" md5="64f24954e74e99c7694e69549a1622e2" sha1="52dfad5c359e83a6cd99d6d9eec26288e1ec27e2"/>
+		<rom name="sample3.tc" size="6357" crc="3f6d82c2" md5="fd549bb19551c5a3fee2e3c19955af3b" sha1="bad80571bcd1bd669f64d88cb859d6441e0e6098"/>
+		<rom name="sample4.tc" size="5265" crc="b1a7c2b1" md5="4777f3903a742b3536da26624ff0c31d" sha1="47d974bd71aefa70ffebcda61ab6c2ed435cbae4"/>
+		<rom name="sample5.tc" size="5049" crc="3983faf4" md5="a24dea4f97b9afb69c4214839e9e18a0" sha1="66bd500f665c4936f33166af13a0544fd000f280"/>
+		<rom name="sample6.tc" size="2531" crc="c2879ef7" md5="85d58ac0e6e5111049eb07053d8f824f" sha1="03d180c074e8585a57618dac5bfe7c743278397a"/>
+		<rom name="sample7.tc" size="3553" crc="819d4229" md5="45b422c9a1f070dfed689fa85239de57" sha1="fac481f4982c727ef1d3ebbc8d3a8504b49ee56c"/>
+		<rom name="sample8.tc" size="13768" crc="d902062d" md5="55ab07a08b7c4ef4e76dba91706c8ebd" sha1="bba4758d75de177b065a7c35139986efb591ac9a"/>
+		<rom name="sample9.tc" size="8282" crc="5159f46b" md5="58d4904f03cb421fa4387bf0dce627cd" sha1="1c507e67ac28738c4c9452207b29a074ecd8a86a"/>
+		<rom name="tc00.cms" size="21572" crc="a2333062" md5="c734e35c326d42b08597ed31112d9807" sha1="6499c8fbf9d300d5803e447555cff40ee4afe797"/>
+		<rom name="tc01d.cmx" size="18224" crc="01bc4680" md5="62b68ad8241de23cb1d1da51409af12f" sha1="40aead85340e573028513576179e5f3d121a219d"/>
+		<rom name="tc0h.cmx" size="1782" crc="a304e24c" md5="743953a6694b152e4e6f6173a8bef4be" sha1="af40bef4855ffc0e9b707a8f7ebfddd424b3dedd"/>
+	</game>
+	<game name="ZSlide High Resolution Slide Show (1988)(Robert J Myers)[CMD]">
+		<description>ZSlide High Resolution Slide Show (1988)(Robert J Myers)[CMD]</description>
+		<rom name="ZSLIDE.CMD" size="12496" crc="73ff9303" md5="f07347e9e801d03661a30dc1d82a7607" sha1="4806e80a4b5224d17ca277e2943720dba4a8a479"/>
+		<rom name="ZSLIDE.SRC" size="3750" crc="5a21758a" md5="6ddc65aed7c82ad8c013d7a3a2692270" sha1="d11f6d37d8ada915f104ad63f41f5299005e11d3"/>
+	</game>
+</datafile>

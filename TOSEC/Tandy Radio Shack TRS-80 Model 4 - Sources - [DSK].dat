@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Sources - [DSK]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Sources - [DSK] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Source code for LS-DOS 6.3.1H (19xx)(-)[DSK]">
+		<description>Source code for LS-DOS 6.3.1H (19xx)(-)[DSK]</description>
+		<rom name="COPYRITE.TXT" size="389" crc="bee30e09" md5="ea88bb472a4bd7e2cc427aeb3fb67e90" sha1="8a26b258fb8d9288e3026a07d13f2b377e198481"/>
+		<rom name="l631srcd\Howto.txt" size="10365" crc="847a5ee9" md5="3ebd398fc6538d2605046ac47b295d4f" sha1="9a85d4914392f67516bdbcf639f6e69c2f8cb6cb"/>
+		<rom name="l631srcd\L631SYS.DSK" size="745984" crc="b8b70975" md5="658802b8f033423fb2903f39124575a4" sha1="86ec6e9061073a846a72510a18a614c1c8da75e9"/>
+		<rom name="l631srcd\L631UTL.DSK" size="745984" crc="8573757c" md5="88e8d7181277ea48a719ffd8c35d45cc" sha1="c6078ff5ee9fae5ffeea3681d2748cd811fbdcbd"/>
+	</game>
+</datafile>

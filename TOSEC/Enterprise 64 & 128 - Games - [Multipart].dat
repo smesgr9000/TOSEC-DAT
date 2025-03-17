@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Enterprise 64 &amp; 128 - Games - [Multipart]</name>
-		<description>Enterprise 64 &amp; 128 - Games - [Multipart] (TOSEC-v2011-10-16)</description>
+		<description>Enterprise 64 &amp; 128 - Games - [Multipart] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2011-10-16</version>
-		<author>Vicman - Grendel - Eldio</author>
+		<version>2025-01-15</version>
+		<author>Vicman - Grendel - Eldio - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -4899,19 +4899,19 @@
 		<rom name="Mad Nurse (1987)(Firebird Software)[h Attus][unreleased][ZX Spectrum][EP-Compression].COM" size="347" crc="0d9e39d8" md5="6e90795b549467643626f87637ad5b82" sha1="8e111c3e35b8b4687841ebc800ab1f0882e2df91"/>
 		<rom name="MADNURSE.BIN" size="20046" crc="b8c25869" md5="31274220e04e96ddb71811477e1a040b" sha1="9f717be994408f105cff1092c376f72d2904b173"/>
 	</game>
-	<game name="Magic Ball (1987)(BoxSoft)(Hu)">
-		<description>Magic Ball (1987)(BoxSoft)(Hu)</description>
+	<game name="Magic Ball (1987)(BoxSoft)(hu)">
+		<description>Magic Ball (1987)(BoxSoft)(hu)</description>
 		<rom name="BALL1" size="48142" crc="bb7ae5ac" md5="56877abdb5f6ff4024fe1e6777329630" sha1="4615a2085adbd4b453f3ee1eaa61b3935fcf3eb4"/>
-		<rom name="Magic Ball (1987)(BoxSoft)(Hu).COM" size="1152" crc="2799211c" md5="7c1130a3f7442253a014a30cce5a7c1b" sha1="ed426052542785f5f12a3c547df067dcc99cd0c6"/>
+		<rom name="Magic Ball (1987)(BoxSoft)(hu).COM" size="1152" crc="2799211c" md5="7c1130a3f7442253a014a30cce5a7c1b" sha1="ed426052542785f5f12a3c547df067dcc99cd0c6"/>
 	</game>
-	<game name="Magic Ball (1987)(BoxSoft)(Hu)[EP-Compression]">
-		<description>Magic Ball (1987)(BoxSoft)(Hu)[EP-Compression]</description>
-		<rom name="Magic Ball (1987)(BoxSoft)(Hu)[EP-Compression].COM" size="347" crc="1ccc8a91" md5="d65d3f498910f200cf829fc7de6507e4" sha1="1e95c20a8d11c7045788a08419de91227a7d18da"/>
+	<game name="Magic Ball (1987)(BoxSoft)(hu)[EP-Compression]">
+		<description>Magic Ball (1987)(BoxSoft)(hu)[EP-Compression]</description>
+		<rom name="Magic Ball (1987)(BoxSoft)(hu)[EP-Compression].COM" size="347" crc="1ccc8a91" md5="d65d3f498910f200cf829fc7de6507e4" sha1="1e95c20a8d11c7045788a08419de91227a7d18da"/>
 		<rom name="MAGICBAL.BIN" size="29605" crc="582669ad" md5="b8dd38fcbfd59080c4e2ea46868efa81" sha1="7caa66dc06ea30a3ed71459cc2d2880e67a731c0"/>
 	</game>
-	<game name="Magic Ball (1987)(BoxSoft)(Hu)[t]">
-		<description>Magic Ball (1987)(BoxSoft)(Hu)[t]</description>
-		<rom name="Magic Ball (1987)(BoxSoft)(Hu)[t].COM" size="461" crc="ff50e116" md5="6f02859298a568c57ce306dc902c7dcf" sha1="9e36114e5c77d7f6b3f72411bec3f2d64b9f4b49"/>
+	<game name="Magic Ball (1987)(BoxSoft)(hu)[t]">
+		<description>Magic Ball (1987)(BoxSoft)(hu)[t]</description>
+		<rom name="Magic Ball (1987)(BoxSoft)(hu)[t].COM" size="461" crc="ff50e116" md5="6f02859298a568c57ce306dc902c7dcf" sha1="9e36114e5c77d7f6b3f72411bec3f2d64b9f4b49"/>
 		<rom name="MBALL" size="48143" crc="0cd8ae90" md5="09e6287f35b20384771c858b3228c72b" sha1="8b06e32aadc4d7ebd9af257bfc3d00025a372d2a"/>
 	</game>
 	<game name="Magic Ball 2 (1990)(BEES.G)(PD)">
@@ -5734,6 +5734,25 @@
 		<description>Octan (1987)(Silverbird Software)[h Attus][unreleased][ZX Spectrum][EP-Compression]</description>
 		<rom name="Octan (1987)(Silverbird Software)[h Attus][unreleased][ZX Spectrum][EP-Compression].COM" size="344" crc="1e673324" md5="89fc4774953d2a9edfda91a58e8c7db2" sha1="38da0e127bf9ffb9639f96dc3f73a1111e782706"/>
 		<rom name="OCTAN.BIN" size="27583" crc="d4cbef40" md5="ff9af6dfe94d0b6bb37ca8f50f7876e9" sha1="442ee25be2fae81b5639808a5c0fbfd6d83cd430"/>
+	</game>
+	<game name="Oh Chute! (2024-03-13)(Cwiiis)">
+		<description>Oh Chute! (2024-03-13)(Cwiiis)</description>
+		<rom name="FONT.BIN" size="1584" crc="312373bb" md5="f2252ef9f4b4f6e0ffdb7563561f5b43" sha1="ee4fcefbf23cd435be76fb59e676da5b4f871101"/>
+		<rom name="HELI.BIN" size="640" crc="0bbbdd7f" md5="a5f1a0cc4fb48237ee1dd761ccb08651" sha1="cb736098d5061012af2ca2ccdc30c5a0b3f86ff7"/>
+		<rom name="ICONPAL.BIN" size="152" crc="471dfaa0" md5="962e98d7d7e0ad0dcc87ebde3bab9e99" sha1="558c2244e0dfb5a0ed380155d4072749473323fa"/>
+		<rom name="LEVEL1.BIN" size="3876" crc="7a770724" md5="4ca7474a43c2af5be0f03ad9bd39a287" sha1="8b8273d73f7bca55213986e51cc7077cf355bd5f"/>
+		<rom name="LEVEL2.BIN" size="6855" crc="3a0f36e8" md5="ab9eab0cf81d18573135e07fd215b470" sha1="71d5339c0b3682a7a69933692b42afdd9f841095"/>
+		<rom name="LEVEL3.BIN" size="6266" crc="76c81374" md5="c7947297a71532547f7785894d30a6b7" sha1="bb20d977b325f8af396c12aaf8ea791cbe52f58d"/>
+		<rom name="LEVEL4.BIN" size="8607" crc="f19aa80e" md5="5f57ff22b023049ab07755ccf671c668" sha1="1acb8ed73b3a4dc14126e9033f00bed8e1ef9c04"/>
+		<rom name="LOADING.BIN" size="256" crc="8933411e" md5="2bf3e30edfa31c6ee6ba292e7e35f99a" sha1="70a5ba675a3aafac2af78292988ced0cacfa4184"/>
+		<rom name="LOOKUPS.BIN" size="304" crc="07a56ee8" md5="eb01d4680441d1d409b89835f3a2e508" sha1="53da2aafc0c4eec859df81600077b00d4abfa505"/>
+		<rom name="OHCHUTE.COM" size="21021" crc="53bce23b" md5="c80fdcd880e7dfa91a5976366817ccd5" sha1="b5215b8c163bf9bd59fc8c11d64d9d80abe7c342"/>
+		<rom name="PADS.BIN" size="1408" crc="4e71b5e3" md5="1421fc707264924f609e69e27b5721cc" sha1="5448c3279f733879f1e4ca00652bef8fade5a98b"/>
+		<rom name="PLANE.BIN" size="256" crc="65102897" md5="482ee2c659aa1180566fedd0090c6152" sha1="28f9c02e2c63260c28fda40b6ddcc9e9a29a426b"/>
+		<rom name="PLAYER.BIN" size="7040" crc="360ca26e" md5="b1572399eeca25e2fac89d237f7bb907" sha1="05e0ce89660b128e4e32a6bb6cfb018ea65f16ed"/>
+		<rom name="README.TXT" size="1456" crc="73002348" md5="fb6be880567b2a325e411ab7f45afd39" sha1="5ad389f138dfa0c309434b74ed84147b51bde6ae"/>
+		<rom name="SPRPAL.BIN" size="158" crc="17a5738b" md5="941a0f5688394315718a0777ddb22890" sha1="a35f58e93c239ff93fde098a41b66bfefe23e2f7"/>
+		<rom name="TITLE.BIN" size="2048" crc="38047eee" md5="cd3148a51453d90275d84c8595669844" sha1="5f25f538d7f220b707618d2a088f1a642cb7ecb4"/>
 	</game>
 	<game name="Olli &amp; Lissa - The Ghost of Shilmoore Castle (1986)(Firebird Software)[h Attus][unreleased][ZX Spectrum]">
 		<description>Olli &amp; Lissa - The Ghost of Shilmoore Castle (1986)(Firebird Software)[h Attus][unreleased][ZX Spectrum]</description>

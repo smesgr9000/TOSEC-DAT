@@ -4,16 +4,30 @@
 <datafile>
 	<header>
 		<name>Nintendo 3DS - Demos</name>
-		<description>Nintendo 3DS - Demos (TOSEC-v2024-01-15)</description>
+		<description>Nintendo 3DS - Demos (TOSEC-v2024-07-03)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2024-07-03</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
-	<game name="haus (2023-09)(St. Vincent and the Grenadines)">
-		<description>haus (2023-09)(St. Vincent and the Grenadines)</description>
-		<rom name="haus (2023-09)(St. Vincent and the Grenadines).3dsx" size="6102784" crc="d7023863" md5="b5554528e44e3db5a4165c9a25816d12" sha1="0817622f6d2290b3a77b87cc24a0c08a72c05aa9"/>
+	<game name="Downtown Nekketsu Monogatari SP JPN Trainer (2017-08)(Venom)">
+		<description>Downtown Nekketsu Monogatari SP JPN Trainer (2017-08)(Venom)</description>
+		<rom name="v-dtmont.3dsx" size="552220" crc="abcb1c71" md5="28b89f24ef1b76684c837e6f387aeadd" sha1="b57d7d3f829fc9617bbb906369461ca20422f056"/>
+		<rom name="v-dtmont.smdh" size="14016" crc="32bd3366" md5="316b94c17decad8f5fa4690af4c7b836" sha1="bdc1fada3ea6bf64a0b5453bee4e2c69e9d59e97"/>
+		<rom name="v-dtmont.xml" size="151" crc="511e26e8" md5="6c6bc84d9f577e62ac8812a98c7a8ff5" sha1="b39777ba52bf44cf2447981f9a6e4aa73bae9a1b"/>
+	</game>
+	<game name="LEGO Marvel Avengers USA +1 Trainer (2016-03)(Plus3DS)">
+		<description>LEGO Marvel Avengers USA +1 Trainer (2016-03)(Plus3DS)</description>
+		<rom name="pl-lmavt.3dsx" size="493712" crc="ed1ac77b" md5="7b190c366bd2b90119a65a97ca267e59" sha1="66a42ed7d112bbbe47f4529e6349e7fdc9e0cdfb"/>
+		<rom name="pl-lmavt.smdh" size="14016" crc="49618dab" md5="9f8ef1eba67f8c9e7335f6489d895f62" sha1="d0a3db6cfbd88b8839d245184c51f53febe55dde"/>
+		<rom name="pl-lmavt.xml" size="262" crc="91d8d3d8" md5="182754334453da105103cb27a75a8ffc" sha1="d93181189c981bbed17c44bddb438612e803ef62"/>
+	</game>
+	<game name="Super Mario 3D Land Trainer (2016-07)(Plus3DS)">
+		<description>Super Mario 3D Land Trainer (2016-07)(Plus3DS)</description>
+		<rom name="pl-sm3lt.3dsx" size="472244" crc="7c035d5d" md5="c9848f83f6e8889dfb8cef4de986d297" sha1="e61e2c891d168e2b017a396855b5f15c3c17b61c"/>
+		<rom name="pl-sm3lt.smdh" size="14016" crc="6ebc7a53" md5="fbc3cc7a6e2f2f95f45ac1724bd50523" sha1="b607772151eb1cfe1cf738c2c8e0f931d94c7169"/>
+		<rom name="pl-sm3lt.xml" size="373" crc="d49f506d" md5="cfbffd8eff0c067f1f1a4c9c02e84ac6" sha1="a9c7a444ff39a373b91dd926b60fca93f7a608d6"/>
 	</game>
 </datafile>

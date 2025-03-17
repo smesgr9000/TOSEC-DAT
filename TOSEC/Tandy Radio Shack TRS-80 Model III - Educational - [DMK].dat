@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Educational - [DMK]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Educational - [DMK] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic Course (19xx)(Radio Shack)(Disk 1 of 2)[DSK]">
+		<description>Basic Course (19xx)(Radio Shack)(Disk 1 of 2)[DSK]</description>
+		<rom name="Basic Course (19xx)(Radio Shack)(Disk 1 of 2)[DSK].dmk" size="261136" crc="94594550" md5="dd6f247c84067f6c47e895d2fc8fd54a" sha1="363ef7b00d8a837df6b26854198494ed7c1900cd"/>
+	</game>
+	<game name="Basic Course (19xx)(Radio Shack)(Disk 2 of 2)[DSK]">
+		<description>Basic Course (19xx)(Radio Shack)(Disk 2 of 2)[DSK]</description>
+		<rom name="Basic Course (19xx)(Radio Shack)(Disk 2 of 2)[DSK].dmk" size="261136" crc="20a4b44f" md5="106e2025313f75d6dfc3ef85020d3272" sha1="ae5fefd4c972c005206e17fd6c61ae77180cae09"/>
+	</game>
+	<game name="Disk Course (1981)(Tandy)[a][DSK]">
+		<description>Disk Course (1981)(Tandy)[a][DSK]</description>
+		<rom name="dskcrsd0.dmk" size="261136" crc="4fac42f5" md5="a66efd52c6e5b39c3c8a964b7cfbbd3d" sha1="089c7b2fdd5e336ff5c6c470a1c8ca9cd90f1ec0"/>
+		<rom name="dskcrsd1.dmk" size="261136" crc="f5ecfec7" md5="dde4d39f022a7d123e939bde3c6d407a" sha1="9c90268f0923194e25c37873e55b5b76df0fc7ef"/>
+	</game>
+	<game name="K-8 Math Program with Student Management (1981)(Tandy)[DSK]">
+		<description>K-8 Math Program with Student Management (1981)(Tandy)[DSK]</description>
+		<rom name="k8mathsm.dmk" size="261136" crc="38cbf09c" md5="1f4d4ebe3b895fbc76ada08a501a1172" sha1="38b18db891ce3d9f1717c04408bfc5ecf8e53e85"/>
+	</game>
+	<game name="Reading Comprehension 2- Forming Inferences (1984)(Media Materials Inc)[DSK]">
+		<description>Reading Comprehension 2- Forming Inferences (1984)(Media Materials Inc)[DSK]</description>
+		<rom name="rc2frmin.dmk" size="261136" crc="73002aae" md5="7ab582599e515f262bc763d51ab698d3" sha1="56dfe6632efb62814f78ca3f10e01a58eefa0e1b"/>
+	</game>
+	<game name="Spelling Demons (1981)(Random House)[DSK]">
+		<description>Spelling Demons (1981)(Random House)[DSK]</description>
+		<rom name="speldemn.dmk" size="267664" crc="1e61cba6" md5="08b7dd2b51b6c4e1060d3db8b0861227" sha1="41c5557a2af0bcb23254e999bebb1162ede7faf1"/>
+	</game>
+</datafile>

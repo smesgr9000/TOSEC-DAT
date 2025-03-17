@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Sega Dreamcast - Games - US</name>
-		<description>Sega Dreamcast - Games - US (TOSEC-v2024-03-17)</description>
+		<description>Sega Dreamcast - Games - US (TOSEC-v2025-02-09)</description>
 		<category>TOSEC-ISO</category>
-		<version>2024-03-17</version>
+		<version>2025-02-09</version>
 		<author>Maddog</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -201,9 +201,9 @@
 		<rom name="track04.raw" size="1060752" crc="bfdf6078" sha1="471abb758a709c9d678bd2e76f31a6d721b5f4f0" md5="166d547d4b80a87ad3538f9377fbf6d8"/>
 		<rom name="track05.bin" size="944518512" crc="5dc0ef42" sha1="c0cd335bf99b7ad1ac9e277e79d365ab87c64cdd" md5="c15ac7af5164d06be5f02e88f3c814b8"/>
 	</game>
-	<game name="BANG! - Gunship Elite v1.003 (2000)(Red Storm)(US)[!]">
-		<description>BANG! - Gunship Elite v1.003 (2000)(Red Storm)(US)[!]</description>
-		<rom name="BANG! - Gunship Elite v1.003 (2000)(Red Storm)(US)[!].gdi" size="273" crc="7289bcb1" sha1="52adca87042c5145943aaebcb1d00048d560e6ca" md5="70cfca91400c95fa0dc0df50aa619a89"/>
+	<game name="BANG! - Gunship Elite v1.003 (2000)(Red Storm)(US)(M3)[!]">
+		<description>BANG! - Gunship Elite v1.003 (2000)(Red Storm)(US)(M3)[!]</description>
+		<rom name="BANG! - Gunship Elite v1.003 (2000)(Red Storm)(US)(M3)[!].gdi" size="273" crc="7289bcb1" sha1="52adca87042c5145943aaebcb1d00048d560e6ca" md5="70cfca91400c95fa0dc0df50aa619a89"/>
 		<rom name="track01.bin" size="705600" crc="2af5c42b" sha1="05e45142372f54eb1356d9a141dca60e21e23e22" md5="2ff91ad84f86fcd7b24f8b1b9dc0f5c0"/>
 		<rom name="track02.raw" size="1745184" crc="0bb7df7e" sha1="0a0d8352d63700fb9bc133f22aad2c7e974bc22f" md5="070db9d281eef14f962d8b0227a871d4"/>
 		<rom name="track03.bin" size="174751248" crc="e5cbffc1" sha1="14f256a6a873f7f058a28786ad13041d0bb7bf97" md5="9c9b620dbe46f209fee2286c4d22dc07"/>
@@ -1972,6 +1972,15 @@
 		<rom name="track03.bin" size="234094560" crc="27148dc0" sha1="3e43ea3e10a260ae99bb4cae968c9693045dcd6e" md5="1eb9ac13ed212ca410f102137192a096"/>
 		<rom name="track04.raw" size="1060752" crc="e658ac1d" sha1="866de9db21b9b16e2901bdc851d0d8f4f3c483c8" md5="87b2f2f25ba7d25c7319528dc81aa9a4"/>
 		<rom name="track05.bin" size="949899888" crc="f48c9125" sha1="98bcba948420e87b33669ffeee4f6ba57c26ac47" md5="4f7c3c6b0a86a02466391765c4dbfa4e"/>
+	</game>
+	<game name="NCAA College Football 2K2 - Road to the Rose Bowl v1.003 (2001)(Sega)(US)[!][3S]">
+		<description>NCAA College Football 2K2 - Road to the Rose Bowl v1.003 (2001)(Sega)(US)[!][3S]</description>
+		<rom name="NCAA College Football 2K2 - Road to the Rose Bowl v1.003 (2001)(Sega)(US)[!][3S].gdi" size="149" crc="9d1c45e0" md5="2d652b122ed62e3e509541bd131e40ca" sha1="33bfa2d445f5f8e25ff4532db7e10739ee8ed32e"/>
+		<rom name="track01.bin" size="1425312" crc="2d7c01a6" md5="70dd152a51e42ac0ba3a7475f88dd9a8" sha1="e1a3f31e396b9e922831048ebc14eb6af3c02418"/>
+		<rom name="track02.raw" size="1237152" crc="c8cadb3a" md5="8b7113e95f0d8895f07e552a61e7e284" sha1="5bf619c20978e2119c3ba29e2601755f4cc2a0e3"/>
+		<rom name="track03.bin" size="234094560" crc="27148dc0" md5="1eb9ac13ed212ca410f102137192a096" sha1="3e43ea3e10a260ae99bb4cae968c9693045dcd6e"/>
+		<rom name="track04.raw" size="1060752" crc="c4f58d16" md5="b1a14b4f28babd605e33acd31710b056" sha1="bcf76aef5a7be7c396da26a2f56b86b700f18442"/>
+		<rom name="track05.bin" size="949899888" crc="f48c9125" md5="4f7c3c6b0a86a02466391765c4dbfa4e" sha1="98bcba948420e87b33669ffeee4f6ba57c26ac47"/>
 	</game>
 	<game name="Next Tetris, The - On-line Edition v1.100 (2000)(Crave)(US)[!]">
 		<description>Next Tetris, The - On-line Edition v1.100 (2000)(Crave)(US)[!]</description>
@@ -3813,6 +3822,25 @@
 		<rom name="track02.raw" size="1166592" crc="1f6bc3e0" sha1="3df3ebaeaccddbdabcc3abf4a1accff7d0642fee" md5="13165c904ff3609602cf252f4827b820"/>
 		<rom name="track03.bin" size="1185760800" crc="4b39f19c" sha1="1946f2ffbdf231533354215e7ae22e940e86be48" md5="1448b6b4b2517a377e4308c4ca28253f"/>
 	</game>
+	<game name="TrickStyle v1.000 (1999)(Acclaim)(US)[!][1S]">
+		<description>TrickStyle v1.000 (1999)(Acclaim)(US)[!][1S]</description>
+		<rom name="track01.bin" size="1992144" crc="177f5d5b" md5="23a001b051d9e6eff133a8d54abf4640" sha1="023573ea4c4394a508ee509231cececec49015f5"/>
+		<rom name="track02.raw" size="1237152" crc="06314050" md5="96a795a639c0d19d54cf5128396272b4" sha1="c9fb12e5f112f9f663bea4178dc7f0a2b7c7cc10"/>
+		<rom name="track03.bin" size="712721856" crc="83cfd62a" md5="673e5d64bb0ae3c9bafcc1c984b20524" sha1="bbbc7950d760051d9180a706c08c34209967c884"/>
+		<rom name="track04.raw" size="29689296" crc="687adab5" md5="5e27fbd8bb25ef35bbf93b955339246b" sha1="ae65c804b412044bd089bc018b853f2a003e6b09"/>
+		<rom name="track05.raw" size="31610880" crc="b33b702c" md5="267a18e89b7d8396bc94fd7ec5734589" sha1="0c63e7e7cfa26cce897e30ba713e67bbbee8de6e"/>
+		<rom name="track06.raw" size="46847136" crc="2cc2cebc" md5="f3ac4073cabdbb323b5aa65d54512b22" sha1="f8904ee950f2b05af4e0dfeb11e5bd1fc79aabc1"/>
+		<rom name="track07.raw" size="34155744" crc="b3a1f314" md5="f83d5b57c50627142343d6d7ff23772e" sha1="5264a0a76fbb7d780647e60713c122147718c4c5"/>
+		<rom name="track08.raw" size="34882512" crc="25b30acd" md5="4400812afe3b603df68dc518cb664b2d" sha1="5d189e5cff6f781dd0c33ae8a3cceb7cb793eaaa"/>
+		<rom name="track09.raw" size="26615232" crc="8f34bc62" md5="7379678765f621142a8942f94c313a19" sha1="e15108573247e6fa87a5e6b4c29970512dc585b2"/>
+		<rom name="track10.raw" size="34626144" crc="95b0c59b" md5="961390ef638678291c8c8a0706f88c6e" sha1="e74356c01a8a78dfe486607fde64b077af4a7e4b"/>
+		<rom name="track11.raw" size="27454896" crc="490f27ce" md5="4f6c6ebec5383d2c4107c11730bb5cc8" sha1="72f82d3528aaf00b74775cc99993d9c1d502994a"/>
+		<rom name="track12.raw" size="36296064" crc="dd6edf30" md5="74137c350d5db0cf45cd327cb039cd09" sha1="74427e825139c595bb0c8a6e933ac9a1d6ee43c2"/>
+		<rom name="track13.raw" size="41272896" crc="8d283509" md5="7be15d363455666f495958ec4b34db93" sha1="71afc442bf0ccc8cbfb9c3e06d7f0bf7d7f0b487"/>
+		<rom name="track14.raw" size="32368224" crc="a44de217" md5="96f08f69b83f4b8d6d67c4cf0419079a" sha1="2a01627af2fd457620ae219b8f709b01971690dc"/>
+		<rom name="track15.bin" size="96514320" crc="988032a9" md5="2dee9fed093125954191c4f25ed44f22" sha1="d5cfc66bd7097c28831769ae74228b51cfbc1681"/>
+		<rom name="TrickStyle v1.000 (1999)(Acclaim)(US)[!][1S].gdi" size="466" crc="e571dbc1" md5="a8028f5d23d0be03f90e9b962beb4eab" sha1="fc7a200df1dfdc071ee8d5bfcfe46c97a8034621"/>
+	</game>
 	<game name="TrickStyle v1.000 (1999)(Acclaim)(US)[!][2S]">
 		<description>TrickStyle v1.000 (1999)(Acclaim)(US)[!][2S]</description>
 		<rom name="track01.bin" size="1992144" crc="177f5d5b" sha1="023573ea4c4394a508ee509231cececec49015f5" md5="23a001b051d9e6eff133a8d54abf4640"/>
@@ -4079,8 +4107,8 @@
 		<rom name="track05.bin" size="845586336" crc="74d01e6a" sha1="3fada5322e171583589eea0fa3a060329611dc75" md5="8ff03606e068d0f89076dec8238e26a3"/>
 		<rom name="World Series Baseball 2K2 v1.000 (2001)(Sega)(US)[!][3S].gdi" size="149" crc="e6e37962" sha1="b931baeece5bab3d2788d564ac2896a201be37db" md5="000a5c006873d7d54277d9bfd55fe528"/>
 	</game>
-	<game name="Worms Armageddon v1.001 (1999)(MicroProse)(US)[!]">
-		<description>Worms Armageddon v1.001 (1999)(MicroProse)(US)[!]</description>
+	<game name="Worms Armageddon v1.001 (1999)(MicroProse)(US)(M8)[!]">
+		<description>Worms Armageddon v1.001 (1999)(MicroProse)(US)(M8)[!]</description>
 		<rom name="track01.bin" size="705600" crc="9e02865c" sha1="903ce92f0affd934533d3873d54d87acab7fd82e" md5="0c07d4d952d3b9f78879e252877c0f99"/>
 		<rom name="track02.raw" size="1166592" crc="348dac25" sha1="2a644ae01c4604a01dc389f00636c659b456e385" md5="b2715bbd5bd0e5e238aa4c96d588fd21"/>
 		<rom name="track03.bin" size="109081056" crc="f18c2a73" sha1="d9c25ef45cbcd7a6cb186f577c9652862b453927" md5="6c2f8fb82da7b4e4f9f8a6f4f3d26896"/>
@@ -4089,7 +4117,7 @@
 		<rom name="track06.raw" size="227271408" crc="d6ed2029" sha1="4421fc47708fe8db4da1bb10d98791c34abd8896" md5="39d40bc8bc8fe041dd9afce975ac50ad"/>
 		<rom name="track07.raw" size="117287184" crc="b5a53443" sha1="ea39a0b32d4effe5a39ec734c1584e0ae0caa02c" md5="1d588d8ca47d60a196168e3c49014061"/>
 		<rom name="track08.bin" size="398840400" crc="388c53d8" sha1="93b44fedc88d005d9b076c4e1351d62272aee0ac" md5="6e129eee0cb4bddf323775498b536df8"/>
-		<rom name="Worms Armageddon v1.001 (1999)(MicroProse)(US)[!].gdi" size="241" crc="8bee7100" sha1="6843c6259430b600108e2a3e0076c7681403efdc" md5="9a7ca90f447c5fcaee81f0556123511d"/>
+		<rom name="Worms Armageddon v1.001 (1999)(MicroProse)(US)(M8)[!].gdi" size="241" crc="8bee7100" sha1="6843c6259430b600108e2a3e0076c7681403efdc" md5="9a7ca90f447c5fcaee81f0556123511d"/>
 	</game>
 	<game name="Worms World Party v1.001 (2001)(Titus)(US)(M9)[!]">
 		<description>Worms World Party v1.001 (2001)(Titus)(US)(M9)[!]</description>

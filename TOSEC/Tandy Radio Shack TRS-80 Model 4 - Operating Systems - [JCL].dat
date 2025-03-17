@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Operating Systems - [JCL]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Operating Systems - [JCL] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="LDOS v6.3.0 Upgrade to v6.3.0K (19xx)(-)[JCL]">
+		<description>LDOS v6.3.0 Upgrade to v6.3.0K (19xx)(-)[JCL]</description>
+		<rom name="BOOT3I.FIX" size="354" crc="bc00d83d" md5="ed5bf33d51b156425e89fb7fa0b01e1a" sha1="feb0e9fd6714e6a4365a090a5f0d5f24277712be"/>
+		<rom name="BOOT3J.FIX" size="354" crc="0bd6c661" md5="8f0566de751af7e0bd8a74c871067381" sha1="bc966aa102288fc60da1ef427ab1a2cbfd8afb2c"/>
+		<rom name="DCOPY3.FIX" size="285" crc="4b141cad" md5="40914fd36820b97e9acbac01cf910272" sha1="5890c85bc47b1638f47063e2bd11828968b87d2c"/>
+		<rom name="DEVICE1.FIX" size="384" crc="7020a97b" md5="5b32aa6498fe9b3338a6cc87356c5c80" sha1="2822a516cde20d4a0d32c15254694303a2721906"/>
+		<rom name="DIR1.FIX" size="398" crc="97bb664a" md5="2be7ea985f03e01fdf9daf564f7e45c0" sha1="667d6673bb9c247a300a9ede4ae1493729937426"/>
+		<rom name="MAKE63K.JCL" size="876" crc="43f9f1c7" md5="29024350c8b7e91172608ebadeef79a4" sha1="b7592971125affda0e28b8aa08b2c45bb7779e2a"/>
+		<rom name="SYS01.FIX" size="330" crc="354defb7" md5="bba5a8bf79ce22e5b36235770effc4b6" sha1="e320c3b3269a3a563aeba5922593eed1add66333"/>
+		<rom name="TED3.FIX" size="314" crc="a4893718" md5="64f9e324f37c51f66ad31d1401ab35ab" sha1="3d6aa511d65fd77737534f0bdf0361da0ae6a971"/>
+	</game>
+	<game name="LDOS v6.3.1 Zaps (19xx)(-)[JCL]">
+		<description>LDOS v6.3.1 Zaps (19xx)(-)[JCL]</description>
+		<rom name="ZAP631.JCL" size="10613" crc="ec7ac548" md5="0f722990ac874774b1019454371ed2a8" sha1="30f1d3317d4005c8c6a8b5412205d8baf170881b"/>
+	</game>
+	<game name="Make LDOS v6.3.0-K from 6.3.0-I (19xx)(Misosys)[JCL]">
+		<description>Make LDOS v6.3.0-K from 6.3.0-I (19xx)(Misosys)[JCL]</description>
+		<rom name="boot3i.fix" size="345" crc="a8526285" md5="683f2383a492db865369180d0982eac0" sha1="949bcd14f23787eb4be967f88e5c4d5e6415f690"/>
+		<rom name="boot3j.fix" size="345" crc="859a14ef" md5="27cf6313fbd3efffbe1cd7d9defa7f71" sha1="1fc906a1f060667a53586ee40cb19cc05b0daf2f"/>
+		<rom name="dcopy3.fix" size="278" crc="7e975f78" md5="8d49d5aed5408e31f2862374e42152d3" sha1="b1f47ff910cb2970804050483b83a4712639aaaf"/>
+		<rom name="device1.fix" size="376" crc="079a0620" md5="ce2c005a828ab76168445bf247cd6e40" sha1="352087a7582201291db9dae2e06f1f140ecfb6a5"/>
+		<rom name="dir1.fix" size="390" crc="fcf34c7d" md5="3340a32fa340110149561de8777c9cb1" sha1="858dee3279dd9eeceb1e83c0dca7ac853beb7445"/>
+		<rom name="make63k.jcl" size="858" crc="9b6009af" md5="bc28be7b0f6139a7024cb62bfac03bf2" sha1="a4e6574bfd4358f4578c6678b1bbc663b1f0c45a"/>
+		<rom name="sys01.fix" size="319" crc="1d689dc9" md5="85a491e5a16c2ada366168dd21776554" sha1="329af5ca60fbdb8b59b3a4de0e4f59c7893fa351"/>
+		<rom name="ted3.fix" size="307" crc="d38d3f02" md5="63254c3381f5540694a3d870eb7e883c" sha1="a2bf0c33388b203a2d0fb1cbeefea6374f6d9d41"/>
+	</game>
+	<game name="OptiDos6 (19xx)(S K Pramanik)[JCL]">
+		<description>OptiDos6 (19xx)(S K Pramanik)[JCL]</description>
+		<rom name="opttdos6.doc" size="585" crc="b9fc7a46" md5="a2c3f87e7feb38d0daf51f132a81ea86" sha1="d2cf41da8804fa2a743556297eee13dd13304c0d"/>
+		<rom name="opttdos6.jcl" size="1939" crc="ec0c884d" md5="188774d15b511136bf41d39ece3c29ee" sha1="84d5aa27b9724cc9dddf14b404b6067a717a82a4"/>
+	</game>
+	<game name="Update TRSDOS v6.2.0AN++ to 6.2.1AR (19xx)(-)[JCL]">
+		<description>Update TRSDOS v6.2.0AN++ to 6.2.1AR (19xx)(-)[JCL]</description>
+		<rom name="MAKE621.JCL" size="512" crc="546fba80" md5="492d131c53de441dc1a3eb78ddd2b09d" sha1="428e6cfca08cda951127bf15c3546c139e68d1c6"/>
+		<rom name="MAKE621A.JCL" size="8960" crc="bfcf8386" md5="c77f38e0206f63d64739b7aac67e975d" sha1="72e53e0616b3c6492e2e5fea8cb86555ad7119a9"/>
+	</game>
+</datafile>

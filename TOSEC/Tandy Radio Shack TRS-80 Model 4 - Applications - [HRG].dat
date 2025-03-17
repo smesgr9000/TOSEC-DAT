@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [HRG]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [HRG] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Enlarge RLE Files (19xx)(-)[HRG]">
+		<description>Enlarge RLE Files (19xx)(-)[HRG]</description>
+		<rom name="ENLARGE.HRG" size="504" crc="66ca488f" md5="461b0ef93d598ee8ebd943ac24ab0123" sha1="0a71ce32b40347c1d301e3975b67a0de4161b5c8"/>
+	</game>
+	<game name="Graphic Drawing &amp; Demo Program (19xx)(-)[HRG]">
+		<description>Graphic Drawing &amp; Demo Program (19xx)(-)[HRG]</description>
+		<rom name="HEXAGON.HRG" size="258" crc="9457048e" md5="f1511bfe44ac86d10ce99b2b4784287c" sha1="a7f11a71d9653fee5f0e486272257d5c4c24c37a"/>
+	</game>
+	<game name="Histogram Generator (19xx)(-)[HRG]">
+		<description>Histogram Generator (19xx)(-)[HRG]</description>
+		<rom name="HISTOG.HRG" size="8657" crc="58d85082" md5="42a383277b796fafcaf704befe60ed00" sha1="86e066e0f661e7ce491842f09c13110b0c827372"/>
+	</game>
+	<game name="Star Location &amp; Viewing (19xx)(-)[HRG]">
+		<description>Star Location &amp; Viewing (19xx)(-)[HRG]</description>
+		<rom name="STARS.DAT" size="41472" crc="643a1dee" md5="62a5b56b5909d6cc42a511f312f7c111" sha1="7ac934cb07699185312b55120b26fac626987054"/>
+		<rom name="STARS.DOC" size="5480" crc="70dbd831" md5="f1f39a2bc41b5d614f308cdb0fc7ebc9" sha1="238a254c48716b414fe7fbc866d3a8101a9181f8"/>
+		<rom name="STARS4.HRG" size="3968" crc="129a700e" md5="110bb8cb22e1376be4f5befcb1148864" sha1="efcf6fdb1542d09dedeb469c2b0fff36456f150f"/>
+	</game>
+</datafile>

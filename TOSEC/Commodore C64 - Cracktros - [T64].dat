@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Cracktros - [T64]</name>
-		<description>Commodore C64 - Cracktros - [T64] (TOSEC-v2023-12-02)</description>
+		<description>Commodore C64 - Cracktros - [T64] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2023-12-02</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -276,6 +276,18 @@
 		<description>CCG Intro 2 (1989)(The Thinker - Mantronix)</description>
 		<rom name="CCG Intro 2 (1989)(The Thinker - Mantronix).t64" size="11497" crc="538f408a" md5="0de5db6e612d3f9003423a522aa10304" sha1="a52e12f080c87f669335e5091e44a9cff08e6c46"/>
 	</game>
+	<game name="Celtic&apos;s New Intro (1990)(Abase)">
+		<description>Celtic&apos;s New Intro (1990)(Abase)</description>
+		<rom name="Celtic&apos;s New Intro (1990)(Abase).t64" size="10036" crc="f8ba001b" md5="04f53530256cb4381032f428502c78c1" sha1="1c423a3e3f2e24865b18e11e8e9146dcc6b8e89f"/>
+	</game>
+	<game name="Celtic&apos;s New Intro (1990)(Abase)[a]">
+		<description>Celtic&apos;s New Intro (1990)(Abase)[a]</description>
+		<rom name="Celtic&apos;s New Intro (1990)(Abase)[a].t64" size="10036" crc="20fe49eb" md5="b6ff3e3cb1f22d58e6bb637b9ed9ded7" sha1="80f64fcd0fc4e8e35a31162302accc423d9deaed"/>
+	</game>
+	<game name="Celtic&apos;s New Intro (1990)(Abase)[a2]">
+		<description>Celtic&apos;s New Intro (1990)(Abase)[a2]</description>
+		<rom name="Celtic&apos;s New Intro (1990)(Abase)[a2].t64" size="10964" crc="980834ca" md5="968d67013f55be61e03a1284394989f2" sha1="0e844856311c23dd166dcba588a95c7226dced69"/>
+	</game>
 	<game name="CFA Intro (1989)(Computer Freaks Association)">
 		<description>CFA Intro (1989)(Computer Freaks Association)</description>
 		<rom name="CFA Intro (1989)(Computer Freaks Association).t64" size="9305" crc="ce4e051a" md5="94463f81b58b7951c55ac592ed414167" sha1="250446fef122f5dd3050079fdc234e47a687e415"/>
@@ -492,6 +504,10 @@
 		<description>Dazzasoft + Hellraisers Intro (19xx)(TERA)[a]</description>
 		<rom name="Dazzasoft + Hellraisers Intro (19xx)(TERA)[a].t64" size="5892" crc="4a4844e0" md5="6c6eab5c956efd96311a21fa16a7212e" sha1="b4d8ae18ea83844764527671ca936fbe0e2e2895"/>
 	</game>
+	<game name="DCA Intro (19xx)(Discovery Cracking Association)">
+		<description>DCA Intro (19xx)(Discovery Cracking Association)</description>
+		<rom name="DCA Intro (19xx)(Discovery Cracking Association).t64" size="4183" crc="868da02a" md5="5affe0ee14310398362d77c9036ce28c" sha1="b6510f91e1758dffac3a46bd0b0c9917dc0842ba"/>
+	</game>
 	<game name="DCS Intro (1990)(Doughnut Cracking Service)">
 		<description>DCS Intro (1990)(Doughnut Cracking Service)</description>
 		<rom name="DCS Intro (1990)(Doughnut Cracking Service).t64" size="10597" crc="b95e8dac" md5="3cdc06dda3458a3e5ce455454431362e" sha1="0f5d7d4dc97c0042f5745daa79e56ec4692bbbed"/>
@@ -515,6 +531,10 @@
 	<game name="Delta Intro (1987)(Red Sector)">
 		<description>Delta Intro (1987)(Red Sector)</description>
 		<rom name="Delta Intro (1987)(Red Sector).t64" size="9455" crc="43470319" md5="8c20cfa877c3a244766c790b459c375d" sha1="f79eaec8e99193e111cdbd22390bb560328efc50"/>
+	</game>
+	<game name="Demand Intro v1.0 (19xx)(Viper Designs)">
+		<description>Demand Intro v1.0 (19xx)(Viper Designs)</description>
+		<rom name="Demand Intro v1.0 (19xx)(Viper Designs).t64" size="5722" crc="348f2f4b" md5="03ce97d8853244daf9ef862125271598" sha1="2709887d98a56797d9bd5e92810c23d0c29b12c5"/>
 	</game>
 	<game name="Demo Intro (19xx)(Binary Zone)">
 		<description>Demo Intro (19xx)(Binary Zone)</description>
@@ -2080,6 +2100,10 @@
 		<description>Morx Intro 13 (1986)(Morx)[a]</description>
 		<rom name="Morx Intro 13 (1986)(Morx)[a].t64" size="12072" crc="e9d2ff81" md5="16c548e01050fa45a1f7661ab48903dd" sha1="2ea25c7f56a132be1281713041131964383e2ee1"/>
 	</game>
+	<game name="Morx Intro 13 (1986)(Morx)[a2]">
+		<description>Morx Intro 13 (1986)(Morx)[a2]</description>
+		<rom name="Morx Intro 13 (1986)(Morx)[a2].t64" size="12072" crc="e732dd04" md5="fcc699e575c705c729670dc22ba60996" sha1="386c83af9cab635c929fcd0b42e31fabad51ea43"/>
+	</game>
 	<game name="Morx Intro v5.9 (1986)(Morx)">
 		<description>Morx Intro v5.9 (1986)(Morx)</description>
 		<rom name="Morx Intro v5.9 (1986)(Morx).t64" size="1685" crc="9c974895" md5="de74b3e0c7be991d982411b9a915d3f3" sha1="37b400a6626594a36e937ac00f08b8dd4cb91aae"/>
@@ -2483,6 +2507,14 @@
 	<game name="New Intro Preview (1990)(Exotic Designs)">
 		<description>New Intro Preview (1990)(Exotic Designs)</description>
 		<rom name="New Intro Preview (1990)(Exotic Designs).t64" size="13673" crc="06587d00" md5="c5ac54aaba3d890ac878f0a22ffbf16a" sha1="0b48cb6f8613a65c1399c22f9040a2e19bdd12dc"/>
+	</game>
+	<game name="New Intro v2.0 (1989-07)(Cheyens)">
+		<description>New Intro v2.0 (1989-07)(Cheyens)</description>
+		<rom name="New Intro v2.0 (1989-07)(Cheyens).t64" size="6744" crc="0786d978" md5="01207724fb7219d8567d32051c361f21" sha1="c1a11c46745dba951565034cb534fcaf51304098"/>
+	</game>
+	<game name="New Intro v2.0 (1989-07)(Cheyens)[a]">
+		<description>New Intro v2.0 (1989-07)(Cheyens)[a]</description>
+		<rom name="New Intro v2.0 (1989-07)(Cheyens)[a].t64" size="6744" crc="cf7ecf39" md5="744768446f44752c83c9b3208ef32edd" sha1="b8777c27ce0d89f3ec7172270fb44a34f1c6ed19"/>
 	</game>
 	<game name="New Intro!, The (1988-10-17)(Manowar)">
 		<description>New Intro!, The (1988-10-17)(Manowar)</description>

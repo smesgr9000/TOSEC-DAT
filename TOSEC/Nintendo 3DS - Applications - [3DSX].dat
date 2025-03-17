@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Nintendo 3DS - Applications - [3DSX]</name>
-		<description>Nintendo 3DS - Applications - [3DSX] (TOSEC-v2023-10-03)</description>
+		<description>Nintendo 3DS - Applications - [3DSX] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-10-03</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="3DS 3D Glasses App (2022-11-01)(JeffRuLz)">
+		<description>3DS 3D Glasses App (2022-11-01)(JeffRuLz)</description>
+		<rom name="3DS 3D Glasses App (2022-11-01)(JeffRuLz).3dsx" size="198932" crc="3309ac65" md5="01794a5682e521e30fd9520077187053" sha1="ad5073a7c633c2c5224fb0b10e847cfc998cca9f"/>
+	</game>
 	<game name="atari800-3ds v0.3.7 (2022-06-06)(asie)(PL)(en)(GPLv2)">
 		<description>atari800-3ds v0.3.7 (2022-06-06)(asie)(PL)(en)(GPLv2)</description>
 		<rom name="atari800-3ds v0.3.7 (2022-06-06)(asie)(PL)(en)(GPLv2).3dsx" size="909184" crc="21e7db8f" md5="83f5ca156658e06d37167c3a90933f1d" sha1="25620ae86fd131acfb0b14ce1b3113eab69736e0"/>
@@ -23,6 +27,10 @@
 	<game name="atari800-3ds v0.3.9 (2023-06-26)(asie)(PL)(en)(GPLv2)">
 		<description>atari800-3ds v0.3.9 (2023-06-26)(asie)(PL)(en)(GPLv2)</description>
 		<rom name="atari800-3ds v0.3.9 (2023-06-26)(asie)(PL)(en)(GPLv2).3dsx" size="842600" crc="e6197a78" md5="593f43429598c54876e313113b109603" sha1="f9552b37b9d21a692165ff4f56a164510bedba2a"/>
+	</game>
+	<game name="atari800-3ds v0.3.10 (2024-01-10)(asie)(PL)(en)(GPLv2)">
+		<description>atari800-3ds v0.3.10 (2024-01-10)(asie)(PL)(en)(GPLv2)</description>
+		<rom name="atari800-3ds v0.3.10 (2024-01-10)(asie)(PL)(en)(GPLv2).3dsx" size="843900" crc="8df73b4b" md5="81b70d2b77c10b203548c2e3dcc432b4" sha1="8e6f91c553257dfbf6aac31a18f825e0a9a0243c"/>
 	</game>
 	<game name="blargSnes v1.1 (2014-10-12)(Arisotura)">
 		<description>blargSnes v1.1 (2014-10-12)(Arisotura)</description>
@@ -47,9 +55,65 @@
 		<description>blargSnes v1.4 (2022-02-28)(Arisotura)</description>
 		<rom name="blargSnes v1.4 (2022-02-28)(Arisotura).3dsx" size="874428" crc="eabc9a5e" md5="da7942d08061cf9135209516b9ca2594" sha1="f3cd7eb11386fc9d14562bae77f6589f74c8abc2"/>
 	</game>
-	<game name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0)">
-		<description>mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0)</description>
-		<rom name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0).3dsx" size="1309680" crc="7b4c9894" md5="a0c84bdceeaaf1fd36f7edeb2ce78dea" sha1="a353e5620a14a876924d4ad8fe899ece188c67c6"/>
-		<rom name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0).smdh" size="14016" crc="dbaa85c8" md5="1cf437d6ae50b58475e16292cb8e2803" sha1="f4508879af2c60a48011ada0fc864bf2f2ba46d8"/>
+	<game name="mGBA v0.10.0 (2022-10-12)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.0 (2022-10-12)(endrift)(MPL 2.0)</description>
+		<rom name="mgba.3dsx" size="1313208" crc="9da58233" md5="f20dfabf1ecbbbbc68a9338a79441751" sha1="fc22b3617e49e8630e5aa0e5321d771e369b9679"/>
+		<rom name="mgba.smdh" size="14016" crc="c1eac46c" md5="b5498069da801ee63191102053858b34" sha1="6e51d25539cf5a3004514b64045e97ae4c2807da"/>
+		<rom name="mgba.xml" size="322" crc="551ea264" md5="8c8c11d6c7bdbc476a5756e1a3076187" sha1="b2e619d7a9014659738742c7735a219b3cecc1d7"/>
+	</game>
+	<game name="mGBA v0.10.1 (2023-01-11)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.1 (2023-01-11)(endrift)(MPL 2.0)</description>
+		<rom name="mgba.3dsx" size="1315992" crc="af746f62" md5="904034267926ab32b74d828cd488487a" sha1="9bf4c3c56ab03bafbc79f2c80d35f146f0ecab49"/>
+		<rom name="mgba.smdh" size="14016" crc="c28332bf" md5="c882016a5898ad0e9f6e45b4c87b8e6e" sha1="0f439d5e6559c9e3e1675ab39291e20fdc066111"/>
+		<rom name="mgba.xml" size="322" crc="551ea264" md5="8c8c11d6c7bdbc476a5756e1a3076187" sha1="b2e619d7a9014659738742c7735a219b3cecc1d7"/>
+	</game>
+	<game name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.2 (2023-04-24)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL 2.0).3dsx" size="1309680" crc="7b4c9894" md5="a0c84bdceeaaf1fd36f7edeb2ce78dea" sha1="a353e5620a14a876924d4ad8fe899ece188c67c6"/>
+		<rom name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL 2.0).smdh" size="14016" crc="dbaa85c8" md5="1cf437d6ae50b58475e16292cb8e2803" sha1="f4508879af2c60a48011ada0fc864bf2f2ba46d8"/>
+	</game>
+	<game name="mGBA v0.10.3 (2024-01-08)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.3 (2024-01-08)(endrift)(MPL 2.0)</description>
+		<rom name="mgba.3dsx" size="1320756" crc="a0b6110e" md5="7e23d417545768b54d0886e6b48c1c6a" sha1="46cd5c7df1ee8549eef4e6b5d5237480cf9c4844"/>
+		<rom name="mgba.smdh" size="14016" crc="4ff2e9cc" md5="1769b17b1862b2ba006e6a9f565f5eed" sha1="299fa9333e91c7c333c876c20cc55e1fb09e29d9"/>
+		<rom name="mgba.xml" size="322" crc="551ea264" md5="8c8c11d6c7bdbc476a5756e1a3076187" sha1="b2e619d7a9014659738742c7735a219b3cecc1d7"/>
+	</game>
+	<game name="mGBA v0.10.4 (2024-12-08)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.4 (2024-12-08)(endrift)(MPL 2.0)</description>
+		<rom name="mgba.3dsx" size="1326516" crc="fb4ecde7" md5="23c48825f9420323b57ac50321574a88" sha1="79577336a64980629eeb930b0d7d4045c47ea319"/>
+		<rom name="mgba.smdh" size="14016" crc="4ff2e9cc" md5="1769b17b1862b2ba006e6a9f565f5eed" sha1="299fa9333e91c7c333c876c20cc55e1fb09e29d9"/>
+		<rom name="mgba.xml" size="322" crc="551ea264" md5="8c8c11d6c7bdbc476a5756e1a3076187" sha1="b2e619d7a9014659738742c7735a219b3cecc1d7"/>
+	</game>
+	<game name="Red Viper v0.9.0 (2024-02-25)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.0 (2024-02-25)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.0 (2024-02-25)(skyfloogle)(MIT).3dsx" size="359020" crc="ca14b8ef" md5="34ee63dd9b8ca56e73839826b1a716ab" sha1="fbf06e8ae928302502cd8a2822658e463b1d6f34"/>
+	</game>
+	<game name="Red Viper v0.9.1 (2024-03-02)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.1 (2024-03-02)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.1 (2024-03-02)(skyfloogle)(MIT).3dsx" size="366256" crc="0d2e401d" md5="25be501a9657ea40fed2f80f33013692" sha1="b90cad1d57a232bfcf000e34db97e3db58bd356e"/>
+	</game>
+	<game name="Red Viper v0.9.2 (2024-03-24)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.2 (2024-03-24)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.2 (2024-03-24)(skyfloogle)(MIT).3dsx" size="408280" crc="bb6ed505" md5="42bc68bdefd10b5767ddedaeed9f1a1c" sha1="e5b7fe28972baf7e185d888f4d01fb335180685f"/>
+	</game>
+	<game name="Red Viper v0.9.2.1 (2024-03-25)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.2.1 (2024-03-25)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.2.1 (2024-03-25)(skyfloogle)(MIT).3dsx" size="408212" crc="96c1b248" md5="4f8cfd970791b80b1033bf7940eac701" sha1="9d764246b0a6ae4be617e0ae7a24756b03ef5b1c"/>
+	</game>
+	<game name="Red Viper v0.9.3 (2024-04-10)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.3 (2024-04-10)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.3 (2024-04-10)(skyfloogle)(MIT).3dsx" size="442880" crc="ad09ea75" md5="09c3a719bc179f77bd3077ae3e8d6160" sha1="716c619b941758fc6968632830d5a4df030fd882"/>
+	</game>
+	<game name="Red Viper v0.9.4 (2024-04-28)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.4 (2024-04-28)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.4 (2024-04-28)(skyfloogle)(MIT).3dsx" size="464924" crc="b3687039" md5="2943e8d098b454b082cbf5ac43717195" sha1="2bf77abe1e9be74c93f8fe5057501e4dcd6a57f4"/>
+	</game>
+	<game name="Red Viper v0.9.5 (2024-06-11)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.5 (2024-06-11)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.5 (2024-06-11)(skyfloogle)(MIT).3dsx" size="522952" crc="f631b6a8" md5="2acae597807f21e661a959342d197c48" sha1="5ea48dccfce00718983bc91b60e03de6b5688142"/>
+	</game>
+	<game name="Red Viper v0.9.6 (2024-06-16)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.6 (2024-06-16)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.6 (2024-06-16)(skyfloogle)(MIT).3dsx" size="520180" crc="bed7155e" md5="354ffc0523e488100e3d1040ce53b678" sha1="14725866064554f67e3690aa0f01b97b3c78d42d"/>
 	</game>
 </datafile>

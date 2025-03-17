@@ -4,16 +4,28 @@
 <datafile>
 	<header>
 		<name>DEC VT-180 - Operating Systems</name>
-		<description>DEC VT-180 - Operating Systems (TOSEC-v2018-07-01)</description>
+		<description>DEC VT-180 - Operating Systems (TOSEC-v2024-07-03)</description>
 		<category>TOSEC</category>
-		<version>2018-07-01</version>
+		<version>2024-07-03</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="CP-M v2.2 (1982-11-16)(DEC)(US)[sn 2-387-039867]">
+		<description>CP-M v2.2 (1982-11-16)(DEC)(US)[sn 2-387-039867]</description>
+		<rom name="CP-M v2.2 (1982-11-16)(DEC)(US)[sn 2-387-039867].imd" size="239227" crc="ca0236f1" md5="2496add88c3aed4ba3951dc9d72f6df5" sha1="14abd2bda5da2bf1913324b3029646be3c4e3d88"/>
+	</game>
+	<game name="MBASIC VT180 v5.21 BIN RX18 (1981)(Microsoft)[BJ-P227A-BV]">
+		<description>MBASIC VT180 v5.21 BIN RX18 (1981)(Microsoft)[BJ-P227A-BV]</description>
+		<rom name="MBASIC VT180 v5.21 BIN RX18 (1981)(Microsoft)[BJ-P227A-BV].imd" size="30992" crc="dee63c07" md5="eec63621cf65174ef4e9791f73fb97bd" sha1="e09e50cd5459b9bd9d03f8cb2308c507c9731778"/>
+	</game>
 	<game name="VT-180 CPM v2.2 (1979)(Digital Research)[2-387-039192]">
 		<description>VT-180 CPM v2.2 (1979)(Digital Research)[2-387-039192]</description>
 		<rom name="VT-180 CPM v2.2 (1979)(Digital Research)[2-387-039192].imd" size="55058" crc="fed6d913" md5="a3b818d50c99e2d9ce51f65f5efad7fc" sha1="ad6ffdac743ae1f65960b5fc23ba196f7532bec5"/>
+	</game>
+	<game name="VT180 CP-M v2.2 (198x)(DEC)(US)[pn BJ-MO74B-BV][sn 2-387-034277]">
+		<description>VT180 CP-M v2.2 (198x)(DEC)(US)[pn BJ-MO74B-BV][sn 2-387-034277]</description>
+		<rom name="VT180 CP-M v2.2 (198x)(DEC)(US)[pn BJ-MO74B-BV][sn 2-387-034277].imd" size="55009" crc="9ceecc31" md5="ed0658762c4d22a6ad5e227faf42adb8" sha1="455593cef4d2350eda8e5bb1306b5722ae70dc0f"/>
 	</game>
 </datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Applications - [A2R]</name>
-		<description>Apple II - Applications - [A2R] (TOSEC-v2024-01-15)</description>
+		<description>Apple II - Applications - [A2R] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -104,6 +104,30 @@
 		<description>Animate (1986-09-05)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side B)(Background Library)[128K]</description>
 		<rom name="Animate (1986-09-05)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side B)(Background Library)[128K].a2r" size="21685523" crc="0605d2c7" md5="4998897cd8a088202835503b34681c4e" sha1="7d7af1c5bf74bc65d6acd0d28ae3411bc8c54187"/>
 	</game>
+	<game name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side A)(Boot)[128K]">
+		<description>Animate (1986)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side A)(Boot)[128K]</description>
+		<rom name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side A)(Boot)[128K].a2r" size="16300465" crc="3865fa50" md5="f8fea301615e47c65abdd6185adcb689" sha1="606a8fe85a2ed6988c0fcc1e18a3df3ed9ec75d3"/>
+	</game>
+	<game name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side B)(Program)[128K]">
+		<description>Animate (1986)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side B)(Program)[128K]</description>
+		<rom name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 1 of 3 Side B)(Program)[128K].a2r" size="16659824" crc="04a537ad" md5="e38f086fefdff7299ee8d8888936a732" sha1="d8a33e5c966ed4b23fd74b9eced7fcb4991e08a4"/>
+	</game>
+	<game name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side A)(Animation Library)[128K]">
+		<description>Animate (1986)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side A)(Animation Library)[128K]</description>
+		<rom name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side A)(Animation Library)[128K].a2r" size="14127820" crc="b79a921b" md5="3e59c1532567c2f8cc6c1e9f20793864" sha1="24d5c8e923c7dac5c429452518198b6886ea652e"/>
+	</game>
+	<game name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side B)(Background Library)[128K]">
+		<description>Animate (1986)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side B)(Background Library)[128K]</description>
+		<rom name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 2 of 3 Side B)(Background Library)[128K].a2r" size="15968593" crc="362a173e" md5="ef6fc8d0f271d20b3586bff6aa7bfa2f" sha1="e48788d3417c866fd713dc5316f318fe08fd808d"/>
+	</game>
+	<game name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side A)(Demonstration Show Disk)[128K]">
+		<description>Animate (1986)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side A)(Demonstration Show Disk)[128K]</description>
+		<rom name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side A)(Demonstration Show Disk)[128K].a2r" size="15154100" crc="6f7fde89" md5="f5e990975c6db1ddefc0dfef41f4ae24" sha1="2dd7e49e655889301b075774f47a0822e76eb81e"/>
+	</game>
+	<game name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side B)(Programmer's Aids)[128K]">
+		<description>Animate (1986)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side B)(Programmer's Aids)[128K]</description>
+		<rom name="Animate (1986)(Brøderbund)(IIE)(US)(Disk 3 of 3 Side B)(Programmer's Aids)[128K].a2r" size="14681356" crc="f067288b" md5="4d31f5527b6e09795e1dde8ce9e83b11" sha1="fbe5d0b2d7042bca6d0015e95eb8e7aae41929a7"/>
+	</game>
 	<game name="Appilot Edu-Disk (1978)(MUSE Software)(II)(US)[32K][II only][req Integer BASIC]">
 		<description>Appilot Edu-Disk (1978)(MUSE Software)(II)(US)[32K][II only][req Integer BASIC]</description>
 		<rom name="Appilot Edu-Disk (1978)(MUSE Software)(II)(US)[32K][II only][req Integer BASIC].a2r" size="31720872" crc="7f0e6171" md5="0f41b42e1b614d8ae20afc2c1216a123" sha1="cf5dcf694d79d290974b4046e5c9a802521a101d"/>
@@ -156,6 +180,14 @@
 		<description>Arcade Machine, The (1982)(Brøderbund)(II+)(US)(Side B)[48K]</description>
 		<rom name="Arcade Machine, The (1982)(Brøderbund)(II+)(US)(Side B)[48K].a2r" size="18004950" crc="655bf47a" md5="8aa09e2dbdb59c84988aa213641fa87e" sha1="fa0c11a01b1a3e9b82c26db13c11d6268ac1f990"/>
 	</game>
+	<game name="AwardWare (1986)(Hi Tech Expressions)(Side A)">
+		<description>AwardWare (1986)(Hi Tech Expressions)(Side A)</description>
+		<rom name="AwardWare (1986)(Hi Tech Expressions)(Side A).a2r" size="18826417" crc="b1536f21" md5="1ce0f099670ea7b025d8bbb6757b6aa2" sha1="71e77b6d7c8725219d728829ab2c9e8e4cb6f909"/>
+	</game>
+	<game name="AwardWare (1986)(Hi Tech Expressions)(Side B)">
+		<description>AwardWare (1986)(Hi Tech Expressions)(Side B)</description>
+		<rom name="AwardWare (1986)(Hi Tech Expressions)(Side B).a2r" size="17752380" crc="5b0457d1" md5="3b9bcbc810bf99aa13c6c0d458cc3f7e" sha1="f8768692d00238abdab726e6d176e7abfda334a8"/>
+	</game>
 	<game name="BackAid (1987)(BrainBank)(II+)(Disk 1 of 5)(Start Disk)">
 		<description>BackAid (1987)(BrainBank)(II+)(Disk 1 of 5)(Start Disk)</description>
 		<rom name="BackAid (1987)(BrainBank)(II+)(Disk 1 of 5)(Start Disk).a2r" size="15431971" crc="18177538" md5="0434540972eb25c6a8a223f7ac11dcff" sha1="e760b2d06cccc398d68702f0ea87176259a43c31"/>
@@ -180,9 +212,133 @@
 		<description>Bag of Tricks 2 v2.1 (1985)(Quality Software)(II+)[64K]</description>
 		<rom name="Bag of Tricks 2 v2.1 (1985)(Quality Software)(II+)[64K].a2r" size="24714321" crc="2667301e" md5="16a9bee17f92006cb864b983c7090493" sha1="41c3a8c524820f5354232cda574bac904a793ba2"/>
 	</game>
-	<game name="Bank Street Writer (1982)(Brøderbund)(Side A)">
-		<description>Bank Street Writer (1982)(Brøderbund)(Side A)</description>
-		<rom name="Bank Street Writer (1982)(Brøderbund)(Side A).a2r" size="19026944" crc="23937cda" md5="458fb9acf5d2addd762ed8793ac5857e" sha1="c1343bc26f8842fcf47d20ae908671af6b39d218"/>
+	<game name="Bag of Tricks v2.0 (1985)(Quality Software)(II+)[64K]">
+		<description>Bag of Tricks v2.0 (1985)(Quality Software)(II+)[64K]</description>
+		<rom name="Bag of Tricks v2.0 (1985)(Quality Software)(II+)[64K].a2r" size="19053357" crc="0a6a9b02" md5="6c96cef09a9fbb8b418d8acf9238b8f4" sha1="1bca5f6e4646b7d956712b3bc90a03c4ca24d8ba"/>
+	</game>
+	<game name="Bank Street Speller, The (1984)(Brøderbund)(US)(Side A)(Program)[48K]">
+		<description>Bank Street Speller, The (1984)(Brøderbund)(US)(Side A)(Program)[48K]</description>
+		<rom name="Bank Street Speller, The (1984)(Brøderbund)(US)(Side A)(Program)[48K].a2r" size="12309429" crc="e777550e" md5="dbe778dec305dfdca19e1b76cb977ea0" sha1="2a1ee0f7c1f4ed2162bd5d298433dfd2042fe3f4"/>
+	</game>
+	<game name="Bank Street Speller, The (1984)(Brøderbund)(US)(Side B)(Dictionary)[48K]">
+		<description>Bank Street Speller, The (1984)(Brøderbund)(US)(Side B)(Dictionary)[48K]</description>
+		<rom name="Bank Street Speller, The (1984)(Brøderbund)(US)(Side B)(Dictionary)[48K].a2r" size="18063898" crc="5a805655" md5="c0580d31e9935cbee7d0978ed972b4a2" sha1="ebbc7145afc7eff08cc626e259e2c62fba195c53"/>
+	</game>
+	<game name="Bank Street Writer Enhanced, The - Tutorial for II Plus (1984)(Brøderbund)(II+)(US)[64K]">
+		<description>Bank Street Writer Enhanced, The - Tutorial for II Plus (1984)(Brøderbund)(II+)(US)[64K]</description>
+		<rom name="Bank Street Writer Enhanced, The - Tutorial for II Plus (1984)(Brøderbund)(II+)(US)[64K].a2r" size="18827436" crc="6cad073f" md5="5334950a3aa54ff804b9a8031d6f70e3" sha1="e48093b419d051ba729a561b59d023fbf445b5f2"/>
+	</game>
+	<game name="Bank Street Writer Enhanced, The - Tutorial for IIe (1984)(Brøderbund)(IIE)(US)[64K]">
+		<description>Bank Street Writer Enhanced, The - Tutorial for IIe (1984)(Brøderbund)(IIE)(US)[64K]</description>
+		<rom name="Bank Street Writer Enhanced, The - Tutorial for IIe (1984)(Brøderbund)(IIE)(US)[64K].a2r" size="19930928" crc="d99d6530" md5="b983fee9af93c907cd3188bae84a812f" sha1="94b68b9eb608027b51e22dcff7a812e43587ad62"/>
+	</game>
+	<game name="Bank Street Writer Enhanced, The v2.6 (1984)(Brøderbund)(US)(II+)[64K]">
+		<description>Bank Street Writer Enhanced, The v2.6 (1984)(Brøderbund)(US)(II+)[64K]</description>
+		<rom name="Bank Street Writer Enhanced, The v2.6 (1984)(Brøderbund)(US)(II+)[64K].a2r" size="19986066" crc="56387032" md5="a8b9799ec267690f1a0d05444937df15" sha1="2dee8a31d88cd4144b186cb896e07ddb11601ed6"/>
+	</game>
+	<game name="Bank Street Writer Expanded, The - Tutorial (1984)(Scholastic)(IIE)(US)[64K]">
+		<description>Bank Street Writer Expanded, The - Tutorial (1984)(Scholastic)(IIE)(US)[64K]</description>
+		<rom name="Bank Street Writer Expanded, The - Tutorial (1984)(Scholastic)(IIE)(US)[64K].a2r" size="19634337" crc="3395817a" md5="7c0b9f21abfb467db4952c9ed4e72158" sha1="a3f7344f02f5258d19e7f7f7efc0d642a9b77bd4"/>
+	</game>
+	<game name="Bank Street Writer Expanded, The v2.2 (1984)(Scholastic)(IIE)(US)[128K]">
+		<description>Bank Street Writer Expanded, The v2.2 (1984)(Scholastic)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer Expanded, The v2.2 (1984)(Scholastic)(IIE)(US)[128K].a2r" size="29160885" crc="ea97e428" md5="037c4aeb5782adb3793ad2d1799abbd8" sha1="dba65bbf09cf9610f69d5d35f0275f9591c2eab2"/>
+	</game>
+	<game name="Bank Street Writer IIc, The - Tutorial (1984-06-27)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer IIc, The - Tutorial (1984-06-27)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer IIc, The - Tutorial (1984-06-27)(Brøderbund)(IIE)(US)[128K].a2r" size="18827107" crc="d23327de" md5="c94805ac001d38013ab026f91a5f5496" sha1="d98e2e0958f5c053467a36aa6fd8899bafd073a2"/>
+	</game>
+	<game name="Bank Street Writer IIc, The v2.1 rev 1 (1984)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer IIc, The v2.1 rev 1 (1984)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer IIc, The v2.1 rev 1 (1984)(Brøderbund)(IIE)(US)[128K].a2r" size="25907709" crc="7c549831" md5="e4739171f3083e1b6875878fc9c2ccc9" sha1="5abb5d74ae2d07ee52b3ce0f44919022e48d51db"/>
+	</game>
+	<game name="Bank Street Writer IIc, The v2.1 rev 2 (1984)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer IIc, The v2.1 rev 2 (1984)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer IIc, The v2.1 rev 2 (1984)(Brøderbund)(IIE)(US)[128K].a2r" size="25853364" crc="9db70fa0" md5="0c07e361c2fdaa412fdf6a7a46b20c74" sha1="9373d2dea7515959222d80047ca8f80d82c05e3e"/>
+	</game>
+	<game name="Bank Street Writer IIc, The v2.11 (1984)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer IIc, The v2.11 (1984)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer IIc, The v2.11 (1984)(Brøderbund)(IIE)(US)[128K].a2r" size="26977196" crc="5e104096" md5="2ca042f86a2a13d80d79c1472908f697" sha1="e319eecc676fcc105c0f9e9df51dffce44947209"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(20-Column Program)[128K]">
+		<description>Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(20-Column Program)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(20-Column Program)[128K].a2r" size="29921588" crc="8d928bb9" md5="acb431e739244f532e5f93d4fc98d4e7" sha1="a7371fbb99ddfa373815559d0612c52c071c2b63"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(40-80-Column Program)[128K]">
+		<description>Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(40-80-Column Program)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(40-80-Column Program)[128K].a2r" size="26015378" crc="d7795ca1" md5="0cca2f2c35b5239feeb2105e8b37dd9d" sha1="1c5138d80dc9233e19215ad1f4cd305d4bcb683e"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Dictionary)[128K]">
+		<description>Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Dictionary)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Dictionary)[128K].a2r" size="21333287" crc="6e98aa95" md5="a62249b28223e18eabe30c83b699aba8" sha1="1aa58d2c47b1ea386158aea1d96cfba2ced3975c"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Teacher Tools)[128K]">
+		<description>Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Teacher Tools)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Teacher Tools)[128K].a2r" size="26914497" crc="fa50de9d" md5="f31110173b8b951ee269572eb33e748c" sha1="f2059954a04c46fc2c91fa6a9b7db8f79e8f356b"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Thesaurus)[128K]">
+		<description>Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Thesaurus)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.1 (1986)(Scholastic)(IIE)(US)(Thesaurus)[128K].a2r" size="27482808" crc="9974824a" md5="6d5ac12c3cc9498ae0a866599a7da9f5" sha1="0904ad0d096b7cec517e0de709c5cb1d1ba1077a"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.1 - Tutorial (1986)(Scholastic)(IIE)(US)[128K]">
+		<description>Bank Street Writer III, The v1.1 - Tutorial (1986)(Scholastic)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.1 - Tutorial (1986)(Scholastic)(IIE)(US)[128K].a2r" size="17374037" crc="fca89482" md5="d46042aeb93ed7598ca5fe92ac922f05" sha1="e7cc098e7c4bb1e2dfecfb7bc888a5a0d41562b2"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(20-Column Program)[128K]">
+		<description>Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(20-Column Program)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(20-Column Program)[128K].a2r" size="24065659" crc="9b4fcc26" md5="5fe865151f579d64b38d22f64a1a4cfe" sha1="ea29d6a23911e85fb17afabe3a26b81bb035ea4d"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(40-80-Column Program)[128K]">
+		<description>Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(40-80-Column Program)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(40-80-Column Program)[128K].a2r" size="16071130" crc="4be5a6d2" md5="10f3cb2d711f8d72661a6ad25cf772a1" sha1="56672a8054c2d2f84ee1b63e00789fd74f4396e5"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(Teacher Tools)[128K]">
+		<description>Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(Teacher Tools)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.4 (1989)(Scholastic)(IIE)(US)(Teacher Tools)[128K].a2r" size="19746904" crc="191f8a4d" md5="a38d085389676e8730c02cd9747eb7e6" sha1="480dacf9116c97e6c0c083baac7880f44512e015"/>
+	</game>
+	<game name="Bank Street Writer III, The v1.4 - Tutorial (1989)(Scholastic)(IIE)(US)[128K]">
+		<description>Bank Street Writer III, The v1.4 - Tutorial (1989)(Scholastic)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer III, The v1.4 - Tutorial (1989)(Scholastic)(IIE)(US)[128K].a2r" size="18061980" crc="50825ebe" md5="4375f53fad1c6328161182a493f3bfd2" sha1="85178e7cc7a018da616bf30c131370835f14e5f3"/>
+	</game>
+	<game name="Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 1 of 2)(Program)[128K]">
+		<description>Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 1 of 2)(Program)[128K]</description>
+		<rom name="Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 1 of 2)(Program)[128K].a2r" size="29372817" crc="b3ab4a8a" md5="5018f489d5505b5dc3dcbeb045ae4a8a" sha1="57b36287cd51bc887b97a0d98b9aa154ef3572c1"/>
+	</game>
+	<game name="Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side A)(Dictionary)[128K]">
+		<description>Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side A)(Dictionary)[128K]</description>
+		<rom name="Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side A)(Dictionary)[128K].a2r" size="24895183" crc="f1bb1f4c" md5="7d7966d908ff79e8d72638c9ac71d879" sha1="5ef97293b9f617197b71fc5d787177fdab6e5bb4"/>
+	</game>
+	<game name="Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side B)(Thesaurus)[128K]">
+		<description>Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side B)(Thesaurus)[128K]</description>
+		<rom name="Bank Street Writer Plus, The v1.1 (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2 Side B)(Thesaurus)[128K].a2r" size="30820988" crc="1f84f98d" md5="41148c2772f41e6d75ff9d82fd81841b" sha1="3a9ae9895f4c5411e78a85210add4e9ea13e2e16"/>
+	</game>
+	<game name="Bank Street Writer Plus, The v1.1 - Tutorial (1986)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer Plus, The v1.1 - Tutorial (1986)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer Plus, The v1.1 - Tutorial (1986)(Brøderbund)(IIE)(US)[128K].a2r" size="27692640" crc="628b47d8" md5="d7a910940d3bb65ba32fe838952ed628" sha1="ccb3dad16d93b2b31ec92bf2eb1953a945aba96a"/>
+	</game>
+	<game name="Bank Street Writer Plus, The v1.4 (1989)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer Plus, The v1.4 (1989)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer Plus, The v1.4 (1989)(Brøderbund)(IIE)(US)[128K].a2r" size="20256179" crc="3f42d589" md5="930c7acf9d4993386574f7e5bafaab89" sha1="31df9e9cf12996490ad323a397cc5c455ba65c95"/>
+	</game>
+	<game name="Bank Street Writer Plus, The v1.4 - Tutorial (1989)(Brøderbund)(IIE)(US)[128K]">
+		<description>Bank Street Writer Plus, The v1.4 - Tutorial (1989)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Bank Street Writer Plus, The v1.4 - Tutorial (1989)(Brøderbund)(IIE)(US)[128K].a2r" size="18427380" crc="189462dc" md5="db5bf26ab2b855cbdc5e4640a4d073af" sha1="daea86d7fd012ffbf76af289ce521fd4ab328153"/>
+	</game>
+	<game name="Bank Street Writer Tutorial, The v1.0 (1982)(Brøderbund)(II+)(US)[48K]">
+		<description>Bank Street Writer Tutorial, The v1.0 (1982)(Brøderbund)(II+)(US)[48K]</description>
+		<rom name="Bank Street Writer Tutorial, The v1.0 (1982)(Brøderbund)(II+)(US)[48K].a2r" size="18697245" crc="f49e5453" md5="ed329c38ba56e984b033ddcbe2179505" sha1="ffe564c396841a9d013ab8e1e9fbd27c7418b122"/>
+	</game>
+	<game name="Bank Street Writer Tutorial, The v1.1 (1982-12-13)(Brøderbund)(II+)(US)[48K]">
+		<description>Bank Street Writer Tutorial, The v1.1 (1982-12-13)(Brøderbund)(II+)(US)[48K]</description>
+		<rom name="Bank Street Writer Tutorial, The v1.1 (1982-12-13)(Brøderbund)(II+)(US)[48K].a2r" size="26618512" crc="d5e6aed0" md5="4ecb9acfd75b7d21186a6a2ef887f287" sha1="008337ce6e9a17c5c44a0a2026a9d01ccc04ae62"/>
+	</game>
+	<game name="Bank Street Writer, The v1.3 (1982)(Brøderbund)(II+)(US)[48K]">
+		<description>Bank Street Writer, The v1.3 (1982)(Brøderbund)(II+)(US)[48K]</description>
+		<rom name="Bank Street Writer, The v1.3 (1982)(Brøderbund)(II+)(US)[48K].a2r" size="18964560" crc="ae371751" md5="25f924b4d900f1d4191b5fa9baabae39" sha1="4a93bdb3e1c2efd6497a0785a01b7339e2d2e42f"/>
+	</game>
+	<game name="Bank Street Writer, The (1982)(Brøderbund)(Side A)">
+		<description>Bank Street Writer, The (1982)(Brøderbund)(Side A)</description>
+		<rom name="Bank Street Writer, The (1982)(Brøderbund)(Side A).a2r" size="19026944" crc="23937cda" md5="458fb9acf5d2addd762ed8793ac5857e" sha1="c1343bc26f8842fcf47d20ae908671af6b39d218"/>
 	</game>
 	<game name="Beagle BASIC (1983)(Beagle Bros)(II+)(US)[64K]">
 		<description>Beagle BASIC (1983)(Beagle Bros)(II+)(US)[64K]</description>
@@ -299,6 +455,10 @@
 	<game name="Data Factory, The v5.0 (1982)(Micro Lab)(US)(Utility)">
 		<description>Data Factory, The v5.0 (1982)(Micro Lab)(US)(Utility)</description>
 		<rom name="Data Factory, The v5.0 (1982)(Micro Lab)(US)(Utility).a2r" size="17463596" crc="f6d823de" md5="3d9c12625c889a34947957df30712ca2" sha1="a37c271ef80aeb91f830bcb2bfe47152cd300479"/>
+	</game>
+	<game name="David-DOS (1982)(David Data)(II+)(US)[48K]">
+		<description>David-DOS (1982)(David Data)(II+)(US)[48K]</description>
+		<rom name="David-DOS (1982)(David Data)(II+)(US)[48K].a2r" size="19029567" crc="278f5449" md5="9466cb3b8fab4b867cfd4b6fc61a317c" sha1="83559fdbe3f3aa09f55637af2b3894cde5de077e"/>
 	</game>
 	<game name="Dazzle Draw v1.1 (1984)(Brøderbund)(IIE)(US)(Side A)(Program)[128K]">
 		<description>Dazzle Draw v1.1 (1984)(Brøderbund)(IIE)(US)(Side A)(Program)[128K]</description>
@@ -452,6 +612,10 @@
 		<description>Frame-Up v1.4 (1982)(Beagle Bros)(US)[48K]</description>
 		<rom name="Frame-Up v1.4 (1982)(Beagle Bros)(US)[48K].a2r" size="24043033" crc="354bcdc0" md5="27783e996200e3123161631dbc8813b1" sha1="1ad91a2446a1edce3e924b7329888d66af0719fe"/>
 	</game>
+	<game name="G.P.L.E. v4.1 (1985-11-01)(Beagle Bros)(II+)(US)[64K]">
+		<description>G.P.L.E. v4.1 (1985-11-01)(Beagle Bros)(II+)(US)[64K]</description>
+		<rom name="G.P.L.E. v4.1 (1985-11-01)(Beagle Bros)(II+)(US)[64K].a2r" size="22449410" crc="51514307" md5="c75eb5ae1181827d6ef7ae832056a7cd" sha1="b4bc19d19c5d3e9bca31093d5912f68fe8f77ad0"/>
+	</game>
 	<game name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K]">
 		<description>General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K]</description>
 		<rom name="General Manager, The v2.0S (1981)(Sierra On-Line)(II+)(Disk 1 of 3)(Master Program)[48K].a2r" size="19565656" crc="04486af8" md5="21c9f4b2ed9941b745a33d4c4e97eefc" sha1="ac1713225a0d51a6822e0fbcfa7b866223747701"/>
@@ -476,9 +640,21 @@
 		<description>General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Blank Forms Disk)[48K]</description>
 		<rom name="General Manager, The v2.0Y (1981)(Sierra On-Line)(II+)(Disk 3 of 3)(Blank Forms Disk)[48K].a2r" size="23032997" crc="afc01fa8" md5="683aeeacaa3091df9a227e73e2987757" sha1="738b76ae12805612e124652446d271cf355e370d"/>
 	</game>
-	<game name="GraFORTH II (1981)(Lutus, Paul)">
-		<description>GraFORTH II (1981)(Lutus, Paul)</description>
-		<rom name="GraFORTH II (1981)(Lutus, Paul).a2r" size="18182575" crc="ea38caae" md5="9ff23e2b158edd65f00504a5462c9f36" sha1="ec7dd52c49c63c26b61b2e614a7b18d03ae99527"/>
+	<game name="Genesis - The Adventure Game Creator (1982)(Hexcraft)(II+)(Side A)[48K]">
+		<description>Genesis - The Adventure Game Creator (1982)(Hexcraft)(II+)(Side A)[48K]</description>
+		<rom name="Genesis - The Adventure Game Creator (1982)(Hexcraft)(II+)(Side A)[48K].a2r" size="22343890" crc="b9890c4d" md5="25048a2131512bd0e751a743fa6e42bc" sha1="3609fc15dc27d07aa7d7ce03687e7d80f135ddbe"/>
+	</game>
+	<game name="Genesis - The Adventure Game Creator (1982)(Hexcraft)(II+)(Side B)[48K]">
+		<description>Genesis - The Adventure Game Creator (1982)(Hexcraft)(II+)(Side B)[48K]</description>
+		<rom name="Genesis - The Adventure Game Creator (1982)(Hexcraft)(II+)(Side B)[48K].a2r" size="18065153" crc="d1ad7ad8" md5="8493d3c3de92ab3d38bfe371ef71e3f7" sha1="8a273b2b581dba9803ffe22cac2b4c748554f9a0"/>
+	</game>
+	<game name="GraFORTH (1981)(Insoft)[48K]">
+		<description>GraFORTH (1981)(Insoft)[48K]</description>
+		<rom name="GraFORTH (1981)(Insoft)[48K].a2r" size="18182575" crc="ea38caae" md5="9ff23e2b158edd65f00504a5462c9f36" sha1="ec7dd52c49c63c26b61b2e614a7b18d03ae99527"/>
+	</game>
+	<game name="GraFORTH (1981)(Insoft)[a][48K]">
+		<description>GraFORTH (1981)(Insoft)[a][48K]</description>
+		<rom name="GraFORTH (1981)(Insoft)[a][48K].a2r" size="24665676" crc="cabad9c5" md5="2a54c43c8e4fc41ccacbd6d6c77b084d" sha1="0e678c75f9a38f9c843b3de310657d24082988ee"/>
 	</game>
 	<game name="Graphics Tablet, The - Demo Disk (1979)(Apple)[13-sector]">
 		<description>Graphics Tablet, The - Demo Disk (1979)(Apple)[13-sector]</description>
@@ -515,6 +691,10 @@
 	<game name="Interlude II v2.0 (1986)(Recreational Technology)(II+)(Side B)">
 		<description>Interlude II v2.0 (1986)(Recreational Technology)(II+)(Side B)</description>
 		<rom name="Interlude II v2.0 (1986)(Recreational Technology)(II+)(Side B).a2r" size="17803521" crc="730224f2" md5="4d3a07f12be8cbb066b485615a114435" sha1="349a88449315e1cb68f1f337af9222f89c0aabeb"/>
+	</game>
+	<game name="Keyboard Controlled Sequencer (1985)(Dr. T's Music Software)(II+)[48K]">
+		<description>Keyboard Controlled Sequencer (1985)(Dr. T's Music Software)(II+)[48K]</description>
+		<rom name="Keyboard Controlled Sequencer (1985)(Dr. T's Music Software)(II+)[48K].a2r" size="17259059" crc="6a5669c1" md5="68add08272d78ef96ccbb7ae059c1adb" sha1="2e064d2e6b2eea9622284c49d2f3a5d82984669b"/>
 	</game>
 	<game name="Korg 800 4-Track MIDI Sequencer v1.0 (1984)(Passport Designs)(II+)">
 		<description>Korg 800 4-Track MIDI Sequencer v1.0 (1984)(Passport Designs)(II+)</description>
@@ -555,6 +735,14 @@
 	<game name="Magic Mailer v1.1 (1982)(ArtSci)(II+)">
 		<description>Magic Mailer v1.1 (1982)(ArtSci)(II+)</description>
 		<rom name="Magic Mailer v1.1 (1982)(ArtSci)(II+).a2r" size="19826012" crc="be9a771a" md5="219eab29a60b638e93eb1a1dd6fb42d6" sha1="42ca01ca2eedbcf4e7cad4bf60cf0b08c73c18b7"/>
+	</game>
+	<game name="Magic Slate II v1.0 (1988)(Sunburst Communications)(IIE)(US)[128K][20-column]">
+		<description>Magic Slate II v1.0 (1988)(Sunburst Communications)(IIE)(US)[128K][20-column]</description>
+		<rom name="Magic Slate II v1.0 (1988)(Sunburst Communications)(IIE)(US)[128K][20-column].a2r" size="18552894" crc="7ed1b638" md5="8152d01e7a32f3bfb3eaacf474180bcd" sha1="7c1b8096aae1ae485b321d23d0628c10f7a9a506"/>
+	</game>
+	<game name="Magic Slate II v1.0 (1988)(Sunburst Communications)(IIE)(US)[128K][40-column]">
+		<description>Magic Slate II v1.0 (1988)(Sunburst Communications)(IIE)(US)[128K][40-column]</description>
+		<rom name="Magic Slate II v1.0 (1988)(Sunburst Communications)(IIE)(US)[128K][40-column].a2r" size="19462960" crc="21d0b7c7" md5="6d9609acf26f363de59727219c02ec0c" sha1="83c15b58970852a61c01659f599a87c2310826df"/>
 	</game>
 	<game name="Magic Words (1981)(ArtSci)(II+)">
 		<description>Magic Words (1981)(ArtSci)(II+)</description>
@@ -744,6 +932,14 @@
 		<description>Nikrom Disk Drive Analyzer (1984)(Nikrom Technical Products)(II+)</description>
 		<rom name="Nikrom Disk Drive Analyzer (1984)(Nikrom Technical Products)(II+).a2r" size="24589198" crc="f3858c92" md5="7cce9cc9270b18e40c53f205e2d21760" sha1="04c6989bc9ccef7da55ea70c1b6169273fc77095"/>
 	</game>
+	<game name="On Balance (1986)(Brøderbund)(IIE)(US)(Disk 1 of 2)(Program Disk)[128K]">
+		<description>On Balance (1986)(Brøderbund)(IIE)(US)(Disk 1 of 2)(Program Disk)[128K]</description>
+		<rom name="On Balance (1986)(Brøderbund)(IIE)(US)(Disk 1 of 2)(Program Disk)[128K].a2r" size="19582638" crc="3cc94fe4" md5="5bff62e58fa8429d330e952d5c98e320" sha1="cc87ee84cf5d4d1b371aadccec481274b88ee1ab"/>
+	</game>
+	<game name="On Balance (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2)(Export to AppleWorks Utility)[128K]">
+		<description>On Balance (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2)(Export to AppleWorks Utility)[128K]</description>
+		<rom name="On Balance (1986)(Brøderbund)(IIE)(US)(Disk 2 of 2)(Export to AppleWorks Utility)[128K].a2r" size="16751733" crc="5f1fbf95" md5="e75c63535ade0f3166ffbff69ab3a774" sha1="70eb69a0e62eca192e2c7dd070edeff8e3336742"/>
+	</game>
 	<game name="Order Tracking System v1.3a (1981)(Apple)(II+)(Disk 1 of 2)(Master)[48K]">
 		<description>Order Tracking System v1.3a (1981)(Apple)(II+)(Disk 1 of 2)(Master)[48K]</description>
 		<rom name="Order Tracking System v1.3a (1981)(Apple)(II+)(Disk 1 of 2)(Master)[48K].a2r" size="18753386" crc="5af261f5" md5="90969f62bb7d1b39d900d67111d02aff" sha1="6877f0cf4c61326dbfc68098a094043af7eafcbc"/>
@@ -755,6 +951,10 @@
 	<game name="PAI Forth v3.00 (1985-12-21)(-)(IIE)">
 		<description>PAI Forth v3.00 (1985-12-21)(-)(IIE)</description>
 		<rom name="PAI Forth v3.00 (1985-12-21)(-)(IIE).a2r" size="17467974" crc="af479fe6" md5="a94c9a258aff39152fddddacec238562" sha1="d7f47398209bf08b913378939209a6eb6030cd72"/>
+	</game>
+	<game name="Painter Power (1981)(Micro Lab)(II+)(US)[48K]">
+		<description>Painter Power (1981)(Micro Lab)(II+)(US)[48K]</description>
+		<rom name="Painter Power (1981)(Micro Lab)(II+)(US)[48K].a2r" size="20531430" crc="60d3225b" md5="0bac237e62034df171818d3e16c85e8b" sha1="95d7dc4c3c887d6b0550482ef294006e67e0e73a"/>
 	</game>
 	<game name="Persona's Communicate and Win (19xx)(Phoenix Software)(II+)">
 		<description>Persona's Communicate and Win (19xx)(Phoenix Software)(II+)</description>
@@ -1004,6 +1204,10 @@
 		<description>ProTERM v3.0 (1991)(InSync)</description>
 		<rom name="ProTERM v3.0 (1991)(InSync).a2r" size="16085636" crc="45bdeb0c" md5="42441d587d62d251de252715fee1e76e" sha1="a48a9adcb257529c4d13a5e653298a8522f28c46"/>
 	</game>
+	<game name="Real Estate Analysis Modules - Income Property Analysis (1982)(Realty Software)(II+)[48K]">
+		<description>Real Estate Analysis Modules - Income Property Analysis (1982)(Realty Software)(II+)[48K]</description>
+		<rom name="Real Estate Analysis Modules - Income Property Analysis (1982)(Realty Software)(II+)[48K].a2r" size="19521025" crc="1d601830" md5="e1e51dbb8f339a5b5cf1803f0210ab50" sha1="9fc5980e8a1cfdde0841781420e45a66c23e1fdb"/>
+	</game>
 	<game name="Sales Edge, The (1983)(Human Edge)(II+)(Disk 1 of 3)(Program)">
 		<description>Sales Edge, The (1983)(Human Edge)(II+)(Disk 1 of 3)(Program)</description>
 		<rom name="Sales Edge, The (1983)(Human Edge)(II+)(Disk 1 of 3)(Program).a2r" size="33305050" crc="cef0126e" md5="1e9469df92e253958b7d193affb0c582" sha1="0900a4fc5416c5a4009e750891280ada28fe7c8a"/>
@@ -1124,9 +1328,9 @@
 		<description>Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side B)[128K]</description>
 		<rom name="Swimware v2.1 (1988)(Hi Tech Expressions)(IIE)(Side B)[128K].a2r" size="22864190" crc="4913af84" md5="9d4221037d7de4e2ed62eaee04de78df" sha1="f95241eb2179e0ed0638d3a9f10f1650d0eff97d"/>
 	</game>
-	<game name="Swiss Family Robinson (1984)(Windham Classics)(II+)[48K]">
-		<description>Swiss Family Robinson (1984)(Windham Classics)(II+)[48K]</description>
-		<rom name="Swiss Family Robinson (1984)(Windham Classics)(II+)[48K].a2r" size="20746875" crc="8a631482" md5="e125eb08fa2adfcc712120d1d769b4cd" sha1="5b06b705c57c5bc35e9f85a4ee3019c622d38b85"/>
+	<game name="SYS-EX (1985)(SSL Productions)(II+)[48K]">
+		<description>SYS-EX (1985)(SSL Productions)(II+)[48K]</description>
+		<rom name="SYS-EX (1985)(SSL Productions)(II+)[48K].a2r" size="17894819" crc="b6326d20" md5="6660eb8be0f24559df83dca04ba5b0ec" sha1="8a82fd22c4e1f6a49a78b2af70623a2dd9e00f2c"/>
 	</game>
 	<game name="Take 1 v06401 (1984)(Baudville)(II+)[64K]">
 		<description>Take 1 v06401 (1984)(Baudville)(II+)[64K]</description>

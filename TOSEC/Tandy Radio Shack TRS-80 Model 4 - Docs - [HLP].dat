@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Docs - [HLP]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Docs - [HLP] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="JCL Help File for TRSDOS 6.2 (19xx)(-)">
+		<description>JCL Help File for TRSDOS 6.2 (19xx)(-)</description>
+		<rom name="JCL.DOC" size="768" crc="f78f3d3b" md5="ee27de9750079d7adf0016bdee3d8977" sha1="c9759eb868892dd0c2998168e0bc7aa7707c6296"/>
+		<rom name="JCL.HLP" size="5248" crc="4605edd1" md5="528b1859debe9e6461d1a4c29c1f9d75" sha1="dd9d2acffd0a62e2548a0c96bc88fcce80e63e49"/>
+		<rom name="JCLHLP.FIX" size="2939" crc="4985e262" md5="c8821972a1e5e9d2373ea811ab1fc0c3" sha1="fb869088924223aa9be0560042819126cc55e4b6"/>
+		<rom name="JCLTIP.TXT" size="2732" crc="c5822749" md5="5dccab83e22f86a9dc696c8cbf116a4c" sha1="2fa6b4221d0c91df60e7f2574528174212b78408"/>
+	</game>
+</datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Demos</name>
-		<description>Nintendo Game Boy - Demos (TOSEC-v2024-01-15)</description>
+		<description>Nintendo Game Boy - Demos (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -34,7 +34,7 @@
 	</game>
 	<game name="Ash Demo (19xx)(-)(PD)">
 		<description>Ash Demo (19xx)(-)(PD)</description>
-		<rom name="Ash Demo (19xx)(-)(PD).bin" size="32768" crc="7aba98d2" md5="5a40cbb06c6edb1358276c83e2ca83c2" sha1="8fdf019f426518cb40aacedb5ca1108a64ce955f"/>
+		<rom name="Ash Demo (19xx)(-)(PD).gb" size="32768" crc="7aba98d2" md5="5a40cbb06c6edb1358276c83e2ca83c2" sha1="8fdf019f426518cb40aacedb5ca1108a64ce955f"/>
 	</game>
 	<game name="Back to Space (2021-09-30)(Tronimal)">
 		<description>Back to Space (2021-09-30)(Tronimal)</description>
@@ -120,6 +120,10 @@
 		<description>Dumpster Fire Dancer (2021-02-11)(Pickett, Dave)(US)</description>
 		<rom name="Dumpster Fire Dancer (2021-02-11)(Pickett, Dave)(US).gb" size="131072" crc="93f0f3c7" md5="24d46fd82568433ba943efd15ce32874" sha1="0e5c6c4b5bef07b361307be73e00d817f6529f6c"/>
 	</game>
+	<game name="Dungeon Crawler System for GB Studio (2019-06-23)(Toxworks)">
+		<description>Dungeon Crawler System for GB Studio (2019-06-23)(Toxworks)</description>
+		<rom name="Dungeon Crawler System for GB Studio (2019-06-23)(Toxworks).gb" size="1048576" crc="c82ffac4" md5="f530308d66be908873e80a5f87fffa59" sha1="84c823376ef9b70554e402274afd09ce6659307b"/>
+	</game>
 	<game name="Explosion Animation (2021-10-02)(Rattenb0y)">
 		<description>Explosion Animation (2021-10-02)(Rattenb0y)</description>
 		<rom name="Explosion Animation (2021-10-02)(Rattenb0y).gb" size="65536" crc="d014bef7" md5="d589a757bfd5d23234f28c853f622766" sha1="95ff566fee3f39180decbce31e0d3728361c6312"/>
@@ -155,6 +159,10 @@
 	<game name="GB-Decompress test (2020-09-07)(Toxa)(MIT)">
 		<description>GB-Decompress test (2020-09-07)(Toxa)(MIT)</description>
 		<rom name="GB-Decompress test (2020-09-07)(Toxa)(MIT).gb" size="65536" crc="2d1a4609" md5="01949269ecd9ffc08d2854ec083a7f4d" sha1="0af94dca6007c2afe4e182af5b0450ca2c7f8dbb"/>
+	</game>
+	<game name="gb-vwf demo (2024-06-20)(ISSOtm)(PD)">
+		<description>gb-vwf demo (2024-06-20)(ISSOtm)(PD)</description>
+		<rom name="gb-vwf demo (2024-06-20)(ISSOtm)(PD).gb" size="65536" crc="0a8358e4" md5="647d9f06ed7672ffa8f8c152b80238d7" sha1="639c5aa05a648e7603615e1443c8cf426a9aad83"/>
 	</game>
 	<game name="GB_OS (2021-01-21)(TheFallenWarrior)">
 		<description>GB_OS (2021-01-21)(TheFallenWarrior)</description>
@@ -224,6 +232,14 @@
 		<description>Man meets machine - Alternative Party 2009 (2009)(Jumalauta)</description>
 		<rom name="Man meets machine - Alternative Party 2009 (2009)(Jumalauta).gb" size="131072" crc="f945605d" md5="0ae847ba47b9a4da5c932e689179ba89" sha1="9bfd13cd0fb0bedca57a4bf5e773fa2629e6348e"/>
 	</game>
+	<game name="Menu-Inventory System for GB Studio (2019-06-06)(Toxworks)">
+		<description>Menu-Inventory System for GB Studio (2019-06-06)(Toxworks)</description>
+		<rom name="Menu-Inventory System for GB Studio (2019-06-06)(Toxworks).gb" size="1048576" crc="03e3f414" md5="fb991da9e249c60af7fd6f7d34b84f40" sha1="5e24d964a80ea7d37fd91839c3b20af3173972dd"/>
+	</game>
+	<game name="Menu-Inventory System for GB Studio (2019-06-28)(Toxworks)">
+		<description>Menu-Inventory System for GB Studio (2019-06-28)(Toxworks)</description>
+		<rom name="Menu-Inventory System for GB Studio (2019-06-28)(Toxworks).gb" size="1048576" crc="c6e8b529" md5="7930d620d4a87b5732e51c50eb16d46b" sha1="042c455e17df365103e4c43f92651f21ac7c51f5"/>
+	</game>
 	<game name="Merken (2020)(Bitnenfer)">
 		<description>Merken (2020)(Bitnenfer)</description>
 		<rom name="Merken (2020)(Bitnenfer).gb" size="131072" crc="1aa43244" md5="a09ff40f538a572ba07cba1106745918" sha1="4d8cf28230c2b48d957cda829a51315cf6590002"/>
@@ -272,6 +288,10 @@
 		<description>Pocket Gallery v1.0 (2020-07-01)(LowResolutionBoy)(es)</description>
 		<rom name="Pocket Gallery v1.0 (2020-07-01)(LowResolutionBoy)(es).gb" size="1048576" crc="fe98b7e8" md5="828725664353283f1465fb90653190dc" sha1="5672758d501792d6b32f99dd78103c70f5a790c0"/>
 	</game>
+	<game name="Portal Gun System for GB Studio (2019-07-01)(Toxworks)">
+		<description>Portal Gun System for GB Studio (2019-07-01)(Toxworks)</description>
+		<rom name="Portal Gun System for GB Studio (2019-07-01)(Toxworks).gb" size="1048576" crc="6f3436ce" md5="0238c3463ee79396d574a3f3220f3d25" sha1="d20ddb6f7f077e8d6ceede9bac4aba0ff36a1ef0"/>
+	</game>
 	<game name="Pre-Teen Wasteland v1 (2021-09-30)(sloopygoop)">
 		<description>Pre-Teen Wasteland v1 (2021-09-30)(sloopygoop)</description>
 		<rom name="Pre-Teen Wasteland v1 (2021-09-30)(sloopygoop).gb" size="524288" crc="2ad5181a" md5="4011e6e5a70064a1c860dc503858d47c" sha1="1acb1b48050aade1d4a8b66107eaff7639717750"/>
@@ -315,6 +335,14 @@
 	<game name="Rose's Peanut Cutscene &amp; Title Screen (2021-06-16)(Oakland, Max)">
 		<description>Rose's Peanut Cutscene &amp; Title Screen (2021-06-16)(Oakland, Max)</description>
 		<rom name="Rose's Peanut Cutscene &amp; Title Screen (2021-06-16)(Oakland, Max).gb" size="262144" crc="32d89e18" md5="36a817d40b51a60faf92463e27cadeef" sha1="f1b1595ce1eb0ae75cc5ffb9796025398f1b3fd8"/>
+	</game>
+	<game name="Sailor Moon Demo (19xx)(-)">
+		<description>Sailor Moon Demo (19xx)(-)</description>
+		<rom name="Sailor Moon Demo (19xx)(-).gb" size="32768" crc="97279f9a" md5="daa6d93e3de81c438f9fb60abb4d9b21" sha1="2adf0cca27e06ad6ca59bd2b117d0d4e28f8559f"/>
+	</game>
+	<game name="Sailor Super V (19xx)(adf cyt)">
+		<description>Sailor Super V (19xx)(adf cyt)</description>
+		<rom name="Sailor Super V (19xx)(adf cyt).gb" size="262144" crc="5fd5b876" md5="56226499481bf75ac9e54e71b62f07c8" sha1="3ba0e406632d18ee3b9447e19a9b7e70e1118f63"/>
 	</game>
 	<game name="sample_player test (2021-03-10)(Toxa)(MIT)">
 		<description>sample_player test (2021-03-10)(Toxa)(MIT)</description>
@@ -388,9 +416,21 @@
 		<description>Terminator II - Jugement Day (1998)(MegaMan_X)</description>
 		<rom name="Terminator II - Jugement Day (1998)(MegaMan_X).gb" size="1048576" crc="ca9c9710" md5="8151853b8b0b0b610afe2c4c0dde7e7e" sha1="3f2909ce8b43955842a68779e0b9ae061385d09a"/>
 	</game>
+	<game name="Text-Input System for GB Studio (2019-06-28)(Toxworks)">
+		<description>Text-Input System for GB Studio (2019-06-28)(Toxworks)</description>
+		<rom name="Text-Input System for GB Studio (2019-06-28)(Toxworks).gb" size="1048576" crc="1d09ba59" md5="95e7e1952580a71c244abf0f0b5b302d" sha1="766b5dbfc8932cddff2da3fd87364097d48a086a"/>
+	</game>
 	<game name="This Side Up (2004)(amuQ Creations)">
 		<description>This Side Up (2004)(amuQ Creations)</description>
 		<rom name="This Side Up (2004)(amuQ Creations).gb" size="131072" crc="de998021" md5="d7be1cedf89c34b88e8f17cb93c329e6" sha1="b58b0f6ac05f2e506258a8085ff9f0a2a488e5e4"/>
+	</game>
+	<game name="Turn-Battle System (2019-06-20)(Toxworks)">
+		<description>Turn-Battle System (2019-06-20)(Toxworks)</description>
+		<rom name="Turn-Battle System (2019-06-20)(Toxworks).gb" size="1048576" crc="574ddcdc" md5="1d200c0aaaa9ea5cf515bca822d9b920" sha1="da7e36f4b2a02676b49a45f126bcdfdfb138718f"/>
+	</game>
+	<game name="Turn-Battle System (2019-06-28)(Toxworks)">
+		<description>Turn-Battle System (2019-06-28)(Toxworks)</description>
+		<rom name="Turn-Battle System (2019-06-28)(Toxworks).gb" size="1048576" crc="0a468450" md5="475113e22792e8fd1f3ad79cacea2537" sha1="ba010e303eb891a3e3eef940f421b1b24994c333"/>
 	</game>
 	<game name="Unearthed OST (2021-11-07)(GumpyFunction - Jelter, Ben)">
 		<description>Unearthed OST (2021-11-07)(GumpyFunction - Jelter, Ben)</description>
@@ -431,6 +471,10 @@
 	<game name="Zilogized (2021)(Kabcorp)">
 		<description>Zilogized (2021)(Kabcorp)</description>
 		<rom name="Zilogized (2021)(Kabcorp).gb" size="32768" crc="34fef5f7" md5="b3637ad7edb732f19fa8de074b866042" sha1="cd98c8dfda640f5080038e52fb4f13399de725e3"/>
+	</game>
+	<game name="Zoomar (19xx)(-)">
+		<description>Zoomar (19xx)(-)</description>
+		<rom name="Zoomar (19xx)(-).gb" size="32768" crc="76d26c54" md5="4db1804aaa6763e108b81daaa9c6c2c7" sha1="76cae65f17be4ee8dd5417134c838e829d2e7c34"/>
 	</game>
 	<game name="МИР (2022-03-02)(S_TN)">
 		<description>МИР (2022-03-02)(S_TN)</description>

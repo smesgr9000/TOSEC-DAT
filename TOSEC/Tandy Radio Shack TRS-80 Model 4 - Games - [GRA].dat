@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Games - [GRA]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Games - [GRA] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hangman (19xx)(-)[a][GRA]">
+		<description>Hangman (19xx)(-)[a][GRA]</description>
+		<rom name="HANGMANN.GRA" size="6812" crc="01a87a97" md5="431a9526a9b14cd1b82d9696095ddcb1" sha1="259a32d1710795e6ee92e86c30559da39cdd4da6"/>
+	</game>
+	<game name="Hangman (19xx)(-)[GRA]">
+		<description>Hangman (19xx)(-)[GRA]</description>
+		<rom name="HANGMAN.GRA" size="8916" crc="40d14483" md5="2401902e5c6e9f41fca56679d7068f67" sha1="221ba16b95a9c53abd8c26aea55717ae656874c2"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Panic Playdate - Demos</name>
+		<description>Panic Playdate - Demos (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Everybody Wants to Crank the World (2024-05)(Nesnausk!)">
+		<description>Everybody Wants to Crank the World (2024-05)(Nesnausk!)</description>
+		<rom name="BlueNoise.tga" size="96044" crc="e672c35b" md5="d38c22af3f4d1e7a6fbd6f054eb9e787" sha1="9c3118ddec1938121979094dff93c56b885872bd"/>
+		<rom name="music.pda" size="3151890" crc="fcb40c11" md5="f9f1b472e6e70ccc77f4b038e61f0f64" sha1="0612741933287a367b91e783ed34daa322b60063"/>
+		<rom name="pdex.bin" size="14172" crc="4a9cad03" md5="4220100549d92adbb7bbc14633b60cd6" sha1="bdefa0f2109279f4c92930cb0397debe1e0a6f87"/>
+		<rom name="pdex.dll" size="40448" crc="b3b89942" md5="d37cc6b1d1079d132a9066352e557d8d" sha1="b8f050142a45d911c1173a91ccf20735cbf91329"/>
+		<rom name="pdxinfo" size="248" crc="f002877d" md5="b05284b23c17d2fa204b8155302a415a" sha1="72fb1f659a54cd34d7f09240dbdb55103b3f64ec"/>
+		<rom name="sys_img\card.pdi" size="6030" crc="d0dbb495" md5="f61dfe836565ef27f74614e9655a08ee" sha1="9b7619c63eff1fd7bfa86b3d83c2600cd3a06fd8"/>
+		<rom name="sys_img\icon.pdi" size="141" crc="40189f57" md5="c126e780df6403d13b02e5e741e351d8" sha1="dec5f13a2fdf4ef6d62b3740a12926698e59a2e0"/>
+		<rom name="text_crank.pdi" size="1628" crc="d5a5cadd" md5="4d8d843bdf4e7ec21a714597386338f0" sha1="d1ca40ec874414ce0b5e303e30a6c8d10c13b0d2"/>
+		<rom name="text_everybody.pdi" size="1265" crc="82b63896" md5="c6dbf5069e60ec68e9ff9fade9f496cf" sha1="9eb5e32be9a7513be44960e09b030b7527509ac5"/>
+		<rom name="text_instr.pdi" size="765" crc="9d1ebc26" md5="8db6dde3cd11954c38e57a1ab67910d0" sha1="510590e291d222e1e8248aec20a7eaa79ac912aa"/>
+		<rom name="text_logo.pdi" size="225" crc="ac41df08" md5="194d5507bbf36dcf59c4bf2be4e344e9" sha1="ef8821529be98c1dda50700a8d226103eb27ce59"/>
+		<rom name="text_theworld.pdi" size="985" crc="4d9b58bb" md5="96a5b9e09b33817d40254fd4024e0c75" sha1="d70765be09d09305a3ed4372fcb59f5889646712"/>
+		<rom name="text_wantsto.pdi" size="1051" crc="528626fd" md5="16c9d45238dcac574dad505c1a30985d" sha1="aab2ab2d11dbb2f3586ad3cd9926c36d4f78d4a0"/>
+	</game>
+</datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>NEC PC-8801 - Games - [WAV]</name>
-		<description>NEC PC-8801 - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<description>NEC PC-8801 - Games - [WAV] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2022-06-08</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -32,6 +32,10 @@
 		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]</description>
 		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny].wav" size="2972099" crc="b501678c" md5="30d8f33353234ccf6a597d768aa3c824" sha1="7c0ce19464d72ef97ee1304a350fc175a491a92d"/>
 	</game>
+	<game name="Cross Trex (2024-10-17)(Caruso, Fabrizio)">
+		<description>Cross Trex (2024-10-17)(Caruso, Fabrizio)</description>
+		<rom name="Cross Trex (2024-10-17)(Caruso, Fabrizio).wav" size="4554908" crc="08a31539" md5="84dc22ceb52577627f7cabb605f29b25" sha1="2c2b819de03fb16ee107b17eebb706fe7c869dd9"/>
+	</game>
 	<game name="Mazy (2021-03-22)(Inufuto)(mkII)(JP)">
 		<description>Mazy (2021-03-22)(Inufuto)(mkII)(JP)</description>
 		<rom name="Mazy (2021-03-22)(Inufuto)(mkII)(JP).wav" size="2427756" crc="fa0f71d3" md5="20afd6a61cc18b0609afeba0a9cf1ac0" sha1="62c5021282787be0b76f0326ac3272a19a74dcda"/>
@@ -47,5 +51,9 @@
 	<game name="Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP)">
 		<description>Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP)</description>
 		<rom name="Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP).wav" size="5886380" crc="798fb8e2" md5="393a0f1c6fde59e2c08b562d4087de79" sha1="75ea25aa5c09aa60290708b8ec5cb065bd26b27b"/>
+	</game>
+	<game name="Stinger (2023-11-06)(Caruso, Fabrizio)">
+		<description>Stinger (2023-11-06)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-11-06)(Caruso, Fabrizio).wav" size="8079626" crc="35da3aef" md5="63127d825f1e80da20d531810c7f507f" sha1="7372dcf7ed665906ec08b5c3c29cb058b9d2b9c6"/>
 	</game>
 </datafile>

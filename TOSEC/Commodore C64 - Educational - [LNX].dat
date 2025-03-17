@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Educational - [LNX]</name>
-		<description>Commodore C64 - Educational - [LNX] (TOSEC-v2024-03-11)</description>
+		<description>Commodore C64 - Educational - [LNX] (TOSEC-v2025-01-05)</description>
 		<category>TOSEC</category>
-		<version>2024-03-11</version>
+		<version>2025-01-05</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -72,17 +72,17 @@
 		<description>Amorphous (1994)(M&amp;P Software)[cr AVT][f NTSC-PAL Byronic][t +4 AVT][Z64 Part 1-4]</description>
 		<rom name="Amorphous (1994)(M&amp;P Software)[cr AVT][f NTSC-PAL Byronic][t +4 AVT][Z64 Part 1-4].lnx" size="62939" crc="f45e5626" md5="53e21985cd7e2b8addb8f5c805113f0d" sha1="af1a2d01feb1d7f8429425b33e168c3f51ee163e"/>
 	</game>
-	<game name="Angle (1991)(Double Density)[cr Hysteric]">
-		<description>Angle (1991)(Double Density)[cr Hysteric]</description>
-		<rom name="Angle (1991)(Double Density)[cr Hysteric].lnx" size="25394" crc="9f1f911c" md5="4548cd52948730b3ba709a830dd13783" sha1="834dc5e26b7ed2c62ab4534734cd8e2e98d87afe"/>
+	<game name="Angle (1992)(Double Density)[cr Hysteric]">
+		<description>Angle (1992)(Double Density)[cr Hysteric]</description>
+		<rom name="Angle (1992)(Double Density)[cr Hysteric].lnx" size="25394" crc="9f1f911c" md5="4548cd52948730b3ba709a830dd13783" sha1="834dc5e26b7ed2c62ab4534734cd8e2e98d87afe"/>
 	</game>
-	<game name="Angle (1992)(-)[h Hitmen]">
-		<description>Angle (1992)(-)[h Hitmen]</description>
-		<rom name="Angle (1992)(-)[h Hitmen].lnx" size="23749" crc="7533d007" md5="e37defd118537cbeece544e645a017bf" sha1="f6e385c024436fd1486b736ade8bdffc1cbb9831"/>
+	<game name="Angle (1992)(Double Density)[h Hitmen]">
+		<description>Angle (1992)(Double Density)[h Hitmen]</description>
+		<rom name="Angle (1992)(Double Density)[h Hitmen].lnx" size="23749" crc="7533d007" md5="e37defd118537cbeece544e645a017bf" sha1="f6e385c024436fd1486b736ade8bdffc1cbb9831"/>
 	</game>
-	<game name="Angle (1992)(-)[h Vision]">
-		<description>Angle (1992)(-)[h Vision]</description>
-		<rom name="Angle (1992)(-)[h Vision].lnx" size="25850" crc="b6b99501" md5="b03393b7f05dfbbb930d9050030c51a7" sha1="b8c17b719e79263864b6fad5601b42030b047378"/>
+	<game name="Angle (1992)(Double Density)[h Vision]">
+		<description>Angle (1992)(Double Density)[h Vision]</description>
+		<rom name="Angle (1992)(Double Density)[h Vision].lnx" size="25850" crc="b6b99501" md5="b03393b7f05dfbbb930d9050030c51a7" sha1="b8c17b719e79263864b6fad5601b42030b047378"/>
 	</game>
 	<game name="Antrock (19xx)(Contrive Section)[cr CHR][f Aristocracy]">
 		<description>Antrock (19xx)(Contrive Section)[cr CHR][f Aristocracy]</description>
@@ -103,6 +103,10 @@
 	<game name="Ashido (1995)(Timsoft)[cr AVT][t +3 AVT][LNX]">
 		<description>Ashido (1995)(Timsoft)[cr AVT][t +3 AVT][LNX]</description>
 		<rom name="Ashido (1995)(Timsoft)[cr AVT][t +3 AVT][LNX].lnx" size="38417" crc="4e17a3b3" md5="f2b23820ec7f269de2c1630e6899205c" sha1="e6a49e7090fd4fa688f75f725c78f86767a16e5a"/>
+	</game>
+	<game name="Atom X (1991)(Markt &amp; Technik)[cr ULT]">
+		<description>Atom X (1991)(Markt &amp; Technik)[cr ULT]</description>
+		<rom name="Atom X (1991)(Markt &amp; Technik)[cr ULT].lnx" size="12902" crc="7a350be4" md5="66449e7289294d801bf6d1a28f9e0a3b" sha1="b56d7ea4c04b20815190701532707b519b6f0695"/>
 	</game>
 	<game name="Baffle (demo) (1994)(LK Avalon)[cr ONS]">
 		<description>Baffle (demo) (1994)(LK Avalon)[cr ONS]</description>
@@ -300,21 +304,21 @@
 		<description>Chemical (1993)(Markt &amp; Technik)[cr EXC][t +2 EXC]</description>
 		<rom name="Chemical (1993)(Markt &amp; Technik)[cr EXC][t +2 EXC].lnx" size="9766" crc="a1526e8c" md5="007821b27753c9b63da8e5a5b4f4cd16" sha1="5a650a8013b23b6814135859e5223a334f15a710"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr CHR][t +2 CHR]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr CHR][t +2 CHR]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr CHR][t +2 CHR].lnx" size="21892" crc="a22e0c2d" md5="38875faae151faaa1c549170475fe96d" sha1="8a7abd7a54049345f78400d246a7fab1dbad9f56"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr CHR][t +2 CHR]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr CHR][t +2 CHR]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr CHR][t +2 CHR].lnx" size="21892" crc="a22e0c2d" md5="38875faae151faaa1c549170475fe96d" sha1="8a7abd7a54049345f78400d246a7fab1dbad9f56"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr CHR][t +2 CHR][a]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr CHR][t +2 CHR][a]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr CHR][t +2 CHR][a].lnx" size="21892" crc="8a54c693" md5="36cff97986c072086b3a3b301c0485b2" sha1="6e3b36f29047657da0e5c5fae4560234e0067d95"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr CHR][t +2 CHR][a]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr CHR][t +2 CHR][a]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr CHR][t +2 CHR][a].lnx" size="21892" crc="8a54c693" md5="36cff97986c072086b3a3b301c0485b2" sha1="6e3b36f29047657da0e5c5fae4560234e0067d95"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr CHR][t +5 CHR]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr CHR][t +5 CHR]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr CHR][t +5 CHR].lnx" size="16576" crc="23907302" md5="2eb35ce811b893cbd96636d760d6d672" sha1="ea3ecff8ab3ae9160cd974d881f56304737caf67"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr CHR][t +5 CHR]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr CHR][t +5 CHR]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr CHR][t +5 CHR].lnx" size="16576" crc="23907302" md5="2eb35ce811b893cbd96636d760d6d672" sha1="ea3ecff8ab3ae9160cd974d881f56304737caf67"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC].lnx" size="22638" crc="256da434" md5="adcc92401a2fd59de1ac377abca67647" sha1="06628407b4d88bf934a20877d18dfe10e74a8454"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC].lnx" size="22638" crc="256da434" md5="adcc92401a2fd59de1ac377abca67647" sha1="06628407b4d88bf934a20877d18dfe10e74a8454"/>
 	</game>
 	<game name="Circuit (1990)(Markt &amp; Technik)[cr M8][t +1 M8]">
 		<description>Circuit (1990)(Markt &amp; Technik)[cr M8][t +1 M8]</description>
@@ -332,17 +336,17 @@
 		<description>Cloux (1997)(Normality)[cr F4CG]</description>
 		<rom name="Cloux (1997)(Normality)[cr F4CG].lnx" size="26658" crc="e07510d7" md5="8d0ea9f8060ba7a38f500b2fa672578c" sha1="3803c6beae8f118b22f89cde9684047bfa4ac356"/>
 	</game>
-	<game name="Colee (19xx)(Magna Media)[cr Hitmen][t +1 Hitmen]">
-		<description>Colee (19xx)(Magna Media)[cr Hitmen][t +1 Hitmen]</description>
-		<rom name="Colee (19xx)(Magna Media)[cr Hitmen][t +1 Hitmen].lnx" size="33659" crc="182ab55e" md5="21cd2e0494a9b25fb2e7ff43613c75fd" sha1="e31b4d76ead1c6e9236b850345db0e7e7e7d52f7"/>
+	<game name="Colee (1997)(Magna Media)[cr Hitmen][t +1 Hitmen]">
+		<description>Colee (1997)(Magna Media)[cr Hitmen][t +1 Hitmen]</description>
+		<rom name="Colee (1997)(Magna Media)[cr Hitmen][t +1 Hitmen].lnx" size="33659" crc="182ab55e" md5="21cd2e0494a9b25fb2e7ff43613c75fd" sha1="e31b4d76ead1c6e9236b850345db0e7e7e7d52f7"/>
 	</game>
-	<game name="Colee (19xx)(Magna Media)[cr LXT][t +3 LXT]">
-		<description>Colee (19xx)(Magna Media)[cr LXT][t +3 LXT]</description>
-		<rom name="Colee (19xx)(Magna Media)[cr LXT][t +3 LXT].lnx" size="30865" crc="9bedc586" md5="bbe5535c85a07d8e15f0017c68a51bdb" sha1="f67e0d4e17abb866e975b551d3d2ba5dc413eab7"/>
+	<game name="Colee (1997)(Magna Media)[cr LXT][t +3 LXT]">
+		<description>Colee (1997)(Magna Media)[cr LXT][t +3 LXT]</description>
+		<rom name="Colee (1997)(Magna Media)[cr LXT][t +3 LXT].lnx" size="30865" crc="9bedc586" md5="bbe5535c85a07d8e15f0017c68a51bdb" sha1="f67e0d4e17abb866e975b551d3d2ba5dc413eab7"/>
 	</game>
-	<game name="Colee (demo) (19xx)(Magna Media)[cr F4CG][t +3 F4CG]">
-		<description>Colee (demo) (19xx)(Magna Media)[cr F4CG][t +3 F4CG]</description>
-		<rom name="Colee (demo) (19xx)(Magna Media)[cr F4CG][t +3 F4CG].lnx" size="21467" crc="ec1a3c27" md5="289c8e1a2c9399dd1fc8a14a9bd04f5b" sha1="8011b140ec6453760a19c8156125a9d7b6a7b956"/>
+	<game name="Colee (demo) (1997)(Magna Media)[cr F4CG][t +3 F4CG]">
+		<description>Colee (demo) (1997)(Magna Media)[cr F4CG][t +3 F4CG]</description>
+		<rom name="Colee (demo) (1997)(Magna Media)[cr F4CG][t +3 F4CG].lnx" size="21467" crc="ec1a3c27" md5="289c8e1a2c9399dd1fc8a14a9bd04f5b" sha1="8011b140ec6453760a19c8156125a9d7b6a7b956"/>
 	</game>
 	<game name="Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC]">
 		<description>Colora 2 - The Revenge of the Stones (1995)(CP Verlag)[cr AVT][f NTSC]</description>
@@ -584,6 +588,10 @@
 		<description>Eoroid (1993)(LK Avalon)[cr TBT]</description>
 		<rom name="Eoroid (1993)(LK Avalon)[cr TBT].lnx" size="7681" crc="7a8c11ed" md5="ef388da8738917d61ff8d57968431af6" sha1="3f76908b3f351a69e5a72618af9d28238ea7fb27"/>
 	</game>
+	<game name="Erotica (demo) (1995)(Cybertech)[h SCS+TRC &amp; Digital Dungeon]">
+		<description>Erotica (demo) (1995)(Cybertech)[h SCS+TRC &amp; Digital Dungeon]</description>
+		<rom name="Erotica (demo) (1995)(Cybertech)[h SCS+TRC &amp; Digital Dungeon].lnx" size="21258" crc="23a120b0" md5="8faef00599ebef75135626d5cbc82799" sha1="f79ee773b0e0c82c179b87079e5479dd3537e581"/>
+	</game>
 	<game name="Exor (1989)(Markt &amp; Technik)">
 		<description>Exor (1989)(Markt &amp; Technik)</description>
 		<rom name="Exor (1989)(Markt &amp; Technik).lnx" size="2972" crc="46831e3f" md5="7e5c873d8e6aae309ff53db10aafd316" sha1="cd5622bb9ce5a1c71b6aa7864e37df58637a5931"/>
@@ -732,13 +740,13 @@
 		<description>Hangman II (1992)(CP Verlag)[cr Rappellkiste]</description>
 		<rom name="Hangman II (1992)(CP Verlag)[cr Rappellkiste].lnx" size="15255" crc="50c5312f" md5="166ac3eb4600e2aad0fd9722013320de" sha1="dbdc286ae384aff658607f18acc5a80dcfa0db03"/>
 	</game>
-	<game name="Hi Ska Do (1991)(CP Verlag)[cr Extacy]">
-		<description>Hi Ska Do (1991)(CP Verlag)[cr Extacy]</description>
-		<rom name="Hi Ska Do (1991)(CP Verlag)[cr Extacy].lnx" size="31972" crc="b5dd40bb" md5="df2cada230e166cf26c52877be845cdf" sha1="5407db32bed41a80caf71a40f23ab67db1b09d31"/>
+	<game name="Hi Ska Do (1991)(Kokomo)[cr Extacy]">
+		<description>Hi Ska Do (1991)(Kokomo)[cr Extacy]</description>
+		<rom name="Hi Ska Do (1991)(Kokomo)[cr Extacy].lnx" size="31972" crc="b5dd40bb" md5="df2cada230e166cf26c52877be845cdf" sha1="5407db32bed41a80caf71a40f23ab67db1b09d31"/>
 	</game>
-	<game name="Hi Ska Do (1991)(CP Verlag)[cr Laser]">
-		<description>Hi Ska Do (1991)(CP Verlag)[cr Laser]</description>
-		<rom name="Hi Ska Do (1991)(CP Verlag)[cr Laser].lnx" size="26638" crc="dd4ff912" md5="690d4db32cb1e71a00ea60485661840d" sha1="00fb95ed4a1ea4f24fdc2aa6305b45195dc44cd1"/>
+	<game name="Hi Ska Do (1991)(Kokomo)[cr Laser]">
+		<description>Hi Ska Do (1991)(Kokomo)[cr Laser]</description>
+		<rom name="Hi Ska Do (1991)(Kokomo)[cr Laser].lnx" size="26638" crc="dd4ff912" md5="690d4db32cb1e71a00ea60485661840d" sha1="00fb95ed4a1ea4f24fdc2aa6305b45195dc44cd1"/>
 	</game>
 	<game name="Hyper Aggressive (1992)(CP Verlag - Game On)[cr Device]">
 		<description>Hyper Aggressive (1992)(CP Verlag - Game On)[cr Device]</description>
@@ -907,6 +915,10 @@
 	<game name="Magiers Kugel, Des (1992)(CP Verlag)[cr Cadgers]">
 		<description>Magiers Kugel, Des (1992)(CP Verlag)[cr Cadgers]</description>
 		<rom name="Magiers Kugel, Des (1992)(CP Verlag)[cr Cadgers].lnx" size="21644" crc="a440e1d7" md5="2fecd9ec4b2cab1b99170aebd140948a" sha1="4763bb92b70c15ccf4ea4382aab2ed4f05783b37"/>
+	</game>
+	<game name="Magiers Kugel, Des (1992)(CP Verlag)[cr Success]">
+		<description>Magiers Kugel, Des (1992)(CP Verlag)[cr Success]</description>
+		<rom name="Magiers Kugel, Des (1992)(CP Verlag)[cr Success].lnx" size="28159" crc="3bc98a4a" md5="103ab609a4e550ced42d4a5850e660ca" sha1="a79029465eacdfbb2c56be8980b05b75fc29cfc1"/>
 	</game>
 	<game name="Mah Gong - Special Edition (1998)(Computer Workshops)[cr ORI]">
 		<description>Mah Gong - Special Edition (1998)(Computer Workshops)[cr ORI]</description>
@@ -1539,6 +1551,10 @@
 	<game name="Thepsos (1995)(Magna Media)[cr F4CG][a]">
 		<description>Thepsos (1995)(Magna Media)[cr F4CG][a]</description>
 		<rom name="Thepsos (1995)(Magna Media)[cr F4CG][a].lnx" size="29056" crc="87dd9c12" md5="ac4eccc9dc85d37f6202fa79ae24f828" sha1="8d333e64a1853c3658bdf8049129fba86bd8f248"/>
+	</game>
+	<game name="Threestone (1997)(Ascraeus Productions)[cr ONS]">
+		<description>Threestone (1997)(Ascraeus Productions)[cr ONS]</description>
+		<rom name="Threestone (1997)(Ascraeus Productions)[cr ONS].lnx" size="20444" crc="66e25ab0" md5="132423b9bdd1de627111f78199525e30" sha1="f5b3cd2fd9903e9577e58b407c7a6e0fe80780fd"/>
 	</game>
 	<game name="Tile - The Revenge (1995)(Explosive Design)[cr PAN]">
 		<description>Tile - The Revenge (1995)(Explosive Design)[cr PAN]</description>

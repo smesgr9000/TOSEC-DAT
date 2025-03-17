@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Sega Game Gear - Games</name>
-		<description>Sega Game Gear - Games (TOSEC-v2024-01-15)</description>
+		<description>Sega Game Gear - Games (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>Cassiel - Cid - SkyBaby - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -452,6 +452,14 @@
 		<description>Bonkers Wax Up! (1994-12-12)(Sega)(EU-US)(beta)</description>
 		<rom name="Bonkers Wax Up! (1994-12-12)(Sega)(EU-US)(beta).bin" size="524288" crc="6d295894" md5="6638615230ec32b4481ab2a1f000f28d" sha1="368286ded1662eddfff056ad77583d62ce83f58b"/>
 	</game>
+	<game name="BreakThru! (1994)(Spectrum HoloByte)(proto)">
+		<description>BreakThru! (1994)(Spectrum HoloByte)(proto)</description>
+		<rom name="BreakThru! (1994)(Spectrum HoloByte)(proto).gg" size="131072" crc="64d7a694" md5="7001220efdf95c6e02f9ff43960436ac" sha1="571bd543320bc67c4103630c804705955bc5250a"/>
+	</game>
+	<game name="BreakThru! (1994)(Spectrum HoloByte)(proto)[f timing bug Calindro]">
+		<description>BreakThru! (1994)(Spectrum HoloByte)(proto)[f timing bug Calindro]</description>
+		<rom name="BreakThru! (1994)(Spectrum HoloByte)(proto)[f timing bug Calindro].gg" size="131072" crc="6edd48a6" md5="73ebc0f50e8623fb45fb558c2bf24bef" sha1="3b63f4f4f7ba154eb147125e0913baedd33de789"/>
+	</game>
 	<game name="Bubble Bobble (1994-11)(Taito)(US)">
 		<description>Bubble Bobble (1994-11)(Taito)(US)</description>
 		<rom name="Bubble Bobble (1994-11)(Taito)(US).bin" size="262144" crc="fba338c5" md5="4f08cab3e252c2e3979ef33e9e59f294" sha1="c2c99d798bd0d4960021743a55e74644ad9020c6"/>
@@ -535,6 +543,10 @@
 	<game name="Chicago Syndicate (1995)(Sega)(BR-US)">
 		<description>Chicago Syndicate (1995)(Sega)(BR-US)</description>
 		<rom name="Chicago Syndicate (1995)(Sega)(BR-US).bin" size="524288" crc="6b0fcec3" md5="a51438e3ba8c78df665df05b6310a38a" sha1="d7746e4c78aa86bc698fc25a52a791ba27a71add"/>
+	</game>
+	<game name="Chicago Syndicate (1995-03-20)(Sega)(BR-US)(proto)">
+		<description>Chicago Syndicate (1995-03-20)(Sega)(BR-US)(proto)</description>
+		<rom name="Chicago Syndicate (1995-03-20)(Sega)(BR-US)(proto).gg" size="524288" crc="64f17cac" md5="788aa0241b03b64cc885a20e49151daf" sha1="475d071662a326e931aca78abbd9c7e27d6595c0"/>
 	</game>
 	<game name="Chicago Syndicate (1995-05-05)(Sega)(BR-US)(beta)">
 		<description>Chicago Syndicate (1995-05-05)(Sega)(BR-US)(beta)</description>
@@ -912,6 +924,10 @@
 		<description>Dynamite Headdy (1994)(Sega)</description>
 		<rom name="Dynamite Headdy (1994)(Sega).bin" size="524288" crc="610ff95c" md5="2da61f019f30eb0795cfd6eb9d5b54c6" sha1="a8c8b5252a885d466e044e6055336513d988e661"/>
 	</game>
+	<game name="Dynamite Headdy (1994)(Sega)(proto)">
+		<description>Dynamite Headdy (1994)(Sega)(proto)</description>
+		<rom name="Dynamite Headdy (1994)(Sega)(proto).gg" size="524288" crc="843556b1" md5="1b5883c2b693c60177724c0ccca60866" sha1="1f5628e2aa21a3ede186297062caaa400dec2ea2"/>
+	</game>
 	<game name="Dynamite Headdy (1994)(Sega)[b]">
 		<description>Dynamite Headdy (1994)(Sega)[b]</description>
 		<rom name="Dynamite Headdy (1994)(Sega)[b].bin" size="524288" crc="73dd5d0c" md5="78b06c736bdaf46b09ae5629c0deec35" sha1="f624e097e199a185963ded70441743d9db96d98f"/>
@@ -1223,6 +1239,10 @@
 	<game name="GG Shinobi, The Rev 1 (2012-03-14)(Sega)[Virtual Console]">
 		<description>GG Shinobi, The Rev 1 (2012-03-14)(Sega)[Virtual Console]</description>
 		<rom name="GG Shinobi, The Rev 1 (2012-03-14)(Sega)[Virtual Console].bin" size="262144" crc="b62d934a" md5="a0c373a38ec4271ac42ec99afa2a6be3" sha1="9ad7313da97ef00463800199ab9e4e6f39fbcb0d"/>
+	</game>
+	<game name="Global Golf (1994-06-20)(Codemasters)(proto)[AKA Ernie Els Golf]">
+		<description>Global Golf (1994-06-20)(Codemasters)(proto)[AKA Ernie Els Golf]</description>
+		<rom name="Global Golf (1994-06-20)(Codemasters)(proto)[AKA Ernie Els Golf].bin" size="262144" crc="abbd0222" md5="022cfa638256560c60b4bcb292c63246" sha1="b80e3d931c437b94bb5ef535df59cdb4cfa09400"/>
 	</game>
 	<game name="Godzilla - Kaiju Dai Shingeki (1995)(Sega)(JP)(en-ja)">
 		<description>Godzilla - Kaiju Dai Shingeki (1995)(Sega)(JP)(en-ja)</description>
@@ -1752,6 +1772,14 @@
 		<description>Mappy (1991)(Namco)(JP)[h]</description>
 		<rom name="Mappy (1991)(Namco)(JP)[h].bin" size="131072" crc="dd03e6de" md5="b5933b2c022367084ef59adcc713cc75" sha1="708cb112c63e3171ea86e8ffe06a80c93f17a241"/>
 	</game>
+	<game name="Mappy (1991)(Namco)(JP)[tr en Maxim][v1.0]">
+		<description>Mappy (1991)(Namco)(JP)[tr en Maxim][v1.0]</description>
+		<rom name="Mappy (1991)(Namco)(JP)[tr en Maxim][v1.0].gg" size="131072" crc="56c67e13" md5="d7692d8897b71ee130c4f0abe4a02182" sha1="956913c21b50adeb0d202e991d03cc805f204e2b"/>
+	</game>
+	<game name="Mappy (1991)(Namco)(JP)[tr en Maxim][v1.1]">
+		<description>Mappy (1991)(Namco)(JP)[tr en Maxim][v1.1]</description>
+		<rom name="Mappy (1991)(Namco)(JP)[tr en Maxim][v1.1].gg" size="131072" crc="1e9e53d5" md5="6ecd2a31df349fab262a6d0d49b7126e" sha1="af7bdddff90d7b019114eaa9aad664e89d36caaf"/>
+	</game>
 	<game name="Marble Madness (1992)(Atari - Tengen)">
 		<description>Marble Madness (1992)(Atari - Tengen)</description>
 		<rom name="Marble Madness (1992)(Atari - Tengen).bin" size="262144" crc="9559e339" md5="b83f36fd113a8f75f1a29652acb641fc" sha1="42c5cd5afebbf860a8ad80ea684f9b216762109e"/>
@@ -1860,21 +1888,25 @@
 		<description>Monster World II - Dragon no Wana (1992)(Sega)(JP)</description>
 		<rom name="Monster World II - Dragon no Wana (1992)(Sega)(JP).bin" size="262144" crc="ea89e0e7" md5="8e6934c31498569302ff3119c2496043" sha1="5c4d25432512852f48f22280544bd7d034aab744"/>
 	</game>
-	<game name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)">
-		<description>Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)</description>
-		<rom name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe).bin" size="524288" crc="07494f2a" md5="f9971dc9d78214f94856f6e886b1c8c2" sha1="ef634649b846b3f49d2c68739b36019e4fae0464"/>
+	<game name="Mortal Kombat (1993)(Acclaim)">
+		<description>Mortal Kombat (1993)(Acclaim)</description>
+		<rom name="Mortal Kombat (1993)(Acclaim).bin" size="524288" crc="07494f2a" md5="f9971dc9d78214f94856f6e886b1c8c2" sha1="ef634649b846b3f49d2c68739b36019e4fae0464"/>
 	</game>
-	<game name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)(JP)(en)">
-		<description>Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)(JP)(en)</description>
-		<rom name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)(JP)(en).bin" size="524288" crc="dbff0461" md5="ff2bba2287edbd90a560dbbaab18a260" sha1="f28e50f1283d7a2516267a13a16a3e6914ae0a18"/>
+	<game name="Mortal Kombat (1993)(Acclaim)(JP)(en)">
+		<description>Mortal Kombat (1993)(Acclaim)(JP)(en)</description>
+		<rom name="Mortal Kombat (1993)(Acclaim)(JP)(en).bin" size="524288" crc="dbff0461" md5="ff2bba2287edbd90a560dbbaab18a260" sha1="f28e50f1283d7a2516267a13a16a3e6914ae0a18"/>
 	</game>
-	<game name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)[b2]">
-		<description>Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)[b2]</description>
-		<rom name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)[b2].bin" size="176310" crc="ebcbe485" md5="c264b8a26f3e9ad3b01cd50cddc281e5" sha1="3a969a49bc3daf040012f2e73d39bd51a3cf5675"/>
+	<game name="Mortal Kombat (1993)(Acclaim)(proto)">
+		<description>Mortal Kombat (1993)(Acclaim)(proto)</description>
+		<rom name="Mortal Kombat (1993)(Acclaim)(proto).gg" size="524288" crc="16db4f6a" md5="efd7bc7767e9c87d1027627ba814cddd" sha1="0d2ca2de933993ed45b20ef736237bc774dd3914"/>
 	</game>
-	<game name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)[b]">
-		<description>Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)[b]</description>
-		<rom name="Mortal Kombat (1993)(Acclaim - Arena Entertainment - Midway - Probe)[b].bin" size="524288" crc="fdef9b5a" md5="b16d496899281af7b4ea551c2627a57f" sha1="2ba44febd3ce7d3ced17750b2d7fa1c98dce0f85"/>
+	<game name="Mortal Kombat (1993)(Acclaim)[b2]">
+		<description>Mortal Kombat (1993)(Acclaim)[b2]</description>
+		<rom name="Mortal Kombat (1993)(Acclaim)[b2].bin" size="176310" crc="ebcbe485" md5="c264b8a26f3e9ad3b01cd50cddc281e5" sha1="3a969a49bc3daf040012f2e73d39bd51a3cf5675"/>
+	</game>
+	<game name="Mortal Kombat (1993)(Acclaim)[b]">
+		<description>Mortal Kombat (1993)(Acclaim)[b]</description>
+		<rom name="Mortal Kombat (1993)(Acclaim)[b].bin" size="524288" crc="fdef9b5a" md5="b16d496899281af7b4ea551c2627a57f" sha1="2ba44febd3ce7d3ced17750b2d7fa1c98dce0f85"/>
 	</game>
 	<game name="Mortal Kombat 3 (1995)(Acclaim - Midway - Software Creations - Williams)">
 		<description>Mortal Kombat 3 (1995)(Acclaim - Midway - Software Creations - Williams)</description>
@@ -3871,6 +3903,10 @@
 	<game name="Wonder Boy (1990)(Sega)(JP)(en)">
 		<description>Wonder Boy (1990)(Sega)(JP)(en)</description>
 		<rom name="Wonder Boy (1990)(Sega)(JP)(en).bin" size="131072" crc="9977fcb3" md5="917c3e4f4c50d6506e64e2f05b945d9c" sha1="7ff0f0757c7b2e84d99a4291656d74a20ec2651d"/>
+	</game>
+	<game name="Wonder Boy (1990)(Sega)(US)(proto)">
+		<description>Wonder Boy (1990)(Sega)(US)(proto)</description>
+		<rom name="Wonder Boy (1990)(Sega)(US)(proto).bin" size="131072" crc="523c92cb" md5="ce07b9edee661b156c43a5b1df115312" sha1="7502e660dedbb2df77313531b4a6f5b16000a72b"/>
 	</game>
 	<game name="Wonder Boy - The Dragon's Trap (1992)(Sega)">
 		<description>Wonder Boy - The Dragon's Trap (1992)(Sega)</description>

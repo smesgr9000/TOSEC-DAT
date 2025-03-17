@@ -1,0 +1,5 @@
+CATALOG 0000000000000
+FILE "PC Gaming World - Issue 9 (1997-10)(ZDNet)(GB).iso" BINARY
+    TRACK 01 MODE1/2048
+      INDEX 01 00:00:00
+      

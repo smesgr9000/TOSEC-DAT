@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Applications - Public Domain - [ADF]</name>
-		<description>Commodore Amiga - Applications - Public Domain - [ADF] (TOSEC-v2024-03-27)</description>
+		<description>Commodore Amiga - Applications - Public Domain - [ADF] (TOSEC-v2025-01-18)</description>
 		<category>TOSEC</category>
-		<version>2024-03-27</version>
+		<version>2025-01-18</version>
 		<author>idoru - BippyM - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -43,6 +43,10 @@
 	<game name="101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)">
 		<description>101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)</description>
 		<rom name="101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8).adf" size="901120" crc="7525587c" md5="8dde38dc312abb23af881e3d8de926d6" sha1="6925de13b39137856b9c041af747f1dcbc83d645"/>
+	</game>
+	<game name="17-Bit Software Order Utility (1993)(Keeley, Justyn)[AMOS]">
+		<description>17-Bit Software Order Utility (1993)(Keeley, Justyn)[AMOS]</description>
+		<rom name="17-Bit Software Order Utility (1993)(Keeley, Justyn)[AMOS].adf" size="901120" crc="5ab1af35" md5="6822f6449729be127d2f5b6f8a595f12" sha1="3c6b71d0b31f7fd058b925c501ef45f3971b9763"/>
 	</game>
 	<game name="256 Colour Icons (1994)(PAW)[h PD-Soft][WB]">
 		<description>256 Colour Icons (1994)(PAW)[h PD-Soft][WB]</description>
@@ -160,6 +164,10 @@
 		<description>Account Master v2.0 (1992)(Platt, Martin)[u]</description>
 		<rom name="Account Master v2.0 (1992)(Platt, Martin)[u].adf" size="889856" crc="951e7486" md5="c34a874cd5e0af55d44c9d7d8cf4dcca" sha1="fb90e36a714501464e5955696bf2c46053e827c4"/>
 	</game>
+	<game name="Action Replay v1.5 (1991-06)(Legoland)">
+		<description>Action Replay v1.5 (1991-06)(Legoland)</description>
+		<rom name="Action Replay v1.5 (1991-06)(Legoland).adf" size="901120" crc="79336c37" md5="0d7d6a95201f3f19114b8613e8a57f50" sha1="06a32d0d476310cec6d117be93f25340ee35d31b"/>
+	</game>
 	<game name="Address Print v2.1 (1992)(Lathuel, Paul - 17-Bit Software)[AMOS]">
 		<description>Address Print v2.1 (1992)(Lathuel, Paul - 17-Bit Software)[AMOS]</description>
 		<rom name="Address Print v2.1 (1992)(Lathuel, Paul - 17-Bit Software)[AMOS].adf" size="901120" crc="22acb362" md5="a1797a2b5789794f978df39eecb3d9c8" sha1="af7a307ae8234deaf5190760ed0adc0ae6f35333"/>
@@ -191,6 +199,18 @@
 	<game name="AEReg v1.00 (1995-02)(Decision)[WB]">
 		<description>AEReg v1.00 (1995-02)(Decision)[WB]</description>
 		<rom name="AEReg v1.00 (1995-02)(Decision)[WB].adf" size="901120" crc="2d84b757" md5="af115bc3d191a80caf06b514e388c0b6" sha1="ea3f7d87d59b55befef7b1f14c1c7fe1b85594f5"/>
+	</game>
+	<game name="AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[f manual][h Zaracon]">
+		<description>AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[f manual][h Zaracon]</description>
+		<rom name="AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[f manual][h Zaracon].adf" size="901120" crc="4852080b" md5="36923b7c84f18e72123c07b4f7159c33" sha1="79146430f8d3a2f9709284d25907712c46cf500d"/>
+	</game>
+	<game name="AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[h AMOS PD]">
+		<description>AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[h AMOS PD]</description>
+		<rom name="AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[h AMOS PD].adf" size="901120" crc="55985e11" md5="a91553356d13573a105e9e1b75c36115" sha1="afc79db8957184f512fd6abe39d7e3b335391396"/>
+	</game>
+	<game name="AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[h Zaracon]">
+		<description>AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[h Zaracon]</description>
+		<rom name="AIM - The AMOS Image Manipulator v1.1 (1991)(Megasoft)[h Zaracon].adf" size="901120" crc="07e24a38" md5="789229cbd05d339fff4ea3fbe6109c57" sha1="569a33e0bcf6bd01ab13f7096d81f756f0ad5c95"/>
 	</game>
 	<game name="Alan Uno v1.0 (1992)(Darkness)">
 		<description>Alan Uno v1.0 (1992)(Darkness)</description>
@@ -720,6 +740,14 @@
 		<description>Atari Emulator TOS Versions (1990)(Quartex)[WB][emulator]</description>
 		<rom name="Atari Emulator TOS Versions (1990)(Quartex)[WB][emulator].adf" size="901120" crc="6b846bd2" md5="a01a4184c58f6adaca2fb06020ffa8a7" sha1="76e4e4180bce03dca918bdae22e76db82413d254"/>
 	</game>
+	<game name="ATcad - TurboImploder-Edition (2024-12-30)(Thiele, Andreas)[WB]">
+		<description>ATcad - TurboImploder-Edition (2024-12-30)(Thiele, Andreas)[WB]</description>
+		<rom name="ATcad - TurboImploder-Edition (2024-12-30)(Thiele, Andreas)[WB].adf" size="901120" crc="e00cd996" md5="07b65f6adc76ace126bd45589495c49e" sha1="e8b35eca93015a5f4a66b21bf718ec849a7bcc54"/>
+	</game>
+	<game name="ATcad - TurboImploder-Edition (2025-01-09)(Thiele, Andreas)(de)[WB]">
+		<description>ATcad - TurboImploder-Edition (2025-01-09)(Thiele, Andreas)(de)[WB]</description>
+		<rom name="ATcad - TurboImploder-Edition (2025-01-09)(Thiele, Andreas)(de)[WB].adf" size="901120" crc="5a44f78f" md5="a6fa8541aed9b9bf5e579631c06db4e8" sha1="ddded34e02f00507f0129948069fa166a82ad909"/>
+	</game>
 	<game name="Audio Animation Studio v1.0 (1991)(Cool Cucumbers)(SW)[h 17-Bit Software][AMOS]">
 		<description>Audio Animation Studio v1.0 (1991)(Cool Cucumbers)(SW)[h 17-Bit Software][AMOS]</description>
 		<rom name="Audio Animation Studio v1.0 (1991)(Cool Cucumbers)(SW)[h 17-Bit Software][AMOS].adf" size="901120" crc="0d30d140" md5="bbae6dd8643e6c357982efe7a97b3950" sha1="4fc3b2f9ed9da0e01e6158e4f735e3280c304546"/>
@@ -863,6 +891,306 @@
 	<game name="Best Lottery Program, The v1.0 (1995)(Yarnall, Colin)(SW)">
 		<description>Best Lottery Program, The v1.0 (1995)(Yarnall, Colin)(SW)</description>
 		<rom name="Best Lottery Program, The v1.0 (1995)(Yarnall, Colin)(SW).adf" size="901120" crc="2fa0ee63" md5="62a3510e1bc21ce0e25d010a80f44bd2" sha1="348a4dbb876e5e0ba97d484e748e2a5301550b9e"/>
+	</game>
+	<game name="BestWB Update Disk v1.0 to v1.1 (2019-03-07)(Gulliver)(Disk 1 of 2)[HD]">
+		<description>BestWB Update Disk v1.0 to v1.1 (2019-03-07)(Gulliver)(Disk 1 of 2)[HD]</description>
+		<rom name="BestWB Update Disk v1.0 to v1.1 (2019-03-07)(Gulliver)(Disk 1 of 2)[HD].adf" size="901120" crc="7dd1b70b" md5="bcd93e33839135d30279d3826c54cca2" sha1="c6ad6fb054ea67ca5231ccb4661615dcb9a1dd65"/>
+	</game>
+	<game name="BestWB Update Disk v1.0 to v1.1 (2019-03-07)(Gulliver)(Disk 2 of 2)">
+		<description>BestWB Update Disk v1.0 to v1.1 (2019-03-07)(Gulliver)(Disk 2 of 2)</description>
+		<rom name="BestWB Update Disk v1.0 to v1.1 (2019-03-07)(Gulliver)(Disk 2 of 2).adf" size="901120" crc="36346a0e" md5="3838d7ad09aed6ea6299f7deaadb613c" sha1="33ea518654045535872e5feabb03728542c22e13"/>
+	</game>
+	<game name="BestWB Update Disk v1.1 to v1.2 (2019-07-28)(Gulliver)(Disk 1 of 2)[HD]">
+		<description>BestWB Update Disk v1.1 to v1.2 (2019-07-28)(Gulliver)(Disk 1 of 2)[HD]</description>
+		<rom name="BestWB Update Disk v1.1 to v1.2 (2019-07-28)(Gulliver)(Disk 1 of 2)[HD].adf" size="901120" crc="b996f9c0" md5="813f510d90d8b20f24eea16b630c5352" sha1="aa3b711f460e1108cc9f286f7beaf76c5dc02f72"/>
+	</game>
+	<game name="BestWB Update Disk v1.1 to v1.2 (2019-07-28)(Gulliver)(Disk 2 of 2)">
+		<description>BestWB Update Disk v1.1 to v1.2 (2019-07-28)(Gulliver)(Disk 2 of 2)</description>
+		<rom name="BestWB Update Disk v1.1 to v1.2 (2019-07-28)(Gulliver)(Disk 2 of 2).adf" size="901120" crc="ac09129f" md5="bde08203ccf594ef6090041ba277f37f" sha1="8d220a838dc30580d0ec9692be57e3a824c036b7"/>
+	</game>
+	<game name="BestWB Update Disk v1.2 to v1.3 (2019-11-15)(Gulliver)[HD]">
+		<description>BestWB Update Disk v1.2 to v1.3 (2019-11-15)(Gulliver)[HD]</description>
+		<rom name="BestWB Update Disk v1.2 to v1.3 (2019-11-15)(Gulliver)[HD].adf" size="901120" crc="044d9895" md5="ee612c77b7962c18c5dcc16103e2b20f" sha1="3ea714d79f6019288a6d02816dab79b731236247"/>
+	</game>
+	<game name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 1 of 4)[HD]">
+		<description>BestWB v1.0 (2018-09-28)(Gulliver)(Disk 1 of 4)[HD]</description>
+		<rom name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 1 of 4)[HD].adf" size="901120" crc="f3cb8e8f" md5="96c76e80c3a62dfca39875d7eed4e7ae" sha1="185aebd03be2e4d0ca0cd93d8532a362abf2b11e"/>
+	</game>
+	<game name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 2 of 4)">
+		<description>BestWB v1.0 (2018-09-28)(Gulliver)(Disk 2 of 4)</description>
+		<rom name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 2 of 4).adf" size="901120" crc="e0ce56c2" md5="69283c808e8e771238d2851050033f17" sha1="8464b092fa0097bf1752a98aa38103d275b301d6"/>
+	</game>
+	<game name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 3 of 4)">
+		<description>BestWB v1.0 (2018-09-28)(Gulliver)(Disk 3 of 4)</description>
+		<rom name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 3 of 4).adf" size="901120" crc="9fb18e94" md5="837ff643c562a3a00b35fa52a8cda8f1" sha1="5ff3127418a3b579702d22c9c350faa7d23e98e4"/>
+	</game>
+	<game name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 4 of 4)">
+		<description>BestWB v1.0 (2018-09-28)(Gulliver)(Disk 4 of 4)</description>
+		<rom name="BestWB v1.0 (2018-09-28)(Gulliver)(Disk 4 of 4).adf" size="901120" crc="7e868108" md5="7fb01834bd96b4618ae51395e89ebab4" sha1="241a6558a6140735749f85587035f6d7a3e2cbb1"/>
+	</game>
+	<game name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 1 of 6)[HD]">
+		<description>BestWB v1.3 (2019-11-16)(Gulliver)(Disk 1 of 6)[HD]</description>
+		<rom name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 1 of 6)[HD].adf" size="901120" crc="fef0de8f" md5="f86eeb1efc7d2c8bb525526a24779bdf" sha1="6ac4d26786c88ab62f11991720b5a870d157472a"/>
+	</game>
+	<game name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 2 of 6)">
+		<description>BestWB v1.3 (2019-11-16)(Gulliver)(Disk 2 of 6)</description>
+		<rom name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 2 of 6).adf" size="901120" crc="c79bdcc2" md5="085e3a2be7efd48d0450f14538fcb5f7" sha1="e133c4e62ab25fa8c4c0573770ae6bed8ef1834a"/>
+	</game>
+	<game name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 3 of 6)">
+		<description>BestWB v1.3 (2019-11-16)(Gulliver)(Disk 3 of 6)</description>
+		<rom name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 3 of 6).adf" size="901120" crc="2e01695a" md5="b51b37fd1f98092c6a4d39e3d8fe3889" sha1="7c61171ce1af7ecc64f54fbee53e47dec130963d"/>
+	</game>
+	<game name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 4 of 6)">
+		<description>BestWB v1.3 (2019-11-16)(Gulliver)(Disk 4 of 6)</description>
+		<rom name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 4 of 6).adf" size="901120" crc="9c81055c" md5="b1c0760852ae09d092ad9c44543a54c3" sha1="b6cd4117e218845d41610bb008be02fd6b2edf5e"/>
+	</game>
+	<game name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 5 of 6)">
+		<description>BestWB v1.3 (2019-11-16)(Gulliver)(Disk 5 of 6)</description>
+		<rom name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 5 of 6).adf" size="901120" crc="49db4c94" md5="fe122c5809c1aa9b83a10aa3ebbdf4ba" sha1="9a540583cde6252f80df33a075ef75ec19304a20"/>
+	</game>
+	<game name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 6 of 6)">
+		<description>BestWB v1.3 (2019-11-16)(Gulliver)(Disk 6 of 6)</description>
+		<rom name="BestWB v1.3 (2019-11-16)(Gulliver)(Disk 6 of 6).adf" size="901120" crc="39e9c02c" md5="5981f64b43097d18f5d136bda1be01f5" sha1="a6de315796c4aea220ad963f963f93ae9c217867"/>
+	</game>
+	<game name="BetterWB Update Disk v3.2 to v3.3 (2014-02-21)(Gulliver)">
+		<description>BetterWB Update Disk v3.2 to v3.3 (2014-02-21)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.2 to v3.3 (2014-02-21)(Gulliver).adf" size="901120" crc="bb789464" md5="d1ef6fb704de631181862db50ada0da7" sha1="82a351529f63ac747c98198a5fd35a28a2ed8057"/>
+	</game>
+	<game name="BetterWB Update Disk v3.3 to v3.4 (2014-03-03)(Gulliver)">
+		<description>BetterWB Update Disk v3.3 to v3.4 (2014-03-03)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.3 to v3.4 (2014-03-03)(Gulliver).adf" size="901120" crc="b2d82c3c" md5="0f830cc486a3eead4d703e6dd816a55d" sha1="5a2abc8ac46c6b21e24545742584afff0e993721"/>
+	</game>
+	<game name="BetterWB Update Disk v3.4 to v3.5 (2014-03-04)(Gulliver)">
+		<description>BetterWB Update Disk v3.4 to v3.5 (2014-03-04)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.4 to v3.5 (2014-03-04)(Gulliver).adf" size="901120" crc="a24d66a9" md5="a993f8f3184d769c040c9b83c957ce16" sha1="589c6a472edcf5c0e39df7c0a5a1893bbee65adc"/>
+	</game>
+	<game name="BetterWB Update Disk v3.5 to v3.6 (2014-04-19)(Gulliver)">
+		<description>BetterWB Update Disk v3.5 to v3.6 (2014-04-19)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.5 to v3.6 (2014-04-19)(Gulliver).adf" size="901120" crc="9446e9cb" md5="2b61e657dcf97f92632ccda408a0f6da" sha1="e7ea212a3113f91bb6f987ae9518f4510d98d902"/>
+	</game>
+	<game name="BetterWB Update Disk v3.6 to v3.8 (2014-09-24)(Gulliver)">
+		<description>BetterWB Update Disk v3.6 to v3.8 (2014-09-24)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.6 to v3.8 (2014-09-24)(Gulliver).adf" size="901120" crc="2f40d8fa" md5="cc40619bb7f7324980fb4a376ebdc218" sha1="21024b0cca1b0d3b46ff14f88316864232f3bf84"/>
+	</game>
+	<game name="BetterWB Update Disk v3.8 to v3.9 (2014-11-19)(Gulliver)">
+		<description>BetterWB Update Disk v3.8 to v3.9 (2014-11-19)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.8 to v3.9 (2014-11-19)(Gulliver).adf" size="901120" crc="56769724" md5="d58e9c41f264d1627a203d5224fdc6f3" sha1="b06e085678e98f7e8c54a1ae7d719cbf9d295efc"/>
+	</game>
+	<game name="BetterWB Update Disk v3.9 to v4.0 (2015-02-27)(Gulliver)">
+		<description>BetterWB Update Disk v3.9 to v4.0 (2015-02-27)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v3.9 to v4.0 (2015-02-27)(Gulliver).adf" size="901120" crc="421065a2" md5="14d432f2ef64fdcbb41e6b838200e9f8" sha1="e1bc5ed9744ddf4f2e60137c7ca4e9906d65e56b"/>
+	</game>
+	<game name="BetterWB Update Disk v4.0 to v4.3 (2018-02-09)(Gulliver)">
+		<description>BetterWB Update Disk v4.0 to v4.3 (2018-02-09)(Gulliver)</description>
+		<rom name="BetterWB Update Disk v4.0 to v4.3 (2018-02-09)(Gulliver).adf" size="901120" crc="b5618879" md5="ed6b3518257c2cff354657de7fe15e21" sha1="d26410e5715eb99f811313b42df3b94d602c7ab8"/>
+	</game>
+	<game name="BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 1 of 3)(Misc 3.1)">
+		<description>BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 1 of 3)(Misc 3.1)</description>
+		<rom name="BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 1 of 3)(Misc 3.1).adf" size="901120" crc="439d1a95" md5="e507c4dcb048bbd237e19ae59839bc4e" sha1="efc8494406ddc7bf7e51622de4902a88c7879d2e"/>
+	</game>
+	<game name="BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 2 of 3)(Tools 3.1)">
+		<description>BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 2 of 3)(Tools 3.1)</description>
+		<rom name="BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 2 of 3)(Tools 3.1).adf" size="901120" crc="d2b2294b" md5="c9b43c0de22655fde5e47d88eac38152" sha1="007e19dfbabdb59f06e4aea5fa482c6edd856ff5"/>
+	</game>
+	<game name="BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 3 of 3)(Bonus 3.1)">
+		<description>BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 3 of 3)(Bonus 3.1)</description>
+		<rom name="BetterWB v2.3 (2011-08-26)(Gulliver)(Disk 3 of 3)(Bonus 3.1).adf" size="901120" crc="884452f0" md5="3c4d5358aed8dd25c669cdf8bf062392" sha1="0bb6bbdd9295c4f070170d868ac07de3e9e2235d"/>
+	</game>
+	<game name="BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 1 of 3)(Misc 3.1)">
+		<description>BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 1 of 3)(Misc 3.1)</description>
+		<rom name="BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 1 of 3)(Misc 3.1).adf" size="901120" crc="6722d115" md5="0aa9004d640d4e4a734ffd88be756bc8" sha1="960a40c1dcdca3d70e12c8bd52fbd072aa9955c8"/>
+	</game>
+	<game name="BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 2 of 3)(Tools 3.1)">
+		<description>BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 2 of 3)(Tools 3.1)</description>
+		<rom name="BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 2 of 3)(Tools 3.1).adf" size="901120" crc="9fe8da91" md5="b5e778b0e93b08cdb4d8b83675550f47" sha1="93f5a7b8f0e5b920e41da5aa80aaff0273ff702c"/>
+	</game>
+	<game name="BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 3 of 3)(Bonus 3.1)">
+		<description>BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 3 of 3)(Bonus 3.1)</description>
+		<rom name="BetterWB v2.4 (2011-10-21)(Gulliver)(Disk 3 of 3)(Bonus 3.1).adf" size="901120" crc="7c6b8535" md5="ae3a0a683a3d9acef0858fb2ba976f46" sha1="495b99972b772810cf01b91f305ec5f3cbab846e"/>
+	</game>
+	<game name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 1 of 4)(Misc 3.1)">
+		<description>BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 1 of 4)(Misc 3.1)</description>
+		<rom name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 1 of 4)(Misc 3.1).adf" size="901120" crc="c3e525cc" md5="42667443867f46a576037d15de9f897c" sha1="0a4cc6a12d4a01733d3906189f81dbd770a9507c"/>
+	</game>
+	<game name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 2 of 4)(Tools 3.1)">
+		<description>BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 2 of 4)(Tools 3.1)</description>
+		<rom name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 2 of 4)(Tools 3.1).adf" size="901120" crc="7104d156" md5="8b10d5fbecec97be53ac27c7c56db270" sha1="73e8f0c59616261ba6c24c9e2662f147d2c95860"/>
+	</game>
+	<game name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 3 of 4)(Bonus 3.1)">
+		<description>BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 3 of 4)(Bonus 3.1)</description>
+		<rom name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 3 of 4)(Bonus 3.1).adf" size="901120" crc="5855e5f8" md5="0d94fd1cab2e014bb019094a783b03f2" sha1="4f27d08b101f325b88eb70b73431d98bbdab60c2"/>
+	</game>
+	<game name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 4 of 4)(Docs 3.1)">
+		<description>BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 4 of 4)(Docs 3.1)</description>
+		<rom name="BetterWB v2.9 (2013-08-23)(Gulliver)(Disk 4 of 4)(Docs 3.1).adf" size="901120" crc="909a4358" md5="74cdd9bee2691b24b670b6e83bfc9c72" sha1="0353f502c69de56f076c780245da0ea9f8505a66"/>
+	</game>
+	<game name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 1 of 4)(Misc 3.1)">
+		<description>BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 1 of 4)(Misc 3.1)</description>
+		<rom name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 1 of 4)(Misc 3.1).adf" size="901120" crc="3bb239aa" md5="8d4c28501c4c60617d4a674346ba4eef" sha1="a43dbd8eef013a3aa797c78dda02d7b98bff1015"/>
+	</game>
+	<game name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 2 of 4)(Tools 3.1)">
+		<description>BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 2 of 4)(Tools 3.1)</description>
+		<rom name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 2 of 4)(Tools 3.1).adf" size="901120" crc="2ced32e0" md5="8cdcb4a823afd2dde2bf218eb18cadaf" sha1="03642e412191399b0499724b83cb308aa26c14bb"/>
+	</game>
+	<game name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 3 of 4)(Bonus 3.1)">
+		<description>BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 3 of 4)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 3 of 4)(Bonus 3.1).adf" size="901120" crc="a83d80c0" md5="72b498674867c790e3df11a0469a1d1b" sha1="8d86697f304088344e6cdd5cdb487c3d1014732e"/>
+	</game>
+	<game name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 4 of 4)(Docs 3.1)">
+		<description>BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 4 of 4)(Docs 3.1)</description>
+		<rom name="BetterWB v3.1 (2013-10-10)(Gulliver)(Disk 4 of 4)(Docs 3.1).adf" size="901120" crc="31375c72" md5="365ba452e025e390a50a7225dee9656a" sha1="e3504915e55e31c1ba86de7df557e20b5b863a8b"/>
+	</game>
+	<game name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 1 of 4)(Misc 3.1)">
+		<description>BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 1 of 4)(Misc 3.1)</description>
+		<rom name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 1 of 4)(Misc 3.1).adf" size="901120" crc="8ee3b22d" md5="71fbdaef7c286b856a19bf69995e1fa9" sha1="5b0f65650cc154f16304acc6ad608c4b38b80b58"/>
+	</game>
+	<game name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 2 of 4)(Tools 3.1)">
+		<description>BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 2 of 4)(Tools 3.1)</description>
+		<rom name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 2 of 4)(Tools 3.1).adf" size="901120" crc="9db59417" md5="840a03264a2c1d0c05bf68cc6eab72c0" sha1="0ee960def44d4b2d74b8af454d670bcd9e9cdce1"/>
+	</game>
+	<game name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 3 of 4)(Bonus 3.1)">
+		<description>BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 3 of 4)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 3 of 4)(Bonus 3.1).adf" size="901120" crc="7ff87ae3" md5="8ac2d5212b7f06a27b96536dbc583624" sha1="a3e7ff061a8b1219054a851f3793820ac942cf00"/>
+	</game>
+	<game name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 4 of 4)(Docs 3.1)">
+		<description>BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 4 of 4)(Docs 3.1)</description>
+		<rom name="BetterWB v3.2 (2013-12-16)(Gulliver)(Disk 4 of 4)(Docs 3.1).adf" size="901120" crc="06484e22" md5="59fb96ba19a16802732b724aae996b1b" sha1="755ebbfd00fd4a164773d9d3e4be7820f13a551b"/>
+	</game>
+	<game name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 1 of 5)(Misc 3.1)">
+		<description>BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 1 of 5)(Misc 3.1)</description>
+		<rom name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 1 of 5)(Misc 3.1).adf" size="901120" crc="decf69ad" md5="033a44054c1b076c4814c87c605d1a14" sha1="df3637f80988fd675bf7c6cad23ff56bfbc5ae15"/>
+	</game>
+	<game name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 2 of 5)(Tools 3.1)">
+		<description>BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 2 of 5)(Tools 3.1)</description>
+		<rom name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 2 of 5)(Tools 3.1).adf" size="901120" crc="140571f6" md5="1e18075af7c73821046647b0f25c9cd6" sha1="cb05dcbd5e91c5d00672bb7735d7206cb75364aa"/>
+	</game>
+	<game name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 3 of 5)(Bonus 3.1)">
+		<description>BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 3 of 5)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 3 of 5)(Bonus 3.1).adf" size="901120" crc="403f5f5d" md5="c08272aac8881cc24ad84d3800c1fa0e" sha1="2f7d3ac32c194bb198c160a489424dec068a6ddd"/>
+	</game>
+	<game name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 4 of 5)(Docs 3.1)">
+		<description>BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 4 of 5)(Docs 3.1)</description>
+		<rom name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 4 of 5)(Docs 3.1).adf" size="901120" crc="6d863f4c" md5="d9446f505a4059ff5a55880a9e078683" sha1="035f0273d279ce8d159941aabb79d674a956d1a9"/>
+	</game>
+	<game name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 5 of 5)(Icons 3.1)">
+		<description>BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 5 of 5)(Icons 3.1)</description>
+		<rom name="BetterWB v3.3 (2014-02-20)(Gulliver)(Disk 5 of 5)(Icons 3.1).adf" size="901120" crc="0ed70f10" md5="0a9a4ca2b30a45566694fcc6038d29a6" sha1="1a7923cb3724af29c56c4664288dc3602b28cce1"/>
+	</game>
+	<game name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 1 of 5)(Misc 3.1)">
+		<description>BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 1 of 5)(Misc 3.1)</description>
+		<rom name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 1 of 5)(Misc 3.1).adf" size="901120" crc="27b8f998" md5="0db581d63b46133a4f7cb5a125ef017e" sha1="f1323bb06668f6f5a3219cb6b8ae61738bac83df"/>
+	</game>
+	<game name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 2 of 5)(Tools 3.1)">
+		<description>BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 2 of 5)(Tools 3.1)</description>
+		<rom name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 2 of 5)(Tools 3.1).adf" size="901120" crc="5ffea9c2" md5="468e8c4bfa55772ff006c1419798603b" sha1="c91b9d7265d61b521fbff37de4e736e29224a686"/>
+	</game>
+	<game name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 3 of 5)(Bonus 3.1)">
+		<description>BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 3 of 5)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 3 of 5)(Bonus 3.1).adf" size="901120" crc="9a85a161" md5="4773ace044244eab894e83b84c5510d9" sha1="b8670366c6579bfca59a25d8a337a0ebe59da1f5"/>
+	</game>
+	<game name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 4 of 5)(Docs 3.1)">
+		<description>BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 4 of 5)(Docs 3.1)</description>
+		<rom name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 4 of 5)(Docs 3.1).adf" size="901120" crc="df98a982" md5="02f99d842543461328a710018816f946" sha1="7c6b34957ddd661f37115c32a3770d3f1c69f3ba"/>
+	</game>
+	<game name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 5 of 5)(Icons 3.1)">
+		<description>BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 5 of 5)(Icons 3.1)</description>
+		<rom name="BetterWB v3.5 (2014-03-04)(Gulliver)(Disk 5 of 5)(Icons 3.1).adf" size="901120" crc="576eb15b" md5="0e82e09f2b758c1d749afe24f74e1fde" sha1="951acdeb5f20be2f85ea2a5c9729dc07ab189c18"/>
+	</game>
+	<game name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 1 of 6)(Misc 3.1)">
+		<description>BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 1 of 6)(Misc 3.1)</description>
+		<rom name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 1 of 6)(Misc 3.1).adf" size="901120" crc="535c4c68" md5="b2d357a301ad097d97bdac6f3d9e5150" sha1="4072b94297f52d0d25509472f21a9449ddcb93cd"/>
+	</game>
+	<game name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 2 of 6)(Tools 3.1)">
+		<description>BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 2 of 6)(Tools 3.1)</description>
+		<rom name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 2 of 6)(Tools 3.1).adf" size="901120" crc="311e9cf1" md5="b823c0d94ee5f95ae8f288b11ab59f56" sha1="91cfe00a7c8bdc1a3c55fe32a27a8cdc4e8b5f2a"/>
+	</game>
+	<game name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 3 of 6)(Bonus 3.1)">
+		<description>BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 3 of 6)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 3 of 6)(Bonus 3.1).adf" size="901120" crc="833f24f0" md5="60268393f253580714932bfdcaa626e3" sha1="f8cf4ed054d0e338a31c956c1b8ec416971b06d0"/>
+	</game>
+	<game name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 4 of 6)(Docs 3.1)">
+		<description>BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 4 of 6)(Docs 3.1)</description>
+		<rom name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 4 of 6)(Docs 3.1).adf" size="901120" crc="c82867fb" md5="9863bade6ef4053d7ebf35e26becd695" sha1="2250736f9fddf3b47e3892d3287111e9dac21871"/>
+	</game>
+	<game name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 5 of 6)(Icons 3.1)">
+		<description>BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 5 of 6)(Icons 3.1)</description>
+		<rom name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 5 of 6)(Icons 3.1).adf" size="901120" crc="1243586d" md5="b5fc2f01c92f97a74bbb73283c9aee1d" sha1="7233566a9bbbcb8e3b9c7a4ff13d9651779b45b0"/>
+	</game>
+	<game name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 6 of 6)(Drivers 3.1)">
+		<description>BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 6 of 6)(Drivers 3.1)</description>
+		<rom name="BetterWB v3.6 (2014-04-19)(Gulliver)(Disk 6 of 6)(Drivers 3.1).adf" size="901120" crc="d76be600" md5="4686145b925d047c6d6e8e722b50b41a" sha1="ef357ff17fa5db93960a2090aeba2cd7dfe479a7"/>
+	</game>
+	<game name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 1 of 6)(Misc 3.1)">
+		<description>BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 1 of 6)(Misc 3.1)</description>
+		<rom name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 1 of 6)(Misc 3.1).adf" size="901120" crc="780e01d2" md5="105a420f7e94579937689d2ec9e5c3ce" sha1="f27769613e6d69655e6ad67e1ad9cf4fa0d72cf1"/>
+	</game>
+	<game name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 2 of 6)(Tools 3.1)">
+		<description>BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 2 of 6)(Tools 3.1)</description>
+		<rom name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 2 of 6)(Tools 3.1).adf" size="901120" crc="984ce215" md5="5732e69e0eabf7eed3e9306043530e55" sha1="93428d173a42c78cb86a11a84476786d8b88dc71"/>
+	</game>
+	<game name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 3 of 6)(Bonus 3.1)">
+		<description>BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 3 of 6)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 3 of 6)(Bonus 3.1).adf" size="901120" crc="376d97d3" md5="229180dd38ef16a0a035fa0772cb7183" sha1="c455d6e66d089b27a4e539996a2db4ef307e1319"/>
+	</game>
+	<game name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 4 of 6)(Docs 3.1)">
+		<description>BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 4 of 6)(Docs 3.1)</description>
+		<rom name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 4 of 6)(Docs 3.1).adf" size="901120" crc="75afb7c4" md5="7ba39a7a325ed633e33e6f237d81b0c8" sha1="be068f6e52a25ec6b5b3d9c2b09f1d9cf6b83ccd"/>
+	</game>
+	<game name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 5 of 6)(Icons 3.1)">
+		<description>BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 5 of 6)(Icons 3.1)</description>
+		<rom name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 5 of 6)(Icons 3.1).adf" size="901120" crc="c61f32a1" md5="b19ac31903ae5ea686e397b2cfb975e9" sha1="029758c150efde3ffd495182359b9331744fc63c"/>
+	</game>
+	<game name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 6 of 6)(Drivers 3.1)">
+		<description>BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 6 of 6)(Drivers 3.1)</description>
+		<rom name="BetterWB v3.8 (2014-09-24)(Gulliver)(Disk 6 of 6)(Drivers 3.1).adf" size="901120" crc="0df23179" md5="78829d7caeec5993d762b5f5ee16876a" sha1="53d63d4c476d90ecf3500b039d7565208a522d2d"/>
+	</game>
+	<game name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 1 of 6)(Misc 3.1)">
+		<description>BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 1 of 6)(Misc 3.1)</description>
+		<rom name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 1 of 6)(Misc 3.1).adf" size="901120" crc="22590a3d" md5="33ced5c413ee14922a1b8938af246762" sha1="7108763b3adcf124f92097f40af14e1638edca03"/>
+	</game>
+	<game name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 2 of 6)(Tools 3.1)">
+		<description>BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 2 of 6)(Tools 3.1)</description>
+		<rom name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 2 of 6)(Tools 3.1).adf" size="901120" crc="26d864eb" md5="6e82307b8b0caafd59fd2370ff873d12" sha1="881c2639e684873ce40367794c627ccbbf3e7d82"/>
+	</game>
+	<game name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 3 of 6)(Bonus 3.1)">
+		<description>BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 3 of 6)(Bonus 3.1)</description>
+		<rom name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 3 of 6)(Bonus 3.1).adf" size="901120" crc="c8203488" md5="915cbaa13d4b3cdf334d534d05f16260" sha1="4cdb4ec5ef3c25abe18df460276463fbfc6d9a84"/>
+	</game>
+	<game name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 4 of 6)(Docs 3.1)">
+		<description>BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 4 of 6)(Docs 3.1)</description>
+		<rom name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 4 of 6)(Docs 3.1).adf" size="901120" crc="f92b3bef" md5="f4141896a83dae9d50e546f1568d4a4b" sha1="3d3ccb62e0a8e61d8784d3d17c91be51e5ecba13"/>
+	</game>
+	<game name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 5 of 6)(Icons 3.1)">
+		<description>BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 5 of 6)(Icons 3.1)</description>
+		<rom name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 5 of 6)(Icons 3.1).adf" size="901120" crc="c1e9d487" md5="8264f42188eea02aacc887ac843a7174" sha1="8ab223d90ca34f65973027ce71ee068b01bd6728"/>
+	</game>
+	<game name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 6 of 6)(Drivers 3.1)">
+		<description>BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 6 of 6)(Drivers 3.1)</description>
+		<rom name="BetterWB v3.9 (2014-11-19)(Gulliver)(Disk 6 of 6)(Drivers 3.1).adf" size="901120" crc="d554ea7a" md5="d5dc7ab0803ecb6030840a8c7497ea44" sha1="295b3643f8adea5711a4fb8f00fa5e70a500df28"/>
+	</game>
+	<game name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 1 of 6)(Misc 3.1)">
+		<description>BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 1 of 6)(Misc 3.1)</description>
+		<rom name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 1 of 6)(Misc 3.1).adf" size="901120" crc="b8303595" md5="1f5e022b6bbb53cc8c0dfd5283d286a1" sha1="f3e3f5fd21f354c3cb31ced4d4d8d470d0b73cd9"/>
+	</game>
+	<game name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 2 of 6)(Tools 3.1)">
+		<description>BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 2 of 6)(Tools 3.1)</description>
+		<rom name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 2 of 6)(Tools 3.1).adf" size="901120" crc="08eb84a6" md5="af027f4f527f1acf71cf8b43b37f9e1c" sha1="892b721c29a977bbce753b4621eb09671c605be8"/>
+	</game>
+	<game name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 3 of 6)(Bonus 3.1)">
+		<description>BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 3 of 6)(Bonus 3.1)</description>
+		<rom name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 3 of 6)(Bonus 3.1).adf" size="901120" crc="b4caf4a8" md5="f1a62ff913ce1781021c774a85695b53" sha1="2258058a39f61617d01011b0adc7d981464d9b3a"/>
+	</game>
+	<game name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 4 of 6)(Docs 3.1)">
+		<description>BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 4 of 6)(Docs 3.1)</description>
+		<rom name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 4 of 6)(Docs 3.1).adf" size="901120" crc="b7d484c0" md5="84ceab85063ebc91b25376af2329f4fc" sha1="0ed3448c2ef86994d00edbc652a73b8d25ecf382"/>
+	</game>
+	<game name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 5 of 6)(Icons 3.1)">
+		<description>BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 5 of 6)(Icons 3.1)</description>
+		<rom name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 5 of 6)(Icons 3.1).adf" size="901120" crc="62e162c1" md5="46bcc7c4ba11e267886a6ea7aee8edfe" sha1="611885557c894df815662e051e2a0e9f1ea3f37e"/>
+	</game>
+	<game name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 6 of 6)(Drivers 3.1)">
+		<description>BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 6 of 6)(Drivers 3.1)</description>
+		<rom name="BetterWB v4.0 (2015-02-27)(Gulliver)(Disk 6 of 6)(Drivers 3.1).adf" size="901120" crc="37da5a2b" md5="1e919f8bc293f5ecc835379c6bfa532a" sha1="e0690e36d7dc7fca242c2d487d08dbbbfd3c7268"/>
 	</game>
 	<game name="Biorhythms v4.01d (1991-05-11)(French, David)(SW)[h 17-Bit Software]">
 		<description>Biorhythms v4.01d (1991-05-11)(French, David)(SW)[h 17-Bit Software]</description>
@@ -1104,9 +1432,17 @@
 		<description>Clerk, The v4.0 (1989)(Finley, Sanford)(SW)</description>
 		<rom name="Clerk, The v4.0 (1989)(Finley, Sanford)(SW).adf" size="901120" crc="86e3eb3c" md5="a906d379c784fc7e194eb62d5870266f" sha1="febbb8dbceeef0fc4faf34483beea05066621a7a"/>
 	</game>
+	<game name="Clipper v2.27 (1996-12-31)(Smith, Brian)(FW)[req. AMOS]">
+		<description>Clipper v2.27 (1996-12-31)(Smith, Brian)(FW)[req. AMOS]</description>
+		<rom name="Clipper v2.27 (1996-12-31)(Smith, Brian)(FW)[req. AMOS].adf" size="901120" crc="5e6a649b" md5="d14696e2e0bc2265e15b0637525f9fc5" sha1="acb2a7097b0baf4a35513103940f381611951582"/>
+	</game>
 	<game name="Club League Utility (1993)(Benham, Graham)[h PD-Soft][AMOS]">
 		<description>Club League Utility (1993)(Benham, Graham)[h PD-Soft][AMOS]</description>
 		<rom name="Club League Utility (1993)(Benham, Graham)[h PD-Soft][AMOS].adf" size="901120" crc="1aeeb1c2" md5="852e9f80a73a70781f007d5e93c1337d" sha1="3866cf7de576795badf751322b89b28403f524e8"/>
+	</game>
+	<game name="Codecraft v1.15 (2024-07-14)(Boemann, Camilla)[KS3.2, HD]">
+		<description>Codecraft v1.15 (2024-07-14)(Boemann, Camilla)[KS3.2, HD]</description>
+		<rom name="Codecraft v1.15 (2024-07-14)(Boemann, Camilla)[KS3.2, HD].adf" size="901120" crc="0bf138a6" md5="3cbc140646dbebf3edb197f82e1cf467" sha1="6546fb6c14194467161a743572f1d2aa9667b210"/>
 	</game>
 	<game name="Coder Copy v2.0 (19xx)(Cremer, M.)">
 		<description>Coder Copy v2.0 (19xx)(Cremer, M.)</description>
@@ -1139,6 +1475,10 @@
 	<game name="Conjugue v1.3 (1993-10-14)(Pennaneach, Yann)(fr)(SW)[AMOS]">
 		<description>Conjugue v1.3 (1993-10-14)(Pennaneach, Yann)(fr)(SW)[AMOS]</description>
 		<rom name="Conjugue v1.3 (1993-10-14)(Pennaneach, Yann)(fr)(SW)[AMOS].adf" size="901120" crc="20ef41f6" md5="4d9e0749785aed019b90c2060d1ef09c" sha1="b4e182b231782350afb339af02b350a5a50e02dc"/>
+	</game>
+	<game name="Contact Dealer Professional (1991-05)(Addonic)">
+		<description>Contact Dealer Professional (1991-05)(Addonic)</description>
+		<rom name="Contact Dealer Professional (1991-05)(Addonic).adf" size="901120" crc="8c668e65" md5="daaf3f779a1c4bb1e9822c3f37973add" sha1="1baba8764ca692ae6b15f0132dd15a8492969c45"/>
 	</game>
 	<game name="Converter v1.0 (1990)(Chalmers, S.)(SW)[h Powerslaves][v Revenge]">
 		<description>Converter v1.0 (1990)(Chalmers, S.)(SW)[h Powerslaves][v Revenge]</description>
@@ -1260,6 +1600,26 @@
 		<description>D.I.S.C. Editor Disk v2.0a (199x)(Sanity)[b corrupt file]</description>
 		<rom name="D.I.S.C. Editor Disk v2.0a (199x)(Sanity)[b corrupt file].adf" size="901120" crc="4b0adb46" md5="f1e36e20a95ce794e86c3c148bc6396e" sha1="d3c5a479008df41824ae433b937c0aca2ab38283"/>
 	</game>
+	<game name="DAControlGUI v1.0 (2021-10-31)(Emarti)[WB]">
+		<description>DAControlGUI v1.0 (2021-10-31)(Emarti)[WB]</description>
+		<rom name="DAControlGUI v1.0 (2021-10-31)(Emarti)[WB].adf" size="901120" crc="a17d89a2" md5="814b7c57bbaf2f808a5f4b36069682e5" sha1="f35820e7dbb5820ea21d253aec18d51ab47ce1cd"/>
+	</game>
+	<game name="DAControlGUI v1.0.0411 (2021-11-04)(Emarti)[WB]">
+		<description>DAControlGUI v1.0.0411 (2021-11-04)(Emarti)[WB]</description>
+		<rom name="DAControlGUI v1.0.0411 (2021-11-04)(Emarti)[WB].adf" size="901120" crc="265c9ba7" md5="233a30dc300cef29d164f67f931b4711" sha1="65a7143644a4ea068b74b37c2d215627156bd165"/>
+	</game>
+	<game name="DAControlGUI v1.0.1106 (2021-11-07)(Emarti)[WB]">
+		<description>DAControlGUI v1.0.1106 (2021-11-07)(Emarti)[WB]</description>
+		<rom name="DAControlGUI v1.0.1106 (2021-11-07)(Emarti)[WB].adf" size="901120" crc="c483a8c4" md5="54337957be84a8aa5045110d23844dc3" sha1="7b14e9e12a1a25994f02a159a4780edd7d31e43d"/>
+	</game>
+	<game name="DAControlGUI v1.0.1110 (2021-11-09)(Emarti)[WB]">
+		<description>DAControlGUI v1.0.1110 (2021-11-09)(Emarti)[WB]</description>
+		<rom name="DAControlGUI v1.0.1110 (2021-11-09)(Emarti)[WB].adf" size="901120" crc="d8c1d523" md5="2beebdf2ab005da2bd63e3ef2ad59c6a" sha1="83d73c80801d0cdc70ad6c8b5db27610d169758a"/>
+	</game>
+	<game name="DAControlGUI v1.0.1110 (2021-11-12)(Emarti)[WB]">
+		<description>DAControlGUI v1.0.1110 (2021-11-12)(Emarti)[WB]</description>
+		<rom name="DAControlGUI v1.0.1110 (2021-11-12)(Emarti)[WB].adf" size="901120" crc="e16a58b7" md5="f8496016fd54782a6b21a1fad72a30a2" sha1="d4249732ab6ecbb04ec0e156b85667508bf8c035"/>
+	</game>
 	<game name="Database-Wizard v1.0 (1987)(Merlin)(SW)[h Take-2]">
 		<description>Database-Wizard v1.0 (1987)(Merlin)(SW)[h Take-2]</description>
 		<rom name="Database-Wizard v1.0 (1987)(Merlin)(SW)[h Take-2].adf" size="901120" crc="f9c22478" md5="5138501a0611d3733c32a6ddb6a34eab" sha1="5ed1d3eb2b69e7ba8917c95c218397ef60c46fed"/>
@@ -1331,6 +1691,10 @@
 	<game name="Deluxe Map v1.5 (1997-01)(Madget Brothers)(fr)[AMOS]">
 		<description>Deluxe Map v1.5 (1997-01)(Madget Brothers)(fr)[AMOS]</description>
 		<rom name="Deluxe Map v1.5 (1997-01)(Madget Brothers)(fr)[AMOS].adf" size="901120" crc="938d9f82" md5="8321da4f2ea24c9020244e3d6b685176" sha1="09cdba91be2932d59d4144a7ee43e908b7db58b9"/>
+	</game>
+	<game name="Deluxe-Game-Animator v4.3 (1996-05-23)(Schimanski, Jorgo)(de)[KS2.0]">
+		<description>Deluxe-Game-Animator v4.3 (1996-05-23)(Schimanski, Jorgo)(de)[KS2.0]</description>
+		<rom name="Deluxe-Game-Animator v4.3 (1996-05-23)(Schimanski, Jorgo)(de)[KS2.0].adf" size="901120" crc="b5faa9ae" md5="870b01f8908b59cb7908f7742b0456a4" sha1="65f023628a3aa82cbc0a315fba312a5b9cec1a86"/>
 	</game>
 	<game name="DePack! v38.411 (1993-12-10)(The Special Brothers)(SW)[WB]">
 		<description>DePack! v38.411 (1993-12-10)(The Special Brothers)(SW)[WB]</description>
@@ -1476,6 +1840,10 @@
 		<description>DiskSpeed v3.1 (1990)(MKSoft Development)[h VSN]</description>
 		<rom name="DiskSpeed v3.1 (1990)(MKSoft Development)[h VSN].adf" size="901120" crc="fb146269" md5="24d50de90d99b36bc12cec362311db70" sha1="00a311368baf9ac347190258e6eee88953e28586"/>
 	</game>
+	<game name="DiskTracer (1989)(Adze)[h PDSoft]">
+		<description>DiskTracer (1989)(Adze)[h PDSoft]</description>
+		<rom name="DiskTracer (1989)(Adze)[h PDSoft].adf" size="901120" crc="58077734" md5="ea953762ab7026bb04895ca5b6143b39" sha1="3ffbe4a88ee28ca98dc44ac63755d8619d44fed3"/>
+	</game>
 	<game name="Dividend Winner (1994-01-07)(Prediction in Silicon)">
 		<description>Dividend Winner (1994-01-07)(Prediction in Silicon)</description>
 		<rom name="Dividend Winner (1994-01-07)(Prediction in Silicon).adf" size="901120" crc="fbb68d0d" md5="a0a9a849c8e22fa832310adad22c8aea" sha1="5165e4204616549b8726d97a251ea046906610f6"/>
@@ -1511,6 +1879,10 @@
 	<game name="DMSer v1.8c (1993-07-20)(Taurus)(PD)">
 		<description>DMSer v1.8c (1993-07-20)(Taurus)(PD)</description>
 		<rom name="DMSer v1.8c (1993-07-20)(Taurus)(PD).adf" size="901120" crc="9800924f" md5="04badc11f72c5affeed691cefbd4d639" sha1="f7e556fcb965cdcac4a79be5d7f95c510cc8ec74"/>
+	</game>
+	<game name="Dragon's Lair Copier (1989)(Australian Crackers United)[h SGT]">
+		<description>Dragon's Lair Copier (1989)(Australian Crackers United)[h SGT]</description>
+		<rom name="Dragon's Lair Copier (1989)(Australian Crackers United)[h SGT].adf" size="901120" crc="7e315390" md5="cdc4e984f85a818bba3c749cee2572c7" sha1="2ac675d2690b76d38787c691b9ac68e879bd6a25"/>
 	</game>
 	<game name="Dumping Disk v1.3 (2003-03-11)(Classic Amiga Preservation Society)">
 		<description>Dumping Disk v1.3 (2003-03-11)(Classic Amiga Preservation Society)</description>
@@ -1552,9 +1924,109 @@
 		<description>EdPlayer v2.1 (1992-09-20)(Mackey, Ed)</description>
 		<rom name="EdPlayer v2.1 (1992-09-20)(Mackey, Ed).adf" size="901120" crc="7e20d025" md5="005754d1fe7686fdfb394d5f6d163fdb" sha1="2f1a6fc034a54e955f2a3392f778c276f2936d0a"/>
 	</game>
-	<game name="Emulatora 500 (1994-06-10)(Rosowski, Pawea)(pl)[req. Amiga CDTV]">
-		<description>Emulatora 500 (1994-06-10)(Rosowski, Pawea)(pl)[req. Amiga CDTV]</description>
-		<rom name="Emulatora 500 (1994-06-10)(Rosowski, Pawea)(pl)[req. Amiga CDTV].adf" size="901120" crc="e618e37c" md5="18fcb63ca4b4775b9c6ee2050eb86367" sha1="d56202f5012b17503359cd109010f5911809487c"/>
+	<game name="Emulator 500 (1994-06-10)(Rosowski, Pawel)(CDTV)(pl)">
+		<description>Emulator 500 (1994-06-10)(Rosowski, Pawel)(CDTV)(pl)</description>
+		<rom name="Emulator 500 (1994-06-10)(Rosowski, Pawel)(CDTV)(pl).adf" size="901120" crc="e618e37c" md5="18fcb63ca4b4775b9c6ee2050eb86367" sha1="d56202f5012b17503359cd109010f5911809487c"/>
+	</game>
+	<game name="EmuTOS v0.9.10 (2018-12-23)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.10 (2018-12-23)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.10 (2018-12-23)(EmuTOS Development Team)(PD).adf" size="901120" crc="19a41f96" md5="d0ccf6233028460448f6aabc25ea49f3" sha1="679bdf580ba26d84d83730a6154ff757545bd619"/>
+	</game>
+	<game name="EmuTOS v0.9.10 - Vampire v2 Optimized (2018-12-23)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.10 - Vampire v2 Optimized (2018-12-23)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.10 - Vampire v2 Optimized (2018-12-23)(EmuTOS Development Team)(PD).adf" size="901120" crc="a08a702e" md5="93ab7e602e7706ad2ad6b2aa5fad1ff9" sha1="8ef1397c1f14db95baf6a465071bf9182dfbc048"/>
+	</game>
+	<game name="EmuTOS v0.9.11 (2019-06-06)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.11 (2019-06-06)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.11 (2019-06-06)(EmuTOS Development Team)(PD).adf" size="901120" crc="97bcbbaa" md5="ec7aaea6e49d3c9345f7a71da539d0b3" sha1="17f910dfc85eecf1b23407e73c5cbacd55c1b902"/>
+	</game>
+	<game name="EmuTOS v0.9.11 - Vampire v2 Optimized (2019-06-06)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.11 - Vampire v2 Optimized (2019-06-06)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.11 - Vampire v2 Optimized (2019-06-06)(EmuTOS Development Team)(PD).adf" size="901120" crc="836f2e4c" md5="d0a83f736d97d8360bfe2dd86250fb43" sha1="e9c5e6d725947e011b1a77fd5602464f8187fb93"/>
+	</game>
+	<game name="EmuTOS v0.9.12 (2019-10-14)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.12 (2019-10-14)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.12 (2019-10-14)(EmuTOS Development Team)(PD).adf" size="901120" crc="40eceaf2" md5="55d1b0ced93d7e0aa1704967371ab4fb" sha1="fb8fc2b3f56740078304d7a345c18cc5592a0183"/>
+	</game>
+	<game name="EmuTOS v0.9.12 - Vampire v2 Optimized (2019-10-14)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.12 - Vampire v2 Optimized (2019-10-14)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.12 - Vampire v2 Optimized (2019-10-14)(EmuTOS Development Team)(PD).adf" size="901120" crc="6963b1d1" md5="025a043a0e9257884ade61b9e34a432c" sha1="b455191c5a6f445e25a6a98732667c0602f0fb4e"/>
+	</game>
+	<game name="EmuTOS v0.9.8 (2017-04-27)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.8 (2017-04-27)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.8 (2017-04-27)(EmuTOS Development Team)(PD).adf" size="901120" crc="73ea866f" md5="5d251d4ad9f30e893e225b70fc0c2385" sha1="60311eb34db58a4c908911a6c99f43bb61da6ea6"/>
+	</game>
+	<game name="EmuTOS v0.9.8 - Vampire v2 Optimized (2017-04-27)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.8 - Vampire v2 Optimized (2017-04-27)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.8 - Vampire v2 Optimized (2017-04-27)(EmuTOS Development Team)(PD).adf" size="901120" crc="c1605dd2" md5="6f147571b9ea6112dc462190505f7a58" sha1="c6b596e0ab1d4658bbdb1461232b03e48d781598"/>
+	</game>
+	<game name="EmuTOS v0.9.9 (2017-12-11)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.9 (2017-12-11)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.9 (2017-12-11)(EmuTOS Development Team)(PD).adf" size="901120" crc="0d2bd0ab" md5="43a0c44552f8bcfc749d7d902efcb542" sha1="13669b23ec1865d86a129872313d8ebcd32f747c"/>
+	</game>
+	<game name="EmuTOS v0.9.9.1 (2017-12-14)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.9.1 (2017-12-14)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.9.1 (2017-12-14)(EmuTOS Development Team)(PD).adf" size="901120" crc="ec278893" md5="6eaae2eff88a51bfc58defc5eafb1df1" sha1="0b93b4e5d6f69dfa2f794cd037f11f99235b2ba1"/>
+	</game>
+	<game name="EmuTOS v0.9.9.1 - Vampire v2 Optimized (2017-12-14)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v0.9.9.1 - Vampire v2 Optimized (2017-12-14)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v0.9.9.1 - Vampire v2 Optimized (2017-12-14)(EmuTOS Development Team)(PD).adf" size="901120" crc="bad5932b" md5="3ebda273308080663bf05bded9c96937" sha1="5cd3818909b56dfdc3baa424484310bc735d9985"/>
+	</game>
+	<game name="EmuTOS v1.0.0 (2020-09-02)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.0.0 (2020-09-02)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.0.0 (2020-09-02)(EmuTOS Development Team)(PD).adf" size="901120" crc="8402f393" md5="8af698db268943cc6f6c2371cdffad31" sha1="980579f93f5c857c461c0f28ed4c9c054ac0452c"/>
+	</game>
+	<game name="EmuTOS v1.0.0 - Vampire v2 Optimized (2020-09-02)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.0.0 - Vampire v2 Optimized (2020-09-02)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.0.0 - Vampire v2 Optimized (2020-09-02)(EmuTOS Development Team)(PD).adf" size="901120" crc="831d3c68" md5="ad33f56fb82bb12f5694656008a81fcb" sha1="443aba5ce567abc001c5c2f61fb4a895bb15cee3"/>
+	</game>
+	<game name="EmuTOS v1.0.1 (2020-12-06)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.0.1 (2020-12-06)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.0.1 (2020-12-06)(EmuTOS Development Team)(PD).adf" size="901120" crc="79cb6959" md5="9495d2878acf6c4a24eea65b73d530b0" sha1="1b47e39e76f11c55459be7ad5e51f84a8eaea106"/>
+	</game>
+	<game name="EmuTOS v1.0.1 - Vampire v2 Optimized (2020-12-06)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.0.1 - Vampire v2 Optimized (2020-12-06)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.0.1 - Vampire v2 Optimized (2020-12-06)(EmuTOS Development Team)(PD).adf" size="901120" crc="c5d4e138" md5="f4c9be4de068c76404036cd3fb7817e5" sha1="33c717ce228bf7c2797f259e728e74a4567c3e82"/>
+	</game>
+	<game name="EmuTOS v1.1 (2021-07-09)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.1 (2021-07-09)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.1 (2021-07-09)(EmuTOS Development Team)(PD).adf" size="901120" crc="2d903373" md5="3622a8bd5b511237d596e2e57d31853b" sha1="f1bd904125f8497b0f061c8cdfe7a6279c97769f"/>
+	</game>
+	<game name="EmuTOS v1.1 - Vampire v2 Optimized (2021-07-09)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.1 - Vampire v2 Optimized (2021-07-09)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.1 - Vampire v2 Optimized (2021-07-09)(EmuTOS Development Team)(PD).adf" size="901120" crc="a97860cf" md5="af50c2cdae1eff2e755f7ed745779f14" sha1="dedd4fe42d50a52c2adf6e82c97da8b6b74756e1"/>
+	</game>
+	<game name="EmuTOS v1.1.1 (2021-07-19)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.1.1 (2021-07-19)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.1.1 (2021-07-19)(EmuTOS Development Team)(PD).adf" size="901120" crc="25f60745" md5="3e8a85d5f2c7c37f711952fda566ced9" sha1="eff6afdd14cd3d251f8cbed8061572bd2a56a473"/>
+	</game>
+	<game name="EmuTOS v1.1.1 - Vampire v2 Optimized (2021-07-19)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.1.1 - Vampire v2 Optimized (2021-07-19)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.1.1 - Vampire v2 Optimized (2021-07-19)(EmuTOS Development Team)(PD).adf" size="901120" crc="265c6bec" md5="50c7631c326f9bc452ef4eb17b812a1a" sha1="b7eafdeb6abe6d4708ff3c8988376776713806fc"/>
+	</game>
+	<game name="EmuTOS v1.2 (2022-08-07)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.2 (2022-08-07)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.2 (2022-08-07)(EmuTOS Development Team)(PD).adf" size="901120" crc="c7dd92ba" md5="e4df9d4e84eed29a021f2c5d7e32dc9b" sha1="c684103da84fa303758ce7bfe138088e8060111b"/>
+	</game>
+	<game name="EmuTOS v1.2 - Vampire v2 Optimized (2022-08-07)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.2 - Vampire v2 Optimized (2022-08-07)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.2 - Vampire v2 Optimized (2022-08-07)(EmuTOS Development Team)(PD).adf" size="901120" crc="6dfc222e" md5="c8f21aff5f8bd5dc8a2aee2e081ac725" sha1="c7fe9cccc6d73cdcead2da99bee3ea13b129f522"/>
+	</game>
+	<game name="EmuTOS v1.2.1 (2022-08-16)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.2.1 (2022-08-16)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.2.1 (2022-08-16)(EmuTOS Development Team)(PD).adf" size="901120" crc="3305f17b" md5="21ddde235d293ef61f7bc4d92e589863" sha1="992dfefa510f3516197aab7f704e4dccda82e404"/>
+	</game>
+	<game name="EmuTOS v1.2.1 - Vampire v2 Optimized (2022-08-16)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.2.1 - Vampire v2 Optimized (2022-08-16)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.2.1 - Vampire v2 Optimized (2022-08-16)(EmuTOS Development Team)(PD).adf" size="901120" crc="43ffe503" md5="fd2aafe4ba620263bfdd9569284963c6" sha1="cea8d5e7c0cb95c4de691666e4e91e87533e193f"/>
+	</game>
+	<game name="EmuTOS v1.3 (2024-03-17)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.3 (2024-03-17)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.3 (2024-03-17)(EmuTOS Development Team)(PD).adf" size="901120" crc="754cc144" md5="e9a26596fcaac744e622cde1b689c591" sha1="3755b6f95ee13ca86b9cffdd347c5c65ef0f89b6"/>
+	</game>
+	<game name="EmuTOS v1.3 - Vampire v2 Optimized (2024-03-17)(EmuTOS Development Team)(PD)">
+		<description>EmuTOS v1.3 - Vampire v2 Optimized (2024-03-17)(EmuTOS Development Team)(PD)</description>
+		<rom name="EmuTOS v1.3 - Vampire v2 Optimized (2024-03-17)(EmuTOS Development Team)(PD).adf" size="901120" crc="24af2bd6" md5="006c3b90842d491047793cfa7453a2f1" sha1="d279ffe0bb426616a3960d9dad30912445d6a1fc"/>
 	</game>
 	<game name="Epoch Master v1.1 (1994)(Pritchard, J.)(SW)">
 		<description>Epoch Master v1.1 (1994)(Pritchard, J.)(SW)</description>
@@ -1880,6 +2352,14 @@
 		<description>Future-Composer v1.4 (1990-06-30)(Superions)[v SystemZ v5.4]</description>
 		<rom name="Future-Composer v1.4 (1990-06-30)(Superions)[v SystemZ v5.4].adf" size="901120" crc="31ce72b9" md5="205f5d867e015c3852c6b9413dda04d0" sha1="11fa048d0a69ce50323f7a2258bda82591c93779"/>
 	</game>
+	<game name="G.C.S.E. Physics Tutor v1.2 (1996)(O'Connor, Chris - 5D Licenceware)(Disk 1 of 2)">
+		<description>G.C.S.E. Physics Tutor v1.2 (1996)(O'Connor, Chris - 5D Licenceware)(Disk 1 of 2)</description>
+		<rom name="G.C.S.E. Physics Tutor v1.2 (1996)(O'Connor, Chris - 5D Licenceware)(Disk 1 of 2).adf" size="901120" crc="58f22588" md5="7772b3ee795e709c3e006a00f9c2d3c2" sha1="623bea612598492c83264bad509854ca53e7317d"/>
+	</game>
+	<game name="G.C.S.E. Physics Tutor v1.2 (1996)(O'Connor, Chris - 5D Licenceware)(Disk 2 of 2)[bootable]">
+		<description>G.C.S.E. Physics Tutor v1.2 (1996)(O'Connor, Chris - 5D Licenceware)(Disk 2 of 2)[bootable]</description>
+		<rom name="G.C.S.E. Physics Tutor v1.2 (1996)(O'Connor, Chris - 5D Licenceware)(Disk 2 of 2)[bootable].adf" size="901120" crc="464d29d2" md5="5f676024db36cb0f81f02f9fa4e289a3" sha1="7d4e0aa18a267bc49778dd3a582f95e0a135fee2"/>
+	</game>
 	<game name="GAMA Professional v1.00 (1996)(Scum)(de)[inc. source code, AMOS]">
 		<description>GAMA Professional v1.00 (1996)(Scum)(de)[inc. source code, AMOS]</description>
 		<rom name="GAMA Professional v1.00 (1996)(Scum)(de)[inc. source code, AMOS].adf" size="901120" crc="5f6765e2" md5="e6ea67ac2548b41e59dca40a0c6bfdc7" sha1="7fd11a36c1847d504fb7162e2a6adb9ec670d71a"/>
@@ -1999,6 +2479,10 @@
 	<game name="HotHelp v2.00 (1992-02-18)(Bernstein Zirkel Softworks)(de)">
 		<description>HotHelp v2.00 (1992-02-18)(Bernstein Zirkel Softworks)(de)</description>
 		<rom name="HotHelp v2.00 (1992-02-18)(Bernstein Zirkel Softworks)(de).adf" size="901120" crc="5073f438" md5="cc0c557031c94cb1f78350a0688fc145" sha1="bb0d992061efcb17acaa04c82eb40856aac3a2c4"/>
+	</game>
+	<game name="How HAM Works (2024-10-05)(Cherryhomes, Thomas)[WB][inc. source code, C]">
+		<description>How HAM Works (2024-10-05)(Cherryhomes, Thomas)[WB][inc. source code, C]</description>
+		<rom name="How HAM Works (2024-10-05)(Cherryhomes, Thomas)[WB][inc. source code, C].adf" size="901120" crc="0e5873df" md5="924e14f3d02793445ff34b75287545e7" sha1="a7adfb8f7fba63fda3884d1c20ea210e87d1d3d7"/>
 	</game>
 	<game name="HyperANSI v1.08 (1994-01-30)(Nelson, Mike O.)(SW)">
 		<description>HyperANSI v1.08 (1994-01-30)(Nelson, Mike O.)(SW)</description>
@@ -2148,6 +2632,10 @@
 		<description>J-Windows (demo) (1996)(F1 Licenceware)(LW)[req. AMOS Professional]</description>
 		<rom name="J-Windows (demo) (1996)(F1 Licenceware)(LW)[req. AMOS Professional].adf" size="901120" crc="36417228" md5="3cd46ba57477614a90595b4d6bb10db4" sha1="e800995275bae63a6a2428cebc9299d1ac0f408e"/>
 	</game>
+	<game name="Jack the Ripper v0.99 (1992-05)(Shining)">
+		<description>Jack the Ripper v0.99 (1992-05)(Shining)</description>
+		<rom name="Jack the Ripper v0.99 (1992-05)(Shining).adf" size="901120" crc="b10396a2" md5="fe3b8860be7a85faef2aa0b92e0d898f" sha1="13394e382b3cae70afe6fd654931b5d7575e085c"/>
+	</game>
 	<game name="JamCracker Ripper v1.7 (1990-09-18)(Prophecy)">
 		<description>JamCracker Ripper v1.7 (1990-09-18)(Prophecy)</description>
 		<rom name="JamCracker Ripper v1.7 (1990-09-18)(Prophecy).adf" size="901120" crc="d48c735e" md5="0734bbd042c3ee802e85d287fbc93f0c" sha1="5b5f6402377df863bd20d5bdb0c862199ef9e2bf"/>
@@ -2224,6 +2712,10 @@
 		<description>Kick13 v2.0 (1992)(SinSoft)[h Debond][updated]</description>
 		<rom name="Kick13 v2.0 (1992)(SinSoft)[h Debond][updated].adf" size="901120" crc="73de86b9" md5="6e4afae7d250b6a88b0b6b4ecfe6f330" sha1="49ac91e73db83c65d23e6b00d17617d50ef57623"/>
 	</game>
+	<game name="Knitting Pattern Creator (1992)(-)[AMOS]">
+		<description>Knitting Pattern Creator (1992)(-)[AMOS]</description>
+		<rom name="Knitting Pattern Creator (1992)(-)[AMOS].adf" size="901120" crc="88045e9c" md5="58400c5c8c90eafe8aa62641484d735d" sha1="258686cd4d7c16886da6ad77e0722923d10be320"/>
+	</game>
 	<game name="Knitting Pattern Creator (19xx)(Knight, John - F1 Licenceware)(LW)">
 		<description>Knitting Pattern Creator (19xx)(Knight, John - F1 Licenceware)(LW)</description>
 		<rom name="Knitting Pattern Creator (19xx)(Knight, John - F1 Licenceware)(LW).adf" size="901120" crc="bbba2858" md5="26586cf55a70a93fb7ea90df996e7e7e" sha1="65935e07e43ece15a68eac84d8d65cd61352e492"/>
@@ -2263,6 +2755,10 @@
 	<game name="Latest Disk of Printer Drivers (19xx)(Twilight)(PD)">
 		<description>Latest Disk of Printer Drivers (19xx)(Twilight)(PD)</description>
 		<rom name="Latest Disk of Printer Drivers (19xx)(Twilight)(PD).adf" size="901120" crc="78caecc0" md5="4ec99329c636ed499031ee3f38e2fded" sha1="43fe1cd2810c41a1a4259b51e921d041b70ef620"/>
+	</game>
+	<game name="LECasm r1a (1994-02-06)(Leck, Justin)">
+		<description>LECasm r1a (1994-02-06)(Leck, Justin)</description>
+		<rom name="LECasm r1a (1994-02-06)(Leck, Justin).adf" size="901120" crc="64b69909" md5="6443002234c062b17cbbec15b70f62ef" sha1="c27391d835acb2284a06a4a4738dc004ba265ce6"/>
 	</game>
 	<game name="LeeJan Enterprises Disk 156 (19xx)(LeeJan Enterprises)(PD)[v Lamer Exterminator]">
 		<description>LeeJan Enterprises Disk 156 (19xx)(LeeJan Enterprises)(PD)[v Lamer Exterminator]</description>
@@ -2592,6 +3088,10 @@
 		<description>Money Program v1.0, The (19xx)(Bilsborough, Alan)(SW)[AMOS]</description>
 		<rom name="Money Program v1.0, The (19xx)(Bilsborough, Alan)(SW)[AMOS].adf" size="901120" crc="79f03d42" md5="6a03f9f81230f4319c46873a27a68f3c" sha1="2ff3c07aecd9ca78cfe42d1c8b3c3297ca39a7a0"/>
 	</game>
+	<game name="Moondial v2.0 (1992)(Punky)(fr)[h PNA]">
+		<description>Moondial v2.0 (1992)(Punky)(fr)[h PNA]</description>
+		<rom name="Moondial v2.0 (1992)(Punky)(fr)[h PNA].adf" size="901120" crc="0d78cc12" md5="d60c5204f241f7745458d4ecd72d5502" sha1="156a3bd04502a73d7d528bfbc9cc4f5249eb64d9"/>
+	</game>
 	<game name="Motion Master II (1994)(Tindall, Jon)(PD)(Disk 1 of 2)[req. LightWave]">
 		<description>Motion Master II (1994)(Tindall, Jon)(PD)(Disk 1 of 2)[req. LightWave]</description>
 		<rom name="Motion Master II (1994)(Tindall, Jon)(PD)(Disk 1 of 2)[req. LightWave].adf" size="901120" crc="f48244c4" md5="4dce0bd042e79bc08a208048b92ee9ad" sha1="db25dd29addd8ab4afa363bccf4a353158e8c87e"/>
@@ -2643,6 +3143,10 @@
 	<game name="Multiplot XLNe v1.1 (1991)(Baxter, A. - Mooney, T.)(PD)[h ComputerEyes PD]">
 		<description>Multiplot XLNe v1.1 (1991)(Baxter, A. - Mooney, T.)(PD)[h ComputerEyes PD]</description>
 		<rom name="Multiplot XLNe v1.1 (1991)(Baxter, A. - Mooney, T.)(PD)[h ComputerEyes PD].adf" size="901120" crc="48e8a155" md5="f8ce0e6868c962db9c9d3b82d332f1f2" sha1="c3b54368dd40ed093b68294254c172ed3a933e92"/>
+	</game>
+	<game name="Multitudinous v4.0 (1995)(Winspear, K.)(SW)[h 17-Bit Software]">
+		<description>Multitudinous v4.0 (1995)(Winspear, K.)(SW)[h 17-Bit Software]</description>
+		<rom name="Multitudinous v4.0 (1995)(Winspear, K.)(SW)[h 17-Bit Software].adf" size="901120" crc="1831a6fd" md5="7bcfdbef34376f17656993c4027d8335" sha1="bf62da07b4dc0c43495b7a719c1b25f883bbc6ec"/>
 	</game>
 	<game name="Music2Tab Excel v1.61 (1995)(Family '95, The - F1 Licenceware)(LW)">
 		<description>Music2Tab Excel v1.61 (1995)(Family '95, The - F1 Licenceware)(LW)</description>
@@ -2760,9 +3264,25 @@
 		<description>NoisePlayer v3.00 (1990-09-30)(Tristar - Red Sector)</description>
 		<rom name="NoisePlayer v3.00 (1990-09-30)(Tristar - Red Sector).adf" size="901120" crc="c093d86c" md5="8178753fd1cbaa4376f48773baf63fa9" sha1="59e2dc0dd4c498165433d138a6330bd745ec026e"/>
 	</game>
-	<game name="NoiseTracker v1.2 Release C (1990)(United Forces)">
-		<description>NoiseTracker v1.2 Release C (1990)(United Forces)</description>
-		<rom name="NoiseTracker v1.2 Release C (1990)(United Forces).adf" size="901120" crc="042bfb2e" md5="c3e2acb16ce330fcc2d0b8f61b1bd146" sha1="903665b0dcdc86b144327e3d7045eceb456e283e"/>
+	<game name="NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[b corrupt file]">
+		<description>NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[b corrupt file]</description>
+		<rom name="NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[b corrupt file].adf" size="901120" crc="4b98e453" md5="73465d5c4f1e4a95559cf57b391e71f8" sha1="45b8ca2808a15c2f51baaae8beb74aff7a16a59c"/>
+	</game>
+	<game name="NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[v Byte Bandit 1][inc. NoiseTracker v2.0]">
+		<description>NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[v Byte Bandit 1][inc. NoiseTracker v2.0]</description>
+		<rom name="NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[v Byte Bandit 1][inc. NoiseTracker v2.0].adf" size="901120" crc="5f85d8cc" md5="2d790d38e2e4def5ffbe5f828fb1604c" sha1="fd011a0830fd3cbee0f6c6774c9e512cd63ab92f"/>
+	</game>
+	<game name="NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[v SystemZ v5.4]">
+		<description>NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[v SystemZ v5.4]</description>
+		<rom name="NoiseTracker v1.0 - Musicdisk III (1989-07-28)(Northstar - The Silents)[v SystemZ v5.4].adf" size="901120" crc="bcf798a1" md5="068b88c90c4c908ed6d997eeb63e150a" sha1="d83b5c43d20302c5c098d140018986e8f0a3e556"/>
+	</game>
+	<game name="NoiseTracker v1.2 release C (1990-06)(United Forces)">
+		<description>NoiseTracker v1.2 release C (1990-06)(United Forces)</description>
+		<rom name="NoiseTracker v1.2 release C (1990-06)(United Forces).adf" size="901120" crc="4812d6e3" md5="b3a295ae31ebeb956129efb09d14029b" sha1="d7ebbea2c62979de1c1ddb1b4f2c30c8c66d0965"/>
+	</game>
+	<game name="NoiseTracker v1.2 release C (1990-06)(United Forces)[m bamcopy]">
+		<description>NoiseTracker v1.2 release C (1990-06)(United Forces)[m bamcopy]</description>
+		<rom name="NoiseTracker v1.2 release C (1990-06)(United Forces)[m bamcopy].adf" size="901120" crc="042bfb2e" md5="c3e2acb16ce330fcc2d0b8f61b1bd146" sha1="903665b0dcdc86b144327e3d7045eceb456e283e"/>
 	</game>
 	<game name="NoiseTracker v1.3 release A (1991-02)(United Forces)">
 		<description>NoiseTracker v1.3 release A (1991-02)(United Forces)</description>
@@ -2771,6 +3291,22 @@
 	<game name="NoiseTracker v1.3 release A (1991-02)(United Forces)[a]">
 		<description>NoiseTracker v1.3 release A (1991-02)(United Forces)[a]</description>
 		<rom name="NoiseTracker v1.3 release A (1991-02)(United Forces)[a].adf" size="901120" crc="6047e7c4" md5="6b3d6cb190faa5963a7788e05804976f" sha1="645df718118041da441fd20149499cc28ec14e94"/>
+	</game>
+	<game name="NoiseTracker v1.3 release D (1991-03)(United Forces)">
+		<description>NoiseTracker v1.3 release D (1991-03)(United Forces)</description>
+		<rom name="NoiseTracker v1.3 release D (1991-03)(United Forces).adf" size="901120" crc="03ebbd22" md5="4a661be582f502b32de5fd7f07a94749" sha1="a4a858edf6219c37a71799c4c995935ecbea3546"/>
+	</game>
+	<game name="NoiseTracker v2.0 (1990-05)(Mahoney - Kaktus)">
+		<description>NoiseTracker v2.0 (1990-05)(Mahoney - Kaktus)</description>
+		<rom name="NoiseTracker v2.0 (1990-05)(Mahoney - Kaktus).adf" size="901120" crc="20968f16" md5="7a7af76dc2d745ff0d3a70599aa0f35a" sha1="d39f809b8d082163e6587aff39e8e70e972f2429"/>
+	</game>
+	<game name="NoiseTracker v2.0 (1990-07)(Mahoney - Kaktus)">
+		<description>NoiseTracker v2.0 (1990-07)(Mahoney - Kaktus)</description>
+		<rom name="NoiseTracker v2.0 (1990-07)(Mahoney - Kaktus).adf" size="901120" crc="d9b09fea" md5="00ef57567818ece302d146c56490f9dd" sha1="e43fb2677db036a7825b216b70c296f5fb9e721e"/>
+	</game>
+	<game name="NoiseTracker v2.0 (1990-07)(Mahoney - Kaktus)[inc. IntuiTracker]">
+		<description>NoiseTracker v2.0 (1990-07)(Mahoney - Kaktus)[inc. IntuiTracker]</description>
+		<rom name="NoiseTracker v2.0 (1990-07)(Mahoney - Kaktus)[inc. IntuiTracker].adf" size="901120" crc="80311e3a" md5="3afc708911783b36614558e274278c7e" sha1="a03a5891f067ae9e78b2f1be9de15f1f2a8c3e91"/>
 	</game>
 	<game name="Non Intelligent AMOS Language Learner v1.0 (1990-08)(Peck, Matthew)(PD)">
 		<description>Non Intelligent AMOS Language Learner v1.0 (1990-08)(Peck, Matthew)(PD)</description>
@@ -2916,6 +3452,30 @@
 		<description>PLATOTerm v0.2.1 (2018-12-09)(Cherryhomes, Thomas - Schaub, William)[WB]</description>
 		<rom name="PLATOTerm v0.2.1 (2018-12-09)(Cherryhomes, Thomas - Schaub, William)[WB].adf" size="901120" crc="59208f3a" md5="7a99fe3863d06a7e878e291811bca843" sha1="028f26083aa6540ae7c26e3f254ae3e77a9af5fb"/>
 	</game>
+	<game name="PLATOTerm v0.3 (2018-12-27)(Cherryhomes, Thomas - Schaub, William)[KS1.x]">
+		<description>PLATOTerm v0.3 (2018-12-27)(Cherryhomes, Thomas - Schaub, William)[KS1.x]</description>
+		<rom name="PLATOTerm v0.3 (2018-12-27)(Cherryhomes, Thomas - Schaub, William)[KS1.x].adf" size="901120" crc="a78d07c4" md5="43719304881483862f94ec0e2708db51" sha1="25cb2915af90afa14f22444d7d432b251dcad1f4"/>
+	</game>
+	<game name="PLATOTerm v0.3 (2018-12-27)(Cherryhomes, Thomas - Schaub, William)[WB]">
+		<description>PLATOTerm v0.3 (2018-12-27)(Cherryhomes, Thomas - Schaub, William)[WB]</description>
+		<rom name="PLATOTerm v0.3 (2018-12-27)(Cherryhomes, Thomas - Schaub, William)[WB].adf" size="901120" crc="dfa0f076" md5="d9438c5160fcc5ad65a4c4b498bb9a67" sha1="40c9aec5ffa2fac35c15e110ecfddc95d5bbde86"/>
+	</game>
+	<game name="PLATOTerm v0.4 (2019-02-18)(Cherryhomes, Thomas - Schaub, William)[KS1.x]">
+		<description>PLATOTerm v0.4 (2019-02-18)(Cherryhomes, Thomas - Schaub, William)[KS1.x]</description>
+		<rom name="PLATOTerm v0.4 (2019-02-18)(Cherryhomes, Thomas - Schaub, William)[KS1.x].adf" size="901120" crc="56f0e266" md5="34820bf773e7111b544dda66d770812c" sha1="1f76cb6ac119876c6becfdde9fcc85a198998482"/>
+	</game>
+	<game name="PLATOTerm v0.4 (2019-02-18)(Cherryhomes, Thomas - Schaub, William)[WB]">
+		<description>PLATOTerm v0.4 (2019-02-18)(Cherryhomes, Thomas - Schaub, William)[WB]</description>
+		<rom name="PLATOTerm v0.4 (2019-02-18)(Cherryhomes, Thomas - Schaub, William)[WB].adf" size="901120" crc="9c9e79cd" md5="7c20bb600bd14a81f289a7035c404cca" sha1="a134597fd61ae29e8c30f7820240a042c0d10586"/>
+	</game>
+	<game name="PLATOTerm v0.5 (2019-07-09)(Cherryhomes, Thomas - Schaub, William)[KS1.x]">
+		<description>PLATOTerm v0.5 (2019-07-09)(Cherryhomes, Thomas - Schaub, William)[KS1.x]</description>
+		<rom name="PLATOTerm v0.5 (2019-07-09)(Cherryhomes, Thomas - Schaub, William)[KS1.x].adf" size="901120" crc="03d4095d" md5="ec5b45e34c25d9971960b90eb2a1660e" sha1="5bc5c3b155e33c1495e4450a2c64cd1ebc462c10"/>
+	</game>
+	<game name="PLATOTerm v0.5 (2019-07-09)(Cherryhomes, Thomas - Schaub, William)[WB]">
+		<description>PLATOTerm v0.5 (2019-07-09)(Cherryhomes, Thomas - Schaub, William)[WB]</description>
+		<rom name="PLATOTerm v0.5 (2019-07-09)(Cherryhomes, Thomas - Schaub, William)[WB].adf" size="901120" crc="42f2d7e2" md5="c2440675349d0050cd5dd878db5bde5a" sha1="452b21d400b855638a06223d54e8b8c620206315"/>
+	</game>
 	<game name="PlaySID v2.1 (1993-03-12)(Sundell, Hakan - Birk, Ron)[WB]">
 		<description>PlaySID v2.1 (1993-03-12)(Sundell, Hakan - Birk, Ron)[WB]</description>
 		<rom name="PlaySID v2.1 (1993-03-12)(Sundell, Hakan - Birk, Ron)[WB].adf" size="901120" crc="d9e8dfd3" md5="00e6d34a395e8998d5e2be82398563ca" sha1="ae2bf45d0362f1cda7d0f1a2e744c1af6a75e133"/>
@@ -3036,6 +3596,14 @@
 		<description>ProTitler Video Titling System v1.0 (1994)(Henegan, Jason)(SW)[WB]</description>
 		<rom name="ProTitler Video Titling System v1.0 (1994)(Henegan, Jason)(SW)[WB].adf" size="901120" crc="70322dda" md5="d28204d75fd04ba7f5f8768b03d3b5f8" sha1="5c89040e0e5778c761ae5314e21073473bd95048"/>
 	</game>
+	<game name="Protracker Support (1996)(Mental Diseases)[h Mariusz Listowski][WB]">
+		<description>Protracker Support (1996)(Mental Diseases)[h Mariusz Listowski][WB]</description>
+		<rom name="Protracker Support (1996)(Mental Diseases)[h Mariusz Listowski][WB].adf" size="901120" crc="de80b6db" md5="63bed6f79b4207ce304b9861f03157d1" sha1="172552147ebc2bfd181805642b075df0be7c4aee"/>
+	</game>
+	<game name="Protracker Support (1996)(Mental Diseases)[WB]">
+		<description>Protracker Support (1996)(Mental Diseases)[WB]</description>
+		<rom name="Protracker Support (1996)(Mental Diseases)[WB].adf" size="901120" crc="53406aaf" md5="1d6f09238f2e60cad66e985b4a682d64" sha1="ee519a8e1e777964f184fcc2015dd3046dad841b"/>
+	</game>
 	<game name="ProTracker v1.0 (1990-09)(Amiga Freelancers)(PD)[h Ipec Elite - Software 2000]">
 		<description>ProTracker v1.0 (1990-09)(Amiga Freelancers)(PD)[h Ipec Elite - Software 2000]</description>
 		<rom name="ProTracker v1.0 (1990-09)(Amiga Freelancers)(PD)[h Ipec Elite - Software 2000].adf" size="901120" crc="7f8a2972" md5="ee15e977d6c693854523c5cfb5fe3796" sha1="d0476828d1ad6d810125bf7ea1a7913de6ad5c26"/>
@@ -3047,6 +3615,14 @@
 	<game name="ProTracker v1.2A (1991-07)(Amiga Freelancers)(PD)[WB]">
 		<description>ProTracker v1.2A (1991-07)(Amiga Freelancers)(PD)[WB]</description>
 		<rom name="ProTracker v1.2A (1991-07)(Amiga Freelancers)(PD)[WB].adf" size="901120" crc="9a01eb40" md5="743cc0f73cc3d31d3ab6a5b1c6e8001f" sha1="438b6173f22004c9c2f024822210984d4f959dcf"/>
+	</game>
+	<game name="Protracker v1.2e Serial-Link Version (1994-01-09)(Sobon, Raul)[h Mystical Places]">
+		<description>Protracker v1.2e Serial-Link Version (1994-01-09)(Sobon, Raul)[h Mystical Places]</description>
+		<rom name="Protracker v1.2e Serial-Link Version (1994-01-09)(Sobon, Raul)[h Mystical Places].adf" size="901120" crc="1bd78af6" md5="e8db6e2bdfb3129e9a5679601213263c" sha1="309dbb3f4ab0619fe29e2820d911e3bd4179f968"/>
+	</game>
+	<game name="Protracker v1.2e Serial-Link Version (1994-01-09)(Sobon, Raul)[h X-Factor]">
+		<description>Protracker v1.2e Serial-Link Version (1994-01-09)(Sobon, Raul)[h X-Factor]</description>
+		<rom name="Protracker v1.2e Serial-Link Version (1994-01-09)(Sobon, Raul)[h X-Factor].adf" size="901120" crc="df4c7dc1" md5="ce95199bf996aabbfc26ab9b0e82e23a" sha1="92c41cac6765c17a94d30ad6de24d9e3d7335ad0"/>
 	</game>
 	<game name="ProTracker v1.8 Serial-Link version (1994)(Scandal)">
 		<description>ProTracker v1.8 Serial-Link version (1994)(Scandal)</description>
@@ -3107,6 +3683,14 @@
 	<game name="ProTracker v2.3f (2023-10-09)(8bitbubsy)">
 		<description>ProTracker v2.3f (2023-10-09)(8bitbubsy)</description>
 		<rom name="ProTracker v2.3f (2023-10-09)(8bitbubsy).adf" size="901120" crc="55cf1cec" md5="3f7d8a7389ecbe57e774b7f5397bc978" sha1="7ade0a6fed33a4cadf291c313d307de6ed0dc5bc"/>
+	</game>
+	<game name="ProTracker v2.3f (2024-09-12)(8bitbubsy)">
+		<description>ProTracker v2.3f (2024-09-12)(8bitbubsy)</description>
+		<rom name="ProTracker v2.3f (2024-09-12)(8bitbubsy).adf" size="901120" crc="dc24e0ed" md5="2b8585c6682031f7fdfd51e6dead5cdf" sha1="f538abb697263906d71e60b2da6f46d098c8c888"/>
+	</game>
+	<game name="ProTracker v2.3f (2024-11-17)(8bitbubsy)">
+		<description>ProTracker v2.3f (2024-11-17)(8bitbubsy)</description>
+		<rom name="ProTracker v2.3f (2024-11-17)(8bitbubsy).adf" size="901120" crc="f77345d4" md5="250d2f8d758ffa39c4954a184691cb40" sha1="4608eeeea260a7c230fcf1cfa4399c7cb1114e67"/>
 	</game>
 	<game name="ProTracker v2.95b (1993-01)(Apogee Technologies)(PD)">
 		<description>ProTracker v2.95b (1993-01)(Apogee Technologies)(PD)</description>
@@ -3232,6 +3816,46 @@
 		<description>QuickTel v5.005c (1991-06-10)(Canal-4)(fr)[req. Minitel]</description>
 		<rom name="QuickTel v5.005c (1991-06-10)(Canal-4)(fr)[req. Minitel].adf" size="901120" crc="ecb3fd09" md5="21f1a4bbbadc65fc267c88b50d3e67b6" sha1="d14001b58b745053478bab43627da4c32e002d68"/>
 	</game>
+	<game name="Racket - Dystrybutor v1.0 (1993)(Pixel Klub)(pl)[unreleased]">
+		<description>Racket - Dystrybutor v1.0 (1993)(Pixel Klub)(pl)[unreleased]</description>
+		<rom name="Racket - Dystrybutor v1.0 (1993)(Pixel Klub)(pl)[unreleased].adf" size="901120" crc="6f9f77a0" md5="79c621d7feec78aa33d902288f04739b" sha1="930c897121af7d8662fd7d8e30ee2d60c6b60564"/>
+	</game>
+	<game name="Racket v1.02 (demo) (1994-03)(Pixel Klub)(pl)(SW)">
+		<description>Racket v1.02 (demo) (1994-03)(Pixel Klub)(pl)(SW)</description>
+		<rom name="Racket v1.02 (demo) (1994-03)(Pixel Klub)(pl)(SW).adf" size="901120" crc="23abdb79" md5="f499eca77abb8ad32ccd8856f610eacd" sha1="ab63dec0c897f5ebb55805080fb11b1d67e6954d"/>
+	</game>
+	<game name="Racket v1.09 (demo) (1995-02)(Pixel Klub)(pl)(SW)">
+		<description>Racket v1.09 (demo) (1995-02)(Pixel Klub)(pl)(SW)</description>
+		<rom name="Racket v1.09 (demo) (1995-02)(Pixel Klub)(pl)(SW).adf" size="901120" crc="a2cefde9" md5="f799b30564ab1d99ef8abd5e3c11fe74" sha1="4e7c9716621bf64f39bd5c16b7b46f62860b4e47"/>
+	</game>
+	<game name="Racket v1.09 - Registration Disk (1995-02)(Pixel Klub)(pl)(SW-R)[HD]">
+		<description>Racket v1.09 - Registration Disk (1995-02)(Pixel Klub)(pl)(SW-R)[HD]</description>
+		<rom name="Racket v1.09 - Registration Disk (1995-02)(Pixel Klub)(pl)(SW-R)[HD].adf" size="901120" crc="5c3196dd" md5="4ba3768c027c9ad1fc29599b5129fbd3" sha1="4d6d967448e8cc88ccb4870a977cdb270356a2ea"/>
+	</game>
+	<game name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 1 of 4)(Program)[b corrupt file]">
+		<description>Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 1 of 4)(Program)[b corrupt file]</description>
+		<rom name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 1 of 4)(Program)[b corrupt file].adf" size="901120" crc="a2d70af3" md5="890ef93175152eae6fa3de01b4b1817d" sha1="71bdcb0e5d9468ea71771d6993eaa49fd2c2ed9a"/>
+	</game>
+	<game name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 1 of 4)(Program)[recompiled]">
+		<description>Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 1 of 4)(Program)[recompiled]</description>
+		<rom name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 1 of 4)(Program)[recompiled].adf" size="901120" crc="fc4053b8" md5="61328081cec701f3980e940fdcc6eb5d" sha1="d6c541ca961e66ea31ef42c9c977d317372279ae"/>
+	</game>
+	<game name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 2 of 4)(Dane1)">
+		<description>Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 2 of 4)(Dane1)</description>
+		<rom name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 2 of 4)(Dane1).adf" size="901120" crc="169f41d5" md5="4a2307b52a0416abe613d5d730b2d33f" sha1="bab5e428ee86791bb05fb22777cf8efdcf9dd00c"/>
+	</game>
+	<game name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 3 of 4)(Dane2)">
+		<description>Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 3 of 4)(Dane2)</description>
+		<rom name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 3 of 4)(Dane2).adf" size="901120" crc="7c8bfc1d" md5="fee0d123d7ed6b0c38d74f087d3f25b3" sha1="f70072bc71a4ca991404cf147dc1f65cc27043ee"/>
+	</game>
+	<game name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 4 of 4)(Help)">
+		<description>Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 4 of 4)(Help)</description>
+		<rom name="Racket v1.10 (1995-06)(Pixel Klub)(pl)(SW)(Disk 4 of 4)(Help).adf" size="901120" crc="11a1b003" md5="3c867de1d5be83f6c59241e4a78f2772" sha1="003443926a93799638fea52c7f4c8c37c469cd49"/>
+	</game>
+	<game name="Racket v1.10 - Source Code (1995-06)(Pixel Klub)(pl)[AMOS]">
+		<description>Racket v1.10 - Source Code (1995-06)(Pixel Klub)(pl)[AMOS]</description>
+		<rom name="Racket v1.10 - Source Code (1995-06)(Pixel Klub)(pl)[AMOS].adf" size="901120" crc="74e4cfde" md5="7e9c0ae88b79f0f27a9d04b5b1c79739" sha1="2685afbfa9ca5fed1e7f2295790fc69ab06eb03f"/>
+	</game>
 	<game name="RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW)">
 		<description>RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW)</description>
 		<rom name="RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW).adf" size="901120" crc="e2dbf2cf" md5="9ac0417742a5fb2ff3a8589266dc30ab" sha1="74438ac1ad20c6025686cc279605c550b6c10f94"/>
@@ -3267,6 +3891,10 @@
 	<game name="RattleCopy v2.2 (1990-05-20)(RattleHead)[cr OCL]">
 		<description>RattleCopy v2.2 (1990-05-20)(RattleHead)[cr OCL]</description>
 		<rom name="RattleCopy v2.2 (1990-05-20)(RattleHead)[cr OCL].adf" size="901120" crc="e82bd957" md5="f7e94892236bb4e870b1e7bf3c383e2f" sha1="a60a68680cdd398d942ef5eb3d52e5a3df315391"/>
+	</game>
+	<game name="RattleCopy v2.2 (1990-05-20)(RattleHead)[cr QTX][h TFA]">
+		<description>RattleCopy v2.2 (1990-05-20)(RattleHead)[cr QTX][h TFA]</description>
+		<rom name="RattleCopy v2.2 (1990-05-20)(RattleHead)[cr QTX][h TFA].adf" size="901120" crc="024e533d" md5="7a5de500eab099a7b48b29464b655692" sha1="73c5c6bdda65e81ad4e91c09389bc7c69d9e85fd"/>
 	</game>
 	<game name="Rave Generator v2.01 (1993)(Harvie, Richard)[AMOS]">
 		<description>Rave Generator v2.01 (1993)(Harvie, Richard)[AMOS]</description>
@@ -3531,6 +4159,26 @@
 	<game name="Seka v3.2 (1989-12-28)(Kefrens)[h Amitech]">
 		<description>Seka v3.2 (1989-12-28)(Kefrens)[h Amitech]</description>
 		<rom name="Seka v3.2 (1989-12-28)(Kefrens)[h Amitech].adf" size="901120" crc="c6f81166" md5="089d4a56a1aed8dea0c4e9b7297c56dd" sha1="de2f0b87c4a61c757f49d8824f02c0f4f8e24ff3"/>
+	</game>
+	<game name="Serena Shell v0.3.0 alpha (2024-12-28)(Planitzer, Dietmar)[req. Senera OS v0.3.0]">
+		<description>Serena Shell v0.3.0 alpha (2024-12-28)(Planitzer, Dietmar)[req. Senera OS v0.3.0]</description>
+		<rom name="Serena Shell v0.3.0 alpha (2024-12-28)(Planitzer, Dietmar)[req. Senera OS v0.3.0].adf" size="901120" crc="1c7d30a6" md5="f1b489d3caf1202da018d8aec7284808" sha1="785e5ca2cac07e0e02b18514fdf8c6d0b862fb45"/>
+	</game>
+	<game name="ShadesKiller v3.2 (1993)(Shades)">
+		<description>ShadesKiller v3.2 (1993)(Shades)</description>
+		<rom name="ShadesKiller v3.2 (1993)(Shades).adf" size="901120" crc="7997f755" md5="62cea7f8184cd72da8a464a184a64c95" sha1="6ca25a3b25c2f52bdbc1a0028b8139af8656d11b"/>
+	</game>
+	<game name="ShadesKiller v3.6 (1994)(Progress)">
+		<description>ShadesKiller v3.6 (1994)(Progress)</description>
+		<rom name="ShadesKiller v3.6 (1994)(Progress).adf" size="901120" crc="d28729bb" md5="9c5890c4b16a6231127460381166dfae" sha1="968dddfa9876186068f7acf579cdfa2bd77bcc24"/>
+	</game>
+	<game name="ShadesTracker v1.5 (1992-05-23)(Shades)">
+		<description>ShadesTracker v1.5 (1992-05-23)(Shades)</description>
+		<rom name="ShadesTracker v1.5 (1992-05-23)(Shades).adf" size="901120" crc="4ebe31c0" md5="120bab2131429688bb844c4076fe8a60" sha1="826d792515f1e9957d037baa57c5ee87d476bd3f"/>
+	</game>
+	<game name="ShadesTracker v2.0 (1992)(Shades)">
+		<description>ShadesTracker v2.0 (1992)(Shades)</description>
+		<rom name="ShadesTracker v2.0 (1992)(Shades).adf" size="901120" crc="ca22b983" md5="966d3de2576a66108ce83be2dbd29390" sha1="c2d65cf4fd09f737a9053034ff0aafdf7b66dcbc"/>
 	</game>
 	<game name="ShadesTracker v3.0 (1993)(Shades)">
 		<description>ShadesTracker v3.0 (1993)(Shades)</description>
@@ -3856,6 +4504,10 @@
 		<description>SuperDuper v2.02 (1992)(Vigna, Sebastiano)[h Amitech]</description>
 		<rom name="SuperDuper v2.02 (1992)(Vigna, Sebastiano)[h Amitech].adf" size="901120" crc="484d0626" md5="fcd95ad758811390e464b6c0d7523549" sha1="8408b96bc9c926e4fcf1e6be1258046a7b9c4c99"/>
 	</game>
+	<game name="Superfici 3D (2022-07-05)(Sblendorio, Francesco)[v Saddam][AmigaBASIC]">
+		<description>Superfici 3D (2022-07-05)(Sblendorio, Francesco)[v Saddam][AmigaBASIC]</description>
+		<rom name="Superfici 3D (2022-07-05)(Sblendorio, Francesco)[v Saddam][AmigaBASIC].adf" size="901120" crc="0c6bb5ef" md5="dd965be208ca1e52d5892ec2aeef2d84" sha1="6d19ec65fe2b5919fea6099e829fd4b6f4297b69"/>
+	</game>
 	<game name="SuperWriter Data Disk (1989)(17-Bit Software)">
 		<description>SuperWriter Data Disk (1989)(17-Bit Software)</description>
 		<rom name="SuperWriter Data Disk (1989)(17-Bit Software).adf" size="901120" crc="a8d12210" md5="9ecd428fa91df15f3afb8f81f9fe5a16" sha1="297c1b0b4e549e1deacad8e9a86ab781126c96df"/>
@@ -3896,6 +4548,14 @@
 		<description>Syndicate Professional v1.02b (1995-05-20)(Ridgers, Steven)(AGA)(SW)</description>
 		<rom name="Syndicate Professional v1.02b (1995-05-20)(Ridgers, Steven)(AGA)(SW).adf" size="901120" crc="1c6c730d" md5="5fd4afaf10bdde22ab6fee14630e9a3c" sha1="6930347b7113388728c352b344daa34c2b2cf1a3"/>
 	</game>
+	<game name="Synthesis v4.2 - A Synthetic and SampleSound GameTrack Arranger (1992-04)(The Silicon Audio Department)(de)(SW)">
+		<description>Synthesis v4.2 - A Synthetic and SampleSound GameTrack Arranger (1992-04)(The Silicon Audio Department)(de)(SW)</description>
+		<rom name="Synthesis v4.2 - A Synthetic and SampleSound GameTrack Arranger (1992-04)(The Silicon Audio Department)(de)(SW).adf" size="901120" crc="e7c763d9" md5="acfab98075d8f6dd422b57eddec13761" sha1="a6c21b897d6d086fbba458e98fe183ff71e26be1"/>
+	</game>
+	<game name="Synthesis v4.2 - A Synthetic and SampleSound GameTrack Arranger (1992-07)(StarTrek)(de)(SW)">
+		<description>Synthesis v4.2 - A Synthetic and SampleSound GameTrack Arranger (1992-07)(StarTrek)(de)(SW)</description>
+		<rom name="Synthesis v4.2 - A Synthetic and SampleSound GameTrack Arranger (1992-07)(StarTrek)(de)(SW).adf" size="901120" crc="49f887d2" md5="30ca586bf43373428f3a6eb4c990ee0a" sha1="34da918bb2354792995cfad62ce2bbc99c400b67"/>
+	</game>
 	<game name="SysInfo v4.3 (2019-09-27)(Geijersson, Tobias)(FW)">
 		<description>SysInfo v4.3 (2019-09-27)(Geijersson, Tobias)(FW)</description>
 		<rom name="SysInfo v4.3 (2019-09-27)(Geijersson, Tobias)(FW).adf" size="901120" crc="a28026c9" md5="d5f0330eaf4485352e224e22c06edf2c" sha1="f71eaa33c86f1dbe86b68dc09338afacbdaae7f1"/>
@@ -3915,6 +4575,10 @@
 	<game name="System X Professional v1.16 (1992-02-19)(Modesty)">
 		<description>System X Professional v1.16 (1992-02-19)(Modesty)</description>
 		<rom name="System X Professional v1.16 (1992-02-19)(Modesty).adf" size="901120" crc="1fb160e3" md5="b37e52ec4397709d8918ca506344b3ad" sha1="c51b8d22c2f13f41d178b9457e7ae57a2cf4b7ae"/>
+	</game>
+	<game name="SystemZ VirusProtector v5.0 (1989)(van Leuven, Pieter)">
+		<description>SystemZ VirusProtector v5.0 (1989)(van Leuven, Pieter)</description>
+		<rom name="SystemZ VirusProtector v5.0 (1989)(van Leuven, Pieter).adf" size="901120" crc="20fb5f30" md5="1033f635af07ab12a7c407e4df82df05" sha1="872bd4422093b7d52854ea366870160362491ad5"/>
 	</game>
 	<game name="SysTest v1.2 (2018-11-30)(Keirf)">
 		<description>SysTest v1.2 (2018-11-30)(Keirf)</description>
@@ -4100,6 +4764,10 @@
 		<description>TSB Vector Designer v1.1 (1991-04-11)(The Special Brothers)[h 17-Bit Software]</description>
 		<rom name="TSB Vector Designer v1.1 (1991-04-11)(The Special Brothers)[h 17-Bit Software].adf" size="901120" crc="fd0b1663" md5="582f09373509d468f57ad3dedfd1cae5" sha1="febc6e0ecf19cd6b2eb983f96e255e6bce1a608d"/>
 	</game>
+	<game name="TUBE - The Ultimate BobEditor v0.5 (1988)(D-Tect)(preview)">
+		<description>TUBE - The Ultimate BobEditor v0.5 (1988)(D-Tect)(preview)</description>
+		<rom name="TUBE - The Ultimate BobEditor v0.5 (1988)(D-Tect)(preview).adf" size="901120" crc="cf9f8fff" md5="fa05097a906d90cff5dcd0de6ad1d7b0" sha1="4600afb1fc0d87170eb226ae0a08881951809f4f"/>
+	</game>
 	<game name="TUDE - The Ultimate Degrader and Enhancer v1.0d (1994-09-20)(N.O.M.A.D)[WB]">
 		<description>TUDE - The Ultimate Degrader and Enhancer v1.0d (1994-09-20)(N.O.M.A.D)[WB]</description>
 		<rom name="TUDE - The Ultimate Degrader and Enhancer v1.0d (1994-09-20)(N.O.M.A.D)[WB].adf" size="901120" crc="dd23ee3f" md5="34a2da947d0bd40fab02674e56604981" sha1="e0b72b0aeaefce33848b1d4e4a2feb81d97fd200"/>
@@ -4144,6 +4812,10 @@
 		<description>TV Graphics Volume 1 (1989)(Bailey, George)(Disk 2 of 2)</description>
 		<rom name="TV Graphics Volume 1 (1989)(Bailey, George)(Disk 2 of 2).adf" size="901120" crc="bc4bb7db" md5="cd2f8af079a47f7e0fe56d3e8e66cbec" sha1="ae3a357080a427c3dfab11943d479288d85d0905"/>
 	</game>
+	<game name="Twilight Copy (1989)(Twilight - The Ballz Boyz)">
+		<description>Twilight Copy (1989)(Twilight - The Ballz Boyz)</description>
+		<rom name="Twilight Copy (1989)(Twilight - The Ballz Boyz).adf" size="901120" crc="a4e202ca" md5="958ecd239be44235618f5bb53b1f56f2" sha1="dc3e0cfaf117a2cbad100313c216b0574d87e09d"/>
+	</game>
 	<game name="Twin Express v1.1a (1992-01-07)(Omnicode)(SW)[WB]">
 		<description>Twin Express v1.1a (1992-01-07)(Omnicode)(SW)[WB]</description>
 		<rom name="Twin Express v1.1a (1992-01-07)(Omnicode)(SW)[WB].adf" size="901120" crc="9ced011a" md5="e96d13b6008fa3a575f061f7e7dde523" sha1="2905a1a65bf6704444942e9bed84e136a9b8ec31"/>
@@ -4167,6 +4839,10 @@
 	<game name="Ultimate DMC, The - Disk Mag Creator v2.0 (1995-06)(Gibson, Andy - F1 Licenceware)(LW)(Disk 2 of 2)[1998 edition]">
 		<description>Ultimate DMC, The - Disk Mag Creator v2.0 (1995-06)(Gibson, Andy - F1 Licenceware)(LW)(Disk 2 of 2)[1998 edition]</description>
 		<rom name="Ultimate DMC, The - Disk Mag Creator v2.0 (1995-06)(Gibson, Andy - F1 Licenceware)(LW)(Disk 2 of 2)[1998 edition].adf" size="901120" crc="80edd87c" md5="3206c64066bc6467b5fbe0a24ba14814" sha1="79e4ed47a47fd3348ec4432b97d2ecc257912359"/>
+	</game>
+	<game name="Ultimate Packer, The v1.1 (1991-07-21)(The Special Brothers)(SW)">
+		<description>Ultimate Packer, The v1.1 (1991-07-21)(The Special Brothers)(SW)</description>
+		<rom name="Ultimate Packer, The v1.1 (1991-07-21)(The Special Brothers)(SW).adf" size="901120" crc="94477cf5" md5="0e2ea4987825e9cd40e614b2b7e1685d" sha1="10a62d07bf1841b2923a946019202bb0f42a95e4"/>
 	</game>
 	<game name="Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 01 of 10)[emulator]">
 		<description>Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 01 of 10)[emulator]</description>
@@ -4356,6 +5032,18 @@
 		<description>VirusKiller v2.5 (1988)(Trio Disk)[h Random Access]</description>
 		<rom name="VirusKiller v2.5 (1988)(Trio Disk)[h Random Access].adf" size="901120" crc="3794c8f0" md5="410aeeda672bdf98f151826bd40b685e" sha1="82821b3c7aa881e540083c358b2859dae0a48a63"/>
 	</game>
+	<game name="VirusScanner v1.01 (1994-02-07)(Greco, Gabriele)[WB]">
+		<description>VirusScanner v1.01 (1994-02-07)(Greco, Gabriele)[WB]</description>
+		<rom name="VirusScanner v1.01 (1994-02-07)(Greco, Gabriele)[WB].adf" size="901120" crc="70bf5509" md5="d31a02f60c379fc0d4dddadf8ce0e8b1" sha1="b2955bb07d2cada5971d1b2e3996e6f113bc7dc8"/>
+	</game>
+	<game name="VirusScanner v2.1 (1994-09-22)(Greco, Gabriele)[WB]">
+		<description>VirusScanner v2.1 (1994-09-22)(Greco, Gabriele)[WB]</description>
+		<rom name="VirusScanner v2.1 (1994-09-22)(Greco, Gabriele)[WB].adf" size="901120" crc="ecd6d762" md5="915ec070833605c3dd01714da363ed79" sha1="178d361912c525ea332dad27da8fa2044bdcfe8b"/>
+	</game>
+	<game name="VirusScanner v2.4 (1995-03-31)(Greco, Gabriele)[WB]">
+		<description>VirusScanner v2.4 (1995-03-31)(Greco, Gabriele)[WB]</description>
+		<rom name="VirusScanner v2.4 (1995-03-31)(Greco, Gabriele)[WB].adf" size="901120" crc="6b60c5c9" md5="cde1ebd09696a164fc15325d65dfc758" sha1="db2a4ee28813bc4cf71f61557e4bda4a1b01f1d7"/>
+	</game>
 	<game name="VirusWorkshop v3.0 (1993-12-03)(Tristar &amp; Red Sector inc)[HD]">
 		<description>VirusWorkshop v3.0 (1993-12-03)(Tristar &amp; Red Sector inc)[HD]</description>
 		<rom name="VirusWorkshop v3.0 (1993-12-03)(Tristar &amp; Red Sector inc)[HD].adf" size="901120" crc="31ea7993" md5="d42f80f19a34387fc1749fcc87da626d" sha1="9390509efadd82457e29dc824d14d6a06036dd33"/>
@@ -4491,6 +5179,10 @@
 	<game name="VisiCalc v2.1 (1987)(Bond, Bob - Bond, Robert)(PD)[h PD-Soft]">
 		<description>VisiCalc v2.1 (1987)(Bond, Bob - Bond, Robert)(PD)[h PD-Soft]</description>
 		<rom name="VisiCalc v2.1 (1987)(Bond, Bob - Bond, Robert)(PD)[h PD-Soft].adf" size="901120" crc="ae7b6391" md5="03a29ecbf5b6107053dda318295d1b3e" sha1="078c49797758e13aac135910a31696f4eabd9685"/>
+	</game>
+	<game name="VMorph v4.20 (1994-07-07)(Wilkie, Lee)(SW)[h Scorpio]">
+		<description>VMorph v4.20 (1994-07-07)(Wilkie, Lee)(SW)[h Scorpio]</description>
+		<rom name="VMorph v4.20 (1994-07-07)(Wilkie, Lee)(SW)[h Scorpio].adf" size="901120" crc="b52a97be" md5="212e86dfe0780d4f3bf69344c5b1d6b7" sha1="8bd51a1bd28236a1e55c798790365cbf0bfe570d"/>
 	</game>
 	<game name="VP - Virus Protector v3.03 rev 152 (1991-07-23)(Budbrain - Protec Systems)">
 		<description>VP - Virus Protector v3.03 rev 152 (1991-07-23)(Budbrain - Protec Systems)</description>

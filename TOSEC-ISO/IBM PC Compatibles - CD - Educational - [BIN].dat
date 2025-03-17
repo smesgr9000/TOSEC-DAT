@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>IBM PC Compatibles - CD - Educational - [BIN]</name>
-		<description>IBM PC Compatibles - CD - Educational - [BIN] (TOSEC-v2024-03-17)</description>
+		<description>IBM PC Compatibles - CD - Educational - [BIN] (TOSEC-v2025-01-26)</description>
 		<category>TOSEC-ISO</category>
-		<version>2024-03-17</version>
+		<version>2025-01-26</version>
 		<author>TOSEC-ISO</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -120,6 +120,11 @@
 		<rom name="Clifford the Big Red Dog - Reading (2000)(Scholastic)(US).bin" size="519686160" crc="2d2c155f" md5="c6690347915687ffcd5c3486af5eb187" sha1="d00e9ec159c7333cdda91db14ed9dd9231ff0137"/>
 		<rom name="Clifford the Big Red Dog - Reading (2000)(Scholastic)(US).cue" size="146" crc="616eece8" md5="2e2c5b03cd1dbdde887b71b71127b906" sha1="656b437d124401b90a72050457dc84f240788d78"/>
 	</game>
+	<game name="Colour In Fun - Volume One (2003)(Profile Media)(AU)">
+		<description>Colour In Fun - Volume One (2003)(Profile Media)(AU)</description>
+		<rom name="Colour In Fun - Volume One (2003)(Profile Media)(AU).bin" size="139276032" crc="b70a6de1" md5="89cac9e02e7d33c9e05283449ad8403b" sha1="2a0932dc704e3efcbcde2e5085fac6556747e5c4"/>
+		<rom name="Colour In Fun - Volume One (2003)(Profile Media)(AU).cue" size="141" crc="8bb2ecc0" md5="5f71d21915eaca28cc5ee480efa3e5e7" sha1="a57a7f68c387d242d137465e660c6106edf35338"/>
+	</game>
 	<game name="Computer Classroom Maths at Home Ages 5 to 8 (2003)(Nelson Australia)(AU)">
 		<description>Computer Classroom Maths at Home Ages 5 to 8 (2003)(Nelson Australia)(AU)</description>
 		<rom name="Computer Classroom Maths at Home Ages 5 to 8 (2003)(Nelson Australia)(AU).bin" size="160533408" crc="c7bbd51e" md5="ea1e6666f7336b5589e2914540c8d94b" sha1="f3a50a7f7691bd2ab82af93ae71ae454d9f24a76"/>
@@ -155,11 +160,6 @@
 		<description>Disney's Magic Artist 3D (2000)(Disney)(AU)[PC-Mac]</description>
 		<rom name="Disney's Magic Artist 3D (2000)(Disney)(AU)[PC-Mac].bin" size="135797424" crc="2e59dbd7" md5="78a7b1e958106d429ec10caf1a4b05f9" sha1="454be285b742f639562b4ece52a30beb8d379ad7"/>
 		<rom name="Disney's Magic Artist 3D (2000)(Disney)(AU)[PC-Mac].cue" size="140" crc="636d84ae" md5="f8159af27193e20f3683b575542f0775" sha1="b3114f931ad9d0fdf3b5cddc954a0532e457562d"/>
-	</game>
-	<game name="Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM]">
-		<description>Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM]</description>
-		<rom name="Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM].bin" size="346792992" crc="c375cb49" md5="e98849132c0c592d0dd30ae42ddad4de" sha1="6e4dd144ce40dc6a34b3d4c9e70c587fa904f44a"/>
-		<rom name="Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM].cue" size="165" crc="79474082" md5="936ee8cb0aff8344d7d402613de7cdb2" sha1="324610c495139ab96575929dd9ba77b7203e2e63"/>
 	</game>
 	<game name="Dr. Seuss Preschool v1.0 (1998)(Broderbund)(US)">
 		<description>Dr. Seuss Preschool v1.0 (1998)(Broderbund)(US)</description>
@@ -301,6 +301,12 @@
 		<rom name="Lets Learn Multiplication (2006)(Nodtronics)(AU)[!].bin" size="524035008" crc="b84663c2" md5="3f8432f64847b81c1d1c151c42d925cd" sha1="cd8d32b19859b04c42f4130db1e6de9f78b48048"/>
 		<rom name="Lets Learn Multiplication (2006)(Nodtronics)(AU)[!].cue" size="140" crc="6704fefa" md5="88ec3c27568587bbfc7a71819005258b" sha1="23a4f8483723c63a307066dc5aa51fb341f57366"/>
 	</game>
+	<game name="Little Polar Bear (2002)(GSP)">
+		<description>Little Polar Bear (2002)(GSP)</description>
+		<rom name="Little Polar Bear (2002)(GSP).cue" size="241" crc="4f9228b7" md5="1a75dce600a14f18a6ad3739c27250e4" sha1="52df5fa9919c58292f81f9af3fefe1a9cc955d68"/>
+		<rom name="Little Polar Bear (2002)(GSP)(Track 1 of 2).bin" size="475931904" crc="5a7049cb" md5="18c8b1cda4dc53bbcbecda51aee178c8" sha1="a06d2967a0ad42127b1f242ee55e9bf48479f1cd"/>
+		<rom name="Little Polar Bear (2002)(GSP)(Track 2 of 2).bin" size="11783520" crc="94c16ee5" md5="59f1eecc4607cadd66c86055ca4b802e" sha1="40b36c2cc98aae34893c4c77a4375017c34fc30e"/>
+	</game>
 	<game name="Magic School Bus, The - Explores the Human Body (1994)(Microsoft)">
 		<description>Magic School Bus, The - Explores the Human Body (1994)(Microsoft)</description>
 		<rom name="Magic School Bus, The - Explores the Human Body (1994)(Microsoft).bin" size="338431632" crc="fdfe93d6" md5="c153a7eb1fd21b7969b036769c7f7d61" sha1="e5ad4043cebc85cac42ba3ba1dbb6f40f2f1a21f"/>
@@ -332,6 +338,11 @@
 		<description>Maisy's Playhouse (1999)(TDK Mediactive)[PC-Mac]</description>
 		<rom name="Maisy's Playhouse (1999)(TDK Mediactive)[PC-Mac].bin" size="370858656" crc="2bab4a39" md5="0b51681ffaeca990db4c6dede7240efb" sha1="c3c4508947dbcf515106e4cab52108ebab35b10e"/>
 		<rom name="Maisy's Playhouse (1999)(TDK Mediactive)[PC-Mac].cue" size="137" crc="ded69581" md5="e37cdedd00240d9d4535a3f2f2302ae1" sha1="5b70881ecdc0002ed1f8326d387d3e4e0ae6cc61"/>
+	</game>
+	<game name="Maths Quest (2006)(Nodtronics)(AU)">
+		<description>Maths Quest (2006)(Nodtronics)(AU)</description>
+		<rom name="Maths Quest (2006)(Nodtronics)(AU).bin" size="392341824" crc="64ede186" md5="a75230d9fb87b9a45e12aca999d13cc2" sha1="fa1a7e3f1c8e2178181932276d2629ede7b3daea"/>
+		<rom name="Maths Quest (2006)(Nodtronics)(AU).cue" size="123" crc="5936af02" md5="9b44f74b0d7f6f0efe354f9a3103773b" sha1="a8ae700b951e5e1f3b5067681e8a738fb64298b1"/>
 	</game>
 	<game name="Microsoft Explorapedia (1994)(Microsoft)">
 		<description>Microsoft Explorapedia (1994)(Microsoft)</description>
@@ -371,6 +382,16 @@
 		<rom name="Numbers Up! - Volcanic Panic v1.2.1 (2003)(Erinzan)(AU)[PC-Mac].bin" size="436928688" crc="e90b453f" md5="69e1197f9e7a8a020f6d4f773dd532f0" sha1="ca35b8a277634ec28d98b656556dfde2bed38098"/>
 		<rom name="Numbers Up! - Volcanic Panic v1.2.1 (2003)(Erinzan)(AU)[PC-Mac].cue" size="152" crc="08b7e9ff" md5="e756ea9f70c5d05aea0f9cdfddf0bfd7" sha1="d0739999ff9152c07023c8c3c6af55ff4e9dfe32"/>
 	</game>
+	<game name="Ollie Saves the Planet (2003)(Sustain Ability International)(US)">
+		<description>Ollie Saves the Planet (2003)(Sustain Ability International)(US)</description>
+		<rom name="Ollie Saves the Planet (2003)(Sustain Ability International)(US).bin" size="356149248" crc="94004bce" md5="185438173c46f7c342758cfb811c1b7d" sha1="ecca831ff62eb0e29bec7b7cfc25a0519ba24cd0"/>
+		<rom name="Ollie Saves the Planet (2003)(Sustain Ability International)(US).cue" size="153" crc="0ebf65c6" md5="2d8c4e4355eb319004b753ea9ea156e1" sha1="c44989555d5ad6f0cf832da66896267386d45537"/>
+	</game>
+	<game name="Ollie's Island (2007)(Sustain Ability International)(AU)">
+		<description>Ollie's Island (2007)(Sustain Ability International)(AU)</description>
+		<rom name="Ollie's Island (2007)(Sustain Ability International)(AU).bin" size="675898944" crc="996006e2" md5="4738fc059c7c784cd43a1c922ae3de85" sha1="ad3e1bbebf6ad1142b65ab7c481c2746213771bc"/>
+		<rom name="Ollie's Island (2007)(Sustain Ability International)(AU).cue" size="145" crc="34fc0924" md5="f7bdd118c7f0156a0ae25031e9f5fe3e" sha1="f1fb61e2ddbf943d83775482685da6a0d9ba29ba"/>
+	</game>
 	<game name="Prep School Primer (2007)(Nodtronics)(AU)">
 		<description>Prep School Primer (2007)(Nodtronics)(AU)</description>
 		<rom name="Prep School Primer (2007)(Nodtronics)(AU).bin" size="824199600" crc="c12fe13f" md5="2603903ea1bae11baf867b7af962cebb" sha1="577ab03a4d19625439b7374948b15518b3971a45"/>
@@ -386,6 +407,11 @@
 		<rom name="Problem Solving &amp; Logical Thinking (2002)(Nodtronics)(AU).bin" size="833210112" crc="fb20ffa3" md5="a6d89d142b5a789187774b714ceb5e0d" sha1="103e6bda775229b520835fa5421560ee7a644135"/>
 		<rom name="Problem Solving &amp; Logical Thinking (2002)(Nodtronics)(AU).cue" size="146" crc="846de3c3" md5="30fd194cc0edb0cc24b7601bce540ca1" sha1="f2ebf6386868fbe1598c0d3dc30fee1ae8df32bb"/>
 	</game>
+	<game name="Puzzlemania (1999)(Image Builder Software)(AU)">
+		<description>Puzzlemania (1999)(Image Builder Software)(AU)</description>
+		<rom name="Puzzlemania (1999)(Image Builder Software)(AU).bin" size="771564192" crc="6014cd75" md5="e7855fe2fd592291e63bfd5b422ffd53" sha1="97585dd95c7620a83432b245b9e1df865160fac8"/>
+		<rom name="Puzzlemania (1999)(Image Builder Software)(AU).cue" size="135" crc="fb2a495d" md5="187115b9ce45fa993fb2a7818760206d" sha1="6e51213b28f45b4146427df12a4f3d46a9e4be6a"/>
+	</game>
 	<game name="Reader Rabbit's Math Ages 6-9 (2001)(TLC Education Properties)">
 		<description>Reader Rabbit's Math Ages 6-9 (2001)(TLC Education Properties)</description>
 		<rom name="Reader Rabbit's Math Ages 6-9 (2001)(TLC Education Properties).bin" size="596048544" crc="b1406444" md5="8487feb1d7bc7f0f8289d7963c9d6954" sha1="c345dae566acc9dfe76e8ab2273ad0be379cee70"/>
@@ -395,6 +421,11 @@
 		<description>Reading &amp; Phonics (2001)(Nodtronics)(AU)</description>
 		<rom name="Reading &amp; Phonics (2001)(Nodtronics)(AU).bin" size="457496928" crc="8208d64b" md5="6d036a89a423945dca5c8af5bb1cf5dc" sha1="e4c75887580e08630c090b846654a1532a960d91"/>
 		<rom name="Reading &amp; Phonics (2001)(Nodtronics)(AU).cue" size="129" crc="f9960fd2" md5="da6dd82859cb41f66482681004aa933f" sha1="dd8d6327014588be2a5807ba151c68f9895b9f9c"/>
+	</game>
+	<game name="Shrek Activity Centre (2001)(Activision)(AU)">
+		<description>Shrek Activity Centre (2001)(Activision)(AU)</description>
+		<rom name="Shrek Activity Centre (2001)(Activision)(AU).bin" size="208328400" crc="a7be65fa" md5="dcaba1de8cb298be83b27c941552efe6" sha1="7569b82da49f99fec8eaf0030663701da6a98b3a"/>
+		<rom name="Shrek Activity Centre (2001)(Activision)(AU).cue" size="133" crc="6631e896" md5="2b02b30992f429ff8877efe565aff101" sha1="044cab6de3e604fcc1b0d9d3da03a0ea4886a2e5"/>
 	</game>
 	<game name="Sim Tunes (2000)(Electronic Arts)(US)[Scholastic Clubs and Fairs edition]">
 		<description>Sim Tunes (2000)(Electronic Arts)(US)[Scholastic Clubs and Fairs edition]</description>
@@ -411,10 +442,10 @@
 		<rom name="Star Wars Math - Jabba's Game Galaxy (2002)(Lucas Learning)(US)[Scholastic Edition].bin" size="583554720" crc="9bb64a0c" md5="75d41bd85aa2d1f617a1134b463978e4" sha1="0b0f542c79fbdf4d4809317ea07df6c08ecf02cd"/>
 		<rom name="Star Wars Math - Jabba's Game Galaxy (2002)(Lucas Learning)(US)[Scholastic Edition].cue" size="172" crc="043b8529" md5="8a4f313e649cad8163d37418877c240f" sha1="3027817d68d8924994c5f8ea735de71f23406a6f"/>
 	</game>
-	<game name="Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM]">
-		<description>Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM]</description>
-		<rom name="Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM].bin" size="410000640" crc="d0b07cf6" md5="a35f32a30fffcdef95864978f09693a9" sha1="c41578956dc4836b55f8d87fda8b36dd15bc8bb2"/>
-		<rom name="Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM].cue" size="130" crc="92f1eb2d" md5="ade075c9b27059ec4508fbdaa07ea50f" sha1="8f57571a001f6605b37f0c26a63de39157f0ba68"/>
+	<game name="Targeting Maths Lab 2 (2005)(Pascal Press)(AU)[Student Home Version]">
+		<description>Targeting Maths Lab 2 (2005)(Pascal Press)(AU)[Student Home Version]</description>
+		<rom name="Targeting Maths Lab 2 (2005)(Pascal Press)(AU)[Student Home Version].bin" size="43987104" crc="6c0e41b7" md5="f8968be7dddd875f99467be9ea274b55" sha1="bf9e1a92a2fa18f8ccc9e6fbd5d49ef347973777"/>
+		<rom name="Targeting Maths Lab 2 (2005)(Pascal Press)(AU)[Student Home Version].cue" size="157" crc="e0bcde81" md5="66c4df20855ab616dc22f8abb147027e" sha1="8f256b26b415f0472a439f976f5816de15f31201"/>
 	</game>
 	<game name="Things 4 Kids (1996)(Manaccom)(AU)">
 		<description>Things 4 Kids (1996)(Manaccom)(AU)</description>
@@ -445,5 +476,21 @@
 		<description>Zoo Animals (2001)(Nodtronics)(AU)[PC-Mac]</description>
 		<rom name="Zoo Animals (2001)(Nodtronics)(AU)[PC-Mac].bin" size="552030864" crc="0a097d60" md5="ba33118f15152c6ae545d7a886e6cab2" sha1="5be6a83f53c0524235fb087a4e06563119897d04"/>
 		<rom name="Zoo Animals (2001)(Nodtronics)(AU)[PC-Mac].cue" size="131" crc="1ba9446e" md5="051d9439352edd328d43da51db0f03f7" sha1="423efdcbbfa1a2011a2f934a2e06fcf1369aa7d8"/>
+	</game>
+	<game name="Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM]">
+		<description>Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM]</description>
+		<rom name="Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM].bin" size="346792992" crc="c375cb49" md5="e98849132c0c592d0dd30ae42ddad4de" sha1="6e4dd144ce40dc6a34b3d4c9e70c587fa904f44a"/>
+		<rom name="Disney's Magic Artist v1.10 (1997)(Disney Interactive)(EU)[Packard Bell OEM].cue" size="165" crc="79474082" md5="936ee8cb0aff8344d7d402613de7cdb2" sha1="324610c495139ab96575929dd9ba77b7203e2e63"/>
+	</game>
+	<game name="Invention Studio v1.0 (20xx)(Eaglemoss Publications)(GB)[PC Ace covermount]">
+		<description>Invention Studio v1.0 (20xx)(Eaglemoss Publications)(GB)[PC Ace covermount]</description>
+		<rom name="Invention Studio v1.0 (20xx)(Eaglemoss Publications)(GB)(Track 1 of 2)[PC Ace covermount].bin" size="572580288" crc="c6f4b8fc" md5="01fa2db3fd69c663939384e9c33d8a13" sha1="01d7694397776342503686717a3567e596090987"/>
+		<rom name="Invention Studio v1.0 (20xx)(Eaglemoss Publications)(GB)(Track 2 of 2)[PC Ace covermount].bin" size="23738736" crc="5a5d84e6" md5="8c73756cb0981a6648c7e96d3daf3f5f" sha1="42c7930f612247e5d20f63677acb4a6b981b0afe"/>
+		<rom name="Invention Studio v1.0 (20xx)(Eaglemoss Publications)(GB)[PC Ace covermount].cue" size="328" crc="c4403962" md5="e742caa00f68661206b6a4df7f1079b8" sha1="90bec0e1e36428970b25fb47c141d1ba4d3c7e48"/>
+	</game>
+	<game name="Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM]">
+		<description>Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM]</description>
+		<rom name="Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM].bin" size="410000640" crc="d0b07cf6" md5="a35f32a30fffcdef95864978f09693a9" sha1="c41578956dc4836b55f8d87fda8b36dd15bc8bb2"/>
+		<rom name="Talk to Me v3.10.05 LH (1998)(Auralog)(EU)(M9)[Packard Bell OEM].cue" size="130" crc="92f1eb2d" md5="ade075c9b27059ec4508fbdaa07ea50f" sha1="8f57571a001f6605b37f0c26a63de39157f0ba68"/>
 	</game>
 </datafile>

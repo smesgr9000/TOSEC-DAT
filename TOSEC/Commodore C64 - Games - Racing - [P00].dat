@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [P00]</name>
-		<description>Commodore C64 - Games - Racing - [P00] (TOSEC-v2024-03-15)</description>
+		<description>Commodore C64 - Games - Racing - [P00] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2024-03-15</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -188,9 +188,9 @@
 		<description>Buggy Boy (1990)(Elite)[cr TWB][t +1 TPI][a2]</description>
 		<rom name="Buggy Boy (1990)(Elite)[cr TWB][t +1 TPI][a2].p00" size="48405" crc="1d9e7ce9" md5="d1d16bc5e53bdc21676489b89bc08ace" sha1="1bba9ad8321608dc355793a78aec9f1892b149e6"/>
 	</game>
-	<game name="Bulldozer (1986)(Karlheinz Herpel)(de)">
-		<description>Bulldozer (1986)(Karlheinz Herpel)(de)</description>
-		<rom name="Bulldozer (1986)(Karlheinz Herpel)(de).p00" size="3447" crc="66391ef8" md5="808e7d639103b2e8a993f299e49c01c3" sha1="427071de84a4071fe36a2e20b3b1d7c29906b63f"/>
+	<game name="Bulldozer (1986)(Herpel, Karlheinz)(de)">
+		<description>Bulldozer (1986)(Herpel, Karlheinz)(de)</description>
+		<rom name="Bulldozer (1986)(Herpel, Karlheinz)(de).p00" size="3447" crc="66391ef8" md5="808e7d639103b2e8a993f299e49c01c3" sha1="427071de84a4071fe36a2e20b3b1d7c29906b63f"/>
 	</game>
 	<game name="Bumping Buggies (1984)(Bubble Bus)">
 		<description>Bumping Buggies (1984)(Bubble Bus)</description>
@@ -432,6 +432,10 @@
 		<description>Fast Tracks - RC Racers (1988)(Turmell, Mark)[cr AFL]</description>
 		<rom name="Fast Tracks - RC Racers (1988)(Turmell, Mark)[cr AFL].p00" size="37157" crc="b84484b1" md5="9bd5487bdcb3d4ab8cb8f47c4e736392" sha1="7360be73c4ca23333f1a21464ee83e006937d53a"/>
 	</game>
+	<game name="Fast Tracks - Spaghetti (19xx)(Turmell, Mark)[cr Kangaroo]">
+		<description>Fast Tracks - Spaghetti (19xx)(Turmell, Mark)[cr Kangaroo]</description>
+		<rom name="Fast Tracks - Spaghetti (19xx)(Turmell, Mark)[cr Kangaroo].p00" size="43153" crc="ece1c285" md5="4510dc00ccbddc0c982120328981edd0" sha1="89e7cb80cc7434ede90b28a97cd60533605567f3"/>
+	</game>
 	<game name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL]">
 		<description>Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL]</description>
 		<rom name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL].p00" size="29705" crc="ce914348" md5="a15a7472b8944f4337f94a9b8f173075" sha1="9e0d3bd6a4d19b919bc935a65c2f055ffea8d32c"/>
@@ -648,10 +652,6 @@
 		<description>Krazy Kar (1984)(IJK Software)</description>
 		<rom name="Krazy Kar (1984)(IJK Software).p00" size="26650" crc="8679339f" md5="06be64cca744bfa9efba6dd221a4ccc7" sha1="a5a3a169db823faca308ce1f15d0cce18cf20ab2"/>
 	</game>
-	<game name="L.E.D. Storm (1989)(Capcom - Go!)">
-		<description>L.E.D. Storm (1989)(Capcom - Go!)</description>
-		<rom name="L.E.D. Storm (1989)(Capcom - Go!).p00" size="48515" crc="71679afa" md5="f1b0c5e462c2fdd914b332da2dd86290" sha1="767b21e20d5005e22bf43291879f798617a7f3fc"/>
-	</game>
 	<game name="Laps (1987)(Ahoy!-Ion International)">
 		<description>Laps (1987)(Ahoy!-Ion International)</description>
 		<rom name="Laps (1987)(Ahoy!-Ion International).p00" size="8371" crc="3c2ec4e4" md5="eb1432e3fb37e2647946df278b83d371" sha1="6336df5cc9ace13716c89c7678e7f05d19b7bea8"/>
@@ -688,9 +688,13 @@
 		<description>Le Mans Grand Prix Simulator (19xx)(Dierks, Jörg)[cr Army]</description>
 		<rom name="Le Mans Grand Prix Simulator (19xx)(Dierks, Jörg)[cr Army].p00" size="38207" crc="5938b419" md5="f79267a6c3d63e54f7f4699d2ae30c98" sha1="25de8c0ecf9bc15f4882666d14ec611537f82de2"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr Ikari]">
-		<description>LED Storm (1989)(Go!)[cr Ikari]</description>
-		<rom name="LED Storm (1989)(Go!)[cr Ikari].p00" size="47205" crc="12131018" md5="7987c1ff795ebe52d3f831a9b4c6a82e" sha1="44fae18bd095c97cde2978f453aed03449456d49"/>
+	<game name="LED Storm (1989)(Capcom - Go!)">
+		<description>LED Storm (1989)(Capcom - Go!)</description>
+		<rom name="LED Storm (1989)(Capcom - Go!).p00" size="48515" crc="71679afa" md5="f1b0c5e462c2fdd914b332da2dd86290" sha1="767b21e20d5005e22bf43291879f798617a7f3fc"/>
+	</game>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr Ikari]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr Ikari]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr Ikari].p00" size="47205" crc="12131018" md5="7987c1ff795ebe52d3f831a9b4c6a82e" sha1="44fae18bd095c97cde2978f453aed03449456d49"/>
 	</game>
 	<game name="Machine, The (1988)(Systems Editoriale)(it)">
 		<description>Machine, The (1988)(Systems Editoriale)(it)</description>

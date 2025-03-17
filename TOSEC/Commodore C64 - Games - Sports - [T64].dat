@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Sports - [T64]</name>
-		<description>Commodore C64 - Games - Sports - [T64] (TOSEC-v2024-03-15)</description>
+		<description>Commodore C64 - Games - Sports - [T64] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2024-03-15</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -604,9 +604,9 @@
 		<description>Ace (1992)(Edizioni Società SIPE srl - Special Program)(it)</description>
 		<rom name="Ace (1992)(Edizioni Società SIPE srl - Special Program)(it).t64" size="37917" crc="2b5fe809" md5="3b9f276c811cc284140aea4169665950" sha1="fb48647d42c9fa35306ea1e05b57bac369a73098"/>
 	</game>
-	<game name="Action! Hockey (1982)(Vince Sorensen)">
-		<description>Action! Hockey (1982)(Vince Sorensen)</description>
-		<rom name="Action! Hockey (1982)(Vince Sorensen).t64" size="6843" crc="aa33f357" md5="0bd2164efab291e79fc488ca28c24641" sha1="9583dc10869450db1d31f6deae644a3a6d17e2e4"/>
+	<game name="Action! Hockey (1982)(Sorensen, Vince)">
+		<description>Action! Hockey (1982)(Sorensen, Vince)</description>
+		<rom name="Action! Hockey (1982)(Sorensen, Vince).t64" size="6843" crc="aa33f357" md5="0bd2164efab291e79fc488ca28c24641" sha1="9583dc10869450db1d31f6deae644a3a6d17e2e4"/>
 	</game>
 	<game name="Action! Hockey (1983)(Sorensen, Vince)(PD)">
 		<description>Action! Hockey (1983)(Sorensen, Vince)(PD)</description>
@@ -1988,6 +1988,10 @@
 		<description>Billard (1985)(Courbois)(nl)</description>
 		<rom name="Billard (1985)(Courbois)(nl).t64" size="7467" crc="84446b3b" md5="efcdadceb0da2976319bfccc15e9d379" sha1="7493d28e22c60551a7713ed5bd4b90c6a4ed66fe"/>
 	</game>
+	<game name="Billard (1985)(Courbois)(nl)[a]">
+		<description>Billard (1985)(Courbois)(nl)[a]</description>
+		<rom name="Billard (1985)(Courbois)(nl)[a].t64" size="7467" crc="396ffe4f" md5="6685c061ce26d10bfc84a33118bf5c4d" sha1="2289e0972173506e0fb3b83fc8eda18679bc16eb"/>
+	</game>
 	<game name="Billiard (1984)(Alma Compute)">
 		<description>Billiard (1984)(Alma Compute)</description>
 		<rom name="Billiard (1984)(Alma Compute).t64" size="12719" crc="e494e3cb" md5="d3041208657c9d3c10c9a5aa96e8c527" sha1="9ea28ec8ea2ff9e5b3c287d73ecf6497ac68e543"/>
@@ -3087,6 +3091,26 @@
 	<game name="By Fair Means... or Foul! (1988)(Superior Software)[cr FLT]">
 		<description>By Fair Means... or Foul! (1988)(Superior Software)[cr FLT]</description>
 		<rom name="By Fair Means... or Foul! (1988)(Superior Software)[cr FLT].t64" size="48777" crc="4ff87f1b" md5="6dc3766dcd3f871c5eb64ca25e8af0ea" sha1="a97eadab64b66e9eb2695b7c317f717f7415d78a"/>
+	</game>
+	<game name="By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][a][Docs]">
+		<description>By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][a][Docs]</description>
+		<rom name="By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][a][Docs].t64" size="44416" crc="12771065" md5="d0f74413b9cb0959c3810263757366ce" sha1="576d0da017968b47c44663e4a4569d9d578d3365"/>
+	</game>
+	<game name="By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][a2][Docs]">
+		<description>By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][a2][Docs]</description>
+		<rom name="By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][a2][Docs].t64" size="43488" crc="bc54cecc" md5="701266a7e694b0240344b3c330b505aa" sha1="5cdb242715b7fafdba7bd20e8de74ad6419eb0ac"/>
+	</game>
+	<game name="By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][Docs]">
+		<description>By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][Docs]</description>
+		<rom name="By Fair Means... or Foul! (1988)(Superior Software)[cr HTL][b][Docs].t64" size="48911" crc="f0aefbc2" md5="1c9e85ac2957529029072c3cfd6b7cd7" sha1="86ca611b93f7835b7c6bbe09269c0f33f2e8e4ec"/>
+	</game>
+	<game name="By Fair Means... or Foul! (1988)(Superior Software)[cr SCG]">
+		<description>By Fair Means... or Foul! (1988)(Superior Software)[cr SCG]</description>
+		<rom name="By Fair Means... or Foul! (1988)(Superior Software)[cr SCG].t64" size="38199" crc="3f0f3714" md5="e2aa5b1e467742bd99724577f7d2f8ab" sha1="b5f20fe1148c0bf29f9b552fb328028face6064b"/>
+	</game>
+	<game name="By Fair Means... or Foul! (1988)(Superior Software)[cr SCG][a]">
+		<description>By Fair Means... or Foul! (1988)(Superior Software)[cr SCG][a]</description>
+		<rom name="By Fair Means... or Foul! (1988)(Superior Software)[cr SCG][a].t64" size="38199" crc="e4dd04db" md5="a1b675ba2e308cbf5363a2f7baf309ef" sha1="41c4cc9a2fcfcb85e653326823e0dcdb0927a017"/>
 	</game>
 	<game name="C64 Golf (19xx)(Palazzo, Dave)">
 		<description>C64 Golf (19xx)(Palazzo, Dave)</description>
@@ -5124,14 +5148,6 @@
 		<description>Football Director 2 (1989)(D&amp;H Games)[cr FLT][t +1 FLT][a3]</description>
 		<rom name="Football Director 2 (1989)(D&amp;H Games)[cr FLT][t +1 FLT][a3].t64" size="20070" crc="336ebcff" md5="1e0c2204dc23fb5e480c347317f38e27" sha1="9812c5b05bd0f7010600293938b46235fa6c41e5"/>
 	</game>
-	<game name="Football Fortunes - Brian Clough&apos;s Football Fortunes (1987)(Commercial Data Systems)(it)[cr RSI]">
-		<description>Football Fortunes - Brian Clough&apos;s Football Fortunes (1987)(Commercial Data Systems)(it)[cr RSI]</description>
-		<rom name="Football Fortunes - Brian Clough&apos;s Football Fortunes (1987)(Commercial Data Systems)(it)[cr RSI].t64" size="30479" crc="f9e260b1" md5="98067509de45536bd45c906cb4a7af4f" sha1="9e955700cf774788b3ce40ad33216e2d7af0b1ed"/>
-	</game>
-	<game name="Football Fortunes - Brian Clough&apos;s Football Fortunes (1987)(Commercial Data Systems)(it)[cr RSI][a]">
-		<description>Football Fortunes - Brian Clough&apos;s Football Fortunes (1987)(Commercial Data Systems)(it)[cr RSI][a]</description>
-		<rom name="Football Fortunes - Brian Clough&apos;s Football Fortunes (1987)(Commercial Data Systems)(it)[cr RSI][a].t64" size="29551" crc="eedf5495" md5="ccbf10d08adb83c044f97dae49a9058b" sha1="876ad961f62781426ed29172ec32f331b4144deb"/>
-	</game>
 	<game name="Football Manager - Crackers League (19xx)(Addictive)[cr Bonanza]">
 		<description>Football Manager - Crackers League (19xx)(Addictive)[cr Bonanza]</description>
 		<rom name="Football Manager - Crackers League (19xx)(Addictive)[cr Bonanza].t64" size="26590" crc="f510f0a7" md5="d95ffce0c750c0b6794606057fee1838" sha1="bea3b61eb6568962e29dc6a4459b73098edfba23"/>
@@ -5708,17 +5724,17 @@
 		<description>Giger Pool (1988)(Digital Designs)[cr RE]</description>
 		<rom name="Giger Pool (1988)(Digital Designs)[cr RE].t64" size="30459" crc="b73f7a79" md5="ff2563c4469f9b53860bc7586211f738" sha1="4c8acc44d8601f862129f6275d532810e717d209"/>
 	</game>
-	<game name="Gilm Football (1985)(David Gilliam)">
-		<description>Gilm Football (1985)(David Gilliam)</description>
-		<rom name="Gilm Football (1985)(David Gilliam).t64" size="22352" crc="e5807006" md5="812513eef3c9333b21eee230a5b3af5b" sha1="faf1e580204a17efb995b110415cb7b0eda6b03f"/>
+	<game name="Gilm Football (1985)(Gilliam, David)">
+		<description>Gilm Football (1985)(Gilliam, David)</description>
+		<rom name="Gilm Football (1985)(Gilliam, David).t64" size="22352" crc="e5807006" md5="812513eef3c9333b21eee230a5b3af5b" sha1="faf1e580204a17efb995b110415cb7b0eda6b03f"/>
 	</game>
-	<game name="Gilm Football (1985)(David Gilliam)[cr CHR]">
-		<description>Gilm Football (1985)(David Gilliam)[cr CHR]</description>
-		<rom name="Gilm Football (1985)(David Gilliam)[cr CHR].t64" size="15275" crc="6fa116e9" md5="43653e0816a497fc328e9419f3020090" sha1="000097a37a0f172c09fbe48b73b31d7d3210ca0d"/>
+	<game name="Gilm Football (1985)(Gilliam, David)[cr CHR]">
+		<description>Gilm Football (1985)(Gilliam, David)[cr CHR]</description>
+		<rom name="Gilm Football (1985)(Gilliam, David)[cr CHR].t64" size="15275" crc="6fa116e9" md5="43653e0816a497fc328e9419f3020090" sha1="000097a37a0f172c09fbe48b73b31d7d3210ca0d"/>
 	</game>
-	<game name="Gilm Football (1985)(David Gilliam)[cr CHR][a]">
-		<description>Gilm Football (1985)(David Gilliam)[cr CHR][a]</description>
-		<rom name="Gilm Football (1985)(David Gilliam)[cr CHR][a].t64" size="16235" crc="e5b4e732" md5="00cda094524c3a84f9a32b39baf74432" sha1="f1fca3f088f53249c568138c74be4e5f2cdaaabd"/>
+	<game name="Gilm Football (1985)(Gilliam, David)[cr CHR][a]">
+		<description>Gilm Football (1985)(Gilliam, David)[cr CHR][a]</description>
+		<rom name="Gilm Football (1985)(Gilliam, David)[cr CHR][a].t64" size="16235" crc="e5b4e732" md5="00cda094524c3a84f9a32b39baf74432" sha1="f1fca3f088f53249c568138c74be4e5f2cdaaabd"/>
 	</game>
 	<game name="Giro di Italia (1985)(Editoriale Video)(it)">
 		<description>Giro di Italia (1985)(Editoriale Video)(it)</description>
@@ -7980,22 +7996,6 @@
 		<description>JuhannusOlumppialaiset (2021)(Niinistoe, Joonas - AasiPelit)(fi)(PD)</description>
 		<rom name="JuhannusOlumppialaiset (2021)(Niinistoe, Joonas - AasiPelit)(fi)(PD).t64" size="49585" crc="7676e344" md5="af00a208e2f5a4faf3458e24d4442f4c" sha1="6e6241df28dcacc789699933aa9d4a646e2dd19e"/>
 	</game>
-	<game name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr Electric Jedi]">
-		<description>Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr Electric Jedi]</description>
-		<rom name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr Electric Jedi].t64" size="36450" crc="3b325a68" md5="6fab604ba700c3f5f5cc2120b8042faa" sha1="ab97dc4cc0a497ee22a0cead3afe5cb899a8b22d"/>
-	</game>
-	<game name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr Electric Jedi][a]">
-		<description>Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr Electric Jedi][a]</description>
-		<rom name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr Electric Jedi][a].t64" size="36450" crc="d2c1ffa1" md5="867190f9871e13920991064ebb361f9e" sha1="2a602fd18c692d93c73ac6f77abc6a4f5a86c08d"/>
-	</game>
-	<game name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr REMi][a][Docs]">
-		<description>Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr REMi][a][Docs]</description>
-		<rom name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr REMi][a][Docs].t64" size="29310" crc="2d3eee46" md5="5b50996a1a3f06cca6b0ba2fbc583e04" sha1="420482a3dff5f1904791560ab331ae8ca6963587"/>
-	</game>
-	<game name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr REMi][Docs]">
-		<description>Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr REMi][Docs]</description>
-		<rom name="Julius Erving and Larry Bird Go One on One (1983)(Electronic Arts)[cr REMi][Docs].t64" size="28382" crc="8cc6ca07" md5="3c1458fb659ec1787ae7e7ab52f8a8a7" sha1="83865ed0dd6c7b1564943253d3ca80161d2f048f"/>
-	</game>
 	<game name="Kanufahrt (198x)(Sprave, Martin)(de)(PD)">
 		<description>Kanufahrt (198x)(Sprave, Martin)(de)(PD)</description>
 		<rom name="Kanufahrt (198x)(Sprave, Martin)(de)(PD).t64" size="4172" crc="4eeb9742" md5="b1a7f9363bc334c8f23f966cb47ee2a0" sha1="b50a9892ad13de2ba64b8194fbc8f8a41c71db2f"/>
@@ -8696,25 +8696,25 @@
 		<description>League Soccer (1985)(Argus Press - 64 Tape Computing)</description>
 		<rom name="League Soccer (1985)(Argus Press - 64 Tape Computing).t64" size="29283" crc="00c10062" md5="fbd36dfd262940d7bece6188548a90c3" sha1="7cbbd5d40f6fe9aa629b4415559697cfa037d450"/>
 	</game>
-	<game name="League Soccer (19xx)(Dave Barnes)">
-		<description>League Soccer (19xx)(Dave Barnes)</description>
-		<rom name="League Soccer (19xx)(Dave Barnes).t64" size="28092" crc="2e3966c3" md5="bca516507ba9ecf7329c71fbcc4c36a5" sha1="98ddf17b38994797554a264e77b198877e409fd0"/>
+	<game name="League Soccer (19xx)(Barnes, Dave)">
+		<description>League Soccer (19xx)(Barnes, Dave)</description>
+		<rom name="League Soccer (19xx)(Barnes, Dave).t64" size="28092" crc="2e3966c3" md5="bca516507ba9ecf7329c71fbcc4c36a5" sha1="98ddf17b38994797554a264e77b198877e409fd0"/>
 	</game>
-	<game name="League Soccer (19xx)(Dave Barnes)[a]">
-		<description>League Soccer (19xx)(Dave Barnes)[a]</description>
-		<rom name="League Soccer (19xx)(Dave Barnes)[a].t64" size="28092" crc="646e63be" md5="86c599ff950811159c7c16129055456e" sha1="f756417b51b68e75be2c0bda093d8e9abc17e39b"/>
+	<game name="League Soccer (19xx)(Barnes, Dave)[a]">
+		<description>League Soccer (19xx)(Barnes, Dave)[a]</description>
+		<rom name="League Soccer (19xx)(Barnes, Dave)[a].t64" size="28092" crc="646e63be" md5="86c599ff950811159c7c16129055456e" sha1="f756417b51b68e75be2c0bda093d8e9abc17e39b"/>
 	</game>
-	<game name="League Soccer (19xx)(Dave Barnes)[a2]">
-		<description>League Soccer (19xx)(Dave Barnes)[a2]</description>
-		<rom name="League Soccer (19xx)(Dave Barnes)[a2].t64" size="27164" crc="a36a4f69" md5="04fc4edc7cfecdf581b3e19dedf95490" sha1="80dec084186e2d9a6f82c10af05811c584d876d3"/>
+	<game name="League Soccer (19xx)(Barnes, Dave)[a2]">
+		<description>League Soccer (19xx)(Barnes, Dave)[a2]</description>
+		<rom name="League Soccer (19xx)(Barnes, Dave)[a2].t64" size="27164" crc="a36a4f69" md5="04fc4edc7cfecdf581b3e19dedf95490" sha1="80dec084186e2d9a6f82c10af05811c584d876d3"/>
 	</game>
-	<game name="League Soccer (19xx)(Dave Barnes)[cr Dinasours]">
-		<description>League Soccer (19xx)(Dave Barnes)[cr Dinasours]</description>
-		<rom name="League Soccer (19xx)(Dave Barnes)[cr Dinasours].t64" size="28092" crc="b516f9ca" md5="27c06859199a16f54a3cb0e05dd1f449" sha1="96fb716dde6c4ce7c4ea8d5dcf0b6446826b9523"/>
+	<game name="League Soccer (19xx)(Barnes, Dave)[cr Dinasours]">
+		<description>League Soccer (19xx)(Barnes, Dave)[cr Dinasours]</description>
+		<rom name="League Soccer (19xx)(Barnes, Dave)[cr Dinasours].t64" size="28092" crc="b516f9ca" md5="27c06859199a16f54a3cb0e05dd1f449" sha1="96fb716dde6c4ce7c4ea8d5dcf0b6446826b9523"/>
 	</game>
-	<game name="League Soccer (19xx)(Dave Barnes)[cr Dinasours][a]">
-		<description>League Soccer (19xx)(Dave Barnes)[cr Dinasours][a]</description>
-		<rom name="League Soccer (19xx)(Dave Barnes)[cr Dinasours][a].t64" size="27164" crc="0685900f" md5="4ac8387e29834b958b63476e95a803eb" sha1="42f84246f9a4d7fc3ecbe8b9c0e4e8fa9a83e7d6"/>
+	<game name="League Soccer (19xx)(Barnes, Dave)[cr Dinasours][a]">
+		<description>League Soccer (19xx)(Barnes, Dave)[cr Dinasours][a]</description>
+		<rom name="League Soccer (19xx)(Barnes, Dave)[cr Dinasours][a].t64" size="27164" crc="0685900f" md5="4ac8387e29834b958b63476e95a803eb" sha1="42f84246f9a4d7fc3ecbe8b9c0e4e8fa9a83e7d6"/>
 	</game>
 	<game name="League Soccer &apos;91 (1991)(Barnes, Dave - Petersen, M.)">
 		<description>League Soccer &apos;91 (1991)(Barnes, Dave - Petersen, M.)</description>
@@ -9940,6 +9940,14 @@
 		<description>One on One (1984)(Electronic Arts)[a]</description>
 		<rom name="One on One (1984)(Electronic Arts)[a].t64" size="37272" crc="567d3c1c" md5="8b608a98bd52cdfff4aaa79eafbacfab" sha1="4b059de66d53a8028f8fbe3ecf94ea3ec0131690"/>
 	</game>
+	<game name="One on One (1984)(Electronic Arts)[cr Electric Jedi]">
+		<description>One on One (1984)(Electronic Arts)[cr Electric Jedi]</description>
+		<rom name="One on One (1984)(Electronic Arts)[cr Electric Jedi].t64" size="36450" crc="3b325a68" md5="6fab604ba700c3f5f5cc2120b8042faa" sha1="ab97dc4cc0a497ee22a0cead3afe5cb899a8b22d"/>
+	</game>
+	<game name="One on One (1984)(Electronic Arts)[cr Electric Jedi][a]">
+		<description>One on One (1984)(Electronic Arts)[cr Electric Jedi][a]</description>
+		<rom name="One on One (1984)(Electronic Arts)[cr Electric Jedi][a].t64" size="36450" crc="d2c1ffa1" md5="867190f9871e13920991064ebb361f9e" sha1="2a602fd18c692d93c73ac6f77abc6a4f5a86c08d"/>
+	</game>
 	<game name="One on One (1984)(Electronic Arts)[cr GCS]">
 		<description>One on One (1984)(Electronic Arts)[cr GCS]</description>
 		<rom name="One on One (1984)(Electronic Arts)[cr GCS].t64" size="36308" crc="1acf3d22" md5="9365871d1e0b3aa813259a7bf4fd3237" sha1="a8fe65e38cc63a2410bb98c1e88be7f773fbe9a0"/>
@@ -9983,6 +9991,14 @@
 	<game name="One on One (1984)(Electronic Arts)[cr REM][Docs][#131]">
 		<description>One on One (1984)(Electronic Arts)[cr REM][Docs][#131]</description>
 		<rom name="One on One (1984)(Electronic Arts)[cr REM][Docs][#131].t64" size="29310" crc="669dd0bb" md5="64b68fcbdade735d60347a444ba9cc6e" sha1="633002fa81629af8d8b15c4f1808d3b1e7c2cf6e"/>
+	</game>
+	<game name="One on One (1984)(Electronic Arts)[cr REMi][a][Docs]">
+		<description>One on One (1984)(Electronic Arts)[cr REMi][a][Docs]</description>
+		<rom name="One on One (1984)(Electronic Arts)[cr REMi][a][Docs].t64" size="29310" crc="2d3eee46" md5="5b50996a1a3f06cca6b0ba2fbc583e04" sha1="420482a3dff5f1904791560ab331ae8ca6963587"/>
+	</game>
+	<game name="One on One (1984)(Electronic Arts)[cr REMi][Docs]">
+		<description>One on One (1984)(Electronic Arts)[cr REMi][Docs]</description>
+		<rom name="One on One (1984)(Electronic Arts)[cr REMi][Docs].t64" size="28382" crc="8cc6ca07" md5="3c1458fb659ec1787ae7e7ab52f8a8a7" sha1="83865ed0dd6c7b1564943253d3ca80161d2f048f"/>
 	</game>
 	<game name="One On One 2K (demo) (2020)(-)[cr GP]">
 		<description>One On One 2K (demo) (2020)(-)[cr GP]</description>
@@ -10259,6 +10275,10 @@
 	<game name="Ping-Pong (1986)(Imagine - Konami)[cr 1001][a2]">
 		<description>Ping-Pong (1986)(Imagine - Konami)[cr 1001][a2]</description>
 		<rom name="Ping-Pong (1986)(Imagine - Konami)[cr 1001][a2].t64" size="36261" crc="040a84a9" md5="a3c288855f5947e7274af9ed01269a83" sha1="2db4ec19966b145771f83b00f366b13bc8c1ab1c"/>
+	</game>
+	<game name="Planet Golf (demo) (2016)(RGCD)[cr LXT]">
+		<description>Planet Golf (demo) (2016)(RGCD)[cr LXT]</description>
+		<rom name="Planet Golf (demo) (2016)(RGCD)[cr LXT].t64" size="33039" crc="78075e2e" md5="625d8d545978b1d31ac93c2c24220250" sha1="8cb7bbb5db1dab59726cc83c57c03869abcf12a1"/>
 	</game>
 	<game name="Play a Match (1993)(CP Verlag)">
 		<description>Play a Match (1993)(CP Verlag)</description>
@@ -13508,13 +13528,13 @@
 		<description>Tennis (1984)(64 Tape Computing - Datacompaniet)(no)</description>
 		<rom name="Tennis (1984)(64 Tape Computing - Datacompaniet)(no).t64" size="5071" crc="f11320f2" md5="e6d1111ac3f73ca594068cee8a852722" sha1="04efac1ea6bd20bb03590c99ba0009213bdf1e63"/>
 	</game>
-	<game name="Tennis (1984)(Dieter Lorenz)(de)">
-		<description>Tennis (1984)(Dieter Lorenz)(de)</description>
-		<rom name="Tennis (1984)(Dieter Lorenz)(de).t64" size="1419" crc="9e36076f" md5="69238d9fc51e00467883b91aad3d494d" sha1="9d9ee9c0d6a88e37fd286f57dcea020e30b20c1c"/>
-	</game>
 	<game name="Tennis (1984)(Gustavsson, Magnus)(sv)">
 		<description>Tennis (1984)(Gustavsson, Magnus)(sv)</description>
 		<rom name="Tennis (1984)(Gustavsson, Magnus)(sv).t64" size="6348" crc="17a1883b" md5="bd9f90a0d107916edacf93768b79a68e" sha1="d2fe7dc0b9a0ce0b8cf64ff29f9e6ebd91c17d04"/>
+	</game>
+	<game name="Tennis (1984)(Lorenz, Dieter)(de)">
+		<description>Tennis (1984)(Lorenz, Dieter)(de)</description>
+		<rom name="Tennis (1984)(Lorenz, Dieter)(de).t64" size="1419" crc="9e36076f" md5="69238d9fc51e00467883b91aad3d494d" sha1="9d9ee9c0d6a88e37fd286f57dcea020e30b20c1c"/>
 	</game>
 	<game name="Tennis (1985)(Courbois)(nl)[cr ASS]">
 		<description>Tennis (1985)(Courbois)(nl)[cr ASS]</description>
@@ -15063,6 +15083,10 @@
 	<game name="ZFL Football (1983)(Team Enterprises)[a2]">
 		<description>ZFL Football (1983)(Team Enterprises)[a2]</description>
 		<rom name="ZFL Football (1983)(Team Enterprises)[a2].t64" size="13612" crc="2148add9" md5="b3467d8dec9515ad332d490f970477f1" sha1="500c8b900f70d09e5c1183d1e131fa99b7936336"/>
+	</game>
+	<game name="Zigzag Golf (1984)(Grisewood &amp; Dempsey)[cr Rio Baan]">
+		<description>Zigzag Golf (1984)(Grisewood &amp; Dempsey)[cr Rio Baan]</description>
+		<rom name="Zigzag Golf (1984)(Grisewood &amp; Dempsey)[cr Rio Baan].t64" size="1581" crc="547d21f6" md5="17e35be665ffdd1bdc40fdbbd0063a1b" sha1="75a02bf4d4612c776182c1a3966459fb074976fd"/>
 	</game>
 	<game name="Zona Goal (1990)(Edigamma S.r.l - Super Game 2000 Nuova Serie)(it)">
 		<description>Zona Goal (1990)(Edigamma S.r.l - Super Game 2000 Nuova Serie)(it)</description>

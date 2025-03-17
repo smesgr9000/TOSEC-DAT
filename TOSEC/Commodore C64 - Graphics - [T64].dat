@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Graphics - [T64]</name>
-		<description>Commodore C64 - Graphics - [T64] (TOSEC-v2024-02-29)</description>
+		<description>Commodore C64 - Graphics - [T64] (TOSEC-v2025-01-05)</description>
 		<category>TOSEC</category>
-		<version>2024-02-29</version>
+		<version>2025-01-05</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -240,9 +240,9 @@
 		<description>Acrise Logo (1991)(Hype)[a]</description>
 		<rom name="Acrise Logo (1991)(Hype)[a].t64" size="7684" crc="33ff3bf3" md5="53dc89f12f5cff207ff833d9e0b0f3f8" sha1="12a13e2fb4a437339637a51417b0d96bd5b7980a"/>
 	</game>
-	<game name="Across Logo (19xx)(Future Designs)">
-		<description>Across Logo (19xx)(Future Designs)</description>
-		<rom name="Across Logo (19xx)(Future Designs).t64" size="11566" crc="53b2f7c8" md5="6eb94f7383c276be0e708c0e9c57e192" sha1="179031b6886a5fb8d83ec918b931b10a1ca6dfe7"/>
+	<game name="Across Logo (1989)(Future Designs)">
+		<description>Across Logo (1989)(Future Designs)</description>
+		<rom name="Across Logo (1989)(Future Designs).t64" size="11566" crc="53b2f7c8" md5="6eb94f7383c276be0e708c0e9c57e192" sha1="179031b6886a5fb8d83ec918b931b10a1ca6dfe7"/>
 	</game>
 	<game name="Action GFX (1990-09)(Scream)">
 		<description>Action GFX (1990-09)(Scream)</description>
@@ -520,13 +520,13 @@
 		<description>Arnie (1997-07-05)(Resource)</description>
 		<rom name="Arnie (1997-07-05)(Resource).t64" size="5171" crc="df50b614" md5="941fbc33d0b194e65b34da89ecec2a09" sha1="3a8d045b6c0fb07fed5715cab8af37f27a6857e1"/>
 	</game>
+	<game name="Array Logo (1989)(Future Designs)">
+		<description>Array Logo (1989)(Future Designs)</description>
+		<rom name="Array Logo (1989)(Future Designs).t64" size="11631" crc="64120952" md5="119f93084c06b11cc44df634399633f7" sha1="2ac46443045754107ddf4a2eb4e22094983d063f"/>
+	</game>
 	<game name="Array Logo (1989-02)(Contex)">
 		<description>Array Logo (1989-02)(Contex)</description>
 		<rom name="Array Logo (1989-02)(Contex).t64" size="6844" crc="93648538" md5="1b28ac105125b924552e96a3d13583f9" sha1="33ce6c77ab6cf793d31eb9ad010e98971e6a6e04"/>
-	</game>
-	<game name="Array Logo (19xx)(Future Designs)">
-		<description>Array Logo (19xx)(Future Designs)</description>
-		<rom name="Array Logo (19xx)(Future Designs).t64" size="11631" crc="64120952" md5="119f93084c06b11cc44df634399633f7" sha1="2ac46443045754107ddf4a2eb4e22094983d063f"/>
 	</game>
 	<game name="Art 1; BMW (1987)(Madsquad)">
 		<description>Art 1; BMW (1987)(Madsquad)</description>
@@ -1928,6 +1928,22 @@
 		<description>Deathless World #02 (1989)(Funtex)</description>
 		<rom name="Deathless World #02 (1989)(Funtex).t64" size="9882" crc="681649fb" md5="b77e143cd86984313969c7de5035685c" sha1="1de6daf07d7330912f7dd2249cef19d115506238"/>
 	</game>
+	<game name="Deathworld (19xx)(Pride)">
+		<description>Deathworld (19xx)(Pride)</description>
+		<rom name="Deathworld (19xx)(Pride).t64" size="10665" crc="c288fcf4" md5="086a7b20e59c88120764d426831bf1d2" sha1="84a623b4b29c8e6a706fc8ae909f5c9e526d4a10"/>
+	</game>
+	<game name="Deathworld (19xx)(Pride)[a]">
+		<description>Deathworld (19xx)(Pride)[a]</description>
+		<rom name="Deathworld (19xx)(Pride)[a].t64" size="10665" crc="67c2ece8" md5="0061b7e4826ee662536c82e57dcfd341" sha1="b5f6e1acde1147bc3aca90b6e46fb98d05ac6e28"/>
+	</game>
+	<game name="Deathworld (19xx)(Pride)[a2]">
+		<description>Deathworld (19xx)(Pride)[a2]</description>
+		<rom name="Deathworld (19xx)(Pride)[a2].t64" size="10665" crc="26a1f7c7" md5="2141cfa05d87e989f30d270692f14e95" sha1="4bb590e7ca3dc58d12e1efad6458876c497772d0"/>
+	</game>
+	<game name="Deathworld (19xx)(Pride)[a3]">
+		<description>Deathworld (19xx)(Pride)[a3]</description>
+		<rom name="Deathworld (19xx)(Pride)[a3].t64" size="10665" crc="a26ca995" md5="9489ccdff2542716657be4852a08fae7" sha1="af019336df2ad78061deb1adc5bf69b9aadb4ee0"/>
+	</game>
 	<game name="Decathlon Picture (1984)(The Damned Incorporation)">
 		<description>Decathlon Picture (1984)(The Damned Incorporation)</description>
 		<rom name="Decathlon Picture (1984)(The Damned Incorporation).t64" size="4714" crc="22fb316a" md5="5f3cbd8705932d310613b1680aaf2cd7" sha1="80555d1e9750ec9897a991491b822adfb11325b6"/>
@@ -2371,6 +2387,10 @@
 	<game name="Equinoxe Logo (19xx)(Sharon)[a]">
 		<description>Equinoxe Logo (19xx)(Sharon)[a]</description>
 		<rom name="Equinoxe Logo (19xx)(Sharon)[a].t64" size="8033" crc="564da72f" md5="caf88dbd4a517d454dc749f91d392efd" sha1="1b3c8e4fe60a293fcb3cca85a5d361a9bca90147"/>
+	</game>
+	<game name="Error Soft (19xx)(Krabat)">
+		<description>Error Soft (19xx)(Krabat)</description>
+		<rom name="Error Soft (19xx)(Krabat).t64" size="6968" crc="102e9b9f" md5="091e7f50587e653a5d77955b0a839ada" sha1="4c22141610b286a2a6a927b43b077c329c1642c7"/>
 	</game>
 	<game name="Escapades (19xx)(-)">
 		<description>Escapades (19xx)(-)</description>
@@ -3096,9 +3116,9 @@
 		<description>Girl #4 (19xx)(Wanted)</description>
 		<rom name="Girl #4 (19xx)(Wanted).t64" size="25438" crc="6bc87775" md5="e3bd827e87a28df55c49fbaae4402dca" sha1="7273a8bc803ba59bc052f711c2d5e0518def15ee"/>
 	</game>
-	<game name="Girl (1988)(Drew Rodger)">
-		<description>Girl (1988)(Drew Rodger)</description>
-		<rom name="Girl (1988)(Drew Rodger).t64" size="7548" crc="6e35c902" md5="e77d299bd013d40dd1e260f49e12fa21" sha1="a7691b9ba027d7376a16dcbd90bf262bdb682d6b"/>
+	<game name="Girl (1988)(Rodger, Drew)">
+		<description>Girl (1988)(Rodger, Drew)</description>
+		<rom name="Girl (1988)(Rodger, Drew).t64" size="7548" crc="6e35c902" md5="e77d299bd013d40dd1e260f49e12fa21" sha1="a7691b9ba027d7376a16dcbd90bf262bdb682d6b"/>
 	</game>
 	<game name="Girl (2001-11-25)(Samar Productions)">
 		<description>Girl (2001-11-25)(Samar Productions)</description>
@@ -3360,9 +3380,9 @@
 		<description>Hellmates vs. Newlook (1986)(Hellmates)</description>
 		<rom name="Hellmates vs. Newlook (1986)(Hellmates).t64" size="9395" crc="e47bdd45" md5="ac29d8ff36c37226e82c773a5271bd19" sha1="0889347fcd5a19c1a3d8ebf5219d92ba80c04afe"/>
 	</game>
-	<game name="Hellraiser (1988)(Drew Rodger)">
-		<description>Hellraiser (1988)(Drew Rodger)</description>
-		<rom name="Hellraiser (1988)(Drew Rodger).t64" size="4924" crc="e799048b" md5="dfd4c53171c59487456950e30feb64b9" sha1="78f3608d37d1b8c94dd89c6ae7ad22c9a757c265"/>
+	<game name="Hellraiser (1988)(Rodger, Drew)">
+		<description>Hellraiser (1988)(Rodger, Drew)</description>
+		<rom name="Hellraiser (1988)(Rodger, Drew).t64" size="4924" crc="e799048b" md5="dfd4c53171c59487456950e30feb64b9" sha1="78f3608d37d1b8c94dd89c6ae7ad22c9a757c265"/>
 	</game>
 	<game name="Hellraiser (1989)(Anarchy)">
 		<description>Hellraiser (1989)(Anarchy)</description>
@@ -4487,6 +4507,10 @@
 	<game name="Logo 4 Magic Science (19xx)(Tomcat)">
 		<description>Logo 4 Magic Science (19xx)(Tomcat)</description>
 		<rom name="Logo 4 Magic Science (19xx)(Tomcat).t64" size="4517" crc="3e05f9d5" md5="f101ea99904d1e6b12963c55e58a99de" sha1="68b97a935f8f5a616900a3665bf36dc1028ef8b3"/>
+	</game>
+	<game name="Logo 4 Magnum (1990)(Security)">
+		<description>Logo 4 Magnum (1990)(Security)</description>
+		<rom name="Logo 4 Magnum (1990)(Security).t64" size="8374" crc="8e81bbe2" md5="135bf99fecaae43c49f851416d8e72ee" sha1="3b053978fb7ac8bdd7744f07354730b676ffd125"/>
 	</game>
 	<game name="Logo 4 Paradize (19xx)(Exotic Designs)">
 		<description>Logo 4 Paradize (19xx)(Exotic Designs)</description>
@@ -6159,6 +6183,10 @@
 	<game name="P+M (19xx)(KGB Crew)">
 		<description>P+M (19xx)(KGB Crew)</description>
 		<rom name="P+M (19xx)(KGB Crew).t64" size="12632" crc="116754b5" md5="054f53364915ec282a1ee4f7c73842b6" sha1="c54e3fb1d04b4072b1e8d171b51f70a565f5db94"/>
+	</game>
+	<game name="P+M (19xx)(KGB Crew)[a]">
+		<description>P+M (19xx)(KGB Crew)[a]</description>
+		<rom name="P+M (19xx)(KGB Crew)[a].t64" size="12632" crc="efe461a6" md5="25c60f572256838bb2b29772e1372fa9" sha1="946fe616b6e98965838be7ffc2c5628d1ea19f1d"/>
 	</game>
 	<game name="P+P Logo 1 (19xx)(Abyss Connection - Psile Projects)">
 		<description>P+P Logo 1 (19xx)(Abyss Connection - Psile Projects)</description>

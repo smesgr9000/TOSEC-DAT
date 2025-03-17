@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Sports - [TAP]</name>
-		<description>Commodore C64 - Games - Sports - [TAP] (TOSEC-v2024-03-16)</description>
+		<description>Commodore C64 - Games - Sports - [TAP] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2024-03-16</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -980,10 +980,6 @@
 		<description>Break Fever (1984)(Interceptor)(PD)[b]</description>
 		<rom name="Break Fever (1984)(Interceptor)(PD)[b].tap" size="32768" crc="6d41e9ab" md5="a7a42044da422f6d9780795561dc4255" sha1="6238514458a43cd5fc77b0473ffa257d5b9c9243"/>
 	</game>
-	<game name="Brian Cloughs Football Fortunes (1987)(CDS Software)">
-		<description>Brian Cloughs Football Fortunes (1987)(CDS Software)</description>
-		<rom name="Brian Cloughs Football Fortunes (1987)(CDS Software).tap" size="403838" crc="dc45b86f" md5="081a4407f0f2e425f90553ca4929a9dc" sha1="aee3a44f48dd53ab5660ada47950b12a3c4f9819"/>
-	</game>
 	<game name="Brian Jack&apos;s Uchi-Mata (1986)(Martech)">
 		<description>Brian Jack&apos;s Uchi-Mata (1986)(Martech)</description>
 		<rom name="Brian Jack&apos;s Uchi-Mata (1986)(Martech).tap" size="430998" crc="f72e779c" md5="745b433960d4bf37cfd2fc0f80d1d5c4" sha1="9069557e35f878770fce4e3e71194a62aa26a574"/>
@@ -1167,6 +1163,10 @@
 	<game name="California Games (1987)(US Gold)(Side B)">
 		<description>California Games (1987)(US Gold)(Side B)</description>
 		<rom name="California Games (1987)(US Gold)(Side B).tap" size="1638332" crc="b620a25b" md5="e13e0c05220a143ffb753837fa3a75bc" sha1="bf745f35c09622ab700a3994b32578fde97f5742"/>
+	</game>
+	<game name="CBM 64 Golf (1986)(Yes Software)">
+		<description>CBM 64 Golf (1986)(Yes Software)</description>
+		<rom name="CBM 64 Golf (1986)(Yes Software).tap" size="402976" crc="5e01d074" md5="fa18459977364d792b3ea776aeef2c13" sha1="589aa5439804206bfa395a4f22484da466dca992"/>
 	</game>
 	<game name="Championship 3D Snooker (1992)(Zeppelin Games)">
 		<description>Championship 3D Snooker (1992)(Zeppelin Games)</description>
@@ -1927,10 +1927,6 @@
 	<game name="Football Director (1989)(Cult Games)">
 		<description>Football Director (1989)(Cult Games)</description>
 		<rom name="Football Director (1989)(Cult Games).tap" size="318177" crc="3a2003a1" md5="fc39f6ac1757af4eb2aa779f791cd646" sha1="1bb14ec25a9d4fa9bc807e222f8c6daeab373e43"/>
-	</game>
-	<game name="Football Fortunes II (19xx)(Commercial Data Systems)">
-		<description>Football Fortunes II (19xx)(Commercial Data Systems)</description>
-		<rom name="Football Fortunes II (19xx)(Commercial Data Systems).tap" size="719625" crc="38525d9f" md5="997b61c857f2d3aa7038993e24ef13ec" sha1="7ac49af84bd401bd85b968ecac45bd560d5f2ccb"/>
 	</game>
 	<game name="Football Manager - World Cup Edition (1990)(Addictive)">
 		<description>Football Manager - World Cup Edition (1990)(Addictive)</description>
@@ -3004,6 +3000,14 @@
 		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Side B)</description>
 		<rom name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Side B).tap" size="2084388" crc="b472927e" md5="94ecb2165edc3dfa206f8fa3735fa6e0" sha1="65737f21e47e5874b6ce5ac7278898e29b62d153"/>
 	</game>
+	<game name="Jack Nicklaus&apos; Greatest 18 Holes of Major Championship Golf (1992)(Hit Squad)(Side A)">
+		<description>Jack Nicklaus&apos; Greatest 18 Holes of Major Championship Golf (1992)(Hit Squad)(Side A)</description>
+		<rom name="Jack Nicklaus&apos; Greatest 18 Holes of Major Championship Golf (1992)(Hit Squad)(Side A).tap" size="2045130" crc="2f147dc6" md5="363aa9efa849cc5f0c347914750e9a94" sha1="2a4ee31242cd9730bba07e7dcd4f08c9091448a5"/>
+	</game>
+	<game name="Jack Nicklaus&apos; Greatest 18 Holes of Major Championship Golf (1992)(Hit Squad)(Side B)">
+		<description>Jack Nicklaus&apos; Greatest 18 Holes of Major Championship Golf (1992)(Hit Squad)(Side B)</description>
+		<rom name="Jack Nicklaus&apos; Greatest 18 Holes of Major Championship Golf (1992)(Hit Squad)(Side B).tap" size="2084392" crc="0e3a6710" md5="4da6ec1c1973f72ca7d0031a94dce30e" sha1="2096d6f1aef346ed0fd63c19da685d3db6331d60"/>
+	</game>
 	<game name="Jet Bike Simulator - Coasts (1989)(Codemasters)[b]">
 		<description>Jet Bike Simulator - Coasts (1989)(Codemasters)[b]</description>
 		<rom name="Jet Bike Simulator - Coasts (1989)(Codemasters)[b].tap" size="125514" crc="a134b50f" md5="f0c8d2559adde241180ade9acd7f5c1a" sha1="eec9b43569131d5b4d47b1fb4fa45d875bbefe6c"/>
@@ -3568,6 +3572,22 @@
 		<description>Nick Faldo Plays the Open (1985)(Grandslam Entertainment)[a]</description>
 		<rom name="Nick Faldo Plays the Open (1985)(Grandslam Entertainment)[a].tap" size="505634" crc="adbf8c1f" md5="38bafe71cf217b96ea9ed675e1a06322" sha1="5a7a5ed2ada8fa5922f2cd3500d629c1a0678a69"/>
 	</game>
+	<game name="Nick Faldo Plays The Open (19xx)(Bug-Byte)">
+		<description>Nick Faldo Plays The Open (19xx)(Bug-Byte)</description>
+		<rom name="Nick Faldo Plays The Open (19xx)(Bug-Byte).tap" size="505630" crc="2e2579ef" md5="f3f321a015febc836d0fe6ad9b52470c" sha1="62d5b386e0fe4f16eb4b78ba5667988ef403ad5f"/>
+	</game>
+	<game name="Nick Faldo Plays The Open (19xx)(Bug-Byte)[a]">
+		<description>Nick Faldo Plays The Open (19xx)(Bug-Byte)[a]</description>
+		<rom name="Nick Faldo Plays The Open (19xx)(Bug-Byte)[a].tap" size="505630" crc="6384adc4" md5="a2b2151419e295b3b48d69f1643869c4" sha1="96c340d689d7866c96e1a6467786c0be96dd50a5"/>
+	</game>
+	<game name="Nick Faldo Plays the Open (19xx)(Grandslam)[b]">
+		<description>Nick Faldo Plays the Open (19xx)(Grandslam)[b]</description>
+		<rom name="Nick Faldo Plays the Open (19xx)(Grandslam)[b].tap" size="505650" crc="70f04db0" md5="9e91f2abf75b6da1615a5260adc90a93" sha1="ec2382ae16a5d63db00ff754720a0141c26cad0e"/>
+	</game>
+	<game name="Nick Faldo Plays the Open (19xx)(Grandslam)[b][a]">
+		<description>Nick Faldo Plays the Open (19xx)(Grandslam)[b][a]</description>
+		<rom name="Nick Faldo Plays the Open (19xx)(Grandslam)[b][a].tap" size="505634" crc="5f46a907" md5="3442fa55085a5cbeace84ec77a485001" sha1="f8d8775f391b547087f533633c98c19d6f2fd7f1"/>
+	</game>
 	<game name="Olympic Skier (1984)(Mr. Chip)">
 		<description>Olympic Skier (1984)(Mr. Chip)</description>
 		<rom name="Olympic Skier (1984)(Mr. Chip).tap" size="1096396" crc="c68e68d7" md5="a75bce97eeb7f04885e7d6e91c207f65" sha1="95d5677b0f228fd0a702555f664ad4d48926fd0d"/>
@@ -3575,6 +3595,14 @@
 	<game name="Olympic Skier (1984)(Mr. Chip)[a]">
 		<description>Olympic Skier (1984)(Mr. Chip)[a]</description>
 		<rom name="Olympic Skier (1984)(Mr. Chip)[a].tap" size="1096384" crc="88f3f83b" md5="5709d63497a6e2f131da860cf83395ba" sha1="873180f63408f6d60b10b7e25103365c5f427b85"/>
+	</game>
+	<game name="Olympionic Games Nr.2 (19xx)(-)(it)(Side A)">
+		<description>Olympionic Games Nr.2 (19xx)(-)(it)(Side A)</description>
+		<rom name="Olympionic Games Nr.2 (19xx)(-)(it)(Side A).tap" size="3001396" crc="24bcff5c" md5="35a53a51b0b335731a48eb1c5c0ad2c1" sha1="3ececd31a0ece964433444c9199046079b644278"/>
+	</game>
+	<game name="Olympionic Games Nr.2 (19xx)(-)(it)(Side B)">
+		<description>Olympionic Games Nr.2 (19xx)(-)(it)(Side B)</description>
+		<rom name="Olympionic Games Nr.2 (19xx)(-)(it)(Side B).tap" size="1366" crc="16a4163d" md5="8cda978dce7a9793ac59d30795010adf" sha1="ce086497a2d945fbc70ca8536e9fb998fef717fa"/>
 	</game>
 	<game name="On Court Tennis (1984)(Activision)">
 		<description>On Court Tennis (1984)(Activision)</description>
@@ -5599,6 +5627,22 @@
 	<game name="World Championship Squash (1993)(Zeppelin Games)[a]">
 		<description>World Championship Squash (1993)(Zeppelin Games)[a]</description>
 		<rom name="World Championship Squash (1993)(Zeppelin Games)[a].tap" size="931801" crc="b1a6e4aa" md5="478e9c17594571c3396658608a7f2983" sha1="4b75262dd8becdea90b694f4d7e1dad6c71b4472"/>
+	</game>
+	<game name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 1 of 2 Side A)">
+		<description>World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 1 of 2 Side A)</description>
+		<rom name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 1 of 2 Side A).tap" size="748446" crc="f6a7a8ca" md5="362c4dd0c8726a480256c35100590982" sha1="96d800bd4fcc4e8bf84a461eb03ce135a0a5deb7"/>
+	</game>
+	<game name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 1 of 2 Side B)">
+		<description>World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 1 of 2 Side B)</description>
+		<rom name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 1 of 2 Side B).tap" size="744798" crc="6690f80d" md5="9b60b69d2660145b9a6b93cdb003044d" sha1="fe1c48d90ecb8919f286aeacacf307a6da4b8470"/>
+	</game>
+	<game name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 2 of 2 Side A)">
+		<description>World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 2 of 2 Side A)</description>
+		<rom name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 2 of 2 Side A).tap" size="644926" crc="9b67408b" md5="d17b223d9779c22d0c1e93af152e8938" sha1="f15d0cc8221887ecd0e6d35234584b59361c40dd"/>
+	</game>
+	<game name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 2 of 2 Side B)">
+		<description>World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 2 of 2 Side B)</description>
+		<rom name="World Class Leader Board- The Ultimate Golf Challenge (1987)(US Gold)(Tape 2 of 2 Side B).tap" size="744830" crc="003ee3e0" md5="39c0e257ba4675dc7c3fcf997267ea62" sha1="6c15f992ecf0f8c7efd89ac6d78ba4720b47d7e1"/>
 	</game>
 	<game name="World Class Leaderboard - Famous Courses Vol. 1 (1987)(Access Software)(Tape 1 of 2 Side A)">
 		<description>World Class Leaderboard - Famous Courses Vol. 1 (1987)(Access Software)(Tape 1 of 2 Side A)</description>

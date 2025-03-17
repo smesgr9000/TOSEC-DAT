@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Atari Jaguar - Homebrew - Games - [ROM]</name>
-		<description>Atari Jaguar - Homebrew - Games - [ROM] (TOSEC-v2024-01-15)</description>
+		<description>Atari Jaguar - Homebrew - Games - [ROM] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -35,6 +35,14 @@
 	<game name="Big Screen, The... Reloaded (2021)(Matmook)">
 		<description>Big Screen, The... Reloaded (2021)(Matmook)</description>
 		<rom name="Big Screen, The... Reloaded (2021)(Matmook).rom" size="1048576" crc="7a3355c5" md5="760070e31d5f402445285f768bd78bf3" sha1="f1e6da7bc34a44437078e6a2c4774d082aea2be5"/>
+	</game>
+	<game name="BinaryLand (2023-12)(Rutledge, Rich)">
+		<description>BinaryLand (2023-12)(Rutledge, Rich)</description>
+		<rom name="BinaryLand (2023-12)(Rutledge, Rich).rom" size="1048576" crc="2c21eabd" md5="68bd3ed08762508b72567aafe4213ce3" sha1="ba593a1bee161468affc72889bb7760154389bf0"/>
+	</game>
+	<game name="BinaryLand (2023-12)(Rutledge, Rich)[compo version]">
+		<description>BinaryLand (2023-12)(Rutledge, Rich)[compo version]</description>
+		<rom name="BinaryLand (2023-12)(Rutledge, Rich)[compo version].rom" size="1048576" crc="cf2151c3" md5="ebf1aec6772d3288751958d4b1195488" sha1="fd3b8b4741e1af0f48c557364d98c0671d58a6a9"/>
 	</game>
 	<game name="Biopede! v4 (2020-10-10)(Reboot)[req Skunkboard or GD]">
 		<description>Biopede! v4 (2020-10-10)(Reboot)[req Skunkboard or GD]</description>
@@ -95,6 +103,10 @@
 	<game name="Full Circle - Rocketeer (demo-playable) (2013)(Reboot)[a]">
 		<description>Full Circle - Rocketeer (demo-playable) (2013)(Reboot)[a]</description>
 		<rom name="Full Circle - Rocketeer (demo-playable) (2013)(Reboot)[a].rom" size="2088960" crc="2d0cdeaa" md5="7d2611a334962e57e534149245d11f5d" sha1="070c60b5fbee5c5df7d14493ab3e07bd04816e69"/>
+	</game>
+	<game name="Go Lucky (2024-07-27)(PPs)(DE)(en)">
+		<description>Go Lucky (2024-07-27)(PPs)(DE)(en)</description>
+		<rom name="Go Lucky (2024-07-27)(PPs)(DE)(en).rom" size="4194304" crc="389f0428" md5="5d577fa87d96180589831ce2ee73d561" sha1="bfd040862b1e962257300799e3cc95c7b0f2fb6a"/>
 	</game>
 	<game name="Gravitic Mines (demo-playable) (2021)(Reboot)[req Skunkboard or GD]">
 		<description>Gravitic Mines (demo-playable) (2021)(Reboot)[req Skunkboard or GD]</description>
@@ -180,5 +192,16 @@
 		<description>SuperFly DX v1.1 (2010)(Reboot)</description>
 		<rom name="SuperFly DX v1.1 (2010)(Reboot).rom" size="1564672" crc="20e8a94e" md5="266c97e7cd3c09af24a6a63b22b340db" sha1="41076283cb9e0fc92e197cb763cb9efcfe303fcd"/>
 	</game>
-	
+	<game name="Tenebra (2024-06-21)(Haplo - reboot-games)">
+		<description>Tenebra (2024-06-21)(Haplo - reboot-games)</description>
+		<rom name="Tenebra (2024-06-21)(Haplo - reboot-games).rom" size="1048576" crc="a6b74688" md5="a09655a37e6c0f42d8d73d7ac180d195" sha1="f8cb974176f2868a83df855d5c424fb12b223a51"/>
+	</game>
+	<game name="Tenebra 2 (2024-06-21)(Haplo - reboot-games)">
+		<description>Tenebra 2 (2024-06-21)(Haplo - reboot-games)</description>
+		<rom name="Tenebra 2 (2024-06-21)(Haplo - reboot-games).rom" size="1048576" crc="061a00e7" md5="08c2ea609bd818880dbc8ad82e4d9e88" sha1="9b48fa76ba0d6214b22657e9bed2cf5baf77d362"/>
+	</game>
+	<game name="Trojan (2023-12)(Rutledge, Rich)">
+		<description>Trojan (2023-12)(Rutledge, Rich)</description>
+		<rom name="Trojan (2023-12)(Rutledge, Rich).rom" size="2097152" crc="6f6331f1" md5="98eefb1ad36e3271d467c9b11bb3028a" sha1="005d9a88e1a2628b93b509b4a7a6ba3374b42f46"/>
+	</game>
 </datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [T64]</name>
-		<description>Commodore C64 - Games - Racing - [T64] (TOSEC-v2024-03-15)</description>
+		<description>Commodore C64 - Games - Racing - [T64] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2024-03-15</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -952,9 +952,9 @@
 		<description>Buggy&apos;s (1990)(Del Priore, Fabian)[cr ASS][GKGM]</description>
 		<rom name="Buggy&apos;s (1990)(Del Priore, Fabian)[cr ASS][GKGM].t64" size="12326" crc="4a8fd803" md5="2e9e652739a65a2b018a9c7ff8aacae5" sha1="e9484d9682646d2a8f618045b0e62b39fcba9638"/>
 	</game>
-	<game name="Bulldozer (1986)(Karlheinz Herpel)(de)">
-		<description>Bulldozer (1986)(Karlheinz Herpel)(de)</description>
-		<rom name="Bulldozer (1986)(Karlheinz Herpel)(de).t64" size="3515" crc="f23afc95" md5="1a2416cf58047aa5c1fa5d0078addd01" sha1="88b057a920ce30e6504a927757e359a600530807"/>
+	<game name="Bulldozer (1986)(Herpel, Karlheinz)(de)">
+		<description>Bulldozer (1986)(Herpel, Karlheinz)(de)</description>
+		<rom name="Bulldozer (1986)(Herpel, Karlheinz)(de).t64" size="3515" crc="f23afc95" md5="1a2416cf58047aa5c1fa5d0078addd01" sha1="88b057a920ce30e6504a927757e359a600530807"/>
 	</game>
 	<game name="Bumping Buggies (1984)(Bubble Bus)">
 		<description>Bumping Buggies (1984)(Bubble Bus)</description>
@@ -1812,13 +1812,13 @@
 		<description>Death Race 64 (1987)(Atlantis)[cr HTL][t +2 HTL][a5]</description>
 		<rom name="Death Race 64 (1987)(Atlantis)[cr HTL][t +2 HTL][a5].t64" size="29788" crc="13e044d1" md5="ccf00a91aaaee3b66388b9f8ca49a36a" sha1="3ccb839b8f032ec0b9c17c56e800fe0e0ba1b9d6"/>
 	</game>
-	<game name="Demon Dozer (1984)(Horwood, Ellis)">
-		<description>Demon Dozer (1984)(Horwood, Ellis)</description>
-		<rom name="Demon Dozer (1984)(Horwood, Ellis).t64" size="2996" crc="68950e3f" md5="6477fe9853499d179f442886bf435b24" sha1="8276633a23f8b0811dc22956b543710ec7c0235f"/>
+	<game name="Demon Dozer (1984)(Ellis Horwood)">
+		<description>Demon Dozer (1984)(Ellis Horwood)</description>
+		<rom name="Demon Dozer (1984)(Ellis Horwood).t64" size="2996" crc="68950e3f" md5="6477fe9853499d179f442886bf435b24" sha1="8276633a23f8b0811dc22956b543710ec7c0235f"/>
 	</game>
-	<game name="Demon Dozer (1984)(Horwood, Ellis)[a]">
-		<description>Demon Dozer (1984)(Horwood, Ellis)[a]</description>
-		<rom name="Demon Dozer (1984)(Horwood, Ellis)[a].t64" size="2996" crc="61503b84" md5="7fdfab1e37fc2e2549ab432f6725d6ba" sha1="0a7f0c6268aa7806b2d237abca9b24c9d8c18f7b"/>
+	<game name="Demon Dozer (1984)(Ellis Horwood)[a]">
+		<description>Demon Dozer (1984)(Ellis Horwood)[a]</description>
+		<rom name="Demon Dozer (1984)(Ellis Horwood)[a].t64" size="2996" crc="61503b84" md5="7fdfab1e37fc2e2549ab432f6725d6ba" sha1="0a7f0c6268aa7806b2d237abca9b24c9d8c18f7b"/>
 	</game>
 	<game name="Descent into Chaos (1983)(Addison-Wesley Publishers)">
 		<description>Descent into Chaos (1983)(Addison-Wesley Publishers)</description>
@@ -2212,6 +2212,10 @@
 		<description>Fast Tracks - RC Racers (1988)(Turmell, Mark)[cr AFL][a]</description>
 		<rom name="Fast Tracks - RC Racers (1988)(Turmell, Mark)[cr AFL][a].t64" size="38153" crc="7eb41ac6" md5="4597034808cf4b933c1833fcbcd0f3ed" sha1="054a02237f4c373db1687100f97261a3b7f7a5ee"/>
 	</game>
+	<game name="Fast Tracks - Spaghetti (19xx)(Turmell, Mark)[cr Kangaroo]">
+		<description>Fast Tracks - Spaghetti (19xx)(Turmell, Mark)[cr Kangaroo]</description>
+		<rom name="Fast Tracks - Spaghetti (19xx)(Turmell, Mark)[cr Kangaroo].t64" size="43221" crc="04e4444e" md5="239f7e06ee71837579a2015f36b99370" sha1="5d9d7f73d29990e268f330101655fbc691bc897c"/>
+	</game>
 	<game name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL]">
 		<description>Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL]</description>
 		<rom name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL].t64" size="29773" crc="9841c396" md5="c0f603c76bae741179ccd4610c84a64e" sha1="09252235757120c6f4afdb14898772e7691afb3a"/>
@@ -2227,6 +2231,10 @@
 	<game name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL][a3]">
 		<description>Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL][a3]</description>
 		<rom name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL][a3].t64" size="29773" crc="f9bbc31c" md5="1782450f6f0edbbd377625c23f5e7dad" sha1="f85e90fc71d9ba836d660ed257c1cc7a377a1a6f"/>
+	</game>
+	<game name="Fast Tracks (1985)(Activision)[cr Kangaroo]">
+		<description>Fast Tracks (1985)(Activision)[cr Kangaroo]</description>
+		<rom name="Fast Tracks (1985)(Activision)[cr Kangaroo].t64" size="44149" crc="ac4c5691" md5="a2cf9ebefa3db6b0126fc46a43bbb5d2" sha1="842a12ed3dd397cc12d9278742645ebb59d19417"/>
 	</game>
 	<game name="Ferrari in Formula Uno (1984)(Mantra Software)(it)">
 		<description>Ferrari in Formula Uno (1984)(Mantra Software)(it)</description>
@@ -3388,33 +3396,33 @@
 		<description>Le Mans Grand Prix Simulator (19xx)(Dierks, Jörg)[cr Army][a]</description>
 		<rom name="Le Mans Grand Prix Simulator (19xx)(Dierks, Jörg)[cr Army][a].t64" size="39203" crc="0282663c" md5="893bd268c14f7672a94ea4eb95c8772a" sha1="5c5a414c31e5d1e5fa7488be8dff451c5964a46c"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr Hotline]">
-		<description>LED Storm (1989)(Go!)[cr Hotline]</description>
-		<rom name="LED Storm (1989)(Go!)[cr Hotline].t64" size="47622" crc="f32c8197" md5="a6c86d9c4fa4a620923947f0689fff91" sha1="bcb7ecb839b45b1efe45741c6108dad4581146a8"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr Hotline]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr Hotline]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr Hotline].t64" size="47622" crc="f32c8197" md5="a6c86d9c4fa4a620923947f0689fff91" sha1="bcb7ecb839b45b1efe45741c6108dad4581146a8"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr Hotline][a]">
-		<description>LED Storm (1989)(Go!)[cr Hotline][a]</description>
-		<rom name="LED Storm (1989)(Go!)[cr Hotline][a].t64" size="47622" crc="dd7c2328" md5="d20d0eeda97824608c8935d9a8b2e4ca" sha1="b6ca944e0e1ab26c899bcf0bbd07f0f1114ac50d"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr Hotline][a]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr Hotline][a]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr Hotline][a].t64" size="47622" crc="dd7c2328" md5="d20d0eeda97824608c8935d9a8b2e4ca" sha1="b6ca944e0e1ab26c899bcf0bbd07f0f1114ac50d"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr HTL][t +1 HTL]">
-		<description>LED Storm (1989)(Go!)[cr HTL][t +1 HTL]</description>
-		<rom name="LED Storm (1989)(Go!)[cr HTL][t +1 HTL].t64" size="41966" crc="0a506e11" md5="ea18ef7e67d5055b8f7f875e245ea50f" sha1="c3d8b7fa151e62b7e1babf49d0ec7b47e654214d"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr HTL][t +1 HTL]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr HTL][t +1 HTL]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr HTL][t +1 HTL].t64" size="41966" crc="0a506e11" md5="ea18ef7e67d5055b8f7f875e245ea50f" sha1="c3d8b7fa151e62b7e1babf49d0ec7b47e654214d"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr Nato+XDS]">
-		<description>LED Storm (1989)(Go!)[cr Nato+XDS]</description>
-		<rom name="LED Storm (1989)(Go!)[cr Nato+XDS].t64" size="50285" crc="57ce1494" md5="f408248df22aac45bf0d476280b70ee8" sha1="576a48b550b8784af7a3e7a17095fda10470a1fc"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr Nato+XDS]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr Nato+XDS]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr Nato+XDS].t64" size="50285" crc="57ce1494" md5="f408248df22aac45bf0d476280b70ee8" sha1="576a48b550b8784af7a3e7a17095fda10470a1fc"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr OUG][t +1 OUG]">
-		<description>LED Storm (1989)(Go!)[cr OUG][t +1 OUG]</description>
-		<rom name="LED Storm (1989)(Go!)[cr OUG][t +1 OUG].t64" size="49511" crc="2b0248c0" md5="64752aef5b320141510a491ef3738d03" sha1="3ddf7753279c789e3e7f0dcdcb2116994d631ae3"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr OUG][t +1 OUG]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr OUG][t +1 OUG]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr OUG][t +1 OUG].t64" size="49511" crc="2b0248c0" md5="64752aef5b320141510a491ef3738d03" sha1="3ddf7753279c789e3e7f0dcdcb2116994d631ae3"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr OUG][t OUG]">
-		<description>LED Storm (1989)(Go!)[cr OUG][t OUG]</description>
-		<rom name="LED Storm (1989)(Go!)[cr OUG][t OUG].t64" size="49511" crc="4168627d" md5="a0d6524fa62491f1c30562d4ff3c56a3" sha1="f9a296969a102895f72c959c35e38b912001b8b0"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr OUG][t OUG]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr OUG][t OUG]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr OUG][t OUG].t64" size="49511" crc="4168627d" md5="a0d6524fa62491f1c30562d4ff3c56a3" sha1="f9a296969a102895f72c959c35e38b912001b8b0"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr OUG][t OUG][a]">
-		<description>LED Storm (1989)(Go!)[cr OUG][t OUG][a]</description>
-		<rom name="LED Storm (1989)(Go!)[cr OUG][t OUG][a].t64" size="49511" crc="d052353e" md5="cf1fe17671b9991e2c97073e069377c7" sha1="07db85c162378d2fa9826a057890d3f1df42a697"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr OUG][t OUG][a]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr OUG][t OUG][a]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr OUG][t OUG][a].t64" size="49511" crc="d052353e" md5="cf1fe17671b9991e2c97073e069377c7" sha1="07db85c162378d2fa9826a057890d3f1df42a697"/>
 	</game>
 	<game name="Lemans Infinity Hours (2005)(Butcher, Nathan)(PD)">
 		<description>Lemans Infinity Hours (2005)(Butcher, Nathan)(PD)</description>
@@ -4443,6 +4451,10 @@
 	<game name="Pole Position (1984)(Atari)[cr ASS]">
 		<description>Pole Position (1984)(Atari)[cr ASS]</description>
 		<rom name="Pole Position (1984)(Atari)[cr ASS].t64" size="11706" crc="955e6611" md5="3aa1f5146e543b9a63dc2f523679c7b6" sha1="78cb8c57424975b3f69b10d195e8997b87a414c0"/>
+	</game>
+	<game name="Pole Position (1984)(Atari)[o2]">
+		<description>Pole Position (1984)(Atari)[o2]</description>
+		<rom name="Pole Position (1984)(Atari)[o2].t64" size="17473" crc="8474a022" md5="7777c6ea12618a4bc250491a6f71bb78" sha1="ef6cf800540e6f674cab4c18c5d8a131e3c3d0bf"/>
 	</game>
 	<game name="Pole Position (1986)(Tronic Verlag - Homecomputer)(de)[cr Endurion]">
 		<description>Pole Position (1986)(Tronic Verlag - Homecomputer)(de)[cr Endurion]</description>

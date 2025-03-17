@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [EQU]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [EQU] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Service Calls for TRSDOS 6.2 (1986)(Jeffrey Kline)">
+		<description>Service Calls for TRSDOS 6.2 (1986)(Jeffrey Kline)</description>
+		<rom name="equate.equ" size="6272" crc="2770e447" md5="0080a47f8b40785162434fa4089c2390" sha1="42e32d92f2f54ae0221ed1578fa82ed7937e0c0d"/>
+		<rom name="updequ.txt" size="896" crc="01aeea94" md5="892506cae0b3c3ba6f70103cf2911920" sha1="f8fe7f1057447c384a8ce42155e937434be5bc6a"/>
+	</game>
+</datafile>

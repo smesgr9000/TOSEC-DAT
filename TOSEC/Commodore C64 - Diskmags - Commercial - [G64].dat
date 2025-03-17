@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Diskmags - Commercial - [G64]</name>
-		<description>Commodore C64 - Diskmags - Commercial - [G64] (TOSEC-v2021-07-14)</description>
+		<description>Commodore C64 - Diskmags - Commercial - [G64] (TOSEC-v2024-10-26)</description>
 		<category>TOSEC</category>
-		<version>2021-07-14</version>
+		<version>2024-10-26</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -224,6 +224,10 @@
 		<description>Golden Disk 90-10 (1990)(-)(de)[a3]</description>
 		<rom name="Golden Disk 90-10 (1990)(-)(de)[a3].g64" size="278234" crc="0e1d6a08" md5="fdadd250ef773fd6e836f5c7c110a30b" sha1="d4c828f50f86e64c80c66a958874deadb501074e"/>
 	</game>
+	<game name="Golden Disk 91-01 (1991)(-)(de)(Side A)">
+		<description>Golden Disk 91-01 (1991)(-)(de)(Side A)</description>
+		<rom name="Golden Disk 91-01 (1991)(-)(de)(Side A).g64" size="287512" crc="83b753a8" md5="a31d89a0468d5d94b68c942621805e4b" sha1="aedd1f08f7112ed5e04f0ac95386b2989983c982"/>
+	</game>
 	<game name="Golden Disk 91-01 (1991)(-)(de)(Side B)">
 		<description>Golden Disk 91-01 (1991)(-)(de)(Side B)</description>
 		<rom name="Golden Disk 91-01 (1991)(-)(de)(Side B).g64" size="333744" crc="9b191cfb" md5="f562e5a6b7c254577d60707fd15c1bdf" sha1="25279efeba89d7d76a86ad24f7ad8b1019d88ae6"/>
@@ -231,6 +235,22 @@
 	<game name="Golden Disk 91-01 (1991)(-)(de)(Side B)[a]">
 		<description>Golden Disk 91-01 (1991)(-)(de)(Side B)[a]</description>
 		<rom name="Golden Disk 91-01 (1991)(-)(de)(Side B)[a].g64" size="278234" crc="f2367975" md5="f52f76d83fc5b12aee6fea62c16fb3e5" sha1="155a30af3ce5bfc0d2685fcf7e98431a26e2d5a6"/>
+	</game>
+	<game name="Golden Disk 91-02 (1991)(-)(de)(Side A)">
+		<description>Golden Disk 91-02 (1991)(-)(de)(Side A)</description>
+		<rom name="Golden Disk 91-02 (1991)(-)(de)(Side A).g64" size="287512" crc="4c003dc7" md5="95abf93c8585fe5fac22ce1aaeba386c" sha1="c64f0b0a637f6e4b4366d0bd604b41f1d6aa85f7"/>
+	</game>
+	<game name="Golden Disk 91-02 (1991)(-)(de)(Side B)">
+		<description>Golden Disk 91-02 (1991)(-)(de)(Side B)</description>
+		<rom name="Golden Disk 91-02 (1991)(-)(de)(Side B).g64" size="319232" crc="1c809674" md5="58dcd4344b88d729f3003827b2c4d2dd" sha1="cfe7218f52af93b96ac9f55a342082cc2cf2f906"/>
+	</game>
+	<game name="Golden Disk 91-03 (1991)(-)(de)(Side A)">
+		<description>Golden Disk 91-03 (1991)(-)(de)(Side A)</description>
+		<rom name="Golden Disk 91-03 (1991)(-)(de)(Side A).g64" size="287512" crc="c87eb962" md5="555160c92d7c2a3bc6bc1eb7116442b2" sha1="cd3b9facd635b540e02ad961895b45474360c989"/>
+	</game>
+	<game name="Golden Disk 91-03 (1991)(-)(de)(Side B)">
+		<description>Golden Disk 91-03 (1991)(-)(de)(Side B)</description>
+		<rom name="Golden Disk 91-03 (1991)(-)(de)(Side B).g64" size="287512" crc="77c93da3" md5="63a1ad34916cad41d66c533cdb7f26fe" sha1="dd79b974a3e56e7114e94a7677b81d457122db84"/>
 	</game>
 	<game name="Golden Disk 91-04 (1991)(-)(de)(Side A)">
 		<description>Golden Disk 91-04 (1991)(-)(de)(Side A)</description>
@@ -259,6 +279,22 @@
 	<game name="Golden Disk 91-05 (1991)(-)(de)[a2]">
 		<description>Golden Disk 91-05 (1991)(-)(de)[a2]</description>
 		<rom name="Golden Disk 91-05 (1991)(-)(de)[a2].g64" size="325814" crc="221e335a" md5="2764d34cfa9431c92f6a19c25fddb90a" sha1="567316729d19bc926f5f37608dd75e48f4952fa5"/>
+	</game>
+	<game name="Golden Disk 91-06 (1991)(-)(de)(Side A)">
+		<description>Golden Disk 91-06 (1991)(-)(de)(Side A)</description>
+		<rom name="Golden Disk 91-06 (1991)(-)(de)(Side A).g64" size="287512" crc="d6f62823" md5="b59e5628c90d014484e485cb2809f042" sha1="a8357c2d393734c836bb95a785d6cfc0e5109a59"/>
+	</game>
+	<game name="Golden Disk 91-06 (1991)(-)(de)(Side B)">
+		<description>Golden Disk 91-06 (1991)(-)(de)(Side B)</description>
+		<rom name="Golden Disk 91-06 (1991)(-)(de)(Side B).g64" size="295442" crc="bb2c2bfb" md5="1298266c7ca91874f8c4b4aa8f3a7783" sha1="3250165f800450d894852a224bdadfe5ea8f160c"/>
+	</game>
+	<game name="Golden Disk 91-07 (1991)(-)(de)(Side A)">
+		<description>Golden Disk 91-07 (1991)(-)(de)(Side A)</description>
+		<rom name="Golden Disk 91-07 (1991)(-)(de)(Side A).g64" size="287512" crc="bbd41c48" md5="3e4d77c12c2565afac9aca3d7f1ad1aa" sha1="4d5418dcd78bb40c026b3b982af33acb4040be0a"/>
+	</game>
+	<game name="Golden Disk 91-07 (1991)(-)(de)(Side B)">
+		<description>Golden Disk 91-07 (1991)(-)(de)(Side B)</description>
+		<rom name="Golden Disk 91-07 (1991)(-)(de)(Side B).g64" size="287512" crc="eb415b69" md5="f4df4f48e5dd4c50f569111191819c78" sha1="05e607a564e7e2994ca842b91491ea77cc83eef7"/>
 	</game>
 	<game name="Golden Disk 91-08 (1991)(-)(de)(Side A)">
 		<description>Golden Disk 91-08 (1991)(-)(de)(Side A)</description>

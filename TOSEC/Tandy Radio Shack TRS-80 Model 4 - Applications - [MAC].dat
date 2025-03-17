@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [MAC]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [MAC] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Omikron 8 Disk Driver for LDOS (19xx)(-)[MAC]">
+		<description>Omikron 8 Disk Driver for LDOS (19xx)(-)[MAC]</description>
+		<rom name="OMKRON.MAC" size="10540" crc="5e100cd0" md5="d84a428b29335e2cbe601348bbb2c5d0" sha1="05b98170186322d84109b4560fe1c780c89eeef3"/>
+	</game>
+	<game name="Partitioned Data Set Front End Loader (19xx)(Roy Soltoff)[MAC]">
+		<description>Partitioned Data Set Front End Loader (19xx)(Roy Soltoff)[MAC]</description>
+		<rom name="PDSFEL.MAC" size="3630" crc="abf2cf5d" md5="e88f1efeb659f6321a9eabf972b31b42" sha1="2d68f6f24dd356e39574fd009dfb11446f81cfc9"/>
+	</game>
+	<game name="Pass Paramters to RATFOR (19xx)(-)[MAC]">
+		<description>Pass Paramters to RATFOR (19xx)(-)[MAC]</description>
+		<rom name="PARAM.DOC" size="6843" crc="acaebef2" md5="4ce910f9a726f5a14738459a3dd7bba6" sha1="3eb578916318ce74410f2e4f8c89a765faba697b"/>
+		<rom name="PARAM.MAC" size="3582" crc="9ca866e7" md5="0386d1de0286df50bd531909095ae258" sha1="8490af614053eda646a990318161abf0c23a3304"/>
+	</game>
+</datafile>

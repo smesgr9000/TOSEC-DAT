@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Operating Systems - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Operating Systems - [CMD] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BAM Operating System v4.2 (19xx)(-)[CMD]">
+		<description>BAM Operating System v4.2 (19xx)(-)[CMD]</description>
+		<rom name="DISKBAM.CMD" size="3328" crc="bd1a8127" md5="040517a99cbde6162f25f89034f9adad" sha1="274e9b376c9e9ebd92e7059ce6574ada91eae6e4"/>
+	</game>
+	<game name="Clawdos (1984)(S Clawson)[CMD]">
+		<description>Clawdos (1984)(S Clawson)[CMD]</description>
+		<rom name="clawdos.cmd" size="1024" crc="a845a28d" md5="38aa69fcd9a437c33a3e62e13b47a19c" sha1="fca4b49d3d1f39db6c040ee5e22f77d5a0ebc193"/>
+		<rom name="clawdos.doc" size="713" crc="99fe17c8" md5="37ea3e02e03146ce2effab9f26d99ffd" sha1="5a6ff23a1c0780f5012eefca3e877b4107e773e9"/>
+		<rom name="clawdos.src" size="4710" crc="3ff30d6c" md5="78efb78e56529ea9db10076b8af3368d" sha1="b88039d4529877e912928ac71270eb7b7d2b30ab"/>
+	</game>
+	<game name="Store Operating System Initialization v3.5 (1982)(Tandy)[CMD]">
+		<description>Store Operating System Initialization v3.5 (1982)(Tandy)[CMD]</description>
+		<rom name="STORE.DAT" size="0" crc=""/>
+		<rom name="STRINT.CMD" size="4864" crc="77b4d0c4" md5="56205d12004abdd2739de95912f7981c" sha1="5a6b3473117192eea1b1809dda02234e2e3fcda3"/>
+	</game>
+</datafile>

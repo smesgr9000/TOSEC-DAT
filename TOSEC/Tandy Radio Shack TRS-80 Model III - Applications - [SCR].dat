@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [SCR]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [SCR] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SuperScripsit Printer Driver for FX-80 (1986)(Paul Jaeger)[SCR]">
+		<description>SuperScripsit Printer Driver for FX-80 (1986)(Paul Jaeger)[SCR]</description>
+		<rom name="fx80.doc" size="1244" crc="f94a328e" md5="f49caf4fb8b58f68ebf06cc147dcf8a8" sha1="96debbe348b88e69ab51acc6e157bcd349e5c6c4"/>
+		<rom name="fx80m3.ctl" size="553" crc="aef992dd" md5="94decfec8ede85bb93be79c43b167416" sha1="7a7fc6c8f9be4c5ac47950e0fe5c5fb288922666"/>
+		<rom name="fx80m3.mac" size="10794" crc="e66aca80" md5="4e8e8b913c914559e62d82460230d535" sha1="09f9adf2489626f24288bd968b7fa2972449b035"/>
+	</game>
+</datafile>
