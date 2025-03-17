@@ -836,6 +836,10 @@
 		<description>Base Attack (1983)(HomeVision)(PAL)[aka Z-Tack]</description>
 		<rom name="Base Attack (1983)(HomeVision)(PAL)[aka Z-Tack].bin" size="4096" crc="81f1e5dd" md5="d6dc9b4508da407e2437bfa4de53d1b2" sha1="4e2ccb0afe236a76193ad500bab57abb82632a5a"/>
 	</game>
+	<game name="Baseball (1988)(Telegames)(PAL)[aka World Championship Baseball]">
+		<description>Baseball (1988)(Telegames)(PAL)[aka World Championship Baseball]</description>
+		<rom name="Baseball (1988)(Telegames)(PAL)[aka World Championship Baseball].bin" size="4096" crc="b248547e" md5="034c1434280b0f2c9f229777d790d1e1" sha1="2ae3bf2295020192aca587aa5a4f2426543fbf80"/>
+	</game>
 	<game name="Basketball (1978)(Atari)(NTSC)">
 		<description>Basketball (1978)(Atari)(NTSC)</description>
 		<rom name="Basketball (1978)(Atari)(NTSC).bin" size="2048" crc="b31d49f0" md5="ab4ac994865fb16ebb85738316309457" sha1="bffe99454cb055552e5d612f0dba25470137328d"/>
@@ -3030,27 +3034,23 @@
 	</game>
 	<game name="Ghost Manor (1983)(Xonox)(NTSC)">
 		<description>Ghost Manor (1983)(Xonox)(NTSC)</description>
-		<rom name="Ghost Manor (1983)(Xonox)(NTSC).bin" size="4096" crc="3dd298b8" md5="0eecb5f58f55de9db4eedb3a0f6b74a8" sha1="8b8540f7be7ca6475d9ec7c7b1ea8f0471c8b1fb"/>
+		<rom name="Ghost Manor (1983)(Xonox)(NTSC).bin" size="8192" crc="6fc46219" md5="2bee7f226d506c217163bad4ab1768c0" sha1="4b533776dcd9d538f9206ad1e28b30116d08df1e"/>
 	</game>
-	<game name="Ghost Manor (1983)(Xonox)(NTSC)[o]">
-		<description>Ghost Manor (1983)(Xonox)(NTSC)[o]</description>
-		<rom name="Ghost Manor (1983)(Xonox)(NTSC)[o].bin" size="8192" crc="6fc46219" md5="2bee7f226d506c217163bad4ab1768c0" sha1="4b533776dcd9d538f9206ad1e28b30116d08df1e"/>
+	<game name="Ghost Manor (1983)(Xonox)(PAL)">
+		<description>Ghost Manor (1983)(Xonox)(PAL)</description>
+		<rom name="Ghost Manor (1983)(Xonox)(PAL).bin" size="8192" crc="71367efe" md5="40d8ed6a5106245aa79f05642a961485" sha1="12d2f7e75e9107093182dfcf3fb74370b0167c42"/>
 	</game>
-	<game name="Ghost Manor (1983)(Xonox)(PAL)[o]">
-		<description>Ghost Manor (1983)(Xonox)(PAL)[o]</description>
-		<rom name="Ghost Manor (1983)(Xonox)(PAL)[o].bin" size="8192" crc="71367efe" md5="40d8ed6a5106245aa79f05642a961485" sha1="12d2f7e75e9107093182dfcf3fb74370b0167c42"/>
-	</game>
-	<game name="Ghost Manor (1983)(Xonox)(PAL)[o][a]">
-		<description>Ghost Manor (1983)(Xonox)(PAL)[o][a]</description>
-		<rom name="Ghost Manor (1983)(Xonox)(PAL)[o][a].bin" size="8192" crc="5b6a81d1" md5="3b10106836565e5db28c7823c0898fbb" sha1="e49f6f8352163c4d0cd9271265b48ac2da566185"/>
+	<game name="Ghost Manor (1983)(Xonox)(PAL)[a]">
+		<description>Ghost Manor (1983)(Xonox)(PAL)[a]</description>
+		<rom name="Ghost Manor (1983)(Xonox)(PAL)[a].bin" size="8192" crc="5b6a81d1" md5="3b10106836565e5db28c7823c0898fbb" sha1="e49f6f8352163c4d0cd9271265b48ac2da566185"/>
 	</game>
 	<game name="Ghost Manor (1983)(Xonox)[b]">
 		<description>Ghost Manor (1983)(Xonox)[b]</description>
 		<rom name="Ghost Manor (1983)(Xonox)[b].bin" size="4095" crc="64995aaf" md5="15a5fe484448a5582418923a3952e3c7" sha1="3e05cd21bcf11c300ada30010b19c5b3e31b62dc"/>
 	</game>
-	<game name="Ghost Manor (1983)(Xonox)[o2]">
-		<description>Ghost Manor (1983)(Xonox)[o2]</description>
-		<rom name="Ghost Manor (1983)(Xonox)[o2].bin" size="8191" crc="9440ced3" md5="28c04cc802e5c30e9369366c11dd1986" sha1="542083cfe1cab0b4692f26656cb7c38334dc5b39"/>
+	<game name="Ghost Manor (1983)(Xonox)[b2]">
+		<description>Ghost Manor (1983)(Xonox)[b2]</description>
+		<rom name="Ghost Manor (1983)(Xonox)[b2].bin" size="8191" crc="9440ced3" md5="28c04cc802e5c30e9369366c11dd1986" sha1="542083cfe1cab0b4692f26656cb7c38334dc5b39"/>
 	</game>
 	<game name="Ghostbusters (1984)(Activision)(NTSC)">
 		<description>Ghostbusters (1984)(Activision)(NTSC)</description>
@@ -3215,62 +3215,6 @@
 	<game name="Ikari Warriors (1990)(Atari)(PAL)[b]">
 		<description>Ikari Warriors (1990)(Atari)(PAL)[b]</description>
 		<rom name="Ikari Warriors (1990)(Atari)(PAL)[b].bin" size="16383" crc="39b47e39" md5="17deb4af3a8ffb3a9e6f371346fa61f0" sha1="54016ff91b83fc5fc656273c8af021d99fe06c5b"/>
-	</game>
-	<game name="Incoming (2002-01-28)(Larson, Ben)(PD)(alpha)">
-		<description>Incoming (2002-01-28)(Larson, Ben)(PD)(alpha)</description>
-		<rom name="Incoming (2002-01-28)(Larson, Ben)(PD)(alpha).a26" size="4077" crc="a7feb20e" md5="93511052bbc9423337905d4d17ecef96" sha1="4e56267adc188f6a3e1fb85830ed613d7fce2e3b"/>
-	</game>
-	<game name="Incoming (2002-08-22)(Larson, Ben)(PD)(alpha)">
-		<description>Incoming (2002-08-22)(Larson, Ben)(PD)(alpha)</description>
-		<rom name="Incoming (2002-08-22)(Larson, Ben)(PD)(alpha).a26" size="4096" crc="575c86ad" md5="15bcd74f2f1f2a63e1aa93e90d2c0555" sha1="c9637b437aa7c322b95dcfb7db86352dabf1d2d6"/>
-	</game>
-	<game name="Incoming (2002-10-02)(Larson, Ben)(PD)(alpha)">
-		<description>Incoming (2002-10-02)(Larson, Ben)(PD)(alpha)</description>
-		<rom name="Incoming (2002-10-02)(Larson, Ben)(PD)(alpha).a26" size="4096" crc="1ad32c67" md5="f137211537438b1fce3d811baef25457" sha1="0539e47c854f8fa018d66d833f3997f100911d9f"/>
-	</game>
-	<game name="Incoming (2002-10-30)(Larson, Ben)(PD)(alpha)">
-		<description>Incoming (2002-10-30)(Larson, Ben)(PD)(alpha)</description>
-		<rom name="Incoming (2002-10-30)(Larson, Ben)(PD)(alpha).a26" size="4096" crc="e1e88266" md5="03b1051c9374678363c899914412cfc5" sha1="25f021deb4d1a70f7782cc55d0c5953ad1a44862"/>
-	</game>
-	<game name="Incoming (2002-11-05)(Larson, Ben)(PD)(alpha)">
-		<description>Incoming (2002-11-05)(Larson, Ben)(PD)(alpha)</description>
-		<rom name="Incoming (2002-11-05)(Larson, Ben)(PD)(alpha).a26" size="4096" crc="d8a73665" md5="86b4aa76bbeb70e1a4f9211a9880ba8e" sha1="12ce0ee5aa2d451a586fb9a1f08aed93e4a4d42a"/>
-	</game>
-	<game name="Incoming (2002-11-08)(Larson, Ben)(PD)(alpha)">
-		<description>Incoming (2002-11-08)(Larson, Ben)(PD)(alpha)</description>
-		<rom name="Incoming (2002-11-08)(Larson, Ben)(PD)(alpha).a26" size="4096" crc="71beae54" md5="fe870018332a0221eb59fb18b0c6bccc" sha1="0b86272bc010c8f34286b0e08400bb41dc923440"/>
-	</game>
-	<game name="Incoming (2004-09-04)(Larson, Ben)(PD)(beta)">
-		<description>Incoming (2004-09-04)(Larson, Ben)(PD)(beta)</description>
-		<rom name="Incoming (2004-09-04)(Larson, Ben)(PD)(beta).a26" size="4096" crc="acda890a" md5="0c4c8037ab0bfbcc49777206e2d329aa" sha1="4b177898f5c499a92c9078c50f3d430111894710"/>
-	</game>
-	<game name="Incoming (2004-09-13)(Larson, Ben)(PD)(beta)">
-		<description>Incoming (2004-09-13)(Larson, Ben)(PD)(beta)</description>
-		<rom name="Incoming (2004-09-13)(Larson, Ben)(PD)(beta).a26" size="4096" crc="6e250666" md5="4e31bfc15b0f65152584921847e82d65" sha1="b3c3f98784e4077ac8392caacbf78673203888a5"/>
-	</game>
-	<game name="Incoming (2008-01-03)(Larson, Ben)(PD)(beta)">
-		<description>Incoming (2008-01-03)(Larson, Ben)(PD)(beta)</description>
-		<rom name="Incoming (2008-01-03)(Larson, Ben)(PD)(beta).a26" size="4096" crc="3534b080" md5="48010a402df8a1711656a3001d13f6a2" sha1="5a30074ab8342a1f474e77790fd424ab99066153"/>
-	</game>
-	<game name="Incoming (2008-01-27)(Larson, Ben)(PD)(preview)">
-		<description>Incoming (2008-01-27)(Larson, Ben)(PD)(preview)</description>
-		<rom name="Incoming (2008-01-27)(Larson, Ben)(PD)(preview).a26" size="4096" crc="6b33942f" md5="b36b882df68828b61718ce45d26f53d9" sha1="39efb27846372bd72401414c710c230fcae86ebd"/>
-	</game>
-	<game name="Incoming (2008-04-16)(Larson, Ben)(PD)">
-		<description>Incoming (2008-04-16)(Larson, Ben)(PD)</description>
-		<rom name="Incoming (2008-04-16)(Larson, Ben)(PD).a26" size="4096" crc="e32f154e" md5="ad859c8d0c9513b47861f38d03bdead7" sha1="b3701b1478cc056919dfa1b1eeb4c316157e335a"/>
-	</game>
-	<game name="Incoming (2008-04-16)(Larson, Ben)(PAL60)(PD)">
-		<description>Incoming (2008-04-16)(Larson, Ben)(PAL60)(PD)</description>
-		<rom name="Incoming (2008-04-16)(Larson, Ben)(PAL60)(PD).a26" size="4096" crc="0ab2d383" md5="bd67cf851eefc0174fbe3dd95c15efbb" sha1="1f0e5fdc48049a5ac8ce554e35d9d919e72cf6a5"/>
-	</game>
-	<game name="Incoming (2008-04-16)(Larson, Ben)(PAL)(PD)">
-		<description>Incoming (2008-04-16)(Larson, Ben)(PAL)(PD)</description>
-		<rom name="Incoming (2008-04-16)(Larson, Ben)(PAL)(PD).a26" size="4096" crc="656425c5" md5="81bc2322bc4b2b3db34cdf91ffe293f0" sha1="a6f51d6bab1585d4a12425994ab95c6954af17e7"/>
-	</game>
-	<game name="Incoming (2008-04-16)(Larson, Ben)(SECAM)(PD)">
-		<description>Incoming (2008-04-16)(Larson, Ben)(SECAM)(PD)</description>
-		<rom name="Incoming (2008-04-16)(Larson, Ben)(SECAM)(PD).a26" size="4096" crc="05d4f548" md5="2cf8f0d259db42522bdad5473f42b829" sha1="1060685334c7a8bbdddc38d755578e728d1ee1fd"/>
 	</game>
 	<game name="International Soccer (1982)(Mattel - Telegames)(NTSC)[p][aka Soccer, aka Championship Soccer][5687 A279]">
 		<description>International Soccer (1982)(Mattel - Telegames)(NTSC)[p][aka Soccer, aka Championship Soccer][5687 A279]</description>
@@ -3516,14 +3460,6 @@
 		<description>Mouse Trap (1983)(CBS Electronics)(PAL)[4L1818]</description>
 		<rom name="Mouse Trap (1983)(CBS Electronics)(PAL)[4L1818].bin" size="4096" crc="18b3c907" md5="23d445ea19a18fb78d5035878d9fb649" sha1="48b5cbfd0016961711777036148fa7d1b038fd18"/>
 	</game>
-	<game name="Mountain Man (1983)(ITT Family Games)(PAL)[54-37 737]">
-		<description>Mountain Man (1983)(ITT Family Games)(PAL)[54-37 737]</description>
-		<rom name="Mountain Man (1983)(ITT Family Games)(PAL)[54-37 737].a26" size="4096" crc="5f6c51c5" md5="6c1553ca90b413bf762dfc65f2b881c7" sha1="07d954ebe8a639249b2185d2b45bc9216cae14e6"/>
-	</game>
-	<game name="Mouse Trap (1983)(CBS Electronics)(PAL)[4L1818]">
-		<description>Mouse Trap (1983)(CBS Electronics)(PAL)[4L1818]</description>
-		<rom name="Mouse Trap (1983)(CBS Electronics)(PAL)[4L1818].a26" size="4096" crc="18b3c907" md5="23d445ea19a18fb78d5035878d9fb649" sha1="48b5cbfd0016961711777036148fa7d1b038fd18"/>
-	</game>
 	<game name="Mr. Postman (1983)(CCE)[b][aka O Carteiro]">
 		<description>Mr. Postman (1983)(CCE)[b][aka O Carteiro]</description>
 		<rom name="Mr. Postman (1983)(CCE)[b][aka O Carteiro].bin" size="4096" crc="e2b2eb3e" md5="9a4274409216ff09ecde799f2a56ac73" sha1="c92afe20ae2cb9a8085c938e2ae7eec433ea3c20"/>
@@ -3548,10 +3484,6 @@
 		<description>My Golf (1990)(HES)(PAL)</description>
 		<rom name="My Golf (1990)(HES)(PAL).bin" size="8192" crc="0d2cbd53" md5="dfad86dd85a11c80259f3ddb6151f48f" sha1="b2df23b1bf6df9d253ad0705592d3fce352a837b"/>
 	</game>
-	<game name="My Golf (1990)(HES)(PAL)">
-		<description>My Golf (1990)(HES)(PAL)</description>
-		<rom name="My Golf (1990)(HES)(PAL).bin" size="8192" crc="0d2cbd53" md5="dfad86dd85a11c80259f3ddb6151f48f" sha1="b2df23b1bf6df9d253ad0705592d3fce352a837b"/>
-	</game>
 	<game name="My Golf (1990)(HES)(PAL)[h][b][Combat Redux Submissions]">
 		<description>My Golf (1990)(HES)(PAL)[h][b][Combat Redux Submissions]</description>
 		<rom name="My Golf (1990)(HES)(PAL)[h][b][Combat Redux Submissions].bin" size="8191" crc="6ac69574" md5="213778c2dd39c246a528609ce6a1ef9e" sha1="28f523f0b6160d0415f2c75c8ee43db34e777006"/>
@@ -3563,10 +3495,6 @@
 	<game name="Night Driver (1980)(Atari)(NTSC)[CX2633]">
 		<description>Night Driver (1980)(Atari)(NTSC)[CX2633]</description>
 		<rom name="Night Driver (1980)(Atari)(NTSC)[CX2633].bin" size="2048" crc="600d8a96" md5="392f00fd1a074a3c15bc96b0a57d52a1" sha1="372771aeb4e2fb2cd1dead5497e3821e4236d5fc"/>
-	</game>
-	<game name="Night Driver (1980)(Atari)(NTSC)[CX2633]">
-		<description>Night Driver (1980)(Atari)(NTSC)[CX2633]</description>
-		<rom name="Night Driver (1980)(Atari)(NTSC)[CX2633].a26" size="2048" crc="600d8a96" md5="392f00fd1a074a3c15bc96b0a57d52a1" sha1="372771aeb4e2fb2cd1dead5497e3821e4236d5fc"/>
 	</game>
 	<game name="Nightmare (1983)(CCE - Sancho)[b]">
 		<description>Nightmare (1983)(CCE - Sancho)[b]</description>
@@ -3595,10 +3523,6 @@
 	<game name="Open, Sesame! (198x)(Bit Corp)(PAL)[PG204][aka Sesam, Öffne Dich!]">
 		<description>Open, Sesame! (198x)(Bit Corp)(PAL)[PG204][aka Sesam, Öffne Dich!]</description>
 		<rom name="Open, Sesame! (198x)(Bit Corp)(PAL)[PG204][aka Sesam, Öffne Dich!].bin" size="4096" crc="0d12fd9b" md5="28d5df3ed036ed63d33a31d0d8b85c47" sha1="cd968c2a983f9adf4d8d8d56823923b31c33980f"/>
-	</game>
-	<game name="Open, Sesame! (198x)(Bit Corp)(PAL)[PG204][aka Sesam, Öffne Dich!]">
-		<description>Open, Sesame! (198x)(Bit Corp)(PAL)[PG204][aka Sesam, Öffne Dich!]</description>
-		<rom name="Open, Sesame! (198x)(Bit Corp)(PAL)[PG204][aka Sesam, Öffne Dich!].a26" size="4096" crc="0d12fd9b" md5="28d5df3ed036ed63d33a31d0d8b85c47" sha1="cd968c2a983f9adf4d8d8d56823923b31c33980f"/>
 	</game>
 	<game name="Othello (1978)(Atari)(PAL)[CX2639]">
 		<description>Othello (1978)(Atari)(PAL)[CX2639]</description>
@@ -3680,10 +3604,6 @@
 		<description>Popeye (1983)(Parker Bros)(PAL)[931519]</description>
 		<rom name="Popeye (1983)(Parker Bros)(PAL)[931519].bin" size="8192" crc="742ac749" md5="e9cb18770a41a16de63b124c1e8bd493" sha1="fbfca822962b623c3ac5a4585c8d0404b61d8ccf"/>
 	</game>
-	<game name="Popeye (1983)(Parker Bros)(PAL)[931519]">
-		<description>Popeye (1983)(Parker Bros)(PAL)[931519]</description>
-		<rom name="Popeye (1983)(Parker Bros)(PAL)[931519].a26" size="8192" crc="742ac749" md5="e9cb18770a41a16de63b124c1e8bd493" sha1="fbfca822962b623c3ac5a4585c8d0404b61d8ccf"/>
-	</game>
 	<game name="Private Eye (1983)(Activision - CCE)[b]">
 		<description>Private Eye (1983)(Activision - CCE)[b]</description>
 		<rom name="Private Eye (1983)(Activision - CCE)[b].bin" size="8191" crc="7706cdb5" md5="89ce4a5485361ff3cfd5b7fbd1dfa8f8" sha1="4b39e46ab6b9e82532746ee7944445ba98a37d12"/>
@@ -3702,7 +3622,7 @@
 	</game>
 	<game name="Pygmy (1983)(Otto)(PAL)[311377]">
 		<description>Pygmy (1983)(Otto)(PAL)[311377]</description>
-		<rom name="Pygmy (1983)(Otto)(PAL)[311377].a26" size="4096" crc="6f22448d" md5="3ff5165378213dab531ffa4f1a41ae45" sha1="fb0eee2a5c0b74eeaacbf4c714b20881c2f4d747"/>
+		<rom name="Pygmy (1983)(Otto)(PAL)[311377].bin" size="4096" crc="6f22448d" md5="3ff5165378213dab531ffa4f1a41ae45" sha1="fb0eee2a5c0b74eeaacbf4c714b20881c2f4d747"/>
 	</game>
 	<game name="Q-Bert (1983)(Parker Bros)(PAL)[931517]">
 		<description>Q-Bert (1983)(Parker Bros)(PAL)[931517]</description>
@@ -3738,11 +3658,11 @@
 	</game>
 	<game name="Radar Lock (1989)(Atari Corp)(PAL)[CX26176]">
 		<description>Radar Lock (1989)(Atari Corp)(PAL)[CX26176]</description>
-		<rom name="Radar Lock (1989)(Atari Corp)(PAL)[CX26176].a26" size="16384" crc="f2b43ef2" md5="4be51ec1d5eca9104ff90341c8d87a62" sha1="68b5e7c1e5d5685ec2b4c70935acc348f4d8dacd"/>
+		<rom name="Radar Lock (1989)(Atari Corp)(PAL)[CX26176].bin" size="16384" crc="f2b43ef2" md5="4be51ec1d5eca9104ff90341c8d87a62" sha1="68b5e7c1e5d5685ec2b4c70935acc348f4d8dacd"/>
 	</game>
 	<game name="Radar Lock (1989)(Atari Corp)(PAL)[a][CX26176]">
 		<description>Radar Lock (1989)(Atari Corp)(PAL)[a][CX26176]</description>
-		<rom name="Radar Lock (1989)(Atari Corp)(PAL)[a][CX26176].a26" size="16384" crc="d7c72da0" md5="04856e3006a4f5f7b4638da71dad3d88" sha1="cb36828a2a23eaf8d736af4790ffd7e948ebbf1e"/>
+		<rom name="Radar Lock (1989)(Atari Corp)(PAL)[a][CX26176].bin" size="16384" crc="d7c72da0" md5="04856e3006a4f5f7b4638da71dad3d88" sha1="cb36828a2a23eaf8d736af4790ffd7e948ebbf1e"/>
 	</game>
 	<game name="Rampage! (1989)(Activision)[b2]">
 		<description>Rampage! (1989)(Activision)[b2]</description>
@@ -3812,10 +3732,6 @@
 		<description>Sir Lancelot (1983)(Xonox)(PAL)[#6200]</description>
 		<rom name="Sir Lancelot (1983)(Xonox)(PAL)[#6200].bin" size="8192" crc="bb4d1430" md5="dd0cbe5351551a538414fb9e37fc56e8" sha1="cfac3bbe45af5f2027abe32c3a59d2fad29ef9b4"/>
 	</game>
-	<game name="Sir Lancelot (1983)(Xonox)(PAL)[#6200]">
-		<description>Sir Lancelot (1983)(Xonox)(PAL)[#6200]</description>
-		<rom name="Sir Lancelot (1983)(Xonox)(PAL)[#6200].a26" size="8192" crc="bb4d1430" md5="dd0cbe5351551a538414fb9e37fc56e8" sha1="cfac3bbe45af5f2027abe32c3a59d2fad29ef9b4"/>
-	</game>
 	<game name="Sir Lancelot (1983)(Xonox)[b]">
 		<description>Sir Lancelot (1983)(Xonox)[b]</description>
 		<rom name="Sir Lancelot (1983)(Xonox)[b].bin" size="8191" crc="7e444c9c" md5="acab8a665a8a3c3dcf9ad788ced8a677" sha1="8978467baa79a991ba02892bb403fd2eeb1b3491"/>
@@ -3854,7 +3770,7 @@
 	</game>
 	<game name="Space Invaders (1980)(Atari)(PAL)[CX2632]">
 		<description>Space Invaders (1980)(Atari)(PAL)[CX2632]</description>
-		<rom name="Space Invaders (1980)(Atari)(PAL)[CX2632].a26" size="4096" crc="4840d2b7" md5="7cc77f6745e1f2b20df4a4327d350545" sha1="43a855d5af6e35aa77a52b03a4ecd325d7dbbb9b"/>
+		<rom name="Space Invaders (1980)(Atari)(PAL)[CX2632].bin" size="4096" crc="4840d2b7" md5="7cc77f6745e1f2b20df4a4327d350545" sha1="43a855d5af6e35aa77a52b03a4ecd325d7dbbb9b"/>
 	</game>
 	<game name="Space Invaders (1978)(Atari)[b]">
 		<description>Space Invaders (1978)(Atari)[b]</description>
@@ -3863,14 +3779,6 @@
 	<game name="Space Jockey (1982)(US Games)[VC1001]">
 		<description>Space Jockey (1982)(US Games)[VC1001]</description>
 		<rom name="Space Jockey (1982)(US Games)[VC1001].bin" size="2048" crc="ab24d73e" md5="6f2aaffaaf53d23a28bf6677b86ac0e3" sha1="5bdd8af54020fa43065750bd4239a497695d403b"/>
-	</game>
-	<game name="Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel]">
-		<description>Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel]</description>
-		<rom name="Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel].bin" size="4096" crc="0596c056" md5="c5387fc1aa71f11d2fa82459e189a5f0" sha1="c660247ee128bebe02ae0b0ba6478e48f572469f"/>
-	</game>
-	<game name="Space Jockey (1982)(US Games)[VC1001]">
-		<description>Space Jockey (1982)(US Games)[VC1001]</description>
-		<rom name="Space Jockey (1982)(US Games)[VC1001].a26" size="2048" crc="ab24d73e" md5="6f2aaffaaf53d23a28bf6677b86ac0e3" sha1="5bdd8af54020fa43065750bd4239a497695d403b"/>
 	</game>
 	<game name="Space Shuttle - Journey Into Space (1983)(Activision - Ariola)(PAL)[aka Eine Reise ins All][EAZ-033, 711 033-725]">
 		<description>Space Shuttle - Journey Into Space (1983)(Activision - Ariola)(PAL)[aka Eine Reise ins All][EAZ-033, 711 033-725]</description>
@@ -3886,7 +3794,7 @@
 	</game>
 	<game name="Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel]">
 		<description>Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel]</description>
-		<rom name="Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel].a26" size="4096" crc="0596c056" md5="c5387fc1aa71f11d2fa82459e189a5f0" sha1="c660247ee128bebe02ae0b0ba6478e48f572469f"/>
+		<rom name="Space Tunnel (1982)(Bit Corp)(PAL)[aka Weltraum-Tunnel].bin" size="4096" crc="0596c056" md5="c5387fc1aa71f11d2fa82459e189a5f0" sha1="c660247ee128bebe02ae0b0ba6478e48f572469f"/>
 	</game>
 	<game name="Space War (1978)(Atari)(PAL)[CX2604]">
 		<description>Space War (1978)(Atari)(PAL)[CX2604]</description>
@@ -3920,18 +3828,6 @@
 		<description>Springteufel, Die (198x)(Starsoft - Quele - Apollo - RCA Video Jeux)(PAL)(DE)[aka Infiltrate][176.654 2, AP-2006]</description>
 		<rom name="Springteufel, Die (198x)(Starsoft - Quele - Apollo - RCA Video Jeux)(PAL)(DE)[aka Infiltrate][176.654 2, AP-2006].bin" size="4096" crc="ed030be2" md5="3b69f8929373598e1752f43f8da61aa4" sha1="8a48eeebabd8d786ae78cde6b2cd7dc9cff89519"/>
 	</game>
-	<game name="Stargate (1984)(Atari)(PAL)[CX26120]">
-		<description>Stargate (1984)(Atari)(PAL)[CX26120]</description>
-		<rom name="Stargate (1984)(Atari)(PAL)[CX26120].a26" size="8192" crc="d3f6a968" md5="493de059b32f84ab29cde6213964aeee" sha1="07920046ed55519797274117f2f8c8c7e530f623"/>
-	</game>
-	<game name="Stargate (1984)(Atari)(PAL)[a][CX26120]">
-		<description>Stargate (1984)(Atari)(PAL)[a][CX26120]</description>
-		<rom name="Stargate (1984)(Atari)(PAL)[a][CX26120].a26" size="8192" crc="ff72cc58" md5="4a550cecd0ee1749ad7b3f3963b540c1" sha1="dcfe7977b411a0f8b8e139761fd0ea94b09f6656"/>
-	</game>
-	<game name="Starmaster (1982)(Activision)(PAL)[PAX-016]">
-		<description>Starmaster (1982)(Activision)(PAL)[PAX-016]</description>
-		<rom name="Starmaster (1982)(Activision)(PAL)[PAX-016].bin" size="4096" crc="058c7dac" md5="73c839aff6a055643044d2ce16b3aaf7" sha1="1b15da84a0e50a91ededde6ff2ef4781d0eef481"/>
-	</game>
 	<game name="Star Trek - Strategic Operations Simulator (1983)(Sega)[b]">
 		<description>Star Trek - Strategic Operations Simulator (1983)(Sega)[b]</description>
 		<rom name="Star Trek - Strategic Operations Simulator (1983)(Sega)[b].bin" size="8191" crc="2ffa9e0e" md5="cb918dd1e0a3cec234703c886574505a" sha1="90fde5ee5e62b680f0bfec3e794b29fdbd8961cb"/>
@@ -3939,10 +3835,6 @@
 	<game name="Star Voyager (1982)(Imagic)(PAL)[720102-2B]">
 		<description>Star Voyager (1982)(Imagic)(PAL)[720102-2B]</description>
 		<rom name="Star Voyager (1982)(Imagic)(PAL)[720102-2B].bin" size="4096" crc="aff3b46e" md5="0aceb7c3bd13fe048b77a1928ed4267d" sha1="422c6544998ac6c5239083a85ce94f50f9a12a00"/>
-	</game>
-	<game name="Star Voyager (1982)(Imagic)(PAL)[720102-2B]">
-		<description>Star Voyager (1982)(Imagic)(PAL)[720102-2B]</description>
-		<rom name="Star Voyager (1982)(Imagic)(PAL)[720102-2B].a26" size="4096" crc="aff3b46e" md5="0aceb7c3bd13fe048b77a1928ed4267d" sha1="422c6544998ac6c5239083a85ce94f50f9a12a00"/>
 	</game>
 	<game name="Star Wars - Empire Strikes Back (1982)(Parker Bros)[b]">
 		<description>Star Wars - Empire Strikes Back (1982)(Parker Bros)[b]</description>
@@ -3979,6 +3871,10 @@
 	<game name="Stargate (1984)(Atari)(PAL)[a][CX26120]">
 		<description>Stargate (1984)(Atari)(PAL)[a][CX26120]</description>
 		<rom name="Stargate (1984)(Atari)(PAL)[a][CX26120].bin" size="8192" crc="ff72cc58" md5="4a550cecd0ee1749ad7b3f3963b540c1" sha1="dcfe7977b411a0f8b8e139761fd0ea94b09f6656"/>
+	</game>
+	<game name="Starmaster (1982)(Activision)(PAL)[PAX-016]">
+		<description>Starmaster (1982)(Activision)(PAL)[PAX-016]</description>
+		<rom name="Starmaster (1982)(Activision)(PAL)[PAX-016].bin" size="4096" crc="058c7dac" md5="73c839aff6a055643044d2ce16b3aaf7" sha1="1b15da84a0e50a91ededde6ff2ef4781d0eef481"/>
 	</game>
 	<game name="Strahlen der Teufelsvoegel (1983)(Quelle)(PAL)[p][463.860 7]">
 		<description>Strahlen der Teufelsvoegel (1983)(Quelle)(PAL)[p][463.860 7]</description>
@@ -4111,14 +4007,6 @@
 	<game name="Video Olympics (1977)(Atari)(NTSC)[CX2621][aka Pong Sports]">
 		<description>Video Olympics (1977)(Atari)(NTSC)[CX2621][aka Pong Sports]</description>
 		<rom name="Video Olympics (1977)(Atari)(NTSC)[CX2621][aka Pong Sports].bin" size="2048" crc="e4bc89c4" md5="60e0ea3cbe0913d39803477945e9e5ec" sha1="1ffe89d79d55adabc0916b95cc37e18619ef7830"/>
-	</game>
-	<game name="Video Chess (1979)(Atari)(PAL)[CX2645P][aka Chess]">
-		<description>Video Chess (1979)(Atari)(PAL)[CX2645P][aka Chess]</description>
-		<rom name="Video Chess (1979)(Atari)(PAL)[CX2645P][aka Chess].a26" size="4096" crc="6b71b32d" md5="3ef9573536730dcd6d9c20b6822dbdc4" sha1="c7c792c91f9fa7c3e291d0e0f0dd71a7181369a5"/>
-	</game>
-	<game name="Video Olympics (1977)(Atari)(NTSC)[CX2621][aka Pong Sports]">
-		<description>Video Olympics (1977)(Atari)(NTSC)[CX2621][aka Pong Sports]</description>
-		<rom name="Video Olympics (1977)(Atari)(NTSC)[CX2621][aka Pong Sports].a26" size="2048" crc="e4bc89c4" md5="60e0ea3cbe0913d39803477945e9e5ec" sha1="1ffe89d79d55adabc0916b95cc37e18619ef7830"/>
 	</game>
 	<game name="Video Pinball (1980)(Atari)(PAL)[CX2648]">
 		<description>Video Pinball (1980)(Atari)(PAL)[CX2648]</description>
