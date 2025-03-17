@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [APP]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [APP] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Disk Mapper for PRO-NTO (19xx)(Dick Newman)[APP]">
+		<description>Disk Mapper for PRO-NTO (19xx)(Dick Newman)[APP]</description>
+		<rom name="dm.app" size="1536" crc="eb0990ab" md5="8c94749c25a07875bcc37f348c2fdb69" sha1="14054561a458407728a1c3a1bf4cf26cac793ede"/>
+		<rom name="dm.src" size="10078" crc="5db82aaa" md5="84745dd7ba2c1dfa1839712599d04344" sha1="71150b111c456da6799ad5ff20d9f7c27f6e6d69"/>
+	</game>
+	<game name="Epson MX-80 Screen Dump and Pro-Nto Application (19xx)(-)[APP]">
+		<description>Epson MX-80 Screen Dump and Pro-Nto Application (19xx)(-)[APP]</description>
+		<rom name="mxdump.app" size="1024" crc="f3fbe444" md5="86726220c017135cd094f7a284cc817d" sha1="2d8a6f7a0550ebda4612897ccbf4a83d0762334b"/>
+		<rom name="mxdump.doc" size="3417" crc="b9b30e57" md5="0e9ec0ef846d7e96cf1ae3ac37e0e536" sha1="77ed256fa1d4f350d70d64b7de2e45780f17816b"/>
+		<rom name="mxdump.flt" size="1024" crc="81330549" md5="244b167dac3cdc410e409bf2652027df" sha1="38b819119ed0f53699b09323ece20e47d50e9c70"/>
+	</game>
+	<game name="LIST for Pro-Nto (19xx)(-)[APP]">
+		<description>LIST for Pro-Nto (19xx)(-)[APP]</description>
+		<rom name="LIST.APP" size="2304" crc="aabe1576" md5="1de4906e343283c286717afbabddf2c7" sha1="d7a9fdcd1f087a787464442edddf7e80806d53fa"/>
+		<rom name="LIST.DOC" size="957" crc="5e5e04b3" md5="6f06fef21e171f1ce088ef9866b03063" sha1="6a6d069c0c52652dbac7132a22d47ec8e0c8a783"/>
+	</game>
+	<game name="More for Pro-Wam (19xx)(-)[APP]">
+		<description>More for Pro-Wam (19xx)(-)[APP]</description>
+		<rom name="MORE.APP" size="1536" crc="7ce9d4ae" md5="b374b89ce9f7ec4849d11bffa283fbdb" sha1="51d9caa2ad210e0b2907a833f58b3ad0f6139f2e"/>
+		<rom name="MORE.ASM" size="4390" crc="c9822305" md5="0392eb05a12cdd8a44524c9458e87e1f" sha1="7d23393b631bd931c20f6a6e898fbb3fdb86e421"/>
+		<rom name="MORE.DOC" size="3555" crc="98b6044d" md5="bcc72e470c24fb424ed2b8165838d351" sha1="1d764f99cdd56fe828d42c6d5789f5de3f803090"/>
+		<rom name="MORESET.ASM" size="10643" crc="300fdeb6" md5="b25bf89725346dcc8dc44b737e6f9c4c" sha1="452507f3b9b8c635bf9e692e3731c12ce92135eb"/>
+		<rom name="MORESET.CMD" size="1996" crc="2010477c" md5="ec53d3da3a5b9b5fe7254f251f7d36e5" sha1="fc061245e66c79ffdf9008c5189c8edd071ee3b2"/>
+		<rom name="MORESET.DOC" size="5079" crc="f7f58dc1" md5="8ea448255d1f5b0f964a39cffd476f75" sha1="d4be8fb6e573e95f8c2634d66f354ba81255b315"/>
+		<rom name="MORESET.JCL" size="328" crc="c2f32c95" md5="9a546dd8e95dd8588ac4cf2830ae949f" sha1="9e75c5a90b9e8287d338ae69b657b0b73401e1b4"/>
+	</game>
+	<game name="Okidata 92 Printer Drivers for PRO-NTO (19xx)(-)[APP]">
+		<description>Okidata 92 Printer Drivers for PRO-NTO (19xx)(-)[APP]</description>
+		<rom name="OKIDAT.APP" size="1152" crc="cf726445" md5="ff8cfeea838797a8cdd8e0616045872e" sha1="323a76af2d6d456f0f1cf6be012cf25e012ca10b"/>
+	</game>
+	<game name="Okidata Printer Driver for PRO-NTO (19xx)(-)[APP]">
+		<description>Okidata Printer Driver for PRO-NTO (19xx)(-)[APP]</description>
+		<rom name="OKIDAT.APP" size="1152" crc="cf726445" md5="ff8cfeea838797a8cdd8e0616045872e" sha1="323a76af2d6d456f0f1cf6be012cf25e012ca10b"/>
+		<rom name="OLYMPI.DOC" size="2005" crc="7b8da11a" md5="a75ceaa85072e49aa27feb02b5f9c7a1" sha1="951b850b764b1eac1b5ef79c37af9b8c119da033"/>
+	</game>
+	<game name="Olympia Printer Drivers for PRO-NTO (19xx)(-)[APP]">
+		<description>Olympia Printer Drivers for PRO-NTO (19xx)(-)[APP]</description>
+		<rom name="OLYMPI.APP" size="19" crc="88ffab61" md5="a2b7cf4b65186eaeabcb7b8a1ed197e5" sha1="b5b60ce113c3e9ad0371754acf2e8413d042ea7e"/>
+		<rom name="OLYMPI.DOC" size="2005" crc="7b8da11a" md5="a75ceaa85072e49aa27feb02b5f9c7a1" sha1="951b850b764b1eac1b5ef79c37af9b8c119da033"/>
+	</game>
+	<game name="Printer Control Utility for PRO-NTO (1986)(Paul Bradshaw)[APP]">
+		<description>Printer Control Utility for PRO-NTO (1986)(Paul Bradshaw)[APP]</description>
+		<rom name="PRAPP.DOC" size="7217" crc="023bcc7a" md5="fa863411e5a990dcb52733f98b6d2107" sha1="2e659172649fb3d03a17d1bfc1b428dcfc708edc"/>
+		<rom name="PRCMD.DOC" size="8304" crc="6c0aab96" md5="8db1879fa6db1867b1d2cb5b3c18c46c" sha1="cd875f94933393255703675d8d9b5656f3133e49"/>
+		<rom name="PRCTBLNK.DAT" size="768" crc="89f1161b" md5="3a4873554afb672941cd1d72d8a92900" sha1="638bcedbed425f105114f06cb1a78df7e62804e8"/>
+		<rom name="PRCTRL.APP" size="2048" crc="8221c379" md5="ba62a9ff11944bd294cb02807baec66a" sha1="71e23617cdab5734f6e8182e4bad4dcded796064"/>
+		<rom name="PRCTRL.CMD" size="2278" crc="dc1d41c1" md5="bd78f99694be9e034a435c00558cb455" sha1="9a33daf0275af45a45468ef91d4e47138ebdc503"/>
+		<rom name="PRCTRL.DAT" size="768" crc="1657394f" md5="a77c773121ba17bf3c89b5d727f4f8ce" sha1="d1d2a864f16fa7d6ee62de04ce0e19085c45a44d"/>
+		<rom name="PRDMP.DAT" size="768" crc="1657394f" md5="a77c773121ba17bf3c89b5d727f4f8ce" sha1="d1d2a864f16fa7d6ee62de04ce0e19085c45a44d"/>
+		<rom name="PRGEM1.DAT" size="768" crc="aaa35cf9" md5="a089e8080de43f91ef3eb6daa8947b3a" sha1="bd43aa3f5d9e0710d7e497b1ea2875a7b18070ba"/>
+	</game>
+	<game name="WFind (19xx)(-)[APP][Pro-WAM Search Utility]">
+		<description>WFind (19xx)(-)[APP][Pro-WAM Search Utility]</description>
+		<rom name="WFIND.APP" size="1280" crc="eacd526c" md5="818b0602ecf36e4b428a58d4a9f6a379" sha1="c348f0c6a43bb1f78f1742d7cb80f8e8f00e2fce"/>
+		<rom name="WFIND.ASM" size="7492" crc="bcba7126" md5="930d9e341cdeb71e4ce68e7c72792f48" sha1="45e8631809958c35f7af5bbe135a4dd2907219c0"/>
+		<rom name="WFIND.DOC" size="1177" crc="bfb093a7" md5="48d457ca9660bb723e16af23d97bb0cd" sha1="ae70c4ec071d0da256c982136a76385a009ace96"/>
+	</game>
+</datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Sega Game Gear - Applications</name>
-		<description>Sega Game Gear - Applications (TOSEC-v2024-01-15)</description>
+		<description>Sega Game Gear - Applications (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -19,6 +19,10 @@
 	<game name="Game Gear Register Display (2007)(MacDonald, Charles)">
 		<description>Game Gear Register Display (2007)(MacDonald, Charles)</description>
 		<rom name="Game Gear Register Display (2007)(MacDonald, Charles).bin" size="32768" crc="b6b57b4e" md5="54631c3658c045802c41a2e51bc8765b" sha1="ea442f7a56b59f5609f816ac43ab25a5f9f9bc8c"/>
+	</game>
+	<game name="SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)">
+		<description>SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr)</description>
+		<rom name="SN76489 Test ROM v1.00 (2024-03-27)(Joppy Furr).gg" size="32768" crc="76604c6f" md5="34c3e2cbb2e8d8d93c21e782fbbdb850" sha1="ed89a7c9e3e97f8c22b3128b9c28b4640d2ee75d"/>
 	</game>
 	<game name="ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)">
 		<description>ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)</description>

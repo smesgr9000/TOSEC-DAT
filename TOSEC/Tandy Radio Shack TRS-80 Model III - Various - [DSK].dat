@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Various - [DSK]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Various - [DSK] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cornsoft Sampler (19xx)(Cornsoft Group)[DSK]">
+		<description>Cornsoft Sampler (19xx)(Cornsoft Group)[DSK]</description>
+		<rom name="cornsamp.dsk" size="193024" crc="b675b6bf" md5="b070bccd96350d82a4a057485e4c34e4" sha1="6d5deb4a5af49e593140db7d813a8bc7edd16fa9"/>
+		<rom name="cornsamp.txt" size="298" crc="6f4e773a" md5="e958cf3515330516a42cd772e6c967b0" sha1="f65d1f6ad3fd364c59deefc4ce4637fdd290464d"/>
+	</game>
+	<game name="CTPCAL v2.2 (19xx)(-)[DSK]">
+		<description>CTPCAL v2.2 (19xx)(-)[DSK]</description>
+		<rom name="ctpcal22.dsk" size="193024" crc="05184a79" md5="fb40c49c0ce1d1dd754c9b525b1b7257" sha1="e2463c67aef94f008b7c5750b9e9238419cce2e5"/>
+	</game>
+	<game name="Public Domain Software Library (19xx)(Welsh Enterprises)[DSK]">
+		<description>Public Domain Software Library (19xx)(Welsh Enterprises)[DSK]</description>
+		<rom name="catdm3a.dsk" size="193024" crc="e86425a9" md5="e815f7117d472ad6198a99396a5405be" sha1="e07e57a8f7ddc074ebe6ee4d2739fbb4b09e0ea7"/>
+		<rom name="catdm3b.dsk" size="193024" crc="fb5d56d5" md5="99763ac4e41fe3d7e0348b798f4554d5" sha1="62b09f66e8d600006c9ae06746d59dbfa2c0d77b"/>
+	</game>
+</datafile>

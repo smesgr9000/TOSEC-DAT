@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple III - Applications - [DSK]</name>
-		<description>Apple III - Applications - [DSK] (TOSEC-v2023-08-29)</description>
+		<description>Apple III - Applications - [DSK] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-08-29</version>
+		<version>2025-01-15</version>
 		<author>TKaos - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,9 +16,17 @@
 		<description>512K Memory Test v2.1 (198x)(-)</description>
 		<rom name="512K Memory Test v2.1 (198x)(-).dsk" size="143360" crc="40a69a50" md5="55fbf82422f34485bafc8ecc9b036c67" sha1="e8174fd28598ba1776d03a6e358ca50b58f61865"/>
 	</game>
-	<game name="Apple Business BASIC v1.1 (1981)(Apple)">
-		<description>Apple Business BASIC v1.1 (1981)(Apple)</description>
-		<rom name="Apple Business BASIC v1.1 (1981)(Apple).dsk" size="143360" crc="e826032e" md5="6960e8c0b17333083d1d835b3dc1627c" sha1="3a88a3bf8bb1e6948010203ea7e64ce557031184"/>
+	<game name="Apple II Emulation Mode (19xx)(-)">
+		<description>Apple II Emulation Mode (19xx)(-)</description>
+		<rom name="Apple II Emulation Mode (19xx)(-).dsk" size="143360" crc="d1c91c38" md5="a9dd1c213c7d3cd9464e7b4a25bc5a70" sha1="0da5f453e370ee88cbcd385b603f729c83df210e"/>
+	</game>
+	<game name="Apple III Business BASIC v1.1 (1981)(Apple)">
+		<description>Apple III Business BASIC v1.1 (1981)(Apple)</description>
+		<rom name="Apple III Business BASIC v1.1 (1981)(Apple).dsk" size="143360" crc="e826032e" md5="6960e8c0b17333083d1d835b3dc1627c" sha1="3a88a3bf8bb1e6948010203ea7e64ce557031184"/>
+	</game>
+	<game name="Apple III Business BASIC v1.1 (1981)(Apple)[a2]">
+		<description>Apple III Business BASIC v1.1 (1981)(Apple)[a2]</description>
+		<rom name="Apple III Business BASIC v1.1 (1981)(Apple)[a2].dsk" size="143360" crc="7e5e6fc1" md5="c5089812aeeada1449cebfe30058fc69" sha1="9fb596b2cbb914c20615e38ea841af22707242da"/>
 	</game>
 	<game name="Apple III Business BASIC v1.1 (1981)(Apple)[a]">
 		<description>Apple III Business BASIC v1.1 (1981)(Apple)[a]</description>
@@ -55,6 +63,10 @@
 	<game name="Apple III Dealer Diagnostics (1981)(Apple)">
 		<description>Apple III Dealer Diagnostics (1981)(Apple)</description>
 		<rom name="Apple III Dealer Diagnostics (1981)(Apple).dsk" size="143360" crc="f1977d7e" md5="046972f5958186e73b573dde9f03baa9" sha1="e6d935cf749b3724de53a79aa85846a89b7315bd"/>
+	</game>
+	<game name="Apple III Dealer Diagnostics (1981)(Apple)[a]">
+		<description>Apple III Dealer Diagnostics (1981)(Apple)[a]</description>
+		<rom name="Apple III Dealer Diagnostics (1981)(Apple)[a].dsk" size="143360" crc="dd6f9ebc" md5="690cf4dd90be35f194816240882e64a1" sha1="1b464946169c99227ba06251c199603acb76be1e"/>
 	</game>
 	<game name="Apple III Dealer Diagnostics v2 (1981)(Apple)">
 		<description>Apple III Dealer Diagnostics v2 (1981)(Apple)</description>
@@ -116,13 +128,45 @@
 		<description>Apple III System Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data)</description>
 		<rom name="Apple III System Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data).dsk" size="143360" crc="9f3e8ad2" md5="a0daf17e8f136a9f3872fb4ac2f61280" sha1="a5d5b29f5e1c3019bd79732edf708df381fee653"/>
 	</game>
+	<game name="Apple III System Utilities v1.2 (1983)(Apple)">
+		<description>Apple III System Utilities v1.2 (1983)(Apple)</description>
+		<rom name="Apple III System Utilities v1.2 (1983)(Apple).dsk" size="143360" crc="0dbebbd6" md5="25fbbc845dc51952a29b462da2cb20ad" sha1="7b61ec062c8a1beb1879b93c4fc57f261891377b"/>
+	</game>
+	<game name="Apple III System Utilities v1.2 (1983)(Apple)[Parallel Epson Printers]">
+		<description>Apple III System Utilities v1.2 (1983)(Apple)[Parallel Epson Printers]</description>
+		<rom name="Apple III System Utilities v1.2 (1983)(Apple)[Parallel Epson Printers].dsk" size="143360" crc="5ef83987" md5="389b3419b3dfbe7b812b24fcf4ce9526" sha1="4e0d114db75e24173c40fe4aef2c009206aabc4b"/>
+	</game>
 	<game name="Apple III System Utilities v1.3 (1983)(Apple)">
 		<description>Apple III System Utilities v1.3 (1983)(Apple)</description>
 		<rom name="Apple III System Utilities v1.3 (1983)(Apple).dsk" size="143360" crc="e5f25bd1" md5="5144eda293952931277b0e92c64cfd9e" sha1="450d2cb602692fae61202914f512769f91454539"/>
 	</game>
+	<game name="Apple III Tools for Effective Management (demo-rolling) (1982)(Apple)(Disk 1 of 2)">
+		<description>Apple III Tools for Effective Management (demo-rolling) (1982)(Apple)(Disk 1 of 2)</description>
+		<rom name="Apple III Tools for Effective Management (demo-rolling) (1982)(Apple)(Disk 1 of 2).dsk" size="143360" crc="3f6eefe3" md5="2cdebf43e7f1c8d1f6c714335ddae28d" sha1="293b419e48061376442e83187fc78d3e168106c5"/>
+	</game>
+	<game name="Apple III Tools for Effective Management (demo-rolling) (1982)(Apple)(Disk 2 of 2)">
+		<description>Apple III Tools for Effective Management (demo-rolling) (1982)(Apple)(Disk 2 of 2)</description>
+		<rom name="Apple III Tools for Effective Management (demo-rolling) (1982)(Apple)(Disk 2 of 2).dsk" size="143360" crc="0fc9f991" md5="4b91dff17d76d2199216ffe8ab74e735" sha1="4464acccf481e7d6509e4fd76ecde3e8c116eb7f"/>
+	</game>
 	<game name="Apple III Utilitaire de Revision du SOS vA01 (1983-02-01)(Apple)(FR)">
 		<description>Apple III Utilitaire de Revision du SOS vA01 (1983-02-01)(Apple)(FR)</description>
 		<rom name="Apple III Utilitaire de Revision du SOS vA01 (1983-02-01)(Apple)(FR).dsk" size="143360" crc="23e1b06e" md5="76f6abb6a3d0a10d5b8928b715128c2e" sha1="10460800eccb2cfb56d7178a918d3da6aed80ba8"/>
+	</game>
+	<game name="Apple Speller III (1982)(Sensible Software)(US)[681-0097-A]">
+		<description>Apple Speller III (1982)(Sensible Software)(US)[681-0097-A]</description>
+		<rom name="Apple Speller III (1982)(Sensible Software)(US)[681-0097-A].dsk" size="143360" crc="3f23d948" md5="3bbc5cfa1786d292bc24f0bc0a7d317f" sha1="307afab09bd3a9751af09b79e2c6bc6a6fc0b7da"/>
+	</game>
+	<game name="Apple Speller III - Random House Dictionary (1982)(Sensible Software)(US)(Disk 1)">
+		<description>Apple Speller III - Random House Dictionary (1982)(Sensible Software)(US)(Disk 1)</description>
+		<rom name="Apple Speller III - Random House Dictionary (1982)(Sensible Software)(US)(Disk 1).dsk" size="143360" crc="bec1c409" md5="b451e24709ca24daf2f9983923719f17" sha1="c1ce82116017fdae460222ae41b8f81e0d4df054"/>
+	</game>
+	<game name="Apple Speller III - Random House Dictionary (1982)(Sensible Software)(US)(Disk 2)">
+		<description>Apple Speller III - Random House Dictionary (1982)(Sensible Software)(US)(Disk 2)</description>
+		<rom name="Apple Speller III - Random House Dictionary (1982)(Sensible Software)(US)(Disk 2).dsk" size="143360" crc="854a7cb5" md5="5a0b27cea647bc31c8c5437572e4ba9c" sha1="1cd8f74ff11e7c120976bb98494b17109c1c776c"/>
+	</game>
+	<game name="Apple Writer File Transfer (19xx)(-)">
+		<description>Apple Writer File Transfer (19xx)(-)</description>
+		<rom name="Apple Writer File Transfer (19xx)(-).dsk" size="143360" crc="8974bfd9" md5="9801087e6b1f45416731781c485b7e80" sha1="a04db9189a624c8947346171fce5ef50aa978332"/>
 	</game>
 	<game name="Backup III (1982)(Apple)">
 		<description>Backup III (1982)(Apple)</description>
@@ -179,6 +223,10 @@
 	<game name="QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)">
 		<description>QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)</description>
 		<rom name="QuickFile (1982)(Apple)(Disk 1 of 3)(Boot).dsk" size="143360" crc="b37d45f1" md5="595181bdf0ddb6f7ff98702b175e82f8" sha1="c8e0373531ec1a77ae358055561466706c89e0da"/>
+	</game>
+	<game name="QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)[a]">
+		<description>QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)[a]</description>
+		<rom name="QuickFile (1982)(Apple)(Disk 1 of 3)(Boot)[a].dsk" size="143360" crc="74bd2bfc" md5="b9cf441344a2d277b00afac7f9cbefc3" sha1="cb7b35ff94f240ebdb566e1568f67a0608f5df03"/>
 	</game>
 	<game name="QuickFile (1982)(Apple)(Disk 2 of 3)(Program)">
 		<description>QuickFile (1982)(Apple)(Disk 2 of 3)(Program)</description>

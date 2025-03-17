@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Games - [WOZ]</name>
-		<description>Apple II - Games - [WOZ] (TOSEC-v2024-01-15)</description>
+		<description>Apple II - Games - [WOZ] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -91,6 +91,10 @@
 	<game name="Abyssal Zone, The (1984)(Salty Software)(Side B)">
 		<description>Abyssal Zone, The (1984)(Salty Software)(Side B)</description>
 		<rom name="Abyssal Zone, The (1984)(Salty Software)(Side B).woz" size="234806" crc="14e41406" md5="500c1e5a0d0be92b0502689dad0a8585" sha1="2c388b45458e22d30b1175e086bb3226ad1965b8"/>
+	</game>
+	<game name="Adventure in Time (1981)(Phoenix Software)[48K]">
+		<description>Adventure in Time (1981)(Phoenix Software)[48K]</description>
+		<rom name="Adventure in Time (1981)(Phoenix Software)[48K].woz" size="234773" crc="8d6797b1" md5="300e7546a35cac4de5a7e64e6631d6b7" sha1="9f5f5f4e4e7435dc836b369a70e89ef07dc78d37"/>
 	</game>
 	<game name="Air Raid Pearl Harbor (1990)(General Quarters)(II+)(Side A)[64K]">
 		<description>Air Raid Pearl Harbor (1990)(General Quarters)(II+)(Side A)[64K]</description>
@@ -319,6 +323,10 @@
 	<game name="Amnesia (1986)(Electronic Arts)(Disk 2 of 2 Side B)">
 		<description>Amnesia (1986)(Electronic Arts)(Disk 2 of 2 Side B)</description>
 		<rom name="Amnesia (1986)(Electronic Arts)(Disk 2 of 2 Side B).woz" size="234826" crc="2d181b28" md5="7ce6fbabfa9e7d4789f9a5b769082d20" sha1="5eb9ad78ec3d9e1806504452bdb0e113852a91e3"/>
+	</game>
+	<game name="Anchorman (1988)(Virginia Real Software)(IIE)[128K]">
+		<description>Anchorman (1988)(Virginia Real Software)(IIE)[128K]</description>
+		<rom name="Anchorman (1988)(Virginia Real Software)(IIE)[128K].woz" size="234779" crc="b63194b8" md5="b8b80899b9c937bbff140965d5114cac" sha1="a90958e1fe57c97c563a99370be1d0944ecec834"/>
 	</game>
 	<game name="Ancient Art of War at Sea, The (1988)(Brøderbund)(IIE)(US)(Side A)[128K]">
 		<description>Ancient Art of War at Sea, The (1988)(Brøderbund)(IIE)(US)(Side A)[128K]</description>
@@ -984,6 +992,22 @@
 		<description>Bridge v4.0 (1983)(Artworx)</description>
 		<rom name="Bridge v4.0 (1983)(Artworx).woz" size="233216" crc="f6822572" md5="336a57227f44513ed5ad4fe11d0ceb84" sha1="4c9cd0f396650368cf32509c157bdf2f0522de7c"/>
 	</game>
+	<game name="Broadsides rev 1 (1983)(SSI)(II+)(US)[48K]">
+		<description>Broadsides rev 1 (1983)(SSI)(II+)(US)[48K]</description>
+		<rom name="Broadsides rev 1 (1983)(SSI)(II+)(US)[48K].woz" size="241392" crc="897d5181" md5="d9d2ee2fd4a6730fa921d51c0d702578" sha1="2ae2e1d6c3efe0b5d128107ab6bcbdc66d03d653"/>
+	</game>
+	<game name="Broadsides rev 2 (1983)(SSI)(II+)(US)[48K]">
+		<description>Broadsides rev 2 (1983)(SSI)(II+)(US)[48K]</description>
+		<rom name="Broadsides rev 2 (1983)(SSI)(II+)(US)[48K].woz" size="234726" crc="5c832f66" md5="d1bf6447ccd89ae7a5eb590487933195" sha1="0727365f062cbafd7e79384786f0e237f08d1706"/>
+	</game>
+	<game name="Broadsides rev 3 (1983)(SSI)(II+)(US)[48K]">
+		<description>Broadsides rev 3 (1983)(SSI)(II+)(US)[48K]</description>
+		<rom name="Broadsides rev 3 (1983)(SSI)(II+)(US)[48K].woz" size="234730" crc="c3a883d7" md5="c7fddd5400e3d2b69c10ca89319cad59" sha1="356ccdcfe41cd19fca4b0a1e1c533862e0e728ba"/>
+	</game>
+	<game name="Broadsides rev 4 (1983)(SSI)(II+)(US)[48K]">
+		<description>Broadsides rev 4 (1983)(SSI)(II+)(US)[48K]</description>
+		<rom name="Broadsides rev 4 (1983)(SSI)(II+)(US)[48K].woz" size="241392" crc="651f0a39" md5="6da119b3d49e5f9c7e1872038fa0a5f5" sha1="b7b972c7af41ab5b90cd37db1ea7c4d860286210"/>
+	</game>
 	<game name="Bruce Lee (1984)(Datasoft)(US)[48K]">
 		<description>Bruce Lee (1984)(Datasoft)(US)[48K]</description>
 		<rom name="Bruce Lee (1984)(Datasoft)(US)[48K].woz" size="208112" crc="fbdc4cd0" md5="a6a1de1c34ec64f81fd04522a913db45" sha1="7729ee00d0ec840f1506252202236440e7dc7b41"/>
@@ -1120,9 +1144,13 @@
 		<description>Cavern Creatures (1983)(Datamost)(II+)(US)</description>
 		<rom name="Cavern Creatures (1983)(Datamost)(II+)(US).woz" size="234771" crc="e3433794" md5="f6c7953fc87d66e3adcc156261bc3b71" sha1="62a2a5e6021f70bf2f6dd9fd345d0ff8993ffc55"/>
 	</game>
-	<game name="Cavern Creatures (1983)(Datamost)(II+)[a]">
-		<description>Cavern Creatures (1983)(Datamost)(II+)[a]</description>
-		<rom name="Cavern Creatures (1983)(Datamost)(II+)[a].woz" size="234788" crc="cfad20b4" md5="52942323c85627c51b3d2e6dbf7c6f5d" sha1="29aca73d6cdd7403712e471027d8d680a51ffe01"/>
+	<game name="Cavern Creatures (1983)(Datamost)(II+)(US)[a2]">
+		<description>Cavern Creatures (1983)(Datamost)(II+)(US)[a2]</description>
+		<rom name="Cavern Creatures (1983)(Datamost)(II+)(US)[a2].woz" size="241453" crc="4efbd082" md5="4f7c1d9e7c93b307b33260cc77fc0ea1" sha1="48d9b01cca7e87414acac48ac161e1ab9a708614"/>
+	</game>
+	<game name="Cavern Creatures (1983)(Datamost)(II+)(US)[a]">
+		<description>Cavern Creatures (1983)(Datamost)(II+)(US)[a]</description>
+		<rom name="Cavern Creatures (1983)(Datamost)(II+)(US)[a].woz" size="234788" crc="cfad20b4" md5="52942323c85627c51b3d2e6dbf7c6f5d" sha1="29aca73d6cdd7403712e471027d8d680a51ffe01"/>
 	</game>
 	<game name="Caverns of Callisto (1983)(Origin Systems)(US)[48K]">
 		<description>Caverns of Callisto (1983)(Origin Systems)(US)[48K]</description>
@@ -1516,9 +1544,9 @@
 		<description>Copts and Robbers (1981)(Sirius Software)(US)[48K]</description>
 		<rom name="Copts and Robbers (1981)(Sirius Software)(US)[48K].woz" size="107016" crc="9b473847" md5="612d496dd10e980108e8269d46493427" sha1="f98ee46f570c66e15f9c34814b202b8bd40b3b6e"/>
 	</game>
-	<game name="Copts and Robbers (1981)(Sirius Software)[48K]">
-		<description>Copts and Robbers (1981)(Sirius Software)[48K]</description>
-		<rom name="Copts and Robbers (1981)(Sirius Software)[48K].woz" size="108338" crc="a6bca753" md5="171cac42a3eee26c912295034bbd9f58" sha1="5a02fdf391e899dab7cf9a89b7f1478eb30a3d5d"/>
+	<game name="Copts and Robbers (1981)(Sirius Software)(US)[a][48K]">
+		<description>Copts and Robbers (1981)(Sirius Software)(US)[a][48K]</description>
+		<rom name="Copts and Robbers (1981)(Sirius Software)(US)[a][48K].woz" size="108338" crc="a6bca753" md5="171cac42a3eee26c912295034bbd9f58" sha1="5a02fdf391e899dab7cf9a89b7f1478eb30a3d5d"/>
 	</game>
 	<game name="Corruption v1.11 (1988)(Magnetic Scrolls)(IIE)(Disk 1 of 3)[128K]">
 		<description>Corruption v1.11 (1988)(Magnetic Scrolls)(IIE)(Disk 1 of 3)[128K]</description>
@@ -1811,6 +1839,10 @@
 	<game name="Cyborg (1983)(Softsmith)(II+)[48K]">
 		<description>Cyborg (1983)(Softsmith)(II+)[48K]</description>
 		<rom name="Cyborg (1983)(Softsmith)(II+)[48K].woz" size="241464" crc="e9a2248c" md5="863f40b628640c2ff7aa306e5d8948ed" sha1="a474c9b5cd3d44af16850557914ab29470cdc9ac"/>
+	</game>
+	<game name="Cyborg v1 (1982)(Sentient Software)(II+)[48K]">
+		<description>Cyborg v1 (1982)(Sentient Software)(II+)[48K]</description>
+		<rom name="Cyborg v1 (1982)(Sentient Software)(II+)[48K].woz" size="234773" crc="ab6ab9ca" md5="9c9dc09f0563ddc8714ff9567b8af9d8" sha1="88b33d9785ab1e5ac552d261185e4d8b2acd6f05"/>
 	</game>
 	<game name="Cyborg v2 (1981)(Sentient Software)(II+)">
 		<description>Cyborg v2 (1981)(Sentient Software)(II+)</description>
@@ -2444,6 +2476,10 @@
 		<description>Falcons (1981)(Piccadilly Software)[48K]</description>
 		<rom name="Falcons (1981)(Piccadilly Software)[48K].woz" size="146916" crc="cc93f644" md5="9da9fbeac0c5c90f34abff1f2c7eff24" sha1="7766debe7d678380aae96def6f14cedd6ff1683a"/>
 	</game>
+	<game name="Falcons (1981)(Softsmith)(II+)[48K]">
+		<description>Falcons (1981)(Softsmith)(II+)[48K]</description>
+		<rom name="Falcons (1981)(Softsmith)(II+)[48K].woz" size="81684" crc="855979c3" md5="214676bb42d971a4b599c65f38c791f3" sha1="43f7d03ada8ef1bb3b12763c054a10edc1a3211d"/>
+	</game>
 	<game name="Fat City (1983)(Optimum Resource)(II+)(US)">
 		<description>Fat City (1983)(Optimum Resource)(II+)(US)</description>
 		<rom name="Fat City (1983)(Optimum Resource)(II+)(US).woz" size="233493" crc="064b4603" md5="bc43281cafbe95d76dbab2fb4300aeaa" sha1="39f10b074147f55e4e25f553327708f010e3ca48"/>
@@ -2600,6 +2636,10 @@
 		<description>Formula 1 Racer (1983)(Gentry Software)(II+)[a][48K]</description>
 		<rom name="Formula 1 Racer (1983)(Gentry Software)(II+)[a][48K].woz" size="233260" crc="792f51c1" md5="1818d8c733cb924c93cd6cf975840cc5" sha1="b3c9b37a1bc84a2ccfbff8eb87702715dc61a731"/>
 	</game>
+	<game name="Fortress rev 2 (1983)(SSI)(II+)(US)[48K]">
+		<description>Fortress rev 2 (1983)(SSI)(II+)(US)[48K]</description>
+		<rom name="Fortress rev 2 (1983)(SSI)(II+)(US)[48K].woz" size="234733" crc="2779b889" md5="32c543f41bf23d8512180bdfcae4dd65" sha1="d515d387c9b9d784330f7d80eb4a694b42de21b5"/>
+	</game>
 	<game name="Fraktured Faebles (1985)(American Eagle Software)(II+)(Side A)[48K]">
 		<description>Fraktured Faebles (1985)(American Eagle Software)(II+)(Side A)[48K]</description>
 		<rom name="Fraktured Faebles (1985)(American Eagle Software)(II+)(Side A)[48K].woz" size="234831" crc="e6d11525" md5="44fc27dbfbef20ad7a524aba30b01017" sha1="68252011379e9e2d1d98479424e87fd456e67556"/>
@@ -2671,6 +2711,10 @@
 	<game name="Galactic Attack (1980)(Sir-Tech)(II+)[64K]">
 		<description>Galactic Attack (1980)(Sir-Tech)(II+)[64K]</description>
 		<rom name="Galactic Attack (1980)(Sir-Tech)(II+)[64K].woz" size="234790" crc="013efc71" md5="90a0cf013104baec0059d30498cff856" sha1="68975194ff1b597ed4e2773649bb8880d050a1cd"/>
+	</game>
+	<game name="Galactic Gladiators (1983)(SSI)(II+)(US)">
+		<description>Galactic Gladiators (1983)(SSI)(II+)(US)</description>
+		<rom name="Galactic Gladiators (1983)(SSI)(II+)(US).woz" size="248109" crc="7a02de18" md5="97f74a78880d763201d08fd337fe3a1f" sha1="fee58acf94349ec923764e5730d921c0b7457fe1"/>
 	</game>
 	<game name="Galactic Wars (1980)(Apple)[48K]">
 		<description>Galactic Wars (1980)(Apple)[48K]</description>
@@ -2832,6 +2876,10 @@
 		<description>Gelfling Adventure (1984)(Sierra On-Line)(II+)(US)(Side B)</description>
 		<rom name="Gelfling Adventure (1984)(Sierra On-Line)(II+)(US)(Side B).woz" size="253450" crc="09d4c29d" md5="31761fa4de40c3d968fdc4976b1bb188" sha1="cf48d9677a390da9d20eeea15298010f0ce4c48c"/>
 	</game>
+	<game name="Gem of Zephyrr, The v1.1.0 (1987)(DAR Systems)(II+)(US)[64K]">
+		<description>Gem of Zephyrr, The v1.1.0 (1987)(DAR Systems)(II+)(US)[64K]</description>
+		<rom name="Gem of Zephyrr, The v1.1.0 (1987)(DAR Systems)(II+)(US)[64K].woz" size="234790" crc="958e9dbc" md5="c5d284dbc85e72799cf2dc34d2a0ac34" sha1="00b1f419b9a256a9938a6dd4b46a687cbd8d3250"/>
+	</game>
 	<game name="Gemstone Healer v1.2 (1986)(SSI)(US)(Disk 1 of 2)">
 		<description>Gemstone Healer v1.2 (1986)(SSI)(US)(Disk 1 of 2)</description>
 		<rom name="Gemstone Healer v1.2 (1986)(SSI)(US)(Disk 1 of 2).woz" size="233216" crc="9ec0911c" md5="b0a13cc9faa39a6b8249d2c8fc89f9e6" sha1="7b1710c15b6ac8e378a36cb98db8a3b64c424e99"/>
@@ -2884,13 +2932,17 @@
 		<description>Gettysburg - The Turning Point v1.2 (1986)(SSI)(II+)(US)(Side B)[a][64K]</description>
 		<rom name="Gettysburg - The Turning Point v1.2 (1986)(SSI)(II+)(US)(Side B)[a][64K].woz" size="234818" crc="87dee9e8" md5="9cb59eab8c4f21e01be60659b6210b71" sha1="bdc23502c510695d46cfecc730e28928fc02bea4"/>
 	</game>
-	<game name="GFL Championship Football (1987)(Activision)(II+)">
-		<description>GFL Championship Football (1987)(Activision)(II+)</description>
-		<rom name="GFL Championship Football (1987)(Activision)(II+).edd" size="2244608" crc="f983e5df" md5="fb1a0548883340310348899c55ef6fc4" sha1="e7931b1e493a317112df771ed74328268f5929f6"/>
+	<game name="GFL Championship Football (1987)(Activision)(II+)[64K]">
+		<description>GFL Championship Football (1987)(Activision)(II+)[64K]</description>
+		<rom name="GFL Championship Football (1987)(Activision)(II+)[64K].edd" size="2244608" crc="f983e5df" md5="fb1a0548883340310348899c55ef6fc4" sha1="e7931b1e493a317112df771ed74328268f5929f6"/>
 	</game>
-	<game name="GFL Championship Football (1987)(Activision)(II+)[a]">
-		<description>GFL Championship Football (1987)(Activision)(II+)[a]</description>
-		<rom name="GFL Championship Football (1987)(Activision)(II+)[a].woz" size="233216" crc="50a624c6" md5="e324051da2c9ea52620d638c8a65b3aa" sha1="edd1564c3b6bb43a859cda9d65b968ea71977add"/>
+	<game name="GFL Championship Football (1987)(Activision)(II+)[a2][64K]">
+		<description>GFL Championship Football (1987)(Activision)(II+)[a2][64K]</description>
+		<rom name="GFL Championship Football (1987)(Activision)(II+)[a2][64K].woz" size="241528" crc="88d5aac9" md5="e43b0d6dcf39c6a5f8a0c43463417bd5" sha1="73313275f0b0121cc3104b66c16837e6f9b67253"/>
+	</game>
+	<game name="GFL Championship Football (1987)(Activision)(II+)[a][64K]">
+		<description>GFL Championship Football (1987)(Activision)(II+)[a][64K]</description>
+		<rom name="GFL Championship Football (1987)(Activision)(II+)[a][64K].woz" size="233216" crc="50a624c6" md5="e324051da2c9ea52620d638c8a65b3aa" sha1="edd1564c3b6bb43a859cda9d65b968ea71977add"/>
 	</game>
 	<game name="Ghostbusters (1984)(Activision)[48K]">
 		<description>Ghostbusters (1984)(Activision)[48K]</description>
@@ -3196,6 +3248,14 @@
 		<description>Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)(II+)</description>
 		<rom name="Hitchhiker's Guide to the Galaxy, The r56 (1984-12-21)(Infocom)(II+).woz" size="233260" crc="d4da7b62" md5="bffe7a6d0a191e028bab62768b48819c" sha1="03272c8a15f6e71cca9f688366f6eac48a3ff4ca"/>
 	</game>
+	<game name="Hobgoblin's Revenge (1987)(Sweet, Arthur)(II+)(Side A)(Program)[64K]">
+		<description>Hobgoblin's Revenge (1987)(Sweet, Arthur)(II+)(Side A)(Program)[64K]</description>
+		<rom name="Hobgoblin's Revenge (1987)(Sweet, Arthur)(II+)(Side A)(Program)[64K].woz" size="234722" crc="4b3b4a0d" md5="1db19a83b462730dc6276a89c6109679" sha1="c0c57f24c55c9850ca7abfbcb4f9dd4792fe53e0"/>
+	</game>
+	<game name="Hobgoblin's Revenge (1987)(Sweet, Arthur)(II+)(Side B)(Source Code)[64K]">
+		<description>Hobgoblin's Revenge (1987)(Sweet, Arthur)(II+)(Side B)(Source Code)[64K]</description>
+		<rom name="Hobgoblin's Revenge (1987)(Sweet, Arthur)(II+)(Side B)(Source Code)[64K].woz" size="234722" crc="783acdb9" md5="f8219c98762e47965ca01c0d8c4adfa6" sha1="f56f464768716c662bc90d3b31f9ddf20f379369"/>
+	</game>
 	<game name="Hollywood Hijinx r37 (1986-12-15)(Infocom)[48K]">
 		<description>Hollywood Hijinx r37 (1986-12-15)(Infocom)[48K]</description>
 		<rom name="Hollywood Hijinx r37 (1986-12-15)(Infocom)[48K].woz" size="234802" crc="b2d51e9e" md5="cd34ceacf2512f004d5472fa19ccdea8" sha1="8facc9fa6a713eef85a0feffc9516243e7857ce2"/>
@@ -3408,6 +3468,18 @@
 		<description>Jawbreaker (1981)(Sierra On-Line)(II-II+)(US)[48K][AKA Jawbreaker II][all quarters]</description>
 		<rom name="Jawbreaker (1981)(Sierra On-Line)(II-II+)(US)[48K][AKA Jawbreaker II][all quarters].woz" size="473910" crc="2f13da71" md5="c12b49b600371f5fcc4fddaa0a91934a" sha1="f2bfc03ff4871ebe378349dc05661545d09e2515"/>
 	</game>
+	<game name="Jaws (1989)(Box Office Software)(II+)(Disk 1 of 2 Side A)[64K]">
+		<description>Jaws (1989)(Box Office Software)(II+)(Disk 1 of 2 Side A)[64K]</description>
+		<rom name="Jaws (1989)(Box Office Software)(II+)(Disk 1 of 2 Side A)[64K].woz" size="234773" crc="50d7a4e8" md5="e3cd111ab75e57e9647469c2645113f6" sha1="dafe4e8b9444bf28a167068927e18e762d63a8a2"/>
+	</game>
+	<game name="Jaws (1989)(Box Office Software)(II+)(Disk 1 of 2 Side B)[64K]">
+		<description>Jaws (1989)(Box Office Software)(II+)(Disk 1 of 2 Side B)[64K]</description>
+		<rom name="Jaws (1989)(Box Office Software)(II+)(Disk 1 of 2 Side B)[64K].woz" size="234773" crc="8a74d51d" md5="7a98c9222ace4dab2aa5b5d7698ae18e" sha1="6da767736dcb06e45286b316576f5c8aa9876429"/>
+	</game>
+	<game name="Jaws (1989)(Box Office Software)(II+)(Disk 2 of 2)[64K]">
+		<description>Jaws (1989)(Box Office Software)(II+)(Disk 2 of 2)[64K]</description>
+		<rom name="Jaws (1989)(Box Office Software)(II+)(Disk 2 of 2)[64K].woz" size="234773" crc="bb00a1ad" md5="04564a27a73a143c72189dc8c7a54458" sha1="fe4a37a98a26fd7c95b6f0f035e51167b302b6d0"/>
+	</game>
 	<game name="Jellyfish (1981)(Sirius Software)(US)[48K]">
 		<description>Jellyfish (1981)(Sirius Software)(US)[48K]</description>
 		<rom name="Jellyfish (1981)(Sirius Software)(US)[48K].woz" size="584136" crc="ac6392cb" md5="87854465ec5786dfd3fe3b5b11737dd9" sha1="d3b8d7b9a6c68071675302ba5269094984f3e7d3"/>
@@ -3444,9 +3516,21 @@
 		<description>Joe Theismann's Pro Football (1985)(Avant-Garde Creations)(II+)(US)(Side B)[64K]</description>
 		<rom name="Joe Theismann's Pro Football (1985)(Avant-Garde Creations)(II+)(US)(Side B)[64K].woz" size="241486" crc="15ce1593" md5="65d5696e89c8e2f58392808d353d5b1a" sha1="4d6f0f7f6c23b0245bee55696dd3b2ff08ca4f8a"/>
 	</game>
+	<game name="John Elway's Quarterback (1989)(Leland Corporation)(IIE)[128K]">
+		<description>John Elway's Quarterback (1989)(Leland Corporation)(IIE)[128K]</description>
+		<rom name="John Elway's Quarterback (1989)(Leland Corporation)(IIE)[128K].woz" size="234775" crc="ccbe3531" md5="f203a90f1fae1b1625b23f37f963310c" sha1="416b585a5dcd3ed58b4847f5929e19e29f2189ac"/>
+	</game>
 	<game name="John Elway's Quarterback (19xx)(Melbourne House)">
 		<description>John Elway's Quarterback (19xx)(Melbourne House)</description>
 		<rom name="John Elway's Quarterback (19xx)(Melbourne House).woz" size="233216" crc="21641c08" md5="0fe46c6434f735654dd20938ab448035" sha1="84b648b4b991cd139777150978e8aee0eee0ec97"/>
+	</game>
+	<game name="John Madden Football (1988)(Electronic Arts)(II+)(Side A)[64K]">
+		<description>John Madden Football (1988)(Electronic Arts)(II+)(Side A)[64K]</description>
+		<rom name="John Madden Football (1988)(Electronic Arts)(II+)(Side A)[64K].woz" size="234810" crc="8731f6c6" md5="f0f5404d309f3f9f52a8f1ba37a935a5" sha1="9e06385a69fd0045d0b1539fd16bdd8f8c7ca777"/>
+	</game>
+	<game name="John Madden Football (1988)(Electronic Arts)(II+)(Side B)[64K]">
+		<description>John Madden Football (1988)(Electronic Arts)(II+)(Side B)[64K]</description>
+		<rom name="John Madden Football (1988)(Electronic Arts)(II+)(Side B)[64K].woz" size="234810" crc="3cb6bc97" md5="95b1ebfa90f73e58cdff373bf3c72e06" sha1="a866e7b854c3dfe4206317acf78a8f4b86a82783"/>
 	</game>
 	<game name="Journey v16 (1989)(Infocom)(IIE)(Disk 1 of 3 Side A)(Side 1)[128K]">
 		<description>Journey v16 (1989)(Infocom)(IIE)(Disk 1 of 3 Side A)(Side 1)[128K]</description>
@@ -3500,9 +3584,17 @@
 		<description>Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[48K]</description>
 		<rom name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[48K].woz" size="234719" crc="e259428c" md5="b28b410a14d10d2a5458aacdbca2d873" sha1="abb6f0fda43fc7c51e5c00d9e7d149a0482c98fa"/>
 	</game>
+	<game name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[a][48K]">
+		<description>Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[a][48K]</description>
+		<rom name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[a][48K].woz" size="234782" crc="cade1355" md5="29c21322a87d272d90ca3d7313775d2e" sha1="191f53083835e2fe77b50d293391fcf85130ed66"/>
+	</game>
 	<game name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side B)(Historical Scenarios)[48K]">
 		<description>Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side B)(Historical Scenarios)[48K]</description>
 		<rom name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side B)(Historical Scenarios)[48K].woz" size="234729" crc="1d2b6662" md5="ad275e1babbe8cab286440946063edf7" sha1="9badd8f409d480ed4454c570bd2a24004c4e6d77"/>
+	</game>
+	<game name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side B)(Historical Scenarios)[a][48K]">
+		<description>Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side B)(Historical Scenarios)[a][48K]</description>
+		<rom name="Kampfgruppe v1.0 (1985)(SSI)(II+)(US)(Side B)(Historical Scenarios)[a][48K].woz" size="234793" crc="43f3a85e" md5="4771113781014b69574357a129ea7f09" sha1="c045af7378e7dff9a3dac97e26e82543df3da566"/>
 	</game>
 	<game name="Kampfgruppe v1.1 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[48K]">
 		<description>Kampfgruppe v1.1 (1985)(SSI)(II+)(US)(Side A)(Game Disk)[48K]</description>
@@ -3532,13 +3624,17 @@
 		<description>Karateka (1984)(Brøderbund)(US)[cr Racketeers][48K]</description>
 		<rom name="Karateka (1984)(Brøderbund)(US)[cr Racketeers][48K].woz" size="234559" crc="168ccfd5" md5="e9ddfd6b69c54535f2bba916be978bda" sha1="139803dcd146f123e2944e04a32909c44597b7bc"/>
 	</game>
-	<game name="Kaves of Karkhan (1981)(Level-10)(II+)">
-		<description>Kaves of Karkhan (1981)(Level-10)(II+)</description>
-		<rom name="Kaves of Karkhan (1981)(Level-10)(II+).woz" size="241410" crc="d46a6c27" md5="73089f9276eef7bb48ba99048fd9a59b" sha1="ebf43929efe1573c5029cd3d669635553e3cd11e"/>
+	<game name="Kaves of Karkhan (1981)(Level-10)(II+)[48K]">
+		<description>Kaves of Karkhan (1981)(Level-10)(II+)[48K]</description>
+		<rom name="Kaves of Karkhan (1981)(Level-10)(II+)[48K].woz" size="241410" crc="d46a6c27" md5="73089f9276eef7bb48ba99048fd9a59b" sha1="ebf43929efe1573c5029cd3d669635553e3cd11e"/>
 	</game>
-	<game name="Kaves of Karkhan rev 2 (1981)(Level-10)(II+)">
-		<description>Kaves of Karkhan rev 2 (1981)(Level-10)(II+)</description>
-		<rom name="Kaves of Karkhan rev 2 (1981)(Level-10)(II+).woz" size="234772" crc="9176f9e3" md5="621cb100c58634c11488532dcbbd8f46" sha1="bea39e300dc4de984135a5cc06cfbc723590fbcc"/>
+	<game name="Kaves of Karkhan (1981)(Level-10)(II+)[a][48K]">
+		<description>Kaves of Karkhan (1981)(Level-10)(II+)[a][48K]</description>
+		<rom name="Kaves of Karkhan (1981)(Level-10)(II+)[a][48K].woz" size="234739" crc="c1b080bf" md5="4c1a4701adc6975c02782e298b2fa0a4" sha1="5227768941866a258e19a1efeda5d325a60d60c1"/>
+	</game>
+	<game name="Kaves of Karkhan rev 2 (1981)(Level-10)(II+)[48K]">
+		<description>Kaves of Karkhan rev 2 (1981)(Level-10)(II+)[48K]</description>
+		<rom name="Kaves of Karkhan rev 2 (1981)(Level-10)(II+)[48K].woz" size="234772" crc="9176f9e3" md5="621cb100c58634c11488532dcbbd8f46" sha1="bea39e300dc4de984135a5cc06cfbc723590fbcc"/>
 	</game>
 	<game name="Ken Uston's Professional Blackjack v1.12 (1983)(Intelligent Statements)(II+)[48K]">
 		<description>Ken Uston's Professional Blackjack v1.12 (1983)(Intelligent Statements)(II+)[48K]</description>
@@ -3884,6 +3980,10 @@
 		<description>King's Quest IV - The Perils of Rosella (1989)(Sierra On-Line)(IIE)(US)(Disk 8 of 8 Side B)[a][128K][cp manual]</description>
 		<rom name="King's Quest IV - The Perils of Rosella (1989)(Sierra On-Line)(IIE)(US)(Disk 8 of 8 Side B)[a][128K][cp manual].woz" size="233216" crc="9409ecc7" md5="f76b845030bb24dea505f105f0e7db69" sha1="e10c88f91111554055e769ee6e4f516f6146bc19"/>
 	</game>
+	<game name="Kinjirareta Asobi (1984-10)(RINGO)(JP)(en)[AKA Forbidden Games][Micom BASIC]">
+		<description>Kinjirareta Asobi (1984-10)(RINGO)(JP)(en)[AKA Forbidden Games][Micom BASIC]</description>
+		<rom name="Kinjirareta Asobi (1984-10)(RINGO)(JP)(en)[AKA Forbidden Games][Micom BASIC].woz" size="994304" crc="f9243683" md5="dcca33164d3bd48a30a178a31ac75fa0" sha1="d17833462619ac3cd21f321a3ceb405f5649429d"/>
+	</game>
 	<game name="Knights of the Desert v1.1 (1983)(SSI)(II+)(US)">
 		<description>Knights of the Desert v1.1 (1983)(SSI)(II+)(US)</description>
 		<rom name="Knights of the Desert v1.1 (1983)(SSI)(II+)(US).woz" size="233467" crc="8c2a1c20" md5="deca872173a3685764d20bda4cb809d9" sha1="3f4bf17bbec675615bfdcba8b58f01624bea8fb8"/>
@@ -3959,6 +4059,14 @@
 	<game name="Labyrinth of Crete, The (1981)(Adventure International)(II+)">
 		<description>Labyrinth of Crete, The (1981)(Adventure International)(II+)</description>
 		<rom name="Labyrinth of Crete, The (1981)(Adventure International)(II+).woz" size="260105" crc="705f56e9" md5="60706210d6073f5be0c08118530c3787" sha1="608d81365ca2f8fc296c6b69a918e4127c7452a9"/>
+	</game>
+	<game name="Lady Tut (1984)(Progame)(Side A)[48K]">
+		<description>Lady Tut (1984)(Progame)(Side A)[48K]</description>
+		<rom name="Lady Tut (1984)(Progame)(Side A)[48K].woz" size="108284" crc="f0416052" md5="aa3362fb45d0338f9771abfbf10547a3" sha1="4981fbc8493eafd372724f584cd3621652c51e35"/>
+	</game>
+	<game name="Lady Tut (1984)(Progame)(Side B)[48K]">
+		<description>Lady Tut (1984)(Progame)(Side B)[48K]</description>
+		<rom name="Lady Tut (1984)(Progame)(Side B)[48K].woz" size="94976" crc="7961300e" md5="7e47df1e0241d3f514657ee8a51f98a5" sha1="c8828a6bab99bb933068981c2c4b32b5e9b3c692"/>
 	</game>
 	<game name="Lancaster (1983)(Silicon Valley Systems)[48K]">
 		<description>Lancaster (1983)(Silicon Valley Systems)[48K]</description>
@@ -4336,9 +4444,13 @@
 		<description>Mating Zone (1983)(Datamost)(US)[48K]</description>
 		<rom name="Mating Zone (1983)(Datamost)(US)[48K].woz" size="140285" crc="b8de1b81" md5="caaa5d835582d6f434451e579dc95193" sha1="dfd93436426b002a0f63a780f03ac8a19b9f750f"/>
 	</game>
-	<game name="Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)">
-		<description>Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)</description>
-		<rom name="Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE).woz" size="233216" crc="d9272994" md5="c0e0dce3223867989c49b2594f0829a1" sha1="3b5fd239d102d049920bda70121bba88b96d8e53"/>
+	<game name="Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)[128K]">
+		<description>Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)[128K]</description>
+		<rom name="Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)[128K].woz" size="233216" crc="d9272994" md5="c0e0dce3223867989c49b2594f0829a1" sha1="3b5fd239d102d049920bda70121bba88b96d8e53"/>
+	</game>
+	<game name="Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)[a][128K]">
+		<description>Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)[a][128K]</description>
+		<rom name="Matterhorn Screamer (1988)(Hi-Tech Expressions)(IIE)[a][128K].woz" size="234790" crc="715e1d31" md5="a0108530f0f7b14080ea61b505228fd9" sha1="579a29afe4084073e8704807a092b43637b44787"/>
 	</game>
 	<game name="Maxwell Manor - Skull of Doom (1984)(Avalon Hill)(II+)[64K]">
 		<description>Maxwell Manor - Skull of Doom (1984)(Avalon Hill)(II+)[64K]</description>
@@ -4359,6 +4471,14 @@
 	<game name="Mech Brigade v1.2 (1985)(SSI)(II+)(US)(Side B)(Scenario)">
 		<description>Mech Brigade v1.2 (1985)(SSI)(II+)(US)(Side B)(Scenario)</description>
 		<rom name="Mech Brigade v1.2 (1985)(SSI)(II+)(US)(Side B)(Scenario).woz" size="233458" crc="8ead9c2d" md5="71989c940846f369dea37613b3f4c301" sha1="c17882b5ddf33b4c69bad7a52e2dded1ef60995a"/>
+	</game>
+	<game name="Merlin's Castle (1983)(General Masters)(II+)[48K]">
+		<description>Merlin's Castle (1983)(General Masters)(II+)[48K]</description>
+		<rom name="Merlin's Castle (1983)(General Masters)(II+)[48K].woz" size="234784" crc="cc70b746" md5="ac902fb4ec27f86689ec40ff5ce72e07" sha1="27dc19d8bee980679ec46257fd7ce836a0ce13ff"/>
+	</game>
+	<game name="Meteoroids in Space (1981)(Quality Software)[48K]">
+		<description>Meteoroids in Space (1981)(Quality Software)[48K]</description>
+		<rom name="Meteoroids in Space (1981)(Quality Software)[48K].woz" size="48405" crc="7beb3c05" md5="d25f7689bbfdda2a87b853a2c8318ce5" sha1="61cdb1028a091a7bd85ac636f1f29087b57b4426"/>
 	</game>
 	<game name="Mickey's Space Adventure (1984)(Sierra On-Line)(Disk 1 of 2 Side A)[a]">
 		<description>Mickey's Space Adventure (1984)(Sierra On-Line)(Disk 1 of 2 Side A)[a]</description>
@@ -4532,13 +4652,21 @@
 		<description>Miner 2049er (1982)(Micro Fun)(US)[a][48K]</description>
 		<rom name="Miner 2049er (1982)(Micro Fun)(US)[a][48K].woz" size="234740" crc="3ec7c53c" md5="5fb146f739329f48532b59ba6ff8df0a" sha1="b1ac66bb1bc431464195ba098c1b4d7f0881e197"/>
 	</game>
-	<game name="Mines of Titan (1989)(Infocom)(Disk 1 of 2)">
-		<description>Mines of Titan (1989)(Infocom)(Disk 1 of 2)</description>
-		<rom name="Mines of Titan (1989)(Infocom)(Disk 1 of 2).woz" size="233216" crc="3b6807ae" md5="55b9af33ed4077af9ba2fafa8296788e" sha1="0afc540e6060f434c52ddf6b9b721fb336986857"/>
+	<game name="Mines of Titan (1989)(Infocom)(II+)(Side A)(Game)[64K]">
+		<description>Mines of Titan (1989)(Infocom)(II+)(Side A)(Game)[64K]</description>
+		<rom name="Mines of Titan (1989)(Infocom)(II+)(Side A)(Game)[64K].woz" size="233216" crc="3b6807ae" md5="55b9af33ed4077af9ba2fafa8296788e" sha1="0afc540e6060f434c52ddf6b9b721fb336986857"/>
 	</game>
-	<game name="Mines of Titan (1989)(Infocom)(Disk 2 of 2)">
-		<description>Mines of Titan (1989)(Infocom)(Disk 2 of 2)</description>
-		<rom name="Mines of Titan (1989)(Infocom)(Disk 2 of 2).woz" size="233216" crc="bdbcc895" md5="c4461609d347c92f09d1561c850fdd86" sha1="8a5334d9d9d167b76039f679827992648aafc89f"/>
+	<game name="Mines of Titan (1989)(Infocom)(II+)(Side A)(Game)[a][64K]">
+		<description>Mines of Titan (1989)(Infocom)(II+)(Side A)(Game)[a][64K]</description>
+		<rom name="Mines of Titan (1989)(Infocom)(II+)(Side A)(Game)[a][64K].woz" size="241424" crc="0cfb001a" md5="7b2b037d1ad0f202fe6347cab0a5517f" sha1="dcbfd265cf708516c9c414205bcbff7e38d80dce"/>
+	</game>
+	<game name="Mines of Titan (1989)(Infocom)(II+)(Side B)(Player)[64K]">
+		<description>Mines of Titan (1989)(Infocom)(II+)(Side B)(Player)[64K]</description>
+		<rom name="Mines of Titan (1989)(Infocom)(II+)(Side B)(Player)[64K].woz" size="233216" crc="bdbcc895" md5="c4461609d347c92f09d1561c850fdd86" sha1="8a5334d9d9d167b76039f679827992648aafc89f"/>
+	</game>
+	<game name="Mines of Titan (1989)(Infocom)(II+)(Side B)(Player)[a][64K]">
+		<description>Mines of Titan (1989)(Infocom)(II+)(Side B)(Player)[a][64K]</description>
+		<rom name="Mines of Titan (1989)(Infocom)(II+)(Side B)(Player)[a][64K].woz" size="234768" crc="dbed7159" md5="989ff764805e9f20e272f96af20f99b7" sha1="11b6138935f563c205a4d34d05f67af008aedb3a"/>
 	</game>
 	<game name="Minit Man (1983)(Penguin Software)(II+)(US)[48K]">
 		<description>Minit Man (1983)(Penguin Software)(II+)(US)[48K]</description>
@@ -4571,6 +4699,10 @@
 	<game name="Mission - Asteroid (1980)(On-Line Systems)(II+)[a][48K][Hi-Res Adventure #0]">
 		<description>Mission - Asteroid (1980)(On-Line Systems)(II+)[a][48K][Hi-Res Adventure #0]</description>
 		<rom name="Mission - Asteroid (1980)(On-Line Systems)(II+)[a][48K][Hi-Res Adventure #0].woz" size="235478" crc="0bdaea4a" md5="2171db37a066ac0f841975f929b1cebb" sha1="056b58302cd23aafb139b9561ade81d2a6dcc4dd"/>
+	</game>
+	<game name="Mission On Thunderhead (1986)(Avalon Hill)(II+)[64K]">
+		<description>Mission On Thunderhead (1986)(Avalon Hill)(II+)[64K]</description>
+		<rom name="Mission On Thunderhead (1986)(Avalon Hill)(II+)[64K].woz" size="235496" crc="17b78381" md5="8a06fe800f7f075e61159f6de46cce74" sha1="fd5b85770c0fbcb5505dfd2ca88ab0469747afda"/>
 	</game>
 	<game name="Mist, The (1985)(Mindscape)(II+)(US)[64K]">
 		<description>Mist, The (1985)(Mindscape)(II+)(US)[64K]</description>
@@ -4648,6 +4780,10 @@
 		<description>Monster Smash (1983)(Datamost)(US)</description>
 		<rom name="Monster Smash (1983)(Datamost)(US).woz" size="233216" crc="aa9d7a57" md5="79bff36635fd1667c81f5eb51c021ca6" sha1="ff0bd863cf7b0a807a17d4c8bde41e2a3e371ed0"/>
 	</game>
+	<game name="Monster Smash v2.0 (1983)(Datamost)(II+)(US)[48K]">
+		<description>Monster Smash v2.0 (1983)(Datamost)(II+)(US)[48K]</description>
+		<rom name="Monster Smash v2.0 (1983)(Datamost)(II+)(US)[48K].woz" size="234781" crc="d851a5c5" md5="3407a807cdc2ba3728d9ee58b9fa86fd" sha1="32b875605d9b9dd056c4903a855743b20d644982"/>
+	</game>
 	<game name="Montezuma's Revenge (1984)(Parker Brothers)(II+)[48K]">
 		<description>Montezuma's Revenge (1984)(Parker Brothers)(II+)[48K]</description>
 		<rom name="Montezuma's Revenge (1984)(Parker Brothers)(II+)[48K].woz" size="233489" crc="ec080432" md5="6f12408892970ee06fc6e858a35e07f5" sha1="c9c0a71e155f8f9df0d5019f2d4edbc4544bb526"/>
@@ -4708,6 +4844,10 @@
 		<description>Ms. Pac-Man (1983)(Atarisoft)[48K]</description>
 		<rom name="Ms. Pac-Man (1983)(Atarisoft)[48K].woz" size="53744" crc="4abe0f76" md5="f7e1d80885c68a4bbc3080b29beef41a" sha1="29d49e4ab496d095691cef66936f2fe7b95b2d4e"/>
 	</game>
+	<game name="Mummy's Curse (1981)(Highlands Computer Services)(II+)[48K]">
+		<description>Mummy's Curse (1981)(Highlands Computer Services)(II+)[48K]</description>
+		<rom name="Mummy's Curse (1981)(Highlands Computer Services)(II+)[48K].woz" size="241416" crc="d78b9448" md5="da60a2e9521339635793cda218adac12" sha1="6dfc6e19addeee99a5642e5920604e80a56140bf"/>
+	</game>
 	<game name="Mummy's Curse (1981)(Softsmith)(II+)[48K]">
 		<description>Mummy's Curse (1981)(Softsmith)(II+)[48K]</description>
 		<rom name="Mummy's Curse (1981)(Softsmith)(II+)[48K].woz" size="194795" crc="8d4202dc" md5="6b1f52748e059188736e11448102a37d" sha1="fafc0e9de9d07ef34dc2911cb35561fd29591ac0"/>
@@ -4716,9 +4856,17 @@
 		<description>Murder Manor v1.0.0 (2020)(Crow Cousins)(IIEE)</description>
 		<rom name="Murder Manor v1.0.0 (2020)(Crow Cousins)(IIEE).woz" size="234496" crc="659da9bd" md5="d57dc8ffc943c2b7d997748fcc077a02" sha1="c72af5197a89557e1aa60ca64cf76c9ea976b4e0"/>
 	</game>
-	<game name="Murder on the Mississippi (1986)(Activision)(Side A)">
-		<description>Murder on the Mississippi (1986)(Activision)(Side A)</description>
-		<rom name="Murder on the Mississippi (1986)(Activision)(Side A).woz" size="233216" crc="d22e2463" md5="8a3f6ccde117497d31bdf4a5f64d90eb" sha1="f7248c2fda6b69667a63dc3b72ce6db558af4406"/>
+	<game name="Murder on the Mississippi (1986)(Activision)(II+)(Side A)[64K]">
+		<description>Murder on the Mississippi (1986)(Activision)(II+)(Side A)[64K]</description>
+		<rom name="Murder on the Mississippi (1986)(Activision)(II+)(Side A)[64K].woz" size="233216" crc="d22e2463" md5="8a3f6ccde117497d31bdf4a5f64d90eb" sha1="f7248c2fda6b69667a63dc3b72ce6db558af4406"/>
+	</game>
+	<game name="Murder on the Mississippi (1986)(Activision)(II+)(Side A)[a][64K]">
+		<description>Murder on the Mississippi (1986)(Activision)(II+)(Side A)[a][64K]</description>
+		<rom name="Murder on the Mississippi (1986)(Activision)(II+)(Side A)[a][64K].woz" size="234791" crc="5b615fa1" md5="aa2b286ec7e99191ef704f4d07220680" sha1="c6d9bbff02f896b4bdac6dec1adf9bf52ae92cda"/>
+	</game>
+	<game name="Murder on the Mississippi (1986)(Activision)(II+)(Side B)[64K]">
+		<description>Murder on the Mississippi (1986)(Activision)(II+)(Side B)[64K]</description>
+		<rom name="Murder on the Mississippi (1986)(Activision)(II+)(Side B)[64K].woz" size="234791" crc="8d1c2ac2" md5="08c9f4ab90930e2a81131e46163680f8" sha1="42e605a010209eb15c7bc033f961f7aaa8b1ddc1"/>
 	</game>
 	<game name="Murder on the Zinderneuf (1984)(Electronic Arts)(II+)[48K]">
 		<description>Murder on the Zinderneuf (1984)(Electronic Arts)(II+)[48K]</description>
@@ -4952,9 +5100,9 @@
 		<description>Pac-Man (1983)(Atari)</description>
 		<rom name="Pac-Man (1983)(Atari).woz" size="233216" crc="4f19db2e" md5="083ff33b825e382e3ee1f797dbe2b456" sha1="ff9021f7af12811673631869cc81dd4325a9c69c"/>
 	</game>
-	<game name="Pac-Man (1983)(Thunder Mountain)">
-		<description>Pac-Man (1983)(Thunder Mountain)</description>
-		<rom name="Pac-Man (1983)(Thunder Mountain).woz" size="234741" crc="06f7e9ca" md5="8263d0bccd5717e9e1dfe05fd9eb936f" sha1="0dd9dc894b12ff608a345a6dfa4976a2f7d7a464"/>
+	<game name="Pac-Man (1983)(Thunder Mountain)(US)">
+		<description>Pac-Man (1983)(Thunder Mountain)(US)</description>
+		<rom name="Pac-Man (1983)(Thunder Mountain)(US).woz" size="234741" crc="06f7e9ca" md5="8263d0bccd5717e9e1dfe05fd9eb936f" sha1="0dd9dc894b12ff608a345a6dfa4976a2f7d7a464"/>
 	</game>
 	<game name="Pandora's Box (1982)(Datamost)(II+)(US)[48K]">
 		<description>Pandora's Box (1982)(Datamost)(II+)(US)[48K]</description>
@@ -5336,6 +5484,10 @@
 		<description>Prince of Persia (1989)(Brøderbund)(IIE)(US)(Side B)[128K]</description>
 		<rom name="Prince of Persia (1989)(Brøderbund)(IIE)(US)(Side B)[128K].woz" size="233481" crc="6de94d52" md5="d566f78651f70fad171111bf38e2cfca" sha1="931e264563390d1e76cef9a7db31492643f45b49"/>
 	</game>
+	<game name="Prince of Persia (demo-playable) (1989)(Brøderbund)(IIE)(US)[128K]">
+		<description>Prince of Persia (demo-playable) (1989)(Brøderbund)(IIE)(US)[128K]</description>
+		<rom name="Prince of Persia (demo-playable) (1989)(Brøderbund)(IIE)(US)[128K].woz" size="234834" crc="7375b848" md5="363d0b075d486bbcb54ed19844232959" sha1="c9489252c3b10c5d77df9ea8d5a45e9800e6fb12"/>
+	</game>
 	<game name="Prisoner 2 v1.0.1 (1982)(Edu-Ware)">
 		<description>Prisoner 2 v1.0.1 (1982)(Edu-Ware)</description>
 		<rom name="Prisoner 2 v1.0.1 (1982)(Edu-Ware).woz" size="233260" crc="5e877bfa" md5="7979d068ffc60bbb03c1bd81bb6de6bc" sha1="dc55f872f9f70fcaec643e5373cd710995629832"/>
@@ -5436,13 +5588,29 @@
 		<description>Question of Scruples, A (1988)(Leisure Genius)(II+)(Disk B)(Questions Disk)[48K]</description>
 		<rom name="Question of Scruples, A (1988)(Leisure Genius)(II+)(Disk B)(Questions Disk)[48K].woz" size="241491" crc="6c5aad74" md5="ba5934ad449eb75b1f8ad956b596b263" sha1="a36cd6c4ec290f6c437bc7881d2485c14ef96efa"/>
 	</game>
-	<game name="Questprobe featuring Spider-Man vF261 (1984)(Adventure International)(II+)(US)(Side A)[48K]">
-		<description>Questprobe featuring Spider-Man vF261 (1984)(Adventure International)(II+)(US)(Side A)[48K]</description>
-		<rom name="Questprobe featuring Spider-Man vF261 (1984)(Adventure International)(II+)(US)(Side A)[48K].woz" size="234823" crc="f560335e" md5="64fc1e15c4f8969dfddf0728a5965598" sha1="8c7f230eb8fe444617b93af8c9e400906b75fe49"/>
+	<game name="Questprobe featuring Spider-Man vB-258 (1984)(Adventure International)(II+)(US)(Side A)[48K]">
+		<description>Questprobe featuring Spider-Man vB-258 (1984)(Adventure International)(II+)(US)(Side A)[48K]</description>
+		<rom name="Questprobe featuring Spider-Man vB-258 (1984)(Adventure International)(II+)(US)(Side A)[48K].woz" size="234797" crc="96f4ff35" md5="88103336d2cea660cfac9361f36842ef" sha1="af79559d8a9193f9cc87765d6f89df24917b42d9"/>
 	</game>
-	<game name="Questprobe featuring Spider-Man vF261 (1984)(Adventure International)(II+)(US)(Side B)[48K]">
-		<description>Questprobe featuring Spider-Man vF261 (1984)(Adventure International)(II+)(US)(Side B)[48K]</description>
-		<rom name="Questprobe featuring Spider-Man vF261 (1984)(Adventure International)(II+)(US)(Side B)[48K].woz" size="234823" crc="1ad643ed" md5="e103cc07ad85f363d5e08a8fb917a026" sha1="68b94de28f99620eb3a6a89f9462effd5e2919ac"/>
+	<game name="Questprobe featuring Spider-Man vB-258 (1984)(Adventure International)(II+)(US)(Side B)[48K]">
+		<description>Questprobe featuring Spider-Man vB-258 (1984)(Adventure International)(II+)(US)(Side B)[48K]</description>
+		<rom name="Questprobe featuring Spider-Man vB-258 (1984)(Adventure International)(II+)(US)(Side B)[48K].woz" size="234797" crc="2e55a307" md5="63a1e8880343af073957a66004cdc825" sha1="cd38313dfc3d97d3325ec366ae15db8d2a34cc0f"/>
+	</game>
+	<game name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side A)[48K]">
+		<description>Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side A)[48K]</description>
+		<rom name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side A)[48K].woz" size="234823" crc="f560335e" md5="64fc1e15c4f8969dfddf0728a5965598" sha1="8c7f230eb8fe444617b93af8c9e400906b75fe49"/>
+	</game>
+	<game name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side A)[a][48K]">
+		<description>Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side A)[a][48K]</description>
+		<rom name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side A)[a][48K].woz" size="234766" crc="bcce8646" md5="2b4543eb439b626a115f1ed3e2713636" sha1="8ae44ba9f64f253aac7dc592e1a7dea16c0d7573"/>
+	</game>
+	<game name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side B)[48K]">
+		<description>Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side B)[48K]</description>
+		<rom name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side B)[48K].woz" size="234823" crc="1ad643ed" md5="e103cc07ad85f363d5e08a8fb917a026" sha1="68b94de28f99620eb3a6a89f9462effd5e2919ac"/>
+	</game>
+	<game name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side B)[a][48K]">
+		<description>Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side B)[a][48K]</description>
+		<rom name="Questprobe featuring Spider-Man vF-261 (1984)(Adventure International)(II+)(US)(Side B)[a][48K].woz" size="234766" crc="af4779c9" md5="e84bd7b5626f88a3c03d08d43f065f7c" sha1="0373a0fc159d6f55052d5925f962b816980cda49"/>
 	</game>
 	<game name="Questprobe featuring The Hulk v2.3-127 (1984)(Adventure International)(II+)(Side A)">
 		<description>Questprobe featuring The Hulk v2.3-127 (1984)(Adventure International)(II+)(Side A)</description>
@@ -5936,6 +6104,14 @@
 		<description>SAGA #1 - Adventureland v2.0-416 (1982)(Adventure International)(II+)(US)(Side B)(Boot)[a][48K]</description>
 		<rom name="SAGA #1 - Adventureland v2.0-416 (1982)(Adventure International)(II+)(US)(Side B)(Boot)[a][48K].woz" size="233216" crc="e3270add" md5="05716e7ce662ed32b0c1cb83a6594a6d" sha1="3c1850d5dc88653ec64616aa7547048087f9c185"/>
 	</game>
+	<game name="SAGA #1 - Adventureland v2.2-416 (1982)(Adventure International)(II+)(US)(Side A)[48K]">
+		<description>SAGA #1 - Adventureland v2.2-416 (1982)(Adventure International)(II+)(US)(Side A)[48K]</description>
+		<rom name="SAGA #1 - Adventureland v2.2-416 (1982)(Adventure International)(II+)(US)(Side A)[48K].woz" size="234863" crc="c1d57b70" md5="e7251dedee19e46e6ffe857a5c18c62a" sha1="f38659ec7d9723ec8cf082c6496ab916548a718e"/>
+	</game>
+	<game name="SAGA #1 - Adventureland v2.2-416 (1982)(Adventure International)(II+)(US)(Side B)(Boot)[48K]">
+		<description>SAGA #1 - Adventureland v2.2-416 (1982)(Adventure International)(II+)(US)(Side B)(Boot)[48K]</description>
+		<rom name="SAGA #1 - Adventureland v2.2-416 (1982)(Adventure International)(II+)(US)(Side B)(Boot)[48K].woz" size="234863" crc="e8c92a08" md5="f9885b3617d6c5a031d6c6e7b74f94b4" sha1="35ee6aa6272aa2b466cc226eddfcf503cdb79cf8"/>
+	</game>
 	<game name="SAGA #13 - The Sorcerer of Claymorgue Castle v2.2-122 (1984)(Adventure International)(II+)(US)(Side A)[48K]">
 		<description>SAGA #13 - The Sorcerer of Claymorgue Castle v2.2-122 (1984)(Adventure International)(II+)(US)(Side A)[48K]</description>
 		<rom name="SAGA #13 - The Sorcerer of Claymorgue Castle v2.2-122 (1984)(Adventure International)(II+)(US)(Side A)[48K].woz" size="241511" crc="4f5e141c" md5="41070a2a0384c9ddcc5832fd141005b8" sha1="82b64408d2430877b7b68afca9ad625374180943"/>
@@ -6135,6 +6311,14 @@
 	<game name="Seven Cities of Gold, The (1984)(Electronic Arts)(II+)(Side B)[a][64K]">
 		<description>Seven Cities of Gold, The (1984)(Electronic Arts)(II+)(Side B)[a][64K]</description>
 		<rom name="Seven Cities of Gold, The (1984)(Electronic Arts)(II+)(Side B)[a][64K].woz" size="234808" crc="944bafe2" md5="a1949be0e1362084d821949baa9a6fbc" sha1="0994bcaa3d88c624b5f719ec7549b0c40f144f2e"/>
+	</game>
+	<game name="Shadow Hawk One rev 1 (1981)(Horizon Simulations)(II+)[48K]">
+		<description>Shadow Hawk One rev 1 (1981)(Horizon Simulations)(II+)[48K]</description>
+		<rom name="Shadow Hawk One rev 1 (1981)(Horizon Simulations)(II+)[48K].woz" size="234749" crc="9c34f89d" md5="9b07cb23fe98aa43313aecc47d9c887d" sha1="cc8ee195950621e7ae82754387fd912589194d60"/>
+	</game>
+	<game name="Shadow Hawk One rev 2 (1981)(Horizon Simulations)(II+)[48K]">
+		<description>Shadow Hawk One rev 2 (1981)(Horizon Simulations)(II+)[48K]</description>
+		<rom name="Shadow Hawk One rev 2 (1981)(Horizon Simulations)(II+)[48K].woz" size="234804" crc="cbc35159" md5="a696fb8db41f98742d5aecf220f662cf" sha1="93334b2efef72b7cc13a193c854ae725b2af418f"/>
 	</game>
 	<game name="Shadowkeep (1984)(Trillium)(Disk 1 of 2 Side A)[48K]">
 		<description>Shadowkeep (1984)(Trillium)(Disk 1 of 2 Side A)[48K]</description>
@@ -7332,6 +7516,10 @@
 		<description>Transsylvanien - Ein Spannendes High-Resolution-Spiel (1985)(Penguin Software)(II+)(de)(Side B)(Data)[unreleased translation]</description>
 		<rom name="Transsylvanien - Ein Spannendes High-Resolution-Spiel (1985)(Penguin Software)(II+)(de)(Side B)(Data)[unreleased translation].woz" size="235070" crc="22180f1b" md5="f09175b3de0679f3dffb782bd460d698" sha1="02632ca10ee00117d2ff603b87414a04682ede9f"/>
 	</game>
+	<game name="Trapshoot (1980)(On-Line System)[48K][13-sector]">
+		<description>Trapshoot (1980)(On-Line System)[48K][13-sector]</description>
+		<rom name="Trapshoot (1980)(On-Line System)[48K][13-sector].woz" size="228128" crc="2f88ae9a" md5="9f91fee1c01389545c9c8de9d28c7282" sha1="7082d68d26baec57ca99b10d23674c0030863fb9"/>
+	</game>
 	<game name="Treasure Island (1985)(Windham Classics)(II+)(US)(Disk 1 of 2 Side A)">
 		<description>Treasure Island (1985)(Windham Classics)(II+)(US)(Disk 1 of 2 Side A)</description>
 		<rom name="Treasure Island (1985)(Windham Classics)(II+)(US)(Disk 1 of 2 Side A).woz" size="233481" crc="8225e0b4" md5="5d3cbd35d578f33b13abd852e2ef1832" sha1="7730747da0e6647c30423f02e9bf3c902e55849d"/>
@@ -7371,6 +7559,22 @@
 	<game name="Trinity r11 (1986-05-09)(Infocom)(IIE)(Side B)[128K]">
 		<description>Trinity r11 (1986-05-09)(Infocom)(IIE)(Side B)[128K]</description>
 		<rom name="Trinity r11 (1986-05-09)(Infocom)(IIE)(Side B)[128K].woz" size="234744" crc="6b814a97" md5="f41cad109c9a98522796f47b46f76dc2" sha1="4e6ae3a33788e47bac09a7d8f6e160d879f8b263"/>
+	</game>
+	<game name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 1 of 2 Side A)[48K]">
+		<description>Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 1 of 2 Side A)[48K]</description>
+		<rom name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 1 of 2 Side A)[48K].woz" size="234814" crc="9c1d0deb" md5="7c8fa00bb0b832a959ece5f7fd580fc8" sha1="601720f54a400ab3190a0a0bb3b3286d554826d8"/>
+	</game>
+	<game name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 1 of 2 Side B)[48K]">
+		<description>Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 1 of 2 Side B)[48K]</description>
+		<rom name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 1 of 2 Side B)[48K].woz" size="234814" crc="fe846a88" md5="c35554a481a6c985b1af07703128d2df" sha1="1de815b0296dcba09230969bb8db2cdf1e10c545"/>
+	</game>
+	<game name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 2 of 2 Side A)[48K]">
+		<description>Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 2 of 2 Side A)[48K]</description>
+		<rom name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 2 of 2 Side A)[48K].woz" size="234814" crc="74dfe8eb" md5="4fdf896d1d0ead454c4f918ad8b0ef01" sha1="931ba413f98219f038a142f95a984f476620ce3b"/>
+	</game>
+	<game name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 2 of 2 Side B)[48K]">
+		<description>Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 2 of 2 Side B)[48K]</description>
+		<rom name="Trivia Arcade, The (1984)(Screenplay)(II+)(Disk 2 of 2 Side B)[48K].woz" size="234814" crc="9e84dbef" md5="01108ad0af4ebe2c037fe3189d70f967" sha1="23584d43677af62db10b2ad3a87993ad6ba0e5c0"/>
 	</game>
 	<game name="Trivia Fever (1984)(Professional Software)(II+)(Side A)[48K]">
 		<description>Trivia Fever (1984)(Professional Software)(II+)(Side A)[48K]</description>
@@ -7815,6 +8019,10 @@
 	<game name="Wall Street (1981)(CE Software)">
 		<description>Wall Street (1981)(CE Software)</description>
 		<rom name="Wall Street (1981)(CE Software).woz" size="214841" crc="2d1099c3" md5="b42cfef59613611ea86456e2fa3cb3eb" sha1="f533ea6dacd2793be9dbe97cb81bdf43334010d9"/>
+	</game>
+	<game name="War (1982)(Adventure International)(II+)[48K]">
+		<description>War (1982)(Adventure International)(II+)[48K]</description>
+		<rom name="War (1982)(Adventure International)(II+)[48K].woz" size="234813" crc="700e126e" md5="01c90c8bccc0993b6870fbc35c40de46" sha1="33a5c31572a6551c871830b60a06b456aef49df1"/>
 	</game>
 	<game name="War in the South Pacific (1986)(SSI)(II+)(US)(Side A)">
 		<description>War in the South Pacific (1986)(SSI)(II+)(US)(Side A)</description>

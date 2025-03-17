@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy Color - Demos</name>
-		<description>Nintendo Game Boy Color - Demos (TOSEC-v2023-06-19)</description>
+		<description>Nintendo Game Boy Color - Demos (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-06-19</version>
+		<version>2025-01-15</version>
 		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -18,7 +18,7 @@
 	</game>
 	<game name="2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD)">
 		<description>2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD)</description>
-		<rom name="2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD).bin" size="32768" crc="8f501a1a" md5="1271ddb6d46cb59af6b5cfe02408e03a" sha1="50d9c00fad01c962a1fe8e7b4a72633c7b2ebc97"/>
+		<rom name="2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD).gbc" size="32768" crc="8f501a1a" md5="1271ddb6d46cb59af6b5cfe02408e03a" sha1="50d9c00fad01c962a1fe8e7b4a72633c7b2ebc97"/>
 	</game>
 	<game name="AfterDark Screensaver 'Flying Toasters' Demake for Gameboy Color (2021-12-28)(Jones, Jayro)">
 		<description>AfterDark Screensaver 'Flying Toasters' Demake for Gameboy Color (2021-12-28)(Jones, Jayro)</description>
@@ -84,6 +84,42 @@
 		<description>GBStudio Paint (2021-12-22)(Piranha_Fang)</description>
 		<rom name="GBStudio Paint (2021-12-22)(Piranha_Fang).gbc" size="131072" crc="04fbfa56" md5="287a57b4563cf31325c85dff6703799c" sha1="4d6a33605dbc1f534adaefe88270cc65f1079510"/>
 	</game>
+	<game name="GBVideoPlayer v1.0 with the Pokémon Opening (2015-09-01)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer v1.0 with the Pokémon Opening (2015-09-01)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer v1.0 with the Pokémon Opening (2015-09-01)(Halphon, Lior)(IR)(MIT).gbc" size="7582798" crc="e0366a80" md5="0b09ad37912cf8a3bcc11620604dce1d" sha1="36e4f87fb13301e788e59b69e98b54cfa5db683b"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Butterfly (2019-09-21)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer2 Example ROM - Butterfly (2019-09-21)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer2 Example ROM - Butterfly (2019-09-21)(Halphon, Lior)(IR)(MIT).gbc" size="8110080" crc="2171d3fb" md5="db229126a31b1ad97bfe616a6f64dc0c" sha1="8d71efac4d09392cb90410f6c34637a09e4c4547"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Gatonovela (2019-09-21)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer2 Example ROM - Gatonovela (2019-09-21)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer2 Example ROM - Gatonovela (2019-09-21)(Halphon, Lior)(IR)(MIT).gbc" size="6537216" crc="34c31608" md5="fa8bfd212a6fcbc90215104445a9ec7a" sha1="f5e3583779442c15e58de0750aa7aed63c9f1a52"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Guren (2019-09-21)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer2 Example ROM - Guren (2019-09-21)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer2 Example ROM - Guren (2019-09-21)(Halphon, Lior)(IR)(MIT).gbc" size="8257536" crc="d6d6c310" md5="6668d4dd3725a5ad512f61fc783926f6" sha1="e0742a66c279c641b64aaef06bd51ccdb157024a"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Jiyuu (2019-09-21)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer2 Example ROM - Jiyuu (2019-09-21)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer2 Example ROM - Jiyuu (2019-09-21)(Halphon, Lior)(IR)(MIT).gbc" size="8060928" crc="f1f4344f" md5="a0f61bffdd280a99963bbe9154966c96" sha1="4908f18265351e4fb61095a924c19834c45582b1"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Mezase (2018-12-22)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer2 Example ROM - Mezase (2018-12-22)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer2 Example ROM - Mezase (2018-12-22)(Halphon, Lior)(IR)(MIT).gbc" size="8388608" crc="18e92c79" md5="7af477122a942b76f753c386801779a3" sha1="78c98dcb2113801e683dbf5a65eda182957d08c5"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Mezase (2018-12-22)(Halphon, Lior)(IR)(MIT)[unpadded]">
+		<description>GBVideoPlayer2 Example ROM - Mezase (2018-12-22)(Halphon, Lior)(IR)(MIT)[unpadded]</description>
+		<rom name="GBVideoPlayer2 Example ROM - Mezase (2018-12-22)(Halphon, Lior)(IR)(MIT)[unpadded].gbc" size="5726989" crc="80da1e74" md5="f6b8392efe806fd9b2d8b25a972cd4da" sha1="c09e8b344639cd943c40afc32c4e3fc37f5d598c"/>
+	</game>
+	<game name="GBVideoPlayer2 Example ROM - Zelda (2019-09-21)(Halphon, Lior)(IR)(MIT)">
+		<description>GBVideoPlayer2 Example ROM - Zelda (2019-09-21)(Halphon, Lior)(IR)(MIT)</description>
+		<rom name="GBVideoPlayer2 Example ROM - Zelda (2019-09-21)(Halphon, Lior)(IR)(MIT).gbc" size="4096000" crc="ca89c03b" md5="6614da0231418ab117177140ca2e10e6" sha1="f9531edc35640b0c2a2a059005006fabc5443c65"/>
+	</game>
+	<game name="GBVisualizer v1.0 (2016-02-08)(Halphon, Lior)(IR)">
+		<description>GBVisualizer v1.0 (2016-02-08)(Halphon, Lior)(IR)</description>
+		<rom name="GBVisualizer v1.0 (2016-02-08)(Halphon, Lior)(IR).gbc" size="16384" crc="091f218f" md5="c141fe219c9c1af472d9045b40ce13cc" sha1="b9487a02039adc4ef50001a3661cac55fe9b4d92"/>
+	</game>
 	<game name="Iruka to Shonen Demo (2021-04-11)(Edo999)">
 		<description>Iruka to Shonen Demo (2021-04-11)(Edo999)</description>
 		<rom name="Iruka to Shonen Demo (2021-04-11)(Edo999).gbc" size="131072" crc="1c9330da" md5="17899889c0f5188f3f2b92388550784b" sha1="f348a876b01e748f1158ce81f1fe93924c5755d1"/>
@@ -104,6 +140,10 @@
 		<description>Love Republica (2001-08)(Inka)</description>
 		<rom name="Love Republica (2001-08)(Inka).gbc" size="65536" crc="07a5d21d" md5="f4c2b962201aff5186313f66f68c35d2" sha1="f7611f4658496e3316189fbc636e725cd3bd10c3"/>
 	</game>
+	<game name="Main Theme from Omori (2022-09-04)(Halphon, Lior)(IR)">
+		<description>Main Theme from Omori (2022-09-04)(Halphon, Lior)(IR)</description>
+		<rom name="Main Theme from Omori (2022-09-04)(Halphon, Lior)(IR).gbc" size="98304" crc="47dc287c" md5="f8938d9d1ad3c13463de7ff8a6a1fce2" sha1="42b208f2aae4c30acfd3153908b7cc63a1c43b7b"/>
+	</game>
 	<game name="Mando, The (2022-03-08)(2BitU)(proto)">
 		<description>Mando, The (2022-03-08)(2BitU)(proto)</description>
 		<rom name="Mando, The (2022-03-08)(2BitU)(proto).gbc" size="262144" crc="0fc7f18b" md5="dedb9bcce8e624d259891d316c329af9" sha1="80d2b8a0560084c599bf10804e4d22bac3af2dfd"/>
@@ -111,6 +151,14 @@
 	<game name="Palette Cycling on the Game Boy Color (2021-03-14)(Cormorant42)">
 		<description>Palette Cycling on the Game Boy Color (2021-03-14)(Cormorant42)</description>
 		<rom name="Palette Cycling on the Game Boy Color (2021-03-14)(Cormorant42).gbc" size="131072" crc="b961e69d" md5="7883c9c652dce3ba58e32d26b3d3e481" sha1="aa441e8dfc0b234ce8cbbc2ffbd5715ea62e938d"/>
+	</game>
+	<game name="Prayer X by King Gnu (2022-09-04)(Halphon, Lior)(IR)">
+		<description>Prayer X by King Gnu (2022-09-04)(Halphon, Lior)(IR)</description>
+		<rom name="Prayer X by King Gnu (2022-09-04)(Halphon, Lior)(IR).gbc" size="409600" crc="09a7964d" md5="589cd3cef9b490d7c4b2db73e9328f11" sha1="1d51a4fe7c6e6735a81843cae57942775c51b187"/>
+	</game>
+	<game name="Scales of Zordium from Within a Deep Forest (2022-09-04)(Halphon, Lior)(IR)">
+		<description>Scales of Zordium from Within a Deep Forest (2022-09-04)(Halphon, Lior)(IR)</description>
+		<rom name="Scales of Zordium from Within a Deep Forest (2022-09-04)(Halphon, Lior)(IR).gbc" size="25199" crc="67edf2e8" md5="1e172c11ad8e84c05cad0dc2cb88ba14" sha1="263736da6983c58791fce98654f033249bffdb5c"/>
 	</game>
 	<game name="Second Reality (2014)(Mills)[comp GB]">
 		<description>Second Reality (2014)(Mills)[comp GB]</description>
@@ -126,7 +174,11 @@
 	</game>
 	<game name="Thing (2014)(Krapivin, Dmitry)(PD)">
 		<description>Thing (2014)(Krapivin, Dmitry)(PD)</description>
-		<rom name="Thing (2014)(Krapivin, Dmitry)(PD).bin" size="32768" crc="2555469c" md5="fad3f4aaaa5da3868be3511d90d763a6" sha1="69e8cf0735a76b9977e10902cd22882de45386c3"/>
+		<rom name="Thing (2014)(Krapivin, Dmitry)(PD).gbc" size="32768" crc="2555469c" md5="fad3f4aaaa5da3868be3511d90d763a6" sha1="69e8cf0735a76b9977e10902cd22882de45386c3"/>
+	</game>
+	<game name="Underwater Lab from Within a Deep Forest (2022-09-04)(Halphon, Lior)(IR)">
+		<description>Underwater Lab from Within a Deep Forest (2022-09-04)(Halphon, Lior)(IR)</description>
+		<rom name="Underwater Lab from Within a Deep Forest (2022-09-04)(Halphon, Lior)(IR).gbc" size="26390" crc="ac4c976b" md5="147320213b96cdda797ba27a164f568c" sha1="a847bfb5eef5fce5e304fa3bb57264b91d5e0cd8"/>
 	</game>
 	<game name="Unreal (2021-12-04)(Toxa)(MIT)">
 		<description>Unreal (2021-12-04)(Toxa)(MIT)</description>

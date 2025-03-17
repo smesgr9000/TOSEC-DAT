@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Games - [EXEC2]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Games - [EXEC2] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Caveman (1982)(W Mansell-Kansas Software)[EXEC2]">
+		<description>Caveman (1982)(W Mansell-Kansas Software)[EXEC2]</description>
+		<rom name="cave.bek" size="7792" crc="18ab9cca" md5="2e4021f6ba78252d4ec527ee45e7601d" sha1="df4f31c50949016e7753e362aeeb30c9a4dc7e3a"/>
+		<rom name="exec2.cmd" size="256" crc="c25bfbac" md5="c2ca0798b035d82697f10826fff87518" sha1="d5e97906a60aad07f222c33d4d45a87a9598be52"/>
+	</game>
+	<game name="Cosmic Guerilla (1982)(Kansas City Systems)[EXEC2]">
+		<description>Cosmic Guerilla (1982)(Kansas City Systems)[EXEC2]</description>
+		<rom name="exec2.cmd" size="256" crc="c25bfbac" md5="c2ca0798b035d82697f10826fff87518" sha1="d5e97906a60aad07f222c33d4d45a87a9598be52"/>
+		<rom name="guer.bek" size="7671" crc="c8e1b01b" md5="9345258a93b85169f53d4022a847803d" sha1="59f02dc12a988dc5573a49984b85dd0935b65a88"/>
+	</game>
+</datafile>

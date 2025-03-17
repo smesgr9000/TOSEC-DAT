@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Nintendo 3DS - Applications - [CIA]</name>
-		<description>Nintendo 3DS - Applications - [CIA] (TOSEC-v2023-10-03)</description>
+		<description>Nintendo 3DS - Applications - [CIA] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2023-10-03</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="3DS 3D Glasses App (2022-11-01)(JeffRuLz)">
+		<description>3DS 3D Glasses App (2022-11-01)(JeffRuLz)</description>
+		<rom name="3DS 3D Glasses App (2022-11-01)(JeffRuLz).cia" size="542144" crc="8f33efcc" md5="54730f232f7e01e8c5f8c06d09c022c4" sha1="bd504e30d1827fba9a5c0384a5b8adc6737a2bd2"/>
+	</game>
 	<game name="blargSnes v1.2 (201x)(Arisotura)">
 		<description>blargSnes v1.2 (201x)(Arisotura)</description>
 		<rom name="blargSnes v1.2 (201x)(Arisotura).cia" size="348096" crc="f7e3c2ba" md5="f3da297c8bddf9f1885a80d3c8f647ad" sha1="40bb0987fb9afc4ed9e91b8d587807e71b117b5a"/>
@@ -20,8 +24,68 @@
 		<description>blargSnes v1.3 (201x)(Arisotura)</description>
 		<rom name="blargSnes v1.3 (201x)(Arisotura).cia" size="364992" crc="6a343a4c" md5="5305a3f10ad33f6199ef301374711e95" sha1="e37fca61ba69c72939123d93ce8408622b33481b"/>
 	</game>
+	<game name="GameYob v0.5.2 (2017-02-04)(Drenn)(MIT)">
+		<description>GameYob v0.5.2 (2017-02-04)(Drenn)(MIT)</description>
+		<rom name="GameYob v0.5.2 (2017-02-04)(Drenn)(MIT).cia" size="460032" crc="8e792067" md5="65822ad4e4107d105f0697c7e0f9fdc6" sha1="b4691aa7d81a5e56944834cb848221920f4d6a90"/>
+	</game>
+	<game name="mGBA v0.10.0 (2022-10-12)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.0 (2022-10-12)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.10.0 (2022-10-12)(endrift)(MPL 2.0).cia" size="1166784" crc="f66265b1" md5="9fee0033b9af045d7ccd25e4f90ab158" sha1="ffabf381f9ea3bf2f51b6debb66918fd26f01d35"/>
+	</game>
+	<game name="mGBA v0.10.1 (2023-01-11)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.1 (2023-01-11)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.10.1 (2023-01-11)(endrift)(MPL 2.0).cia" size="1167296" crc="4bc0e7e5" md5="bfc9e61653980a0a1d7e7ef37adab96f" sha1="1e253a00a8964030146f17c148cf4607749cc353"/>
+	</game>
 	<game name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0)">
 		<description>mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0)</description>
 		<rom name="mGBA v0.10.2 (2023-04-24)(endrift)(MPL-2.0).cia" size="1165760" crc="e1964ce6" md5="73fa3b5aa9afb7b9fec561bad6c4f36e" sha1="d7d58ccde9d895d1dee514f2c9aed02db4ab472c"/>
+	</game>
+	<game name="mGBA v0.10.3 (2024-01-08)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.3 (2024-01-08)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.10.3 (2024-01-08)(endrift)(MPL 2.0).cia" size="1162688" crc="88a4cd55" md5="29a88d8a6748b7e34a49ee0c692dbd92" sha1="a9c808aacd411fef463689348fd85cf0753a3da4"/>
+	</game>
+	<game name="mGBA v0.10.4 (2024-12-08)(endrift)(MPL 2.0)">
+		<description>mGBA v0.10.4 (2024-12-08)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.10.4 (2024-12-08)(endrift)(MPL 2.0).cia" size="1170368" crc="0ac51bed" md5="c0506973f6a3de97b679821c5d5112b1" sha1="6b9e039a9ef971bc16dc631e5f7ee5a0b56b5078"/>
+	</game>
+	<game name="Red Viper v0.9.0 (2024-02-25)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.0 (2024-02-25)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.0 (2024-02-25)(skyfloogle)(MIT).cia" size="472512" crc="0a9e862e" md5="7ec230e802b8f50616f84ef81ef19bda" sha1="f643c26dda7b6ce2852900366805c24e51406f2e"/>
+	</game>
+	<game name="Red Viper v0.9.1 (2024-03-02)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.1 (2024-03-02)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.1 (2024-03-02)(skyfloogle)(MIT).cia" size="476608" crc="af7468fd" md5="888ee34421cb002316aa0c959891bd37" sha1="67a5ffc4985ab774187cb3e3be792fdc2e7caf6c"/>
+	</game>
+	<game name="Red Viper v0.9.2 (2024-03-24)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.2 (2024-03-24)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.2 (2024-03-24)(skyfloogle)(MIT).cia" size="508864" crc="a71eb5d0" md5="4dd84f180434eabf46d34c5ad4661d44" sha1="02a52917e1d360ce3c3fe6f6a56827a3ea10f667"/>
+	</game>
+	<game name="Red Viper v0.9.2.1 (2024-03-25)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.2.1 (2024-03-25)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.2.1 (2024-03-25)(skyfloogle)(MIT).cia" size="508352" crc="b073224e" md5="e1a96bb47c26216076c4a68d3448a21e" sha1="9a77e9dfb81626952baa9e03acea628e1bc75a0d"/>
+	</game>
+	<game name="Red Viper v0.9.3 (2024-04-10)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.3 (2024-04-10)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.3 (2024-04-10)(skyfloogle)(MIT).cia" size="529856" crc="8243faff" md5="550d6df3fa2bb727716d19859ea05a0f" sha1="d93dfeef2163635067ff2616f56353754b6c854a"/>
+	</game>
+	<game name="Red Viper v0.9.4 (2024-04-28)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.4 (2024-04-28)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.4 (2024-04-28)(skyfloogle)(MIT).cia" size="548800" crc="8b338858" md5="afb91955129cc66bc6fd3a3065d90838" sha1="99c155e36226d1c286f3d802c63cbde0fa96e63e"/>
+	</game>
+	<game name="Red Viper v0.9.5 (2024-06-11)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.5 (2024-06-11)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.5 (2024-06-11)(skyfloogle)(MIT).cia" size="582080" crc="3013e9ee" md5="a2f569031f6c716d9543a4c9198c649c" sha1="d3edb071581f64aeaba207a0776904b589d2806a"/>
+	</game>
+	<game name="Red Viper v0.9.6 (2024-06-16)(skyfloogle)(MIT)">
+		<description>Red Viper v0.9.6 (2024-06-16)(skyfloogle)(MIT)</description>
+		<rom name="Red Viper v0.9.6 (2024-06-16)(skyfloogle)(MIT).cia" size="581568" crc="1cc133c0" md5="5d23439972f1ca7b1a0448851a717736" sha1="41199fd2aa1abca50e9a318856f0d0021de4c4cc"/>
+	</game>
+	<game name="STEPPER v1.7 (2023-09-15)(Bad Diode)">
+		<description>STEPPER v1.7 (2023-09-15)(Bad Diode)</description>
+		<rom name="STEPPER v1.7 (2023-09-15)(Bad Diode).cia" size="4678592" crc="aaffd95a" md5="7179b7e800db5a118825bd17088c40b8" sha1="ea86efdc18565f6ac99260c784e5349032659e87"/>
+	</game>
+	<game name="STEPPER v1.8 (2024-02-09)(Bad Diode)">
+		<description>STEPPER v1.8 (2024-02-09)(Bad Diode)</description>
+		<rom name="STEPPER v1.8 (2024-02-09)(Bad Diode).cia" size="4678592" crc="a107be64" md5="4ee8b980135df8f581b361fe741e2123" sha1="f30f62d1c45ed859b1552de6cd241a6228d82a79"/>
 	</game>
 </datafile>

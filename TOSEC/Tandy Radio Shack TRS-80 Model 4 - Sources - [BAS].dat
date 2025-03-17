@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Sources - [BAS]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Sources - [BAS] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="4P Boot ROM Disassembled (19xx)(Adam Rubin)[BAS]">
+		<description>4P Boot ROM Disassembled (19xx)(Adam Rubin)[BAS]</description>
+		<rom name="BOOTROM.TXT" size="14341" crc="ae546553" md5="e03cd8afe5cc34fd118f3dc4afe58269" sha1="1136d77a3b29864152430ef92114afd84b5a51f7"/>
+		<rom name="COMBINE.BAS" size="1837" crc="5c0ba2ba" md5="ded031dafc2857484b76482f8693666c" sha1="a7f65c41e4ed42af5cbdf0ee78128df8279f5f14"/>
+		<rom name="GETROM.ASM" size="836" crc="af205f28" md5="fb5316adf44e97909c098cf33c811b76" sha1="63b302685d181bf42eb977c3072c0dadb051785c"/>
+		<rom name="GETROM.CMD" size="101" crc="58663b76" md5="751b47c69d00a4a997ffcb44a74788d4" sha1="3c5b316ff7b743bf436056e96bff67ba95a3b55d"/>
+		<rom name="ROM115.SCN" size="810" crc="afccc353" md5="603a1f09f3241599c02c1ceb7070a9e8" sha1="03966bc1dd9c9b8a05168ebf20a405b7e47f972b"/>
+		<rom name="ROM116.SCN" size="819" crc="87a39e70" md5="31460a6497f8b03e00cf882d263cd747" sha1="d32ae6f6cb8e8bd4915370f68352d56079cb25c5"/>
+		<rom name="ROM4P.CMT" size="49830" crc="ac870c4f" md5="784c581187cb1694c7e51ac27b8b1014" sha1="868378634b76ec964d1881a7b91451ec65a6e82d"/>
+		<rom name="ROMFILES.TXT" size="4779" crc="6cb27307" md5="5a0640030195099b70514847fb82ce46" sha1="ccbd818653868e079aa8f2bd68e2b4c3b73121ac"/>
+	</game>
+</datafile>

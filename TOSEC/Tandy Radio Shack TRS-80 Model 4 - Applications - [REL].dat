@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [REL]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [REL] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pro-MC Fix Patch (19xx)(Frank Slinkman)">
+		<description>Pro-MC Fix Patch (19xx)(Frank Slinkman)</description>
+		<rom name="FDFIX.ASM" size="1027" crc="9992bd5a" md5="52966ca1a59a6ada4e8dd91a6a60a27b" sha1="76b5e97dfe5e6002b17333bc7b67daff16da0cfa"/>
+		<rom name="FDFIX.REL" size="202" crc="b8c0ff9f" md5="948f9881c7ac9201d2f4e26ebfd049c2" sha1="b19e7bf776170e65d74cf09e56b05498a1ee6cc0"/>
+		<rom name="README.TXT" size="3137" crc="48d2d768" md5="02d9feb18f426422b42e76cde1a85a22" sha1="20575dd68adb49f2d6a6fe093acfbee0b1509abc"/>
+		<rom name="ROUND.REL" size="208" crc="91cf8171" md5="e6802657ab17d4a737beb919010dd36c" sha1="da5c382615377a623117d9fcab4fa7dc2a432f76"/>
+	</game>
+	<game name="Pro-MC High-Res Graphics Library (19xx)(Frank Slinkman)">
+		<description>Pro-MC High-Res Graphics Library (19xx)(Frank Slinkman)</description>
+		<rom name="GFXCHAR.CCC" size="14981" crc="35bf55a0" md5="7f7050c35ed90020107de7578642fe8f" sha1="cca6dcc99a0c806a0f0dc81aef96c5bd619fbe87"/>
+		<rom name="GFXCHAR.REL" size="3005" crc="ad15353d" md5="41c4831b44a0ba877c3e165f3cd84d5d" sha1="29784997764a361bbcf26de51f93aa80e2db498b"/>
+		<rom name="TCHAR.CCC" size="571" crc="88d9ebcd" md5="4b3dc3b2ceb3246aa2c23d3f3099ffba" sha1="d849da337d84c158031a35377886d58b79763bee"/>
+		<rom name="TCHAR.CMD" size="7238" crc="76cb886f" md5="4375d5e37b0c0812758dbdfbc0de060a" sha1="a3e9ee3082bc9f6275789e97d6d929466537adbb"/>
+	</game>
+</datafile>

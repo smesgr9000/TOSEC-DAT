@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "Restaurant Empire (2003)(Enlight Software).bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Racing - [PRG]</name>
-		<description>Commodore C64 - Games - Racing - [PRG] (TOSEC-v2024-03-12)</description>
+		<description>Commodore C64 - Games - Racing - [PRG] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2024-03-12</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -564,9 +564,9 @@
 		<description>Buggy Boy (1990)(Elite)[cr TWB][t +1 TPI][o]</description>
 		<rom name="Buggy Boy (1990)(Elite)[cr TWB][t +1 TPI][o].prg" size="48379" crc="6b415e72" md5="d8c4d153ffa62e2d69e322c339cc86e0" sha1="46f655449ce0dca2c532c59cc3ce9e50ebb6095f"/>
 	</game>
-	<game name="Bulldozer (1986)(Karlheinz Herpel)(de)">
-		<description>Bulldozer (1986)(Karlheinz Herpel)(de)</description>
-		<rom name="Bulldozer (1986)(Karlheinz Herpel)(de).prg" size="3421" crc="6f59c780" md5="b26f1f14abeef721db128f6d201e3951" sha1="b0843e590e58b1f3661b6277d920a9ab7fb2e08c"/>
+	<game name="Bulldozer (1986)(Herpel, Karlheinz)(de)">
+		<description>Bulldozer (1986)(Herpel, Karlheinz)(de)</description>
+		<rom name="Bulldozer (1986)(Herpel, Karlheinz)(de).prg" size="3421" crc="6f59c780" md5="b26f1f14abeef721db128f6d201e3951" sha1="b0843e590e58b1f3661b6277d920a9ab7fb2e08c"/>
 	</game>
 	<game name="Bumping Buggies (1984)(Bubble Bus)">
 		<description>Bumping Buggies (1984)(Bubble Bus)</description>
@@ -719,6 +719,10 @@
 	<game name="Carnage (1993)(Zeppelin Games)[cr Triad]">
 		<description>Carnage (1993)(Zeppelin Games)[cr Triad]</description>
 		<rom name="Carnage (1993)(Zeppelin Games)[cr Triad].prg" size="27990" crc="6af231ae" md5="375a59041f2367aaf630dfad6693031a" sha1="2012bfdd1ba42bccc61d6f49a5af10791cb42ce0"/>
+	</game>
+	<game name="Carnage (1993)(Zeppelin Games)[cr WOW][t +9]">
+		<description>Carnage (1993)(Zeppelin Games)[cr WOW][t +9]</description>
+		<rom name="Carnage (1993)(Zeppelin Games)[cr WOW][t +9].prg" size="37529" crc="c80d7e68" md5="7b8508dbf2c949b09afd6cd117f32c59" sha1="e2313e9e1d4f096d8717172e5dcd2f1874f38ca0"/>
 	</game>
 	<game name="Car-Race (1983)(Courbois)(nl)">
 		<description>Car-Race (1983)(Courbois)(nl)</description>
@@ -1036,9 +1040,9 @@
 		<description>Death Race 64 (1987)(Atlantis)[cr HTL][t +2 HTL]</description>
 		<rom name="Death Race 64 (1987)(Atlantis)[cr HTL][t +2 HTL].prg" size="27181" crc="e2327703" md5="2d1bc8940864835f46b4a320ab125237" sha1="2638545accf1a5b673c05519b673d82549bdeffc"/>
 	</game>
-	<game name="Demon Dozer (1984)(Horwood, Ellis)">
-		<description>Demon Dozer (1984)(Horwood, Ellis)</description>
-		<rom name="Demon Dozer (1984)(Horwood, Ellis).prg" size="2902" crc="d1af4119" md5="7872f5180b4c910c84c633587a60e346" sha1="4377a6d3c88a6af03e33c74d17e9849ba4b9ccd6"/>
+	<game name="Demon Dozer (1984)(Ellis Horwood)">
+		<description>Demon Dozer (1984)(Ellis Horwood)</description>
+		<rom name="Demon Dozer (1984)(Ellis Horwood).prg" size="2902" crc="d1af4119" md5="7872f5180b4c910c84c633587a60e346" sha1="4377a6d3c88a6af03e33c74d17e9849ba4b9ccd6"/>
 	</game>
 	<game name="Descent into Chaos (1983)(Addison-Wesley Publishers)">
 		<description>Descent into Chaos (1983)(Addison-Wesley Publishers)</description>
@@ -1335,6 +1339,10 @@
 	<game name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL]">
 		<description>Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL]</description>
 		<rom name="Fast Tracks - Tokio Race (1989)(CP Verlag)[cr HTL].prg" size="29679" crc="fc3371a3" md5="cfec4be8fbfaad1ade4a0bd71beb6290" sha1="4511103678cab3c33cc10e6d6aef67a4e89a042a"/>
+	</game>
+	<game name="Fast Tracks (1985)(Activision)[cr Kangaroo]">
+		<description>Fast Tracks (1985)(Activision)[cr Kangaroo]</description>
+		<rom name="Fast Tracks (1985)(Activision)[cr Kangaroo].prg" size="43127" crc="71c43dee" md5="4dcf2d3cbc331dddcecd7dc4239f800f" sha1="a238174c0cfc872d5c93ef5f81cddbc0fbb55145"/>
 	</game>
 	<game name="Fisco 200 (19xx)(-)">
 		<description>Fisco 200 (19xx)(-)</description>
@@ -1792,10 +1800,6 @@
 		<description>Krazy Kar (1984)(IJK Software)[h S8]</description>
 		<rom name="Krazy Kar (1984)(IJK Software)[h S8].prg" size="26518" crc="d90aa8ff" md5="020fc48f2ac9a61a87e3e1967981cab4" sha1="a66924d3f1ce5724e27d627d97b47c5c897e3ac1"/>
 	</game>
-	<game name="L.E.D. Storm (1989)(Capcom - Go!)">
-		<description>L.E.D. Storm (1989)(Capcom - Go!)</description>
-		<rom name="L.E.D. Storm (1989)(Capcom - Go!).prg" size="48489" crc="d7126da0" md5="7de59a5ec407da61b470250f3675e0bc" sha1="7112aad50e62d9a8c2f2b1dfe39febef619b01ab"/>
-	</game>
 	<game name="Laps (1987)(Ahoy!-Ion International)">
 		<description>Laps (1987)(Ahoy!-Ion International)</description>
 		<rom name="Laps (1987)(Ahoy!-Ion International).prg" size="8345" crc="2e93e167" md5="28e2845a8f4f8efaf267d031a2b634b2" sha1="9dbba1ae7bdd94d99b7913f839c0960636d9f774"/>
@@ -1864,13 +1868,17 @@
 		<description>Le Mans Grand Prix Simulator (19xx)(Dierks, Jörg)[cr Army]</description>
 		<rom name="Le Mans Grand Prix Simulator (19xx)(Dierks, Jörg)[cr Army].prg" size="38181" crc="f358ee64" md5="710dc5f6f26d70cf623015d8369c528e" sha1="da70a461dfe52aa357f229ccfeb99a8839050688"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr HTL][t +1 HTL]">
-		<description>LED Storm (1989)(Go!)[cr HTL][t +1 HTL]</description>
-		<rom name="LED Storm (1989)(Go!)[cr HTL][t +1 HTL].prg" size="41872" crc="52054c81" md5="2a2df8d048e474a5172e94390e456770" sha1="725dad02e3a52a10782bfca771e6b985ec48579b"/>
+	<game name="LED Storm (1989)(Capcom - Go!)">
+		<description>LED Storm (1989)(Capcom - Go!)</description>
+		<rom name="LED Storm (1989)(Capcom - Go!).prg" size="48489" crc="d7126da0" md5="7de59a5ec407da61b470250f3675e0bc" sha1="7112aad50e62d9a8c2f2b1dfe39febef619b01ab"/>
 	</game>
-	<game name="LED Storm (1989)(Go!)[cr Nato+XDS]">
-		<description>LED Storm (1989)(Go!)[cr Nato+XDS]</description>
-		<rom name="LED Storm (1989)(Go!)[cr Nato+XDS].prg" size="49263" crc="1a70fb9e" md5="e7784c583cc48a4300bce87c0fd00cd9" sha1="72935fdd0dc9cd4f5ad27bfb9f5503a2a189f456"/>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr HTL][t +1 HTL]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr HTL][t +1 HTL]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr HTL][t +1 HTL].prg" size="41872" crc="52054c81" md5="2a2df8d048e474a5172e94390e456770" sha1="725dad02e3a52a10782bfca771e6b985ec48579b"/>
+	</game>
+	<game name="LED Storm (1989)(Capcom - Go!)[cr Nato+XDS]">
+		<description>LED Storm (1989)(Capcom - Go!)[cr Nato+XDS]</description>
+		<rom name="LED Storm (1989)(Capcom - Go!)[cr Nato+XDS].prg" size="49263" crc="1a70fb9e" md5="e7784c583cc48a4300bce87c0fd00cd9" sha1="72935fdd0dc9cd4f5ad27bfb9f5503a2a189f456"/>
 	</game>
 	<game name="Lotus (demo) (1990)(Gremlin)[cr ILS]">
 		<description>Lotus (demo) (1990)(Gremlin)[cr ILS]</description>

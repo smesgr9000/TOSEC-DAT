@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Applications - [PRG]</name>
-		<description>Commodore C64 - Applications - [PRG] (TOSEC-v2024-04-12)</description>
+		<description>Commodore C64 - Applications - [PRG] (TOSEC-v2025-01-10)</description>
 		<category>TOSEC</category>
-		<version>2024-04-12</version>
+		<version>2025-01-10</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -99,6 +99,10 @@
 	<game name="15 Times Turbo (19xx)(Odyssey)">
 		<description>15 Times Turbo (19xx)(Odyssey)</description>
 		<rom name="15 Times Turbo (19xx)(Odyssey).prg" size="2213" crc="bed529ca" md5="7526bfc84abd361bae14352f62c92759" sha1="f07e47f11e2dd2f4f205e3e95697eb0811021884"/>
+	</game>
+	<game name="1530 Tapespeed Measurement (2022)(Derogee)">
+		<description>1530 Tapespeed Measurement (2022)(Derogee)</description>
+		<rom name="1530 Tapespeed Measurement (2022)(Derogee).prg" size="31698" crc="d20128ff" md5="ebaf79cc704a46829a0b9be25c483a47" sha1="d2572d9229d2131f60a4181fe5660ccd6a3c2531"/>
 	</game>
 	<game name="1541 Allignment (1984)(Antiram)">
 		<description>1541 Allignment (1984)(Antiram)</description>
@@ -1424,9 +1428,9 @@
 		<description>Astral Notemaker v1.0 (1991-12-11)(Astral)</description>
 		<rom name="Astral Notemaker v1.0 (1991-12-11)(Astral).prg" size="9316" crc="2bbb314f" md5="f3f00a89eb21a6b71fe5b8fa839efac0" sha1="f1014264166b406bee3ea6df198ca6b4c69cda8e"/>
 	</game>
-	<game name="Atari Calculator CX8102 (2013-07-12)(Norbert Kehrer)">
-		<description>Atari Calculator CX8102 (2013-07-12)(Norbert Kehrer)</description>
-		<rom name="Atari Calculator CX8102 (2013-07-12)(Norbert Kehrer).prg" size="24578" crc="b4386b04" md5="6ba404e769a0dbb702598691d1f79721" sha1="9286abe4d394e100f2b67debf713d0b77be6ac2a"/>
+	<game name="Atari Calculator CX8102 (2013-07-12)(Kehrer, Norbert)">
+		<description>Atari Calculator CX8102 (2013-07-12)(Kehrer, Norbert)</description>
+		<rom name="Atari Calculator CX8102 (2013-07-12)(Kehrer, Norbert).prg" size="24578" crc="b4386b04" md5="6ba404e769a0dbb702598691d1f79721" sha1="9286abe4d394e100f2b67debf713d0b77be6ac2a"/>
 	</game>
 	<game name="ATG Message Maker (1989)(ATG)">
 		<description>ATG Message Maker (1989)(ATG)</description>
@@ -1667,6 +1671,10 @@
 	<game name="BB Menu Maker (19xx)(-)">
 		<description>BB Menu Maker (19xx)(-)</description>
 		<rom name="BB Menu Maker (19xx)(-).prg" size="4795" crc="636e40c1" md5="57c6ab289572a32c72d171e520bb214f" sha1="12cb137a6d41a330f8091d84f2e2f8ae906f5236"/>
+	</game>
+	<game name="BB6 Dumper (2023-06-19)(Vulture Design)[black box 6]">
+		<description>BB6 Dumper (2023-06-19)(Vulture Design)[black box 6]</description>
+		<rom name="BB6 Dumper (2023-06-19)(Vulture Design)[black box 6].prg" size="68" crc="32fe4afd" md5="c4c26a39a09f45465048a1c558c14d7a" sha1="7af72509039a70a42618013b555059b149a15e9e"/>
 	</game>
 	<game name="BB8 Dumper (2023-06-13)(Vulture Design)[Black Box 8]">
 		<description>BB8 Dumper (2023-06-13)(Vulture Design)[Black Box 8]</description>
@@ -2148,6 +2156,10 @@
 		<description>Buggy (1979)(Finzer, Bill)[BASIC]</description>
 		<rom name="Buggy (1979)(Finzer, Bill)[BASIC].prg" size="6549" crc="55744936" md5="18d5a1242a05a5a19fd07228cf6ece8e" sha1="e4c70ec57b3dc8bb81a4d0a549ff030bb30463b4"/>
 	</game>
+	<game name="Burana Font Editor V1.1 (2001)(Eeben, Aleksi)">
+		<description>Burana Font Editor V1.1 (2001)(Eeben, Aleksi)</description>
+		<rom name="Burana Font Editor V1.1 (2001)(Eeben, Aleksi).prg" size="3166" crc="4e77c7d4" md5="171282e1cf4b4d13dbe64b4ebbc992c7" sha1="1a70d234bb6598b1a6bc648063a10669c9610683"/>
+	</game>
 	<game name="Burny v1.0 (1987-09-12)(German Spreading Service)">
 		<description>Burny v1.0 (1987-09-12)(German Spreading Service)</description>
 		<rom name="Burny v1.0 (1987-09-12)(German Spreading Service).prg" size="12720" crc="efdfedc1" md5="03a517e22a89448162f78e122ed67bea" sha1="d0483de703fe29ade021221c5776cb168a53b5a3"/>
@@ -2472,6 +2484,10 @@
 		<description>CBase v3.0 Modder (1992)(Fairlight)</description>
 		<rom name="CBase v3.0 Modder (1992)(Fairlight).prg" size="5760" crc="8fe5d4cf" md5="f603382651985ed8ea48a1e9278ca709" sha1="d8d54d34406fdead9a796bf65e4077ec3214c8e6"/>
 	</game>
+	<game name="CBM Filebrowser V1.6 11x Turbo Pi1541 Edition (2022-09-25)(DeeKay - TSM)(Side A)">
+		<description>CBM Filebrowser V1.6 11x Turbo Pi1541 Edition (2022-09-25)(DeeKay - TSM)(Side A)</description>
+		<rom name="CBM Filebrowser V1.6 11x Turbo Pi1541 Edition (2022-09-25)(DeeKay - TSM)(Side A).prg" size="3661" crc="dc0f2a14" md5="6f5b1e320e984c089064c60ed74107e1" sha1="cca450d8ab8bbcf87688a3ada51f62430ffed836"/>
+	</game>
 	<game name="CBM Sequential File Printer (1995)(Klitzing, Jim)">
 		<description>CBM Sequential File Printer (1995)(Klitzing, Jim)</description>
 		<rom name="CBM Sequential File Printer (1995)(Klitzing, Jim).prg" size="705" crc="3e72e81e" md5="53a25fc9a52cd0ff1049dc5a982c80c3" sha1="943183f9339d83f6d1b1195c01149c0a0c30a9e7"/>
@@ -2500,13 +2516,13 @@
 		<description>CC Generator (1995)(Onslaught)</description>
 		<rom name="CC Generator (1995)(Onslaught).prg" size="767" crc="e833725b" md5="fe1699a437d935309f89a5cb6da75d33" sha1="1ba50877fe053e50d152406baa28a4e5a60db47c"/>
 	</game>
-	<game name="CC64 C Compiler v0.4 (1995)(Philip Zembrod)">
-		<description>CC64 C Compiler v0.4 (1995)(Philip Zembrod)</description>
-		<rom name="CC64 C Compiler v0.4 (1995)(Philip Zembrod).prg" size="37313" crc="9daa8891" md5="1051ac9d1bfefada4fbe9b90278f9b8a" sha1="708fcfdf3dd4c26d57613496145257f7e9e08067"/>
+	<game name="CC64 C Compiler v0.4 (1995)(Zembrod, Philip)">
+		<description>CC64 C Compiler v0.4 (1995)(Zembrod, Philip)</description>
+		<rom name="CC64 C Compiler v0.4 (1995)(Zembrod, Philip).prg" size="37313" crc="9daa8891" md5="1051ac9d1bfefada4fbe9b90278f9b8a" sha1="708fcfdf3dd4c26d57613496145257f7e9e08067"/>
 	</game>
-	<game name="CC64 C Compiler v0.4 (1995)(Philip Zembrod)[a]">
-		<description>CC64 C Compiler v0.4 (1995)(Philip Zembrod)[a]</description>
-		<rom name="CC64 C Compiler v0.4 (1995)(Philip Zembrod)[a].prg" size="33548" crc="d14aba91" md5="28f8c21c9e0d15d3a6d508bceef17217" sha1="119637eebb50af148b1a3bc2142408dda361ac35"/>
+	<game name="CC64 C Compiler v0.4 (1995)(Zembrod, Philip)[a]">
+		<description>CC64 C Compiler v0.4 (1995)(Zembrod, Philip)[a]</description>
+		<rom name="CC64 C Compiler v0.4 (1995)(Zembrod, Philip)[a].prg" size="33548" crc="d14aba91" md5="28f8c21c9e0d15d3a6d508bceef17217" sha1="119637eebb50af148b1a3bc2142408dda361ac35"/>
 	</game>
 	<game name="CCGMS V7.5 ++ (1989-06-03)(DOA - Federal Cracking Crew - Solar)">
 		<description>CCGMS V7.5 ++ (1989-06-03)(DOA - Federal Cracking Crew - Solar)</description>
@@ -2576,6 +2592,10 @@
 		<description>Century-Messager (1990-05-13)(Century)</description>
 		<rom name="Century-Messager (1990-05-13)(Century).prg" size="12227" crc="13504e51" md5="714ea028ae27d9282cf1ba3bfd00da2f" sha1="e564487c32f074474bae3a5e58e58ab6e2b31398"/>
 	</game>
+	<game name="CFG Turbo V1.1 (19xx)(Cracking Force Germany)">
+		<description>CFG Turbo V1.1 (19xx)(Cracking Force Germany)</description>
+		<rom name="CFG Turbo V1.1 (19xx)(Cracking Force Germany).prg" size="1244" crc="5152978f" md5="035f787cc39bbdcc11d2ca0050624bd3" sha1="e050c8cc7bf083ec32970ee66f3cac24d4e7d283"/>
+	</game>
 	<game name="CFLI Designer v1.0 (1991)(Chromance)">
 		<description>CFLI Designer v1.0 (1991)(Chromance)</description>
 		<rom name="CFLI Designer v1.0 (1991)(Chromance).prg" size="4396" crc="1843e4b2" md5="77417e4ff6c6e95de1519bebe3f7e835" sha1="0007e5f8ac8cdd4b7b5ac5df2d9d67585056fbc1"/>
@@ -2639,6 +2659,10 @@
 	<game name="Char Expander v1.0 (19xx)(Klaus Leopold)">
 		<description>Char Expander v1.0 (19xx)(Klaus Leopold)</description>
 		<rom name="Char Expander v1.0 (19xx)(Klaus Leopold).prg" size="1849" crc="5be1f4dd" md5="59c915865cfeb4e3bae5cb4181ce3444" sha1="118fd2a9a6bd68c0e853c7b6e303215e4751981d"/>
+	</game>
+	<game name="Char Zoomer V1.0 (1987)(Alpha Flight - International Cracking Union)">
+		<description>Char Zoomer V1.0 (1987)(Alpha Flight - International Cracking Union)</description>
+		<rom name="Char Zoomer V1.0 (1987)(Alpha Flight - International Cracking Union).prg" size="2060" crc="b64e0fb1" md5="188481f0f5f550fd25e6d885a721dd2b" sha1="0d0d74798d8cb705c9ca7409b8aaad360956b5b5"/>
 	</game>
 	<game name="Character Editor (1988-09)(Abnormal)(de)">
 		<description>Character Editor (1988-09)(Abnormal)(de)</description>
@@ -2800,6 +2824,10 @@
 		<description>Chip Monitor (19xx)(-)[BASIC]</description>
 		<rom name="Chip Monitor (19xx)(-)[BASIC].prg" size="18328" crc="a67c340f" md5="73d74c9f5e71166bccd34892eb1a4b59" sha1="5a9d6ab4b61c7336559dc77bf48742e531c4866b"/>
 	</game>
+	<game name="Chipmon (1985-06-21)(2121)">
+		<description>Chipmon (1985-06-21)(2121)</description>
+		<rom name="Chipmon (1985-06-21)(2121).prg" size="4386" crc="dc64a59f" md5="8f1bd072a4cb09ff56405b2a7300d43b" sha1="40cacdf9ceddff19c03893b77fd0b83318508d51"/>
+	</game>
 	<game name="Chubrocker v3.1a (1995)(Onslaught)">
 		<description>Chubrocker v3.1a (1995)(Onslaught)</description>
 		<rom name="Chubrocker v3.1a (1995)(Onslaught).prg" size="23770" crc="f3ecda88" md5="9d252c52e6ec30cc46fc6c281b70cb4d" sha1="11595ebb0addf53da14c761a319c67cb0008c198"/>
@@ -2819,6 +2847,10 @@
 	<game name="CIAdiag (2014-11-25)(Data)">
 		<description>CIAdiag (2014-11-25)(Data)</description>
 		<rom name="CIAdiag (2014-11-25)(Data).prg" size="2927" crc="e1ab7eff" md5="22944b54a6d5d870cb8a727549b3c301" sha1="5ae213c000fa1f77d8a12d9b33c058b202b96606"/>
+	</game>
+	<game name="CIAdiag 2023 (2023-10-17)(Data)">
+		<description>CIAdiag 2023 (2023-10-17)(Data)</description>
+		<rom name="CIAdiag 2023 (2023-10-17)(Data).prg" size="4367" crc="a0584e82" md5="660de8a9c7a7595dd5ea298fd86de90c" sha1="8b171af2855c7b24a12b9258824df4533237e942"/>
 	</game>
 	<game name="Civitas-Intro #1 Tool (1997)(Civitas)">
 		<description>Civitas-Intro #1 Tool (1997)(Civitas)</description>
@@ -2904,6 +2936,10 @@
 		<description>Code-Sucker-Monitor (1991)(Padua)</description>
 		<rom name="Code-Sucker-Monitor (1991)(Padua).prg" size="7783" crc="b76f3238" md5="9e32d096bc2ef61bf7c412d8ed8ef13d" sha1="f20de71ebbfb06b410803dea84f41eda26b96a4c"/>
 	</game>
+	<game name="Codos Copy Card + SMON-REU (1993-04)(-)">
+		<description>Codos Copy Card + SMON-REU (1993-04)(-)</description>
+		<rom name="Codos Copy Card + SMON-REU (1993-04)(-).prg" size="8194" crc="7681eb98" md5="b57fd993a26034e497bf6b4d3b73ed6d" sha1="494b4375432f5f842ab36284b711a759c32eea85"/>
+	</game>
 	<game name="Color 80 (1983)(-)">
 		<description>Color 80 (1983)(-)</description>
 		<rom name="Color 80 (1983)(-).prg" size="6049" crc="e0c03e2d" md5="97a4e288169f70474e4aa0103f739fbe" sha1="8edaae5704ea966fecd58cc85c964a5e1920092a"/>
@@ -2980,13 +3016,13 @@
 		<description>Commie Writer II (1988)(Predator)[a]</description>
 		<rom name="Commie Writer II (1988)(Predator)[a].prg" size="26626" crc="00764d3a" md5="3d985d6a82669ebead513fcd0e2c5f3a" sha1="3d374d0b2687f53aa983fb8d1c48159cbf1552e9"/>
 	</game>
-	<game name="Commodore 64 Invisible Clock, The (1986)(Edward Carroll)">
-		<description>Commodore 64 Invisible Clock, The (1986)(Edward Carroll)</description>
-		<rom name="Commodore 64 Invisible Clock, The (1986)(Edward Carroll).prg" size="2721" crc="32b38844" md5="9f54af2c89913fb38182619866ab0bd9" sha1="ba2cb4fb4087df93a86b358e073780edd8e5313c"/>
+	<game name="Commodore 64 Invisible Clock, The (1986)(Carroll, Edward)">
+		<description>Commodore 64 Invisible Clock, The (1986)(Carroll, Edward)</description>
+		<rom name="Commodore 64 Invisible Clock, The (1986)(Carroll, Edward).prg" size="2721" crc="32b38844" md5="9f54af2c89913fb38182619866ab0bd9" sha1="ba2cb4fb4087df93a86b358e073780edd8e5313c"/>
 	</game>
-	<game name="Commodore 64 Invisible Clock, The (1986)(Edward Carroll)[a]">
-		<description>Commodore 64 Invisible Clock, The (1986)(Edward Carroll)[a]</description>
-		<rom name="Commodore 64 Invisible Clock, The (1986)(Edward Carroll)[a].prg" size="2721" crc="46c8191b" md5="9c4b7b690b2cf371535fb54ee4b3516d" sha1="dd05656df9b4bd926047c156ea5a73764704eba5"/>
+	<game name="Commodore 64 Invisible Clock, The (1986)(Carroll, Edward)[a]">
+		<description>Commodore 64 Invisible Clock, The (1986)(Carroll, Edward)[a]</description>
+		<rom name="Commodore 64 Invisible Clock, The (1986)(Carroll, Edward)[a].prg" size="2721" crc="46c8191b" md5="9c4b7b690b2cf371535fb54ee4b3516d" sha1="dd05656df9b4bd926047c156ea5a73764704eba5"/>
 	</game>
 	<game name="Commodore 64 LOGO (1982)(Terrapin Inc.)">
 		<description>Commodore 64 LOGO (1982)(Terrapin Inc.)</description>
@@ -3308,9 +3344,9 @@
 		<description>Crazy-Writer v1.03 (19xx)(By The Fall)</description>
 		<rom name="Crazy-Writer v1.03 (19xx)(By The Fall).prg" size="13791" crc="7d4feddf" md5="4356546cb1720061811d9d1d23a9b149" sha1="a0eef78679a61b2bd5b21abb347e40ebe2ad1bbb"/>
 	</game>
-	<game name="Creador de Sprites (19xx)(Gregg Barnett)(es)">
-		<description>Creador de Sprites (19xx)(Gregg Barnett)(es)</description>
-		<rom name="Creador de Sprites (19xx)(Gregg Barnett)(es).prg" size="1051" crc="5755fff8" md5="26e46ef97f173fdd558c647e0a4b7e6a" sha1="1d8107fdf877149994a5ca2957a0d5c991194df9"/>
+	<game name="Creador de Sprites (19xx)(Barnett, Gregg)(es)">
+		<description>Creador de Sprites (19xx)(Barnett, Gregg)(es)</description>
+		<rom name="Creador de Sprites (19xx)(Barnett, Gregg)(es).prg" size="1051" crc="5755fff8" md5="26e46ef97f173fdd558c647e0a4b7e6a" sha1="1d8107fdf877149994a5ca2957a0d5c991194df9"/>
 	</game>
 	<game name="Creatures Noter II v2.0 (1994-05)(Creatures)">
 		<description>Creatures Noter II v2.0 (1994-05)(Creatures)</description>
@@ -4120,13 +4156,13 @@
 		<description>Digi-Mix V1.0 (1995)(Tridam)</description>
 		<rom name="Digi-Mix V1.0 (1995)(Tridam).prg" size="4705" crc="0bc112dc" md5="ba068be372bbd4c4f9a0d930397fde40" sha1="c62e26d8703b2b0a55939cbc5a217f4ee4373848"/>
 	</game>
+	<game name="Digi-Player v3.1 (1990)(Dickenson, Mark A.)">
+		<description>Digi-Player v3.1 (1990)(Dickenson, Mark A.)</description>
+		<rom name="Digi-Player v3.1 (1990)(Dickenson, Mark A.).prg" size="8386" crc="f5879ae5" md5="04ead3c204498f9b1d74ddae405963c4" sha1="f335c92eb4724eb42197a965f46eadda9ab05b2c"/>
+	</game>
 	<game name="Digi-Player V3.1 (1990)(Dickenson, Mark)">
 		<description>Digi-Player V3.1 (1990)(Dickenson, Mark)</description>
 		<rom name="Digi-Player V3.1 (1990)(Dickenson, Mark).prg" size="9220" crc="153d5a67" md5="8ee6a39d795e25debf5cd90194ab0dc2" sha1="104ade52e0257fbe1f6b3448a35a22f3acc8d810"/>
-	</game>
-	<game name="Digi-Player v3.1 (1990)(Mark A. Dickenson)">
-		<description>Digi-Player v3.1 (1990)(Mark A. Dickenson)</description>
-		<rom name="Digi-Player v3.1 (1990)(Mark A. Dickenson).prg" size="8386" crc="f5879ae5" md5="04ead3c204498f9b1d74ddae405963c4" sha1="f335c92eb4724eb42197a965f46eadda9ab05b2c"/>
 	</game>
 	<game name="Digiripper v1.0 (1990)(Quality)">
 		<description>Digiripper v1.0 (1990)(Quality)</description>
@@ -4884,6 +4920,10 @@
 		<description>Double Fcopy B (1985)(Section 8)</description>
 		<rom name="Double Fcopy B (1985)(Section 8).prg" size="4029" crc="2eef7591" md5="bb924a4ca0804508236718f0ebd3ddb2" sha1="0622a772ca5b3cb99c205761c17a184ef6ffb8bf"/>
 	</game>
+	<game name="Double Fire Joystick Test (2024-06-21)(Arturo Dente)">
+		<description>Double Fire Joystick Test (2024-06-21)(Arturo Dente)</description>
+		<rom name="Double Fire Joystick Test (2024-06-21)(Arturo Dente).prg" size="9624" crc="15d759b8" md5="799ae5b980eded495b2427ed34ea9440" sha1="6083ad5764f1ba27e59b7b3ecf829c9bcb37a62f"/>
+	</game>
 	<game name="Double Scroll Linker (1987)(-)">
 		<description>Double Scroll Linker (1987)(-)</description>
 		<rom name="Double Scroll Linker (1987)(-).prg" size="13906" crc="f9592ad7" md5="10f6ca1d8c0696d9170c14a2c46e9c32" sha1="b234dda88f30d8f9acd175bbac047f5104a0fcce"/>
@@ -5104,6 +5144,10 @@
 		<description>Dwarfer v1.37 (1991-05-01)(Babygang)</description>
 		<rom name="Dwarfer v1.37 (1991-05-01)(Babygang).prg" size="11317" crc="e0cdd7fe" md5="301e4174f11458fc503e400dc4bd327b" sha1="f4d90d201a82dce7161a39ada401131df3c503a3"/>
 	</game>
+	<game name="dW&apos;s Bit Twiddler (2024-10-17)(TheFatman)">
+		<description>dW&apos;s Bit Twiddler (2024-10-17)(TheFatman)</description>
+		<rom name="dW&apos;s Bit Twiddler (2024-10-17)(TheFatman).prg" size="1170" crc="5f07dd1f" md5="2dd73c4d4abfa395a64c6857d0dc5dd0" sha1="04f4bb2db19520fd9c787e75a99f7789c690c113"/>
+	</game>
 	<game name="DYCP Char Maker v1.0 (19xx)(Intruders)">
 		<description>DYCP Char Maker v1.0 (19xx)(Intruders)</description>
 		<rom name="DYCP Char Maker v1.0 (19xx)(Intruders).prg" size="1793" crc="7afce708" md5="cdafe3f6ea22dea708b6e5011d03a3fd" sha1="12c9d8e36e59813758d033965a393ad6972b0870"/>
@@ -5171,6 +5215,10 @@
 	<game name="Easy Script (1983)(-)[cr HJD]">
 		<description>Easy Script (1983)(-)[cr HJD]</description>
 		<rom name="Easy Script (1983)(-)[cr HJD].prg" size="14150" crc="c73d029b" md5="b4ced4240c33d828efdb32955e3b3ea5" sha1="312f664022dcf353b7448918550ba98c84ae0ac5"/>
+	</game>
+	<game name="Easy Sudoku Solver (2019-12-02)(Rudi)(Side A)">
+		<description>Easy Sudoku Solver (2019-12-02)(Rudi)(Side A)</description>
+		<rom name="Easy Sudoku Solver (2019-12-02)(Rudi)(Side A).prg" size="6911" crc="6e6f3666" md5="93091e5e35392544d1c3b3b4b58c8e4c" sha1="4bafe83a585ae670f6b1f40fbe258a168c8558e2"/>
 	</game>
 	<game name="EasyFlash 3 USB Utilities v1.7 (2012-02-23)(Tom-Cat)">
 		<description>EasyFlash 3 USB Utilities v1.7 (2012-02-23)(Tom-Cat)</description>
@@ -5420,6 +5468,10 @@
 		<description>Erol&apos;s Reverse Level Packer (1998)(Hitmen)</description>
 		<rom name="Erol&apos;s Reverse Level Packer (1998)(Hitmen).prg" size="15224" crc="c748bc11" md5="caec72710abd911af1085b5890a7230b" sha1="63b50659e3c59983380eb1415d36ceda7fb59c93"/>
 	</game>
+	<game name="Errors (19xx)(-)">
+		<description>Errors (19xx)(-)</description>
+		<rom name="Errors (19xx)(-).prg" size="8999" crc="49df9097" md5="9f372954db97272612ca034e6e92bf08" sha1="ed10a3d5a6830ca8269a0e59981ad393669e856a"/>
+	</game>
 	<game name="ESCOS (1987-08-28)(1001 Crew)">
 		<description>ESCOS (1987-08-28)(1001 Crew)</description>
 		<rom name="ESCOS (1987-08-28)(1001 Crew).prg" size="6662" crc="3104a455" md5="7fdefd1cf111286550bf84f6c49be555" sha1="2a01893baefa6ef558a9d8075b0ded248cbdeb81"/>
@@ -5495,6 +5547,10 @@
 	<game name="Exile-Noter v1.2+ (1992-07-01)(Exile)">
 		<description>Exile-Noter v1.2+ (1992-07-01)(Exile)</description>
 		<rom name="Exile-Noter v1.2+ (1992-07-01)(Exile).prg" size="9283" crc="f5961eb1" md5="e7b22c390d3169e0c1b6a8c29f657e7f" sha1="c2ad6f5164d3db06c8778905f10a48d93b62b06a"/>
+	</game>
+	<game name="Ex-Mon $7000 ML Monitor (19xx)(-)">
+		<description>Ex-Mon $7000 ML Monitor (19xx)(-)</description>
+		<rom name="Ex-Mon $7000 ML Monitor (19xx)(-).prg" size="4098" crc="351ced40" md5="c8a000e0ff0bb363b63b4878144f1bfb" sha1="62003c70ccec32a9292940730dd32124b4f85955"/>
 	</game>
 	<game name="EX-OR Disk Copy V0.1 (1997)(EX-OR)">
 		<description>EX-OR Disk Copy V0.1 (1997)(EX-OR)</description>
@@ -6104,13 +6160,13 @@
 		<description>Fcopy Coitus (1984)(Tempelmann, Thomas)(de)[cr Cnacker]</description>
 		<rom name="Fcopy Coitus (1984)(Tempelmann, Thomas)(de)[cr Cnacker].prg" size="2977" crc="a19eba39" md5="a9ccd38fab77553fd8a0ee317592a1e7" sha1="2fdbf8827d1c8b634b4ee26ad04fe7b2bbe71bc8"/>
 	</game>
-	<game name="Fcopy v2.1 (1984)(Tempelmann, Thomas)(de)">
-		<description>Fcopy v2.1 (1984)(Tempelmann, Thomas)(de)</description>
-		<rom name="Fcopy v2.1 (1984)(Tempelmann, Thomas)(de).prg" size="2309" crc="f2472fba" md5="f2dd7ac7bcccf82812ae354d688ec73f" sha1="356252dab5352cfb7a21d6b37fd4698703c6d68f"/>
-	</game>
 	<game name="Fcopy v2.1 (1984)(Tempelmann, Thomas)(de)[cr Mad Max]">
 		<description>Fcopy v2.1 (1984)(Tempelmann, Thomas)(de)[cr Mad Max]</description>
 		<rom name="Fcopy v2.1 (1984)(Tempelmann, Thomas)(de)[cr Mad Max].prg" size="2532" crc="0abfe5f7" md5="9138d03ae403d013ee1e81efe61e72b7" sha1="e5fafdd0975c6ff775435c6f875372848b3a4ae6"/>
+	</game>
+	<game name="Fcopy v2.1 (1984-01)(Tempelmann, Thomas)(de)">
+		<description>Fcopy v2.1 (1984-01)(Tempelmann, Thomas)(de)</description>
+		<rom name="Fcopy v2.1 (1984-01)(Tempelmann, Thomas)(de).prg" size="2309" crc="f2472fba" md5="f2dd7ac7bcccf82812ae354d688ec73f" sha1="356252dab5352cfb7a21d6b37fd4698703c6d68f"/>
 	</game>
 	<game name="FCopy v2.1 (1984-01)(Tinasoft)">
 		<description>FCopy v2.1 (1984-01)(Tinasoft)</description>
@@ -6123,6 +6179,10 @@
 	<game name="Fcopy v2.9 (19xx)(Tempelmann, Thomas)(de)[h MST - The Orange]">
 		<description>Fcopy v2.9 (19xx)(Tempelmann, Thomas)(de)[h MST - The Orange]</description>
 		<rom name="Fcopy v2.9 (19xx)(Tempelmann, Thomas)(de)[h MST - The Orange].prg" size="4930" crc="169a007c" md5="2190714d1d3e3150e57b5181d6c20a2a" sha1="02245271e1e23ff06c4e68bfc7d406d9fcee3bfa"/>
+	</game>
+	<game name="FCopy V3.0 (1985)(Tempelmann, Thomas)">
+		<description>FCopy V3.0 (1985)(Tempelmann, Thomas)</description>
+		<rom name="FCopy V3.0 (1985)(Tempelmann, Thomas).prg" size="5492" crc="09d7d7bb" md5="511f1b392af7e52f8138d40747b49dc3" sha1="4ec7f5db867cb655529eb526dacc0ae2891f28e0"/>
 	</game>
 	<game name="FCopy v3.1 (19xx)(-)">
 		<description>FCopy v3.1 (19xx)(-)</description>
@@ -6876,6 +6936,10 @@
 		<description>Fuzby-Lode (19xx)(-)</description>
 		<rom name="Fuzby-Lode (19xx)(-).prg" size="964" crc="d97151c2" md5="5df5f31fc92c9f3d3c8c22b5be42d60c" sha1="74e392c39c5b577aea1bbe9b88fe4694da35c6d8"/>
 	</game>
+	<game name="FX Bitstreamer V1.0 (1990)(Somersault-Soft)">
+		<description>FX Bitstreamer V1.0 (1990)(Somersault-Soft)</description>
+		<rom name="FX Bitstreamer V1.0 (1990)(Somersault-Soft).prg" size="3834" crc="3d52b405" md5="a1f05c92c4a9d0fbeb5481951bae6401" sha1="95fb524b48f2f86c2126255c0404c6e58f80f149"/>
+	</game>
 	<game name="FX Bytepress, The v1.0 (1987-04-08)(The Paco Crew)">
 		<description>FX Bytepress, The v1.0 (1987-04-08)(The Paco Crew)</description>
 		<rom name="FX Bytepress, The v1.0 (1987-04-08)(The Paco Crew).prg" size="11985" crc="16f2319e" md5="9c5208b22c77e6b4e60d5f7aabd3747c" sha1="03b3f215cf134c348496cac6be8931a1becaeee5"/>
@@ -6891,6 +6955,14 @@
 	<game name="Galaxinus Creator v1.1 (1987-11)(Galaxy)">
 		<description>Galaxinus Creator v1.1 (1987-11)(Galaxy)</description>
 		<rom name="Galaxinus Creator v1.1 (1987-11)(Galaxy).prg" size="13349" crc="e03cd551" md5="1b60191589f0313b0577c41b2e59c9e6" sha1="8a52b982a31f4f43ab3ede73d6cf71fe95d5ae90"/>
+	</game>
+	<game name="Galencia V1.2 Trainer-Loader (2017-08-01)(Knight Rider)">
+		<description>Galencia V1.2 Trainer-Loader (2017-08-01)(Knight Rider)</description>
+		<rom name="Galencia V1.2 Trainer-Loader (2017-08-01)(Knight Rider).prg" size="256" crc="a908daa9" md5="a500dd8a8697e4b7449b0f4c79cc0686" sha1="809a5777f957725dd48b20ba02d7e44897af6342"/>
+	</game>
+	<game name="Galencia V1.4 Trainer-Loader (2017-08-27)(Formby Cracking Group)[hotfix]">
+		<description>Galencia V1.4 Trainer-Loader (2017-08-27)(Formby Cracking Group)[hotfix]</description>
+		<rom name="Galencia V1.4 Trainer-Loader (2017-08-27)(Formby Cracking Group)[hotfix].prg" size="752" crc="41efb8b3" md5="f859ca268bb02d40989e85ae6c429618" sha1="5c8f30013439b803be2c13e280ed882bf4b8e82c"/>
 	</game>
 	<game name="Galleon Compactor 3.9L (1988-08-05)(Sphinx)">
 		<description>Galleon Compactor 3.9L (1988-08-05)(Sphinx)</description>
@@ -6940,6 +7012,10 @@
 		<description>Game Graphic Designer, The (1990-10-30)(Softec)</description>
 		<rom name="Game Graphic Designer, The (1990-10-30)(Softec).prg" size="33822" crc="3ba25a1d" md5="bb964012759304e32291b2e0ceab9185" sha1="fa6d56d460b4da13ac0deada042df3e301c18a40"/>
 	</game>
+	<game name="Game of Life - Sprite Edition (2023-12-17)(Logiker)">
+		<description>Game of Life - Sprite Edition (2023-12-17)(Logiker)</description>
+		<rom name="Game of Life - Sprite Edition (2023-12-17)(Logiker).prg" size="4612" crc="f9710bce" md5="759b162a50903c9e29a4358475dc8d9d" sha1="ce390300b2a573ce24d93c1abee82be4667d1635"/>
+	</game>
 	<game name="Games-Trainer Kollosion (1985)(Section 8)">
 		<description>Games-Trainer Kollosion (1985)(Section 8)</description>
 		<rom name="Games-Trainer Kollosion (1985)(Section 8).prg" size="721" crc="6ed422d4" md5="fc80d8c82158c529fdbca862edf0b103" sha1="e2880ecde46157a585d203dc901d42c4e2a213f4"/>
@@ -6988,13 +7064,13 @@
 		<description>GEO-NEO- and BBGRAM-Test 512K v0.2 (2006-08-02)(-)</description>
 		<rom name="GEO-NEO- and BBGRAM-Test 512K v0.2 (2006-08-02)(-).prg" size="959" crc="92839253" md5="d1f187af9d4da8b43315b727dd9128e9" sha1="7b229d5c30d2b6b60b6d2b06e416c4deb64fd70a"/>
 	</game>
-	<game name="GeoPlayer V1.0 (2021-07-19)(Matteo Angelini)[georam]">
-		<description>GeoPlayer V1.0 (2021-07-19)(Matteo Angelini)[georam]</description>
-		<rom name="GeoPlayer V1.0 (2021-07-19)(Matteo Angelini)[georam].prg" size="12021" crc="ffe698a1" md5="5edb4992d7e56a3327851a6820499e26" sha1="5c7c6eab53727f7d9e7709736b4e90a5ece29e42"/>
+	<game name="GeoPlayer V1.0 (2021-07-19)(Angelini, Matteo)[georam]">
+		<description>GeoPlayer V1.0 (2021-07-19)(Angelini, Matteo)[georam]</description>
+		<rom name="GeoPlayer V1.0 (2021-07-19)(Angelini, Matteo)[georam].prg" size="12021" crc="ffe698a1" md5="5edb4992d7e56a3327851a6820499e26" sha1="5c7c6eab53727f7d9e7709736b4e90a5ece29e42"/>
 	</game>
-	<game name="GeoPlayer V1.1 (2021-07-26)(Matteo Angelini)[georam]">
-		<description>GeoPlayer V1.1 (2021-07-26)(Matteo Angelini)[georam]</description>
-		<rom name="GeoPlayer V1.1 (2021-07-26)(Matteo Angelini)[georam].prg" size="12114" crc="ac317d52" md5="798ae145c758e2cc43f1aa8572258577" sha1="d003789ca0a3f07eaf48586fda00d00b0fbd73de"/>
+	<game name="GeoPlayer V1.1 (2021-07-26)(Angelini, Matteo)[georam]">
+		<description>GeoPlayer V1.1 (2021-07-26)(Angelini, Matteo)[georam]</description>
+		<rom name="GeoPlayer V1.1 (2021-07-26)(Angelini, Matteo)[georam].prg" size="12114" crc="ac317d52" md5="798ae145c758e2cc43f1aa8572258577" sha1="d003789ca0a3f07eaf48586fda00d00b0fbd73de"/>
 	</game>
 	<game name="GeoPlayer V1.2 (2021-08-10)(Hokuto Force)[georam]">
 		<description>GeoPlayer V1.2 (2021-08-10)(Hokuto Force)[georam]</description>
@@ -7248,6 +7324,10 @@
 		<description>Greet-Sorter v1.1! (1992)(X-Rated)</description>
 		<rom name="Greet-Sorter v1.1! (1992)(X-Rated).prg" size="3184" crc="251a809a" md5="3c0c24dc049ea4ad97d3b6437f4f7e31" sha1="5083ce61ba5bc86a53356c099a30cc0a99433a66"/>
 	</game>
+	<game name="Grey Dots Test for VIC (2017-10)(ibex-crew)">
+		<description>Grey Dots Test for VIC (2017-10)(ibex-crew)</description>
+		<rom name="Grey Dots Test for VIC (2017-10)(ibex-crew).prg" size="611" crc="130f8764" md5="7ef790aa53c24ac44dcc57e8bdb87038" sha1="5a45f28ca5ad7fa974a9687788b20d0b00d36194"/>
+	</game>
 	<game name="Greynoter v1.1 (19xx)(The Mip Map Brothers)">
 		<description>Greynoter v1.1 (19xx)(The Mip Map Brothers)</description>
 		<rom name="Greynoter v1.1 (19xx)(The Mip Map Brothers).prg" size="9433" crc="81ea9040" md5="c943a77abce0ac4aeadacfbd4b1edd11" sha1="9c4d587cb9cc7d943e987edcb67c2b63b4a2b7b9"/>
@@ -7328,6 +7408,10 @@
 		<description>Gyroscope Construction Set (1986-04-01)(Don JP-Maffia)[a]</description>
 		<rom name="Gyroscope Construction Set (1986-04-01)(Don JP-Maffia)[a].prg" size="36640" crc="7f8f8b28" md5="75887d3185bb56b4f761ac7f72cbb075" sha1="a04a80b87445ee6ef154e75a2ac57332e39c863e"/>
 	</game>
+	<game name="HACC&apos;s Demo BBS (198x)(Weber, Barry)[BASIC]">
+		<description>HACC&apos;s Demo BBS (198x)(Weber, Barry)[BASIC]</description>
+		<rom name="HACC&apos;s Demo BBS (198x)(Weber, Barry)[BASIC].prg" size="7927" crc="6cf2c8ca" md5="447e166bd10c48dc8cd2b29640269349" sha1="98b902c72f092095afee0678347f3a2d82239477"/>
+	</game>
 	<game name="Hack It v1.8 (1995)(Hitmen)">
 		<description>Hack It v1.8 (1995)(Hitmen)</description>
 		<rom name="Hack It v1.8 (1995)(Hitmen).prg" size="4680" crc="2e614290" md5="adc0407845a351a42dbb9f39f4f60ee2" sha1="8ca725edcbe52e73fa8e05e6cb1b5e738c2bcd8a"/>
@@ -7403,6 +7487,10 @@
 	<game name="Happy Vorspann Editor (1987)(OrkoSoft_1987)">
 		<description>Happy Vorspann Editor (1987)(OrkoSoft_1987)</description>
 		<rom name="Happy Vorspann Editor (1987)(OrkoSoft_1987).prg" size="1934" crc="4034ab7e" md5="01f9583ffff5a9d599c90e0bb4c07b61" sha1="e1e16299b8ad4248e08f70a041a1af7beff31d9f"/>
+	</game>
+	<game name="Hard n heavy game patcher (2024-07-27)(MilaSoft)">
+		<description>Hard n heavy game patcher (2024-07-27)(MilaSoft)</description>
+		<rom name="Hard n heavy game patcher (2024-07-27)(MilaSoft).prg" size="1222" crc="f97f7b74" md5="11ab84a94c79984e6ab3d081aeb13681" sha1="c78b11ca2e277aa550019757b81738ac03fb9577"/>
 	</game>
 	<game name="Hardpacker v1 (1995-03-01)(Caution)">
 		<description>Hardpacker v1 (1995-03-01)(Caution)</description>
@@ -7503,6 +7591,10 @@
 	<game name="Hires - Editor (2001-02-20)(Angels)">
 		<description>Hires - Editor (2001-02-20)(Angels)</description>
 		<rom name="Hires - Editor (2001-02-20)(Angels).prg" size="4014" crc="1a77d21d" md5="8193b648392d6af2f3a228a679df61ca" sha1="44ea36675a07f5d1f1824bff4a4a55022085ce54"/>
+	</game>
+	<game name="Hires 801 (19xx)(Andromp Software Amersfoort)">
+		<description>Hires 801 (19xx)(Andromp Software Amersfoort)</description>
+		<rom name="Hires 801 (19xx)(Andromp Software Amersfoort).prg" size="3431" crc="eec9ad42" md5="3eef63fd9010bbbd7fbf301a2295e2bc" sha1="1c8fdf8f449deb5b50b494c16b9a0a0b01b77416"/>
 	</game>
 	<game name="Hi-Res Atari -- C64 Konwerter (1995)(Cross)">
 		<description>Hi-Res Atari -- C64 Konwerter (1995)(Cross)</description>
@@ -7652,17 +7744,17 @@
 		<description>Home Organizer Series - Inventory v1.1 (1984)(Batteries Included)</description>
 		<rom name="Home Organizer Series - Inventory v1.1 (1984)(Batteries Included).prg" size="12622" crc="5ce61254" md5="982c5d5efbb2668d5dc2bc2cbd56d813" sha1="09a0141feae628dad362b15230659c42bb82cb5c"/>
 	</game>
-	<game name="HP-35 Calculator Emulator (2014-11-17)(Norbert Kehrer)">
-		<description>HP-35 Calculator Emulator (2014-11-17)(Norbert Kehrer)</description>
-		<rom name="HP-35 Calculator Emulator (2014-11-17)(Norbert Kehrer).prg" size="8042" crc="0fccb77a" md5="0ffe8bd5d79da1c68480d1e3211cc068" sha1="dbbe4ee6a551221ae576b119f94c23c737f2626f"/>
+	<game name="HP-35 Calculator Emulator (2014-11-17)(Kehrer, Norbert)">
+		<description>HP-35 Calculator Emulator (2014-11-17)(Kehrer, Norbert)</description>
+		<rom name="HP-35 Calculator Emulator (2014-11-17)(Kehrer, Norbert).prg" size="8042" crc="0fccb77a" md5="0ffe8bd5d79da1c68480d1e3211cc068" sha1="dbbe4ee6a551221ae576b119f94c23c737f2626f"/>
 	</game>
-	<game name="HP-45 Calculator Emulator (2014-11-17)(Norbert Kehrer)">
-		<description>HP-45 Calculator Emulator (2014-11-17)(Norbert Kehrer)</description>
-		<rom name="HP-45 Calculator Emulator (2014-11-17)(Norbert Kehrer).prg" size="10557" crc="238ef8ca" md5="1aaeac6f4c13486051512d09b9291543" sha1="56a1ce121f1ba255ad1f179eb0d63666fe871de4"/>
+	<game name="HP-45 Calculator Emulator (2014-11-17)(Kehrer, Norbert)">
+		<description>HP-45 Calculator Emulator (2014-11-17)(Kehrer, Norbert)</description>
+		<rom name="HP-45 Calculator Emulator (2014-11-17)(Kehrer, Norbert).prg" size="10557" crc="238ef8ca" md5="1aaeac6f4c13486051512d09b9291543" sha1="56a1ce121f1ba255ad1f179eb0d63666fe871de4"/>
 	</game>
-	<game name="HP-80 Calculator Emulator (2014-11-17)(Norbert Kehrer)">
-		<description>HP-80 Calculator Emulator (2014-11-17)(Norbert Kehrer)</description>
-		<rom name="HP-80 Calculator Emulator (2014-11-17)(Norbert Kehrer).prg" size="10027" crc="c64e1fe7" md5="92f817bfcfb60e20824f6fb3b4526054" sha1="e7b99d21694240eafb6209db1f4dc6f5468cf504"/>
+	<game name="HP-80 Calculator Emulator (2014-11-17)(Kehrer, Norbert)">
+		<description>HP-80 Calculator Emulator (2014-11-17)(Kehrer, Norbert)</description>
+		<rom name="HP-80 Calculator Emulator (2014-11-17)(Kehrer, Norbert).prg" size="10027" crc="c64e1fe7" md5="92f817bfcfb60e20824f6fb3b4526054" sha1="e7b99d21694240eafb6209db1f4dc6f5468cf504"/>
 	</game>
 	<game name="Huffer V1.0 (19xx)(Fairlight)">
 		<description>Huffer V1.0 (19xx)(Fairlight)</description>
@@ -7787,6 +7879,10 @@
 	<game name="ID Changer V1.2 (19xx)(International Cracking Group Berlin)">
 		<description>ID Changer V1.2 (19xx)(International Cracking Group Berlin)</description>
 		<rom name="ID Changer V1.2 (19xx)(International Cracking Group Berlin).prg" size="1691" crc="4acd8e37" md5="df177f11449c58513d1ec3aa7b888eff" sha1="d2684ab88b4e9524cb69b35aa43b958fc5f07ea8"/>
+	</game>
+	<game name="IDE64 Sample CD player v2 (2004)(Singular)">
+		<description>IDE64 Sample CD player v2 (2004)(Singular)</description>
+		<rom name="IDE64 Sample CD player v2 (2004)(Singular).prg" size="2069" crc="140b4bea" md5="a8b29259dea0b22a70939468e9356b8f" sha1="d64a39a1178cee04a205b76aec362ce54c6ee248"/>
 	</game>
 	<game name="IDEA v2.0 (19xx)(D. Matt Corey)">
 		<description>IDEA v2.0 (19xx)(D. Matt Corey)</description>
@@ -8288,6 +8384,10 @@
 		<description>Joyride V1.5 (2021-01-16)(T&apos;Pau)</description>
 		<rom name="Joyride V1.5 (2021-01-16)(T&apos;Pau).prg" size="27264" crc="c7e1ba9f" md5="cf77ba0ba39f23fdb4a4c9731c83c1c0" sha1="4f92a3b55d7173a423f1491f43b644f202e0874c"/>
 	</game>
+	<game name="Joystick Test C64 (1986)(Harold Klink)">
+		<description>Joystick Test C64 (1986)(Harold Klink)</description>
+		<rom name="Joystick Test C64 (1986)(Harold Klink).prg" size="1418" crc="981fbaf4" md5="8f75c9938f749174123e06bd0fd7192d" sha1="cbc5d89d9b2cab53627b54b01e506cf92178b3c2"/>
+	</game>
 	<game name="Joystick-Tester for 4 Joysticks (2010-04-21)(Stonehead)">
 		<description>Joystick-Tester for 4 Joysticks (2010-04-21)(Stonehead)</description>
 		<rom name="Joystick-Tester for 4 Joysticks (2010-04-21)(Stonehead).prg" size="1281" crc="3c13b57a" md5="865d103ca6f44e277744bc20fefdfddd" sha1="c12e4cf5c3498c9c8870793303f467e40180d781"/>
@@ -8352,6 +8452,10 @@
 		<description>Kermit C64 v2.00 (19xx)(-)</description>
 		<rom name="Kermit C64 v2.00 (19xx)(-).prg" size="26880" crc="51d17ed1" md5="82a5261b1be563858c90f2cd40e86568" sha1="45b8ec1e8b55a0cee05f464e32f44351c4e50259"/>
 	</game>
+	<game name="Keyboard (19xx)(-)(pl)">
+		<description>Keyboard (19xx)(-)(pl)</description>
+		<rom name="Keyboard (19xx)(-)(pl).prg" size="2992" crc="4e56b32f" md5="472ca0bbe03d00d8a8135bb60fb4fa73" sha1="ff345f60d8c30a376ba45eee222b143468987046"/>
+	</game>
 	<game name="Keyboard IO Routine V2.5 (2013-08-06)(Creators)">
 		<description>Keyboard IO Routine V2.5 (2013-08-06)(Creators)</description>
 		<rom name="Keyboard IO Routine V2.5 (2013-08-06)(Creators).prg" size="3080" crc="5c53d1f5" md5="27f46a574641cff17f8a773c9ece8b47" sha1="34b78483f90141a17df082cf6b31ba09a43f68b5"/>
@@ -8367,6 +8471,10 @@
 	<game name="Key-Bytes (2022-07-26)(DeepCore)">
 		<description>Key-Bytes (2022-07-26)(DeepCore)</description>
 		<rom name="Key-Bytes (2022-07-26)(DeepCore).prg" size="1000" crc="36ec3f88" md5="7d08f6939560f7364d5e56c65c676ccb" sha1="820d63d20e686fa37a882c661a9d60f646f9b9dc"/>
+	</game>
+	<game name="Keymatrix 1.1 (2019-07-16)(Fairlight)">
+		<description>Keymatrix 1.1 (2019-07-16)(Fairlight)</description>
+		<rom name="Keymatrix 1.1 (2019-07-16)(Fairlight).prg" size="477" crc="eda45adc" md5="f2c01d41159c9e4a5567cbb440bb903b" sha1="3fde7d47e7d2af342ee2571abd738a693bedf814"/>
 	</game>
 	<game name="KFB Super VC 64 Toolkit + Monitor (19xx)(-)">
 		<description>KFB Super VC 64 Toolkit + Monitor (19xx)(-)</description>
@@ -8435,6 +8543,10 @@
 	<game name="Kill Your Stick (1992-12-07)(-)">
 		<description>Kill Your Stick (1992-12-07)(-)</description>
 		<rom name="Kill Your Stick (1992-12-07)(-).prg" size="21464" crc="1369872a" md5="ba8852a1b4ccfef2f4dac2d8c0a60dab" sha1="bd66aae10deabd1c95e627df2ad5cc6f9c45a6d0"/>
+	</game>
+	<game name="KIMplement V1.0 (2024-04-27)(Cameron Kaiser)">
+		<description>KIMplement V1.0 (2024-04-27)(Cameron Kaiser)</description>
+		<rom name="KIMplement V1.0 (2024-04-27)(Cameron Kaiser).prg" size="11453" crc="5b997ed1" md5="f4006adb6742aac1c995896ba36a9d89" sha1="609a236c32793b7b0c49abb9a95702c7aa956331"/>
 	</game>
 	<game name="King-A-Noter (1996)(Impact Laboratories)">
 		<description>King-A-Noter (1996)(Impact Laboratories)</description>
@@ -8512,9 +8624,9 @@
 		<description>Koala to FLI Graph Converter (1990)(Raiders of the Lost Empire)[a]</description>
 		<rom name="Koala to FLI Graph Converter (1990)(Raiders of the Lost Empire)[a].prg" size="10861" crc="7b080343" md5="bd2d98fc13e63ba40d138cf10150ad8a" sha1="5e25a97a627bf811d179512ea232ddd5a41000ba"/>
 	</game>
-	<game name="Koala to Hires (1985)(Brian Conrad)">
-		<description>Koala to Hires (1985)(Brian Conrad)</description>
-		<rom name="Koala to Hires (1985)(Brian Conrad).prg" size="1758" crc="94587646" md5="3f364267321c3c6c3b61d04896136ae8" sha1="f90cd9a774ca1ed3c20f34856c2878e66d93b610"/>
+	<game name="Koala to Hires (1985)(Conrad, Brian)">
+		<description>Koala to Hires (1985)(Conrad, Brian)</description>
+		<rom name="Koala to Hires (1985)(Conrad, Brian).prg" size="1758" crc="94587646" md5="3f364267321c3c6c3b61d04896136ae8" sha1="f90cd9a774ca1ed3c20f34856c2878e66d93b610"/>
 	</game>
 	<game name="Koala to Micro Painter (19xx)(Pain)">
 		<description>Koala to Micro Painter (19xx)(Pain)</description>
@@ -9496,9 +9608,9 @@
 		<description>Mandelbrot Generator V1.1 (1997)(Powerage)</description>
 		<rom name="Mandelbrot Generator V1.1 (1997)(Powerage).prg" size="16669" crc="ec92d8e4" md5="56e82ffcdbd511f04a417ed174b268a2" sha1="b50efc462ec661ca12bdf99e79c11ad43b0fb9c3"/>
 	</game>
-	<game name="MandelPrint (1991)(Dov Sherman)">
-		<description>MandelPrint (1991)(Dov Sherman)</description>
-		<rom name="MandelPrint (1991)(Dov Sherman).prg" size="6272" crc="3e4a4bd0" md5="1cd60e1f813bbf50d616ec35ab7d665a" sha1="f1cbc5c71f8095d0adc4f785a91571444b227bed"/>
+	<game name="MandelPrint (1991)(Sherman, Dov)">
+		<description>MandelPrint (1991)(Sherman, Dov)</description>
+		<rom name="MandelPrint (1991)(Sherman, Dov).prg" size="6272" crc="3e4a4bd0" md5="1cd60e1f813bbf50d616ec35ab7d665a" sha1="f1cbc5c71f8095d0adc4f785a91571444b227bed"/>
 	</game>
 	<game name="Map Designer V2 (1995-10)(Paradise)">
 		<description>Map Designer V2 (1995-10)(Paradise)</description>
@@ -9551,6 +9663,10 @@
 	<game name="Master Music Player v1.2 (1994-01-16)(-)">
 		<description>Master Music Player v1.2 (1994-01-16)(-)</description>
 		<rom name="Master Music Player v1.2 (1994-01-16)(-).prg" size="15316" crc="79dae521" md5="11fccda3de04991e162df8f670774043" sha1="0387185b21b0ad015652e29908bdfd241cae3a5a"/>
+	</game>
+	<game name="Master of Keyboard v1.0 (19xx)(Mr. Ballon &amp; Lepsi Developments)[cr Aldi]">
+		<description>Master of Keyboard v1.0 (19xx)(Mr. Ballon &amp; Lepsi Developments)[cr Aldi]</description>
+		<rom name="Master of Keyboard v1.0 (19xx)(Mr. Ballon &amp; Lepsi Developments)[cr Aldi].prg" size="9251" crc="62e1ff75" md5="64722cea2d278d79cad759b0f1fb0b89" sha1="d2da998728bb05ab7ef37c1a85339d4d1665a9a4"/>
 	</game>
 	<game name="Master Player V1.1 (1995)(Tridam)">
 		<description>Master Player V1.1 (1995)(Tridam)</description>
@@ -10172,13 +10288,13 @@
 		<description>Music Maker (1984)(Commodore)[a]</description>
 		<rom name="Music Maker (1984)(Commodore)[a].prg" size="3093" crc="8c324044" md5="2d3ebf4528819adccfbab51d596379e2" sha1="d717f651e9dd1828b7f446776b4ec42148fe2a0a"/>
 	</game>
-	<game name="Music Mieszcacz (1993)(Robert Skassa)">
-		<description>Music Mieszcacz (1993)(Robert Skassa)</description>
-		<rom name="Music Mieszcacz (1993)(Robert Skassa).prg" size="6775" crc="55cfe562" md5="eb4bcfba6ae535592e85ac12a17e4acb" sha1="5b8d59c5e1dc2d511d92a8062aabf255d9c6edbd"/>
+	<game name="Music Mieszcacz (1993)(Skassa, Robert)">
+		<description>Music Mieszcacz (1993)(Skassa, Robert)</description>
+		<rom name="Music Mieszcacz (1993)(Skassa, Robert).prg" size="6775" crc="55cfe562" md5="eb4bcfba6ae535592e85ac12a17e4acb" sha1="5b8d59c5e1dc2d511d92a8062aabf255d9c6edbd"/>
 	</game>
-	<game name="Music Mieszcacz (1993)(Robert Skassa)[a]">
-		<description>Music Mieszcacz (1993)(Robert Skassa)[a]</description>
-		<rom name="Music Mieszcacz (1993)(Robert Skassa)[a].prg" size="9795" crc="ccf5613e" md5="2ec55a28e220cfcef5644efe32669203" sha1="a6962f47cf6e21a70b81c1831e88877d0f8417be"/>
+	<game name="Music Mieszcacz (1993)(Skassa, Robert)[a]">
+		<description>Music Mieszcacz (1993)(Skassa, Robert)[a]</description>
+		<rom name="Music Mieszcacz (1993)(Skassa, Robert)[a].prg" size="9795" crc="ccf5613e" md5="2ec55a28e220cfcef5644efe32669203" sha1="a6962f47cf6e21a70b81c1831e88877d0f8417be"/>
 	</game>
 	<game name="Music Mixer v6.0 (1991)(Padua)">
 		<description>Music Mixer v6.0 (1991)(Padua)</description>
@@ -10324,9 +10440,9 @@
 		<description>Network 64 v1.26 (1987)(Lewit, Sam)</description>
 		<rom name="Network 64 v1.26 (1987)(Lewit, Sam).prg" size="50304" crc="a14e1b77" md5="3da84c240c97d099e09a404a36b2db8f" sha1="1a10e3cf62fdbd3e984b0c5c6047f87fe8d77522"/>
 	</game>
-	<game name="New Error Logger (19xx)(Jim Drew)">
-		<description>New Error Logger (19xx)(Jim Drew)</description>
-		<rom name="New Error Logger (19xx)(Jim Drew).prg" size="1973" crc="cdeeab46" md5="00671df64dc8d54d002c0df6d90cd8d0" sha1="9cb2ce298edee4cd32af4aefd1ea0e280838c2d8"/>
+	<game name="New Error Logger (19xx)(Drew, Jim)">
+		<description>New Error Logger (19xx)(Drew, Jim)</description>
+		<rom name="New Error Logger (19xx)(Drew, Jim).prg" size="1973" crc="cdeeab46" md5="00671df64dc8d54d002c0df6d90cd8d0" sha1="9cb2ce298edee4cd32af4aefd1ea0e280838c2d8"/>
 	</game>
 	<game name="New Serial-Floppy Speeder Standard, The (19xx)(The New Fashion &apos;77)">
 		<description>New Serial-Floppy Speeder Standard, The (19xx)(The New Fashion &apos;77)</description>
@@ -10936,9 +11052,9 @@
 		<description>PData v3.5 (1995-01)(Sharks)</description>
 		<rom name="PData v3.5 (1995-01)(Sharks).prg" size="39511" crc="604a24df" md5="8d3c8f3d4275d9e2b149dd2ad5e3c1ea" sha1="d59842b56d63440000266db81eb27f75d86e0172"/>
 	</game>
-	<game name="Peddi Text Editor v0.2 (1995)(Philip Zembrod)">
-		<description>Peddi Text Editor v0.2 (1995)(Philip Zembrod)</description>
-		<rom name="Peddi Text Editor v0.2 (1995)(Philip Zembrod).prg" size="19590" crc="f50e9c8c" md5="e64f9bba651c9d98434b7c870290d272" sha1="3a1b4591141c6a09ed5f65bb7fe5499ef79615c4"/>
+	<game name="Peddi Text Editor v0.2 (1995)(Zembrod, Philip)">
+		<description>Peddi Text Editor v0.2 (1995)(Zembrod, Philip)</description>
+		<rom name="Peddi Text Editor v0.2 (1995)(Zembrod, Philip).prg" size="19590" crc="f50e9c8c" md5="e64f9bba651c9d98434b7c870290d272" sha1="3a1b4591141c6a09ed5f65bb7fe5499ef79615c4"/>
 	</game>
 	<game name="Peeks (19xx)(-)">
 		<description>Peeks (19xx)(-)</description>
@@ -11348,9 +11464,9 @@
 		<description>PuZip.C64 V1.10 (2001-02-24)(Pasi Albert Ojala)</description>
 		<rom name="PuZip.C64 V1.10 (2001-02-24)(Pasi Albert Ojala).prg" size="4861" crc="0ba183b1" md5="8f39627bebe147407d656f5500195431" sha1="e431d4be49823aa10b2063b80311eb0633ace7a0"/>
 	</game>
-	<game name="PuZip.C64 V1.12 (2002-11-19)(-)">
-		<description>PuZip.C64 V1.12 (2002-11-19)(-)</description>
-		<rom name="PuZip.C64 V1.12 (2002-11-19)(-).prg" size="5323" crc="93d03174" md5="3b10aed6f07fe317ed029761b8f8cdf0" sha1="40c0219a050e78ce1b17262c995a61d393525a55"/>
+	<game name="PuZip.C64 V1.12 (2002-11-19)(Albert)">
+		<description>PuZip.C64 V1.12 (2002-11-19)(Albert)</description>
+		<rom name="PuZip.C64 V1.12 (2002-11-19)(Albert).prg" size="5323" crc="93d03174" md5="3b10aed6f07fe317ed029761b8f8cdf0" sha1="40c0219a050e78ce1b17262c995a61d393525a55"/>
 	</game>
 	<game name="PZW&apos;s Compactor (1987)(-)">
 		<description>PZW&apos;s Compactor (1987)(-)</description>
@@ -11636,6 +11752,10 @@
 		<description>Reliable PAL-NTSC-Detector (2000)(The Dreams)</description>
 		<rom name="Reliable PAL-NTSC-Detector (2000)(The Dreams).prg" size="234" crc="f6ef95f7" md5="30e808d1883135719b42e1fd738fe830" sha1="0b081be607b8fb29666183a41c14e16f0c9a1f56"/>
 	</game>
+	<game name="Reloc V1.0 (19xx)(The Cobra)">
+		<description>Reloc V1.0 (19xx)(The Cobra)</description>
+		<rom name="Reloc V1.0 (19xx)(The Cobra).prg" size="3323" crc="0fc13e24" md5="a82fea0c1112d0aefcc9c7670fbe3fcb" sha1="bd66063c6094f83c84166b38e30cf759aa0425d3"/>
+	</game>
 	<game name="Relocator (19xx)(Amnesia)">
 		<description>Relocator (19xx)(Amnesia)</description>
 		<rom name="Relocator (19xx)(Amnesia).prg" size="1990" crc="9694b63e" md5="75cc4cde9cf0fa435a57984c00c8f6b9" sha1="25d14097f2a371590cb48d52c937af6382ca1300"/>
@@ -11648,13 +11768,21 @@
 		<description>Relocator MK 1.1 (19xx)(TPX)[o]</description>
 		<rom name="Relocator MK 1.1 (19xx)(TPX)[o].prg" size="6272" crc="d54a3e9d" md5="abfe3e67ebb5a319d1d95c4092a840e3" sha1="9580c842a421631255f8e4589d0e2fbcd64d96fd"/>
 	</game>
+	<game name="Rescuing Orc +1 Trainer Loader (2017-08-27)(Formby Cracking Group)">
+		<description>Rescuing Orc +1 Trainer Loader (2017-08-27)(Formby Cracking Group)</description>
+		<rom name="Rescuing Orc +1 Trainer Loader (2017-08-27)(Formby Cracking Group).prg" size="873" crc="b77aa769" md5="10812a3e257d8c2f862896a11466d21b" sha1="b99556913efa345aa7ec7f5a7610692fc19e9ef1"/>
+	</game>
 	<game name="Rescuing Orc Collectors Edition +1 Trainer Loader (2017-08-19)(Knight Rider)">
 		<description>Rescuing Orc Collectors Edition +1 Trainer Loader (2017-08-19)(Knight Rider)</description>
 		<rom name="Rescuing Orc Collectors Edition +1 Trainer Loader (2017-08-19)(Knight Rider).prg" size="421" crc="d94a9f5f" md5="4aef1fa36ec8601728b8ef9ac3fba33e" sha1="9b28b00be8183b9af7dd87a4b14b746e11eb6138"/>
 	</game>
-	<game name="Retroskoi (2005)(Aleksi Eeben)">
-		<description>Retroskoi (2005)(Aleksi Eeben)</description>
-		<rom name="Retroskoi (2005)(Aleksi Eeben).prg" size="2392" crc="ecfed82b" md5="48afd37bdef125432c0bb98d0850feff" sha1="f09eaa3bcc766ad25de222c8d856a2ee6b305655"/>
+	<game name="Rescuing Orc V1.0.0 Public Edition +1 Trainer Loader (2017-08-23)(Formby Cracking Group)">
+		<description>Rescuing Orc V1.0.0 Public Edition +1 Trainer Loader (2017-08-23)(Formby Cracking Group)</description>
+		<rom name="Rescuing Orc V1.0.0 Public Edition +1 Trainer Loader (2017-08-23)(Formby Cracking Group).prg" size="708" crc="0a1f6254" md5="4a7178a49ae7211b4e3ecebbde17d9fc" sha1="5a3a54062d5996a9a26ef465ea67be397256ef44"/>
+	</game>
+	<game name="Retroskoi (2005)(Eeben, Aleksi)">
+		<description>Retroskoi (2005)(Eeben, Aleksi)</description>
+		<rom name="Retroskoi (2005)(Eeben, Aleksi).prg" size="2392" crc="ecfed82b" md5="48afd37bdef125432c0bb98d0850feff" sha1="f09eaa3bcc766ad25de222c8d856a2ee6b305655"/>
 	</game>
 	<game name="Retroterm V0.14 (2022-04-13)(Retrocomputacion)">
 		<description>Retroterm V0.14 (2022-04-13)(Retrocomputacion)</description>
@@ -11736,9 +11864,9 @@
 		<description>Rubber Flasher Cruncher (1987)(-)</description>
 		<rom name="Rubber Flasher Cruncher (1987)(-).prg" size="5812" crc="a77c0d5d" md5="04782d5dcac0d00313dffa7266b83ab9" sha1="ef0629b43589d01043e9e73177534667baeac242"/>
 	</game>
-	<game name="Runemal - The Rune Caster (1991)(Dov Sherman)">
-		<description>Runemal - The Rune Caster (1991)(Dov Sherman)</description>
-		<rom name="Runemal - The Rune Caster (1991)(Dov Sherman).prg" size="13952" crc="3f84dae5" md5="3fc0671a42199396388530c98ef5eb0c" sha1="3f7ecaf144f470b23f520176ec31e09157537a27"/>
+	<game name="Runemal - The Rune Caster (1991)(Sherman, Dov)">
+		<description>Runemal - The Rune Caster (1991)(Sherman, Dov)</description>
+		<rom name="Runemal - The Rune Caster (1991)(Sherman, Dov).prg" size="13952" crc="3f84dae5" md5="3fc0671a42199396388530c98ef5eb0c" sha1="3f7ecaf144f470b23f520176ec31e09157537a27"/>
 	</game>
 	<game name="Ruppel-Load (19xx)(Sven Baer)">
 		<description>Ruppel-Load (19xx)(Sven Baer)</description>
@@ -11803,6 +11931,10 @@
 	<game name="Samar&apos;s Player 2.0 (1995)(Samar Productions)">
 		<description>Samar&apos;s Player 2.0 (1995)(Samar Productions)</description>
 		<rom name="Samar&apos;s Player 2.0 (1995)(Samar Productions).prg" size="2042" crc="89d59e21" md5="74bdb3bf3365ec4d4ba2fdde6199f758" sha1="12649d3aebf80e8cf1a530487478a0c2d9551835"/>
+	</game>
+	<game name="Samchillian Practicing Tool (2024-04-23)(Hermit)">
+		<description>Samchillian Practicing Tool (2024-04-23)(Hermit)</description>
+		<rom name="Samchillian Practicing Tool (2024-04-23)(Hermit).prg" size="2196" crc="325015af" md5="8e82e50bc32ef4ee180e55ea583da559" sha1="bdfc1a07a244e73c7d0a0f58bba2d989090cbaef"/>
 	</game>
 	<game name="Sample Converter V1.0 (1993)(Sun Designs)">
 		<description>Sample Converter V1.0 (1993)(Sun Designs)</description>
@@ -12024,6 +12156,10 @@
 		<description>Setmac (2006-12-06)(Devia)</description>
 		<rom name="Setmac (2006-12-06)(Devia).prg" size="984" crc="f0fd2d7d" md5="4023459a1868e16e13c4683a8b80a4dc" sha1="114b0121f25016ef25424410ba2528cdc52802ea"/>
 	</game>
+	<game name="Shakutool64 (2024-06-07)(eryngi)">
+		<description>Shakutool64 (2024-06-07)(eryngi)</description>
+		<rom name="Shakutool64 (2024-06-07)(eryngi).prg" size="1075" crc="cac53a40" md5="0b023efa97c570e0030cfb28ee75b91a" sha1="fa3e2bbc55d46727148a58c9340879e04309b660"/>
+	</game>
 	<game name="Shape Formatter (1985)(Shape)">
 		<description>Shape Formatter (1985)(Shape)</description>
 		<rom name="Shape Formatter (1985)(Shape).prg" size="2332" crc="0d4304fb" md5="e3f8773046a3f2431e273ccd5b2dc483" sha1="f80ff1d2dc78ad790236042b52af2b33f9bd5607"/>
@@ -12196,9 +12332,9 @@
 		<description>Single Color Sprite Logo Editor v1.0 (19xx)(Collision)</description>
 		<rom name="Single Color Sprite Logo Editor v1.0 (19xx)(Collision).prg" size="14208" crc="5c1ab7d5" md5="66708f194bb0a55cd16d7a13c5b8b435" sha1="08e952802982258ae281388fa47e541875bda791"/>
 	</game>
-	<game name="Single DiskCopy 64 (1983)(Kevin Pickell)">
-		<description>Single DiskCopy 64 (1983)(Kevin Pickell)</description>
-		<rom name="Single DiskCopy 64 (1983)(Kevin Pickell).prg" size="2719" crc="e0fa2e4f" md5="4ad6d83558000151b2ae51df005a9c83" sha1="70b2362e46210902c36681dec093a4a1c057df54"/>
+	<game name="Single DiskCopy 64 (1983)(Pickell, Kevin)">
+		<description>Single DiskCopy 64 (1983)(Pickell, Kevin)</description>
+		<rom name="Single DiskCopy 64 (1983)(Pickell, Kevin).prg" size="2719" crc="e0fa2e4f" md5="4ad6d83558000151b2ae51df005a9c83" sha1="70b2362e46210902c36681dec093a4a1c057df54"/>
 	</game>
 	<game name="Single Drive Copy (1983)(Stefan Buehne)">
 		<description>Single Drive Copy (1983)(Stefan Buehne)</description>
@@ -12232,9 +12368,9 @@
 		<description>Single Drive File Copy (19xx)(-)</description>
 		<rom name="Single Drive File Copy (19xx)(-).prg" size="4034" crc="b9a743ee" md5="361b8e4ba616b6b84deb5ec24cd05cae" sha1="d70d041602db00f9d899657e7b43bbc4e5c67cf5"/>
 	</game>
-	<game name="Single File Bacc&apos;em (19xx)(Mike J. Henry)">
-		<description>Single File Bacc&apos;em (19xx)(Mike J. Henry)</description>
-		<rom name="Single File Bacc&apos;em (19xx)(Mike J. Henry).prg" size="5760" crc="2800d093" md5="6bd2114424462388560a59ecd31b89c5" sha1="e398da32f844a60df210db599985d449c743fd2a"/>
+	<game name="Single File Bacc&apos;em (19xx)(Henry, Mike J.)">
+		<description>Single File Bacc&apos;em (19xx)(Henry, Mike J.)</description>
+		<rom name="Single File Bacc&apos;em (19xx)(Henry, Mike J.).prg" size="5760" crc="2800d093" md5="6bd2114424462388560a59ecd31b89c5" sha1="e398da32f844a60df210db599985d449c743fd2a"/>
 	</game>
 	<game name="Single File Hackem (1986)(Basement Boys)">
 		<description>Single File Hackem (1986)(Basement Boys)</description>
@@ -12472,6 +12608,10 @@
 		<description>Sledgehammer II (19xx)(Bonzai)[a3]</description>
 		<rom name="Sledgehammer II (19xx)(Bonzai)[a3].prg" size="4353" crc="7d305779" md5="ceeed1837ab027f3b4fdeb2e918ff3bf" sha1="c083f5cf316b1ec60333d6007aa135878d6ab701"/>
 	</game>
+	<game name="Sledgehammer II+ (1990)(Cross)">
+		<description>Sledgehammer II+ (1990)(Cross)</description>
+		<rom name="Sledgehammer II+ (1990)(Cross).prg" size="13313" crc="25df03ea" md5="ef3da2f14ab876e713b84af170006fd4" sha1="bea82c9b880d97b69f3d585bec18b602fabc72d5"/>
+	</game>
 	<game name="Sledgehammer II+ (19xx)(-)">
 		<description>Sledgehammer II+ (19xx)(-)</description>
 		<rom name="Sledgehammer II+ (19xx)(-).prg" size="7241" crc="66471a2b" md5="863e940503d2cd88133b447fbaf219d4" sha1="f4126efa7a71627e2d648969c66a1700267540eb"/>
@@ -12479,10 +12619,6 @@
 	<game name="Sledgehammer II+ (19xx)(-)[a]">
 		<description>Sledgehammer II+ (19xx)(-)[a]</description>
 		<rom name="Sledgehammer II+ (19xx)(-)[a].prg" size="5885" crc="ddffb4e0" md5="32e4e13fe3a1261ce59f9f18051e8c35" sha1="70ef1ed58e12d3f3d77cf0fa5b8794a27d325100"/>
-	</game>
-	<game name="Sledgehammer II+ (19xx)(Cross)">
-		<description>Sledgehammer II+ (19xx)(Cross)</description>
-		<rom name="Sledgehammer II+ (19xx)(Cross).prg" size="13313" crc="25df03ea" md5="ef3da2f14ab876e713b84af170006fd4" sha1="bea82c9b880d97b69f3d585bec18b602fabc72d5"/>
 	</game>
 	<game name="Sledgehammer v2.1 (1991-08-04)(Warriors of the Wasteland)">
 		<description>Sledgehammer v2.1 (1991-08-04)(Warriors of the Wasteland)</description>
@@ -12659,6 +12795,10 @@
 	<game name="Soundmonitor V1.0 (1986-10)(Chris Huelsbeck)[cr The Works]">
 		<description>Soundmonitor V1.0 (1986-10)(Chris Huelsbeck)[cr The Works]</description>
 		<rom name="Soundmonitor V1.0 (1986-10)(Chris Huelsbeck)[cr The Works].prg" size="13956" crc="66ce4807" md5="80ecea049cb9eb94759c96ba4f609857" sha1="8b8fee20c2c6f912d3f6e07a205e660f45ecd103"/>
+	</game>
+	<game name="Soundmonitor V1.1 (1986-12-28)(Computer Cracking Team)">
+		<description>Soundmonitor V1.1 (1986-12-28)(Computer Cracking Team)</description>
+		<rom name="Soundmonitor V1.1 (1986-12-28)(Computer Cracking Team).prg" size="13792" crc="019cee47" md5="3e33b3f2d22c97aaffaba52d0638e83c" sha1="d7958e555ae350289a2e3ac9653fefef89e6a89b"/>
 	</game>
 	<game name="Soundpacker (1987)(Beastie Boys)">
 		<description>Soundpacker (1987)(Beastie Boys)</description>
@@ -12848,9 +12988,9 @@
 		<description>Speed-Packer V1.2 (1988)(The Secret Service)</description>
 		<rom name="Speed-Packer V1.2 (1988)(The Secret Service).prg" size="6500" crc="9f440d2c" md5="31b7ee9ae1bcd527c7df0e60850717af" sha1="9f4233d9d3593daf44d11782dcae0a5aecd33b56"/>
 	</game>
-	<game name="Spinning Jenny (2021-03-04)(Aleksi Eeben)">
-		<description>Spinning Jenny (2021-03-04)(Aleksi Eeben)</description>
-		<rom name="Spinning Jenny (2021-03-04)(Aleksi Eeben).prg" size="42296" crc="9e50757f" md5="a52410309cdb7752c1dee2d3e0730c5e" sha1="974620daac8ff354a853dcfd64888e10b169c665"/>
+	<game name="Spinning Jenny (2021-03-04)(Eeben, Aleksi)">
+		<description>Spinning Jenny (2021-03-04)(Eeben, Aleksi)</description>
+		<rom name="Spinning Jenny (2021-03-04)(Eeben, Aleksi).prg" size="42296" crc="9e50757f" md5="a52410309cdb7752c1dee2d3e0730c5e" sha1="974620daac8ff354a853dcfd64888e10b169c665"/>
 	</game>
 	<game name="Spite Designer v2.0 (1988)(Paragon)">
 		<description>Spite Designer v2.0 (1988)(Paragon)</description>
@@ -13052,6 +13192,10 @@
 		<description>Standard Noter V1.00 (1993)(Panic)</description>
 		<rom name="Standard Noter V1.00 (1993)(Panic).prg" size="12783" crc="ce7ddf60" md5="dbff2b918ea03b2e3630002779d38a28" sha1="289c3645fa97590713923e8a02b9b9d56bb6dd5f"/>
 	</game>
+	<game name="Star Bars Atari 2600 Music Editor V1.1 (2023-08-03)(Eeben, Aleksi)">
+		<description>Star Bars Atari 2600 Music Editor V1.1 (2023-08-03)(Eeben, Aleksi)</description>
+		<rom name="Star Bars Atari 2600 Music Editor V1.1 (2023-08-03)(Eeben, Aleksi).prg" size="2562" crc="89528313" md5="4477bbfffd71802f7cd310daa4d2493e" sha1="bff3f4f7acdc4d2bfb4d9b778d4cbcca699e0253"/>
+	</game>
 	<game name="Star Cruncher v1.0 (1993)(Software Trading Association)">
 		<description>Star Cruncher v1.0 (1993)(Software Trading Association)</description>
 		<rom name="Star Cruncher v1.0 (1993)(Software Trading Association).prg" size="11833" crc="d812fd90" md5="b3976ab66a135684edba016f07a1e8e7" sha1="7d60f0d4fd939c261f0cb71b994a26b73d208006"/>
@@ -13079,6 +13223,10 @@
 	<game name="Station64 V2.1 (2015-06-09)(DJ Indikator)">
 		<description>Station64 V2.1 (2015-06-09)(DJ Indikator)</description>
 		<rom name="Station64 V2.1 (2015-06-09)(DJ Indikator).prg" size="15882" crc="4b3953ee" md5="f414022d716e95e24e99015760c531f2" sha1="1819b93965033ebcc0dfcf8e683ee607f471f500"/>
+	</game>
+	<game name="Station64 V2.4 (2015-10-15)(DJ Indikator)(Side A)">
+		<description>Station64 V2.4 (2015-10-15)(DJ Indikator)(Side A)</description>
+		<rom name="Station64 V2.4 (2015-10-15)(DJ Indikator)(Side A).prg" size="21921" crc="8c562a39" md5="2dbe31e23ccde40ab347732d599f1404" sha1="75ab6e81500d98eb9b7e216da40ab7723180b727"/>
 	</game>
 	<game name="Statistical Packer V1.0 (19xx)(Gentlemen)">
 		<description>Statistical Packer V1.0 (19xx)(Gentlemen)</description>
@@ -13624,13 +13772,17 @@
 		<description>Tekosyy (2016-02-06)(Yleisradio)</description>
 		<rom name="Tekosyy (2016-02-06)(Yleisradio).prg" size="520" crc="3db07a09" md5="442ea9c2dd14b759473e7a7972eaf05a" sha1="77a204a16ef05b50c8660f66b5d9c8244b75c66c"/>
 	</game>
-	<game name="Teletext (2018-01-28)(Norbert Kehrer)">
-		<description>Teletext (2018-01-28)(Norbert Kehrer)</description>
-		<rom name="Teletext (2018-01-28)(Norbert Kehrer).prg" size="5698" crc="2e264cbc" md5="ab25803e00b2e0c8b3abdb33e4417b2f" sha1="d01d1681dc3f4d35afb2a3cc3a6972f961c1ddb2"/>
+	<game name="Telephone Terrorizer 1 (1992)(The Sharks)">
+		<description>Telephone Terrorizer 1 (1992)(The Sharks)</description>
+		<rom name="Telephone Terrorizer 1 (1992)(The Sharks).prg" size="44990" crc="26452171" md5="a8aa7574158d038a4cc31ef54a5713f2" sha1="7ab02e4a85f25ef4df5e3689ba626a3ff51272e0"/>
 	</game>
-	<game name="Teletext (2018-02-25)(Norbert Kehrer)[Downloader for BR]">
-		<description>Teletext (2018-02-25)(Norbert Kehrer)[Downloader for BR]</description>
-		<rom name="Teletext (2018-02-25)(Norbert Kehrer)[Downloader for BR].prg" size="5698" crc="bf9e7d28" md5="98b4946cf404501debf4f2b99f136c4f" sha1="279ba102aebd9f238e19336a490c0f8287b7ebc3"/>
+	<game name="Teletext (2018-01-28)(Kehrer, Norbert)">
+		<description>Teletext (2018-01-28)(Kehrer, Norbert)</description>
+		<rom name="Teletext (2018-01-28)(Kehrer, Norbert).prg" size="5698" crc="2e264cbc" md5="ab25803e00b2e0c8b3abdb33e4417b2f" sha1="d01d1681dc3f4d35afb2a3cc3a6972f961c1ddb2"/>
+	</game>
+	<game name="Teletext (2018-02-25)(Kehrer, Norbert)[Downloader for BR]">
+		<description>Teletext (2018-02-25)(Kehrer, Norbert)[Downloader for BR]</description>
+		<rom name="Teletext (2018-02-25)(Kehrer, Norbert)[Downloader for BR].prg" size="5698" crc="bf9e7d28" md5="98b4946cf404501debf4f2b99f136c4f" sha1="279ba102aebd9f238e19336a490c0f8287b7ebc3"/>
 	</game>
 	<game name="Tempest Noter V4.9 (1996)(TempesT)">
 		<description>Tempest Noter V4.9 (1996)(TempesT)</description>
@@ -14084,6 +14236,10 @@
 		<description>Triple-Font v1.0 (19xx)(S451)[o]</description>
 		<rom name="Triple-Font v1.0 (19xx)(S451)[o].prg" size="19840" crc="6c192bda" md5="0bb353c982f8b46777a8a4c64165a6a8" sha1="fc7adb99dbab7f2752d727ee26d8a4fdd3de2af9"/>
 	</game>
+	<game name="Trisit Diskturbo 1.0 (19xx)(-)">
+		<description>Trisit Diskturbo 1.0 (19xx)(-)</description>
+		<rom name="Trisit Diskturbo 1.0 (19xx)(-).prg" size="2241" crc="9fc313ce" md5="8b4dc9f6c743880ab6ba1b3260ef280d" sha1="73ecdd50d0205642ccbba84305c6c31802bb82a2"/>
+	</game>
 	<game name="Tri-Writer (1992-02-09)(Poacher)">
 		<description>Tri-Writer (1992-02-09)(Poacher)</description>
 		<rom name="Tri-Writer (1992-02-09)(Poacher).prg" size="6128" crc="bef5eaa0" md5="0cfaa1a363999fb1e2f1a6e43218c93d" sha1="f56a488294529f6d7715d4ac26a97715bb4378cd"/>
@@ -14092,9 +14248,9 @@
 		<description>Tri-Writer v3.0 (1992)(Poacher)</description>
 		<rom name="Tri-Writer v3.0 (1992)(Poacher).prg" size="8239" crc="1e4cbc9b" md5="04f91dd056a0f6e40e80adc6386fad77" sha1="4b7bb3c8001a9eaeb58ad8b5f6067e69d3b054d3"/>
 	</game>
-	<game name="Tri-Writer V3.0 (1992)(Triumwyrat)">
-		<description>Tri-Writer V3.0 (1992)(Triumwyrat)</description>
-		<rom name="Tri-Writer V3.0 (1992)(Triumwyrat).prg" size="12489" crc="37749fc7" md5="be60abadf8cfc5172fcb17393ddf2f2f" sha1="36879caa0ab042455b11d67d1019d6df1898a443"/>
+	<game name="Tri-Writer V3.0 (1992-02-09)(Triumwyrat)">
+		<description>Tri-Writer V3.0 (1992-02-09)(Triumwyrat)</description>
+		<rom name="Tri-Writer V3.0 (1992-02-09)(Triumwyrat).prg" size="12489" crc="37749fc7" md5="be60abadf8cfc5172fcb17393ddf2f2f" sha1="36879caa0ab042455b11d67d1019d6df1898a443"/>
 	</game>
 	<game name="True Disk ID (19xx)(-)">
 		<description>True Disk ID (19xx)(-)</description>
@@ -14116,9 +14272,9 @@
 		<description>TSB-Packer v3.0 (1991)(Giants)</description>
 		<rom name="TSB-Packer v3.0 (1991)(Giants).prg" size="4070" crc="7a7290b4" md5="595310ac904bd59ad9995569e5f14b4e" sha1="f6601154bede33b42d5fbaecc1e0dc45e299d83d"/>
 	</game>
-	<game name="Tsds Sprite Editor v4.6 (19xx)(Kevin Pickell)">
-		<description>Tsds Sprite Editor v4.6 (19xx)(Kevin Pickell)</description>
-		<rom name="Tsds Sprite Editor v4.6 (19xx)(Kevin Pickell).prg" size="7808" crc="05c3367a" md5="878411a96358a6096da0f38c204bb45b" sha1="de2aff73fc3b7ea537f66f3eb7faff33b60f3fd8"/>
+	<game name="Tsds Sprite Editor v4.6 (19xx)(Pickell, Kevin)">
+		<description>Tsds Sprite Editor v4.6 (19xx)(Pickell, Kevin)</description>
+		<rom name="Tsds Sprite Editor v4.6 (19xx)(Pickell, Kevin).prg" size="7808" crc="05c3367a" md5="878411a96358a6096da0f38c204bb45b" sha1="de2aff73fc3b7ea537f66f3eb7faff33b60f3fd8"/>
 	</game>
 	<game name="TSEQV. 1.0 (19xx)(Triad)">
 		<description>TSEQV. 1.0 (19xx)(Triad)</description>
@@ -14199,6 +14355,10 @@
 	<game name="Turbo Assembler V3 (1988)(The Supersonics)">
 		<description>Turbo Assembler V3 (1988)(The Supersonics)</description>
 		<rom name="Turbo Assembler V3 (1988)(The Supersonics).prg" size="13813" crc="8c858b40" md5="40f2437fdeb7f6ae7120b4879eb2e17e" sha1="036059bee9f49f14ae2a879e4e34183830d1835b"/>
+	</game>
+	<game name="Turbo Assembler V5.12 (1995)(Desire)">
+		<description>Turbo Assembler V5.12 (1995)(Desire)</description>
+		<rom name="Turbo Assembler V5.12 (1995)(Desire).prg" size="16130" crc="76fcc69b" md5="1875a50f44e5f2b0a5bcbe1dda6d4d82" sha1="11b7a3cb4474265970968d3cc124d8e2b4f8f944"/>
 	</game>
 	<game name="Turbo Assembler v5.2 (1999-11)(Tropyx)">
 		<description>Turbo Assembler v5.2 (1999-11)(Tropyx)</description>
@@ -14352,6 +14512,10 @@
 		<description>Turbo Tape 64 (1983)(Markt &amp; Technik)(de)[cr Radio Spiderman]</description>
 		<rom name="Turbo Tape 64 (1983)(Markt &amp; Technik)(de)[cr Radio Spiderman].prg" size="2054" crc="873e5117" md5="9b3785eaa231c9e5d579e567263dda91" sha1="09e72ee662ee49a845028f5242e794bfc2e9a83a"/>
 	</game>
+	<game name="Turbo Tape 64 (1983)(Senz, Stephan)">
+		<description>Turbo Tape 64 (1983)(Senz, Stephan)</description>
+		<rom name="Turbo Tape 64 (1983)(Senz, Stephan).prg" size="2051" crc="f2d8199d" md5="0cba05c4bd072c9421bae567a3163f93" sha1="5cb8498787dcab40eeb90d183ba6bd50cf2b13b4"/>
+	</game>
 	<game name="Turbo Tape 64 (1984)(WTS)">
 		<description>Turbo Tape 64 (1984)(WTS)</description>
 		<rom name="Turbo Tape 64 (1984)(WTS).prg" size="2051" crc="6022dc25" md5="dae03656708f9cada16ff8cf010a80eb" sha1="a6c7d180a47204b57b7d73fd7729036b8156a43d"/>
@@ -14463,6 +14627,10 @@
 	<game name="TurboTurbo (19xx)(Valentjin Sessink)">
 		<description>TurboTurbo (19xx)(Valentjin Sessink)</description>
 		<rom name="TurboTurbo (19xx)(Valentjin Sessink).prg" size="1673" crc="70898e28" md5="3b6ce96fe4982949b720d2629ab8e2e2" sha1="f94bc2f52961966d756f6b9b753fa87813ecc7eb"/>
+	</game>
+	<game name="TV Input Lag V1.0 (2015)(Boray)">
+		<description>TV Input Lag V1.0 (2015)(Boray)</description>
+		<rom name="TV Input Lag V1.0 (2015)(Boray).prg" size="838" crc="422e4e73" md5="f959340a30073738a6ba43ddfaab8dd1" sha1="da1483ca772c5abde5e261cbe39b02d3e6038c13"/>
 	</game>
 	<game name="Twice Effect Music Editor (1991)(Twice Effect)">
 		<description>Twice Effect Music Editor (1991)(Twice Effect)</description>
@@ -14716,9 +14884,9 @@
 		<description>Un-Compiler v3.0 (1985)(John Watson)</description>
 		<rom name="Un-Compiler v3.0 (1985)(John Watson).prg" size="20266" crc="b02bae25" md5="847de8178aacdeb1874479816f2b07f9" sha1="e98c261bb4ade335b9fd2c63b2d6b56f7484fe2d"/>
 	</game>
-	<game name="Underground Network (1984)(Mike J. Henry)">
-		<description>Underground Network (1984)(Mike J. Henry)</description>
-		<rom name="Underground Network (1984)(Mike J. Henry).prg" size="14289" crc="73f96506" md5="e7320fa9200cbccecc706d867bb1da37" sha1="a8c21d599976a38d3372a30aedcb835e9f9893eb"/>
+	<game name="Underground Network (1984)(Henry, Mike J.)">
+		<description>Underground Network (1984)(Henry, Mike J.)</description>
+		<rom name="Underground Network (1984)(Henry, Mike J.).prg" size="14289" crc="73f96506" md5="e7320fa9200cbccecc706d867bb1da37" sha1="a8c21d599976a38d3372a30aedcb835e9f9893eb"/>
 	</game>
 	<game name="Underground Network (19xx)(Citz)">
 		<description>Underground Network (19xx)(Citz)</description>
@@ -14819,6 +14987,10 @@
 	<game name="Useful Packers 1 (1993)(Arise)">
 		<description>Useful Packers 1 (1993)(Arise)</description>
 		<rom name="Useful Packers 1 (1993)(Arise).prg" size="24813" crc="9a7a9c70" md5="cea5a9f0ecb27fd365489204edc88ac5" sha1="cce8493d7df716a6d5fe961c848dfebaf5ebc4fb"/>
+	</game>
+	<game name="Useless Font Combiner V1.0 (2024-08-01)(TheFatman)">
+		<description>Useless Font Combiner V1.0 (2024-08-01)(TheFatman)</description>
+		<rom name="Useless Font Combiner V1.0 (2024-08-01)(TheFatman).prg" size="1608" crc="5efcc297" md5="fef9e42092f6926e9104beec6276b3f3" sha1="3d4735884f41e700b4957f8cd69bcc10f35ae8b1"/>
 	</game>
 	<game name="User-Tool 1 (1987)(Alpha Flight)">
 		<description>User-Tool 1 (1987)(Alpha Flight)</description>

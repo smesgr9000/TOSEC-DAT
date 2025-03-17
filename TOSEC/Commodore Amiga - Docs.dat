@@ -4,16 +4,13 @@
 <datafile>
 	<header>
 		<name>Commodore Amiga - Docs</name>
-		<description>Commodore Amiga - Docs (TOSEC-v2021-07-31)</description>
+		<description>Commodore Amiga - Docs (TOSEC-v2025-01-17)</description>
 		<category>TOSEC</category>
-		<version>2021-07-31</version>
-		<date>2021-07-31</date>
+		<version>2025-01-17</version>
 		<author>idoru - BippyM - Dpainter - |cy[ool - mai - Crashdisk</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
-		<url>www.tosecdev.org</url>
-		<comment>...to be continued!</comment>
-		<clrmamepro/>
+		<url>http://www.tosecdev.org</url>
 	</header>
 	<game name="17 Bit Software PD Catalogue (1990-03)(17-Bit Software)">
 		<description>17 Bit Software PD Catalogue (1990-03)(17-Bit Software)</description>
@@ -475,10 +472,6 @@
 		<description>Amiga Cheat Disk Issue 3 (1989)(Vark)</description>
 		<rom name="Amiga Cheat Disk Issue 3 (1989)(Vark).adf" size="901120" crc="33b9558c" md5="d2879ee57cab3c24abef3ad31d04c3ff" sha1="b834720230cbb3a4c7a51d24f23c8392a836d863"/>
 	</game>
-	<game name="Amiga Graphics Inside and Out (19xx)(Alliance)">
-		<description>Amiga Graphics Inside and Out (19xx)(Alliance)</description>
-		<rom name="Amiga Graphics Inside and Out (19xx)(Alliance).adf" size="901120" crc="df316502" md5="30063dffb9f1af34ad88df4540da04eb" sha1="8deca238dd1971a1567d191f266b6e30290fd67c"/>
-	</game>
 	<game name="Amiga Tips Issue 02 (1989)(Vark)">
 		<description>Amiga Tips Issue 02 (1989)(Vark)</description>
 		<rom name="Amiga Tips Issue 02 (1989)(Vark).adf" size="901120" crc="148a096b" md5="0d7743bb04d4827591331999e0734214" sha1="7ccaedbddabaec8992b275613a55a926de124bcb"/>
@@ -567,22 +560,6 @@
 		<description>Arexx Users Reference Manual (199x)(-)</description>
 		<rom name="Arexx Users Reference Manual (199x)(-).adf" size="901120" crc="7bbfe910" md5="d206dd70453e6a55619cd91ea0137b80" sha1="eb4ce077de2aaca8a485446992b7be64d3e9d2e0"/>
 	</game>
-	<game name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 1 of 6)[WB]">
-		<description>ASCII Bibel (19xx)(Cyclone)(de)(Disk 1 of 6)[WB]</description>
-		<rom name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 1 of 6)[WB].adf" size="901120" crc="a6f2a8c9" md5="c50527b6d9ac175656584acf8695bce3" sha1="b11367126658ff2afd764b36f037370e37a5ba15"/>
-	</game>
-	<game name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 2 of 6)">
-		<description>ASCII Bibel (19xx)(Cyclone)(de)(Disk 2 of 6)</description>
-		<rom name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 2 of 6).adf" size="901120" crc="14a3247b" md5="b3207aa907334b14b658c66fed351ad1" sha1="5b2853cb4434ac3b0792a9869a417c8549620ec7"/>
-	</game>
-	<game name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 5 of 6)">
-		<description>ASCII Bibel (19xx)(Cyclone)(de)(Disk 5 of 6)</description>
-		<rom name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 5 of 6).adf" size="901120" crc="a4218291" md5="e3bab19dba74dbbb3a683ff6c670b619" sha1="e3ea506f71796961a75e8bd245d20bac81fbaf37"/>
-	</game>
-	<game name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 6 of 6)">
-		<description>ASCII Bibel (19xx)(Cyclone)(de)(Disk 6 of 6)</description>
-		<rom name="ASCII Bibel (19xx)(Cyclone)(de)(Disk 6 of 6).adf" size="901120" crc="e22cb4ee" md5="1427ad0337429adbc0501fc03c418ccc" sha1="dd83bffd48c8fde336eb563f5b02974e5e5cd3da"/>
-	</game>
 	<game name="Ascott Util Doc Disk 02 (19xx)(Ascott of Peterborough)[v Addy v0.99]">
 		<description>Ascott Util Doc Disk 02 (19xx)(Ascott of Peterborough)[v Addy v0.99]</description>
 		<rom name="Ascott Util Doc Disk 02 (19xx)(Ascott of Peterborough)[v Addy v0.99].adf" size="901120" crc="1ecec21f" md5="f48bcbef7e5ad63133f7ca829c684d06" sha1="cd64dba2cedd476b52571db61351127d53ccc69c"/>
@@ -642,6 +619,38 @@
 	<game name="Best Docs No.1 (1992)(Mystic Distribution)">
 		<description>Best Docs No.1 (1992)(Mystic Distribution)</description>
 		<rom name="Best Docs No.1 (1992)(Mystic Distribution).adf" size="901120" crc="c7dcf33e" md5="32184af16478af30953cd8d6444a09ed" sha1="79362b07c639e6f32f2dff924770af3e80d43952"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 1 of 8)[WB]">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 1 of 8)[WB]</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 1 of 8)[WB].adf" size="901120" crc="a6f2a8c9" md5="c50527b6d9ac175656584acf8695bce3" sha1="b11367126658ff2afd764b36f037370e37a5ba15"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 2 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 2 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 2 of 8).adf" size="901120" crc="14a3247b" md5="b3207aa907334b14b658c66fed351ad1" sha1="5b2853cb4434ac3b0792a9869a417c8549620ec7"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 3 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 3 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 3 of 8).adf" size="901120" crc="08ef26f6" md5="85613592da10ed27628c51a67f65b3f7" sha1="225472cf6d6dfe4f7a34ecf04ea3c572b11ded1d"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 4 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 4 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 4 of 8).adf" size="901120" crc="28c3c65a" md5="879535fd50c534e8deaa8aee8f22b609" sha1="915d5763b12ae5ea9c41bfca11938a48a140c61a"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 5 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 5 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 5 of 8).adf" size="901120" crc="a4218291" md5="e3bab19dba74dbbb3a683ff6c670b619" sha1="e3ea506f71796961a75e8bd245d20bac81fbaf37"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 6 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 6 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 6 of 8).adf" size="901120" crc="e22cb4ee" md5="1427ad0337429adbc0501fc03c418ccc" sha1="dd83bffd48c8fde336eb563f5b02974e5e5cd3da"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 7 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 7 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 7 of 8).adf" size="901120" crc="5370fc94" md5="13d7e161fe44084fa15160bdb0c59148" sha1="a5ab36aa8df6d934d37046bbf2b4ab9f5e9c0d29"/>
+	</game>
+	<game name="Bible for All Christian (1994)(Cyclone)(de)(Disk 8 of 8)">
+		<description>Bible for All Christian (1994)(Cyclone)(de)(Disk 8 of 8)</description>
+		<rom name="Bible for All Christian (1994)(Cyclone)(de)(Disk 8 of 8).adf" size="901120" crc="96fe0206" md5="ebf804047f16d45b404dcc7a5c7c1e1f" sha1="afa9341cec94be5b0e92b343730cd4b4c7268eca"/>
 	</game>
 	<game name="Big R's Docs Disk 01 - Final Version (1989-11)(Big R)">
 		<description>Big R's Docs Disk 01 - Final Version (1989-11)(Big R)</description>

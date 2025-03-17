@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Games - [DAT]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Games - [DAT] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Burglar's Adventure v1.27 (19xx)(Bruce G Hansen)[DAT]">
+		<description>Burglar's Adventure v1.27 (19xx)(Bruce G Hansen)[DAT]</description>
+		<rom name="ADVENT.DY" size="10232" crc="72be394a" md5="05f7dd741569dc5e64b206e71305b2a3" sha1="1d24b4526ac05a21b0d77fdacee9cac30dbc36b8"/>
+	</game>
+	<game name="Mini-Adventure v1.01 (19xx)(Bruce G Hansen)[DAT]">
+		<description>Mini-Adventure v1.01 (19xx)(Bruce G Hansen)[DAT]</description>
+		<rom name="ADVENT.D8" size="2549" crc="acebb511" md5="b21317c71e7a4b0a65c9445e2128e566" sha1="59c41a43d506aa488223fe23d0d691c59194d1e0"/>
+		<rom name="ADVENT.DZ" size="2549" crc="acebb511" md5="b21317c71e7a4b0a65c9445e2128e566" sha1="59c41a43d506aa488223fe23d0d691c59194d1e0"/>
+	</game>
+	<game name="Unicorn Hunt v1.2 (19xx)(Nors-El)[DAT]">
+		<description>Unicorn Hunt v1.2 (19xx)(Nors-El)[DAT]</description>
+		<rom name="ADVENT.D9" size="11264" crc="732914e4" md5="ff72a3657ef479094f32e51dfc554d82" sha1="8678a19452f515fa27b7867efe51e254836b2e48"/>
+		<rom name="ADVENT.DU" size="11264" crc="732914e4" md5="ff72a3657ef479094f32e51dfc554d82" sha1="8678a19452f515fa27b7867efe51e254836b2e48"/>
+	</game>
+</datafile>

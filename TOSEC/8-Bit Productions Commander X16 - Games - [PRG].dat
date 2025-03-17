@@ -4,14 +4,22 @@
 <datafile>
 	<header>
 		<name>8-Bit Productions Commander X16 - Games - [PRG]</name>
-		<description>8-Bit Productions Commander X16 - Games - [PRG] (TOSEC-v2023-08-29)</description>
+		<description>8-Bit Productions Commander X16 - Games - [PRG] (TOSEC-v2024-07-03)</description>
 		<category>TOSEC</category>
-		<version>2023-08-29</version>
+		<version>2024-07-03</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="cc65-Chess v1.01 (2020-05-26)(Wessels, Stefan)(CA)">
+		<description>cc65-Chess v1.01 (2020-05-26)(Wessels, Stefan)(CA)</description>
+		<rom name="cc65-Chess v1.01 (2020-05-26)(Wessels, Stefan)(CA).prg" size="26111" crc="3a75b1db" md5="aee00c57a9344516f75c2b9916b91b02" sha1="5636ba5bb243368a61c92477564206a1599d0296"/>
+	</game>
+	<game name="cc65-Chess v1.02 (2020-07-10)(Wessels, Stefan)(CA)">
+		<description>cc65-Chess v1.02 (2020-07-10)(Wessels, Stefan)(CA)</description>
+		<rom name="cc65-Chess v1.02 (2020-07-10)(Wessels, Stefan)(CA).prg" size="25881" crc="1eba64f1" md5="3a52bc203f6df9f6fd5b93a1f470552e" sha1="e6d66b9f7d76a090ee9e5dbdf37f89ccecc65db8"/>
+	</game>
 	<game name="CX16 Maze (2019-11-25)(JimmyDansbo)(GPLv3)">
 		<description>CX16 Maze (2019-11-25)(JimmyDansbo)(GPLv3)</description>
 		<rom name="CX16 Maze (2019-11-25)(JimmyDansbo)(GPLv3).prg" size="1939" crc="c8157a87" md5="ba1bee1ca65e7d646cd63466092909d3" sha1="d50956a275c682c6468b7d6bb669f6498f1f3e54"/>
@@ -27,5 +35,9 @@
 	<game name="CX16 Maze (2020-01-07)(JimmyDansbo)(GPLv3)">
 		<description>CX16 Maze (2020-01-07)(JimmyDansbo)(GPLv3)</description>
 		<rom name="CX16 Maze (2020-01-07)(JimmyDansbo)(GPLv3).prg" size="3534" crc="3a3c64a3" md5="d4aa738acabe75f28c2d7040fd6fc9c9" sha1="b2f82df48ad64f5723b96b8f13b102349718f087"/>
+	</game>
+	<game name="Penetrator (2020-05-26)(Wessels, Stefan)(CA)[R37]">
+		<description>Penetrator (2020-05-26)(Wessels, Stefan)(CA)[R37]</description>
+		<rom name="Penetrator (2020-05-26)(Wessels, Stefan)(CA)[R37].prg" size="31428" crc="b31fabbc" md5="9e96699d27b5b3b2b207ed7b783d6803" sha1="d1dc6d3ff8609f0953f6989da2073baa08604ace"/>
 	</game>
 </datafile>

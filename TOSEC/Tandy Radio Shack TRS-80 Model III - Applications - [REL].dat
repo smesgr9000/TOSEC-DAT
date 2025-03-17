@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [REL]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [REL] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BCLDOS LDOS Basic Compiler Extensions (19xx)(Robert J Newton)[REL]">
+		<description>BCLDOS LDOS Basic Compiler Extensions (19xx)(Robert J Newton)[REL]</description>
+		<rom name="bcldos.doc" size="4236" crc="03aca332" md5="2271c6ab6fc16b11b8e3d95a412cf13e" sha1="4066fcaf6b78edfe791b5444aa37586657e79093"/>
+		<rom name="bcldos.hex" size="5385" crc="81dafce3" md5="be876e8c705ec6a72ee4baf22424ef2c" sha1="67f1be572c6bcbf0b02f3bdcd484e0c20c474c45"/>
+		<rom name="bcldos.rel" size="2648" crc="1dd34050" md5="36b702e19bd6627b90385adf7d44bb06" sha1="7ae225c2366fa337a90b835571213b20f3563a42"/>
+	</game>
+</datafile>

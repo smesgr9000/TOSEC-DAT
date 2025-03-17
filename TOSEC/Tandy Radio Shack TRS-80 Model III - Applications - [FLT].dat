@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [FLT]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [FLT] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PFILT Filter Utility v2.1 (1982)(Kim Watt)[FLT]">
+		<description>PFILT Filter Utility v2.1 (1982)(Kim Watt)[FLT]</description>
+		<rom name="PFILT.FLT" size="1181" crc="98cbc659" md5="af109d85b313ecb53036f34d18f73345" sha1="93ef1f55206de18f7c326cce744ba95382c14b77"/>
+	</game>
+	<game name="PMX80 Printer Filter Utility v2.1 (1982)(Kim Watt)[FLT]">
+		<description>PMX80 Printer Filter Utility v2.1 (1982)(Kim Watt)[FLT]</description>
+		<rom name="PMX80.FLT" size="565" crc="7569cdd5" md5="a9eaa75bc1c8153b57bb93282159f58a" sha1="24b2cda664bd4736ea7f8e08181d0a4898fb8228"/>
+	</game>
+	<game name="Real Time Filter (19xx)(Gary Godfrey)[FLT]">
+		<description>Real Time Filter (19xx)(Gary Godfrey)[FLT]</description>
+		<rom name="RTCFLT.ASM" size="1689" crc="f072b6c1" md5="74ecf84655af9f8112bf34b8782bfa22" sha1="3ef5b950b0af00245f6190571bda03ef37e42aec"/>
+		<rom name="RTCFLT.CMD" size="143" crc="e5274984" md5="51e3acb2d0da65191987e08463da8929" sha1="3b2b178ab8987c70cf0abdbf1c509bf1cd252666"/>
+	</game>
+</datafile>

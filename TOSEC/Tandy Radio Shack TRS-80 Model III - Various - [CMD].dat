@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Various - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Various - [CMD] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chephren (1985)(Paul Ezra)[CMD]">
+		<description>Chephren (1985)(Paul Ezra)[CMD]</description>
+		<rom name="EZCHEPHR" size="427" crc="c9845de1" md5="11b2440585878a07de05ef5cae0e0b4f" sha1="1f236e2d1878fcad93de6438d53e19df211421f8"/>
+	</game>
+	<game name="Introduction Screen to Some Game (19xx)(-)[CMD]">
+		<description>Introduction Screen to Some Game (19xx)(-)[CMD]</description>
+		<rom name="bend.cmd" size="1312" crc="85579a02" md5="c044e02c4972bcad1fe77ecdcf2e896c" sha1="e4858986f17aa68a7c7133322d993ca4e63d98f8"/>
+		<rom name="blip.cmd" size="256" crc="b11ac491" md5="0e45d226c64b060a5e27133507feac34" sha1="f865d679061f15e4e099cd0da2513fad8f1f6fba"/>
+		<rom name="flap.cmd" size="849" crc="d0332bf7" md5="2e5a877dbcabdbe3f4efe45a77e99ca2" sha1="4944e3508015dec02f0b349f97646a21f5638383"/>
+		<rom name="mover.cmd" size="664" crc="189e8c36" md5="bf8999b0b5982a3cac17e70ada1b6968" sha1="bc6c5bda648c54511b9eea52c3275030d4be64a0"/>
+		<rom name="pixel.cmd" size="3840" crc="e91fa2cf" md5="e747dba3a623ec8a2c9f584a92824264" sha1="ecd331a66db452184c0faf0222e060c98382e5bc"/>
+		<rom name="right.cmd" size="1312" crc="72ef405f" md5="687d9097be52de0be1ed2849b7a48462" sha1="a7cb4425e763ff4f51eebe6592c5727411346006"/>
+		<rom name="scr.cmd" size="2740" crc="270e435e" md5="d1f657bcb81073a622d9a9ec32dc584a" sha1="6886d8222ef221e05eea86879baef0f47a490866"/>
+		<rom name="ship.cmd" size="849" crc="d0332bf7" md5="2e5a877dbcabdbe3f4efe45a77e99ca2" sha1="4944e3508015dec02f0b349f97646a21f5638383"/>
+		<rom name="slide.cmd" size="1398" crc="f9d9d5ee" md5="59e565b25919f4c228d6512e1b5aebb5" sha1="ef6453237c63cf82c56798a9a1adcbcc5cac939f"/>
+	</game>
+	<game name="Marquee Border (19xx)(-)[CMD]">
+		<description>Marquee Border (19xx)(-)[CMD]</description>
+		<rom name="BORDER.CMD" size="482" crc="3455c2b2" md5="37c39d50fa979f367cd950809a97dfa2" sha1="5ef8e46ab2c616e8c8ff71ddd900c62b4c762bc5"/>
+	</game>
+	<game name="MASH Sitcom Catalog (19xx)(Ira Goldklang)[CMD]">
+		<description>MASH Sitcom Catalog (19xx)(Ira Goldklang)[CMD]</description>
+		<rom name="ator.chn" size="728" crc="3e3593f5" md5="802f9c6b95ce4fdb279ccfa26a382366" sha1="62a8985acdf4df58742885b2be4db589bfd25912"/>
+		<rom name="ator.zbs" size="847" crc="8191a1d5" md5="ee4145a705a970fe0b79d18963e3fd1a" sha1="76a5a3bab65e20c632252e84758d6732cfe0e7bd"/>
+		<rom name="linput1" size="2529" crc="b9f0e4cf" md5="b2fcc4dbc98019ea7ce3c9856f423f3d" sha1="42dd054ec2c66e32295d8911b6988f42e494ec7b"/>
+		<rom name="linput2" size="2540" crc="8ba264fc" md5="d72f471e545c97281de157cde72b805a" sha1="184930588e69eb344e5a0ffcbfaa9145b7ec68f8"/>
+		<rom name="linput3" size="2452" crc="3a08cdc5" md5="58bab2e633e66216b0ff6781f233fca6" sha1="22d5931c2c27b655ac27046697a17c9ae3495cc2"/>
+		<rom name="main.bas" size="6292" crc="b17a9d01" md5="795e9a74b96eb39b676ad8b00ae4bd19" sha1="ce74bd97c4b9523dcc70b2560af0a6c362b92763"/>
+		<rom name="main.chn" size="16591" crc="e64e77de" md5="bf9dbc03f6757bd65bfad7ad198def81" sha1="cc9b6916f0cac1f027f7b311e90d551f5e3e1238"/>
+		<rom name="main.zbs" size="4958" crc="6d9f72a4" md5="6916b6f9ebfe3f913af53ea0675795cf" sha1="8e0c309bbcdea7297c1d5d44c7cd33f2385f5d04"/>
+		<rom name="mash.rnd" size="64512" crc="53352df0" md5="7501f3b6c176160e89b6ef14764fca28" sha1="2781f43fdfe936c9143d1e4ec437901b19a87fb7"/>
+		<rom name="mash.txt" size="21382" crc="74e66a58" md5="0ad2004926bb3c25857d731b2eae784c" sha1="543cc1fef1270b7d796044c11fb05ee608788774"/>
+		<rom name="mass.bas" size="1584" crc="4d830008" md5="f36aa7c86efd8e7f557b99a76bd87d41" sha1="cae6847d74026000492018ba7dd86b3d625715a7"/>
+		<rom name="mass.chn" size="1521" crc="bcd13bf1" md5="28480f282a8805c501f871dde29793e2" sha1="b7a590edcdd3033a19741a49b79b4c5cb3cd580f"/>
+		<rom name="mass.zbs" size="1699" crc="f808b80e" md5="bc2e9655e5b820909653a1de9503f005" sha1="6cf81f981a56c7e1706269c89a9629a148604aa1"/>
+		<rom name="select.cmd" size="11238" crc="fae01479" md5="d460281686c5de311a1f2fd206aebbb5" sha1="d0fdba7fb88ed4156b799051b8f3adb13ff518df"/>
+		<rom name="select.zbs" size="529" crc="b21109a0" md5="cdaed43b9163dae7460aae70a6e9e0b6" sha1="34ac6115410dcc0e4ea4924c483ed25e361846da"/>
+	</game>
+	<game name="Software Innovations Demonstration Diskette (1979)(Software Innovations)[CMD]">
+		<description>Software Innovations Demonstration Diskette (1979)(Software Innovations)[CMD]</description>
+		<rom name="BREAKOUT.CMD" size="2560" crc="8a6fe37d" md5="ee3505971094dac7ead1a40f5bcb4031" sha1="ec122f0f3c524a07f27a1aea7b6a14fcea201ccf"/>
+		<rom name="CARACE.CMD" size="5632" crc="59dee7e6" md5="c3ac83351a18f07c2f6f5ce6725f9e96" sha1="03660dd4ce087508f68983de15583ff496bdb802"/>
+		<rom name="CITYVENT" size="13665" crc="4093611b" md5="580327a3692aaa334ea42729ce5459a6" sha1="2c6589741f3f0e2aa265c90c60a2484ae26614ce"/>
+		<rom name="COSMIC.CMD" size="4864" crc="45bd2335" md5="56f129e7f597d543f89eb511ec10e471" sha1="30d278c26852fab5d96785aeca334e60cc9a8d99"/>
+		<rom name="D" size="17284" crc="fb6aafa6" md5="977a580bc2e2736eef4791a6d40bec70" sha1="88b11adf25d1ef03af5722f5e903a7e6b1e6a602"/>
+		<rom name="INVASION" size="13126" crc="9a870d13" md5="0656231b3f3252316d624fdc332178e4" sha1="ecf7f3a1096c5a53c9d374aa80ed42dc96d26703"/>
+		<rom name="MONOPOLY" size="13214" crc="f0fc5f97" md5="824cbeb045a12345b400afc1a6af8be9" sha1="5a9bcbb86ae0b475dec4120a17cc50156fd62eab"/>
+		<rom name="NORMALSI" size="1040" crc="0a1038b8" md5="fd310b6167e329fd07a93e56192661b5" sha1="56cfde153964246e3fce77bfdc7c948531ecbe90"/>
+	</game>
+</datafile>

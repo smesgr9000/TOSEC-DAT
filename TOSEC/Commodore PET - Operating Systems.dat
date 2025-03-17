@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore PET - Operating Systems</name>
-		<description>Commodore PET - Operating Systems (TOSEC-v2024-01-15)</description>
+		<description>Commodore PET - Operating Systems (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -16,12 +16,60 @@
 		<description>CPM-65 (2023-10-01)(Given, David)(4032)(CH)(en)(BSD-2)</description>
 		<rom name="CPM-65 (2023-10-01)(Given, David)(4032)(CH)(en)(BSD-2).d64" size="174848" crc="3a147a4c" md5="c128727329f33c0122316e634f07b194" sha1="759f05d39d5dddc7b73b76805830db44b3124db1"/>
 	</game>
+	<game name="CPM-65 (2023-10-01)(Given, David)(4032)(CH)(en)(BSD-2)[a]">
+		<description>CPM-65 (2023-10-01)(Given, David)(4032)(CH)(en)(BSD-2)[a]</description>
+		<rom name="CPM-65 (2023-10-01)(Given, David)(4032)(CH)(en)(BSD-2)[a].d64" size="174848" crc="0e7105c0" md5="4368b4fc837a00c75d363b3c79afcc5e" sha1="9c646f8043bb4aebd6fc8e475e1bafe76f9d2f52"/>
+	</game>
 	<game name="CPM-65 (2023-10-01)(Given, David)(8032)(CH)(en)(BSD-2)">
 		<description>CPM-65 (2023-10-01)(Given, David)(8032)(CH)(en)(BSD-2)</description>
 		<rom name="CPM-65 (2023-10-01)(Given, David)(8032)(CH)(en)(BSD-2).d64" size="174848" crc="2ab34349" md5="d924c5667a7415fbde1acd2110421b5c" sha1="46b09d9ea293f4444e24277cdd73ce3d0fa03f89"/>
 	</game>
+	<game name="CPM-65 (2023-10-01)(Given, David)(8032)(CH)(en)(BSD-2)[a]">
+		<description>CPM-65 (2023-10-01)(Given, David)(8032)(CH)(en)(BSD-2)[a]</description>
+		<rom name="CPM-65 (2023-10-01)(Given, David)(8032)(CH)(en)(BSD-2)[a].d64" size="174848" crc="c6b105d5" md5="d57e6a34d3c13dee0f82ca7cf8c4f7c6" sha1="ea11e8dfb69d9a3ce1662776ce4fb829659876ba"/>
+	</game>
 	<game name="CPM-65 (2023-10-01)(Given, David)(8096)(CH)(en)(BSD-2)">
 		<description>CPM-65 (2023-10-01)(Given, David)(8096)(CH)(en)(BSD-2)</description>
 		<rom name="CPM-65 (2023-10-01)(Given, David)(8096)(CH)(en)(BSD-2).d64" size="174848" crc="3af25fcf" md5="061ef26f9835aec57b98598fca4f7487" sha1="738f4650c74ff2f6ee2b0b0ee4ada0691f3cc808"/>
+	</game>
+	<game name="CPM-65 (2023-10-01)(Given, David)(8096)(CH)(en)(BSD-2)[a]">
+		<description>CPM-65 (2023-10-01)(Given, David)(8096)(CH)(en)(BSD-2)[a]</description>
+		<rom name="CPM-65 (2023-10-01)(Given, David)(8096)(CH)(en)(BSD-2)[a].d64" size="174848" crc="051e31b4" md5="a082f7fa232b81bc6b76354e53256bd4" sha1="e367f52a66ba026721f1de8b3eeede44698f3169"/>
+	</game>
+	<game name="CPM-65 (2024-05-03)(Given, David)(4032)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-05-03)(Given, David)(4032)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-05-03)(Given, David)(4032)(CH)(en)(BSD-2).d64" size="174848" crc="89f7fc9c" md5="8057de3f9876926c252e8307ff62745c" sha1="01cac97f822b0c69a59b852b77726a560f729616"/>
+	</game>
+	<game name="CPM-65 (2024-05-03)(Given, David)(8032)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-05-03)(Given, David)(8032)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-05-03)(Given, David)(8032)(CH)(en)(BSD-2).d64" size="174848" crc="4137fc89" md5="de67758df2cc190af0a83f0b2ac5d781" sha1="46db619feb6a3eb7da007efdbb7ec22bade9ad36"/>
+	</game>
+	<game name="CPM-65 (2024-05-03)(Given, David)(8096)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-05-03)(Given, David)(8096)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-05-03)(Given, David)(8096)(CH)(en)(BSD-2).d64" size="174848" crc="8298c8e8" md5="97acec472b9316a8f44e2a389365806f" sha1="5c79878cd849b70b90f5bd96fdbe683ed5cfb2cf"/>
+	</game>
+	<game name="CPM-65 (2024-07-17)(Given, David)(4032)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-07-17)(Given, David)(4032)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-07-17)(Given, David)(4032)(CH)(en)(BSD-2).d64" size="174848" crc="6b0fbbbb" md5="2f1ba7d9b50fdc20a798d094a7fe7c4a" sha1="e8aa971174302d0c4ca38ac31d7d7a7b6a0ef817"/>
+	</game>
+	<game name="CPM-65 (2024-07-17)(Given, David)(8032)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-07-17)(Given, David)(8032)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-07-17)(Given, David)(8032)(CH)(en)(BSD-2).d64" size="174848" crc="a3cfbbae" md5="31dad29268ae748625adb6ba61f50169" sha1="af9c8597981d2e2ee9b4a75697468f0c83daa188"/>
+	</game>
+	<game name="CPM-65 (2024-07-17)(Given, David)(8096)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-07-17)(Given, David)(8096)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-07-17)(Given, David)(8096)(CH)(en)(BSD-2).d64" size="174848" crc="60608fcf" md5="bd104630a183bbaeb2ad427c42d1cc8c" sha1="540a970ac07b6cb08309c91e1161a2897a49cc3c"/>
+	</game>
+	<game name="CPM-65 (2024-08-21)(Given, David)(4032)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-08-21)(Given, David)(4032)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-08-21)(Given, David)(4032)(CH)(en)(BSD-2).d64" size="174848" crc="60c78a4e" md5="3b2594bb761511c97effba3a807934a9" sha1="7838894961ec0bae68a0641cfad058adefbca173"/>
+	</game>
+	<game name="CPM-65 (2024-08-21)(Given, David)(8032)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-08-21)(Given, David)(8032)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-08-21)(Given, David)(8032)(CH)(en)(BSD-2).d64" size="174848" crc="a8078a5b" md5="1809a540edfc3e6b3834c643e59cf8ab" sha1="14bb321e175b8b89d213cad07099910d62b1372b"/>
+	</game>
+	<game name="CPM-65 (2024-08-21)(Given, David)(8096)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-08-21)(Given, David)(8096)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-08-21)(Given, David)(8096)(CH)(en)(BSD-2).d64" size="174848" crc="6ba8be3a" md5="61ce1b6f6eab8a844549eb3143c706c8" sha1="93eac1cabc8329cd07417c997954e8cf223e1afe"/>
 	</game>
 </datafile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [FIX]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [FIX] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Boot63 v1.1 (1987)(Doug Mayfield)[FIX]">
+		<description>Boot63 v1.1 (1987)(Doug Mayfield)[FIX]</description>
+		<rom name="boot63a.fix" size="3710" crc="df9cd537" md5="67e3b64d9a3a40f84b1986eccedb2e27" sha1="3da0122a5dfb8a5a711bb625ad7ba60ed1b7355c"/>
+		<rom name="boot63b.fix" size="1044" crc="a0e5612c" md5="2eca5ae19616ba09ebb7cb4841bf7fca" sha1="e4731fc09e16a1ce33aeae4aaa2341e09f97552e"/>
+	</game>
+	<game name="Hi-Resolution TRSDOS Fixes (19xx)(-)[FIX]">
+		<description>Hi-Resolution TRSDOS Fixes (19xx)(-)[FIX]</description>
+		<rom name="basgov1.fix" size="1721" crc="40351790" md5="f7ecd9640a311d245bfb17ff777d308a" sha1="4031e2afe65f7d904ed89470942268f6ed4fdf71"/>
+		<rom name="bsortg.fix" size="264" crc="153ec15e" md5="277a4ed790a4a99c67b157b89a0526e4" sha1="ced628f2d6876b21448db293366c4d86c231d524"/>
+		<rom name="fgprt2.fix" size="423" crc="af1d1ced" md5="51ae20e7a01d2d5eb07a7e76ad6421fc" sha1="040a515fdf6280f9655991d0f357d47ae0ffab7a"/>
+		<rom name="rsgprt.fix" size="475" crc="3f76363f" md5="9500930b8d35c3ad751e26af3bcefa34" sha1="24094dfb0c245ed8642c4a96198d8f948d9593be"/>
+		<rom name="rssl.fix" size="322" crc="bed3b2a6" md5="f46f48e26b58a2724f3d1bebc9a2165d" sha1="af568e9c9d784e8e999229e42bea041046bde49f"/>
+	</game>
+	<game name="Keyboard Stroke Multiplier Patch (19xx)(-)[FIX]">
+		<description>Keyboard Stroke Multiplier Patch (19xx)(-)[FIX]</description>
+		<rom name="ADDSTRIP.ASC" size="2816" crc="05cb1ea1" md5="318af8e165d38d9f938d9fda59c2076f" sha1="77ec88b06a33f9a97ac04176b86a2b4534c60e44"/>
+		<rom name="JLH6.FIX" size="768" crc="ff150bae" md5="4d8e2477455b9cca39e62f24bda0fa3a" sha1="f754683d0bdb208c9b9ff00ddc6cd46883ed2acd"/>
+		<rom name="KSMHELPR.TXT" size="6656" crc="2e45172e" md5="ab5c7445c6c0db50d71f6774e36a9d63" sha1="169982d7b7580f11bde94f0a1be4f9132267bd26"/>
+	</game>
+	<game name="Model IV Speedup Patches (19xx)(Bill McInnis)[FIX]">
+		<description>Model IV Speedup Patches (19xx)(Bill McInnis)[FIX]</description>
+		<rom name="BOOT6MHZ.FIX" size="285" crc="d938beed" md5="c8ff5ba755815649ab814ef4ec338faf" sha1="53b7ae1f4678e2b62e53f6ef902b27c70b674807"/>
+		<rom name="FASTBT.FIX" size="153" crc="3e8daf30" md5="0da5eaf1cc619b86c2f2b0dc2a21e359" sha1="e2754d3fda1d350856aff214ce2752cd4a56c725"/>
+		<rom name="FIX6MHZ.TXT" size="1706" crc="0a546139" md5="5a3dd2295a101cdb1dff7fd79b5fa759" sha1="025a03f6c31ee67f646c141f314e7ea573895781"/>
+		<rom name="XLR8BU.FIX" size="140" crc="99c6a9bd" md5="81cd42bd33aa0f6b7b6f1a6dc60150e3" sha1="59fb1c7d2e7528044d511219d84f03d7775372a7"/>
+		<rom name="XLR8S12.FIX" size="143" crc="8d1aad57" md5="a84219941e86f664fbf67667392eec60" sha1="ca415fcfffa667a4c2bfcce3f5cc91637964eea6"/>
+		<rom name="XLR8S2.FIX" size="140" crc="e721fbb6" md5="5ad33ca98108a95226b47903618e5a06" sha1="ce343520d139896280c4795a883c82069b47ab6e"/>
+	</game>
+	<game name="SuperLog4 Fix for Additional Memory Banks (19xx)(-)[FIX]">
+		<description>SuperLog4 Fix for Additional Memory Banks (19xx)(-)[FIX]</description>
+		<rom name="SL4.FIX" size="1540" crc="b1cfd605" md5="103cdfdd180dd4ce3f31b7f1d9215eed" sha1="e25119e4606827001a8384dc3407f33f02b2172a"/>
+	</game>
+</datafile>

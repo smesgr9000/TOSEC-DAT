@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Sega 32X - Games</name>
-		<description>Sega 32X - Games (TOSEC-v2023-08-29)</description>
+		<description>Sega 32X - Games (TOSEC-v2024-07-03)</description>
 		<category>TOSEC</category>
-		<version>2023-08-29</version>
+		<version>2024-07-03</version>
 		<author>Cassiel - mictlantecuhtle - Newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -171,6 +171,10 @@
 	<game name="After Burner Complete (1994)(Sega)(EU)(en)[a]">
 		<description>After Burner Complete (1994)(Sega)(EU)(en)[a]</description>
 		<rom name="After Burner Complete (1994)(Sega)(EU)(en)[a].bin" size="2097152" crc="76b8378c" md5="51394feba4165bc92bc5071137bf2c4e" sha1="c9365900e64ddde8dec186589b17805b01b08e11"/>
+	</game>
+	<game name="After Burner Complete (1994)(Sega)(EU)(en)[tr pt Nenhum][pt-br]">
+		<description>After Burner Complete (1994)(Sega)(EU)(en)[tr pt Nenhum][pt-br]</description>
+		<rom name="After Burner Complete (1994)(Sega)(EU)(en)[tr pt Nenhum][pt-br].bin" size="2097154" crc="8adb5f6e" md5="12f5f62d5d220b71726136ca9f30dd58" sha1="ea90ef24caeea5c5e38130b239ecf2e58f7696be"/>
 	</game>
 	<game name="After Burner Complete (1994)(Sega)(EU)(en)[tr pt]">
 		<description>After Burner Complete (1994)(Sega)(EU)(en)[tr pt]</description>
@@ -400,10 +404,6 @@
 		<description>Doom RR (1995-03-07)(Sega)(proto)</description>
 		<rom name="Doom RR (1995-03-07)(Sega)(proto).bin" size="3145728" crc="955cf84a" md5="37974d4c2596436922770ebbeed0927b" sha1="a2d5b5acc7e19abfb927bb0ed110d80d685510c9"/>
 	</game>
-	<game name="Double Symbol v1.35 (2019-12-30)(T-Arts Studio)(RU)(en)">
-		<description>Double Symbol v1.35 (2019-12-30)(T-Arts Studio)(RU)(en)</description>
-		<rom name="Double Symbol v1.35 (2019-12-30)(T-Arts Studio)(RU)(en).bin" size="484748" crc="2812d4fe" md5="4b14e8c22a97b4fd164e077a4980c582" sha1="54421dcfeecb9d00d1e6deeb191d921baa323a4e"/>
-	</game>
 	<game name="FIFA Soccer 96 (1995)(Electronic Arts)(EU-US)(M6)">
 		<description>FIFA Soccer 96 (1995)(Electronic Arts)(EU-US)(M6)</description>
 		<rom name="FIFA Soccer 96 (1995)(Electronic Arts)(EU-US)(M6).bin" size="3145728" crc="fb14a7c8" md5="24aaa6ef307d20147ce10e7610e59aa2" sha1="131ebb717dee4dd1d8f5ab2b9393c23785d3a359"/>
@@ -411,10 +411,6 @@
 	<game name="FIFA Soccer 96 (1995)(Electronic Arts)(EU-US)(M6)[f NTSC GhostlyDark]">
 		<description>FIFA Soccer 96 (1995)(Electronic Arts)(EU-US)(M6)[f NTSC GhostlyDark]</description>
 		<rom name="FIFA Soccer 96 (1995)(Electronic Arts)(EU-US)(M6)[f NTSC GhostlyDark].bin" size="3145728" crc="495a7878" md5="677f11c646881d341faaedc224aa1f7f" sha1="cf12db30f3afaf81eff1c3b04d735a4e949335f9"/>
-	</game>
-	<game name="Galaxian - BasiEgaXorz Version (2000-12)(Devster)(PD)">
-		<description>Galaxian - BasiEgaXorz Version (2000-12)(Devster)(PD)</description>
-		<rom name="Galaxian - BasiEgaXorz Version (2000-12)(Devster)(PD).bin" size="19044" crc="4ffcf4b2" md5="b17b61962136f99abe1d6d1bb844d71c" sha1="566d532c34f60a259a86fc2f99ceff41ad993f5b"/>
 	</game>
 	<game name="Kolibri (1995)(Sega)">
 		<description>Kolibri (1995)(Sega)</description>
@@ -587,14 +583,6 @@
 	<game name="Primal Rage (1995)(Probe - Time Warner Interactive)">
 		<description>Primal Rage (1995)(Probe - Time Warner Interactive)</description>
 		<rom name="Primal Rage (1995)(Probe - Time Warner Interactive).bin" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7"/>
-	</game>
-	<game name="Question, The v0.1.0 (2017-10-23)(haroldo-ok)">
-		<description>Question, The v0.1.0 (2017-10-23)(haroldo-ok)</description>
-		<rom name="Question, The v0.1.0 (2017-10-23)(haroldo-ok).32x" size="304012" crc="e73e5f72" md5="24b87dffa4d0cc5852098481372eef60" sha1="2726d99012eda47c59530f2bd113ffaa9445feb4"/>
-	</game>
-	<game name="Question, The v0.1.1 (2017-10-27)(haroldo-ok)">
-		<description>Question, The v0.1.1 (2017-10-27)(haroldo-ok)</description>
-		<rom name="Question, The v0.1.1 (2017-10-27)(haroldo-ok).32x" size="304188" crc="030c6ab9" md5="b119e145a593c66dde148192fb3c5d22" sha1="0764b65489a23a0219e71cb030436402dff4f1f3"/>
 	</game>
 	<game name="RBI Baseball '95 (1995)(Atari - Time Warner Interactive)(US)">
 		<description>RBI Baseball '95 (1995)(Atari - Time Warner Interactive)(US)</description>

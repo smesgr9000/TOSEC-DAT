@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [FLT]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [FLT] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Active Variable Analyzer for TRSDOS 6.2.X (19xx)(-)[FLT]">
+		<description>Active Variable Analyzer for TRSDOS 6.2.X (19xx)(-)[FLT]</description>
+		<rom name="var.src" size="9119" crc="9338ea60" md5="7fc62cc06a9b3dc0615d7f8637245e31" sha1="996e755fa6365b43e90dbf596e68719687232f24"/>
+		<rom name="vars.flt" size="1401" crc="ffedd82b" md5="390ff6d7846d9a7c9d5ddf7b4794b924" sha1="049f12a5e2c0950770857e567deab9c8584c9526"/>
+		<rom name="vars.src" size="9120" crc="5e1d59ce" md5="7a239a4516e11aec8de98c7b236f6719" sha1="d453bda5fcfffa801302e5746f668694344c8eaa"/>
+	</game>
+	<game name="Assembly Language Filter Tool (19xx)(Bob Haynes)[FLT]">
+		<description>Assembly Language Filter Tool (19xx)(Bob Haynes)[FLT]</description>
+		<rom name="RXGEN.ASM" size="4093" crc="875cc71b" md5="bf9f8126c2471fc2091252bbd54f70a8" sha1="3438a7f88fafe2d008f9b3ad7b73098f68eeccb3"/>
+		<rom name="RXGEN.CMD" size="724" crc="488aa8ae" md5="5215fce9afb218885bf9c36bb536d1d2" sha1="0d6ad7c043927eb144a6575e2adc9373cfc234ea"/>
+		<rom name="RXGEN.DOC" size="2218" crc="b60987c3" md5="32bf8b94d1009bdd44c95e32c71bdf54" sha1="1036cf70017edd175ee59f004359c0b7dd8f997e"/>
+	</game>
+	<game name="Calc Filter (1984)(Logical Systems Inc)[FLT]">
+		<description>Calc Filter (1984)(Logical Systems Inc)[FLT]</description>
+		<rom name="calc.flt" size="1642" crc="4bebebf5" md5="e6cb6256a1ab3dd129f4a556ece790fd" sha1="d6113263dc2c931a4da50e28e3ec9de236ef4cb0"/>
+	</game>
+	<game name="Command Line Editor and Repeater (19xx)(-)[FLT]">
+		<description>Command Line Editor and Repeater (19xx)(-)[FLT]</description>
+		<rom name="e.asm" size="4088" crc="0589566b" md5="0f84e44939ef642fdbba9eb9de3329cb" sha1="9b2e87c8dd5958dde4693ccf7f71e6511555d74e"/>
+		<rom name="e.cmd" size="256" crc="43b42603" md5="7522a6f4e0ccb407b5b2c597776cdd6c" sha1="3d1f95559db06886acac9960fecbb36feba8b95f"/>
+		<rom name="eir.doc" size="2192" crc="9826dd33" md5="cf4ca2ea08fe26bc09992d28135fda08" sha1="1b9c11f7e8b7092d2cf9eb7b76b4417bed462892"/>
+		<rom name="i.asm" size="4094" crc="bbec63d8" md5="0534043b07010ee2ddc604450c153084" sha1="06b69a2cebbf49d7dfa782357763ca021f5657d0"/>
+		<rom name="i.cmd" size="223" crc="0c566204" md5="9c08d36cf907c52c3d76e15804917a18" sha1="e8891d229ce04f4c5e6014c6fcface86e84b45fd"/>
+		<rom name="r.asm" size="5120" crc="57ff2c55" md5="2cc537b8373c94b9acfbea405b68d1d7" sha1="14a2e3aa9ec534ee77ea0ba55c4e6fbba289dc30"/>
+		<rom name="r.cmd" size="512" crc="3d70a8a8" md5="29216a7f82ad23e69d2ccbfe8a227b2d" sha1="aeb7482d550b4b599203bab8f457a3bf3759c0f5"/>
+		<rom name="REPEAT.DOC" size="2204" crc="1babd276" md5="252adc0224ce2e69e7e25952af3817bc" sha1="90cbd313c97c0affd4c6c07e4ecb1efeb92d4cfc"/>
+		<rom name="RPT2.FLT" size="972" crc="48a1a4c9" md5="38f3d91af88bbb5b8a56905a4dca7b8a" sha1="25bc439713227a5bbf6b67f14b0fb4915a76892c"/>
+	</game>
+	<game name="Decode4 Display RLE and CIS in High-Res v1.1 (19xx)(-)[FLT]">
+		<description>Decode4 Display RLE and CIS in High-Res v1.1 (19xx)(-)[FLT]</description>
+		<rom name="dcode4.bin" size="768" crc="57c0b667" md5="b739b5c91e06aaf1e447bab0f4f93294" sha1="ea219fd0ad0240d9e7488c39b621239d733d3d2d"/>
+	</game>
+	<game name="Edit Last (19xx)(Ken Hipple)[FLT]">
+		<description>Edit Last (19xx)(Ken Hipple)[FLT]</description>
+		<rom name="EL.ASC" size="12248" crc="c615eb3b" md5="85418ef8718a501fa3cc2ea34c70081a" sha1="81cd57f644d276b47a5c9a6caa630bba8bbb13da"/>
+		<rom name="EL.DOC" size="9193" crc="87d8a521" md5="e35129c2ca8998cbca8d91c85e002e44" sha1="9bab2731f4591ce3c96389df81ec6878c4b8cda1"/>
+		<rom name="EL.FLT" size="1792" crc="d34c822f" md5="069c21d70dbb90baa52946dc847e9d45" sha1="bf7c1f00fd59bd2c668ee219c2b72c1872741a9a"/>
+	</game>
+	<game name="Expand TABs to Video Display Filter (19xx)(-)[FLT]">
+		<description>Expand TABs to Video Display Filter (19xx)(-)[FLT]</description>
+		<rom name="TABS.FLT" size="318" crc="2d4fcac6" md5="881ee03d4e01c555979c3905b5738879" sha1="e67b05cb044614dee25f6c6c483da528640010f8"/>
+	</game>
+	<game name="EZ Edit (19xx)(-)[FLT]">
+		<description>EZ Edit (19xx)(-)[FLT]</description>
+		<rom name="EZEDIT4.DOC" size="2123" crc="a0cbe673" md5="28f3f6bae9eb4478a137950555d4fcc9" sha1="82e973baf970fe864e56d1f20f04d7390ee82ef7"/>
+		<rom name="EZEDIT4.FLT" size="1141" crc="c6cc100b" md5="9cb92b043d4c158034a7955ab23f2061" sha1="a94f234cc66cf0b7bb8e8ab5a64f9d9bf99cd74c"/>
+	</game>
+	<game name="EZEDIT4 (19xx)(Michael Jacobs)[FLT]">
+		<description>EZEDIT4 (19xx)(Michael Jacobs)[FLT]</description>
+		<rom name="ezedit4.doc" size="2123" crc="a0cbe673" md5="28f3f6bae9eb4478a137950555d4fcc9" sha1="82e973baf970fe864e56d1f20f04d7390ee82ef7"/>
+		<rom name="ezedit4.flt" size="1141" crc="c6cc100b" md5="9cb92b043d4c158034a7955ab23f2061" sha1="a94f234cc66cf0b7bb8e8ab5a64f9d9bf99cd74c"/>
+	</game>
+	<game name="Full Screen Editor (1986)(JMR)[a][FLT]">
+		<description>Full Screen Editor (1986)(JMR)[a][FLT]</description>
+		<rom name="scredt.asm" size="6144" crc="11a4d978" md5="aa876169a5e3c2e802c5b055ade03ed4" sha1="56d0d1d3bc9fc49205b08cbe49b9fe9cc894d1b9"/>
+		<rom name="scredt.flt" size="768" crc="5933c8a1" md5="fc7800097a812b67ad0622a6adc33bfa" sha1="9abcd221767dcc8df18dc2b1618770c58ac2f11a"/>
+	</game>
+	<game name="Full Screen Editor (1986)(JMR)[FLT]">
+		<description>Full Screen Editor (1986)(JMR)[FLT]</description>
+		<rom name="SCREDT.ASM" size="6143" crc="aab854e7" md5="0392cbe3a57544302dde281559b18d83" sha1="26cb57e0103d1c00ed5834c320cfa30929f47c6f"/>
+		<rom name="SCREDT.FLT" size="768" crc="5933c8a1" md5="fc7800097a812b67ad0622a6adc33bfa" sha1="9abcd221767dcc8df18dc2b1618770c58ac2f11a"/>
+	</game>
+	<game name="Full Screen Editor (1988)(Doug Thompson)[FLT]">
+		<description>Full Screen Editor (1988)(Doug Thompson)[FLT]</description>
+		<rom name="scredt.asm" size="4647" crc="f7334b87" md5="2fbd66e2f60369aaa8b481c9151f35ee" sha1="6dfc2778da5a3e547f6ba3076e7e2b595165da4c"/>
+		<rom name="scredt.flt" size="797" crc="61054baa" md5="a9f69797190cc80bf86f21f0e190268f" sha1="e201c3090e0ea8c6c80d9144fd4474410618e78f"/>
+	</game>
+	<game name="Full Screen Editor (19xx)(-)[FLT]">
+		<description>Full Screen Editor (19xx)(-)[FLT]</description>
+		<rom name="scredt.asm" size="3243" crc="42cb226b" md5="34da9fe668b2ed023b8fddd736410373" sha1="0fb76c7e1a221b0f6a09d86bcddd54c72b516627"/>
+		<rom name="scredt.flt" size="653" crc="fbd206a8" md5="e962e920f11e00128f13dc8a1faf4099" sha1="72c88e25fdba00115c8127063259767bc72c046c"/>
+	</game>
+	<game name="Function Key Filter v3.2 (1984)(Paladin)[FLT]">
+		<description>Function Key Filter v3.2 (1984)(Paladin)[FLT]</description>
+		<rom name="pf.flt" size="1353" crc="7f151863" md5="89c7de4d6d5b514726fa5d64190f1559" sha1="2791044c0835724da2f284612d1e3ac77783b3ec"/>
+	</game>
+	<game name="H-19 Emulator &amp; Filter (19xx)(Gregg Wonderly)[FLT]">
+		<description>H-19 Emulator &amp; Filter (19xx)(Gregg Wonderly)[FLT]</description>
+		<rom name="h19.flt" size="2688" crc="649d485f" md5="c5a741c62bf359856e9fc3e5d2996e14" sha1="7bbf442f13f2cd84b80784ae00c7094c6038da45"/>
+	</game>
+	<game name="H-19 Emulator &amp; Filter Update (19xx)(Gregg Wonderly)[FLT]">
+		<description>H-19 Emulator &amp; Filter Update (19xx)(Gregg Wonderly)[FLT]</description>
+		<rom name="h19bug.txt" size="1889" crc="5e0e14ff" md5="dc63f0cb7d030b69c3de2fb2f094b077" sha1="f7d41b79b7890bb715a2f5518710dd42ca93a7bd"/>
+		<rom name="m4h19.flt" size="2545" crc="329ac0b1" md5="1243eab13e5b0002a3cddc113a16b13b" sha1="806d63e544c4cee28192de7b8ce5c3076c06d8a2"/>
+		<rom name="m4h192.asm" size="20065" crc="3693f782" md5="b0a02c624de62c14d36d96cbc9f22a1a" sha1="17aaf9c6ef7d7a0b0f258a15a43d26bac4f1847e"/>
+		<rom name="readme.doc" size="657" crc="ef516fd5" md5="26ea97015ea9c909ddbb9a46ce93f5af" sha1="8154f3faa7b25befe928afb477e1732f899caad1"/>
+	</game>
+	<game name="H-19 Emulator &amp; Filters (19xx)(Gregg Wonderly)[a][FLT]">
+		<description>H-19 Emulator &amp; Filters (19xx)(Gregg Wonderly)[a][FLT]</description>
+		<rom name="H19.FLT" size="2560" crc="77fcbeef" md5="7c83bb179bb7a8ac8c99f60cd4a9f95b" sha1="1d85165843f5483d7be19aacd5f344b4349ae802"/>
+		<rom name="H19FLT.FIX" size="149" crc="75d71955" md5="46b75a2b26158c43677344c1606c1047" sha1="5aa2449d4015910a30fc770ce98330897a0139fb"/>
+		<rom name="SETH19.CMD" size="1536" crc="adbbebb9" md5="4fc570379aa74434835db0c22b7679e5" sha1="691626161178b861027cff3050c97044cdddc66b"/>
+	</game>
+	<game name="H-19 Emulator (19xx)(-)[FLT]">
+		<description>H-19 Emulator (19xx)(-)[FLT]</description>
+		<rom name="H19BUG.TXT" size="1889" crc="5e0e14ff" md5="dc63f0cb7d030b69c3de2fb2f094b077" sha1="f7d41b79b7890bb715a2f5518710dd42ca93a7bd"/>
+		<rom name="M4H19.FLT" size="2545" crc="329ac0b1" md5="1243eab13e5b0002a3cddc113a16b13b" sha1="806d63e544c4cee28192de7b8ce5c3076c06d8a2"/>
+		<rom name="M4H192.ASM" size="20065" crc="3693f782" md5="b0a02c624de62c14d36d96cbc9f22a1a" sha1="17aaf9c6ef7d7a0b0f258a15a43d26bac4f1847e"/>
+		<rom name="README.DOC" size="657" crc="ef516fd5" md5="26ea97015ea9c909ddbb9a46ce93f5af" sha1="8154f3faa7b25befe928afb477e1732f899caad1"/>
+	</game>
+	<game name="KI Storage Filter v1.1 (1985)(Karl A Hessinger-MicroConsultants)[FLT]">
+		<description>KI Storage Filter v1.1 (1985)(Karl A Hessinger-MicroConsultants)[FLT]</description>
+		<rom name="kistore.flt" size="1086" crc="cd9959f3" md5="5aee70f6a364f215ab1abaa16a81ecdd" sha1="0b818e5877df70b6f94fde7d7366ddb118e515c0"/>
+	</game>
+	<game name="KSM Plus (1984)(Logical Systems Inc)[FLT]">
+		<description>KSM Plus (1984)(Logical Systems Inc)[FLT]</description>
+		<rom name="ksmplus1.flt" size="1421" crc="48acb55c" md5="88fc48378e4298d7529326cd569956f8" sha1="9885e9490c7fd03a4d21bd3638a382b2debf6641"/>
+		<rom name="ksmplus2.flt" size="1841" crc="98796095" md5="e3137c020cb30546211a968f59bbf2bb" sha1="5abca58a6bcf4d1237fe85a407ccf083eb8f6b24"/>
+		<rom name="ksmplus3.flt" size="1946" crc="ed82545f" md5="18d2713e1bff83d07e5a043028062e18" sha1="3015607f050e439a7e5d48b95de5d66e10dd7a0f"/>
+	</game>
+	<game name="Maxlate (1984)(Logical Systems Inc)[FLT]">
+		<description>Maxlate (1984)(Logical Systems Inc)[FLT]</description>
+		<rom name="dvorak.mlt" size="552" crc="51639510" md5="662dce6b8e730aba965b7897fffa07f2" sha1="36757161abbae1500b8d3867ea2866ad2db8a02e"/>
+		<rom name="ebcdic.mlt" size="884" crc="8716d92d" md5="9cac843386c378be710a2767b4b76ff6" sha1="3ae7639c254dd73c21cb7742e8354fe08f16e151"/>
+		<rom name="maxlate.flt" size="1492" crc="a20abfa6" md5="8564a2de436c65a147bb301ac2c67316" sha1="bdda21d5fe3b35448bc5caed3a2d788026f79edb"/>
+	</game>
+	<game name="Printer Codes Filter (1984)(Logical Systems Inc)[FLT]">
+		<description>Printer Codes Filter (1984)(Logical Systems Inc)[FLT]</description>
+		<rom name="prcodes.flt" size="997" crc="32e1937b" md5="5981eda2c30e7ba53db0612d6c1857de" sha1="e0ad374458b671d74594c4b445ef473b104b6de2"/>
+	</game>
+	<game name="Program Utility Filters (19xx)(-)[FLT]">
+		<description>Program Utility Filters (19xx)(-)[FLT]</description>
+		<rom name="ECHO.ASM" size="1160" crc="6a70faf8" md5="075b274f917b27fcd528439f12bda4f8" sha1="9670684d3c16cd91ac6bfc6aa94c3b00cc1191fa"/>
+		<rom name="ECHO.CMD" size="180" crc="6d16cf84" md5="10522a426e82201b9bd5f411281e3f8f" sha1="f777363eacd42c707bdda06c28fc24fe0e8ddd5a"/>
+		<rom name="FILTER.JCL" size="1859" crc="73f9ef9b" md5="2b679e7d9425f84956a7adab95adfade" sha1="a31610a05306b53e4ec4a5ac2e84deb2bc8fe1a6"/>
+		<rom name="FIND.ASM" size="7380" crc="27e802c1" md5="c92dd15e2b077deeddf7edf7b348831c" sha1="6676c01d30a12b0f877a479b697a092aeb92b9df"/>
+		<rom name="FIND.CMD" size="524" crc="70f95a6f" md5="853edb8c3c8b2addfc89fdf44999fe22" sha1="a3828f90821a42ea83165c64b01bf055cb5622a8"/>
+		<rom name="KBLOCK.ASM" size="6001" crc="39f708f5" md5="320447cf520311e2bd2adbdb00fc3575" sha1="84ae2413d3d086c66661f31232fd332617f5b44a"/>
+		<rom name="KBLOCK.FLT" size="657" crc="3f864c54" md5="4a2156f919d5db6caecdbf85082287a2" sha1="72afb153a0f4b6aee19ffb40b04a8dbe3a424428"/>
+		<rom name="MACLIB.ASM" size="13196" crc="e42756f6" md5="c46b6cace0662f3376dbf1c514392def" sha1="4f94db6324522d401d07a34f5dd6a2e44ab23fd5"/>
+		<rom name="NOTEPAD.ASM" size="14666" crc="107b1ae1" md5="c58ccedae71a6248fae3172b33510f10" sha1="bd857d03443902d168cafe66a26eab83d520708d"/>
+		<rom name="NOTEPAD.FLT" size="1396" crc="7907076c" md5="c5af8f5907970e319afdcffe3fa06e83" sha1="04b4a68b1823042ab971cd07647ce55bcce168f5"/>
+		<rom name="PN.FLT" size="1379" crc="1e338cc8" md5="dec3eaef5cd30db02e962021243b74f8" sha1="f9b4d822ef21d53260a3f80d493873a0a5f093ec"/>
+		<rom name="PN.SRC" size="16269" crc="4746f281" md5="26675e292188a201d14e11c467777708" sha1="105ca57e67fa126b2a08ceaf4259b62c6ee44dea"/>
+		<rom name="README.DOC" size="3189" crc="78d3168b" md5="895608a53794bbfb6d52c7c744bf6cf1" sha1="c2e9d8958dc3653a16b81c815ba0e1085478a98e"/>
+	</game>
+	<game name="Screen Edit (1987)(Mel Patrick)[FLT]">
+		<description>Screen Edit (1987)(Mel Patrick)[FLT]</description>
+		<rom name="sedit.flt" size="1873" crc="57e72373" md5="89ccb0ea13c11a72a15b4c1d3431c499" sha1="3f4da6488f29a760a12964625519d31534ee88bb"/>
+		<rom name="sedit.txt" size="11099" crc="97857741" md5="81ae01eac220f5b5f830357dde44a6d4" sha1="ad20f0aa76d17003f183ccdbd950f0baee65a161"/>
+	</game>
+	<game name="Screen Saver (19xx)(Trollsoft)[FLT]">
+		<description>Screen Saver (19xx)(Trollsoft)[FLT]</description>
+		<rom name="SCREEN.DOC" size="1229" crc="0ea74efe" md5="22b7e6085c3b8130865ff80ffac8b4de" sha1="9833ad7901893f1ad329f6b6071946d476890d97"/>
+		<rom name="SCREEN.FLT" size="527" crc="0ddf6eff" md5="03bcd07e9ec721e2358fe2adfcff1d72" sha1="0f0d0bbf9a39bb0903f1657a5f41974ceb7a03c2"/>
+	</game>
+	<game name="Screen TTY Memory Controller v2.1 (1985)(Trollsoft Systems)[FLT]">
+		<description>Screen TTY Memory Controller v2.1 (1985)(Trollsoft Systems)[FLT]</description>
+		<rom name="screen.doc" size="1231" crc="95795e38" md5="45ad8f6f6384a0740739c4c938e72e25" sha1="bc6b1fe6f72e11e8a225aea95264919a5bad4d63"/>
+		<rom name="screen.flt" size="768" crc="7efcb46d" md5="2b7a678cae3c66cd4510b66aca6029ae" sha1="ec40102ac4e60a57321d18b5202f9b2032cf61dd"/>
+		<rom name="screen.jcl" size="75" crc="435f8944" md5="ba76486eddf268f00508c5f0352706f9" sha1="82c38348f863c96f72e811d5cd92e853e51bf03b"/>
+	</game>
+	<game name="Synonym4 (19xx)(Michael Jacobs)[FLT]">
+		<description>Synonym4 (19xx)(Michael Jacobs)[FLT]</description>
+		<rom name="synonym.txt" size="2126" crc="d48384fe" md5="30f83dc84a7bbf27da529f03c480a628" sha1="e419a0397d0bad02dd4e3ede5f09c2917765fcfe"/>
+		<rom name="synonym4.cmd" size="1321" crc="d5e82950" md5="27e7958361385f262f3667ef37b96e98" sha1="59a583321f0862a412ce788c7d55fc3fd6f63a1d"/>
+		<rom name="synonym4.doc" size="2222" crc="f49076d7" md5="60629d51fb8a42460331f24ca98d0923" sha1="e2f390b063210e369733d7c19776f039355b181c"/>
+	</game>
+	<game name="Tab Expander (1987)(Larry Prall)[FLT]">
+		<description>Tab Expander (1987)(Larry Prall)[FLT]</description>
+		<rom name="TABS.ASM" size="2137" crc="ed89f46e" md5="09dc6d11d2cb2832a2ff3dd39e678b3a" sha1="656b9f58c18550e00cf82e930947163dde362cd9"/>
+		<rom name="TABS.FLT" size="315" crc="cdb679f3" md5="8eadb041e615965f336651ba27f70389" sha1="360705dab7a85256b02193b1f62f971a5f9b7fab"/>
+		<rom name="TABS.TXT" size="1176" crc="69c25de7" md5="fe8bde0198d63be0b880d1575edbee49" sha1="fc2e2973d1238bee7b6614e145e7af79a90a3986"/>
+	</game>
+	<game name="Trap Filter v6.2 (1984)(Logical Systems Inc)[FLT]">
+		<description>Trap Filter v6.2 (1984)(Logical Systems Inc)[FLT]</description>
+		<rom name="trap.flt" size="667" crc="5423057e" md5="52f9365b7253dec11580a0243a7d6a50" sha1="dcc3ea2b6067d141e4f59a649030e47574d43ab4"/>
+	</game>
+	<game name="VT-52 Terminal Emulator (19xx)(-)[FLT]">
+		<description>VT-52 Terminal Emulator (19xx)(-)[FLT]</description>
+		<rom name="VT52.ASM" size="12033" crc="356ed267" md5="50a9cf538e2a2fbb956a598fc9f40e4a" sha1="485aabd4b9c33dcd8cbfb0895688e9fd5b9794a1"/>
+		<rom name="VT52.DOC" size="3502" crc="fde5086f" md5="8aabc75ec8699901d52e411a0e40377b" sha1="57ec62e9d8ca404b4e37c0ca3b00dff3408682e1"/>
+		<rom name="VT52.FLT" size="1191" crc="f85b9eb2" md5="da619bc11f09ca83606ac774514c6c92" sha1="295e14c99d97aa73fb9d0282b738ababef99a7e9"/>
+		<rom name="VT52.JCL" size="245" crc="45a155cc" md5="aca85bae0792ab1274caa56c6e1e0989" sha1="6d053b28bc605ce64aaa6e0756b148531aecf1ab"/>
+		<rom name="VT52.KSM" size="1533" crc="76756a0f" md5="05b8a32bcb0a0d3bae278c8e524ea4f3" sha1="ce335c4acc36ae2c2fc02cc2b8e0fe064e6ba597"/>
+	</game>
+	<game name="Word Process Filter for Assemblers v2.01 (1986)(Bill McQueen)[FLT]">
+		<description>Word Process Filter for Assemblers v2.01 (1986)(Bill McQueen)[FLT]</description>
+		<rom name="wpflt.asm" size="8748" crc="a95e3a53" md5="70f462a30f3fb1ed1edaca6795cbc106" sha1="dffe3a0e082efbf12898493c580289b79e808340"/>
+		<rom name="wpflt.flt" size="771" crc="9e966228" md5="05d78b8e7ba74376b2cd61ba254cb086" sha1="5369f8ba3c17e951219133eab1f4edbcf897a273"/>
+	</game>
+	<game name="Word Processor Filter (19xx)(-)[FLT]">
+		<description>Word Processor Filter (19xx)(-)[FLT]</description>
+		<rom name="WPFLT.DOC" size="5120" crc="e321a51e" md5="6d700d74608c401e6b6e0027c82645c3" sha1="319e1e2ebac888be790ee0c1209416a85c13c704"/>
+		<rom name="WPFLT5.ASM" size="9303" crc="1184db3b" md5="f471b4e6a80e1f687dcc33d83b37c521" sha1="d7aa3b4d7193cf3bfa89a3aebaa42640707d2ce0"/>
+		<rom name="WPFLT5.FLT" size="891" crc="08ce3dcd" md5="efc9107749b1d444264fd37d0f648c0a" sha1="fdaf04ad5ce37e5e75a9e955636b664d17019fc9"/>
+		<rom name="WPFLT6.ASM" size="10920" crc="25252d35" md5="4f0455e4a710553ece0e39f205a6e34a" sha1="bf413e8a276e836bca9284d55f8d70eda0028900"/>
+		<rom name="WPFLT6.FLT" size="1096" crc="ccbb574e" md5="3c73b8dd472896d79adf564ec5734efe" sha1="b99f2e2ce37d72f7ab6cee59b2bc8e3222dd49a6"/>
+	</game>
+</datafile>

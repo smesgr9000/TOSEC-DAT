@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Amstrad CPC - Applications - [DSK]</name>
-		<description>Amstrad CPC - Applications - [DSK] (TOSEC-v2015-05-07)</description>
+		<description>Amstrad CPC - Applications - [DSK] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2015-05-07</version>
-		<author>jugaor - wattie - Cassiel</author>
+		<version>2025-01-15</version>
+		<author>jugaor - wattie - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -208,6 +208,10 @@
 		<description>Contabilidad Domestica (1984)(Amsoft)(es)</description>
 		<rom name="Contabilidad Domestica (1984)(Amsoft)(es).dsk" size="207360" crc="94daa75a" md5="f230027340a0665314404751580e37e0" sha1="c573d24d402fceb4dddd4ed1af5482d04cb55ffd"/>
 	</game>
+	<game name="Contabilidad Domestica (1984)(Pack, A.J &amp; S.E.)(ES)">
+		<description>Contabilidad Domestica (1984)(Pack, A.J &amp; S.E.)(ES)</description>
+		<rom name="Contabilidad Domestica (1984)(Pack, A.J &amp; S.E.)(ES).dsk" size="189952" crc="9765cb8e" md5="4d5430537d775cac0abdcdf21bc536d0" sha1="959991ddc7bdc0834bb04fe4860c1f45ad327bb5"/>
+	</game>
 	<game name="Context (19xx)(-)(de)">
 		<description>Context (19xx)(-)(de)</description>
 		<rom name="Context (19xx)(-)(de).dsk" size="194816" crc="382be449" md5="de57797addffb158dc23df17fc03fbd1" sha1="9cd62ea7f14ae4e27d13b1786db6d2107857bf40"/>
@@ -332,6 +336,10 @@
 		<description>Desk-Royal v1.1 (1996)(Crusader Software)(de)</description>
 		<rom name="Desk-Royal v1.1 (1996)(Crusader Software)(de).dsk" size="194816" crc="004ed218" md5="2e1b81f0208a54b1d31a17f9c698865b" sha1="1341f92d0a322c3d3cda3db0129f51454c525e97"/>
 	</game>
+	<game name="Diccionario de Ensamblador (1987)(Saez, F.J.)(ES)">
+		<description>Diccionario de Ensamblador (1987)(Saez, F.J.)(ES)</description>
+		<rom name="Diccionario de Ensamblador (1987)(Saez, F.J.)(ES).dsk" size="194816" crc="23b6b969" md5="6e6d1fffa61a4c53c2f199c32368464d" sha1="5e62941592927ce6aee7fc688b89c23dcf469ae4"/>
+	</game>
 	<game name="Digi-Tracker v1.4 (1993)(Symbiosis Production)">
 		<description>Digi-Tracker v1.4 (1993)(Symbiosis Production)</description>
 		<rom name="Digi-Tracker v1.4 (1993)(Symbiosis Production).dsk" size="194816" crc="806fcaf2" md5="e6330b3e701b5f011a861fe16138aaf7" sha1="fa367d752f7472de85dc4b29d6d31297e7473fa6"/>
@@ -448,9 +456,29 @@
 		<description>Equinoxe (1991)(Ubisoft)(fr)[a]</description>
 		<rom name="Equinoxe (1991)(Ubisoft)(fr)[a].dsk" size="199680" crc="5e846234" md5="00c0e83e311d54dd8d9b66a130ed43d1" sha1="1da9b4334de75c24d9b3d42664fcc77a77c4805a"/>
 	</game>
+	<game name="ESPChar (2006)(ESP Soft)(ES)">
+		<description>ESPChar (2006)(ESP Soft)(ES)</description>
+		<rom name="ESPChar (2006)(ESP Soft)(ES).dsk" size="778496" crc="568ab8d9" md5="a69749f19879fc3640d2a8206d0225a8" sha1="e4d0039295fc0c239b3af9033e82193dff98cd57"/>
+	</game>
 	<game name="Expense Manager (1984)(Gameworx Software)">
 		<description>Expense Manager (1984)(Gameworx Software)</description>
 		<rom name="Expense Manager (1984)(Gameworx Software).dsk" size="194816" crc="0d69255a" md5="a962d43bc727ca2b0340574df77a62e5" sha1="75f600ce33d2ff73a19a6d844cdeffb1d779ab41"/>
+	</game>
+	<game name="Fichero Bibliografico (1984)(RPA Systems)(ES)">
+		<description>Fichero Bibliografico (1984)(RPA Systems)(ES)</description>
+		<rom name="Fichero Bibliografico (1984)(RPA Systems)(ES).dsk" size="204544" crc="423e841d" md5="9a231e42cfe57880e808304ba8a542e2" sha1="bc9ecc5ddd8cf3c1480e59fd534a8590fd55d801"/>
+	</game>
+	<game name="Fichero Discografico (1984)(RPA Systems)(ES)">
+		<description>Fichero Discografico (1984)(RPA Systems)(ES)</description>
+		<rom name="Fichero Discografico (1984)(RPA Systems)(ES).dsk" size="204544" crc="0a672a77" md5="9cd22aa4a6db6e71f8fed48f251083bd" sha1="789938ef7a7752c8a438204a7edffa1645427f44"/>
+	</game>
+	<game name="Fichero Empresarial (1985)(RPA Systems)(ES)">
+		<description>Fichero Empresarial (1985)(RPA Systems)(ES)</description>
+		<rom name="Fichero Empresarial (1985)(RPA Systems)(ES).dsk" size="194816" crc="6e0a5af4" md5="bd49fd82cdb4546a3e3c4b6721225c4c" sha1="958c7cba6394e626b55ec93a84c9d2e1255a2f24"/>
+	</game>
+	<game name="Fichero Secreto (1985)(RPA Systems)(ES)">
+		<description>Fichero Secreto (1985)(RPA Systems)(ES)</description>
+		<rom name="Fichero Secreto (1985)(RPA Systems)(ES).dsk" size="204544" crc="16520dbd" md5="cf013f08ad0e89c1dd6025ea26fe4e6f" sha1="2a54cbbd1450c467ce0d74bf7639ec48f200c12a"/>
 	</game>
 	<game name="Footbal Forecaster v1 (1991)(Mannan Ali)(PD)">
 		<description>Footbal Forecaster v1 (1991)(Mannan Ali)(PD)</description>
@@ -616,6 +644,10 @@
 		<description>Multiplan v1.06 (1983)(Microsoft)(fr)[CPM Version]</description>
 		<rom name="Multiplan v1.06 (1983)(Microsoft)(fr)[CPM Version].dsk" size="194816" crc="4faa2b69" md5="b380e5e7e23907be255188c3c80df546" sha1="7eadd9960e69d20a111add42f6c2c5e710c450f3"/>
 	</game>
+	<game name="Music Maestro (1985)(MicroByte)(ES)">
+		<description>Music Maestro (1985)(MicroByte)(ES)</description>
+		<rom name="Music Maestro (1985)(MicroByte)(ES).dsk" size="194816" crc="0b69e549" md5="98dfe872eaac7cf3ad7c39fdf933bb51" sha1="ca16a8cc9cac1563bfacf1d4d36883ea5d6f0dc7"/>
+	</game>
 	<game name="Music Studio (19xx)(Cobra Soft)(fr)">
 		<description>Music Studio (19xx)(Cobra Soft)(fr)</description>
 		<rom name="Music Studio (19xx)(Cobra Soft)(fr).dsk" size="194816" crc="ca5e0b98" md5="c5d5dbf83d7dc3306416cdad2348270b" sha1="7b548f4f135fed105a951ac91f43957f8ad1a851"/>
@@ -652,6 +684,10 @@
 		<description>OAX (1986)(ESC)(de)[cr NDR Computing]</description>
 		<rom name="OAX (1986)(ESC)(de)[cr NDR Computing].dsk" size="194816" crc="2c9ca4c8" md5="00683f9d3ab0af3bd274f814384636b8" sha1="8069287700b69d1e6189c251983b6441f154ba65"/>
 	</game>
+	<game name="Oddjob (1985)(MicroByte)(ES)(en-es)">
+		<description>Oddjob (1985)(MicroByte)(ES)(en-es)</description>
+		<rom name="Oddjob (1985)(MicroByte)(ES)(en-es).dsk" size="194816" crc="042480d6" md5="d1cf32793eadc9da8d1daf01e8be8f7e" sha1="c787a61fb16de7bd70ee16b2c03d495e1b9e3d8b"/>
+	</game>
 	<game name="Oddjob (1985)(Pride Utilities)">
 		<description>Oddjob (1985)(Pride Utilities)</description>
 		<rom name="Oddjob (1985)(Pride Utilities).dsk" size="194816" crc="9b35ed5d" md5="024b7a17125d5418d0938277205043c7" sha1="cd590cf3f9c91699342b478381818d8dedf0c60b"/>
@@ -683,6 +719,10 @@
 	<game name="Pandora v1.01 (1989)(Swift Software)">
 		<description>Pandora v1.01 (1989)(Swift Software)</description>
 		<rom name="Pandora v1.01 (1989)(Swift Software).dsk" size="194816" crc="6624ad3c" md5="d23cdf7f69bda67a4d34068695e122eb" sha1="56b4aa9b76dcca949df10de6852c6d5508c43957"/>
+	</game>
+	<game name="Pazazz (1985)(MicroByte)(ES)">
+		<description>Pazazz (1985)(MicroByte)(ES)</description>
+		<rom name="Pazazz (1985)(MicroByte)(ES).dsk" size="194816" crc="1937b07d" md5="1eb004937621e62de5376723d6bc92ad" sha1="a9ef260c52d1c7165392c5f31a14f8022361d9bf"/>
 	</game>
 	<game name="PicProg (19xx)(-)">
 		<description>PicProg (19xx)(-)</description>
@@ -788,6 +828,10 @@
 		<description>Resistor (1987)(E.C.)(fr)</description>
 		<rom name="Resistor (1987)(E.C.)(fr).dsk" size="194816" crc="f5dc074d" md5="a042fd070638ea86892b8495b6cff6b1" sha1="95cd8375d9e0be73674b88ee41d68ced73d8e1e1"/>
 	</game>
+	<game name="Retro Loadsheet (2018)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Retro Loadsheet (2018)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Retro Loadsheet (2018)(Kaffesakis, Sakis)(GR)(en).dsk" size="194816" crc="46900abb" md5="2d9e37ff4484b9bdfbe206c2a4148a6e" sha1="de7011205763cc76cd595872caf4de63f692607b"/>
+	</game>
 	<game name="RH-Disco v2.10 (1986)(C. Hoesle-Kienzlen)(de)">
 		<description>RH-Disco v2.10 (1986)(C. Hoesle-Kienzlen)(de)</description>
 		<rom name="RH-Disco v2.10 (1986)(C. Hoesle-Kienzlen)(de).dsk" size="194816" crc="a89ff523" md5="a7afc2b64ce31a5e51d30a8466a748f2" sha1="1fa6ac2461b33cca06e4a5ae6fa50b09ca17828b"/>
@@ -835,6 +879,14 @@
 	<game name="Soft-Arc 2 (1986)(S.T.S.)">
 		<description>Soft-Arc 2 (1986)(S.T.S.)</description>
 		<rom name="Soft-Arc 2 (1986)(S.T.S.).dsk" size="194816" crc="9821a114" md5="9b407ed3053abd335c580615f7befe96" sha1="9a816acd8640c3bfc8ba47da8c08a71a0fc28a52"/>
+	</game>
+	<game name="Sophos (198x)(Mister Chip)(ES)(Side A)[cpm version]">
+		<description>Sophos (198x)(Mister Chip)(ES)(Side A)[cpm version]</description>
+		<rom name="Sophos (198x)(Mister Chip)(ES)(Side A)[cpm version].dsk" size="74752" crc="31181789" md5="4caf1faae5309fac7d9fb5b44936213c" sha1="5e3ff3d9592d3761451d8281e496c4913172ba87"/>
+	</game>
+	<game name="Sophos (198x)(Mister Chip)(ES)(Side B)[cpm version]">
+		<description>Sophos (198x)(Mister Chip)(ES)(Side B)[cpm version]</description>
+		<rom name="Sophos (198x)(Mister Chip)(ES)(Side B)[cpm version].dsk" size="74752" crc="e6f6e2c8" md5="5686457ddf15cb8aee25ce5f59442203" sha1="0dca6a0db2d5a76def77b59fd0b4358d88998094"/>
 	</game>
 	<game name="Soundtrakker 128k, The (19xx)(-)">
 		<description>Soundtrakker 128k, The (19xx)(-)</description>
@@ -911,6 +963,10 @@
 	<game name="Supersonic v1.1 (1991)(Robot-PD)">
 		<description>Supersonic v1.1 (1991)(Robot-PD)</description>
 		<rom name="Supersonic v1.1 (1991)(Robot-PD).dsk" size="194816" crc="49881fc8" md5="435f53830cc8cbf9bb679a58bd00da21" sha1="e2e362141e1a3ea6e6cf5b1812932dce1dcd0eee"/>
+	</game>
+	<game name="Syclone 2 (1985)(MicroByte)(ES)">
+		<description>Syclone 2 (1985)(MicroByte)(ES)</description>
+		<rom name="Syclone 2 (1985)(MicroByte)(ES).dsk" size="9984" crc="eb679edd" md5="61ca9149884eb0e419c8565171a2708e" sha1="3e1b80fa9c280203d5eb5e0b5674682d3b28758c"/>
 	</game>
 	<game name="Tasword (1984)(Tasman Software)">
 		<description>Tasword (1984)(Tasman Software)</description>
@@ -1035,5 +1091,9 @@
 	<game name="XSshow (1993)(Bollaware)">
 		<description>XSshow (1993)(Bollaware)</description>
 		<rom name="XSshow (1993)(Bollaware).dsk" size="194816" crc="c2e8c153" md5="d43014458eb34d3e5217e0b8cdc38e14" sha1="4b3a3c93d42f10583446a0ab522cc91578390f97"/>
+	</game>
+	<game name="Zedis II (1985)(MicroByte)(ES)">
+		<description>Zedis II (1985)(MicroByte)(ES)</description>
+		<rom name="Zedis II (1985)(MicroByte)(ES).dsk" size="21248" crc="fa5d4345" md5="f5fc5e3db80c478c521d83de5f2c147f" sha1="45b287b7dbf672c8b31fd7e001b8ac4289c2680c"/>
 	</game>
 </datafile>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [FOR]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [FOR] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assign LUN's in Fortran (19xx)(John C Adams Jr)[FOR]">
+		<description>Assign LUN's in Fortran (19xx)(John C Adams Jr)[FOR]</description>
+		<rom name="inout.for" size="1987" crc="dde22311" md5="318f50d5bb163a80d402cbe7060f3493" sha1="756129ce930d3d1e6d4c3fc6b17e07784d68ecb8"/>
+		<rom name="subinout.txt" size="4810" crc="56871a49" md5="6aab4b751a788ac9beff5f1e2e9e65d7" sha1="b3a86d31a5903a44abe8d713c0d0ace80cca5e26"/>
+		<rom name="testio.for" size="857" crc="8b2d483f" md5="d32bdc2b7ca3dd87abd3366bcd776c85" sha1="a1227fd383645a8702a33ec6572b504a405ff263"/>
+	</game>
+</datafile>

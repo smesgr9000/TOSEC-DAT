@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Various - [DSK]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Various - [DSK] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mark III Collection (19xx)(-)[DSK]">
+		<description>Mark III Collection (19xx)(-)[DSK]</description>
+		<rom name="mark3a.dsk" size="193024" crc="098008c3" md5="371861902885f88aafe720ea1f23dd9c" sha1="1599fc5e5392fcf0e6b97042e9c477d80d11a513"/>
+		<rom name="mark3b.dsk" size="193024" crc="a82b8ce3" md5="33c190cd1b9c3167d455892fda5df71b" sha1="a2a949ed148d77968c785159b805dd8086767aae"/>
+	</game>
+	<game name="Mark IV Collection (1987)(Misosys Inc)[DSK][Disk 1]">
+		<description>Mark IV Collection (1987)(Misosys Inc)[DSK][Disk 1]</description>
+		<rom name="mark4a.dsk" size="193024" crc="b8d05e97" md5="f18db7ebf4c8ba010c31c1452520d970" sha1="1447de9d5ef1d3d6296722613634def4152378d5"/>
+		<rom name="mark4a.txt" size="287" crc="5712c2be" md5="6e2e8d85210ac64239bc2eecc8ff15b3" sha1="6efee594f70c63699a1618553d39159345197793"/>
+	</game>
+	<game name="Mark IV Collection (1987)(Misosys Inc)[DSK][Disk 2]">
+		<description>Mark IV Collection (1987)(Misosys Inc)[DSK][Disk 2]</description>
+		<rom name="mark4b.dsk" size="193024" crc="cc159144" md5="fcde89ddb2f17094c34b634d6738732b" sha1="1f40424d43eb1a288d5f8f087917aa0e19dea98d"/>
+		<rom name="mark4b.txt" size="287" crc="a513fcc8" md5="01670c72ac61b84909ea44a6159ad55b" sha1="13cf7d781ef8b67de9b9ad6635add2df536919be"/>
+	</game>
+	<game name="Mark IV Utility Collection (1987)(Logical Systems Inc)[a][DSK]">
+		<description>Mark IV Utility Collection (1987)(Logical Systems Inc)[a][DSK]</description>
+		<rom name="mark4a.dsk" size="193024" crc="b8d05e97" md5="f18db7ebf4c8ba010c31c1452520d970" sha1="1447de9d5ef1d3d6296722613634def4152378d5"/>
+		<rom name="mark4b.dsk" size="193024" crc="0277d1fe" md5="754e13218ad61f945e6ec6bd59e1f997" sha1="c4964f990ec1b81d1b98c06265a58ad44b3c35c0"/>
+	</game>
+	<game name="Mark IV Utility Collection (19xx)(Logical Systems Inc)[DSK]">
+		<description>Mark IV Utility Collection (19xx)(Logical Systems Inc)[DSK]</description>
+		<rom name="mark4.txt" size="1744" crc="41512a03" md5="edc00933c4c18a1fc275576acd884843" sha1="02120dca1fe0f3edb688d8d85c6001a8d15572cf"/>
+		<rom name="mark4a.dsk" size="193024" crc="99e93a61" md5="60e91f3c5c64978429745dc5ba638c07" sha1="614762ef452e24bce94e942d71f966db00af6ac3"/>
+		<rom name="mark4b.dsk" size="193024" crc="6fbe0e13" md5="4108729d8754f5df28f222fa38db7b5c" sha1="cf970f5b8998c09b945f554d63bf88f6ed05824b"/>
+		<rom name="mark4dd.dmk" size="522256" crc="e9fa2cb7" md5="b1add43486847579bf538d76645fdcea" sha1="3dd06f6f117cccfaeb818b77468e09547e30f673"/>
+		<rom name="mark4dd.dsk" size="377344" crc="a371f069" md5="357cb34045d603523b7a5ff3ea83872e" sha1="9eda87487770f410ee98209cfb6d1c3fbf6af73c"/>
+		<rom name="mrk4dd2.dsk" size="377344" crc="4aab799e" md5="1ba3be53a2ca2621db4998eb56eb04e7" sha1="0f8f86d658e82524fd6fd30bd0a283d7f8ecc05b"/>
+	</game>
+	<game name="Model 4 Public Domain Goodies (19xx)(TRSTimes Publications)[DSK]">
+		<description>Model 4 Public Domain Goodies (19xx)(TRSTimes Publications)[DSK]</description>
+		<rom name="m4gpd1a.dmk" size="256016" crc="50e79c11" md5="fa3f6c1cda8c8c8f1c8eb4b3a545b34b" sha1="560fdc1f25fe6bf4c60d3d1b0bfe7e8577e0dfc8"/>
+		<rom name="m4gpd1a.dsk" size="193024" crc="4b631c49" md5="d6059093579b22d2d7049ac575c50204" sha1="6729c5c56b4262cdeca08d6f90ee4d9e28351a8a"/>
+		<rom name="m4gpd1b.dmk" size="261136" crc="956b491b" md5="d1f5114e2f045882644578ff76a72b4c" sha1="dfe17fa275dbdae9265ed66607c87151041e5541"/>
+		<rom name="m4gpd1b.dsk" size="193024" crc="4b631c49" md5="d6059093579b22d2d7049ac575c50204" sha1="6729c5c56b4262cdeca08d6f90ee4d9e28351a8a"/>
+		<rom name="m4gpd1m.zip" size="246599" crc="ae484791" md5="4e16a081e8b23c350c12f4fb164d3d4a" sha1="02e9352244f27a951b357644a70b628033a41b82"/>
+		<rom name="m4gpd1s.zip" size="219497" crc="8d30aee7" md5="ac600a558ce777d071793dd177565fa4" sha1="2f42e3ef43a01d852b2d978be5c286f0b6f8fe19"/>
+		<rom name="m4gpd2a.dmk" size="261136" crc="b6bd6f6a" md5="b228799f327d557303a9433e5c626384" sha1="44e321bf45c080f00ba7cdd23618182f6825cb73"/>
+		<rom name="m4gpd2a.dsk" size="193024" crc="9f87140a" md5="73e159939a2b5371045e5ffd7212c19a" sha1="7515ee9fb3e4f2e5c8614acc814a4e376f26bdb4"/>
+		<rom name="m4gpd2b.dmk" size="261136" crc="540afb15" md5="6682f256524834de676a49dc3fad27d4" sha1="a2e11f2a1d736e582343550e32a5027979c8f422"/>
+		<rom name="m4gpd2b.dsk" size="193024" crc="67f7d7b8" md5="07fc68da1c39b116af96124124ab629e" sha1="ae41979f34f714568af2744b5ca6b2218058c21a"/>
+		<rom name="m4gpd3a.dmk" size="261136" crc="b44a7772" md5="888ae1ed95262b4b6c14daf729a2f94e" sha1="dc365aa58ca060cb9f7cda71fcdbc723705ce74a"/>
+		<rom name="m4gpd3a.dsk" size="193024" crc="371dd622" md5="095a74ada531362badee99453ce341d7" sha1="8c65e046658c735c47aa8fab088630545a935534"/>
+		<rom name="m4gpd3b.dmk" size="261136" crc="bacd4941" md5="39a33be4b3801bfd9aa8bd5019010193" sha1="837fc33c4d385540be1dc1da101ed1e1fd2d593c"/>
+		<rom name="m4gpd3b.dsk" size="193024" crc="9eda6fa0" md5="a7fccddefcce70f175966c1dc9e7f618" sha1="3851368d59ea05654471e8cd7bda2a8f0dd9956b"/>
+	</game>
+</datafile>

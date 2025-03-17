@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [JCL]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [JCL] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Code &amp; Decode Video Filter (19xx)(Kim Watt)[JCL]">
+		<description>Code &amp; Decode Video Filter (19xx)(Kim Watt)[JCL]</description>
+		<rom name="CODE.JCL" size="512" crc="4a1c601c" md5="32bc0305a889dd5bcbaf86939cd451e0" sha1="c672aa9eabb53ce8646bfe48903509af8aabb8ab"/>
+		<rom name="DECODE.JCL" size="512" crc="9c7618f6" md5="4485ba92f21e71dbc2206c040717357d" sha1="84a1c10f9d216c09f232b760cb43d7fa75c7621a"/>
+	</game>
+	<game name="Create DOS Disk (19xx)(-)[JCL]">
+		<description>Create DOS Disk (19xx)(-)[JCL]</description>
+		<rom name="FMBK.JCL" size="2712" crc="6f6c8e2f" md5="6e79680fd2f022cf79a77cab4f2b2865" sha1="cf6b4b0fdbe6ff32e4e6b54cd1074594a758d422"/>
+		<rom name="JCL.DOC" size="4426" crc="3744b263" md5="29b02fbcc77c73d2f1912e6a6913379e" sha1="2596c1e9bb4ea14a822b18aa5f308c793848418e"/>
+	</game>
+	<game name="LDOS v5.1.3M System Disk Creator (1983)(Doug Hagarth)[JCL]">
+		<description>LDOS v5.1.3M System Disk Creator (1983)(Doug Hagarth)[JCL]</description>
+		<rom name="OPTIMI.JCL" size="2305" crc="83328ccd" md5="833767d17cc87cde1ca2d6dee1fa6c98" sha1="d92ccf4c0a29b0779713faa635c273b5ecdfd3c9"/>
+	</game>
+	<game name="Memory Disk (19xx)(-)[JCL]">
+		<description>Memory Disk (19xx)(-)[JCL]</description>
+		<rom name="KISTORE.FLT" size="1080" crc="17625e98" md5="89413cf53f6fdf738895640424f712e3" sha1="bb152e905ea34980a8f9d9dac37861b8fb900e7d"/>
+		<rom name="MEMDISK.ASM" size="19846" crc="df7acb02" md5="e92ab6d184e2f8273b9302357e771b72" sha1="0a1a2891cd305b9aa19b13b600cbf1dcb96aa4ba"/>
+		<rom name="MEMDISK.CMD" size="1646" crc="47f3a0b6" md5="0744a65a55dd95dcbb54598724b1aafa" sha1="32eb85f04331e3a7c8b39e0162692d9bf30af5c8"/>
+		<rom name="MEMDISK.DCT" size="1646" crc="92ac99a5" md5="8d744976ab2a5ee663395d5d663d1bfc" sha1="01015e4f1d009de352e0eae82ef7d44cb1e86cb0"/>
+		<rom name="MEMDISK.JCL" size="45" crc="0ff07015" md5="9ff35399c9e6380a5e9da1bc86b2f9a6" sha1="d40d0bc7706bc9888e9d63d115e2b131bc7e14a6"/>
+		<rom name="SYSTEM.JCL" size="45" crc="0ff07015" md5="9ff35399c9e6380a5e9da1bc86b2f9a6" sha1="d40d0bc7706bc9888e9d63d115e2b131bc7e14a6"/>
+	</game>
+	<game name="Mirror Copy Backup of Model I Disks (19xx)(-)[JCL]">
+		<description>Mirror Copy Backup of Model I Disks (19xx)(-)[JCL]</description>
+		<rom name="JCL.DOC" size="4426" crc="3744b263" md5="29b02fbcc77c73d2f1912e6a6913379e" sha1="2596c1e9bb4ea14a822b18aa5f308c793848418e"/>
+		<rom name="MIRROR.JCL" size="981" crc="11935d39" md5="989837c110c08f076cadae16ffe1f829" sha1="84aacaa7dc92ad06e46d507ddb057be3a23bd074"/>
+	</game>
+	<game name="Remove Time &amp; Date Query for TRSDOS v1.3 (19xx)(-)[JCL]">
+		<description>Remove Time &amp; Date Query for TRSDOS v1.3 (19xx)(-)[JCL]</description>
+		<rom name="DATEKILL.BLD" size="245" crc="1f487c7b" md5="5dfff6ddc75a1853a715615bd18c77a9" sha1="abcbbb1adce8aa7be8824f865602ffbfec222ed7"/>
+	</game>
+	<game name="Set Up Model III (19xx)(-)[JCL]">
+		<description>Set Up Model III (19xx)(-)[JCL]</description>
+		<rom name="SETUP.JCL" size="3072" crc="11018b87" md5="b777c3f436de8bf38a645d12e80eee97" sha1="b6c8199aac7d7da928dc75b38688076db72c0e82"/>
+	</game>
+	<game name="Speed Up Step Time (19xx)(-)[JCL]">
+		<description>Speed Up Step Time (19xx)(-)[JCL]</description>
+		<rom name="SPEEDUP.BLD" size="1174" crc="75b6f2e0" md5="94c8a034cf1c3a5248e10978579732b0" sha1="aa049e359084825d754ec3788ba671f44625d040"/>
+	</game>
+</datafile>

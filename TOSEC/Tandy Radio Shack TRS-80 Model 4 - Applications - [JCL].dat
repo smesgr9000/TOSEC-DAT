@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [JCL]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [JCL] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Aerocomp Hard Drive Partition Helpers (19xx)(-)[JCL]">
+		<description>Aerocomp Hard Drive Partition Helpers (19xx)(-)[JCL]</description>
+		<rom name="HD10M3.JCL" size="478" crc="cac8fedf" md5="eec45ed83579d8829fc4f756001c9c62" sha1="96ba3b842dccc50e34113e0a764669ba640772af"/>
+		<rom name="HD10M4.JCL" size="470" crc="c9b9f694" md5="3f74ee88a5bd77e8bc3a9f9eee58cdd7" sha1="f1b1a666baacf29dbb6b64caaa40de7bc7ffbd69"/>
+		<rom name="INFO.TXT" size="2113" crc="562a9a19" md5="e01a57ffa5d44dcde55fd61789920089" sha1="a50884788040f750c63efd27420d2887b27ec18f"/>
+		<rom name="LBOOT.JCL" size="287" crc="24e494ca" md5="bda4f47f6dc1079c95d8de743c688d2b" sha1="37a81df65ba844b444f7ab9c84f7ea363f5c18b8"/>
+		<rom name="TRSBOOT.JCL" size="293" crc="24bcadb1" md5="6445d4917c57dc205d5b0d5c98e3f422" sha1="94d90407a6f32c5bd53288ca26a76ede5066aa4e"/>
+	</game>
+	<game name="Automated Backup (19xx)(-)[JCL]">
+		<description>Automated Backup (19xx)(-)[JCL]</description>
+		<rom name="BACKUP.JCL" size="750" crc="7230c398" md5="0735a81d3d35c702605d0ead0222ac00" sha1="e0320ad56127cc4c297f65968bab8457ef1bf20d"/>
+		<rom name="FILES" size="1603" crc="69b9764d" md5="e4380229beb5fecf895970c55f28b69b" sha1="ad8d918a388d4edd4d9a3699c17b6329236de0f6"/>
+		<rom name="README1.ST" size="826" crc="0a0fc11e" md5="e93670a5ca700575b75a3c3ae44f348c" sha1="165201a7688f216abfa94a37f21d277455f97838"/>
+	</game>
+	<game name="DiskCopy for TRSDOS v6.2.1 (19xx)(-)[JCL]">
+		<description>DiskCopy for TRSDOS v6.2.1 (19xx)(-)[JCL]</description>
+		<rom name="DC.JCL" size="1792" crc="a26451e7" md5="55c42734feec81a7bc96266a7ada38a5" sha1="a3d7fcf925d4058b095815d0c7856bc611d5023d"/>
+	</game>
+	<game name="Edit Link and Compile a RatFor Program (19xx)(-)[JCL]">
+		<description>Edit Link and Compile a RatFor Program (19xx)(-)[JCL]</description>
+		<rom name="QRAT.JCL" size="1008" crc="d0374b4f" md5="939b4416372c07024ad5497f3b121ecf" sha1="538cbd64fa602ca210e1decb0f8fde95a9b60abd"/>
+	</game>
+	<game name="Initialize XLR8er Board before MODELA III (19xx)(-)[JCL]">
+		<description>Initialize XLR8er Board before MODELA III (19xx)(-)[JCL]</description>
+		<rom name="INSXBOOT.JCL" size="1582" crc="c1000f30" md5="6b41168256d444b64e07cbd013bd5d9c" sha1="0ca1f8156defb861f9f7fe45faa744e87a634eae"/>
+		<rom name="MODELB.III" size="192" crc="863833b9" md5="14a6ac6d8196ed5af78be67286a22b45" sha1="9d8ee47029bf7ca117cf28a34bd2ca31fb5e36a3"/>
+		<rom name="XBOOT.ASM" size="2588" crc="a637174b" md5="3fb5e922611457650e01df0a543b7ec1" sha1="b28c9cb8571ddaac6893a72e1d057ada71e4a147"/>
+	</game>
+	<game name="InterCil 7170 Clock Chip Utilities (19xx)(-)[JCL]">
+		<description>InterCil 7170 Clock Chip Utilities (19xx)(-)[JCL]</description>
+		<rom name="C7170.CMD" size="2769" crc="753b625d" md5="b5a04bdc11e99850b458fd5a150583ed" sha1="a9a9a9e78822c183550144086a2b377b79f54ede"/>
+		<rom name="C7170.DOC" size="1024" crc="e545aff1" md5="63a34aa15bba8586087983cfca827e3e" sha1="28d24026e3c2b39353af733dd4abf9225ef2c128"/>
+		<rom name="C7170.JCL" size="322" crc="0f908d07" md5="98cda534cd9b874ae7e51aad8807154c" sha1="2b24f6e60a80a71dfb0d9a6c97a87edbcaced58d"/>
+		<rom name="DATE7170.FIX" size="483" crc="85a4bc08" md5="ed8bf1d48dd3bf56202e98c568c1baee" sha1="8951518f9eec7e6d0c9cb9f15ae5096ae3202e71"/>
+		<rom name="DATETIME.FIX" size="746" crc="97640acf" md5="f314b04c899a58635429ceb77c6db235" sha1="78d4e71b10c19bfd86673d1e2289944c6ff0ef51"/>
+		<rom name="TIME7170.FIX" size="532" crc="a04d7e2d" md5="0e57fa7b1e387ae267a35dd1dc475271" sha1="139e99ded78f43cd5ae61b7d49159ea8c8e2617c"/>
+	</game>
+	<game name="MemDisk (19xx)(-)[JCL]">
+		<description>MemDisk (19xx)(-)[JCL]</description>
+		<rom name="memdis.jcl" size="896" crc="0a7bcf91" md5="52d8b3815d52dbc9686c261da94d9be3" sha1="8dac3a361e2f845b81d417def262134c959d9d5a"/>
+		<rom name="memdisk.cmd" size="586" crc="dec627d7" md5="2df2731b5ef9b9d63ced41b28dfc1c6c" sha1="02fb476e5d5a8939258aac93f9543fe7e5e3a747"/>
+		<rom name="memdisk.doc" size="7166" crc="db4d34a0" md5="b243402592d962e46d6b1aa0608f8bf7" sha1="0b9c403d9bffb61ceefbafd7e2d4f29f8547bcc3"/>
+		<rom name="memdisk.jcl" size="896" crc="0a7bcf91" md5="52d8b3815d52dbc9686c261da94d9be3" sha1="8dac3a361e2f845b81d417def262134c959d9d5a"/>
+		<rom name="memdsk5.jcl" size="1024" crc="0661c279" md5="53cb4a614ea2f52968773eafa2397019" sha1="da76eefd83171ac9cf5e788f4d8b5a3c7eacaa04"/>
+	</game>
+	<game name="Move SYS Files To RAMDISK (19xx)(-)[JCL]">
+		<description>Move SYS Files To RAMDISK (19xx)(-)[JCL]</description>
+		<rom name="MEMSYS.JCL" size="128" crc="0945da09" md5="20b6078316a951d8d3e426730fdc7cde" sha1="6d3215af6910a7064b456e239c176501a4145181"/>
+	</game>
+	<game name="Profile 4+ Zaps (19xx)(-)[JCL][First 7 Tandy Fixes]">
+		<description>Profile 4+ Zaps (19xx)(-)[JCL][First 7 Tandy Fixes]</description>
+		<rom name="PROFIL.DOC" size="4146" crc="ca469d86" md5="a770e5fb0830238b5a5311051b1d2443" sha1="de84df75a17aea1794e05ce07ff62b362311300f"/>
+		<rom name="PROFIL.FIX" size="3545" crc="7d136677" md5="b47d125ae0ce1f3daf40787c654ad762" sha1="ef81def35e1d514bd8d61596910a8b65bcb5b5e1"/>
+		<rom name="PROFIL.JCL" size="3650" crc="9fd66021" md5="406ba9ff7a0a78c272a138f74f399be7" sha1="eb8978c0b0fd9f0c7e30230138d3de15b83526ef"/>
+	</game>
+	<game name="ProPaDS Miscellaneous Fixes (19xx)(-)[JCL]">
+		<description>ProPaDS Miscellaneous Fixes (19xx)(-)[JCL]</description>
+		<rom name="LSFEDII.FIX" size="914" crc="03728612" md5="64560475689da22e6c54158e57c70809" sha1="7aaaf14be092b381597eb32e115fc1ee3516d91d"/>
+		<rom name="PDS.DOC" size="101" crc="60614de6" md5="597c2c5e1d114c396cbcf16c99f390f0" sha1="72fc959916b9244d808898b6426a1790ba8bf968"/>
+		<rom name="PDS633A.FIX" size="310" crc="32f1ebe2" md5="2143cfe1699608aaba2f48b105c9c55c" sha1="5a94b3c03300db77af8594a9c8166514ab8269b6"/>
+		<rom name="PDSAPP1.FIX" size="215" crc="a70f2b8f" md5="a85d45631d5547063a9d6fc985c2b50b" sha1="5a7282886e49925049e21f9cf5b74fc3afa77a78"/>
+		<rom name="PDSAPP2.FIX" size="502" crc="d852822d" md5="28beda24745ba28d9ffa57f9344d5271" sha1="0891b1afc48b46408c56a423d5365367def8d0e1"/>
+		<rom name="PDSDIR.FIX" size="385" crc="a36ad5a0" md5="70b3fb347d18cce8513fb44f7f0e9d09" sha1="e47edd82d7b28a6df0e6d045d5c446594ff76a99"/>
+		<rom name="PDSMOD.JCL" size="1059" crc="4db20b3f" md5="b4bc2db637d1183fc3bfceb0c14934b8" sha1="94a23d1a32055dae61748637a860ecd7dab6dad3"/>
+		<rom name="PDSPUR.FIX" size="245" crc="c402264c" md5="e2ae7304758d9eff1722803add5afdc9" sha1="b5a5d218046f05d727a3cf22aba7a8c7672b11d8"/>
+	</game>
+	<game name="SIX2XTND v1.2.1 (1987)(Michael Jacobs Consulting)[JCL]">
+		<description>SIX2XTND v1.2.1 (1987)(Michael Jacobs Consulting)[JCL]</description>
+		<rom name="backup.fix" size="1779" crc="b4736d41" md5="a2f777cec6730a54137dd3bf790bee89" sha1="6bc5736c89d0e68d8653f5714cf58cd7719c251b"/>
+		<rom name="boot620.fix" size="107" crc="fe65fed2" md5="9204072ade950aee9691899130d9e789" sha1="6c90cd07f585d27446c2062b79bb324250283816"/>
+		<rom name="boot621.fix" size="107" crc="25472a54" md5="bfec9882c796412a25393a858dec7c7b" sha1="df84de0c0fc0ee3226e27b4cd98e1bfb29ca5563"/>
+		<rom name="format.fix" size="176" crc="04548328" md5="578dc4f8258c51149d6b7b9c0279b429" sha1="4f531a18ad1d1854bcbe26e8e7a9ce5f71cc3e46"/>
+		<rom name="memdisk.fix" size="85" crc="c30f090d" md5="6d850867fea8755aafa7e1e84252df46" sha1="cc61a8f5dcd3528e78f82ac0107df8b6b68757b2"/>
+		<rom name="readme.now" size="433" crc="f611050d" md5="9e6f5f822e6523c070302ccc61a4db38" sha1="bdea0ce7e285ff31d6989910e72c5fa28368d532"/>
+		<rom name="six22000.jcl" size="322" crc="fa46a062" md5="2a3719786a1c3be8e650b7aa28942a74" sha1="228d549fc18f1c8043090b41edc0750ed9d58f33"/>
+		<rom name="six2xtb.jcl" size="1157" crc="536936a6" md5="572aeb4ffd8817a68513880138c58ff1" sha1="77c5b2e41823a3e7df621c5cc5cd745f91f27006"/>
+		<rom name="six2xtc.jcl" size="571" crc="ad3a78c4" md5="c923b2daaba3c2cd14a3b7387641ffde" sha1="970adfab3c4b7dfcdd09eb519efd89307b46e2f1"/>
+		<rom name="six2xtnd.doc" size="7668" crc="b8b53094" md5="a936464247e24e0f49f45139b53045a8" sha1="094902fe57a8f07ba38da251d51a18e4b5b1d934"/>
+		<rom name="sys0121.fix" size="151" crc="b6e67d84" md5="8415fe9e03a0c0142d4903b15d196402" sha1="29d42dee98b4b4d128de8892912ea3b89afdf32c"/>
+		<rom name="sys02000.fix" size="174" crc="c407b47f" md5="6413a679fc38102d02d2d446cdc2c311" sha1="0c13ffc7decaf1ea6aaacd444c59f9aa23b22f6c"/>
+		<rom name="sys0date.fix" size="475" crc="0cac6f91" md5="1ff5d96e4f721616f8ed1acc1ba72d40" sha1="66139e2a0d11ed7e7a00cf07a45a3c7c19700ea5"/>
+		<rom name="sys2open.fix" size="140" crc="6d87165d" md5="3db047048b24c87f88d9a583ca84e073" sha1="42d16f5aa3efcd2e5f1fe86935b5dac857763594"/>
+		<rom name="sys3clos.fix" size="235" crc="61c1238a" md5="c205507d5b7cb79c2743eeb76bec3231" sha1="31251b8218f74e4e62c353242050028a52927553"/>
+		<rom name="sys6dir.fix" size="1402" crc="ce674178" md5="cf386cd7c52bc46d2eb555626494f621" sha1="6675f37b28ebbfd20f9f18aa35f121ae06550968"/>
+		<rom name="sys7121.fix" size="169" crc="75d57ee0" md5="ab1b80525d1e79839c234a8eb8d4152f" sha1="461702771dfea9ffb39c2d74548bc355caf1bdd3"/>
+		<rom name="sys72000.fix" size="198" crc="f790982a" md5="3df36abbf8ccea0baf99613613f1c263" sha1="731b0733f06980ce896a73950cd4e52b2529b429"/>
+		<rom name="sys7attr.fix" size="262" crc="ecc932e0" md5="c2269efeb56c9b0b88b2f714c7d1586f" sha1="c1f7b09af9d42ff6b5e78a50a87c774f37ba1517"/>
+		<rom name="sys7date.fix" size="372" crc="938cc6c0" md5="88835a07bfdd8acbc75136d1d93d8417" sha1="42b04bf6bfb80812e5a5385ec2106f0f1fbd4a5d"/>
+		<rom name="sys7purg.fix" size="1331" crc="18014764" md5="e9edc433218a4bbbe9edb0b338d0dcb3" sha1="b102165b6f859d6f2282cafac1169a3c1c740ef8"/>
+	</game>
+	<game name="SIX2XTND v1.25 (1988)(-)[a][JCL]">
+		<description>SIX2XTND v1.25 (1988)(-)[a][JCL]</description>
+		<rom name="m4backup.fix" size="1778" crc="77b906d7" md5="4fefb84487665df524971050292fe845" sha1="63d9da87437a8d59bff8e716b22d64305bd21fd7"/>
+		<rom name="m4bt620.fix" size="107" crc="fe65fed2" md5="9204072ade950aee9691899130d9e789" sha1="6c90cd07f585d27446c2062b79bb324250283816"/>
+		<rom name="m4bt621.fix" size="107" crc="25472a54" md5="bfec9882c796412a25393a858dec7c7b" sha1="df84de0c0fc0ee3226e27b4cd98e1bfb29ca5563"/>
+		<rom name="m4format.fix" size="176" crc="04548328" md5="578dc4f8258c51149d6b7b9c0279b429" sha1="4f531a18ad1d1854bcbe26e8e7a9ce5f71cc3e46"/>
+		<rom name="m4memdsk.fix" size="85" crc="c30f090d" md5="6d850867fea8755aafa7e1e84252df46" sha1="cc61a8f5dcd3528e78f82ac0107df8b6b68757b2"/>
+		<rom name="m4readme.now" size="719" crc="8baaf690" md5="710b43d8ca4cd96d3cbbbb6a7789f9fe" sha1="736d98a6e6669abe60160a164048296cb82b810c"/>
+		<rom name="m4s02000.fix" size="174" crc="c407b47f" md5="6413a679fc38102d02d2d446cdc2c311" sha1="0c13ffc7decaf1ea6aaacd444c59f9aa23b22f6c"/>
+		<rom name="m4s0date.fix" size="475" crc="0cac6f91" md5="1ff5d96e4f721616f8ed1acc1ba72d40" sha1="66139e2a0d11ed7e7a00cf07a45a3c7c19700ea5"/>
+		<rom name="m4s2open.fix" size="172" crc="e321d2cb" md5="bd860dc623c918182e899bf7ece35bd0" sha1="70d391d3f77070228e0b47edcc6fcfbbd764d28e"/>
+		<rom name="m4s3clos.fix" size="235" crc="61c1238a" md5="c205507d5b7cb79c2743eeb76bec3231" sha1="31251b8218f74e4e62c353242050028a52927553"/>
+		<rom name="m4s6dir.fix" size="1401" crc="09cf9768" md5="e5883718c77a2d9b6889eb56d799d94b" sha1="75cf19293d405c12826a71cef2ef5549bc9858f1"/>
+		<rom name="m4s7121.fix" size="169" crc="75d57ee0" md5="ab1b80525d1e79839c234a8eb8d4152f" sha1="461702771dfea9ffb39c2d74548bc355caf1bdd3"/>
+		<rom name="m4s72000.fix" size="198" crc="f790982a" md5="3df36abbf8ccea0baf99613613f1c263" sha1="731b0733f06980ce896a73950cd4e52b2529b429"/>
+		<rom name="m4s7attr.fix" size="262" crc="ecc932e0" md5="c2269efeb56c9b0b88b2f714c7d1586f" sha1="c1f7b09af9d42ff6b5e78a50a87c774f37ba1517"/>
+		<rom name="m4s7date.fix" size="372" crc="938cc6c0" md5="88835a07bfdd8acbc75136d1d93d8417" sha1="42b04bf6bfb80812e5a5385ec2106f0f1fbd4a5d"/>
+		<rom name="m4s7purg.fix" size="1330" crc="b96a63c4" md5="a1913bf7364a18d41a758f0d2cccf7c9" sha1="27a37a682bd2a7b58e9a8a20aea3313861207f46"/>
+		<rom name="msgedit.fix" size="610" crc="c2f79394" md5="607cabf24fe3412b2748582d7ac8a2a2" sha1="35ad6392d6e4eb7a65eae3a035e8a0e573023b9a"/>
+		<rom name="six22000.jcl" size="322" crc="fa46a062" md5="2a3719786a1c3be8e650b7aa28942a74" sha1="228d549fc18f1c8043090b41edc0750ed9d58f33"/>
+		<rom name="six2xtb.jcl" size="1203" crc="057c5fe1" md5="ca630742a51d89d190149626d73477a4" sha1="e7c583b92dadc371c7550e248a5bbc263acf974a"/>
+		<rom name="six2xtc.jcl" size="1338" crc="3fb1d0a6" md5="7b6b22b558c7e4fadec7eef87cb32597" sha1="6a45b386f4c0c8dc5d733eea913d28e3dcc35a09"/>
+		<rom name="six2xtnd.doc" size="10408" crc="b319a4aa" md5="952dbdea7bcf6f1094dfa43832c5e392" sha1="5e4872df9dc7484fdbf8bf38d0bfa74e0366338e"/>
+	</game>
+	<game name="SIX2XTND- Fix Collection to Expand TRSDOS v6.2 (19xx)(-)[JCL]">
+		<description>SIX2XTND- Fix Collection to Expand TRSDOS v6.2 (19xx)(-)[JCL]</description>
+		<rom name="M4BACKUP.FIX" size="1778" crc="77b906d7" md5="4fefb84487665df524971050292fe845" sha1="63d9da87437a8d59bff8e716b22d64305bd21fd7"/>
+		<rom name="M4BT620.FIX" size="107" crc="fe65fed2" md5="9204072ade950aee9691899130d9e789" sha1="6c90cd07f585d27446c2062b79bb324250283816"/>
+		<rom name="M4BT621.FIX" size="107" crc="25472a54" md5="bfec9882c796412a25393a858dec7c7b" sha1="df84de0c0fc0ee3226e27b4cd98e1bfb29ca5563"/>
+		<rom name="M4DIRPAT.CMD" size="434" crc="15eb7a26" md5="b0f8ecf0ca35303564a248f9ffd7afd4" sha1="d0cdc76a3dae2d5eb9fbc7237277d2241a78030f"/>
+		<rom name="M4DTCONV.CMD" size="2029" crc="4b394ddb" md5="12ebca9cefb49c6b798bfc7c65562872" sha1="3ad95bac21dec8dca43c9c98145880c5f6531dc0"/>
+		<rom name="M4FORMAT.FIX" size="176" crc="04548328" md5="578dc4f8258c51149d6b7b9c0279b429" sha1="4f531a18ad1d1854bcbe26e8e7a9ce5f71cc3e46"/>
+		<rom name="M4MAKCMD.CMD" size="1565" crc="fe3b15aa" md5="06b54020bcc598566d10bcaf2e5b30b0" sha1="17d30dc69b7a039a1064801e70fc9b6f75a1bc84"/>
+		<rom name="M4MEMDSK.FIX" size="85" crc="c30f090d" md5="6d850867fea8755aafa7e1e84252df46" sha1="cc61a8f5dcd3528e78f82ac0107df8b6b68757b2"/>
+		<rom name="M4S0121.FIX" size="151" crc="b6e67d84" md5="8415fe9e03a0c0142d4903b15d196402" sha1="29d42dee98b4b4d128de8892912ea3b89afdf32c"/>
+		<rom name="M4S02000.FIX" size="174" crc="c407b47f" md5="6413a679fc38102d02d2d446cdc2c311" sha1="0c13ffc7decaf1ea6aaacd444c59f9aa23b22f6c"/>
+		<rom name="M4S0DATE.FIX" size="475" crc="0cac6f91" md5="1ff5d96e4f721616f8ed1acc1ba72d40" sha1="66139e2a0d11ed7e7a00cf07a45a3c7c19700ea5"/>
+		<rom name="M4S2OPEN.FIX" size="172" crc="e321d2cb" md5="bd860dc623c918182e899bf7ece35bd0" sha1="70d391d3f77070228e0b47edcc6fcfbbd764d28e"/>
+		<rom name="M4S3CLOS.FIX" size="235" crc="61c1238a" md5="c205507d5b7cb79c2743eeb76bec3231" sha1="31251b8218f74e4e62c353242050028a52927553"/>
+		<rom name="M4S6DIR.FIX" size="2937" crc="62442a7c" md5="383456655ed4d12a16eb014c2fb0faeb" sha1="dfc890e703d305d07a2e1e2b85518ef7436c7d00"/>
+		<rom name="M4S7121.FIX" size="169" crc="75d57ee0" md5="ab1b80525d1e79839c234a8eb8d4152f" sha1="461702771dfea9ffb39c2d74548bc355caf1bdd3"/>
+		<rom name="M4S72000.FIX" size="198" crc="f790982a" md5="3df36abbf8ccea0baf99613613f1c263" sha1="731b0733f06980ce896a73950cd4e52b2529b429"/>
+		<rom name="M4S7ATTR.FIX" size="262" crc="ecc932e0" md5="c2269efeb56c9b0b88b2f714c7d1586f" sha1="c1f7b09af9d42ff6b5e78a50a87c774f37ba1517"/>
+		<rom name="M4S7DATE.FIX" size="372" crc="938cc6c0" md5="88835a07bfdd8acbc75136d1d93d8417" sha1="42b04bf6bfb80812e5a5385ec2106f0f1fbd4a5d"/>
+		<rom name="M4S7PURG.FIX" size="2866" crc="d86e7d25" md5="554082f544bd1ccb533b2a9d071af2cd" sha1="ebbd870ebded7cc1319e3a21f3ad11cc3f5a0309"/>
+		<rom name="MD4LIB10.TXT" size="2101" crc="2766a019" md5="dfacc2bd439ac669434c86f2e59543c5" sha1="b9c9b4d876adb1837c9bfae8972eaa81973e25d2"/>
+		<rom name="MODSYS13.CMD" size="788" crc="aac6043e" md5="8b34c92078082235b6fa5ad241575d01" sha1="e0676ed49d56a465b0a7d0dca08364d285f53c4d"/>
+		<rom name="SIX22000.JCL" size="322" crc="fa46a062" md5="2a3719786a1c3be8e650b7aa28942a74" sha1="228d549fc18f1c8043090b41edc0750ed9d58f33"/>
+		<rom name="SIX2XTB.JCL" size="2739" crc="c8ae6590" md5="6668aff6b12a76de35607a429e781fb2" sha1="58ffce1d15a3e4aa652ffdb68132b5a8cca26924"/>
+		<rom name="SIX2XTC.JCL" size="2874" crc="c8c0b7ba" md5="9a21f5bb2bdc6059eaa07ff3b98c1b38" sha1="570d92c26d36a3fe2bf61a77a6349ea4f2e2d06f"/>
+		<rom name="SIX2XTND.DOC" size="11264" crc="8f359717" md5="f3f192f8e93ef2a04a64e27e1c947c04" sha1="3ae561ff543a94378bdb84b4337436ce28762d7b"/>
+	</game>
+	<game name="Useful LDOS Batch Files (19xx)(Saint Ted Worthless)[JCL]">
+		<description>Useful LDOS Batch Files (19xx)(Saint Ted Worthless)[JCL]</description>
+		<rom name="dr2mem.jcl" size="40" crc="da978bf1" md5="7e246b1c482bcc9d6b041c332659780e" sha1="eed77d242e2dd0c648e3e44fa30c92cc7b47fb51"/>
+		<rom name="dsformat.jcl" size="765" crc="2167616c" md5="e07d502b11482c66b896b873568749bf" sha1="441f44b836bd3fa47e572ced0715c70795f86ca5"/>
+		<rom name="format80.jcl" size="765" crc="2331ed45" md5="4b28dcce429b099817b42551d3ad72e6" sha1="b4b8fb3f77648507feed49323c9ebb86b009b753"/>
+		<rom name="memdisk.jcl" size="108" crc="04488148" md5="0c7963399b6829e1d07a5e048dc96879" sha1="39232108943446db80021190e8ebb59e2cbbc0af"/>
+		<rom name="start.jcl" size="14" crc="ff420e26" md5="14b2ef124559f301845c7509d63001ef" sha1="bcc6284e18925589b3a5b540f4f308e020758ec0"/>
+		<rom name="sysdisk1.jcl" size="938" crc="d0a1241a" md5="e401d654d3af4f2c235706e40cfc1ba5" sha1="ba52a9fcb316237f607cf0285d47b413e8819bc1"/>
+		<rom name="sysdisk2.jcl" size="818" crc="6634d62b" md5="44407e6125c25b29a021ae5002e3049c" sha1="c3d1b6db680b4d02772e8c0d8d53b0cf383f0444"/>
+		<rom name="system.jcl" size="14" crc="ff420e26" md5="14b2ef124559f301845c7509d63001ef" sha1="bcc6284e18925589b3a5b540f4f308e020758ec0"/>
+	</game>
+</datafile>

@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Nintendo Game Boy - Homebrew - Games</name>
-		<description>Nintendo Game Boy - Homebrew - Games (TOSEC-v2024-01-15)</description>
+		<description>Nintendo Game Boy - Homebrew - Games (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle - newpain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -19,6 +19,14 @@
 	<game name=".EXE, Cogito Ergo Sum v1.0.2 (2022-01-07)(MooExe)">
 		<description>.EXE, Cogito Ergo Sum v1.0.2 (2022-01-07)(MooExe)</description>
 		<rom name=".EXE, Cogito Ergo Sum v1.0.2 (2022-01-07)(MooExe).gb" size="2097152" crc="56ddf426" md5="ef5de91eba2059c28e85fccb605089cc" sha1="2a5f2d423fbc8e289998fd01a991a2014653d8b1"/>
+	</game>
+	<game name="-New- Story of the Mist Prince, The v0.1 (2023-12-20)(RainBowChild)(alpha)">
+		<description>-New- Story of the Mist Prince, The v0.1 (2023-12-20)(RainBowChild)(alpha)</description>
+		<rom name="-New- Story of the Mist Prince, The v0.1 (2023-12-20)(RainBowChild)(alpha).gb" size="524288" crc="83564380" md5="e29593fed13e72a5c860f878511878d7" sha1="7b33642a04c24a0a4d907a02f907d7b062b0619c"/>
+	</game>
+	<game name="-New- Story of the Mist Prince, The v0.2 (2024-01-01)(RainBowChild)(alpha)">
+		<description>-New- Story of the Mist Prince, The v0.2 (2024-01-01)(RainBowChild)(alpha)</description>
+		<rom name="-New- Story of the Mist Prince, The v0.2 (2024-01-01)(RainBowChild)(alpha).gb" size="524288" crc="67e6c534" md5="927b790cfb4f057372f07f678e1cb17a" sha1="d99dcb76aa2beef09609a3092d5ed79a4ea24dcf"/>
 	</game>
 	<game name="1-Bit Escape v1.1 (2021-12-19)(Hellfansing)">
 		<description>1-Bit Escape v1.1 (2021-12-19)(Hellfansing)</description>
@@ -44,13 +52,25 @@
 		<description>2T &amp; 1L (2021-05-29)(Horsten Vault Games)</description>
 		<rom name="2T &amp; 1L (2021-05-29)(Horsten Vault Games).gb" size="262144" crc="2ddf5532" md5="683b09d7c786f7e3a931e4eb42651076" sha1="405c3fb3a7519de5b82922f53db9936fb6502f65"/>
 	</game>
+	<game name="3D Maze (2021-02-27)(Shimada, Fernanda)">
+		<description>3D Maze (2021-02-27)(Shimada, Fernanda)</description>
+		<rom name="3D Maze (2021-02-27)(Shimada, Fernanda).gb" size="1048576" crc="409b9a52" md5="43082aebf75daadc144a72919c062f43" sha1="72b40eadebc98b1d496fcfd5c35342d105afaad6"/>
+	</game>
 	<game name="569 terminal (2021-02-08)(godseup)">
 		<description>569 terminal (2021-02-08)(godseup)</description>
 		<rom name="569 terminal (2021-02-08)(godseup).gb" size="262144" crc="291746e0" md5="9340c27090e408dd3071ddf9a297758f" sha1="e88fc10fa3f6ea7d3eeef0c21bbdb02247f35e15"/>
 	</game>
+	<game name="60 in deep space (2020-01-05)(Arky750)">
+		<description>60 in deep space (2020-01-05)(Arky750)</description>
+		<rom name="60 in deep space (2020-01-05)(Arky750).gb" size="32768" crc="92809200" md5="1792a9960dcc4d07846c4ae31e164578" sha1="3133b652bed21e0dea9a0f1e5c55538af942d4ee"/>
+	</game>
 	<game name="6ROOMS (2019-07-19)(Bland, Emberlynn)">
 		<description>6ROOMS (2019-07-19)(Bland, Emberlynn)</description>
 		<rom name="6ROOMS (2019-07-19)(Bland, Emberlynn).gb" size="1048576" crc="129d85c4" md5="edcb84fef271bcc5bc9aa496009c36bd" sha1="2c79b67c2e33c49e2fb755dc5c733e55a235a671"/>
+	</game>
+	<game name="6ROOMS (2019-07-19)(Bland, Emberlynn)[a]">
+		<description>6ROOMS (2019-07-19)(Bland, Emberlynn)[a]</description>
+		<rom name="6ROOMS (2019-07-19)(Bland, Emberlynn)[a].gb" size="1048576" crc="cd6638f0" md5="dc33ae15b1d3fdc2fd935d04ca64ed62" sha1="9eb3b85ae60295c8a00a1175d09b8c5450ebc83c"/>
 	</game>
 	<game name="7-11 Stories (2022-07-24)(GAB BOY)">
 		<description>7-11 Stories (2022-07-24)(GAB BOY)</description>
@@ -111,6 +131,10 @@
 	<game name="Ada and the Giant Orange (2021-01-29)(pixelloren)(proto)">
 		<description>Ada and the Giant Orange (2021-01-29)(pixelloren)(proto)</description>
 		<rom name="Ada and the Giant Orange (2021-01-29)(pixelloren)(proto).gb" size="131072" crc="827f3226" md5="42984a6ea619d1bf4ef1fbd509e05be4" sha1="65da3bfe506f1bbd5ec405b0d2cb752b4322f735"/>
+	</game>
+	<game name="Adjustris v1.1 (2017-10-16)(tbsp)(CC0)">
+		<description>Adjustris v1.1 (2017-10-16)(tbsp)(CC0)</description>
+		<rom name="Adjustris v1.1 (2017-10-16)(tbsp)(CC0).gb" size="32768" crc="d9dd5a5e" md5="5c82e3b0bd96f2cf8d6ec61c73f600b8" sha1="3384658a512bb5c0965fac1c0cff2fa6520dbf82"/>
 	</game>
 	<game name="Adulting! (2021-10-26)(Wilder, Eric)">
 		<description>Adulting! (2021-10-26)(Wilder, Eric)</description>
@@ -184,6 +208,10 @@
 		<description>Agent 5 v0.3 (2021-09-03)(AdamKokrito)(beta)</description>
 		<rom name="Agent 5 v0.3 (2021-09-03)(AdamKokrito)(beta).gb" size="1048576" crc="70d2e9a8" md5="8759cb4a6cf9959fe8edfb2156987271" sha1="228e24b11bf25d149e0995891ca703ecf62589a7"/>
 	</game>
+	<game name="Air Attack! (2021-10-19)(Spedaletti, Marco)(IT)(en)">
+		<description>Air Attack! (2021-10-19)(Spedaletti, Marco)(IT)(en)</description>
+		<rom name="Air Attack! (2021-10-19)(Spedaletti, Marco)(IT)(en).gb" size="32768" crc="ece7ff6d" md5="5d3514840b7c61c8db20ed4c6fce3c19" sha1="fb4cdffe9290fff83b8bc47f4308b8e94900678b"/>
+	</game>
 	<game name="AIRPLANZ v1.0 (2021-04-11)(NotImplementedLife)">
 		<description>AIRPLANZ v1.0 (2021-04-11)(NotImplementedLife)</description>
 		<rom name="AIRPLANZ v1.0 (2021-04-11)(NotImplementedLife).gb" size="32768" crc="25af1601" md5="5a666edcc2c015a905be994839b73daf" sha1="96add63e7a67e64bd15379a2b528597697c0fae5"/>
@@ -195,6 +223,10 @@
 	<game name="AIRPLANZ v1.2 (2021-06-19)(NotImplementedLife)">
 		<description>AIRPLANZ v1.2 (2021-06-19)(NotImplementedLife)</description>
 		<rom name="AIRPLANZ v1.2 (2021-06-19)(NotImplementedLife).gb" size="32768" crc="c16b100a" md5="c8088805f08aeb587805653c1c66732e" sha1="cf3784e54372d08864b8bbdd0779653c32c1017e"/>
+	</game>
+	<game name="Alette If (2023-09-08)(Neuromage Studio)">
+		<description>Alette If (2023-09-08)(Neuromage Studio)</description>
+		<rom name="Alette If (2023-09-08)(Neuromage Studio).gb" size="262144" crc="21e22773" md5="dc1f92710f05779bc8d0e28810420005" sha1="26f7949d6ca4b3599850b99f863f8bb6294de61d"/>
 	</game>
 	<game name="Alice Madness Returns (2021-06-17)(Seistethic)">
 		<description>Alice Madness Returns (2021-06-17)(Seistethic)</description>
@@ -256,6 +288,10 @@
 		<description>Amelia the Witch v0.0.6 (2021-03-26)(Owl Head Games)</description>
 		<rom name="Amelia the Witch v0.0.6 (2021-03-26)(Owl Head Games).gb" size="262144" crc="1da5df1c" md5="1c093eec428fe5f84828ba7189e35a5a" sha1="9912bf21aa78fbbfabf587ae1b257412940cd6b6"/>
 	</game>
+	<game name="Amelia the Witch v0.0.6 (2021-03-29)(Owl Head Games)">
+		<description>Amelia the Witch v0.0.6 (2021-03-29)(Owl Head Games)</description>
+		<rom name="Amelia the Witch v0.0.6 (2021-03-29)(Owl Head Games).gb" size="262144" crc="ddf738bc" md5="4b9a494ce5a1c852ae7f16ec7e8e4c01" sha1="1374d43871bebc874fb26972df3139c9eb61b790"/>
+	</game>
 	<game name="Among Us GB (demo-playable) (2021-01-16)(TaelsDaFoox)[demo 1]">
 		<description>Among Us GB (demo-playable) (2021-01-16)(TaelsDaFoox)[demo 1]</description>
 		<rom name="Among Us GB (demo-playable) (2021-01-16)(TaelsDaFoox)[demo 1].gb" size="131072" crc="7184e57b" md5="2df62b523fdbadf810a7ee07451c0218" sha1="31ec4893f06f3846b11644a3a7dc1e16596d5be8"/>
@@ -272,6 +308,10 @@
 		<description>Animal Crossing Game Boy (2020-07-15)(BearyPeach)(proto)</description>
 		<rom name="Animal Crossing Game Boy (2020-07-15)(BearyPeach)(proto).gb" size="1048576" crc="522f57bf" md5="7021d7a1236bb7fa37dae86a061aba4b" sha1="04699a00d6e8e095a83eafb9e50b65ab2cf702b1"/>
 	</game>
+	<game name="Animal Crossing GB Studio Demo + Tutorial (demo-playable) (2019-05-29)(MortMort)">
+		<description>Animal Crossing GB Studio Demo + Tutorial (demo-playable) (2019-05-29)(MortMort)</description>
+		<rom name="Animal Crossing GB Studio Demo + Tutorial (demo-playable) (2019-05-29)(MortMort).gb" size="1048576" crc="fc0e2157" md5="a186a4206f189e8b148a8445eac74e7a" sha1="a745b4245d3eecc697ef837d7c5e993052e90161"/>
+	</game>
 	<game name="Animalcule Piglets ov Firmament, The (2019-06-16)(Birds of a Feather)">
 		<description>Animalcule Piglets ov Firmament, The (2019-06-16)(Birds of a Feather)</description>
 		<rom name="Animalcule Piglets ov Firmament, The (2019-06-16)(Birds of a Feather).gb" size="1048576" crc="7b99edcc" md5="5ab8e45f5588d135e999d1dc8d96f31b" sha1="2f228cbbcff266b118ed0a780a97622f25cb264c"/>
@@ -287,6 +327,10 @@
 	<game name="Another Adventure (2020-10-01)(RetroGamer)(en-es)">
 		<description>Another Adventure (2020-10-01)(RetroGamer)(en-es)</description>
 		<rom name="Another Adventure (2020-10-01)(RetroGamer)(en-es).gb" size="1048576" crc="dfcd02ef" md5="6e2c510ef5562393cda32a807af4069a" sha1="041473b2381dd9e11b3cbda5858f9841324327af"/>
+	</game>
+	<game name="Another fu##in day at NABA2 (2019-11-11)(Francio_87)(IT)">
+		<description>Another fu##in day at NABA2 (2019-11-11)(Francio_87)(IT)</description>
+		<rom name="Another fu##in day at NABA2 (2019-11-11)(Francio_87)(IT).gb" size="1048576" crc="0daf1e4c" md5="0c906fd29c49047addacf842ac12e275" sha1="94156e088cb7d7dde0dfb623bc073011b676fb5a"/>
 	</game>
 	<game name="Apparition Mania (2021-07-12)(Central Corridor)(US)">
 		<description>Apparition Mania (2021-07-12)(Central Corridor)(US)</description>
@@ -335,6 +379,14 @@
 	<game name="Art School Pocket (2019-09-11)(The Flying Cortijo)(fr)">
 		<description>Art School Pocket (2019-09-11)(The Flying Cortijo)(fr)</description>
 		<rom name="Art School Pocket (2019-09-11)(The Flying Cortijo)(fr).gb" size="1048576" crc="49a5b74d" md5="0f497d937f8ce4fde2bb0f02d0929344" sha1="73ecffaee185eb2caf1db385d04b863676c777fb"/>
+	</game>
+	<game name="Art School Pocket (2021-09-30)(The Flying Cortijo)">
+		<description>Art School Pocket (2021-09-30)(The Flying Cortijo)</description>
+		<rom name="Art School Pocket (2021-09-30)(The Flying Cortijo).gb" size="1048576" crc="e26657ac" md5="564d600731ef82fc3f7098a84ff0d9a2" sha1="1d042025f5accff5ded50ca1d1fb97afbf252baf"/>
+	</game>
+	<game name="Art School Pocket (2023-02-28)(The Flying Cortijo)(es)[Andaluh]">
+		<description>Art School Pocket (2023-02-28)(The Flying Cortijo)(es)[Andaluh]</description>
+		<rom name="Art School Pocket (2023-02-28)(The Flying Cortijo)(es)[Andaluh].gb" size="262144" crc="5288ac2d" md5="aa097641d6d5129a9a55485f120bb519" sha1="34ae5758b9c36918adfba2d509d890924348ef2e"/>
 	</game>
 	<game name="Arthur's Quest (2021-07-02)(Bishop, Piers)">
 		<description>Arthur's Quest (2021-07-02)(Bishop, Piers)</description>
@@ -399,6 +451,10 @@
 	<game name="Baila con la Flaca (2021-10-29)(Tortilla Lab)(MX)">
 		<description>Baila con la Flaca (2021-10-29)(Tortilla Lab)(MX)</description>
 		<rom name="Baila con la Flaca (2021-10-29)(Tortilla Lab)(MX).gb" size="262144" crc="be971cbe" md5="db5334cee01bd30b9fd18d1c6832e319" sha1="39d0b108631c96952f019752183703e4cd2e5dcf"/>
+	</game>
+	<game name="Bakelite (2019-11-07)(Mingucci, Giulia - Petrone, Marco - Turco, Ginevra)(IT)">
+		<description>Bakelite (2019-11-07)(Mingucci, Giulia - Petrone, Marco - Turco, Ginevra)(IT)</description>
+		<rom name="Bakelite (2019-11-07)(Mingucci, Giulia - Petrone, Marco - Turco, Ginevra)(IT).gb" size="1048576" crc="d0bac198" md5="d067a7668b92999885221a4dbccd9b92" sha1="43e1bd9e302d6bf9130b5a4c2e7b0a826992a6e8"/>
 	</game>
 	<game name="Bale Out (2020-08-06)(therurik)">
 		<description>Bale Out (2020-08-06)(therurik)</description>
@@ -764,6 +820,10 @@
 		<description>Cave Escaper (2021-11-05)(Float)</description>
 		<rom name="Cave Escaper (2021-11-05)(Float).gb" size="262144" crc="aa74ce36" md5="7877ad2b19827e41a6f003fb9483a30a" sha1="c50d30c9fccc822c1711dee26774624a879f4e8c"/>
 	</game>
+	<game name="Chainbreak (20xx)(Tuxedo Games)(ES)(en)">
+		<description>Chainbreak (20xx)(Tuxedo Games)(ES)(en)</description>
+		<rom name="Chainbreak (20xx)(Tuxedo Games)(ES)(en).gb" size="524288" crc="aeeefb31" md5="e32483f0b92886faa0e0aa0fd8d3e5d1" sha1="9c88ef3256e0e4e5aec6303cc1049cf343b790bc"/>
+	</game>
 	<game name="Chains - Egresión (2021-12-29)(Chains)(es)">
 		<description>Chains - Egresión (2021-12-29)(Chains)(es)</description>
 		<rom name="Chains - Egresión (2021-12-29)(Chains)(es).gb" size="1048576" crc="96ade39f" md5="9116173233c3714cd6d69aba2ebec258" sha1="3aa1e2f533f95e97f9d2067e93d89b8ec62b1ab4"/>
@@ -900,6 +960,14 @@
 		<description>Courier Game (2021-02-21)(TheFragranceOfDarkCoffee)</description>
 		<rom name="Courier Game (2021-02-21)(TheFragranceOfDarkCoffee).gb" size="262144" crc="52f667d9" md5="66474ac220c1d2f6bfab6d3a154056d5" sha1="091f2df21e87427588046641e626825c8a39e128"/>
 	</game>
+	<game name="Crate Hunter (demo-playable) (2019-06-03)(Toxworks)">
+		<description>Crate Hunter (demo-playable) (2019-06-03)(Toxworks)</description>
+		<rom name="Crate Hunter (demo-playable) (2019-06-03)(Toxworks).gb" size="1048576" crc="da736348" md5="09dbf840c665fe3ea07d2a87a7170634" sha1="973c1d016e46a26f6d55c91f51183fe2d71ec735"/>
+	</game>
+	<game name="Crate Hunter (demo-playable) (2019-06-03)(Toxworks)[web rom]">
+		<description>Crate Hunter (demo-playable) (2019-06-03)(Toxworks)[web rom]</description>
+		<rom name="Crate Hunter (demo-playable) (2019-06-03)(Toxworks)[web rom].gb" size="1048576" crc="fc4e9951" md5="0d95ea54b62624b59ec3b2f06a0c0d90" sha1="448a478cfb07f8eee53c569e82c5b4b6ffd898f4"/>
+	</game>
 	<game name="Crescent Moon (2019-12-18)(pixelloren)">
 		<description>Crescent Moon (2019-12-18)(pixelloren)</description>
 		<rom name="Crescent Moon (2019-12-18)(pixelloren).gb" size="1048576" crc="833ffe8c" md5="f679a2438b78f30d50185895417354cd" sha1="5d16747fcd2e0f1f59abfcf47eef1354b29f9e2f"/>
@@ -951,6 +1019,14 @@
 	<game name="Cross Snake (2023-11-28)(Caruso, Fabrizio)">
 		<description>Cross Snake (2023-11-28)(Caruso, Fabrizio)</description>
 		<rom name="Cross Snake (2023-11-28)(Caruso, Fabrizio).gb" size="32768" crc="106cedaf" md5="29a72d33c2538d8bdcc6b30efa89d28b" sha1="c840386f06cf837dc031f74d971ed4e54651b877"/>
+	</game>
+	<game name="Cross Trex (2024-09-24)(Caruso, Fabrizio)">
+		<description>Cross Trex (2024-09-24)(Caruso, Fabrizio)</description>
+		<rom name="Cross Trex (2024-09-24)(Caruso, Fabrizio).gb" size="32768" crc="b35b492b" md5="8ba27dbcbc4ff50669fbf3587c342ccc" sha1="0b295ce0601e840b4826ccf5688e161d9d1d99f3"/>
+	</game>
+	<game name="Cross Trex (2024-10-17)(Caruso, Fabrizio)">
+		<description>Cross Trex (2024-10-17)(Caruso, Fabrizio)</description>
+		<rom name="Cross Trex (2024-10-17)(Caruso, Fabrizio).gb" size="32768" crc="ea939050" md5="5730e9caec1d477e2d09f353415b8741" sha1="f47325301830264b83fc32cc1d5a733537ebc4ec"/>
 	</game>
 	<game name="Cross Verbix (2022-12-16)(Caruso, Fabrizio)">
 		<description>Cross Verbix (2022-12-16)(Caruso, Fabrizio)</description>
@@ -1011,6 +1087,10 @@
 	<game name="Danielle Gaiden - A DCMMBYIAYM Story (2019)(Toby)(PD)">
 		<description>Danielle Gaiden - A DCMMBYIAYM Story (2019)(Toby)(PD)</description>
 		<rom name="Danielle Gaiden - A DCMMBYIAYM Story (2019)(Toby)(PD).gb" size="1048576" crc="443a68a5" md5="35945d8fdf0d944f13421efe309576f9" sha1="f76c3f9362fdac170a1988604ada0f672cd952d6"/>
+	</game>
+	<game name="Danielle Gaiden (2019-09-28)(earthpainting)">
+		<description>Danielle Gaiden (2019-09-28)(earthpainting)</description>
+		<rom name="Danielle Gaiden (2019-09-28)(earthpainting).gb" size="1048576" crc="508989d6" md5="8943f686c0ee24e6aacd73d0362dde1f" sha1="7a39a84d9bc388da99961124b9876b9cf527ae73"/>
 	</game>
 	<game name="Dante's Detour - Chapter 1 (2022-03-18)(IdnitMedia)(proto)">
 		<description>Dante's Detour - Chapter 1 (2022-03-18)(IdnitMedia)(proto)</description>
@@ -1080,6 +1160,14 @@
 		<description>Deep Dungeon v1.3 (2021-09-09)(Lazy Dev Games)</description>
 		<rom name="Deep Dungeon v1.3 (2021-09-09)(Lazy Dev Games).gb" size="2097152" crc="d67e1a10" md5="4f9b77afb81d66e6af1bd54b7b06351f" sha1="060cea84da0f1047e6fb1fa2153961eba84413ca"/>
 	</game>
+	<game name="Deep Forest v1.1 (2020-03-08)(Small is Beautiful)">
+		<description>Deep Forest v1.1 (2020-03-08)(Small is Beautiful)</description>
+		<rom name="Deep Forest v1.1 (2020-03-08)(Small is Beautiful).gb" size="1048576" crc="b82458d5" md5="7a1cebc4f3ff011ebe9797f227e4b365" sha1="2899075f4aacbac3720f810e4d9716913a6310f2"/>
+	</game>
+	<game name="Deep Forest v1.1 (2020-03-11)(Small is Beautiful)[gold]">
+		<description>Deep Forest v1.1 (2020-03-11)(Small is Beautiful)[gold]</description>
+		<rom name="Deep Forest v1.1 (2020-03-11)(Small is Beautiful)[gold].gb" size="1048576" crc="3ddf177d" md5="f5357ab80e3838c58668d9d394962f48" sha1="517302d20cb5140975e6cd1b3c495786b6390aaf"/>
+	</game>
 	<game name="DeepMine (2021-12-17)(Benvania)">
 		<description>DeepMine (2021-12-17)(Benvania)</description>
 		<rom name="DeepMine (2021-12-17)(Benvania).gb" size="262144" crc="64991b97" md5="56f8d929e626b94743273c3c9bd9bafb" sha1="054910ccbd43cccc1d16129257a8c49441ba8dd7"/>
@@ -1107,6 +1195,10 @@
 	<game name="DESEO (2021-10-10)(sellitos2020)(es)">
 		<description>DESEO (2021-10-10)(sellitos2020)(es)</description>
 		<rom name="DESEO (2021-10-10)(sellitos2020)(es).gb" size="524288" crc="34da49f1" md5="adff8901b9295b4139e98434cca7c212" sha1="0f3fb62c3aded0545942eaae0022f9bae46d51d4"/>
+	</game>
+	<game name="Desert Machine (demo-playable) (2019-06-26)(Toxworks)">
+		<description>Desert Machine (demo-playable) (2019-06-26)(Toxworks)</description>
+		<rom name="Desert Machine (demo-playable) (2019-06-26)(Toxworks).gb" size="1048576" crc="7038f620" md5="bf651f31235ca042f721da1157c3ee5f" sha1="a3207bba8a98a2dabe90c1e9691606403c877f44"/>
 	</game>
 	<game name="Detective Knox In - The Doppelgänger (demo-playable) (2021-10-01)(pcavalcanti)">
 		<description>Detective Knox In - The Doppelgänger (demo-playable) (2021-10-01)(pcavalcanti)</description>
@@ -1188,6 +1280,10 @@
 		<description>Dizzy and the Mushroom Pie v1.2 (2020-04-13)(Toxa)</description>
 		<rom name="Dizzy and the Mushroom Pie v1.2 (2020-04-13)(Toxa).gb" size="131072" crc="4fb4e908" md5="4b5cced2cf86395169adde97993a8bf7" sha1="7457167118aca4a4a091b2c67952c97bc813652d"/>
 	</game>
+	<game name="Dizzy and the Mushroom Pie (2020-10-06)(Toxa)[itch.io]">
+		<description>Dizzy and the Mushroom Pie (2020-10-06)(Toxa)[itch.io]</description>
+		<rom name="Dizzy and the Mushroom Pie (2020-10-06)(Toxa)[itch.io].gb" size="131072" crc="e4beff45" md5="340cf702ef7cba501bb4146e918d07bd" sha1="20e62595a416a88420f11c32e0a0e6db76fb6578"/>
+	</game>
 	<game name="DMG Deals Damage (2019-04-12)(Dr. Ludos)(FW)">
 		<description>DMG Deals Damage (2019-04-12)(Dr. Ludos)(FW)</description>
 		<rom name="DMG Deals Damage (2019-04-12)(Dr. Ludos)(FW).gb" size="32768" crc="250e0cbd" md5="f7c384e29738c21ef611d45e5d35b4b9" sha1="a15539199e4b6bd2a71d1ac0e7c61ae4f19a65e7"/>
@@ -1200,13 +1296,33 @@
 		<description>Do I Pass v1.4 (2019-08-25)(McCue, Taylor)</description>
 		<rom name="Do I Pass v1.4 (2019-08-25)(McCue, Taylor).gb" size="1048576" crc="62e0c3a2" md5="7ba282030e65d7974863bf129ce60155" sha1="e1b516e472e0c681b4ad1c7f4aeda55c91e7f340"/>
 	</game>
+	<game name="Do I Pass v1.4 (2019-11-04)(McCue, Taylor)">
+		<description>Do I Pass v1.4 (2019-11-04)(McCue, Taylor)</description>
+		<rom name="Do I Pass v1.4 (2019-11-04)(McCue, Taylor).gb" size="1048576" crc="cfb44d68" md5="b06f7dae7b52ebe3d277ececa2d1976c" sha1="6dde71bbec8b807af5132d1ef2e99c6bb6af3a1c"/>
+	</game>
+	<game name="Do I Pass v1.4.2 (2019-11-04)(McCue, Taylor)(fr)">
+		<description>Do I Pass v1.4.2 (2019-11-04)(McCue, Taylor)(fr)</description>
+		<rom name="Do I Pass v1.4.2 (2019-11-04)(McCue, Taylor)(fr).gb" size="1048576" crc="e393d4aa" md5="4523452d7dde5e486187b384fee751a7" sha1="d45dfcab4a76b62ea1e10730d01f755e12137484"/>
+	</game>
 	<game name="Do I Pass v1.5 (2019-11-04)(McCue, Taylor)">
 		<description>Do I Pass v1.5 (2019-11-04)(McCue, Taylor)</description>
 		<rom name="Do I Pass v1.5 (2019-11-04)(McCue, Taylor).gb" size="1048576" crc="3890e0a4" md5="040056615586a58260910fc9f7cb7f30" sha1="6998e1bbf2ccb9db3d661ddac2d7edf7571d0af7"/>
 	</game>
+	<game name="Do I Pass v1.5 (2019-11-04)(McCue, Taylor)[a]">
+		<description>Do I Pass v1.5 (2019-11-04)(McCue, Taylor)[a]</description>
+		<rom name="Do I Pass v1.5 (2019-11-04)(McCue, Taylor)[a].gb" size="1048576" crc="7555a818" md5="405087ec127da8ee5fa6a4c325c8972f" sha1="1ffc8d3ef4a07e5f3f02e2a65a1c7772837df89e"/>
+	</game>
+	<game name="Doctor How (2017-08-23)(ProGM)">
+		<description>Doctor How (2017-08-23)(ProGM)</description>
+		<rom name="Doctor How (2017-08-23)(ProGM).gb" size="131072" crc="42932259" md5="bfce966849af90372f58e55a1610bfe2" sha1="76f801d88a3c265b22c6d30e121abc0d3b9b542f"/>
+	</game>
 	<game name="Dog Guardian (2020-03-30)(Salted Sporks)">
 		<description>Dog Guardian (2020-03-30)(Salted Sporks)</description>
 		<rom name="Dog Guardian (2020-03-30)(Salted Sporks).gb" size="262144" crc="916b42c8" md5="5c4cbbc03b1687f3a9f5c122d633eb72" sha1="99b886a9f0b1bb10f87bd2ff3c2ff4ef67858c7c"/>
+	</game>
+	<game name="Dog v1.4 (2019-12-07)(Chocoffet)">
+		<description>Dog v1.4 (2019-12-07)(Chocoffet)</description>
+		<rom name="Dog v1.4 (2019-12-07)(Chocoffet).gb" size="1048576" crc="1b3f8381" md5="5926cdd1c02ce6ee2eb1c768f7a6cfb4" sha1="e13fa551f4458ac8ddc9a3a2223a80cc679542d8"/>
 	</game>
 	<game name="Doge's Moon, The (2022-01-18)(No Future)">
 		<description>Doge's Moon, The (2022-01-18)(No Future)</description>
@@ -1227,6 +1343,10 @@
 	<game name="Dolphines (2021-06-03)(ESAD Orléans)(FR)(en)">
 		<description>Dolphines (2021-06-03)(ESAD Orléans)(FR)(en)</description>
 		<rom name="Dolphines (2021-06-03)(ESAD Orléans)(FR)(en).gb" size="262144" crc="79ce57cd" md5="bd36e92dabc26e9b0ee81bb19cbfb43f" sha1="9086118a9ba0a899a30cebfc0a64f28452adbbd7"/>
+	</game>
+	<game name="Don't Call Me Mama But Yes I Am Your Mama (2019-10-03)(KyleBosman)">
+		<description>Don't Call Me Mama But Yes I Am Your Mama (2019-10-03)(KyleBosman)</description>
+		<rom name="Don't Call Me Mama But Yes I Am Your Mama (2019-10-03)(KyleBosman).gb" size="1048576" crc="6d9de004" md5="ec2e64c94ec79a8d023c414d9eb4c410" sha1="09abf91a7567d50172197e9317c133451270d2b6"/>
 	</game>
 	<game name="Don't Call Me Mama But Yes I Am Your Mama v2 (2019-10-03)(KyleBosman)">
 		<description>Don't Call Me Mama But Yes I Am Your Mama v2 (2019-10-03)(KyleBosman)</description>
@@ -1256,6 +1376,10 @@
 		<description>Down Down Down (2021-04-30)(Carmine Oak)(proto)</description>
 		<rom name="Down Down Down (2021-04-30)(Carmine Oak)(proto).gb" size="262144" crc="73451689" md5="54e9f89563ee63229be7e26b0f8523fa" sha1="93af146309ec4bfc7461cb4dd73f5cdddd978fc1"/>
 	</game>
+	<game name="Downer (2024-02)(All You Can Execute)">
+		<description>Downer (2024-02)(All You Can Execute)</description>
+		<rom name="Downer (2024-02)(All You Can Execute).gb" size="32768" crc="5d735332" md5="8285744c8e73cb0dea7b9cfa39c7ecd2" sha1="5efa831cdcc1de0160b4fb8afc3088809546957c"/>
+	</game>
 	<game name="Downward (demo-playable) (2021-02-14)(Thing in a Box Productions)">
 		<description>Downward (demo-playable) (2021-02-14)(Thing in a Box Productions)</description>
 		<rom name="Downward (demo-playable) (2021-02-14)(Thing in a Box Productions).gb" size="1048576" crc="c91ed73d" md5="c9af8c9189bc24071103bd95fc586013" sha1="3d788496477f98109d784c13054d816fc8d03903"/>
@@ -1279,6 +1403,14 @@
 	<game name="Dragon Champ XVII (2020-10-16)(Kateouo)">
 		<description>Dragon Champ XVII (2020-10-16)(Kateouo)</description>
 		<rom name="Dragon Champ XVII (2020-10-16)(Kateouo).gb" size="524288" crc="256d3aa6" md5="57512a59603e1db4b18dcac150833668" sha1="6872a3de291e25ca31c0dacb87d3506ac416843a"/>
+	</game>
+	<game name="Drake's Adventure (2020-05-30)(Zuccardi, Marco)(IT)">
+		<description>Drake's Adventure (2020-05-30)(Zuccardi, Marco)(IT)</description>
+		<rom name="Drake's Adventure (2020-05-30)(Zuccardi, Marco)(IT).gb" size="1048576" crc="6d094d68" md5="55d0da8148420ff4fbc2b75a4a1e79d0" sha1="117065532cf4b2bc783bdf861e59d489624061db"/>
+	</game>
+	<game name="Drake's Adventure (2020-05-30)(Zuccardi, Marco)(IT)(en)">
+		<description>Drake's Adventure (2020-05-30)(Zuccardi, Marco)(IT)(en)</description>
+		<rom name="Drake's Adventure (2020-05-30)(Zuccardi, Marco)(IT)(en).gb" size="1048576" crc="689622be" md5="c9a516813ee638c4ccd3d5c14f22fc49" sha1="7fe2fc40b8631fdd37de81fdc481c0c790224229"/>
 	</game>
 	<game name="DREAM (2022-02-07)(Active Gaming Media)(fr)">
 		<description>DREAM (2022-02-07)(Active Gaming Media)(fr)</description>
@@ -1308,6 +1440,10 @@
 		<description>DULL ACHE (2021-02-06)(Garcia, Diego)</description>
 		<rom name="DULL ACHE (2021-02-06)(Garcia, Diego).gb" size="1048576" crc="0c14aa04" md5="b434de9a66e47556ce0d081012c633c3" sha1="845c1125446d61decf68af36d4a035cc68979225"/>
 	</game>
+	<game name="Dungeon Ball (2018-09-03)(sergeeo)">
+		<description>Dungeon Ball (2018-09-03)(sergeeo)</description>
+		<rom name="Dungeon Ball (2018-09-03)(sergeeo).gb" size="65536" crc="853bb933" md5="4a50cfaf632da299be403375a525218f" sha1="a36ee9facb08a0346e1abac1d0bd2a98cdcc3a2c"/>
+	</game>
 	<game name="Dungeon Escape (1997)(Granlund, Anders)(PD)">
 		<description>Dungeon Escape (1997)(Granlund, Anders)(PD)</description>
 		<rom name="Dungeon Escape (1997)(Granlund, Anders)(PD).gb" size="32768" crc="cc8686e0" md5="402783a0438f9f0902ae0b0b60a4848d" sha1="0bfcd861e9a0f737f2c362bdb8f31ba66e6c46b1"/>
@@ -1319,6 +1455,14 @@
 	<game name="Dungeon Escape (1997)(Granlund, Anders)(PD)[b]">
 		<description>Dungeon Escape (1997)(Granlund, Anders)(PD)[b]</description>
 		<rom name="Dungeon Escape (1997)(Granlund, Anders)(PD)[b].gb" size="32768" crc="857f4396" md5="c86eb4004dfe3be210884d03f80922f7" sha1="513a9e2b983386fc1107c0178c6cd8ea19e907ec"/>
+	</game>
+	<game name="Dunkin's Adventure (2020-05-16)(kicdo games)">
+		<description>Dunkin's Adventure (2020-05-16)(kicdo games)</description>
+		<rom name="Dunkin's Adventure (2020-05-16)(kicdo games).gb" size="1048576" crc="0dc08800" md5="30c6e18521af77e91dd2413a593dc96b" sha1="c8299f8629fe7c59d80516e30ca31bdf6cb7a126"/>
+	</game>
+	<game name="Dunkin's Adventure (2020-05-16)(kicdo games)[web]">
+		<description>Dunkin's Adventure (2020-05-16)(kicdo games)[web]</description>
+		<rom name="Dunkin's Adventure (2020-05-16)(kicdo games)[web].gb" size="1048576" crc="f8ae09fb" md5="093ca4dc2bdd3a630420a83ca361750f" sha1="edee3f19835fe526345bf870192da57ba3cb0bbf"/>
 	</game>
 	<game name="Eep! A Game of Lost Sheep (2020-10-29)(Felix, Zachary)(US)">
 		<description>Eep! A Game of Lost Sheep (2020-10-29)(Felix, Zachary)(US)</description>
@@ -1343,6 +1487,14 @@
 	<game name="Elden Ring GB v1.0 (2022-06-03)(shintendo)">
 		<description>Elden Ring GB v1.0 (2022-06-03)(shintendo)</description>
 		<rom name="Elden Ring GB v1.0 (2022-06-03)(shintendo).gb" size="524288" crc="e7a420f3" md5="d7fa04a91e492855f549dfe1f2c721f7" sha1="2e0bec6acf1a94ae3f2f6cf2040323862933d95a"/>
+	</game>
+	<game name="Enchanted Place (2022-11-13)(VideoGameStoryTime)[GBA Jam 2022]">
+		<description>Enchanted Place (2022-11-13)(VideoGameStoryTime)[GBA Jam 2022]</description>
+		<rom name="Enchanted Place (2022-11-13)(VideoGameStoryTime)[GBA Jam 2022].gb" size="262144" crc="cf298502" md5="2f1252015576215466cc96a3c48bc0d0" sha1="a6cef7ed722a2c14ff642f2cdcc94c4ff0e8de0a"/>
+	</game>
+	<game name="Encuentra las 7 diferencias (2019-10-21)(Monicapo)(es)(proto)">
+		<description>Encuentra las 7 diferencias (2019-10-21)(Monicapo)(es)(proto)</description>
+		<rom name="Encuentra las 7 diferencias (2019-10-21)(Monicapo)(es)(proto).gb" size="1048576" crc="a5dbabd9" md5="545534fe894f400db098f90436138572" sha1="07a3acea41abc826b11404a6dcc87df6b6cb6062"/>
 	</game>
 	<game name="Endless Cube Multiplayer (2020-11-10)(Rifqi)">
 		<description>Endless Cube Multiplayer (2020-11-10)(Rifqi)</description>
@@ -1380,6 +1532,14 @@
 		<description>Escape the Cube v0.1.00 (2021-10-11)(WalkingSilentz)</description>
 		<rom name="Escape the Cube v0.1.00 (2021-10-11)(WalkingSilentz).gb" size="262144" crc="ff13d155" md5="308071ed25bb94ace8746e0ade3985f4" sha1="3831450d6d1e34b507a4dad883e299ac2167e225"/>
 	</game>
+	<game name="Espadazo (2019-10-29)(Monicapo)(es)(proto)">
+		<description>Espadazo (2019-10-29)(Monicapo)(es)(proto)</description>
+		<rom name="Espadazo (2019-10-29)(Monicapo)(es)(proto).gb" size="1048576" crc="7751b2b1" md5="d7bb8953e1b6cf965ef15debbc139b1a" sha1="e60529dedcef7637e7303c585668d99f8f1e30d5"/>
+	</game>
+	<game name="Espeto Blast! (2019-07-28)(sergeeo)(proto)">
+		<description>Espeto Blast! (2019-07-28)(sergeeo)(proto)</description>
+		<rom name="Espeto Blast! (2019-07-28)(sergeeo)(proto).gb" size="131072" crc="ae421239" md5="6eec4d021b3d654ffe82b0e6a6e72cef" sha1="335812ea54c5d21d4c7e094215bd74086e63f0d3"/>
+	</game>
 	<game name="Espionage v1.0 (2013)(Momeka)">
 		<description>Espionage v1.0 (2013)(Momeka)</description>
 		<rom name="Espionage v1.0 (2013)(Momeka).gb" size="65536" crc="66402f0f" md5="31927bcd03a4df8a7811e2df33faa51e" sha1="cd53a7c3c63b5256de4e149dd9c2436667c957e9"/>
@@ -1400,9 +1560,13 @@
 		<description>Explorer Kitty (demo-playable) (2020-11-15)(Nemokitty9)</description>
 		<rom name="Explorer Kitty (demo-playable) (2020-11-15)(Nemokitty9).gb" size="262144" crc="11a36551" md5="7c34afff1e65892606c6952961717342" sha1="758dfd919a5e317b82ba8414a7258bc65df0d4da"/>
 	</game>
-	<game name="F-Zero - Project (2019-12-06)(suitntie22)">
-		<description>F-Zero - Project (2019-12-06)(suitntie22)</description>
-		<rom name="F-Zero - Project (2019-12-06)(suitntie22).gb" size="1048576" crc="4c707059" md5="cd5bd70c93494a58aa919d84eba8e77e" sha1="5b823ee17691d286a45f0667cddd59ccaaab5d8b"/>
+	<game name="F-Zero Project (2019-12-06)(suitntie22)">
+		<description>F-Zero Project (2019-12-06)(suitntie22)</description>
+		<rom name="F-Zero Project (2019-12-06)(suitntie22).gb" size="1048576" crc="4c707059" md5="cd5bd70c93494a58aa919d84eba8e77e" sha1="5b823ee17691d286a45f0667cddd59ccaaab5d8b"/>
+	</game>
+	<game name="F-Zero Project (2020-12-31)(suitNtie)">
+		<description>F-Zero Project (2020-12-31)(suitNtie)</description>
+		<rom name="F-Zero Project (2020-12-31)(suitNtie).gb" size="1048576" crc="08b2b887" md5="165a8716fb5761d1eb997790ee49331e" sha1="6d85c7cc2de57240f37fdbbae5db05d3907b077d"/>
 	</game>
 	<game name="Faded Rainbow (2021-09-17)(WinglessPenny64)(proto)">
 		<description>Faded Rainbow (2021-09-17)(WinglessPenny64)(proto)</description>
@@ -1419,6 +1583,10 @@
 	<game name="Fair Game, A v0.3 (2021-03-07)(Klwnny)">
 		<description>Fair Game, A v0.3 (2021-03-07)(Klwnny)</description>
 		<rom name="Fair Game, A v0.3 (2021-03-07)(Klwnny).gb" size="524288" crc="f92fc488" md5="531a26990e88c1932ffe1fff8c1e4cf9" sha1="701a8e4aba6e8dc42dc59ac9851f082f1e8065da"/>
+	</game>
+	<game name="Fairy Without Wings, A v1.3.0 (2020-01-24)(Nekete)">
+		<description>Fairy Without Wings, A v1.3.0 (2020-01-24)(Nekete)</description>
+		<rom name="Fairy Without Wings, A v1.3.0 (2020-01-24)(Nekete).gb" size="131072" crc="84ec7e22" md5="3fdfe480a8cd859fb682f32b6da2fb5b" sha1="a9f7a41da30a574aab91a15fc530fbd0a0aafe9c"/>
 	</game>
 	<game name="Faith (2021-11-30)(Duran, Christian)(US)">
 		<description>Faith (2021-11-30)(Duran, Christian)(US)</description>
@@ -1451,6 +1619,10 @@
 	<game name="Fetch Quest (demo-playable) (2021-07-09)(howdy riceball)">
 		<description>Fetch Quest (demo-playable) (2021-07-09)(howdy riceball)</description>
 		<rom name="Fetch Quest (demo-playable) (2021-07-09)(howdy riceball).gb" size="524288" crc="bed0c504" md5="5e431948d4e9984f9fd93bdca76aea7f" sha1="ebd9171e200cc699050438ae5be7ba05c9e3091d"/>
+	</game>
+	<game name="Fields of Eutomia (demo-playable) (2020)(SōdoDev)">
+		<description>Fields of Eutomia (demo-playable) (2020)(SōdoDev)</description>
+		<rom name="Fields of Eutomia (demo-playable) (2020)(SōdoDev).gb" size="524288" crc="9a903b33" md5="d713c4c709aa3f29b31a33d061bd3077" sha1="f1b2c28c7931f8ff2f81097dc7312a1fcbf42df9"/>
 	</game>
 	<game name="Find the Dragon Balls! (2021-11-30)(SSJAlbatron)">
 		<description>Find the Dragon Balls! (2021-11-30)(SSJAlbatron)</description>
@@ -1807,6 +1979,14 @@
 	<game name="GB Footy (2021-09-29)(AwesomeKalin)">
 		<description>GB Footy (2021-09-29)(AwesomeKalin)</description>
 		<rom name="GB Footy (2021-09-29)(AwesomeKalin).gb" size="262144" crc="5ac9ed38" md5="18f818d5068d13a1bc3687dc27c550e6" sha1="7961d0311297740a05f75cdefc62f13f7df82b88"/>
+	</game>
+	<game name="GB Rubik's Cubes (2019-03-01)(Arky750)(BO)">
+		<description>GB Rubik's Cubes (2019-03-01)(Arky750)(BO)</description>
+		<rom name="GB Rubik's Cubes (2019-03-01)(Arky750)(BO).gb" size="32768" crc="74c4744c" md5="3af5768d92c90f0710d891706035dd92" sha1="0014c58f134f7ddc23f8ac4de7ed33011f713f17"/>
+	</game>
+	<game name="GB Rubik's Slide (2019-03-01)(Arky750)(GB)">
+		<description>GB Rubik's Slide (2019-03-01)(Arky750)(GB)</description>
+		<rom name="GB Rubik's Slide (2019-03-01)(Arky750)(GB).gb" size="32768" crc="da4c7b4f" md5="b7cce2ba6fe599c98c42eaac90554318" sha1="abf0228645596008d2c5be72ede95d45548d3349"/>
 	</game>
 	<game name="GB Space Jump -2.0 (2022-04-08)(Hellfansing)">
 		<description>GB Space Jump -2.0 (2022-04-08)(Hellfansing)</description>
@@ -2208,6 +2388,10 @@
 		<description>Heart Knight (2019-04-29)(Zhamul - Miranda)</description>
 		<rom name="Heart Knight (2019-04-29)(Zhamul - Miranda).gb" size="32768" crc="c7ecac73" md5="45d69d4632914671de114f6f1f607e80" sha1="dedcab41f58c58834e3534e877c494669a0d8952"/>
 	</game>
+	<game name="Heartbeat for Barney (2016-10-19)(Tambalaya)">
+		<description>Heartbeat for Barney (2016-10-19)(Tambalaya)</description>
+		<rom name="Heartbeat for Barney (2016-10-19)(Tambalaya).gb" size="32768" crc="38b99f14" md5="bdfedb4feb354ccfb4a091d834d36f83" sha1="b35e955a29c5c2a1c8cfe7168151f1e291ee3831"/>
+	</game>
 	<game name="Heathcliff - The Maze Kitty (demo-playable) (2021-01-12)(mazemuster7)">
 		<description>Heathcliff - The Maze Kitty (demo-playable) (2021-01-12)(mazemuster7)</description>
 		<rom name="Heathcliff - The Maze Kitty (demo-playable) (2021-01-12)(mazemuster7).gb" size="1048576" crc="194ff29a" md5="fbfb84c0488f1fd77d46770d45816dc9" sha1="9f3f35a9e5c2e94fea75b6d1ecfd10f2a28658af"/>
@@ -2340,9 +2524,25 @@
 		<description>Isla Encontrar v0.0.1 (2021-05-13)(LL_Productions)(alpha)</description>
 		<rom name="Isla Encontrar v0.0.1 (2021-05-13)(LL_Productions)(alpha).gb" size="262144" crc="c4d0a580" md5="2856a9bc4f9e233335d82829d79c33dd" sha1="960077592a950b1fd315d3561038dda065abe0c3"/>
 	</game>
+	<game name="Island Life (2020-03-22)(Polydeuces)(proto)">
+		<description>Island Life (2020-03-22)(Polydeuces)(proto)</description>
+		<rom name="Island Life (2020-03-22)(Polydeuces)(proto).gb" size="1048576" crc="2ab7e079" md5="7a8a4373d570c8f0fd9f63dba9975ed2" sha1="60cd9680960ad4049d3ff4d9ad5a1551635b3b9f"/>
+	</game>
+	<game name="Island Life (2022-01-09)(Polydeuces)(proto)">
+		<description>Island Life (2022-01-09)(Polydeuces)(proto)</description>
+		<rom name="Island Life (2022-01-09)(Polydeuces)(proto).gb" size="1048576" crc="c600cdec" md5="5968663180c7339d5c24c89a1d457ce1" sha1="4b4eac14d2364f2bebcc61f3a6ff16a5b623c7d6"/>
+	</game>
 	<game name="It's About Time (2022-05-29)(Capybara Squad)">
 		<description>It's About Time (2022-05-29)(Capybara Squad)</description>
 		<rom name="It's About Time (2022-05-29)(Capybara Squad).gb" size="131072" crc="6cbb3f0e" md5="50ec278292555bf162ef54f6db6522ba" sha1="6a42c3c60aeb93bfab83b02fb6199ceacfb57ffa"/>
+	</game>
+	<game name="Jabberwocky (2019-12-01)(Polyducks)">
+		<description>Jabberwocky (2019-12-01)(Polyducks)</description>
+		<rom name="Jabberwocky (2019-12-01)(Polyducks).gb" size="1048576" crc="cfc51717" md5="d051557317b202cfb9b6667fc64a5426" sha1="b4e447f2197688c740a45dce27879a62c742fb96"/>
+	</game>
+	<game name="Jabberwocky (2019-12-01)(Polyducks)[web version]">
+		<description>Jabberwocky (2019-12-01)(Polyducks)[web version]</description>
+		<rom name="Jabberwocky (2019-12-01)(Polyducks)[web version].gb" size="1048576" crc="14ab4f44" md5="108ebacc59720e041cf16a548be68f75" sha1="099e76fd2bb78031cf527d2726e072702bd120a3"/>
 	</game>
 	<game name="Jack o Shooter (2021-11-08)(Double E Productions)">
 		<description>Jack o Shooter (2021-11-08)(Double E Productions)</description>
@@ -2400,6 +2600,18 @@
 		<description>K32 Super Rocket Rev 4 (2021-09-29)(jonah32u4hm)</description>
 		<rom name="K32 Super Rocket Rev 4 (2021-09-29)(jonah32u4hm).gb" size="32768" crc="a8f7bc33" md5="4c67edef4860ff4c40fd3fc5076eb16c" sha1="e97b66aa1f6df81235564f3954aaca907f492583"/>
 	</game>
+	<game name="Kaboom! (2019-09-21)(Fantasy Software Designs)">
+		<description>Kaboom! (2019-09-21)(Fantasy Software Designs)</description>
+		<rom name="Kaboom! (2019-09-21)(Fantasy Software Designs).gb" size="32768" crc="3c649497" md5="6a7eb6d3d383fe67fb35036aca219f7f" sha1="4727f162606d23794654110902f7df577f1fd1c8"/>
+	</game>
+	<game name="KaijuFeeder (2019-08-03)(Zalo)">
+		<description>KaijuFeeder (2019-08-03)(Zalo)</description>
+		<rom name="KaijuFeeder (2019-08-03)(Zalo).gb" size="65536" crc="1586619e" md5="c08af96ed819146622e2c04e8499ed68" sha1="d8b2f010a3e8c62406ea0d1fbd2d81138b4dd302"/>
+	</game>
+	<game name="KaijuFeeder (2020-09-09)(Zalo)">
+		<description>KaijuFeeder (2020-09-09)(Zalo)</description>
+		<rom name="KaijuFeeder (2020-09-09)(Zalo).gb" size="65536" crc="56ec96fd" md5="4c18c2c0801be2963f69fa8a1292fb45" sha1="c9582914d0e237568a8b88893f8a7c6977f563c4"/>
+	</game>
 	<game name="Kamurocho '88 -Portable- (2020-09-08)(HiroshiYuki)(proto)">
 		<description>Kamurocho '88 -Portable- (2020-09-08)(HiroshiYuki)(proto)</description>
 		<rom name="Kamurocho '88 -Portable- (2020-09-08)(HiroshiYuki)(proto).gb" size="1048576" crc="b42720fd" md5="451eb2054337ce68dad6787876771957" sha1="d35441950e470b407ef5a7657d1f66d3406d3019"/>
@@ -2415,6 +2627,14 @@
 	<game name="Kendan and the Gem of Eru (demo-playable) (2021-11-07)(Stompy Paws Studios)">
 		<description>Kendan and the Gem of Eru (demo-playable) (2021-11-07)(Stompy Paws Studios)</description>
 		<rom name="Kendan and the Gem of Eru (demo-playable) (2021-11-07)(Stompy Paws Studios).gb" size="524288" crc="3148ae9a" md5="e410ce0b8988f1580bcf47713237c04a" sha1="3bd8a7cc5f7fd274a8341a4845aa03167f56690f"/>
+	</game>
+	<game name="Kenzie's Birthday Dash (2020-04-15)(OmniRetro Games)">
+		<description>Kenzie's Birthday Dash (2020-04-15)(OmniRetro Games)</description>
+		<rom name="Kenzie's Birthday Dash (2020-04-15)(OmniRetro Games).gb" size="1048576" crc="986bfd75" md5="1b3e05519f7bdce7cc5a18a108e55888" sha1="6d15b5bc33d7c7771ba62d56ae7f25fa081bc564"/>
+	</game>
+	<game name="Kenzie's Birthday Dash (2020-04-15)(OmniRetro Games)[web]">
+		<description>Kenzie's Birthday Dash (2020-04-15)(OmniRetro Games)[web]</description>
+		<rom name="Kenzie's Birthday Dash (2020-04-15)(OmniRetro Games)[web].gb" size="1048576" crc="a771c591" md5="1da640351fbf87aa45d7c3ee1984002f" sha1="2f1b907f249557e27fc36db4bf37e3feeaa87893"/>
 	</game>
 	<game name="Kepler's Castle v1.0 (2020-12-06)(Impergatox)">
 		<description>Kepler's Castle v1.0 (2020-12-06)(Impergatox)</description>
@@ -2539,6 +2759,38 @@
 	<game name="Liam's Adventure (2020-07-17)(New Timely Games)(proto)">
 		<description>Liam's Adventure (2020-07-17)(New Timely Games)(proto)</description>
 		<rom name="Liam's Adventure (2020-07-17)(New Timely Games)(proto).gb" size="1048576" crc="91eefe02" md5="6a83342b8ffe7be9d138a25d110774ed" sha1="c0d559700126da2ff04790bcd48083f560d46fc7"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.01 (2018-10-17)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.01 (2018-10-17)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.01 (2018-10-17)(Yerrick, Damian)(Zlib).gb" size="32768" crc="32035e36" md5="a6e4090a5e60c8af525460b56ad5b9b7" sha1="53904179c27e6010ed6ca27a3a87fc775e77a0b6"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.02 (2018-10-31)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.02 (2018-10-31)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.02 (2018-10-31)(Yerrick, Damian)(Zlib).gb" size="32768" crc="549c8f98" md5="33ef3a7c79de6009fe805098afa6ebe6" sha1="16191acbaf8be8d495b98983d0082ef397fcd1a6"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.03 (2018-12-11)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.03 (2018-12-11)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.03 (2018-12-11)(Yerrick, Damian)(Zlib).gb" size="32768" crc="192d35f1" md5="58235c58a4a858e2eab18b9001c94fc1" sha1="0e842b1ff8b42a8bf6e4d2efd5968e132092f30f"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.04 (2019-02-20)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.04 (2019-02-20)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.04 (2019-02-20)(Yerrick, Damian)(Zlib).gb" size="32768" crc="1a4ccc92" md5="dd27f468ad8447a88daf587e2de01e8a" sha1="3a52a6e7c9c5beb93920043ee932d841ba2ce0e2"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.05 (2019-11-13)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.05 (2019-11-13)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.05 (2019-11-13)(Yerrick, Damian)(Zlib).gb" size="32768" crc="7525ae52" md5="546ffa0c0e4ae4d7ea9a9007f575250d" sha1="a84789e68069b8c3367ccb31fbf44b63f249a201"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.06 (2020-07-03)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.06 (2020-07-03)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.06 (2020-07-03)(Yerrick, Damian)(Zlib).gb" size="32768" crc="9ccc887f" md5="89c3fbe16da7ef04d5278d83f9239c47" sha1="2b5418ef6440e4002247955df90eab0c4773ba13"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.07 (2021-01-19)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.07 (2021-01-19)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.07 (2021-01-19)(Yerrick, Damian)(Zlib).gb" size="32768" crc="96d18cfa" md5="85b802dacad72f5614aee947aa3859de" sha1="9c72848fadc5d10aba617089406c2c3247ae64f3"/>
+	</game>
+	<game name="Libbet and the Magic Floor v0.08 (2024-01-02)(Yerrick, Damian)(Zlib)">
+		<description>Libbet and the Magic Floor v0.08 (2024-01-02)(Yerrick, Damian)(Zlib)</description>
+		<rom name="Libbet and the Magic Floor v0.08 (2024-01-02)(Yerrick, Damian)(Zlib).gb" size="32768" crc="7a9dea01" md5="ce9716a3a431f9722d58d30947f26921" sha1="bc173e97e0f9509051de84b33b0ce9ee3184e04e"/>
 	</game>
 	<game name="Life in the Analog Age - Rainy Day (2021-02-21)(Gabboco Games)">
 		<description>Life in the Analog Age - Rainy Day (2021-02-21)(Gabboco Games)</description>
@@ -2712,6 +2964,10 @@
 		<description>Mara - Sh0rk of Justice v1.0.0 (2020-12-28)(Within)</description>
 		<rom name="Mara - Sh0rk of Justice v1.0.0 (2020-12-28)(Within).gb" size="262144" crc="01614698" md5="8db54ca6d14377c4f403e6b640e65481" sha1="c9707e77ee2dec51e4c47d62b3978422258a8253"/>
 	</game>
+	<game name="Marcador sube y baja (2019-10-18)(Monicapo)(es)(proto)">
+		<description>Marcador sube y baja (2019-10-18)(Monicapo)(es)(proto)</description>
+		<rom name="Marcador sube y baja (2019-10-18)(Monicapo)(es)(proto).gb" size="1048576" crc="faf7388f" md5="c72443392442478f232575671fe4e156" sha1="72dba36e0e8591ed3a8a4fd4ef906471691b398a"/>
+	</game>
 	<game name="Mario GameBoy Color Test (2021-07-26)(WinglessPenny64)(proto)">
 		<description>Mario GameBoy Color Test (2021-07-26)(WinglessPenny64)(proto)</description>
 		<rom name="Mario GameBoy Color Test (2021-07-26)(WinglessPenny64)(proto).gb" size="262144" crc="36e4a0fb" md5="57348af21c732a55c2cd7614f80c3391" sha1="23776e995fdae7516f7e37d2d1405a09c2fea3cf"/>
@@ -2719,6 +2975,10 @@
 	<game name="Marron Helps a Friend (2019-08-14)(npckc)">
 		<description>Marron Helps a Friend (2019-08-14)(npckc)</description>
 		<rom name="Marron Helps a Friend (2019-08-14)(npckc).gb" size="1048576" crc="08a3a987" md5="9381c3d1e8a7fa971555183126833858" sha1="adcd56fa3eba93edd20be25ae5cb349070cd0323"/>
+	</game>
+	<game name="Marron Helps a Friend (2023-10-14)(npckc)">
+		<description>Marron Helps a Friend (2023-10-14)(npckc)</description>
+		<rom name="Marron Helps a Friend (2023-10-14)(npckc).gb" size="1048576" crc="33062383" md5="edbf640b65a1d4dbf6ed65c7f83593c1" sha1="60dd2c0b35799e4ce96368f01716e1d8685b4f2b"/>
 	</game>
 	<game name="Marta in the Balloon Maze (2021-09-29)(Rodrigo_dCG)(en-es)">
 		<description>Marta in the Balloon Maze (2021-09-29)(Rodrigo_dCG)(en-es)</description>
@@ -2735,6 +2995,10 @@
 	<game name="Mathlock (2022-09-01)(kattrali)">
 		<description>Mathlock (2022-09-01)(kattrali)</description>
 		<rom name="Mathlock (2022-09-01)(kattrali).gb" size="32768" crc="16f37272" md5="9b74cd9f8d36163d8123c8d6080f652a" sha1="f1ebf6bdbf830604e07111e6454643b5349f085a"/>
+	</game>
+	<game name="MaxPirate v1.0 (2024-05-04)(Wehrstedt, Marcel)(DE)(en)(MIT)">
+		<description>MaxPirate v1.0 (2024-05-04)(Wehrstedt, Marcel)(DE)(en)(MIT)</description>
+		<rom name="MaxPirate v1.0 (2024-05-04)(Wehrstedt, Marcel)(DE)(en)(MIT).gb" size="32768" crc="7d469b66" md5="a67b8f4599df3bb2a6ac58e193db69f4" sha1="35f9784f0d6093f2411c3265198c940645f4d065"/>
 	</game>
 	<game name="May Day - Day One (demo-playable) (2020-11-06)(Valorz, Nate)">
 		<description>May Day - Day One (demo-playable) (2020-11-06)(Valorz, Nate)</description>
@@ -2771,6 +3035,10 @@
 	<game name="Memory (2020-06-11)(lapa_tyka)(ru)">
 		<description>Memory (2020-06-11)(lapa_tyka)(ru)</description>
 		<rom name="Memory (2020-06-11)(lapa_tyka)(ru).gb" size="1048576" crc="91c6298e" md5="23a2f70879f18f090e19654bd0393dcd" sha1="a62b701d28efe5cf6219a4c29f803f1940243f69"/>
+	</game>
+	<game name="Memory Mania Challenge v1.3 (2020-05-04)(OmniRetro Games)">
+		<description>Memory Mania Challenge v1.3 (2020-05-04)(OmniRetro Games)</description>
+		<rom name="Memory Mania Challenge v1.3 (2020-05-04)(OmniRetro Games).gb" size="1048576" crc="50618f4b" md5="4c9ea697778efdc5cefd32ce63e58598" sha1="c8d74af4746313800df3a23c1ad01f931e0e2eca"/>
 	</game>
 	<game name="Merry Sample Project (2019-12-15)(Maltby, Chris)(MIT)">
 		<description>Merry Sample Project (2019-12-15)(Maltby, Chris)(MIT)</description>
@@ -2820,6 +3088,10 @@
 		<description>Milk the Game (2022-08-13)(Taco Productions)</description>
 		<rom name="Milk the Game (2022-08-13)(Taco Productions).gb" size="131072" crc="3bdb5ace" md5="6459dd0286fa2fcc07760b7e142e4f3c" sha1="14ad5351bee086aae96a95394eb079e0bf4e77a3"/>
 	</game>
+	<game name="MindOut (2020-03-31)(SidikRizal)">
+		<description>MindOut (2020-03-31)(SidikRizal)</description>
+		<rom name="MindOut (2020-03-31)(SidikRizal).gb" size="1048576" crc="37e36e61" md5="428f15199d63cc125144858b98fe8881" sha1="94412695126633d7cce3385c6af46c8168960f52"/>
+	</game>
 	<game name="Mine Hail (2020-10-20)(Medeiros, Rogério)">
 		<description>Mine Hail (2020-10-20)(Medeiros, Rogério)</description>
 		<rom name="Mine Hail (2020-10-20)(Medeiros, Rogério).gb" size="131072" crc="616f09a0" md5="646e89892a2d428e460df35fa9b8de0c" sha1="f2ff06b5e3882dbfe6229dc0265b748897a3e381"/>
@@ -2851,6 +3123,74 @@
 	<game name="Minute Missions (2021-10-29)(hAck_3r64)">
 		<description>Minute Missions (2021-10-29)(hAck_3r64)</description>
 		<rom name="Minute Missions (2021-10-29)(hAck_3r64).gb" size="262144" crc="3cb54663" md5="0936ecbee0e963c2bafa04cf95c9eba3" sha1="9a379f1e7915d5dd5858c69fa32c4fa60adc29e0"/>
+	</game>
+	<game name="Mirror Chip v0.1.9.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.1.9.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.1.9.a (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="2724026f" md5="448e86411547e96ea19a8ef8397616d7" sha1="9bb1fd9d6ab514457a9025aa40e21257cf846262"/>
+	</game>
+	<game name="Mirror Chip v0.2.3 (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.2.3 (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.2.3 (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="d8570c76" md5="af5978affe3662049cbfd236984e12e6" sha1="d84d04c8a16b3a63b1d7477923c14c2ac883fc48"/>
+	</game>
+	<game name="Mirror Chip v0.2.5 (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.2.5 (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.2.5 (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="57e143d9" md5="97f7c5efb36b36222ef3c9ea207fa0fb" sha1="70bfe3ad9429c529e74b514e4d15abe07c347098"/>
+	</game>
+	<game name="Mirror Chip v0.2.6.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.2.6.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.2.6.a (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="bc90ed2d" md5="b883d6be011350780185a533a0ebe548" sha1="fcac17dbad2bcc9332c555665115e992bba554bc"/>
+	</game>
+	<game name="Mirror Chip v0.2.8.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.2.8.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.2.8.a (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="eda83f70" md5="6b59d985a0001f6c1598d06cf750db79" sha1="d550af9a0ebb32d0e9066fdb020da5c4ec6204ca"/>
+	</game>
+	<game name="Mirror Chip v0.2.9.6.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.2.9.6.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.2.9.6.a (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="0743bcd1" md5="248036d529854ed56a287f2b09060f1d" sha1="aa4c8b6cbb0d27a203405d9cbdb39801d5821fc6"/>
+	</game>
+	<game name="Mirror Chip v0.2.9.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.2.9.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.2.9.a (demo-playable) (201x)(Arky750)(BO).gb" size="131072" crc="1fe4fa63" md5="4155204e43f85c4dd2b05caf24a851b2" sha1="7a9e73512ba30243fafd11e653b4deda68f273b3"/>
+	</game>
+	<game name="Mirror Chip v0.3.0.3.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.3.0.3.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.3.0.3.a (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="e24761f2" md5="f532dbf79aa94177edc1588384a64025" sha1="6765b6e3ee1c5affdd1efe588e01a8085534b5d7"/>
+	</game>
+	<game name="Mirror Chip v0.3.6.2.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.3.6.2.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.3.6.2.a (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="370a8d57" md5="0d6927665000ee84b78d14dede487622" sha1="44293089b8f1b587d6991524afc9d047ec40ad4f"/>
+	</game>
+	<game name="Mirror Chip v0.3.9.8.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.3.9.8.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.3.9.8.a (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="bdfb660a" md5="117b935f31481784b4a68199a95c9414" sha1="2bc59f453465be81eed278b48bbaf376bf72f43f"/>
+	</game>
+	<game name="Mirror Chip v0.3.9.9.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.3.9.9.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.3.9.9.a (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="9de54422" md5="fb48950226e27db1010e64b3e9b71772" sha1="9bdf629372b4f1c87e7e3a26cead8e8828e4eb1e"/>
+	</game>
+	<game name="Mirror Chip v0.4.3.0.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.4.3.0.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.4.3.0.a (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="02062975" md5="a965900c9cdc20d2622b3387284ffa78" sha1="ee33b4cf48b5d26afa7eb5fd4f85055d96b5f3ff"/>
+	</game>
+	<game name="Mirror Chip v0.4.9.8i.a (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.4.9.8i.a (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.4.9.8i.a (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="8c49fde1" md5="075a649b7ac40509417161dd60eb15e6" sha1="6006ec3568e8ee2adfb9e39c6c11d09c1c49ecad"/>
+	</game>
+	<game name="Mirror Chip v0.4.9.9.a (demo-playable) (2018-11-16)(Arky750)(BO)">
+		<description>Mirror Chip v0.4.9.9.a (demo-playable) (2018-11-16)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.4.9.9.a (demo-playable) (2018-11-16)(Arky750)(BO).gb" size="262144" crc="6f05dc6b" md5="192af87b89d1f0f24379ca65e6f92649" sha1="91cdcfa99ee6fabca2d7851da7972f739a9f6054"/>
+	</game>
+	<game name="Mirror Chip v0.5.4.0.a (demo-playable) (2019-03-01)(Arky750)(BO)">
+		<description>Mirror Chip v0.5.4.0.a (demo-playable) (2019-03-01)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.5.4.0.a (demo-playable) (2019-03-01)(Arky750)(BO).gb" size="262144" crc="1a2d1b2e" md5="29050d1c2861da47185f6bfe638f7ccd" sha1="cf5caa0d027bda25fd9012ee5e32dd49eb115d0f"/>
+	</game>
+	<game name="Mirror Chip v0.5.8 (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.5.8 (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.5.8 (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="6816aab4" md5="67e7afd59180f5cdb90aa58bce2dcd46" sha1="66e9f637ff6dfa9d459697557561baedceb213ee"/>
+	</game>
+	<game name="Mirror Chip v0.5.9 (demo-playable) (201x)(Arky750)(BO)">
+		<description>Mirror Chip v0.5.9 (demo-playable) (201x)(Arky750)(BO)</description>
+		<rom name="Mirror Chip v0.5.9 (demo-playable) (201x)(Arky750)(BO).gb" size="262144" crc="d1fbcc04" md5="4f8f259c42072b6a0eaf549b63b94e42" sha1="2e8d7434f44ad6aea16143749a2df1a35a00766d"/>
 	</game>
 	<game name="Missing Student, The (2022-02-15)(Supakorn Huemwang)(TH)(en)">
 		<description>Missing Student, The (2022-02-15)(Supakorn Huemwang)(TH)(en)</description>
@@ -2920,9 +3260,21 @@
 		<description>Monty on the Run (2021-10-19)(WLS)</description>
 		<rom name="Monty on the Run (2021-10-19)(WLS).gb" size="524288" crc="e2ebb406" md5="0e142d46356ee6818c8fd35654eb5732" sha1="41ac5993fbff58be0712b554aae5e4367b68677b"/>
 	</game>
+	<game name="Mooby's Misadventures (2020-06-21)(Quintuple)">
+		<description>Mooby's Misadventures (2020-06-21)(Quintuple)</description>
+		<rom name="Mooby's Misadventures (2020-06-21)(Quintuple).gb" size="1048576" crc="566acd48" md5="ce42f1cbe78f99c533102f2e714424d9" sha1="51e499df0b78774e4e26c04620e18d98fd37059f"/>
+	</game>
+	<game name="Mooby's Misadventures (2020-06-21)(Quintuple)[web]">
+		<description>Mooby's Misadventures (2020-06-21)(Quintuple)[web]</description>
+		<rom name="Mooby's Misadventures (2020-06-21)(Quintuple)[web].gb" size="1048576" crc="c612178b" md5="554e329cab13dceab529441ce657f15d" sha1="014f2778fd8a17b09d9e344759663da626a59263"/>
+	</game>
 	<game name="Moon (2021-12-11)(RI Games)">
 		<description>Moon (2021-12-11)(RI Games)</description>
 		<rom name="Moon (2021-12-11)(RI Games).gb" size="262144" crc="da03d9a2" md5="10b27ff3b29d062f1b5854a3176c8a34" sha1="83c34a16071c0c169921bbe8ffbf55b782f882e1"/>
+	</game>
+	<game name="Mori Story (demo-playable) (2020-05-11)(Shy Gecko Games)">
+		<description>Mori Story (demo-playable) (2020-05-11)(Shy Gecko Games)</description>
+		<rom name="Mori Story (demo-playable) (2020-05-11)(Shy Gecko Games).gb" size="1048576" crc="a54fa0f4" md5="92cd54c7047e86f7db8a15416d217a1d" sha1="d4d94415e60e4a7ad4608208697381c0004bbc80"/>
 	</game>
 	<game name="Mori Story v1.0.1 (demo-playable) (2020-10-05)(Azeleon Games)">
 		<description>Mori Story v1.0.1 (demo-playable) (2020-10-05)(Azeleon Games)</description>
@@ -2939,6 +3291,14 @@
 	<game name="Murder Mansion (2019)(Schneider, J.)(PD)">
 		<description>Murder Mansion (2019)(Schneider, J.)(PD)</description>
 		<rom name="Murder Mansion (2019)(Schneider, J.)(PD).gb" size="1048576" crc="0ab95891" md5="907799c7bd3be7b330145d70296e51cf" sha1="35a99df62628c3eb541d704d1ec795ba1a36e712"/>
+	</game>
+	<game name="Murder Mansion (2020-04-05)(Schneider, Jan)">
+		<description>Murder Mansion (2020-04-05)(Schneider, Jan)</description>
+		<rom name="Murder Mansion (2020-04-05)(Schneider, Jan).gb" size="1048576" crc="5a3bd92b" md5="3750ee27c17f5babbab28ff60dfd6f44" sha1="c8dd5c89944255412f9bbfa3c69b7e0228ed147d"/>
+	</game>
+	<game name="Murder Mansion (2020-06-16)(Schneider, Jan)">
+		<description>Murder Mansion (2020-06-16)(Schneider, Jan)</description>
+		<rom name="Murder Mansion (2020-06-16)(Schneider, Jan).gb" size="1048576" crc="213fd097" md5="f3f2e788eb24b519295b72fc79fcad1d" sha1="f7f26ffdc3eed3a843bce94d6926bab00c933c51"/>
 	</game>
 	<game name="Mushroom Town (2022-01-30)(heyoof)">
 		<description>Mushroom Town (2022-01-30)(heyoof)</description>
@@ -2967,6 +3327,10 @@
 	<game name="Myth Warrior (2021-07-28)(Baby Bear Productions)">
 		<description>Myth Warrior (2021-07-28)(Baby Bear Productions)</description>
 		<rom name="Myth Warrior (2021-07-28)(Baby Bear Productions).gb" size="524288" crc="8efc68a8" md5="4957bcb9091b240f2b362a67c8b31a13" sha1="9d6478d724f98d5e21dee7a3c3a261329ec772a7"/>
+	</game>
+	<game name="NABA Red Escape (2019-11-09)(Piccolo, Elisabeta Sveva - Wu, Davide - Etori, Alessandra)(IT)">
+		<description>NABA Red Escape (2019-11-09)(Piccolo, Elisabeta Sveva - Wu, Davide - Etori, Alessandra)(IT)</description>
+		<rom name="NABA Red Escape (2019-11-09)(Piccolo, Elisabeta Sveva - Wu, Davide - Etori, Alessandra)(IT).gb" size="1048576" crc="5d69fa76" md5="ca8f846d3fcddea244a61bb52cba289b" sha1="6e018976619581f86964b61b993784931b606103"/>
 	</game>
 	<game name="Nauti Buoy v1.0 (2021-08-14)(LapisRaider - TypeDefinition)(SG)(en)">
 		<description>Nauti Buoy v1.0 (2021-08-14)(LapisRaider - TypeDefinition)(SG)(en)</description>
@@ -2999,6 +3363,18 @@
 	<game name="Never Gonna Give You Up - The Game (2021-12-12)(Florent, Maximilien)(FR)(en)">
 		<description>Never Gonna Give You Up - The Game (2021-12-12)(Florent, Maximilien)(FR)(en)</description>
 		<rom name="Never Gonna Give You Up - The Game (2021-12-12)(Florent, Maximilien)(FR)(en).gb" size="262144" crc="7caeefc9" md5="93d2d9acc1e9cd454ccb575100ce5070" sha1="cb97fb2041a732fe9bae7647294502fc7befee18"/>
+	</game>
+	<game name="New Abnormal Banal Adventure (2019-12-13)(De Guio, Laura - Negri-Clementi, Giovanni Francesco - Magnaghi, Sofia)(IT)">
+		<description>New Abnormal Banal Adventure (2019-12-13)(De Guio, Laura - Negri-Clementi, Giovanni Francesco - Magnaghi, Sofia)(IT)</description>
+		<rom name="New Abnormal Banal Adventure (2019-12-13)(De Guio, Laura - Negri-Clementi, Giovanni Francesco - Magnaghi, Sofia)(IT).gb" size="1048576" crc="b1c2eec9" md5="18c10dd4d7ac4e98770975750a3520f9" sha1="a45f8e183c6e1168d5369f3eb64e4a8057b6bbc5"/>
+	</game>
+	<game name="Nightfall v1 (2019-06-18)(McMillan, Joshua)">
+		<description>Nightfall v1 (2019-06-18)(McMillan, Joshua)</description>
+		<rom name="Nightfall v1 (2019-06-18)(McMillan, Joshua).gb" size="1048576" crc="eeb6706e" md5="f6e48313a6b0cc09df8c43cc31004513" sha1="cb8d24c16ee32bdaaf488ff75fd2d682784cea76"/>
+	</game>
+	<game name="Nightfall v2 (2019-06-18)(McMillan, Joshua)">
+		<description>Nightfall v2 (2019-06-18)(McMillan, Joshua)</description>
+		<rom name="Nightfall v2 (2019-06-18)(McMillan, Joshua).gb" size="1048576" crc="a61e3a25" md5="7f0ea57f124840dc70f48c0d00e43454" sha1="5680db04a54c5f7ec01bdcede92156a8f896fb3c"/>
 	</game>
 	<game name="Nine Lives (2021-05-31)(GoCreate)">
 		<description>Nine Lives (2021-05-31)(GoCreate)</description>
@@ -3212,6 +3588,10 @@
 		<description>Pegged v1.02 (2023-06-09)(Under4Mhz)</description>
 		<rom name="Pegged v1.02 (2023-06-09)(Under4Mhz).gb" size="32768" crc="27b2f3a2" md5="bae4ed0b8279621ed3b7245b6c0396e6" sha1="762e9eeca04a4cc92725ada92ed73c06baa500a2"/>
 	</game>
+	<game name="Penalty Kick '91 (2019-09-09)(Mega-Phoenix)(beta)">
+		<description>Penalty Kick '91 (2019-09-09)(Mega-Phoenix)(beta)</description>
+		<rom name="Penalty Kick '91 (2019-09-09)(Mega-Phoenix)(beta).gb" size="1048576" crc="5f5b6165" md5="80774b9849be9634c1767af5f0d712e7" sha1="233c87368fcb238b4e146e3589ff8415c977f493"/>
+	</game>
 	<game name="Perfect Blend (2021-10-25)(Rollins, Bryan)[GobJam Edition]">
 		<description>Perfect Blend (2021-10-25)(Rollins, Bryan)[GobJam Edition]</description>
 		<rom name="Perfect Blend (2021-10-25)(Rollins, Bryan)[GobJam Edition].gb" size="262144" crc="9b4bacaa" md5="ffb546c576fdbb14c2c62409ff53943d" sha1="09b0691f6823c54f1515dd3b66f135ac45a7dbc3"/>
@@ -3223,6 +3603,10 @@
 	<game name="Peri &amp; Tele Try to Work Together (2021-03-29)(therurik)">
 		<description>Peri &amp; Tele Try to Work Together (2021-03-29)(therurik)</description>
 		<rom name="Peri &amp; Tele Try to Work Together (2021-03-29)(therurik).gb" size="262144" crc="0f53f97a" md5="0aedb825d49f54d60aa47a58b71f71f4" sha1="dcb85980206ce4959b3cb8bb0862b2e684ed182e"/>
+	</game>
+	<game name="Persecución en laberinto (2019-09-18)(Monicapo)(es)(proto)">
+		<description>Persecución en laberinto (2019-09-18)(Monicapo)(es)(proto)</description>
+		<rom name="Persecución en laberinto (2019-09-18)(Monicapo)(es)(proto).gb" size="1048576" crc="d6a3b5d5" md5="b8db0fa6c40eb63f1c5509405b3d8abc" sha1="21cba82142b8abeab33c02eb7bf73a3cac0bf6cd"/>
 	</game>
 	<game name="Persona 4 GB (demo-playable) (2022-02-02)(SeanSS)">
 		<description>Persona 4 GB (demo-playable) (2022-02-02)(SeanSS)</description>
@@ -3352,6 +3736,10 @@
 		<description>Plug it In (2022-02-27)(koby)</description>
 		<rom name="Plug it In (2022-02-27)(koby).gb" size="262144" crc="4ce83a78" md5="034b5f42289d9e05b9baf94ee60acb32" sha1="3592b7c61aee85895fac16870108eb58bc05a9cd"/>
 	</game>
+	<game name="Pluto's Corner (2019-10-14)(bbbbbr)">
+		<description>Pluto's Corner (2019-10-14)(bbbbbr)</description>
+		<rom name="Pluto's Corner (2019-10-14)(bbbbbr).gb" size="65536" crc="21fc06b3" md5="c62581e125bda4a878740548540f8ebb" sha1="94e4a442205079d85d5ca37042eaec555f7f49db"/>
+	</game>
 	<game name="Pluto x Baby Pluto (2020-12-11)(Krool Toys)">
 		<description>Pluto x Baby Pluto (2020-12-11)(Krool Toys)</description>
 		<rom name="Pluto x Baby Pluto (2020-12-11)(Krool Toys).gb" size="262144" crc="ab1921d3" md5="26268b3870467bed0af56c268707ad58" sha1="9ff65e6bb3ff55732cb0a3a81870fdfca36ec944"/>
@@ -3383,6 +3771,10 @@
 	<game name="Pokemon Orange GB (2022-08-18)(LinkThePaleSystem64)">
 		<description>Pokemon Orange GB (2022-08-18)(LinkThePaleSystem64)</description>
 		<rom name="Pokemon Orange GB (2022-08-18)(LinkThePaleSystem64).gb" size="262144" crc="37020654" md5="8ccdf96a5a53a735241176600af37852" sha1="3d6260cbcd65e6fffba3d1a215d30e6415ffe2f3"/>
+	</game>
+	<game name="Polka Sheep (2017)(Monis Games)">
+		<description>Polka Sheep (2017)(Monis Games)</description>
+		<rom name="Polka Sheep (2017)(Monis Games).gb" size="131072" crc="9e6a87b4" md5="b886706261e3063003937842c7abeed7" sha1="7ee368d656145647ed2a2e800c897c63739bbf2e"/>
 	</game>
 	<game name="Pong Boy (2022-07-15)(Studio 40A)(fr)">
 		<description>Pong Boy (2022-07-15)(Studio 40A)(fr)</description>
@@ -3436,6 +3828,10 @@
 		<description>Power Bee v3 (2022-07-29)(torte00)</description>
 		<rom name="Power Bee v3 (2022-07-29)(torte00).gb" size="262144" crc="f2eefdea" md5="2becf4fcf7fdbf4d3679a9479bf776d0" sha1="b338d9b842e63a207f678fcf8c42e965ddc6222a"/>
 	</game>
+	<game name="Pretty Princess' Castle Escape (2016-07-26)(sergeeo)">
+		<description>Pretty Princess' Castle Escape (2016-07-26)(sergeeo)</description>
+		<rom name="Pretty Princess' Castle Escape (2016-07-26)(sergeeo).gb" size="65536" crc="444e752f" md5="fdf2d97409d4fbb3bdbbb96bb212562a" sha1="314ccf3d079e8bdef814c18cb235d3c384180543"/>
+	</game>
 	<game name="Prima Materia (2021-04-08)(Yliader)">
 		<description>Prima Materia (2021-04-08)(Yliader)</description>
 		<rom name="Prima Materia (2021-04-08)(Yliader).gb" size="524288" crc="7c2986d0" md5="902922ccd6620ace3d3202b96058a68b" sha1="07f34918dc7ca6783e5e7ac3e87e88a1edbf8e62"/>
@@ -3460,9 +3856,37 @@
 		<description>Procrastination Simulator - You'll Do it Tomorrow v0.1 (2022-05-20)(ahmadmanga)</description>
 		<rom name="Procrastination Simulator - You'll Do it Tomorrow v0.1 (2022-05-20)(ahmadmanga).gb" size="131072" crc="117e4857" md5="de2aac2576a4f1f5116b56926ea22307" sha1="43bfafbbbf3a616ff9499c075411a17c7a6de0c2"/>
 	</game>
-	<game name="Project Trap (demo-playable) (2022-03-16)(Elvies)">
-		<description>Project Trap (demo-playable) (2022-03-16)(Elvies)</description>
-		<rom name="Project Trap (demo-playable) (2022-03-16)(Elvies).gb" size="1048576" crc="301f0de2" md5="0b340d2d9131dfb7565800a57a61bbbf" sha1="7dbc2f38f7e8166fc23b04ad2fb586a65f8fbb6c"/>
+	<game name="Professor S and the Mysterious Labyrinth (2019-10-15)(moon works)">
+		<description>Professor S and the Mysterious Labyrinth (2019-10-15)(moon works)</description>
+		<rom name="Professor S and the Mysterious Labyrinth (2019-10-15)(moon works).gb" size="1048576" crc="23abe031" md5="1730973ded4a29727d7f2fdf88683221" sha1="b982d629f997e3da6b340048bba837e2d335f5f1"/>
+	</game>
+	<game name="Professor S and the Mysterious Labyrinth (2019-10-15)(moon works)[web rom]">
+		<description>Professor S and the Mysterious Labyrinth (2019-10-15)(moon works)[web rom]</description>
+		<rom name="Professor S and the Mysterious Labyrinth (2019-10-15)(moon works)[web rom].gb" size="1048576" crc="20d08d2b" md5="ea07121771251e8fed17f86ac52ffae2" sha1="045648b8f0537af86521dbe72c8add3e2c596d4d"/>
+	</game>
+	<game name="Project Trap (2020-04-25)(Elvies)">
+		<description>Project Trap (2020-04-25)(Elvies)</description>
+		<rom name="Project Trap (2020-04-25)(Elvies).gb" size="1048576" crc="ccd7b87f" md5="4af314ca094fed117c2631f4a490e874" sha1="3d9ac84d33127b920c71ca1216167e42e4e4d7e3"/>
+	</game>
+	<game name="Project Trap (2022-03-25)(Elvies)[final version]">
+		<description>Project Trap (2022-03-25)(Elvies)[final version]</description>
+		<rom name="Project Trap (2022-03-25)(Elvies)[final version].gb" size="1048576" crc="5add03d0" md5="a236dcb71e198ca6b35671cf2b10c352" sha1="b7bdd380dc496ec59b76edda0d7e0f065e40d57f"/>
+	</game>
+	<game name="Project Trap the Radio Event (2020-04-25)(Elvies)">
+		<description>Project Trap the Radio Event (2020-04-25)(Elvies)</description>
+		<rom name="Project Trap the Radio Event (2020-04-25)(Elvies).gb" size="1048576" crc="1b69b627" md5="c9829c9a4b1f21b8d43686430a884692" sha1="73c148d14cca0204a8b3b53311fc9b47e93b5659"/>
+	</game>
+	<game name="Project Trap v0.1 (2020-04-13)(Elvies)(alpha)">
+		<description>Project Trap v0.1 (2020-04-13)(Elvies)(alpha)</description>
+		<rom name="Project Trap v0.1 (2020-04-13)(Elvies)(alpha).gb" size="1048576" crc="301f0de2" md5="0b340d2d9131dfb7565800a57a61bbbf" sha1="7dbc2f38f7e8166fc23b04ad2fb586a65f8fbb6c"/>
+	</game>
+	<game name="Project Trap v4 (2020-04-25)(Elvies)">
+		<description>Project Trap v4 (2020-04-25)(Elvies)</description>
+		<rom name="Project Trap v4 (2020-04-25)(Elvies).gb" size="1048576" crc="06d361a2" md5="bd4fd51896f38d07d7ac6b06fcbe0a1d" sha1="26858e6ccc3407446f68e857dad71993ec6f0ed0"/>
+	</game>
+	<game name="Project Trap v4.1 (2020-05-03)(Elvies)">
+		<description>Project Trap v4.1 (2020-05-03)(Elvies)</description>
+		<rom name="Project Trap v4.1 (2020-05-03)(Elvies).gb" size="1048576" crc="11a8a780" md5="c38b10ed41bdc83f93dc095794f8537f" sha1="cae3f7d21b9016c7697131742f17b273498dc579"/>
 	</game>
 	<game name="Project Ulysses (2021-01-06)(Monarch Interactive)(proto)">
 		<description>Project Ulysses (2021-01-06)(Monarch Interactive)(proto)</description>
@@ -3484,6 +3908,10 @@
 		<description>Purple Chicken GB (2022-06-20)(Holmade Games)(proto)</description>
 		<rom name="Purple Chicken GB (2022-06-20)(Holmade Games)(proto).gb" size="262144" crc="67d5b4be" md5="18c2d42d7a43e5621eca4e2e9e7dbaeb" sha1="22b73898e6686fac8d9c44af671b67264afc91a1"/>
 	</game>
+	<game name="Push to Live (2019-09-13)(Monicapo)(es)(proto)">
+		<description>Push to Live (2019-09-13)(Monicapo)(es)(proto)</description>
+		<rom name="Push to Live (2019-09-13)(Monicapo)(es)(proto).gb" size="1048576" crc="123509c7" md5="237b5baed64ef1d1157ddcb6c1726424" sha1="8f282ae7320c47c76230c0098ce599215c95b911"/>
+	</game>
 	<game name="Pushingo (2021-09-25)(WLS)">
 		<description>Pushingo (2021-09-25)(WLS)</description>
 		<rom name="Pushingo (2021-09-25)(WLS).gb" size="262144" crc="a8541ed0" md5="893a3f2daf828dd2c09c6cb3dc1e57d3" sha1="1ac1e22b191a95fdfa00c34ccba7387c991c827b"/>
@@ -3491,6 +3919,10 @@
 	<game name="Putrid Shark v1.1 (2021-05-28)(worsterman)">
 		<description>Putrid Shark v1.1 (2021-05-28)(worsterman)</description>
 		<rom name="Putrid Shark v1.1 (2021-05-28)(worsterman).gb" size="1048576" crc="5acf5965" md5="55e8dd3f23d7d69328850d26b1ffcfa2" sha1="7cb17221f3949d7b68493f709f68ee1d46f64ed1"/>
+	</game>
+	<game name="Puzzle de cerradura (2019-06-19)(Monicapo)(es)(proto)">
+		<description>Puzzle de cerradura (2019-06-19)(Monicapo)(es)(proto)</description>
+		<rom name="Puzzle de cerradura (2019-06-19)(Monicapo)(es)(proto).gb" size="1048576" crc="df110134" md5="28ee5520726302ef91ac869eaf1c31a8" sha1="0621c866fed3669b5ef9c877a6095df4584558d0"/>
 	</game>
 	<game name="Quaggon's Village (2021-01-06)(The Programming Raccoon)">
 		<description>Quaggon's Village (2021-01-06)(The Programming Raccoon)</description>
@@ -3516,6 +3948,14 @@
 		<description>Quest - The Adventure for the 6 Stones v1.0.2 (2021-10-30)(R Games)</description>
 		<rom name="Quest - The Adventure for the 6 Stones v1.0.2 (2021-10-30)(R Games).gb" size="1048576" crc="49fbcedb" md5="78c806e3874ceba62bf1b0de148c26e2" sha1="3d6d2eb92e10808ee30a8ff8a68ae46a70bf1d25"/>
 	</game>
+	<game name="Quest Arrest (2020-02-29)(The Retro Room)">
+		<description>Quest Arrest (2020-02-29)(The Retro Room)</description>
+		<rom name="Quest Arrest (2020-02-29)(The Retro Room).gb" size="1048576" crc="7089bf5f" md5="9c44881cf54ce6564c505e89220b41c3" sha1="6ad4748405ea302d59063b2121eee9af9fdd3266"/>
+	</game>
+	<game name="Quest Arrest v1.1 (2020-05-27)(The Retro Room)">
+		<description>Quest Arrest v1.1 (2020-05-27)(The Retro Room)</description>
+		<rom name="Quest Arrest v1.1 (2020-05-27)(The Retro Room).gb" size="1048576" crc="9ac546d5" md5="98ce3dda6530b382036478bf9850f1a1" sha1="25b3a21135bfc7587c096b10f4a20d8b3095d721"/>
+	</game>
 	<game name="Quézaco (2021-05-01)(HLaurine)(FR)(proto)">
 		<description>Quézaco (2021-05-01)(HLaurine)(FR)(proto)</description>
 		<rom name="Quézaco (2021-05-01)(HLaurine)(FR)(proto).gb" size="262144" crc="74a8bfdc" md5="289b977c9bc1505dae9a9f461b2de9dc" sha1="aacbe1add4eefaf4d022b6112f0989e5b76f9c9a"/>
@@ -3540,9 +3980,17 @@
 		<description>RE-Pear (2020-02-02)(uncool-and-uncouth)(US)</description>
 		<rom name="RE-Pear (2020-02-02)(uncool-and-uncouth)(US).gb" size="1048576" crc="094f9396" md5="a7e8d2944b6db90f286cd3d0c08789e0" sha1="6cc936464bf247c5268dcf541d26ad7242ef672f"/>
 	</game>
+	<game name="Re-Pear it Peary v9 (2023-05-14)(puggsoy)">
+		<description>Re-Pear it Peary v9 (2023-05-14)(puggsoy)</description>
+		<rom name="Re-Pear it Peary v9 (2023-05-14)(puggsoy).gb" size="1048576" crc="a7e633d0" md5="e561dd8af957e15da8819ebe1bc0ed5e" sha1="0370d41a9f5b423a5c26c4e74daa142abe163c6f"/>
+	</game>
 	<game name="RE-TROID (2021-03-27)(SeanSS)">
 		<description>RE-TROID (2021-03-27)(SeanSS)</description>
 		<rom name="RE-TROID (2021-03-27)(SeanSS).gb" size="262144" crc="24c9db9b" md5="bd4c33a1b75eacf58583e27a89200714" sha1="3fc56ee2b8325fe2ab9033d1466f0524fc86a5cf"/>
+	</game>
+	<game name="Reckoning, The - 20XX (2019-10-06)(kovalok - Jamideus - Maevie - borbware)(FI)">
+		<description>Reckoning, The - 20XX (2019-10-06)(kovalok - Jamideus - Maevie - borbware)(FI)</description>
+		<rom name="Reckoning, The - 20XX (2019-10-06)(kovalok - Jamideus - Maevie - borbware)(FI).gb" size="65536" crc="a162b25d" md5="515c65bba57ef16535870937bbf20f0d" sha1="b7515f63e8b2d009da943ae8732755953bc0a758"/>
 	</game>
 	<game name="Red Forest, The (2021-05-15)(JUANco)">
 		<description>Red Forest, The (2021-05-15)(JUANco)</description>
@@ -3623,6 +4071,10 @@
 	<game name="Right to Repair (2021-09-28)(Murray, Page)">
 		<description>Right to Repair (2021-09-28)(Murray, Page)</description>
 		<rom name="Right to Repair (2021-09-28)(Murray, Page).gb" size="262144" crc="d5846520" md5="b6e0660a934218ec7884a978c6cc83fe" sha1="e17cedeb8b659bd1b1533d7f70e3f00b9af6dbe2"/>
+	</game>
+	<game name="Riparian Harvest (2019-11-14)(TPZD)(SK)(en)">
+		<description>Riparian Harvest (2019-11-14)(TPZD)(SK)(en)</description>
+		<rom name="Riparian Harvest (2019-11-14)(TPZD)(SK)(en).gb" size="1048576" crc="b914852e" md5="4d19fbd473531d82a164bf58f3d850e0" sha1="027e614d0c47b17219cebaeb22a66bc254f0c7ea"/>
 	</game>
 	<game name="Rise of Pharaoh (2022-02-01)(Beep Beep)(fr)">
 		<description>Rise of Pharaoh (2022-02-01)(Beep Beep)(fr)</description>
@@ -3712,6 +4164,10 @@
 		<description>Saving Ben (demo-playable) (2021-03-13)(Busted Van Studios)</description>
 		<rom name="Saving Ben (demo-playable) (2021-03-13)(Busted Van Studios).gb" size="262144" crc="40f08fa9" md5="9ba71e7df0df756de2779a6c87c703cb" sha1="abb17a40790c335e740835c8e47880c94b183fe5"/>
 	</game>
+	<game name="SCHRODINGIRL (2019-05-20)(Arky750)(BO)">
+		<description>SCHRODINGIRL (2019-05-20)(Arky750)(BO)</description>
+		<rom name="SCHRODINGIRL (2019-05-20)(Arky750)(BO).gb" size="32768" crc="6614309f" md5="6bec71d2a36007658de0105154a776d1" sha1="04fc22c60d279301a8f28bd56e82c5faf3b56cd0"/>
+	</game>
 	<game name="Scooby Doo &amp; Scrappy Doo - Rescue of Shaggy (2021-01-02)(Rodrigo_dCG)(en-es)">
 		<description>Scooby Doo &amp; Scrappy Doo - Rescue of Shaggy (2021-01-02)(Rodrigo_dCG)(en-es)</description>
 		<rom name="Scooby Doo &amp; Scrappy Doo - Rescue of Shaggy (2021-01-02)(Rodrigo_dCG)(en-es).gb" size="1048576" crc="6ad4a3ec" md5="170a9e67c370b4abce97119391ff3c95" sha1="36b114d68382ac33808f70376b106e8e69f71309"/>
@@ -3775,6 +4231,10 @@
 	<game name="Sherlock - A Study in Scarlet (2021-09-18)(Lankgod)(GPL)">
 		<description>Sherlock - A Study in Scarlet (2021-09-18)(Lankgod)(GPL)</description>
 		<rom name="Sherlock - A Study in Scarlet (2021-09-18)(Lankgod)(GPL).gb" size="524288" crc="640f3b7f" md5="b4e051f41e6371c302362fb9e3df98eb" sha1="e741e69dd21e308f48aaaadc130bbdf37fc3e0db"/>
+	</game>
+	<game name="Shield Bouncer (2018-07-29)(Zalo)">
+		<description>Shield Bouncer (2018-07-29)(Zalo)</description>
+		<rom name="Shield Bouncer (2018-07-29)(Zalo).gb" size="65536" crc="f4869538" md5="1d9176bdbfbed5310903d3180c064800" sha1="610c402007143c2144fa8edf0e8876f30194a7bc"/>
 	</game>
 	<game name="Shiyumi (2020-10-03)(Zenohm Productions)(proto)">
 		<description>Shiyumi (2020-10-03)(Zenohm Productions)(proto)</description>
@@ -3928,6 +4388,10 @@
 		<description>Small Studio - Adventure v0.2 (2020-02-11)(Smallstudio)</description>
 		<rom name="Small Studio - Adventure v0.2 (2020-02-11)(Smallstudio).gb" size="1048576" crc="a9d7a001" md5="263f0cf4d5c06305b650da206d8188e0" sha1="b53a9a54b948f727f1db4b044c45af43ad344605"/>
 	</game>
+	<game name="Smickeonn - The Game (2024-03-30)(TVMZ Studios)">
+		<description>Smickeonn - The Game (2024-03-30)(TVMZ Studios)</description>
+		<rom name="Smickeonn - The Game (2024-03-30)(TVMZ Studios).gb" size="524288" crc="93041fca" md5="32b497a8d8d21b82aa9c71ed07231b34" sha1="e0981231d10aa8ea64eeaec1ff90210adf42ae05"/>
+	</game>
 	<game name="Snail, The v1.3 (2022-05-17)(Gear-Up Games)">
 		<description>Snail, The v1.3 (2022-05-17)(Gear-Up Games)</description>
 		<rom name="Snail, The v1.3 (2022-05-17)(Gear-Up Games).gb" size="262144" crc="422a7b44" md5="a76792fdbcf6a9f9f1ff32bc0915834c" sha1="776f7578d747f935ebccda93d6487ffa4dc4bce3"/>
@@ -4072,6 +4536,10 @@
 		<description>Star Fox - Grounded (2020-03-15)(Ten Red Productions)</description>
 		<rom name="Star Fox - Grounded (2020-03-15)(Ten Red Productions).gb" size="524288" crc="82658661" md5="e585b4fc4acf013599938e3d84e4afe3" sha1="dd45b0e3f346ce33668d49092b29a44597686061"/>
 	</game>
+	<game name="StarFox - Grounded (2020-12-31)(suitNtie)">
+		<description>StarFox - Grounded (2020-12-31)(suitNtie)</description>
+		<rom name="StarFox - Grounded (2020-12-31)(suitNtie).gb" size="524288" crc="3d31c5d6" md5="8cc278f4400ec71e91d615de93e6bd23" sha1="4b8a41102a089c4b990ba92c39f3909b69bbbb76"/>
+	</game>
 	<game name="Star-Cats (2021-11-08)(KiahLeo)">
 		<description>Star-Cats (2021-11-08)(KiahLeo)</description>
 		<rom name="Star-Cats (2021-11-08)(KiahLeo).gb" size="524288" crc="5a81f04f" md5="3bae98f9606660ed05ed52b97b4bb886" sha1="e5d917cc816151f7f115833e0d4b35e0ca598021"/>
@@ -4095,6 +4563,10 @@
 	<game name="Stone Constructor v1.1.1 (2020-10-17)(labdoc)">
 		<description>Stone Constructor v1.1.1 (2020-10-17)(labdoc)</description>
 		<rom name="Stone Constructor v1.1.1 (2020-10-17)(labdoc).gb" size="65536" crc="5f5a05bc" md5="cf829b53e06541427c1c0708ae15a263" sha1="57cf1a3f46a3d4c266f3be2d7ba130d2935ca9ab"/>
+	</game>
+	<game name="Stranded Pirates (2020-04-20)(Nawreua)">
+		<description>Stranded Pirates (2020-04-20)(Nawreua)</description>
+		<rom name="Stranded Pirates (2020-04-20)(Nawreua).gb" size="1048576" crc="cbaf2648" md5="079d6c9104baf0b429b939059a6c1501" sha1="5f39b72476520a319eedae9411fee2659ee1322f"/>
 	</game>
 	<game name="STUNNER (2021-09-30)(Mindbleach)">
 		<description>STUNNER (2021-09-30)(Mindbleach)</description>
@@ -4124,6 +4596,10 @@
 		<description>Super COVID Go Get Biscuits Adventure (2021-02-18)(soully)</description>
 		<rom name="Super COVID Go Get Biscuits Adventure (2021-02-18)(soully).gb" size="262144" crc="51946e8d" md5="a5ab8800c82e4cac4e59fb4cf848a520" sha1="cac4917d56da02cf88ba68e0c5189a18c2c234ac"/>
 	</game>
+	<game name="Super GBCrawler (2021-02-27)(Shimada, Fernanda)">
+		<description>Super GBCrawler (2021-02-27)(Shimada, Fernanda)</description>
+		<rom name="Super GBCrawler (2021-02-27)(Shimada, Fernanda).gb" size="1048576" crc="dd61ec40" md5="bb1cf1669edfe09d0f6f35f5b05a7bde" sha1="b1a88a43ae4b0ac87f78b85042640d015bcda31b"/>
+	</game>
 	<game name="Super Island Adventure (2022-04-12)(Repugnant Bounty)[canceled]">
 		<description>Super Island Adventure (2022-04-12)(Repugnant Bounty)[canceled]</description>
 		<rom name="Super Island Adventure (2022-04-12)(Repugnant Bounty)[canceled].gb" size="524288" crc="d8cfe933" md5="8bcf53c5dffe2364964accf318d9dc7f" sha1="deaf2246ca23b89c7dac5029080988f279157d78"/>
@@ -4148,6 +4624,10 @@
 		<description>Super Mario Robo Blast (2021-01-18)(TaelsDaFoox)(proto)</description>
 		<rom name="Super Mario Robo Blast (2021-01-18)(TaelsDaFoox)(proto).gb" size="131072" crc="17ee810f" md5="cad2dc3cc195132fd82370ab7087d0ca" sha1="f03059fd3e0d15d0977df3b7a2346e4f84ceb83a"/>
 	</game>
+	<game name="Super Princess' 2092 Exodus (2017-01-02)(sergeeo)">
+		<description>Super Princess' 2092 Exodus (2017-01-02)(sergeeo)</description>
+		<rom name="Super Princess' 2092 Exodus (2017-01-02)(sergeeo).gb" size="131072" crc="e05c8c7d" md5="caedf6d343992a003af3e83cabbd7ca5" sha1="8e20f817636c9f8cfab129e0c85f8474a3cb0c1c"/>
+	</game>
 	<game name="Super Sonic (2021-10-22)(Quaranta, Théo - Quaranta, Eric)">
 		<description>Super Sonic (2021-10-22)(Quaranta, Théo - Quaranta, Eric)</description>
 		<rom name="Super Sonic (2021-10-22)(Quaranta, Théo - Quaranta, Eric).gb" size="262144" crc="f3019678" md5="0bf16a3c9f2efa6d1bd5c033ea417a1e" sha1="c5e87905d4d497b00f25c68450272ef9c34a3e18"/>
@@ -4171,6 +4651,10 @@
 	<game name="Swiffer Wizard - Interdimensional Realtor (2021-06-21)(Redslash12)">
 		<description>Swiffer Wizard - Interdimensional Realtor (2021-06-21)(Redslash12)</description>
 		<rom name="Swiffer Wizard - Interdimensional Realtor (2021-06-21)(Redslash12).gb" size="262144" crc="e7da7956" md5="efb3fb26f16c7801269180df1af316c6" sha1="538f085972e313fdbe218b4f6c2f0553af2db35e"/>
+	</game>
+	<game name="Sword of Eutomia v2 (demo-playable) (2020)(SōdoDev)">
+		<description>Sword of Eutomia v2 (demo-playable) (2020)(SōdoDev)</description>
+		<rom name="Sword of Eutomia v2 (demo-playable) (2020)(SōdoDev).gb" size="1048576" crc="6ab2e271" md5="587322308a0e8df5cda8d045f7d41ba9" sha1="4e4347be42051c10cc466798aeb2da3eb20e8d79"/>
 	</game>
 	<game name="Sylvantine (2020-10-16)(Eclipse Studio)(beta)">
 		<description>Sylvantine (2020-10-16)(Eclipse Studio)(beta)</description>
@@ -4235,6 +4719,10 @@
 	<game name="Test GBStudio Game (2020-09-02)(Oretal)">
 		<description>Test GBStudio Game (2020-09-02)(Oretal)</description>
 		<rom name="Test GBStudio Game (2020-09-02)(Oretal).gb" size="1048576" crc="8eb152c1" md5="ebe5b5647157c785f3192146b40b3a43" sha1="2a6c061cbe024f41370a54443f8a4371f7b362d8"/>
+	</game>
+	<game name="Test (demo-playable) (2019-08-29)(Rapha Games)">
+		<description>Test (demo-playable) (2019-08-29)(Rapha Games)</description>
+		<rom name="Test (demo-playable) (2019-08-29)(Rapha Games).gb" size="1048576" crc="00271752" md5="62ffcfe4aea3264386cb83e1f3c9d836" sha1="df3093eb2238824db2afcdd0c9ea1a8e65d1b813"/>
 	</game>
 	<game name="Tevellation (2020-07-12)(engired)">
 		<description>Tevellation (2020-07-12)(engired)</description>
@@ -4496,6 +4984,10 @@
 		<description>Vexed v1.11 (2023-09-05)(Under4Mhz)</description>
 		<rom name="Vexed v1.11 (2023-09-05)(Under4Mhz).gb" size="32768" crc="f36c4a45" md5="d5762658277dfb7639860c9fc5b93564" sha1="8491b883a6b3cfba3e25f419ee8ab0a9a694c1d1"/>
 	</game>
+	<game name="Vexed v1.15 (2024-04-18)(Under4Mhz)">
+		<description>Vexed v1.15 (2024-04-18)(Under4Mhz)</description>
+		<rom name="Vexed v1.15 (2024-04-18)(Under4Mhz).gb" size="32768" crc="db9ce1e1" md5="e30b70511a3ce1e72715eee9d1b124cf" sha1="d19e86cf7bb2e319dee0c4316a2380e37df3e232"/>
+	</game>
 	<game name="Vinca Rose (2021-10-14)(R., Viktor)">
 		<description>Vinca Rose (2021-10-14)(R., Viktor)</description>
 		<rom name="Vinca Rose (2021-10-14)(R., Viktor).gb" size="524288" crc="9aa6a4f2" md5="9213243fe1065733a016a4198c91ed82" sha1="716c2a717a8ad3d7989a4a8e1e07e0517e4ebbf5"/>
@@ -4503,6 +4995,10 @@
 	<game name="Virus Strike (2020-04-16)(it2)">
 		<description>Virus Strike (2020-04-16)(it2)</description>
 		<rom name="Virus Strike (2020-04-16)(it2).gb" size="1048576" crc="4bfce4f1" md5="dc2fef81b7921f0a5966a7fd116ddb41" sha1="6410bb08e1157111aca534013a7988152c4285fb"/>
+	</game>
+	<game name="Virus Strike (2020-04-16)(it2)[web]">
+		<description>Virus Strike (2020-04-16)(it2)[web]</description>
+		<rom name="Virus Strike (2020-04-16)(it2)[web].gb" size="1048576" crc="e2bee580" md5="ce224b30f7b7b9b6b376b7bee0ce2bb2" sha1="1f47b4622b32f94c53b1511d55eebe0cd323ac9d"/>
 	</game>
 	<game name="Viv and Bob v1.0 (2019-06-17)(Impergatox)">
 		<description>Viv and Bob v1.0 (2019-06-17)(Impergatox)</description>
@@ -4612,6 +5108,10 @@
 		<description>Whole Lotta Red (2020-12-31)(Krool Toys)</description>
 		<rom name="Whole Lotta Red (2020-12-31)(Krool Toys).gb" size="262144" crc="88dcc504" md5="f727df944a5ab199016f46077f21c252" sha1="07be6cc9bdd7e822bede5cfd06eb8a33ec649a2f"/>
 	</game>
+	<game name="Will &amp; Alyssa's Wedding - The Game (2019-12-11)(Game Buoy Games)">
+		<description>Will &amp; Alyssa's Wedding - The Game (2019-12-11)(Game Buoy Games)</description>
+		<rom name="Will &amp; Alyssa's Wedding - The Game (2019-12-11)(Game Buoy Games).gb" size="1048576" crc="4f6fafe7" md5="3724180e401f57dbae33f6634f5726e8" sha1="2183208ce59acdcd4c72febec6a64b57d7bb4e47"/>
+	</game>
 	<game name="Will &amp; Alyssa's Wedding - The Game (2020-07-05)(Game Buoy Games)">
 		<description>Will &amp; Alyssa's Wedding - The Game (2020-07-05)(Game Buoy Games)</description>
 		<rom name="Will &amp; Alyssa's Wedding - The Game (2020-07-05)(Game Buoy Games).gb" size="1048576" crc="de55db5f" md5="be034c3acbfdacda39d4e8ec2f843093" sha1="8a921b42fee617aff55f5616d02760c9b584020e"/>
@@ -4639,6 +5139,14 @@
 	<game name="WishBone v1.3.10 (2022-01-19)(Taiyaki1199)">
 		<description>WishBone v1.3.10 (2022-01-19)(Taiyaki1199)</description>
 		<rom name="WishBone v1.3.10 (2022-01-19)(Taiyaki1199).gb" size="524288" crc="35f125e4" md5="6cb36852be8231038c1c516b983c5039" sha1="d14b266f115cb3f7b78b941b5788e5e46d7fb16c"/>
+	</game>
+	<game name="Wishing Sarah v1.1 (2020-06-10)(Asteristic Game Studio)">
+		<description>Wishing Sarah v1.1 (2020-06-10)(Asteristic Game Studio)</description>
+		<rom name="Wishing Sarah v1.1 (2020-06-10)(Asteristic Game Studio).gb" size="524288" crc="efa345cd" md5="83e0f56f6315f46aaf4e7b77576b00e9" sha1="0e32eb4ef5cc3c456072892c376c5ee5d4fc78f1"/>
+	</game>
+	<game name="Wishing Sarah v1.1 (2020-06-10)(Asteristic Game Studio)(pt)[pt-br]">
+		<description>Wishing Sarah v1.1 (2020-06-10)(Asteristic Game Studio)(pt)[pt-br]</description>
+		<rom name="Wishing Sarah v1.1 (2020-06-10)(Asteristic Game Studio)(pt)[pt-br].gb" size="524288" crc="ab6cf21e" md5="f7eba1c53b02624852daea423a71c4ea" sha1="575b8b0f6fdb2d41623e7f2fe9902c87236f1a36"/>
 	</game>
 	<game name="Witch-Sign (2021-10-15)(Cultpacitor)">
 		<description>Witch-Sign (2021-10-15)(Cultpacitor)</description>
@@ -4759,6 +5267,10 @@
 	<game name="Yume Nikki GB (2020-10-12)(AstraLee)(proto)">
 		<description>Yume Nikki GB (2020-10-12)(AstraLee)(proto)</description>
 		<rom name="Yume Nikki GB (2020-10-12)(AstraLee)(proto).gb" size="1048576" crc="0ee24e6e" md5="2ce6eb4cecee9b1e80fb45bab1636971" sha1="00f0557d05ddfe7423a61b3c393ce4896e108ae2"/>
+	</game>
+	<game name="Yuuto Ichika Makes Friends (2019-05-18)(Lame Dimension)(en-ja)">
+		<description>Yuuto Ichika Makes Friends (2019-05-18)(Lame Dimension)(en-ja)</description>
+		<rom name="Yuuto Ichika Makes Friends (2019-05-18)(Lame Dimension)(en-ja).gb" size="524288" crc="8a667058" md5="29fe84cfca35b651a0bb86abf4b08792" sha1="e765d6915f543a5a65e8be440b3f29eb674a5448"/>
 	</game>
 	<game name="Zelda Demake Majora's Mask on Game Boy - Termina Town v1.1 (2021-07-25)(tononyto)">
 		<description>Zelda Demake Majora's Mask on Game Boy - Termina Town v1.1 (2021-07-25)(tononyto)</description>

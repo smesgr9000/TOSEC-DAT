@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Shoot&apos;em Up - [Z64]</name>
-		<description>Commodore C64 - Games - Shoot&apos;em Up - [Z64] (TOSEC-v2024-04-13)</description>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [Z64] (TOSEC-v2025-01-05)</description>
 		<category>TOSEC</category>
-		<version>2024-04-13</version>
+		<version>2025-01-05</version>
 		<author>Duncan Twain</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -49,12 +49,26 @@
 		<rom name="3!Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI].z64" size="26358" crc="e54d249c" md5="bafbc8d98bdb5f2c0fe99b55565986b5" sha1="deaee17798dd085cb86254b15d0ef303ad2b14ca"/>
 		<rom name="4!Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI].z64" size="9142" crc="368f5628" md5="4eae37948b9e0968c7366662bc6b7e0e" sha1="03b3f264390d6d07ba89ed6e1b598ebcb5df10ac"/>
 	</game>
+	<game name="Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI][a]">
+		<description>Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI][a]</description>
+		<rom name="1!Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI][a].z64" size="36992" crc="66388d65" md5="3945a11a0289caf3e9772b8ea2c71eff" sha1="5390a1f59c0b3f2368c3c96606f3bc2971e1cb94"/>
+		<rom name="2!Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI][a].z64" size="28672" crc="d44a43bb" md5="8e280d661a0216a26f5b038eac3020ec" sha1="270c4332971ce64cfbf699737a2b570df507645a"/>
+		<rom name="3!Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI][a].z64" size="37376" crc="63d18e95" md5="cb32dbd02d51f49523e59a24306aac38" sha1="8947a35510d3845b289015278992c6d200e980db"/>
+		<rom name="4!Airborne Ranger (1987)(MicroProse)(Side A)[cr ESI][a].z64" size="35712" crc="ff44c022" md5="b89c2cbe1c218f9537750094704b877c" sha1="1b366079dcffa554019567921135b40aaff1e7f2"/>
+	</game>
 	<game name="Airborne Ranger (1987)(MicroProse)(Side A)[cr FAC+ESI]">
 		<description>Airborne Ranger (1987)(MicroProse)(Side A)[cr FAC+ESI]</description>
 		<rom name="1!Airborne Ranger (1987)(MicroProse)(Side A)[cr FAC+ESI].z64" size="36567" crc="1dc15f30" md5="ae77b399f6087e0ebd0d69a5623bacb8" sha1="e87ac276d78d1b15b00c166f4c60c829580de2f4"/>
 		<rom name="2!Airborne Ranger (1987)(MicroProse)(Side A)[cr FAC+ESI].z64" size="40404" crc="e23290c6" md5="9e157c77370a63930c8946ab2cc338c3" sha1="e4d28235ad97ea13857f0aacfddd6ebd175fe123"/>
 		<rom name="3!Airborne Ranger (1987)(MicroProse)(Side A)[cr FAC+ESI].z64" size="24045" crc="b17aa81e" md5="425846249df0fd59e3c983e591582572" sha1="f06a5f0feda15b68d2ab039a6794a44bd80b5456"/>
 		<rom name="4!Airborne Ranger (1987)(MicroProse)(Side A)[cr FAC+ESI].z64" size="38234" crc="4aeb1613" md5="e03712446cc87b3dc364b2b7a5c0720e" sha1="36b8d5ea05b0f6b44e0a0e62d93703bf778aa86b"/>
+	</game>
+	<game name="Airborne Ranger (1987)(MicroProse)(Side B)[cr ESI]">
+		<description>Airborne Ranger (1987)(MicroProse)(Side B)[cr ESI]</description>
+		<rom name="1!Airborne Ranger (1987)(MicroProse)(Side B)[cr ESI].z64" size="40576" crc="6a49a1a6" md5="4fb700d1ea6aa0b4998fb71c86e2dce2" sha1="0f4ec46be50bb1def4c19d0af7d84a89076d7431"/>
+		<rom name="2!Airborne Ranger (1987)(MicroProse)(Side B)[cr ESI].z64" size="39808" crc="03c4fc77" md5="b6dd7ec051c89338eb49707be9a7d932" sha1="ea780d23bb41bb0ae2117a8328755b669c17c861"/>
+		<rom name="3!Airborne Ranger (1987)(MicroProse)(Side B)[cr ESI].z64" size="36864" crc="dbf91f06" md5="bb84827da0cacc2e60b41618eecfc224" sha1="af327af7c405011ae33181d1ff6736625b099344"/>
+		<rom name="4!Airborne Ranger (1987)(MicroProse)(Side B)[cr ESI].z64" size="40192" crc="f5d6a96d" md5="be549435d8e79b91df1705d25aa33f15" sha1="3265c2d907e4bf190759bbe8c790927b0a0b28a4"/>
 	</game>
 	<game name="Airborne Ranger (1987)(MicroProse)(Side B)[cr FAC+ESI]">
 		<description>Airborne Ranger (1987)(MicroProse)(Side B)[cr FAC+ESI]</description>
@@ -382,12 +396,12 @@
 		<rom name="b!Colony (demo) (1996)(Woods, John)[cr AFL].z64" size="3578" crc="b6ab6faa" md5="46322c88af774e433791e10589c16394" sha1="f75a28633cbf86a2a99935660d37b4f96a267898"/>
 		<rom name="x!Colony (demo) (1996)(Woods, John)[cr AFL].z64" size="576" crc="4cd91358" md5="008c89f492ec928b83e689aa114d335a" sha1="81c52abee61aba98ae5266078821928f4aae2229"/>
 	</game>
-	<game name="Combat Crazy (1988)(Silverbird)[cr Triangle][t +10 Triangle]">
-		<description>Combat Crazy (1988)(Silverbird)[cr Triangle][t +10 Triangle]</description>
-		<rom name="1!Combat Crazy (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="6208" crc="e5a08ba7" md5="86a0bc4bc04a830b0584dcb6e753eb01" sha1="7e71d235bb62c2f0cf4462be25c7677f509a747d"/>
-		<rom name="2!Combat Crazy (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="43346" crc="d02b6d8e" md5="fd444bf33dd187c0b6e1b6a90a2c3ccc" sha1="5b92c7f23fc7d27a6ebd9e1bab3d43e1a8380a9e"/>
-		<rom name="3!Combat Crazy (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="39927" crc="a0eb4e30" md5="890fe668a0457183d346c184e86a5982" sha1="82001ddde6feb7a7deded91d89f4a60fb2bc4271"/>
-		<rom name="4!Combat Crazy (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="17003" crc="f409191f" md5="baca337314f7c290e2f75d1447a421d2" sha1="63ac5c9978a2b166a6908a0e697db7690553e9bd"/>
+	<game name="Combat Crazy - Warbringer (1988)(Silverbird)[cr Triangle][t +10 Triangle]">
+		<description>Combat Crazy - Warbringer (1988)(Silverbird)[cr Triangle][t +10 Triangle]</description>
+		<rom name="1!Combat Crazy - Warbringer (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="6208" crc="e5a08ba7" md5="86a0bc4bc04a830b0584dcb6e753eb01" sha1="7e71d235bb62c2f0cf4462be25c7677f509a747d"/>
+		<rom name="2!Combat Crazy - Warbringer (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="43346" crc="d02b6d8e" md5="fd444bf33dd187c0b6e1b6a90a2c3ccc" sha1="5b92c7f23fc7d27a6ebd9e1bab3d43e1a8380a9e"/>
+		<rom name="3!Combat Crazy - Warbringer (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="39927" crc="a0eb4e30" md5="890fe668a0457183d346c184e86a5982" sha1="82001ddde6feb7a7deded91d89f4a60fb2bc4271"/>
+		<rom name="4!Combat Crazy - Warbringer (1988)(Silverbird)[cr Triangle][t +10 Triangle].z64" size="17003" crc="f409191f" md5="baca337314f7c290e2f75d1447a421d2" sha1="63ac5c9978a2b166a6908a0e697db7690553e9bd"/>
 	</game>
 	<game name="Cool World (1992)(Ocean)[cr TSM][f NTSC][t +4 Legend]">
 		<description>Cool World (1992)(Ocean)[cr TSM][f NTSC][t +4 Legend]</description>
@@ -706,10 +720,10 @@
 	</game>
 	<game name="Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs]">
 		<description>Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs]</description>
-		<rom name="1!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="43337" crc="d48f4407" md5="bcb727f552b30857d35e25c3923e56e4" sha1="ffdf977f089afb389916f6437fc79f2a2db5021f"/>
-		<rom name="2!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="43346" crc="50300300" md5="c9854f0fb917b2c46bdb5274563f7b55" sha1="aa4ab8dcdd4cba2da1a4a726d4d66c1799ee6208"/>
-		<rom name="3!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="41738" crc="77eda8c7" md5="285f312b8587edbf121b32d14d76fc4f" sha1="7531d54b3e61de913bb31c01ce2f11ec592e0a0e"/>
-		<rom name="4!Galencia v1.5 (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="45149" crc="95d52359" md5="13708d07e325d6ef200ba189287add64" sha1="8222f64e5fdf816fef7318854bbeb726f60d2a3d"/>
+		<rom name="1!Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="43337" crc="d48f4407" md5="bcb727f552b30857d35e25c3923e56e4" sha1="ffdf977f089afb389916f6437fc79f2a2db5021f"/>
+		<rom name="2!Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="43346" crc="50300300" md5="c9854f0fb917b2c46bdb5274563f7b55" sha1="aa4ab8dcdd4cba2da1a4a726d4d66c1799ee6208"/>
+		<rom name="3!Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="41738" crc="77eda8c7" md5="285f312b8587edbf121b32d14d76fc4f" sha1="7531d54b3e61de913bb31c01ce2f11ec592e0a0e"/>
+		<rom name="4!Galencia (2017)(Protovision)[cr ExCeSs][t +6 ExCeSs].z64" size="45149" crc="95d52359" md5="13708d07e325d6ef200ba189287add64" sha1="8222f64e5fdf816fef7318854bbeb726f60d2a3d"/>
 	</game>
 	<game name="Garrison (1988)(Rainbow Arts)[cr Mayhem+BB]">
 		<description>Garrison (1988)(Rainbow Arts)[cr Mayhem+BB]</description>
@@ -1136,12 +1150,12 @@
 		<rom name="c!Nether (demo) (1996)(Computer Workshops)[cr CHR][a].z64" size="16597" crc="0ee478c4" md5="dfb70c6d0510f41e28383b08a2d3b5db" sha1="beeaa583778c53facd3ee366c8b60f40b0e2eba2"/>
 		<rom name="x!Nether (demo) (1996)(Computer Workshops)[cr CHR][a].z64" size="975" crc="e802a244" md5="7b05cce0a96401a64ad70f2639fabe69" sha1="4733bff2bf73e170a90b021228ad24ce93efcf6f"/>
 	</game>
-	<game name="Nine Moons, The (19xx)(Jeremy Thorne)">
-		<description>Nine Moons, The (19xx)(Jeremy Thorne)</description>
-		<rom name="1!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="1516" crc="73498013" md5="8508b2effb19644cd109ba03a14b4781" sha1="c0ebf69bc7ee9569d5adbd3cb0797b44f22968ff"/>
-		<rom name="2!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="1514" crc="0bcb3024" md5="e7ddccf68777ea084408ad43a47a647d" sha1="537542def734a5df1134f3c6a20a5172dbd4c0d6"/>
-		<rom name="3!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="26633" crc="bf9e6561" md5="3a85cf29105b662f56518249b24febe6" sha1="025025ce9c2c3e0d23dd714d06e9ffe5bfc0cc42"/>
-		<rom name="4!Nine Moons, The (19xx)(Jeremy Thorne).z64" size="19290" crc="8ce5d160" md5="f898791ca2465aa5cdb798b3059d8ed5" sha1="3959c23a68916b56a1471df880bcf530b56a8d1a"/>
+	<game name="Nine Moons, The (19xx)(Thorne, Jeremy)">
+		<description>Nine Moons, The (19xx)(Thorne, Jeremy)</description>
+		<rom name="1!Nine Moons, The (19xx)(Thorne, Jeremy).z64" size="1516" crc="73498013" md5="8508b2effb19644cd109ba03a14b4781" sha1="c0ebf69bc7ee9569d5adbd3cb0797b44f22968ff"/>
+		<rom name="2!Nine Moons, The (19xx)(Thorne, Jeremy).z64" size="1514" crc="0bcb3024" md5="e7ddccf68777ea084408ad43a47a647d" sha1="537542def734a5df1134f3c6a20a5172dbd4c0d6"/>
+		<rom name="3!Nine Moons, The (19xx)(Thorne, Jeremy).z64" size="26633" crc="bf9e6561" md5="3a85cf29105b662f56518249b24febe6" sha1="025025ce9c2c3e0d23dd714d06e9ffe5bfc0cc42"/>
+		<rom name="4!Nine Moons, The (19xx)(Thorne, Jeremy).z64" size="19290" crc="8ce5d160" md5="f898791ca2465aa5cdb798b3059d8ed5" sha1="3959c23a68916b56a1471df880bcf530b56a8d1a"/>
 	</game>
 	<game name="No Mercy (1989)(Double Density)[cr EXC][t +5 Legend]">
 		<description>No Mercy (1989)(Double Density)[cr EXC][t +5 Legend]</description>
@@ -1345,6 +1359,13 @@
 		<rom name="3!Retrograde (1989)(Thalamus)(Side A)[cr I+T][t +3 I+T][a].z64" size="39840" crc="2509fe18" md5="fa03a7052d9e663cabd1df258d0bdcbf" sha1="a413336f82ec144b7efdffff6c65660f007ae399"/>
 		<rom name="4!Retrograde (1989)(Thalamus)(Side A)[cr I+T][t +3 I+T][a].z64" size="9652" crc="4f39e25d" md5="234550c1215db578ad13619e6a3c32fb" sha1="944f5cb8707739d004a616391f226e3dfc800c7f"/>
 	</game>
+	<game name="Retrograde (1989)(Thalamus)(Side A)[h The Sharks]">
+		<description>Retrograde (1989)(Thalamus)(Side A)[h The Sharks]</description>
+		<rom name="1!Retrograde (1989)(Thalamus)(Side A)[h The Sharks].z64" size="39803" crc="4f813482" md5="b13b53fa363dfffd5b5e337937c96897" sha1="cd88353e6f8f8e5741cc7a0c147257a33d7b6503"/>
+		<rom name="2!Retrograde (1989)(Thalamus)(Side A)[h The Sharks].z64" size="41325" crc="47137ae5" md5="c065ede3ecf206b5e1679e7d9e097688" sha1="5aa41f23aefd0b10902e9b26c6829c7469671d51"/>
+		<rom name="3!Retrograde (1989)(Thalamus)(Side A)[h The Sharks].z64" size="36496" crc="58b4cd6c" md5="5dee5afb194fb1706221c919f8f3ac37" sha1="175a56835bff427f93d52fcc50643586b8027b52"/>
+		<rom name="4!Retrograde (1989)(Thalamus)(Side A)[h The Sharks].z64" size="38857" crc="d3a2500b" md5="950b157567b863c88c1ddc4d1cf90c1b" sha1="46a9cd09190d1b479466545f04b7a0c2c6a02729"/>
+	</game>
 	<game name="Retrograde (1989)(Thalamus)(Side B)">
 		<description>Retrograde (1989)(Thalamus)(Side B)</description>
 		<rom name="1!Retrograde (1989)(Thalamus)(Side B).z64" size="37658" crc="e534d0b6" md5="4832e0f5bc3f817175e3ee5127f3a1a1" sha1="7b3b64e754fb7a018ea59f7aa90a12118357464b"/>
@@ -1380,6 +1401,13 @@
 		<rom name="2!Retrograde (1989)(Thalamus)(Side B)[cr I+T][t +3 I+T][a].z64" size="43346" crc="a4f41dc6" md5="fb2176a0697b1cf72a6969e40b859b94" sha1="2056d249ff7ff7958ebcc713db4616232103dc01"/>
 		<rom name="3!Retrograde (1989)(Thalamus)(Side B)[cr I+T][t +3 I+T][a].z64" size="40079" crc="23f8d9f9" md5="e1600a1c2594201fbf02e690d81ccfda" sha1="4acb9d6da908c01c3c5fc51119a675d8069e8767"/>
 		<rom name="4!Retrograde (1989)(Thalamus)(Side B)[cr I+T][t +3 I+T][a].z64" size="45038" crc="7b407bea" md5="c975b0c560ab8c5fa8389e97bc083a95" sha1="7a6fe8db93edd1ca281c0ad9918fc8287217e1d7"/>
+	</game>
+	<game name="Retrograde (1989)(Thalamus)(Side B)[h The Sharks]">
+		<description>Retrograde (1989)(Thalamus)(Side B)[h The Sharks]</description>
+		<rom name="1!Retrograde (1989)(Thalamus)(Side B)[h The Sharks].z64" size="38962" crc="874fd056" md5="24770f0e1618c0605c191ce33ed5ded8" sha1="181ff9d35d7e6585af9cf03461700f81f1d3a3f1"/>
+		<rom name="2!Retrograde (1989)(Thalamus)(Side B)[h The Sharks].z64" size="38712" crc="148e0750" md5="4ca054d7c59e759fa40724ad039edf52" sha1="4677f673f1624121f3b28552f2e8b8db74269e29"/>
+		<rom name="3!Retrograde (1989)(Thalamus)(Side B)[h The Sharks].z64" size="35981" crc="4e3de07c" md5="949b552ebe1b9fe2e6bfb95489a4f644" sha1="9f6efc2301fb5c3b4ca6273537fda546f6b8cccc"/>
+		<rom name="4!Retrograde (1989)(Thalamus)(Side B)[h The Sharks].z64" size="40960" crc="498683a6" md5="a360722fd9fad0fbe716c98df8266e77" sha1="2d8cb9267e43d6e991b48406176e6c8c69ee58b5"/>
 	</game>
 	<game name="Rigor (demo) (199x)(Nipson)(Side B)">
 		<description>Rigor (demo) (199x)(Nipson)(Side B)</description>

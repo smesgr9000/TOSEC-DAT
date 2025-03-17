@@ -1,0 +1,4 @@
+CATALOG 0000000000000
+FILE "internet au - Issue 40 (1999-02)(Next Publishing)(AU).bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

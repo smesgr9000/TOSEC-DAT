@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [CAS]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [CAS] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Debug (1980)(Radio Shack)[CAS]">
+		<description>Debug (1980)(Radio Shack)[CAS]</description>
+		<rom name="debugm3a.cas" size="1840" crc="f695a55c" md5="3460c1b06f561947066d42a58aece0ae" sha1="0d492e427cbf359e14c1fb930de798890e1a8aa4"/>
+		<rom name="debugm3b.cas" size="1842" crc="64ef85f7" md5="0e265195cd412e798355f26805df0617" sha1="a0ac64887d808c7ec66ba6aef215b33839ae24bb"/>
+	</game>
+	<game name="In-Memory Information System v2.0 (1980)(Tandy)[CAS]">
+		<description>In-Memory Information System v2.0 (1980)(Tandy)[CAS]</description>
+		<rom name="info3.cas" size="2921" crc="2aafdce4" md5="98404585f40b4929c27e447ab8d78a4d" sha1="e49c7eaa5d52c2d9fad33bd3f3de22e209770a65"/>
+		<rom name="setup3.cas" size="2578" crc="c6864e76" md5="cb4d74850287b228c1a880dbb94af271" sha1="d051bcd9bd3b01b05f38b7935e47f3e9d09d569e"/>
+		<rom name="sort3.cas" size="2854" crc="86f29e2f" md5="81f078b8144d35fb63fc5aa3f982de4a" sha1="0bee1599f686671300270918698756293ebdbe03"/>
+	</game>
+	<game name="Model III BASIC Instruction Course (1981)(Tandy)[CAS]">
+		<description>Model III BASIC Instruction Course (1981)(Tandy)[CAS]</description>
+		<rom name="m3bicl1.cas" size="72528" crc="be9fc49e" md5="d7b2336c3f0680250621dad75b680d0d" sha1="06198bdb902a2e6989d8477bb344ad876aa20c82"/>
+		<rom name="m3bicl2.cas" size="15964" crc="ef60d005" md5="4a30463a7a96a6e2ea57f3d631df64bc" sha1="185b4ca1b3cf3315c7520989e591152a352c7d1c"/>
+		<rom name="m3bicl3.cas" size="16439" crc="6ec16d93" md5="323742b79ae64da9c62a8dc9e1bb11e3" sha1="b8ff71aba9ac0fec12180aeb5cd0910fc10098c0"/>
+		<rom name="m3bicl4.cas" size="16666" crc="89efbc21" md5="878af457c77b2f6a576bf0579db17b19" sha1="ca044fa402c5d28969ef6167d035eefb6dceb9a8"/>
+		<rom name="m3bicl5.cas" size="28832" crc="4b5e4cc1" md5="4dfe42d67ae32e902852def3c67b6dc1" sha1="6ca47c25bc6a1b445a42feba02d40e4d34093560"/>
+		<rom name="m3bicl6.cas" size="15251" crc="f7490615" md5="f15665b61b6182f411baaa36cbcadff4" sha1="07956a29b4d385321e8fa94e9b277a179937e6fb"/>
+		<rom name="m3bicl7.cas" size="25822" crc="d408fc28" md5="e29e6d2b814d3cf4a31fec9dfd9f26f0" sha1="2e573cad0b7e9cbcef653dfe55d1cfb2f59dff52"/>
+		<rom name="m3bicl8.cas" size="15228" crc="93a4922d" md5="1b4ff96c197b68548f16fd3079f4e3a4" sha1="36e67581c5a552f53f6339455806a97bcd6e23d9"/>
+	</game>
+	<game name="Mostly BASIC- Interfacing and Scientific (1981)(Advanced Operating Systems)[CAS]">
+		<description>Mostly BASIC- Interfacing and Scientific (1981)(Advanced Operating Systems)[CAS]</description>
+		<rom name="mbscien1.cas" size="2147" crc="816ac134" md5="ce846feb3ff91b1ba5c0b5b8bdec4c02" sha1="cfe2253dbd5f62ee583503279a528145e1d9d112"/>
+		<rom name="mbscien2.cas" size="1112" crc="861d1fec" md5="90f514e424ee2bbce5a7a3a53bc41dfc" sha1="cd944eabe876a1aab8c257f3a72bbca07591ff4e"/>
+		<rom name="mbscien3.cas" size="1466" crc="45284458" md5="5650cbe0e62f2465acb454e05f0c625b" sha1="3498f985d5a471d37eb9a0a8e7fdbeb6700e91cf"/>
+		<rom name="mbscien4.cas" size="1843" crc="4a6ff28f" md5="a99824078ce4f735e79c79df4acff713" sha1="9f608be7d1e642deb657e9d56a2801df22bcc446"/>
+		<rom name="mbscien5.cas" size="3914" crc="53ce57d3" md5="382bac9414f19327b81a34fdb6eca0bb" sha1="76789413b4b09c3653c3feea12308e10b69e2ded"/>
+		<rom name="mbscien6.cas" size="4588" crc="4deda17f" md5="176ee0287b36f257f75e979311f84e4c" sha1="f8b56bbad360e131c43a966c51dda82c84978a1f"/>
+		<rom name="mbscien7.cas" size="748" crc="2f9321a9" md5="d82c9cf8ae2bd6477002b5872b815d89" sha1="dcac643f0d724142b8e80b902c710bad7bc5379b"/>
+		<rom name="mbscien8.cas" size="3177" crc="ce485d07" md5="6fcb212fdcf3089284feccc6f61455f3" sha1="58b528e9b1523dc3681e9765a4a4aec1089dc879"/>
+	</game>
+	<game name="Penetrator Editor (1982)(Beam Software)[CAS]">
+		<description>Penetrator Editor (1982)(Beam Software)[CAS]</description>
+		<rom name="penedtm3.cas" size="18222" crc="68b872b6" md5="9045bb7a1dfb6265702469c3a204caa3" sha1="d23bfa13c82925392b78d8f9620ff6d603df4663"/>
+	</game>
+</datafile>

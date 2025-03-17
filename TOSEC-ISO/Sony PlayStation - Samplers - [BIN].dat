@@ -1,17 +1,23 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 
 <datafile>
 	<header>
 		<name>Sony PlayStation - Samplers - [BIN]</name>
-		<description>Sony PlayStation - Samplers - [BIN] (TOSEC-v2023-06-13)</description>
+		<description>Sony PlayStation - Samplers - [BIN] (TOSEC-v2025-01-26)</description>
 		<category>TOSEC-ISO</category>
-		<version>2023-06-13</version>
+		<version>2025-01-26</version>
 		<author>TOSEC-ISO</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="C-12 Final Resistance (demo) (2001)(SCEE)[SCED-03516]">
+		<description>C-12 Final Resistance (demo) (2001)(SCEE)[SCED-03516]</description>
+		<rom name="C-12 Final Resistance (demo) (2001)(SCEE) (Track 1 of 2)[SCED-03516].bin" size="338137632" crc="33ba26d1" md5="feadab8b7f744b9730f1c7ade4f9d552" sha1="261f9e03590cf4e59b4f8b1107235d0cd54706c1"/>
+		<rom name="C-12 Final Resistance (demo) (2001)(SCEE) (Track 2 of 2)[SCED-03516].bin" size="32989152" crc="b97ffd28" md5="2cb1f07b42251cec83cc9c004ac12e23" sha1="14c0c0c0b67e8f839e06aeb51a939daefc03688b"/>
+		<rom name="C-12 Final Resistance (demo) (2001)(SCEE)[SCED-03516].cue" size="309" crc="70ff8f92" md5="b4fa7cb99ef5db95ca4556aef59a9562" sha1="6741e3ff158e30331bd8a855c0c7b6ab19957c7b"/>
+	</game>
 	<game name="Deuce (2000)(Midway)(proto)">
 		<description>Deuce (2000)(Midway)(proto)</description>
 		<rom name="Deuce (2000)(Midway)(proto).bin" size="28336896" crc="db149c5e" md5="36a4101bf970d490bb548dba7e2f977f" sha1="e25c80c45e9443476fb4425c7753c96ac4737793"/>

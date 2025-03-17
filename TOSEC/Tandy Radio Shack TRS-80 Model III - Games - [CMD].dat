@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Games - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Games - [CMD] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="13 Ghosts (1982)(Software Affair-Tandy)[CMD]">
+		<description>13 Ghosts (1982)(Software Affair-Tandy)[CMD]</description>
+		<rom name="ghosts.his" size="256" crc="1f890fa4" md5="e905c5ede77003f7f82994316a6d6a56" sha1="b64a29295c8c35dde8111bd09de3ae5748c9a82b"/>
+		<rom name="ghst133a.cmd" size="31232" crc="138dcd2c" md5="bfb1aca60874f7e6ef7d0f2c46461644" sha1="d1f4f41561f079352137e00e6957e32fe90c075f"/>
+		<rom name="ghst133b.cmd" size="31214" crc="3bdebf35" md5="2653966d3db7bd5c59d012842cc323fd" sha1="7e173a726ec94a144504db69380b46464e7d0aea"/>
+		<rom name="ghst133c.cmd" size="32000" crc="775e0484" md5="5215440da821a78d66479901e11878d5" sha1="900dae30bc986ef43ca4b6bfa82ece38a9be2853"/>
+	</game>
+	<game name="Alien Defense (1981)(Soft Sector Marketing Inc)[CMD]">
+		<description>Alien Defense (1981)(Soft Sector Marketing Inc)[CMD]</description>
+		<rom name="alndef3a.cmd" size="23944" crc="dfe4b729" md5="8dceee3bc35efda007954347e994d818" sha1="a915a9df940dcfa16c5ba7e4d6b1298aee63b09c"/>
+		<rom name="alndef3b.cmd" size="14304" crc="bb51c4e4" md5="7c06c27d3fe0d0b3dcc6e543ea815b8b" sha1="d70d157de999cbfe39a3a14a7222850edf73f0d6"/>
+		<rom name="alndef3c.cmd" size="12544" crc="a83a9632" md5="3340ea5ffea9988ccc10276b60971d97" sha1="c46f6e0f4f150ff2645cec5826bd8c2e084affa6"/>
+	</game>
+	<game name="Arcade Scramble (1982)(Kansas Software)[CMD]">
+		<description>Arcade Scramble (1982)(Kansas Software)[CMD]</description>
+		<rom name="SCRAMBLE.CMD" size="7168" crc="5762de1d" md5="ac1b8e51e7293b50898b6dccdddfb5af" sha1="f67282e593c691e0f95ebf42d7e4e18fc466b563"/>
+	</game>
+	<game name="Artesian Invasion (1983)(Quantum Software)[CMD]">
+		<description>Artesian Invasion (1983)(Quantum Software)[CMD]</description>
+		<rom name="artesian.cmd" size="11264" crc="3ee4e83d" md5="fb651c6e8f218223f84ba9f469714a78" sha1="3ff30777c13b4a1be0c12b7628661d477ece0fc0"/>
+	</game>
+	<game name="Artillary Gunner (1984)(Loren Pechtel)[CMD]">
+		<description>Artillary Gunner (1984)(Loren Pechtel)[CMD]</description>
+		<rom name="gun.bas" size="5223" crc="ae00787d" md5="6a61fc4c3d5b5b82fbd38f54560c62d2" sha1="e77ab1bc223c2d356b69854713475eb7fcbad7f9"/>
+		<rom name="gun.cmd" size="675" crc="8838a811" md5="14b0309c04517d31f91008d4b8bb22ef" sha1="8297dc1aea928defa79ddd050b147c544ccc2d14"/>
+	</game>
+	<game name="Astro Kamikaze (1983)(Lim)[CMD]">
+		<description>Astro Kamikaze (1983)(Lim)[CMD]</description>
+		<rom name="ASTRO.CMD" size="13252" crc="b0883536" md5="553ecbbd5047df65b1a84d46ddd91947" sha1="6592f648d6e7a84819cde39b1e2fb45fe37b0ab3"/>
+	</game>
+	<game name="Backgammon (1979)(Bill Miller)[CMD][TRSDOS]">
+		<description>Backgammon (1979)(Bill Miller)[CMD][TRSDOS]</description>
+		<rom name="bakgmbm1.cmd" size="7168" crc="fbed2d5b" md5="7639183fa58ddf8f327cbeb769ac20c9" sha1="1e92b43f1181ed7a6d97df652f2546c3711a9bdf"/>
+		<rom name="bakgmbm2.cmd" size="7168" crc="04f1b0f0" md5="feeb949c89ffa8dfc508c5351bb8eb42" sha1="9f9cdf5af20efd3fb2b0671c4c559b444532170e"/>
+		<rom name="bakgmbm3.cmd" size="7936" crc="ec206e36" md5="5682ff0cc2ad52956aa9452b9b1bddeb" sha1="99765ba3c8b82e971f75ef603b2ccd54057c144b"/>
+		<rom name="bakgmbm4.cmd" size="7048" crc="af951959" md5="58f8350f41f9b7a10a2e1b4383be7bb4" sha1="d579b5a744258d3f1714fc8628a6546b9306ff05"/>
+	</game>
+	<game name="Balrog Sampler (19xx)(Adventure International)[BAS]">
+		<description>Balrog Sampler (19xx)(Adventure International)[BAS]</description>
+		<rom name="AICHAIN.BLD" size="22" crc="821ea74d" md5="af3c6ad45ee9e8a3d0a04a1159f458d5" sha1="dc528043c93df275bb9774a8fcc0bfea56398eb5"/>
+		<rom name="AICHAIN.JCL" size="19" crc="179a4665" md5="e75dbadf84c9573e103b57fe4d11cf69" sha1="0d4e1a8b848c9ff67c288df8aa20107c89de7e99"/>
+		<rom name="ARMOR" size="1024" crc="fb8f9644" md5="7c4524738d9abb476f5eda38cb5efeb0" sha1="33de6d0b31d2ce8a13e263c26f4e471c1974ea27"/>
+		<rom name="ARRAY" size="349" crc="e77717c8" md5="07e824ce1fe07e348a8884e73582423d" sha1="278f0eee20958e50173425f06c0d284f2585bd58"/>
+		<rom name="LEFT" size="1792" crc="46ef271f" md5="e6dc084b7f3e80037c52e6b4df8b655a" sha1="8bab880ad8183ba173fa1b1fc429bd00f7341147"/>
+		<rom name="MONSTER" size="768" crc="14ccdb19" md5="5b7fd8c7901b33f69e9385c297c9fcc9" sha1="ef4a4b69d9fe9efff6502f6bac702a637374b611"/>
+		<rom name="PARMOR" size="1024" crc="190c24d5" md5="77c2b49eaf97f5032a9ed6887283e90f" sha1="c96763bfd1fbb8e4c784fb43187578b6de1a78e0"/>
+		<rom name="PCHAR" size="921" crc="423f0b39" md5="93e530e82f53ae73604ca6f061ebfd65" sha1="e9db9aaf2eced91ddf100b8bb5e9a1440f7e4b06"/>
+		<rom name="PROG.BAS" size="13540" crc="cad7b952" md5="5d0ad2536f0b47e5542e2bcd7ede893f" sha1="9e361c76d9e3793909d8891a8e8ceee5bf06b67a"/>
+		<rom name="PWEAPON" size="1024" crc="cf59d950" md5="835599eb3651e9a99683adf6bb8dbbca" sha1="3509d474fe2412fd79f7c525316424f767a9caa0"/>
+		<rom name="ROOMS" size="67840" crc="fa8f24ef" md5="d12e53fbe348e10257bed1835cb1ffd0" sha1="ebefa187abeb85d333eead7d93df1ba99507c322"/>
+		<rom name="SAVEGAME" size="3614" crc="2dfff660" md5="2aef5bdc417806edf73f27caacfa4d74" sha1="ad10a5a69661d9135aa2572a64c178a0d9bcf503"/>
+		<rom name="SITUATIO" size="17664" crc="df02e00f" md5="d87448a160b84df844e6f5d2d62e1ae7" sha1="f2a3af7e19d5d0c6d4c19e3ecbdfdbe8e40eb8e4"/>
+		<rom name="START" size="5568" crc="68be62e4" md5="e4cd4d1d2eea8a9acadf2cbdf37c3974" sha1="47f4fe7bbd88840414d921b9a6fe281dff3b9ee1"/>
+		<rom name="ULT" size="16972" crc="ebaea881" md5="328bdec564238d15f4f8eb0814d651a1" sha1="bc1123fbfed19fc1e97a7d24995d2c7750ce598c"/>
+		<rom name="WEAPON" size="2304" crc="31b59941" md5="1c75a3783456888272de809cfc774c14" sha1="8ccdf61a4c39e8c4c53c1be216aae7c3e4e64be8"/>
+	</game>
+	<game name="Bedlam Adventure (19xx)(Radio Shack)[CMD]">
+		<description>Bedlam Adventure (19xx)(Radio Shack)[CMD]</description>
+		<rom name="bedlam3a.cmd" size="15946" crc="836c2360" md5="e3e35d6cd81fd8ab1b6cea1e8fdb480d" sha1="9b32f6a0189dded3680ad0f82d2e9cbf1a247e61"/>
+		<rom name="bedlam3b.cmd" size="15946" crc="e658b5d7" md5="7b2ece76fae385a43497a27b99d9352f" sha1="d014281ded7458d18be879de16a930740613062d"/>
+	</game>
+	<game name="Big Gamble (1985)(Paul Ezra)[CMD]">
+		<description>Big Gamble (1985)(Paul Ezra)[CMD]</description>
+		<rom name="EZDICE" size="414" crc="bef93898" md5="dd4105c175c85e04446ce3d15726f841" sha1="8d263ed82e757235bccb65f79633bb158c7772b5"/>
+	</game>
+	<game name="Break Through (19xx)(-)[CMD]">
+		<description>Break Through (19xx)(-)[CMD]</description>
+		<rom name="breakup.cmd" size="6400" crc="129fbe09" md5="262817dbc2c8b9aadffe022a191a75e7" sha1="49addc723e53eadcbea318f8dd0826b5fcb111e3"/>
+	</game>
+	<game name="Bucket Bomber (19xx)(WHG Software)[CMD]">
+		<description>Bucket Bomber (19xx)(WHG Software)[CMD]</description>
+		<rom name="pixel.cmd" size="3840" crc="e91fa2cf" md5="e747dba3a623ec8a2c9f584a92824264" sha1="ecd331a66db452184c0faf0222e060c98382e5bc"/>
+		<rom name="pixel.src" size="15129" crc="5a7e0ae5" md5="59c807c301d0a23a9d0decfd2806099f" sha1="b36e87292d0d98a8c0b221fad5e3d85dd2dd635a"/>
+		<rom name="scr.cmd" size="2740" crc="270e435e" md5="d1f657bcb81073a622d9a9ec32dc584a" sha1="6886d8222ef221e05eea86879baef0f47a490866"/>
+		<rom name="scr.src" size="6144" crc="bc700962" md5="1d81526e217d2dde4670e9f48efd2100" sha1="5954c6b7df013ea84608c994ebfa9e1e64792390"/>
+	</game>
+	<game name="Bucket Catch (19xx)(-)[CMD]">
+		<description>Bucket Catch (19xx)(-)[CMD]</description>
+		<rom name="bucket.cmd" size="1044" crc="ea657ab8" md5="736419b270c23d4a79cce21a756d8db6" sha1="6d6a59e8b9c7338a118622ad913138d683fd97fe"/>
+		<rom name="bucket.src" size="6864" crc="169c704c" md5="d67ee562326f7bf37a071d298e7992bf" sha1="ae39f1ef9fe093b4e2325fd440e055f34c91c613"/>
+	</game>
+	<game name="Bug (19xx)(A Halpern)[CMD]">
+		<description>Bug (19xx)(A Halpern)[CMD]</description>
+		<rom name="bug.cmd" size="16796" crc="074b6bff" md5="8d2ee75168153c6f734d24a8a711cdfa" sha1="32de51636cb78572702cd2f72569fd776565593c"/>
+		<rom name="bug.tok" size="7638" crc="3e280910" md5="61cb37ef901f919cf2e83a0ea93e586e" sha1="4703e65a9500eac135d9226c4ed08ca805f287fe"/>
+	</game>
+	<game name="Buzzword (19xx)(Gostak Software)[CMD]">
+		<description>Buzzword (19xx)(Gostak Software)[CMD]</description>
+		<rom name="buzzword.bas" size="5355" crc="45b02fc4" md5="67b761fc4d54d79ea587b1ea1b0a3fbd" sha1="004fad9e78aaba9d24d612db7e72ed437892e089"/>
+		<rom name="buzzword.cmd" size="8960" crc="313d1617" md5="dc7c5d29b00631f203e97ee8a2a12004" sha1="c3896ce5cb36d8fff325f433eb13d4d964a60170"/>
+	</game>
+	<game name="Car Race (1980)(Manual Bronstein)[CMD]">
+		<description>Car Race (1980)(Manual Bronstein)[CMD]</description>
+		<rom name="CARRACE.CMD" size="2048" crc="a33a4ec5" md5="fb742fa5786c7a1cc5ccb27b6d6d5437" sha1="4953360baedfcac718310a154748b76129dae550"/>
+	</game>
+	<game name="Caterpillar (1982)(Soft Sector Marketing Inc)[CMD]">
+		<description>Caterpillar (1982)(Soft Sector Marketing Inc)[CMD]</description>
+		<rom name="caterpil.txt" size="249" crc="a8741b22" md5="01ddd7bb583f9b91ce9cd93f92cb4cc3" sha1="2f2028820543b00709309fe6e455247893041194"/>
+		<rom name="catr3ss1.cmd" size="9984" crc="2dded693" md5="273f22ee725a0dd4fc832675e9f4cd37" sha1="2c6f2c8d00002901ad27ef76f98751fda308bf33"/>
+		<rom name="catr3ss2.cmd" size="15616" crc="ff953458" md5="f4ba30c936315a526cdfab37ffcc2d7a" sha1="58da3aec06e69443ea6d9efd3888f75eef742efa"/>
+		<rom name="catr3ss3.cmd" size="9984" crc="c95c612d" md5="6e7fef6fc6edbc546b949274bc6b77af" sha1="b7aa77af9d6e469a1ba5babc94ef4560ce5d202d"/>
+	</game>
+	<game name="Centipede (1984)(Wes Gray)[CMD]">
+		<description>Centipede (1984)(Wes Gray)[CMD]</description>
+		<rom name="cent.cmd" size="1646" crc="ccf821a7" md5="e13f75dbc550cdb6f76e425e88a266c8" sha1="e36d9344cf1d8af86c5bd971a5cbe222c61d726a"/>
+		<rom name="cent1.src" size="12403" crc="c794925c" md5="5279f8bbe832487600b08926248dea46" sha1="0df26473a9773757d5082b8ca05776da3d2b15aa"/>
+		<rom name="centk.src" size="17942" crc="e9df130f" md5="4759414214f0cdc5bb96c4488c10d6be" sha1="1a35b434bd557999c17890a3cffc898736753cf0"/>
+		<rom name="centp.src" size="14658" crc="135f3a10" md5="bf69e38bd259233e01cde48149492d51" sha1="5ce9f900102b02d10f80baf5891bc5e8dc9c4df6"/>
+		<rom name="noname.src" size="17259" crc="c4dc2f37" md5="27a0ff5173896b86c0d5c68e02902e53" sha1="a558b6c6f08a09e1e385fc822d03c34831889db3"/>
+	</game>
+	<game name="Chango (19xx)(Lance Wolstrup)[CMD]">
+		<description>Chango (19xx)(Lance Wolstrup)[CMD]</description>
+		<rom name="chango.bas" size="7766" crc="cce1355e" md5="c82594d22c3ede2e7a3a690998c1acea" sha1="9eec0181e3ce52f59f7d06fcff98172243689a7f"/>
+		<rom name="chango.cmd" size="2949" crc="bc4ad6cc" md5="573fa9049a096e34321c6143c34d3b53" sha1="51171a1300f8b6677f2f40b9d40da00f7b3a42d7"/>
+	</game>
+	<game name="Chess-80 (1980)(Instant Software)[CMD]">
+		<description>Chess-80 (1980)(Instant Software)[CMD]</description>
+		<rom name="CHESS80.CMD" size="5632" crc="30633d76" md5="150938797bdcf8a582816b06b180c344" sha1="2e1bf59b1dccf579878a8b4a0ef10a4232aee30a"/>
+	</game>
+	<game name="Chewter (1985)(Paul Ezra)[CMD]">
+		<description>Chewter (1985)(Paul Ezra)[CMD]</description>
+		<rom name="EZCHEWTM" size="564" crc="2891b5b9" md5="26390aeb0601acf1fb0f3bfe62504f7e" sha1="43456f381cbf723f708da136cb51b4a5fdefcb69"/>
+	</game>
+	<game name="Chopper Defense (1984)(Robert Doerr)[CMD]">
+		<description>Chopper Defense (1984)(Robert Doerr)[CMD]</description>
+		<rom name="chopdfn3.cmd" size="9984" crc="2da18679" md5="e8438ae243d05613b46f11cc77e2acf0" sha1="da4ee0debffa89848a5d6552e521d78bbae5cf38"/>
+	</game>
+	<game name="City of Knossos (1981)(Simon L Smith-Med Systems Software)[CMD]">
+		<description>City of Knossos (1981)(Simon L Smith-Med Systems Software)[CMD]</description>
+		<rom name="knossos.cmd" size="7936" crc="00ddd641" md5="53c9ea3af76ffa737e8675857c8ea816" sha1="42d7ff475280c587237551dee650293be3e3e1dd"/>
+	</game>
+	<game name="Colapsar (19xx)(Concerned Alien Software)[CMD]">
+		<description>Colapsar (19xx)(Concerned Alien Software)[CMD]</description>
+		<rom name="colapsar.bas" size="5647" crc="1cc56e84" md5="2c594beca7bd0dce5ff655aec36b4a45" sha1="88d801049df21aec246c62e4fbdc02a4c13e6f81"/>
+		<rom name="colapsar.cmd" size="10240" crc="ef0da233" md5="8ac1f5d72079e787327c2f611ce8d955" sha1="2baba05d1da7ded651833cb395a1e644cbf3d328"/>
+	</game>
+	<game name="Color Computer Disk Transfer Utility v1.2 (1983)(Purves Computer System Software)[CMD]">
+		<description>Color Computer Disk Transfer Utility v1.2 (1983)(Purves Computer System Software)[CMD]</description>
+		<rom name="ciii.cmd" size="3850" crc="c446e8be" md5="cdd2c216c6683cd13b01bcef7e5405d7" sha1="1253c06fe0805234a1d2c6b1a4a24c24c24a48a3"/>
+		<rom name="ciii.doc" size="4175" crc="9730fc7c" md5="56e76a777f1ce991a64e3c71456dc301" sha1="1fb32de80a7fdb45148257ae2e9dfc44078fc24b"/>
+	</game>
+	<game name="COMM Port Setup (19xx)(-)[CMD]">
+		<description>COMM Port Setup (19xx)(-)[CMD]</description>
+		<rom name="SETCOM.CMD" size="1256" crc="6c39dc08" md5="e663df4082fdd065dc05a34efbcf35bc" sha1="655a36ce146e486581df279b1da75ab6f938ede4"/>
+	</game>
+	<game name="Command File Utility EDAS v5.0 (1979)(Roy Soltoff)[CMD]">
+		<description>Command File Utility EDAS v5.0 (1979)(Roy Soltoff)[CMD]</description>
+		<rom name="CMDFILE3.CMD" size="2861" crc="7d74505e" md5="f482e030d3a42e6dc7c7d96ca450e990" sha1="11a3e24a87be2712b3a72aa2e92fda7bb11c88f5"/>
+	</game>
+	<game name="Command File Utility v5.1 (1979)(Misosys Inc)[CMD][LDOS]">
+		<description>Command File Utility v5.1 (1979)(Misosys Inc)[CMD][LDOS]</description>
+		<rom name="cfu51.cmd" size="2878" crc="ccfe8589" md5="06684da3d471df295e36fd98a00f7727" sha1="dc11f12277adfa4682e4364996e0f85f21792c6e"/>
+	</game>
+	<game name="Command File Utility v5.1 (19xx)(Misosys Inc)[CMD]">
+		<description>Command File Utility v5.1 (19xx)(Misosys Inc)[CMD]</description>
+		<rom name="CMDFILE.CMD" size="2893" crc="a650c6ec" md5="e32e3852f4ceff9143bb79120456786a" sha1="8d6cb7c5147e9833ffcbf534336c29db21c40cdd"/>
+	</game>
+	<game name="Command Line Editor (19xx)(-)[CMD]">
+		<description>Command Line Editor (19xx)(-)[CMD]</description>
+		<rom name="RETYPE.FLT" size="1536" crc="57db8df7" md5="89b597e3a266e00a2f5f75781172aead" sha1="3fbb7e70e527f0d9f811a4fd074bfd7d56765c14"/>
+		<rom name="RETYPE.SRC" size="18383" crc="c451f82c" md5="ca0e51e4b6190d70682303979f7d9a17" sha1="8615f8256b7fca7aca66c0eccf23b9ed36d36f2d"/>
+		<rom name="RETYPM.FLT" size="1920" crc="ff272ff4" md5="16fe8225b2cf290663fdee257910800b" sha1="a1f282031396d11921ce5aa903523e274528ccf5"/>
+	</game>
+	<game name="Command Reference for NEWDOS-80 v2.0 (19xx)(-)[CMD]">
+		<description>Command Reference for NEWDOS-80 v2.0 (19xx)(-)[CMD]</description>
+		<rom name="COMREF.CMD" size="24064" crc="cd3fa94c" md5="e78cf95c4855926cf83f8fe7ea4fe327" sha1="b77c49906f085d067e4e2941a584bffa8f3f08ac"/>
+	</game>
+	<game name="Curse of the Sasquatch Adventure (19xx)(Greg Hassett)[CMD]">
+		<description>Curse of the Sasquatch Adventure (19xx)(Greg Hassett)[CMD]</description>
+		<rom name="crssasq1.cmd" size="13568" crc="4cf2b76b" md5="f5da483f88c4709f8d92ef22ab64df4a" sha1="85ef60c2eae9df9315a0074a95de33fe96224fb2"/>
+		<rom name="crssasq2.cmd" size="13568" crc="e712bff4" md5="94b1ad76dcb98b1f61a4fd5ade1fddd7" sha1="864198e05f5975471b843deb2967ae2ca6c6b1ee"/>
+	</game>
+	<game name="Cutthroats (1984)(Infocom)[a][CMD][Rel 23]">
+		<description>Cutthroats (1984)(Infocom)[a][CMD][Rel 23]</description>
+		<rom name="cuthroat.dat" size="114688" crc="479f2681" md5="752e1ec92a911b4226299ff3d96d6611" sha1="c6ebe79772d421e97a73fdb36836a2fe541ef379"/>
+		<rom name="infocom.cmd" size="8192" crc="93b197c5" md5="9f7acbfc8a399e0f7a4397e4e754f1f7" sha1="088911ccb31fc318962c593c79375dcefda503d9"/>
+	</game>
+	<game name="Cutthroats (1984)(Infocom)[CMD][Rel 23]">
+		<description>Cutthroats (1984)(Infocom)[CMD][Rel 23]</description>
+		<rom name="CUTTHROA.CMD" size="8192" crc="c24d4b0f" md5="a96578149130a48b06465371e9b908ff" sha1="a8c0b208125eb34074ef59a40eb1d353a4378396"/>
+		<rom name="CUTTHROA.DAT" size="112640" crc="3711d956" md5="f4ce2daca7247e5d7bc6d62377c80913" sha1="22d7d0c3522b5e3c01a3f303e7d1efc3fb8fc3e6"/>
+	</game>
+	<game name="Deadline (1982)(Infocom)[CMD][Rel 26]">
+		<description>Deadline (1982)(Infocom)[CMD][Rel 26]</description>
+		<rom name="deadline.cmd" size="7936" crc="3e7b2076" md5="d16c9684d8459cebac0ad46ec9997d56" sha1="c838bb886bb726b85812f42431c37b389e522dbd"/>
+		<rom name="deadline.dat" size="108544" crc="1544a0f9" md5="07ea34e7f847095f26d8959bbebb49c7" sha1="c69d3c076dcfc06c8e860662a816ace1dd12dbc8"/>
+	</game>
+	<game name="Deathmaze 5000 (19xx)(Med Systems Software)[CMD]">
+		<description>Deathmaze 5000 (19xx)(Med Systems Software)[CMD]</description>
+		<rom name="dthmz5k1.cmd" size="16128" crc="d4495326" md5="8c736cfa7ebc755e4938cffdc4fe751c" sha1="dccd03d235f8ebebcbaf821bb12114258675edaf"/>
+		<rom name="dthmz5k2.cmd" size="16384" crc="29625f9c" md5="585fc64f80e734627f2a802f1c564d51" sha1="b3e5529a2e0479f1b4625ce80d421c0a3bc2674f"/>
+	</game>
+	<game name="Defend (1981)(Philip Case-Molimerx Ltd)[CMD]">
+		<description>Defend (1981)(Philip Case-Molimerx Ltd)[CMD]</description>
+		<rom name="defendpc.cmd" size="8353" crc="f59d7974" md5="32d9ff265ccfa093723a98505c410cf7" sha1="0de7d9d474844d075fc5ba255ffedbb77f159a82"/>
+	</game>
+	<game name="Demise (1981)(P Case-Acorn)[CMD]">
+		<description>Demise (1981)(P Case-Acorn)[CMD]</description>
+		<rom name="demise.his" size="256" crc="a1446b04" md5="de376e10487f4db18677266e5a40f06a" sha1="d6be577d7852a2e4048e32ccaaccbc89b559bfb9"/>
+		<rom name="demise3.cmd" size="10706" crc="18f1efc1" md5="508f54871e0ed9551051daece9ae9f48" sha1="e849d4833ae22d734c62cf58440f0cb45b295f57"/>
+	</game>
+	<game name="Demon Seed (1982)(Jeff Sorensen &amp; Philip MacKenzie-Trend Software)[CMD]">
+		<description>Demon Seed (1982)(Jeff Sorensen &amp; Philip MacKenzie-Trend Software)[CMD]</description>
+		<rom name="demnsd3a.cmd" size="15872" crc="f9ca047f" md5="2aa33b06ac14fb989b9b340c9c286733" sha1="2361639651a1d9befe4e9664b2b4b8c873164103"/>
+		<rom name="dmnseed3.txt" size="269" crc="1de45f6b" md5="c3644b08f2535416114fa5b40280b72d" sha1="96c56d69e901872dc986d2d740b43fc9ad89ad37"/>
+	</game>
+	<game name="Donkey Kong (19xx)(-)[CMD]">
+		<description>Donkey Kong (19xx)(-)[CMD]</description>
+		<rom name="MONKEY.CMD" size="8448" crc="85e8e1dd" md5="5d3f3f4785f9933ea6ce59924e49f733" sha1="a10786fbcd61662e558689f3285a38c27b3096b8"/>
+	</game>
+	<game name="Donut Dilemma (1983)(Zeta Microcomputer)[CMD]">
+		<description>Donut Dilemma (1983)(Zeta Microcomputer)[CMD]</description>
+		<rom name="dontdil3.cmd" size="16128" crc="35d7aeda" md5="6917dd47435fa140f04a572598cc94e7" sha1="70ce23265560d178d1f228d3b96758ec48c5c8b4"/>
+	</game>
+	<game name="Dungeon of Ashka (19xx)(L L Myers)[CMD]">
+		<description>Dungeon of Ashka (19xx)(L L Myers)[CMD]</description>
+		<rom name="ashka.cmd" size="12800" crc="bab98f05" md5="a0e9e16e732b4d7055f3249b1658500d" sha1="9417700ce7a1a75184d339203a7d358ebaba8613"/>
+	</game>
+	<game name="Eliminator (1981)(Wayne Westmoreland &amp; Terry Gilman-Adventure International)[CMD]">
+		<description>Eliminator (1981)(Wayne Westmoreland &amp; Terry Gilman-Adventure International)[CMD]</description>
+		<rom name="DEFENDER.CMD" size="14353" crc="f0199e2c" md5="daee449a3de8a763ff73bbb3facbe830" sha1="d2d249cda84dc10a08798128bff11a23ca666bf2"/>
+		<rom name="DEPATCH.BAS" size="64" crc="df3deac4" md5="1d941e994259ae2d37cf40b4721fb627" sha1="5ec6bc84372df262bafefee92ee6023b8ad1aef2"/>
+		<rom name="DEPATCH.CMD" size="295" crc="8b1a44d6" md5="9e24610b3ece523fefe4087613f99263" sha1="a59560781396495c9e9575708022b3dfc4efdb1a"/>
+	</game>
+	<game name="Empire of the Over-Mind Adventure (19xx)(-)[CMD]">
+		<description>Empire of the Over-Mind Adventure (19xx)(-)[CMD]</description>
+		<rom name="data.cmd" size="16384" crc="a587b93b" md5="9c8e5dd82c2296d350e8265d0e5ac39b" sha1="1c33b79983b755f25bd7b8b7fa438a46b1ca98e1"/>
+		<rom name="over.cmd" size="24444" crc="07b0b905" md5="1f2e458bc6fa5d920993fe8bfc90141d" sha1="2e143860e2ecff6e55e670fad418e4a09f70e434"/>
+		<rom name="readme.txt" size="171" crc="c46ec3ce" md5="829252746064e20fae1bd8bd765f6f0a" sha1="cb6b38ac9cc71fdcd845723bd95e312fb4cf51f0"/>
+	</game>
+	<game name="Empire of the Overmind Adventure (19xx)(-)[CMD]">
+		<description>Empire of the Overmind Adventure (19xx)(-)[CMD]</description>
+		<rom name="OVERMIND.CMD" size="41216" crc="58778ed4" md5="ce83de6cf57805ad56dd77890aba3cb2" sha1="ef61e567d9d6aa10ebbcf3c14da85ca3b690f38d"/>
+	</game>
+	<game name="Enchanter (1982)(Infocom)[CMD][Rel 10]">
+		<description>Enchanter (1982)(Infocom)[CMD][Rel 10]</description>
+		<rom name="enchante.dat" size="109312" crc="98ea82f7" md5="71ada36a491a407dc5bbc6cd8793f230" sha1="7f26dc74317f0dd3e747eb7912b6c4ef7a445abd"/>
+		<rom name="infocom.cmd" size="8192" crc="93b197c5" md5="9f7acbfc8a399e0f7a4397e4e754f1f7" sha1="088911ccb31fc318962c593c79375dcefda503d9"/>
+	</game>
+	<game name="Enchanter (1982)(Infocom)[CMD][Rel 16]">
+		<description>Enchanter (1982)(Infocom)[CMD][Rel 16]</description>
+		<rom name="enchante.cmd" size="7936" crc="c458fbb3" md5="9834905fecf17a303af03bd961fdb07e" sha1="3475404283092929d7aaf311c31cd056650ebe00"/>
+		<rom name="enchante.dat" size="109568" crc="80de281f" md5="97468bd33565d40db5c15e841ed12955" sha1="345734222a79046ccc62b73bd9eae6a941a93032"/>
+	</game>
+	<game name="Escape from Pulsar 7 (1982)(Brian Howarth)[CMD]">
+		<description>Escape from Pulsar 7 (1982)(Brian Howarth)[CMD]</description>
+		<rom name="PULSE.CMD" size="18176" crc="bb62c43c" md5="b71ed4f5e89e2deb8d9e3c619cd3e3f5" sha1="56b9948321ade6703780ca3850d325bd4b0f8c03"/>
+		<rom name="PULSFL1.DAT" size="1024" crc="4dcc318c" md5="742fbe96f8f0c1d7987e7768485e8c1e" sha1="b0b4215b8c884f6061558cf9bc098f86d58d74cb"/>
+		<rom name="PULSFL2.DAT" size="1024" crc="ca703aa1" md5="7fbde06e7ae0e68ad2ace7b9ba754e83" sha1="32fad6cd9aabd03696a5db23fd5a5a2887a13561"/>
+	</game>
+	<game name="Fasteroids (1981)(Greg Hassett-Adventureworld)[CMD]">
+		<description>Fasteroids (1981)(Greg Hassett-Adventureworld)[CMD]</description>
+		<rom name="fstroids.cmd" size="15890" crc="4c610664" md5="3d6b7d03206a2616aec6ed04cdde9ea8" sha1="48b22054aaeb70f04388c9649b691cb787d4baef"/>
+	</game>
+	<game name="Fifteen Number Puzzle (19xx)(-)[CMD]">
+		<description>Fifteen Number Puzzle (19xx)(-)[CMD]</description>
+		<rom name="puzzl15a.cmd" size="4612" crc="e79eeff1" md5="93018bf0f18cfa2bfc59efb6ca58c7f0" sha1="fad60db9256db12bd6497fb8efe9a7e05cd4d0f4"/>
+		<rom name="puzzl15b.cmd" size="4612" crc="c91e5656" md5="294b12f6650127ea18f91e778153a28b" sha1="09f6f6ba5d4dbd49930a8ba296784acfb750d09d"/>
+	</game>
+	<game name="Football (19xx)(-)[a][CMD]">
+		<description>Football (19xx)(-)[a][CMD]</description>
+		<rom name="FOOTBALL.BAS" size="6663" crc="dd8cef6f" md5="dbb45ae214074c3afd0aa4dfad5270b7" sha1="b90b2961539b29eb1ad8d289f83feb46ed440973"/>
+	</game>
+	<game name="Football (19xx)(-)[CMD]">
+		<description>Football (19xx)(-)[CMD]</description>
+		<rom name="A" size="2092" crc="5aa4e2fc" md5="bc17aabeb596119581ca1243818401b9" sha1="e3922f31ccde893271cd4edad0d666824c742670"/>
+		<rom name="AA" size="2743" crc="9b537cbb" md5="89b8343c2b69facf48e4f9d2cee04b81" sha1="68271c717a14634277e36012d9395a09020b05ca"/>
+		<rom name="FOOTBALL.CMD" size="2304" crc="912193da" md5="c98e896c5d81b2072402a25eab45c898" sha1="ee2333f98a5c8e9fe7ed8887baa1587c81643b14"/>
+		<rom name="G1" size="791" crc="63d5a8c6" md5="1ed21457131363519caa72c57eec334d" sha1="b277c715b141f7e38a91ac725b0a5414e9229d30"/>
+		<rom name="H1" size="1234" crc="4e3e1914" md5="8e079729e657baf8523aefae69edf53e" sha1="290bf05f5237702d72b2fc0e49de7ff5e8d9811b"/>
+		<rom name="N" size="1792" crc="64c36fa9" md5="16c9cb0ae93329a5489ffa9e8a4b2891" sha1="e0b8e5d054e15c71f94ced24a2a10f8f7059cd5b"/>
+		<rom name="NN" size="2873" crc="299f9e20" md5="d401c26d69272cb3bbf8034df0dfd8af" sha1="ff226e087fed402251d0aa6bf4df7f3c218a1df9"/>
+		<rom name="P.CMD" size="1024" crc="06b7aa94" md5="a42dce2e5be69cdeef47b1183deb64c8" sha1="98a430afa38c9ca7a27cfe7beb6bcfe44a12f2c9"/>
+		<rom name="P0.OVL" size="5053" crc="62f9c410" md5="d0a2c8491aef8a3bf409ed53e838b574" sha1="25e5c0951730e7e57d759bb40da9cf5035443ddd"/>
+		<rom name="P1.OVL" size="9505" crc="8f767fd2" md5="8b4706347beba2d7924885f8e2a12b07" sha1="0890a8fbcb52ada345461217fb9b31c07b6c9852"/>
+		<rom name="P2.OVL" size="32040" crc="8c964b37" md5="b01b517228af5bf59f8a8b65d88da632" sha1="3c8023d5d75a3815adcffe24bc9df7ad85a6e6b3"/>
+		<rom name="P3.OVL" size="15225" crc="b34125a7" md5="00cb34a502ea0d2cb4ece51ccb684418" sha1="7198ea92a3ba6fc844a73beafe63c3b79498a086"/>
+	</game>
+	<game name="Formula I Racing (19xx)(-)[CMD]">
+		<description>Formula I Racing (19xx)(-)[CMD]</description>
+		<rom name="FORMULA.CMD" size="1280" crc="da3535b7" md5="70cbf352a77bf0a8d82d48788825bca9" sha1="7009bb39e765e4dc7586dd37a5e96a30c6d7e6a4"/>
+	</game>
+	<game name="Fury (1982)(Doug Frayer-Computer Shack)[CMD]">
+		<description>Fury (1982)(Doug Frayer-Computer Shack)[CMD]</description>
+		<rom name="fury.his" size="256" crc="a0dfa07a" md5="2580fccf19d82831b8c1511750bcffd9" sha1="aa19a84bedc12203685fb8a2956262c5d937109d"/>
+		<rom name="fury3.cmd" size="22016" crc="6b37b563" md5="42e4456fa4a2977f7914996e6ae44f8b" sha1="497e2ba33970c19d6898b83e9cf5db07a41fc5bd"/>
+	</game>
+	<game name="Fuze (1982)(Spectacular Software)[CMD]">
+		<description>Fuze (1982)(Spectacular Software)[CMD]</description>
+		<rom name="FUZE.CMD" size="13312" crc="41beb4b8" md5="26b3c69d9de6c2480de7a948f4ebfadc" sha1="0ddb184731c44eb999c6ae62bea42e21bc842bee"/>
+	</game>
+	<game name="Galaxy Invasion (1980)(Bill Hogue &amp; Jeff Konyu)[CMD]">
+		<description>Galaxy Invasion (1980)(Bill Hogue &amp; Jeff Konyu)[CMD]</description>
+		<rom name="galinv3a.cmd" size="9624" crc="2bc0aa81" md5="bed3511e5047b8951551e97833ff5c18" sha1="26edba480b2cb0633e689540b30850a7a30d4a5e"/>
+		<rom name="galinv3b.cmd" size="9728" crc="ca0a7ec5" md5="292624082bc8c1d33b59a26bcbab522f" sha1="dd51f5402d87916e6ec2fe50ff249bacc4fa746c"/>
+		<rom name="galinv3c.cmd" size="9728" crc="3ce59d2b" md5="e6ce687c34a051a2c66e80cb2c1f08bc" sha1="1ee54e313faee13df72faf5534926a741bfdbe07"/>
+		<rom name="galinv3d.cmd" size="9728" crc="2b56578c" md5="8d7d9862c08fc915830fab449cc63eb9" sha1="c15641b2bd354a2214b8d81051eb3a5fb937d338"/>
+		<rom name="galinv3e.cmd" size="9728" crc="72396dab" md5="f0fdb815ec1a74d4ac28905b9fddf812" sha1="dfb84982f48d929a0ee6372564d46586bdaa1551"/>
+		<rom name="galinv3f.cmd" size="9880" crc="2a366355" md5="39d284577b333ae06ecd821c1de97a8f" sha1="6e8991d6c26d011fb8162526df1cebb9686202e9"/>
+		<rom name="galinv3g.cmd" size="9728" crc="9cede474" md5="e12018c315cad69812445f327e512c53" sha1="506bc3420d3b4daafa6501721679e43f38dffd8c"/>
+		<rom name="galinvs3.txt" size="358" crc="74fb7b53" md5="046db9a6cfddc9e6ab10d1480dd56f6a" sha1="9d24dd46170d7a503c03a0f69e4040b6b7db9f1c"/>
+	</game>
+	<game name="Gambiet-80 Chess (1980)(Wim Rens-Microtrend)[CMD]">
+		<description>Gambiet-80 Chess (1980)(Wim Rens-Microtrend)[CMD]</description>
+		<rom name="GAMBIT80.CMD" size="8792" crc="0c1d880d" md5="9a9151859f038726d9c3f23e5cf573d0" sha1="6436c85821f47c476778211fd11f44ab613b711f"/>
+	</game>
+	<game name="Gauntlet (1983)(Kyle Hoyt &amp; Brock Alston-Computer Shack)[CMD]">
+		<description>Gauntlet (1983)(Kyle Hoyt &amp; Brock Alston-Computer Shack)[CMD]</description>
+		<rom name="gauntlet.cmd" size="17152" crc="d1cba6f7" md5="0fb813a4dad4c919b745bc50f808280b" sha1="ab4a1f40e0c928a39a88a79ed5437a0dae43cbac"/>
+	</game>
+	<game name="Gobble Man (19xx)(-)[CMD]">
+		<description>Gobble Man (19xx)(-)[CMD]</description>
+		<rom name="goblman1.cmd" size="15085" crc="b21b7bbc" md5="2a8dc9b1f7a993bdd79b0af5ec036174" sha1="f0d8b9a813c82adc19eb49ac40aaaacdd8b7355b"/>
+	</game>
+	<game name="Gravitron (1983)(Dennis Lo)[CMD]">
+		<description>Gravitron (1983)(Dennis Lo)[CMD]</description>
+		<rom name="gravtrn3.cmd" size="15360" crc="bf2f1e00" md5="5115b7adc8aeb32c3491047968347711" sha1="3d55290b6f56362238899a40a159697bd9fa57a2"/>
+	</game>
+	<game name="Hacky (19xx)(-)[CMD]">
+		<description>Hacky (19xx)(-)[CMD]</description>
+		<rom name="HACKY.CMD" size="1239" crc="73c7a6f5" md5="d797c9b5f20eb651b392e0d0f5d7cdc4" sha1="28a68dd3fb48ab4f6a121baa58833c491a26ec37"/>
+		<rom name="HACKY.SRC" size="7995" crc="cbee4db8" md5="a6125a4fa417a87e84e5de6bdc67e53c" sha1="c96d390c76ed25ff60acb46ee743cb4eea147a30"/>
+	</game>
+	<game name="Halftime (19xx)(-)[CMD]">
+		<description>Halftime (19xx)(-)[CMD]</description>
+		<rom name="hlftime1.cmd" size="315" crc="3cc33731" md5="9f75cbd3a2465dd5094a220004c952fa" sha1="fe0ed8c46c4a6c72760573d941918ce5e1b0f695"/>
+		<rom name="hlftime3.cmd" size="306" crc="9aaad678" md5="50c6c80ecaa3755873e658cb998e3f37" sha1="46ece3c5daec2e873c056c761aabeebed07562a8"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy (1984)(Infocom)[a][CMD][Rel 58]">
+		<description>Hitchhiker's Guide to the Galaxy (1984)(Infocom)[a][CMD][Rel 58]</description>
+		<rom name="HITCHHIK.CMD" size="8192" crc="3701eae2" md5="edcf2d3324d17fce5e22dddcfb3e02c9" sha1="9fa00f6595dc58915860f2680270dca90b347134"/>
+		<rom name="HITCHHIK.DAT" size="113664" crc="9c5a7ba7" md5="74af74f62ce3a60d6ee2565ebb143f3a" sha1="af3a5b31cf4275387ab5fafa08f546531b668c1f"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy (1984)(Infocom)[CMD][Rel 47]">
+		<description>Hitchhiker's Guide to the Galaxy (1984)(Infocom)[CMD][Rel 47]</description>
+		<rom name="hitch.dat" size="114688" crc="2dc04bf2" md5="2d3f2d8638ab88b014b8a96b773f7034" sha1="00ed55a28ab703c3fb0f4931a1a225e1d79d6fa9"/>
+		<rom name="infocom.cmd" size="8192" crc="93b197c5" md5="9f7acbfc8a399e0f7a4397e4e754f1f7" sha1="088911ccb31fc318962c593c79375dcefda503d9"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy (1984)(Infocom)[CMD][Rel 56]">
+		<description>Hitchhiker's Guide to the Galaxy (1984)(Infocom)[CMD][Rel 56]</description>
+		<rom name="HITCHHIK.CMD" size="8192" crc="d09d91ac" md5="d16619c7e76c07e18fdba0f4f5b50a45" sha1="bdd33c56246d523b52a425dfbe8c3c2db8b994aa"/>
+		<rom name="HITCHHIK.DAT" size="113664" crc="17614866" md5="6f4a8d82c475be77ee9f58816c603815" sha1="91564f223cce134ab7555973ffcab88206a28065"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy (1984)(Infocom)[CMD][Rel 58]">
+		<description>Hitchhiker's Guide to the Galaxy (1984)(Infocom)[CMD][Rel 58]</description>
+		<rom name="hitch.hlp" size="4879" crc="b3219e11" md5="ebba80d5bfe7d80f160806baff2fce24" sha1="3ab678e18ee1b5dba4920ee6e4f395ab1e5d7d7f"/>
+		<rom name="HITCHHIK.CMD" size="8192" crc="3701eae2" md5="edcf2d3324d17fce5e22dddcfb3e02c9" sha1="9fa00f6595dc58915860f2680270dca90b347134"/>
+		<rom name="HITCHHIK.DAT" size="68864" crc="87767611" md5="5648f3477c02b93ade6b976d52e8e6a2" sha1="4dfadd9e0c17a86d6924e08b817aaee0471bf0c9"/>
+	</game>
+	<game name="Host (1982)(Alan Shoemaker)[CMD][32K]">
+		<description>Host (1982)(Alan Shoemaker)[CMD][32K]</description>
+		<rom name="HOST3.CMD" size="512" crc="8639863c" md5="ffc7fc055d1679e36bfea2b382df36ea" sha1="a00dd885293264a8127ddba8f0443a1d4f12c569"/>
+	</game>
+	<game name="Host (19xx)(-)[CMD]">
+		<description>Host (19xx)(-)[CMD]</description>
+		<rom name="HOST3.CMD" size="256" crc="d520eccf" md5="e6a688a45ed30c56a4f5205272423bca" sha1="3b048b2e3b2fd13b679d6e3ec659bd5f70f80209"/>
+	</game>
+	<game name="Infidel (1982)(Infocom)[CMD][Rel 22]">
+		<description>Infidel (1982)(Infocom)[CMD][Rel 22]</description>
+		<rom name="infidel.cmd" size="7936" crc="521d88f8" md5="31e945218892a44aaa14eac9359f58cc" sha1="50a4dbc67d0068ab1a862195558091ee9cdd8393"/>
+		<rom name="infidel.dat" size="93696" crc="27fc373d" md5="70c9b79accebde5ef948b0371d4b0054" sha1="65ec295089a54c2e79b8f709cf7defebb555ac47"/>
+	</game>
+	<game name="Interlude (1980)(Syntonic Software Corp)[CMD]">
+		<description>Interlude (1980)(Syntonic Software Corp)[CMD]</description>
+		<rom name="INTER.CMD" size="16896" crc="f4f5642d" md5="483b6b52554a72b1880009689a1a9e82" sha1="a5f94f1f8c7637c67d7d074f3b2cf9baa8cc8679"/>
+		<rom name="SECINTLD.TXT" size="3141" crc="f53e590a" md5="bd37d7e8633c4ddd9c2a1f5acbbbf3ce" sha1="65b29cc468eadb242578b905fdfd35500386992a"/>
+	</game>
+	<game name="Invading Forces (1980)(Larry Ashmun)[CMD]">
+		<description>Invading Forces (1980)(Larry Ashmun)[CMD]</description>
+		<rom name="invaders.cmd" size="3072" crc="c9fcdf52" md5="e90113d330bd531b28ce1d6bda40792f" sha1="a22f9b58b1242fd5df86542a6af1bef2da299246"/>
+	</game>
+	<game name="Kill-a-Pede (1982)(Jim Baker &amp; Fred Mayea)[CMD]">
+		<description>Kill-a-Pede (1982)(Jim Baker &amp; Fred Mayea)[CMD]</description>
+		<rom name="kilapede.cmd" size="4521" crc="8387aa63" md5="9eee68e7c6d3416354c285b5f4e79f15" sha1="405adea9f45f24dfe9bf8d772e14ab58aa6abc5f"/>
+	</game>
+	<game name="Killer Butterflies (19xx)(-)[CMD]">
+		<description>Killer Butterflies (19xx)(-)[CMD]</description>
+		<rom name="kilrbutr.bas" size="4006" crc="de014677" md5="a891541c3c8d5cf0ba024b8e5413b71a" sha1="ac504a8e688cfa0a464d1cf9d223a04d36ac3a78"/>
+		<rom name="kilrbutr.cmd" size="7680" crc="edf006fa" md5="630b929fe10fdf3c1fefce2e42cfb1b7" sha1="8d78e6bfa4d1edd7bab892cc8a40cbe399c37d8a"/>
+	</game>
+	<game name="Kong (19xx)(Wes Gray)[SRC]">
+		<description>Kong (19xx)(Wes Gray)[SRC]</description>
+		<rom name="KONG1.SRC" size="13056" crc="78fc817d" md5="7b340470f933b26a54806ed468dc2e6e" sha1="2bc42152b49dbf78c621f66434fbfd54371df7bd"/>
+	</game>
+	<game name="Labyrinth (19xx)(Med Systems Software)[CMD]">
+		<description>Labyrinth (19xx)(Med Systems Software)[CMD]</description>
+		<rom name="labyrnt1.cmd" size="16384" crc="860c8876" md5="1f31964d72961642f7e1420813cfb4e5" sha1="6566350170063e1e1344cbfbc4eb2e239fb3b7fe"/>
+	</game>
+	<game name="Leather Goddess of Phobos (1986)(Infocom)[a][CMD][Rel 59]">
+		<description>Leather Goddess of Phobos (1986)(Infocom)[a][CMD][Rel 59]</description>
+		<rom name="infocom.cmd" size="8192" crc="93b197c5" md5="9f7acbfc8a399e0f7a4397e4e754f1f7" sha1="088911ccb31fc318962c593c79375dcefda503d9"/>
+		<rom name="leather.dat" size="129023" crc="343a5d69" md5="1a2a4d9d89fb95d0cc7fb66695f6ada7" sha1="d32b4326d32882a2897983705396e1d1b5a05f60"/>
+	</game>
+	<game name="Leather Goddess of Phobos (1986)(Infocom)[CMD][Rel 59]">
+		<description>Leather Goddess of Phobos (1986)(Infocom)[CMD][Rel 59]</description>
+		<rom name="LEATHER.CMD" size="8192" crc="3701eae2" md5="edcf2d3324d17fce5e22dddcfb3e02c9" sha1="9fa00f6595dc58915860f2680270dca90b347134"/>
+		<rom name="LEATHER.DAT" size="128767" crc="3d24e050" md5="b936d4dbb17c8ce92b68c869b6b802d6" sha1="0f004aaa452dc436482782b60bf7052584b003b4"/>
+	</game>
+	<game name="Life (19xx)(-)[CMD]">
+		<description>Life (19xx)(-)[CMD]</description>
+		<rom name="LIFE.CMD" size="1044" crc="aba71431" md5="cc8a1a0c7963b51a83bb8ee4c1bd5fe4" sha1="231afc6baeba909bbb89681a57bb5792a376dfab"/>
+	</game>
+	<game name="Line Ball (1982)(RAJ Software)[CMD]">
+		<description>Line Ball (1982)(RAJ Software)[CMD]</description>
+		<rom name="LINEBAL0.CMD" size="2220" crc="7bd286af" md5="e4f4e5c75a01b1e498e6407249df95c7" sha1="caf0938cf5bdc513f787889bc829e1f2016886b3"/>
+	</game>
+	<game name="Lords of Karma Adventure (19xx)(-)[CMD]">
+		<description>Lords of Karma Adventure (19xx)(-)[CMD]</description>
+		<rom name="karma.cmd" size="24444" crc="9dac9715" md5="1f66faa6b420f47edb596aca95d46553" sha1="4a128e4d898e30aee5eb6427e38b0cd99826fc22"/>
+		<rom name="kdata.cmd" size="16384" crc="59afec99" md5="78a802bc38440078449418452e999094" sha1="15509b8fb86510a453bbeebbe85318c15ef0f2b0"/>
+		<rom name="readme.txt" size="164" crc="8a8b2e50" md5="2fab1d638521df4e04895102b4373002" sha1="d4d99f438db7bd5efd7699e89fcfd0b1e95c45c0"/>
+	</game>
+	<game name="Lurking Horror (1987)(Infocom)[CMD][Rel 203]">
+		<description>Lurking Horror (1987)(Infocom)[CMD][Rel 203]</description>
+		<rom name="lurknghr.dmk" size="261136" crc="928f0c05" md5="3e200148c271f9a022da6ef68db52324" sha1="1da385e419deb68d1bcf86c6116600a5eec061f2"/>
+		<rom name="lurknghr.dsk" size="193024" crc="69f81b5e" md5="01bd10f18da357ecbc0ab7dc7631727e" sha1="9f89418f9c44d2cc8f1919744b56d1ba7c0fd85b"/>
+	</game>
+	<game name="Meteor Mission II (1981)(Big Five Software)[CMD]">
+		<description>Meteor Mission II (1981)(Big Five Software)[CMD]</description>
+		<rom name="metmis3a.cmd" size="12032" crc="22df7899" md5="ef5be08776fb01946bac4461035676be" sha1="4f4dc0e81ca5060c303d05f6a0f92f30488a7ba6"/>
+		<rom name="metmis3b.cmd" size="12032" crc="bde9df35" md5="c7d67c5b5039a58dbd933a79b737febb" sha1="a6b5b4ebad08d1f6308066f5764d98f96211f99a"/>
+		<rom name="metmis3c.cmd" size="12032" crc="329e06db" md5="b8e0ae9c7c0878f11a19505c2e16b371" sha1="8bedee5b4df3165d815b415d6f189e6d458a68b6"/>
+		<rom name="metmis3d.cmd" size="12032" crc="8e8c4e17" md5="4fdef152f7c6a3f89cb53d20740922c5" sha1="4522e1f5c9668088a36244b08339e28bc313e697"/>
+		<rom name="metmiss3.txt" size="218" crc="64b04584" md5="94fbe9d846f784d425752f4a567ba663" sha1="9500ed746886d300ae6bfc7d9d3ea3f3a6550fd2"/>
+	</game>
+	<game name="Micro Grand Prix (19xx)(Ron Sully)[CMD]">
+		<description>Micro Grand Prix (19xx)(Ron Sully)[CMD]</description>
+		<rom name="PRIX.CMD" size="1357" crc="4b21bd52" md5="add134763a9b591286dc8c14859eb071" sha1="6785f3bb997b6b68d47f3549d8b742c20efc8cf1"/>
+	</game>
+	<game name="Micro World Adventure v4.0 (19xx)(Arti Harotunian)[CMD]">
+		<description>Micro World Adventure v4.0 (19xx)(Arti Harotunian)[CMD]</description>
+		<rom name="micwld3a.cmd" size="15940" crc="16d4e725" md5="f3c30889edf11557790c19c2cece0eb8" sha1="5c99dc92d74423008bdfd8abd69e966f351c4a23"/>
+	</game>
+	<game name="Mustant Invastion (19xx)(Micro Systems Software)[CMD]">
+		<description>Mustant Invastion (19xx)(Micro Systems Software)[CMD]</description>
+		<rom name="mutinvn1.cmd" size="5632" crc="1e11f7ae" md5="656497e95b08b1e4085092950255547b" sha1="587b646b48027cb144723e3feabfe1f8f71195b9"/>
+		<rom name="mutinvn2.cmd" size="5632" crc="88af7efe" md5="502f2d1f094031cb9c7e3432541857e4" sha1="17774d35fb5b315840202ca7123934e77752b6bd"/>
+	</game>
+	<game name="Mysterious Adventures # 02- The Time Machine (1981)(Brian Howarth-Molimerx)[CMD]">
+		<description>Mysterious Adventures # 02- The Time Machine (1981)(Brian Howarth-Molimerx)[CMD]</description>
+		<rom name="timemach.cmd" size="15402" crc="8ce48bfd" md5="6d6efacbc2a5b5bf3a64410781a4900c" sha1="b3f1145a9624da04949787e58685f9eaadfb981e"/>
+		<rom name="timfile1.dat" size="256" crc="f044d29f" md5="679b4de689cc906e5d9b0aa4566db1ac" sha1="524f3699ea3a66fec11ae24f4658f0b45f23a3cb"/>
+		<rom name="timfile2.dat" size="256" crc="2bedfe5d" md5="ab3089d183b3fb2d037e55895dac6d2f" sha1="7d81ec76e86a7d8e24ac785c7a43951bc3fa75ea"/>
+	</game>
+	<game name="Mysterious Adventures # 03- Arrow of Death (1981)(B Howarth-Molimerx Ltd)[CMD]">
+		<description>Mysterious Adventures # 03- Arrow of Death (1981)(B Howarth-Molimerx Ltd)[CMD]</description>
+		<rom name="mysadv3c.cmd" size="16888" crc="24a68a90" md5="85bc7e5bb545e17100e358b9261c13c3" sha1="53fd69424088555a851a43482343b232c9fc60cf"/>
+	</game>
+	<game name="Nazi Security Fort (1983)(Wes Gray)[CMD]">
+		<description>Nazi Security Fort (1983)(Wes Gray)[CMD]</description>
+		<rom name="fort-x.src" size="32256" crc="538aaa6c" md5="bec41d960e6c37b3f84c04b4cf9a8b2d" sha1="8b49e028535b618fad93129b757a906ed56e297f"/>
+		<rom name="fort.cmd" size="8275" crc="0a78aa8e" md5="3fc47bc1ffcc427852f7f50a9f5de5a1" sha1="9b8cf8d9313a8f360d40f49767745a6e505ac945"/>
+		<rom name="fort.src" size="25950" crc="feebbc76" md5="cbde6130b321500ef8c629f44d827126" sha1="5e86f5457dbb98566ee7b3ba2633371c7f6bb69b"/>
+		<rom name="fort3.cmd" size="5896" crc="0e71e3fe" md5="5842ee556bd6f99f58020e13cba06ce3" sha1="a8858992f44d3f676c49636f71c2b99b2b50fcf7"/>
+		<rom name="fortmast.src" size="16669" crc="f874486b" md5="f9772363534009fafe0eb099f64a995b" sha1="7bc7262a8eb697184ffff652a8aaf500e089be1f"/>
+	</game>
+	<game name="NFL Pro Football (19xx)(MPS Software)[CMD]">
+		<description>NFL Pro Football (19xx)(MPS Software)[CMD]</description>
+		<rom name="A" size="2092" crc="5aa4e2fc" md5="bc17aabeb596119581ca1243818401b9" sha1="e3922f31ccde893271cd4edad0d666824c742670"/>
+		<rom name="AA" size="2743" crc="9b537cbb" md5="89b8343c2b69facf48e4f9d2cee04b81" sha1="68271c717a14634277e36012d9395a09020b05ca"/>
+		<rom name="FOOTBALL.CMD" size="2304" crc="912193da" md5="c98e896c5d81b2072402a25eab45c898" sha1="ee2333f98a5c8e9fe7ed8887baa1587c81643b14"/>
+		<rom name="G1" size="791" crc="63d5a8c6" md5="1ed21457131363519caa72c57eec334d" sha1="b277c715b141f7e38a91ac725b0a5414e9229d30"/>
+		<rom name="H1" size="1234" crc="4e3e1914" md5="8e079729e657baf8523aefae69edf53e" sha1="290bf05f5237702d72b2fc0e49de7ff5e8d9811b"/>
+		<rom name="N" size="1792" crc="64c36fa9" md5="16c9cb0ae93329a5489ffa9e8a4b2891" sha1="e0b8e5d054e15c71f94ced24a2a10f8f7059cd5b"/>
+		<rom name="NN" size="2873" crc="299f9e20" md5="d401c26d69272cb3bbf8034df0dfd8af" sha1="ff226e087fed402251d0aa6bf4df7f3c218a1df9"/>
+		<rom name="P.CMD" size="1024" crc="06b7aa94" md5="a42dce2e5be69cdeef47b1183deb64c8" sha1="98a430afa38c9ca7a27cfe7beb6bcfe44a12f2c9"/>
+		<rom name="P0.OVL" size="5053" crc="62f9c410" md5="d0a2c8491aef8a3bf409ed53e838b574" sha1="25e5c0951730e7e57d759bb40da9cf5035443ddd"/>
+		<rom name="P1.OVL" size="9505" crc="8f767fd2" md5="8b4706347beba2d7924885f8e2a12b07" sha1="0890a8fbcb52ada345461217fb9b31c07b6c9852"/>
+		<rom name="P2.OVL" size="32040" crc="8c964b37" md5="b01b517228af5bf59f8a8b65d88da632" sha1="3c8023d5d75a3815adcffe24bc9df7ad85a6e6b3"/>
+		<rom name="P3.OVL" size="15225" crc="b34125a7" md5="00cb34a502ea0d2cb4ece51ccb684418" sha1="7198ea92a3ba6fc844a73beafe63c3b79498a086"/>
+	</game>
+	<game name="Nukliex (1984)(JMG Software)[CMD]">
+		<description>Nukliex (1984)(JMG Software)[CMD]</description>
+		<rom name="NUKLIEX.CMD" size="14592" crc="a86ec82c" md5="979f7e944bdca90974e98b9bf0161793" sha1="be835e5883bd6192bdbecfbd3162c131286deeb4"/>
+		<rom name="NUKLIEX.HIS" size="256" crc="a6b4b97b" md5="b99f2c567da75f432350b78597cf0356" sha1="e9cb130c4970dac422f99bf9b73cbe85f2fb8bab"/>
+	</game>
+	<game name="Nyrigongo Maze (19xx)(-)[CMD]">
+		<description>Nyrigongo Maze (19xx)(-)[CMD]</description>
+		<rom name="nyrigong.bas" size="8577" crc="a99ca4d2" md5="1e0845f3aa2b092553a19f7c29a30113" sha1="0fff4fafc19f7ff450c2c1a3dbcad5708bcdeb4c"/>
+		<rom name="nyrigong.cmd" size="13312" crc="019348aa" md5="c8f0a452cbefaf47b7ddee808be2e3b6" sha1="bb7745f16849859ef4590d5cc51969d43121f5b1"/>
+	</game>
+	<game name="Othello (1982)(Rob Dyck)[CMD]">
+		<description>Othello (1982)(Rob Dyck)[CMD]</description>
+		<rom name="othelrd1.bas" size="5053" crc="9000310b" md5="b925ab32095a807e618a9eaa1f65a80b" sha1="79a1675a6a89afe37a9081da397aa44f78d06a89"/>
+		<rom name="othelrd1.cmd" size="8448" crc="727557a5" md5="af7b05857ba455c6422eb820c97bfdc2" sha1="fa66065919364258cc37f47baa7b250bb87946e0"/>
+		<rom name="othelrd2.bas" size="5801" crc="011d73be" md5="e2c2eacb3494bd79501aa348d227af2e" sha1="b363a73d40c528e2695e190e782392df6c0bed3f"/>
+		<rom name="othelrd2.cmd" size="9472" crc="3b571ba2" md5="6f90a83db79673cfd7b014d190985c77" sha1="87058000b8be4de87c581fd4368d25c129fcf5dd"/>
+	</game>
+	<game name="Other Ventures #2- Crowley Manor (1981)(Adventure International)[CMD]">
+		<description>Other Ventures #2- Crowley Manor (1981)(Adventure International)[CMD]</description>
+		<rom name="crowley.cmd" size="16656" crc="a09d0faf" md5="c6c4530818a497429e4a34b012647fef" sha1="724e92efc3a2bbf0cfe3f1a7a818ced90ae8c20b"/>
+	</game>
+	<game name="Other Ventures #3- Escape from Traam (1980)(Jyym Pearson-Adventures International)[CMD]">
+		<description>Other Ventures #3- Escape from Traam (1980)(Jyym Pearson-Adventures International)[CMD]</description>
+		<rom name="traam3.cmd" size="15626" crc="3a8b21e2" md5="7b6eb32adb93532643cd348ff0bc6491" sha1="2731534d7843726ea76dce9f0cd097f58d50e403"/>
+	</game>
+	<game name="Other Ventures- San Francisco 1906 (1981)(Jyym Pearson-Adventure International)[CMD]">
+		<description>Other Ventures- San Francisco 1906 (1981)(Jyym Pearson-Adventure International)[CMD]</description>
+		<rom name="sanfran.cmd" size="17373" crc="15343a85" md5="e707f9fd5e5cba56eb9700fdc48af178" sha1="44e6e8164451111b1a6255293e7864bb168ba0fe"/>
+	</game>
+	<game name="Pagoda (1984)(Linear Software)[CMD]">
+		<description>Pagoda (1984)(Linear Software)[CMD]</description>
+		<rom name="PAGODA.CMD" size="14848" crc="8172de9a" md5="8d6a0f66b07d625b43c00247fc65961b" sha1="77f6f739016767cf675e06f6130751ba5f0dfef4"/>
+	</game>
+	<game name="Penetrator (1982)(Philip Case-Melbourne House)[CMD]">
+		<description>Penetrator (1982)(Philip Case-Melbourne House)[CMD]</description>
+		<rom name="PENETR.CMD" size="16777" crc="76cb86de" md5="39e6cabf52bfe0d428846223cc093dd1" sha1="1b101dac6248080a01af2304fb8157f65a429421"/>
+	</game>
+	<game name="Ping Pong (19xx)(-)[CMD]">
+		<description>Ping Pong (19xx)(-)[CMD]</description>
+		<rom name="PING.CMD" size="3072" crc="716e1dba" md5="78c8700d89e0c85116eecb92a1b70185" sha1="614eea8bb5cc1f16c57817e43ae5a93d0ed493db"/>
+	</game>
+	<game name="Planetfall (1982)(Infocom)[a][CMD][Rel 20]">
+		<description>Planetfall (1982)(Infocom)[a][CMD][Rel 20]</description>
+		<rom name="planetfa.cmd" size="7936" crc="e8f0aad8" md5="acbfd27aaba62c6b86dde8dbd8922dca" sha1="76bdb72691b6159dfde63a3b39fca8837355f338"/>
+		<rom name="planetfa.dat" size="108032" crc="fa25e53f" md5="f1c24e5da27f43e93c414caf0acd3a0b" sha1="166d5dc1a48154c09f5e095969fea16f4138ded6"/>
+	</game>
+	<game name="Planetfall (1982)(Infocom)[CMD][Rel 20]">
+		<description>Planetfall (1982)(Infocom)[CMD][Rel 20]</description>
+		<rom name="planetf.cmd" size="7936" crc="c458fbb3" md5="9834905fecf17a303af03bd961fdb07e" sha1="3475404283092929d7aaf311c31cd056650ebe00"/>
+		<rom name="planetf.dat" size="108032" crc="876302e4" md5="1661180758605fbc5e2fa6c5cd0010de" sha1="3ee5853b191227d6ad5bfd16ee07e16f5e0837fd"/>
+	</game>
+	<game name="Pyramid Adventure (19xx)(Radio Shack)[CMD]">
+		<description>Pyramid Adventure (19xx)(Radio Shack)[CMD]</description>
+		<rom name="pyramd3a.cmd" size="15890" crc="ed0bf6b4" md5="627bb4c62ef03406c8d914bd8b8138bd" sha1="6a7fa13b6521d59d3af86692da7eff6967d33387"/>
+		<rom name="pyramd3b.cmd" size="15883" crc="b1a22606" md5="e150647c2a32d8094bc1fa390e19a52b" sha1="68550032287774a22ef467e2ca116f9999e5d7d6"/>
+	</game>
+	<game name="QIX Screen Saver (19xx)(-)[CMD]">
+		<description>QIX Screen Saver (19xx)(-)[CMD]</description>
+		<rom name="qixss.cmd" size="1007" crc="3e2b4989" md5="074d5caabd9e6021e587657a81961de3" sha1="3e199bfbe8e03e7b320047b16c35247aba1d7781"/>
+	</game>
+	<game name="Quix (19xx)(-)[CMD]">
+		<description>Quix (19xx)(-)[CMD]</description>
+		<rom name="QUIX.CMD" size="768" crc="60833e3e" md5="6f7af43395188112856817d181125112" sha1="d9c7d4538e82a0be3dcef5f98cb90fe87220cf8e"/>
+		<rom name="QUIX.SRC" size="4228" crc="e723f0f3" md5="0d5b337d1ccbdb6821d69130fcb2ec1f" sha1="cfb5cbc6d491cdfa06c9fbc193e34982b3d3021f"/>
+	</game>
+	<game name="Raaka-Tu Adventure (19xx)(Tandy)[CMD]">
+		<description>Raaka-Tu Adventure (19xx)(Tandy)[CMD]</description>
+		<rom name="raaka3a.cmd" size="15946" crc="f0ecad68" md5="848fc3a22e146699f7263084512bc8eb" sha1="80fadf09ced11d89ccb2e7f1ac19cc0172e4cf98"/>
+		<rom name="raaka3b.cmd" size="15883" crc="6d66db8e" md5="0cf7306aaaee0e2763d7895e0ad990f2" sha1="ddf5c4ab04c22e713af766ab57cc2d0afc22e04a"/>
+		<rom name="raaka3c.cmd" size="16128" crc="0b23c5fb" md5="05bd7645bc9095575885d5d82b856623" sha1="957d985ccd874240f7448eaa630ccefddb49230c"/>
+	</game>
+	<game name="Revenge of Rivet Race (1983)(William J Cain-Quality Software)[CMD]">
+		<description>Revenge of Rivet Race (1983)(William J Cain-Quality Software)[CMD]</description>
+		<rom name="rivet.cmd" size="25344" crc="c8a067fc" md5="299082fd75c11af7733f955694f0555e" sha1="d1a1a68b5da4ec6dfe19ec0d44a4b5040e268ab6"/>
+	</game>
+	<game name="San Francisco 1906 (1981)(Adventure International)[CMD]">
+		<description>San Francisco 1906 (1981)(Adventure International)[CMD]</description>
+		<rom name="SANFRAN.CMD" size="17373" crc="15343a85" md5="e707f9fd5e5cba56eb9700fdc48af178" sha1="44e6e8164451111b1a6255293e7864bb168ba0fe"/>
+		<rom name="sfquake.cmd" size="17373" crc="190bf5ad" md5="81c68e25eb9f7eb535751e054fd67489" sha1="f82b7457c9332cf262ff08d96d6e5f4e2554e570"/>
+	</game>
+	<game name="SC-78503 Starfighter (19xx)(Adventure International)[CMD][Full]">
+		<description>SC-78503 Starfighter (19xx)(Adventure International)[CMD][Full]</description>
+		<rom name="star.cmd" size="34816" crc="dea25d0b" md5="d442f4fcefd3fe5c39027285f440ce95" sha1="a662b5670e75f4099bcf75b0098527b61204e579"/>
+		<rom name="star.his" size="256" crc="046fb541" md5="6dacd60c8c1d652b112217c59ba39265" sha1="cdb005b49a91a84bfedfd44e68b357b6e2ffbc92"/>
+	</game>
+	<game name="Scott Adams Adventure 01 v4.16 (19xx)(Adventure International)[CMD][Adventureland]">
+		<description>Scott Adams Adventure 01 v4.16 (19xx)(Adventure International)[CMD][Adventureland]</description>
+		<rom name="sa01416.cmd" size="15864" crc="8e8506dd" md5="da07874d29c597feb27a6b6c426eea46" sha1="a3ff286a9ad79b645a61af1c9267f958f88a172e"/>
+	</game>
+	<game name="Scott Adams Adventure 02- Pirate's Adventure v4.08 (1979)(Adventure International)[CMD]">
+		<description>Scott Adams Adventure 02- Pirate's Adventure v4.08 (1979)(Adventure International)[CMD]</description>
+		<rom name="pirate.cmd" size="16128" crc="f8e9e9b4" md5="83daa6660eb09f536e2955bf151572d1" sha1="efa9b897f23a6aee03afd26e5c4bc794b23cdb81"/>
+	</game>
+	<game name="Scott Adams Adventure 04- Voodoo Castle v1.18 (19xx)(Adventure International)[CMD]">
+		<description>Scott Adams Adventure 04- Voodoo Castle v1.18 (19xx)(Adventure International)[CMD]</description>
+		<rom name="sa04118a.cmd" size="15883" crc="4492ba50" md5="9811a17a4b7566905eec20498bcd6948" sha1="0da46f26b25305d45a217224dcc7e3e309c4916c"/>
+		<rom name="sa04118b.cmd" size="16128" crc="643bd4a5" md5="f43834f266ba5ebcae91b6eed7274ee8" sha1="56827cf8dc2b507480d869259ee3393cfe45259a"/>
+	</game>
+	<game name="Scott Adams Adventure 06- Strange Odyssey v1.19 (19xx)(Adventure International)[CMD]">
+		<description>Scott Adams Adventure 06- Strange Odyssey v1.19 (19xx)(Adventure International)[CMD]</description>
+		<rom name="sa06119.cmd" size="16128" crc="e4822a0c" md5="58da18756f65032e72868723ce1ea5f7" sha1="8750e69ef7f4d327d81b8a586fb661923bb2f2be"/>
+		<rom name="sa06119b.cmd" size="16128" crc="e5b33b0e" md5="5a8be0d4f0c9aa674ed65aac8cf75965" sha1="007116c2b518c1910e8d42d912501e3555546bec"/>
+	</game>
+	<game name="Scott Adams Adventure 07 v1.45 (19xx)(Adventure International)[CMD][Mystery Fun House]">
+		<description>Scott Adams Adventure 07 v1.45 (19xx)(Adventure International)[CMD][Mystery Fun House]</description>
+		<rom name="sa07145.cmd" size="16128" crc="d433836a" md5="122f3704148877dc9d717138aa3e2476" sha1="9a0552cfa2680e9f304b52fd084a56abd183dd6c"/>
+	</game>
+	<game name="Scott Adams Adventure 09- Ghost Town v1.23 (19xx)(Adventure International)[CMD]">
+		<description>Scott Adams Adventure 09- Ghost Town v1.23 (19xx)(Adventure International)[CMD]</description>
+		<rom name="sa09123.cmd" size="16128" crc="33211821" md5="340d03ab198b2809831e9b3669b5d6dd" sha1="b0f32393e215255b5e7c6d350b8c30ef12ebeda3"/>
+	</game>
+	<game name="Scott Adams Adventure 11- Savage Island II v1.33 (1979)(Adventure International)[CMD]">
+		<description>Scott Adams Adventure 11- Savage Island II v1.33 (1979)(Adventure International)[CMD]</description>
+		<rom name="island2.cmd" size="15872" crc="c240a242" md5="1f0b42860122c4be21f2b5a4530d06b7" sha1="956f327b27f7b250270be9918cf834db15c9fd4f"/>
+	</game>
+	<game name="Scrap Crane (1979)(Device Oriented Games)[CMD]">
+		<description>Scrap Crane (1979)(Device Oriented Games)[CMD]</description>
+		<rom name="CRANE.CMD" size="2048" crc="746d5257" md5="7dffb30813b0563842874fc9031f8856" sha1="dff9c8e137bbb4e2392947c6adebef077e2581ae"/>
+	</game>
+	<game name="Seastalker- The Ultramarine Bioceptor (1984)(Infocom-Tandy)[CMD][Rel 15]">
+		<description>Seastalker- The Ultramarine Bioceptor (1984)(Infocom-Tandy)[CMD][Rel 15]</description>
+		<rom name="seasolve.txt" size="10368" crc="4a3ae4c6" md5="feae3c4c3c7b34d7d530d481464a38b3" sha1="2c142eeb28089daab78b884a985ea52280113784"/>
+		<rom name="seastalk.cmd" size="9984" crc="e3ed73df" md5="4947c658a4cf83968bebe8eac25d42c8" sha1="5ebab244b62eba448b3946f0d4f036ea6798ba29"/>
+		<rom name="seastalk.dat" size="117760" crc="de1e4e6b" md5="3711ddb76f57150c66f49261dffb083d" sha1="0971e58da16e2a57047f2288b71ecdf75b315b84"/>
+	</game>
+	<game name="SFinks Chess (1981)(William Fink)[CMD]">
+		<description>SFinks Chess (1981)(William Fink)[CMD]</description>
+		<rom name="SFINKS.CMD" size="21248" crc="08ea515f" md5="f422df9039d55b0857371081f02ba2a9" sha1="b92905fe477d834bfd5a0a763d70c3f8a8973795"/>
+	</game>
+	<game name="Ship Shooting Game (19xx)(-)[CMD]">
+		<description>Ship Shooting Game (19xx)(-)[CMD]</description>
+		<rom name="SHIP.CMD" size="849" crc="d0332bf7" md5="2e5a877dbcabdbe3f4efe45a77e99ca2" sha1="4944e3508015dec02f0b349f97646a21f5638383"/>
+	</game>
+	<game name="Skyscraper (19xx)(Brandt J Fine)[CMD]">
+		<description>Skyscraper (19xx)(Brandt J Fine)[CMD]</description>
+		<rom name="skyscrpe.cmd" size="10496" crc="85f22bd5" md5="28d54cc58bf55d47adbba6c420d2dc55" sha1="9cdaa70f0dd41a89bb4de27cdac6b0aceed06a87"/>
+	</game>
+	<game name="Snake Bite (19xx)(-)[CMD]">
+		<description>Snake Bite (19xx)(-)[CMD]</description>
+		<rom name="snkbite1.cmd" size="4352" crc="d9814677" md5="0610fabbd6267a43b652f8e7b4a1b168" sha1="179df2253b4bfeaf11f22ebd4550abe7bd50af75"/>
+	</game>
+	<game name="Snake Screensaver (19xx)(-)[CMD]">
+		<description>Snake Screensaver (19xx)(-)[CMD]</description>
+		<rom name="snakess3.cmd" size="1280" crc="4ae07d8c" md5="dc1f03f5a2a305ef1e7689bc86d79c69" sha1="5d5f03b3b5ceb9e4dd2f02f0c21766951b1bb131"/>
+	</game>
+	<game name="Sorcerer (1984)(Infocom)[CMD][Rel 4]">
+		<description>Sorcerer (1984)(Infocom)[CMD][Rel 4]</description>
+		<rom name="sorcerer.cmd" size="7680" crc="7c9fb675" md5="d639b2a2cee7ef39d7baad1f01a7160a" sha1="4809fda1843a32bf0898a7d96cf4b666fc49cb7e"/>
+		<rom name="sorcerer.dat" size="110080" crc="4fd1a48b" md5="5c0f398204ee7dda2dd796dfeaba2bad" sha1="57fb515be360cd649f1d470221d605845576d41a"/>
+	</game>
+	<game name="Space Intruders (19xx)(Adventure International)[CMD]">
+		<description>Space Intruders (19xx)(Adventure International)[CMD]</description>
+		<rom name="spcint3a.cmd" size="16384" crc="0bf341e0" md5="e3bd442f3620dceec719ac6fd84a719e" sha1="90c28af428ccf16b58cb8fe6e6e951fff5272fb2"/>
+	</game>
+	<game name="Space War (19xx)(Device Oriented Games)[CMD]">
+		<description>Space War (19xx)(Device Oriented Games)[CMD]</description>
+		<rom name="swar.cmd" size="6011" crc="3aa223b6" md5="b2fe9bc5e32677bb8c962119f3c1020f" sha1="a08bfcb81f83e316258bd942ccef5c2ea4967f84"/>
+	</game>
+	<game name="Space Zap (19xx)(-)[CMD]">
+		<description>Space Zap (19xx)(-)[CMD]</description>
+		<rom name="spaczap1.bas" size="4618" crc="2bd7af35" md5="5e3c48ef9d6c9fefc64f73ef906681c5" sha1="4f56c7224b14d99212f2d5ed24e52ef11ae832c7"/>
+		<rom name="spaczap1.cmd" size="8448" crc="53527244" md5="c1a00199e7f336437ab462c6566a6466" sha1="73584d435011d0f0e72a1c2779da580e8972e660"/>
+	</game>
+	<game name="Star Nim (19xx)(-)[CMD]">
+		<description>Star Nim (19xx)(-)[CMD]</description>
+		<rom name="STARNIM.CMD" size="4352" crc="875b8be2" md5="6cf5e51ebada245ab015c54faabd00a5" sha1="0d1d3615a17b9d8817f0fd4f68f149e0299f0b4d"/>
+	</game>
+	<game name="Star Trap (1981)(Peter Hildebrandt-Med Systems Software)[CMD]">
+		<description>Star Trap (1981)(Peter Hildebrandt-Med Systems Software)[CMD]</description>
+		<rom name="startrap.cmd" size="10240" crc="707dcee1" md5="93e301786083c477c41a8d165d7f5355" sha1="1dc577cf43601b7a656594ff1639802da31756e7"/>
+	</game>
+	<game name="Starcross (1982)(Infocom)[CMD][Rel 17]">
+		<description>Starcross (1982)(Infocom)[CMD][Rel 17]</description>
+		<rom name="starcros.cmd" size="7936" crc="3e7b2076" md5="d16c9684d8459cebac0ad46ec9997d56" sha1="c838bb886bb726b85812f42431c37b389e522dbd"/>
+		<rom name="starcros.dat" size="83968" crc="2ae97e49" md5="7fdcdb7760ca75342675e59de6ed16fe" sha1="13d0a23b67bfdc9e4e4548cc1e9f20f707b5a2c7"/>
+	</game>
+	<game name="Suspended (1983)(Infocom)[CMD][Rel 5]">
+		<description>Suspended (1983)(Infocom)[CMD][Rel 5]</description>
+		<rom name="suspend.cmd" size="7936" crc="cea736b7" md5="4d034bdb32331c904fd0c5e074c7b951" sha1="88c6a7d622fed1ea7a856461bfb65b6a8d0e8ff9"/>
+		<rom name="suspend.dat" size="105472" crc="1c7c33ea" md5="e2dea986b61cc4564f83f20592583380" sha1="68a64075c2b4599ad0f1eebcaa47faa9b731c85c"/>
+	</game>
+	<game name="Swamp War and Loader (1981)(Instant Software)[CMD]">
+		<description>Swamp War and Loader (1981)(Instant Software)[CMD]</description>
+		<rom name="SWAMP.CAS" size="840" crc="fb819b18" md5="5bb81d27a6c79375ed5d993fa9742175" sha1="dd7e223c93688b255ba9d31040ac1353b2acd793"/>
+		<rom name="SWAMP.CMD" size="5376" crc="e2bfaac0" md5="47e31c63505852e0e4e8e8b1ed39dbe3" sha1="ffe9b3a99b6cf45fc9c0ffea873d2c3f4d467719"/>
+	</game>
+	<game name="Tank Zone 2000 v2.0 (1981)(Wayne Westmoreland)[CMD]">
+		<description>Tank Zone 2000 v2.0 (1981)(Wayne Westmoreland)[CMD]</description>
+		<rom name="tankzon3.cmd" size="20480" crc="57c9757f" md5="9a6aa179bbf19bb4630eeece15b3a289" sha1="a1d0db5798f11e161d4af368e6f12e600ce9fec5"/>
+		<rom name="TANKZONE.HIS" size="256" crc="7a9a9bc3" md5="e0e9404616c10e11de50454057e0c5e3" sha1="cc7a93014c0e821f4d1c2e8bb7313e39b0ee0266"/>
+	</game>
+	<game name="Targ Type Game (19xx)(-)[CMD]">
+		<description>Targ Type Game (19xx)(-)[CMD]</description>
+		<rom name="rotate.cmd" size="1337" crc="eaff87cf" md5="5b727703cf0411b487ccbec924bfbd02" sha1="7f780a0454d017e1a1d35e56b8b7e7dd896ff16c"/>
+		<rom name="rotate.src" size="8195" crc="6104386d" md5="54f30e3041328d08d6f03a08bed7b433" sha1="391bfc8adceccc9444792957b6f9fd8b5ac3e782"/>
+	</game>
+	<game name="Ten Pin Bowling (1980)(John Allen-Acorn)[CMD]">
+		<description>Ten Pin Bowling (1980)(John Allen-Acorn)[CMD]</description>
+		<rom name="tenpin3a.cmd" size="16896" crc="e579e704" md5="cb407b8dca9d56eb1b75554a8feb9839" sha1="7e470932e95a9a9b4a941c20d570c20bb3b88cdd"/>
+	</game>
+	<game name="Tic Tac Toe (19xx)(Tandy)[CMD]">
+		<description>Tic Tac Toe (19xx)(Tandy)[CMD]</description>
+		<rom name="RTICTAC.CMD" size="7168" crc="9b96d3e7" md5="bb5047dedd7c15c23e4e38d4fa7c120a" sha1="d2c939d4b5cae3022f168f0a80bcbcd148d65626"/>
+	</game>
+	<game name="Ting Tong (1978)(Acorn Software)[CMD]">
+		<description>Ting Tong (1978)(Acorn Software)[CMD]</description>
+		<rom name="TINGTONG.CMD" size="2304" crc="5e21d506" md5="d2cc5f0bb55692a8f70d2a51774c3c1b" sha1="ce5203c0452654b70de5e384acc4e441dd6955de"/>
+	</game>
+	<game name="Toxic Dumpsite Graphic Adventure v2.0 (1982)(Roger Schrag-Adventure International)[CMD]">
+		<description>Toxic Dumpsite Graphic Adventure v2.0 (1982)(Roger Schrag-Adventure International)[CMD]</description>
+		<rom name="toxcdump.cmd" size="43776" crc="fde1a6ed" md5="0cf30736312a15e1ab746fd21d984237" sha1="0f64e771055795534bdf417b42772a864d23c67a"/>
+		<rom name="toxicdum.cmd" size="39013" crc="031a7bad" md5="bd76ab038953467bab8666e77e51a08a" sha1="162a615a41ee5a6ff4ced911729d2518506324f4"/>
+	</game>
+	<game name="Tram (19xx)(Micro Systems Software)[CMD]">
+		<description>Tram (19xx)(Micro Systems Software)[CMD]</description>
+		<rom name="trammss1.cmd" size="6144" crc="38ae51f4" md5="d4253a2ac9f2056413484235c4ee3957" sha1="57684c51beff8855ac9dbc2385870448006a9cf5"/>
+	</game>
+	<game name="Trap v1.0 (1980)(Wes Gray)[CMD]">
+		<description>Trap v1.0 (1980)(Wes Gray)[CMD]</description>
+		<rom name="trap31.cmd" size="5376" crc="588bdb35" md5="3348cf58e1207e7e74496a75576a7439" sha1="4d4ecd067875853d8669f78322abf3599d34ba03"/>
+		<rom name="trap31.src" size="21794" crc="9e3d6673" md5="20a782713c633bfadf44fe023e9f44d7" sha1="8cdcbb92947d3bccbd97398c2e5ceaf54e0ce059"/>
+	</game>
+	<game name="Trap v2.0 (1981)(Wes Gray)[CMD]">
+		<description>Trap v2.0 (1981)(Wes Gray)[CMD]</description>
+		<rom name="trap32a.cmd" size="4147" crc="3c021174" md5="87b6d29dee4e8bca6892828488900816" sha1="bb8b340d8d107a1db5ac54ebbf7818eedb12204a"/>
+		<rom name="trap32a.src" size="17381" crc="1b181354" md5="48628e495a537d7f07f163777b5e1ba4" sha1="45ee306a701a0e5f7c0c39bbe4742f6186d64332"/>
+		<rom name="trap32b.cmd" size="4402" crc="dab96ee1" md5="ed3d7ffd581ccf32c3812ca4487ee3fc" sha1="90a37e47e45a6d59ba13e41af97e44b0017d5b7f"/>
+	</game>
+	<game name="TRS-STORM v1.0 (1988)(Dave Phillips)[CMD]">
+		<description>TRS-STORM v1.0 (1988)(Dave Phillips)[CMD]</description>
+		<rom name="CITY1.CHR" size="6571" crc="63160f29" md5="4bb69ea528240ea6d185c6f7d262f28f" sha1="191c68e46065168138a3c65182b8367243e200ed"/>
+		<rom name="CITY2.CHR" size="6232" crc="8ce1ea5d" md5="aee1525399479e0d9b150af2d9417b1a" sha1="91409c0b8942c31e5b3e85e0b96ba2b4899f6349"/>
+		<rom name="CONVERT.BAS" size="3221" crc="387ab363" md5="9737709610ad20ee3606f0010c481617" sha1="91e879aa3b8f69bf4ac4e39828b7926b72fa72ea"/>
+		<rom name="GULF.CHR" size="4508" crc="61741b0f" md5="5bc14324a56489514df572c0185e6cdb" sha1="2aca408acdfc3e8daf7d6c9d79a563e73b364cde"/>
+		<rom name="GULF.GHR" size="6970" crc="90d59c35" md5="302ee12ca6e1c1d92d35c3b416d39676" sha1="320436b4185c24fcef442977af6affc766de0048"/>
+		<rom name="INDEXES.LZH" size="539" crc="37c96856" md5="d1bbde3027b4d8de1d5a0c1dbe414313" sha1="47040e2dddf863c2227de63b9f84c97a01d1a84b"/>
+		<rom name="INTRO.CHR" size="5015" crc="383daa5a" md5="5277e660857bc03936000b293f2671df" sha1="0fc3b4042975d54cff16d0b41731de4ed429ba23"/>
+		<rom name="READ.ME" size="4480" crc="263c00d8" md5="fab66de19d5fe3a19782b86fe3f586e1" sha1="6757e029a674e86c38752aebc2cd025e76e23979"/>
+		<rom name="STORMS.LZH" size="9594" crc="161e4052" md5="0ba9f3c1acea756c38148aee1208d0c9" sha1="bd426fdf08c573b7fc0c438a890b87b8052f1822"/>
+		<rom name="TRSSTORM.CTY" size="2773" crc="66ba04b0" md5="179605645b92f0474f8104ee56095c32" sha1="753303920d9642ccf21ba3b3899d6a429623fa46"/>
+		<rom name="TRSSTORM.INS" size="6557" crc="6eeb0a53" md5="6124d07638232dec2fe293072c7cc209" sha1="05276d0077a5b7bb32c0e5bd811d0455f42e150b"/>
+		<rom name="TRSTRM31.CMD" size="33883" crc="a1d62362" md5="c5ae589e7dbfdb2aab32ee8262431516" sha1="fcea800969ad0df10659253186240b72046649ce"/>
+	</game>
+	<game name="Warrior of RAS Volume 2- Kaiv (1982)(Randall Don Masteller-Med Systems Software)[CMD]">
+		<description>Warrior of RAS Volume 2- Kaiv (1982)(Randall Don Masteller-Med Systems Software)[CMD]</description>
+		<rom name="kaiv.cmd" size="37120" crc="0b8122b0" md5="6a96a0088b55b3cd03078047c5ec7ab6" sha1="3dc4281a2fc5e3f8c73035c6e325653a4368c0ed"/>
+	</game>
+	<game name="Wheel of Fortune (19xx)(-)[CMD]">
+		<description>Wheel of Fortune (19xx)(-)[CMD]</description>
+		<rom name="WHEELFTN.CMD" size="5376" crc="c9b7d4fe" md5="d36ffca646eec288e9c5ed3bacd25539" sha1="6e56e9dadf6c0324fdd6dd3bfbd21d47e496c585"/>
+	</game>
+	<game name="Witness- An Interlogic Mystery (1983)(Infocom)[CMD][Rel 13]">
+		<description>Witness- An Interlogic Mystery (1983)(Infocom)[CMD][Rel 13]</description>
+		<rom name="witness.cmd" size="7936" crc="35850bf3" md5="0ec40441bd6752d61a4324ee867a3566" sha1="acb06535db401cad10ba52ba3a1f85689fc29c5d"/>
+		<rom name="witness.dat" size="102912" crc="876a5935" md5="094ce9310e7af811926d47e7414f291d" sha1="153202b54c3c415ed2837c0d57fffea3fe56d7c7"/>
+	</game>
+	<game name="Xenos (19xx)(-)[CMD]">
+		<description>Xenos (19xx)(-)[CMD]</description>
+		<rom name="SECTION1.DAT" size="3072" crc="5905a83a" md5="14cfc37fe98c87232dc02d25d1d8545b" sha1="ff90d2de156fabe4dd34283766109e6858a7fe84"/>
+		<rom name="SECTION2.DAT" size="3072" crc="488ef10e" md5="18d707eec32edcfa1cd5598e37a6436f" sha1="6e2ed68a05af948c165dab168a263da4bb91404a"/>
+		<rom name="SECTION3.DAT" size="3072" crc="ab876bad" md5="6a5e3b04015abc10834caa1a8cf05600" sha1="babc2ebf06cd27c38e0b1672d42521e9e802c2f9"/>
+		<rom name="SECTION4.DAT" size="3072" crc="9c5e91d5" md5="276bfb74ec62951f1fca012a1e441a9e" sha1="48745f9f98644ed52ed89cf497c86e5b3c5331cc"/>
+		<rom name="SECTION5.DAT" size="3072" crc="bf602d54" md5="8085733faa69fb81d0d1bf62a3d03f59" sha1="3cb1e7be289c59cc8a3fe68338671bbf3aa0ca45"/>
+		<rom name="SECTION6.DAT" size="3072" crc="270fca30" md5="961e2469274bd8078eb102174339c571" sha1="c9344f69d617c73a405e58f772674fb8416c4209"/>
+		<rom name="SECTION7.DAT" size="3072" crc="811950ba" md5="642f76542a707de8b64398376b1e39c2" sha1="5104d9227be1d3629641af908372f98bfd1e9c5c"/>
+		<rom name="SECTION8.DAT" size="3072" crc="aa1c7d17" md5="0c3f6727743d17b2766cda73be41e13c" sha1="3088b90ddf107897c561e15a8bbdcacb02464709"/>
+		<rom name="SECTION9.DAT" size="3072" crc="b7e75fd1" md5="0689afe5b636c9e86fe3145cbea81f42" sha1="0376d2d793aa693b777823f0e1b8659a226a8cfc"/>
+		<rom name="SSVDOBJS.DAT" size="480" crc="8449dbc3" md5="f5db49ac823d4b0d3acbc7427cea6402" sha1="2c6d5995c2930aa7efcbcf7f976217f37681bdcf"/>
+		<rom name="USVDOBJS.DAT" size="480" crc="fe695109" md5="ee9894d0eb62accb930d2e23269a5e3c" sha1="9bf621c79d80bd8a045b49cc30c73874abf0b393"/>
+		<rom name="XENOS.CMD" size="25856" crc="8c94f05c" md5="167ec0ff10243725cf8fcf7bdc8587b4" sha1="a5f3400c97c005126f9f5f7b6374fdef935fd37f"/>
+	</game>
+	<game name="Zork I- The Great Underground (1982)(Infocom)[a3][CMD][Rel 25]">
+		<description>Zork I- The Great Underground (1982)(Infocom)[a3][CMD][Rel 25]</description>
+		<rom name="zork.cmd" size="7680" crc="99bd7fb9" md5="d6625eb4bfe72e3289ddbcb46380f0c3" sha1="84934473999d5cf290de860b6d8745a01e309f31"/>
+		<rom name="zork.dat" size="76288" crc="cd1d5d28" md5="3f6e32a8f01011cd2a01f8cb4725179d" sha1="30c3d0314b8bcfb97b3e0fa87f98314a17670bbb"/>
+		<rom name="zork.sav" size="12288" crc="5c26573e" md5="fc84e9ec8bc0c3ab121bb0439592fe4b" sha1="e1e1884091652f2e01cfa4234e73e2e174a2a6f2"/>
+	</game>
+	<game name="Zork I- The Great Underground Empire (1981)(Radio Shack)[DMK]">
+		<description>Zork I- The Great Underground Empire (1981)(Radio Shack)[DMK]</description>
+		<rom name="ZORK1.DSK" size="256016" crc="b7d74c8c" md5="eb16fba18c590aa9d27394db2ff4f813" sha1="14852d73a8101533567d60d12dcd66dd0e3e651e"/>
+	</game>
+	<game name="Zork I- The Great Underground Empire (1982)(Infocom)[a][CMD][Rel 25]">
+		<description>Zork I- The Great Underground Empire (1982)(Infocom)[a][CMD][Rel 25]</description>
+		<rom name="zork.cmd" size="7680" crc="99bd7fb9" md5="d6625eb4bfe72e3289ddbcb46380f0c3" sha1="84934473999d5cf290de860b6d8745a01e309f31"/>
+		<rom name="zork.dat" size="76032" crc="7cfc09ff" md5="bde0a5f0870d1c5494bfecb9c3f21c10" sha1="6ba31acc7f25c05b39362941d0b5a92e35d784d4"/>
+	</game>
+	<game name="Zork I- The Great Underground Empire (1982)(Infocom)[CMD]">
+		<description>Zork I- The Great Underground Empire (1982)(Infocom)[CMD]</description>
+		<rom name="zork.cmd" size="7680" crc="ddb11d89" md5="0393bac359ab962da4e219ab0f7076a4" sha1="ad84222acdcd06bad85fb2c1bf6ad41ff0cac246"/>
+		<rom name="zork.dat" size="76288" crc="cd1d5d28" md5="3f6e32a8f01011cd2a01f8cb4725179d" sha1="30c3d0314b8bcfb97b3e0fa87f98314a17670bbb"/>
+		<rom name="zork.sav" size="12288" crc="9f179396" md5="5a885a4a2d496c136a7b221a60ea5d7c" sha1="d55fee72b3bc935a7dcad4eb07c078a8cef0f56b"/>
+	</game>
+	<game name="Zork I- The Great Underground Empire (1982)(Infocom)[CMD][Rel 25]">
+		<description>Zork I- The Great Underground Empire (1982)(Infocom)[CMD][Rel 25]</description>
+		<rom name="zork.cmd" size="7680" crc="99bd7fb9" md5="d6625eb4bfe72e3289ddbcb46380f0c3" sha1="84934473999d5cf290de860b6d8745a01e309f31"/>
+		<rom name="zork.dat" size="76288" crc="cd1d5d28" md5="3f6e32a8f01011cd2a01f8cb4725179d" sha1="30c3d0314b8bcfb97b3e0fa87f98314a17670bbb"/>
+	</game>
+	<game name="Zork II- The Wizard of Frobozz (1981)(Infocom)[a][CMD][Rel 23]">
+		<description>Zork II- The Wizard of Frobozz (1981)(Infocom)[a][CMD][Rel 23]</description>
+		<rom name="zork2.cmd" size="7936" crc="99250713" md5="e69feff376bda295740827a446b38fed" sha1="b12d2bec6f12be817c6177e83611ad1d30339069"/>
+		<rom name="zork2.dat" size="81920" crc="5d780ce4" md5="fc3ae82cc33d083295995ebfbc58ca59" sha1="33df58e2f9f1a181c270c9df2f656b4f24ca01ff"/>
+	</game>
+	<game name="Zork II- The Wizard of Frobozz (1981)(Infocom)[CMD][Rel 23]">
+		<description>Zork II- The Wizard of Frobozz (1981)(Infocom)[CMD][Rel 23]</description>
+		<rom name="infocom.cmd" size="8192" crc="93b197c5" md5="9f7acbfc8a399e0f7a4397e4e754f1f7" sha1="088911ccb31fc318962c593c79375dcefda503d9"/>
+		<rom name="zorkii.dat" size="81920" crc="2b217e7d" md5="36d1ad9292ae321f02733f9593122f5b" sha1="31a6a6ea86c00bb0f20eb52c35455ec13461ebae"/>
+	</game>
+</datafile>

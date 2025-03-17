@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>8-Bit Productions Commander X16 - Operating Systems</name>
+		<description>8-Bit Productions Commander X16 - Operating Systems (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM-65 (2023-10-01)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2023-10-01)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="BDOS" size="3844" crc="1bce02e2" md5="1e311fd5da5d078abc930dc336a3ca2a" sha1="b50d555e892c20bb7ad8bea5b6da9149dbe925c3"/>
+		<rom name="CPM" size="875" crc="0de2c2a8" md5="7a89f927abbe68ff5f95b4e0b9db9a8e" sha1="a85772e095e6e22f6507760d564d012c841252d2"/>
+		<rom name="CPMFS" size="194560" crc="18abfb77" md5="112bca33a9a5bd4214f667427b999b2d" sha1="6a04a14566b74a77d7eb2ca92e87e900c06c3942"/>
+	</game>
+	<game name="CPM-65 (2024-05-03)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-05-03)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="BDOS" size="3844" crc="1bce02e2" md5="1e311fd5da5d078abc930dc336a3ca2a" sha1="b50d555e892c20bb7ad8bea5b6da9149dbe925c3"/>
+		<rom name="CPM" size="875" crc="0de2c2a8" md5="7a89f927abbe68ff5f95b4e0b9db9a8e" sha1="a85772e095e6e22f6507760d564d012c841252d2"/>
+		<rom name="CPMFS" size="194560" crc="a7e35a08" md5="d428a65e35bffe8a1dab0f5d77dee1b7" sha1="386cd57d3c0c88d483067e451428d0d721f6af03"/>
+	</game>
+	<game name="CPM-65 (2024-07-17)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-07-17)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="BDOS" size="3844" crc="1bce02e2" md5="1e311fd5da5d078abc930dc336a3ca2a" sha1="b50d555e892c20bb7ad8bea5b6da9149dbe925c3"/>
+		<rom name="CPM" size="875" crc="0de2c2a8" md5="7a89f927abbe68ff5f95b4e0b9db9a8e" sha1="a85772e095e6e22f6507760d564d012c841252d2"/>
+		<rom name="CPMFS" size="194560" crc="63934fd3" md5="ee4804b831fa955ce08740bdc5937bee" sha1="4169669a946c28610801d88b278dbea84d14fc38"/>
+	</game>
+	<game name="CPM-65 (2024-08-21)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-08-21)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="BDOS" size="3844" crc="1bce02e2" md5="1e311fd5da5d078abc930dc336a3ca2a" sha1="b50d555e892c20bb7ad8bea5b6da9149dbe925c3"/>
+		<rom name="CPM" size="875" crc="0de2c2a8" md5="7a89f927abbe68ff5f95b4e0b9db9a8e" sha1="a85772e095e6e22f6507760d564d012c841252d2"/>
+		<rom name="CPMFS" size="194560" crc="c4dedf15" md5="802f05f87a297c01c0356392e263bd38" sha1="18f2dea214e2351d4bc48cbee4b863146e7dfd62"/>
+	</game>
+</datafile>

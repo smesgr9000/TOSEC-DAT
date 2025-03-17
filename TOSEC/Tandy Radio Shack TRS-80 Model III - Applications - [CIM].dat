@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [CIM]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [CIM] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Scott Adams Adventure Intercept (19xx)(Kim Watt)[CIM]">
+		<description>Scott Adams Adventure Intercept (19xx)(Kim Watt)[CIM]</description>
+		<rom name="ADVBOOT1.CIM" size="212" crc="57f7d8c1" md5="f87736a37ad631bcb934ad6f997e3440" sha1="89240b407d36b756daf1b11dcb5687ed7bea996e"/>
+		<rom name="ADVBOOT3.CIM" size="251" crc="0b3390d8" md5="446a200b038e146ac826d60b3e4277c5" sha1="bdb33357e9f5ab3f54db583f6866cf55e89f5543"/>
+		<rom name="ADVENT1.CIM" size="11009" crc="f4e570c1" md5="e2a06a014ca8f6983525e2564a35267e" sha1="654bf78d1271a9dd75b7503b44880b4c4f6492d3"/>
+		<rom name="ADVENT3.CIM" size="11009" crc="bfc9e1d6" md5="5c3396bd79d2b42ce40b0432b87877b5" sha1="5079f6d4f1bee68ddb0f8da43c4bfcb3d43e3c31"/>
+	</game>
+</datafile>

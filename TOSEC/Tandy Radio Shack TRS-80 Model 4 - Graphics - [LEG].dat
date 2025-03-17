@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Graphics - [LEG]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Graphics - [LEG] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="LEGHumor (1991)(Marshall D Coffey)">
+		<description>LEGHumor (1991)(Marshall D Coffey)</description>
+		<rom name="leghumor.doc" size="1190" crc="af30a0a2" md5="3072390651b0a6f22cdaa88a1084024c" sha1="45730494455d194ff5b9302e4f2a66d8890cccfc"/>
+		<rom name="winsr.leg" size="1924" crc="3f10662f" md5="ab7c4adee971c1d541bae1c24e8f8c44" sha1="4f234a2079eb40c0c73ce4957626f59c4cf87cc8"/>
+		<rom name="winst.leg" size="1920" crc="f6638917" md5="8f81eeea3941dd41354fd7825758dd22" sha1="93148064a6e3a479a346a16d45cc190dd3cfd84a"/>
+	</game>
+	<game name="Low-Res Embedded Graphics (19xx)(-)">
+		<description>Low-Res Embedded Graphics (19xx)(-)</description>
+		<rom name="LEG.DOC" size="824" crc="df64203b" md5="be2021f1789b06772159ed870bfa4a1d" sha1="0286c515f158727623d13999865d4a0f0eefc411"/>
+		<rom name="LOVEA.LEG" size="1920" crc="c6015eac" md5="d4fed959473c29b0a55f0c0e8997e050" sha1="a084c42230d6af485b8805778f32f47ed5dfb0f5"/>
+		<rom name="MODEL4T.LEG" size="1848" crc="d0ffcd76" md5="3c40ab97fcd2729c5b2965e208101bc8" sha1="f3b640f1dfd0c0aeedb665524841ef251a0d2bb3"/>
+		<rom name="STXD.LEG" size="1919" crc="45cc206d" md5="6078127296bd24d2f9a41cb56f7f8ba7" sha1="cb5ced13f149c78dfe65e2a340dff73d40e68e00"/>
+		<rom name="STXT.LEG" size="1919" crc="b354ed98" md5="acea836849528bc2dfce2ee81495fcc4" sha1="6d5ec3e3b87115cd56a1dac42d23c4faa679e7a7"/>
+	</game>
+</datafile>

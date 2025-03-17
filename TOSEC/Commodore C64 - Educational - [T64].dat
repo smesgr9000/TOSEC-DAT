@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Educational - [T64]</name>
-		<description>Commodore C64 - Educational - [T64] (TOSEC-v2024-03-16)</description>
+		<description>Commodore C64 - Educational - [T64] (TOSEC-v2025-01-07)</description>
 		<category>TOSEC</category>
-		<version>2024-03-16</version>
+		<version>2025-01-07</version>
 		<author>Duncan Twain - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -1052,6 +1052,14 @@
 		<description>Amoeba (2017)(Tringel, Mihály)(PD)</description>
 		<rom name="Amoeba (2017)(Tringel, Mihály)(PD).t64" size="1901" crc="e84a7670" md5="d547cd6911aa082bc54d362111eb47ba" sha1="a9aa2874fd97f12982ec39b84a05abc4da208112"/>
 	</game>
+	<game name="Amoeba (demo-playable) (1993)(CP Verlag)[cr CHR]">
+		<description>Amoeba (demo-playable) (1993)(CP Verlag)[cr CHR]</description>
+		<rom name="Amoeba (demo-playable) (1993)(CP Verlag)[cr CHR].t64" size="19095" crc="f5b1018b" md5="e15f232ec84a9ba2e02414b1c4262bef" sha1="61f3c1dff266b551cd103584d8e1ac5ea5f9ef75"/>
+	</game>
+	<game name="Amoeba (demo-playable) (1993)(CP Verlag)[cr WOW - Rush]">
+		<description>Amoeba (demo-playable) (1993)(CP Verlag)[cr WOW - Rush]</description>
+		<rom name="Amoeba (demo-playable) (1993)(CP Verlag)[cr WOW - Rush].t64" size="36446" crc="dc2944c4" md5="7ac21ff6213ce99427fcc03cf6a4194a" sha1="817f84b703c0300a098d7d242049a94aed110709"/>
+	</game>
 	<game name="Amortization (1982)(Commodore Educational)">
 		<description>Amortization (1982)(Commodore Educational)</description>
 		<rom name="Amortization (1982)(Commodore Educational).t64" size="9874" crc="5be6615d" md5="5d51f89a97394872ed1d9cc761577388" sha1="a8a59c539f5096eb9e83c90608c9650684de8f68"/>
@@ -1136,101 +1144,101 @@
 		<description>Ane Jaune (1985)(Hebdogiciel)(fr)</description>
 		<rom name="Ane Jaune (1985)(Hebdogiciel)(fr).t64" size="8779" crc="59550563" md5="61406a9d204599cdbe703b3a6627b467" sha1="17ae1d2af582c7a56474f6dd78f8b44c4d858fce"/>
 	</game>
-	<game name="Angle (1991)(Double Density)[cr DTC][t +2 DTC]">
-		<description>Angle (1991)(Double Density)[cr DTC][t +2 DTC]</description>
-		<rom name="Angle (1991)(Double Density)[cr DTC][t +2 DTC].t64" size="24760" crc="d9984e9e" md5="2e38e5029141bb16807ab2be39fd0e6f" sha1="07cea48e4d53e8e6ee7035c0b6a6606f098fd7f2"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a]">
-		<description>Angle (1991)(Double Density)[cr DTC][t +2 DTC][a]</description>
-		<rom name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a].t64" size="24760" crc="ac16ce8f" md5="b12e25214ae5ea2a59e8d0d1d0fddfdb" sha1="0c1cdb67d255654bf0b6b89ce3c6cd7849d18e8b"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a2]">
-		<description>Angle (1991)(Double Density)[cr DTC][t +2 DTC][a2]</description>
-		<rom name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a2].t64" size="25688" crc="ad4fdf34" md5="4a7c2925f88320ba277ed845b167e37b" sha1="617d2994bfd149ac6b9c908919b42ce6e02d8026"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a3]">
-		<description>Angle (1991)(Double Density)[cr DTC][t +2 DTC][a3]</description>
-		<rom name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a3].t64" size="25688" crc="7626be15" md5="4159949b81a84f3325005ea15bd36612" sha1="af402845beb04b2979558e148df9ace2bb8151b0"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a4]">
-		<description>Angle (1991)(Double Density)[cr DTC][t +2 DTC][a4]</description>
-		<rom name="Angle (1991)(Double Density)[cr DTC][t +2 DTC][a4].t64" size="25688" crc="3a0e0217" md5="fc775f9ac45f3be1e30e9a429bade09b" sha1="35653d86a6b34dfba555677d61dae8d25b1094e0"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr FLT]">
-		<description>Angle (1991)(Double Density)[cr FLT]</description>
-		<rom name="Angle (1991)(Double Density)[cr FLT].t64" size="18818" crc="97ccb4fe" md5="adad7511e3b36ded6048e71c1302aa68" sha1="8c2acf1ef7911cc043f6f71d8e09824ba08d6bd5"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr FLT][a]">
-		<description>Angle (1991)(Double Density)[cr FLT][a]</description>
-		<rom name="Angle (1991)(Double Density)[cr FLT][a].t64" size="17890" crc="cb9f36f3" md5="af0f294838ca41f67845952a28bf62f3" sha1="3f5c989beaf58e9f4421b1dec39ff3be1d123361"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr FLT][a2]">
-		<description>Angle (1991)(Double Density)[cr FLT][a2]</description>
-		<rom name="Angle (1991)(Double Density)[cr FLT][a2].t64" size="18818" crc="87e2764d" md5="5e3a9637bc950705bb6ad58b69bf5a2c" sha1="978fe9a4c32c1964df5f9c7746105dee60381a26"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr FLT][a3]">
-		<description>Angle (1991)(Double Density)[cr FLT][a3]</description>
-		<rom name="Angle (1991)(Double Density)[cr FLT][a3].t64" size="17890" crc="fd51ea31" md5="42821a92325208d39c88bc7f9af3e11c" sha1="c5904a9e52ffd6804592faf1650d4fd1a2e2023e"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr Hysteric]">
-		<description>Angle (1991)(Double Density)[cr Hysteric]</description>
-		<rom name="Angle (1991)(Double Density)[cr Hysteric].t64" size="26162" crc="759e4752" md5="1378e03336fec05bfbaf674916efcde4" sha1="782bec0056eb3e65b29a6009ed20ab78f644d9bf"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr Hysteric][a]">
-		<description>Angle (1991)(Double Density)[cr Hysteric][a]</description>
-		<rom name="Angle (1991)(Double Density)[cr Hysteric][a].t64" size="25234" crc="a16e450f" md5="98f1db28a3261791a29964c4479baf29" sha1="eaf0f51fe2083ccb6fdd820c18b7c81af33a641d"/>
-	</game>
-	<game name="Angle (1991)(Double Density)[cr TRC]">
-		<description>Angle (1991)(Double Density)[cr TRC]</description>
-		<rom name="Angle (1991)(Double Density)[cr TRC].t64" size="24850" crc="f2dbacd3" md5="b2e76c37b0c8a1d98123686036e84bd1" sha1="47e5c8dfb49062cb529c5f3da934723015f3b5f2"/>
-	</game>
-	<game name="Angle (1992)(-)">
-		<description>Angle (1992)(-)</description>
-		<rom name="Angle (1992)(-).t64" size="31342" crc="533dc4aa" md5="15827713f332220e78d4406dbf79c809" sha1="23d0e63e7226797f1410001fdda36b536ca08099"/>
-	</game>
-	<game name="Angle (1992)(-)[a]">
-		<description>Angle (1992)(-)[a]</description>
-		<rom name="Angle (1992)(-)[a].t64" size="24517" crc="fe9dbba8" md5="39d7554276f4d87185a31dd8bd2bf452" sha1="3ec1ff31edc6821687a5911c054a08eb9bcac552"/>
-	</game>
-	<game name="Angle (1992)(-)[a2]">
-		<description>Angle (1992)(-)[a2]</description>
-		<rom name="Angle (1992)(-)[a2].t64" size="32270" crc="1beeb68d" md5="78de2acb93ed576a6bb0afc93066c3c8" sha1="0d714341591af7a441ebc2574b2359fc04347fdf"/>
-	</game>
-	<game name="Angle (1992)(-)[a3]">
-		<description>Angle (1992)(-)[a3]</description>
-		<rom name="Angle (1992)(-)[a3].t64" size="24549" crc="9dd57949" md5="a3d4fc264ad831ba71fcb2d4ae6e336e" sha1="e5a1c4ba8f001121c8524218f5b3d895dbd67b2a"/>
-	</game>
-	<game name="Angle (1992)(-)[a4]">
-		<description>Angle (1992)(-)[a4]</description>
-		<rom name="Angle (1992)(-)[a4].t64" size="32270" crc="5ac95c36" md5="b8a3708abf714129ebd7ae7a1afed1d2" sha1="3c731d4fc5adb52bf575a0ae634eaccf1a4379fb"/>
-	</game>
-	<game name="Angle (1992)(-)[a5]">
-		<description>Angle (1992)(-)[a5]</description>
-		<rom name="Angle (1992)(-)[a5].t64" size="26618" crc="42a2d044" md5="e68f2da607c7f803cc51047311a98c70" sha1="ffbd74d64310d59aad1652f3d88cb676e9a07dbf"/>
-	</game>
-	<game name="Angle (1992)(-)[cr Laser Inc]">
-		<description>Angle (1992)(-)[cr Laser Inc]</description>
-		<rom name="Angle (1992)(-)[cr Laser Inc].t64" size="25985" crc="5b586e14" md5="facd6e659d8512b20233ef6b7c5f7ce4" sha1="d09753ade17ff798df67bc6dc1061f2e2ef8fd62"/>
-	</game>
-	<game name="Angle (1992)(-)[h Hitmen]">
-		<description>Angle (1992)(-)[h Hitmen]</description>
-		<rom name="Angle (1992)(-)[h Hitmen].t64" size="23589" crc="2df173bd" md5="afc3d8f2303448d3c175de50e21a7e35" sha1="2c74d79f273782700874b29d6c061216d880c5fe"/>
-	</game>
-	<game name="Angle (1992)(-)[h Legacy+Glory]">
-		<description>Angle (1992)(-)[h Legacy+Glory]</description>
-		<rom name="Angle (1992)(-)[h Legacy+Glory].t64" size="31342" crc="1be811fc" md5="08fd5cb03c667b1af852214871783ce1" sha1="a7759e79852e3a5287c0c5e94902daaa166d9b50"/>
-	</game>
-	<game name="Angle (1992)(-)[h TRC]">
-		<description>Angle (1992)(-)[h TRC]</description>
-		<rom name="Angle (1992)(-)[h TRC].t64" size="24357" crc="40f23672" md5="68136ac17c737025a8255512722193c0" sha1="6f94960d29e3342a9f87e3f037a31a77c766756d"/>
-	</game>
-	<game name="Angle (1992)(-)[h Vision]">
-		<description>Angle (1992)(-)[h Vision]</description>
-		<rom name="Angle (1992)(-)[h Vision].t64" size="25690" crc="7143ef6b" md5="c011e0ec0c828380dd22ba87a7339019" sha1="137faf56fb2c908d28e4f43f7cd655d768edd97e"/>
-	</game>
 	<game name="Angle (1992)(CP Verlag - Game On)[cr TRC]">
 		<description>Angle (1992)(CP Verlag - Game On)[cr TRC]</description>
 		<rom name="Angle (1992)(CP Verlag - Game On)[cr TRC].t64" size="55635" crc="eb488937" md5="66f8224526b3fadadca87a49f2a4a2dd" sha1="4e3ffa3963d5bd0fa8d08e1ac418437e91ed216f"/>
+	</game>
+	<game name="Angle (1992)(Double Density)">
+		<description>Angle (1992)(Double Density)</description>
+		<rom name="Angle (1992)(Double Density).t64" size="31342" crc="533dc4aa" md5="15827713f332220e78d4406dbf79c809" sha1="23d0e63e7226797f1410001fdda36b536ca08099"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[a]">
+		<description>Angle (1992)(Double Density)[a]</description>
+		<rom name="Angle (1992)(Double Density)[a].t64" size="24517" crc="fe9dbba8" md5="39d7554276f4d87185a31dd8bd2bf452" sha1="3ec1ff31edc6821687a5911c054a08eb9bcac552"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[a2]">
+		<description>Angle (1992)(Double Density)[a2]</description>
+		<rom name="Angle (1992)(Double Density)[a2].t64" size="32270" crc="1beeb68d" md5="78de2acb93ed576a6bb0afc93066c3c8" sha1="0d714341591af7a441ebc2574b2359fc04347fdf"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[a3]">
+		<description>Angle (1992)(Double Density)[a3]</description>
+		<rom name="Angle (1992)(Double Density)[a3].t64" size="24549" crc="9dd57949" md5="a3d4fc264ad831ba71fcb2d4ae6e336e" sha1="e5a1c4ba8f001121c8524218f5b3d895dbd67b2a"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[a4]">
+		<description>Angle (1992)(Double Density)[a4]</description>
+		<rom name="Angle (1992)(Double Density)[a4].t64" size="32270" crc="5ac95c36" md5="b8a3708abf714129ebd7ae7a1afed1d2" sha1="3c731d4fc5adb52bf575a0ae634eaccf1a4379fb"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[a5]">
+		<description>Angle (1992)(Double Density)[a5]</description>
+		<rom name="Angle (1992)(Double Density)[a5].t64" size="26618" crc="42a2d044" md5="e68f2da607c7f803cc51047311a98c70" sha1="ffbd74d64310d59aad1652f3d88cb676e9a07dbf"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr DTC][t +2 DTC]">
+		<description>Angle (1992)(Double Density)[cr DTC][t +2 DTC]</description>
+		<rom name="Angle (1992)(Double Density)[cr DTC][t +2 DTC].t64" size="24760" crc="d9984e9e" md5="2e38e5029141bb16807ab2be39fd0e6f" sha1="07cea48e4d53e8e6ee7035c0b6a6606f098fd7f2"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a]">
+		<description>Angle (1992)(Double Density)[cr DTC][t +2 DTC][a]</description>
+		<rom name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a].t64" size="24760" crc="ac16ce8f" md5="b12e25214ae5ea2a59e8d0d1d0fddfdb" sha1="0c1cdb67d255654bf0b6b89ce3c6cd7849d18e8b"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a2]">
+		<description>Angle (1992)(Double Density)[cr DTC][t +2 DTC][a2]</description>
+		<rom name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a2].t64" size="25688" crc="ad4fdf34" md5="4a7c2925f88320ba277ed845b167e37b" sha1="617d2994bfd149ac6b9c908919b42ce6e02d8026"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a3]">
+		<description>Angle (1992)(Double Density)[cr DTC][t +2 DTC][a3]</description>
+		<rom name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a3].t64" size="25688" crc="7626be15" md5="4159949b81a84f3325005ea15bd36612" sha1="af402845beb04b2979558e148df9ace2bb8151b0"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a4]">
+		<description>Angle (1992)(Double Density)[cr DTC][t +2 DTC][a4]</description>
+		<rom name="Angle (1992)(Double Density)[cr DTC][t +2 DTC][a4].t64" size="25688" crc="3a0e0217" md5="fc775f9ac45f3be1e30e9a429bade09b" sha1="35653d86a6b34dfba555677d61dae8d25b1094e0"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr FLT]">
+		<description>Angle (1992)(Double Density)[cr FLT]</description>
+		<rom name="Angle (1992)(Double Density)[cr FLT].t64" size="18818" crc="97ccb4fe" md5="adad7511e3b36ded6048e71c1302aa68" sha1="8c2acf1ef7911cc043f6f71d8e09824ba08d6bd5"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr FLT][a]">
+		<description>Angle (1992)(Double Density)[cr FLT][a]</description>
+		<rom name="Angle (1992)(Double Density)[cr FLT][a].t64" size="17890" crc="cb9f36f3" md5="af0f294838ca41f67845952a28bf62f3" sha1="3f5c989beaf58e9f4421b1dec39ff3be1d123361"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr FLT][a2]">
+		<description>Angle (1992)(Double Density)[cr FLT][a2]</description>
+		<rom name="Angle (1992)(Double Density)[cr FLT][a2].t64" size="18818" crc="87e2764d" md5="5e3a9637bc950705bb6ad58b69bf5a2c" sha1="978fe9a4c32c1964df5f9c7746105dee60381a26"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr FLT][a3]">
+		<description>Angle (1992)(Double Density)[cr FLT][a3]</description>
+		<rom name="Angle (1992)(Double Density)[cr FLT][a3].t64" size="17890" crc="fd51ea31" md5="42821a92325208d39c88bc7f9af3e11c" sha1="c5904a9e52ffd6804592faf1650d4fd1a2e2023e"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr Hysteric]">
+		<description>Angle (1992)(Double Density)[cr Hysteric]</description>
+		<rom name="Angle (1992)(Double Density)[cr Hysteric].t64" size="26162" crc="759e4752" md5="1378e03336fec05bfbaf674916efcde4" sha1="782bec0056eb3e65b29a6009ed20ab78f644d9bf"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr Hysteric][a]">
+		<description>Angle (1992)(Double Density)[cr Hysteric][a]</description>
+		<rom name="Angle (1992)(Double Density)[cr Hysteric][a].t64" size="25234" crc="a16e450f" md5="98f1db28a3261791a29964c4479baf29" sha1="eaf0f51fe2083ccb6fdd820c18b7c81af33a641d"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr Laser Inc]">
+		<description>Angle (1992)(Double Density)[cr Laser Inc]</description>
+		<rom name="Angle (1992)(Double Density)[cr Laser Inc].t64" size="25985" crc="5b586e14" md5="facd6e659d8512b20233ef6b7c5f7ce4" sha1="d09753ade17ff798df67bc6dc1061f2e2ef8fd62"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[cr TRC]">
+		<description>Angle (1992)(Double Density)[cr TRC]</description>
+		<rom name="Angle (1992)(Double Density)[cr TRC].t64" size="24850" crc="f2dbacd3" md5="b2e76c37b0c8a1d98123686036e84bd1" sha1="47e5c8dfb49062cb529c5f3da934723015f3b5f2"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[h Hitmen]">
+		<description>Angle (1992)(Double Density)[h Hitmen]</description>
+		<rom name="Angle (1992)(Double Density)[h Hitmen].t64" size="23589" crc="2df173bd" md5="afc3d8f2303448d3c175de50e21a7e35" sha1="2c74d79f273782700874b29d6c061216d880c5fe"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[h Legacy+Glory]">
+		<description>Angle (1992)(Double Density)[h Legacy+Glory]</description>
+		<rom name="Angle (1992)(Double Density)[h Legacy+Glory].t64" size="31342" crc="1be811fc" md5="08fd5cb03c667b1af852214871783ce1" sha1="a7759e79852e3a5287c0c5e94902daaa166d9b50"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[h TRC]">
+		<description>Angle (1992)(Double Density)[h TRC]</description>
+		<rom name="Angle (1992)(Double Density)[h TRC].t64" size="24357" crc="40f23672" md5="68136ac17c737025a8255512722193c0" sha1="6f94960d29e3342a9f87e3f037a31a77c766756d"/>
+	</game>
+	<game name="Angle (1992)(Double Density)[h Vision]">
+		<description>Angle (1992)(Double Density)[h Vision]</description>
+		<rom name="Angle (1992)(Double Density)[h Vision].t64" size="25690" crc="7143ef6b" md5="c011e0ec0c828380dd22ba87a7339019" sha1="137faf56fb2c908d28e4f43f7cd655d768edd97e"/>
 	</game>
 	<game name="Angle (1992)(Robin Stember)[cr WOW][t +2 WOW]">
 		<description>Angle (1992)(Robin Stember)[cr WOW][t +2 WOW]</description>
@@ -3108,17 +3116,17 @@
 		<description>Chopper Math (1993)(Commodore)</description>
 		<rom name="Chopper Math (1993)(Commodore).t64" size="7378" crc="a177ff17" md5="d02110cab419074521f76adf05c82ffc" sha1="9c14bc67a84c1bee3836351dfb92657cbef2bc8b"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC].t64" size="22478" crc="a3f9d813" md5="34da211c388a9f77820d8cb46d3fd442" sha1="7d44894f5f68a1da7dac52b8fd7d4d4d1e57f32c"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC].t64" size="22478" crc="a3f9d813" md5="34da211c388a9f77820d8cb46d3fd442" sha1="7d44894f5f68a1da7dac52b8fd7d4d4d1e57f32c"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a].t64" size="23406" crc="c651898c" md5="82a566c6bdb7b43f6c8c3128214b4318" sha1="3443ee295c22eaa90b9a846a22f30e1486c9746b"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a].t64" size="23406" crc="c651898c" md5="82a566c6bdb7b43f6c8c3128214b4318" sha1="3443ee295c22eaa90b9a846a22f30e1486c9746b"/>
 	</game>
-	<game name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a2]">
-		<description>Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a2]</description>
-		<rom name="Chubbie Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a2].t64" size="23406" crc="77fb49ed" md5="7010222bec32254f44281af27efe0774" sha1="3abc6fbfbf2b9e33bf116882b7833d8f53ee07ee"/>
+	<game name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a2]">
+		<description>Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a2]</description>
+		<rom name="Chubby Chester (1991)(Magic Disk)[cr DTC][t +3 DTC][a2].t64" size="23406" crc="77fb49ed" md5="7010222bec32254f44281af27efe0774" sha1="3abc6fbfbf2b9e33bf116882b7833d8f53ee07ee"/>
 	</game>
 	<game name="Cimbo (2019)(Tóth, Krisztián)(PD)[cr LXT]">
 		<description>Cimbo (2019)(Tóth, Krisztián)(PD)[cr LXT]</description>
@@ -3216,21 +3224,21 @@
 		<description>Clock Exercises (1982)(Micro-Ed)</description>
 		<rom name="Clock Exercises (1982)(Micro-Ed).t64" size="6067" crc="9a8409a5" md5="af62d83533ce00a00fe2ae11320d404d" sha1="dab1c17257c6a85ff4f037b3eb8c2668d9572bbb"/>
 	</game>
-	<game name="Clone (1991)(Axel Teichmann)[cr Austrian Cracking Crew]">
-		<description>Clone (1991)(Axel Teichmann)[cr Austrian Cracking Crew]</description>
-		<rom name="Clone (1991)(Axel Teichmann)[cr Austrian Cracking Crew].t64" size="35117" crc="53c78b48" md5="f36d22ef171d208f7dcccbbed54256a9" sha1="ca0b2f7684ebb15b2e0861bc1dcc5dbea2f4d40f"/>
+	<game name="Clone (1991)(Teichmann, Axel)[cr Austrian Cracking Crew]">
+		<description>Clone (1991)(Teichmann, Axel)[cr Austrian Cracking Crew]</description>
+		<rom name="Clone (1991)(Teichmann, Axel)[cr Austrian Cracking Crew].t64" size="35117" crc="53c78b48" md5="f36d22ef171d208f7dcccbbed54256a9" sha1="ca0b2f7684ebb15b2e0861bc1dcc5dbea2f4d40f"/>
 	</game>
-	<game name="Clone (1991)(Axel Teichmann)[cr F4CG][t +6 F4CG]">
-		<description>Clone (1991)(Axel Teichmann)[cr F4CG][t +6 F4CG]</description>
-		<rom name="Clone (1991)(Axel Teichmann)[cr F4CG][t +6 F4CG].t64" size="26747" crc="86e66409" md5="f499d9d2d599610c9b0606bbb1b9fef4" sha1="01176663dffdee668097b4a0237d5d0d09aafbe6"/>
+	<game name="Clone (1991)(Teichmann, Axel)[cr F4CG][t +6 F4CG]">
+		<description>Clone (1991)(Teichmann, Axel)[cr F4CG][t +6 F4CG]</description>
+		<rom name="Clone (1991)(Teichmann, Axel)[cr F4CG][t +6 F4CG].t64" size="26747" crc="86e66409" md5="f499d9d2d599610c9b0606bbb1b9fef4" sha1="01176663dffdee668097b4a0237d5d0d09aafbe6"/>
 	</game>
-	<game name="Clone (1991)(Axel Teichmann)[cr F4CG][t +6 F4CG][a]">
-		<description>Clone (1991)(Axel Teichmann)[cr F4CG][t +6 F4CG][a]</description>
-		<rom name="Clone (1991)(Axel Teichmann)[cr F4CG][t +6 F4CG][a].t64" size="25819" crc="e8848f76" md5="b347db598c19a47b0659378f04f20a0e" sha1="3be04a502acfecd02eee7c15ee3ab7b829ccb1c8"/>
+	<game name="Clone (1991)(Teichmann, Axel)[cr F4CG][t +6 F4CG][a]">
+		<description>Clone (1991)(Teichmann, Axel)[cr F4CG][t +6 F4CG][a]</description>
+		<rom name="Clone (1991)(Teichmann, Axel)[cr F4CG][t +6 F4CG][a].t64" size="25819" crc="e8848f76" md5="b347db598c19a47b0659378f04f20a0e" sha1="3be04a502acfecd02eee7c15ee3ab7b829ccb1c8"/>
 	</game>
-	<game name="Clone (1991)(Axel Teichmann)[h DTC]">
-		<description>Clone (1991)(Axel Teichmann)[h DTC]</description>
-		<rom name="Clone (1991)(Axel Teichmann)[h DTC].t64" size="26211" crc="78da8cd8" md5="a81247e27d58025a5d94db41e0f7a91f" sha1="ae9693f40bcaf8f233c0cadc63b2b2451ccaea74"/>
+	<game name="Clone (1991)(Teichmann, Axel)[h DTC]">
+		<description>Clone (1991)(Teichmann, Axel)[h DTC]</description>
+		<rom name="Clone (1991)(Teichmann, Axel)[h DTC].t64" size="26211" crc="78da8cd8" md5="a81247e27d58025a5d94db41e0f7a91f" sha1="ae9693f40bcaf8f233c0cadc63b2b2451ccaea74"/>
 	</game>
 	<game name="Clone (1992)(CP Verlag)[cr Action+EMP][t +3 Action+EMP]">
 		<description>Clone (1992)(CP Verlag)[cr Action+EMP][t +3 Action+EMP]</description>
@@ -3304,13 +3312,13 @@
 		<description>Coined (demo) (1997)(-)[h AFL]</description>
 		<rom name="Coined (demo) (1997)(-)[h AFL].t64" size="14337" crc="31854d73" md5="a36aad837565bd2333c86aa87500801c" sha1="5ed30c6a494e6535cdb1f27f76f4a15d416413b9"/>
 	</game>
-	<game name="Colee (19xx)(Magna Media)[cr HTM][t HTM]">
-		<description>Colee (19xx)(Magna Media)[cr HTM][t HTM]</description>
-		<rom name="Colee (19xx)(Magna Media)[cr HTM][t HTM].t64" size="34291" crc="a61590d8" md5="01e5f2c8d866dfb338692cc6ebbe3dc6" sha1="1626dcd7cd48246ffa2179cc25d47546b8bbb538"/>
+	<game name="Colee (1997)(Magna Media)[cr HTM][t HTM]">
+		<description>Colee (1997)(Magna Media)[cr HTM][t HTM]</description>
+		<rom name="Colee (1997)(Magna Media)[cr HTM][t HTM].t64" size="34291" crc="a61590d8" md5="01e5f2c8d866dfb338692cc6ebbe3dc6" sha1="1626dcd7cd48246ffa2179cc25d47546b8bbb538"/>
 	</game>
-	<game name="Colee (19xx)(Magna Media)[cr HTM][t HTM][a]">
-		<description>Colee (19xx)(Magna Media)[cr HTM][t HTM][a]</description>
-		<rom name="Colee (19xx)(Magna Media)[cr HTM][t HTM][a].t64" size="32916" crc="a4fa8b00" md5="628fe1fe4a513e0982c02f37f6f331da" sha1="6ec19dacac358354037dce0b00cd1f8bbf95b970"/>
+	<game name="Colee (1997)(Magna Media)[cr HTM][t HTM][a]">
+		<description>Colee (1997)(Magna Media)[cr HTM][t HTM][a]</description>
+		<rom name="Colee (1997)(Magna Media)[cr HTM][t HTM][a].t64" size="32916" crc="a4fa8b00" md5="628fe1fe4a513e0982c02f37f6f331da" sha1="6ec19dacac358354037dce0b00cd1f8bbf95b970"/>
 	</game>
 	<game name="Collisions (1993)(64&apos;er - Markt &amp; Technik)[cr TRP]">
 		<description>Collisions (1993)(64&apos;er - Markt &amp; Technik)[cr TRP]</description>
@@ -4540,6 +4548,10 @@
 		<description>Deep Void (1997)(Willow)[cr Triad]</description>
 		<rom name="Deep Void (1997)(Willow)[cr Triad].t64" size="19400" crc="b3648d10" md5="411116bd75326c081df5e14ba18cb84c" sha1="6a2e7921d4a50f613ee41e4f8783d32cc6c8f380"/>
 	</game>
+	<game name="Deep Void (demo) (1997)(Willow)[cr Amnesia]">
+		<description>Deep Void (demo) (1997)(Willow)[cr Amnesia]</description>
+		<rom name="Deep Void (demo) (1997)(Willow)[cr Amnesia].t64" size="12010" crc="45532a2b" md5="e132d3bc1d2639c81d89927ff4e370b0" sha1="a71d4ca55236d6476c1a853ba337dc347c174362"/>
+	</game>
 	<game name="Definition (198x)(Schreiner, Kurt - Leduc, Alberta)(PD)">
 		<description>Definition (198x)(Schreiner, Kurt - Leduc, Alberta)(PD)</description>
 		<rom name="Definition (198x)(Schreiner, Kurt - Leduc, Alberta)(PD).t64" size="22628" crc="4947bb24" md5="fca9db59e226470f2124ad1141dfebed" sha1="306e1e0bc12ed986b998e3e7d087b29011c28324"/>
@@ -5580,9 +5592,9 @@
 		<description>Farben ordnen (1990)(Markt &amp; Technik)(de)</description>
 		<rom name="Farben ordnen (1990)(Markt &amp; Technik)(de).t64" size="856" crc="99da3d20" md5="f9b8bc1ca1e08c3863ffcca7dfb7611d" sha1="c56e1be8aa6c490fc60639645f08abd98964441d"/>
 	</game>
-	<game name="Farbenspiel (1985)(Heinz Prangenberg)(de)">
-		<description>Farbenspiel (1985)(Heinz Prangenberg)(de)</description>
-		<rom name="Farbenspiel (1985)(Heinz Prangenberg)(de).t64" size="6882" crc="12748e5d" md5="4c030eddaf29570fb0cade5e696eb858" sha1="c9bc76c30d0ba8ed0ed715731ad02f95a6a33e15"/>
+	<game name="Farbenspiel (1985)(Prangenberg, Heinz)(de)">
+		<description>Farbenspiel (1985)(Prangenberg, Heinz)(de)</description>
+		<rom name="Farbenspiel (1985)(Prangenberg, Heinz)(de).t64" size="6882" crc="12748e5d" md5="4c030eddaf29570fb0cade5e696eb858" sha1="c9bc76c30d0ba8ed0ed715731ad02f95a6a33e15"/>
 	</game>
 	<game name="Fassfarben (1989)(Markt &amp; Technik)(de)">
 		<description>Fassfarben (1989)(Markt &amp; Technik)(de)</description>
@@ -5912,10 +5924,6 @@
 		<description>Flex (19xx)(A-System)[cr AFL+DMX][t +1 AFL]</description>
 		<rom name="Flex (19xx)(A-System)[cr AFL+DMX][t +1 AFL].t64" size="35070" crc="44875966" md5="d26e8b95e3b486da80887e6f66f6ba0f" sha1="f06af6fa604ad8519b9c91d850502869833811a6"/>
 	</game>
-	<game name="Flik Flak (1991)(Deesam, Mark)(PD)[cr WOW]">
-		<description>Flik Flak (1991)(Deesam, Mark)(PD)[cr WOW]</description>
-		<rom name="Flik Flak (1991)(Deesam, Mark)(PD)[cr WOW].t64" size="17053" crc="ed1d486f" md5="31c0cbba3152a6a044e0ef0c757a3cc6" sha1="e9d4eb2e88bc5769631a68ab864d652d35d9f9b9"/>
-	</game>
 	<game name="Flik Flak (1991)(Zzap! 64)">
 		<description>Flik Flak (1991)(Zzap! 64)</description>
 		<rom name="Flik Flak (1991)(Zzap! 64).t64" size="26203" crc="0b68720c" md5="155c2e6df4444e7de48e480fe9db89f8" sha1="cd19263b57552b3b1c1a88c310f1ce53e32ffd0a"/>
@@ -5960,21 +5968,25 @@
 		<description>Flik Flak (1991)(Zzap! 64)[cr Wicked]</description>
 		<rom name="Flik Flak (1991)(Zzap! 64)[cr Wicked].t64" size="18627" crc="678ded76" md5="601c461aaa9f69634136790913ff8e74" sha1="283359fb4aa01b77492a0a61e36f159ae27e71f7"/>
 	</game>
-	<game name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW]">
-		<description>Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW]</description>
-		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW].t64" size="17053" crc="f5286fac" md5="072c647fbc81240fe5e9f5b2fb46463b" sha1="d246e780f6e2f1f591539ab18c42cff86e2de7a7"/>
+	<game name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW]">
+		<description>Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW]</description>
+		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW].t64" size="17053" crc="ed1d486f" md5="31c0cbba3152a6a044e0ef0c757a3cc6" sha1="e9d4eb2e88bc5769631a68ab864d652d35d9f9b9"/>
 	</game>
-	<game name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a]">
-		<description>Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a]</description>
-		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a].t64" size="17053" crc="fa7612a7" md5="3a47960a158f2adc2c21e4a56f1f1be5" sha1="2b0dcf14f738cd3aa6c4b475e20b2c8737352bd9"/>
+	<game name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW]">
+		<description>Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW]</description>
+		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW].t64" size="17053" crc="f5286fac" md5="072c647fbc81240fe5e9f5b2fb46463b" sha1="d246e780f6e2f1f591539ab18c42cff86e2de7a7"/>
 	</game>
-	<game name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a2]">
-		<description>Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a2]</description>
-		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a2].t64" size="17053" crc="f139d51c" md5="af278226581de818ee5b3c6ef5beded4" sha1="911a9e7b54ee8ecc511e088d88ebb14444860269"/>
+	<game name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a]">
+		<description>Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a]</description>
+		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a].t64" size="17053" crc="fa7612a7" md5="3a47960a158f2adc2c21e4a56f1f1be5" sha1="2b0dcf14f738cd3aa6c4b475e20b2c8737352bd9"/>
 	</game>
-	<game name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a3]">
-		<description>Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a3]</description>
-		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)[cr WOW][t +2 WOW][a3].t64" size="17949" crc="51cbff4e" md5="a010d2606f825ecbd605c187525a1549" sha1="8fd869d42fdf05d099fbc4fa3c1dc0dbc4d3674b"/>
+	<game name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a2]">
+		<description>Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a2]</description>
+		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a2].t64" size="17053" crc="f139d51c" md5="af278226581de818ee5b3c6ef5beded4" sha1="911a9e7b54ee8ecc511e088d88ebb14444860269"/>
+	</game>
+	<game name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a3]">
+		<description>Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a3]</description>
+		<rom name="Flik Flak (demo) (1991)(Neesam, Mark)(PD)[cr WOW][t +2 WOW][a3].t64" size="17949" crc="51cbff4e" md5="a010d2606f825ecbd605c187525a1549" sha1="8fd869d42fdf05d099fbc4fa3c1dc0dbc4d3674b"/>
 	</game>
 	<game name="Flip It (1994)(Markt &amp; Technik)">
 		<description>Flip It (1994)(Markt &amp; Technik)</description>
@@ -6416,13 +6428,13 @@
 		<description>Galgen (1984)(Datacompaniet)(no)</description>
 		<rom name="Galgen (1984)(Datacompaniet)(no).t64" size="6679" crc="8855126a" md5="335a6f280d5048b137039fae11ff590a" sha1="e8b46cd1b6f65065627b561292b9066bdbb39664"/>
 	</game>
-	<game name="Galgen-Mann (1983)(Elke Saller)(de)">
-		<description>Galgen-Mann (1983)(Elke Saller)(de)</description>
-		<rom name="Galgen-Mann (1983)(Elke Saller)(de).t64" size="9848" crc="2f82a16c" md5="39955d67bdc18076617626b1090f0ffc" sha1="91cb54a92b7cc6107275c4e563565bd65984814d"/>
+	<game name="Galgen-Mann (1983)(Saller, Elke)(de)">
+		<description>Galgen-Mann (1983)(Saller, Elke)(de)</description>
+		<rom name="Galgen-Mann (1983)(Saller, Elke)(de).t64" size="9848" crc="2f82a16c" md5="39955d67bdc18076617626b1090f0ffc" sha1="91cb54a92b7cc6107275c4e563565bd65984814d"/>
 	</game>
-	<game name="Galgen-Mann (1983)(Elke Saller)(de)[a]">
-		<description>Galgen-Mann (1983)(Elke Saller)(de)[a]</description>
-		<rom name="Galgen-Mann (1983)(Elke Saller)(de)[a].t64" size="5920" crc="1c5e5d48" md5="a011d8f25a6f5feb2fd10f3c4ea0de77" sha1="b2873a6fc260f84b5dfd2950ecadce3f7695659b"/>
+	<game name="Galgen-Mann (1983)(Saller, Elke)(de)[a]">
+		<description>Galgen-Mann (1983)(Saller, Elke)(de)[a]</description>
+		<rom name="Galgen-Mann (1983)(Saller, Elke)(de)[a].t64" size="5920" crc="1c5e5d48" md5="a011d8f25a6f5feb2fd10f3c4ea0de77" sha1="b2873a6fc260f84b5dfd2950ecadce3f7695659b"/>
 	</game>
 	<game name="Galgenmännchen (19xx)(-)(de)(PD)">
 		<description>Galgenmännchen (19xx)(-)(de)(PD)</description>
@@ -6804,9 +6816,9 @@
 		<description>Gravity Quiz (1983)(Commodore Educational)</description>
 		<rom name="Gravity Quiz (1983)(Commodore Educational).t64" size="8995" crc="29c55542" md5="59069a4b2cfce9f5b6c64b4bb72df50a" sha1="588e32e03eeece366b6ca31064c1a96224d2824e"/>
 	</game>
-	<game name="Great Computer-Sim Love Calculator, The (2004)(Barry Hart)">
-		<description>Great Computer-Sim Love Calculator, The (2004)(Barry Hart)</description>
-		<rom name="Great Computer-Sim Love Calculator, The (2004)(Barry Hart).t64" size="2357" crc="3aa674ec" md5="1ef3ba08156a0f39c8c327b3e23004f3" sha1="ad3c78889ceb09433fa36855bb87e2b659bd8cba"/>
+	<game name="Great Computer-Sim Love Calculator, The (2004)(Hart, Barry)">
+		<description>Great Computer-Sim Love Calculator, The (2004)(Hart, Barry)</description>
+		<rom name="Great Computer-Sim Love Calculator, The (2004)(Hart, Barry).t64" size="2357" crc="3aa674ec" md5="1ef3ba08156a0f39c8c327b3e23004f3" sha1="ad3c78889ceb09433fa36855bb87e2b659bd8cba"/>
 	</game>
 	<game name="Greater-Than Game (1984)(Hayden Book Company)">
 		<description>Greater-Than Game (1984)(Hayden Book Company)</description>
@@ -7472,6 +7484,10 @@
 		<description>Hi Q Quiz (1988)(Blue Ribbon Software)[cr Paninaro]</description>
 		<rom name="Hi Q Quiz (1988)(Blue Ribbon Software)[cr Paninaro].t64" size="25634" crc="b297a36c" md5="10c0bbe02f9ba835e448268d59b4ba27" sha1="18564f7c8456148960cc21170636b7cef5ee62fc"/>
 	</game>
+	<game name="Hi Ska Do (1991)(Kokomo)[cr NEI][t +2 NEI]">
+		<description>Hi Ska Do (1991)(Kokomo)[cr NEI][t +2 NEI]</description>
+		<rom name="Hi Ska Do (1991)(Kokomo)[cr NEI][t +2 NEI].t64" size="29009" crc="4e26c727" md5="d5a93548088c1cf88fe2883141e84065" sha1="fd1ea8fce0946eb1be417c72da5cf724eb008f76"/>
+	</game>
 	<game name="Hickory, Dickory, Dock (1986)(Compute!)">
 		<description>Hickory, Dickory, Dock (1986)(Compute!)</description>
 		<rom name="Hickory, Dickory, Dock (1986)(Compute!).t64" size="7472" crc="98102d34" md5="eea17003016c4d1d891bf5a052c61ff1" sha1="e5405c6e0444c59b9f8631d9741fe48bc00c0ed4"/>
@@ -7492,25 +7508,25 @@
 		<description>Hide and Seek (198x)(Commodore Business Machines)[cr ASS]</description>
 		<rom name="Hide and Seek (198x)(Commodore Business Machines)[cr ASS].t64" size="27913" crc="ca143945" md5="8fdc27665603537c4e071e5ec6d876fd" sha1="beb1e30b57261defbd1aee101fe0f9b216822b38"/>
 	</game>
-	<game name="High Memory (1987)(Christoph Cemper)(de)[cr PAN]">
-		<description>High Memory (1987)(Christoph Cemper)(de)[cr PAN]</description>
-		<rom name="High Memory (1987)(Christoph Cemper)(de)[cr PAN].t64" size="36187" crc="14478474" md5="d4bbe4bd0057f82ac4d8ddc83fffa375" sha1="d198b6e987d70215086e1e737b482f726b2affd3"/>
+	<game name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN]">
+		<description>High Memory (1987)(Cemper, Christoph)(de)[cr PAN]</description>
+		<rom name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN].t64" size="36187" crc="14478474" md5="d4bbe4bd0057f82ac4d8ddc83fffa375" sha1="d198b6e987d70215086e1e737b482f726b2affd3"/>
 	</game>
-	<game name="High Memory (1987)(Christoph Cemper)(de)[cr PAN][a]">
-		<description>High Memory (1987)(Christoph Cemper)(de)[cr PAN][a]</description>
-		<rom name="High Memory (1987)(Christoph Cemper)(de)[cr PAN][a].t64" size="37115" crc="495d0c69" md5="333954fa2cb8afc3365503c146ed8ce2" sha1="b4597c2ac19e359c340c5f36b50aa2bd6acfe2a5"/>
+	<game name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN][a]">
+		<description>High Memory (1987)(Cemper, Christoph)(de)[cr PAN][a]</description>
+		<rom name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN][a].t64" size="37115" crc="495d0c69" md5="333954fa2cb8afc3365503c146ed8ce2" sha1="b4597c2ac19e359c340c5f36b50aa2bd6acfe2a5"/>
 	</game>
-	<game name="High Memory (1987)(Christoph Cemper)(de)[cr PAN+TSM]">
-		<description>High Memory (1987)(Christoph Cemper)(de)[cr PAN+TSM]</description>
-		<rom name="High Memory (1987)(Christoph Cemper)(de)[cr PAN+TSM].t64" size="37118" crc="185bf356" md5="b5712083e4bed5f83d0aa7e6f15fbc2a" sha1="dca502992d40a4652a264d09b8086e4f3ede0849"/>
+	<game name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN+TSM]">
+		<description>High Memory (1987)(Cemper, Christoph)(de)[cr PAN+TSM]</description>
+		<rom name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN+TSM].t64" size="37118" crc="185bf356" md5="b5712083e4bed5f83d0aa7e6f15fbc2a" sha1="dca502992d40a4652a264d09b8086e4f3ede0849"/>
 	</game>
-	<game name="High Memory (1987)(Christoph Cemper)(de)[cr PAN+TSM][a]">
-		<description>High Memory (1987)(Christoph Cemper)(de)[cr PAN+TSM][a]</description>
-		<rom name="High Memory (1987)(Christoph Cemper)(de)[cr PAN+TSM][a].t64" size="36190" crc="7ddd6df6" md5="9e48957387fa08f1a415158323ae2440" sha1="fa51f286d04a303f03ed94cdfe41b9eb26b8bcb6"/>
+	<game name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN+TSM][a]">
+		<description>High Memory (1987)(Cemper, Christoph)(de)[cr PAN+TSM][a]</description>
+		<rom name="High Memory (1987)(Cemper, Christoph)(de)[cr PAN+TSM][a].t64" size="36190" crc="7ddd6df6" md5="9e48957387fa08f1a415158323ae2440" sha1="fa51f286d04a303f03ed94cdfe41b9eb26b8bcb6"/>
 	</game>
-	<game name="High Memory (1987)(Christoph Cemper)(de)[h Pandora]">
-		<description>High Memory (1987)(Christoph Cemper)(de)[h Pandora]</description>
-		<rom name="High Memory (1987)(Christoph Cemper)(de)[h Pandora].t64" size="37118" crc="17815f0e" md5="1d688e6e05b31987e00a39dfa971076e" sha1="4d4db03c3a107952e25f4cd5d1fb1d341f2af3f4"/>
+	<game name="High Memory (1987)(Cemper, Christoph)(de)[h Pandora]">
+		<description>High Memory (1987)(Cemper, Christoph)(de)[h Pandora]</description>
+		<rom name="High Memory (1987)(Cemper, Christoph)(de)[h Pandora].t64" size="37118" crc="17815f0e" md5="1d688e6e05b31987e00a39dfa971076e" sha1="4d4db03c3a107952e25f4cd5d1fb1d341f2af3f4"/>
 	</game>
 	<game name="High Rise (19xx)(Microlearn)[cr ASS]">
 		<description>High Rise (19xx)(Microlearn)[cr ASS]</description>
@@ -8432,9 +8448,9 @@
 		<description>Kleurenhit (1984)(Commodore Info)(nl)[cr Rio Baan]</description>
 		<rom name="Kleurenhit (1984)(Commodore Info)(nl)[cr Rio Baan].t64" size="3739" crc="abcf4157" md5="3bef6f2aab98ec3f0664790862dd6ec2" sha1="95d62f6eb9787847ad029c0fdd99859124f5e326"/>
 	</game>
-	<game name="Knack den Code (2019)(Baumann, RÃ¼diger - Hart, Barry)(de)(PD)">
-		<description>Knack den Code (2019)(Baumann, RÃ¼diger - Hart, Barry)(de)(PD)</description>
-		<rom name="Knack den Code (2019)(Baumann, RÃ¼diger - Hart, Barry)(de)(PD).t64" size="1292" crc="c1f938c6" md5="724f99a0f7cc9d170d8ed6415df73a6b" sha1="a8950a24dcc6559e95b6551ad994d7dbb5abe5fa"/>
+	<game name="Knack den Code (2019)(Baumann, Rüdiger - Hart, Barry)(de)(PD)">
+		<description>Knack den Code (2019)(Baumann, Rüdiger - Hart, Barry)(de)(PD)</description>
+		<rom name="Knack den Code (2019)(Baumann, Rüdiger - Hart, Barry)(de)(PD).t64" size="1292" crc="c1f938c6" md5="724f99a0f7cc9d170d8ed6415df73a6b" sha1="a8950a24dcc6559e95b6551ad994d7dbb5abe5fa"/>
 	</game>
 	<game name="Knight&apos;s Tour (1985)(Ahoy!-Ion International)">
 		<description>Knight&apos;s Tour (1985)(Ahoy!-Ion International)</description>
@@ -8731,6 +8747,10 @@
 	<game name="Ladders to Learning - Algebraic Relations (1984)(McGraw-Hill Ryerson)[cr ASS]">
 		<description>Ladders to Learning - Algebraic Relations (1984)(McGraw-Hill Ryerson)[cr ASS]</description>
 		<rom name="Ladders to Learning - Algebraic Relations (1984)(McGraw-Hill Ryerson)[cr ASS].t64" size="14266" crc="1e3075f7" md5="05ddddbba25ec71c97954fce9f9c82aa" sha1="2aa1648fd4e55f1fd3e119d5ecfce52c936ed63a"/>
+	</game>
+	<game name="Ladders to Learning - Alphabet Know-How (1984)(McGraw-Hill Ryerson)">
+		<description>Ladders to Learning - Alphabet Know-How (1984)(McGraw-Hill Ryerson)</description>
+		<rom name="Ladders to Learning - Alphabet Know-How (1984)(McGraw-Hill Ryerson).t64" size="30306" crc="a8e0a5bd" md5="41f1a7020476e52a32d69008c6fb28b2" sha1="a09d35d38c587ff280c7d9f90ad419eaa7cefeb0"/>
 	</game>
 	<game name="Ladders to Learning - Correct Spelling I (1984)(McGraw-Hill Ryerson)[cr ASS]">
 		<description>Ladders to Learning - Correct Spelling I (1984)(McGraw-Hill Ryerson)[cr ASS]</description>
@@ -10280,9 +10300,9 @@
 		<description>Math Dungeon (1984)(Compute!)[a]</description>
 		<rom name="Math Dungeon (1984)(Compute!)[a].t64" size="5865" crc="f35634fd" md5="ebd92110e2f451872b557929716a4884" sha1="dd81ea465d515233b8a7447a38c75e7a07e7390c"/>
 	</game>
-	<game name="Math Encounters (1984)(Horwood, Ellis)">
-		<description>Math Encounters (1984)(Horwood, Ellis)</description>
-		<rom name="Math Encounters (1984)(Horwood, Ellis).t64" size="2862" crc="02989bd8" md5="88d44d4c8d91f89172b4d039a3022d2d" sha1="47c5db41e52d0e51a57ed6446e26605a1f423495"/>
+	<game name="Math Encounters (1984)(Ellis Horwood)">
+		<description>Math Encounters (1984)(Ellis Horwood)</description>
+		<rom name="Math Encounters (1984)(Ellis Horwood).t64" size="2862" crc="02989bd8" md5="88d44d4c8d91f89172b4d039a3022d2d" sha1="47c5db41e52d0e51a57ed6446e26605a1f423495"/>
 	</game>
 	<game name="Math in a Nutshell (1985)(Learning Technologies)[cr HF]">
 		<description>Math in a Nutshell (1985)(Learning Technologies)[cr HF]</description>
@@ -10532,9 +10552,9 @@
 		<description>Maxit (1981)(Cursor Magazine)</description>
 		<rom name="Maxit (1981)(Cursor Magazine).t64" size="4757" crc="1382ea60" md5="e7cae38cce78d5fe32eeffdd3fa564e6" sha1="085e5258f1ebc2a0f4059609e23e41b3f40096ca"/>
 	</game>
-	<game name="Maxit (1981)(Harry J. Saal)(de)">
-		<description>Maxit (1981)(Harry J. Saal)(de)</description>
-		<rom name="Maxit (1981)(Harry J. Saal)(de).t64" size="9280" crc="0289a07c" md5="055feee21baefbb9da245814569d2510" sha1="425f50c0561ff82bb0f3ff7c3e810444612c517e"/>
+	<game name="Maxit (1981)(Saal, Harry J.)(de)">
+		<description>Maxit (1981)(Saal, Harry J.)(de)</description>
+		<rom name="Maxit (1981)(Saal, Harry J.)(de).t64" size="9280" crc="0289a07c" md5="055feee21baefbb9da245814569d2510" sha1="425f50c0561ff82bb0f3ff7c3e810444612c517e"/>
 	</game>
 	<game name="Maxit (1983)(Courbois)(nl)">
 		<description>Maxit (1983)(Courbois)(nl)</description>
@@ -12704,6 +12724,14 @@
 		<description>Oracle Game (1985)(Middle Coast Publishing)[cr Rio Baan]</description>
 		<rom name="Oracle Game (1985)(Middle Coast Publishing)[cr Rio Baan].t64" size="2809" crc="de8e778c" md5="2eed8f9d276db199df23db9dc93a272a" sha1="18b21f268c55cda42e4ba70bd1c9629840456c3c"/>
 	</game>
+	<game name="Oracle II (1994)(Art Project)[cr AVT+EXC][t +4 AVT+EXC]">
+		<description>Oracle II (1994)(Art Project)[cr AVT+EXC][t +4 AVT+EXC]</description>
+		<rom name="Oracle II (1994)(Art Project)[cr AVT+EXC][t +4 AVT+EXC].t64" size="40958" crc="5c56fc0d" md5="15cd655483c424225e975736f1ae26b3" sha1="9acb6c1089453e612c33f1e1a45d70277f818662"/>
+	</game>
+	<game name="Oracle II (1994)(Art Project)[cr LXT][t +2 LXT]">
+		<description>Oracle II (1994)(Art Project)[cr LXT][t +2 LXT]</description>
+		<rom name="Oracle II (1994)(Art Project)[cr LXT][t +2 LXT].t64" size="39382" crc="fb04d887" md5="54c15c5fd456d88d61520fe3ed1381f3" sha1="ef0dc8dbf3a4bc5868e2bae760a9223225fc3108"/>
+	</game>
 	<game name="Orb (1994)(CP Verlag - Magic Disk 64)[cr AFL]">
 		<description>Orb (1994)(CP Verlag - Magic Disk 64)[cr AFL]</description>
 		<rom name="Orb (1994)(CP Verlag - Magic Disk 64)[cr AFL].t64" size="53765" crc="afa993ac" md5="876b29eb3df1f71ececcf7acd9953031" sha1="f6611e6c819e4a7bbd7254765cb172fd78463def"/>
@@ -14304,9 +14332,9 @@
 		<description>Reader (198x)(Commodore Educational)</description>
 		<rom name="Reader (198x)(Commodore Educational).t64" size="11351" crc="4ba7c093" md5="e642372765b6c560e16400f5fce84b6a" sha1="0345d2768b11efe6b29a34b2519666dd36e83f99"/>
 	</game>
-	<game name="Reaxion (1994)(Future Publishing)[cr AVT]">
-		<description>Reaxion (1994)(Future Publishing)[cr AVT]</description>
-		<rom name="Reaxion (1994)(Future Publishing)[cr AVT].t64" size="25831" crc="d9acae4e" md5="8be5c76855825876759f52cd702ffd6d" sha1="8f5b46cebd1bf5fd7297b3876128cf13b41290d3"/>
+	<game name="Reaxion (1994)(Commodore Format - Future Publishing)[cr AVT]">
+		<description>Reaxion (1994)(Commodore Format - Future Publishing)[cr AVT]</description>
+		<rom name="Reaxion (1994)(Commodore Format - Future Publishing)[cr AVT].t64" size="25831" crc="d9acae4e" md5="8be5c76855825876759f52cd702ffd6d" sha1="8f5b46cebd1bf5fd7297b3876128cf13b41290d3"/>
 	</game>
 	<game name="Re-Beep (1983)(Compute!)">
 		<description>Re-Beep (1983)(Compute!)</description>
@@ -15888,6 +15916,10 @@
 		<description>Sommenspel (198x)(Courbois)(nl)</description>
 		<rom name="Sommenspel (198x)(Courbois)(nl).t64" size="1620" crc="5a94f09e" md5="cb1a52da9c020964897e3621bcba7ca5" sha1="e9efd64ac79a2cecb9dcf5f2d91edcc54ff18da2"/>
 	</game>
+	<game name="Song Maker (1985)(Spinnaker Software - Fisher-Price Learning Software)[cr j0x]">
+		<description>Song Maker (1985)(Spinnaker Software - Fisher-Price Learning Software)[cr j0x]</description>
+		<rom name="Song Maker (1985)(Spinnaker Software - Fisher-Price Learning Software)[cr j0x].t64" size="6169" crc="5a2abfa2" md5="ee0fe3f71d0e233fc6d0713d2c74fb2e" sha1="bc78c427aebe0372be2751f478bd1cc25bffcbdf"/>
+	</game>
 	<game name="Sooty and Sweep&apos;s Fun with Numbers (1990)(Friendly Learning)[cr CSI]">
 		<description>Sooty and Sweep&apos;s Fun with Numbers (1990)(Friendly Learning)[cr CSI]</description>
 		<rom name="Sooty and Sweep&apos;s Fun with Numbers (1990)(Friendly Learning)[cr CSI].t64" size="39716" crc="f3b17327" md5="ba38eedeb42ef02b31d8adb9c36f066a" sha1="38d6827848f6e83e3bda3db02eaeca6a504f0bb3"/>
@@ -15936,9 +15968,9 @@
 		<description>Space Orbs (2019)(Carl - Skårstedt, Henrik)(PD)[cr GP]</description>
 		<rom name="Space Orbs (2019)(Carl - Skårstedt, Henrik)(PD)[cr GP].t64" size="24400" crc="182eca5f" md5="ced62ba9a17c7f10662715f9fa1281ce" sha1="5eb241a3d3a240843f4c542be4bb2faf75a65081"/>
 	</game>
-	<game name="Space Orbs (2019)(SkÃ¥rstedt, Carl-Henrik)(PD)[cr LXT]">
-		<description>Space Orbs (2019)(SkÃ¥rstedt, Carl-Henrik)(PD)[cr LXT]</description>
-		<rom name="Space Orbs (2019)(SkÃ¥rstedt, Carl-Henrik)(PD)[cr LXT].t64" size="13229" crc="aba93e91" md5="32586b375c4b85e816eac5fe2b553ed3" sha1="7312def22dc2a2666d81643305eef344e0ee7dd9"/>
+	<game name="Space Orbs (2019)(Skårstedt, Carl-Henrik)(PD)[cr LXT]">
+		<description>Space Orbs (2019)(Skårstedt, Carl-Henrik)(PD)[cr LXT]</description>
+		<rom name="Space Orbs (2019)(Skårstedt, Carl-Henrik)(PD)[cr LXT].t64" size="13229" crc="aba93e91" md5="32586b375c4b85e816eac5fe2b553ed3" sha1="7312def22dc2a2666d81643305eef344e0ee7dd9"/>
 	</game>
 	<game name="Space Stations (1985)(Green Valley Publishing - ShareData)">
 		<description>Space Stations (1985)(Green Valley Publishing - ShareData)</description>
@@ -17160,6 +17192,10 @@
 		<description>Threedox (1983)(Courbois)</description>
 		<rom name="Threedox (1983)(Courbois).t64" size="5605" crc="95cfb9d9" md5="91d53b859bbd3b5c9e480f1639ff20a0" sha1="b5a5b112c6a3132ba9d195d72d45a6e770b049ec"/>
 	</game>
+	<game name="Threestone (1997)(Ascraeus Productions)[cr ONS]">
+		<description>Threestone (1997)(Ascraeus Productions)[cr ONS]</description>
+		<rom name="Threestone (1997)(Ascraeus Productions)[cr ONS].t64" size="19664" crc="e48f9dbe" md5="5cef8ae6049296e5d4c26a6fb3ec696b" sha1="fdf158e3f8ae18e85d157028e357544e7efaafd5"/>
+	</game>
 	<game name="Threeway (1985)(Sportscene Specialist Press - Your 64)">
 		<description>Threeway (1985)(Sportscene Specialist Press - Your 64)</description>
 		<rom name="Threeway (1985)(Sportscene Specialist Press - Your 64).t64" size="7775" crc="4a7d9a4a" md5="dc23cf5ce260be8c7e3884a2b344080f" sha1="7251e13f9d52f6530c7610008ad5ae279725bab4"/>
@@ -18100,9 +18136,9 @@
 		<description>último cubo, El (1985)(Ediciones y Suscripciones S.A - Commodore Magazine)(es)[cr Rio Baan]</description>
 		<rom name="último cubo, El (1985)(Ediciones y Suscripciones S.A - Commodore Magazine)(es)[cr Rio Baan].t64" size="2304" crc="8e8156fe" md5="64e00386848186b343c21e45714f6464" sha1="81c688c44e49e58b157c7792d28ccfafa348851a"/>
 	</game>
-	<game name="Umwelto (1991)(Peter Diehm)(de)">
-		<description>Umwelto (1991)(Peter Diehm)(de)</description>
-		<rom name="Umwelto (1991)(Peter Diehm)(de).t64" size="2497" crc="f640d242" md5="585c35a87e4e2d5e4a3ffa9d3f8562e3" sha1="5c3755c52d7c6b67c29e7f0b2c166de39900656e"/>
+	<game name="Umwelto (1991)(Diehm, Peter)(de)">
+		<description>Umwelto (1991)(Diehm, Peter)(de)</description>
+		<rom name="Umwelto (1991)(Diehm, Peter)(de).t64" size="2497" crc="f640d242" md5="585c35a87e4e2d5e4a3ffa9d3f8562e3" sha1="5c3755c52d7c6b67c29e7f0b2c166de39900656e"/>
 	</game>
 	<game name="Undoroid (199x)(Molotow Cocktails)">
 		<description>Undoroid (199x)(Molotow Cocktails)</description>
@@ -18812,9 +18848,9 @@
 		<description>Woord Scramble (1984)(Courbois)(nl)</description>
 		<rom name="Woord Scramble (1984)(Courbois)(nl).t64" size="2081" crc="103025b7" md5="a361e0160b78692c0db5871b8599651b" sha1="6fc7b186c069ad6560a49489eae4bc025c692dbf"/>
 	</game>
-	<game name="Woord Spel (1983)(Andy van Duyne)(nl)">
-		<description>Woord Spel (1983)(Andy van Duyne)(nl)</description>
-		<rom name="Woord Spel (1983)(Andy van Duyne)(nl).t64" size="3784" crc="e5dc5b94" md5="7647ce44434ff07e1eb69d480d763e7b" sha1="9f07e1bba224489ca58ab816477b33ab3f7e1737"/>
+	<game name="Woord Spel (1983)(van Duyne, Andy)(nl)">
+		<description>Woord Spel (1983)(van Duyne, Andy)(nl)</description>
+		<rom name="Woord Spel (1983)(van Duyne, Andy)(nl).t64" size="3784" crc="e5dc5b94" md5="7647ce44434ff07e1eb69d480d763e7b" sha1="9f07e1bba224489ca58ab816477b33ab3f7e1737"/>
 	</game>
 	<game name="Woord Spel (1990)(Commodore Info)(nl)[cr Rio Baan]">
 		<description>Woord Spel (1990)(Commodore Info)(nl)[cr Rio Baan]</description>

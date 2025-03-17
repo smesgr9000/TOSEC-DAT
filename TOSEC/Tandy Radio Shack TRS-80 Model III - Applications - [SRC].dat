@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [SRC]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [SRC] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Append-CIM File Loader (19xx)(-)[SRC]">
+		<description>Append-CIM File Loader (19xx)(-)[SRC]</description>
+		<rom name="APPEND.ASM" size="2560" crc="420d13d5" md5="fe8614aebe00eef3011548800f94ec24" sha1="aaaf880848d4c9a4e3b1fb935c040d6e107ec097"/>
+	</game>
+	<game name="Arch Utils Source (19xx)(Kim Watt)[SRC]">
+		<description>Arch Utils Source (19xx)(Kim Watt)[SRC]</description>
+		<rom name="ARCHUTL1.ASM" size="23314" crc="464ef4a0" md5="c85bbfe0cc184af76c687e026df6537a" sha1="5e28f351281811e0df71aa4ad6e78e224d085d1a"/>
+		<rom name="ARCHUTL2.ASM" size="7674" crc="7a9be303" md5="637f97587cc53e625ef30c0fd2147451" sha1="888c867476760f5ac74107816218b23d05d9653d"/>
+		<rom name="ARCHUTL3.ASM" size="9889" crc="733ef133" md5="d746c81bfa3207fcffdcc7bfcbd3fcea" sha1="35167bd503acb1dc6c01469b94f5bbe827722e14"/>
+	</game>
+	<game name="Archive Utilities v0.00 (1983)(Kim Watt)[SRC]">
+		<description>Archive Utilities v0.00 (1983)(Kim Watt)[SRC]</description>
+		<rom name="archutil.asm" size="15954" crc="94110c9c" md5="da26e1794a62985f2b5afcdf89e081a3" sha1="add88f802ddde69d8c01d1d5cf768cb1be4e10da"/>
+		<rom name="archutl1.asm" size="23314" crc="464ef4a0" md5="c85bbfe0cc184af76c687e026df6537a" sha1="5e28f351281811e0df71aa4ad6e78e224d085d1a"/>
+		<rom name="archutl2.asm" size="7674" crc="7a9be303" md5="637f97587cc53e625ef30c0fd2147451" sha1="888c867476760f5ac74107816218b23d05d9653d"/>
+		<rom name="archutl3.asm" size="9889" crc="733ef133" md5="d746c81bfa3207fcffdcc7bfcbd3fcea" sha1="35167bd503acb1dc6c01469b94f5bbe827722e14"/>
+	</game>
+	<game name="Auto Redialing Utility (1984)(Mark Quarles)[SRC]">
+		<description>Auto Redialing Utility (1984)(Mark Quarles)[SRC]</description>
+		<rom name="RDLUSR.ASM" size="5915" crc="e81eca90" md5="660937acda192d1335b9564ade71cba0" sha1="9105b31e460f5082156443b1587b69bd7a19aa67"/>
+		<rom name="REDIAL.ASM" size="6246" crc="b0e0330b" md5="f685eb93faee1dc490a8318968ecf9d3" sha1="d11d63edfa8ca41b4e23244cab46dcc0dee49d44"/>
+	</game>
+	<game name="Beep (1981)(Tim Mann)[SRC]">
+		<description>Beep (1981)(Tim Mann)[SRC]</description>
+		<rom name="BEEP.ASM" size="2994" crc="df1436e6" md5="1cd564f10f589e49c3885b45847d561e" sha1="61568eee841bf82790799658b7f966975e73b29b"/>
+		<rom name="BELL.ASM" size="2259" crc="6227c31d" md5="638a68f27274de6d212c40a2480b50f4" sha1="8d828990b2b4fbca231f48a871582d029dfd9d82"/>
+	</game>
+	<game name="Boot-80 (19xx)(Kim Watt)[SRC]">
+		<description>Boot-80 (19xx)(Kim Watt)[SRC]</description>
+		<rom name="BOOT80.TXT" size="1536" crc="5356a44e" md5="4e49b2789ce01d86ede48b047ddda6c8" sha1="7f31ebc2028cd6ebe538d79a95df82136418dc67"/>
+	</game>
+	<game name="Carriage Returns Out (1987)(Rod Stevenson)[SRC]">
+		<description>Carriage Returns Out (1987)(Rod Stevenson)[SRC]</description>
+		<rom name="crtnout.asm" size="3072" crc="eaa4ba6d" md5="394bf80e2b0fa2aab9fd3a3ab56c0cf8" sha1="9637f01b60c14d09c9fa516c13a170465ea90f63"/>
+	</game>
+	<game name="Carrier Detect Program v1.0 (1983)(Philip Wherry)[SRC]">
+		<description>Carrier Detect Program v1.0 (1983)(Philip Wherry)[SRC]</description>
+		<rom name="CRDTCT.ASM" size="2101" crc="4536c630" md5="d536422511873c2072d0e5c0e66f08d8" sha1="1d1a6f2fb0e9cc5548dd1e39764799419395bba9"/>
+		<rom name="CRDTCT.DOC" size="6419" crc="42094d2d" md5="434c30cdc554c9adeac1ebf850e366d9" sha1="a9c8c0de5e0f621d13ed75ad8a128548cc7977c4"/>
+	</game>
+	<game name="Copy Utility (19xx)(Kim Watt)[SRC][LDOS]">
+		<description>Copy Utility (19xx)(Kim Watt)[SRC][LDOS]</description>
+		<rom name="LDCOPY.ASM" size="446" crc="bacca810" md5="e6e6c12977b74852138e84975bdc479e" sha1="98a5265af837bf77521fa7033d6b2757c8b7ed08"/>
+		<rom name="LDCOPY0.ASM" size="8249" crc="3b9e4fb7" md5="16cb79496d460edb88aba592dba4271a" sha1="41279877977e76941cee2edd74f90263ddf5e9df"/>
+		<rom name="LDCOPY1.ASM" size="10119" crc="f9ed45b5" md5="78bc505ce329dd99d4ac6893d154ab7c" sha1="affe9267fb4d12e7a0bf3699c451238a4bdd4bbd"/>
+		<rom name="LDCOPY1.CMD" size="5098" crc="43e740d7" md5="39ec0ffe239c226bd43cc7e1f8fb2548" sha1="28e2521c356100b719532ea322d6c4b408c25fab"/>
+		<rom name="LDCOPY2.ASM" size="21058" crc="f27c8637" md5="d9a0ea3fe96d06949881700e1800fc8c" sha1="2f022357656129230f602c47d32bcd553f6b3c81"/>
+		<rom name="LDCOPY4.ASM" size="14361" crc="d105e955" md5="2534c9ebe9fb4209e8252748056c5f35" sha1="c6fd54385624764506b0bf163656cfeae4242047"/>
+	</game>
+	<game name="CopyCatD-3 Instructions (19xx)(Arne Rohde)[SRC]">
+		<description>CopyCatD-3 Instructions (19xx)(Arne Rohde)[SRC]</description>
+		<rom name="COPYCATD.ASM" size="2304" crc="bee20e01" md5="ed016abfc4ba6d824686c0c2f658e8d0" sha1="7f22e96cb1462d935e8681e77249178bdcd88cc6"/>
+		<rom name="COPYCATD.DOC" size="11064" crc="765eab94" md5="983303523aa60ad55b800859d1c710c5" sha1="07c9354dc20214870692d712734e1e1cb6e4dac4"/>
+	</game>
+	<game name="Date Compression Source Code (19xx)(-)[SRC]">
+		<description>Date Compression Source Code (19xx)(-)[SRC]</description>
+		<rom name="DATECOMP.ASM" size="3775" crc="6d1f2be5" md5="fd65441e5406bc9bd171a5a01cae9b2d" sha1="496141a37c486f481e751d393c2d7ace99db17d5"/>
+	</game>
+	<game name="Disk Logger (19xx)(Kim Watt)[SRC][LDOS]">
+		<description>Disk Logger (19xx)(Kim Watt)[SRC][LDOS]</description>
+		<rom name="LOG.ASM" size="5161" crc="9fe88edb" md5="fd806ed715c0871c1e03ec0a6f2a3d29" sha1="8d32acdbb6d75fd305396082298c8909b8843c5c"/>
+	</game>
+	<game name="DiskMan Source Code (1983)(Kim Watt)[SRC][Partial]">
+		<description>DiskMan Source Code (1983)(Kim Watt)[SRC][Partial]</description>
+		<rom name="DISKMANA.ASM" size="3447" crc="618cb87a" md5="a563d14a63f445999452f569d1831246" sha1="c3cb12adc9e4883d5b4fbb4b0baa5029abe71ba1"/>
+		<rom name="DISKMANC.ASM" size="15451" crc="8e2180b0" md5="a2f566e576300abc3e1bab0e08a79bb3" sha1="58437c81d7dfd527c84d60b77506c5d16080d93c"/>
+		<rom name="DISKMAND.ASM" size="11884" crc="d49b8ec6" md5="fd95f0035d0524745ea8887c135ee5e6" sha1="cf555c63e8a0e003e5a73ea879741969f8614e5a"/>
+		<rom name="DISKMANM.ASM" size="7957" crc="fdfa72c8" md5="cd11161a98dfb4739ab7fcb02f415e81" sha1="ee63a68860523c98547560d3262638d90f840180"/>
+		<rom name="DMAN.ASM" size="681" crc="5d45ae83" md5="c9203e9be6a106ecb6f8db88b22bbdce" sha1="f3c5e0027b5bf0d1c82835e53e81f4590221ff4d"/>
+		<rom name="DMANEQU.ASM" size="4112" crc="1d4c3134" md5="961de4d38d1c04adfab43314eeee8537" sha1="e2856bc9c852a37f59df99f0d1eeb45b52653635"/>
+		<rom name="DPCOPY1.ASM" size="13516" crc="c620d2c5" md5="4e3c4789ca0712492098dd59d9190ddb" sha1="81339f5cf0c294a83f2996b4011d611f2eaa05fc"/>
+	</game>
+	<game name="DSet PDRIVE Changer (1982)(Allan J Domuret-The Alternate Source)[SRC]">
+		<description>DSet PDRIVE Changer (1982)(Allan J Domuret-The Alternate Source)[SRC]</description>
+		<rom name="dset3.asm" size="6400" crc="d2fbb936" md5="eb3b79d90073497a56d7c3a7a52f8d72" sha1="796ef2225818c8e33615179a08e2c69dc6a2cddf"/>
+	</game>
+	<game name="Dumb Terminal (19xx)(Doc Walker)[SRC]">
+		<description>Dumb Terminal (19xx)(Doc Walker)[SRC]</description>
+		<rom name="ND80TERM.SRC" size="4098" crc="171a2b88" md5="54ab0c4615f4d68a7394876e38fba9d9" sha1="661fe90301dcded33a8a27f4ec4f2bd4bf9b6a55"/>
+	</game>
+	<game name="Editor-Assembler Keyboard Router (1983)(Dave Zivchak)[SRC]">
+		<description>Editor-Assembler Keyboard Router (1983)(Dave Zivchak)[SRC]</description>
+		<rom name="EDITFL.ASM" size="13243" crc="21308a81" md5="78bacf67a02397f52f60a04ac3ffe6a1" sha1="e44420d854531a283f1de9a48f2a5916015cd604"/>
+	</game>
+	<game name="Filter Source (19xx)(Kim Watt)[SRC]">
+		<description>Filter Source (19xx)(Kim Watt)[SRC]</description>
+		<rom name="FILTER.ASM" size="10840" crc="f320ef0f" md5="e2e50cba3d4cae20029caa75666bfce4" sha1="b45af0a915d05b4553250b85f5b6edfacceaa600"/>
+	</game>
+	<game name="LDOS Copy Utility v1.0 (1982)(Kim Watt)[SRC]">
+		<description>LDOS Copy Utility v1.0 (1982)(Kim Watt)[SRC]</description>
+		<rom name="LDCOPY.ASM" size="446" crc="bacca810" md5="e6e6c12977b74852138e84975bdc479e" sha1="98a5265af837bf77521fa7033d6b2757c8b7ed08"/>
+		<rom name="LDCOPY0.ASM" size="8249" crc="3b9e4fb7" md5="16cb79496d460edb88aba592dba4271a" sha1="41279877977e76941cee2edd74f90263ddf5e9df"/>
+		<rom name="LDCOPY1.ASM" size="10119" crc="f9ed45b5" md5="78bc505ce329dd99d4ac6893d154ab7c" sha1="affe9267fb4d12e7a0bf3699c451238a4bdd4bbd"/>
+		<rom name="LDCOPY2.ASM" size="21058" crc="f27c8637" md5="d9a0ea3fe96d06949881700e1800fc8c" sha1="2f022357656129230f602c47d32bcd553f6b3c81"/>
+		<rom name="LDCOPY3.ASM" size="11969" crc="2ea82d24" md5="061a5c2f23472f2632c5bb2b24684618" sha1="b5744a875a73042f983aa52178f140c94bccb9b5"/>
+		<rom name="LDCOPY4.ASM" size="14361" crc="d105e955" md5="2534c9ebe9fb4209e8252748056c5f35" sha1="c6fd54385624764506b0bf163656cfeae4242047"/>
+	</game>
+	<game name="LDOS Copy Utility v1.5- Update to v1.6 (1982)(Kim Watt)[SRC]">
+		<description>LDOS Copy Utility v1.5- Update to v1.6 (1982)(Kim Watt)[SRC]</description>
+		<rom name="ldcopu16.asm" size="2455" crc="17568db4" md5="371f4592a45e9d7791072045c23f9f43" sha1="b3c6c5449f296fd97ba5caf7cc355db54f86b611"/>
+	</game>
+	<game name="LDOS Fix Disk (19xx)(-)[FIX]">
+		<description>LDOS Fix Disk (19xx)(-)[FIX]</description>
+		<rom name="ldfxdsk.dsk" size="121344" crc="aa9fe312" md5="0a16ce92c90d46940156c26a81fea759" sha1="a203241e9d394ce74e9e9f5ba649667fb8173eeb"/>
+	</game>
+	<game name="LDOS v5.1.3-R Service Calls (19xx)(-)[SRC]">
+		<description>LDOS v5.1.3-R Service Calls (19xx)(-)[SRC]</description>
+		<rom name="svc.app" size="791" crc="cf8f8d4c" md5="5c59c1ff521aaeceabb512c13429f8c0" sha1="42569803c25e36f464e4335efff149cb22d0e605"/>
+		<rom name="svc.asm" size="1638" crc="691b55a5" md5="596cfbbcedea6e1b4e7b643474b8008d" sha1="9eb61ab16d5d65f86e99004b7fbebd1f5a9dfab3"/>
+		<rom name="svc.bas" size="1004" crc="6989bd04" md5="b9ae7c297267002d21de16f68a84d5fe" sha1="43ac6505c6f8f0e4ad9694c1e819bed8296b925d"/>
+		<rom name="svc.mac" size="3088" crc="d70e7f52" md5="9a04858c35c1ad0e1357eee5b5be5b15" sha1="2855e068b9326421ace7c96c02e90d6512265e7d"/>
+		<rom name="svc.tmp" size="21728" crc="87f2e7f2" md5="3b2c41ab80da204e9a9ae5a04204d7b4" sha1="bc737042bec90427b6946b2534f258df6532b91c"/>
+	</game>
+	<game name="LDOS-TRSDOS III-LDOS File Move Utility v2.1 (1982)(Kim Watt)[SRC]">
+		<description>LDOS-TRSDOS III-LDOS File Move Utility v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="u4pconv.asm" size="19706" crc="a06ab584" md5="02945cd2c94185f0bf0491e8caa44fee" sha1="741c1143e96b285424795e9151f520c68f843cd3"/>
+	</game>
+	<game name="Make-80 III v1.3 (19xx)(Kim Watt)[SRC]">
+		<description>Make-80 III v1.3 (19xx)(Kim Watt)[SRC]</description>
+		<rom name="MAKE8013.ASM" size="20480" crc="c58e0b51" md5="c4d97ed3ac15dcfb7a906c1344ca137f" sha1="2f79979807c6969d5ca841f283bfcc8b7d2bccfa"/>
+	</game>
+	<game name="Move (19xx)(Kim Watt)[SRC]">
+		<description>Move (19xx)(Kim Watt)[SRC]</description>
+		<rom name="SMOVE.ASM" size="24070" crc="3cc75eae" md5="4054ff4381895a34a62679697792b045" sha1="3e9bcdd32959449c4f3ebde44da5b6ef3ba709cb"/>
+		<rom name="SMOVE2.ASM" size="25086" crc="d2e923ee" md5="1ef35b27780f8a3308072077cfda6b42" sha1="f05644ad55904fddfaab9eba79ade0a0973e57fc"/>
+	</game>
+	<game name="PassGo Password Removal v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PassGo Password Removal v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="u2passno.asm" size="8661" crc="9f423a69" md5="d3179ccc7e6750da762b97a2db102e31" sha1="a3a464b5f8da9767a14a91a4e05631dc7e316baa"/>
+	</game>
+	<game name="PassNo Password Removal v1.0 (1982)(Kim Watt)[SRC]">
+		<description>PassNo Password Removal v1.0 (1982)(Kim Watt)[SRC]</description>
+		<rom name="PASSNO.ASM" size="11132" crc="ebd6029e" md5="fef8caf53cfa857ab3ffb39cfb7515b3" sha1="1c2fe0102118a8f3592af04576636d0e610d30e2"/>
+		<rom name="PASSNOX.ASM" size="9831" crc="4f3908c2" md5="c01619c0d110ec5cb72eb424efb319f9" sha1="2c0674e1b3b540c7ce941334ab9105ad452e055c"/>
+	</game>
+	<game name="PCOMPR Disk File-Compare Utility v2.1 (1982)(Kim Watt)[SRC][LDOS]">
+		<description>PCOMPR Disk File-Compare Utility v2.1 (1982)(Kim Watt)[SRC][LDOS]</description>
+		<rom name="u3pcomp.asm" size="15013" crc="2266e1bf" md5="216c0ed2bf67ba677e9d7cfb4f0cd934" sha1="814803b34a3111b831b5eb15c1ed005658c7b02b"/>
+	</game>
+	<game name="PDirt TRSDOS III Directory Utility v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PDirt TRSDOS III Directory Utility v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="u3pdir.asm" size="9062" crc="c356882b" md5="db8e06dfe227e928e43482cdbf74522a" sha1="91e4a12ba03b88cb963c20a1e4d5784772e8d291"/>
+	</game>
+	<game name="PEX Disk Exerciser Utility v2.1 (1982)(Kim Watt)[SRC][LDOS]">
+		<description>PEX Disk Exerciser Utility v2.1 (1982)(Kim Watt)[SRC][LDOS]</description>
+		<rom name="u2pex.asm" size="12915" crc="9d2a03dc" md5="7d74d65c8cd5f06a8e9a1fd08659e666" sha1="4edb3bd6e3799de195d67d93fa560ace024e5504"/>
+	</game>
+	<game name="PFILT Filter Utility v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PFILT Filter Utility v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="U2PFILT.ASM" size="5877" crc="92bcec75" md5="aea287beae609aef1697c74426b1f02d" sha1="35156b8ac2ba1df958e9e4e3a49d58ebe3ecbee8"/>
+	</game>
+	<game name="PFind v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PFind v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="U3PFIND.ASM" size="15450" crc="6c0a8ca6" md5="27d647f7e7cc66608122a62da1a6046a" sha1="6b46f19786f9aaf29ce810ee1627c21a13b2a13c"/>
+	</game>
+	<game name="PHelp Help Utility v2.0 (1982)(Kim Watt)[SRC]">
+		<description>PHelp Help Utility v2.0 (1982)(Kim Watt)[SRC]</description>
+		<rom name="PH.ASM" size="14825" crc="7e7af811" md5="ce52bb485d0f2c1a6e57a8cdd45a5dda" sha1="a88b8c359d8500ab4a68e266fe4cb640eab4f11a"/>
+	</game>
+	<game name="PHelp Help Utility v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PHelp Help Utility v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="u2ph.asm" size="8442" crc="648446b2" md5="8039314f9dec662fd0fa7b28c2a4edca" sha1="c85825ccd498d18b017593979cb0c0f3b4bdeae8"/>
+		<rom name="u3phelp.asm" size="18744" crc="9d3bf6a2" md5="2da03e532b0df1051db6d3ea850f5bcb" sha1="6a275fc1213eacb5947181e518dd09fb5b9855b2"/>
+	</game>
+	<game name="PKILL File Kill Utility v2.1 (1982)(Kim Watt)[SRC][LDOS]">
+		<description>PKILL File Kill Utility v2.1 (1982)(Kim Watt)[SRC][LDOS]</description>
+		<rom name="u4pkill.asm" size="13223" crc="3aecb1d9" md5="2ad9dc2a22ec21ff02457edb7ccffd37" sha1="0470ca7a034f9de80db53496eadf01dc44c5f41e"/>
+	</game>
+	<game name="PMAP Disk Mapping Utility v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PMAP Disk Mapping Utility v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="u2pmap.asm" size="11526" crc="161a0d67" md5="2672231df313d747870adef8283284bf" sha1="7fb5b38abbafbd9f053b36c5e083409e26a58991"/>
+	</game>
+	<game name="PMX80 Printer Filter Utility v2.1 (1982)(Kim Watt)[SRC]">
+		<description>PMX80 Printer Filter Utility v2.1 (1982)(Kim Watt)[SRC]</description>
+		<rom name="u2mx80.asm" size="4050" crc="b2cef3ee" md5="cfe2ee91969a3f098882f4550150965d" sha1="23df632b917b2f1e81b28dcd7d98a49260f12788"/>
+	</game>
+	<game name="Power-Copy III (1982)(Kim Watt-Breeze)[SRC]">
+		<description>Power-Copy III (1982)(Kim Watt-Breeze)[SRC]</description>
+		<rom name="boot.asm" size="2222" crc="6e225de3" md5="73b1aa09e5f48116450c57253de000b6" sha1="40f08d45aca75222f5b582d47ed51cf2e552ae90"/>
+		<rom name="disk.asm" size="7907" crc="1e37bef1" md5="69aced65deb231a404b0094fb51a385f" sha1="f1aa26ffd6fe943138efca16fedb566ef0dfb853"/>
+		<rom name="disk2.asm" size="6717" crc="dd4d4cfa" md5="4afb7c2b6cf00b4711b06dd262424a20" sha1="9790ce12d2aad8ca92b86eeaecb547e8bb8a357d"/>
+		<rom name="diskio.asm" size="664" crc="7e6abc35" md5="4a6f38db1368072236e20b776f799e68" sha1="9981c7193e9b3f893e6a7781592f968c479897cd"/>
+		<rom name="howtodo.asm" size="21455" crc="c457a83c" md5="68fd156b4d752c96e90ced03f9079199" sha1="6e8761995d7acd52c7063825eb757b4b7867736b"/>
+		<rom name="iodvr.asm" size="5688" crc="578260ae" md5="9bcceea16afa89797d2c7cb5133f53a0" sha1="03324c659832a31d0949bc19063d395b278b9204"/>
+		<rom name="labels.asm" size="859" crc="ea95abaf" md5="2506636dbf812f9ffefe941277b2a6c3" sha1="1d75e5dc482f48102c2ee2eefef88309eccf5a13"/>
+		<rom name="m.b" size="42" crc="677e72a3" md5="440159ea1983ce83983ad174d31712d8" sha1="8f7ae184327d659e921a1de876c879bcad878827"/>
+		<rom name="mcopy.asm" size="6016" crc="1116f551" md5="1d544af5ec5e1f54cd92d07504914cab" sha1="8c2e0023c77b388c65fe3665150af34b35a576ca"/>
+		<rom name="messages.asm" size="484" crc="a9fbace3" md5="0d622f60acbbdd938ecb7ca07bd8e524" sha1="5b4685213cb83def1fd2efe302b209b58970c938"/>
+		<rom name="system.jcl" size="42" crc="677e72a3" md5="440159ea1983ce83983ad174d31712d8" sha1="8f7ae184327d659e921a1de876c879bcad878827"/>
+		<rom name="test.asm" size="440" crc="07af9482" md5="e2f736748acb2c571b5ccd8bb381b0a7" sha1="c4c4a574d04a15e4ccd1e56a79b78ef2030bedd2"/>
+		<rom name="vtest.asm" size="396" crc="7e8058a7" md5="c552dd039375ade0a9fc92546c687152" sha1="9ca5e333fd4d649b473c3d020c8e04b8573d3c24"/>
+	</game>
+	<game name="Power-Tech Source Code (19xx)(Kim Watt)[SRC]">
+		<description>Power-Tech Source Code (19xx)(Kim Watt)[SRC]</description>
+		<rom name="SYS0.ASM" size="35649" crc="e90fd1a6" md5="1300159ca9ba86340e8665577a1d8ccf" sha1="1c5e623c4792abbb9828676db9003b99995f972e"/>
+		<rom name="SYS1.ASM" size="3951" crc="c7c149fa" md5="ccf132e382aa3a2a1f764e8650f2c942" sha1="38a11977d8a2604b72755752c036909bf1c6fdc8"/>
+		<rom name="SYS10.ASM" size="20589" crc="b16666b1" md5="677732661ed86c328b18263246a01b1b" sha1="a87b44007fffd85d3d25db049b9354547260e210"/>
+		<rom name="SYS2.ASM" size="36109" crc="5b5d2a30" md5="992461d90be240afa82231fb62575e44" sha1="23a4c93efa77c184c4de29b5db80844d9928698f"/>
+		<rom name="SYS3.ASM" size="38332" crc="017ec97f" md5="a8dd0280b22bcb58812596a420f23a3a" sha1="dbb20311dfaa38b8942fe6ed3be1245ab781c478"/>
+		<rom name="SYS4.ASM" size="5678" crc="a151504f" md5="c6571875321b6f7d31d505b9c0f61b2c" sha1="fc84aeb9eba9dc3346103eae47efaf54d60fb69b"/>
+		<rom name="SYS5.ASM" size="672" crc="3ecb5161" md5="89ab629822ba8f7ed5755877e9b62bfb" sha1="6f158f7659853d75e819275890bfa2b671374084"/>
+		<rom name="SYS6.ASM" size="310" crc="a22465f1" md5="95442b3968fd8f2aa6bd8d4cdd259eed" sha1="329d756812f0e3d0a055b58c075039fd782e75db"/>
+	</game>
+	<game name="PowerCLIP v1.0 (1982)(Kim Watt)[SRC]">
+		<description>PowerCLIP v1.0 (1982)(Kim Watt)[SRC]</description>
+		<rom name="CLIP.ASM" size="11816" crc="f3e299cd" md5="555b21661243650b69872923739a8e01" sha1="5f852161770e216f89b6ad4ba616f58fe28c9f56"/>
+		<rom name="CLIP0.ASM" size="6476" crc="4dfe112a" md5="7e27830697037755c0cd463cd84dcb18" sha1="14a11767e7207e4f6c905c8f11c09c41730358b7"/>
+		<rom name="CLIP1.ASM" size="15988" crc="fd525fa2" md5="7c5a5d9fd1b9f32e3b0e60132bbdf531" sha1="f637d46cf735de3f70624e01e8dd790969a41bf3"/>
+		<rom name="CLIP2.ASM" size="10902" crc="c6ed9074" md5="476a8a710dfcec70963aed635b7760b5" sha1="cf90790e2348edb6ee02c3616cd8ab8b2832396d"/>
+		<rom name="CLIP3.ASM" size="22136" crc="5d5e7bd6" md5="c833add6c0cd7d90bcbbd407373ca273" sha1="d5ea12d51de03fe8932b6016028fa40711a2c382"/>
+		<rom name="CLIP4.ASM" size="28708" crc="6cc0f382" md5="3ad74dbf3a169345e3130a782fcfee00" sha1="f33c6e80b44c9ed2a4c4d2b88dd8b1d682da94ab"/>
+		<rom name="CLIP5.ASM" size="21863" crc="8062b1a5" md5="091fde97434a9b12c41244a5027d2391" sha1="db5c84d38c869f49e1488b1acde553bab2bf732a"/>
+	</game>
+	<game name="PowerDOS (19xx)(Breeze-QSD Inc)[SRC]">
+		<description>PowerDOS (19xx)(Breeze-QSD Inc)[SRC]</description>
+		<rom name="DOSBOOT.ASM" size="7751" crc="bab9ccf3" md5="698c8d4e45ded6a530c63076cbada7e1" sha1="ea280dc5c25171f231ad13aa7bb0bcaa206ac314"/>
+		<rom name="DOSEQU.ASM" size="12557" crc="afb5fe5e" md5="bcbc258acba707f84a68d441ee4770b8" sha1="0d3ebd9e12066864427f2a3935984fe62ae8a2d8"/>
+		<rom name="SENDRECV.ASM" size="9859" crc="39896a70" md5="15cc3b8c4e5ab4a4eb38b881791c1d81" sha1="28d3c308c1e7f34def69b4b25927bf4120c53147"/>
+		<rom name="SORRY" size="105" crc="f6379023" md5="81948a18f0400bd9902e6bc21c7b4ba2" sha1="db42a7ab570375057b0829b35316ac150524ef5e"/>
+		<rom name="SYS0.ASM" size="1030" crc="680bf39c" md5="56ecb414830cd7623ac32bd9de418e14" sha1="a7ce78ec132b7f633f1a9581238c7a27493880ae"/>
+		<rom name="SYS0BUFF.ASM" size="1037" crc="a232ffad" md5="c3e5a6d9488204a36a4fe26b9f08af6b" sha1="206fa5b7d852a12ca81f304febbffa0981a5aa64"/>
+		<rom name="SYS0CL.ASM" size="3375" crc="ffa46b88" md5="d75e9c517ccc6df0945e98a7c307d386" sha1="67506b77726349eca34c554fa4646c6cbad5acab"/>
+		<rom name="SYS0DAT.ASM" size="2279" crc="7acbc7a9" md5="7d215e4120df9916b069a3fb74a50a07" sha1="f96b5ab37db03140547c007ce159755755a29094"/>
+		<rom name="SYS0DCB.ASM" size="14176" crc="64427355" md5="66f99b75d8dc0570f3f464a106fb89c5" sha1="540f544cefea3aabf19644eb7cbd2e6b71fdcf22"/>
+		<rom name="SYS0DEV.ASM" size="4762" crc="aa0a4638" md5="bc683e2bb17e7496d7802580f1929f65" sha1="9b4585c882235c30a68f27f03547a60125a6596e"/>
+		<rom name="SYS0DO.ASM" size="14913" crc="af04ac0a" md5="44467f541666c8f1176129a50ecb716a" sha1="a36507a5403979aa48c169111163b003891b6e97"/>
+		<rom name="SYS0DSK.ASM" size="16426" crc="926f8a07" md5="713ada8934100177f0e4fe795ef7c595" sha1="e34ac580f9164cf55a6447f65ff90047fa10cdb6"/>
+		<rom name="SYS0DVR.ASM" size="2763" crc="a7fed76b" md5="f38949ca3e67a66764b9dec275cddd86" sha1="e69860f097fdda2eacc591d92caadfc5ba7ee17e"/>
+		<rom name="SYS0EQU.ASM" size="2249" crc="f973020c" md5="655485ce0ec131002576c97be94413fb" sha1="75d75d8cc1b006f95c763b76997845d67042f549"/>
+		<rom name="SYS0EXTR.ASM" size="3693" crc="6aed61d9" md5="82eaadb2e57c02390cf1b8b550b8fdf7" sha1="d5914cafc30b70d50e759ce79cf687aed3510884"/>
+		<rom name="SYS0FILE.ASM" size="21842" crc="d193d6b3" md5="e8cf410964a6a72c3c1f83187559e7d1" sha1="b774cbca0bb3597a43568c6f28e5f619fbe88519"/>
+		<rom name="SYS0INIT.ASM" size="11465" crc="9637227b" md5="dfdd3f9ce847976f6d6e44538849c511" sha1="b45956ac030b1c836a42492eb24500f073b13302"/>
+		<rom name="SYS0KI.ASM" size="12526" crc="5f41fcf1" md5="89f71c9db7b76afe216778cb26c54a8a" sha1="b650f0d3e719f98f51c4f38dd7ade7185b26667f"/>
+		<rom name="SYS0MATH.ASM" size="11872" crc="5ddb9e33" md5="102aef6dab8453f7b3829f5e86dd72b9" sha1="e3f28b0e352a41c3bbe63f2f4b924602559b39e3"/>
+		<rom name="SYS0NMI.ASM" size="8945" crc="fe84b793" md5="eff88fa8272ee81ae8146bd1d3ddd650" sha1="49a1a7c41ef3c0f7419558aa2d7b2bbf3a60460f"/>
+		<rom name="SYS0OVER.ASM" size="3827" crc="a324e12f" md5="e7dbf59569571367b130d75bb28558b9" sha1="058eaea9a411f95389a89d3fd0687df07a7921c0"/>
+		<rom name="SYS0PR.ASM" size="2664" crc="9fa6ff7b" md5="f9a47db8cd22b78639b103e9c7ac7f4e" sha1="b3940469f6411144a4cccb5aae047024f3f15232"/>
+		<rom name="SYS0RUNL.ASM" size="4134" crc="82db412b" md5="0adf5884fe8b7ee81c85435cc3fb63ee" sha1="2be62fa9514b88a1ff3ef35d96de087577210b20"/>
+		<rom name="SYS0SVC.ASM" size="4543" crc="bc33f60f" md5="676bf32236eaa45c01151a04e437d2ad" sha1="41e10a5493eda3fb7f82986400c38f0a342dd9e7"/>
+		<rom name="SYS0SVC1.ASM" size="7682" crc="a21f19d0" md5="bf6bd173abf83591325466619989ab15" sha1="9d9ad8af17a172261e6ad30138b3c8c8d3565e78"/>
+		<rom name="SYS0SVCD.ASM" size="7260" crc="f4a2a209" md5="6156d38fbe07087e8d243eb627439974" sha1="082c4f28f4da6f0f0467b0cb9d347c96159cfdf8"/>
+		<rom name="SYS0SVCL.ASM" size="1569" crc="2d9d66e0" md5="9c09081a253257f73c9315e737817ad2" sha1="6f9591532d80844fe8dd65d2729585230157922e"/>
+		<rom name="SYS0SVCM.ASM" size="9656" crc="89752d04" md5="72bff63b4287d908c2023ec204824c77" sha1="2a7b615eda18f68179099eea9835722098c14232"/>
+		<rom name="SYS0SVCR.ASM" size="2372" crc="d4fabc4e" md5="48f3986b5b91f2a5b78779237be994e2" sha1="1d3cc6434b4bf343baf6aa0ba6d39735397b2a65"/>
+		<rom name="SYS1.ASM" size="27694" crc="0db7a890" md5="f7eb2e554c4c2f3441a0d4164e495d5b" sha1="6c77068aa3b48cfda22c5af35ef991b710e54233"/>
+		<rom name="SYS12.ASM" size="18548" crc="a20dd821" md5="328a71f215cf16fd5d3f59bbe52f30d5" sha1="b2224d3a77d31738f945183a83f7e72e57a2d049"/>
+		<rom name="SYS15.ASM" size="20334" crc="365eb890" md5="281a4db90608bb072176011627b9b2bd" sha1="11981072421f3bc7619c6b20af664499ca490433"/>
+		<rom name="SYS2.ASM" size="24919" crc="90fc3e98" md5="84d3d4ecd1b3155a0b830e10193da811" sha1="cd3890440eb5207c5ceaf668179d7374e09a6f08"/>
+		<rom name="SYS3.ASM" size="28209" crc="1e138410" md5="adab7a1b3efddb605765a7beb239de66" sha1="9ef01918cd24d09112eec7e4cbc6d1ddc2d1ff80"/>
+		<rom name="SYS4.ASM" size="13846" crc="568b7f4d" md5="560047b3cd3c3897c88858d266060762" sha1="75b335a2d1bd54a6dc01170d06a00b5d263653a3"/>
+		<rom name="SYS5.ASM" size="13464" crc="9a3a3bf7" md5="fe6964be632ac31dd9598eb4b43a7d92" sha1="dea38968eb02aa0e20924ca7f1ee6fcf9a835565"/>
+		<rom name="SYS7.ASM" size="27958" crc="ff28df90" md5="2e93ab4abbf59f10a7ea54f30fb06f9b" sha1="1d965434f8256f21620f8ac6baa077e8e3336d01"/>
+		<rom name="SYS8.ASM" size="10902" crc="35dd41bb" md5="cf1005e0ef2827bc65aeeed460cf7f86" sha1="c3bd4c9337f706199613449135bf0c664557667c"/>
+	</game>
+	<game name="PowerDRAW (19xx)(Kim Watt)[SRC]">
+		<description>PowerDRAW (19xx)(Kim Watt)[SRC]</description>
+		<rom name="DRAW.ASM" size="12488" crc="19f23be5" md5="05883c3e90daa9356d24c6924c732095" sha1="f38c061caa7d10b045387bf15fe745b82ee72d54"/>
+		<rom name="PDMERGE.ASM" size="10496" crc="9132868e" md5="2a9bfa8feef99ab32e9f1e4d8ddc40de" sha1="66c58ef5ca6418c27ba996494e8edbd7d849984b"/>
+		<rom name="PDPLAY.ASM" size="7424" crc="55aa8d23" md5="14eeb691f0c75092368e2d3f10476df8" sha1="54845ebe4fcb7bfdd945596515f629712e811491"/>
+		<rom name="PDPLAY.BAS" size="3328" crc="94cc00d0" md5="12f09643cc1698c240a3c9fb8304c417" sha1="8074e55539d2e773c7c7bdd85887772184e991fe"/>
+		<rom name="PDRAW.ASM" size="3312" crc="c5502a4a" md5="bca0e618228c28545857ec3ecd1aa217" sha1="583faf8242e23e43773a46a13d789850e580f370"/>
+		<rom name="PDRAW0.ASM" size="4912" crc="ca5261ee" md5="eba6b9bf3cd1d5ec46b289302f6f6e0d" sha1="f94c976532e5a00150ae4ec3b9629117a7f6b038"/>
+		<rom name="PDRAW1.ASM" size="13176" crc="ada215e6" md5="704f075e4992c5ca3440556acb8474b3" sha1="e9a79124d72786fc7bd64eeaf8af27e57a3693c8"/>
+		<rom name="PDRAW2.ASM" size="14443" crc="17632a65" md5="41c66f7a6d358c5afd8b093c50565e59" sha1="82f499f86f45d7a13ff4ae79f5c05c8f5494620b"/>
+		<rom name="PDRAW3.ASM" size="12842" crc="3cb4f4c2" md5="9be1260bbc54aed5aac1be36f23bf562" sha1="088b7e3950c6c11a53f81550387b0dfbe5c4f988"/>
+		<rom name="PDRAW4.ASM" size="19288" crc="f3e40004" md5="f5035d665a7121abecb68d245be7acf2" sha1="92ea03747e2253699c632d6b02ff4b4aa93503b0"/>
+		<rom name="PDRAW5.ASM" size="14125" crc="141a73c9" md5="d98bf6cec5d9fcd13c89d5a8bee4189a" sha1="2198681231dc919ab807aa255417eb5a46f2e3b1"/>
+		<rom name="PDRAW6.ASM" size="12020" crc="5f12895d" md5="a3193fb6ff4ba1b9687c3179542e3339" sha1="1934d4d261539664d3fad4662faf9d58ec6ef9e7"/>
+		<rom name="PDRAW7.ASM" size="6330" crc="c61ccfa3" md5="67980afc2788fa07a80c158b432f7932" sha1="0c08857436915d8feaef70f3fbfc627043339cc0"/>
+		<rom name="PDREDIT.ASM" size="15765" crc="bdf6a586" md5="91d5ae792dcca0b048e6d1047e97acdb" sha1="43f2818ad610618e9ff1e187f7801badd566bb34"/>
+		<rom name="PDS.ASM" size="5723" crc="ada04a10" md5="621806829e74038addb5fd2c950c5b32" sha1="8d8908c1cefc33da5715db7dec94fbc1155ce93f"/>
+		<rom name="PDSEDIT1.ASM" size="16098" crc="fb5d3e3f" md5="cba686eb483c194b613584de2675dda7" sha1="a6645f0769fdd475be16e849c46aeddba52df616"/>
+		<rom name="PDSEDIT2.ASM" size="16819" crc="25e8bdaf" md5="f034832afa0ce5f39f978ae66531f568" sha1="5ad61b02c7ae869dcedc4f84aaf52bdf030babbc"/>
+		<rom name="PMOD.ASM" size="1074" crc="07626f4c" md5="d355b300104bd2eeb235382dc781e1a0" sha1="eda8c8d2842a08f0fe97ff75b797de56d9f2f38c"/>
+		<rom name="PMODA.ASM" size="21566" crc="7af136d9" md5="6cdd6e5ab930077dfa29445850ee81a6" sha1="b9639b74c73d2e0976ade8dcc5729c7db794e681"/>
+		<rom name="PMODB.ASM" size="19634" crc="cb02102c" md5="e7e7b947601170407a6c937be5f222da" sha1="f12af60ca19e36c06bb2a1666e103b2e71a335cb"/>
+		<rom name="PMODC.ASM" size="27667" crc="1aad674e" md5="ebf82767e3d4227f07d3c41985769658" sha1="067b57cd78d40533966d8f9265a7c487785557eb"/>
+		<rom name="WORK0.ASM" size="3192" crc="6274a92c" md5="5449660ded5d4d1da10fd13ae390ba6b" sha1="c0f8bf30639d2bad0ef65a8c0d4fd29342e0ad2e"/>
+		<rom name="WORK1.ASM" size="22485" crc="8b2161fe" md5="7028d20c0aa2f7be6cbdc83c43e4dd1d" sha1="642bcbdb70d73a05f0975903966f75699e9e18b2"/>
+		<rom name="WORK2.ASM" size="18252" crc="6bc5280a" md5="0581fc5f8b37450a2d06ba6af449fcf5" sha1="4ec142a45fe8c43204cb86e0143bf1841d643c3e"/>
+		<rom name="WORK3.ASM" size="28050" crc="504523c6" md5="ffee24b7553cf0045cf565621d6f0b93" sha1="198879aa351ec8c3e83a16e6527ae4aa72ac1064"/>
+		<rom name="WORK4.ASM" size="8954" crc="bd1d765e" md5="2a553be32a7c4a8ee4841a83285346b0" sha1="bdb9c69b99c5dd9a192194b216d878c340801584"/>
+	</game>
+	<game name="PowerDRAW Source (19xx)(Kim Watt)[SRC]">
+		<description>PowerDRAW Source (19xx)(Kim Watt)[SRC]</description>
+		<rom name="PDMERGE.ASM" size="10496" crc="9132868e" md5="2a9bfa8feef99ab32e9f1e4d8ddc40de" sha1="66c58ef5ca6418c27ba996494e8edbd7d849984b"/>
+		<rom name="PDPLAY.ASM" size="7424" crc="55aa8d23" md5="14eeb691f0c75092368e2d3f10476df8" sha1="54845ebe4fcb7bfdd945596515f629712e811491"/>
+		<rom name="PDPLAY.BAS" size="3328" crc="94cc00d0" md5="12f09643cc1698c240a3c9fb8304c417" sha1="8074e55539d2e773c7c7bdd85887772184e991fe"/>
+		<rom name="PDREDIT.ASM" size="17722" crc="a994f9e2" md5="2d779e758fee588ad3b9e36028368143" sha1="c234febb6137ce71befa93847457096636249cc7"/>
+		<rom name="PDS.ASM" size="5723" crc="ada04a10" md5="621806829e74038addb5fd2c950c5b32" sha1="8d8908c1cefc33da5715db7dec94fbc1155ce93f"/>
+		<rom name="PDSEDIT1.ASM" size="20603" crc="934b2d7e" md5="2116cfcd9945ba529c5c8bd1a3d60eba" sha1="639c2eb9193229f972a9d7d9b044e07ebb52e535"/>
+		<rom name="PDSEDIT2.ASM" size="22472" crc="7ff0c6a6" md5="2e05657cd118b9528fd9d728f2e72142" sha1="e9bff8bfa51a02ffa727cdf298d0765a4e5a6f77"/>
+		<rom name="PDTEXT.ASM" size="5309" crc="b9379b59" md5="85da75c4fefda4d3a623d42d09a3c0ea" sha1="5d9f225b5c2b9a33e395afa087f8775a43e706f7"/>
+	</game>
+	<game name="PowerDRAW v1.6 (1983)(Kim Watt)[SRC]">
+		<description>PowerDRAW v1.6 (1983)(Kim Watt)[SRC]</description>
+		<rom name="PDRAW.ASM" size="3312" crc="c5502a4a" md5="bca0e618228c28545857ec3ecd1aa217" sha1="583faf8242e23e43773a46a13d789850e580f370"/>
+		<rom name="PDRAW1.ASM" size="13176" crc="ada215e6" md5="704f075e4992c5ca3440556acb8474b3" sha1="e9a79124d72786fc7bd64eeaf8af27e57a3693c8"/>
+		<rom name="PDRAW3.ASM" size="12842" crc="3cb4f4c2" md5="9be1260bbc54aed5aac1be36f23bf562" sha1="088b7e3950c6c11a53f81550387b0dfbe5c4f988"/>
+		<rom name="PDRAW5.ASM" size="14125" crc="141a73c9" md5="d98bf6cec5d9fcd13c89d5a8bee4189a" sha1="2198681231dc919ab807aa255417eb5a46f2e3b1"/>
+		<rom name="PDRAW6.ASM" size="12020" crc="5f12895d" md5="a3193fb6ff4ba1b9687c3179542e3339" sha1="1934d4d261539664d3fad4662faf9d58ec6ef9e7"/>
+		<rom name="PDRAW7.ASM" size="6330" crc="c61ccfa3" md5="67980afc2788fa07a80c158b432f7932" sha1="0c08857436915d8feaef70f3fbfc627043339cc0"/>
+	</game>
+	<game name="PowerMail v2.0 (1983)(Kim Watt-Breeze)[a2][SRC]">
+		<description>PowerMail v2.0 (1983)(Kim Watt-Breeze)[a2][SRC]</description>
+		<rom name="MAIL.ASM" size="22219" crc="812649f3" md5="a5b72903a4832c36fb78176df748a46e" sha1="ba9dbdeb5aea98dee126fe80d5564040e0b32201"/>
+		<rom name="MAILA.ASM" size="18059" crc="c148b97a" md5="c5b5e221de50e567d8713be61d4caebf" sha1="be2cba733aed378d72f36e5a2a84716d8bebba34"/>
+		<rom name="MAILASM.ASM" size="274" crc="9f0165cd" md5="b4d068eebfa3b015a251af187e94aa8d" sha1="d00903092473d8b5b2a2a48fd3491c2c87027975"/>
+		<rom name="MAILB.ASM" size="18643" crc="45e15c66" md5="228bff1a3d1aafc7c4b05e0399f3febb" sha1="b998c9c7eabebedd8911fd984bdc388291df3fca"/>
+		<rom name="MAILC.ASM" size="13940" crc="7222a0df" md5="ef58c69faad6da90d213784dd5f08ac9" sha1="00d590bcc20319b7e9e82fe43392e6ac0d45fa81"/>
+		<rom name="MAILCC.ASM" size="29487" crc="7733e255" md5="6214a9cb469ceac6bb7fde04d9afe32a" sha1="9f8c8efb28bc169a46d65e222e5b85b05e8f6765"/>
+		<rom name="MAILD.ASM" size="4601" crc="6c511ed6" md5="901980f80939b54de1d0fb3028ea13ce" sha1="b7dbb784bbca37db315c4e1ba306edec325d5993"/>
+		<rom name="MAILDA.ASM" size="10345" crc="2c7e7b0a" md5="c0861b81a76413c58d75f6d13f667c51" sha1="e524219f1ff5a964c2acc6dc31a738a278f2cf38"/>
+		<rom name="MAILDB.ASM" size="7895" crc="d34247ae" md5="48afe4d96def084e4ba757968b91e3a0" sha1="c17e6438138590b3fcf409be563e8715b3cca9f9"/>
+		<rom name="MAILDC.ASM" size="12854" crc="f2907d8c" md5="c15a059ea08369ca9bf55644c3e75cac" sha1="bd3c3d3ff2b27649d32984fdcac59010d10b1935"/>
+		<rom name="MAILDD.ASM" size="8997" crc="80e73bed" md5="00a175b2cf2d6c84fd2b47444b6877b4" sha1="ae5e10e35075d5052b0ebec528d6337f917ea93a"/>
+		<rom name="MAILDE.ASM" size="7648" crc="ffb47b07" md5="04de75480c18cad1950134ec5f0f8277" sha1="f6be6677934daf8a629b543797b54497d9e9e0e4"/>
+		<rom name="MAILDF.ASM" size="3929" crc="a69fee5b" md5="006a757bf59dc89c85a27f8bce717c6a" sha1="4c1b6303e320a201777b892b8e30782b4177ff7f"/>
+		<rom name="MAILDISK.ASM" size="7009" crc="01dd5797" md5="f4a492c342795308b98e3527c95fd699" sha1="01a27cdfcb9d9be5b4cfbe8613bb1ee8b55794dc"/>
+		<rom name="MAILDVRS.ASM" size="11852" crc="a735ecb8" md5="6e94e37c3bb4f38ab17da96f59bfff89" sha1="f43744b252b9386a2742a1569b50b14422880d17"/>
+		<rom name="MAILE.ASM" size="24827" crc="bd7d39af" md5="5886cde13632001b75c15d80b4c63049" sha1="41fb21fdaad9a3b718ea8c3fb410ade7ea948819"/>
+		<rom name="MAILE2.ASM" size="24129" crc="fac296b6" md5="10c7274752863fb6fe477068e42925ea" sha1="15e9640c62561e37d776648de5f555f242bbd108"/>
+		<rom name="MAILE3.ASM" size="12698" crc="cfe10db0" md5="574915646e5b61ee8b097add7842625f" sha1="5dfb899fc2bcbd18683699560f188ce7ab536053"/>
+		<rom name="MAILEQU.ASM" size="3010" crc="58f9e4dd" md5="6d727b5cca8635d29983962faeda13ff" sha1="db9172143bd2282f2bd6c8c98ced4c1e9df44517"/>
+		<rom name="MAILEXT.ASM" size="1514" crc="d6a591cc" md5="b3df18756573a9c6173c99a608800e2b" sha1="3cd08defc7ca888cc660e69f2e467fa23c688b2d"/>
+		<rom name="MAILM.ASM" size="19528" crc="f36b6b20" md5="ee3f548d80e8579342be93725145bd67" sha1="f1bb340e00324923d0e11fcee4ddf539c85786df"/>
+		<rom name="MAILMATH.ASM" size="2411" crc="a2ac14c6" md5="7d0db16a1bcb7abc77ddd3fcef919f38" sha1="5c643f6391368aa1276ef23f2457b248e1412ab2"/>
+		<rom name="MAILS.ASM" size="24360" crc="b8112ce2" md5="52203ce5308ad196d43a7cade2c9c17b" sha1="dac0939824852cbfe820fc7e5f2e3b8b2d2e15ba"/>
+		<rom name="MAILS2.ASM" size="6012" crc="f9bacf9d" md5="9366baac7320b845d9018ab13bef594d" sha1="5855dbeb510a4ee9d08d17191adb34a592a597cc"/>
+	</game>
+	<game name="PowerMail v2.0 (1983)(Kim Watt-Breeze)[a][SRC]">
+		<description>PowerMail v2.0 (1983)(Kim Watt-Breeze)[a][SRC]</description>
+		<rom name="MAIL.ASM" size="22689" crc="fe4cea79" md5="568ea9bfbfe309700fbe1109fdc40925" sha1="42c60d4d7bc3189ac28b2b78464ab96108f3e2cd"/>
+		<rom name="MAILA.ASM" size="18059" crc="c148b97a" md5="c5b5e221de50e567d8713be61d4caebf" sha1="be2cba733aed378d72f36e5a2a84716d8bebba34"/>
+		<rom name="MAILASM.ASM" size="274" crc="9f0165cd" md5="b4d068eebfa3b015a251af187e94aa8d" sha1="d00903092473d8b5b2a2a48fd3491c2c87027975"/>
+		<rom name="MAILC.ASM" size="13920" crc="7473b658" md5="8c5dc733ddacbb6d435ba9f2ee0d0c5b" sha1="b7414dec4d2df3ce3cd06b3b594d0070e49655a5"/>
+		<rom name="MAILCC.ASM" size="29586" crc="c3ea6609" md5="a7b111884f2c4201d3751a9221e44666" sha1="5561d1c4ee213f099db0eceee5c15e8a127a23ac"/>
+		<rom name="MAILD.ASM" size="4601" crc="6c511ed6" md5="901980f80939b54de1d0fb3028ea13ce" sha1="b7dbb784bbca37db315c4e1ba306edec325d5993"/>
+		<rom name="MAILDA.ASM" size="10397" crc="3bb4339a" md5="6d53589cea7fe9bd9c6e9cb9c38dec54" sha1="ea7c691f73613a171666498865be3f73f0901e8c"/>
+		<rom name="MAILDB.ASM" size="7620" crc="71c4bd19" md5="ba8a7665d768777121b8c26107e3029e" sha1="9ee083dc0efa3e0ec41efd26b8af61ed3d5b5290"/>
+		<rom name="MAILDC.ASM" size="13312" crc="4c16100e" md5="32ec056cdd47ab252387b70109443e85" sha1="831dc83f90e1dd471914ce8f4cd9f629777f1754"/>
+		<rom name="MAILDE.ASM" size="7718" crc="7412a4b8" md5="3ae5e7e1aa3b73d70c7bf3cf67aefc10" sha1="6d0a27ad714fc2d25df0d28514ee8a8c625243c0"/>
+		<rom name="MAILDF.ASM" size="3929" crc="a69fee5b" md5="006a757bf59dc89c85a27f8bce717c6a" sha1="4c1b6303e320a201777b892b8e30782b4177ff7f"/>
+		<rom name="MAILDISK.ASM" size="7009" crc="01dd5797" md5="f4a492c342795308b98e3527c95fd699" sha1="01a27cdfcb9d9be5b4cfbe8613bb1ee8b55794dc"/>
+		<rom name="MAILDVRS.ASM" size="11854" crc="1fc8f862" md5="53255ac62f7891ef5601abd67aefc397" sha1="a7c7d07db74cb63547f930d6cc7162d47c8e26f8"/>
+		<rom name="MAILE.ASM" size="24837" crc="272111ab" md5="c35b0c54a7239ed314a31f03ebe3ac62" sha1="da10fc775b73935ccfd23079342a09ebf74493f9"/>
+		<rom name="MAILE2.ASM" size="24129" crc="fac296b6" md5="10c7274752863fb6fe477068e42925ea" sha1="15e9640c62561e37d776648de5f555f242bbd108"/>
+		<rom name="MAILE3.ASM" size="12698" crc="cfe10db0" md5="574915646e5b61ee8b097add7842625f" sha1="5dfb899fc2bcbd18683699560f188ce7ab536053"/>
+		<rom name="MAILEQU.ASM" size="3010" crc="d37a026b" md5="4d869a2d2d5f1fd77beb9a832a5d1d08" sha1="15eab6c1842220196ed378e71f417ffdd5cb622c"/>
+		<rom name="MAILEXT.ASM" size="1514" crc="d6a591cc" md5="b3df18756573a9c6173c99a608800e2b" sha1="3cd08defc7ca888cc660e69f2e467fa23c688b2d"/>
+		<rom name="MAILM.ASM" size="19986" crc="4a05bb87" md5="50ff47395dd01dc63464a8c546360f3c" sha1="f35db6dc3eb01ea626571f6e85e83b73e0a52f15"/>
+		<rom name="MAILMATH.ASM" size="2411" crc="a2ac14c6" md5="7d0db16a1bcb7abc77ddd3fcef919f38" sha1="5c643f6391368aa1276ef23f2457b248e1412ab2"/>
+		<rom name="MAILS.ASM" size="24550" crc="acd3e4e7" md5="b1fd524dad63babd5ebc8819dbb39374" sha1="9f92e18c952d2c5fdf46b8a4202f64c634cd2bcf"/>
+		<rom name="MAILS2.ASM" size="6021" crc="101904a1" md5="01e494deaeb446221e8dd385469a1933" sha1="a2e694053cf795d6b368f40123e22c2811e2276a"/>
+		<rom name="PMAILC2.CMD" size="4894" crc="79cd8d77" md5="a3ff456e4438dc32f4745a3e4c083c15" sha1="3157887cc8bfe999dda24addd38686e3be9de732"/>
+		<rom name="PMAILD.CMD" size="7089" crc="a40e92f4" md5="729e96205417f15c7a2a69a701f0fe6f" sha1="4c22a179d2645f0e34d85d4a8d5191ab1935c260"/>
+		<rom name="PMAILD2.CMD" size="7030" crc="b04aa3db" md5="ea2bff82bd4456395f5fbf14030abb17" sha1="9d59c7f91bbc44f22aa277d7d5fc8bb022670793"/>
+		<rom name="PMAILE2.CMD" size="6523" crc="61c50363" md5="518eaba1ef8bcad3ce9918e51f11b6a7" sha1="c7268cc2635b57eeabe46c879d0a10c117bac9de"/>
+		<rom name="PMAILM.CMD" size="3113" crc="976702b7" md5="36c83bce0d5f2b2f940fe58a41b0de06" sha1="64bb977a00aa4cfe86ca99457dc97eb164401162"/>
+		<rom name="PMAILM2.CMD" size="3177" crc="e9c04cd0" md5="03b11db4576488f2da976accadeaf2b6" sha1="63f5a554873ff358e606de5c143d70a4b46da8e7"/>
+		<rom name="PMAILS2.CMD" size="3521" crc="782973ae" md5="495e3302a1867e9143350830a2f850ae" sha1="fc9532179ccba47d98e3f622555d89ef3a3a5e32"/>
+	</game>
+	<game name="PowerMail v2.0 (1983)(Kim Watt-Breeze)[SRC]">
+		<description>PowerMail v2.0 (1983)(Kim Watt-Breeze)[SRC]</description>
+		<rom name="MAIL.ASM" size="25139" crc="6d9f7904" md5="6435e040db5adc50e3c38f7119f3253b" sha1="5e729b7dd9fc61c7464df6d584ed9016fc00b997"/>
+		<rom name="MAILA.ASM" size="19353" crc="e5bd9f65" md5="f8e86ea82220e5c2f6b31d8f58492161" sha1="3f09c98e03f12c2e3c521fe75c54309cdb68223e"/>
+		<rom name="MAILASM.ASM" size="555" crc="00f156ae" md5="f40b2d94f4d6798aed41bbbd10b20949" sha1="4ca36c308c3c301ffd6f3ddf3d6317be98718931"/>
+		<rom name="MAILB.ASM" size="18456" crc="2291bf01" md5="c5ca8063d7c48f976cb1022350fe9117" sha1="6912401bdad3d105f5c47c16a8fdb4b7b6c9a586"/>
+		<rom name="MAILC.ASM" size="13735" crc="11df22f5" md5="70e3cb68668c03f682d4cea315178abf" sha1="289838ba74cbfca9748abda665821f672c4c7669"/>
+		<rom name="MAILCC.ASM" size="29520" crc="74a50d79" md5="97453296db4f37cc0745df0597052e17" sha1="44b5bde55f7819ab39fc767933b624972ba994d5"/>
+		<rom name="MAILD.ASM" size="4549" crc="a3fa1721" md5="bfcbe38c47d9c7c9d922faa883fd9107" sha1="0a7939a6e2dc3cb6281acd04205e88e87f5d7f75"/>
+		<rom name="MAILDA.ASM" size="10567" crc="e69cd68c" md5="85bc30fe2d8eeb8cf2ceb6313fda0320" sha1="123a945c6c0703ca6658967628336983d0214a6c"/>
+		<rom name="MAILDB.ASM" size="7701" crc="5b677981" md5="3cbc63e01a2d66c13817c901a7595939" sha1="379fcab16d30f95a7296016cbeffadcf82033676"/>
+		<rom name="MAILDC.ASM" size="13334" crc="50374884" md5="991798aac423d95f339b338ee9ad250c" sha1="e977e2194deff3876ae96bf57eb1665cb089b97d"/>
+		<rom name="MAILDD.ASM" size="9195" crc="b10163bc" md5="d69aeb86201bfba831bd24e9f5519e37" sha1="45aab89dbd6feb6e3b977eac5b62ec818f703032"/>
+		<rom name="MAILDE.ASM" size="7786" crc="7756fce5" md5="984f45ec4e5856c5690cbdd0a2da12eb" sha1="b06a1cffeb2d37667ecedca7b281934f8c1a4fb1"/>
+		<rom name="MAILDF.ASM" size="3918" crc="aabeeaae" md5="7dd24482b2bc0c72b5241a0c0e93c913" sha1="2442c567937a20474bd265e32170835d1e602d63"/>
+		<rom name="MAILDISK.ASM" size="9174" crc="4fe129bd" md5="1897fa2320cea5c1348e16fa00fa176d" sha1="b862f6497d2ada70da76510b9c209f926b5935e2"/>
+		<rom name="MAILDVRS.ASM" size="12312" crc="276fdce0" md5="b50e24db8216f73e6a918af242bdaac3" sha1="652e8b761e82b0e743b64b19478f6912da4efc5d"/>
+		<rom name="MAILE.ASM" size="27156" crc="3e31511d" md5="fdb4cd6687b8ca67c10cc7b8d473e36a" sha1="15a3234673641e1d380d4f6778ace88cccf3b1c8"/>
+		<rom name="MAILE2.ASM" size="24011" crc="f07a8320" md5="235e4e977ea78083a0560f2d64616de8" sha1="a259683b22c75c33596eb56dc3b47fa81429cc70"/>
+		<rom name="MAILE3.ASM" size="12658" crc="480d6238" md5="c2c9640a780555ac6cf7a93170786bbb" sha1="a67fb8202e23a8010af00cfa0062e44e434e851e"/>
+		<rom name="MAILEQU.ASM" size="3397" crc="e2847503" md5="aa7a7144b970fcfa7d651e4d1a7efb3d" sha1="9d28538a07737ce8740ca8c092990f7f1e6d63a4"/>
+		<rom name="MAILEXT.ASM" size="1514" crc="d6a591cc" md5="b3df18756573a9c6173c99a608800e2b" sha1="3cd08defc7ca888cc660e69f2e467fa23c688b2d"/>
+		<rom name="MAILM.ASM" size="21671" crc="3cde47e5" md5="fc9488ec4d7483a6abb87dd897c9ddc9" sha1="27651a1fd51db1697ebaab6a0cf9e56edde7f643"/>
+		<rom name="MAILMATH.ASM" size="3297" crc="c32edf5e" md5="a59bbe6be62a50c689e66ea628866959" sha1="dc69ecfe40eaab4abda5befe6a25abeb49298e46"/>
+		<rom name="MAILS.ASM" size="26945" crc="35c8a67e" md5="d5d0c4fe218e74e5e8da43fd5a77f648" sha1="973bc9281ac61fdc43d106464c831abe207a6c81"/>
+		<rom name="MAILS2.ASM" size="5777" crc="fec414ff" md5="2551112d3fae3c09e2215a56d35c46bb" sha1="050b5149b3c45f1e6daff023f9250a74127095c4"/>
+	</game>
+	<game name="PowerSoft Editor Assembler Source (19xx)(Kim Watt)[SRC]">
+		<description>PowerSoft Editor Assembler Source (19xx)(Kim Watt)[SRC]</description>
+		<rom name="PEA2.ASM" size="14763" crc="fafcee86" md5="0beff6220237f60ccc5705420e2a0051" sha1="8aa3799d2da1183e2f8fd3b2be2fe98a4798cd6a"/>
+	</game>
+	<game name="PowerTool v1.0 (1983)(Kim Watt-Breeze)[a][SRC]">
+		<description>PowerTool v1.0 (1983)(Kim Watt-Breeze)[a][SRC]</description>
+		<rom name="PTBOOT1S.ASM" size="5150" crc="d51af191" md5="6abe69ddbe7f300a0ff1844ddb9dc3a3" sha1="f7223956bc545bc015b29d320fc4d697dff45c5f"/>
+		<rom name="PTBT3.ASM" size="4980" crc="205fb37e" md5="84c30e203e0172c5cf21730663c29b4d" sha1="bbe0a0259e5143a46711e7b8f891e54ca28dcdfd"/>
+		<rom name="PTBUFF.ASM" size="3305" crc="f8b403d1" md5="13d03b65223017f328218071d7cb97bd" sha1="31db246dacac6cb4808d22a19b242f9502c20b65"/>
+		<rom name="PTCONF.ASM" size="18863" crc="0aa851d7" md5="494495f774a3f1f45a6939180be86971" sha1="cd74e7023c544571a110584614abdbf312cd6961"/>
+		<rom name="PTCOPY.ASM" size="404" crc="b8039d69" md5="0e82f16086f16fa27af2e010d272327a" sha1="e4e48b9d8ece85cd5d9e5903f80fd09cb4d605bf"/>
+		<rom name="PTCOPY0.ASM" size="16125" crc="94d9a15d" md5="bb17bb961ff558cb9857800d1e03ab6f" sha1="85a6c223db7c8377da17ea4f83f26c440b412bbd"/>
+		<rom name="PTCOPY1.ASM" size="12711" crc="23d6e96a" md5="29aa88d07e715a946e97f3b87a4d0447" sha1="6b893edfdf8ada282ecae89498e6362945e2ecc0"/>
+		<rom name="PTCOPY3.ASM" size="9207" crc="19562c5b" md5="69011185c55cef153f2d3dfa526f62be" sha1="050f02874a005ba7e45dbb4f56c588ec46ccb530"/>
+		<rom name="PTEQU.ASM" size="3881" crc="d6851077" md5="43b91820a1140f47608c2a5361ff022f" sha1="fcc2cf6b516f7e852df76645e4fe3fe2678147d2"/>
+		<rom name="PTFILEC.ASM" size="14329" crc="9c087732" md5="0235a6f88db5932b5d22ebb935d3b805" sha1="ba9fd1d531c520ad7ceeedb5e4c81c37bad57811"/>
+		<rom name="PTFORMA.ASM" size="17115" crc="c3b0c6e5" md5="daafe750780e9bb064bb6744bd6000cb" sha1="5ac94769c3cfd62308053d4d052ea6fcf34b56b6"/>
+		<rom name="PTFORMB.ASM" size="17433" crc="974a6c22" md5="036ec2f3be58c6e28ae328dae2bf78da" sha1="8d919af8ee9111a9773a21308ba98eceeeae03c7"/>
+		<rom name="PTFORMC.ASM" size="3625" crc="c29f2cf1" md5="bf21fd2d628f69ec3b464afb2e8aec45" sha1="d2a992fe6fdbfa9850b51a7c4124c3833043ccfe"/>
+		<rom name="PTLD1.ASM" size="8894" crc="493694b0" md5="21e4876d0eab7d9cac6438a6f0142952" sha1="f64bdf4270647643dd58d30b5206ec6f59101af1"/>
+		<rom name="PTMEMB.ASM" size="11111" crc="bcc316ae" md5="681fec5c16519b10f0532e1e303fc356" sha1="a6e3ef7dd1a1234c4275fea16509afab296661c5"/>
+		<rom name="PTPATCH3.ASM" size="69" crc="facd1133" md5="afe902e58a834dba86e0da79db7338e4" sha1="8f9df0e99ae71b078219ad06687a7b734176a1c3"/>
+		<rom name="PTPURGC.ASM" size="12495" crc="8240da2d" md5="2edf3f55335c5984a37bbc9c9cff837c" sha1="a9ea694e016e9def6c71c662e2863eaa27bbf765"/>
+		<rom name="PTPURGD.ASM" size="16050" crc="499a0082" md5="f54ddb654926438098f3bccda7c64ec0" sha1="531c5dad0493fa47721a868aaa823211341e111a"/>
+		<rom name="PTSUB1.ASM" size="15718" crc="5a924328" md5="aff8bf4a18235f07ba0197a0bf1f4b1c" sha1="4a6518f157ca4c7c42ea84e817bbe32123989d40"/>
+		<rom name="PTTASK.ASM" size="8472" crc="e813ce23" md5="7e94e8cbd6909b2657c1063b114f59cc" sha1="9e734630f019b7270231a8ae94ba4c527a0e166e"/>
+		<rom name="PTVER0.ASM" size="15985" crc="2db42313" md5="5bd32973b03fcf9ece4ced1968a05976" sha1="80acea34bbab3488c5f8539fbb8834b26622a1f4"/>
+		<rom name="PTVER1.ASM" size="12710" crc="e079bb59" md5="048a17b52f6315a18d1ca8602cd44283" sha1="4cf99662f9b458dd56431524eedb0ddf6502a061"/>
+		<rom name="PTVER2.ASM" size="12626" crc="39fce047" md5="de2d4d6b5a4849a412649bba664aa6f8" sha1="2ec24348c3a0c98c1554534acf72465f10a7801a"/>
+		<rom name="PTVER3.ASM" size="9206" crc="56920dbb" md5="c2fafb88dec4682be1676af22cec1d90" sha1="aa1dc13479f3fb833bfb9f788e24dabb4f84f4b8"/>
+		<rom name="PTZAPC.ASM" size="19629" crc="e0433574" md5="58d4c899308149c81ea32058399c06d4" sha1="de2cda737d2dbd071266149ce851a6c7e071c5fd"/>
+	</game>
+	<game name="PowerTool v1.0 (1983)(Kim Watt-Breeze)[SRC]">
+		<description>PowerTool v1.0 (1983)(Kim Watt-Breeze)[SRC]</description>
+		<rom name="ptback.asm" size="7504" crc="e506a887" md5="a88546b9896f9c462ab088d5ae8c8ad3" sha1="c84332b187f8b174af679b108bb657aaa371840b"/>
+		<rom name="ptboot1d.asm" size="5115" crc="6f574da7" md5="3620d81a1d2391b4246de6604d3edb35" sha1="4985764d00b84f1efa72230a94bb28f54383f1bf"/>
+		<rom name="ptboot1s.asm" size="5150" crc="d51af191" md5="6abe69ddbe7f300a0ff1844ddb9dc3a3" sha1="f7223956bc545bc015b29d320fc4d697dff45c5f"/>
+		<rom name="ptboot3.asm" size="5060" crc="51b8a2e6" md5="86010946f7e46d8956d0bb2776ef5de9" sha1="8debe22fc9a3fd617d0cf1176057309c56317a55"/>
+		<rom name="ptbt1.asm" size="4749" crc="98c763b5" md5="434eb4426282180f216514a9dc240596" sha1="0fc55781c2094929d63db46c9474918d90db98bc"/>
+		<rom name="ptbt3.asm" size="4980" crc="205fb37e" md5="84c30e203e0172c5cf21730663c29b4d" sha1="bbe0a0259e5143a46711e7b8f891e54ca28dcdfd"/>
+		<rom name="ptbuff.asm" size="3305" crc="f8b403d1" md5="13d03b65223017f328218071d7cb97bd" sha1="31db246dacac6cb4808d22a19b242f9502c20b65"/>
+		<rom name="ptconf.asm" size="18863" crc="0aa851d7" md5="494495f774a3f1f45a6939180be86971" sha1="cd74e7023c544571a110584614abdbf312cd6961"/>
+		<rom name="ptcopy.asm" size="404" crc="b8039d69" md5="0e82f16086f16fa27af2e010d272327a" sha1="e4e48b9d8ece85cd5d9e5903f80fd09cb4d605bf"/>
+		<rom name="ptcopy0.asm" size="16125" crc="94d9a15d" md5="bb17bb961ff558cb9857800d1e03ab6f" sha1="85a6c223db7c8377da17ea4f83f26c440b412bbd"/>
+		<rom name="ptcopy1.asm" size="12711" crc="82c738a2" md5="8a6e4e575c8c509c5c2c33654a2ad206" sha1="b0ba06b043ea7ac8be89fea2cecedfe481427a38"/>
+		<rom name="ptcopy2.asm" size="12627" crc="9956422e" md5="e702606677513ceee90afe591dda0f43" sha1="ad21d9b8ab41036492bdec84ba0db9d676a705af"/>
+		<rom name="ptcopy3.asm" size="9207" crc="19562c5b" md5="69011185c55cef153f2d3dfa526f62be" sha1="050f02874a005ba7e45dbb4f56c588ec46ccb530"/>
+		<rom name="ptcopy4.asm" size="3108" crc="b421fc7e" md5="60e78d2f9f6a1fb3b75eaaacfb95b9f4" sha1="648deac7358418592b0eb4f93f2ea54582dfd993"/>
+		<rom name="ptdata.asm" size="13571" crc="00e25fe3" md5="0753cc2bc255fe31322fd4c4c978ee3a" sha1="9b6ddb53858fc1bac3bb0bcad30eba2c953e3563"/>
+		<rom name="ptdiska.asm" size="20217" crc="aeb32bb2" md5="96b4f95d0b5ca0da218b440f4c3cd5ea" sha1="72e72f5693e5758f820160b2ac24c3770f8d65c8"/>
+		<rom name="ptdiskb.asm" size="19298" crc="ead258d1" md5="3375b4227aae5039e3fec0c54727035a" sha1="dd54207d1a1c26e0cbf7eb291eda40d7fb9773a7"/>
+		<rom name="ptdvrs.asm" size="21243" crc="fb730a98" md5="cb6c2eb12dc3e05db984128cae792625" sha1="6a2f0e06a4cfe294203190200af98d040939d106"/>
+		<rom name="ptequ.asm" size="3881" crc="d6851077" md5="43b91820a1140f47608c2a5361ff022f" sha1="fcc2cf6b516f7e852df76645e4fe3fe2678147d2"/>
+		<rom name="ptfilea.asm" size="11368" crc="240201b8" md5="4a12e32b52abb3504244cb0422416752" sha1="9ac7b174da45d1eb3246b5988acc1c02df1c264b"/>
+		<rom name="ptfileb.asm" size="17269" crc="2e25d8b9" md5="fc72d1df019697174f0fc426c203b7dc" sha1="514822352ddfb5600fa5a9ba8718c86bf014242a"/>
+		<rom name="ptfilec.asm" size="14329" crc="9c087732" md5="0235a6f88db5932b5d22ebb935d3b805" sha1="ba9fd1d531c520ad7ceeedb5e4c81c37bad57811"/>
+		<rom name="ptfiled.asm" size="9634" crc="948326fc" md5="69af29cb30d97b41d739867136e216d0" sha1="6399797d9c2cba43507e1de006b30204c8559ac8"/>
+		<rom name="ptfilee.asm" size="13369" crc="1b673d57" md5="d36b470b7a162cb20e5b1c22c34e904a" sha1="ca6d6e7438229b270dc19566b04c2ed075d06345"/>
+		<rom name="ptfilef.asm" size="9189" crc="5862a3b3" md5="bd1db7fb393f8590d3f910a1ff1e5754" sha1="d158315dfe537af1eb199a20824997b4abbe9181"/>
+		<rom name="ptforma.asm" size="17115" crc="c3b0c6e5" md5="daafe750780e9bb064bb6744bd6000cb" sha1="5ac94769c3cfd62308053d4d052ea6fcf34b56b6"/>
+		<rom name="ptformb.asm" size="17433" crc="974a6c22" md5="036ec2f3be58c6e28ae328dae2bf78da" sha1="8d919af8ee9111a9773a21308ba98eceeeae03c7"/>
+		<rom name="ptformc.asm" size="3625" crc="c29f2cf1" md5="bf21fd2d628f69ec3b464afb2e8aec45" sha1="d2a992fe6fdbfa9850b51a7c4124c3833043ccfe"/>
+		<rom name="ptinit.asm" size="6819" crc="41a6c1bf" md5="685efcafaf5229ddb98646e964b5444f" sha1="4074145f16f2237caa8108d348a63918ba8850b5"/>
+		<rom name="ptld1.asm" size="8894" crc="493694b0" md5="21e4876d0eab7d9cac6438a6f0142952" sha1="f64bdf4270647643dd58d30b5206ec6f59101af1"/>
+		<rom name="ptld3.asm" size="9250" crc="9996a965" md5="1229289adeceb22829d41a61066c70d3" sha1="4d4ba15726ffe4fdfee428b3327113f01cbc0892"/>
+		<rom name="ptlogo.asm" size="20540" crc="4863411b" md5="54d660ab2b3e669d343460a042649c0a" sha1="1b5c8ff00713beb321474d6374354f33d2d70990"/>
+		<rom name="ptmast.asm" size="19732" crc="8953f192" md5="645e4bc259222296743c4fd14088c706" sha1="ae36063944c1f0422fa98a934c96874120c3e245"/>
+		<rom name="ptmema.asm" size="12839" crc="8a7f87e9" md5="342113de373e212f9638e7d404da2a3b" sha1="11eae7a5b8da43b26f143b2cdd793bbddd573259"/>
+		<rom name="ptmemb.asm" size="11111" crc="bcc316ae" md5="681fec5c16519b10f0532e1e303fc356" sha1="a6e3ef7dd1a1234c4275fea16509afab296661c5"/>
+		<rom name="ptmenu.asm" size="8783" crc="751bb046" md5="dd28df57e4e361dca3d3ed594a3ed0c1" sha1="c3878b6035902ab9814092890b318a37b7d702c3"/>
+		<rom name="ptool.asm" size="1746" crc="2a7bc93d" md5="adb6f6feba7d7c14322213285d119714" sha1="81a9b69740f4ad33811a8047081ffae7047d522b"/>
+		<rom name="ptpatch1.asm" size="69" crc="b41b0a6c" md5="6d27207b20481ff9f21dac294f604c73" sha1="59b76a8f2d4dc2696cdb1c942bd66d304b9d1a93"/>
+		<rom name="ptpatch3.asm" size="69" crc="facd1133" md5="afe902e58a834dba86e0da79db7338e4" sha1="8f9df0e99ae71b078219ad06687a7b734176a1c3"/>
+		<rom name="ptpurga.asm" size="14152" crc="2f66d351" md5="e08d3265e9e792e9cb1c9113d71b8c6e" sha1="181f03705b0268015113075fbed2dd027da1a961"/>
+		<rom name="ptpurgb.asm" size="18374" crc="ee6846a5" md5="1d0f6c091bfb35eef33800d83a0859c6" sha1="30d149dcc8db6120f776938880324b6d97c53a4e"/>
+		<rom name="ptpurgc.asm" size="12495" crc="8240da2d" md5="2edf3f55335c5984a37bbc9c9cff837c" sha1="a9ea694e016e9def6c71c662e2863eaa27bbf765"/>
+		<rom name="ptpurgd.asm" size="16050" crc="499a0082" md5="f54ddb654926438098f3bccda7c64ec0" sha1="531c5dad0493fa47721a868aaa823211341e111a"/>
+		<rom name="ptpurge.asm" size="17476" crc="d32cc9c6" md5="0e42a6ce120452265b4d5a43b43bd42f" sha1="924177a34c356e0833530bad8b11f733c6730afc"/>
+		<rom name="ptsub1.asm" size="15718" crc="5a924328" md5="aff8bf4a18235f07ba0197a0bf1f4b1c" sha1="4a6518f157ca4c7c42ea84e817bbe32123989d40"/>
+		<rom name="ptsub2.asm" size="22380" crc="a75c37c3" md5="d9684049a2c66a2a1d169052fabbf892" sha1="3fde4ffc1b37291e12f9622f289e9274cacc9996"/>
+		<rom name="ptsub3.asm" size="12868" crc="a48fe054" md5="edc27ecb3da390796a9b490b0014e83f" sha1="f0ea50da2e60f902cce37be30bd0c10ec45a8f2d"/>
+		<rom name="pttask.asm" size="8472" crc="e813ce23" md5="7e94e8cbd6909b2657c1063b114f59cc" sha1="9e734630f019b7270231a8ae94ba4c527a0e166e"/>
+		<rom name="ptver.asm" size="400" crc="50b17a6c" md5="92b1cd295cc62eb658833215bd2fba79" sha1="b0a7b6d738b32f3bc1c93d50073cb039d44b8c83"/>
+		<rom name="ptver0.asm" size="15984" crc="cfd77faa" md5="49060a011fda73fd39765761ea86837e" sha1="9cdf94e627e10692f05bffdcbcd52c28a5b03107"/>
+		<rom name="ptver1.asm" size="12710" crc="41686a91" md5="56d7cfbc9403af7a61a16ae7434c4e3f" sha1="cd415e21fda811d32cdb9502621fa92a19157ef9"/>
+		<rom name="ptver2.asm" size="12626" crc="39fce047" md5="de2d4d6b5a4849a412649bba664aa6f8" sha1="2ec24348c3a0c98c1554534acf72465f10a7801a"/>
+		<rom name="ptver3.asm" size="9206" crc="56920dbb" md5="c2fafb88dec4682be1676af22cec1d90" sha1="aa1dc13479f3fb833bfb9f788e24dabb4f84f4b8"/>
+		<rom name="ptver4.asm" size="3108" crc="2aadb069" md5="ca6a464041abd96751944a0d589e5327" sha1="ecef88a1236cef9332718dd7a62fab015fdb8776"/>
+		<rom name="ptype.asm" size="10125" crc="5142f9de" md5="3029c600e41fc5741e7bada257adfbbf" sha1="878d6c612e1eb8392118bc41e26938b15bc1a270"/>
+		<rom name="ptzapa.asm" size="12551" crc="231ac994" md5="1362f93343f5add18b1cdcc9c0267ddf" sha1="54fba4786bbf275d4a7a25e93726e67948ef858b"/>
+		<rom name="ptzapb.asm" size="15941" crc="808e92ca" md5="b37c58ed021915c121ca69d654eab2ff" sha1="05f087a046ce5e6a250893217944e7628180305d"/>
+		<rom name="ptzapc.asm" size="19629" crc="e0433574" md5="58d4c899308149c81ea32058399c06d4" sha1="de2cda737d2dbd071266149ce851a6c7e071c5fd"/>
+		<rom name="ptzapd.asm" size="13998" crc="8b9300a3" md5="5d604d681da5c0cb48c72fc3d3b8781a" sha1="50a0aeeaf5cdc8a847f0ae23189e4fa814a10fbb"/>
+		<rom name="ptzape.asm" size="20892" crc="e5071934" md5="a36327d2b6dbf8764effc169c93e4c7f" sha1="a54cb989fefe1b5f536bbd0e107219fe7c55a7a0"/>
+	</game>
+	<game name="PowerUtilities Source (19xx)(Kim Watt)[SRC]">
+		<description>PowerUtilities Source (19xx)(Kim Watt)[SRC]</description>
+		<rom name="BENCH.ASM" size="7026" crc="d78c0879" md5="a983c52c419108640c052a4782ddf7d7" sha1="28316d849502ea0efa97525ef23a2bd37bf749dd"/>
+		<rom name="BOOK1" size="1086" crc="09b211f6" md5="b5280e47520c50038d9509d9a30024d9" sha1="42b937d01ff7ec1ad3fe4bc5e5e44c20b4449d34"/>
+		<rom name="BOOK1E" size="23422" crc="8e4c4bb7" md5="44f4fa04488fa4796838f83eec6bd382" sha1="cf6b1be70a2a8f9cba961468180314ab876eff1e"/>
+		<rom name="BOOK1P" size="32022" crc="8de85deb" md5="9ac13895fd7e5553795fc59ed5903723" sha1="6e923e04519a0d4222a013febac0beb68436c528"/>
+		<rom name="BOOK1P1" size="29748" crc="ec99b54b" md5="af81fd5cc0ec4e368eb567c1925ce7d3" sha1="207972c1937610183782cd6690edc28807526389"/>
+		<rom name="BOOK1P2" size="30702" crc="ee89279a" md5="29d61283f4116b6c2c0a09641756a774" sha1="c0db77c8701c50ada201c01a0063f3831428231a"/>
+		<rom name="EDIT.ASM" size="1737" crc="127272d3" md5="2892dd6535c25189cf7a12a2434a8254" sha1="afc969c247778163d65193b19271ceb9a2937ac0"/>
+		<rom name="PH.ASM" size="14825" crc="7e7af811" md5="ce52bb485d0f2c1a6e57a8cdd45a5dda" sha1="a88b8c359d8500ab4a68e266fe4cb640eab4f11a"/>
+		<rom name="PTYPE.ASM" size="10125" crc="5142f9de" md5="3029c600e41fc5741e7bada257adfbbf" sha1="878d6c612e1eb8392118bc41e26938b15bc1a270"/>
+		<rom name="SUPDATA.ASM" size="7418" crc="980930b5" md5="5ac853063e483a50351595ce3266f3b2" sha1="c02a76f637718331321ba67b8c7efd322699d2bf"/>
+		<rom name="SUPDISKA.ASM" size="13918" crc="369df56b" md5="1a6f4cc7c93277170123b3c203673d63" sha1="1c95ea7901909116f6a8deca99949f775dc29cb9"/>
+		<rom name="SUPDISKB.ASM" size="14393" crc="4a1f7260" md5="19fbcc80d934ad052bbd9aa4fe12da57" sha1="f047855eb26010a40d481a746852de649c739383"/>
+		<rom name="SUPDVRS.ASM" size="17452" crc="a3b0a173" md5="415f19d614d702da0ea595984aa0e119" sha1="d59c76bdcdd0236f353c1c5b2368c93b967fb45c"/>
+		<rom name="SUPLUS.ASM" size="604" crc="f1e2ad70" md5="4e73d0497f989238982912c5842b9852" sha1="b920b58eb310ea7ca25ba049330c79b2b82b71f7"/>
+		<rom name="SUPMENU.ASM" size="10928" crc="53a26a6f" md5="c9d9b3cfd408bf8c878b32b67335706b" sha1="a6ab8ba5aa483d312dee4dcf0f30997e0f0990cd"/>
+		<rom name="SUPSUB1.ASM" size="23853" crc="8ac847a0" md5="7f91837e54834197c2356be297672d32" sha1="b004af68ae0ab6b580f2400153d5eb40f5df7a2f"/>
+		<rom name="SUPSUB2.ASM" size="19950" crc="d0910688" md5="0fc83c37b0584553d3192b8ccd99db6b" sha1="4dc48d020b7c44992c423ae92f9b6e88397678c2"/>
+		<rom name="SUPZAPA.ASM" size="10816" crc="53582583" md5="6d922b71c4711d84cb3ad69497f3de79" sha1="cc4dab26ce833bfa754d178c33220a2dd7d8b2f6"/>
+		<rom name="SUPZAPB.ASM" size="15682" crc="edd3ce36" md5="c66ffbe52ba8a775cb20711b13014347" sha1="11bf798787e6fb091476b790fef23e3879ad7ea3"/>
+		<rom name="SUPZAPC.ASM" size="18479" crc="480655db" md5="e167b5f31c2a0843dc01313c28e2ea99" sha1="61e13b39c3bfc4fb51fcdeeeffc3f03284a11878"/>
+		<rom name="SUPZAPD.ASM" size="13573" crc="7bea989d" md5="d66da4294e6ff37207ff1ce9704c84f4" sha1="68dba4ea7d5bc79d465a0e025fce6c1bc08d68e0"/>
+		<rom name="U2CODE.JCL" size="512" crc="d383c6d1" md5="946e7ce8e7c558913b83e7511ebaa5ac" sha1="5f6755450823e05a3f2c51e1ee88f0135afb9807"/>
+		<rom name="U2DVORAK.ASM" size="5680" crc="c37369b4" md5="9b400335435bf627f1ca530612dd2f39" sha1="a2a61690eff65adb5c03f480c5a735df2650c305"/>
+		<rom name="U2DVORAK.JCL" size="512" crc="e77f0f46" md5="3617cc0f85ee954cb40ff11ad3b231a8" sha1="b51f6ba56532306356a4a8b6c7bd657c1c8bf1b6"/>
+		<rom name="U2MX80.ASM" size="3397" crc="6428a465" md5="f36ae28af9764246b96758127cc1bfc5" sha1="e509b66c60d1698a6eefc42e417e63ca2f8dcba6"/>
+		<rom name="U2PASSNO.ASM" size="12242" crc="79f5f0d5" md5="5197f6c403e2c6e0d98d091fc9be4a02" sha1="9694b0b951d0ef198aca4184f08bb147b9148b9a"/>
+		<rom name="U2PCLEAR.ASM" size="19521" crc="57407fe3" md5="32425dcde0ddf755815bd8024ce95eac" sha1="0cf17b6cf67f47e1df1fc122f53f6eb2b4d34b14"/>
+		<rom name="U2PEX.ASM" size="9430" crc="b2794ba1" md5="963d0068b882679452425284a973e25e" sha1="895f31f25a4590fd12ab9412ec82bb28c5e0c99a"/>
+		<rom name="U2PFILT.ASM" size="8492" crc="3833b654" md5="2f2e1acc3d6cc7029e46b909305fb579" sha1="6764b9a4a102b35d2a81239db8c3c99783f9d48b"/>
+		<rom name="U2PFORM.ASM" size="15906" crc="0ea59b4f" md5="c6232cf521b5ff8351b3658b3024f694" sha1="6f21fdd3d4c6b36ce8b1caf472286462cd5f3f81"/>
+		<rom name="U2PH.ASM" size="10729" crc="ea5ea2c7" md5="224860e337a723f88e6268f42e7b2b0f" sha1="1df6b7be1d241cdd3d84eae180543dfcaea3ccce"/>
+		<rom name="U2PMAP.ASM" size="16651" crc="2daadd43" md5="3ef0ad4ee7bf272ea7acecb57ed1ee4c" sha1="0ada0ff49a869b781775e9d9057bfc28b79560ff"/>
+		<rom name="U2PMOVE.ASM" size="16029" crc="ca8b631f" md5="46d2cdc5af6a89f380e6b93c3f014cd6" sha1="bb845df89a657ee88ace4f16c549c44831a67d77"/>
+		<rom name="U2PUN.ASM" size="9525" crc="974d66c6" md5="d5fe79086f773f9f5ef2532e7e7d0ca4" sha1="e4c66595e098adbfa7b714135f96d0bf4cc99017"/>
+		<rom name="U3ERASE.ASM" size="8240" crc="ef6c1c68" md5="8da149092bbec87c1ec238acbf983a93" sha1="a18b460abeec3218e8c6083390d1bf0b36a84122"/>
+		<rom name="U3PCHECK.ASM" size="23423" crc="5ff2abb2" md5="6bca96b7f271d5710237680c1f6aa217" sha1="3f92d233ea01948098ef79eed65f5feae5d5b054"/>
+		<rom name="U3PCOMP.ASM" size="17823" crc="e41c6c82" md5="3511875270ede89717aa2ab5fc7c595b" sha1="b6831370837641ff1816307e335c702246b2033a"/>
+		<rom name="U3PDIR.ASM" size="12806" crc="3a3aadf8" md5="e5ec56c099a72fade2c17bc482f19f7a" sha1="81f7baf0b3be7aa2681d5320320535cf6c4cc53b"/>
+		<rom name="U3PFIND.ASM" size="22573" crc="1099dd56" md5="8f2ace5f0bc034d18f2e4cdf9ad51ec4" sha1="d857974338bdfc48c9ee44d59e5d401db6bd61b4"/>
+		<rom name="U3PFIX.ASM" size="22127" crc="783700d6" md5="db0c364fc5391f2569186cb661274f71" sha1="0944086245dfd26037c3d3adcd4e68bc65a325e8"/>
+		<rom name="U3PHELP.ASM" size="22487" crc="65f0a151" md5="7869860a43ad4f1dabf456a9cc5a421c" sha1="99acbd16682f57ed2435909fe6076ec19ecca6ed"/>
+		<rom name="U3PSS.ASM" size="15287" crc="61826416" md5="1c2fc506f5046e470296cc1625d95cd7" sha1="5d21c49001be81ad28affa12ace11249bac862c8"/>
+		<rom name="U4PCONV.ASM" size="19706" crc="a06ab584" md5="02945cd2c94185f0bf0491e8caa44fee" sha1="741c1143e96b285424795e9151f520c68f843cd3"/>
+		<rom name="U4PKILL.ASM" size="18685" crc="50e8b2f3" md5="b068ddb46e84c0ba9f77ce46a4704fc6" sha1="ec98957b334585dc8e5d9f0fd38d757ec05cfc1e"/>
+	</game>
+	<game name="Protect -CMD Files with Password (19xx)(-)[SRC]">
+		<description>Protect -CMD Files with Password (19xx)(-)[SRC]</description>
+		<rom name="HISO.SRC" size="2802" crc="09abbfd2" md5="0a9a8fea18af306dad02b38030260739" sha1="8d84e9065f06a4556f937b340f019e7ceb0a39e0"/>
+		<rom name="PROTECT.SRC" size="2637" crc="340ad7ae" md5="3fc051ac7ee1eb2fa8a29277f3401dd8" sha1="d9c5b7a7e5cebac6529bc9c306c0aefaf53b4675"/>
+	</game>
+	<game name="Real Time Clock Initialization (19xx)(-)[SRC]">
+		<description>Real Time Clock Initialization (19xx)(-)[SRC]</description>
+		<rom name="RTC.BAS" size="1155" crc="188ac873" md5="279e60bb6854befd9d02ba806cd67ead" sha1="948c2a96c8a1e9d54909e6ba6417b0c838b34526"/>
+		<rom name="RTCSTRD.ASM" size="19393" crc="98ef0218" md5="2902e4cf9407f6b09ad2c9808d5d2853" sha1="1f8fd1262777625024435da847f9c52e7afbfd18"/>
+		<rom name="RTCZAP.ASM" size="3226" crc="2f93d0f4" md5="dc96c0465ab5db9bef48ca85b46ea035" sha1="e21c626ca26db6102a54a8df7a20dfeda87848bd"/>
+	</game>
+	<game name="RLE to BIN (19xx)(-)[SRC]">
+		<description>RLE to BIN (19xx)(-)[SRC]</description>
+		<rom name="rle2bin3.src" size="19164" crc="254cb0e0" md5="10cd4cb26c733b4badfc50b3ac8877c8" sha1="f1a962146bed4b570aaa50f22419e4fee2db1e34"/>
+	</game>
+	<game name="Source Code Disk (19xx)(-)[SRC]">
+		<description>Source Code Disk (19xx)(-)[SRC]</description>
+		<rom name="AUTOKEY.SRC" size="1584" crc="692e7156" md5="51594e900f10b09f5922a2c882bb0ccf" sha1="4170cac8d87fb1bd820afe471939fbac5db90ff8"/>
+		<rom name="CONVERT.SRC" size="8131" crc="8e3d26fb" md5="cd0b9a1776019265b4a3c24cc25f250c" sha1="a2a5c9b40412acf2b2fcb6d1c09a1f2eea6537aa"/>
+		<rom name="CP80.SRC" size="20440" crc="18c1e01b" md5="a68370ded4a52f310047461dd53c45d3" sha1="12b9ce7ed7064ada388c254d5f405b42d35e6e1e"/>
+		<rom name="DATAGEN.SRC" size="3041" crc="72fdca61" md5="39542bbed6cebf2770caf7e399bcd110" sha1="f12ded587c9b23a1d3c079d1834008195a1afb34"/>
+		<rom name="DIREC.SRC" size="294" crc="c1722e5e" md5="3fd7848e24ea821013c8b2d459d3d42f" sha1="ee2bcdba8ecf92901f91799494608a15caaca4bd"/>
+		<rom name="DRAW.CMD" size="1626" crc="67041c6d" md5="4715965ff165407f8d08f86a3a148521" sha1="ec65a4e4357917b6d698df95026d681f32cae944"/>
+		<rom name="DRAW.SRC" size="12422" crc="f1f30774" md5="41152f8a6f64b38409303429dc5e7e57" sha1="a63d55ef02e9d0fb69dcaff2972bac3651377827"/>
+		<rom name="EDTASM.CMD" size="8960" crc="9b4f0f96" md5="c559913635c7e662ac6daf42873349b2" sha1="9dbc09f46f2054682c6a97a28e3a3e4b64dcd125"/>
+		<rom name="EXEC.SRC" size="657" crc="7937418b" md5="66b1e6c6ea97e9851128a5d1206db277" sha1="65f8f37a0c32d32e8be4112ecb151e31d4c3d598"/>
+		<rom name="KWIKLINE.SRC" size="5706" crc="c9834896" md5="25bfbceffb903685f8888351c2e55214" sha1="0416f0ba410ed1a880de1635b91ad8802f2e0a0d"/>
+		<rom name="MAIN1.SRC" size="4767" crc="63a210cc" md5="15f92d085e38467dc0a55e3acd9c2253" sha1="3610b90d1ce6d6a1af343913d492e091fb7837cc"/>
+		<rom name="MAXDEM.SRC" size="12677" crc="bd694a2e" md5="f0efd00d3715c0fbe27c03550c970433" sha1="dd10f90d0fbe7e17de80b3b701733b1dd35d8e80"/>
+		<rom name="MEMTEST.SRC" size="2863" crc="c9b647a9" md5="4955cdfaf91fab8423fa36c3c961c520" sha1="236aa080e1b4aef2f1ee6570e269faac7296f804"/>
+		<rom name="MOVEBAR.SRC" size="669" crc="c14b340b" md5="0e728d053e9c5692fab3e53470048e5a" sha1="a6f806d6bc5d66da02b84a89808c451b2646d02b"/>
+		<rom name="MX80DVR.SRC" size="5375" crc="0bc14ed5" md5="9a0695a2f1d9ccccbd043ded35d154be" sha1="b5a7284898e5184db89ea3c4f26a3abfcb891828"/>
+		<rom name="NEWTERM.SRC" size="14317" crc="e74e0b52" md5="0022c0a05430cccf7053550ea2472abb" sha1="7913ee1a326a8071694f0a5981024523cac96661"/>
+		<rom name="PART1.SRC" size="4944" crc="d7e8e7a5" md5="8a56ac170feb10238c839e70b3e1ac7a" sha1="37ae0ea8f9f1d5358a7912d87caf46a8b5f3045d"/>
+		<rom name="PART2A.SRC" size="1872" crc="7bf69e9e" md5="7e22fb73e05ec56b1e4b027420a1006f" sha1="d6f1b9366255f71c8c0875d2702657324bd2c623"/>
+		<rom name="PART2B.SRC" size="3620" crc="b3305159" md5="dfd8e06b24c99376e391d5df5c8bb1f0" sha1="a5041d7f88b8434c22f94c6a8ab7575aaf2f652d"/>
+		<rom name="SARMOD1.SRC" size="10175" crc="106fc793" md5="1625d38e599debdd175cd81848195604" sha1="7aa8309eaaba62681783354e1f9c9a319840f850"/>
+		<rom name="SPOOL.SRC" size="4959" crc="32bf4935" md5="ce228d23c43db83476cc814e278adf21" sha1="4361889dbab4b0be711a9a20cb6c05183d41ea2d"/>
+		<rom name="UNIKEY3.SRC" size="3491" crc="2371714c" md5="da33a1f76ffaff94d4d36cb18ba757e6" sha1="34d275f9177d346d1ffb8b8d0bfcc3d243e52c48"/>
+		<rom name="VCMOD.SRC" size="4984" crc="4112c328" md5="5eae050f26cccc5df50d35bb548e5f2f" sha1="101e89554d3005621f82ec995b8ecad2e2e1a2ed"/>
+	</game>
+	<game name="Super Utility + Boot Routines (19xx)(Kim Watt)[SRC]">
+		<description>Super Utility + Boot Routines (19xx)(Kim Watt)[SRC]</description>
+		<rom name="BOOT1.ASM" size="2239" crc="189459f7" md5="1fc5fcdebb24c4302ae445ece61bf2cc" sha1="3e50d7e97637baad2466347cf649eaba1cb6571b"/>
+		<rom name="BOOT1.CMD" size="257" crc="96d579f9" md5="3d27d88ee89fb17bebb443cba5182e48" sha1="00dfacde329a77c425ffb36d99f57c21e8ebf208"/>
+		<rom name="BOOT1A.ASM" size="4959" crc="81ff42ff" md5="9e29901d17c5561b3aa8db5f39de41c4" sha1="3bf9f82c92709939af93de01b36eb9b1ced31f83"/>
+		<rom name="BOOT1A.CMD" size="791" crc="a6aa8e77" md5="d8d7e7f25cd615cb33256ef979c6adae" sha1="aec87ba934cd0ebfd37832993776de3ad7dba3bd"/>
+		<rom name="BOOT1B.ASM" size="1594" crc="b674bda2" md5="d1ca5bc631051436119e3b2efc23ed2f" sha1="20c4f53b510318ea61715002f35c1c35fd193737"/>
+		<rom name="BOOT1B.CMD" size="196" crc="4ec463d9" md5="226861e834a092746b80fcccd2b82f93" sha1="f43f3d9446cc91f732972ea4f7d6b9e6fae320b0"/>
+		<rom name="BOOT1N.ASM" size="428" crc="214de8e3" md5="5168556e975ed9e7e160204bc2c6efb5" sha1="921577a2603d04d6753cf9d3d1d596d5798ab384"/>
+		<rom name="BOOT1N.CMD" size="150" crc="0eb7605d" md5="610c477226f66ae74118a0671623baf7" sha1="996f697b351e4f4ad3102c9a884258af018eee61"/>
+		<rom name="BOOT3.ASM" size="2305" crc="d6d7ff19" md5="74a388e399c84c87adcd4f4cba2a48c5" sha1="1781320d7f04ca623b36c1456df4a24bee8a0be4"/>
+		<rom name="BOOT3.CMD" size="272" crc="a2914772" md5="9289f11f6ee07ed255067cbe39168e4c" sha1="d4112cbf318c759ca5c0ea0ce57ec89cc6d33f60"/>
+		<rom name="BOOT3A.ASM" size="5034" crc="150bb873" md5="14c2cb3f07d5001bb5dc900f84e88918" sha1="8c08855e31769a64f79878ca2c74e0193ea575af"/>
+		<rom name="BOOT3A.CMD" size="797" crc="8b95eed4" md5="4a629917f87c18f1e2d6b1fb91c59496" sha1="3417d2b50fd4fb66567c3d25a014a29ca257081b"/>
+		<rom name="BOOT3B.ASM" size="1656" crc="d165ccb7" md5="393b08e8e19dcad22974b816f25b22d4" sha1="9c8414837a798c0bcfbbfbb8b834e99c4a40f0a1"/>
+		<rom name="BOOT3B.CMD" size="204" crc="95ac8629" md5="3caa65513561499f7d0d20ea7b001e65" sha1="04302f7f00997a5740f1dc3de2fc5bfccebf7e57"/>
+		<rom name="BOOT3N.ASM" size="428" crc="857f1325" md5="243238ca9fa3856ff52a2973c245e2d3" sha1="4bf68eec23fca62f46db7c00e459af866bcc75b0"/>
+		<rom name="BOOT3N.CMD" size="150" crc="db82eaa6" md5="c45d3a37935ac01925532d2d1787acd8" sha1="d1ff0afcece346a027eea12a9a6f28f3821f572b"/>
+		<rom name="BOOTL.ASM" size="2429" crc="a7ae68fc" md5="4ef03adf6b568811e287fa3c6a4db336" sha1="44595bb70c00e1f6c1e0a2c2f7bbcbe41ae3b9b4"/>
+		<rom name="BOOTL.CMD" size="271" crc="75b3ab97" md5="10c57a9a17c722f17b9f23b5ca82f8ee" sha1="61d5e08dce165372dbcb7bc5b310a99da539e886"/>
+		<rom name="DISK.ASM" size="9489" crc="443f0a34" md5="16f26843a1926fb99b0d4aef6a7b380d" sha1="7964733ad0ce32dcd389c1980d416fa9ab29f320"/>
+		<rom name="DISKIO.ASM" size="233" crc="7545a651" md5="55849ac930302add085a54094156511c" sha1="886c747f921d90ab4e4bd2c0c7c6e049d7037457"/>
+		<rom name="HOWDO.ASM" size="14739" crc="967e169a" md5="474212112e0f6ba8e5e2ceb315381345" sha1="45ecd6d8a4be7a37a66d3edfda2f7c68c521acc9"/>
+		<rom name="HOWTODO.ASM" size="19763" crc="b54200b0" md5="1b6f21805cb059af7a82309132005918" sha1="22ea941cc96d9f8fe8cd88c6903561d863c981ee"/>
+		<rom name="IODVR.ASM" size="5965" crc="2277d9ce" md5="5286001475b043348a9c37b280992092" sha1="0918d6e255e3778731ac3c854fa57b820f06749c"/>
+		<rom name="LABELS.ASM" size="923" crc="858d4e00" md5="e936e9912b92939493b162e4019c8397" sha1="409ad559d06e4f909bf508317c1bc0512cad942b"/>
+		<rom name="M.B" size="42" crc="677e72a3" md5="440159ea1983ce83983ad174d31712d8" sha1="8f7ae184327d659e921a1de876c879bcad878827"/>
+		<rom name="M.M" size="44" crc="ba934c79" md5="5ba8077625c40ba9bd0a76d72d1ac193" sha1="398f95e4860a048d719c3007208ac05622d21617"/>
+		<rom name="MASTER.ASM" size="6614" crc="b861a170" md5="ea1861bb0010f64e1d83e9c701bb48e5" sha1="36deb52e0c8e65adb4c16a652fa83c5e4dea431d"/>
+		<rom name="MASTER.CMD" size="745" crc="30c6a47d" md5="73b97b2ba776c321d8f005a385f64be1" sha1="230e0eaeca56c822fa35be47e545c3d28fede44e"/>
+		<rom name="MCOPY.ASM" size="6099" crc="49e28ecb" md5="06cc4fd55b3858942861ad8846a67719" sha1="7302c6facccbc1f55823d38d22123f84c9bb00f0"/>
+		<rom name="MCOPY.CMD" size="5020" crc="682d824d" md5="af0b5e33cb95c7a7acb23985b4d3e125" sha1="3f8e731d96cf24842130b88a13fce573119de5aa"/>
+		<rom name="MESSAGES.ASM" size="967" crc="e9bb9fe1" md5="8b50ceb3609723fb9495eeed2e06b486" sha1="627df86c1cdcdd322592919ffc249407604ff855"/>
+		<rom name="RST.ASM" size="449" crc="c1f51c5f" md5="f22f7a1ada25a41126a49a3b7278002a" sha1="6009cc7306bb68b06d7df8f8e4d97ce1d5244ab9"/>
+	</game>
+	<game name="Super Utility + Source Code Rel 82-07 (1982)(Kim Watt)[SRC]">
+		<description>Super Utility + Source Code Rel 82-07 (1982)(Kim Watt)[SRC]</description>
+		<rom name="BOOT1.ASM" size="2239" crc="189459f7" md5="1fc5fcdebb24c4302ae445ece61bf2cc" sha1="3e50d7e97637baad2466347cf649eaba1cb6571b"/>
+		<rom name="BOOT1A.ASM" size="4959" crc="81ff42ff" md5="9e29901d17c5561b3aa8db5f39de41c4" sha1="3bf9f82c92709939af93de01b36eb9b1ced31f83"/>
+		<rom name="BOOT1B.ASM" size="1594" crc="b674bda2" md5="d1ca5bc631051436119e3b2efc23ed2f" sha1="20c4f53b510318ea61715002f35c1c35fd193737"/>
+		<rom name="BOOT1N.ASM" size="428" crc="214de8e3" md5="5168556e975ed9e7e160204bc2c6efb5" sha1="921577a2603d04d6753cf9d3d1d596d5798ab384"/>
+		<rom name="BOOT3.ASM" size="2305" crc="d6d7ff19" md5="74a388e399c84c87adcd4f4cba2a48c5" sha1="1781320d7f04ca623b36c1456df4a24bee8a0be4"/>
+		<rom name="BOOT3A.ASM" size="5034" crc="150bb873" md5="14c2cb3f07d5001bb5dc900f84e88918" sha1="8c08855e31769a64f79878ca2c74e0193ea575af"/>
+		<rom name="BOOT3B.ASM" size="1656" crc="d165ccb7" md5="393b08e8e19dcad22974b816f25b22d4" sha1="9c8414837a798c0bcfbbfbb8b834e99c4a40f0a1"/>
+		<rom name="BOOT3N.ASM" size="428" crc="857f1325" md5="243238ca9fa3856ff52a2973c245e2d3" sha1="4bf68eec23fca62f46db7c00e459af866bcc75b0"/>
+		<rom name="BOOTL.ASM" size="2429" crc="a7ae68fc" md5="4ef03adf6b568811e287fa3c6a4db336" sha1="44595bb70c00e1f6c1e0a2c2f7bbcbe41ae3b9b4"/>
+		<rom name="DISK.ASM" size="9489" crc="443f0a34" md5="16f26843a1926fb99b0d4aef6a7b380d" sha1="7964733ad0ce32dcd389c1980d416fa9ab29f320"/>
+		<rom name="DISKIO.ASM" size="233" crc="7545a651" md5="55849ac930302add085a54094156511c" sha1="886c747f921d90ab4e4bd2c0c7c6e049d7037457"/>
+		<rom name="HOWDO.ASM" size="14739" crc="dd3df8ca" md5="14db91a1b47081b90660cc3341832e34" sha1="53fb4b5a432a89c7939adde8c063608edc0dada9"/>
+		<rom name="HOWTODO.ASM" size="19763" crc="b54200b0" md5="1b6f21805cb059af7a82309132005918" sha1="22ea941cc96d9f8fe8cd88c6903561d863c981ee"/>
+		<rom name="IODVR.ASM" size="5965" crc="2277d9ce" md5="5286001475b043348a9c37b280992092" sha1="0918d6e255e3778731ac3c854fa57b820f06749c"/>
+		<rom name="LABELS.ASM" size="923" crc="858d4e00" md5="e936e9912b92939493b162e4019c8397" sha1="409ad559d06e4f909bf508317c1bc0512cad942b"/>
+		<rom name="MASTER.ASM" size="6614" crc="b861a170" md5="ea1861bb0010f64e1d83e9c701bb48e5" sha1="36deb52e0c8e65adb4c16a652fa83c5e4dea431d"/>
+		<rom name="MCOPY.ASM" size="6099" crc="49e28ecb" md5="06cc4fd55b3858942861ad8846a67719" sha1="7302c6facccbc1f55823d38d22123f84c9bb00f0"/>
+		<rom name="MESSAGES.ASM" size="967" crc="e9bb9fe1" md5="8b50ceb3609723fb9495eeed2e06b486" sha1="627df86c1cdcdd322592919ffc249407604ff855"/>
+		<rom name="RST.ASM" size="449" crc="c1f51c5f" md5="f22f7a1ada25a41126a49a3b7278002a" sha1="6009cc7306bb68b06d7df8f8e4d97ce1d5244ab9"/>
+		<rom name="SUINIT.ASM" size="9472" crc="a642631e" md5="69981153f317e185290911687399414a" sha1="023a8627f475c62cefc814faf9ba4f7e30a3a0d7"/>
+		<rom name="SUU0.ASM" size="15360" crc="4761b1a3" md5="42695a368e9fc0510a810b0f3fc1756f" sha1="a829d55562dee6bee52524c3d66526babea505cf"/>
+		<rom name="SUU0A.ASM" size="31232" crc="bc44756e" md5="58dd5653de2338ceaa864b3b171e5ac4" sha1="d0793ca9902edd6b0ad6e3ba1f439d353e2d56d5"/>
+		<rom name="SUU0B.ASM" size="21760" crc="2f61885b" md5="c4ea428725002aec26ae105cf7df4ffe" sha1="421251f45c95e192a2ebdcb965a617b1c948d896"/>
+		<rom name="SUU0C.ASM" size="34048" crc="63f1caad" md5="b94455db1e17608e28ab446ecc19ab57" sha1="0049343ada3e0a7b355d3a54cbd945817fe36352"/>
+		<rom name="SUU1.ASM" size="16128" crc="75072752" md5="875b8daf3a2903e38e5852cae642dd49" sha1="cfd155b800a7e9557d7d4be968b74879867d8921"/>
+		<rom name="SUU2.ASM" size="33280" crc="8cfd883e" md5="dd4cdef6591900b3fef08b28f09c3ff4" sha1="55f9000557c14c16e347dee2f7fb3a4d9f6c4461"/>
+		<rom name="SUU2A.ASM" size="8704" crc="0f47e419" md5="cb53a84ea909b3df1fed304855a6c141" sha1="c9a61485ac6e533f95fd6549eca4d157c95af614"/>
+		<rom name="SUU3.ASM" size="17920" crc="31242227" md5="795a7ae08e668c8bc7d0afcf19015583" sha1="e19f36f517574d816a6b8cc3ccc5e1b153ee16b4"/>
+		<rom name="SUU4.ASM" size="34560" crc="2caad4e1" md5="fead39ef8317933d42a4628acdaf336f" sha1="8b37304de7bbd7efda6b97464298b7bada08a533"/>
+		<rom name="SUU5.ASM" size="16384" crc="0af65b6e" md5="bdbf13919ec95c92847aab5e6760744a" sha1="497025de8b6d7d0c3297b82819431ff43fb73038"/>
+		<rom name="SUU6.ASM" size="6656" crc="7c2bfe9c" md5="0bee42b79b6703711394ba8f1373b5fb" sha1="5f529ac51ef53d366a564822357b4a2ee51cea53"/>
+		<rom name="SUU6A.ASM" size="39424" crc="0082f9c2" md5="5cf7717edda0e540dd9226266844be27" sha1="ce4f1a1d5b1f447805aa54b846d92608cffd074b"/>
+		<rom name="SUU7.ASM" size="8448" crc="22f36cfd" md5="65bb5874a26204fe62f44f912eec9788" sha1="14012840671ccb3efdf370840fcaeafc7c47ed12"/>
+		<rom name="SUUD.ASM" size="15616" crc="673854a5" md5="22ede83e9b635001defd13354dd8efd0" sha1="b81c0eff32f7c332d3c297c78fbed4a847df8652"/>
+		<rom name="SUUG.ASM" size="2304" crc="056e38f8" md5="35fda0262866bcdd86de95d07972e4da" sha1="df34100f0d24d907c0658972460468753d6decb9"/>
+		<rom name="SUUH.ASM" size="23808" crc="e2086901" md5="e9950b6431591cc3c9254120928ccb3f" sha1="23a73039060047db469ea5b490a997a59fe26c94"/>
+		<rom name="SUUK.ASM" size="2816" crc="38f2e002" md5="7972f5d5bac51ed50553f7fe1e24533b" sha1="8c93f92d51e09eff04d1a1f33338d6ec1789d419"/>
+		<rom name="SUUK3.ASM" size="2560" crc="492cf147" md5="f37ed4eb161fb21828e2366043993439" sha1="ba616edfb04306d7ae09dec246489bc504929129"/>
+		<rom name="SUUL.ASM" size="2304" crc="c1d3c26c" md5="7dbf95ae1fcd81bda283e83228712aa8" sha1="414030040e8d3afddb53964390f4f90784cbca70"/>
+	</game>
+	<game name="Super Utility v1.0 (19xx)(Kim Watt)[SRC]">
+		<description>Super Utility v1.0 (19xx)(Kim Watt)[SRC]</description>
+		<rom name="S0.ASM" size="42232" crc="48ddf61a" md5="51c915a54a063370e5a0bd5374d403ff" sha1="934045b172832f83200995bfdbbdf58148522cb1"/>
+		<rom name="S3.ASM" size="1536" crc="3ca76ff7" md5="c7d5aa809dd8bd9ec01d6510fadab446" sha1="66452cfebd7e5371ed7d9eb7ded6a28a7448e930"/>
+		<rom name="U0.ASM" size="34760" crc="f97285b0" md5="1f02a00227c8b4daa6fe5629abc8f1c4" sha1="85d87fca2c19404c5c2df63b3bef7a8f0ce152a8"/>
+		<rom name="U1.ASM" size="27351" crc="0298eca4" md5="39b0739d22a5c611c06ae571703d55e7" sha1="ae8808d6925a0c07d3906e2e3bf74e3fe8d94a20"/>
+		<rom name="U2.ASM" size="36932" crc="aa94d9d0" md5="c2d4d92281acb308eaeddd2a0fb48d15" sha1="3d40b717817f2cd7ba81d6b7ce16e01cee1e7b0c"/>
+		<rom name="U3.ASM" size="11016" crc="b4b6d74c" md5="d6d921f9b8351d1c6d49b78bf7f77366" sha1="6f35d1a763db4f74ac08081e12cf2ba7e4e60846"/>
+		<rom name="U4.ASM" size="28508" crc="f58d312b" md5="7b2ce05502fd3cb7965e135ff464027e" sha1="643b2253e98f80cef561a6967e711d0b06cac373"/>
+		<rom name="U5.ASM" size="7130" crc="23369b79" md5="e919f601b323f57d9e691f17776dced6" sha1="8361e83e708a006a0c2c3b843c9402f04aeebe9a"/>
+		<rom name="U7.ASM" size="10939" crc="98cd411d" md5="53596c9dfd6c9e268c277191cb9d1a72" sha1="ce4e1e6b25ff0d6723b4a0b711cdad718247ac96"/>
+		<rom name="UD.ASM" size="2404" crc="499012b6" md5="a559b711e2b7b96c0f2cb715e8051145" sha1="31a3fe6fe02f05ec31e944e081a211226d140e9c"/>
+		<rom name="UG.ASM" size="436" crc="1834f0cd" md5="3a4387c9b01dc6825181f3db5ad69df1" sha1="e2da8639b3ad93cbf2fb218a7af58ca26b2c5036"/>
+		<rom name="UL.ASM" size="1615" crc="d9cf3b61" md5="5f3112924643ed8fc52074b821268238" sha1="ac0b051c0a47d4e9b05458c1c8c20ed8e106fc8b"/>
+	</game>
+	<game name="SuperMove Copy Utility v1.0 (19xx)(Kim Watt)[SRC]">
+		<description>SuperMove Copy Utility v1.0 (19xx)(Kim Watt)[SRC]</description>
+		<rom name="SMCOPY1.ASM" size="9416" crc="e6305ea7" md5="17988e12f55e493d56c2bb4cf2a88051" sha1="8e6189a81bc001318c489cc39c1321a407e1df90"/>
+		<rom name="SMCOPY2.ASM" size="18555" crc="911b7ceb" md5="b42cddc9ddae77f7dcda8967e3137e48" sha1="24cd67ba1b46b0de4169166c61bb17419ee6d902"/>
+		<rom name="XFBOOT1.ASM" size="2150" crc="7892b873" md5="b6a80b7530ea431a669b8dec5538b215" sha1="ab64df888bfcfbf3fa472844435fad542e331b4e"/>
+		<rom name="XFCOPY.ASM" size="6072" crc="fca8e46b" md5="aed7572c55141bd6b5916b80ad1e8f3c" sha1="562abdb693eb84f548a838d8b46aafac03257573"/>
+	</game>
+	<game name="Tandy ToolBox v1.0 Source Code Rel 82-03 (1982)(Kim Watt)[SRC]">
+		<description>Tandy ToolBox v1.0 Source Code Rel 82-03 (1982)(Kim Watt)[SRC]</description>
+		<rom name="TTINIT.ASM" size="2131" crc="d7f49fe7" md5="01a09283c0ae723153fdaaa7e898faea" sha1="2497ef05c5f0ad9f61a49296df4635df35ff3de8"/>
+		<rom name="TTOOL.DRW" size="2304" crc="94ac2954" md5="13896e0272fe41234e01a04d5b55a165" sha1="16f6c69931f5cb29a1da4d77280a0bc3dd16606d"/>
+		<rom name="TTU0.ASM" size="15252" crc="4d3d4876" md5="b7d8d13274aaa058f727e24d0bc0ecfa" sha1="72ddf478a10fe62cdb66de65d540af93b5e0b33c"/>
+		<rom name="TTU0A.ASM" size="28290" crc="97362af9" md5="346973df189db3456f4297fac77f90cd" sha1="55b831920065f7f214e5c378c003d745c7f4264b"/>
+		<rom name="TTU0B.ASM" size="21346" crc="945a491f" md5="096e5c7d256c2d2ae215672ba2ec6ded" sha1="346c647a1f87412187eb5316f62d8298f68eacf4"/>
+		<rom name="TTU0C.ASM" size="26046" crc="5af560b9" md5="8b771de5e34037d14a6729ab237dee7d" sha1="91bbd249fc8813c74dac764467a2c8fd3534924f"/>
+		<rom name="TTU1.ASM" size="15437" crc="78594620" md5="38f1d5c315c1cdeb1aaf754184e308ff" sha1="759cd179c353d8e7eda70cd22c65c687bba6fe7f"/>
+		<rom name="TTU2.ASM" size="32265" crc="7749ee57" md5="45514c43ff71aba488d71e4add75ab3f" sha1="ad2d7b19dc319b52cf3edfd10c4c97bd42a6238c"/>
+		<rom name="TTU2A.ASM" size="7753" crc="be04281c" md5="60b5b377b8a2ca52f4c6afa0425a08a9" sha1="9665715fcd2fa2d98f7f71356c9196ddb9633eef"/>
+		<rom name="TTU3.ASM" size="16386" crc="cd9dc204" md5="3bbe1450f6ef8e19cf826699c76827ed" sha1="741e78653ec3650aae5401e7da8be8116f102712"/>
+		<rom name="TTU4.ASM" size="22453" crc="6f87fa91" md5="ab82ce109226b06d22aecf9febd98616" sha1="0b7d97a7d9a59e6b1c7b7a4ae6b358dc39e3c612"/>
+		<rom name="TTU5.ASM" size="6832" crc="fc9b3191" md5="2b4e54ff1dc315ff45eecd584922058a" sha1="73f45b2809d91e1f35b432c64454595168bf3cdb"/>
+		<rom name="TTU6.ASM" size="6382" crc="9086b68a" md5="49299f7b9819a3678baf9341b2426901" sha1="2533827a63b5424131271b87036b45d8d0eae616"/>
+		<rom name="TTU6A.ASM" size="38624" crc="6bb51447" md5="346df437cb16745d1f6fff4813682331" sha1="a4269e4b6a1fe893decedd963c8e5aa02a69a288"/>
+		<rom name="TTUD.ASM" size="16723" crc="6e25f064" md5="90ba1902531d23fa8d76988a883ab0fb" sha1="7220cac787fb49d9824d5a0bd67386b96dab9a21"/>
+		<rom name="TTUG.ASM" size="1890" crc="ca2abc85" md5="7f6638c093e4d25fa9d08becda324a9d" sha1="35fe475f04c3dc1fec508a58833c5ef76385d497"/>
+		<rom name="TTUK.ASM" size="2586" crc="f0a00301" md5="ac498abc30ff46bb3a20a867f1fb4e54" sha1="35a374c3bcdbec2f54ff082f7c69352d26768dff"/>
+		<rom name="TTUK3.ASM" size="2501" crc="4ce4ac01" md5="6db8d45541c8f22ed08b59aa12786058" sha1="f8e5143f35c6337a338b9509018501cdb679160c"/>
+		<rom name="TTUL.ASM" size="3731" crc="cfaedc53" md5="3cadc5ec2a328cd7772db74e8e9318c0" sha1="0704477ec00dabc00846f6d6edf7ae2b5d85a151"/>
+	</game>
+	<game name="Tandy ToolBox v1.0 Source Code Rel 82-04 (1982)(Kim Watt)[SRC]">
+		<description>Tandy ToolBox v1.0 Source Code Rel 82-04 (1982)(Kim Watt)[SRC]</description>
+		<rom name="TTBOOT1.ASM" size="2286" crc="77776a9c" md5="a9c163a2fed463b0f65939b592803224" sha1="cf1ee2de7ad859d442a763b9875258db440860a5"/>
+		<rom name="TTCOPY.ASM" size="26726" crc="317f3402" md5="7eb37767a83a328ef5509926c00bd13c" sha1="45c2ffe26b1d270174181adb8a1c6b2d82d53088"/>
+		<rom name="TTINIT.ASM" size="2125" crc="5edee57e" md5="7c7e4d469ae1e40a9bb14806fd24952d" sha1="4355f2dc4b7f48dc84652f23b3af2a2463dedda4"/>
+		<rom name="TTU0.ASM" size="15280" crc="4c56af75" md5="3c749a78b478d6e1efcb4573b65952f9" sha1="f60e1184b4d757a5ee04f4acdbd7f878f9a78e03"/>
+		<rom name="TTU0A.ASM" size="28282" crc="5817a4ad" md5="5d9972346041a8ab5c98e1ccb0b6b042" sha1="2f706fa8f3d15b6935b546d45ea94bc2d04508a1"/>
+		<rom name="TTU0B.ASM" size="21410" crc="86bb6fa4" md5="fcd2d224a41e00a63010a623fe284742" sha1="6c36039732828e9ca4166baa0c8718454b59f44b"/>
+		<rom name="TTU0C.ASM" size="25886" crc="20126738" md5="11236d5f8f94a7d72902cd130feaf229" sha1="494b1b674b3e39acda8d42ec41f3cacba0c733d4"/>
+		<rom name="TTU1.ASM" size="15437" crc="78594620" md5="38f1d5c315c1cdeb1aaf754184e308ff" sha1="759cd179c353d8e7eda70cd22c65c687bba6fe7f"/>
+		<rom name="TTU2.ASM" size="31689" crc="8fcf47e4" md5="165f2f4a2e6335ab9283a41bf840bcf4" sha1="0560c6a5b18be50cce88bfb075d575599e57c19f"/>
+		<rom name="TTU2A.ASM" size="7826" crc="39830e1c" md5="79697d3ea63d39b64b1b2de3567b6d97" sha1="e25bf3dc6a55c665b1e9e3f762ba9e5598f82be2"/>
+		<rom name="TTU3.ASM" size="16386" crc="cd9dc204" md5="3bbe1450f6ef8e19cf826699c76827ed" sha1="741e78653ec3650aae5401e7da8be8116f102712"/>
+		<rom name="TTU4.ASM" size="22453" crc="6f87fa91" md5="ab82ce109226b06d22aecf9febd98616" sha1="0b7d97a7d9a59e6b1c7b7a4ae6b358dc39e3c612"/>
+		<rom name="TTU5.ASM" size="4367" crc="8b35ee25" md5="f69e0ad2fe02961bec9f1b59949e79f6" sha1="e5b9a6c72bae46b650c36b8901840a42fe016e59"/>
+		<rom name="TTU6.ASM" size="6475" crc="57f024d0" md5="fb6a9f32d030d06f2743382dd9e620dc" sha1="c08fac6edd77d2bb310f92b69f2769999af4c206"/>
+		<rom name="TTU6A.ASM" size="38302" crc="51ae6515" md5="8e4489b240ec2ac675ce1650fcced770" sha1="78675626d58e0e4b8d0acdc14d6ceeff677646ba"/>
+		<rom name="TTUD.ASM" size="16810" crc="3e9f0e4e" md5="981b2b7ef8116404af3e1e3fd0c8d4a4" sha1="ed3d81e5f43109eeddd1a33d5e4918e82970bf27"/>
+		<rom name="TTUG.ASM" size="1912" crc="4e3aeac9" md5="c0b222496b2cbf3b21b6bd4e21b9cb05" sha1="73dc8326b5d8051121aabeb97e31305072c5b3a5"/>
+		<rom name="TTUK.ASM" size="1649" crc="9d2a4489" md5="579239a4044e02d01e7a039850bd0b47" sha1="8a894891e0bd4bfc940a7373a715c44c2cb144a1"/>
+		<rom name="TTUK3.ASM" size="1651" crc="97b047cc" md5="3563c112e08c745633cc8de45c7106e1" sha1="474928a2e9fc11753fb03c6fc85a0eb3a41ba259"/>
+		<rom name="TTUL.ASM" size="3731" crc="cfaedc53" md5="3cadc5ec2a328cd7772db74e8e9318c0" sha1="0704477ec00dabc00846f6d6edf7ae2b5d85a151"/>
+		<rom name="TTWAIT.ASM" size="21924" crc="1c6b02fd" md5="d03a5f51e64df9abe4caf4da8f3ee7f1" sha1="f59ac4613dd9c89eec359d9ccc1b9f4c05c9cf3c"/>
+	</game>
+	<game name="Virtual Disk Utility v0.00 (1983)(Kim Watt)[SRC]">
+		<description>Virtual Disk Utility v0.00 (1983)(Kim Watt)[SRC]</description>
+		<rom name="VDISK.ASM" size="23217" crc="724c124e" md5="e2e35d0593d2b800a3c0714a02211fb8" sha1="1ddd56353b76c0b361644ab948a1a43b70293056"/>
+	</game>
+	<game name="Voice Master (1983)(Cedar Software)[SRC]">
+		<description>Voice Master (1983)(Cedar Software)[SRC]</description>
+		<rom name="VOICMSTR.SRC" size="6043" crc="c779213e" md5="80416b88ee75784cba147296842db86f" sha1="2e2549f1c24702cc333662b9d61659c462676c55"/>
+	</game>
+	<game name="VT-100 Series Emulator (1986)(Kim Watt)[SRC]">
+		<description>VT-100 Series Emulator (1986)(Kim Watt)[SRC]</description>
+		<rom name="VT100.ASM" size="304" crc="9db43486" md5="8061b1663ff466e69719f2c787a80b8b" sha1="8c6244bffc051e6a288fdd1d757d11c5140cb326"/>
+		<rom name="VT100.LIS" size="81488" crc="e9bfef58" md5="7236a4104fdd11b795e99c5553e39660" sha1="d14df76c6d0a378b860227188d7b630d814fcd9d"/>
+		<rom name="VT100C.ASM" size="17724" crc="9f130547" md5="d0d5c96a86f13aa5b1c1f8a1f3806fc9" sha1="85dd32c787c4ef8f1b39a8e627eb31564d164283"/>
+		<rom name="VT100D.ASM" size="2017" crc="e3b475f5" md5="3a2139033e0ea374a5a8c9875ab9b9d7" sha1="3fc6ad5bda30c83e029a19d400c6bbe2ff1a9bcc"/>
+		<rom name="VT100I.ASM" size="851" crc="8c641943" md5="a071a6c8d6be602eef5c70a833604933" sha1="b1b9add1e3dc09d8867cec1bbdabe76379dc531d"/>
+		<rom name="VT100K.ASM" size="18148" crc="0c023be4" md5="ad98d692e4f7bd302f1bb26ee5b46d2d" sha1="ebae87077dd8b59c8ecc92886f4885955a98f409"/>
+		<rom name="VT100M.ASM" size="2592" crc="55f459d3" md5="ce303f885cbf6c26073f2e58c3661bdf" sha1="78b83b18ab1054314747d66c1a5de0d163fb9ec5"/>
+		<rom name="VT100V.ASM" size="16495" crc="b692a344" md5="392142694ddfcd5d599001bb3bed74de" sha1="5efb5bed52ac8aa3cdd2d0c5839de7f6335705bf"/>
+	</game>
+	<game name="VT-220 Series Emulator (1987)(Kim Watt)[SRC]">
+		<description>VT-220 Series Emulator (1987)(Kim Watt)[SRC]</description>
+		<rom name="VT220.ASM" size="280" crc="972b97c5" md5="41954b72b7b142cc8161f65ee7b1a53a" sha1="ae8bff343dbad5d4a20befa666cb151aaaaf3cb8"/>
+		<rom name="VT220.LST" size="75842" crc="d4822c67" md5="75fd46e18bbf970b70697c01a9e1062c" sha1="12dcc5fe6dbb49be2d2d7c6cfeb4cd706826074d"/>
+		<rom name="VT220D.ASM" size="2523" crc="a5fcc474" md5="b530a81f51cc459dfae8b1288e724f45" sha1="92c8e9376f96d8946e3590c85e4742b258856c4a"/>
+		<rom name="VT220K.ASM" size="11659" crc="50108754" md5="819f4f26d15e2f343b08612a0acd34a8" sha1="c7e92bac59e2133a7d81f90590d7220e712d0ebf"/>
+		<rom name="VT220M.ASM" size="1459" crc="06240be3" md5="98f1efcf81312473fef6b65fb19a29bb" sha1="ce71c77baaee6362e1f044beb2094dc28981bffb"/>
+		<rom name="VT220V.ASM" size="14719" crc="089496ee" md5="9454b0a1ab4cfc71584c6435d5989233" sha1="91595c827ee19450fb9b8dc5b585836d69198653"/>
+	</game>
+	<game name="Western Digital Driver (19xx)(-)[SRC]">
+		<description>Western Digital Driver (19xx)(-)[SRC]</description>
+		<rom name="WD1002.ASM" size="18072" crc="1c451586" md5="78ab732c4bab0035052279c68b7000ec" sha1="ff8f12f2f55b97e0e374e4dbb9783fb55d7dacc0"/>
+		<rom name="WDINIT.ASM" size="15122" crc="12cf209b" md5="77fd23dde81efddf1b264a9c42569e5a" sha1="3eb51c447266761a5c1729fb4ffbfa11ceca18e7"/>
+	</game>
+	<game name="Word Processor Source Files (19xx)(-)[SRC]">
+		<description>Word Processor Source Files (19xx)(-)[SRC]</description>
+		<rom name="keytoken.src" size="1568" crc="d10f9b44" md5="7d9c5e1c704baf5367f770004e4fe456" sha1="6453933262c066a14b8fa78d60ce26a5aa29002b"/>
+		<rom name="lprint.src" size="1187" crc="13dc9bc3" md5="41aaebb79aff4c20523c2e24ba5497db" sha1="236af6fefa24f204e2ab6355f88c2f13e02c1b21"/>
+		<rom name="main5.src" size="4805" crc="3081cb95" md5="6a98be3f8cf0df195f46e3c9ce725a1e" sha1="121f5e0770f0a1c297cb59325f01f2b67d2c54f3"/>
+		<rom name="out.src" size="1296" crc="637873d7" md5="2ebc56d8166c8c0163625c1ecbb82a42" sha1="18649e6316d2aae7f8162b8898979a577876a782"/>
+		<rom name="poke.src" size="1327" crc="59c86df6" md5="e08ea15ce22c7aaa8b42be9d80c2d503" sha1="f3e8b861ca18f86e074df2ece2f6b79a437f0aaf"/>
+		<rom name="text1.src" size="4912" crc="ba008e3c" md5="b9d47041f488fa7f62c3bffcb7fde437" sha1="87bf87602287d3a4da512def5f0f7a15fdfa5d44"/>
+		<rom name="text2a.src" size="1793" crc="3067c367" md5="3ed4fbc5cfeb17e6ecd8d539544ca78e" sha1="7ae29d1ee78f57ff0a1410a2ae936eebdbd0e034"/>
+		<rom name="text2b.src" size="3492" crc="c43c0a83" md5="73146227120c551f27a89f7029aaf1f3" sha1="081467296d3ffb4b819ba57bace06b905f3c34b3"/>
+		<rom name="text3a.src" size="4100" crc="fbef64a4" md5="39a9ddb38b28eec407f975977e481c5c" sha1="64bfa9047ebe304cbc3e92859cbe9279b447c3d6"/>
+		<rom name="text3b.src" size="3428" crc="54c32217" md5="42076cdbf41642ab57228d098a9b7f28" sha1="f164414e61eeb45df2e181e8036678c642c17743"/>
+		<rom name="text3c.src" size="2043" crc="f61c53b0" md5="8ff2c607003111964d10ed9859d10f5c" sha1="afa562573dfda0e065699069e8106ba291ad2463"/>
+		<rom name="text4a.src" size="2359" crc="25c5ad3a" md5="358b99e59d734085167d54629de4f56f" sha1="3f5d128ecff6daa6e63efe0ab66163fc1574b3ba"/>
+		<rom name="text4b.src" size="2852" crc="4052978e" md5="a3d2633a0ccc64a886cbb0fa0c09d143" sha1="e9d2f00818329f24fb3f79ed69ce70f1ae7faff5"/>
+		<rom name="text5a.src" size="1853" crc="6e86d2d6" md5="75f2c10ad9c6e92682fb36c296b5a512" sha1="d28dfbb52f0f8654b3b0dac8ffed0ad0076264c1"/>
+		<rom name="text5b.src" size="2718" crc="0a0dc307" md5="409682bd7a4e26d4160ba7bafd1c4c84" sha1="095697e4b97c39e87d3f5336ee5fadfc455eeb46"/>
+		<rom name="text6a.src" size="1898" crc="dbc9f7e8" md5="43546d88c8ca6779e72e6f31c980585e" sha1="79691a097c17aa4fb80739e80a7ab77fc73dfb71"/>
+		<rom name="text6b.src" size="4073" crc="4332150f" md5="e1a1e79f26c3db7f20d9d4f9ed3b9b54" sha1="f57af1072c87857390e9c983ad123dfd2ee18af5"/>
+		<rom name="text6c.src" size="313" crc="af008e9e" md5="572f7b59c598b25ef4f134d62b9b0c7c" sha1="0cc937e8bd9f6319ae74e9058cf6a9f1bafde26e"/>
+		<rom name="text6d.src" size="904" crc="798ecdcf" md5="ae1e2e530869f883b71cf3169be5baed" sha1="8afc49b9251fe3dc06e40ada8bd970ab9f839f21"/>
+	</game>
+	<game name="Z-80 Op-Codes (19xx)(-)[SRC]">
+		<description>Z-80 Op-Codes (19xx)(-)[SRC]</description>
+		<rom name="SAMPLE.SRC" size="16744" crc="421b47e8" md5="44b80b0f2e4b477aee9825b73eb2b8ac" sha1="5c710ccb8f3a520a143b36e95e2a750525fd13e0"/>
+	</game>
+</datafile>

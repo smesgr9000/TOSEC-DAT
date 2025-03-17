@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Olimex Neo6502 - Operating Systems</name>
+		<description>Olimex Neo6502 - Operating Systems (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM-65 (2023-10-01)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2023-10-01)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="A\ANSITERM.COM" size="5762" crc="f1ea891b" md5="4437f0e9e9cf7b7256b333b16b8e8c18" sha1="1c9be4ea0b23c292e1072da6be59bd4b8190101d"/>
+		<rom name="A\ASM.COM" size="15851" crc="a664f0cb" md5="370fce10bf7f83aaf16d9a6e482cfcbd" sha1="8661e8ead9945e36aae2aeecefb958f228955c4d"/>
+		<rom name="A\ASM.TXT" size="2945" crc="ab2aa954" md5="a006236939a30a5b9c6541b9f2d3fec3" sha1="5e2ce16d9a799a8e51376cb56f9b13e603a02bbb"/>
+		<rom name="A\ATBASIC.COM" size="12681" crc="67d8a459" md5="e17c7ba37a736fa5255296ae5f15c696" sha1="34bf8a8c979256dc097e5676206fe80a3e271f75"/>
+		<rom name="A\ATBASIC.TXT" size="340" crc="3a0f680f" md5="324d2801ffa4efd803fa03399f80a200" sha1="c779928df04368d9ce0ba4ca3ca2f21dd203415f"/>
+		<rom name="A\ATTR.COM" size="1116" crc="23c3a01a" md5="ed88f94c9200afb438c3d0b46ae62f63" sha1="c09fea0999b07dae231029d3c526cf44aa99d278"/>
+		<rom name="A\BEDIT.ASM" size="27682" crc="567b48c1" md5="4fe227ab7f7416124bb635f83268a374" sha1="94d9eb0bb894b751002a36e13960642f17d37623"/>
+		<rom name="A\BEDIT.COM" size="2432" crc="6dfee44a" md5="62e74d4ab16bf775b621cf735fa9cf5b" sha1="fea3c82d187baf9f15c6a3e5b63f9e96abc88c1f"/>
+		<rom name="A\BEDIT.TXT" size="1479" crc="553d7a30" md5="e544a4c115fc31f5f4e5be941391a0a7" sha1="1282ae5a1e76f7c9379877aac00d6ad3465880b6"/>
+		<rom name="A\CAPSDRV.COM" size="256" crc="c0edf1ac" md5="8ed37d9cbba8bb33ade7bf7ce4186ffd" sha1="0ae0f13ec2544f50147befd53854012c21b607cb"/>
+		<rom name="A\CCP.SYS" size="2129" crc="5af5e8cf" md5="b3845f4813e18a700f80f8b28f60f78c" sha1="096773ce437f4343699e65f29157668a9e552089"/>
+		<rom name="A\CLS.ASM" size="645" crc="c5b2a0df" md5="1e01f4948e162e0713eb1deaa0c891a6" sha1="9b1b0dd30b8103dd4b4de374bb16d1590a2be4b3"/>
+		<rom name="A\CLS.COM" size="128" crc="309ae03a" md5="7e4a04a909557e5c6838182b702e7afd" sha1="992982983194daa8fc788131dfeaea1409be24bb"/>
+		<rom name="A\COPY.COM" size="2010" crc="be3e2c0a" md5="3517aeb1c8f41d02794c6f32ed7bc8b7" sha1="a246c9ae3f56de89f41d1789f3374e2ccc830b11"/>
+		<rom name="A\CPM65.INC" size="2445" crc="5d9d4c69" md5="f3db868c86e1191879bfb4bb18916699" sha1="22e4da740ea274c8c4bb9d63a91b58b878932c2c"/>
+		<rom name="A\CPUINFO.COM" size="128" crc="7184e55a" md5="e2a465ef248bc7c40455469537a059be" sha1="2e234a411ac1cdbd2b711c00728ece68ca31239a"/>
+		<rom name="A\DEMO.SUB" size="53" crc="b82c9555" md5="d3d7d66191e17d8cf1a01fcdb2b6a272" sha1="91b1410d1d103ac9d1b54728b40606f6a1ef60b3"/>
+		<rom name="A\DEVICES.COM" size="256" crc="d3578b4b" md5="1a5b31d50c2a6697a31127e9c2b894a7" sha1="1e0cc9de50228a6e779464a729b0773bf134e4a0"/>
+		<rom name="A\DRIVERS.INC" size="957" crc="affab853" md5="05d65eee6493ec0b32908c4998c6a40f" sha1="f0c688ec5d8a96365ccf70db3e91a965ab3ffcaf"/>
+		<rom name="A\DUMP.ASM" size="2783" crc="edcff56f" md5="11acddab556ef6fbb8be7e02b6116a39" sha1="f0128ce1ac55936eeff5bf5bbc3456d1ec0fad13"/>
+		<rom name="A\DUMP.COM" size="384" crc="715ea001" md5="368b53aaa3a21830f390d11a65cc8e90" sha1="2a93e09ad3a156f45ffdf5a83e37759203db3b23"/>
+		<rom name="A\HELLO.ASM" size="164" crc="628affbe" md5="571b5aa932d90b72616a31bc185faed8" sha1="fac91673a916175901ee6a783985ed6abd31dcac"/>
+		<rom name="A\HELLO.PAS" size="72" crc="a8b75568" md5="ccaec1cf849540e89b929beafbc58c7c" sha1="255a29d94f53070eab1e5b0d91b5b773ba652488"/>
+		<rom name="A\KBDTEST.COM" size="256" crc="e184642a" md5="c723eaf02bb549354ea2b1e3da91b365" sha1="1e86a929347681979e5e57e209057f0b666b62c9"/>
+		<rom name="A\LIFE.COM" size="1361" crc="5667c40a" md5="c37d24f70d740fbb9d4a213bea118138" sha1="17572440e9f7cc17051dc06a2d0f597bca3912ac"/>
+		<rom name="A\LS.ASM" size="10710" crc="a9a706c7" md5="5564a707b2f6050838fffa719a8fdf7d" sha1="9028b610e8ee1d64d8c8e8b1e485c0489b3e9191"/>
+		<rom name="A\LS.COM" size="1024" crc="219bae1f" md5="31da76e48ff053cb21f9e454073dfb51" sha1="06930dd41e006b8cb4edc58af9ecc1482ea6c455"/>
+		<rom name="A\OBJDUMP.COM" size="6129" crc="28ee875e" md5="ecd691e3c40bb57b14b7a6d03ca98875" sha1="f1ea079d483ed3955ace711ec37b17f3f31caec4"/>
+		<rom name="A\PASC.OBB" size="25856" crc="366ebfa1" md5="09ae2db3a30f2198ba5a01bd7f7b2ffb" sha1="9c4562127946dd96990e4df8e8daf90c6c3f4327"/>
+		<rom name="A\PASC.PAS" size="169099" crc="26933acd" md5="6d460e1e999ac3d79f8217e1be8da688" sha1="d1ac957e9cb7025d4e12a45620142f8dfe6dd28f"/>
+		<rom name="A\PINT.COM" size="5104" crc="150e8610" md5="76043a4b13332a33a5cb193442390514" sha1="6d900743f36f7831d9ae896de627735b463cbc70"/>
+		<rom name="A\PLOAD.COM" size="2991" crc="cd614054" md5="d8c52bf02f57b6551fe5e32970ed304f" sha1="49f737e705c144a5fe4bb9ed085702c1d74e8e60"/>
+		<rom name="A\QE.COM" size="12477" crc="2e406e6d" md5="2f8b2511018d4a9bda44c37803bb06e8" sha1="727b3279310267cb7d5bdbb9805f3cf2867fb7cc"/>
+		<rom name="A\SCRNTEST.COM" size="896" crc="f5e0b291" md5="c2786f7a80357f23caa901c2f075d81b" sha1="57b7cb236e3523bb7fc4b9777df87878853926c6"/>
+		<rom name="A\SUBMIT.COM" size="2483" crc="b549664d" md5="ec456ce3e283327d90018f42bdbab92c" sha1="ce1b66ebaa84a07700bc750186f6e54f5930226f"/>
+		<rom name="A\VT52DRV.COM" size="896" crc="932240a8" md5="76bed745c6b98375a2df62ad8ae4b361" sha1="e7779718131f26edca8f7c58805270f4c7c02d2d"/>
+		<rom name="A\VT52TEST.COM" size="640" crc="49d2f044" md5="091e82b5e2a6539d03c4c95cf6639085" sha1="b94873af1e31b3dab7db8862adfd6caf9fa7360f"/>
+		<rom name="A\XRECV.COM" size="1024" crc="7d5a030e" md5="bd609923241ad936c3cddd4bf4309c85" sha1="0ae69a9e0bd6a1447322bc9d90f98384010ea07b"/>
+		<rom name="A\XSEND.COM" size="1024" crc="d7af87a9" md5="13d6d605952119c6160b6294a3111614" sha1="c85f19a7223ba723ec7a808e62cbdb49373ce543"/>
+		<rom name="B\NATTR.COM" size="2196" crc="a194f208" md5="725f6df167a0eaf666e8fc43e5a46279" sha1="74142cfce07fdaac42aec1de6e8ddbefee36da94"/>
+		<rom name="B\NCOPY.COM" size="1208" crc="3c3df1fa" md5="3439f3761c0c6083282bbe061b552a06" sha1="cd30efa47e3445d38d2de68b9aa47b7515309b5e"/>
+		<rom name="B\NDIR.COM" size="2381" crc="b0c4a32a" md5="97048f60487557e4c32f3d4014824a98" sha1="fc799a3d4fc9aef350601277ecdc7076d654d9cc"/>
+		<rom name="B\NTRUNC.COM" size="3235" crc="9363d5f6" md5="7baf963bdf12eb5470d6093a4f5d61da" sha1="dd4d50a1d7c88d43421be5f3463a36c423501b4a"/>
+		<rom name="CPM65.NEO" size="3275" crc="03b585e8" md5="5db8316bb3b83c383ce4ca6e9cbba705" sha1="51d4f0645abb3c63f09d8676d4c1b33d6ccfa543"/>
+	</game>
+	<game name="CPM-65 (2024-05-03)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-05-03)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="A\ADM3ADRV.COM" size="675" crc="e7171700" md5="ef79c459d82a09b22dc601ea69a2316e" sha1="a43675f42420489cb01b34322b048507087a4d5d"/>
+		<rom name="A\ADM3ATST.COM" size="384" crc="c28b7236" md5="fdbae9bf8bced1d7cfbf0e9e594d87f0" sha1="af621c4a6ad961427cce86f73662cd92c6cebc94"/>
+		<rom name="A\ANSITERM.COM" size="5762" crc="f1ea891b" md5="4437f0e9e9cf7b7256b333b16b8e8c18" sha1="1c9be4ea0b23c292e1072da6be59bd4b8190101d"/>
+		<rom name="A\ASM.COM" size="15846" crc="eb2e721d" md5="6cfb0c06033dd4c75c26f421b2dc1594" sha1="ab2d8a9cda540ecf0b700ec505cb7b8ac0219d35"/>
+		<rom name="A\ASM.TXT" size="2945" crc="ab2aa954" md5="a006236939a30a5b9c6541b9f2d3fec3" sha1="5e2ce16d9a799a8e51376cb56f9b13e603a02bbb"/>
+		<rom name="A\ATBASIC.COM" size="12681" crc="67d8a459" md5="e17c7ba37a736fa5255296ae5f15c696" sha1="34bf8a8c979256dc097e5676206fe80a3e271f75"/>
+		<rom name="A\ATBASIC.TXT" size="340" crc="3a0f680f" md5="324d2801ffa4efd803fa03399f80a200" sha1="c779928df04368d9ce0ba4ca3ca2f21dd203415f"/>
+		<rom name="A\ATTR.COM" size="1117" crc="a5955ab0" md5="9c9775483dadfab78f9cd4255399b711" sha1="2dcd16d46e37313f1b373e87698114fcc92f5f91"/>
+		<rom name="A\BEDIT.ASM" size="27682" crc="567b48c1" md5="4fe227ab7f7416124bb635f83268a374" sha1="94d9eb0bb894b751002a36e13960642f17d37623"/>
+		<rom name="A\BEDIT.COM" size="2432" crc="6dfee44a" md5="62e74d4ab16bf775b621cf735fa9cf5b" sha1="fea3c82d187baf9f15c6a3e5b63f9e96abc88c1f"/>
+		<rom name="A\BEDIT.TXT" size="1479" crc="553d7a30" md5="e544a4c115fc31f5f4e5be941391a0a7" sha1="1282ae5a1e76f7c9379877aac00d6ad3465880b6"/>
+		<rom name="A\CAPSDRV.COM" size="256" crc="c0edf1ac" md5="8ed37d9cbba8bb33ade7bf7ce4186ffd" sha1="0ae0f13ec2544f50147befd53854012c21b607cb"/>
+		<rom name="A\CCP.SYS" size="2129" crc="5af5e8cf" md5="b3845f4813e18a700f80f8b28f60f78c" sha1="096773ce437f4343699e65f29157668a9e552089"/>
+		<rom name="A\CLS.ASM" size="645" crc="c5b2a0df" md5="1e01f4948e162e0713eb1deaa0c891a6" sha1="9b1b0dd30b8103dd4b4de374bb16d1590a2be4b3"/>
+		<rom name="A\CLS.COM" size="128" crc="309ae03a" md5="7e4a04a909557e5c6838182b702e7afd" sha1="992982983194daa8fc788131dfeaea1409be24bb"/>
+		<rom name="A\COPY.COM" size="2010" crc="be3e2c0a" md5="3517aeb1c8f41d02794c6f32ed7bc8b7" sha1="a246c9ae3f56de89f41d1789f3374e2ccc830b11"/>
+		<rom name="A\CPM65.INC" size="2445" crc="5d9d4c69" md5="f3db868c86e1191879bfb4bb18916699" sha1="22e4da740ea274c8c4bb9d63a91b58b878932c2c"/>
+		<rom name="A\CPUINFO.COM" size="128" crc="7184e55a" md5="e2a465ef248bc7c40455469537a059be" sha1="2e234a411ac1cdbd2b711c00728ece68ca31239a"/>
+		<rom name="A\DEMO.SUB" size="53" crc="b82c9555" md5="d3d7d66191e17d8cf1a01fcdb2b6a272" sha1="91b1410d1d103ac9d1b54728b40606f6a1ef60b3"/>
+		<rom name="A\DEVICES.COM" size="256" crc="d3578b4b" md5="1a5b31d50c2a6697a31127e9c2b894a7" sha1="1e0cc9de50228a6e779464a729b0773bf134e4a0"/>
+		<rom name="A\DRIVERS.INC" size="957" crc="affab853" md5="05d65eee6493ec0b32908c4998c6a40f" sha1="f0c688ec5d8a96365ccf70db3e91a965ab3ffcaf"/>
+		<rom name="A\DUMP.ASM" size="2783" crc="edcff56f" md5="11acddab556ef6fbb8be7e02b6116a39" sha1="f0128ce1ac55936eeff5bf5bbc3456d1ec0fad13"/>
+		<rom name="A\DUMP.COM" size="384" crc="715ea001" md5="368b53aaa3a21830f390d11a65cc8e90" sha1="2a93e09ad3a156f45ffdf5a83e37759203db3b23"/>
+		<rom name="A\HELLO.ASM" size="164" crc="628affbe" md5="571b5aa932d90b72616a31bc185faed8" sha1="fac91673a916175901ee6a783985ed6abd31dcac"/>
+		<rom name="A\HELLO.PAS" size="72" crc="a8b75568" md5="ccaec1cf849540e89b929beafbc58c7c" sha1="255a29d94f53070eab1e5b0d91b5b773ba652488"/>
+		<rom name="A\KBDTEST.COM" size="256" crc="e184642a" md5="c723eaf02bb549354ea2b1e3da91b365" sha1="1e86a929347681979e5e57e209057f0b666b62c9"/>
+		<rom name="A\LIFE.COM" size="1361" crc="5667c40a" md5="c37d24f70d740fbb9d4a213bea118138" sha1="17572440e9f7cc17051dc06a2d0f597bca3912ac"/>
+		<rom name="A\LS.ASM" size="10710" crc="a9a706c7" md5="5564a707b2f6050838fffa719a8fdf7d" sha1="9028b610e8ee1d64d8c8e8b1e485c0489b3e9191"/>
+		<rom name="A\LS.COM" size="1024" crc="219bae1f" md5="31da76e48ff053cb21f9e454073dfb51" sha1="06930dd41e006b8cb4edc58af9ecc1482ea6c455"/>
+		<rom name="A\OBJDUMP.COM" size="6129" crc="28ee875e" md5="ecd691e3c40bb57b14b7a6d03ca98875" sha1="f1ea079d483ed3955ace711ec37b17f3f31caec4"/>
+		<rom name="A\PASC.OBB" size="25856" crc="366ebfa1" md5="09ae2db3a30f2198ba5a01bd7f7b2ffb" sha1="9c4562127946dd96990e4df8e8daf90c6c3f4327"/>
+		<rom name="A\PASC.PAS" size="169099" crc="26933acd" md5="6d460e1e999ac3d79f8217e1be8da688" sha1="d1ac957e9cb7025d4e12a45620142f8dfe6dd28f"/>
+		<rom name="A\PINT.COM" size="5104" crc="150e8610" md5="76043a4b13332a33a5cb193442390514" sha1="6d900743f36f7831d9ae896de627735b463cbc70"/>
+		<rom name="A\PLOAD.COM" size="2991" crc="cd614054" md5="d8c52bf02f57b6551fe5e32970ed304f" sha1="49f737e705c144a5fe4bb9ed085702c1d74e8e60"/>
+		<rom name="A\QE.COM" size="12476" crc="ef2cbfc4" md5="b3d41ac2b0a7e59bec223955ea7f99b6" sha1="c6fae3ebbe1fbf64b7c5a994c55c1484591f52d5"/>
+		<rom name="A\SCRNTEST.COM" size="896" crc="f5e0b291" md5="c2786f7a80357f23caa901c2f075d81b" sha1="57b7cb236e3523bb7fc4b9777df87878853926c6"/>
+		<rom name="A\SUBMIT.COM" size="2510" crc="dac42b43" md5="bae8fb60f33e71ca2976b911c049fe87" sha1="96710cac21c897d0307912f8cb2f73b18f840803"/>
+		<rom name="A\VT52DRV.COM" size="896" crc="932240a8" md5="76bed745c6b98375a2df62ad8ae4b361" sha1="e7779718131f26edca8f7c58805270f4c7c02d2d"/>
+		<rom name="A\VT52TEST.COM" size="640" crc="49d2f044" md5="091e82b5e2a6539d03c4c95cf6639085" sha1="b94873af1e31b3dab7db8862adfd6caf9fa7360f"/>
+		<rom name="A\XRECV.COM" size="1024" crc="7d5a030e" md5="bd609923241ad936c3cddd4bf4309c85" sha1="0ae69a9e0bd6a1447322bc9d90f98384010ea07b"/>
+		<rom name="A\XSEND.COM" size="1024" crc="d7af87a9" md5="13d6d605952119c6160b6294a3111614" sha1="c85f19a7223ba723ec7a808e62cbdb49373ce543"/>
+		<rom name="B\NATTR.COM" size="2196" crc="a194f208" md5="725f6df167a0eaf666e8fc43e5a46279" sha1="74142cfce07fdaac42aec1de6e8ddbefee36da94"/>
+		<rom name="B\NCOPY.COM" size="1208" crc="3c3df1fa" md5="3439f3761c0c6083282bbe061b552a06" sha1="cd30efa47e3445d38d2de68b9aa47b7515309b5e"/>
+		<rom name="B\NDIR.COM" size="2381" crc="b0c4a32a" md5="97048f60487557e4c32f3d4014824a98" sha1="fc799a3d4fc9aef350601277ecdc7076d654d9cc"/>
+		<rom name="B\NTRUNC.COM" size="3235" crc="9363d5f6" md5="7baf963bdf12eb5470d6093a4f5d61da" sha1="dd4d50a1d7c88d43421be5f3463a36c423501b4a"/>
+		<rom name="CPM65.NEO" size="3275" crc="03b585e8" md5="5db8316bb3b83c383ce4ca6e9cbba705" sha1="51d4f0645abb3c63f09d8676d4c1b33d6ccfa543"/>
+	</game>
+	<game name="CPM-65 (2024-07-17)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-07-17)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="A\ADM3ADRV.COM" size="675" crc="e7171700" md5="ef79c459d82a09b22dc601ea69a2316e" sha1="a43675f42420489cb01b34322b048507087a4d5d"/>
+		<rom name="A\ADM3ATST.COM" size="384" crc="c28b7236" md5="fdbae9bf8bced1d7cfbf0e9e594d87f0" sha1="af621c4a6ad961427cce86f73662cd92c6cebc94"/>
+		<rom name="A\ANSITERM.COM" size="5762" crc="f1ea891b" md5="4437f0e9e9cf7b7256b333b16b8e8c18" sha1="1c9be4ea0b23c292e1072da6be59bd4b8190101d"/>
+		<rom name="A\ASM.COM" size="15846" crc="eb2e721d" md5="6cfb0c06033dd4c75c26f421b2dc1594" sha1="ab2d8a9cda540ecf0b700ec505cb7b8ac0219d35"/>
+		<rom name="A\ASM.TXT" size="2945" crc="ab2aa954" md5="a006236939a30a5b9c6541b9f2d3fec3" sha1="5e2ce16d9a799a8e51376cb56f9b13e603a02bbb"/>
+		<rom name="A\ATBASIC.COM" size="12681" crc="67d8a459" md5="e17c7ba37a736fa5255296ae5f15c696" sha1="34bf8a8c979256dc097e5676206fe80a3e271f75"/>
+		<rom name="A\ATBASIC.TXT" size="340" crc="3a0f680f" md5="324d2801ffa4efd803fa03399f80a200" sha1="c779928df04368d9ce0ba4ca3ca2f21dd203415f"/>
+		<rom name="A\ATTR.COM" size="1117" crc="a5955ab0" md5="9c9775483dadfab78f9cd4255399b711" sha1="2dcd16d46e37313f1b373e87698114fcc92f5f91"/>
+		<rom name="A\BEDIT.ASM" size="27682" crc="567b48c1" md5="4fe227ab7f7416124bb635f83268a374" sha1="94d9eb0bb894b751002a36e13960642f17d37623"/>
+		<rom name="A\BEDIT.COM" size="2432" crc="6dfee44a" md5="62e74d4ab16bf775b621cf735fa9cf5b" sha1="fea3c82d187baf9f15c6a3e5b63f9e96abc88c1f"/>
+		<rom name="A\BEDIT.TXT" size="1479" crc="553d7a30" md5="e544a4c115fc31f5f4e5be941391a0a7" sha1="1282ae5a1e76f7c9379877aac00d6ad3465880b6"/>
+		<rom name="A\CAPSDRV.COM" size="256" crc="c0edf1ac" md5="8ed37d9cbba8bb33ade7bf7ce4186ffd" sha1="0ae0f13ec2544f50147befd53854012c21b607cb"/>
+		<rom name="A\CCP.SYS" size="2129" crc="5af5e8cf" md5="b3845f4813e18a700f80f8b28f60f78c" sha1="096773ce437f4343699e65f29157668a9e552089"/>
+		<rom name="A\CLS.ASM" size="645" crc="c5b2a0df" md5="1e01f4948e162e0713eb1deaa0c891a6" sha1="9b1b0dd30b8103dd4b4de374bb16d1590a2be4b3"/>
+		<rom name="A\CLS.COM" size="128" crc="309ae03a" md5="7e4a04a909557e5c6838182b702e7afd" sha1="992982983194daa8fc788131dfeaea1409be24bb"/>
+		<rom name="A\COPY.COM" size="2010" crc="be3e2c0a" md5="3517aeb1c8f41d02794c6f32ed7bc8b7" sha1="a246c9ae3f56de89f41d1789f3374e2ccc830b11"/>
+		<rom name="A\CPM65.INC" size="2445" crc="5d9d4c69" md5="f3db868c86e1191879bfb4bb18916699" sha1="22e4da740ea274c8c4bb9d63a91b58b878932c2c"/>
+		<rom name="A\CPUINFO.COM" size="128" crc="7184e55a" md5="e2a465ef248bc7c40455469537a059be" sha1="2e234a411ac1cdbd2b711c00728ece68ca31239a"/>
+		<rom name="A\DEMO.SUB" size="53" crc="b82c9555" md5="d3d7d66191e17d8cf1a01fcdb2b6a272" sha1="91b1410d1d103ac9d1b54728b40606f6a1ef60b3"/>
+		<rom name="A\DEVICES.COM" size="256" crc="d3578b4b" md5="1a5b31d50c2a6697a31127e9c2b894a7" sha1="1e0cc9de50228a6e779464a729b0773bf134e4a0"/>
+		<rom name="A\DRIVERS.INC" size="957" crc="affab853" md5="05d65eee6493ec0b32908c4998c6a40f" sha1="f0c688ec5d8a96365ccf70db3e91a965ab3ffcaf"/>
+		<rom name="A\DUMP.ASM" size="2783" crc="edcff56f" md5="11acddab556ef6fbb8be7e02b6116a39" sha1="f0128ce1ac55936eeff5bf5bbc3456d1ec0fad13"/>
+		<rom name="A\DUMP.COM" size="384" crc="715ea001" md5="368b53aaa3a21830f390d11a65cc8e90" sha1="2a93e09ad3a156f45ffdf5a83e37759203db3b23"/>
+		<rom name="A\HELLO.ASM" size="164" crc="628affbe" md5="571b5aa932d90b72616a31bc185faed8" sha1="fac91673a916175901ee6a783985ed6abd31dcac"/>
+		<rom name="A\HELLO.PAS" size="72" crc="a8b75568" md5="ccaec1cf849540e89b929beafbc58c7c" sha1="255a29d94f53070eab1e5b0d91b5b773ba652488"/>
+		<rom name="A\KBDTEST.COM" size="256" crc="e184642a" md5="c723eaf02bb549354ea2b1e3da91b365" sha1="1e86a929347681979e5e57e209057f0b666b62c9"/>
+		<rom name="A\LIFE.COM" size="1361" crc="5667c40a" md5="c37d24f70d740fbb9d4a213bea118138" sha1="17572440e9f7cc17051dc06a2d0f597bca3912ac"/>
+		<rom name="A\LS.ASM" size="10710" crc="a9a706c7" md5="5564a707b2f6050838fffa719a8fdf7d" sha1="9028b610e8ee1d64d8c8e8b1e485c0489b3e9191"/>
+		<rom name="A\LS.COM" size="1024" crc="219bae1f" md5="31da76e48ff053cb21f9e454073dfb51" sha1="06930dd41e006b8cb4edc58af9ecc1482ea6c455"/>
+		<rom name="A\OBJDUMP.COM" size="6129" crc="28ee875e" md5="ecd691e3c40bb57b14b7a6d03ca98875" sha1="f1ea079d483ed3955ace711ec37b17f3f31caec4"/>
+		<rom name="A\PASC.OBB" size="25856" crc="366ebfa1" md5="09ae2db3a30f2198ba5a01bd7f7b2ffb" sha1="9c4562127946dd96990e4df8e8daf90c6c3f4327"/>
+		<rom name="A\PASC.PAS" size="169099" crc="26933acd" md5="6d460e1e999ac3d79f8217e1be8da688" sha1="d1ac957e9cb7025d4e12a45620142f8dfe6dd28f"/>
+		<rom name="A\PINT.COM" size="5104" crc="150e8610" md5="76043a4b13332a33a5cb193442390514" sha1="6d900743f36f7831d9ae896de627735b463cbc70"/>
+		<rom name="A\PLOAD.COM" size="2991" crc="cd614054" md5="d8c52bf02f57b6551fe5e32970ed304f" sha1="49f737e705c144a5fe4bb9ed085702c1d74e8e60"/>
+		<rom name="A\QE.COM" size="12305" crc="882e7f50" md5="4027d008568b50ed6b320e41ee2e94b3" sha1="22db8b1d0dd9e8c91c8fbb630d57210f08e49a71"/>
+		<rom name="A\SCRNTEST.COM" size="896" crc="f5e0b291" md5="c2786f7a80357f23caa901c2f075d81b" sha1="57b7cb236e3523bb7fc4b9777df87878853926c6"/>
+		<rom name="A\SUBMIT.COM" size="2513" crc="ed52765b" md5="e40097ff9eeb3947f3e42436c1bb94d4" sha1="6683ff8ec9ce25d2d6574bdcebca0c66b6fa3fd9"/>
+		<rom name="A\VT52DRV.COM" size="896" crc="932240a8" md5="76bed745c6b98375a2df62ad8ae4b361" sha1="e7779718131f26edca8f7c58805270f4c7c02d2d"/>
+		<rom name="A\VT52TEST.COM" size="640" crc="49d2f044" md5="091e82b5e2a6539d03c4c95cf6639085" sha1="b94873af1e31b3dab7db8862adfd6caf9fa7360f"/>
+		<rom name="A\XRECV.COM" size="1024" crc="7d5a030e" md5="bd609923241ad936c3cddd4bf4309c85" sha1="0ae69a9e0bd6a1447322bc9d90f98384010ea07b"/>
+		<rom name="A\XSEND.COM" size="1024" crc="d7af87a9" md5="13d6d605952119c6160b6294a3111614" sha1="c85f19a7223ba723ec7a808e62cbdb49373ce543"/>
+		<rom name="B\NATTR.COM" size="2094" crc="77c666ac" md5="361cea79f5e5b3e405fe62ce9c2961f4" sha1="62c49eb1179932481cbf9dffcef79a712d7eabb3"/>
+		<rom name="B\NCOPY.COM" size="1208" crc="3c3df1fa" md5="3439f3761c0c6083282bbe061b552a06" sha1="cd30efa47e3445d38d2de68b9aa47b7515309b5e"/>
+		<rom name="B\NDIR.COM" size="2381" crc="cb9e2c92" md5="2dad76a865704c23f0fcc8634c43f74f" sha1="c414c07f4ae425681ffd3e6fc45856e2771a0d23"/>
+		<rom name="B\NTRUNC.COM" size="3269" crc="547fbf64" md5="3a7fd096b4cb9d5738342348b5487da6" sha1="1c40a3d202853d83e0b8c206cd419e1e919c5f6d"/>
+		<rom name="CPM65.NEO" size="3275" crc="03b585e8" md5="5db8316bb3b83c383ce4ca6e9cbba705" sha1="51d4f0645abb3c63f09d8676d4c1b33d6ccfa543"/>
+	</game>
+	<game name="CPM-65 (2024-08-21)(Given, David)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-08-21)(Given, David)(CH)(en)(BSD-2)</description>
+		<rom name="A\ADM3ADRV.COM" size="675" crc="e7171700" md5="ef79c459d82a09b22dc601ea69a2316e" sha1="a43675f42420489cb01b34322b048507087a4d5d"/>
+		<rom name="A\ADM3ATST.COM" size="384" crc="c28b7236" md5="fdbae9bf8bced1d7cfbf0e9e594d87f0" sha1="af621c4a6ad961427cce86f73662cd92c6cebc94"/>
+		<rom name="A\ANSITERM.COM" size="5762" crc="f1ea891b" md5="4437f0e9e9cf7b7256b333b16b8e8c18" sha1="1c9be4ea0b23c292e1072da6be59bd4b8190101d"/>
+		<rom name="A\ASM.COM" size="15840" crc="e4048874" md5="75cfbbe2afa7285c3a27c4788e8f11c6" sha1="4f527092702fcde08bd380543bd2827b3901d118"/>
+		<rom name="A\ASM.TXT" size="2945" crc="ab2aa954" md5="a006236939a30a5b9c6541b9f2d3fec3" sha1="5e2ce16d9a799a8e51376cb56f9b13e603a02bbb"/>
+		<rom name="A\ATBASIC.COM" size="12681" crc="67d8a459" md5="e17c7ba37a736fa5255296ae5f15c696" sha1="34bf8a8c979256dc097e5676206fe80a3e271f75"/>
+		<rom name="A\ATBASIC.TXT" size="340" crc="3a0f680f" md5="324d2801ffa4efd803fa03399f80a200" sha1="c779928df04368d9ce0ba4ca3ca2f21dd203415f"/>
+		<rom name="A\ATTR.COM" size="1116" crc="f2c161d1" md5="04e0945517fbe9a076f45e25a8934f37" sha1="f9be7a40be5f3e79c2114864d731f9fe17c26d69"/>
+		<rom name="A\BEDIT.ASM" size="27682" crc="567b48c1" md5="4fe227ab7f7416124bb635f83268a374" sha1="94d9eb0bb894b751002a36e13960642f17d37623"/>
+		<rom name="A\BEDIT.COM" size="2432" crc="6dfee44a" md5="62e74d4ab16bf775b621cf735fa9cf5b" sha1="fea3c82d187baf9f15c6a3e5b63f9e96abc88c1f"/>
+		<rom name="A\BEDIT.TXT" size="1479" crc="553d7a30" md5="e544a4c115fc31f5f4e5be941391a0a7" sha1="1282ae5a1e76f7c9379877aac00d6ad3465880b6"/>
+		<rom name="A\CAPSDRV.COM" size="256" crc="c0edf1ac" md5="8ed37d9cbba8bb33ade7bf7ce4186ffd" sha1="0ae0f13ec2544f50147befd53854012c21b607cb"/>
+		<rom name="A\CCP.SYS" size="2129" crc="5af5e8cf" md5="b3845f4813e18a700f80f8b28f60f78c" sha1="096773ce437f4343699e65f29157668a9e552089"/>
+		<rom name="A\CLS.ASM" size="645" crc="c5b2a0df" md5="1e01f4948e162e0713eb1deaa0c891a6" sha1="9b1b0dd30b8103dd4b4de374bb16d1590a2be4b3"/>
+		<rom name="A\CLS.COM" size="128" crc="309ae03a" md5="7e4a04a909557e5c6838182b702e7afd" sha1="992982983194daa8fc788131dfeaea1409be24bb"/>
+		<rom name="A\COPY.COM" size="2010" crc="be3e2c0a" md5="3517aeb1c8f41d02794c6f32ed7bc8b7" sha1="a246c9ae3f56de89f41d1789f3374e2ccc830b11"/>
+		<rom name="A\CPM65.INC" size="2445" crc="5d9d4c69" md5="f3db868c86e1191879bfb4bb18916699" sha1="22e4da740ea274c8c4bb9d63a91b58b878932c2c"/>
+		<rom name="A\CPUINFO.COM" size="128" crc="7184e55a" md5="e2a465ef248bc7c40455469537a059be" sha1="2e234a411ac1cdbd2b711c00728ece68ca31239a"/>
+		<rom name="A\DEMO.SUB" size="53" crc="b82c9555" md5="d3d7d66191e17d8cf1a01fcdb2b6a272" sha1="91b1410d1d103ac9d1b54728b40606f6a1ef60b3"/>
+		<rom name="A\DEVICES.COM" size="256" crc="d3578b4b" md5="1a5b31d50c2a6697a31127e9c2b894a7" sha1="1e0cc9de50228a6e779464a729b0773bf134e4a0"/>
+		<rom name="A\DRIVERS.INC" size="957" crc="affab853" md5="05d65eee6493ec0b32908c4998c6a40f" sha1="f0c688ec5d8a96365ccf70db3e91a965ab3ffcaf"/>
+		<rom name="A\DUMP.ASM" size="2783" crc="edcff56f" md5="11acddab556ef6fbb8be7e02b6116a39" sha1="f0128ce1ac55936eeff5bf5bbc3456d1ec0fad13"/>
+		<rom name="A\DUMP.COM" size="384" crc="715ea001" md5="368b53aaa3a21830f390d11a65cc8e90" sha1="2a93e09ad3a156f45ffdf5a83e37759203db3b23"/>
+		<rom name="A\HELLO.ASM" size="164" crc="628affbe" md5="571b5aa932d90b72616a31bc185faed8" sha1="fac91673a916175901ee6a783985ed6abd31dcac"/>
+		<rom name="A\HELLO.PAS" size="72" crc="a8b75568" md5="ccaec1cf849540e89b929beafbc58c7c" sha1="255a29d94f53070eab1e5b0d91b5b773ba652488"/>
+		<rom name="A\KBDTEST.COM" size="256" crc="e184642a" md5="c723eaf02bb549354ea2b1e3da91b365" sha1="1e86a929347681979e5e57e209057f0b666b62c9"/>
+		<rom name="A\LIFE.COM" size="1359" crc="f2f18ddc" md5="6102cf91a9cc93ace83c60cf724ac6f8" sha1="9a9294c05304a3936e818606ddc759bb1ce398b1"/>
+		<rom name="A\LS.ASM" size="10710" crc="a9a706c7" md5="5564a707b2f6050838fffa719a8fdf7d" sha1="9028b610e8ee1d64d8c8e8b1e485c0489b3e9191"/>
+		<rom name="A\LS.COM" size="1024" crc="219bae1f" md5="31da76e48ff053cb21f9e454073dfb51" sha1="06930dd41e006b8cb4edc58af9ecc1482ea6c455"/>
+		<rom name="A\OBJDUMP.COM" size="6010" crc="c109279b" md5="723e130920c70d709cdf3c9bdb78a6a2" sha1="97cd495e73fbe661e649209a8ef50c32149a3a68"/>
+		<rom name="A\PASC.OBB" size="25856" crc="366ebfa1" md5="09ae2db3a30f2198ba5a01bd7f7b2ffb" sha1="9c4562127946dd96990e4df8e8daf90c6c3f4327"/>
+		<rom name="A\PASC.PAS" size="169099" crc="26933acd" md5="6d460e1e999ac3d79f8217e1be8da688" sha1="d1ac957e9cb7025d4e12a45620142f8dfe6dd28f"/>
+		<rom name="A\PINT.COM" size="5104" crc="150e8610" md5="76043a4b13332a33a5cb193442390514" sha1="6d900743f36f7831d9ae896de627735b463cbc70"/>
+		<rom name="A\PLOAD.COM" size="2991" crc="cd614054" md5="d8c52bf02f57b6551fe5e32970ed304f" sha1="49f737e705c144a5fe4bb9ed085702c1d74e8e60"/>
+		<rom name="A\QE.COM" size="12306" crc="a81b80b6" md5="c9e25980932f8699b0424e1a40aa7db4" sha1="c1e5498afc79d3daec2defb5cc8d57a6e9d7d44d"/>
+		<rom name="A\SCRNTEST.COM" size="896" crc="f5e0b291" md5="c2786f7a80357f23caa901c2f075d81b" sha1="57b7cb236e3523bb7fc4b9777df87878853926c6"/>
+		<rom name="A\SUBMIT.COM" size="2513" crc="ed52765b" md5="e40097ff9eeb3947f3e42436c1bb94d4" sha1="6683ff8ec9ce25d2d6574bdcebca0c66b6fa3fd9"/>
+		<rom name="A\VT52DRV.COM" size="896" crc="932240a8" md5="76bed745c6b98375a2df62ad8ae4b361" sha1="e7779718131f26edca8f7c58805270f4c7c02d2d"/>
+		<rom name="A\VT52TEST.COM" size="640" crc="49d2f044" md5="091e82b5e2a6539d03c4c95cf6639085" sha1="b94873af1e31b3dab7db8862adfd6caf9fa7360f"/>
+		<rom name="A\XRECV.COM" size="1024" crc="7d5a030e" md5="bd609923241ad936c3cddd4bf4309c85" sha1="0ae69a9e0bd6a1447322bc9d90f98384010ea07b"/>
+		<rom name="A\XSEND.COM" size="1024" crc="d7af87a9" md5="13d6d605952119c6160b6294a3111614" sha1="c85f19a7223ba723ec7a808e62cbdb49373ce543"/>
+		<rom name="B\NATTR.COM" size="2094" crc="77c666ac" md5="361cea79f5e5b3e405fe62ce9c2961f4" sha1="62c49eb1179932481cbf9dffcef79a712d7eabb3"/>
+		<rom name="B\NCOPY.COM" size="1206" crc="a4c42edf" md5="4c6ca352288b31c9f22375ceaf0fa4bd" sha1="355d96c15196b17928a74db199413c56d7b0f78b"/>
+		<rom name="B\NDIR.COM" size="2378" crc="382cfd51" md5="c7ac2be14853081077d3d97e1bb615c6" sha1="cdf448768f51935e5655c8777d33fa54e645743d"/>
+		<rom name="B\NTRUNC.COM" size="3268" crc="4f6d6377" md5="37b17572412812fe144ea7ff523f9cee" sha1="48ecd351660a0f52e8ffb725a73e628af0c33f8c"/>
+		<rom name="CPM65.NEO" size="3275" crc="03b585e8" md5="5db8316bb3b83c383ce4ca6e9cbba705" sha1="51d4f0645abb3c63f09d8676d4c1b33d6ccfa543"/>
+	</game>
+</datafile>

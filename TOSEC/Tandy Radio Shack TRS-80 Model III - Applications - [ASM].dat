@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [ASM]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [ASM] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Editor Assembler to Model III Disk (19xx)(Nate Salsbury)[ASM]">
+		<description>Editor Assembler to Model III Disk (19xx)(Nate Salsbury)[ASM]</description>
+		<rom name="edpatch.asm" size="8778" crc="36b15425" md5="8dff28e6abe5d6e1601e01842df556a8" sha1="3d15ebac24f819f95516f62c47ee08d736dcd042"/>
+		<rom name="edpatch.txt" size="9197" crc="923fad3c" md5="3dde91769e50e6702a1714aab93ec7ff" sha1="c1a23a021c2b1424eb20eb930228e90f66c64467"/>
+	</game>
+	<game name="Make-80 III v1.1 (1981)(Kim Watt-AM Electronics)[ASM]">
+		<description>Make-80 III v1.1 (1981)(Kim Watt-AM Electronics)[ASM]</description>
+		<rom name="MAKE80.TOO" size="19712" crc="ae29c7bb" md5="ed8188a74c8da6d936ec6077ec8d3b25" sha1="9931877661c74f671620d03188ff548b76809556"/>
+		<rom name="MAKE80.TXT" size="19712" crc="a76b9fd4" md5="ce970f2c012b23aaea45a6f95d4806e7" sha1="c893b3dcb7d516217a195a405412d469afabec34"/>
+	</game>
+	<game name="TRSDir Model III TRSDOS Directory on NEWDOS-80 v2.0 (1983)(T Domigan)[m Jack Decker][ASM]">
+		<description>TRSDir Model III TRSDOS Directory on NEWDOS-80 v2.0 (1983)(T Domigan)[m Jack Decker][ASM]</description>
+		<rom name="trsdir.asm" size="11430" crc="cfaff492" md5="a8411b7c1c300373113f3cb9c6ef2d11" sha1="0d73143db209cf300461d77504754e8389b4a8e9"/>
+		<rom name="trsdir.cmd" size="619" crc="b728ee1c" md5="0467c52e368092857b61db3a62f66c09" sha1="dfea9fac7004aff2a1567f5aac541f5181eac48d"/>
+		<rom name="trsdir.doc" size="6960" crc="215c74b1" md5="a17e5fce79b064b219c0507c3866091a" sha1="e7f2149de0e321cac0fca6858c723a7cd6d74e9f"/>
+	</game>
+</datafile>

@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Commodore C128 - Games - [D64]</name>
-		<description>Commodore C128 - Games - [D64] (TOSEC-v2024-04-10)</description>
+		<description>Commodore C128 - Games - [D64] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-04-10</version>
-		<author>Duncan Twain - Tomse - DesertWolf - Cassiel</author>
+		<version>2025-01-15</version>
+		<author>Duncan Twain - Tomse - DesertWolf - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org</url>
 	</header>
+	<game name="4GRAVITY! (2024-03-26)(Spedaletti, Marco)(IT)(en)">
+		<description>4GRAVITY! (2024-03-26)(Spedaletti, Marco)(IT)(en)</description>
+		<rom name="4GRAVITY! (2024-03-26)(Spedaletti, Marco)(IT)(en).d64" size="174848" crc="e2904723" md5="2f95a66e7bbc886ef7c3b13663eb77da" sha1="2292b18143d446304e42831262c8d2327f0b2f9c"/>
+	</game>
 	<game name="80 Column Games 2nd Relase (1994-03)(Dotson, Tim)(SW)[80 column]">
 		<description>80 Column Games 2nd Relase (1994-03)(Dotson, Tim)(SW)[80 column]</description>
 		<rom name="80 Column Games 2nd Relase (1994-03)(Dotson, Tim)(SW)[80 column].d64" size="174848" crc="a63007dd" md5="9813f2110796db26b143317a3bda28e8" sha1="f67ee0f94cd4ae1790a8082b1854c1dc1f51acd8"/>
@@ -36,6 +40,10 @@
 		<description>80 Column Games 2nd Relase (1994-03)(Dotson, Tim)(SW)[a2][80 column][autoboot]</description>
 		<rom name="80 Column Games 2nd Relase (1994-03)(Dotson, Tim)(SW)[a2][80 column][autoboot].d64" size="174848" crc="2735f168" md5="24d1bf106a9eccdf7f95dac6bf32f99f" sha1="5c1f3d4a1a33ba495d33dc89fef01a025feec406"/>
 	</game>
+	<game name="Air Attack! (2021-10-19)(Spedaletti, Marco)(IT)(en)">
+		<description>Air Attack! (2021-10-19)(Spedaletti, Marco)(IT)(en)</description>
+		<rom name="Air Attack! (2021-10-19)(Spedaletti, Marco)(IT)(en).d64" size="174848" crc="c86e9913" md5="4e99e03097f6bd2c45dc4b0a4a30dea3" sha1="266307a79ce2ec931bd5cf6255b075b4d3981e0e"/>
+	</game>
 	<game name="Alien Invaders (19xx)(Spiceware)[80 column]">
 		<description>Alien Invaders (19xx)(Spiceware)[80 column]</description>
 		<rom name="Alien Invaders (19xx)(Spiceware)[80 column].d64" size="174848" crc="9b5ad06d" md5="e7adc9f0f2b18337fe4d1fd5f79723ea" sha1="6043fe2245fcb5b4d9c195ad4ccfb1c66d38e27f"/>
@@ -47,6 +55,10 @@
 	<game name="Alien Invaders (19xx)(Spiceware)[a][80 column]">
 		<description>Alien Invaders (19xx)(Spiceware)[a][80 column]</description>
 		<rom name="Alien Invaders (19xx)(Spiceware)[a][80 column].d64" size="174848" crc="e268490a" md5="4a7c2c8d845f3d5c74fd313ed0038160" sha1="9f253145876b800759230070ce7ecab011dfa606"/>
+	</game>
+	<game name="Alien Storm (2021-10-19)(Spedaletti, Marco)(IT)(en)">
+		<description>Alien Storm (2021-10-19)(Spedaletti, Marco)(IT)(en)</description>
+		<rom name="Alien Storm (2021-10-19)(Spedaletti, Marco)(IT)(en).d64" size="174848" crc="a02c0e5c" md5="73ec4b3a5e11204e89b7ffc87af4742a" sha1="a06bdb571be5e562779626bb86fb324a77c1dd2c"/>
 	</game>
 	<game name="Amaurote Isometric 128 (2022-05-29)(Elysium)[vdc]">
 		<description>Amaurote Isometric 128 (2022-05-29)(Elysium)[vdc]</description>
@@ -204,6 +216,10 @@
 		<description>Cross Shoot (2021-05-13)(Caruso, Fabrizio)[z80][80col]</description>
 		<rom name="Cross Shoot (2021-05-13)(Caruso, Fabrizio)[z80][80col].d64" size="174848" crc="e18f3bab" md5="dc0b793c0741bfc221fe4894c4a12b73" sha1="6e28e8d343b14130476e56f674d1c7910b170fd3"/>
 	</game>
+	<game name="Cross Shuriken (2023-06-30)(Caruso, Fabrizio)[40col]">
+		<description>Cross Shuriken (2023-06-30)(Caruso, Fabrizio)[40col]</description>
+		<rom name="Cross Shuriken (2023-06-30)(Caruso, Fabrizio)[40col].d64" size="174848" crc="48b23ec6" md5="48cf94a1faec0cccac74c53520d14d92" sha1="9a1fb8aeb423e888cfd70f4008fd938985cc9501"/>
+	</game>
 	<game name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[z80][80col]">
 		<description>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[z80][80col]</description>
 		<rom name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)[z80][80col].d64" size="174848" crc="d4d7fd6a" md5="1c9cb9fcbba48835a87ebbf23445c228" sha1="fe57566580f2322d4cc979094e8d2db66c3be98b"/>
@@ -219,6 +235,30 @@
 	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[z80][80col]">
 		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[z80][80col]</description>
 		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[z80][80col].d64" size="174848" crc="c2d37dd7" md5="4d07c9d6eafa0aef2978907c2b297280" sha1="8af6bcd6b8feeccdd32ccac7d03d5f95d8bad958"/>
+	</game>
+	<game name="Cross Stinger (2023-10-08)(Caruso, Fabrizio)[z80][40col]">
+		<description>Cross Stinger (2023-10-08)(Caruso, Fabrizio)[z80][40col]</description>
+		<rom name="Cross Stinger (2023-10-08)(Caruso, Fabrizio)[z80][40col].d64" size="174848" crc="c5f0c10c" md5="e0d5dfb7e978cfc51d394888ec9ca365" sha1="cbc9305704c0af018e5068e00da36dbd60338186"/>
+	</game>
+	<game name="Cross Stinger (2023-10-10)(Caruso, Fabrizio)[z80][80col]">
+		<description>Cross Stinger (2023-10-10)(Caruso, Fabrizio)[z80][80col]</description>
+		<rom name="Cross Stinger (2023-10-10)(Caruso, Fabrizio)[z80][80col].d64" size="174848" crc="4aa2aecb" md5="9545c588b4ab940151ff0c6f671590f1" sha1="2df41f218ac5c19dd7323fdb153d470078ddabcd"/>
+	</game>
+	<game name="Cross Trex (2024-09-24)(Caruso, Fabrizio)[z80][40col]">
+		<description>Cross Trex (2024-09-24)(Caruso, Fabrizio)[z80][40col]</description>
+		<rom name="Cross Trex (2024-09-24)(Caruso, Fabrizio)[z80][40col].d64" size="174848" crc="8bab91b4" md5="4ad7e7c9a1e311bfcaf039f28c4c069a" sha1="a9c4674e89da24768c806de54506f594500ba0c7"/>
+	</game>
+	<game name="Cross Trex (2024-09-26)(Caruso, Fabrizio)[z80][40col]">
+		<description>Cross Trex (2024-09-26)(Caruso, Fabrizio)[z80][40col]</description>
+		<rom name="Cross Trex (2024-09-26)(Caruso, Fabrizio)[z80][40col].d64" size="174848" crc="63a4372f" md5="9141e44fb89a7431941c76ed51496b8b" sha1="308910120ce39538daf423e93afcd11c40ad5e08"/>
+	</game>
+	<game name="Cross Trex (2024-09-26)(Caruso, Fabrizio)[z80][8x6][40col]">
+		<description>Cross Trex (2024-09-26)(Caruso, Fabrizio)[z80][8x6][40col]</description>
+		<rom name="Cross Trex (2024-09-26)(Caruso, Fabrizio)[z80][8x6][40col].d64" size="174848" crc="35a092e2" md5="67bff2f4da334833ddf0e6a50eea854f" sha1="97ed101d3f99caa5b26b619d1f468196cc03bb51"/>
+	</game>
+	<game name="Cross Trex (2024-10-17)(Caruso, Fabrizio)[z80][40col]">
+		<description>Cross Trex (2024-10-17)(Caruso, Fabrizio)[z80][40col]</description>
+		<rom name="Cross Trex (2024-10-17)(Caruso, Fabrizio)[z80][40col].d64" size="174848" crc="3be53a06" md5="8f0077202ed0b507691b6e35a50c04a3" sha1="a911a342802b1d20bb2c099b9e84291601b03da1"/>
 	</game>
 	<game name="Das Ding (1988)(N≈th, Christian)(de)[80 column]">
 		<description>Das Ding (1988)(N≈th, Christian)(de)[80 column]</description>
@@ -239,6 +279,10 @@
 	<game name="Dragon&apos;s Tower (19xx)(Massoft)">
 		<description>Dragon&apos;s Tower (19xx)(Massoft)</description>
 		<rom name="Dragon&apos;s Tower (19xx)(Massoft).d64" size="174848" crc="6693a4cd" md5="30f834613235cdd3de0be2792e38d6e0" sha1="7460d113e3395cde9fed1eb7897b7a2e908044d8"/>
+	</game>
+	<game name="Elevator, The (2021-10-19)(Spedaletti, Marco)(IT)">
+		<description>Elevator, The (2021-10-19)(Spedaletti, Marco)(IT)</description>
+		<rom name="Elevator, The (2021-10-19)(Spedaletti, Marco)(IT).d64" size="174848" crc="8f272666" md5="6a64f0133b37ab5c5f0a1975aae48b64" sha1="4ebe9286f712bb098e56d7aa05d6008e46b85fa0"/>
 	</game>
 	<game name="Empire 128 - Enhanced (1987-10)(Blakemore, Cleve)[h Binary Legens][80column]">
 		<description>Empire 128 - Enhanced (1987-10)(Blakemore, Cleve)[h Binary Legens][80column]</description>
@@ -492,6 +536,10 @@
 		<description>SeerΣuber (19xx)(Behnke, Christian)(de)[a3][80 column]</description>
 		<rom name="SeerΣuber (19xx)(Behnke, Christian)(de)[a3][80 column].d64" size="174848" crc="567fb287" md5="315e000a28d63f22895c878a9f92be93" sha1="370790b4fbeb504cc5982348eb5d824d4c229c43"/>
 	</game>
+	<game name="SOKO64+ (2024-06-29)(Spedaletti, Marco)(IT)(en)">
+		<description>SOKO64+ (2024-06-29)(Spedaletti, Marco)(IT)(en)</description>
+		<rom name="SOKO64+ (2024-06-29)(Spedaletti, Marco)(IT)(en).d64" size="174848" crc="803794fe" md5="97733a3e9f43ef58d18e0ca35a6f4c23" sha1="ec411ecf8370ccfeba09a08631c696b47a4de889"/>
+	</game>
 	<game name="Solitaire-80 (1992-08)(Peromsik, Aaron)[80 column]">
 		<description>Solitaire-80 (1992-08)(Peromsik, Aaron)[80 column]</description>
 		<rom name="Solitaire-80 (1992-08)(Peromsik, Aaron)[80 column].d64" size="174848" crc="51632d49" md5="b8b300cd5cc0bec7a3d1dc6f2d088317" sha1="4b400b4c5a2f6a92ab90b1c3a07c02c04c4b6272"/>
@@ -575,6 +623,10 @@
 	<game name="Tic Tac Math (2003-07-30)(Softwolves)[a]">
 		<description>Tic Tac Math (2003-07-30)(Softwolves)[a]</description>
 		<rom name="Tic Tac Math (2003-07-30)(Softwolves)[a].d64" size="174848" crc="68a20803" md5="166722fc5acc053c37f83fd0dd7bcb22" sha1="14472dc26c8338fc36b10b003b31422b70f3dc68"/>
+	</game>
+	<game name="TOTTO! (2021-10-19)(Spedaletti, Marco)(IT)">
+		<description>TOTTO! (2021-10-19)(Spedaletti, Marco)(IT)</description>
+		<rom name="TOTTO! (2021-10-19)(Spedaletti, Marco)(IT).d64" size="174848" crc="36d59450" md5="572e2bc7c57a785b5c8be9c2014ae395" sha1="c60241b1bb4d4d7b09fd0440a71870fada84cefb"/>
 	</game>
 	<game name="Trader v2.2 (1990-11)(Tradersoft)(PD)[80 column]">
 		<description>Trader v2.2 (1990-11)(Tradersoft)(PD)[80 column]</description>

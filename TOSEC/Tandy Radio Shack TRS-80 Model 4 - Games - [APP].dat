@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Games - [APP]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Games - [APP] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tetris for Pro-Wam (19xx)(-)[APP]">
+		<description>Tetris for Pro-Wam (19xx)(-)[APP]</description>
+		<rom name="WTETRIS.APP" size="2048" crc="c3976d10" md5="fc1f2bad743bcb56e256d158b65fff33" sha1="55bf7e6dee6a5dd5441369935a3108ed6c916541"/>
+		<rom name="WTETRIS.ASM" size="17756" crc="2c745801" md5="7b902fd6d9fcbba1169be55258652eec" sha1="fa8a8794eef86e736b991910aa2781bfc4f6beb8"/>
+		<rom name="WTETRIS.DOC" size="1497" crc="a1b34744" md5="ecc1566ea719dcafeca9c7886adbb418" sha1="85d5308cce3cce7ea926ba023e6e3d8455787aeb"/>
+	</game>
+</datafile>

@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Sharp MZ-700 - Games - [MZF]</name>
-		<description>Sharp MZ-700 - Games - [MZF] (TOSEC-v2024-01-15)</description>
+		<description>Sharp MZ-700 - Games - [MZF] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>Grendel - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="3D-Car Race (19xx)(-)">
+		<description>3D-Car Race (19xx)(-)</description>
+		<rom name="3D-Car Race (19xx)(-).mzf" size="6785" crc="f7647581" md5="09efc415e17ad4ef5ebc70fc551f7740" sha1="3603461843bf7f13902fc35b6d0f708a93b98b7b"/>
+	</game>
 	<game name="3D-Way Out (19xx)(BBG Software)">
 		<description>3D-Way Out (19xx)(BBG Software)</description>
 		<rom name="3D-Way Out (19xx)(BBG Software).mzf" size="10565" crc="33ea8534" md5="b57c51d21b2c9b1d3a6252020e000703" sha1="b4a6a366b9e0a96f7ff3d0577749441e29835f58"/>
@@ -24,17 +28,41 @@
 		<description>Action Fly (19xx)(-)(de)</description>
 		<rom name="Action Fly (19xx)(-)(de).mzf" size="7360" crc="e4af391e" md5="5ba3920ac727eb78454da32717afcaf9" sha1="0644aa80f6e8dffcf1532b1f1c6e861d6d04d45e"/>
 	</game>
+	<game name="Advanced Chess (19xx)(Solo Software)(GB)">
+		<description>Advanced Chess (19xx)(Solo Software)(GB)</description>
+		<rom name="Advanced Chess (19xx)(Solo Software)(GB).mzf" size="12418" crc="f7f205a2" md5="fea4d87f9835cbd4dbe958f4546e6ab7" sha1="a0c31412abc14cc8381588a335594553e7949fce"/>
+	</game>
 	<game name="Adventure World (19xx)(-)(de)">
 		<description>Adventure World (19xx)(-)(de)</description>
 		<rom name="Adventure World (19xx)(-)(de).mzf" size="15873" crc="f356041a" md5="36fadbd8847e122879ba1eaab4a00689" sha1="63293f456269f09129b7f514b8905ad7ab72bba3"/>
+	</game>
+	<game name="Advoka (19xx)(BBG)(DE)(en)">
+		<description>Advoka (19xx)(BBG)(DE)(en)</description>
+		<rom name="Advoka (19xx)(BBG)(DE)(en).mzf" size="18837" crc="8972f6c0" md5="c9c7f2c741dd7b97bf9ce1d67af07288" sha1="1cc6fd0565142c8f4135ebbebf51d299b34081c3"/>
+	</game>
+	<game name="Advoka (19xx)(BBG)(DE)(en)[PRG]">
+		<description>Advoka (19xx)(BBG)(DE)(en)[PRG]</description>
+		<rom name="Advoka (19xx)(BBG)(DE)(en)[PRG].mzf" size="16615" crc="0240d602" md5="ab33be58a4bb0ad12ade9d725e13646b" sha1="47ff824a494651304f12ed4e157836cc98729b34"/>
 	</game>
 	<game name="Alligator (19xx)(-)(de)">
 		<description>Alligator (19xx)(-)(de)</description>
 		<rom name="Alligator (19xx)(-)(de).mzf" size="4537" crc="394829d7" md5="59399af0ffa44bb9d72e36bd2a228c07" sha1="7c4f428ab06a18f64e629d3f0f7e7494437d30b4"/>
 	</game>
+	<game name="Astro-Blaster (1984)(Solo Software)(GB)">
+		<description>Astro-Blaster (1984)(Solo Software)(GB)</description>
+		<rom name="Astro-Blaster (1984)(Solo Software)(GB).mzf" size="7808" crc="2745b08a" md5="7bd7d2b338e17aa5bd20dbcb0cc19949" sha1="c10a6748043b909706aa2cc0915b4fae2abc786d"/>
+	</game>
 	<game name="Autorennen (19xx)(-)(de)">
 		<description>Autorennen (19xx)(-)(de)</description>
 		<rom name="Autorennen (19xx)(-)(de).mzf" size="4259" crc="5d7a07ec" md5="b7bf6e84c1072278942a98c2b55014f9" sha1="777aa9756001265aa2b5f25499b62c8f6580182c"/>
+	</game>
+	<game name="Backgammon (19xx)(Solo Software)(GB)">
+		<description>Backgammon (19xx)(Solo Software)(GB)</description>
+		<rom name="Backgammon (19xx)(Solo Software)(GB).mzf" size="28801" crc="1af3a970" md5="3a6db6d6c97cd45f480671aa26d59c50" sha1="5ecf8b6b7e54e6e081d00d390bcd63fa39c2f9a2"/>
+	</game>
+	<game name="Base Zero (19xx)(-)">
+		<description>Base Zero (19xx)(-)</description>
+		<rom name="Base Zero (19xx)(-).mzf" size="20448" crc="99267a84" md5="a2054c4f56a93af571cc3c54a2697460" sha1="d197e3521cba91957300f9b40e640e015b1f1b3a"/>
 	</game>
 	<game name="Battle Game (1982)(Oak Corp)">
 		<description>Battle Game (1982)(Oak Corp)</description>
@@ -56,6 +84,10 @@
 		<description>Cannon Ball (19xx)(-)</description>
 		<rom name="Cannon Ball (19xx)(-).mzf" size="5248" crc="cdcd5637" md5="17c87b3b7a7b60ed6b5eed07941a1063" sha1="2706ce8894d69423244d8d92218d41fd1fd90523"/>
 	</game>
+	<game name="Catacombes+ (19xx)(Campan, Francois)(FR)">
+		<description>Catacombes+ (19xx)(Campan, Francois)(FR)</description>
+		<rom name="Catacombes+ (19xx)(Campan, Francois)(FR).mzf" size="45440" crc="71605b7f" md5="3df6442bf036aee4e2d236fcd7df9261" sha1="936582548efdb78062906e4111a9f02730eb0c76"/>
+	</game>
 	<game name="Circus Star (1983)(Oak Corp)">
 		<description>Circus Star (1983)(Oak Corp)</description>
 		<rom name="Circus Star (1983)(Oak Corp).mzf" size="10817" crc="e8a70639" md5="d85cde7b2e72eb67b361a5c0706ccd73" sha1="58c2a0f95e232dbab93cddb564e07fc0a53319eb"/>
@@ -67,6 +99,10 @@
 	<game name="Con Chess Welt Meister (19xx)(-)(de)">
 		<description>Con Chess Welt Meister (19xx)(-)(de)</description>
 		<rom name="Con Chess Welt Meister (19xx)(-)(de).mzf" size="7727" crc="5a781be8" md5="906e715a62e835556107110ce70fdf24" sha1="816373ab5746708acb169c918a225238849862b3"/>
+	</game>
+	<game name="Connect Four (19xx)(-)">
+		<description>Connect Four (19xx)(-)</description>
+		<rom name="Connect Four (19xx)(-).mzf" size="7986" crc="87d8256a" md5="9d6d48162840889f3340785dc0659bc6" sha1="f21a36efaf417d3df0acfdff81a1131978eb4af4"/>
 	</game>
 	<game name="Cribbage (19xx)(-)">
 		<description>Cribbage (19xx)(-)</description>
@@ -127,6 +163,10 @@
 	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)">
 		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</description>
 		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).mzf" size="14981" crc="500e9c1d" md5="d24bf289b16d61016637f2e8d9f79841" sha1="a13d5e28a6559c7c439cb4cf1bc498bf8d867b83"/>
+	</game>
+	<game name="Cross Trex (2024-10-17)(Caruso, Fabrizio)">
+		<description>Cross Trex (2024-10-17)(Caruso, Fabrizio)</description>
+		<rom name="Cross Trex (2024-10-17)(Caruso, Fabrizio).mzf" size="8620" crc="5c76e13c" md5="6fa227ed69325f108d73a53c2c1bd657" sha1="332af82946af31c1318b17e3cb3157e48d0c3b31"/>
 	</game>
 	<game name="Devil Schach 700 (19xx)(Devil Soft)(de)">
 		<description>Devil Schach 700 (19xx)(Devil Soft)(de)</description>

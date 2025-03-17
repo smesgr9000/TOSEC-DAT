@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Educational - [DSK]</name>
-		<description>Apple II - Educational - [DSK] (TOSEC-v2024-01-15)</description>
+		<description>Apple II - Educational - [DSK] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>TKaos - bigboo - Cassiel - jjs - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -68,13 +68,17 @@
 		<description>Ace Detective (1987)(Mindplay)[cr 4am][work disk]</description>
 		<rom name="Ace Detective (1987)(Mindplay)[cr 4am][work disk].dsk" size="143360" crc="68ec16e9" md5="c3d3f06b6a7e690fe1a57a27e78f5aab" sha1="da21665e02c815c1a969b7be710ec718a1e207c1"/>
 	</game>
-	<game name="Ace Detective rev 2 (1987)(Mindplay)(Side A)[cr 4am]">
-		<description>Ace Detective rev 2 (1987)(Mindplay)(Side A)[cr 4am]</description>
-		<rom name="Ace Detective rev 2 (1987)(Mindplay)(Side A)[cr 4am].dsk" size="143360" crc="8ca8d1f0" md5="fdb3347bad483b8ffe2a526468fa5c48" sha1="4ae31e83c0fdea4e27362c2cb16eb67c1a8757ec"/>
+	<game name="Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="8ca8d1f0" md5="fdb3347bad483b8ffe2a526468fa5c48" sha1="4ae31e83c0fdea4e27362c2cb16eb67c1a8757ec"/>
 	</game>
-	<game name="Ace Detective rev 2 (1987)(Mindplay)(Side B)[cr 4am]">
-		<description>Ace Detective rev 2 (1987)(Mindplay)(Side B)[cr 4am]</description>
-		<rom name="Ace Detective rev 2 (1987)(Mindplay)(Side B)[cr 4am].dsk" size="143360" crc="e3a16f45" md5="f55669ab8e7b6cbb3f5e478122cb6e2f" sha1="c5ffe33fac6919982ab1b24dbeed393ece532908"/>
+	<game name="Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side A)[cr 4am][a][48K]">
+		<description>Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side A)[cr 4am][a][48K]</description>
+		<rom name="Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side A)[cr 4am][a][48K].dsk" size="143360" crc="5ae7412d" md5="4594facaf34f1fd6ec155a5f6fb20309" sha1="6d7cc7b36407057f5ecc931b117a90b7313cc35c"/>
+	</game>
+	<game name="Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side B)[cr 4am][a][48K]">
+		<description>Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side B)[cr 4am][a][48K]</description>
+		<rom name="Ace Detective rev 2 (1987)(Mindplay)(II+)(US)(Side B)[cr 4am][a][48K].dsk" size="143360" crc="babd40cd" md5="ce48ddf215fb2b4940180e1ee8d09d2e" sha1="437cf5f65c9b1379e3a36e7f7dd485d1278630aa"/>
 	</game>
 	<game name="Ace Detective rev 2 (1987)(Mindplay)[cr 4am][work disk]">
 		<description>Ace Detective rev 2 (1987)(Mindplay)[cr 4am][work disk]</description>
@@ -252,9 +256,9 @@
 		<description>Advanced Analogies (1984-06-29)(Hartley Courseware)(II+)(Disk 2 of 2)[cr 4am][demuffin'd only]</description>
 		<rom name="Advanced Analogies (1984-06-29)(Hartley Courseware)(II+)(Disk 2 of 2)[cr 4am][demuffin'd only].dsk" size="143360" crc="9ab994cb" md5="ce7005f11facf49347bb9297b44d0740" sha1="5fc7d8646f28c0b2526d0ebf26db3722b0704cee"/>
 	</game>
-	<game name="Advanced Electricity (1984)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]">
-		<description>Advanced Electricity (1984)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]</description>
-		<rom name="Advanced Electricity (1984)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="dd8cc60f" md5="f2cf5b9bae72b058eb8bdbfbae25dbeb" sha1="e290354b903160b8aa8425f9aa95ec744043eb9f"/>
+	<game name="Advanced Electricity (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Advanced Electricity (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Advanced Electricity (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="dd8cc60f" md5="f2cf5b9bae72b058eb8bdbfbae25dbeb" sha1="e290354b903160b8aa8425f9aa95ec744043eb9f"/>
 	</game>
 	<game name="Advanced Math Graphics (1983)(Dynacomp)(PD)">
 		<description>Advanced Math Graphics (1983)(Dynacomp)(PD)</description>
@@ -884,6 +888,14 @@
 		<description>Alphabet Zoo (1983)(Spinnaker Software)(II+)[cr 4am][48K]</description>
 		<rom name="Alphabet Zoo (1983)(Spinnaker Software)(II+)[cr 4am][48K].dsk" size="143360" crc="ad1e15d2" md5="e15e2509ae22368c3b38a1245ffcea00" sha1="80a8dd1717ef1f43f4302e767c946d35dc59daac"/>
 	</game>
+	<game name="Alphabet Zoo v1.0 rev 2 (1983)(Spinnaker Software)(II+)[cr 4am][48K]">
+		<description>Alphabet Zoo v1.0 rev 2 (1983)(Spinnaker Software)(II+)[cr 4am][48K]</description>
+		<rom name="Alphabet Zoo v1.0 rev 2 (1983)(Spinnaker Software)(II+)[cr 4am][48K].dsk" size="143360" crc="44a50f71" md5="d06c68f35cd91cb6272a3fdc5deab8be" sha1="8f27f808eca87ebd2e8b3f0728d9dd4cedf72a9e"/>
+	</game>
+	<game name="Alphabet Zoo v1.0 rev 3 (1983)(Spinnaker Software)(II+)[cr 4am][48K]">
+		<description>Alphabet Zoo v1.0 rev 3 (1983)(Spinnaker Software)(II+)[cr 4am][48K]</description>
+		<rom name="Alphabet Zoo v1.0 rev 3 (1983)(Spinnaker Software)(II+)[cr 4am][48K].dsk" size="143360" crc="c459fb91" md5="2c6e76c93d468815a4cc2a918055e8c8" sha1="67152b4d78a574ab1d90106667c755c4ef09f2ed"/>
+	</game>
 	<game name="Alphabetic Keyboarding Volume 1 v1.0 (1983)(South-Western Publishing)(II+)(US)[cr 4am]">
 		<description>Alphabetic Keyboarding Volume 1 v1.0 (1983)(South-Western Publishing)(II+)(US)[cr 4am]</description>
 		<rom name="Alphabetic Keyboarding Volume 1 v1.0 (1983)(South-Western Publishing)(II+)(US)[cr 4am].dsk" size="143360" crc="a1bd8c18" md5="9566c7b34094680cf163e200fc2dedd5" sha1="c4746662cd5880bb3ef22c3a1f3450629bf30d44"/>
@@ -915,6 +927,10 @@
 	<game name="Alpine Tram Ride (1985)(Litag)[cr 4am][work disk]">
 		<description>Alpine Tram Ride (1985)(Litag)[cr 4am][work disk]</description>
 		<rom name="Alpine Tram Ride (1985)(Litag)[cr 4am][work disk].dsk" size="143360" crc="d4b8e64d" md5="34021f25a2f8542a2c83462ada286e29" sha1="f57a9aa11da6ae0adb46512c6e8defec9f680654"/>
+	</game>
+	<game name="Alpine Tram Ride rev 0 (1985)(Learning Technologies)(II+)[cr 4am][48K]">
+		<description>Alpine Tram Ride rev 0 (1985)(Learning Technologies)(II+)[cr 4am][48K]</description>
+		<rom name="Alpine Tram Ride rev 0 (1985)(Learning Technologies)(II+)[cr 4am][48K].dsk" size="143360" crc="ac357b0a" md5="42904c0c4ffca27609d32e5596436632" sha1="f13fa8a7fa2229a50dab045562eff0b4c65790c5"/>
 	</game>
 	<game name="Amazing Arithmetricks v1.0 (1993)(MECC)(IIE)(US)[cr 4am][128K][A-336]">
 		<description>Amazing Arithmetricks v1.0 (1993)(MECC)(IIE)(US)[cr 4am][128K][A-336]</description>
@@ -1019,6 +1035,10 @@
 	<game name="Analytical Reasoning (1983)(Intellectual Software)(II+)(US)(Disk 2 of 2)[cr 4am]">
 		<description>Analytical Reasoning (1983)(Intellectual Software)(II+)(US)(Disk 2 of 2)[cr 4am]</description>
 		<rom name="Analytical Reasoning (1983)(Intellectual Software)(II+)(US)(Disk 2 of 2)[cr 4am].dsk" size="143360" crc="58d30651" md5="7892fc66a33169f3f3b9881f6e16b6c9" sha1="bb6755e3ea303d9832f879c63d145e554ae3bba6"/>
+	</game>
+	<game name="Anatomie-1 (1985)(Pharmacrack)(FR)">
+		<description>Anatomie-1 (1985)(Pharmacrack)(FR)</description>
+		<rom name="Anatomie-1 (1985)(Pharmacrack)(FR).dsk" size="143360" crc="26fb0250" md5="290a8c22218897c441005e553cbe6f4b" sha1="d4ec0e8bc176fc22e9e5352be2a4ebfef35ad88b"/>
 	</game>
 	<game name="Anatomy I (1982)(Versa Computing)">
 		<description>Anatomy I (1982)(Versa Computing)</description>
@@ -1287,6 +1307,10 @@
 	<game name="Around the World - Getting the Main Idea (1985)(Methods &amp; Solutions)(II+)(US)[cr 4am]">
 		<description>Around the World - Getting the Main Idea (1985)(Methods &amp; Solutions)(II+)(US)[cr 4am]</description>
 		<rom name="Around the World - Getting the Main Idea (1985)(Methods &amp; Solutions)(II+)(US)[cr 4am].dsk" size="143360" crc="b1c88148" md5="d090fc3e08d7e2c83cfa45d411b90262" sha1="6c6a392e303bb71e4ac7b1b592cc980731d91795"/>
+	</game>
+	<game name="Art - Volume 1 v1.0 (1981)(MECC)(US)">
+		<description>Art - Volume 1 v1.0 (1981)(MECC)(US)</description>
+		<rom name="Art - Volume 1 v1.0 (1981)(MECC)(US).dsk" size="143360" crc="08a8e23c" md5="4feb29dec6dfd47921738ae12c72be50" sha1="884f4ecdd1f593cc272ebc9f4aac41bc3c3cfe6b"/>
 	</game>
 	<game name="Art of Communication 2, The (1989)(Psychological Psoftware)(IIE)[cr 4am][128K]">
 		<description>Art of Communication 2, The (1989)(Psychological Psoftware)(IIE)[cr 4am][128K]</description>
@@ -1595,6 +1619,10 @@
 	<game name="Basic Drafting - Review and Testmaker v3.0 (1986)(Hearlihy &amp; Co.)(II+)[cr 4am]">
 		<description>Basic Drafting - Review and Testmaker v3.0 (1986)(Hearlihy &amp; Co.)(II+)[cr 4am]</description>
 		<rom name="Basic Drafting - Review and Testmaker v3.0 (1986)(Hearlihy &amp; Co.)(II+)[cr 4am].dsk" size="143360" crc="8bf7f865" md5="1074eaf4066f576a53a916e855fd8ed6" sha1="7958d852cd90d90179934aa523ac3db3097cba74"/>
+	</game>
+	<game name="Basic Electricity (1980)(K-12 Micromedia)(US)">
+		<description>Basic Electricity (1980)(K-12 Micromedia)(US)</description>
+		<rom name="Basic Electricity (1980)(K-12 Micromedia)(US).dsk" size="143360" crc="9bffed94" md5="d6cdc5673061e16dae28827bc453eed6" sha1="42838556efe83f701c499b49e983cd4d333492ef"/>
 	</game>
 	<game name="Basic Electricity (1980)(K-12 Micro Media)(US)[cr 4am]">
 		<description>Basic Electricity (1980)(K-12 Micro Media)(US)[cr 4am]</description>
@@ -1928,6 +1956,10 @@
 		<description>Bike Hike (1985)(Learning Technologies)[cr 4am]</description>
 		<rom name="Bike Hike (1985)(Learning Technologies)[cr 4am].dsk" size="143360" crc="da64ea5c" md5="327f3bb26d2600bc5022ed9a0bc271d1" sha1="b55fd35cea6db8320449fbba69406dbe84cb0e33"/>
 	</game>
+	<game name="Bike Hike rev 0 (1985)(Learning Technologies)(II+)[cr 4am][48K]">
+		<description>Bike Hike rev 0 (1985)(Learning Technologies)(II+)[cr 4am][48K]</description>
+		<rom name="Bike Hike rev 0 (1985)(Learning Technologies)(II+)[cr 4am][48K].dsk" size="143360" crc="aad9dd18" md5="d9e55e9d22b514ced491a465035cc006" sha1="bfbbbfb4c460731d13181392cc66e95ca2364602"/>
+	</game>
 	<game name="Bingo Bugglebee Presents - Famous People (1985)(Quest Learning Systems)(II+)[cr 4am]">
 		<description>Bingo Bugglebee Presents - Famous People (1985)(Quest Learning Systems)(II+)[cr 4am]</description>
 		<rom name="Bingo Bugglebee Presents - Famous People (1985)(Quest Learning Systems)(II+)[cr 4am].dsk" size="143360" crc="d8536f28" md5="88f80f4762f5cbe72525482941a10300" sha1="c12b8dbc4358b63ff2a3307cd52b5801379de789"/>
@@ -2148,13 +2180,13 @@
 		<description>Box Introduces Addition (1984)(Society for Visual Education)(II+)(US)[cr 4am]</description>
 		<rom name="Box Introduces Addition (1984)(Society for Visual Education)(II+)(US)[cr 4am].dsk" size="143360" crc="479086ba" md5="36cd3af851f9159f85da77f4cb4e3a97" sha1="cf1562ad05ce3508ffa2864f8da4bf67c34e7134"/>
 	</game>
-	<game name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="88c20d44" md5="7dcb362bbfa585e04912a5e9483dbcce" sha1="17d9afc0952ea153a502768a1316fe33d5bc699c"/>
+	<game name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="88c20d44" md5="7dcb362bbfa585e04912a5e9483dbcce" sha1="17d9afc0952ea153a502768a1316fe33d5bc699c"/>
 	</game>
-	<game name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side B)">
-		<description>Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side B)</description>
-		<rom name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side B).dsk" size="143360" crc="7b549ae0" md5="80c6f6b4348ec1888b965cd8bf43e9d4" sha1="d75c8e9301b81b50ec101906016e72692ae83674"/>
+	<game name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side B)[48K]">
+		<description>Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side B)[48K]</description>
+		<rom name="Boy Jesus, The (1984)(Baker Book House)(II+)(US)(Side B)[48K].dsk" size="143360" crc="7b549ae0" md5="80c6f6b4348ec1888b965cd8bf43e9d4" sha1="d75c8e9301b81b50ec101906016e72692ae83674"/>
 	</game>
 	<game name="Brain Game, The (1984)(Millenium Group)(Side A)[cr 4am]">
 		<description>Brain Game, The (1984)(Millenium Group)(Side A)[cr 4am]</description>
@@ -2400,6 +2432,10 @@
 		<description>Capitalization (1982)(Hartley Courseware)[cr 4am][work disk]</description>
 		<rom name="Capitalization (1982)(Hartley Courseware)[cr 4am][work disk].dsk" size="143360" crc="a97874d8" md5="389459d167658adacb38048ebc3f7352" sha1="48d29d7371c0ce40d5758d4344a5ee1d3d503ba4"/>
 	</game>
+	<game name="Capitalization - Building Better Language Skills (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Capitalization - Building Better Language Skills (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Capitalization - Building Better Language Skills (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="1206b7d9" md5="5658066f2f3d952cc7d8d831cce0f75e" sha1="a06fbade81df011c6fa8aa3fa047bfee32b640b6"/>
+	</game>
 	<game name="Capitalization Practice (1983-11-04)(Hartley Courseware)(II+)[cr 4am][48K]">
 		<description>Capitalization Practice (1983-11-04)(Hartley Courseware)(II+)[cr 4am][48K]</description>
 		<rom name="Capitalization Practice (1983-11-04)(Hartley Courseware)(II+)[cr 4am][48K].dsk" size="143360" crc="53dff049" md5="afd5b4e5849e6ae8f33eedd1a6f0c641" sha1="ccf88c87529ba7a5c9c08b70754990976e334f1d"/>
@@ -2443,6 +2479,10 @@
 	<game name="Car Builder rev 3 (1985)(Optimum Resource)(II+)(US)[cr 4am - san inc][earlier crack]">
 		<description>Car Builder rev 3 (1985)(Optimum Resource)(II+)(US)[cr 4am - san inc][earlier crack]</description>
 		<rom name="Car Builder rev 3 (1985)(Optimum Resource)(II+)(US)[cr 4am - san inc][earlier crack].dsk" size="143360" crc="01d5554a" md5="0ad202ddcd574ea473b946c89efb1a7e" sha1="d2c285aa02091d09dd277db1366507ea96621783"/>
+	</game>
+	<game name="Car Builder rev 4 (1985)(Optimum Resource)(II+)[cr 4am - san inc][48K]">
+		<description>Car Builder rev 4 (1985)(Optimum Resource)(II+)[cr 4am - san inc][48K]</description>
+		<rom name="Car Builder rev 4 (1985)(Optimum Resource)(II+)[cr 4am - san inc][48K].dsk" size="143360" crc="eb1c0ff5" md5="b736bb35fde12c059350179e23166508" sha1="95c84e38917f458a38be1537567a231e525d5dc8"/>
 	</game>
 	<game name="Career Scan IV v09.15.83N (1983)(National Educational Software Services)(II+)(US)(Disk 1 of 2)(Search Disk)[cr 4am][48K]">
 		<description>Career Scan IV v09.15.83N (1983)(National Educational Software Services)(II+)(US)(Disk 1 of 2)(Search Disk)[cr 4am][48K]</description>
@@ -2812,6 +2852,10 @@
 		<description>Classmate v2.0 (1985)(Davidson &amp; Associates)(II+)(US)[cr 4am][48K]</description>
 		<rom name="Classmate v2.0 (1985)(Davidson &amp; Associates)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="e3d75425" md5="5e0e49c163b85584300dfff1627e7aa0" sha1="535973b5d4881ef6ed310e5462021ce6338645cb"/>
 	</game>
+	<game name="Clauses and Whole Sentences (1983)(Intellectual Software)(II+)(US)[cr 4am][48K]">
+		<description>Clauses and Whole Sentences (1983)(Intellectual Software)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Clauses and Whole Sentences (1983)(Intellectual Software)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="cdef418b" md5="17eee04ad693f75fdf72027c6c8792af" sha1="211c3d2ab112afd320b32f597c2721e84bcbb7f9"/>
+	</game>
 	<game name="Cleanwater Detectives v1.0 (1991)(MECC)(IIE)(US)[cr 4am][128K][A-282][Science Inquiry Collection]">
 		<description>Cleanwater Detectives v1.0 (1991)(MECC)(IIE)(US)[cr 4am][128K][A-282][Science Inquiry Collection]</description>
 		<rom name="Cleanwater Detectives v1.0 (1991)(MECC)(IIE)(US)[cr 4am][128K][A-282][Science Inquiry Collection].dsk" size="143360" crc="dcec5ce5" md5="4c354e1f26e1264fd355ae0f07deb79f" sha1="50a27abc33aa7a82199fb986f57a84410ba34738"/>
@@ -3028,9 +3072,9 @@
 		<description>Comparison Kitchen (1984)(Developmental Learning Materials)(II+)(US)[cr 4am][48K]</description>
 		<rom name="Comparison Kitchen (1984)(Developmental Learning Materials)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="8a51be1f" md5="ee5322a4ab81ab0654263cb888011cf5" sha1="de2b6c03cb28f18b1af74918691821660de87996"/>
 	</game>
-	<game name="Complex Circuits (1984)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]">
-		<description>Complex Circuits (1984)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]</description>
-		<rom name="Complex Circuits (1984)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K].dsk" size="143360" crc="d39c85c2" md5="c8f432eaa7f64c2470f84ab6ae5d8977" sha1="9befb85556807a4734031b4854b4271d73beb79d"/>
+	<game name="Complex Circuits (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Complex Circuits (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Complex Circuits (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="d39c85c2" md5="c8f432eaa7f64c2470f84ab6ae5d8977" sha1="9befb85556807a4734031b4854b4271d73beb79d"/>
 	</game>
 	<game name="Composition Strategy v1.0 (1982-01)(Behavioral Engineering)(II+)[cr 4am]">
 		<description>Composition Strategy v1.0 (1982-01)(Behavioral Engineering)(II+)[cr 4am]</description>
@@ -3288,6 +3332,10 @@
 		<description>Computer Laboratory for Calculus (1985)(The Math Lab)[cr 4am][work disk]</description>
 		<rom name="Computer Laboratory for Calculus (1985)(The Math Lab)[cr 4am][work disk].dsk" size="143360" crc="d64ec48d" md5="9e6cbaa83f513f4ac1e38b6d977b5f68" sha1="851621e07b189731c389ab0a5c4631ed9a3fff70"/>
 	</game>
+	<game name="Computer Literacy - Introduction (1982)(Control Data Corporation)">
+		<description>Computer Literacy - Introduction (1982)(Control Data Corporation)</description>
+		<rom name="Computer Literacy - Introduction (1982)(Control Data Corporation).dsk" size="143360" crc="1220de4a" md5="d5a3befa2970e3f750b69851cb5133fb" sha1="9ad218eb412483c9f0a123b4c47277380d2de96f"/>
+	</game>
 	<game name="Computer Literacy - Introduction (1982)(Control Data Corporation)[cr 4am]">
 		<description>Computer Literacy - Introduction (1982)(Control Data Corporation)[cr 4am]</description>
 		<rom name="Computer Literacy - Introduction (1982)(Control Data Corporation)[cr 4am].dsk" size="143360" crc="e3749f2d" md5="eaa6dc33dcbbae510a12f9c345dbb246" sha1="c3ec1163d6ffdc7aded1d51e3cf6ddffb77ece3f"/>
@@ -3459,6 +3507,10 @@
 	<game name="Concepts Unificateurs (199x)(CLASS Software)(FR)(Side B)">
 		<description>Concepts Unificateurs (199x)(CLASS Software)(FR)(Side B)</description>
 		<rom name="Concepts Unificateurs (199x)(CLASS Software)(FR)(Side B).dsk" size="143360" crc="a9e7ad91" md5="9b833e6d6ba71efdad745c1e85d138f6" sha1="0cf719b8c442e0686b3b1757f6c762faaab24bcd"/>
+	</game>
+	<game name="Conics (198x)(Carl Albert Junior College)(US)">
+		<description>Conics (198x)(Carl Albert Junior College)(US)</description>
+		<rom name="Conics (198x)(Carl Albert Junior College)(US).dsk" size="143360" crc="5836dcd5" md5="303c09a90501514429d967dd71c3a6a9" sha1="288749a60211b4e9434c99169f2956e85b1cb01e"/>
 	</game>
 	<game name="Conjecture v1.0 (1986)(Robert Scott Enterprises)(II+)(Side A)(Program Disk)[cr 4am][64K]">
 		<description>Conjecture v1.0 (1986)(Robert Scott Enterprises)(II+)(Side A)(Program Disk)[cr 4am][64K]</description>
@@ -4036,6 +4088,10 @@
 		<description>Decimals - Multiplication and Division v3.1.6 (1986)(Gamco Industries)(II+)(US)[cr 4am][ID103]</description>
 		<rom name="Decimals - Multiplication and Division v3.1.6 (1986)(Gamco Industries)(II+)(US)[cr 4am][ID103].dsk" size="143360" crc="0c640def" md5="8e24547259a99e129f97dfa477fc6097" sha1="db661d9c3c18bf1cb2328d4f787ceff2d98885eb"/>
 	</game>
+	<game name="Decimals, Fractions and Percent (1987)(Vision Software)">
+		<description>Decimals, Fractions and Percent (1987)(Vision Software)</description>
+		<rom name="Decimals, Fractions and Percent (1987)(Vision Software).dsk" size="143360" crc="b26d5aa3" md5="d70e310a44138e6be9cd1588facf13e3" sha1="07c4f0e6ecb71775df49c5ff79bb17dcddd5024b"/>
+	</game>
 	<game name="Decimals 2 - Decimal Deli (1985)(Scott, Foresman &amp; Company)(II+)[cr 4am][48K]">
 		<description>Decimals 2 - Decimal Deli (1985)(Scott, Foresman &amp; Company)(II+)[cr 4am][48K]</description>
 		<rom name="Decimals 2 - Decimal Deli (1985)(Scott, Foresman &amp; Company)(II+)[cr 4am][48K].dsk" size="143360" crc="dbb2371a" md5="3aaf37ecc22c6b944ef019016af1da22" sha1="3ea4ea5688ec6929e95f8c2232c8325a44a87f1b"/>
@@ -4128,6 +4184,10 @@
 		<description>Desktop Zoo (1989)(Micrograms)(II+)[cr 4am][64K]</description>
 		<rom name="Desktop Zoo (1989)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="369c223c" md5="97d78383e9c1d6869ecf60d9c1a3da13" sha1="a3373b95967dbdc59be845cf3f965f52148e1a89"/>
 	</game>
+	<game name="Desktop Zoo rev 2 (1989)(Micrograms)(IIE)[cr 4am]">
+		<description>Desktop Zoo rev 2 (1989)(Micrograms)(IIE)[cr 4am]</description>
+		<rom name="Desktop Zoo rev 2 (1989)(Micrograms)(IIE)[cr 4am].dsk" size="143360" crc="6aa48adc" md5="c37983ca90f658e668cdd5ab0a9bee14" sha1="57930a6f5d55b3cb3fe70068196ddfd07341844c"/>
+	</game>
 	<game name="Deutsch - Aktuell 1 Second Edition (1985)(EMC Corporation)(II+)(US)(Disk 01 of 10)[cr 4am]">
 		<description>Deutsch - Aktuell 1 Second Edition (1985)(EMC Corporation)(II+)(US)(Disk 01 of 10)[cr 4am]</description>
 		<rom name="Deutsch - Aktuell 1 Second Edition (1985)(EMC Corporation)(II+)(US)(Disk 01 of 10)[cr 4am].dsk" size="143360" crc="c907eb28" md5="306308537fcde60ef0fa7dba2401c179" sha1="02094e0cd8d353246e608c16a8e0b5a02dc17a64"/>
@@ -4179,6 +4239,18 @@
 	<game name="Developing Basic Writing Skills Level II (1986)(Educational Activities)(II+)[cr 4am]">
 		<description>Developing Basic Writing Skills Level II (1986)(Educational Activities)(II+)[cr 4am]</description>
 		<rom name="Developing Basic Writing Skills Level II (1986)(Educational Activities)(II+)[cr 4am].dsk" size="143360" crc="91ff8df6" md5="81f6844cf275f83f06b6d863536b4cf5" sha1="97a9b97d199fe998b0fbb9a7b92b0dfb598547dd"/>
+	</game>
+	<game name="Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 1 of 3)[cr 4am][48K]">
+		<description>Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 1 of 3)[cr 4am][48K]</description>
+		<rom name="Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 1 of 3)[cr 4am][48K].dsk" size="143360" crc="68a322b5" md5="d269212be7f3ce968ad8c1afc50a000c" sha1="22d8b9c48e446da7d87bab619a159802b7a5d320"/>
+	</game>
+	<game name="Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 2 of 3)[cr 4am][48K]">
+		<description>Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 2 of 3)[cr 4am][48K]</description>
+		<rom name="Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 2 of 3)[cr 4am][48K].dsk" size="143360" crc="8efdff16" md5="3ad48cca98e075ad1a16cbda72a082cb" sha1="1721067eb7c73579203f159fecd0c7a076cff480"/>
+	</game>
+	<game name="Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 3 of 3)[cr 4am][48K]">
+		<description>Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 3 of 3)[cr 4am][48K]</description>
+		<rom name="Developing Writing Skills (1983)(Intellectual Software)(II+)(US)(Disk 3 of 3)[cr 4am][48K].dsk" size="143360" crc="230052a3" md5="57057a6dd717372b84605bb8f4f2deec" sha1="90ed6452127bdc66cba154a7e791cd200cc111a0"/>
 	</game>
 	<game name="Diagramming Grammatical Relationships (1984)(Aquarius People Materials)(Disk 1 of 5)[cr 4am]">
 		<description>Diagramming Grammatical Relationships (1984)(Aquarius People Materials)(Disk 1 of 5)[cr 4am]</description>
@@ -4276,6 +4348,22 @@
 		<description>Dinosaur Construction Kit - Tyrannosaurus Rex v1988-02-24 (1987)(D.C. Heath &amp; Company)(IIE)(US)(Side B)(Student Disk)[cr 4am][128K]</description>
 		<rom name="Dinosaur Construction Kit - Tyrannosaurus Rex v1988-02-24 (1987)(D.C. Heath &amp; Company)(IIE)(US)(Side B)(Student Disk)[cr 4am][128K].dsk" size="143360" crc="a08310fc" md5="0d2775b33afdb11d35847b03c932085e" sha1="08afd032f761fdabc21c37a88e67072847587c42"/>
 	</game>
+	<game name="Dinosaur Dig (1984)(CBS Software)(II+)(Side A)[cr 4am][48K]">
+		<description>Dinosaur Dig (1984)(CBS Software)(II+)(Side A)[cr 4am][48K]</description>
+		<rom name="Dinosaur Dig (1984)(CBS Software)(II+)(Side A)[cr 4am][48K].dsk" size="143360" crc="4709f586" md5="f58b4e3af8b1b479b83629f18c451e6d" sha1="5c8eff38e6d24e8d6fae8c57539f3f5a10e2c41e"/>
+	</game>
+	<game name="Dinosaur Dig (1984)(CBS Software)(II+)(Side A)[cr Apple Mafia][b][48K]">
+		<description>Dinosaur Dig (1984)(CBS Software)(II+)(Side A)[cr Apple Mafia][b][48K]</description>
+		<rom name="Dinosaur Dig (1984)(CBS Software)(II+)(Side A)[cr Apple Mafia][b][48K].dsk" size="143360" crc="33a43e12" md5="6f9f3f3bab4c452fc0c2585713cf22c5" sha1="8f7ecdd63ed7bf2def5cef07a58d75ef6e4fb2ad"/>
+	</game>
+	<game name="Dinosaur Dig (1984)(CBS Software)(II+)(Side B)[cr 4am][48K]">
+		<description>Dinosaur Dig (1984)(CBS Software)(II+)(Side B)[cr 4am][48K]</description>
+		<rom name="Dinosaur Dig (1984)(CBS Software)(II+)(Side B)[cr 4am][48K].dsk" size="143360" crc="bac86cbf" md5="1b8d16848e25e1f80e3e89d404efd17f" sha1="b0dc576dffd29841c72d30ac19f72007f02e4ad8"/>
+	</game>
+	<game name="Dinosaur Dig (1984)(CBS Software)(II+)(Side B)[cr Apple Mafia][b][48K]">
+		<description>Dinosaur Dig (1984)(CBS Software)(II+)(Side B)[cr Apple Mafia][b][48K]</description>
+		<rom name="Dinosaur Dig (1984)(CBS Software)(II+)(Side B)[cr Apple Mafia][b][48K].dsk" size="143360" crc="cc2e33b0" md5="7b99cb7e97eeb3bb3b499962127cd9e8" sha1="5325a42d49179b22de916d2f71a5fcf2a2180607"/>
+	</game>
 	<game name="Dinosaur Discovery (1985)(Jacaranda Wiley)(IIE)(AU)(Side A)(Startup)">
 		<description>Dinosaur Discovery (1985)(Jacaranda Wiley)(IIE)(AU)(Side A)(Startup)</description>
 		<rom name="Dinosaur Discovery (1985)(Jacaranda Wiley)(IIE)(AU)(Side A)(Startup).dsk" size="143360" crc="4de741fc" md5="d5a097fecb18c7e815994c03aaa8fbbb" sha1="111149d05e58ec94fb2019e1589713669014ae47"/>
@@ -4288,13 +4376,17 @@
 		<description>Dinosaur's Lunch (1989)(Electronic Courseware Systems)(II+)[cr 4am][48K]</description>
 		<rom name="Dinosaur's Lunch (1989)(Electronic Courseware Systems)(II+)[cr 4am][48K].dsk" size="143360" crc="87f9d6c6" md5="03a74900be8d37c3dfcf78d273f79de1" sha1="426ef821a5448d9ce8955195cf7c46efaa5736af"/>
 	</game>
-	<game name="Dinosaurs (1984)(Advanced Ideas)[cr 4am]">
-		<description>Dinosaurs (1984)(Advanced Ideas)[cr 4am]</description>
-		<rom name="Dinosaurs (1984)(Advanced Ideas)[cr 4am].dsk" size="143360" crc="d74a3bfb" md5="6ac31f7c29345d252112b6f51a35d62b" sha1="2d0bf2d2f23a055d82dcaf704f5af425c81b43dc"/>
+	<game name="Dinosaurs (1984)(Advanced Ideas)(II+)[cr 4am][48K]">
+		<description>Dinosaurs (1984)(Advanced Ideas)(II+)[cr 4am][48K]</description>
+		<rom name="Dinosaurs (1984)(Advanced Ideas)(II+)[cr 4am][48K].dsk" size="143360" crc="d74a3bfb" md5="6ac31f7c29345d252112b6f51a35d62b" sha1="2d0bf2d2f23a055d82dcaf704f5af425c81b43dc"/>
 	</game>
-	<game name="Dinosaurs (1984)(Advanced Ideas)[cr 4am][work disk]">
-		<description>Dinosaurs (1984)(Advanced Ideas)[cr 4am][work disk]</description>
-		<rom name="Dinosaurs (1984)(Advanced Ideas)[cr 4am][work disk].dsk" size="143360" crc="3c809223" md5="468873e99b732d5811bb8e65c32849ea" sha1="80aa87db50e54e2611805826509bbb00724be894"/>
+	<game name="Dinosaurs (1984)(Advanced Ideas)(II+)[cr 4am][work disk]">
+		<description>Dinosaurs (1984)(Advanced Ideas)(II+)[cr 4am][work disk]</description>
+		<rom name="Dinosaurs (1984)(Advanced Ideas)(II+)[cr 4am][work disk].dsk" size="143360" crc="3c809223" md5="468873e99b732d5811bb8e65c32849ea" sha1="80aa87db50e54e2611805826509bbb00724be894"/>
+	</game>
+	<game name="Dinosaurs v1.0 (1984)(Advanced Ideas)(II+)[cr 4am][48K]">
+		<description>Dinosaurs v1.0 (1984)(Advanced Ideas)(II+)[cr 4am][48K]</description>
+		<rom name="Dinosaurs v1.0 (1984)(Advanced Ideas)(II+)[cr 4am][48K].dsk" size="143360" crc="599ba342" md5="75291d13b6687b056945e5e07d6bcb13" sha1="6772573925ca6355e9afc35a740085049d06c65b"/>
 	</game>
 	<game name="Disappearing Dinner, The - The Digestive System (1983)(Marshware)(II+)(US)[cr 4am]">
 		<description>Disappearing Dinner, The - The Digestive System (1983)(Marshware)(II+)(US)[cr 4am]</description>
@@ -4460,6 +4552,10 @@
 		<description>Dragon Mix (1982)(Developmental Learning Materials)(II+)(US)[cr 4am]</description>
 		<rom name="Dragon Mix (1982)(Developmental Learning Materials)(II+)(US)[cr 4am].dsk" size="143360" crc="213ddf9d" md5="0d75195b9763e566be4737c7f778277a" sha1="8b70b5c5a7d206d52b43cdc1e20f2074826a570a"/>
 	</game>
+	<game name="Dragon Mix (1985)(Developmental Learning Materials)(II+)(US)[cr 4am][48K]">
+		<description>Dragon Mix (1985)(Developmental Learning Materials)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Dragon Mix (1985)(Developmental Learning Materials)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="eca7e839" md5="1b15157ad8417f8643409b3ff134c091" sha1="f9a433de99dc5364b4bed9cdfd6652e5e6c95f8e"/>
+	</game>
 	<game name="Dragon Mix rev 0 (1982)(Developmental Learning Materials)(II+)(US)[cr 4am]">
 		<description>Dragon Mix rev 0 (1982)(Developmental Learning Materials)(II+)(US)[cr 4am]</description>
 		<rom name="Dragon Mix rev 0 (1982)(Developmental Learning Materials)(II+)(US)[cr 4am].dsk" size="143360" crc="326bdbfe" md5="b9e742f61933dfad099935304f1f73ee" sha1="9fd0676eb34c00b0031c47ed44d5824b18cb2711"/>
@@ -4560,13 +4656,13 @@
 		<description>Early Addition v1.3 (1983)(MECC)(US)[A-788][Mastering Math Series #1]</description>
 		<rom name="Early Addition v1.3 (1983)(MECC)(US)[A-788][Mastering Math Series #1].dsk" size="143360" crc="927e8da9" md5="da024b72f7176094b65df6c8b278146d" sha1="eef57a944d0580c82a8c54c1b8dee8f2540b229d"/>
 	</game>
-	<game name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Early Church, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="ff674e0a" md5="6011ae2c42684605311201aba321617a" sha1="34f3d0df13e45ef4f9b9725f3a6223118f5218f8"/>
+	<game name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Early Church, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="ff674e0a" md5="6011ae2c42684605311201aba321617a" sha1="34f3d0df13e45ef4f9b9725f3a6223118f5218f8"/>
 	</game>
-	<game name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am]">
-		<description>Early Church, The (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am]</description>
-		<rom name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am].dsk" size="143360" crc="43d77d07" md5="2b7ca8b2c31f8b8e3a9552c3ce8ee8e2" sha1="7f5c397fe3f1878acedc0dbd46d44061825d705e"/>
+	<game name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Early Church, The (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Early Church, The (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="43d77d07" md5="2b7ca8b2c31f8b8e3a9552c3ce8ee8e2" sha1="7f5c397fe3f1878acedc0dbd46d44061825d705e"/>
 	</game>
 	<game name="Early Discoveries - Observation and Classification (1985-09-23)(Hartley Courseware)(II+)[cr 4am]">
 		<description>Early Discoveries - Observation and Classification (1985-09-23)(Hartley Courseware)(II+)[cr 4am]</description>
@@ -4648,13 +4744,13 @@
 		<description>Early Games for Young Children (1982)(Springboard Software)(US)[cr 4am][work disk]</description>
 		<rom name="Early Games for Young Children (1982)(Springboard Software)(US)[cr 4am][work disk].dsk" size="143360" crc="6fc1f1d0" md5="1ff7f7516e7caaca9cd6bd53834db30c" sha1="d8418b82ed1203eeb3eef7501ee8d03100d12549"/>
 	</game>
-	<game name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="ee55836a" md5="e45300252afb4192b5436dc0629cabfd" sha1="a6b2eabf4a3eca66c040e61893342381819161a2"/>
+	<game name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="ee55836a" md5="e45300252afb4192b5436dc0629cabfd" sha1="a6b2eabf4a3eca66c040e61893342381819161a2"/>
 	</game>
-	<game name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am]">
-		<description>Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am]</description>
-		<rom name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am].dsk" size="143360" crc="65c85c93" md5="552d1a7d44bed08a9b8ef855bd172e01" sha1="f3acacc26c8c57ca0c68dab3615865c7f2e0222f"/>
+	<game name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Early Heroes of the Bible (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="65c85c93" md5="552d1a7d44bed08a9b8ef855bd172e01" sha1="f3acacc26c8c57ca0c68dab3615865c7f2e0222f"/>
 	</game>
 	<game name="Early Music Skills - Music MIDIworks (1985)(Electronic Courseware Systems)(II+)[cr 4am][48K][req MIDI slot 2]">
 		<description>Early Music Skills - Music MIDIworks (1985)(Electronic Courseware Systems)(II+)[cr 4am][48K][req MIDI slot 2]</description>
@@ -4683,6 +4779,18 @@
 	<game name="Earth Science - Interplanetary Travel (1986)(Prentice-Hall)(II+)(US)(Disk 2 of 2 Side B)[64K]">
 		<description>Earth Science - Interplanetary Travel (1986)(Prentice-Hall)(II+)(US)(Disk 2 of 2 Side B)[64K]</description>
 		<rom name="Earth Science - Interplanetary Travel (1986)(Prentice-Hall)(II+)(US)(Disk 2 of 2 Side B)[64K].dsk" size="143360" crc="9abbfa0b" md5="03486bd004823f04f7782d8398fdb361" sha1="1f07718a51f685ac5df3eaa88ce99cdd26e8eae2"/>
+	</game>
+	<game name="Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 1 of 3)(Boot)[cr 4am][48K]">
+		<description>Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 1 of 3)(Boot)[cr 4am][48K]</description>
+		<rom name="Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 1 of 3)(Boot)[cr 4am][48K].dsk" size="143360" crc="d8cc82ab" md5="0e3b4cd7fa39570b8dcaf1feb760be17" sha1="886eadfba3653e889ca3f20646cff76d37a48db2"/>
+	</game>
+	<game name="Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 2 of 3)(Part 1)[cr 4am][48K]">
+		<description>Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 2 of 3)(Part 1)[cr 4am][48K]</description>
+		<rom name="Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 2 of 3)(Part 1)[cr 4am][48K].dsk" size="143360" crc="67f56c1d" md5="d0f6df29c52b5e6fdf32a02fb718bdfd" sha1="4e283fcaecfa4d223da88016054b49b4ff23f042"/>
+	</game>
+	<game name="Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 3 of 3)(Part 2)[cr 4am][48K]">
+		<description>Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 3 of 3)(Part 2)[cr 4am][48K]</description>
+		<rom name="Earthquakes and Volcanoes (1989)(January Productions)(II+)(US)(Disk 3 of 3)(Part 2)[cr 4am][48K].dsk" size="143360" crc="59a59563" md5="2999880c7c1d6b3d48e2e82ee9773e5d" sha1="23aaf7b9bd6fccdb5e9dce527d76635e61b4b75d"/>
 	</game>
 	<game name="Easy as ABC (1984)(Springboard Software)(US)[cr 4am]">
 		<description>Easy as ABC (1984)(Springboard Software)(US)[cr 4am]</description>
@@ -4784,13 +4892,13 @@
 		<description>Electric Chalkboard (1986)(Heartsoft)[cr 4am][work disk]</description>
 		<rom name="Electric Chalkboard (1986)(Heartsoft)[cr 4am][work disk].dsk" size="143360" crc="b02f3cb2" md5="6f5272cac97fcb5657989cec56e119ce" sha1="0b11f54d3cd3d177f71b2821670efa9978a0de18"/>
 	</game>
-	<game name="Electric Circuits (1985)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]">
-		<description>Electric Circuits (1985)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]</description>
-		<rom name="Electric Circuits (1985)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="9742b2d4" md5="4bce8755706b8cb58da810399f7de2c8" sha1="3413e37db69bae3e3d52aa79a9f4ab84a4efd153"/>
+	<game name="Electric Circuits (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Electric Circuits (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Electric Circuits (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="9742b2d4" md5="4bce8755706b8cb58da810399f7de2c8" sha1="3413e37db69bae3e3d52aa79a9f4ab84a4efd153"/>
 	</game>
-	<game name="Electric Circuits rev 2 (1985)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]">
-		<description>Electric Circuits rev 2 (1985)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]</description>
-		<rom name="Electric Circuits rev 2 (1985)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="f7769a5b" md5="aae66a47421678bed22c36bcc4efdc48" sha1="bddc70b79cac90da526d55803912e61110d0c1ff"/>
+	<game name="Electric Circuits rev 2 (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Electric Circuits rev 2 (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Electric Circuits rev 2 (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="f7769a5b" md5="aae66a47421678bed22c36bcc4efdc48" sha1="bddc70b79cac90da526d55803912e61110d0c1ff"/>
 	</game>
 	<game name="Electric Crayon, The (demo) (1986)(Polarware)">
 		<description>Electric Crayon, The (demo) (1986)(Polarware)</description>
@@ -4876,6 +4984,10 @@
 		<description>Elementary Mathematics (1982)(Elizabeth Computer Centre)(AU)</description>
 		<rom name="Elementary Mathematics (1982)(Elizabeth Computer Centre)(AU).dsk" size="143360" crc="c32fc860" md5="808cb59c20432cfe6eff3759c6301db6" sha1="46e35676b4018aab90a72046e779d23b94556960"/>
 	</game>
+	<game name="Elementary Vol. 1 v3.4 (1980)(MECC)(II+)(US)[A-702]">
+		<description>Elementary Vol. 1 v3.4 (1980)(MECC)(II+)(US)[A-702]</description>
+		<rom name="Elementary Vol. 1 v3.4 (1980)(MECC)(II+)(US)[A-702].dsk" size="143360" crc="30263590" md5="cb16078a657fa1dea043f15449815407" sha1="bfcef84782849b68a4f3a9f65967a9854716a335"/>
+	</game>
 	<game name="Elementary Vol. 1 v3.5 (1980)(MECC)(II+)(US)[cr 4am][A-702]">
 		<description>Elementary Vol. 1 v3.5 (1980)(MECC)(II+)(US)[cr 4am][A-702]</description>
 		<rom name="Elementary Vol. 1 v3.5 (1980)(MECC)(II+)(US)[cr 4am][A-702].dsk" size="143360" crc="6970dbf5" md5="bd8492d3e742b9315f1fcc2bdb537cd7" sha1="55dd9caa3316d3c72255b2bb8f45efc3c3bdc58c"/>
@@ -4896,9 +5008,17 @@
 		<description>Elementary Vol. 12 - Language Arts -SIMS- v2.0 (1980)(MECC)(II+)(US)[cr 4am][48K][A-736]</description>
 		<rom name="Elementary Vol. 12 - Language Arts -SIMS- v2.0 (1980)(MECC)(II+)(US)[cr 4am][48K][A-736].dsk" size="143360" crc="367ed575" md5="4e5f0fb1a5f3fa9c39965412bc86c2ac" sha1="5ed86c59a1b645296e07baca5c2db0b9748e67f6"/>
 	</game>
+	<game name="Elementary Vol. 13 - Nutrition v1.0 (1981)(MECC)(II+)(US)[48K][A-743]">
+		<description>Elementary Vol. 13 - Nutrition v1.0 (1981)(MECC)(II+)(US)[48K][A-743]</description>
+		<rom name="Elementary Vol. 13 - Nutrition v1.0 (1981)(MECC)(II+)(US)[48K][A-743].dsk" size="143360" crc="e1b3d5b1" md5="bc7a467f4b85dd971141f337afca2936" sha1="6660f4104d83f46a172e8ba819abf9f7595614a6"/>
+	</game>
 	<game name="Elementary Vol. 13 - Nutrition v1.0 (1981)(MECC)(II+)(US)[cr 4am][48K][A-743]">
 		<description>Elementary Vol. 13 - Nutrition v1.0 (1981)(MECC)(II+)(US)[cr 4am][48K][A-743]</description>
 		<rom name="Elementary Vol. 13 - Nutrition v1.0 (1981)(MECC)(II+)(US)[cr 4am][48K][A-743].dsk" size="143360" crc="eb2ccece" md5="8e829467072f7395303716fca9f0fccb" sha1="c25e5eeece426c4cb2c1397f7468d34c246a6a0b"/>
+	</game>
+	<game name="Elementary Vol. 2 v2.5 (1980)(MECC)(US)[A-703]">
+		<description>Elementary Vol. 2 v2.5 (1980)(MECC)(US)[A-703]</description>
+		<rom name="Elementary Vol. 2 v2.5 (1980)(MECC)(US)[A-703].dsk" size="143360" crc="0af4104e" md5="283f4179cb86db61a60c27af48ee97c5" sha1="ee6eb9b8b6a77fdd348da8ae89d1a3554d276bef"/>
 	</game>
 	<game name="Elementary Vol. 2 v3.2 (1983)(MECC)(II+)(US)[cr 4am][A-703]">
 		<description>Elementary Vol. 2 v3.2 (1983)(MECC)(II+)(US)[cr 4am][A-703]</description>
@@ -4907,6 +5027,10 @@
 	<game name="Elementary Vol. 3 - Science v4.5 (1980)(MECC)(II+)(US)[cr 4am][A-704]">
 		<description>Elementary Vol. 3 - Science v4.5 (1980)(MECC)(II+)(US)[cr 4am][A-704]</description>
 		<rom name="Elementary Vol. 3 - Science v4.5 (1980)(MECC)(II+)(US)[cr 4am][A-704].dsk" size="143360" crc="45c61eef" md5="ce2bc3f1241584862ddad2ceac4c7950" sha1="b244f1e5040b6266e285ecefdaba0bcbb2349b14"/>
+	</game>
+	<game name="Elementary Vol. 3 - Science v4.6 (1980)(MECC)(II+)(US)[A-704]">
+		<description>Elementary Vol. 3 - Science v4.6 (1980)(MECC)(II+)(US)[A-704]</description>
+		<rom name="Elementary Vol. 3 - Science v4.6 (1980)(MECC)(II+)(US)[A-704].dsk" size="143360" crc="4625146b" md5="e52fabf9f6d7c881e09e6a5cc7d9f192" sha1="e597379659d5c5120abc552a98a53b97ed9baa49"/>
 	</game>
 	<game name="Elementary Vol. 3 - Science v4.7 (1980)(MECC)(II+)(US)[cr 4am][A-704]">
 		<description>Elementary Vol. 3 - Science v4.7 (1980)(MECC)(II+)(US)[cr 4am][A-704]</description>
@@ -4924,6 +5048,10 @@
 		<description>Elementary Vol. 4 v4.2 (1980)(MECC)(US)[A-705]</description>
 		<rom name="Elementary Vol. 4 v4.2 (1980)(MECC)(US)[A-705].dsk" size="143360" crc="3147c6ac" md5="631d6b9f262628a31e9bfe0b5faaaa3c" sha1="2effc02148c9fb95b350f8aa272accf9138622c4"/>
 	</game>
+	<game name="Elementary Vol. 5 - Language Arts -Prefixes- v1.5 (1980)(MECC)(II+)(US)[48K][A-719]">
+		<description>Elementary Vol. 5 - Language Arts -Prefixes- v1.5 (1980)(MECC)(II+)(US)[48K][A-719]</description>
+		<rom name="Elementary Vol. 5 - Language Arts -Prefixes- v1.5 (1980)(MECC)(II+)(US)[48K][A-719].dsk" size="143360" crc="3bffdb63" md5="22eb8407262a9d96175d8522eafef5d1" sha1="bd301dae82d464a014229aedd164722039a8c506"/>
+	</game>
 	<game name="Elementary Vol. 5 - Language Arts -Prefixes- v1.5 (1980)(MECC)(II+)(US)[cr 4am][48K][A-719]">
 		<description>Elementary Vol. 5 - Language Arts -Prefixes- v1.5 (1980)(MECC)(II+)(US)[cr 4am][48K][A-719]</description>
 		<rom name="Elementary Vol. 5 - Language Arts -Prefixes- v1.5 (1980)(MECC)(II+)(US)[cr 4am][48K][A-719].dsk" size="143360" crc="9f0e8279" md5="cb062f4c6b7f54fa1a734590dc1e8270" sha1="4358a6da33df2c7623c4c3a63461a77ce618aec7"/>
@@ -4931,6 +5059,10 @@
 	<game name="Elementary Vol. 5 - Language Arts -Prefixes- v1.7 (1980)(MECC)(II+)(US)[cr 4am][48K][A-719]">
 		<description>Elementary Vol. 5 - Language Arts -Prefixes- v1.7 (1980)(MECC)(II+)(US)[cr 4am][48K][A-719]</description>
 		<rom name="Elementary Vol. 5 - Language Arts -Prefixes- v1.7 (1980)(MECC)(II+)(US)[cr 4am][48K][A-719].dsk" size="143360" crc="6a72201c" md5="e2b555887723f943577b9455a0d8799f" sha1="c28569f55b122bf54bec1d08146ce4ea0da8be74"/>
+	</game>
+	<game name="Elementary Vol. 6 v1.2 (1980)(MECC)(II+)(US)[A-725]">
+		<description>Elementary Vol. 6 v1.2 (1980)(MECC)(II+)(US)[A-725]</description>
+		<rom name="Elementary Vol. 6 v1.2 (1980)(MECC)(II+)(US)[A-725].dsk" size="143360" crc="a64a898e" md5="b51995447c5f08c7bbb76f3e7307f726" sha1="98294bfd3b2d03c9e194e118cd3fc5a18f39fab1"/>
 	</game>
 	<game name="Elementary Vol. 6 v1.3 (1980)(MECC)(II+)(US)[cr 4am][A-725]">
 		<description>Elementary Vol. 6 v1.3 (1980)(MECC)(II+)(US)[cr 4am][A-725]</description>
@@ -5007,6 +5139,10 @@
 	<game name="Energy House v1.0 (1984-12)(MECC)(US)[A-401]">
 		<description>Energy House v1.0 (1984-12)(MECC)(US)[A-401]</description>
 		<rom name="Energy House v1.0 (1984-12)(MECC)(US)[A-401].dsk" size="143360" crc="75042fce" md5="44fa9d0071c989026bafdfdb5fa7a9e5" sha1="e0ddf8b1455063217f83d736c97d4a71d1d4cede"/>
+	</game>
+	<game name="English - Volume 1 - Parts of Speech v1.1 (1981)(MECC)(US)[A-746]">
+		<description>English - Volume 1 - Parts of Speech v1.1 (1981)(MECC)(US)[A-746]</description>
+		<rom name="English - Volume 1 - Parts of Speech v1.1 (1981)(MECC)(US)[A-746].dsk" size="143360" crc="b9bc893a" md5="aecf1ef88546a2dcde344adeda28167b" sha1="b8dbe1e4858b4389cf11fdd6c8728acc81677a9c"/>
 	</game>
 	<game name="English - Volume 1 - Parts of Speech v1.2 (1981)(MECC)(US)[A-746]">
 		<description>English - Volume 1 - Parts of Speech v1.2 (1981)(MECC)(US)[A-746]</description>
@@ -5200,6 +5336,22 @@
 		<description>European Nations and Locations (1985)(DesignWare)[cr 4am][work disk]</description>
 		<rom name="European Nations and Locations (1985)(DesignWare)[cr 4am][work disk].dsk" size="143360" crc="e1448c5c" md5="25f3bf380333dd9007fd28eb9b9bd534" sha1="763d315b3ad28daffc59b01f57b5fcb278a14c5b"/>
 	</game>
+	<game name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 1 of 3 Side A)[cr 4am][48K]">
+		<description>Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 1 of 3 Side A)[cr 4am][48K]</description>
+		<rom name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 1 of 3 Side A)[cr 4am][48K].dsk" size="143360" crc="ba70e5cf" md5="28106777398934e14dd8fb986cf50ae7" sha1="4956da38b2c2fbe25cd2ed6ceade030378b8e814"/>
+	</game>
+	<game name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 1 of 3 Side B)[cr 4am][48K]">
+		<description>Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 1 of 3 Side B)[cr 4am][48K]</description>
+		<rom name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 1 of 3 Side B)[cr 4am][48K].dsk" size="143360" crc="79d33062" md5="03cc7dce1f1ab4f536c33364ce874f73" sha1="b945ef1f8a5a4dc5576d0913c378704720e68b4a"/>
+	</game>
+	<game name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 2 of 3 Side C)[48K]">
+		<description>Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 2 of 3 Side C)[48K]</description>
+		<rom name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 2 of 3 Side C)[48K].dsk" size="143360" crc="1c789d84" md5="5f7bdbbe0cdb39aec94891dcedb3ae5e" sha1="f3e18301af5ae688ab25f104f9db394fdb5bc291"/>
+	</game>
+	<game name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 3 of 3)(Data Disk)[48K]">
+		<description>Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 3 of 3)(Data Disk)[48K]</description>
+		<rom name="Evelyn Wood Dynamic Reader, The (1984)(Timeworks)(II+)(US)(Disk 3 of 3)(Data Disk)[48K].dsk" size="143360" crc="4111dfa3" md5="42799358664e9393fb7a3450f4623629" sha1="bca7be142bbdadd9e09d9ccfaa33fada451c7c37"/>
+	</game>
 	<game name="Excel-A-Read (1985)(American Educational Computer)(II+)(US)[cr 4am][48K]">
 		<description>Excel-A-Read (1985)(American Educational Computer)(II+)(US)[cr 4am][48K]</description>
 		<rom name="Excel-A-Read (1985)(American Educational Computer)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="e4fef281" md5="00b9a961b3b44a3c283868a6cd34f66d" sha1="66a38a96dbb72d4812e970b3f276308d8f403905"/>
@@ -5364,6 +5516,10 @@
 		<description>Factactics (1984)(Daystar Learning)[cr Whip]</description>
 		<rom name="Factactics (1984)(Daystar Learning)[cr Whip].dsk" size="143360" crc="b4e43416" md5="b2cd5c59ad63fba3a1ed3a6c61dd2f11" sha1="b80b4b18619dfdd86ffeae984167e09f0f5343cb"/>
 	</game>
+	<game name="Factactics Trivia Game - Sports (1984)(Daystar Learning)(II+)[cr 4am][48K]">
+		<description>Factactics Trivia Game - Sports (1984)(Daystar Learning)(II+)[cr 4am][48K]</description>
+		<rom name="Factactics Trivia Game - Sports (1984)(Daystar Learning)(II+)[cr 4am][48K].dsk" size="143360" crc="c498aaa1" md5="ad749cd7af1dae0d9fcc162add3394c4" sha1="117c8e35a9e3adcf27b3641af7aaf8c72ab9417c"/>
+	</game>
 	<game name="Factoring Algebraic Expressions (1984)(Mindscape)(US)[cr 4am]">
 		<description>Factoring Algebraic Expressions (1984)(Mindscape)(US)[cr 4am]</description>
 		<rom name="Factoring Algebraic Expressions (1984)(Mindscape)(US)[cr 4am].dsk" size="143360" crc="3b6386ab" md5="870e26c5c8641cb4cf9048c667d42414" sha1="2b691e14b3b72a8b05e09045dc569847685e32d5"/>
@@ -5404,6 +5560,34 @@
 		<description>Factory, The rev 2 (1983)(Sunburst Communications)(II+)(US)[cr 4am]</description>
 		<rom name="Factory, The rev 2 (1983)(Sunburst Communications)(II+)(US)[cr 4am].dsk" size="143360" crc="0896a583" md5="45d0deefb3a9a8a77eff1e797ae9ab6d" sha1="eee77dad727afdfb3988aad063ee801995b5bea1"/>
 	</game>
+	<game name="Faire le Point-Bac Francais (1984)(Ediciel)(FR)(Face A)[cr Luke Skywalker]">
+		<description>Faire le Point-Bac Francais (1984)(Ediciel)(FR)(Face A)[cr Luke Skywalker]</description>
+		<rom name="Faire le Point-Bac Francais (1984)(Ediciel)(FR)(Face A)[cr Luke Skywalker].dsk" size="143360" crc="70dffb84" md5="4511019791e7769753986f105ab7ec89" sha1="95d13d0ed9948dd5b91fe71d6215a787844f7d98"/>
+	</game>
+	<game name="Faire le Point-Bac Francais (1984)(Ediciel)(FR)(Face B)[cr Baby Crack Gang]">
+		<description>Faire le Point-Bac Francais (1984)(Ediciel)(FR)(Face B)[cr Baby Crack Gang]</description>
+		<rom name="Faire le Point-Bac Francais (1984)(Ediciel)(FR)(Face B)[cr Baby Crack Gang].dsk" size="143360" crc="ed0a7f1d" md5="5d54c4d219c72d5a04ec90a78c2b41a3" sha1="3fb4cecee19531854c114784f3017accaf209ac0"/>
+	</game>
+	<game name="Faire le Point-Bac Mathematiques - Volume 1 (1983)(Ediciel)(FR)">
+		<description>Faire le Point-Bac Mathematiques - Volume 1 (1983)(Ediciel)(FR)</description>
+		<rom name="Faire le Point-Bac Mathematiques - Volume 1 (1983)(Ediciel)(FR).dsk" size="143360" crc="97eb4a81" md5="4b6f27f6b811b4492804fcd074e1ba0d" sha1="c38588713dad7015480f5141e4b53bf2157dff98"/>
+	</game>
+	<game name="Faire le Point-Bac Mathematiques - Volume 2 (1983)(Ediciel)(FR)">
+		<description>Faire le Point-Bac Mathematiques - Volume 2 (1983)(Ediciel)(FR)</description>
+		<rom name="Faire le Point-Bac Mathematiques - Volume 2 (1983)(Ediciel)(FR).dsk" size="143360" crc="0c4ce71a" md5="53cbb3f89f299187dc08d44976a94ad2" sha1="b60a2f944d9d0d6c576846a63cb7103f0afd3e1c"/>
+	</game>
+	<game name="Faire le Point-Bac Mathematiques - Volume 3 (1983)(Ediciel)(FR)[cr Baby Crack Gang]">
+		<description>Faire le Point-Bac Mathematiques - Volume 3 (1983)(Ediciel)(FR)[cr Baby Crack Gang]</description>
+		<rom name="Faire le Point-Bac Mathematiques - Volume 3 (1983)(Ediciel)(FR)[cr Baby Crack Gang].dsk" size="143360" crc="ae8853ac" md5="97b7c19e8c554bd97ab302dd1bc08fe6" sha1="045fe1a11ac11eb9ad69ec5db1fabbb73cc230c8"/>
+	</game>
+	<game name="Faire le Point-Bac Physique 1 (1983)(Ediciel)(FR)(Face A)">
+		<description>Faire le Point-Bac Physique 1 (1983)(Ediciel)(FR)(Face A)</description>
+		<rom name="Faire le Point-Bac Physique 1 (1983)(Ediciel)(FR)(Face A).dsk" size="143360" crc="404a7694" md5="41c881c969c967e8d82d65b28ed84602" sha1="5b8f05742931484e6895bce7186917df5cd80c78"/>
+	</game>
+	<game name="Faire le Point-Bac Physique 1 (1983)(Ediciel)(FR)(Face B)">
+		<description>Faire le Point-Bac Physique 1 (1983)(Ediciel)(FR)(Face B)</description>
+		<rom name="Faire le Point-Bac Physique 1 (1983)(Ediciel)(FR)(Face B).dsk" size="143360" crc="2372d2c4" md5="f04779438950a1af36b3ab53da73a3aa" sha1="7c80cffbf0c393905020434737aa25b8e1b3f4b7"/>
+	</game>
 	<game name="Faire le Point-Bac Physique 3 (1984)(Ediciel)(II+)(FR)(Face A)[cr 4am][48K]">
 		<description>Faire le Point-Bac Physique 3 (1984)(Ediciel)(II+)(FR)(Face A)[cr 4am][48K]</description>
 		<rom name="Faire le Point-Bac Physique 3 (1984)(Ediciel)(II+)(FR)(Face A)[cr 4am][48K].dsk" size="143360" crc="1887c2cc" md5="485e86414545a3f9da3a3a7fad794f15" sha1="5931dc5eefc339aa715c9ffb96fb28549e08ae1e"/>
@@ -5411,6 +5595,14 @@
 	<game name="Faire le Point-Bac Physique 3 (1984)(Ediciel)(II+)(FR)(Face B)[cr 4am][48K]">
 		<description>Faire le Point-Bac Physique 3 (1984)(Ediciel)(II+)(FR)(Face B)[cr 4am][48K]</description>
 		<rom name="Faire le Point-Bac Physique 3 (1984)(Ediciel)(II+)(FR)(Face B)[cr 4am][48K].dsk" size="143360" crc="c1b03b74" md5="e9a6f3b34569a4d4eca0d2507aeada25" sha1="c24481f9bedcc8398f67f8674e92a22298741c98"/>
+	</game>
+	<game name="Fantastic Animals (1985)(Bantam Software)(II+)(Side A)[cr 4am][48K]">
+		<description>Fantastic Animals (1985)(Bantam Software)(II+)(Side A)[cr 4am][48K]</description>
+		<rom name="Fantastic Animals (1985)(Bantam Software)(II+)(Side A)[cr 4am][48K].dsk" size="143360" crc="558f785b" md5="29136fbc458ce3097d06c99e5edcadb2" sha1="7bc821aac92853b354a4a17cf9bf372430132b45"/>
+	</game>
+	<game name="Fantastic Animals (1985)(Bantam Software)(II+)(Side B)[cr 4am][48K]">
+		<description>Fantastic Animals (1985)(Bantam Software)(II+)(Side B)[cr 4am][48K]</description>
+		<rom name="Fantastic Animals (1985)(Bantam Software)(II+)(Side B)[cr 4am][48K].dsk" size="143360" crc="3cdf0743" md5="d8ea186b0fe79ece86ce85c2f1e301e4" sha1="a967c90522b5094255fc37215b2c39b2b173b569"/>
 	</game>
 	<game name="Fantasy Land - Blue Level (1983)(Learning Well)(II+)(US)[cr 4am]">
 		<description>Fantasy Land - Blue Level (1983)(Learning Well)(II+)(US)[cr 4am]</description>
@@ -5796,9 +5988,13 @@
 		<description>Fraction Factory (1983)(Springboard Software)(II+)(US)[cr 4am]</description>
 		<rom name="Fraction Factory (1983)(Springboard Software)(II+)(US)[cr 4am].dsk" size="143360" crc="03239bac" md5="9982c0131bf26a096818338b7e3b27a3" sha1="6c393e2f8390bdd3dbbe376df43e6da36f3107b8"/>
 	</game>
-	<game name="Fraction Fever rev 0 (1983)(Spinnaker Software)(II+)[cr 4am]">
-		<description>Fraction Fever rev 0 (1983)(Spinnaker Software)(II+)[cr 4am]</description>
-		<rom name="Fraction Fever rev 0 (1983)(Spinnaker Software)(II+)[cr 4am].dsk" size="143360" crc="2fb2e010" md5="e5eb0e9805a466c68e1fcfaad1e711c3" sha1="11e61534e8befe097001d59e03165a503494bde2"/>
+	<game name="Fraction Fever rev 0 (1983)(Spinnaker Software)(II+)[cr 4am][48K]">
+		<description>Fraction Fever rev 0 (1983)(Spinnaker Software)(II+)[cr 4am][48K]</description>
+		<rom name="Fraction Fever rev 0 (1983)(Spinnaker Software)(II+)[cr 4am][48K].dsk" size="143360" crc="2fb2e010" md5="e5eb0e9805a466c68e1fcfaad1e711c3" sha1="11e61534e8befe097001d59e03165a503494bde2"/>
+	</game>
+	<game name="Fraction Fever rev 1 (1983)(Spinnaker Software)(II+)[cr 4am][48K]">
+		<description>Fraction Fever rev 1 (1983)(Spinnaker Software)(II+)[cr 4am][48K]</description>
+		<rom name="Fraction Fever rev 1 (1983)(Spinnaker Software)(II+)[cr 4am][48K].dsk" size="143360" crc="261ed925" md5="3b1b0b618a138aeaeae70981873fc7d9" sha1="b1177c85e04c018acba927cf3a47a019900acb23"/>
 	</game>
 	<game name="Fraction Munchers v1.0 (1987)(MECC)(IIE)(US)[128K][A-196]">
 		<description>Fraction Munchers v1.0 (1987)(MECC)(IIE)(US)[128K][A-196]</description>
@@ -5903,6 +6099,10 @@
 	<game name="Fractions 5 - The River (1985)(Scott, Foresman &amp; Company)(II+)[cr 4am][48K]">
 		<description>Fractions 5 - The River (1985)(Scott, Foresman &amp; Company)(II+)[cr 4am][48K]</description>
 		<rom name="Fractions 5 - The River (1985)(Scott, Foresman &amp; Company)(II+)[cr 4am][48K].dsk" size="143360" crc="3b79dea9" md5="f7ec1349ac4ea7776dd7821993d18bb9" sha1="26ac6e52b98aa09bb2d66a335ba08c40e86df2b9"/>
+	</game>
+	<game name="Fractions en Folie (1984)(Ediciel)(II+)(FR)[48K]">
+		<description>Fractions en Folie (1984)(Ediciel)(II+)(FR)[48K]</description>
+		<rom name="Fractions en Folie (1984)(Ediciel)(II+)(FR)[48K].dsk" size="143360" crc="d05bd777" md5="1b8b753377e2da6e9b9efd30a487014a" sha1="c24dbd623c08faab42c07141602b9b9934f6940e"/>
 	</game>
 	<game name="Fractions en Folie (1984)(Ediciel)(II+)(FR)[cr 4am][48K]">
 		<description>Fractions en Folie (1984)(Ediciel)(II+)(FR)[cr 4am][48K]</description>
@@ -6116,6 +6316,14 @@
 		<description>From ABC to XYZ (1990-02-01)(Hartley Courseware)(II+)[cr 4am]</description>
 		<rom name="From ABC to XYZ (1990-02-01)(Hartley Courseware)(II+)[cr 4am].dsk" size="143360" crc="591aca27" md5="f806c1ae6eee47a3555e076f15733932" sha1="4b44f051064c41fb1ef8e5d2f16484040064496f"/>
 	</game>
+	<game name="From The Beginning... Contraception (1985)(Orange Juice Software Systems)(II+)(Disk 1 of 2)[cr 4am][64K]">
+		<description>From The Beginning... Contraception (1985)(Orange Juice Software Systems)(II+)(Disk 1 of 2)[cr 4am][64K]</description>
+		<rom name="From The Beginning... Contraception (1985)(Orange Juice Software Systems)(II+)(Disk 1 of 2)[cr 4am][64K].dsk" size="143360" crc="b90955ad" md5="a1c9e6fe3de2b271eb4e898ce47ec5c9" sha1="98611b0d1b9de00c2bf4c951ce421c3fef1f3f43"/>
+	</game>
+	<game name="From The Beginning... Contraception (1985)(Orange Juice Software Systems)(II+)(Disk 2 of 2)[cr 4am][64K]">
+		<description>From The Beginning... Contraception (1985)(Orange Juice Software Systems)(II+)(Disk 2 of 2)[cr 4am][64K]</description>
+		<rom name="From The Beginning... Contraception (1985)(Orange Juice Software Systems)(II+)(Disk 2 of 2)[cr 4am][64K].dsk" size="143360" crc="f42d2eb5" md5="4864f2c824563807f4c192ef4094e6c2" sha1="ca29581db2abbe6159c6f2f9c2243d3c67f816a3"/>
+	</game>
 	<game name="Fun from A to Z v1.0 (1985)(MECC)(II+)(US)[64K][A-164][MECC Early Learning Series]">
 		<description>Fun from A to Z v1.0 (1985)(MECC)(II+)(US)[64K][A-164][MECC Early Learning Series]</description>
 		<rom name="Fun from A to Z v1.0 (1985)(MECC)(II+)(US)[64K][A-164][MECC Early Learning Series].dsk" size="143360" crc="1e0115ac" md5="b87b770747548ced994e2ca5fc889a68" sha1="54938fb5814157ac80b128d9fb6d3f332a1b6534"/>
@@ -6307,6 +6515,10 @@
 	<game name="Gas Relationships - Moles and Formulas - Electrochemical Cells (1981)(J&amp;S Software)(US)">
 		<description>Gas Relationships - Moles and Formulas - Electrochemical Cells (1981)(J&amp;S Software)(US)</description>
 		<rom name="Gas Relationships - Moles and Formulas - Electrochemical Cells (1981)(J&amp;S Software)(US).dsk" size="143360" crc="f6c08c38" md5="a997e48920de7e4da11e90037539dbfd" sha1="5e82ab738280fee4e69410cbf93c25f746c63200"/>
+	</game>
+	<game name="Gears (1985)(Sunburst Communications)(II+)(US)[cr Copycatter][48K]">
+		<description>Gears (1985)(Sunburst Communications)(II+)(US)[cr Copycatter][48K]</description>
+		<rom name="Gears (1985)(Sunburst Communications)(II+)(US)[cr Copycatter][48K].dsk" size="143360" crc="a8b0d0c5" md5="07df894548814388c64565cdcb6eae9e" sha1="bab93fd075ab085de9e8762b04688bfdfc3badfa"/>
 	</game>
 	<game name="Gene Machine v2.0 (1983)(HRM Software)[cr 4am]">
 		<description>Gene Machine v2.0 (1983)(HRM Software)[cr 4am]</description>
@@ -6604,6 +6816,10 @@
 		<description>Go to the Head of the Class (1984)(Milton Bradley)[cr 4am][work disk]</description>
 		<rom name="Go to the Head of the Class (1984)(Milton Bradley)[cr 4am][work disk].dsk" size="143360" crc="27ee4159" md5="e0f3e2de3b6c53f865ace3ddd3c7208e" sha1="8a0dad4de179534058e04ba636bc9b5ed3d3b525"/>
 	</game>
+	<game name="Go to the Head of the Class (1985)(Media Materials)(II+)[cr 4am][48K]">
+		<description>Go to the Head of the Class (1985)(Media Materials)(II+)[cr 4am][48K]</description>
+		<rom name="Go to the Head of the Class (1985)(Media Materials)(II+)[cr 4am][48K].dsk" size="143360" crc="e6d5b53c" md5="668850c9989a281cfefb585913e7dbe3" sha1="6e6a1351d26e18509d7280c56531adbcb26bc066"/>
+	</game>
 	<game name="Go to the Head of the Class (1989)(Queue)(II+)(US)[cr 4am]">
 		<description>Go to the Head of the Class (1989)(Queue)(II+)(US)[cr 4am]</description>
 		<rom name="Go to the Head of the Class (1989)(Queue)(II+)(US)[cr 4am].dsk" size="143360" crc="06a8b9f0" md5="a5113102c76730acf80ae13ffdb59759" sha1="2ea6fb3fd16e9e36bb4c3d4ac6430f19dc111c7b"/>
@@ -6691,6 +6907,22 @@
 	<game name="Gradebook Plus+ (1984)(E.M.A.)(Side 2)">
 		<description>Gradebook Plus+ (1984)(E.M.A.)(Side 2)</description>
 		<rom name="Gradebook Plus+ (1984)(E.M.A.)(Side 2).dsk" size="143360" crc="9dd9c7e5" md5="0ba1475ad5579281ca4ed2c8ee0f46f8" sha1="25b2b590bfe0f9ea4f624283dffd9b8f2c7c4120"/>
+	</game>
+	<game name="Grammar - Building Better Language Skills - Adjectives and Adverbs (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Grammar - Building Better Language Skills - Adjectives and Adverbs (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Grammar - Building Better Language Skills - Adjectives and Adverbs (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="b0d3fdbc" md5="fe63ca0cee0b51a65c243a8e2fd2f1ce" sha1="30784d416f80f06e5d2bda1f2d8b5ffcac6b2db1"/>
+	</game>
+	<game name="Grammar - Building Better Language Skills - Nouns (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Grammar - Building Better Language Skills - Nouns (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Grammar - Building Better Language Skills - Nouns (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="b9eff43a" md5="3cef860468f3862649d0eae8ca7b9a2f" sha1="8616d1337b068100bd958e079202cacf9b3e9806"/>
+	</game>
+	<game name="Grammar - Building Better Language Skills - Sentences (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Grammar - Building Better Language Skills - Sentences (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Grammar - Building Better Language Skills - Sentences (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="30c92911" md5="2bec0ac33b4b04ab6c3fbdb38a97c41e" sha1="92639f11206a3b22b96b5ea39be4266d3968146b"/>
+	</game>
+	<game name="Grammar - Building Better Language Skills - Verbs (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Grammar - Building Better Language Skills - Verbs (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Grammar - Building Better Language Skills - Verbs (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="8681942e" md5="8d66e67b098a64719ec61843856c92ef" sha1="eb069aea48e455e933e4aac9fd6e5050381e1c8a"/>
 	</game>
 	<game name="Grammar Baseball Level A v4.1.5 (1991)(Gamco Industries)(II+)(US)(Side A)[cr 4am]">
 		<description>Grammar Baseball Level A v4.1.5 (1991)(Gamco Industries)(II+)(US)(Side A)[cr 4am]</description>
@@ -7108,6 +7340,22 @@
 		<description>Hey Diddle Diddle! (1983)(Spinnaker Software)[cr 4am][work disk]</description>
 		<rom name="Hey Diddle Diddle! (1983)(Spinnaker Software)[cr 4am][work disk].dsk" size="143360" crc="04fc25b1" md5="4d352f1b818f0b7516359e61cf0d417a" sha1="4e696d397ad844c070b12d59e521d6b07a8ea41b"/>
 	</game>
+	<game name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 1 of 4)">
+		<description>Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 1 of 4)</description>
+		<rom name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 1 of 4).dsk" size="143360" crc="833d9467" md5="5aba20b37ad4e83c857ccba40d680507" sha1="cadbc1b611b28cbb32886bc9c55654ba7f85f5dc"/>
+	</game>
+	<game name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 2 of 4)">
+		<description>Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 2 of 4)</description>
+		<rom name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 2 of 4).dsk" size="143360" crc="cba2952b" md5="d7d98f720b0c62694c26261c8cc73260" sha1="ba201d5bfd9e80a2a604ac18eefde6f8e56a83df"/>
+	</game>
+	<game name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 3 of 4)">
+		<description>Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 3 of 4)</description>
+		<rom name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 3 of 4).dsk" size="143360" crc="64d06092" md5="e3983be09aef7488cbe1e2eaacd0845e" sha1="5a45eafb4a161b7ecb7e308c21c454dbbbf0a309"/>
+	</game>
+	<game name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 4 of 4)">
+		<description>Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 4 of 4)</description>
+		<rom name="Hi-Res Secrets (1981)(Avant-Garde Creations)(US)(Disk 4 of 4).dsk" size="143360" crc="ce52ca0d" md5="6c4f9098d179b564836c913e7803f671" sha1="9bc81dd0760d74efc7489db53ad478d91830efdb"/>
+	</game>
 	<game name="High School Math Competency Series Part I v1.0 (1984)(Microcomputer Workshops)[cr 4am]">
 		<description>High School Math Competency Series Part I v1.0 (1984)(Microcomputer Workshops)[cr 4am]</description>
 		<rom name="High School Math Competency Series Part I v1.0 (1984)(Microcomputer Workshops)[cr 4am].dsk" size="143360" crc="18fe6edc" md5="77b27d669074ee091391558b8077d493" sha1="971c6e00871fd18dddba51d05eb84aa037a64442"/>
@@ -7416,9 +7664,9 @@
 		<description>Integers - A Contest (1983)(Society for Visual Education)(II+)(US)[cr 4am]</description>
 		<rom name="Integers - A Contest (1983)(Society for Visual Education)(II+)(US)[cr 4am].dsk" size="143360" crc="48a99981" md5="a1adaadfd6e031c8df3043b13ecb89df" sha1="3dfa6a108ed203886ab55063b7638343cee797b3"/>
 	</game>
-	<game name="Interpreting Graphs (1986)(Sunburst Communications)(II+)(US)[cr 4am]">
-		<description>Interpreting Graphs (1986)(Sunburst Communications)(II+)(US)[cr 4am]</description>
-		<rom name="Interpreting Graphs (1986)(Sunburst Communications)(II+)(US)[cr 4am].dsk" size="143360" crc="1c584075" md5="ffac2615177f3e039c61b5510439f4ac" sha1="74f16b0497e5b6130a7bca98087f0d9e33a286d7"/>
+	<game name="Interpreting Graphs (1986)(Sunburst Communications)(II+)(US)[cr 4am][48K]">
+		<description>Interpreting Graphs (1986)(Sunburst Communications)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Interpreting Graphs (1986)(Sunburst Communications)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="1c584075" md5="ffac2615177f3e039c61b5510439f4ac" sha1="74f16b0497e5b6130a7bca98087f0d9e33a286d7"/>
 	</game>
 	<game name="Introduction to Counting v1.3.1 (1983-11-25)(Edu-Ware)[cr 4am]">
 		<description>Introduction to Counting v1.3.1 (1983-11-25)(Edu-Ware)[cr 4am]</description>
@@ -7527,6 +7775,22 @@
 	<game name="Jeremy Silman's Guide to Chess Openings (1985)(Enlightenment)(II+)(Side 6)(Play the White Pieces - Petroff's &amp; Others)[cr 4am][64K]">
 		<description>Jeremy Silman's Guide to Chess Openings (1985)(Enlightenment)(II+)(Side 6)(Play the White Pieces - Petroff's &amp; Others)[cr 4am][64K]</description>
 		<rom name="Jeremy Silman's Guide to Chess Openings (1985)(Enlightenment)(II+)(Side 6)(Play the White Pieces - Petroff's &amp; Others)[cr 4am][64K].dsk" size="143360" crc="1d13e3fe" md5="917835ac6818f22aad230b4e8af760ef" sha1="0cba513fef08b03f42b220a419d9832b3e50fa7c"/>
+	</game>
+	<game name="Jeu des Inventions, Le (1984)(Ediciel)(FR)(Face A)[cr BCB]">
+		<description>Jeu des Inventions, Le (1984)(Ediciel)(FR)(Face A)[cr BCB]</description>
+		<rom name="Jeu des Inventions, Le (1984)(Ediciel)(FR)(Face A)[cr BCB].dsk" size="143360" crc="8e6704ae" md5="8d5491cfcd94fa2ba30d9b11fe96a795" sha1="2048560d2627bfc6971d33e887494397158ab8f2"/>
+	</game>
+	<game name="Jeu des Inventions, Le (1984)(Ediciel)(FR)(Face B)[cr BCB]">
+		<description>Jeu des Inventions, Le (1984)(Ediciel)(FR)(Face B)[cr BCB]</description>
+		<rom name="Jeu des Inventions, Le (1984)(Ediciel)(FR)(Face B)[cr BCB].dsk" size="143360" crc="54f765e2" md5="32e1b7634b188e54db1c41d1912ee3fe" sha1="95230f3a6643d46a5e41e102b73d0200eddf4db9"/>
+	</game>
+	<game name="Jeu Guinness de Records, Le (1984)(Ediciel)(FR)(Face A)[cr BCB]">
+		<description>Jeu Guinness de Records, Le (1984)(Ediciel)(FR)(Face A)[cr BCB]</description>
+		<rom name="Jeu Guinness de Records, Le (1984)(Ediciel)(FR)(Face A)[cr BCB].dsk" size="143360" crc="5d8fb402" md5="2d891cc433fb48b2034ddc455d779056" sha1="832d6428c8f03f33252f6a8df6862bedbde3429a"/>
+	</game>
+	<game name="Jeu Guinness de Records, Le (1984)(Ediciel)(FR)(Face B)[cr BCB]">
+		<description>Jeu Guinness de Records, Le (1984)(Ediciel)(FR)(Face B)[cr BCB]</description>
+		<rom name="Jeu Guinness de Records, Le (1984)(Ediciel)(FR)(Face B)[cr BCB].dsk" size="143360" crc="7838a74c" md5="f3d9f726ce8fa761b122e3c0f67bd5a0" sha1="d7555dba085f8bf61da337255a307afaa809e1d4"/>
 	</game>
 	<game name="Jeux Mathematiques Classiques v1.0 (1984)(MECC)(II+)(US)(fr)[cr 4am][A-121]">
 		<description>Jeux Mathematiques Classiques v1.0 (1984)(MECC)(II+)(US)(fr)[cr 4am][A-121]</description>
@@ -7691,6 +7955,14 @@
 	<game name="Kinder Bits Readiness Skills ~ Destreza de Apresto (1984)(San Diego State University)(en-es)(PD)">
 		<description>Kinder Bits Readiness Skills ~ Destreza de Apresto (1984)(San Diego State University)(en-es)(PD)</description>
 		<rom name="Kinder Bits Readiness Skills ~ Destreza de Apresto (1984)(San Diego State University)(en-es)(PD).dsk" size="143360" crc="de4b4c8c" md5="361d94d988a847c2387e90709eabd6f9" sha1="baa035f660d3c41e84efd1d6daf93017d4e0a40c"/>
+	</game>
+	<game name="Kinder Critters - Address and Phone Number (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Kinder Critters - Address and Phone Number (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Kinder Critters - Address and Phone Number (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="6add0391" md5="c3ee107dd563b4191d65d67628708fd5" sha1="fb479acb6cb8fa94fe3c5638bd0b77e7f4eab7b3"/>
+	</game>
+	<game name="Kinder Critters - Letters and Patterns (1991)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Kinder Critters - Letters and Patterns (1991)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Kinder Critters - Letters and Patterns (1991)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="fce0ed07" md5="1cc7d17a32b83c73a1fbd2c17a7ffb47" sha1="13f403cd3e6a3fb74e9603d9a96d1ab6caa80623"/>
 	</game>
 	<game name="Kinder Koncepts - Mathematics and Reading Readiness (1983)(Midwest Software)(II+)[cr 4am]">
 		<description>Kinder Koncepts - Mathematics and Reading Readiness (1983)(Midwest Software)(II+)[cr 4am]</description>
@@ -7936,6 +8208,38 @@
 		<description>Lang-Arts Shell Games (1988)(Computer Using Educators)(FW)</description>
 		<rom name="Lang-Arts Shell Games (1988)(Computer Using Educators)(FW).dsk" size="143360" crc="5bca92dd" md5="079fe7fe34c60f93f939607e633e803a" sha1="0ebc0448d1e45128026785271b8a1b672daf7700"/>
 	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 1 of 4 Side 1)(Humpty Dumpty Sentences)[64K][Disk A]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 1 of 4 Side 1)(Humpty Dumpty Sentences)[64K][Disk A]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 1 of 4 Side 1)(Humpty Dumpty Sentences)[64K][Disk A].dsk" size="143360" crc="f755109a" md5="6de553bd25aa802b96e86fba256b7228" sha1="d8270a1a1d8560c2661197e41f928d66679a0fde"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 1 of 4 Side 2)(The House of Nouns)[64K][Disk A]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 1 of 4 Side 2)(The House of Nouns)[64K][Disk A]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 1 of 4 Side 2)(The House of Nouns)[64K][Disk A].dsk" size="143360" crc="0128ee7a" md5="333ab23f9e528688c006dbb00269ae39" sha1="0b41682a1b38d435d32fe8e539c02df0f4d31edb"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 2 of 4 Side 1)(The Verb Arcade)[64K][Disk B]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 2 of 4 Side 1)(The Verb Arcade)[64K][Disk B]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 2 of 4 Side 1)(The Verb Arcade)[64K][Disk B].dsk" size="143360" crc="41618718" md5="cf2ea5d566da6c6c48dd729e624ac617" sha1="414a132948cec820d8a35049218e351b8b5d8452"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 2 of 4 Side 2)(Contraction Silhouette)[64K][Disk B]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 2 of 4 Side 2)(Contraction Silhouette)[64K][Disk B]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 2 of 4 Side 2)(Contraction Silhouette)[64K][Disk B].dsk" size="143360" crc="addd411b" md5="539360bb7ba0e28991ea027d3214ee63" sha1="42bd0423fb5058317f99dd323206b59022c1a1a4"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 3 of 4 Side 1)(Definitions Trio)[64K][Disk C]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 3 of 4 Side 1)(Definitions Trio)[64K][Disk C]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 3 of 4 Side 1)(Definitions Trio)[64K][Disk C].dsk" size="143360" crc="aba4faa1" md5="5cb70bfb5dd567d439b3ad76a3587f66" sha1="4996ffd226a60a357096399d4d7788e841213de8"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 3 of 4 Side 2)(Letter Writer)[64K][Disk C]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 3 of 4 Side 2)(Letter Writer)[64K][Disk C]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 3 of 4 Side 2)(Letter Writer)[64K][Disk C].dsk" size="143360" crc="9f771eee" md5="bee1e9c9030117026a244b7a77b23836" sha1="af27b9e615d71d6472408a60205f5bc7943685d9"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 4 of 4 Side 1)(Descriptions)[64K][Disk D]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 4 of 4 Side 1)(Descriptions)[64K][Disk D]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 4 of 4 Side 1)(Descriptions)[64K][Disk D].dsk" size="143360" crc="60e1bef0" md5="1e0ff49943950eb80f9075fccddfe7d4" sha1="655dd8d5dc4d5dfa9e8b8dca8e4d4a10b949706b"/>
+	</game>
+	<game name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 4 of 4 Side 2)(Rhyming Words)[64K][Disk D]">
+		<description>Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 4 of 4 Side 2)(Rhyming Words)[64K][Disk D]</description>
+		<rom name="Language Activities Courseware Level 3 (1988)(Houghton Mifflin)(II+)(Disk 4 of 4 Side 2)(Rhyming Words)[64K][Disk D].dsk" size="143360" crc="d9f8a17f" md5="96da90120b5d831b9ccd6bef0e2be5e6" sha1="ec88298dea064342dbb81d27039724d70f570841"/>
+	</game>
 	<game name="Language Carnival 1 (1988)(Developmental Learning Materials)(II+)(US)[64K][fastdsk rip no errors]">
 		<description>Language Carnival 1 (1988)(Developmental Learning Materials)(II+)(US)[64K][fastdsk rip no errors]</description>
 		<rom name="Language Carnival 1 (1988)(Developmental Learning Materials)(II+)(US)[64K][fastdsk rip no errors].dsk" size="143360" crc="1c19bde7" md5="2e49df46b28bb951bb69c58f65a2d9df" sha1="03448a858773efddd80c89e2a750e9bad97c799f"/>
@@ -7943,6 +8247,10 @@
 	<game name="Language Carnival 1 (1988)(Developmental Learning Materials)(II+)(US)[cr 4am][64K]">
 		<description>Language Carnival 1 (1988)(Developmental Learning Materials)(II+)(US)[cr 4am][64K]</description>
 		<rom name="Language Carnival 1 (1988)(Developmental Learning Materials)(II+)(US)[cr 4am][64K].dsk" size="143360" crc="51ea50de" md5="62c8815cd87f14cf0f5b6b863913298c" sha1="cb3f6b0f45511052b2d8d6d509a7a4f5cccf71a6"/>
+	</game>
+	<game name="Language Carnival 2 (1988)(Developmental Learning Materials)(II+)(US)[cr 4am][64K]">
+		<description>Language Carnival 2 (1988)(Developmental Learning Materials)(II+)(US)[cr 4am][64K]</description>
+		<rom name="Language Carnival 2 (1988)(Developmental Learning Materials)(II+)(US)[cr 4am][64K].dsk" size="143360" crc="51875615" md5="63113aed844581b88d8135afa5b16243" sha1="ac164a9c49a76fc107bd8c0d526195dc6be2a127"/>
 	</game>
 	<game name="Lantern of d'Gamma (1985)(Milliken Publishing)(II+)[cr 4am]">
 		<description>Lantern of d'Gamma (1985)(Milliken Publishing)(II+)[cr 4am]</description>
@@ -7983,6 +8291,10 @@
 	<game name="Lazy Jack (1987)(Troll Associates)(II+)(US)[cr 4am]">
 		<description>Lazy Jack (1987)(Troll Associates)(II+)(US)[cr 4am]</description>
 		<rom name="Lazy Jack (1987)(Troll Associates)(II+)(US)[cr 4am].dsk" size="143360" crc="68004ae5" md5="4276a6abc246a01bd77817c4823b566a" sha1="57520de5304d6717ed37705248c2d9516eda9730"/>
+	</game>
+	<game name="Learn the U.S.A. (1987)(MicroSPARC)">
+		<description>Learn the U.S.A. (1987)(MicroSPARC)</description>
+		<rom name="Learn the U.S.A. (1987)(MicroSPARC).dsk" size="143360" crc="224a8bde" md5="b0f884884ef24566dd7760a5979820a9" sha1="779e53b7b3e7d6989ab56e1524d8b54434042cdd"/>
 	</game>
 	<game name="Learning about Geography, Maps, and Globes (1988)(Educational Activities)(II+)(Disk 1 of 3)(Introduction)[cr 4am][48K]">
 		<description>Learning about Geography, Maps, and Globes (1988)(Educational Activities)(II+)(Disk 1 of 3)(Introduction)[cr 4am][48K]</description>
@@ -8400,13 +8712,13 @@
 		<description>Magic String, The (1985)(Troll Associates)(II+)(US)[cr 4am][work disk]</description>
 		<rom name="Magic String, The (1985)(Troll Associates)(II+)(US)[cr 4am][work disk].dsk" size="143360" crc="8f5dbb69" md5="cb4fddab4304c2035fd240ec129cfc6e" sha1="b615e3d86dd0e8af010779c490b7c517f94ec7e6"/>
 	</game>
-	<game name="Magical Myths (1985)(Unicorn Software)[cr 4am]">
-		<description>Magical Myths (1985)(Unicorn Software)[cr 4am]</description>
-		<rom name="Magical Myths (1985)(Unicorn Software)[cr 4am].dsk" size="143360" crc="d8904963" md5="5c3c62c189bd8f6a6bfc82cfa9957aa2" sha1="b667c40c3a9fab1e7e52db5da8de639c760edc9c"/>
+	<game name="Magical Myths (1985)(Unicorn Software)(II+)[cr 4am][48K]">
+		<description>Magical Myths (1985)(Unicorn Software)(II+)[cr 4am][48K]</description>
+		<rom name="Magical Myths (1985)(Unicorn Software)(II+)[cr 4am][48K].dsk" size="143360" crc="d8904963" md5="5c3c62c189bd8f6a6bfc82cfa9957aa2" sha1="b667c40c3a9fab1e7e52db5da8de639c760edc9c"/>
 	</game>
-	<game name="Magical Myths (1985)(Unicorn Software)[cr 4am][work disk]">
-		<description>Magical Myths (1985)(Unicorn Software)[cr 4am][work disk]</description>
-		<rom name="Magical Myths (1985)(Unicorn Software)[cr 4am][work disk].dsk" size="143360" crc="eb0ca8dd" md5="c42fa421ee5d485861724bb53e5920ee" sha1="a879ed1862605c01cb35701b2106f6c7ec5f2e61"/>
+	<game name="Magical Myths (1985)(Unicorn Software)(II+)[cr 4am][48K][work disk]">
+		<description>Magical Myths (1985)(Unicorn Software)(II+)[cr 4am][48K][work disk]</description>
+		<rom name="Magical Myths (1985)(Unicorn Software)(II+)[cr 4am][48K][work disk].dsk" size="143360" crc="eb0ca8dd" md5="c42fa421ee5d485861724bb53e5920ee" sha1="a879ed1862605c01cb35701b2106f6c7ec5f2e61"/>
 	</game>
 	<game name="Main Idea, The (19xx)(Bede)(Disk 1 of 4)(Program)">
 		<description>Main Idea, The (19xx)(Bede)(Disk 1 of 4)(Program)</description>
@@ -8684,6 +8996,10 @@
 		<description>Mastery Arithmetic Games v1.2 (1986)(Mastery Development)(II+)(Side B)[48K]</description>
 		<rom name="Mastery Arithmetic Games v1.2 (1986)(Mastery Development)(II+)(Side B)[48K].dsk" size="143360" crc="827c0c00" md5="11d4bbac250205cb3d1e7dc88fa4537a" sha1="1fd7dc613bb0274ab727a3daa508f2c57995742f"/>
 	</game>
+	<game name="Mastery Arithmetic Games v3.0 (1990)(Mastery Development)">
+		<description>Mastery Arithmetic Games v3.0 (1990)(Mastery Development)</description>
+		<rom name="Mastery Arithmetic Games v3.0 (1990)(Mastery Development).dsk" size="143360" crc="e6b63a77" md5="008e1d03168e01efd8cbf1edd0b9c09c" sha1="8d351aba9f6fce47886639d9d44312ef547f99c3"/>
+	</game>
 	<game name="Match It! v4.8 (1984)(ALA Company - The Regents)[cr 4am]">
 		<description>Match It! v4.8 (1984)(ALA Company - The Regents)[cr 4am]</description>
 		<rom name="Match It! v4.8 (1984)(ALA Company - The Regents)[cr 4am].dsk" size="143360" crc="b8f3f62a" md5="61fd53966c1c16fb665ef4ba504292be" sha1="ffe3f8b3283c31d1295bc976f92cace8987d8dbd"/>
@@ -8695,6 +9011,10 @@
 	<game name="Match Maker - Biology (1984)(American Educational Computer)(II+)(US)[cr 4am]">
 		<description>Match Maker - Biology (1984)(American Educational Computer)(II+)(US)[cr 4am]</description>
 		<rom name="Match Maker - Biology (1984)(American Educational Computer)(II+)(US)[cr 4am].dsk" size="143360" crc="738d400e" md5="3f1f1623866472293b6a630358c5bb1d" sha1="c9b9f4066b07c6e855310a6b35f3a9ccb219604b"/>
+	</game>
+	<game name="Match Maker - Grammar (198x)(American Educational Computer)(US)">
+		<description>Match Maker - Grammar (198x)(American Educational Computer)(US)</description>
+		<rom name="Match Maker - Grammar (198x)(American Educational Computer)(US).dsk" size="143360" crc="b44be484" md5="97cda4b497146c60506e90111cae09b4" sha1="be2ddc5dc5d85e0dbf2854016133da8556fd79db"/>
 	</game>
 	<game name="Matching Letters and Words (1984)(Centurion Software)(II+)[cr 4am][ID1008]">
 		<description>Matching Letters and Words (1984)(Centurion Software)(II+)[cr 4am][ID1008]</description>
@@ -9152,6 +9472,10 @@
 		<description>Math Word Problems Grade 2 (1983)(Queue)(US)[cr 4am][work disk]</description>
 		<rom name="Math Word Problems Grade 2 (1983)(Queue)(US)[cr 4am][work disk].dsk" size="143360" crc="03ef4cc6" md5="723daacb0726a8e76944c4405eccacdc" sha1="4c4ab61359ecbee1547f51a7dafcd212809baede"/>
 	</game>
+	<game name="Math Word Problems Vol. 2 - Money (1988)(Optimum Resource)(II+)(US)[cr 4am - san inc][64K]">
+		<description>Math Word Problems Vol. 2 - Money (1988)(Optimum Resource)(II+)(US)[cr 4am - san inc][64K]</description>
+		<rom name="Math Word Problems Vol. 2 - Money (1988)(Optimum Resource)(II+)(US)[cr 4am - san inc][64K].dsk" size="143360" crc="e0021bb3" md5="b43dcb84dab50b10767c0785436b5a2f" sha1="5f8d7c5e3d1fb3efac91153a074b023e3b80b5a8"/>
+	</game>
 	<game name="Mathe (198x)(Goldkuhle, P.)(DE)(Side A)[b]">
 		<description>Mathe (198x)(Goldkuhle, P.)(DE)(Side A)[b]</description>
 		<rom name="Mathe (198x)(Goldkuhle, P.)(DE)(Side A)[b].dsk" size="143360" crc="d1e1118a" md5="ea4f5bbbe6193d24cc404f5c92be8422" sha1="587c09d0a47c307a1232a4149af384737f3d9a8e"/>
@@ -9332,6 +9656,10 @@
 		<description>Mathematics Vol. 3 - Geometry v1.3 (1981)(MECC)(II+)(US)[cr 4am][48K][A-738]</description>
 		<rom name="Mathematics Vol. 3 - Geometry v1.3 (1981)(MECC)(II+)(US)[cr 4am][48K][A-738].dsk" size="143360" crc="b1fa1ef3" md5="ea262b3fa35e6ea71b74a00e3a52faf9" sha1="88b127b699a399e45c3d178f9de742c91b798642"/>
 	</game>
+	<game name="Mathematics Vol. 4 v1.1 (1981)(MECC)(US)">
+		<description>Mathematics Vol. 4 v1.1 (1981)(MECC)(US)</description>
+		<rom name="Mathematics Vol. 4 v1.1 (1981)(MECC)(US).dsk" size="143360" crc="02fc8abb" md5="9b5a36fdedab594b3441cf277309030a" sha1="cd48cd9d13f0539921b85157d5b05fe30fd863c6"/>
+	</game>
 	<game name="Mathematics Vol. 4 v1.3 (1981)(MECC)(II+)(US)[cr 4am][48K][A-744]">
 		<description>Mathematics Vol. 4 v1.3 (1981)(MECC)(II+)(US)[cr 4am][48K][A-744]</description>
 		<rom name="Mathematics Vol. 4 v1.3 (1981)(MECC)(II+)(US)[cr 4am][48K][A-744].dsk" size="143360" crc="29201f0d" md5="072eda64e475626e5e894e4b4afb12bd" sha1="4cb3d7bd57b79bb7af1b0d165d38f1d311a6c909"/>
@@ -9348,6 +9676,18 @@
 		<description>Mathematics Word Problems Grade 8 (1983)(Intellectual Software)(II+)(US)[cr 4am][48K]</description>
 		<rom name="Mathematics Word Problems Grade 8 (1983)(Intellectual Software)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="217a5c77" md5="1a0bedc68e9e8e8b91bef1bf71383013" sha1="f3acf1c236f8dec83cdb876bf1d2fbda28dd7b73"/>
 	</game>
+	<game name="Mathematiques et Statistiques (19xx)(P.S.I.)(FR)">
+		<description>Mathematiques et Statistiques (19xx)(P.S.I.)(FR)</description>
+		<rom name="Mathematiques et Statistiques (19xx)(P.S.I.)(FR).dsk" size="143360" crc="ea95f4ca" md5="4933a202328e8d9ff9fb5559619e94bf" sha1="e8c3d63688f130d14cee7c457faafe20b678f2bc"/>
+	</game>
+	<game name="Mathosaurus - Computation (1989)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Mathosaurus - Computation (1989)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Mathosaurus - Computation (1989)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="a51ff617" md5="107cab08ccfef63e6b70f94de7fd8f79" sha1="157e0a16ab7713c2e22f619d9814ba79bc36c702"/>
+	</game>
+	<game name="Mathosaurus - Kindergarten (1989)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Mathosaurus - Kindergarten (1989)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Mathosaurus - Kindergarten (1989)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="67deee61" md5="d8eaf0f9d81ad66bd57e788550de1648" sha1="a91ca89ff42621e8c028116beb3fc0319002cb35"/>
+	</game>
 	<game name="Maths Invaders - Special Products and Algebraic Factors (1982)(Avant-Garde Creations)(US)[cr 4am]">
 		<description>Maths Invaders - Special Products and Algebraic Factors (1982)(Avant-Garde Creations)(US)[cr 4am]</description>
 		<rom name="Maths Invaders - Special Products and Algebraic Factors (1982)(Avant-Garde Creations)(US)[cr 4am].dsk" size="143360" crc="e758f3c1" md5="7a2f1ac188f1796b5e9d3d4e71d0b498" sha1="1f0849b1d326031817e52d69985a749cf4ace3cd"/>
@@ -9356,9 +9696,33 @@
 		<description>Maths Invaders - Special Products and Algebraic Factors (1982)(Avant-Garde Creations)(US)[cr 4am][work disk]</description>
 		<rom name="Maths Invaders - Special Products and Algebraic Factors (1982)(Avant-Garde Creations)(US)[cr 4am][work disk].dsk" size="143360" crc="ea19a9df" md5="350efb08aee74d262421631d8bbdc12b" sha1="bc36d7e8db1796072f822ac62c8bbcd37a2cef74"/>
 	</game>
+	<game name="Mavis Beacon Teaches Typing (1988)(The Software Toolworks)(Disk 1 of 2)[cr Coast to Coast]">
+		<description>Mavis Beacon Teaches Typing (1988)(The Software Toolworks)(Disk 1 of 2)[cr Coast to Coast]</description>
+		<rom name="Mavis Beacon Teaches Typing (1988)(The Software Toolworks)(Disk 1 of 2)[cr Coast to Coast].dsk" size="143360" crc="b1cfbd7c" md5="5e11f85204f2a637a1f187a1fce2492d" sha1="61eb8afc10ba4c7299fb535f16929cd5b61d9773"/>
+	</game>
+	<game name="Mavis Beacon Teaches Typing (1988)(The Software Toolworks)(Disk 2 of 2)[cr Coast to Coast]">
+		<description>Mavis Beacon Teaches Typing (1988)(The Software Toolworks)(Disk 2 of 2)[cr Coast to Coast]</description>
+		<rom name="Mavis Beacon Teaches Typing (1988)(The Software Toolworks)(Disk 2 of 2)[cr Coast to Coast].dsk" size="143360" crc="892c9180" md5="383693cb367423c64c50c2963c2ee085" sha1="85a3eb1cb83ff6c54acd1a8f141874b1134f226d"/>
+	</game>
 	<game name="Max Dublin's Treasure (1984)(Grolier)(II+)[cr 4am]">
 		<description>Max Dublin's Treasure (1984)(Grolier)(II+)[cr 4am]</description>
 		<rom name="Max Dublin's Treasure (1984)(Grolier)(II+)[cr 4am].dsk" size="143360" crc="ffcead45" md5="5250d71ade290bb7fbf1b18013cb72ea" sha1="46ce81cab173e0748768544a2babd43ea27c821f"/>
+	</game>
+	<game name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 1 of 4)(The Boat)">
+		<description>Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 1 of 4)(The Boat)</description>
+		<rom name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 1 of 4)(The Boat).dsk" size="143360" crc="1b4361eb" md5="4ada45001a89470d4e2bfe0c25a84563" sha1="7bc7528974ea7ac2e839b604aef59584099ab946"/>
+	</game>
+	<game name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 2 of 4)(The Train)">
+		<description>Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 2 of 4)(The Train)</description>
+		<rom name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 2 of 4)(The Train).dsk" size="143360" crc="78093088" md5="d0c4ab5a143dd6d05833e9bdc9c0ad49" sha1="05046695172f5cf4cf68fe502534ca59c13cb40a"/>
+	</game>
+	<game name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 3 of 4)(The Plane)">
+		<description>Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 3 of 4)(The Plane)</description>
+		<rom name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 3 of 4)(The Plane).dsk" size="143360" crc="48d353c4" md5="c99beb613464984ac4a025f883cdb2b3" sha1="debb0be720eeb02585baa9533670420a9074de0c"/>
+	</game>
+	<game name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 4 of 4)(The Hotel)">
+		<description>Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 4 of 4)(The Hotel)</description>
+		<rom name="Max the Globe Trotter (1984)(Microlingua)(IIE)(Disk 4 of 4)(The Hotel).dsk" size="143360" crc="84baff54" md5="fa756917bff9f790ad39ed8622b14451" sha1="1af19a3c3f43cea6380a9f33b891c5940567b240"/>
 	</game>
 	<game name="Measure Works v1.0 (1989)(MECC)(IIE)(US)[128K][A-246]">
 		<description>Measure Works v1.0 (1989)(MECC)(IIE)(US)[128K][A-246]</description>
@@ -9652,6 +10016,10 @@
 		<description>Meteor Multiplication rev 2 (1982)(Developmental Learning Materials)(II+)(US)[cr 4am]</description>
 		<rom name="Meteor Multiplication rev 2 (1982)(Developmental Learning Materials)(II+)(US)[cr 4am].dsk" size="143360" crc="0f314196" md5="087a63864f2a02cf743ffdf4bf38896a" sha1="452ecbab360ba6fbd0b02edf4f3a61cad0408471"/>
 	</game>
+	<game name="Methodes de Calcul Numerique - Tome 2 (19xx)(P.S.I.)(FR)">
+		<description>Methodes de Calcul Numerique - Tome 2 (19xx)(P.S.I.)(FR)</description>
+		<rom name="Methodes de Calcul Numerique - Tome 2 (19xx)(P.S.I.)(FR).dsk" size="143360" crc="9db9f135" md5="81ef2d6c40f0fe3633737640c5db6458" sha1="af2efbda22bab23bb0e876e56ea37c31a4b9b649"/>
+	</game>
 	<game name="Metric System Tutor (1980)(E.M.E.)(II+)(US)[cr 4am]">
 		<description>Metric System Tutor (1980)(E.M.E.)(II+)(US)[cr 4am]</description>
 		<rom name="Metric System Tutor (1980)(E.M.E.)(II+)(US)[cr 4am].dsk" size="143360" crc="743534c6" md5="5b0bc343036fe01c156744194c1d2419" sha1="47ea8c215580c0ba58d516e38e59d19417933134"/>
@@ -9692,113 +10060,113 @@
 		<description>Micro Skillbuilder Set II - The Summer of the Swans (1982)(Sunburst Communications)(US)[cr 4am][work disk]</description>
 		<rom name="Micro Skillbuilder Set II - The Summer of the Swans (1982)(Sunburst Communications)(US)[cr 4am][work disk].dsk" size="143360" crc="114520ee" md5="9125b89528a9e00da2808628411328b2" sha1="a481e0d67b0d495ca9186400052dc4104bafe19f"/>
 	</game>
-	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="6dad9d98" md5="971e619a6c485ed4dc345df30722ef02" sha1="9b5b16ea2e00a1e21edaffbeeaee5d6ebd169bb9"/>
+	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="6dad9d98" md5="971e619a6c485ed4dc345df30722ef02" sha1="9b5b16ea2e00a1e21edaffbeeaee5d6ebd169bb9"/>
 	</game>
-	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="69d1c7d0" md5="6d470412e6b14e2f8c1713be2eaa9a55" sha1="da34928eca8d40652882ab6008ffd11bfeafd7fe"/>
+	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="69d1c7d0" md5="6d470412e6b14e2f8c1713be2eaa9a55" sha1="da34928eca8d40652882ab6008ffd11bfeafd7fe"/>
 	</game>
-	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr demuffin'd full][b]">
-		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr demuffin'd full][b]</description>
-		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr demuffin'd full][b].dsk" size="143360" crc="03156409" md5="d72ea8ef084accc7171c5a4609e91738" sha1="3c6b2104d2cdee4b47a990823ae00d310d09fea9"/>
+	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]">
+		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]</description>
+		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K].dsk" size="143360" crc="03156409" md5="d72ea8ef084accc7171c5a4609e91738" sha1="3c6b2104d2cdee4b47a990823ae00d310d09fea9"/>
 	</game>
-	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]">
-		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]</description>
-		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b].dsk" size="143360" crc="6ca8c4bc" md5="c830a9b01192230aeaa8941aa69bcae5" sha1="384327586e7138585e5029ee234731dcc9e10414"/>
+	<game name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]">
+		<description>Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]</description>
+		<rom name="Micro-LADS Vol. 1 - Plurals and Noun-Verb Agreement (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K].dsk" size="143360" crc="6ca8c4bc" md5="c830a9b01192230aeaa8941aa69bcae5" sha1="384327586e7138585e5029ee234731dcc9e10414"/>
 	</game>
-	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="3709e7bc" md5="03d9df9bf7ceaa1389850ccd3e971682" sha1="18b2b5e5cc9a93cb2fe3c88cfec1fdcd44e274b4"/>
+	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="3709e7bc" md5="03d9df9bf7ceaa1389850ccd3e971682" sha1="18b2b5e5cc9a93cb2fe3c88cfec1fdcd44e274b4"/>
 	</game>
-	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="fce88d7c" md5="2a6ca51b9ec89cbdb57aafcd102bfe7b" sha1="d0ef619a6fd23eb9c14a46997330c5e584b8d6d7"/>
+	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="fce88d7c" md5="2a6ca51b9ec89cbdb57aafcd102bfe7b" sha1="d0ef619a6fd23eb9c14a46997330c5e584b8d6d7"/>
 	</game>
-	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr demuffin'd full][b]">
-		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr demuffin'd full][b]</description>
-		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr demuffin'd full][b].dsk" size="143360" crc="59b11e2d" md5="9acd06cc5cfdd77b2969c503d1e92007" sha1="0d5f2e441acd23ee80303490ce35e656373fb369"/>
+	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]">
+		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]</description>
+		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K].dsk" size="143360" crc="59b11e2d" md5="9acd06cc5cfdd77b2969c503d1e92007" sha1="0d5f2e441acd23ee80303490ce35e656373fb369"/>
 	</game>
-	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]">
-		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]</description>
-		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b].dsk" size="143360" crc="b42c87d1" md5="f8060f6d9055ab912fd96bde25570659" sha1="17199098bee6e8f2fbd7ac6138b963eb79af9f62"/>
+	<game name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]">
+		<description>Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]</description>
+		<rom name="Micro-LADS Vol. 2 - Verb Forms (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K].dsk" size="143360" crc="b42c87d1" md5="f8060f6d9055ab912fd96bde25570659" sha1="17199098bee6e8f2fbd7ac6138b963eb79af9f62"/>
 	</game>
-	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="9b6a204f" md5="7b3256131d00ab13138d9780296a2ce3" sha1="1f2f134486f43e598b563cf759fe6ed9b5d3c985"/>
+	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="9b6a204f" md5="7b3256131d00ab13138d9780296a2ce3" sha1="1f2f134486f43e598b563cf759fe6ed9b5d3c985"/>
 	</game>
-	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="64699ee7" md5="b2a901769a10623daefe5e2a21287bfb" sha1="ba2f26b93534f0044926c1432fab6878984067c2"/>
+	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="64699ee7" md5="b2a901769a10623daefe5e2a21287bfb" sha1="ba2f26b93534f0044926c1432fab6878984067c2"/>
 	</game>
-	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr demuffin'd full][b]">
-		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr demuffin'd full][b]</description>
-		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr demuffin'd full][b].dsk" size="143360" crc="ecb6c45f" md5="bdaec8df66ebf5135aa3858a4dffefb2" sha1="175c66ab7c38ac90bcb18654fcc6cc0bb608569b"/>
+	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]">
+		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]</description>
+		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K].dsk" size="143360" crc="ecb6c45f" md5="bdaec8df66ebf5135aa3858a4dffefb2" sha1="175c66ab7c38ac90bcb18654fcc6cc0bb608569b"/>
 	</game>
-	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]">
-		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]</description>
-		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b].dsk" size="143360" crc="d8df9283" md5="ed13c29c5c963200d0b57266fc17611c" sha1="c51e53914a865cbb583c999d55460d647fb54842"/>
+	<game name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]">
+		<description>Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]</description>
+		<rom name="Micro-LADS Vol. 3 - Prepositions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K].dsk" size="143360" crc="d8df9283" md5="ed13c29c5c963200d0b57266fc17611c" sha1="c51e53914a865cbb583c999d55460d647fb54842"/>
 	</game>
-	<game name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[b][demuffin'd full]">
-		<description>Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[b][demuffin'd full]</description>
-		<rom name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[b][demuffin'd full].dsk" size="143360" crc="9424891a" md5="7d1180823cb7de8815bd6b3bb081138a" sha1="820fdf1b7bc94b03c9745f9a3031affc7339910c"/>
+	<game name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[b][demuffin'd full][64K]">
+		<description>Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[b][demuffin'd full][64K]</description>
+		<rom name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[b][demuffin'd full][64K].dsk" size="143360" crc="9424891a" md5="7d1180823cb7de8815bd6b3bb081138a" sha1="820fdf1b7bc94b03c9745f9a3031affc7339910c"/>
 	</game>
-	<game name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="fa9c708b" md5="214844afd8c36058a704a1900b47e2d2" sha1="1a8cc921112a24404d39d188dce7abbbd527afbf"/>
+	<game name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="fa9c708b" md5="214844afd8c36058a704a1900b47e2d2" sha1="1a8cc921112a24404d39d188dce7abbbd527afbf"/>
 	</game>
-	<game name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="43d35d68" md5="372cd2f786c08d238a5e7d110d25d72d" sha1="32c296ecb3967d489809a8dabd78db0a60d96158"/>
+	<game name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 4 - Pronouns (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="43d35d68" md5="372cd2f786c08d238a5e7d110d25d72d" sha1="32c296ecb3967d489809a8dabd78db0a60d96158"/>
 	</game>
-	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="244e65c5" md5="01163b00156c3fd64143aaad77566774" sha1="ce6752867230430e35dbea0dfe91bc4420f9dc2c"/>
+	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="244e65c5" md5="01163b00156c3fd64143aaad77566774" sha1="ce6752867230430e35dbea0dfe91bc4420f9dc2c"/>
 	</game>
-	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="cd01e4c3" md5="a6dc742a2b7d573e881df46d794e645c" sha1="71c4c85fd723ffbc551ee98cf9485bda55bca110"/>
+	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="cd01e4c3" md5="a6dc742a2b7d573e881df46d794e645c" sha1="71c4c85fd723ffbc551ee98cf9485bda55bca110"/>
 	</game>
-	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr demuffin'd full][b]">
-		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr demuffin'd full][b]</description>
-		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr demuffin'd full][b].dsk" size="143360" crc="4af69c54" md5="5c229a625463112fdeb2b97c395a55d0" sha1="29f01b04848d5d154626ceeacbc2e22731c9acf9"/>
+	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]">
+		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]</description>
+		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K].dsk" size="143360" crc="4af69c54" md5="5c229a625463112fdeb2b97c395a55d0" sha1="29f01b04848d5d154626ceeacbc2e22731c9acf9"/>
 	</game>
-	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]">
-		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]</description>
-		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b].dsk" size="143360" crc="6a7f01cb" md5="7625ab77d02e3473588d38c885f1e8e2" sha1="9e196c9ab0c16f08be1236cc14209285c27f6852"/>
+	<game name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]">
+		<description>Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]</description>
+		<rom name="Micro-LADS Vol. 5 - Negatives (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K].dsk" size="143360" crc="6a7f01cb" md5="7625ab77d02e3473588d38c885f1e8e2" sha1="9e196c9ab0c16f08be1236cc14209285c27f6852"/>
 	</game>
-	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="1fa593ca" md5="0851fd626bd8adf6ecbd278e15fc678d" sha1="190dde1093f0f759dc2f5d848a6358d351cbe43c"/>
+	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="1fa593ca" md5="0851fd626bd8adf6ecbd278e15fc678d" sha1="190dde1093f0f759dc2f5d848a6358d351cbe43c"/>
 	</game>
-	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="02728d49" md5="99d4adbe4e8b3d5759c814f547111754" sha1="73f1bc3f293201fd8139aaf17f1e0ba91461df9d"/>
+	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="02728d49" md5="99d4adbe4e8b3d5759c814f547111754" sha1="73f1bc3f293201fd8139aaf17f1e0ba91461df9d"/>
 	</game>
-	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr demuffin'd full][b]">
-		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr demuffin'd full][b]</description>
-		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr demuffin'd full][b].dsk" size="143360" crc="711d6a5b" md5="ce9b860f681c9ef663c012c2f69b9c9c" sha1="51d0c80ae1ce987207e0254d5b8f3059e4b06f02"/>
+	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]">
+		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]</description>
+		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K].dsk" size="143360" crc="711d6a5b" md5="ce9b860f681c9ef663c012c2f69b9c9c" sha1="51d0c80ae1ce987207e0254d5b8f3059e4b06f02"/>
 	</game>
-	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]">
-		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b]</description>
-		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)[cr demuffin'd only no T00][b].dsk" size="143360" crc="1f9d5cc3" md5="516d92b6b967aa1e29f771b3013f24de" sha1="85bfc065e0d04ca3315af9ba1d6b8a2ddec8dddd"/>
+	<game name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]">
+		<description>Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K]</description>
+		<rom name="Micro-LADS Vol. 6 - Deictic Expressions, Passive, and WH-Questions (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only no T00][b][64K].dsk" size="143360" crc="1f9d5cc3" md5="516d92b6b967aa1e29f771b3013f24de" sha1="85bfc065e0d04ca3315af9ba1d6b8a2ddec8dddd"/>
 	</game>
-	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr 4am]">
-		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr 4am]</description>
-		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr 4am].dsk" size="143360" crc="35a599f2" md5="b17f4a2863b447096eb5f8f60e135c0f" sha1="056372e56805dabad02d3e193d1f1b54d558d93a"/>
+	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]">
+		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr 4am][64K]</description>
+		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr 4am][64K].dsk" size="143360" crc="35a599f2" md5="b17f4a2863b447096eb5f8f60e135c0f" sha1="056372e56805dabad02d3e193d1f1b54d558d93a"/>
 	</game>
-	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr 4am][work disk]">
-		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr 4am][work disk]</description>
-		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr 4am][work disk].dsk" size="143360" crc="75929399" md5="b2caf515a7a5b39a59ca27b301a5e180" sha1="cf94ef28b73775a8bd6846e9c09cede9b11c47b7"/>
+	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]">
+		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K]</description>
+		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr 4am][work disk][64K].dsk" size="143360" crc="75929399" md5="b2caf515a7a5b39a59ca27b301a5e180" sha1="cf94ef28b73775a8bd6846e9c09cede9b11c47b7"/>
 	</game>
-	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr demuffin'd full][b]">
-		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr demuffin'd full][b]</description>
-		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr demuffin'd full][b].dsk" size="143360" crc="5b1d6063" md5="1538e1fba1d8c159be40b44c5e6a9222" sha1="c6008c01a841f2d5d68480d49ea167cf979ad650"/>
+	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]">
+		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K]</description>
+		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr demuffin'd full][b][64K].dsk" size="143360" crc="5b1d6063" md5="1538e1fba1d8c159be40b44c5e6a9222" sha1="c6008c01a841f2d5d68480d49ea167cf979ad650"/>
 	</game>
-	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr demuffin'd only NO T00][b]">
-		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr demuffin'd only NO T00][b]</description>
-		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)[cr demuffin'd only NO T00][b].dsk" size="143360" crc="23d94794" md5="d0bbc0b7cfd8963795f94e3edb2894c8" sha1="f0bcb7c7e401a7a25296dc23f3530f3871d7952d"/>
+	<game name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only NO T00][b][64K]">
+		<description>Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only NO T00][b][64K]</description>
+		<rom name="Micro-LADS Vol. 7 - Prepositions II (1989)(Laureate Learning Systems)(II+)[cr demuffin'd only NO T00][b][64K].dsk" size="143360" crc="23d94794" md5="d0bbc0b7cfd8963795f94e3edb2894c8" sha1="f0bcb7c7e401a7a25296dc23f3530f3871d7952d"/>
 	</game>
 	<game name="Microbe (1982)(Synergistic Software)(II+)[cr 4am][Mockingboard support]">
 		<description>Microbe (1982)(Synergistic Software)(II+)[cr 4am][Mockingboard support]</description>
@@ -9839,6 +10207,14 @@
 	<game name="MicroTutor II - Language Arts Level 2 (1982)(Scandura Associates)(II+)(Disk E)(Prefixes, Suffixes, Capitalization)[cr 4am]">
 		<description>MicroTutor II - Language Arts Level 2 (1982)(Scandura Associates)(II+)(Disk E)(Prefixes, Suffixes, Capitalization)[cr 4am]</description>
 		<rom name="MicroTutor II - Language Arts Level 2 (1982)(Scandura Associates)(II+)(Disk E)(Prefixes, Suffixes, Capitalization)[cr 4am].dsk" size="143360" crc="0b7d77da" md5="70cdb7a7cba6ad6c5785bd1c2261a5f5" sha1="441cd70f59d8a434b2d023367f6c89adf79368dd"/>
+	</game>
+	<game name="MicroType - The Wonderful World of Paws (1985)(South-Western Publishing)(US)(Side A)">
+		<description>MicroType - The Wonderful World of Paws (1985)(South-Western Publishing)(US)(Side A)</description>
+		<rom name="MicroType - The Wonderful World of Paws (1985)(South-Western Publishing)(US)(Side A).dsk" size="143360" crc="436aa138" md5="e8b156af355ba15703369457d2180523" sha1="173fc2bcc3cb4599595bed11e0d8317d707c166b"/>
+	</game>
+	<game name="MicroType - The Wonderful World of Paws (1985)(South-Western Publishing)(US)(Side B)">
+		<description>MicroType - The Wonderful World of Paws (1985)(South-Western Publishing)(US)(Side B)</description>
+		<rom name="MicroType - The Wonderful World of Paws (1985)(South-Western Publishing)(US)(Side B).dsk" size="143360" crc="43cf7f1d" md5="1d5e8ef92f4625a326142ffb0d05df3b" sha1="eba3bc344a7936b7820dd4eeb08e40de0f88088c"/>
 	</game>
 	<game name="MicroType - The Wonderful World of Paws v1.1 (1984)(South-Western Publishing)(II+)(US)(Side A)[cr 4am][48K]">
 		<description>MicroType - The Wonderful World of Paws v1.1 (1984)(South-Western Publishing)(II+)(US)(Side A)[cr 4am][48K]</description>
@@ -9915,6 +10291,10 @@
 	<game name="Mind Puzzles v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-780]">
 		<description>Mind Puzzles v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-780]</description>
 		<rom name="Mind Puzzles v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-780].dsk" size="143360" crc="91bc793b" md5="f84e41de7e99627529a80bc34c3cbce0" sha1="c57cfc44bdf619912e66e3707ae148281fe9ecaa"/>
+	</game>
+	<game name="Mind Puzzles v1.0 (1984-05-25)(MECC)(II+)(US)[cr 4am][48K][H-102]">
+		<description>Mind Puzzles v1.0 (1984-05-25)(MECC)(II+)(US)[cr 4am][48K][H-102]</description>
+		<rom name="Mind Puzzles v1.0 (1984-05-25)(MECC)(II+)(US)[cr 4am][48K][H-102].dsk" size="143360" crc="ce6d2939" md5="c5e45d7f9ee74d08fe0f9cd7b2c8fad2" sha1="ae0f70a4d6139c9bb07cd583057e61b632750998"/>
 	</game>
 	<game name="Mind Puzzles v1.3 (1983)(MECC)(II+)(US)[cr 4am][48K][A-780]">
 		<description>Mind Puzzles v1.3 (1983)(MECC)(II+)(US)[cr 4am][48K][A-780]</description>
@@ -10031,6 +10411,10 @@
 	<game name="Mixed Number Concepts (1985)(Courses by Computers)(II+)(Side B)(Tests)[cr 4am][64K]">
 		<description>Mixed Number Concepts (1985)(Courses by Computers)(II+)(Side B)(Tests)[cr 4am][64K]</description>
 		<rom name="Mixed Number Concepts (1985)(Courses by Computers)(II+)(Side B)(Tests)[cr 4am][64K].dsk" size="143360" crc="0632f1ce" md5="4a256b5ab7cda73d37b5194e11de48ba" sha1="d8408eda127e213e1d2d2988620cb2ad53138c64"/>
+	</game>
+	<game name="Modeles Pratiques de Decision - Tome 1 (19xx)(P.S.I.)(FR)">
+		<description>Modeles Pratiques de Decision - Tome 1 (19xx)(P.S.I.)(FR)</description>
+		<rom name="Modeles Pratiques de Decision - Tome 1 (19xx)(P.S.I.)(FR).dsk" size="143360" crc="d5b4715d" md5="ee874c41879598c1040ae23eff4be8a8" sha1="2abd2e5014213e6b2e9e53840aab13bb7e6f32fd"/>
 	</game>
 	<game name="Modeling v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-823]">
 		<description>Modeling v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-823]</description>
@@ -10176,13 +10560,13 @@
 		<description>Moptown Parade v1.2 (1981)(The Learning Company)(US)[cr 4am]</description>
 		<rom name="Moptown Parade v1.2 (1981)(The Learning Company)(US)[cr 4am].dsk" size="143360" crc="ff062b97" md5="1864870caa08a3d5c5a01f37826a81c7" sha1="2d7d7b01a621c0c9aab97df33a9f983cc7568bd0"/>
 	</game>
-	<game name="Moses Leads His People (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Moses Leads His People (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Moses Leads His People (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="41a67e27" md5="c914c06edf3123f5217521d58bf7c654" sha1="e8209f454c1be968d55f597425dbb3bdc1d460b7"/>
+	<game name="Moses and the Wilderness Wanderings (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Moses and the Wilderness Wanderings (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Moses and the Wilderness Wanderings (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="41a67e27" md5="c914c06edf3123f5217521d58bf7c654" sha1="e8209f454c1be968d55f597425dbb3bdc1d460b7"/>
 	</game>
-	<game name="Moses Leads His People (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am]">
-		<description>Moses Leads His People (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am]</description>
-		<rom name="Moses Leads His People (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am].dsk" size="143360" crc="360080a2" md5="23bf5230d0dc99b46505b61fb911751c" sha1="f657b886134ace87161399f228e82bd4b348da39"/>
+	<game name="Moses and the Wilderness Wanderings (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Moses and the Wilderness Wanderings (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Moses and the Wilderness Wanderings (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="360080a2" md5="23bf5230d0dc99b46505b61fb911751c" sha1="f657b886134ace87161399f228e82bd4b348da39"/>
 	</game>
 	<game name="Motorcycles (1984)(Troll Associates)(II+)(US)[cr 4am]">
 		<description>Motorcycles (1984)(Troll Associates)(II+)(US)[cr 4am]</description>
@@ -10584,6 +10968,34 @@
 		<description>Mystery Sentences (1984)(Scholastic)(II+)(US)(Side B)</description>
 		<rom name="Mystery Sentences (1984)(Scholastic)(II+)(US)(Side B).dsk" size="143360" crc="bec55691" md5="85dc1062d2e2f4c2bfd4d7f1108eabcb" sha1="f50dd87d8d4ae7b959ed233bb76e080794975a50"/>
 	</game>
+	<game name="NCTM MathDisk II, September 1984 - May 1985 (1985)(National Council of Teachers of Mathematics)">
+		<description>NCTM MathDisk II, September 1984 - May 1985 (1985)(National Council of Teachers of Mathematics)</description>
+		<rom name="NCTM MathDisk II, September 1984 - May 1985 (1985)(National Council of Teachers of Mathematics).dsk" size="143360" crc="5853e13b" md5="edb97a281cec4414eac9e5c7475c1e53" sha1="a67f6f74384e9f0ba272dc4df1522d70eb30d335"/>
+	</game>
+	<game name="NCTM MathDisk III, September 1985 - May 1986 (1986)(National Council of Teachers of Mathematics)(Side A)">
+		<description>NCTM MathDisk III, September 1985 - May 1986 (1986)(National Council of Teachers of Mathematics)(Side A)</description>
+		<rom name="NCTM MathDisk III, September 1985 - May 1986 (1986)(National Council of Teachers of Mathematics)(Side A).dsk" size="143360" crc="98d68552" md5="4ed4fd5913a0b0ae3feb107329ef14df" sha1="554e1a7007339cee04537e8370af6050c05b7f3a"/>
+	</game>
+	<game name="NCTM MathDisk III, September 1985 - May 1986 (1986)(National Council of Teachers of Mathematics)(Side B)">
+		<description>NCTM MathDisk III, September 1985 - May 1986 (1986)(National Council of Teachers of Mathematics)(Side B)</description>
+		<rom name="NCTM MathDisk III, September 1985 - May 1986 (1986)(National Council of Teachers of Mathematics)(Side B).dsk" size="143360" crc="5386e344" md5="6ad99fbd6f26ac9e1f23890e3e2d112d" sha1="87a93b5fe1bd64bc364bfd4215933c0bcf6baddf"/>
+	</game>
+	<game name="NCTM MathDisk IV, September 1986 - May 1987 (1987)(National Council of Teachers of Mathematics)(Side A)">
+		<description>NCTM MathDisk IV, September 1986 - May 1987 (1987)(National Council of Teachers of Mathematics)(Side A)</description>
+		<rom name="NCTM MathDisk IV, September 1986 - May 1987 (1987)(National Council of Teachers of Mathematics)(Side A).dsk" size="143360" crc="d3933a8c" md5="a3d4e276296349db98f7dcc74b47b9a6" sha1="d1844568085879b97d30ae0b23b0e8b608716c80"/>
+	</game>
+	<game name="NCTM MathDisk IV, September 1986 - May 1987 (1987)(National Council of Teachers of Mathematics)(Side B)">
+		<description>NCTM MathDisk IV, September 1986 - May 1987 (1987)(National Council of Teachers of Mathematics)(Side B)</description>
+		<rom name="NCTM MathDisk IV, September 1986 - May 1987 (1987)(National Council of Teachers of Mathematics)(Side B).dsk" size="143360" crc="15ee54ba" md5="b73d0af215a1b82ba60de3198eec22dc" sha1="669395021dcc946f8e47fd6c4e707413a1d448ed"/>
+	</game>
+	<game name="NCTM MathDisk, January 1983 - May 1984 (1984)(National Council of Teachers of Mathematics)(Side A)(Programs from the Mathematics Teacher)">
+		<description>NCTM MathDisk, January 1983 - May 1984 (1984)(National Council of Teachers of Mathematics)(Side A)(Programs from the Mathematics Teacher)</description>
+		<rom name="NCTM MathDisk, January 1983 - May 1984 (1984)(National Council of Teachers of Mathematics)(Side A)(Programs from the Mathematics Teacher).dsk" size="143360" crc="39db2658" md5="b944c23b71302156fdd7694dba9eb9ce" sha1="4df6b8d3d4296157feded015f00e21cd4ad6a2c8"/>
+	</game>
+	<game name="NCTM MathDisk, January 1983 - May 1984 (1984)(National Council of Teachers of Mathematics)(Side B)(Programs from the Arithmetics Teacher)">
+		<description>NCTM MathDisk, January 1983 - May 1984 (1984)(National Council of Teachers of Mathematics)(Side B)(Programs from the Arithmetics Teacher)</description>
+		<rom name="NCTM MathDisk, January 1983 - May 1984 (1984)(National Council of Teachers of Mathematics)(Side B)(Programs from the Arithmetics Teacher).dsk" size="143360" crc="18193d1a" md5="fb95f6de8809735cd3f9fed42d7bbed0" sha1="85dfb74e23b51b602e5b74026b7b3ff4a899f518"/>
+	</game>
 	<game name="New Kid on the Block (1989-02-09)(Hartley Courseware)(II+)(Disk 1 of 3)[cr 4am]">
 		<description>New Kid on the Block (1989-02-09)(Hartley Courseware)(II+)(Disk 1 of 3)[cr 4am]</description>
 		<rom name="New Kid on the Block (1989-02-09)(Hartley Courseware)(II+)(Disk 1 of 3)[cr 4am].dsk" size="143360" crc="5f7feea4" md5="dd6e3a1eb9a41629e38ee8b437f1b9fc" sha1="32bd143f480259dd6796db73c59e10c5482e0f7c"/>
@@ -10603,6 +11015,10 @@
 	<game name="New Step by Step, The - A Computer Course in BASIC (1981)(Program Design)(II+)(Disk 2 of 2)">
 		<description>New Step by Step, The - A Computer Course in BASIC (1981)(Program Design)(II+)(Disk 2 of 2)</description>
 		<rom name="New Step by Step, The - A Computer Course in BASIC (1981)(Program Design)(II+)(Disk 2 of 2).dsk" size="143360" crc="2afc9d0e" md5="d6775bd97915d1f0145869759c8b3fb6" sha1="2f04f279a07fbfcf1b1160591cc245611079eeed"/>
+	</game>
+	<game name="New To (19xx)(Heiserman, Russel - Hawthorne, Maurice R. - Rutledge, Carl - Balentine, Aud)">
+		<description>New To (19xx)(Heiserman, Russel - Hawthorne, Maurice R. - Rutledge, Carl - Balentine, Aud)</description>
+		<rom name="New To (19xx)(Heiserman, Russel - Hawthorne, Maurice R. - Rutledge, Carl - Balentine, Aud).dsk" size="143360" crc="8cd42fa5" md5="0651cebe00df66aa1bc939d0dc8d5162" sha1="d277b5eb81a2fb7d334f5cdad46238e30946038e"/>
 	</game>
 	<game name="Newbery Adventure, A - A Wrinkle in Time (1986)(Sunburst Communications)(II+)(US)[cr 4am]">
 		<description>Newbery Adventure, A - A Wrinkle in Time (1986)(Sunburst Communications)(II+)(US)[cr 4am]</description>
@@ -10824,6 +11240,10 @@
 		<description>Number Farm (1984)(Developmental Learning Materials)(II+)(US)[cr 4am]</description>
 		<rom name="Number Farm (1984)(Developmental Learning Materials)(II+)(US)[cr 4am].dsk" size="143360" crc="7beb091c" md5="56cf9d526ce72f18571d092eec5a79ea" sha1="ee2155533ff204a91ce2dd6db665eefbb3feeec0"/>
 	</game>
+	<game name="Number Games 1 (1992)(Shapiro, Phil)(SW)">
+		<description>Number Games 1 (1992)(Shapiro, Phil)(SW)</description>
+		<rom name="Number Games 1 (1992)(Shapiro, Phil)(SW).dsk" size="143360" crc="c9b26d67" md5="65ad127a97dc8890be18d0af8e9753c8" sha1="baaa0cdd533aacedd4f31cb524f90265512c9c79"/>
+	</game>
 	<game name="Number Games 1 (1992-02)(Balloons Software)(US)(SW)">
 		<description>Number Games 1 (1992-02)(Balloons Software)(US)(SW)</description>
 		<rom name="Number Games 1 (1992-02)(Balloons Software)(US)(SW).dsk" size="143360" crc="128467d2" md5="eebd8be9f091e0f3bea873c514eaa76e" sha1="315b5b0f7d9a7b807883e7f450e6b60434f15894"/>
@@ -11044,6 +11464,10 @@
 		<description>Oregon Trail, The (1985)(MECC)(US)(Side B)[A-157]</description>
 		<rom name="Oregon Trail, The (1985)(MECC)(US)(Side B)[A-157].dsk" size="143360" crc="41abbdae" md5="81232d24eba73da465fe99ab730d3fce" sha1="8ca19d02c1b3eb35061b97f8640cc338ba129b9f"/>
 	</game>
+	<game name="Oregon Trail, The (1985)(MECC)(US)(Side B)[a][A-157]">
+		<description>Oregon Trail, The (1985)(MECC)(US)(Side B)[a][A-157]</description>
+		<rom name="Oregon Trail, The (1985)(MECC)(US)(Side B)[a][A-157].dsk" size="143360" crc="8ae90cb3" md5="6c7343be2fe82862ea0542384ac328fd" sha1="755c6f859af79d4bf27a1cbbe0f22f55e7934026"/>
+	</game>
 	<game name="Oregon Trail, The v1.4 (1985)(MECC)(II+)(US)(Side A)[cr 4am][64K][A-157]">
 		<description>Oregon Trail, The v1.4 (1985)(MECC)(II+)(US)(Side A)[cr 4am][64K][A-157]</description>
 		<rom name="Oregon Trail, The v1.4 (1985)(MECC)(II+)(US)(Side A)[cr 4am][64K][A-157].dsk" size="143360" crc="854a1571" md5="0177edd34ee843b39be3e2cb3b0b5225" sha1="6ef488a505a3d7131c37dae1052f60aaabd09e14"/>
@@ -11200,17 +11624,25 @@
 		<description>Paul Bunyan (1984)(Troll Associates)(II+)(US)[cr 4am][48K]</description>
 		<rom name="Paul Bunyan (1984)(Troll Associates)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="7ac84911" md5="0c57c3f3dcf656098eff6a49d44533e1" sha1="90f04bc4cca68a82b68d3cf9827f023b0397b688"/>
 	</game>
-	<game name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="752993ed" md5="c11cc75a39fa48e5a89aacd7a66165c3" sha1="14ddbe52b978cd5d6a2e855ce38ce3093aa32b25"/>
+	<game name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="752993ed" md5="c11cc75a39fa48e5a89aacd7a66165c3" sha1="14ddbe52b978cd5d6a2e855ce38ce3093aa32b25"/>
 	</game>
-	<game name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am]">
-		<description>Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am]</description>
-		<rom name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am].dsk" size="143360" crc="41c4584a" md5="2feba5c02f2c5b5ca34e1d73a989a699" sha1="148d0ec4865cabc3cfa70b83658b2ded699b030c"/>
+	<game name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Paul's Missionary Journeys (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="41c4584a" md5="2feba5c02f2c5b5ca34e1d73a989a699" sha1="148d0ec4865cabc3cfa70b83658b2ded699b030c"/>
 	</game>
 	<game name="Payroll System - A Business Simulation v1.2 (1985)(MECC)(II+)(US)[cr 4am][A-104]">
 		<description>Payroll System - A Business Simulation v1.2 (1985)(MECC)(II+)(US)[cr 4am][A-104]</description>
 		<rom name="Payroll System - A Business Simulation v1.2 (1985)(MECC)(II+)(US)[cr 4am][A-104].dsk" size="143360" crc="d212f43f" md5="6f101ab85374fa31fae029ef11e3f279" sha1="93087105dfe4b4e9c62b2ccf88de205bc663c454"/>
+	</game>
+	<game name="Peanuts Math Matcher (1985)(Random House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Peanuts Math Matcher (1985)(Random House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Peanuts Math Matcher (1985)(Random House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="42911c2f" md5="a172ffbd98049a8ef59e4a422e99f887" sha1="b9dc7845ce245f623699bace67083590c9152531"/>
+	</game>
+	<game name="Peanuts Math Matcher (1985)(Random House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Peanuts Math Matcher (1985)(Random House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Peanuts Math Matcher (1985)(Random House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="0e1391ac" md5="5bd60761317920c3bd67d87e2b8ed840" sha1="9457913c597d3a7d001ebf5b7eb08c1a7781f45c"/>
 	</game>
 	<game name="Peanuts Maze Marathon (1984)(Random House)(II+)(US)[cr 4am]">
 		<description>Peanuts Maze Marathon (1984)(Random House)(II+)(US)[cr 4am]</description>
@@ -11275,6 +11707,10 @@
 	<game name="Percentage Panic (1987)(Unicorn Software)(II+)[cr 4am][48K]">
 		<description>Percentage Panic (1987)(Unicorn Software)(II+)[cr 4am][48K]</description>
 		<rom name="Percentage Panic (1987)(Unicorn Software)(II+)[cr 4am][48K].dsk" size="143360" crc="c08e9e70" md5="f604eb805935165bf211717a4ed16619" sha1="394db18625440ffaa5d5af43082da48c29283689"/>
+	</game>
+	<game name="Perception v3.1 (1981)(Edu-Ware)(II+)[cr 4am][48K]">
+		<description>Perception v3.1 (1981)(Edu-Ware)(II+)[cr 4am][48K]</description>
+		<rom name="Perception v3.1 (1981)(Edu-Ware)(II+)[cr 4am][48K].dsk" size="143360" crc="03a363e2" md5="6d24d0cb3c05e268268f800571cd1a27" sha1="a57dec5d165e984958d08ed722d75b6a30592781"/>
 	</game>
 	<game name="Perception v3.1 (1981-06-18)(Softsmith)(II+)[cr 4am - san inc][48K]">
 		<description>Perception v3.1 (1981-06-18)(Softsmith)(II+)[cr 4am - san inc][48K]</description>
@@ -11368,6 +11804,10 @@
 		<description>Perspectives in Music History (1988)(Electronic Courseware Systems)(II+)[cr 4am][48K]</description>
 		<rom name="Perspectives in Music History (1988)(Electronic Courseware Systems)(II+)[cr 4am][48K].dsk" size="143360" crc="d51b35b2" md5="c2759642f2a58acebb4cbb7513fd9ffc" sha1="0b48300464a387a5bcc9637305f062ee23b5168e"/>
 	</game>
+	<game name="Pet Shop v1.0 (1994)(MECC)(IIE)(US)[cr 4am][128K][A-347]">
+		<description>Pet Shop v1.0 (1994)(MECC)(IIE)(US)[cr 4am][128K][A-347]</description>
+		<rom name="Pet Shop v1.0 (1994)(MECC)(IIE)(US)[cr 4am][128K][A-347].dsk" size="143360" crc="90ce093e" md5="0b1006624bdea61bfb9ec0307a5eaa7f" sha1="662db9566d5869f2ed75a445f4fe895e02319b32"/>
+	</game>
 	<game name="Peter and the Wolf (1985)(Fisher-Price)(US)(Side A)[cr 4am]">
 		<description>Peter and the Wolf (1985)(Fisher-Price)(US)(Side A)[cr 4am]</description>
 		<rom name="Peter and the Wolf (1985)(Fisher-Price)(US)(Side A)[cr 4am].dsk" size="143360" crc="bb178af7" md5="124d0b84139280e77c2592e241293a67" sha1="c7b5d22460d82a8c74d7ca7aa81635b288aad2e3"/>
@@ -11420,9 +11860,9 @@
 		<description>Phonics Prime Time - Vowels II v1.0 (1986)(MECC)(II+)(US)[cr 4am][64K][A-178]</description>
 		<rom name="Phonics Prime Time - Vowels II v1.0 (1986)(MECC)(II+)(US)[cr 4am][64K][A-178].dsk" size="143360" crc="c629df4f" md5="1fe42cd12bbd7272140d58810b571869" sha1="91f743d3e188de5a9b3575cf11f06fcceb9aeb58"/>
 	</game>
-	<game name="Physical or Chemical (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]">
-		<description>Physical or Chemical (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]</description>
-		<rom name="Physical or Chemical (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K].dsk" size="143360" crc="13950d87" md5="7258ff768c55b33f011b77c86121b191" sha1="310e95db3e8bdd93fa726b26face1ff23c37e29a"/>
+	<game name="Physical or Chemical (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Physical or Chemical (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Physical or Chemical (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="13950d87" md5="7258ff768c55b33f011b77c86121b191" sha1="310e95db3e8bdd93fa726b26face1ff23c37e29a"/>
 	</game>
 	<game name="Physical Science Series - Sound (1989)(Educational Activities)(II+)[cr 4am]">
 		<description>Physical Science Series - Sound (1989)(Educational Activities)(II+)[cr 4am]</description>
@@ -11520,9 +11960,9 @@
 		<description>Pizza To Go v1.0 (1993)(MECC)(IIE)(US)[cr 4am][128K][A-333]</description>
 		<rom name="Pizza To Go v1.0 (1993)(MECC)(IIE)(US)[cr 4am][128K][A-333].dsk" size="143360" crc="da7bba25" md5="f0a342518b0fdc0a67c6db3a64f4fcc3" sha1="24956ed3f00d8fd335ca802136b6257b896dd2ae"/>
 	</game>
-	<game name="Place Value 1s 10s 100s (1986)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]">
-		<description>Place Value 1s 10s 100s (1986)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]</description>
-		<rom name="Place Value 1s 10s 100s (1986)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K].dsk" size="143360" crc="a76c8758" md5="b00d2c02997f56ab2f84a4acacf87849" sha1="02fcc6955e309fa17e7013e295fd61e82de06dbb"/>
+	<game name="Place Value 1s 10s 100s (1986)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Place Value 1s 10s 100s (1986)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Place Value 1s 10s 100s (1986)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="a76c8758" md5="b00d2c02997f56ab2f84a4acacf87849" sha1="02fcc6955e309fa17e7013e295fd61e82de06dbb"/>
 	</game>
 	<game name="Place Value Recognition I (1984)(Centurion Software)(II+)[cr 4am][ID4005]">
 		<description>Place Value Recognition I (1984)(Centurion Software)(II+)[cr 4am][ID4005]</description>
@@ -11612,6 +12052,10 @@
 		<description>Poetry Express (1984)(Learning Well)(II+)(US)[cr 4am]</description>
 		<rom name="Poetry Express (1984)(Learning Well)(II+)(US)[cr 4am].dsk" size="143360" crc="f250b9c8" md5="d70092a2dacac2b235538912aa26c116" sha1="cf080f71a9559bc005258a139f408912d8b4f3fc"/>
 	</game>
+	<game name="Polls and Politics v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-820]">
+		<description>Polls and Politics v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-820]</description>
+		<rom name="Polls and Politics v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-820].dsk" size="143360" crc="1835797f" md5="34ad7afcb60b70a08beb2e1b4117675e" sha1="ca580b411b23fbeb1614b63c43672093dd4cb002"/>
+	</game>
 	<game name="Pollution Control (1989)(Focus Media)(II+)(US)(Disk 1 of 3)(Pollution Master)[cr 4am][64K]">
 		<description>Pollution Control (1989)(Focus Media)(II+)(US)(Disk 1 of 3)(Pollution Master)[cr 4am][64K]</description>
 		<rom name="Pollution Control (1989)(Focus Media)(II+)(US)(Disk 1 of 3)(Pollution Master)[cr 4am][64K].dsk" size="143360" crc="de6226ef" md5="3b204d1a851d52e6fedc40f5f8270bb9" sha1="784fdb8e1b66923ea98ffd3c5ec21d1839c6fb0a"/>
@@ -11623,6 +12067,10 @@
 	<game name="Pollution Control (1989)(Focus Media)(II+)(US)(Disk 3 of 3)(Pollution Two)[64K]">
 		<description>Pollution Control (1989)(Focus Media)(II+)(US)(Disk 3 of 3)(Pollution Two)[64K]</description>
 		<rom name="Pollution Control (1989)(Focus Media)(II+)(US)(Disk 3 of 3)(Pollution Two)[64K].dsk" size="143360" crc="11bd9d3c" md5="8edb2a54a87fd93da2a56b7e5d98ef6e" sha1="ffadde8967a9bb361abc4c1754150040ae4b20ff"/>
+	</game>
+	<game name="Polynomials (198x)(Carl Albert Junior College)(US)">
+		<description>Polynomials (198x)(Carl Albert Junior College)(US)</description>
+		<rom name="Polynomials (198x)(Carl Albert Junior College)(US).dsk" size="143360" crc="de0b0826" md5="8b3217c95a4fc27631ef7c289fa679d3" sha1="d3b7a85ad55cb357851917e68ed61ec4db6724ac"/>
 	</game>
 	<game name="Pond, The (1984)(Sunburst Communications)(US)[cr 4am]">
 		<description>Pond, The (1984)(Sunburst Communications)(US)[cr 4am]</description>
@@ -11824,6 +12272,10 @@
 		<description>Problem-Solving Strategies v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-784]</description>
 		<rom name="Problem-Solving Strategies v1.0 (1983)(MECC)(II+)(US)[cr 4am][48K][A-784].dsk" size="143360" crc="ae4c0ffb" md5="5d9139d1f95d685a32be0fe0c8d381b3" sha1="cd51d2073660a4746a91e65d3800d2c7ef102cd6"/>
 	</game>
+	<game name="Problem-Solving Strategies v1.0 (1984-09-25)(MECC)(II+)(US)[cr 4am][48K][H-103]">
+		<description>Problem-Solving Strategies v1.0 (1984-09-25)(MECC)(II+)(US)[cr 4am][48K][H-103]</description>
+		<rom name="Problem-Solving Strategies v1.0 (1984-09-25)(MECC)(II+)(US)[cr 4am][48K][H-103].dsk" size="143360" crc="fe6be0a0" md5="41720a23ddebe32d17c75fe9c91889c9" sha1="84cf12b55d7484df3a847e7c036aaddcd0f0a186"/>
+	</game>
 	<game name="Problem-Solving Strategies v1.3 (1983)(MECC)(II+)(US)[cr 4am][48K][A-784]">
 		<description>Problem-Solving Strategies v1.3 (1983)(MECC)(II+)(US)[cr 4am][48K][A-784]</description>
 		<rom name="Problem-Solving Strategies v1.3 (1983)(MECC)(II+)(US)[cr 4am][48K][A-784].dsk" size="143360" crc="d5a3f0cc" md5="de301f2d0aee2681a620c4d9cd80bce0" sha1="a44c34859e439c01e3895e11d57d927a1ca1c687"/>
@@ -11876,9 +12328,9 @@
 		<description>Programmer's Aid Volume 2 v1.0 (1982)(MECC)(US)</description>
 		<rom name="Programmer's Aid Volume 2 v1.0 (1982)(MECC)(US).dsk" size="143360" crc="133d8463" md5="805e13ade0d738bc15f742896c82f1d2" sha1="2f6dffa1d799b1839ee6a49de74d847c6e842fd0"/>
 	</game>
-	<game name="Projectile and Circular Motion (1984)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]">
-		<description>Projectile and Circular Motion (1984)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K]</description>
-		<rom name="Projectile and Circular Motion (1984)(Educational Materials and Equipment Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="4074b3dd" md5="1ee80eb3b1059c0e21671161b82f05cf" sha1="95e35ca175c0f02221a9f2a9d413bbcc40e11c42"/>
+	<game name="Projectile and Circular Motion (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Projectile and Circular Motion (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Projectile and Circular Motion (1984)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="4074b3dd" md5="1ee80eb3b1059c0e21671161b82f05cf" sha1="95e35ca175c0f02221a9f2a9d413bbcc40e11c42"/>
 	</game>
 	<game name="Pronouns I (1982)(Milliken Publishing)(II+)[cr 4am]">
 		<description>Pronouns I (1982)(Milliken Publishing)(II+)[cr 4am]</description>
@@ -11920,6 +12372,14 @@
 		<description>Puff of Air, A - The Respiratory System (1983)(Marshware)(II+)(US)[cr 4am]</description>
 		<rom name="Puff of Air, A - The Respiratory System (1983)(Marshware)(II+)(US)[cr 4am].dsk" size="143360" crc="8aa66382" md5="6c737e92f25a25586b9116b405be7d2c" sha1="4fe290084395bc61b58bc4fd61f5e83815a451b5"/>
 	</game>
+	<game name="Punctuation - Building Better Language Skills (1989)(Micrograms)(II+)[cr 4am][64K]">
+		<description>Punctuation - Building Better Language Skills (1989)(Micrograms)(II+)[cr 4am][64K]</description>
+		<rom name="Punctuation - Building Better Language Skills (1989)(Micrograms)(II+)[cr 4am][64K].dsk" size="143360" crc="0cbc57bf" md5="945d890e0490a66fc6b06f45c5dfe563" sha1="e676a7e78f2448c0527c5c4a11ee65c482798897"/>
+	</game>
+	<game name="Punctuation Skills - End Marks, Semicolon, and Colon (1983)(Milton Bradley)(II+)[cr 4am][48K]">
+		<description>Punctuation Skills - End Marks, Semicolon, and Colon (1983)(Milton Bradley)(II+)[cr 4am][48K]</description>
+		<rom name="Punctuation Skills - End Marks, Semicolon, and Colon (1983)(Milton Bradley)(II+)[cr 4am][48K].dsk" size="143360" crc="da9672c2" md5="ed8f527ad79efbea0d62faab2a5bd8db" sha1="1f6fa4a23adf79c6cac39f0af851c1d7f7e76991"/>
+	</game>
 	<game name="Punctuation Baseball v4.1.6 (1991)(Gamco Industries)(II+)(US)(Side A)[cr 4am][64K]">
 		<description>Punctuation Baseball v4.1.6 (1991)(Gamco Industries)(II+)(US)(Side A)[cr 4am][64K]</description>
 		<rom name="Punctuation Baseball v4.1.6 (1991)(Gamco Industries)(II+)(US)(Side A)[cr 4am][64K].dsk" size="143360" crc="9104d4f1" md5="6321163b66b26e73ff40fd920bff2ce7" sha1="0315f637ddc1271872b00331ecd535c0c4855849"/>
@@ -11943,6 +12403,10 @@
 	<game name="Punctuation Put-On - Punctuation Processor (1985)(Sunburst Communications)(II+)(US)(Disk 2 of 2)(Student Disk)">
 		<description>Punctuation Put-On - Punctuation Processor (1985)(Sunburst Communications)(II+)(US)(Disk 2 of 2)(Student Disk)</description>
 		<rom name="Punctuation Put-On - Punctuation Processor (1985)(Sunburst Communications)(II+)(US)(Disk 2 of 2)(Student Disk).dsk" size="143360" crc="f9f1a8c3" md5="b26513f9b15b3da1912840c06707f635" sha1="09933bbead765a267571ff4a06b24cb95fb67232"/>
+	</game>
+	<game name="Punctuation Rules (1987)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]">
+		<description>Punctuation Rules (1987)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]</description>
+		<rom name="Punctuation Rules (1987)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K].dsk" size="143360" crc="5c56aa3b" md5="4263006ae915b575bdaeb27ca001f99d" sha1="c53c10d1cd464664fa3d328493de56ab84b22d70"/>
 	</game>
 	<game name="Punctuation Skills (1983)(Milton Bradley)(II+)[cr 4am][crashes 65c02]">
 		<description>Punctuation Skills (1983)(Milton Bradley)(II+)[cr 4am][crashes 65c02]</description>
@@ -12224,9 +12688,21 @@
 		<description>Rapid Reader (1981)(Smith, Robert W.)[cr 4am][work disk]</description>
 		<rom name="Rapid Reader (1981)(Smith, Robert W.)[cr 4am][work disk].dsk" size="143360" crc="ef08ac08" md5="2fc82cc4a8340a5894f066eacf283ce9" sha1="94f5cbe03cd692b638afad5d4e3d62f98dac5ba8"/>
 	</game>
+	<game name="Rascal Takes a Ride Home (1993)(Software Connections)(IIE)(en-es)[cr 4am][128K]">
+		<description>Rascal Takes a Ride Home (1993)(Software Connections)(IIE)(en-es)[cr 4am][128K]</description>
+		<rom name="Rascal Takes a Ride Home (1993)(Software Connections)(IIE)(en-es)[cr 4am][128K].dsk" size="143360" crc="be125025" md5="2ca71909e4823e96fdcaef10b53a7338" sha1="c4d998041c7f0e0d1ad52439792ff7be5d2c28be"/>
+	</game>
+	<game name="Rascal Takes a Ride to School (1993)(Software Connections)(IIE)(en-es)[cr 4am][128K]">
+		<description>Rascal Takes a Ride to School (1993)(Software Connections)(IIE)(en-es)[cr 4am][128K]</description>
+		<rom name="Rascal Takes a Ride to School (1993)(Software Connections)(IIE)(en-es)[cr 4am][128K].dsk" size="143360" crc="9cbdc4c2" md5="4d7a8cb2974e447fcc256affa6ac4d41" sha1="d45289e9628caae349a29714ce293e812eb1ccf3"/>
+	</game>
 	<game name="Ratios and Proportions (1983)(Milton Bradley)(II+)[cr 4am][II+ only]">
 		<description>Ratios and Proportions (1983)(Milton Bradley)(II+)[cr 4am][II+ only]</description>
 		<rom name="Ratios and Proportions (1983)(Milton Bradley)(II+)[cr 4am][II+ only].dsk" size="143360" crc="e0222fb9" md5="d7a409e1247a8826196198063e4c6e8a" sha1="38d541db226104517918e14a6f512fc70bc63860"/>
+	</game>
+	<game name="Ray Tracing v1.0-7-86 (1986-07)(CONDUIT Educational Software)(II+)(US)[cr 4am][48K]">
+		<description>Ray Tracing v1.0-7-86 (1986-07)(CONDUIT Educational Software)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Ray Tracing v1.0-7-86 (1986-07)(CONDUIT Educational Software)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="1bff99b4" md5="a24057fe503138aebb5f8f751f717ad6" sha1="ae8d2b7a8c87356edb2d7ea5811d166b263e33a4"/>
 	</game>
 	<game name="Read &amp; Rhyme (1986)(Unicorn Software)(II+)[cr 4am][48K]">
 		<description>Read &amp; Rhyme (1986)(Unicorn Software)(II+)[cr 4am][48K]</description>
@@ -12468,6 +12944,18 @@
 		<description>Reading Workshop - Running Free (1987)(Scott, Foresman &amp; Company)(II+)(Disk D Side 2)[cr 4am][64K]</description>
 		<rom name="Reading Workshop - Running Free (1987)(Scott, Foresman &amp; Company)(II+)(Disk D Side 2)[cr 4am][64K].dsk" size="143360" crc="0eaadde2" md5="09279ffb4ed0e8e5d812227cb9ff9ca3" sha1="bf87af4e6baf11c08347a75a2ad46161a45d95bf"/>
 	</game>
+	<game name="Real Math - Level I (1988)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Real Math - Level I (1988)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Real Math - Level I (1988)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="88a37c6d" md5="806fa83d1c44f112c4ccea4f2951d2f8" sha1="eb5f774021b239a381f97c93b492d2de8a1c0915"/>
+	</game>
+	<game name="Real Math - Level II (1988)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Real Math - Level II (1988)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Real Math - Level II (1988)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="5e49d348" md5="125af7cfbe157d026807785134b8218e" sha1="619cf9c51d4a9a562d55342382c7050da86bfa7f"/>
+	</game>
+	<game name="Real Math - Level III (1988)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Real Math - Level III (1988)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Real Math - Level III (1988)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="3c9c75cf" md5="db3e88ef423af15b0c19e507ba8cae68" sha1="f10e2c20d4d037bf0b7e4684ce3a543b62695f9d"/>
+	</game>
 	<game name="Real Number System (1983)(Intellectual Software)(II+)[cr 4am][48K]">
 		<description>Real Number System (1983)(Intellectual Software)(II+)[cr 4am][48K]</description>
 		<rom name="Real Number System (1983)(Intellectual Software)(II+)[cr 4am][48K].dsk" size="143360" crc="405c252d" md5="ea7d38307ab6fcce45bfa8a9226f7ed9" sha1="307a70c24c5078c58c3d1aac5f9ecc9c86fdbfbc"/>
@@ -12536,6 +13024,10 @@
 		<description>Return to Reading - Lord of the Flies (1983)(Media Basics)[cr 4am][work disk]</description>
 		<rom name="Return to Reading - Lord of the Flies (1983)(Media Basics)[cr 4am][work disk].dsk" size="143360" crc="5a8cef52" md5="6ff81ebfc040bf754c499e8e63a08cdd" sha1="95a745f74d49f7f00d4d5910210cf1959663f9f1"/>
 	</game>
+	<game name="Return to Reading - The Black Stallion (1983)(Media Basics)(II+)[cr 4am][48K]">
+		<description>Return to Reading - The Black Stallion (1983)(Media Basics)(II+)[cr 4am][48K]</description>
+		<rom name="Return to Reading - The Black Stallion (1983)(Media Basics)(II+)[cr 4am][48K].dsk" size="143360" crc="707082c8" md5="eb374c13ca9ea32a6a4415350de4a0a6" sha1="c07e42d5dea4c94a78d652acb542b548df6b51c9"/>
+	</game>
 	<game name="Return to Reading - The Call of the Wild (1983)(Media Basics)(II+)[cr 4am][48K]">
 		<description>Return to Reading - The Call of the Wild (1983)(Media Basics)(II+)[cr 4am][48K]</description>
 		<rom name="Return to Reading - The Call of the Wild (1983)(Media Basics)(II+)[cr 4am][48K].dsk" size="143360" crc="5be7f2c3" md5="d05ac0e0ad159edfbcb51f14ca3b604a" sha1="8446a01fca9f904e21d4177a09c65ae31cc73eea"/>
@@ -12603,6 +13095,10 @@
 	<game name="Rhymo's Falling Star (1985)(Grolier)(II+)(Side B)[cr 4am]">
 		<description>Rhymo's Falling Star (1985)(Grolier)(II+)(Side B)[cr 4am]</description>
 		<rom name="Rhymo's Falling Star (1985)(Grolier)(II+)(Side B)[cr 4am].dsk" size="143360" crc="3b623a8c" md5="8c025fa51375c084576e5e4902153353" sha1="bb8458cf8c0c5ab06b9483144ee716a168b47166"/>
+	</game>
+	<game name="Rhythm Write (1986)(Micro Music)(II+)[cr 4am][48K][req Passport MIDI]">
+		<description>Rhythm Write (1986)(Micro Music)(II+)[cr 4am][48K][req Passport MIDI]</description>
+		<rom name="Rhythm Write (1986)(Micro Music)(II+)[cr 4am][48K][req Passport MIDI].dsk" size="143360" crc="7091a77b" md5="bd31e4c31679ee0ccc455178dcb859d5" sha1="1cd063eee56581c96e433eceddc2ac88303e1a20"/>
 	</game>
 	<game name="Riddle Magic (1987)(Mindscape)(US)(Side A)[cr 4am]">
 		<description>Riddle Magic (1987)(Mindscape)(US)(Side A)[cr 4am]</description>
@@ -13004,6 +13500,14 @@
 		<description>School Utilities Vol. 2 - Readability v1.3 (1982)(MECC)(II+)(US)[cr 4am][48K][A-749]</description>
 		<rom name="School Utilities Vol. 2 - Readability v1.3 (1982)(MECC)(II+)(US)[cr 4am][48K][A-749].dsk" size="143360" crc="eb9fc421" md5="2cecf8a2c0fe9105eb2072168c19087b" sha1="393de81b294412618336f85d394fa20c69e94cad"/>
 	</game>
+	<game name="Science 1 - The Human Body - An Overview (198x)(Brain Bank)(Side A)">
+		<description>Science 1 - The Human Body - An Overview (198x)(Brain Bank)(Side A)</description>
+		<rom name="Science 1 - The Human Body - An Overview (198x)(Brain Bank)(Side A).dsk" size="143360" crc="773acbc0" md5="c0dbaf8e37d4bf2117ff5f991fe79789" sha1="8fc9f6413351567aa2999105173633c154f021be"/>
+	</game>
+	<game name="Science 1 - The Human Body - An Overview (198x)(Brain Bank)(Side B)">
+		<description>Science 1 - The Human Body - An Overview (198x)(Brain Bank)(Side B)</description>
+		<rom name="Science 1 - The Human Body - An Overview (198x)(Brain Bank)(Side B).dsk" size="143360" crc="ee3b0124" md5="0246c5e9ed67f4087559d1a363ba1080" sha1="f69dc4fa34b3b81a7eb5a668fd430e8f5f2ccbd4"/>
+	</game>
 	<game name="Science Giants v1.0 (1994)(MECC)(IIE)(US)[cr 4am][128K][A-343]">
 		<description>Science Giants v1.0 (1994)(MECC)(IIE)(US)[cr 4am][128K][A-343]</description>
 		<rom name="Science Giants v1.0 (1994)(MECC)(IIE)(US)[cr 4am][128K][A-343].dsk" size="143360" crc="5b7cffc2" md5="7a1d5ad6ee291ac9f4148a81d6729009" sha1="ea3e14ffcf27b451957032a98873e2bb0f52c66f"/>
@@ -13051,6 +13555,14 @@
 	<game name="Science Vol. 1 v2.2 (1980)(MECC)(II+)(US)[cr 4am][A-708]">
 		<description>Science Vol. 1 v2.2 (1980)(MECC)(II+)(US)[cr 4am][A-708]</description>
 		<rom name="Science Vol. 1 v2.2 (1980)(MECC)(II+)(US)[cr 4am][A-708].dsk" size="143360" crc="4da4c14e" md5="08aeeecca1633c5079b599a66765d3f3" sha1="427a70a55c9beed6409bfeec5d2bb53d951f49f8"/>
+	</game>
+	<game name="Science Vol. 2 v3.1 (1980)(MECC)(US)">
+		<description>Science Vol. 2 v3.1 (1980)(MECC)(US)</description>
+		<rom name="Science Vol. 2 v3.1 (1980)(MECC)(US).dsk" size="143360" crc="c2dae3d9" md5="8fb67469707494c40df2c0e7c3e294a2" sha1="c4ebabf80d39878a2a20a14c00da68d56ba4ba9f"/>
+	</game>
+	<game name="Science Vol. 4 v1.0 (1982)(MECC)(US)">
+		<description>Science Vol. 4 v1.0 (1982)(MECC)(US)</description>
+		<rom name="Science Vol. 4 v1.0 (1982)(MECC)(US).dsk" size="143360" crc="b1c7ad93" md5="24df929cbe8233f05501b57ac6f7b37e" sha1="944ddd2f24de5c2ebf692f7724eb1be359e972ad"/>
 	</game>
 	<game name="Science Volume 1 - The Environment v1.0 (1986)(The Ellen Nelson Learning Library)(II+)[cr 4am][64K]">
 		<description>Science Volume 1 - The Environment v1.0 (1986)(The Ellen Nelson Learning Library)(II+)[cr 4am][64K]</description>
@@ -13208,6 +13720,10 @@
 		<description>Scott, Foresman Test Generator ~ Question Writer (1988)(Scott, Foresman &amp; Company)(IIE)(Side B)(Test Storage)[128K]</description>
 		<rom name="Scott, Foresman Test Generator ~ Question Writer (1988)(Scott, Foresman &amp; Company)(IIE)(Side B)(Test Storage)[128K].dsk" size="143360" crc="e35d7194" md5="1d1d56032087542f545a1d38e8c51b09" sha1="a78065734e80b426077b999b0ee53465db8b2927"/>
 	</game>
+	<game name="Scramble (1987)(Micrograms)(II+)[cr 4am][48K]">
+		<description>Scramble (1987)(Micrograms)(II+)[cr 4am][48K]</description>
+		<rom name="Scramble (1987)(Micrograms)(II+)[cr 4am][48K].dsk" size="143360" crc="d4931983" md5="70dcd4d79c770a2140bb718b7e47e1c8" sha1="7084a4fec4c4705cda0f8e3c5a8d255ce431912a"/>
+	</game>
 	<game name="Scrambled Eggs (1985)(Learning Technologies)(II+)[cr 4am]">
 		<description>Scrambled Eggs (1985)(Learning Technologies)(II+)[cr 4am]</description>
 		<rom name="Scrambled Eggs (1985)(Learning Technologies)(II+)[cr 4am].dsk" size="143360" crc="b371a101" md5="569fba9c29741dcb8cde45ddc0a4ce9e" sha1="5fb00fdabe96223870f9e177bd4d6f1e9b890163"/>
@@ -13244,13 +13760,13 @@
 		<description>Search v1.4 (1983)(Davka Corporation)(II+)[cr 4am]</description>
 		<rom name="Search v1.4 (1983)(Davka Corporation)(II+)[cr 4am].dsk" size="143360" crc="34760938" md5="9729ff7e1c80bdafc82d43e24e5c2efd" sha1="3931561991e76441263936a1fb55a7a26a8925c2"/>
 	</game>
-	<game name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Searching for a King (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="1e408ef1" md5="9bc5fe854073f8f5e86c816ac93df3f0" sha1="1a3ec7f6aefb5c4e1052fa4aeb0240d16183f493"/>
+	<game name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Searching for a King (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="1e408ef1" md5="9bc5fe854073f8f5e86c816ac93df3f0" sha1="1a3ec7f6aefb5c4e1052fa4aeb0240d16183f493"/>
 	</game>
-	<game name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am]">
-		<description>Searching for a King (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am]</description>
-		<rom name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am].dsk" size="143360" crc="7c95ce05" md5="95f46a839ae263c8062a2c37ca5cda82" sha1="ee6564179ef110a37cc9737a4a72c5899f104348"/>
+	<game name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Searching for a King (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Searching for a King (1984)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="7c95ce05" md5="95f46a839ae263c8062a2c37ca5cda82" sha1="ee6564179ef110a37cc9737a4a72c5899f104348"/>
 	</game>
 	<game name="Seasons, The (1984)(Troll Associates)(II+)(US)[cr 4am][48K]">
 		<description>Seasons, The (1984)(Troll Associates)(II+)(US)[cr 4am][48K]</description>
@@ -13348,13 +13864,17 @@
 		<description>Sesame Street Crayon, The - Opposites Attract (1986)(Polarware)[cr 4am][work disk]</description>
 		<rom name="Sesame Street Crayon, The - Opposites Attract (1986)(Polarware)[cr 4am][work disk].dsk" size="143360" crc="cf8b7c0a" md5="dbed4dc4af50815090938e6706755909" sha1="2350ef7b3b1923a38e775fe3517a112478c81de3"/>
 	</game>
-	<game name="Shadows and Light (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]">
-		<description>Shadows and Light (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]</description>
-		<rom name="Shadows and Light (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K].dsk" size="143360" crc="b98b2c74" md5="5e856da8c62e221b5fb787b323c27b46" sha1="48b0cf528d775a756864b663313bc3f2cf99b4d4"/>
+	<game name="Shadows and Light (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Shadows and Light (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Shadows and Light (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="b98b2c74" md5="5e856da8c62e221b5fb787b323c27b46" sha1="48b0cf528d775a756864b663313bc3f2cf99b4d4"/>
 	</game>
 	<game name="Shape and Color Rodeo (1984)(Developmental Learning Materials)(II+)(US)[cr 4am]">
 		<description>Shape and Color Rodeo (1984)(Developmental Learning Materials)(II+)(US)[cr 4am]</description>
 		<rom name="Shape and Color Rodeo (1984)(Developmental Learning Materials)(II+)(US)[cr 4am].dsk" size="143360" crc="6e71d007" md5="a22132299546443d714511b6853417bd" sha1="c1bb52124cd02ba1e303138aeff77e123c3c6e54"/>
+	</game>
+	<game name="Shape Tables - Volume 1 v2.2 (1980)(MECC)(US)">
+		<description>Shape Tables - Volume 1 v2.2 (1980)(MECC)(US)</description>
+		<rom name="Shape Tables - Volume 1 v2.2 (1980)(MECC)(US).dsk" size="143360" crc="a3888c85" md5="9c7d24fcdec4c626ed2d263a36fac353" sha1="900b2a50003b3e1734763401c970841e27609d9c"/>
 	</game>
 	<game name="Shapes and Patterns (1988)(Micrograms)(IIE)[cr 4am][128K]">
 		<description>Shapes and Patterns (1988)(Micrograms)(IIE)[cr 4am][128K]</description>
@@ -13480,6 +14000,10 @@
 		<description>Snoopy to the Rescue (1984)(Random House)(US)(Side A)</description>
 		<rom name="Snoopy to the Rescue (1984)(Random House)(US)(Side A).dsk" size="143360" crc="a5a872e8" md5="847735f8c11d03d04a4a8aae0cfd82b1" sha1="03202d0058145872192078db8e4265666da98954"/>
 	</game>
+	<game name="Snoopy to the Rescue (1984)(Random House)(US)(Side A)[a]">
+		<description>Snoopy to the Rescue (1984)(Random House)(US)(Side A)[a]</description>
+		<rom name="Snoopy to the Rescue (1984)(Random House)(US)(Side A)[a].dsk" size="143360" crc="2368b8bc" md5="9d674faecf0c6cbbb777477f337868d1" sha1="cd0c80994d1576adb48fbfbf9b2e93709b7d4254"/>
+	</game>
 	<game name="Snoopy to the Rescue (1984)(Random House)(US)(Side A)[cr 4am]">
 		<description>Snoopy to the Rescue (1984)(Random House)(US)(Side A)[cr 4am]</description>
 		<rom name="Snoopy to the Rescue (1984)(Random House)(US)(Side A)[cr 4am].dsk" size="143360" crc="3c6a3010" md5="0dbf6c89921ae7bc6ec174aaf84cb64d" sha1="75e4ac14ebd65ca556c140722d079413f36c36d4"/>
@@ -13495,6 +14019,10 @@
 	<game name="Snoopy to the Rescue (1984)(Random House)(US)(Side A)[cr Apple Mafia][a]">
 		<description>Snoopy to the Rescue (1984)(Random House)(US)(Side A)[cr Apple Mafia][a]</description>
 		<rom name="Snoopy to the Rescue (1984)(Random House)(US)(Side A)[cr Apple Mafia][a].dsk" size="143360" crc="dac0f98c" md5="dbcae026c5bfe4c3cbb6a2671d8c42e2" sha1="6d3fcddf09055862e149b55ddb7ab30c5a11fe42"/>
+	</game>
+	<game name="Snoopy to the Rescue (1984)(Random House)(US)(Side B)">
+		<description>Snoopy to the Rescue (1984)(Random House)(US)(Side B)</description>
+		<rom name="Snoopy to the Rescue (1984)(Random House)(US)(Side B).dsk" size="143360" crc="4e7a39af" md5="32c8bad8ad8c4c4cdb5ce6cd5ce69ec2" sha1="87e25497df03e90291d316798e7f45426a7862f0"/>
 	</game>
 	<game name="Snoopy to the Rescue (1984)(Random House)(US)(Side B)[cr 4am]">
 		<description>Snoopy to the Rescue (1984)(Random House)(US)(Side B)[cr 4am]</description>
@@ -13523,6 +14051,14 @@
 	<game name="SocMate Analogies Games (1985)(American Guidance Service)(II+)[cr 4am][48K]">
 		<description>SocMate Analogies Games (1985)(American Guidance Service)(II+)[cr 4am][48K]</description>
 		<rom name="SocMate Analogies Games (1985)(American Guidance Service)(II+)[cr 4am][48K].dsk" size="143360" crc="0470999a" md5="292f29937e0cdf01a5d80dc3a0ae3b1e" sha1="99e351816e7c5391f09b24f17d15efd2e3d27428"/>
+	</game>
+	<game name="Social Studies - Africa (1983)(Educational Activities)(II+)(Disk 1 of 2)(Introduction to Africa)[cr 4am][48K]">
+		<description>Social Studies - Africa (1983)(Educational Activities)(II+)(Disk 1 of 2)(Introduction to Africa)[cr 4am][48K]</description>
+		<rom name="Social Studies - Africa (1983)(Educational Activities)(II+)(Disk 1 of 2)(Introduction to Africa)[cr 4am][48K].dsk" size="143360" crc="43a3a33b" md5="49b3b38d3b264c3b68f229136d4fa0fe" sha1="f6879f3ce1042e64d7d2a375b99b16a143693c5e"/>
+	</game>
+	<game name="Social Studies - Africa (1983)(Educational Activities)(II+)(Disk 2 of 2)(Mapwork on Africa)[cr 4am][48K]">
+		<description>Social Studies - Africa (1983)(Educational Activities)(II+)(Disk 2 of 2)(Mapwork on Africa)[cr 4am][48K]</description>
+		<rom name="Social Studies - Africa (1983)(Educational Activities)(II+)(Disk 2 of 2)(Mapwork on Africa)[cr 4am][48K].dsk" size="143360" crc="f7e467b0" md5="b566e66ba336f508f0a99279c8c66ba9" sha1="b166cdba9a622f6cded72b7288e6e62395a64cc3"/>
 	</game>
 	<game name="Solar Reading Flight 1 - Blast Off (1987)(Learning Multi-Systems)(II+)[cr 4am][64K]">
 		<description>Solar Reading Flight 1 - Blast Off (1987)(Learning Multi-Systems)(II+)[cr 4am][64K]</description>
@@ -13576,9 +14112,9 @@
 		<description>Solving Word Problems II (1985)(Aquarius People Materials)(II+)[cr 4am]</description>
 		<rom name="Solving Word Problems II (1985)(Aquarius People Materials)(II+)[cr 4am].dsk" size="143360" crc="d69453ca" md5="6fdd4426cf8ea3f0329a11c3c07f72a4" sha1="af182c47a5cc9226250cd7e492a57e1cd5bc3a4d"/>
 	</game>
-	<game name="Sound and Vibrations (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]">
-		<description>Sound and Vibrations (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K]</description>
-		<rom name="Sound and Vibrations (1985)(Educational Materials and Equipment Corporation)(II+)[cr 4am][48K].dsk" size="143360" crc="a50cfb06" md5="e2b94f632a72ebfe1950fdf18e72cf29" sha1="ffdcae9155eba7d9cc65f1e79a04c73c43a24211"/>
+	<game name="Sound and Vibrations (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Sound and Vibrations (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Sound and Vibrations (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="a50cfb06" md5="e2b94f632a72ebfe1950fdf18e72cf29" sha1="ffdcae9155eba7d9cc65f1e79a04c73c43a24211"/>
 	</game>
 	<game name="Sound Ideas - Consonants (1986)(Houghton Mifflin)(II+)(Disk 1 of 7)[cr 4am][64K]">
 		<description>Sound Ideas - Consonants (1986)(Houghton Mifflin)(II+)(Disk 1 of 7)[cr 4am][64K]</description>
@@ -14248,37 +14784,53 @@
 		<description>Spotlight (1982)(Apple)(II+)[cr 4am][48K]</description>
 		<rom name="Spotlight (1982)(Apple)(II+)[cr 4am][48K].dsk" size="143360" crc="2457064a" md5="e6cb0e49bcaeeba3590595ce8a468053" sha1="0bf224c4c501782691622f2fd15f2eef4b217bac"/>
 	</game>
-	<game name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(Side 1)">
-		<description>Spy's Adventures in Europe, The (1987-05-04)(Polarware)(Side 1)</description>
-		<rom name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(Side 1).dsk" size="143360" crc="daec7313" md5="bd38fd3661dda9aef4f6e0e87af2695c" sha1="2c8d80500e4b17c5c8fe089f6e677269b66ac426"/>
+	<game name="Spy's Adventures in Europe, The (1986-09-30)(Polarware)(II+)(Side A)[cr 4am][64K]">
+		<description>Spy's Adventures in Europe, The (1986-09-30)(Polarware)(II+)(Side A)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in Europe, The (1986-09-30)(Polarware)(II+)(Side A)[cr 4am][64K].dsk" size="143360" crc="d69739fd" md5="0611bc8c2bc8a493ac300ca5cc514e93" sha1="c855c78ff090565569b9c4754ac075deb9d47d48"/>
 	</game>
-	<game name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(Side 2)(Boot)[cr 4am]">
-		<description>Spy's Adventures in Europe, The (1987-05-04)(Polarware)(Side 2)(Boot)[cr 4am]</description>
-		<rom name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(Side 2)(Boot)[cr 4am].dsk" size="143360" crc="55000082" md5="a23f019ec9aa2a672df335abc6d7e7b6" sha1="51b0be3849a7137623018c6fcc65da72249b3336"/>
+	<game name="Spy's Adventures in Europe, The (1986-09-30)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]">
+		<description>Spy's Adventures in Europe, The (1986-09-30)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in Europe, The (1986-09-30)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K].dsk" size="143360" crc="674016ef" md5="6cff9f61aed7fbba778cdd3deeae7829" sha1="1c3a51f2a5cbc9bcedad81a019fe27eb1c281909"/>
 	</game>
-	<game name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)[cr 4am][work disk]">
-		<description>Spy's Adventures in Europe, The (1987-05-04)(Polarware)[cr 4am][work disk]</description>
-		<rom name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)[cr 4am][work disk].dsk" size="143360" crc="556d6737" md5="6bf7c6641fc47b4fdf3a7dbb362bba65" sha1="04f2315b378c02833d7798dc8559f76da0c14140"/>
+	<game name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)(Side A)[64K]">
+		<description>Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)(Side A)[64K]</description>
+		<rom name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)(Side A)[64K].dsk" size="143360" crc="daec7313" md5="bd38fd3661dda9aef4f6e0e87af2695c" sha1="2c8d80500e4b17c5c8fe089f6e677269b66ac426"/>
 	</game>
-	<game name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(Side A)[cr 4am]">
-		<description>Spy's Adventures in North America, The (1987-05-04)(Polarware)(Side A)[cr 4am]</description>
-		<rom name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(Side A)[cr 4am].dsk" size="143360" crc="b2a2e256" md5="24b962de55c671d6b33d43d620ce3e74" sha1="1e1a99f2b502848d9d9ae790caf59547e1af9c13"/>
+	<game name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]">
+		<description>Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K].dsk" size="143360" crc="55000082" md5="a23f019ec9aa2a672df335abc6d7e7b6" sha1="51b0be3849a7137623018c6fcc65da72249b3336"/>
 	</game>
-	<game name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(Side B)[cr 4am][boot]">
-		<description>Spy's Adventures in North America, The (1987-05-04)(Polarware)(Side B)[cr 4am][boot]</description>
-		<rom name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(Side B)[cr 4am][boot].dsk" size="143360" crc="811312d0" md5="5dbbe92dfaef8f71d936b903dd6dbd97" sha1="d4283d85d5488ca572944a28c3b4072614da99f0"/>
+	<game name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)[cr 4am][64K][work disk]">
+		<description>Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)[cr 4am][64K][work disk]</description>
+		<rom name="Spy's Adventures in Europe, The (1987-05-04)(Polarware)(II+)[cr 4am][64K][work disk].dsk" size="143360" crc="556d6737" md5="6bf7c6641fc47b4fdf3a7dbb362bba65" sha1="04f2315b378c02833d7798dc8559f76da0c14140"/>
 	</game>
-	<game name="Spy's Adventures in North America, The (1987-05-04)(Polarware)[cr 4am][work disk]">
-		<description>Spy's Adventures in North America, The (1987-05-04)(Polarware)[cr 4am][work disk]</description>
-		<rom name="Spy's Adventures in North America, The (1987-05-04)(Polarware)[cr 4am][work disk].dsk" size="143360" crc="3a8953ce" md5="accb124f2298877f05e2225b10039cff" sha1="2a2b9949357985bdad6d5741119e01c71efe4f6c"/>
+	<game name="Spy's Adventures in North America, The (1986-10-01)(Polarware)(II+)(Side A)[cr 4am][64K]">
+		<description>Spy's Adventures in North America, The (1986-10-01)(Polarware)(II+)(Side A)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in North America, The (1986-10-01)(Polarware)(II+)(Side A)[cr 4am][64K].dsk" size="143360" crc="250b9c24" md5="da4e0a3e8cf41000bc1bdd9b750df224" sha1="d4fe728da6b4ab71f5b9f3712593bf747e2fce6a"/>
 	</game>
-	<game name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side A)">
-		<description>Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side A)</description>
-		<rom name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side A).dsk" size="143360" crc="812f1df0" md5="60c398633921f11dc89a2c8e8977db68" sha1="05918f348c77e2514e2d3b4476ef0d7483013f39"/>
+	<game name="Spy's Adventures in North America, The (1986-10-01)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]">
+		<description>Spy's Adventures in North America, The (1986-10-01)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in North America, The (1986-10-01)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K].dsk" size="143360" crc="d31bbf32" md5="51a6f6c594070f1172410632036c93f9" sha1="37b40582d0acb5df88e47bb4e31fdf5e94fa28db"/>
 	</game>
-	<game name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side B)(Boot)[cr 4am]">
-		<description>Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side B)(Boot)[cr 4am]</description>
-		<rom name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side B)(Boot)[cr 4am].dsk" size="143360" crc="71682a55" md5="a1201021b63d677b757bedfc40eff573" sha1="a93665520b5293770d8ae46fb4dd89bb49ddcef9"/>
+	<game name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)(Side A)[64K]">
+		<description>Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)(Side A)[64K]</description>
+		<rom name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)(Side A)[64K].dsk" size="143360" crc="b2a2e256" md5="24b962de55c671d6b33d43d620ce3e74" sha1="1e1a99f2b502848d9d9ae790caf59547e1af9c13"/>
+	</game>
+	<game name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]">
+		<description>Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K].dsk" size="143360" crc="811312d0" md5="5dbbe92dfaef8f71d936b903dd6dbd97" sha1="d4283d85d5488ca572944a28c3b4072614da99f0"/>
+	</game>
+	<game name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)[cr 4am][64K][work disk]">
+		<description>Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)[cr 4am][64K][work disk]</description>
+		<rom name="Spy's Adventures in North America, The (1987-05-04)(Polarware)(II+)[cr 4am][64K][work disk].dsk" size="143360" crc="3a8953ce" md5="accb124f2298877f05e2225b10039cff" sha1="2a2b9949357985bdad6d5741119e01c71efe4f6c"/>
+	</game>
+	<game name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side A)[64K]">
+		<description>Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side A)[64K]</description>
+		<rom name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side A)[64K].dsk" size="143360" crc="812f1df0" md5="60c398633921f11dc89a2c8e8977db68" sha1="05918f348c77e2514e2d3b4476ef0d7483013f39"/>
+	</game>
+	<game name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]">
+		<description>Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K]</description>
+		<rom name="Spy's Adventures in North America, The (1987-10-31)(Polarware)(II+)(Side B)(Boot)[cr 4am][64K].dsk" size="143360" crc="71682a55" md5="a1201021b63d677b757bedfc40eff573" sha1="a93665520b5293770d8ae46fb4dd89bb49ddcef9"/>
 	</game>
 	<game name="Spy's Adventures in South America, The (1987-08-12)(Polarware)(Side A)">
 		<description>Spy's Adventures in South America, The (1987-08-12)(Polarware)(Side A)</description>
@@ -14488,6 +15040,10 @@
 		<description>Stickybear Printer rev 2 (1985)(Optimum Resource)(II+)(US)[cr 4am][a]</description>
 		<rom name="Stickybear Printer rev 2 (1985)(Optimum Resource)(II+)(US)[cr 4am][a].dsk" size="143360" crc="692399fc" md5="76e60033231b51df79c3e9dac8425445" sha1="ceb1b6572b82e064a3ead8a3f61b41239d3bf4bd"/>
 	</game>
+	<game name="Stickybear Printer v1 (1985)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]">
+		<description>Stickybear Printer v1 (1985)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]</description>
+		<rom name="Stickybear Printer v1 (1985)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K].dsk" size="143360" crc="a7d1c54a" md5="cf7c1e9dcade815580df3c5260e7aea8" sha1="bf9e1c5a4c832783fd66138aedfac0a1df799b19"/>
+	</game>
 	<game name="Stickybear Reading (1986)(Optimum Resource)(US)[cr 4am][48K]">
 		<description>Stickybear Reading (1986)(Optimum Resource)(US)[cr 4am][48K]</description>
 		<rom name="Stickybear Reading (1986)(Optimum Resource)(US)[cr 4am][48K].dsk" size="143360" crc="9ee5a80c" md5="ca12dbd5c6f421e96c0350e1958da19f" sha1="ec78140ce280bd46f5e28741bb1b0a5ecb96bc19"/>
@@ -14507,6 +15063,10 @@
 	<game name="Stickybear Reading Comprehension (1985)(Optimum Resource)(US)[cr 4am][work disk]">
 		<description>Stickybear Reading Comprehension (1985)(Optimum Resource)(US)[cr 4am][work disk]</description>
 		<rom name="Stickybear Reading Comprehension (1985)(Optimum Resource)(US)[cr 4am][work disk].dsk" size="143360" crc="74b25d89" md5="d424f625a02db169f71a9d9e7625e7ed" sha1="8564df8f73c804bfe424c42aa15e2b341e1e0e9e"/>
+	</game>
+	<game name="Stickybear Reading rev 2 (1986)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]">
+		<description>Stickybear Reading rev 2 (1986)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]</description>
+		<rom name="Stickybear Reading rev 2 (1986)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K].dsk" size="143360" crc="00ee2303" md5="36ff62d4f2d49dae436e75418b4856cc" sha1="3515e212d81189726fc935c918c18ef8a9f4dea4"/>
 	</game>
 	<game name="Stickybear Shapes (1983)(Optimum Resource)(US)[48K]">
 		<description>Stickybear Shapes (1983)(Optimum Resource)(US)[48K]</description>
@@ -14544,6 +15104,10 @@
 		<description>Stickybear Town Builder (1984)(Optimum Resource)(US)[cr 4am][48K]</description>
 		<rom name="Stickybear Town Builder (1984)(Optimum Resource)(US)[cr 4am][48K].dsk" size="143360" crc="13d89441" md5="3d908d768a5e026865e96548b09e37ca" sha1="3a458e84d1273f5551d6239b5ecf03f13475d3e7"/>
 	</game>
+	<game name="Stickybear Town Builder rev 2 (1984)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]">
+		<description>Stickybear Town Builder rev 2 (1984)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]</description>
+		<rom name="Stickybear Town Builder rev 2 (1984)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K].dsk" size="143360" crc="c973cfb4" md5="6fa6efc89e799687f511e9e41e93a9be" sha1="fd49762b9b55134038dc543929316603ea023017"/>
+	</game>
 	<game name="Stickybear Typing (1983)(Optimum Resource)(US)[cr 4am - san inc][48K]">
 		<description>Stickybear Typing (1983)(Optimum Resource)(US)[cr 4am - san inc][48K]</description>
 		<rom name="Stickybear Typing (1983)(Optimum Resource)(US)[cr 4am - san inc][48K].dsk" size="143360" crc="aa51ec49" md5="75d947a6eef89eba0e99544d5ac1907f" sha1="b352dd25f92dcbb0baf460ce02bbba525e3b73b6"/>
@@ -14571,6 +15135,10 @@
 	<game name="Stickybear Word Problems (1986)(Optimum Resource)(US)[cr 4am][work disk]">
 		<description>Stickybear Word Problems (1986)(Optimum Resource)(US)[cr 4am][work disk]</description>
 		<rom name="Stickybear Word Problems (1986)(Optimum Resource)(US)[cr 4am][work disk].dsk" size="143360" crc="f017a447" md5="b4317d1b96f822c1f9443da7d86fb222" sha1="838cbdadfb7d2149819892bbca51e4a775d47f04"/>
+	</game>
+	<game name="Stickybear Word Problems rev 2 (1986)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]">
+		<description>Stickybear Word Problems rev 2 (1986)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K]</description>
+		<rom name="Stickybear Word Problems rev 2 (1986)(Optimum Resource)(II+)(US)[cr 4am - san inc][48K].dsk" size="143360" crc="4d473a6d" md5="9f16b74ea52ef8644cbec8ddf7bead0d" sha1="c4e1727629ebef9255c8b8e4a31672bd7c02b0ef"/>
 	</game>
 	<game name="Stoichiometry (1983)(Encyclopaedia Britannica Educational Corporation)(II+)(US)[cr 4am][48K]">
 		<description>Stoichiometry (1983)(Encyclopaedia Britannica Educational Corporation)(II+)(US)[cr 4am][48K]</description>
@@ -14720,9 +15288,17 @@
 		<description>Subtraction Puzzles v1.0 (1985)(MECC)(II+)(US)[cr 4am][64K][A-146][Mastering Math Series #5]</description>
 		<rom name="Subtraction Puzzles v1.0 (1985)(MECC)(II+)(US)[cr 4am][64K][A-146][Mastering Math Series #5].dsk" size="143360" crc="d9b96854" md5="6058f1ed568e9326517d00f5615d8444" sha1="ecd10d34c549a80cfcbe7f94032955a1e54d6fdd"/>
 	</game>
+	<game name="Success with Algebra - Advanced Linear Equations (1984)(Mindscape)(II+)(US)[cr 4am][48K]">
+		<description>Success with Algebra - Advanced Linear Equations (1984)(Mindscape)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Success with Algebra - Advanced Linear Equations (1984)(Mindscape)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="91e85e00" md5="29e71eb936846d10a188c970e3536434" sha1="5e9f599fc98dd3837411d56fb36082e842c93c6b"/>
+	</game>
 	<game name="Success with Math - Addition-Subtraction (1983)(CBS Software)(II+)[cr 4am]">
 		<description>Success with Math - Addition-Subtraction (1983)(CBS Software)(II+)[cr 4am]</description>
 		<rom name="Success with Math - Addition-Subtraction (1983)(CBS Software)(II+)[cr 4am].dsk" size="143360" crc="181ec604" md5="a765b2688243e3144b8db1cbc2be0b47" sha1="4f77e077a42a8ea518ec95a2306a10a5399d8b15"/>
+	</game>
+	<game name="Success with Math - Multiplication and Division (1983)(CBS Software)(II+)(US)[cr 4am][48K]">
+		<description>Success with Math - Multiplication and Division (1983)(CBS Software)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Success with Math - Multiplication and Division (1983)(CBS Software)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="f9dd7641" md5="8d9702dbf05a861e087b0c197b91d580" sha1="20b5be1f87e65145631f8fd0409ab697acc492b6"/>
 	</game>
 	<game name="Success With Math - Multiplying &amp; Dividing Factions (1984)(Mindscape)(US)[cr 4am]">
 		<description>Success With Math - Multiplying &amp; Dividing Factions (1984)(Mindscape)(US)[cr 4am]</description>
@@ -15007,6 +15583,26 @@
 	<game name="Teacher Option Organizer v1.3 (1988)(MECC)(IIE)(US)[cr 4am][128K][A-242]">
 		<description>Teacher Option Organizer v1.3 (1988)(MECC)(IIE)(US)[cr 4am][128K][A-242]</description>
 		<rom name="Teacher Option Organizer v1.3 (1988)(MECC)(IIE)(US)[cr 4am][128K][A-242].dsk" size="143360" crc="befcbe79" md5="7e8507973ecefb107dd0227ee0c60b0b" sha1="dfb4052dfeadc2fb511aa88bdcfd9036521cca27"/>
+	</game>
+	<game name="Teacher's Pet (1980)(Artworx)(II+)[cr 4am][48K]">
+		<description>Teacher's Pet (1980)(Artworx)(II+)[cr 4am][48K]</description>
+		<rom name="Teacher's Pet (1980)(Artworx)(II+)[cr 4am][48K].dsk" size="143360" crc="0ad5aa13" md5="c8f9e656afeed622563f79e11892b402" sha1="369227da4d19f606223a4ef021ee24f6f5a7cc88"/>
+	</game>
+	<game name="Teacher's Tool Kit, The - Multiple Choice (1984)(Hi-Tech of Santa Cruz)(IIE)(US)[cr 4am][128K]">
+		<description>Teacher's Tool Kit, The - Multiple Choice (1984)(Hi-Tech of Santa Cruz)(IIE)(US)[cr 4am][128K]</description>
+		<rom name="Teacher's Tool Kit, The - Multiple Choice (1984)(Hi-Tech of Santa Cruz)(IIE)(US)[cr 4am][128K].dsk" size="143360" crc="77411ed9" md5="ce4654f6d72a6594149cc27de6ff9c9b" sha1="c130c87419153918edc85e8f1e9525838352e627"/>
+	</game>
+	<game name="Teacher's Tool Kit, The - Word Match v2.0 (1985)(Hi-Tech of Santa Cruz)(IIE)(US)[cr 4am][128K]">
+		<description>Teacher's Tool Kit, The - Word Match v2.0 (1985)(Hi-Tech of Santa Cruz)(IIE)(US)[cr 4am][128K]</description>
+		<rom name="Teacher's Tool Kit, The - Word Match v2.0 (1985)(Hi-Tech of Santa Cruz)(IIE)(US)[cr 4am][128K].dsk" size="143360" crc="35bebe81" md5="9426c0d5bcfd0ee0680cbe55f7128a8e" sha1="3d5ba2dfcefc92a4fe447d059712a3594dcb0b26"/>
+	</game>
+	<game name="Teacher's Tool Kit, The - Word Scramble v2.0 (1985)(Hi-Tech of Santa Cruz)(II+)(US)[cr 4am][48K]">
+		<description>Teacher's Tool Kit, The - Word Scramble v2.0 (1985)(Hi-Tech of Santa Cruz)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Teacher's Tool Kit, The - Word Scramble v2.0 (1985)(Hi-Tech of Santa Cruz)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="8fe1caef" md5="f28e4d2c3e2d78f8ce91d79a50935279" sha1="ad888238407e118af60ab539835c0beb8832b041"/>
+	</game>
+	<game name="Teacher's Tool Kit, The - Word Search v2.0 (1985)(Hi-Tech of Santa Cruz)(II+)(US)[cr 4am][48K]">
+		<description>Teacher's Tool Kit, The - Word Search v2.0 (1985)(Hi-Tech of Santa Cruz)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Teacher's Tool Kit, The - Word Search v2.0 (1985)(Hi-Tech of Santa Cruz)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="507954b9" md5="5074cfe3ef71316670470d5741c15683" sha1="e5530242b90f2d920db3dafd340c5e0414e8f9c7"/>
 	</game>
 	<game name="Teachers Grade Book v1.2.1 (1981)(Dynacomp)(PD)">
 		<description>Teachers Grade Book v1.2.1 (1981)(Dynacomp)(PD)</description>
@@ -15416,6 +16012,14 @@
 		<description>Time Tunnel, The - The Presidents (1985)(Focus Media)(US)[cr 4am][work disk]</description>
 		<rom name="Time Tunnel, The - The Presidents (1985)(Focus Media)(US)[cr 4am][work disk].dsk" size="143360" crc="eb99d551" md5="920258b626d363e49327272caa89d028" sha1="c81dc2a52d6bc1b02d98b5b04abe40468636783d"/>
 	</game>
+	<game name="Tink! Tonk! Tinka's Mazes (1985)(Mindscape)(II+)(US)(Side A)[cr 4am][64K]">
+		<description>Tink! Tonk! Tinka's Mazes (1985)(Mindscape)(II+)(US)(Side A)[cr 4am][64K]</description>
+		<rom name="Tink! Tonk! Tinka's Mazes (1985)(Mindscape)(II+)(US)(Side A)[cr 4am][64K].dsk" size="143360" crc="aa9fa3f1" md5="71285dec4e0c391f12fa2031e4d91ffd" sha1="b567c846f27a9774da70885de667978959d2abfd"/>
+	</game>
+	<game name="Tink! Tonk! Tinka's Mazes (1985)(Mindscape)(II+)(US)(Side B)[cr 4am][64K]">
+		<description>Tink! Tonk! Tinka's Mazes (1985)(Mindscape)(II+)(US)(Side B)[cr 4am][64K]</description>
+		<rom name="Tink! Tonk! Tinka's Mazes (1985)(Mindscape)(II+)(US)(Side B)[cr 4am][64K].dsk" size="143360" crc="06673f77" md5="cb703fa95dde48bf235a16b1982acc7c" sha1="cd5998ce66b86bb9825c3d9a4c399447ce47b44c"/>
+	</game>
 	<game name="Tink! Tonk! Tink's Subtraction Fair (1985)(Mindscape)(II+)(US)[cr 4am][64K]">
 		<description>Tink! Tonk! Tink's Subtraction Fair (1985)(Mindscape)(II+)(US)[cr 4am][64K]</description>
 		<rom name="Tink! Tonk! Tink's Subtraction Fair (1985)(Mindscape)(II+)(US)[cr 4am][64K].dsk" size="143360" crc="d5f01512" md5="76e834bdd485806043cc793bd6db71f7" sha1="033cd431fc8dc26950c237fa992311d45503ab47"/>
@@ -15483,6 +16087,22 @@
 	<game name="Tommy the Time Telling Turtle (1985)(Heartsoft)[cr 4am][work disk]">
 		<description>Tommy the Time Telling Turtle (1985)(Heartsoft)[cr 4am][work disk]</description>
 		<rom name="Tommy the Time Telling Turtle (1985)(Heartsoft)[cr 4am][work disk].dsk" size="143360" crc="f0e36840" md5="12d309fcf244db3370b5a047a5cc862a" sha1="fb4ef4c5f5be10dd0544e77e20ea694a74423b17"/>
+	</game>
+	<game name="Top Readers' Club - Grade 2 (1989)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Top Readers' Club - Grade 2 (1989)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Top Readers' Club - Grade 2 (1989)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="180d11b9" md5="1b4892c3c939982c21edbce106546ea9" sha1="1e68677c209f6ace614a1efcad4775a212070bfa"/>
+	</game>
+	<game name="Top Readers' Club - Grade 3 (1989)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Top Readers' Club - Grade 3 (1989)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Top Readers' Club - Grade 3 (1989)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="db5ae01b" md5="8ff5f33203585236673cd858f5701f5e" sha1="4d342c6f9697be2d95617b74903ee71117e1f242"/>
+	</game>
+	<game name="Top Readers' Club - Grade 4 (1989)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Top Readers' Club - Grade 4 (1989)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Top Readers' Club - Grade 4 (1989)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="6b9d57bd" md5="6bf205789a701bc545620b61a615d65e" sha1="727b659aef26e55bf2bc473a891964d367240645"/>
+	</game>
+	<game name="Top Readers' Club - Grade 5 (1989)(Micrograms)(IIE)[cr 4am][64K]">
+		<description>Top Readers' Club - Grade 5 (1989)(Micrograms)(IIE)[cr 4am][64K]</description>
+		<rom name="Top Readers' Club - Grade 5 (1989)(Micrograms)(IIE)[cr 4am][64K].dsk" size="143360" crc="85c6d93c" md5="9ed886a606542ba42dd619b57011aecd" sha1="34813d689eb0f9d41f92d0057d29fa504075154a"/>
 	</game>
 	<game name="Tournament Manager, The (1985)(D.C. Heath &amp; Company)(II+)(US)[cr 4am]">
 		<description>Tournament Manager, The (1985)(D.C. Heath &amp; Company)(II+)(US)[cr 4am]</description>
@@ -15628,13 +16248,21 @@
 		<description>Tutor-Tech - Student Version v2.6 (demo) (1989)(Techware)(IIE)</description>
 		<rom name="Tutor-Tech - Student Version v2.6 (demo) (1989)(Techware)(IIE).dsk" size="143360" crc="0ddbb4d2" md5="928119b8e83efdbfc11faf2e338854f0" sha1="92fefb8116962a4f17e29b3d884267d4c59de006"/>
 	</game>
-	<game name="Type Hype (1984)(Dlugo, Richard)">
-		<description>Type Hype (1984)(Dlugo, Richard)</description>
-		<rom name="Type Hype (1984)(Dlugo, Richard).dsk" size="143360" crc="0a786306" md5="697d31121799aee279d81b70ebfba25b" sha1="a3f038c92921a258fded9790145ec1fa39ceb4f1"/>
+	<game name="Type Hype (1984)(Comp-Unique)(US)">
+		<description>Type Hype (1984)(Comp-Unique)(US)</description>
+		<rom name="Type Hype (1984)(Comp-Unique)(US).dsk" size="143360" crc="0a786306" md5="697d31121799aee279d81b70ebfba25b" sha1="a3f038c92921a258fded9790145ec1fa39ceb4f1"/>
 	</game>
-	<game name="Type Hype (1984)(Dlugo, Richard)(US)[b]">
-		<description>Type Hype (1984)(Dlugo, Richard)(US)[b]</description>
-		<rom name="Type Hype (1984)(Dlugo, Richard)(US)[b].dsk" size="143360" crc="7a8746c0" md5="735e817c7824954c73923173e6b6a2ea" sha1="4ad2710df7c1159ffd15d4b006957aebb1d95e7a"/>
+	<game name="Type Hype (1984)(Comp-Unique)(US)(US)[b]">
+		<description>Type Hype (1984)(Comp-Unique)(US)(US)[b]</description>
+		<rom name="Type Hype (1984)(Comp-Unique)(US)(US)[b].dsk" size="143360" crc="7a8746c0" md5="735e817c7824954c73923173e6b6a2ea" sha1="4ad2710df7c1159ffd15d4b006957aebb1d95e7a"/>
+	</game>
+	<game name="Type Hype rev 2 (1984)(Comp-Unique)(II+)(US)(Side A)[cr 4am][48K][side A req IIE]">
+		<description>Type Hype rev 2 (1984)(Comp-Unique)(II+)(US)(Side A)[cr 4am][48K][side A req IIE]</description>
+		<rom name="Type Hype rev 2 (1984)(Comp-Unique)(II+)(US)(Side A)[cr 4am][48K][side A req IIE].dsk" size="143360" crc="096794ce" md5="c685c3846294d2c916fd460819d3717e" sha1="f199afb7238ae7ff3b74f78cb22e2252134ff896"/>
+	</game>
+	<game name="Type Hype rev 2 (1984)(Comp-Unique)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Type Hype rev 2 (1984)(Comp-Unique)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Type Hype rev 2 (1984)(Comp-Unique)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="535d4576" md5="9445ce6fa30e2b93099e84e18287594f" sha1="836e9ff419d861197c491170d9723e7aa281a966"/>
 	</game>
 	<game name="Type Right on your Apple IIe (1981)(Barron Enterprises)(IIE)(Disk 1 of 2)[cr 4am][64K]">
 		<description>Type Right on your Apple IIe (1981)(Barron Enterprises)(IIE)(Disk 1 of 2)[cr 4am][64K]</description>
@@ -15996,6 +16624,10 @@
 		<description>Water in the Air (1985)(E.M.E.)[cr 4am][work disk]</description>
 		<rom name="Water in the Air (1985)(E.M.E.)[cr 4am][work disk].dsk" size="143360" crc="a0a4b68a" md5="7e7b491159c3f602a9ceb2afdaca8f6d" sha1="22c527c1eacea5197232ee5311cb6791f3a9ea92"/>
 	</game>
+	<game name="Water Pollution (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]">
+		<description>Water Pollution (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Water Pollution (1985)(E.M.E. Corporation)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="799f714e" md5="07fbbcacd7241f16a04f96cea3a2d4eb" sha1="97f940b66e79d1a8a4119391bfb993f67bfb900d"/>
+	</game>
 	<game name="Weather Forecasting (1985)(Longman Group)[cr 4am]">
 		<description>Weather Forecasting (1985)(Longman Group)[cr 4am]</description>
 		<rom name="Weather Forecasting (1985)(Longman Group)[cr 4am].dsk" size="143360" crc="25937de0" md5="7f8c3a72c2b7a17bfd467eb74f7b8a4a" sha1="0ca3cd021cb4354dfb75a7c2fbdb2d58d462c548"/>
@@ -16048,13 +16680,13 @@
 		<description>Weeds to Trees v1.0 (1989)(MECC)(IIE)(US)[cr 4am][128K][A-217][Science Inquiry Collection]</description>
 		<rom name="Weeds to Trees v1.0 (1989)(MECC)(IIE)(US)[cr 4am][128K][A-217][Science Inquiry Collection].dsk" size="143360" crc="2a637486" md5="c0991538832372e76b0f6ae0fd141701" sha1="c3c91d20a4eaabc78974ab78378df5fd1a1b84ed"/>
 	</game>
-	<game name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am]">
-		<description>Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am]</description>
-		<rom name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am].dsk" size="143360" crc="d4ed4dfa" md5="cbc5eb4a3dcba914045e55c8ec945acd" sha1="6e434634f0f8911af19edb00e0bb9bca01b3cde7"/>
+	<game name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]">
+		<description>Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K]</description>
+		<rom name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side A)[cr 4am][48K].dsk" size="143360" crc="d4ed4dfa" md5="cbc5eb4a3dcba914045e55c8ec945acd" sha1="6e434634f0f8911af19edb00e0bb9bca01b3cde7"/>
 	</game>
-	<game name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am]">
-		<description>Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am]</description>
-		<rom name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am].dsk" size="143360" crc="5de32c03" md5="5ac506d048cdef26ce90750f7d29c65b" sha1="9da24d2da6528248f40ffb7e625e6495f0b862e7"/>
+	<game name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]">
+		<description>Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K]</description>
+		<rom name="Week That Changed the World, A (1986)(Baker Book House)(II+)(US)(Side B)[cr 4am][48K].dsk" size="143360" crc="5de32c03" md5="5ac506d048cdef26ce90750f7d29c65b" sha1="9da24d2da6528248f40ffb7e625e6495f0b862e7"/>
 	</game>
 	<game name="Welcome Aboard - A Muppet Cruise to Computer Literacy (1984)(Brøderbund)(US)(Disk 1 of 2 Side A)[b]">
 		<description>Welcome Aboard - A Muppet Cruise to Computer Literacy (1984)(Brøderbund)(US)(Disk 1 of 2 Side A)[b]</description>
@@ -16760,6 +17392,10 @@
 		<description>Word Problem Game Show, The v4.1.5 (1990)(Gamco Industries)(Side B)(II+)</description>
 		<rom name="Word Problem Game Show, The v4.1.5 (1990)(Gamco Industries)(Side B)(II+).dsk" size="143360" crc="f235ddda" md5="26f7800f18ccefbd4c5802c74b68b1f1" sha1="50dc82e0b8a822bd58d4fe7760d2c2cb176671cc"/>
 	</game>
+	<game name="Word Problems (1987)(Vision Software)">
+		<description>Word Problems (1987)(Vision Software)</description>
+		<rom name="Word Problems (1987)(Vision Software).dsk" size="143360" crc="e6290700" md5="532af5b245bf7f110dbcd33b370c9d50" sha1="a50a4fed0e83a31e9b30d2b20c4c542662b76c2f"/>
+	</game>
 	<game name="Word Problems Level B v3.1.6 (1986)(Gamco Industries)(US)(Side A)[cr 4am]">
 		<description>Word Problems Level B v3.1.6 (1986)(Gamco Industries)(US)(Side A)[cr 4am]</description>
 		<rom name="Word Problems Level B v3.1.6 (1986)(Gamco Industries)(US)(Side A)[cr 4am].dsk" size="143360" crc="d7d414a7" md5="979462d3f666287f8b4cc49f83efedbe" sha1="5ac39b2ce21840d3f87ad74fd8f4ebbda0a2bc65"/>
@@ -16799,6 +17435,10 @@
 	<game name="Word Roulette - A Word-Recognition Strategy Game (1984)(The Regents - ALA Company)[cr 4am][work disk]">
 		<description>Word Roulette - A Word-Recognition Strategy Game (1984)(The Regents - ALA Company)[cr 4am][work disk]</description>
 		<rom name="Word Roulette - A Word-Recognition Strategy Game (1984)(The Regents - ALA Company)[cr 4am][work disk].dsk" size="143360" crc="a9a20062" md5="b69dc8e7724dc9a71d218f23cc0b8f9e" sha1="f85659a4e952265feacc4972479edcf86054857e"/>
+	</game>
+	<game name="Word Scrambler and Spelling Tutor (1984)(Avant-Garde)(II+)(US)[cr 4am][48K]">
+		<description>Word Scrambler and Spelling Tutor (1984)(Avant-Garde)(II+)(US)[cr 4am][48K]</description>
+		<rom name="Word Scrambler and Spelling Tutor (1984)(Avant-Garde)(II+)(US)[cr 4am][48K].dsk" size="143360" crc="7a0a0eb1" md5="d6e4fc20db1a9c1bbbd58c251f0dbd49" sha1="193ebf4481806889a168f98f78e1e951c3ca6c51"/>
 	</game>
 	<game name="Word Search (1984-09-20)(Hartley Courseware)(II+)[cr 4am]">
 		<description>Word Search (1984-09-20)(Hartley Courseware)(II+)[cr 4am]</description>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Operating Systems - [DMK]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Operating Systems - [DMK] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dross-DOS-80+ v2.0 (1982)(Kitchen Table Software)[DMK]">
+		<description>Dross-DOS-80+ v2.0 (1982)(Kitchen Table Software)[DMK]</description>
+		<rom name="drossdos.dmk" size="261136" crc="601427c2" md5="cb748e883080fdef2aa58de01e4a00c9" sha1="deddd66787242fb9417753e59d4d5cb08c89e0b0"/>
+	</game>
+	<game name="LDOS v5.1.3-R (19xx)(Logical Systems Inc)[DSK]">
+		<description>LDOS v5.1.3-R (19xx)(Logical Systems Inc)[DSK]</description>
+		<rom name="ld513r2.dmk" size="261136" crc="8834a60d" md5="86e0fab3102740f423f48e3daa0ad828" sha1="366b7ebca67474536143930a11cadc3b737e3205"/>
+		<rom name="ld513r3.dmk" size="261136" crc="9ddb49aa" md5="3b80d6decba916368d395c2bf34c0398" sha1="d190fd93663a2c978bd6e1287a23356b6eb77f70"/>
+	</game>
+	<game name="LDOS v5.3.0 (1986)(Misosys Inc)[DSK][TC0A0130]">
+		<description>LDOS v5.3.0 (1986)(Misosys Inc)[DSK][TC0A0130]</description>
+		<rom name="ldos53.dmk" size="261136" crc="9566238d" md5="6a40ffc8d896719d8e0a7b7e3e47d999" sha1="71daa3105c44a4162d98cdf74f2d63a5a3b916eb"/>
+	</game>
+	<game name="LDOS v5.3.1 (1991)(Misosys Inc)[a][DMK]">
+		<description>LDOS v5.3.1 (1991)(Misosys Inc)[a][DMK]</description>
+		<rom name="ldos531a.dmk" size="261136" crc="f21cecde" md5="a7044425327d2c75a44ee2a31c90518e" sha1="6f65c734685dbd0cf9e1911171f43d033f69f18f"/>
+	</game>
+	<game name="MultiDOS v1.6 (19xx)(Cosmopolitan Electronics Corporation)[DMK]">
+		<description>MultiDOS v1.6 (19xx)(Cosmopolitan Electronics Corporation)[DMK]</description>
+		<rom name="mds316c.dmk" size="528784" crc="8ea06fd7" md5="6a01adaafc25f72b2090c937564c2acf" sha1="f6a222ec1c112b6cd2d56fdba0456ebbf2ca9fbb"/>
+		<rom name="mds316h.dmk" size="261136" crc="e5e3f1de" md5="48a723eccc4aa55ba8d3a244bc56738d" sha1="0ed373f809f94e09458709ccd262a6b5485ccc0f"/>
+	</game>
+	<game name="MultiDOS v1.6 (1982)(Cosmopolitan Electronics Corporation)[DMK][Master]">
+		<description>MultiDOS v1.6 (1982)(Cosmopolitan Electronics Corporation)[DMK][Master]</description>
+		<rom name="mltds16m.dmk" size="256016" crc="a67c2c0a" md5="bca399bc83e45347eb1bc1f967e63355" sha1="97e0d693bd5508b806c5babc111d7a63c33694d9"/>
+	</game>
+	<game name="MultiDOS v1.6D (1982)(Cosmopolitan Electronics Corporation)[DSK]">
+		<description>MultiDOS v1.6D (1982)(Cosmopolitan Electronics Corporation)[DSK]</description>
+		<rom name="m3md16d.dmk" size="261136" crc="3d32a675" md5="a00f13cea1326f70ed1e0ff4736386f3" sha1="c34ac2f24c3486a246efcd49cd78ef8f6013d70c"/>
+	</game>
+	<game name="Network Operating System III v2.0 (1982)(Micro-Systems Software Inc-Tandy)[DSK]">
+		<description>Network Operating System III v2.0 (1982)(Micro-Systems Software Inc-Tandy)[DSK]</description>
+		<rom name="ntwk3v2.dmk" size="182800" crc="838a41e9" md5="1123a3cfaeb19aedef5661b48f812bbf" sha1="1d5dfda6fbcb8d618df10b894aa6cae067871afa"/>
+	</game>
+	<game name="NEWDOS-80 v2.0 (19xx)(Apparat Inc)[DSK]">
+		<description>NEWDOS-80 v2.0 (19xx)(Apparat Inc)[DSK]</description>
+		<rom name="newds80b.dmk" size="261136" crc="80d58041" md5="502c7a81fcf31ad7cb78c6d54df4de4f" sha1="aa54b191f2f2d169ecda1b8fc7ca55dc91b6e55d"/>
+	</game>
+	<game name="NEWDOS-80 v2.0 (19xx)(Apparat Inc)[DMK]">
+		<description>NEWDOS-80 v2.0 (19xx)(Apparat Inc)[DMK]</description>
+		<rom name="ND80-M3.DSK" size="512016" crc="f67abe70" md5="6ae81e202849056bd499b84eddd3b7ff" sha1="b8b191188461046bae9105475497e4a3aa8cf7af"/>
+	</game>
+	<game name="NEWDOS-86 v2.0 (19xx)(Apparat Inc)[DMK][Master]">
+		<description>NEWDOS-86 v2.0 (19xx)(Apparat Inc)[DMK][Master]</description>
+		<rom name="nd86gu1.dmk" size="261136" crc="b585fc70" md5="fce6c67801bab961dd296d008501acce" sha1="63d68408899aad05cde2fc19755359ba40206c35"/>
+		<rom name="nd86gu2.dmk" size="261136" crc="f64ff30a" md5="5a41478eba5231c7799c37af283f86f7" sha1="0f970ec64019a11b8c7d72d5bba4c66dcd0c073a"/>
+		<rom name="nd86gu3.dmk" size="256016" crc="6de55521" md5="23899058a64eb6dabe658069a388ce48" sha1="90d3be249b41107bec98a986dc7aab52ed4eb0f3"/>
+		<rom name="nd86gu4.dmk" size="256016" crc="986cc758" md5="3e3ee6d9a36594da23136221b5ed7fd3" sha1="64c2305f77dccaed64f0b31b91f5360db483582b"/>
+		<rom name="nd86hd1.dmk" size="261136" crc="9cef1070" md5="2c266c0865ffb4f141134d51ce1ccbe6" sha1="22ab904f8bdc25f38df800ac80ce5e8ed4032430"/>
+		<rom name="nd86hd2.dmk" size="261136" crc="475b42c2" md5="d38e1305039e391f4ed3fd0a9b784112" sha1="6eb17aeb2c28fd7918231df606a4d52ac5b32abc"/>
+		<rom name="nd86whlp.dmk" size="261136" crc="2204d20b" md5="e4b2e5e052927aea167c8694a2dfb583" sha1="4f87956f3d6816d6851800c7ea8255b9f251b102"/>
+		<rom name="newds86m.txt" size="895" crc="da61689a" md5="8378f7c6f5763078e273facc51312570" sha1="622cf02a2510853061744f0a42c6484568f72aa3"/>
+	</game>
+	<game name="OS-80 III v2.02 (1981)(Percom Data Company)[a][DMK]">
+		<description>OS-80 III v2.02 (1981)(Percom Data Company)[a][DMK]</description>
+		<rom name="pos80202.dmk" size="256016" crc="76b0316a" md5="80e5361dc7e4818dc9b47da481b60942" sha1="a47ee58c87e1fdfb9ab7c5f38dafd36de3169546"/>
+	</game>
+	<game name="OS-80 III v2.02 (1981)(Percom Data Company)[DMK]">
+		<description>OS-80 III v2.02 (1981)(Percom Data Company)[DMK]</description>
+		<rom name="os80-202.dmk" size="261136" crc="d04da5eb" md5="e8f7a23fa6c4385bebd147a56f63f66b" sha1="e40154095549846a44701422c65ff51898a64a8d"/>
+	</game>
+	<game name="TRSDOS 1.3 Patches and CopyCat (19xx)(-)[DSK]">
+		<description>TRSDOS 1.3 Patches and CopyCat (19xx)(-)[DSK]</description>
+		<rom name="td13n27.dmk" size="267664" crc="a95317a5" md5="67529dc403738f4853911fe1225874db" sha1="f846729c4c887b343a8fa3972ea11b68d0a0b768"/>
+	</game>
+	<game name="TRSDOS v1.3 (19xx)(Tandy)[a][DMK]">
+		<description>TRSDOS v1.3 (19xx)(Tandy)[a][DMK]</description>
+		<rom name="trsds13b.dmk" size="163216" crc="8797d5c8" md5="62ceb4537511c358607d6191ed7d1b5e" sha1="321c39595ff9ddfd8e206d56d97daa537365b676"/>
+		<rom name="trsds13c.dmk" size="261136" crc="f9d55054" md5="639f1b827970f1041ff2a5a046d36ead" sha1="65be2e959c962683d9b74057d78e12caeea953aa"/>
+		<rom name="trsds13d.dmk" size="261136" crc="93695280" md5="c0d6ca286f6dfc5a2284521f5a2c18ac" sha1="b7fc813ebfc185523365883ba9271586ec54cf49"/>
+	</game>
+	<game name="TRSDOS v1.3 with ModelA3 (1980)(Tandy)[DSK]">
+		<description>TRSDOS v1.3 with ModelA3 (1980)(Tandy)[DSK]</description>
+		<rom name="td13md3a.dmk" size="261136" crc="0cb6b1de" md5="0deee15a85bf67e3678994c78c8f6e5d" sha1="a3df5137501430572b88c07a1cc2ba086d1f9abb"/>
+		<rom name="trds13.dmk" size="261136" crc="b58167e1" md5="ad888f6ec5e9738dc7b15a2e81476e00" sha1="7c8b554b1e84a892398fd9b21a17c345b1511df2"/>
+	</game>
+	<game name="TRSDOS v1.5 (1989)(GRL SOftware)[DSK]">
+		<description>TRSDOS v1.5 (1989)(GRL SOftware)[DSK]</description>
+		<rom name="td15dc03.dmk" size="261136" crc="bf19c818" md5="624f71017dd522cf4fe631bd79f34bef" sha1="87c463d8f5019a649be44d17cba21a288d07d64c"/>
+		<rom name="td15doc1.dmk" size="522256" crc="2acafb22" md5="c21ef8660ea4120c02871e49fdc3eedb" sha1="42e3c24161d7e31a8834ffacb9a17fedd9aa640c"/>
+		<rom name="td15doc2.dmk" size="261136" crc="b7ff35ac" md5="ce02955cb14a545dc35d07c8ed9747e5" sha1="41d82fba1df1267e64d8b1b995507546dc8cfa3e"/>
+		<rom name="td15sm03.dmk" size="261136" crc="50c9dcf5" md5="698c051482e7bc9822011ab4d7cbb499" sha1="f847b3bab8fb081ee24f04a66d859700ce6a2a1b"/>
+		<rom name="td15sysm.dmk" size="261136" crc="a192a8d3" md5="70c26694c84454dc2ca4506e612cda93" sha1="e8edb651be6b44b927d1513b0647c626a0a90c48"/>
+		<rom name="td15upgr.dmk" size="261136" crc="036f95b5" md5="c382a3c4a56e2e9dde193189b5755591" sha1="8d6e026879b54c6696f6e08ad8ef05d2b45e2862"/>
+	</game>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [COM]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [COM] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compan (19xx)(-)[COM]">
+		<description>Compan (19xx)(-)[COM]</description>
+		<rom name="COMPAN.ASM" size="3022" crc="3f5f698e" md5="3fe048419540c4adf6b61de65a27f6a1" sha1="f1bab2b3408d3f9c117a4f23377613230ae85776"/>
+		<rom name="COMPAN.COM" size="96" crc="07446e36" md5="97866c17ba61cbc10f4b0bea4cb03a95" sha1="c8c0f9906fb44ad93b2c055f5e557de3807c9013"/>
+	</game>
+</datafile>

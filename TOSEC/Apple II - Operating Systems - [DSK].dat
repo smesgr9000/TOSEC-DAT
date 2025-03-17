@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Apple II - Operating Systems - [DSK]</name>
-		<description>Apple II - Operating Systems - [DSK] (TOSEC-v2024-01-15)</description>
+		<description>Apple II - Operating Systems - [DSK] (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -19,6 +19,10 @@
 	<game name="ACE 1200 DOS Diskette v1 (1983-02-15)(Franklin)(ACE)(US)[BIOS check]">
 		<description>ACE 1200 DOS Diskette v1 (1983-02-15)(Franklin)(ACE)(US)[BIOS check]</description>
 		<rom name="ACE 1200 DOS Diskette v1 (1983-02-15)(Franklin)(ACE)(US)[BIOS check].dsk" size="143360" crc="85a9d14e" md5="31e89a4a9688365e34eb77efbbeb7a78" sha1="ff4bff7b8fcd4a578cf36da5ef0d5df0d1a6fdca"/>
+	</game>
+	<game name="Advanced Remote Operating System v2.12 (1982)(Softworks)">
+		<description>Advanced Remote Operating System v2.12 (1982)(Softworks)</description>
+		<rom name="Advanced Remote Operating System v2.12 (1982)(Softworks).dsk" size="143360" crc="a94f69e9" md5="306f61c95e1a7059382f001dfc87977f" sha1="781be57ad5751881142b3f11895844f76690b3bb"/>
 	</game>
 	<game name="Amdos v3.5 (1986)(Little, Gary B.)">
 		<description>Amdos v3.5 (1986)(Little, Gary B.)</description>
@@ -104,9 +108,21 @@
 		<description>CPM-65 (2023-10-01)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
 		<rom name="CPM-65 (2023-10-01)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="1fe6dccb" md5="c85e56eb6854dcb2e7bcb4589287d47d" sha1="72a7e8e7d49f42bd33db578b768d53b213c307ca"/>
 	</game>
-	<game name="David-DOS (1982)(David Data)">
-		<description>David-DOS (1982)(David Data)</description>
-		<rom name="David-DOS (1982)(David Data).dsk" size="143360" crc="b03627ae" md5="bb0148b72a54363832df3e0360c172fc" sha1="6f01450ab385532d9743ccb5e5930b099fb7e185"/>
+	<game name="CPM-65 (2024-03-31)(Given, David)(IIE)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-03-31)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-03-31)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="2e3cb326" md5="a31741dcfc2d45567229a84201010689" sha1="b63b64dc96e2f34cd29f623acb78e211cf52eea1"/>
+	</game>
+	<game name="CPM-65 (2024-05-03)(Given, David)(IIE)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-05-03)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-05-03)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="6457367b" md5="4517b1893ca48726b6d842e840eb2f13" sha1="e825d9a569df00da3bb95a1dd360dd188d54e586"/>
+	</game>
+	<game name="CPM-65 (2024-07-17)(Given, David)(IIE)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-07-17)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-07-17)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="cc13b521" md5="2c0d991f2b83a5cb324c57c83f542210" sha1="f8296ba111078deed4d80d0015901df9abc1e574"/>
+	</game>
+	<game name="CPM-65 (2024-08-21)(Given, David)(IIE)(CH)(en)(BSD-2)">
+		<description>CPM-65 (2024-08-21)(Given, David)(IIE)(CH)(en)(BSD-2)</description>
+		<rom name="CPM-65 (2024-08-21)(Given, David)(IIE)(CH)(en)(BSD-2).dsk" size="143360" crc="0cedc2ae" md5="6dce3bef07889d8733bc12f58ea414dd" sha1="d08b0cff241518ccf7f5efb9bd07202b14c5de96"/>
 	</game>
 	<game name="Diversi-DOS (198x)(Dynacomp)(PD)">
 		<description>Diversi-DOS (198x)(Dynacomp)(PD)</description>
@@ -123,6 +139,14 @@
 	<game name="DOS 3.3 Basics (19xx)(-)">
 		<description>DOS 3.3 Basics (19xx)(-)</description>
 		<rom name="DOS 3.3 Basics (19xx)(-).dsk" size="143360" crc="eed581dc" md5="43ccd252a187f8acf003df80c79cbe13" sha1="d97ad87f878baa10598bd0fe5c514f8e8680f31e"/>
+	</game>
+	<game name="DOS 3.3 Sample Programs (1983-01-01)(Apple)[cr]">
+		<description>DOS 3.3 Sample Programs (1983-01-01)(Apple)[cr]</description>
+		<rom name="DOS 3.3 Sample Programs (1983-01-01)(Apple)[cr].dsk" size="143360" crc="94f78de3" md5="1099be774842c8bb994ecbfe1b96f4ca" sha1="3c2c2730eeb3d7fa33e1478fbcb2ba2d6b82ca38"/>
+	</game>
+	<game name="DOS 3.3 System Master (1983-01-01)(Apple)[cr]">
+		<description>DOS 3.3 System Master (1983-01-01)(Apple)[cr]</description>
+		<rom name="DOS 3.3 System Master (1983-01-01)(Apple)[cr].dsk" size="143360" crc="bd366b1a" md5="58d5fe040862bf61d237e3181f5b8016" sha1="46a7d6d16d21bad2a9fb2374ee8a53afc53b19da"/>
 	</game>
 	<game name="DOS 3.4 System Master (2018-01-01)(Brutal Deluxe)(FR)(en)">
 		<description>DOS 3.4 System Master (2018-01-01)(Brutal Deluxe)(FR)(en)</description>
@@ -320,9 +344,13 @@
 		<description>ProntoDOS Boot Slot 6 Drive 2 (1995)(Deckard)</description>
 		<rom name="ProntoDOS Boot Slot 6 Drive 2 (1995)(Deckard).dsk" size="143360" crc="0fb0784b" md5="5a5b0a460028f46eae02588356d8580a" sha1="74bf6a5c76fc8808a751a944337ba70e489e1c30"/>
 	</game>
-	<game name="Softcard CPM 60K v2.23 (1982)(Microsoft)[CPM]">
-		<description>Softcard CPM 60K v2.23 (1982)(Microsoft)[CPM]</description>
-		<rom name="Softcard CPM 60K v2.23 (1982)(Microsoft)[CPM].dsk" size="143360" crc="ccf6a764" md5="ffbbf04c9067b39cbcc109f72be958db" sha1="f8e8683913dabe68b5f00b8566e81149d22618a6"/>
+	<game name="Softcard CPM 60K v2.23 (1982)(Microsoft)">
+		<description>Softcard CPM 60K v2.23 (1982)(Microsoft)</description>
+		<rom name="Softcard CPM 60K v2.23 (1982)(Microsoft).dsk" size="143360" crc="ccf6a764" md5="ffbbf04c9067b39cbcc109f72be958db" sha1="f8e8683913dabe68b5f00b8566e81149d22618a6"/>
+	</game>
+	<game name="Softcard CP-M 60K v2.23 (1982)(Microsoft)[a]">
+		<description>Softcard CP-M 60K v2.23 (1982)(Microsoft)[a]</description>
+		<rom name="Softcard CP-M 60K v2.23 (1982)(Microsoft)[a].dsk" size="143360" crc="0c069f83" md5="7eb33f1e5f71015bc342bac3faa3bcae" sha1="31e957d7bd35b70fc9d9d40fb1de0a176fd71f42"/>
 	</game>
 	<game name="XINU OS (1987-07-03)(Toomey, Warren)(AU)">
 		<description>XINU OS (1987-07-03)(Toomey, Warren)(AU)</description>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Operating Systems - [SRC]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Operating Systems - [SRC] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KimDOS (19xx)(Kim Watt)[SRC]">
+		<description>KimDOS (19xx)(Kim Watt)[SRC]</description>
+		<rom name="S0.ASM" size="34304" crc="543cd0b7" md5="35369b703fff4d9962bbfc2f7b3e14b6" sha1="29ddede913376ac819c36032ceeb181526ea76f3"/>
+		<rom name="S0.CMD" size="3362" crc="9bdd49b4" md5="71a0a2f9fe72997ddd02d54d6e844aa1" sha1="fe611ad1058d9a0026fafcd64113a6c7e34cbba1"/>
+		<rom name="S1.ASM" size="9488" crc="629e8efe" md5="a4f2e91baca26b54b79425214e93ec8b" sha1="cbdfb6751c9010f1e5dd3fa97313377e1d04543a"/>
+		<rom name="S1.CMD" size="1047" crc="8bc15c49" md5="e56c42182e32178e9b9a9546e494dc5d" sha1="28dcad3101248350296ad65418631b3f453fe679"/>
+		<rom name="S10.ASM" size="12800" crc="b1331a69" md5="ab0ad798d5ec1b4249d33f475b7584b2" sha1="2021725f57aa71e4275a4bd1326d907257d5b056"/>
+		<rom name="S11.ASM" size="22528" crc="42570148" md5="06a3e1a030667c5a35c76fe2238a6a69" sha1="5c9b6caf94af616265372b3de7834aae3350f93f"/>
+		<rom name="S11B.ASM" size="6400" crc="b6d9750d" md5="dfcf90cf3106a93b6a0c2d7cfaab8aa6" sha1="b00374c45be32282968d74ac68d2b579d2926dc0"/>
+		<rom name="S12.ASM" size="11776" crc="ccb073e6" md5="8fedd7003ad341dab116a09c58b4e8f1" sha1="4faeb537750ae4eb99907303a7714d5f7ba61375"/>
+		<rom name="S13.ASM" size="11008" crc="4e23a793" md5="05378b6ba96e1914714252aacb95084b" sha1="9269aa1a2707919ee0864a061428528a97678ef2"/>
+		<rom name="S14.ASM" size="5632" crc="bfb5e3de" md5="80b5ccbd16f10cde0f724c4bb4fd5127" sha1="d90afa35687174adaa04b9e54997c6ef7b319380"/>
+		<rom name="S2.ASM" size="8704" crc="8c6f7814" md5="1b2005fded32646220df9352582de6c3" sha1="542f222453d287dd997d1c48f09e534ad215106c"/>
+		<rom name="S2.CMD" size="865" crc="7200b179" md5="e71f7ef63f546a49d18fc226efdf5929" sha1="e94bc38dd6f58b130d6073dd9e95db3d521ed91f"/>
+		<rom name="S3.ASM" size="5632" crc="32b98a5b" md5="cde77bebbef848ef3c8d63168f7cda22" sha1="29eea0938fac46fc544c0e47f37b40b7b65306a5"/>
+		<rom name="S3.CMD" size="2033" crc="377b04b0" md5="bf21e1461b2b83742c82e0c5e28e98e2" sha1="4c8eb480f9f054e723b78845666171db0d770a8a"/>
+		<rom name="S4.ASM" size="9216" crc="c6f2b778" md5="068320c71739a4d13bc646833538511f" sha1="f50034e3942698b57c9005c74ebebf92386066c8"/>
+		<rom name="S4.CMD" size="757" crc="85f4bfad" md5="f9279cdd41596e05c47eb09e3c517387" sha1="874ed51072821ba8582b6851a222be54fa7a7ae7"/>
+		<rom name="S5.ASM" size="19968" crc="f65d7345" md5="3bf40afd3286238d7ae3bed68c4b33ed" sha1="58de4938abaf00cc3c833dc13ac1c827ce5f6d33"/>
+		<rom name="S5.CMD" size="1949" crc="bb04018c" md5="e289438d68e343ae35a14b41aaf4e06f" sha1="81b8bf29a07d8bb9a78107629a3b71774ba1af46"/>
+		<rom name="S6.ASM" size="33428" crc="afd421e7" md5="2b95a469190724f66467dac5958bb596" sha1="8ac83de9012f04f118d8f3d61dd286607af34b9f"/>
+		<rom name="S6.CMD" size="4182" crc="3aebc19a" md5="83ea5f5221fd5d275c7763c55ddfad45" sha1="230b5bbb74dfb7e3fd399e72274c75051880783d"/>
+		<rom name="S7.ASM" size="41216" crc="e12f3144" md5="bbef8355b9077643e26365773ed0fcf7" sha1="09f1b6f68ca5906ea85fe8f7167c61c859b6a391"/>
+		<rom name="S7.CMD" size="3912" crc="9867d070" md5="8b093fb91081aa22bc5cc1fb37ed6926" sha1="22de1137bc67270a632f5d98c1f4a529dd381c71"/>
+		<rom name="S8.ASM" size="60416" crc="7ddbcf64" md5="e375468c83f1c7c53c32e808cb728d59" sha1="40375d5e1bd38e2f07801a05dca80127ab7de0f5"/>
+		<rom name="S9.ASM" size="55040" crc="5f0300fd" md5="6b3eac403c561cd1ecd7c64d4f570981" sha1="772982cb51f79284181de864d8fcb021f76af249"/>
+	</game>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Games - [CIM]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Games - [CIM] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tank Battle (19xx)(Creative Computing)[CIM]">
+		<description>Tank Battle (19xx)(Creative Computing)[CIM]</description>
+		<rom name="tank.bas" size="3325" crc="79b3e5e9" md5="21cc6910a05f24740d18265e69feafde" sha1="95ffbba0a9cebe422090b8e4f35b81ba9a41abde"/>
+		<rom name="tank.cim" size="36" crc="ff654353" md5="696e25bdab75dd282f64ee42c2346bab" sha1="10ac7b08720a192d99a5d6ff4b66e3fc77f70853"/>
+	</game>
+</datafile>

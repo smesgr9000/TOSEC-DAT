@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Commodore C64 - Games - Simulation - [D64]</name>
-		<description>Commodore C64 - Games - Simulation - [D64] (TOSEC-v2024-04-12)</description>
+		<description>Commodore C64 - Games - Simulation - [D64] (TOSEC-v2025-01-03)</description>
 		<category>TOSEC</category>
-		<version>2024-04-12</version>
+		<version>2025-01-03</version>
 		<author>Duncan Twain - SG - 1 Charpy - DesertWolf</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -168,13 +168,13 @@
 		<description>ACE 2088 (1988)(Cascade)[a]</description>
 		<rom name="ACE 2088 (1988)(Cascade)[a].d64" size="174848" crc="f12d7810" md5="ccff7fc3ee83aca8e71d47db0ab71903" sha1="2c31750afeffc30ecb4c58a961e74041497c1675"/>
 	</game>
-	<game name="Ace 2088 (1988)(Cascade)[cr 2000 AD]">
-		<description>Ace 2088 (1988)(Cascade)[cr 2000 AD]</description>
-		<rom name="Ace 2088 (1988)(Cascade)[cr 2000 AD].d64" size="174848" crc="c780759e" md5="0987aa93a43f4590a16d50902eb71e07" sha1="68efa4ce1be167c3b88146099005ed6db2f080c8"/>
-	</game>
 	<game name="ACE 2088 (1988)(Cascade)[cr 2000AD]">
 		<description>ACE 2088 (1988)(Cascade)[cr 2000AD]</description>
 		<rom name="ACE 2088 (1988)(Cascade)[cr 2000AD].d64" size="174848" crc="acf59ef2" md5="4eadae59fd0253b8083bb2a7f3942e0c" sha1="79090eb4f2af10b8b9cb0197018b3274c1e1d175"/>
+	</game>
+	<game name="Ace 2088 (1988)(Cascade)[cr 2000AD][a]">
+		<description>Ace 2088 (1988)(Cascade)[cr 2000AD][a]</description>
+		<rom name="Ace 2088 (1988)(Cascade)[cr 2000AD][a].d64" size="174848" crc="c780759e" md5="0987aa93a43f4590a16d50902eb71e07" sha1="68efa4ce1be167c3b88146099005ed6db2f080c8"/>
 	</game>
 	<game name="ACE 2088 (1988)(Cascade)[cr Action]">
 		<description>ACE 2088 (1988)(Cascade)[cr Action]</description>
@@ -2048,18 +2048,6 @@
 		<description>Chernobyl (1988)(Cosmi)[cr Fairlight][Version 2]</description>
 		<rom name="Chernobyl (1988)(Cosmi)[cr Fairlight][Version 2].d64" size="174848" crc="6388f91f" md5="a009d87bf813166bf5c81f39a8dd4705" sha1="a7d3f04743e324a9c1f209e87941f1e3179aaf71"/>
 	</game>
-	<game name="Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI]">
-		<description>Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI]</description>
-		<rom name="Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI].d64" size="174848" crc="30a6dbd7" md5="2638ba6a963f46ee7c5fe9612e15df26" sha1="01d459dbd5157febaf4e10936cc3dc8f0d396c99"/>
-	</game>
-	<game name="Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI][a]">
-		<description>Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI][a]</description>
-		<rom name="Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI][a].d64" size="174848" crc="f1a26ea5" md5="18cc63a786cda93ac8e3065430e26da8" sha1="ce12c3e27cc97a5560ea6055c675d20e9c7862fd"/>
-	</game>
-	<game name="Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI][a2]">
-		<description>Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI][a2]</description>
-		<rom name="Chuck Yeager&apos;s Advanced Flight Trainer (1987)(Electronic Arts)[cr ESI][a2].d64" size="174848" crc="b5110268" md5="78aed978b65eb57664362f349613697c" sha1="09571c0d5bdf477e621d35bf82a6376c1164271a"/>
-	</game>
 	<game name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)">
 		<description>Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)</description>
 		<rom name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts).d64" size="174848" crc="5306a948" md5="f39f81d6e406ce0c3f4d0cdb624f1794" sha1="3388b409f6f91fd30f5732d02e982e95597d6847"/>
@@ -2075,6 +2063,18 @@
 	<game name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI]">
 		<description>Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI]</description>
 		<rom name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI].d64" size="174848" crc="eedbca22" md5="18dda7d62cd53e9ece5182504bafaa18" sha1="6ba48b16a6b489f9493bdf4761e0f7e8f4afc809"/>
+	</game>
+	<game name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a]">
+		<description>Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a]</description>
+		<rom name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a].d64" size="174848" crc="f1a26ea5" md5="18cc63a786cda93ac8e3065430e26da8" sha1="ce12c3e27cc97a5560ea6055c675d20e9c7862fd"/>
+	</game>
+	<game name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a2]">
+		<description>Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a2]</description>
+		<rom name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a2].d64" size="174848" crc="b5110268" md5="78aed978b65eb57664362f349613697c" sha1="09571c0d5bdf477e621d35bf82a6376c1164271a"/>
+	</game>
+	<game name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a3]">
+		<description>Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a3]</description>
+		<rom name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr ESI][a3].d64" size="174848" crc="30a6dbd7" md5="2638ba6a963f46ee7c5fe9612e15df26" sha1="01d459dbd5157febaf4e10936cc3dc8f0d396c99"/>
 	</game>
 	<game name="Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr HTL+ESI]">
 		<description>Chuck Yeager&apos;s Flight Trainer (1987)(Electronic Arts)[cr HTL+ESI]</description>
@@ -2320,6 +2320,10 @@
 		<description>Dawn Patrol (1987)(Bytebusters)[cr Rampar - Xades]</description>
 		<rom name="Dawn Patrol (1987)(Bytebusters)[cr Rampar - Xades].d64" size="174848" crc="9e108f97" md5="6d1bf14fb9dd7842a9036a0cd904a288" sha1="95708ec9701059a3475942fdc307d3ffa88a6226"/>
 	</game>
+	<game name="Dawn Patrol (1987)(Bytebusters)[cr Rampar - Xades][a]">
+		<description>Dawn Patrol (1987)(Bytebusters)[cr Rampar - Xades][a]</description>
+		<rom name="Dawn Patrol (1987)(Bytebusters)[cr Rampar - Xades][a].d64" size="174848" crc="9ef9dae9" md5="f265b84b1abdca2407b6260f67fd503b" sha1="b200c579fb5fd0142d05adb0953c9a257ee3f2b0"/>
+	</game>
 	<game name="Dawn Patrol (1987)(Bytebusters)[cr TAU]">
 		<description>Dawn Patrol (1987)(Bytebusters)[cr TAU]</description>
 		<rom name="Dawn Patrol (1987)(Bytebusters)[cr TAU].d64" size="174848" crc="8f6a9ae5" md5="91a8e6cae9369d0a57676370a237cfab" sha1="32ff638678ec63c0cef0a0ef4be34955191afd39"/>
@@ -2367,6 +2371,10 @@
 	<game name="Deep Space - Operation Copernicus (1987)(Sir-Tech)[a2]">
 		<description>Deep Space - Operation Copernicus (1987)(Sir-Tech)[a2]</description>
 		<rom name="Deep Space - Operation Copernicus (1987)(Sir-Tech)[a2].d64" size="174848" crc="3b4bb8f6" md5="2cbbf53f0bbf465b29910f2a434d77d5" sha1="7b30c7bee7f0cdf90b461776dccdd8c0fd1c0a15"/>
+	</game>
+	<game name="Deep Space - Operation Copernicus (1987)(Sir-Tech)[cr OTD]">
+		<description>Deep Space - Operation Copernicus (1987)(Sir-Tech)[cr OTD]</description>
+		<rom name="Deep Space - Operation Copernicus (1987)(Sir-Tech)[cr OTD].d64" size="174848" crc="1b67e64d" md5="6929fcc41b8726d288b806958be0a3b9" sha1="6708cc4dfdf7bea4fe4d1c955dd1b8cb237c6b19"/>
 	</game>
 	<game name="Deep Space - Operation Copernicus (1987)(Sir-Tech)[cr UCF]">
 		<description>Deep Space - Operation Copernicus (1987)(Sir-Tech)[cr UCF]</description>
@@ -4852,9 +4860,9 @@
 		<description>Game of Life, The (1985)(Gold Disk)</description>
 		<rom name="Game of Life, The (1985)(Gold Disk).d64" size="174848" crc="1b98fa4d" md5="a0d64265a9674ab409a5970e820cb605" sha1="b63d8cf39c6137bc1f0d047e4a9664c2974d1868"/>
 	</game>
-	<game name="Game of Life, The (1990)(David Kinder)">
-		<description>Game of Life, The (1990)(David Kinder)</description>
-		<rom name="Game of Life, The (1990)(David Kinder).d64" size="174848" crc="77d9ef5d" md5="6fbab2364f26bd68b82172c71ded06f3" sha1="b52bbf03f75fcdcff689fd7a6dad8868f28fb814"/>
+	<game name="Game of Life, The (1990)(Kinder, David)">
+		<description>Game of Life, The (1990)(Kinder, David)</description>
+		<rom name="Game of Life, The (1990)(Kinder, David).d64" size="174848" crc="77d9ef5d" md5="6fbab2364f26bd68b82172c71ded06f3" sha1="b52bbf03f75fcdcff689fd7a6dad8868f28fb814"/>
 	</game>
 	<game name="Game of Life, The (1991)(SYS Public Domain)(sv)">
 		<description>Game of Life, The (1991)(SYS Public Domain)(sv)</description>
@@ -5464,37 +5472,37 @@
 		<description>High Seas (1987)(Gardé Games)(Side B)[cr ATC]</description>
 		<rom name="High Seas (1987)(Gardé Games)(Side B)[cr ATC].d64" size="174848" crc="faa0814b" md5="1c39b9d9243e26d48a4b20bab95d3d24" sha1="9adaac2b890a5ac76ac4b72ec3f289216ad7f2e7"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr ATC]">
-		<description>High Seas (1987)(Garde Games)[cr ATC]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr ATC].d64" size="174848" crc="8a2587b2" md5="1dc04c53022474db9dfaf6fd152e8231" sha1="ac429464f3b2885473156087eece0e1f76e86c3d"/>
+	<game name="High Seas (1987)(Gardé Games)[cr ATC]">
+		<description>High Seas (1987)(Gardé Games)[cr ATC]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr ATC].d64" size="174848" crc="8a2587b2" md5="1dc04c53022474db9dfaf6fd152e8231" sha1="ac429464f3b2885473156087eece0e1f76e86c3d"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr ATC][a]">
-		<description>High Seas (1987)(Garde Games)[cr ATC][a]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr ATC][a].d64" size="174848" crc="af360c5f" md5="d52dfe07e037f36beb3980256e9821d8" sha1="fd36884c856553a7ebb8349464b5a347deeea697"/>
+	<game name="High Seas (1987)(Gardé Games)[cr ATC][a]">
+		<description>High Seas (1987)(Gardé Games)[cr ATC][a]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr ATC][a].d64" size="174848" crc="af360c5f" md5="d52dfe07e037f36beb3980256e9821d8" sha1="fd36884c856553a7ebb8349464b5a347deeea697"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr ATC][a2]">
-		<description>High Seas (1987)(Garde Games)[cr ATC][a2]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr ATC][a2].d64" size="174848" crc="197fe2d7" md5="316d9723df08c7cc2ffca948201be00b" sha1="55cd5f1856adb585369451211e23d8b547933960"/>
+	<game name="High Seas (1987)(Gardé Games)[cr ATC][a2]">
+		<description>High Seas (1987)(Gardé Games)[cr ATC][a2]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr ATC][a2].d64" size="174848" crc="197fe2d7" md5="316d9723df08c7cc2ffca948201be00b" sha1="55cd5f1856adb585369451211e23d8b547933960"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr FAC+ATC]">
-		<description>High Seas (1987)(Garde Games)[cr FAC+ATC]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr FAC+ATC].d64" size="174848" crc="787a7af2" md5="7be35d7f23a90c6348a75199d72f6db4" sha1="5acbc0e83d0891b3aa793541a5569fe937f49c29"/>
+	<game name="High Seas (1987)(Gardé Games)[cr FAC+ATC]">
+		<description>High Seas (1987)(Gardé Games)[cr FAC+ATC]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr FAC+ATC].d64" size="174848" crc="787a7af2" md5="7be35d7f23a90c6348a75199d72f6db4" sha1="5acbc0e83d0891b3aa793541a5569fe937f49c29"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr FAC+ATC][a]">
-		<description>High Seas (1987)(Garde Games)[cr FAC+ATC][a]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr FAC+ATC][a].d64" size="174848" crc="54e567c0" md5="16eddc1e8a3de5602b6faa0267f2e0ca" sha1="a22c5c4c79462df23e86018b207809c57f896f1f"/>
+	<game name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a]">
+		<description>High Seas (1987)(Gardé Games)[cr FAC+ATC][a]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a].d64" size="174848" crc="54e567c0" md5="16eddc1e8a3de5602b6faa0267f2e0ca" sha1="a22c5c4c79462df23e86018b207809c57f896f1f"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr FAC+ATC][a2]">
-		<description>High Seas (1987)(Garde Games)[cr FAC+ATC][a2]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr FAC+ATC][a2].d64" size="174848" crc="8f2d7d35" md5="190f56f7441544b207371d52564e48f4" sha1="e8def697dbaccc44f7675e21b9f5671767dd655c"/>
+	<game name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a2]">
+		<description>High Seas (1987)(Gardé Games)[cr FAC+ATC][a2]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a2].d64" size="174848" crc="8f2d7d35" md5="190f56f7441544b207371d52564e48f4" sha1="e8def697dbaccc44f7675e21b9f5671767dd655c"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr FAC+ATC][a3]">
-		<description>High Seas (1987)(Garde Games)[cr FAC+ATC][a3]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr FAC+ATC][a3].d64" size="174848" crc="1fe76f62" md5="f1227d4c8b70caa38de056613d49a3ba" sha1="4df174c49e33d66836dd96cbc8589c20be9b799f"/>
+	<game name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a3]">
+		<description>High Seas (1987)(Gardé Games)[cr FAC+ATC][a3]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a3].d64" size="174848" crc="1fe76f62" md5="f1227d4c8b70caa38de056613d49a3ba" sha1="4df174c49e33d66836dd96cbc8589c20be9b799f"/>
 	</game>
-	<game name="High Seas (1987)(Garde Games)[cr FAC+ATC][a4]">
-		<description>High Seas (1987)(Garde Games)[cr FAC+ATC][a4]</description>
-		<rom name="High Seas (1987)(Garde Games)[cr FAC+ATC][a4].d64" size="174848" crc="09657211" md5="1b909fe6652c941a254606eb2710a7b0" sha1="a82736172f3dc2f441403bde8786112a389d55f0"/>
+	<game name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a4]">
+		<description>High Seas (1987)(Gardé Games)[cr FAC+ATC][a4]</description>
+		<rom name="High Seas (1987)(Gardé Games)[cr FAC+ATC][a4].d64" size="174848" crc="09657211" md5="1b909fe6652c941a254606eb2710a7b0" sha1="a82736172f3dc2f441403bde8786112a389d55f0"/>
 	</game>
 	<game name="Hunt for Red October, The (1990)(Grandslam Entertainment)(de)[cr BB]">
 		<description>Hunt for Red October, The (1990)(Grandslam Entertainment)(de)[cr BB]</description>

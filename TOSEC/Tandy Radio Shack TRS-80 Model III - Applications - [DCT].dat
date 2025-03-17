@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model III - Applications - [DCT]</name>
+		<description>Tandy Radio Shack TRS-80 Model III - Applications - [DCT] (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hard Disk Drivers (19xx)(-)[DCT][LDOS]">
+		<description>Hard Disk Drivers (19xx)(-)[DCT][LDOS]</description>
+		<rom name="BTE.DCT" size="536" crc="5c93855b" md5="984a2e7f7e8070a382833426ed87d794" sha1="8f21501087345a824189d797950287a47c5a5146"/>
+		<rom name="BTE2.DCT" size="536" crc="99fb6dbc" md5="d89f7385c9effe9fbbabe0ae525c2ce7" sha1="026d139c8434534099d1c2027f57fe16df113abc"/>
+		<rom name="BTE20.DCT" size="536" crc="72a7c977" md5="64f26dd2246934f71daf29bbeccc7115" sha1="25d2549ad287748ea48bf8cb062c1e227f290e32"/>
+		<rom name="BTE6.DCT" size="536" crc="c70c4f5f" md5="81b8a8a5739b9f466d2e58fef3062d5f" sha1="b83fb63ad2c745a88fa98f44a503436eb1a7156e"/>
+		<rom name="DVR10.DCT" size="580" crc="dd0748be" md5="f3e2a0fb2736b668e934807c73b68095" sha1="2aba4121fb6ac3d6214d263f6729bf430568f855"/>
+		<rom name="HARD01.DCT" size="536" crc="05c48147" md5="c6585db0fef3c8b12ac72d022ba3a175" sha1="6e228b61d3615630f4dea79789aba111aab57aa1"/>
+		<rom name="HARD03.DCT" size="536" crc="fad690f2" md5="cdd3c76e47700193ef20402c1b1b4b91" sha1="07b7c1ba2c89e4f9702ac7c3da74ef9d8adb45f8"/>
+		<rom name="MOD3.DCT" size="266" crc="fd8b51cb" md5="ba7813a8f014d2d6d37802697bd0c3d2" sha1="780a636d3a001db0a7b4aff6b5c14469cad44cd0"/>
+	</game>
+	<game name="Hard Disk Drivers (19xx)(J&amp;M Systems Ltd)[DCT][LDOS]">
+		<description>Hard Disk Drivers (19xx)(J&amp;M Systems Ltd)[DCT][LDOS]</description>
+		<rom name="DVR10.DCT" size="580" crc="dd0748be" md5="f3e2a0fb2736b668e934807c73b68095" sha1="2aba4121fb6ac3d6214d263f6729bf430568f855"/>
+		<rom name="FORMAT.JCL" size="209" crc="a3914b44" md5="5270a978425fb5b57bc8771fe2829336" sha1="fb20f799a39cd4920da46fda280f9fcc116cbaeb"/>
+		<rom name="HDEASY.JCL" size="661" crc="9ea3680d" md5="bdf4a483fd7fc398b7bc6bc1025872e9" sha1="26df7803b4b3bfbc0de5006bf269f39048ee7ffd"/>
+		<rom name="HDSET.CMD" size="1760" crc="0907649f" md5="b02573efc083851babf608b2ec767949" sha1="25ede1aed8eececf44db32b8fb9ad3b36891e2d6"/>
+		<rom name="MS10MBEZ.JCL" size="656" crc="61939040" md5="320f7b1ce6fe20b35bb072804d5ca06f" sha1="72b5e90756c1b4f8b3310ecb3c9c98490fb9e929"/>
+		<rom name="MS10MBFM.JCL" size="203" crc="06c5f382" md5="b207df4fc228238fb36fa14d7771c88a" sha1="5ab8b858a6c01a66e1adf6b99d3726cd516d526a"/>
+		<rom name="STARTUP.JCL" size="31" crc="48e5af2a" md5="c26d3adf3d499f35f1ae6eaf0853d6ff" sha1="f24237b4b5b8b7df9323b0370cf79c05ef27fa86"/>
+		<rom name="TI5MBEZ.JCL" size="661" crc="9ea3680d" md5="bdf4a483fd7fc398b7bc6bc1025872e9" sha1="26df7803b4b3bfbc0de5006bf269f39048ee7ffd"/>
+		<rom name="TI5MBFM.JCL" size="209" crc="a3914b44" md5="5270a978425fb5b57bc8771fe2829336" sha1="fb20f799a39cd4920da46fda280f9fcc116cbaeb"/>
+	</game>
+</datafile>

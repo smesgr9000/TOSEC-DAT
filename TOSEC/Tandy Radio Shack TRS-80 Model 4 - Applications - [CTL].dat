@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Model 4 - Applications - [CTL]</name>
+		<description>Tandy Radio Shack TRS-80 Model 4 - Applications - [CTL] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Aral - Ira - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Disk CTL v1.5 for SuperScripsit (1983)(Renato B Reyes-PowerSoft)[CTL]">
+		<description>Disk CTL v1.5 for SuperScripsit (1983)(Renato B Reyes-PowerSoft)[CTL]</description>
+		<rom name="disk.doc" size="8704" crc="14b5ca89" md5="e7898fd78ca19a76d86dbac367a0dc65" sha1="10617797c591ebb21385f0dd57edd9f8527e8c55"/>
+		<rom name="m4.jcl" size="639" crc="9971ec37" md5="f929c752f1dc905731a964d02dc7f641" sha1="6f3dec0d0d223c92788acc66281455de07004319"/>
+		<rom name="m4disk.ctl" size="490" crc="c1313796" md5="fe7510720304a7270955b036a2c85247" sha1="f3df304b644a41b3bec9b9ce4e805b41137f9e05"/>
+		<rom name="m4fx100.ctl" size="838" crc="0d77dc9a" md5="ed06605b05014aafb2eb1f587784d9ab" sha1="d3f5099cb7322b5a9358f52c263a9a4abed280bb"/>
+		<rom name="m4fx80.ctl" size="790" crc="878dd456" md5="64977cd5fe688033dc8f41aa1e809edf" sha1="e93327f966b9b68846d8b9264bf7abe47faae300"/>
+		<rom name="m4rx80.ctl" size="838" crc="5ef31387" md5="c93f19dbc63ef2aed3f2402ac3300684" sha1="2812f5922e1b1ce390a5f1333e37581f3d178c99"/>
+	</game>
+	<game name="Scripsit CTL File- GPlus v1.1 (1982)(Renato B Reyes)[CTL]">
+		<description>Scripsit CTL File- GPlus v1.1 (1982)(Renato B Reyes)[CTL]</description>
+		<rom name="gplus.ctl" size="1293" crc="d1a7faae" md5="ae7bec872e35b263e0d623f90190586f" sha1="0c11c12f63a89a35a0fc38b1c25add330708f78d"/>
+		<rom name="patch.inf" size="1254" crc="9224a62f" md5="9faafdc1303dade4ba386fdd39cc79d8" sha1="686d1baadd86a978f72476f2993519fd497b6fe1"/>
+	</game>
+	<game name="Scripsit CTL File- GPlus2 v1.1 (1982)(Renato B Reyes)[CTL]">
+		<description>Scripsit CTL File- GPlus2 v1.1 (1982)(Renato B Reyes)[CTL]</description>
+		<rom name="gplus2.ctl" size="1365" crc="2e10e1bb" md5="e00354007505d6f5d02580cf985e0778" sha1="08108587a490d70831fede350eac3b259b3fc48e"/>
+		<rom name="patch.inf" size="1254" crc="9224a62f" md5="9faafdc1303dade4ba386fdd39cc79d8" sha1="686d1baadd86a978f72476f2993519fd497b6fe1"/>
+	</game>
+	<game name="Scripsit CTL File- Graf v1.1 (1982)(Renato B Reyes)[CTL]">
+		<description>Scripsit CTL File- Graf v1.1 (1982)(Renato B Reyes)[CTL]</description>
+		<rom name="graf.ctl" size="1239" crc="10bf28f9" md5="2b4a454776b3f16b4f10606931910cbc" sha1="2b78cff7e96e6d7a74e943340d69eca069c01b9f"/>
+		<rom name="patch.inf" size="1254" crc="9224a62f" md5="9faafdc1303dade4ba386fdd39cc79d8" sha1="686d1baadd86a978f72476f2993519fd497b6fe1"/>
+	</game>
+	<game name="Scripsit Dictionary (19xx)(Tandy)[CTL]">
+		<description>Scripsit Dictionary (19xx)(Tandy)[CTL]</description>
+		<rom name="NONCOM.CTL" size="142848" crc="1da9b18e" md5="8c51dfb4848d9120401d68785126b258" sha1="faf8eb64d8fe35af097d78b7b1d92ed705b2e5a0"/>
+		<rom name="PROOF.CTL" size="24832" crc="97eb7f7d" md5="9cd3798bbbbc22c1e9bd7b9f9bc66afe" sha1="d877c91bb963df31199d9af48f8509bbd3882844"/>
+		<rom name="WORDS.CTL" size="256" crc="39bae380" md5="4df67eac0b6e6841e56df1365588ac0c" sha1="72a8b15ad49fc124ac3f078f9ff767a30c360ff3"/>
+	</game>
+	<game name="SuperScripsit Printer Driver for Citizen 120D (19xx)(-)[CTL]">
+		<description>SuperScripsit Printer Driver for Citizen 120D (19xx)(-)[CTL]</description>
+		<rom name="CITCON.DOC" size="2342" crc="bcfb4f5f" md5="9383eb28b5dbbc4702916a2eefec90cf" sha1="93049a4b0fa76e96436ec7903301208e8b38e41d"/>
+		<rom name="CITIZEN.CTL" size="768" crc="41141699" md5="eb3e48c09ab7d1c451a5bb04f33db930" sha1="b08d9cffc30199ba103a09ed638fabf377b705b3"/>
+		<rom name="PATSCR18.FIX" size="236" crc="f64f5624" md5="e61dd4f153e7f2579d7d9f77e8b39a42" sha1="37797c57220cff97b80d8c4cd607d8a8248034f5"/>
+		<rom name="PATSCR18.JCL" size="326" crc="8ba87a8f" md5="8a9a879aaaf7e370a7ed8360d4814406" sha1="0d706833f6b021de4a71b9fa36aac4cb2b20321d"/>
+		<rom name="PRINTSET.CMD" size="692" crc="0bf7c153" md5="1a6005b46f6d2d75d58c8f735df743cf" sha1="46e3039ee2f32157fd11eca2bdb65e8518c6cde8"/>
+		<rom name="SCR17.CTL" size="2560" crc="23542f3a" md5="649c547fec625b5af2d7172326f8bd4a" sha1="a072afa1ca7d817e006b5a334c8fdaff1654ee9c"/>
+		<rom name="STARLC10.CTL" size="512" crc="857b0805" md5="2fee666b0c929d94d3726cfcd55ec92b" sha1="e8478460c5db10d492102f6cf0714de050444514"/>
+	</game>
+	<game name="SuperScripsit Printer Driver for DWP-230 (19xx)(-)[CTL]">
+		<description>SuperScripsit Printer Driver for DWP-230 (19xx)(-)[CTL]</description>
+		<rom name="BOLDPS.TAB" size="512" crc="2260a5cd" md5="85bbe8bd8e35e3df63656f0d54805fb2" sha1="5ba6bb970120931c69abc8be6c5af5ba1d46b116"/>
+		<rom name="DWP230.CTL" size="1280" crc="6e6c880c" md5="f8e3248ed130ff14568a8805eb6c2220" sha1="8345bf63547022a9f66bfa66b50130ef1a03fe4d"/>
+		<rom name="README" size="1217" crc="b9b4951c" md5="1e33e2f1d5a3d6ca7d46ae05ada6fd2d" sha1="c1870de8235df203b717375a9b868836ddcfcc9f"/>
+	</game>
+	<game name="SuperScripsit Printer Driver for Epson L-1000 (19xx)(Kachina Software Group)[CTL]">
+		<description>SuperScripsit Printer Driver for Epson L-1000 (19xx)(Kachina Software Group)[CTL]</description>
+		<rom name="L1000.CTL" size="863" crc="a5bf1645" md5="652da99f9e6ffecbed1e4d78d03b91f1" sha1="049565a5918bf8560e889b51152eb4774fcd942d"/>
+		<rom name="L1000.DOC" size="12838" crc="1cda7ccc" md5="404c535849607a7cd9d5e47f81149204" sha1="d1fe488abfceb013a8768e18a1c6fe4e74a3346d"/>
+		<rom name="L1000P.CTL" size="866" crc="3ddc506a" md5="4d512f7ef51f2f5eea5841e82a60a980" sha1="ae4bc4005ba24711a6d9d42a92f79089e481fbb2"/>
+	</game>
+	<game name="SuperScripsit Printer Driver for Epson LQ-500 (19xx)(-)[CTL]">
+		<description>SuperScripsit Printer Driver for Epson LQ-500 (19xx)(-)[CTL]</description>
+		<rom name="LQ500.CTL" size="599" crc="b20c15d9" md5="09073c7b12523db9ae2c5112be9056b2" sha1="a45efa8bf77701ead6763cefd5f9a1a2e5757b1c"/>
+		<rom name="LQ500.MAC" size="20017" crc="4f562d50" md5="d1b19aab3beb4f46b502feb9fc318703" sha1="c4b67067cbd62c531453eaede8c427327b56a7e9"/>
+		<rom name="LQ500S.CTL" size="599" crc="fbafbe17" md5="0dfd2c39ac2ab8e9efc4667aa954da69" sha1="f49bbab2ca527480eeefcfc63dc39201501beb30"/>
+	</game>
+	<game name="SuperScripsit Printer Driver for Juki Printer (19xx)(-)[CTL]">
+		<description>SuperScripsit Printer Driver for Juki Printer (19xx)(-)[CTL]</description>
+		<rom name="juki.ctl" size="489" crc="e76be72d" md5="ca802cb4236d1006353411fc129cc553" sha1="9e3f5d58158e662a9c9f4c66b1ec16f716ab7c03"/>
+	</game>
+	<game name="SuperScripsit Printer Drivers (19xx)(Tandy)[a][CTL]">
+		<description>SuperScripsit Printer Drivers (19xx)(Tandy)[a][CTL]</description>
+		<rom name="courier.ctl" size="1024" crc="45a8a615" md5="c8c6d8981373d4d2f5be72f69c2784ce" sha1="bc9c1e41e6913e76c458ac177a24f42dc543b2eb"/>
+		<rom name="dmp105.ctl" size="841" crc="bbc7ee10" md5="ce675d050dc661a592a5df85c7d60cc4" sha1="6bda1daac3c63789db054663382f962a69ef89d4"/>
+		<rom name="dmp110.ctl" size="1024" crc="54316e14" md5="0f89e1c67fc7144dc42bf7109a502337" sha1="35f52bacc1db1ce027f9edade232e42ca0609d5d"/>
+		<rom name="dmp120.ctl" size="841" crc="bbc7ee10" md5="ce675d050dc661a592a5df85c7d60cc4" sha1="6bda1daac3c63789db054663382f962a69ef89d4"/>
+		<rom name="dmp130.ctl" size="1024" crc="6f956633" md5="0cef492664c38f67b6a5d22dc4f6baaf" sha1="56586f85baac4c50f083ed36bd0a4293def72539"/>
+		<rom name="dmp200.ctl" size="841" crc="3bfe9ada" md5="ba129d8c0fa21c84f339c8dbfd660f46" sha1="e0bbff7d2cf208bebe521e2006e6d1df13ec7fdb"/>
+		<rom name="dmp2100.ctl" size="858" crc="f388ac02" md5="3586f0346384fa26ac55706b34834a24" sha1="cd0516401c6b277ad222d6b78cdec32502efb0bf"/>
+		<rom name="dmp2200.ctl" size="1024" crc="64e5348a" md5="8593830548d18a6caee4aa03519433cd" sha1="4ff7cebd59d354274ff2bf6ca4bfe1e7df6558d9"/>
+		<rom name="dmp400.ctl" size="841" crc="3bfe9ada" md5="ba129d8c0fa21c84f339c8dbfd660f46" sha1="e0bbff7d2cf208bebe521e2006e6d1df13ec7fdb"/>
+		<rom name="dmp420.ctl" size="841" crc="3bfe9ada" md5="ba129d8c0fa21c84f339c8dbfd660f46" sha1="e0bbff7d2cf208bebe521e2006e6d1df13ec7fdb"/>
+		<rom name="dmp430.ctl" size="1024" crc="092bb89c" md5="32d43769de3bc0822bf208e12be242fe" sha1="3ccb70929dff78420f7f993687531a856c9c3a1d"/>
+		<rom name="dmp500.ctl" size="841" crc="3bfe9ada" md5="ba129d8c0fa21c84f339c8dbfd660f46" sha1="e0bbff7d2cf208bebe521e2006e6d1df13ec7fdb"/>
+		<rom name="dw2.ctl" size="1057" crc="81940f7d" md5="8e4d03a9bcb6beed7ff33751120c71cb" sha1="cbd6effb9c486c6e62088af602c19caa0817cc51"/>
+		<rom name="dw2b.ctl" size="1041" crc="e6d094df" md5="78b38eb1c98d065da98caa1511129360" sha1="8bffe53b1d83e113558fb4d846280cf2b26608f0"/>
+		<rom name="dwp210.ctl" size="1280" crc="e4e22a0f" md5="7239d21370aab13cfff582a7e93891db" sha1="fb0fc30b19fc901faae541cf20856c4d9574f560"/>
+		<rom name="dwp220.ctl" size="1280" crc="83d834a1" md5="eda49ce780252ec65b3176a5750d30b2" sha1="2f4a89d0f37642708bab2d0dfc2534921ca6d9c2"/>
+		<rom name="dwp410.ctl" size="1041" crc="e6d094df" md5="78b38eb1c98d065da98caa1511129360" sha1="8bffe53b1d83e113558fb4d846280cf2b26608f0"/>
+		<rom name="dwp510.ctl" size="1041" crc="e6d094df" md5="78b38eb1c98d065da98caa1511129360" sha1="8bffe53b1d83e113558fb4d846280cf2b26608f0"/>
+		<rom name="elite.ctl" size="1024" crc="e3ab1370" md5="bb2e5582bee0a9f523cda5b1c4871c85" sha1="a33c5150bc7d2c924e7ee9d4b6722c660b75b4ee"/>
+	</game>
+	<game name="SuperScripsit Printer Drivers (19xx)(Tandy)[CTL]">
+		<description>SuperScripsit Printer Drivers (19xx)(Tandy)[CTL]</description>
+		<rom name="courier.ctl" size="1024" crc="8479c6ba" md5="56318eb63cf2d4f9acc9c28ba4745f1a" sha1="b9ad75ad5785fcc06fc31264ddfb7debbf22229e"/>
+		<rom name="dmp105.ctl" size="841" crc="602fa83d" md5="60534644949434b710f7a37fe49be8a3" sha1="155d6b59ab6becfed894fccfc0ab47437d14da2c"/>
+		<rom name="dmp110.ctl" size="1024" crc="f2871964" md5="01af6f95f3ec3aaa7065832a54a43689" sha1="fde4364b349337c67b7311c6b0559373719eea52"/>
+		<rom name="dmp120.ctl" size="841" crc="602fa83d" md5="60534644949434b710f7a37fe49be8a3" sha1="155d6b59ab6becfed894fccfc0ab47437d14da2c"/>
+		<rom name="dmp130.ctl" size="1024" crc="c94383f8" md5="318a298fe9d6d118bc06589bfe9aa585" sha1="a445c380caee6e02d54a73aa2f080d3147fd8851"/>
+		<rom name="dmp200.ctl" size="841" crc="9277ca5a" md5="d75eca8f582db77ef5e36e7cd772eaea" sha1="0bee68b2950dc7479636036a71d5faffd9317468"/>
+		<rom name="dmp2100.ctl" size="858" crc="93105446" md5="4acde3156e03b3e9a2ea6b14fe3c190d" sha1="55345421bb074723dfab5e3ca7a86e1646d44c41"/>
+		<rom name="dmp2200.ctl" size="1024" crc="44df3f65" md5="c8a36e4e8fe2b5d2f251584394f1cd45" sha1="eb612c0f7250408ae0d264acb1634982f05056de"/>
+		<rom name="dmp400.ctl" size="841" crc="9277ca5a" md5="d75eca8f582db77ef5e36e7cd772eaea" sha1="0bee68b2950dc7479636036a71d5faffd9317468"/>
+		<rom name="dmp420.ctl" size="841" crc="9277ca5a" md5="d75eca8f582db77ef5e36e7cd772eaea" sha1="0bee68b2950dc7479636036a71d5faffd9317468"/>
+		<rom name="dmp430.ctl" size="1024" crc="18ec608a" md5="7e79f8f19977f2fede1b626ad8d60888" sha1="a266b597e113d8e964c9d336c52cb6e1625b1553"/>
+		<rom name="dmp500.ctl" size="841" crc="9277ca5a" md5="d75eca8f582db77ef5e36e7cd772eaea" sha1="0bee68b2950dc7479636036a71d5faffd9317468"/>
+		<rom name="dw2.ctl" size="1126" crc="f5e45e24" md5="79d78f69206f87917c96427094923ca5" sha1="b278249ac8173db021224cf30b5f768b682eb4ec"/>
+		<rom name="dw2b.ctl" size="1041" crc="12e8dc77" md5="65e63df3e3d95d0c33c23de946e16915" sha1="78004e6caaec445f3299a511d842a17051468dde"/>
+		<rom name="dwp210.ctl" size="1280" crc="4338698c" md5="a7b37026d541d8cdba9b99acdd7e4e89" sha1="1401b7bb4df1118114b964ccf2a0ab713aa3b09b"/>
+		<rom name="dwp220.ctl" size="1280" crc="efafda1d" md5="733e7bc3312d85c4d344537c399ab9c4" sha1="4a60e6ae3e26259b5a354afc7f3b5bd920d9b0ff"/>
+		<rom name="dwp410.ctl" size="1041" crc="12e8dc77" md5="65e63df3e3d95d0c33c23de946e16915" sha1="78004e6caaec445f3299a511d842a17051468dde"/>
+		<rom name="dwp510.ctl" size="1041" crc="12e8dc77" md5="65e63df3e3d95d0c33c23de946e16915" sha1="78004e6caaec445f3299a511d842a17051468dde"/>
+		<rom name="elite.ctl" size="1024" crc="190dad0d" md5="5e7c937514658123b4c30355135388b7" sha1="2e976cce270fa1669bfa724af6769ca57a7f6b15"/>
+	</game>
+</datafile>

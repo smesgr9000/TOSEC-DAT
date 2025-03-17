@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Demos - [Multipart]</name>
+		<description>Atari Lynx - Demos - [Multipart] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="30th of Zelax (2023-12)(New Generation)">
+		<description>30th of Zelax (2023-12)(New Generation)</description>
+		<rom name="ZEL30.dat" size="2970458" crc="41953555" md5="b93a15d457063e5679279346d9936dd4" sha1="7ae8c174deda409b8e952843d7a953f3bd989e11"/>
+		<rom name="ZEL30.lnx" size="131136" crc="a112f5ab" md5="1c55845d25fd79be7ee3efb353844b6e" sha1="57fed857cc54883c2a658f299bcc36177718081e"/>
+	</game>
+	<game name="Unknown Worlds (2023-12)(New Generation)">
+		<description>Unknown Worlds (2023-12)(New Generation)</description>
+		<rom name="UW.dat" size="9122388" crc="2d61dd99" md5="d40175313f77587fbf0e01fe9c205347" sha1="d41ac67fc3bde1e8d11f9e84d609107ac0847a9e"/>
+		<rom name="UW.lnx" size="131136" crc="33c84eef" md5="fb989ee9fb6d2c414876cffd2eff8028" sha1="88b1530a1201d4f98ebd24eab4f8152b0b723965"/>
+	</game>
+</datafile>

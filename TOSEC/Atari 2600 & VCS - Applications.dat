@@ -4,9 +4,9 @@
 <datafile>
 	<header>
 		<name>Atari 2600 &amp; VCS - Applications</name>
-		<description>Atari 2600 &amp; VCS - Applications (TOSEC-v2020-07-03)</description>
+		<description>Atari 2600 &amp; VCS - Applications (TOSEC-v2024-07-03)</description>
 		<category>TOSEC</category>
-		<version>2020-07-03</version>
+		<version>2024-07-03</version>
 		<author>NLS - madmagician - Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -88,6 +88,10 @@
 		<description>Colour Display Programme (1997)(Cracknell, Chris)[not working]</description>
 		<rom name="Colour Display Programme (1997)(Cracknell, Chris)[not working].a26" size="4096" crc="cc5b5080" md5="cc74ddb45d7bc4d04c2e6f1907416699" sha1="291b7b0be5a206b68ea40d6530c5219813a56e22"/>
 	</game>
+	<game name="Color Table Display Helper (19xx)(Junkosoft)(PD)">
+		<description>Color Table Display Helper (19xx)(Junkosoft)(PD)</description>
+		<rom name="Color Table Display Helper (19xx)(Junkosoft)(PD).a26" size="4096" crc="4e145b03" md5="e5a6e0bb7d56e2f08b237e15076e5699" sha1="033e09db172d49cd0865aeadb952a1114b4f4880"/>
+	</game>
 	<game name="Colour Test (200x)(Happy-Dude)(NTSC)">
 		<description>Colour Test (200x)(Happy-Dude)(NTSC)</description>
 		<rom name="Colour Test (200x)(Happy-Dude)(NTSC).a26" size="4096" crc="99e82291" md5="cd877f9d68d16af4c88d7ea6ab7086da" sha1="7c8a69ddcf0a15d7a45b08e9dedd3bcf65a13dde"/>
@@ -112,9 +116,17 @@
 		<description>Detect Console (2005-03-18)(batari)(NTSC)</description>
 		<rom name="Detect Console (2005-03-18)(batari)(NTSC).a26" size="2048" crc="483822fa" md5="8b6be90fe12d78f8602ff30097a76229" sha1="bff7ea70e1a05d8fa2833a89baddf96680a77d18"/>
 	</game>
+	<game name="Diagnostic Cartridge (19xx)(Atari)(NTSC)">
+		<description>Diagnostic Cartridge (19xx)(Atari)(NTSC)</description>
+		<rom name="Diagnostic Cartridge (19xx)(Atari)(NTSC).a26" size="2048" crc="4a08b986" md5="02ab2c47bc21e7feafa015f90d7df776" sha1="538108ca9821265e23f06fa7672965631bdf8175"/>
+	</game>
 	<game name="Diagnostic Temp 2600 (19xx)(-)[h]">
 		<description>Diagnostic Temp 2600 (19xx)(-)[h]</description>
 		<rom name="Diagnostic Temp 2600 (19xx)(-)[h].a26" size="4096" crc="00a2590d" md5="7dc4ba17d8005b96bd3b8c655d9b4632" sha1="9182cb0e98a6bff8f151ac7d0498f560d4253012"/>
+	</game>
+	<game name="Dialer 2600 (19xx)(Tomlin, Bruce)(PD)[aka 2600 Tone Dialer]">
+		<description>Dialer 2600 (19xx)(Tomlin, Bruce)(PD)[aka 2600 Tone Dialer]</description>
+		<rom name="Dialer 2600 (19xx)(Tomlin, Bruce)(PD)[aka 2600 Tone Dialer].a26" size="4096" crc="f8c65f5a" md5="8f00aea436a8a7e7e342369d8657f725" sha1="7898be5146fa0e7cb7578547bac09a17af056978"/>
 	</game>
 	<game name="Double-click Draw (2008-03-18)(Fort Apocalypse)(NTSC)(PD)(alpha)">
 		<description>Double-click Draw (2008-03-18)(Fort Apocalypse)(NTSC)(PD)(alpha)</description>
@@ -267,5 +279,9 @@
 	<game name="Tone Toy v2 (200x)(atari2600land)(NTSC)(PD)">
 		<description>Tone Toy v2 (200x)(atari2600land)(NTSC)(PD)</description>
 		<rom name="Tone Toy v2 (200x)(atari2600land)(NTSC)(PD).a26" size="4096" crc="9bbaf71a" md5="0d2d7849348485198d631920f10d0a24" sha1="b88584dc7088d3fdb45f5893efad05596c91a497"/>
+	</game>
+	<game name="VCS 2600 Data-Transfer and Audio Program (19xx)(-)(PD)">
+		<description>VCS 2600 Data-Transfer and Audio Program (19xx)(-)(PD)</description>
+		<rom name="VCS 2600 Data-Transfer and Audio Program (19xx)(-)(PD).a26" size="2048" crc="3af91a15" md5="996f34865f5e218feaed5c0b76266900" sha1="1ce374f9314217aa8809af4e123b494bc7c7cb36"/>
 	</game>
 </datafile>

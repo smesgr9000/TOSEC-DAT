@@ -4,14 +4,18 @@
 <datafile>
 	<header>
 		<name>Nintendo DS - Applications</name>
-		<description>Nintendo DS - Applications (TOSEC-v2024-01-15)</description>
+		<description>Nintendo DS - Applications (TOSEC-v2025-01-15)</description>
 		<category>TOSEC</category>
-		<version>2024-01-15</version>
+		<version>2025-01-15</version>
 		<author>Cassiel - mictlantecuhtle</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
 	</header>
+	<game name="CompactFlash Adapter Benchmark Tool (2007-08-04)(Yerrick, Damian)">
+		<description>CompactFlash Adapter Benchmark Tool (2007-08-04)(Yerrick, Damian)</description>
+		<rom name="CompactFlash Adapter Benchmark Tool (2007-08-04)(Yerrick, Damian).nds" size="110144" crc="f0c8edfa" md5="4047f55857ade1656cf752d7d0688c06" sha1="bb6deed481cd185e17c4b3ac916c675c0aea62c1"/>
+	</game>
 	<game name="CrocoDS v2.0 (2015-12-19)(RedBug)(BE)">
 		<description>CrocoDS v2.0 (2015-12-19)(RedBug)(BE)</description>
 		<rom name="CrocoDS v2.0 (2015-12-19)(RedBug)(BE).nds" size="526848" crc="cc2b08e3" md5="17569f948e14d16ea8dfea8e885e6b31" sha1="576b82721ec83bc1cb219bcbef78bd271fd7e8bf"/>
@@ -56,6 +60,14 @@
 		<description>FSPDS v1.0.90343508R (2023-12-08)(NotImplementedLife)(GPLv3)</description>
 		<rom name="FSPDS v1.0.90343508R (2023-12-08)(NotImplementedLife)(GPLv3).nds" size="750080" crc="1bda7320" md5="2712f0e875d0e7ce674448eb5021bbf3" sha1="5c587ba38dc06bce8bcd16be2761f1fe13bcfb30"/>
 	</game>
+	<game name="GameYob v0.5.2 (2017-02-04)(Drenn)(MIT)">
+		<description>GameYob v0.5.2 (2017-02-04)(Drenn)(MIT)</description>
+		<rom name="GameYob v0.5.2 (2017-02-04)(Drenn)(MIT).nds" size="425024" crc="458f5185" md5="304a1464471f4e5e0f83592ed2b1b306" sha1="ab8fd2aa79d2ef1a688282530e9eb0a493d77d8a"/>
+	</game>
+	<game name="Kanji Sonomama Rakubiki Jiten DS (demo-playable) (2005)(Nintendo)(JP)">
+		<description>Kanji Sonomama Rakubiki Jiten DS (demo-playable) (2005)(Nintendo)(JP)</description>
+		<rom name="Kanji Sonomama Rakubiki Jiten DS (demo-playable) (2005)(Nintendo)(JP).nds" size="67108864" crc="deecda67" md5="29c16bbcd065b8f438fc2ed0757595da" sha1="f92fcd0b60921b8a6ac29fededca9a3aed0f7e61"/>
+	</game>
 	<game name="lolSnes (2013-11-10)(Arisotura)">
 		<description>lolSnes (2013-11-10)(Arisotura)</description>
 		<rom name="lolSnes (2013-11-10)(Arisotura).nds" size="322112" crc="8b689124" md5="af9c9c0d51f26f4b0629ec27a8d0cef0" sha1="df6d3d6376ebf1c6d5f20a987c5f056654b9c40f"/>
@@ -96,6 +108,18 @@
 		<description>lolSnes v1.0 (201x)(Arisotura)</description>
 		<rom name="lolSnes v1.0 (201x)(Arisotura).nds" size="329737" crc="ccecf60c" md5="48b3786981441ca0dbf2fba4b47f03b2" sha1="1e0f58b6bd43e88ffe48321e11d6a0bbe97de397"/>
 	</game>
+	<game name="memtestARM v0.01 (2007-09-08)(Yerrick, Damian - Wong, Rick)(MIT)">
+		<description>memtestARM v0.01 (2007-09-08)(Yerrick, Damian - Wong, Rick)(MIT)</description>
+		<rom name="memtestARM v0.01 (2007-09-08)(Yerrick, Damian - Wong, Rick)(MIT).nds" size="67648" crc="9edabaed" md5="afe84853a7fd334e78f07c1c56c50921" sha1="1d744a185027084cabe06cf2df6dc57f79f9cb02"/>
+	</game>
+	<game name="memtestARM v0.02 (2007-09-15)(Yerrick, Damian - Wong, Rick)(MIT)">
+		<description>memtestARM v0.02 (2007-09-15)(Yerrick, Damian - Wong, Rick)(MIT)</description>
+		<rom name="memtestARM v0.02 (2007-09-15)(Yerrick, Damian - Wong, Rick)(MIT).nds" size="68160" crc="47fb1cb9" md5="80c20ea63ececc701693db2a11bd666d" sha1="b6cc81fc7a646ddd623b06f72d0ecca3cb0d1846"/>
+	</game>
+	<game name="memtestARM v0.03 (2007-09-25)(Yerrick, Damian - Wong, Rick)(MIT)">
+		<description>memtestARM v0.03 (2007-09-25)(Yerrick, Damian - Wong, Rick)(MIT)</description>
+		<rom name="memtestARM v0.03 (2007-09-25)(Yerrick, Damian - Wong, Rick)(MIT).nds" size="68160" crc="333abb47" md5="f17c5bd1b6dda7d69728c76fe8c8bfef" sha1="17b104b65b62f991b1bbe3f78fedd463af307c69"/>
+	</game>
 	<game name="NGPDS v0.4.8 (2021-09-11)(Ahlström, Fredrik)">
 		<description>NGPDS v0.4.8 (2021-09-11)(Ahlström, Fredrik)</description>
 		<rom name="NGPDS v0.4.8 (2021-09-11)(Ahlström, Fredrik).nds" size="292864" crc="1b281876" md5="ec06abbf9521f93b510a4b751a0bbedc" sha1="30b6f92342fa1bf7b3322a43f42a70681b67eb08"/>
@@ -127,6 +151,14 @@
 	<game name="NGPDS v0.5.5 (2022-11-04)(Ahlström, Fredrik)">
 		<description>NGPDS v0.5.5 (2022-11-04)(Ahlström, Fredrik)</description>
 		<rom name="NGPDS v0.5.5 (2022-11-04)(Ahlström, Fredrik).nds" size="297984" crc="c2ee55ef" md5="f956f68ee75bd1046de436a7c8742095" sha1="a4fe23a710560d7e17e4625ca92e611863b7698f"/>
+	</game>
+	<game name="NGPDS v0.5.5 (2023-12-20)(Ahlström, Fredrik)">
+		<description>NGPDS v0.5.5 (2023-12-20)(Ahlström, Fredrik)</description>
+		<rom name="NGPDS v0.5.5 (2023-12-20)(Ahlström, Fredrik).nds" size="302080" crc="a772f293" md5="3eebba4be4bcd7e82526ed01aa82a1fa" sha1="200a573cdb00c3672a5c383d66dd26997e83dc4c"/>
+	</game>
+	<game name="NGPDS v0.5.6 (2024-01-24)(Ahlström, Fredrik)">
+		<description>NGPDS v0.5.6 (2024-01-24)(Ahlström, Fredrik)</description>
+		<rom name="NGPDS v0.5.6 (2024-01-24)(Ahlström, Fredrik).nds" size="304128" crc="0f67a670" md5="a4b4d0dad2409f65ba2b037309eb8a3e" sha1="55de2cf8506f2ee87c4a503b340f9ef0b1209ce4"/>
 	</game>
 	<game name="Nintendo DS Browser (2006)(NIntendo)(EU-US)(M5)">
 		<description>Nintendo DS Browser (2006)(NIntendo)(EU-US)(M5)</description>
@@ -268,6 +300,34 @@
 		<description>NitrousTracker v0.4.8 (2023-11-27)(0xtob - asie)(GPLv3)[nowifi]</description>
 		<rom name="NitrousTracker v0.4.8 (2023-11-27)(0xtob - asie)(GPLv3)[nowifi].nds" size="270336" crc="f774f30a" md5="abc4f7de7b4b6c6104edd8bfb78439a7" sha1="8bb0e98ce808a9beb6cbbe8c6f446b14028fe9aa"/>
 	</game>
+	<game name="NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)">
+		<description>NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)</description>
+		<rom name="NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3).nds" size="311808" crc="3d2200f8" md5="b2fc88e36e20ca2d4be7001190605a4a" sha1="f8bac8f1afc755ec019d25564779a6568a709b36"/>
+	</game>
+	<game name="NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)[debug]">
+		<description>NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)[debug]</description>
+		<rom name="NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)[debug].nds" size="316928" crc="a7cc33cb" md5="7c6a69f0ab696a340a52c86bd2b25e0d" sha1="dfce0eb9df54749b5dc93e5c50c3295934bff172"/>
+	</game>
+	<game name="NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)[nowifi]">
+		<description>NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)[nowifi]</description>
+		<rom name="NitrousTracker v0.4.9 (2024-04-26)(0xtob - asie)(GPLv3)[nowifi].nds" size="274944" crc="3d96e2a1" md5="9701516080276a120a85f6ca6a2614fa" sha1="0656107cca2774a26bdaed1ddbf8990b8392ee06"/>
+	</game>
+	<game name="NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)">
+		<description>NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)</description>
+		<rom name="NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3).nds" size="316416" crc="3d5ceeaa" md5="8e8b7cd6423f6f5b52e737060fe6b2a7" sha1="e2c3e595136bd454b23e440104139f1dcecb2c11"/>
+	</game>
+	<game name="NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)[debug]">
+		<description>NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)[debug]</description>
+		<rom name="NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)[debug].nds" size="323584" crc="89c57577" md5="a60eda4641f567a70d1a87535fffb4d8" sha1="f94fa00f4b4ba2f8d32b1c174948e1256076d603"/>
+	</game>
+	<game name="NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)[nowifi]">
+		<description>NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)[nowifi]</description>
+		<rom name="NitrousTracker v0.4.10 (2024-07-08)(0xtob - asie)(GPLv3)[nowifi].nds" size="280576" crc="1378e5da" md5="0528eb9ebbd252e2ed1615ff4f429ea1" sha1="d33d2ceb80b1aed573c972cd40e6766e5f739a98"/>
+	</game>
+	<game name="QSound Labs Userdata Backup Cartridge (20xx)(QSound Labs)">
+		<description>QSound Labs Userdata Backup Cartridge (20xx)(QSound Labs)</description>
+		<rom name="QSound Labs Userdata Backup Cartridge (20xx)(QSound Labs).nds" size="268435456" crc="565eab0d" md5="54ef8b609cbc649a5c0a5f3309e257fe" sha1="78a83a74ba6736b071669bd5cf78feed02c400da"/>
+	</game>
 	<game name="S8DS v1.1.1 (2021-09-05)(Olsson, Fredrik)">
 		<description>S8DS v1.1.1 (2021-09-05)(Olsson, Fredrik)</description>
 		<rom name="S8DS v1.1.1 (2021-09-05)(Olsson, Fredrik).nds" size="373248" crc="f3ee8894" md5="0d83838c1d3a6b02795a3335d3c9b2c0" sha1="abc9490b8aa01d2b2f0fb8e959fbe015617defd2"/>
@@ -312,8 +372,16 @@
 		<description>WasabiDS v0.2.2 (2022-10-06)(Ahlström, Fredrik)</description>
 		<rom name="WasabiDS v0.2.2 (2022-10-06)(Ahlström, Fredrik).nds" size="248832" crc="2720bea8" md5="f745d782825339df33a0d432f39343e8" sha1="82e482cb74cd5a6c8557893856b67bad32507ee6"/>
 	</game>
+	<game name="WasabiDS v0.2.4 (2024-04-09)(Ahlström, Fredrik)">
+		<description>WasabiDS v0.2.4 (2024-04-09)(Ahlström, Fredrik)</description>
+		<rom name="WasabiDS v0.2.4 (2024-04-09)(Ahlström, Fredrik).nds" size="250368" crc="a6479598" md5="06c342da61fadcdfd7b6a1b462869c53" sha1="23a16de8cf5e88f0336393a67206c8f445674c8d"/>
+	</game>
 	<game name="WireWorld-DS v1.0 (2008)(asie)(PL)(en)">
 		<description>WireWorld-DS v1.0 (2008)(asie)(PL)(en)</description>
 		<rom name="WireWorld-DS v1.0 (2008)(asie)(PL)(en).nds" size="268800" crc="ca8a66cc" md5="6f7c5e74516254a2b18fc2273a23dbe8" sha1="f7edfdb03f75fcc02b27066bfbdde52f920d25aa"/>
+	</game>
+	<game name="WireWorld-DS v1.0a (2024-04-30)(asie)(PL)(en)">
+		<description>WireWorld-DS v1.0a (2024-04-30)(asie)(PL)(en)</description>
+		<rom name="WireWorld-DS v1.0a (2024-04-30)(asie)(PL)(en).nds" size="192512" crc="a4f8ed0d" md5="2651cba9a7bd730b28e8ba5f1e83208a" sha1="b47c3f85143e7c4d4ba2ef1b14ed4a3bdf58400b"/>
 	</game>
 </datafile>
