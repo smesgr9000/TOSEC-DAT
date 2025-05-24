@@ -1,0 +1,3 @@
+FILE "Broken Helix (1997)(Konami)(DE)[SLES-00962].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
