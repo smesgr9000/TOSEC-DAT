@@ -1,0 +1,3 @@
+FILE "Spider-man 2 (2004)(Activision)(DE)[32581.101.GM].bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

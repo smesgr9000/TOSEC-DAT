@@ -1,0 +1,20 @@
+CATALOG 0000000000000
+FILE "Wachenröder (1998)(Sega)(JP)[GS-9183] (Track 1 of 5).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+FILE "Wachenröder (1998)(Sega)(JP)[GS-9183] (Track 2 of 5).bin" BINARY
+  TRACK 02 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Wachenröder (1998)(Sega)(JP)[GS-9183] (Track 3 of 5).bin" BINARY
+  TRACK 03 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Wachenröder (1998)(Sega)(JP)[GS-9183] (Track 4 of 5).bin" BINARY
+  TRACK 04 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Wachenröder (1998)(Sega)(JP)[GS-9183] (Track 5 of 5).bin" BINARY
+  TRACK 05 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74

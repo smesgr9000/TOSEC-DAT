@@ -1,0 +1,3 @@
+FILE "Doom 3 (2004)(id)(US)(Disc 3 of 3)[32377.103.US].bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

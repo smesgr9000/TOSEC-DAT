@@ -1,0 +1,3 @@
+FILE "Le Mans 24 Hours (1999)(Infogrames)(M6)[SLES-01362].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
